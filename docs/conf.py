@@ -54,7 +54,7 @@ extensions = [
 ]
 edit_on_github_project  = 'jiangsheng/jiangsheng.github.io'
 edit_on_github_url = 'docs/'
-srclink_branch = 'master'
+edit_on_github_branch = 'master/docs'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
