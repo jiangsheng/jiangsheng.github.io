@@ -55,7 +55,7 @@ PS的复刻版的精神设定有所变动
    :file: loveevents.csv
    :header-rows: 1
 
-[SRW4]完成主人公配置之后，如果你选择了真实系，那么你将从 :doc:`第一话Ａ 発端Ａ <walkthrough/01A-TheBeginningA.rst>` 开始，否则你将从 :doc:`第一话Ｂ 発端Ｂ <walkthrough/01B-TheBeginningB.rst>` 开始。
+[SRW4]完成主人公配置之后，如果你选择了真实系，那么你将从 :ref:`01A-TheBeginningA` 开始，否则你将从 :ref:`01B-TheBeginningB` 开始。
 
 [SRW4S]完成主人公配置之后，如果你选择了真实系，那么你将从接触・リアル开始，否则你将从接触・スーパー开始。
 
