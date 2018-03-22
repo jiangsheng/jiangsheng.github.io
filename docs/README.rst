@@ -4,7 +4,7 @@ Welcome to jiangsheng's documentation!
    :maxdepth: 3
    :caption: 内容:
 
-   Game Guides<games/index.rst>
+   
 
 Indices and tables
 ==================

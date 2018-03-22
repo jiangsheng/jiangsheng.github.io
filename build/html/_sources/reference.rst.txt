@@ -12,7 +12,7 @@ Welcome to jiangsheng's documentation!
    
    Homepage<README.rst>
    Games<games/index.rst>
-
+   Gradma's handbook<gradma/index.rst>
 
 Indices and tables
 ==================
