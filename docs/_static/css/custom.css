@@ -1,0 +1,12 @@
+table.docutils {
+   
+}
+
+table.docutils td, table.docutils th {
+    padding:0; margin:0;
+}
+
+table.docutils col {
+    width: auto;
+}
+colgroup col { width: auto; }

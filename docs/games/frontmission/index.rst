@@ -84,3 +84,4 @@ number in the skill column denotes the exp requirement to obtain a new skill. On
 .. csv-table:: characters
    :file: characters.csv
    :header-rows: 1
+   :widths: 20,60,1,1,1,1,1,10,10,1,1,400
