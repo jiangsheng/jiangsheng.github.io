@@ -1,19 +1,19 @@
 ﻿Name,Eng. Name,Type,M,S,L,A,Melee,Short,Long,SS,Notes
-ロイド・クライブ,Lloyd Clive,G,B,B,B,B,All/700/1900/3500,All/2000/5000/7000,1500,5,
-坂田竜二,Ryuji Sakata,S,D+,S,C+,C,All/1000/2300,All/2500/5500/8500,2000,5,
-ナタリー・F・ブレイクウッド,Natalie F.Blakewood,S/L,C+,A,B+,C,Stun&Double/1000/2200,All/3100/5000/7000,1900,5,"join mission 2. leave mission 22, rejoin mission 25"
-キース・カラベル,Keith Carabell,S/L,B,A,B+,D+,Double/1200,All/2000/50000/7000,2500,5,"join mission 2. leave mission 22, rejoin mission 25."
-ジョイナス・ジェリアスカ,J.J.,S,D,A+,B+,D,All/2000/3600,All/2000/5000/7000,2500,5,"join mission 2. leave mission 22, rejoin mission 25"
-フレデリック・ランカスター,Frederick Lancaster,T,C+,C,C+,S,Double&First/3000/9000,Switch&Speed/5000/7000,6000,4,join mission 3. leave mission 20. opponent mission 22. rejoin after mission 22.
-楊美花/ヤン・メイファ,Yang Meihua,M/S,A+,B+,D+,C+,"Double Lv 1, Stun&First/1800/2800",All/3000/5000/7000,2200,3,"mission 4, talk in military office, then talk & fight in colosseum, leave mission 14. rejoin after mission 14."
-ポール・C・グリバー,Paul C. Grieber,L,C,C,S,C+,Stun/3000,Dual&Switch/3000/5000,1500,5,talk in bar after mission 5 
-アルダー・ワイス,Alder Weiss,M/S,A,A,C+,D+,"Stun Lv 1, Double &First/1500",Dual&Switch/4000/7000,1700,3,"after mission 5, talk in bar, then move to city menasa, talk in bar, then fight in colosseum."
-ピウィー・リッチバーグ Jr.,Peewie Richburg jr.,S/T,D+,B+,D+,B+,,Speed/5120,,1,join mission 6.
-ハンス・ゴルドウィン,Hans Goldwin,L,C+,C,A+,B,,All/2900/5900/79000,900,3,join after mission 8.
-グレゴリオ・マイアス,Gregorio Maias,M,S,C+,D+,C+,"Stun LV 1, Double&, First/18000/3000",,,3,"after mission 8,fight in colosseum, join after victory"
-モーリー・オドネル,Maury Odonnell,T,C+,C,C,A,All/1200/5500,Dual&Switch/4000/6000,,4,"join after mission 9, leave mission 10, rejoin after mission 10"
-ボビー・ホプキンス,Bobby Hopkins,S/L,C,A,A,C,Stun&Double/1300,Switch/2000,1500,3,"after mission 11, stop fight after going to military office,"
-ポルンガ,Porunga,T,B,B,C+,B+,All/900/2200,Speed/3000,,5,join with bobby. 
-楊一清/ヤン・イーヒン,Yang Yeehin,S/L,C+,A,B+,C,Stun & Double/2000/3500,Speed/4000,2600,4,join mission 14. 
+ロイド・クライブ,Lloyd Clive,G,B,B,B,B,"All 700, 1900, 3500","All 2000,5000,7000",1500,5,
+坂田竜二,Ryuji Sakata,S,D+,S,C+,C,"All 1000, 2300","All 2500, 5500, 8500",2000,5,
+ナタリー・F・ブレイクウッド,Natalie F.Blakewood,"S, L",C+,A,B+,C,"Stun&Double 1000, 2200","All 3100, 5000, 7000",1900,5,"join mission 2. leave mission 22, rejoin mission 25"
+キース・カラベル,Keith Carabell,"S, L",B,A,B+,D+,Double 1200,"All 2000, 50000, 7000",2500,5,"join mission 2. leave mission 22, rejoin mission 25."
+ジョイナス・ジェリアスカ,J.J.,S,D,A+,B+,D,"All 2000, 3600","All 2000, 5000, 7000",2500,5,"join mission 2. leave mission 22, rejoin mission 25"
+フレデリック・ランカスター,Frederick Lancaster,T,C+,C,C+,S,"Double&First 3000, 9000","Switch&Speed 5000, 7000",6000,4,join mission 3. leave mission 20. opponent mission 22. rejoin after mission 22.
+"楊美花, ヤン・メイファ",Yang Meihua,"M, S",A+,B+,D+,C+,"Double Lv 1, Stun&First 1800, 2800","All 3000, 5000, 7000",2200,3,"mission 4, talk in military office, then talk & fight in colosseum, leave mission 14. rejoin after mission 14."
+ポール・C・グリバー,Paul C. Grieber,L,C,C,S,C+,Stun 3000,"Dual&Switch 3000, 5000",1500,5,talk in bar after mission 5 
+アルダー・ワイス,Alder Weiss,"M, S",A,A,C+,D+,"Stun Lv 1, Double &First 1500","Dual&Switch 4000, 7000",1700,3,"after mission 5, talk in bar, then move to city menasa, talk in bar, then fight in colosseum."
+ピウィー・リッチバーグ Jr.,Peewie Richburg jr.,"S, T",D+,B+,D+,B+,,Speed 5120,,1,join mission 6.
+ハンス・ゴルドウィン,Hans Goldwin,L,C+,C,A+,B,,"All 2900, 5900, 79000",900,3,join after mission 8.
+グレゴリオ・マイアス,Gregorio Maias,M,S,C+,D+,C+,"Stun LV 1, Double&, First 18000, 3000",,,3,"after mission 8,fight in colosseum, join after victory"
+モーリー・オドネル,Maury Odonnell,T,C+,C,C,A,"All 1200, 5500","Dual&Switch, 4000, 6000",,4,"join after mission 9, leave mission 10, rejoin after mission 10"
+ボビー・ホプキンス,Bobby Hopkins,"S, L",C,A,A,C,Stun&Double 1300,Switch 2000,1500,3,"after mission 11, stop fight after going to military office,"
+ポルンガ,Porunga,T,B,B,C+,B+,"All 900, 2200",Speed 3000,,5,join with bobby. 
+"楊一清, ヤン・イーヒン",Yang Yeehin,"S, L",C+,A,B+,C,"Stun & Double 2000, 3500",Speed 4000,2600,4,join mission 14. 
 ラルフ・ダイアン,Ralph Dian,M,A+,B+,C+,D+,Stun&Double Lv1,,2000,3,"after mission 16, fight in colosseum"
-ゲンツ・ヴィーザー,Gentz Weizer,G,B,B,B,B,Stun Lv1,All/3000,2500,2,join mission 23.
+ゲンツ・ヴィーザー,Gentz Weizer,G,B,B,B,B,Stun Lv1,"All, 3000",2500,2,join mission 23.
