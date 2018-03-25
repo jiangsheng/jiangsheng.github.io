@@ -1,12 +1,14 @@
 ﻿第四次机器人大战 攻略 试做版
 =====================================
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: 内容:
 
    序幕<beforestart.rst>
    発端・リアル<walkthrough/01A-TheBeginningA.rst>
    発端・スーパー<walkthrough/01B-TheBeginningB.rst>
+   第二话Ａ 謎の訪問者Ａ<walkthrough/02A-EnigmaticVisitorsA>
+   第二话Ｂ 謎の訪問者Ｂ<walkthrough/02B-EnigmaticVisitorsB>
 
 第三次超级机器人大战之后，三个月过去了…… 
 
