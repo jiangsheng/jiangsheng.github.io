@@ -11,6 +11,7 @@
    第二话Ｂ 謎の訪問者Ｂ<walkthrough/02B-EnigmaticVisitorsB>
    第三话Ａ 新たな敵Ａ <walkthrough/03A-ANewEnemyA>
    第三话Ｂ 特訓！大雪山おろしＢ  <walkthrough/03B-SpecialTraining!Dai-Setsu-ZanOroshiB>
+   第四话Ａ 特訓！大雪山おろしＡ <walkthrough/04A-SpecialTraining!Dai-Setsu-ZanOroshi>
 
 第三次超级机器人大战之后，三个月过去了…… 
 
