@@ -5,7 +5,7 @@ Training Priority
 =================
 each pilot has a max skill slot value. if the current skills is less than the max skill slot and the hero has more fight exp than the pilot's requirement to get a skill in the category, a new skill will be offered when gain a level. The order of choosing skill is Short>Long>Melee. Tanks do not have skill designed for them. 
 
-Skill upgrades randomly when activated, so colosseum is not just a place to fight for money. After getting a new skill, switch to a pair of PIZ3, F-1 TONFAR or SIEGE (you onlu care about skill not damage) and fight your clone in vs fights. Lv1 skills suck (e.g. lv1 dual and guide cut your accuracy in half) but lv 4 takes too much time so not worth trying in colosseum. you can exit clone fights at level 3. 
+Skill upgrades randomly when activated, so colosseum is not just a place to fight for money. After getting a new skill, switch to a pair of PIZ3, F-1 TONFAR or SIEGE (you only care about skill activation, not damage) and fight your clone in vs fights. Lv1 skills suck (e.g. lv1 dual and guide cut your accuracy in half) but lv 4 takes too much time so not worth trying in colosseum. you can exit clone fights at skill level 3. 
 
 -----
 short
