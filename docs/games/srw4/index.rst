@@ -13,6 +13,8 @@
    第三话Ｂ 特訓！大雪山おろしＢ  <walkthrough/03B-SpecialTraining!Dai-Setsu-ZanOroshiB>
    第四话Ａ 特訓！大雪山おろしＡ <walkthrough/04A-SpecialTraining!Dai-Setsu-ZanOroshi>
    第四话Ｂ 新たな敵Ｂ <walkthrough/04B-ANewEnemyB>
+   第五话Ａ ブライトの帰還 <walkthrough/05A-BrightsReturn>
+   第五话Ｂ ダハ=マイロド <walkthrough/05B-DabaMylord>
 
 第三次超级机器人大战之后，三个月过去了…… 
 
