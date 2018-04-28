@@ -5,8 +5,10 @@
    :caption: 内容:
 
    序幕<beforestart.rst>
-   発端・リアル<walkthrough/01A-TheBeginningA.rst>
-   発端・スーパー<walkthrough/01B-TheBeginningB.rst>
+   第零话Ａ 接触Ａ <walkthrough/00A-ContactA>
+   第零话Ｂ 接触Ｂ <walkthrough/00B-ContactB>
+   第一话Ａ 発端Ａ <walkthrough/01A-TheBeginningA>
+   第一话Ｂ 発端Ｂ <walkthrough/01B-TheBeginningB>
    第二话Ａ 謎の訪問者Ａ<walkthrough/02A-EnigmaticVisitorsA>
    第二话Ｂ 謎の訪問者Ｂ<walkthrough/02B-EnigmaticVisitorsB>
    第三话Ａ 新たな敵Ａ <walkthrough/03A-ANewEnemyA>
@@ -15,6 +17,8 @@
    第四话Ｂ 新たな敵Ｂ <walkthrough/04B-ANewEnemyB>
    第五话Ａ ブライトの帰還 <walkthrough/05A-BrightsReturn>
    第五话Ｂ ダハ=マイロド <walkthrough/05B-DabaMylord>
+   第六话Ａ スタンピド <walkthrough/06A-Stampede>
+   第六话Ｂ 救出!コンバトラV <walkthrough/06B-RescueCombattlerV>
 
 第三次超级机器人大战之后，三个月过去了…… 
 
