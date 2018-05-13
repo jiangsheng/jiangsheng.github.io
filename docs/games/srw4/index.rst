@@ -20,6 +20,7 @@
    第六话Ａ スタンピド <walkthrough/06A-Stampede>
    第六话Ｂ 救出!コンバトラV <walkthrough/06B-RescueCombattlerV>
    第七话 闘将ダイモス <walkthrough/07-BattleCommanderDaimoz>
+   第八话 戦場の愛 <walkthrough/08-LoveoftheBattlefield>
 
 第三次超级机器人大战之后，三个月过去了…… 
 
