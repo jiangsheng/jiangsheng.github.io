@@ -63,9 +63,9 @@ Double>First>Stun
 
 you can stun with flash grenade which has a 1-4 range, there aren't enough enemies worth stunning anyway, better guard their attacks for agility exp. Not to mention Stun is often wasted by Double activation. 
 
-*Stun lv1: activates 40% of the time lv2: 60% lv3 80% lvmax: 90%
-*Double lv1: activates 40% of the time lv2: 60% lv3 80% lvmax: 90%
-*First lv1: activates 40% of the time lv2: 60% lv3 80% lvmax: 90%
+* Stun lv1: activates 40% of the time lv2: 60% lv3 80% lvmax: 90%
+* Double lv1: activates 40% of the time lv2: 60% lv3 80% lvmax: 90%
+* First lv1: activates 40% of the time lv2: 60% lv3 80% lvmax: 90%
 
 
 melee lineup in the order of damage:
