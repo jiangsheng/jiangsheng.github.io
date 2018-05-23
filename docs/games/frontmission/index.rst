@@ -15,7 +15,12 @@ Machine gun is just scary in the game, even Maury can do decent damage when maxe
 
 dual>switch>speed 
 
-dual gives you much more exp now you can keep destroying enemy arms and legs when they are next to a supply truck for repair. switch gives 100% more dmg while speed gives only 1-3 more bullet - 20%- 60% more dmg on a 5X machine gun.
+dual gives you much more exp now you can keep destroying enemy arms and legs when they are next to a supply truck for repair. switch gives 200%, sometimes more dmg while speed gives only 1-3 more bullet - 20%- 60% more dmg on a 5X machine gun.
+
+Skill level and effects:
+* Dual: lv1: accuracy -50% lv2: accuracy -25% lv3 no accuracy penalty lvmax: accuracy 100%
+* Switch: lv1: activates 30% of the time lv2: 50% lv3 80% lvmax: 90%
+* Speed: activates 50% of the time lv2: 60% lv3 70% lvmax: 80%. Extra bullets: lv1:1,lv2:2,lv3/max:3
 
 short lineup in the order of damage:
 
@@ -38,6 +43,8 @@ long
 -----
 Missles makes up the short range deficit. The only skill can be learnt in this category is guide.
 
+Guide: lv1: accuracy -50% lv2: accuracy -25% lv3 no accuracy penalty lvmax: accuracy 100%
+
 long lineup in the order of damage
 
 * Paul C. Grieber:best long in the game. also double as short because free talent slots. Frederick level short though. 
@@ -52,9 +59,14 @@ melee
 -----
 Melee has high accuracy and damage, but no aiming skill like dual or guide so they waste a lot of exp by destroying the body first. 
 
-double>first>stun 
+Double>First>Stun 
 
-you can stun with flash grenade which has a 1-4 range, there aren't enough enemies worth stunning anyway, better guard their attacks for agility exp
+you can stun with flash grenade which has a 1-4 range, there aren't enough enemies worth stunning anyway, better guard their attacks for agility exp. Not to mention Stun is often wasted by Double activation. 
+
+*Stun lv1: activates 40% of the time lv2: 60% lv3 80% lvmax: 90%
+*Double lv1: activates 40% of the time lv2: 60% lv3 80% lvmax: 90%
+*First lv1: activates 40% of the time lv2: 60% lv3 80% lvmax: 90%
+
 
 melee lineup in the order of damage:
 
@@ -85,3 +97,18 @@ number in the skill column denotes the exp requirement to obtain a new skill. On
    :file: characters.csv
    :header-rows: 1
    :widths: 20,60,1,1,1,1,1,10,10,1,1,400
+
+Part and weapon Codes 
+* 7ECF1463 Zenith V Body
+* 7ED00863 Sakata Helicopter Leg 
+* 7ED01463 королд II 8x10 machine gun right arm
+* 7ED01563 Zenith V-SP Left Arm
+* 7ED01663 Zenith V-SP Right Arm
+* 7ED0C663 Harpoon Bolt
+* 7ED0CE63 WS-14B shield +27
+* 7ED0DE63 Dragon Hand fast melee exp
+* 7ED0E663 Albatross 3x34 Missles
+* 7ED04263 Ziege fast short exp
+* 7ED12A63 Karen Device BD-6KR 98/97/99/99
+* 7ED0F763 Bag Worm 4/2/90/10
+* 7ED01563 MKP OPJ7EH 8x25 machine gun (left hand only)

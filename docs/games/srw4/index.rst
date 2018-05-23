@@ -3,6 +3,7 @@
 .. toctree::
    :maxdepth: 1
    :caption: 内容:
+   :hidden:
 
    序幕<beforestart.rst>
    第零话Ａ 接触Ａ <walkthrough/00A-ContactA>
@@ -58,3 +59,7 @@
 .. csv-table:: 路线图
    :file: scenario.csv
    :header-rows: 1
+
+游戏路线：
+
+* :ref:`beforestart` 游戏开始的时候会让你自定义主人公的属性
