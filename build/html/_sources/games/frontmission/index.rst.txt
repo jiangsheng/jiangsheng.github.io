@@ -18,6 +18,7 @@ dual>switch>speed
 dual gives you much more exp now you can keep destroying enemy arms and legs when they are next to a supply truck for repair. switch gives 200%, sometimes more dmg while speed gives only 1-3 more bullet - 20%- 60% more dmg on a 5X machine gun.
 
 Skill level and effects:
+
 * Dual: lv1: accuracy -50% lv2: accuracy -25% lv3 no accuracy penalty lvmax: accuracy 100%
 * Switch: lv1: activates 30% of the time lv2: 50% lv3 80% lvmax: 90%
 * Speed: activates 50% of the time lv2: 60% lv3 70% lvmax: 80%. Extra bullets: lv1:1,lv2:2,lv3/max:3
@@ -41,6 +42,7 @@ short lineup in the order of damage:
 -----
 long
 -----
+
 Missles makes up the short range deficit. The only skill can be learnt in this category is guide.
 
 Guide: lv1: accuracy -50% lv2: accuracy -25% lv3 no accuracy penalty lvmax: accuracy 100%
@@ -57,6 +59,7 @@ long lineup in the order of damage
 -----
 melee
 -----
+
 Melee has high accuracy and damage, but no aiming skill like dual or guide so they waste a lot of exp by destroying the body first. 
 
 Double>First>Stun 
@@ -78,6 +81,7 @@ melee lineup in the order of damage:
 --------
 agility
 --------
+
 Tanks are  not that necessary because melee usually don't carry short or long weapon so they can get high def parts without worrying much about engine overload. agility exp is the hardest to get in this game, though, and hero level formula uses exp from all categories, so everyone needs agility xp. don't bother counterattacking in the game, just guard in the enemy turn.
 
 tank lineup in the order of guarding defence:
@@ -89,6 +93,7 @@ tank lineup in the order of guarding defence:
 -----------
 characters
 -----------
+
 M=Melee, S=Short, L=Long, A=Agility G=Generic, T=Tank,SS=Skill Slots
 
 number in the skill column denotes the exp requirement to obtain a new skill. Once the exp requirement is met, the character can choose one of the skills available to the charactor in the exp category on the next level up bonus screen, unless the skill slots are full. 
@@ -99,6 +104,7 @@ number in the skill column denotes the exp requirement to obtain a new skill. On
    :widths: 20,60,1,1,1,1,1,10,10,1,1,400
 
 Part and weapon Codes 
+
 * 7ECF1463 Zenith V Body
 * 7ED00863 Sakata Helicopter Leg 
 * 7ED01463 королд II 8x10 machine gun right arm
