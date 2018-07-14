@@ -10,8 +10,9 @@ gaming guides
    :maxdepth: 2
    :caption: 内容:
 
-   Front Mission<frontmission/index.rst>
+   Front Mission s<frontmission/index.rst>
    Super Robot Wars 4<srw4/index.rst>
+   mjelct3 <mjelct3/index.rst>
 
 Indices and tables
 ==================
