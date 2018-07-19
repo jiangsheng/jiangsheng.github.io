@@ -1,0 +1,166 @@
+<mamecheat version="1">
+
+  <cheat desc=" "/>
+  <cheat desc="The winning hand cheat must be activated when"/>
+  <cheat desc="there are 14 tiles in your hand, then press"/>
+  <cheat desc="the RON key ('Z' by default). The tiles do"/>
+  <cheat desc="not visually change until you make a move."/>
+  <cheat desc=" "/>
+
+  <cheat desc="Always winning hand">
+    <script state="run">
+      <action>temp0=0x61C0, maincpu.pq@temp0=3333323232313131, maincpu.pd@(temp0+8)=34343433, maincpu.pw@(temp0+c)=3535</action>
+    </script>
+  </cheat>
+  
+  <cheat desc="Get Millionaire's stone Now!">
+    <script state="on">
+      <action>temp0=0x61C0, maincpu.pq@temp0=0707070606060505, maincpu.pd@(temp0+8)=09080808, maincpu.pw@(temp0+c)=0909</action>
+    </script>
+  </cheat>
+  
+  <cheat desc="Get Chariot Now!">
+    <script state="on">
+      <action>temp0=0x61C0, maincpu.pq@temp0=0505040403030202, maincpu.pd@(temp0+8)=07070606, maincpu.pw@(temp0+c)=0808</action>
+    </script>
+  </cheat>
+ <cheat desc="Get Chariot Jr Now!">
+    <script state="on">
+      <action>maincpu.pd@61C0=02020101</action>
+      <action>maincpu.pd@61C4=05050303</action>
+      <action>maincpu.pd@61C8=08080707</action>
+      <action>maincpu.pw@61CC=0909</action>
+    </script>
+  </cheat>
+  <cheat desc="Get Thirteen orphans Now!">
+    <script state="on">
+      <action>maincpu.pd@61C0=19110901</action>
+      <action>maincpu.pd@61C4=32312921</action>
+      <action>maincpu.pd@61C8=36353433</action>
+      <action>maincpu.pw@61CC=3737</action>
+    </script>
+  </cheat>
+  
+   <cheat desc="Get Red Peacock Now!">
+    <script state="on">
+      <action>maincpu.pd@61C0=25212121</action>
+      <action>maincpu.pd@61C4=27272525</action>
+      <action>maincpu.pd@61C8=29292927</action>
+      <action>maincpu.pw@61CC=3737</action>
+    </script>
+  </cheat>
+  
+   <cheat desc="Get All green Now!">
+		<script state="on">
+		  <action>maincpu.pd@61C0=23222222</action>
+		  <action>maincpu.pd@61C4=24242323</action>
+		  <action>maincpu.pd@61C8=26262624</action>
+		  <action>maincpu.pw@61CC=2828</action>
+		</script>
+  </cheat>
+  
+   <cheat desc="Get Northeastern Shinkansen Now!">
+		<script state="on">
+		  <action>maincpu.pd@61C0=04030201</action>
+		  <action>maincpu.pd@61C4=08070605</action>
+		  <action>maincpu.pd@61C8=31313109</action>
+		  <action>maincpu.pw@61CC=3434</action>
+		</script>
+	</cheat>
+	  
+	<cheat desc="Get All terminals Now!">
+		<script state="on">
+		  <action>maincpu.pd@61C0=09010101</action>
+		  <action>maincpu.pd@61C4=11110909</action>
+		  <action>maincpu.pd@61C8=19191911</action>
+		  <action>maincpu.pw@61CC=2121</action>
+		</script>
+	
+	</cheat>
+	
+  	<cheat desc="Get Big three dragons Now!">
+		<script state="on">
+		  <action>maincpu.pd@61C0=32313131</action>
+		  <action>maincpu.pd@61C4=35353532</action>
+		  <action>maincpu.pd@61C8=37363636</action>
+		  <action>maincpu.pw@61CC=3737</action>
+		</script>	
+	</cheat>
+	
+	  	<cheat desc="Get Nine gates Now!">
+		<script state="on">
+		  <action>maincpu.pd@61C0=02010101</action>
+		  <action>maincpu.pd@61C4=06050403</action>
+		  <action>maincpu.pd@61C8=09090807</action>
+		  <action>maincpu.pw@61CC=0909</action>
+		</script>	
+	</cheat>
+	<cheat desc="Get Thirteen unconnected tiles Now!">
+		<script state="on">
+		  <action>maincpu.pd@61C0=12070401</action>
+		  <action>maincpu.pd@61C4=26231815</action>
+		  <action>maincpu.pd@61C8=33323129</action>
+		  <action>maincpu.pw@61CC=3434</action>
+		</script>	
+	</cheat>
+		<cheat desc="Get Big four winds Now!">
+		<script state="on">
+		  <action>maincpu.pd@61C0=32313131</action>
+		  <action>maincpu.pd@61C4=33333232</action>
+		  <action>maincpu.pd@61C8=34343433</action>
+		  <action>maincpu.pw@61CC=3535</action>
+		</script>	
+	</cheat>
+	<cheat desc="Get Little four winds Now!">
+		<script state="on">
+		  <action>maincpu.pd@61C0=32313131</action>
+		  <action>maincpu.pd@61C4=33333232</action>
+		  <action>maincpu.pd@61C8=35343433</action>
+		  <action>maincpu.pw@61CC=3535</action>
+		</script>	
+	</cheat>
+	
+		<cheat desc="Get Four chained triplets, Now!">
+		<script state="on">
+		  <action>maincpu.pd@61C0=07070606</action>
+		  <action>maincpu.pd@61C4=08080707</action>
+		  <action>maincpu.pd@61C8=09090808</action>
+		  <action>maincpu.pw@61CC=0909</action>
+		</script>	
+	</cheat>
+	
+	<cheat desc="Get Big seven stars Now!">
+		<script state="on">
+		  <action>maincpu.pd@61C0=32323131</action>
+		  <action>maincpu.pd@61C4=34343333</action>
+		  <action>maincpu.pd@61C8=36363535</action>
+		  <action>maincpu.pw@61CC=3737</action>
+		</script>	
+	</cheat>
+	<cheat desc="Get Big bridge Now!">
+		<script state="on">
+		  <action>maincpu.pd@61C0=03030201</action>
+		  <action>maincpu.pd@61C4=06050504</action>
+		  <action>maincpu.pd@61C8=09080707</action>
+		  <action>maincpu.pw@61CC=0909</action>
+		</script>	
+	</cheat>
+	
+	<cheat desc="Get Four kans Now!">
+		<script state="on">
+		  <action>maincpu.pd@61C0=00000000</action>
+		  <action>maincpu.pd@61C4=00000000</action>
+		  <action>maincpu.pd@61C8=00000000</action>
+		  <action>maincpu.pw@61CC=ffff0505</action>
+		  <action>maincpu.pw@61d0=01010144</action>
+		  <action>maincpu.pw@61d4=02020244</action>
+		  <action>maincpu.pw@61d8=03030344</action>
+		  <action>maincpu.pw@61dc=04040444</action>
+		  <action>maincpu.pw@63c0=01010144</action>
+		  <action>maincpu.pw@63c4=02020244</action>
+		  <action>maincpu.pw@63c8=03030344</action>
+		  <action>maincpu.pw@63cc=04040444</action>
+		</script>	
+	</cheat>
+</mamecheat>
+<!-- Cheat file downloaded from http://www.mamecheat.co.uk, see cheat.txt for list of contributors. -->

@@ -16,7 +16,7 @@
   <cheat desc="not visually change until you make a move."/>
   <cheat desc=" "/>
 
-  <cheat desc="Get baiwanshi Now!">
+  <cheat desc="Get Millionaire's stone Now!">
     <script state="on">
       <action>maincpu.pd@72C0=06060505</action>
       <action>maincpu.pd@72C4=07070706</action>
@@ -24,7 +24,7 @@
       <action>maincpu.pw@72CC=0909</action>
     </script>
   </cheat>
-  <cheat desc="Get dachelun Now!">
+  <cheat desc="Get Chariot Now!">
     <script state="on">
       <action>maincpu.pd@72C0=03030202</action>
       <action>maincpu.pd@72C4=05050404</action>
@@ -32,7 +32,7 @@
       <action>maincpu.pw@72CC=0808</action>
     </script>
   </cheat>
-    <cheat desc="Get zhongchelun Now!">
+    <cheat desc="Get Chariot Jr Now!">
     <script state="on">
       <action>maincpu.pd@72C0=02020101</action>
       <action>maincpu.pd@72C4=05050303</action>
@@ -40,7 +40,7 @@
       <action>maincpu.pw@72CC=0909</action>
     </script>
   </cheat>
-  <cheat desc="Get guoshiwushuang Now!">
+  <cheat desc="Get Thirteen orphans Now!">
     <script state="on">
       <action>maincpu.pd@72C0=19110901</action>
       <action>maincpu.pd@72C4=32312921</action>
@@ -49,7 +49,7 @@
     </script>
   </cheat>
   
-   <cheat desc="Get hongkongque Now!">
+   <cheat desc="Get Red Peacock Now!">
     <script state="on">
       <action>maincpu.pd@72C0=25212121</action>
       <action>maincpu.pd@72C4=27272525</action>
@@ -58,7 +58,7 @@
     </script>
   </cheat>
   
-   <cheat desc="Get lvyise Now!">
+   <cheat desc="Get All green Now!">
 		<script state="on">
 		  <action>maincpu.pd@72C0=23222222</action>
 		  <action>maincpu.pd@72C4=24242323</action>
@@ -67,7 +67,7 @@
 		</script>
   </cheat>
   
-   <cheat desc="Get dongbeixinganxian Now!">
+   <cheat desc="Get Northeastern Shinkansen Now!">
 		<script state="on">
 		  <action>maincpu.pd@72C0=04030201</action>
 		  <action>maincpu.pd@72C4=08070605</action>
@@ -76,7 +76,7 @@
 		</script>
 	</cheat>
 	  
-	<cheat desc="Get qinglaotou Now!">
+	<cheat desc="Get All terminals Now!">
 		<script state="on">
 		  <action>maincpu.pd@72C0=09010101</action>
 		  <action>maincpu.pd@72C4=11110909</action>
@@ -86,7 +86,7 @@
 	
 	</cheat>
 	
-  	<cheat desc="Get dasanyuan Now!">
+  	<cheat desc="Get Big three dragons Now!">
 		<script state="on">
 		  <action>maincpu.pd@72C0=32313131</action>
 		  <action>maincpu.pd@72C4=35353532</action>
@@ -95,7 +95,7 @@
 		</script>	
 	</cheat>
 	
-	  	<cheat desc="Get jiulianbaodeng Now!">
+	  	<cheat desc="Get Nine gates Now!">
 		<script state="on">
 		  <action>maincpu.pd@72C0=02010101</action>
 		  <action>maincpu.pd@72C4=06050403</action>
@@ -103,15 +103,15 @@
 		  <action>maincpu.pw@72CC=0909</action>
 		</script>	
 	</cheat>
-	<cheat desc="Get shisanbukao Now!">
+	<cheat desc="Get Thirteen unconnected tiles Now!">
 		<script state="on">
 		  <action>maincpu.pd@72C0=12070401</action>
-		  <action>maincpu.pd@72C4=26251816</action>
+		  <action>maincpu.pd@72C4=26231815</action>
 		  <action>maincpu.pd@72C8=33323129</action>
 		  <action>maincpu.pw@72CC=3434</action>
 		</script>	
 	</cheat>
-		<cheat desc="Get dasixi Now!">
+		<cheat desc="Get Big four winds Now!">
 		<script state="on">
 		  <action>maincpu.pd@72C0=32313131</action>
 		  <action>maincpu.pd@72C4=33333232</action>
@@ -119,7 +119,7 @@
 		  <action>maincpu.pw@72CC=3535</action>
 		</script>	
 	</cheat>
-	<cheat desc="Get xiaosixi Now!">
+	<cheat desc="Get Little four winds Now!">
 		<script state="on">
 		  <action>maincpu.pd@72C0=32313131</action>
 		  <action>maincpu.pd@72C4=33333232</action>
@@ -128,7 +128,7 @@
 		</script>	
 	</cheat>
 	
-		<cheat desc="Get yisesishun Now!">
+		<cheat desc="Get Four chained triplets, Now!">
 		<script state="on">
 		  <action>maincpu.pd@72C0=07070606</action>
 		  <action>maincpu.pd@72C4=08080707</action>
@@ -137,7 +137,7 @@
 		</script>	
 	</cheat>
 	
-	<cheat desc="Get daqixing Now!">
+	<cheat desc="Get Big seven stars Now!">
 		<script state="on">
 		  <action>maincpu.pd@72C0=32323131</action>
 		  <action>maincpu.pd@72C4=34343333</action>
@@ -145,7 +145,7 @@
 		  <action>maincpu.pw@72CC=3737</action>
 		</script>	
 	</cheat>
-	<cheat desc="Get yisesibugao Now!">
+	<cheat desc="Get Big bridge Now!">
 		<script state="on">
 		  <action>maincpu.pd@72C0=03030201</action>
 		  <action>maincpu.pd@72C4=06050504</action>
@@ -154,12 +154,12 @@
 		</script>	
 	</cheat>
 	
-	<cheat desc="Get shibaluohan Now!">
+	<cheat desc="Get Four kans Now!">
 		<script state="on">
 		  <action>maincpu.pd@72C0=00000000</action>
 		  <action>maincpu.pd@72C4=00000000</action>
 		  <action>maincpu.pd@72C8=00000000</action>
-		  <action>maincpu.pw@72CC=0505ffff</action>
+		  <action>maincpu.pw@72CC=ffff0505</action>
 		  <action>maincpu.pw@72d0=01010144</action>
 		  <action>maincpu.pw@72d4=02020244</action>
 		  <action>maincpu.pw@72d8=03030344</action>
