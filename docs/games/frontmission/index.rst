@@ -100,15 +100,19 @@ M=Melee, S=Short, L=Long, A=Agility G=Generic, T=Tank,SS=Skill Slots
 
 number in the skill column denotes the exp requirement to obtain a new skill. Once the exp requirement is met, the character can choose one of the skills available to the charactor in the exp category on the next level up bonus screen, unless the skill slots are full. 
 
+15=D+, 20=C, 25=C+, 30=B, 35=B+, 40=A,45=A+, 50=S, 55=S+
+
 .. csv-table:: characters
    :file: characters.csv
    :header-rows: 1
    :widths: 20,60,1,1,1,1,1,10,10,1,1,400
 
-Part and weapon Codes 
+Useful Part and weapon Codes 
 
 * 7ECF1463 Zenith V Body
+* 7ECFB163 Valiant Body
 * 7ED00863 Sakata Helicopter Leg 
+* 7ECFFF63	Gavel Leg
 * 7ED01463 королд II 8x10 machine gun right arm
 * 7ED01563 Zenith V-SP Left Arm
 * 7ED01663 Zenith V-SP Right Arm
@@ -119,4 +123,20 @@ Part and weapon Codes
 * 7ED04263 Ziege fast short exp
 * 7ED12A63 Karen Device BD-6KR 98/97/99/99
 * 7ED0F763 Bag Worm 4/2/90/10
-* 7ED01563 MKP OPJ7EH 8x25 machine gun (left hand only)
+* 7ED19263 MKP OPJ7EH 8x25 machine gun (left hand only)
+* 7ED04663 Artassaut 3x13 machine gun 
+* 7ED0BE63 PIZ-3 1x10 missle
+* 7ED02A63	Siege 5x2 machine gun 
+* 7ED02663 F-1 Tonfar 1x13 melee
+* 7ED08063	FV-24B 5x20 machine gun 
+* 7ED4130F	Peewie Melee
+* 7ED41427	Peewie Melee
+* 7ED4150F	Peewie Short
+* 7ED41627	Peewie Short
+* 7ED4170F	Peewie Long
+* 7ED41827	Peewie Long
+* 7ED4190F	Peewie Agility 
+* 7ED41A27	Peewie Agility 
+* 7ED41B17	Peewie Skill 1
+* 7ED41C09	Peewie Skill 2
+* 7ED40E05	Peewie skill slot
