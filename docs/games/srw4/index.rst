@@ -1,4 +1,4 @@
-﻿第四次机器人大战 攻略 试做版
+第四次机器人大战 攻略 试做版
 =====================================
 .. toctree::
    :maxdepth: 1
@@ -10,6 +10,10 @@
    机体改造 <remodeling>
    气力 <willpower>
    出击顺序 <deploy>
+   机师属性 <pilot>
+   机体属性 <unit>
+   芯片 <items>
+   PS版本的变化<srw4schanges>
    攻略流程 <walkthrough/index>
    
 第三次超级机器人大战之后，三个月过去了…… 
