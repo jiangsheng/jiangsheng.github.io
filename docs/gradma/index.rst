@@ -27,9 +27,9 @@ My mom was a suburban vegetable famer. But she looked like an official wife. She
 After 1913 I spent the rest of my childhood in the country side. I like sun, so I got skin inflammations every year, as well as other small but consistent health problems. At age 6 I got a bad lung disease, almost did not survive it with the poor medical condition at that time. First coughing day and night then began spitting blood. Mom was very worried and ask everyone about medical prescriptions for lung disease. Later she heard that 7 pork lungs could be a cure so she got some for me. It was difficult to clean the pork lungs, it takes her a long time to wash it in a pond every time. Once she slipped and almost got drowned if someone wasn’t passing by. A few times she wanted to bind my feet, but once on the way to grandma, I was too hurt to walk and complained, Father felt sorry for me, pulled my foot-bandages off and thrown into the river. After that Father forbit mom to bind my feet. During the childhood, I experienced the hardship of famers’ life and their honest, kind heart, hardworking and simplicity attitude. I gained a lot of perspective from them.
 
  
---------------------
+---------------------------
 Education and marriage
---------------------
+---------------------------
 
 We returned to the city in 1920. The clothing factory director Wang Haizhou suggested to modify our local specialty straw sandals with ramie for the military. The shoe is comfortable for mountain climbing and walking long distance, and is very cheap to make. Although not very profitable but for military use, the volume makes even a 2 copper cash per pair gain significant. We did shoemaking for 2-3 years during the warring era. We lived in Wang’s home at the beginning, then switched to a pawned house on a Liujia Street in 1921. I was also studying in a nearby private school. The teacher, who gave me the school name Li Guangxiu, was hired by a landlord for his daughter’s education.
 
