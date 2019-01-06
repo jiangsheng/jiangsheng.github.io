@@ -2,13 +2,15 @@ Grandma's handbook
 ==========================
 
 --------------------
-Translator’s note¶
+Translator’s note
+--------------------
 
 information about the author is probably redundant since this is a self-biography. But here’s some background information. This is written by Lee Guang-Show (李光秀, 1912-2001), my grandma. She wrote this in her eighties. And from her writing I learned a lot about history from a small person’s perspective.
 
  
-
-Childhood¶
+--------------------
+Childhood
+--------------------
 
 In 1912 I was born in a small house next to a Buddhist nunnery on the Baoan Gate (保安门) street of Wuchang city, and was named Hanying (汉英). My mother got seriously ill after my birth, and was skinny and had no breastmilk. She never recovered, so I am her only child.
 
@@ -25,8 +27,9 @@ My mom was a suburban vegetable famer. But she looked like an official wife. She
 After 1913 I spent the rest of my childhood in the country side. I like sun, so I got skin inflammations every year, as well as other small but consistent health problems. At age 6 I got a bad lung disease, almost did not survive it with the poor medical condition at that time. First coughing day and night then began spitting blood. Mom was very worried and ask everyone about medical prescriptions for lung disease. Later she heard that 7 pork lungs could be a cure so she got some for me. It was difficult to clean the pork lungs, it takes her a long time to wash it in a pond every time. Once she slipped and almost got drowned if someone wasn’t passing by. A few times she wanted to bind my feet, but once on the way to grandma, I was too hurt to walk and complained, Father felt sorry for me, pulled my foot-bandages off and thrown into the river. After that Father forbit mom to bind my feet. During the childhood, I experienced the hardship of famers’ life and their honest, kind heart, hardworking and simplicity attitude. I gained a lot of perspective from them.
 
  
-
-Education and marriage¶
+--------------------
+Education and marriage
+--------------------
 
 We returned to the city in 1920. The clothing factory director Wang Haizhou suggested to modify our local specialty straw sandals with ramie for the military. The shoe is comfortable for mountain climbing and walking long distance, and is very cheap to make. Although not very profitable but for military use, the volume makes even a 2 copper cash per pair gain significant. We did shoemaking for 2-3 years during the warring era. We lived in Wang’s home at the beginning, then switched to a pawned house on a Liujia Street in 1921. I was also studying in a nearby private school. The teacher, who gave me the school name Li Guangxiu, was hired by a landlord for his daughter’s education.
 
@@ -51,8 +54,9 @@ The Hu family borrowed 200 dollars for our wedding. Because he had 16 per month 
 I was happy that Mingxi (民玺) was born in 1932. But there were many traditions in the feudal society such as the father should be barred from the birthplace. His mother and sister slept on the floor to accompany me. One day he entered and I asked him “See your son? He hasn’t peed in 2 days, can you check?” The kid peed when on his hand and he smiled. He had to leave because he did not want his mother to know his visit, he was a dutiful son, he should not be there when she doesn’t allow him. When the kid was 2, his parent had problem with bills. I have a house among my dowries on the Wanghui Street. His father planned to leave his uncle to open an independent shipping business but lack startup funds. Father could not resist helping him, pawned the house for 300 and made some tarpaulin to help him open a shipping business named “Yucai”. The business did not survive long due to his lack of confidence from little experience, and trusted the wrong friends. I determined to do something to get afloat, and asked Father for supporting my sewing study. I could help him by working, and once we get more children I had to return home for housekeeping. I had another child named Jifen (继芬) a couple months later. His sister left for marriage from our place with over 40 cloths in dowries, all made by myself. When Jifen was a little older than 1, I sent her to his grandma and started teaching at the Dragon God Temple (龙王庙), near present day Democracy Road (民主路), for a vocational school, I taught the literature subjects while two coworkers taught science subjects. The school had a ruined temple as the dormitory, and I lived there with Mingxi and sent him to kindergarten. Sometimes I was afraid to open the door when coworkers went to Hankou to see movies and return late in the night. Later we rent a house nearby, and Jilin (继林) was born there. Because the Sino-Japanese war broke out, I sought asylum from my hometown Hanyang with Jilin, and part ways with his parents who then had to make a living by themselves. The family was broken apart.
 
  
-
-War¶
+--------------------
+War
+--------------------
 
 The year was 1939. The Japanese arrived Wuhan, and we went back to Wuchang. Hu Guangrong (胡光荣) found a job taking care of the venders at the Huatian food market (花天菜场), living on their contributions. But the job had a “swords of Damocles” hanging over his head. Often some venders would disappear without trace after conflicts with some Japanese. We were so scared each time we heard this kind of news that he returned to his uncle’s business to be an unloader and I returned to teaching in Hankou. Jifen went with him, but she was too small to walk fast, and had a boil on the belly that almost cost her life. Finally, I carried her to one of my father’s friend who used to be a medical officer in the army. He gave me some medicine and told me that if the medicine turn out to be ineffective, send her to the Wukou sanitarium (吴口疗养院), now on the Three Buddha Pavilion Street (三佛阁街), for X Ray and doctor there could tell me how to cure her. We tried the medicine that day and she was not getting better, so had to go there for X Ray. The doctor said there was a boil in the belly and requires surgery. The price for X Ray was 5 dollars and surgery one. We didn’t have that much, and had to explain that to the doctor. The doctor was sympathetic for me and my daughter’s situation and waived the X Ray fee. Surgery began when I signed papers. She discharged a big tray of blood and pus during the operation. Shortly after the operation the daily air defense siren went off. I was afraid she would be noisy in the shelter so I went in a barber shop where I got a haircut for her while waiting the siren to end. After the siren, I saw corpse everywhere on the way back, and I was sad and angry. After getting home, I was worried about the safety of the daily trip to change the dressing. After 3 days she recovered a bit, and I asked the doctor to give me dressing so I could do the changing myself. The doctor agreed on six dime worth of dressing. A few days later the hospital was bombed and many patients were dead. Japanese’s sin. Jifen recovered gradually since then.
 

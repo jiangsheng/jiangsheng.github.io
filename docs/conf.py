@@ -51,7 +51,8 @@ extensions = [
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
-    'edit_on_github'
+    'edit_on_github',
+	'sphinxcontrib.googleanalytics'
 ]
 edit_on_github_project  = 'jiangsheng/jiangsheng.github.io'
 edit_on_github_url = 'docs/'
@@ -216,6 +217,10 @@ intersphinx_mapping = {'https://docs.python.org/': None}
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = True
+
+	
+# google analytics
+googleanalytics_id = 'UA-30166843-2'
 
 def setup(app):
     app.add_stylesheet('css/custom.css')
