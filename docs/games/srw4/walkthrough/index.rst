@@ -26,6 +26,8 @@
    第十话Ａ 悲しき記憶Ａ <10A-SorrowfulMemoriesA>
    第十话Ｂ 悲しき記憶Ｂ <10B-SorrowfulMemoriesB>
    第十一话 目覚めよ！超獣機神  <11-WakeUpSuperBestialMachineGod>
+   第十二话Ａ 愛の行方 <12A-LovesWhereabouts>
+   第十二话Ｂ ガイゾックの恐怖 <12B-GuyzocksTerror>
 
 因为血色宫殿和最后一话有三个版本所以至少三周目才能基本打完剧情，其中真实系和超级系都必须走一遍，所以建议的分支是
 
@@ -91,9 +93,9 @@
     * 加入机体：Zガンダム Gディフェンサー， ジェガン
     * 加入机师：カミーユ カツ
     * 替换机体：トロイホース→アーガマ 改造保留
-* :ref:`11-WakeUpSuperBestialMachineGod`： 选本隊 下一话进入ガイゾックの恐怖（建议真实系），选甲児たち下一话进入愛の行方（建议超级系）
-* ガイゾックの恐怖：下一话进入浮上
-* 愛の行方：下一话进入浮上
+* :ref:`11-WakeUpSuperBestialMachineGod`： 选本隊 下一话进入 :ref:`12B-GuyzocksTerror` （建议真实系），选甲児たち下一话进入 :ref:`12A-LovesWhereabout` （建议超级系）
+* :ref:`12B-GuyzocksTerror`：下一话进入浮上
+* :ref:`12A-LovesWhereabout`：下一话进入浮上
 * 浮上：下一话进入空飛ぶマジンガーＺ
     * 加入机体：ダンバイン，ボチューン，（バストール）
     * 加入机师：ショウ，チャム，マーベル，（ガラリア）
