@@ -15,6 +15,7 @@
    机体改造 <remodeling>
    气力 <willpower>
    出击顺序 <deploy>
+   修改 <cheat>
 
 .. contents::
 
