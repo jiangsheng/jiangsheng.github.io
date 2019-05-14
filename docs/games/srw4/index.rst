@@ -1,19 +1,14 @@
 第四次机器人大战 攻略 试做版
 =====================================
+
 .. toctree::
    :maxdepth: 1
    :caption: 内容:
 
-   序幕<beforestart.rst>   
-   经验值公式 <expfoumla>
-   地形适应 <topography>
-   机体改造 <remodeling>
-   气力 <willpower>
-   出击顺序 <deploy>
-   机师属性 <pilot>
-   机体属性 <unit>
-   芯片 <items>
-   PS版本的变化<srw4schanges>
+   序幕 <beforestart.rst>  
+   设定 <mechanics/index.rst> 
+   机师 <pilots/index.rst>
+   机体 <units/index.rst>
    攻略流程 <walkthrough/index>
    
 第三次超级机器人大战之后，三个月过去了…… 

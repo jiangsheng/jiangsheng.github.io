@@ -54,10 +54,10 @@
     * 加入机体：トロイホース，マジンガーZ，アフロダイA，ボスボロット，ガンダム，ガンダムmkII，GP-01Fb，メタス，ガンキャノン，ゲッターロボ，ゲシュペンスト（真实系）/ゲシュペンスト（超级系），ガンタンク，マリンスペイザー
     * 加入机师：トーレス，兜甲児，さやか，ボス，アムロ＝レイ ，コウ＝ウラキ，エマ＝シーン，ファ＝ユイリィ，チャック＝キース ，リョウ，ハヤト，ベンケイ，真实系主人公/超级系主人公
 * 如果总回合数少于一定值（[SRW4]8，[SRW4S]16），下一话进入进入 :ref:`02A-EnigmaticVisitorsA` ，否则进入 :ref:`02B-EnigmaticVisitorsB`。
-* :ref:`02A-EnigmaticVisitorsA`：建议超级系走这个路线。下一话进入 :ref:`03A-ANewEnemyA`。
+* :ref:`02A-EnigmaticVisitorsA`：建议第四次超级系和第四次S真实系走这个路线。下一话进入 :ref:`03A-ANewEnemyA`。
     * 加入机体：エルガイム，ディザード
     * 加入机师：ダバ＝マイロード，ファンネリア＝アム，リリス＝ファウ
-* :ref:`02B-EnigmaticVisitorsB`。建议真实系走这个路线。下一话进入 :ref:`03B-SpecialTraining!Dai-Setsu-ZanOroshiB`。
+* :ref:`02B-EnigmaticVisitorsB`。建议第四次真实系和第四次S超级系走这个路线。下一话进入 :ref:`03B-SpecialTraining!Dai-Setsu-ZanOroshiB`。
 * :ref:`03A-ANewEnemyA`：下一话进入 :ref:`04A-SpecialTraining!Dai-Setsu-ZanOroshiA`
 * :ref:`03B-SpecialTraining!Dai-Setsu-ZanOroshiB`：下一话进入 :ref:`04B-ANewEnemyB`。
     * 追加武器：ゲッターロボ
