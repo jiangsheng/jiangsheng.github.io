@@ -14,8 +14,11 @@ gaming guides
    Super Robot Wars 4<srw4/index.rst>
    Mahjong Electron Base <mjelct3/index.rst>
    Mahjong Tenkaigan <tenkai/index.rst>
-    Might and Magic 6 <mm6/index.rst>
-    足球经理97 <fsm97/index.rst>
+   Might and Magic 6 <mm6/index.rst>
+   足球经理97 <fsm97/index.rst>
+   卧龙传<dragon/index.rst>
+   甲A风云<fa96/index.rst>
+   三国志 V<san5/index.rst>
 
 Indices and tables
 ==================
