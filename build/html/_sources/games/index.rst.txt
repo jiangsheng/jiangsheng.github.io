@@ -7,7 +7,7 @@ gaming guides
 ======================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
    :caption: 内容:
 
    Front Mission s<frontmission/index.rst>

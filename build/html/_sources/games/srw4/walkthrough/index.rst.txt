@@ -1,7 +1,7 @@
 攻略流程
 =====================================
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 5
    :caption: 内容:
    :hidden:
 
@@ -9,7 +9,6 @@
    第零话Ｂ 接触Ｂ <00B-ContactB>
    第一话Ａ 発端Ａ <01A-TheBeginningA>
    第一话Ｂ 発端Ｂ <01B-TheBeginningB>
-   第一话 発端共通 <../thebeginning>
    第二话Ａ 謎の訪問者Ａ<02A-EnigmaticVisitorsA>
    第二话Ｂ 謎の訪問者Ｂ<02B-EnigmaticVisitorsB>
    第三话Ａ 新たな敵Ａ <03A-ANewEnemyA>

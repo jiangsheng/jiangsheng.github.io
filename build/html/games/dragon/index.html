@@ -1,22 +1,20 @@
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<html lang="zh-CN">
   <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>卧龙传（臥竜伝三国制覇の計）修改 &#8212; jiangsheng 1 documentation</title>
-    <link rel="stylesheet" href="../../_static/alabaster.css" type="text/css" />
-    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/alabaster.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css" />
-    <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
-    <script type="text/javascript" src="../../_static/jquery.js"></script>
-    <script type="text/javascript" src="../../_static/underscore.js"></script>
-    <script type="text/javascript" src="../../_static/doctools.js"></script>
-    <script type="text/javascript" src="../../_static/language_data.js"></script>
-    <script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=UA-30166843-2"></script>
-    <script type="text/javascript" src="../../_static/google_analytics_tracker.js"></script>
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=UA-30166843-2"></script>
+    <script src="../../_static/google_analytics_tracker.js"></script>
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
     <link rel="next" title="甲A风云(96)" href="../fa96/index.html" />
@@ -43,76 +41,76 @@
 <p>文字都是big5码，过短的文字用空格(A140)填充。但是十六进制编辑器程序（推荐NotePad++加Hex Editor插件）需要用applocal或者Locale Emulator改显示文化之后才可以正确显示文字。</p>
 <p>十六进制偏移（0为第一个字节，下同）含义</p>
 <ul class="simple">
-<li>3 起始日</li>
-<li>4 起始月</li>
-<li>6 起始年</li>
-<li>F 玩家势力编号</li>
-<li>10 信赖度</li>
-<li>11 编号</li>
-<li>18 本月税率</li>
-<li>1A-1F 本月征兵数</li>
-<li>20 下月税率</li>
-<li>22-27 下月征兵数</li>
-<li>3A 总势力数</li>
-<li>40-5F 剧本名或存档名</li>
-<li>80-67f 势力  每个势力64字节，一共24个势力的容量。</li>
-<li>680-8BF 外交 每个势力24字节，为对应势力的友好度。</li>
-<li>8C0-21BF 城池信息 每个城池32字节</li>
-<li>22C-42BF 军团信息，每个军团64字节。最多128个</li>
-<li>42C0-52BF 武将信息，每个武将32字节，最多128个武将，但是最后一个是自定义军师，可以将其编成军团但是无法下令，只能放在首都手操</li>
+<li><p>3 起始日</p></li>
+<li><p>4 起始月</p></li>
+<li><p>6 起始年</p></li>
+<li><p>F 玩家势力编号</p></li>
+<li><p>10 信赖度</p></li>
+<li><p>11 编号</p></li>
+<li><p>18 本月税率</p></li>
+<li><p>1A-1F 本月征兵数</p></li>
+<li><p>20 下月税率</p></li>
+<li><p>22-27 下月征兵数</p></li>
+<li><p>3A 总势力数</p></li>
+<li><p>40-5F 剧本名或存档名</p></li>
+<li><p>80-67f 势力  每个势力64字节，一共24个势力的容量。</p></li>
+<li><p>680-8BF 外交 每个势力24字节，为对应势力的友好度。</p></li>
+<li><p>8C0-21BF 城池信息 每个城池32字节</p></li>
+<li><p>22C-42BF 军团信息，每个军团64字节。最多128个</p></li>
+<li><p>42C0-52BF 武将信息，每个武将32字节，最多128个武将，但是最后一个是自定义军师，可以将其编成军团但是无法下令，只能放在首都手操</p></li>
 </ul>
 <p>势力数据格式</p>
 <ul class="simple">
-<li>0 状态</li>
-<li>1 君主武将序号</li>
-<li>2 军师编号 7F表示没有军师</li>
-<li>3 首都城池序号</li>
-<li>4-9 起始兵数 兵数都是显示值除以10，下同</li>
-<li>18  武将数目 武将越少，自由武将加入的机会越高，所以把电脑的势力武将数都改成200的话，一开始绝大多数没有投奔目标的武将都会加入你。一些武将是固定投奔指定势力的，所以也不能改的太高，到256溢出之后就轮到你被人抢武将了。随着你的势力武将增加这个修改的作用也逐渐降低。</li>
-<li>20-22 钱 上限65万，改太多会死机</li>
-<li>23 城池数 （所以修改搜钱不能选四个字节的数据类型……）</li>
-<li>3A 外交官武将序号 FF表示没有，下同。</li>
+<li><p>0 状态</p></li>
+<li><p>1 君主武将序号</p></li>
+<li><p>2 军师编号 7F表示没有军师</p></li>
+<li><p>3 首都城池序号</p></li>
+<li><p>4-9 起始兵数 兵数都是显示值除以10，下同</p></li>
+<li><p>18  武将数目 武将越少，自由武将加入的机会越高，所以把电脑的势力武将数都改成200的话，一开始绝大多数没有投奔目标的武将都会加入你。一些武将是固定投奔指定势力的，所以也不能改的太高，到256溢出之后就轮到你被人抢武将了。随着你的势力武将增加这个修改的作用也逐渐降低。</p></li>
+<li><p>20-22 钱 上限65万，改太多会死机</p></li>
+<li><p>23 城池数 （所以修改搜钱不能选四个字节的数据类型……）</p></li>
+<li><p>3A 外交官武将序号 FF表示没有，下同。</p></li>
 </ul>
 <p>城池数据格式</p>
 <ul class="simple">
-<li>1 所属势力序号 18是空城</li>
-<li>2-7 城池名称</li>
-<li>8-b 城池坐标 然而改了没什么用，一个是城池仍然在原地显示，另一个是道路连接还是照原来的，一样会被电脑打，只是更改军团出现的地点。而且操作的时候很容易死机。不过可以用来作为军团当前和目标坐标的参照系——前提是你喜欢玩军团瞬移……</li>
-<li>c 最大生产力</li>
-<li>E 当前生产力</li>
-<li>10 上升值 为显示值+100</li>
-<li>11 防灾值</li>
-<li>12 城兵</li>
-<li>17 第0-2字节是类型，00-02为大中小城市，03为关卡。</li>
-<li>19 内政官序号</li>
-<li>军团数据格式</li>
-<li>0 状态 位2为委任/战斗指挥</li>
-<li>1 所属势力序号 但是如果在城池中的时候改掉的话，即使是君主也会被敌人所擒。在路上改君主的话则可能会出现军团找不到可以攻打的城市而转圈圈。</li>
-<li>2 军团长武将序号</li>
-<li>4-5 总兵数</li>
-<li>6 士气</li>
-<li>E-1 当前坐标</li>
-<li>16-19 目标坐标</li>
-<li>20 目的地城池序号</li>
-<li>28-3F 每4字节的前两个字节是主将、先锋、左翼、右翼、左备和右备的兵数和兵种</li>
+<li><p>1 所属势力序号 18是空城</p></li>
+<li><p>2-7 城池名称</p></li>
+<li><p>8-b 城池坐标 然而改了没什么用，一个是城池仍然在原地显示，另一个是道路连接还是照原来的，一样会被电脑打，只是更改军团出现的地点。而且操作的时候很容易死机。不过可以用来作为军团当前和目标坐标的参照系——前提是你喜欢玩军团瞬移……</p></li>
+<li><p>c 最大生产力</p></li>
+<li><p>E 当前生产力</p></li>
+<li><p>10 上升值 为显示值+100</p></li>
+<li><p>11 防灾值</p></li>
+<li><p>12 城兵</p></li>
+<li><p>17 第0-2字节是类型，00-02为大中小城市，03为关卡。</p></li>
+<li><p>19 内政官序号</p></li>
+<li><p>军团数据格式</p></li>
+<li><p>0 状态 位2为委任/战斗指挥</p></li>
+<li><p>1 所属势力序号 但是如果在城池中的时候改掉的话，即使是君主也会被敌人所擒。在路上改君主的话则可能会出现军团找不到可以攻打的城市而转圈圈。</p></li>
+<li><p>2 军团长武将序号</p></li>
+<li><p>4-5 总兵数</p></li>
+<li><p>6 士气</p></li>
+<li><p>E-1 当前坐标</p></li>
+<li><p>16-19 目标坐标</p></li>
+<li><p>20 目的地城池序号</p></li>
+<li><p>28-3F 每4字节的前两个字节是主将、先锋、左翼、右翼、左备和右备的兵数和兵种</p></li>
 </ul>
 <p>武将数据格式</p>
 <ul class="simple">
-<li>0 属性 0-3位总是为0 4表示势力被灭掉不会成为俘虏而是会自杀，如果灭掉的时候已经是俘虏则本次不会自杀——然而仅仅是本次而已，如果没有投奔你，下次该自杀还是要自杀。第6位表示是君主 第7位表示是否登场。貌似统统改成80（只有第7位是1）游戏不会出问题——除了最后一个武将是自定义军师，默认不登场，改出来也有不能控制军团的问题之外。</li>
-<li>1 头像序号</li>
-<li>2-8 姓名</li>
-<li>9-D 号 原作中只有诸葛亮和庞统的号跟姓名不同。</li>
-<li>E 城塞战能力 高四位有效，最大A0，下同。</li>
-<li>F 野战能力</li>
-<li>10 水战能力 貌似有bug，水战能力高的，在水上作战也并没有什么优势</li>
-<li>11 武力</li>
-<li>12 统率</li>
-<li>13 政治</li>
-<li>17 武将列表中看到的状态 01234是待命军团长内政官外交官被俘</li>
-<li>18 登场时间 登场时间倒计时，单位是月。</li>
-<li>19 投奔势力 自由武将登场时，将加入的势力，例如诸葛亮总是会投奔刘备。如果是有主公的武将，则是主公被灭时会加入的势力，例如刘备被灭刘关张都会去投奔刘表。但是这个投奔只会有效一次，例如公孙瓒被灭之后赵云会投奔刘备，但是投奔之后这个值就变成了FF，之后刘备再被灭掉的话，则电脑随机选择赵云会加入的势力，武将少的势力优先。</li>
-<li>1C 武将所属势力 被俘则是俘获方势力。FF表示自由武将 _结合19的修改可以让敌方君主都投奔我方，但是敌人武将投奔我方之后其现有的军团并不会消失，仍旧会来攻打我方……</li>
-<li>1D 被俘武将所属势力</li>
+<li><p>0 属性 0-3位总是为0 4表示势力被灭掉不会成为俘虏而是会自杀，如果灭掉的时候已经是俘虏则本次不会自杀——然而仅仅是本次而已，如果没有投奔你，下次该自杀还是要自杀。第6位表示是君主 第7位表示是否登场。貌似统统改成80（只有第7位是1）游戏不会出问题——除了最后一个武将是自定义军师，默认不登场，改出来也有不能控制军团的问题之外。</p></li>
+<li><p>1 头像序号</p></li>
+<li><p>2-8 姓名</p></li>
+<li><p>9-D 号 原作中只有诸葛亮和庞统的号跟姓名不同。</p></li>
+<li><p>E 城塞战能力 高四位有效，最大A0，下同。</p></li>
+<li><p>F 野战能力</p></li>
+<li><p>10 水战能力 貌似有bug，水战能力高的，在水上作战也并没有什么优势</p></li>
+<li><p>11 武力</p></li>
+<li><p>12 统率</p></li>
+<li><p>13 政治</p></li>
+<li><p>17 武将列表中看到的状态 01234是待命军团长内政官外交官被俘</p></li>
+<li><p>18 登场时间 登场时间倒计时，单位是月。</p></li>
+<li><p>19 投奔势力 自由武将登场时，将加入的势力，例如诸葛亮总是会投奔刘备。如果是有主公的武将，则是主公被灭时会加入的势力，例如刘备被灭刘关张都会去投奔刘表。但是这个投奔只会有效一次，例如公孙瓒被灭之后赵云会投奔刘备，但是投奔之后这个值就变成了FF，之后刘备再被灭掉的话，则电脑随机选择赵云会加入的势力，武将少的势力优先。</p></li>
+<li><p>1C 武将所属势力 被俘则是俘获方势力。FF表示自由武将 _结合19的修改可以让敌方君主都投奔我方，但是敌人武将投奔我方之后其现有的军团并不会消失，仍旧会来攻打我方……</p></li>
+<li><p>1D 被俘武将所属势力</p></li>
 </ul>
 </div>
 
@@ -124,7 +122,7 @@
       <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
         <div class="sphinxsidebarwrapper">
 <h3><a href="../../reference.html">Table of Contents</a></h3>
-<p class="caption"><span class="caption-text">内容:</span></p>
+<p class="caption" role="heading"><span class="caption-text">内容:</span></p>
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../../README.html">Welcome to jiangsheng’s documentation!</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../README.html#indices-and-tables">Indices and tables</a></li>
@@ -155,17 +153,15 @@
 </ul>
 </div>
 <div id="searchbox" style="display: none" role="search">
-  <h3>Quick search</h3>
+  <h3 id="searchlabel">Quick search</h3>
     <div class="searchformwrapper">
     <form class="search" action="../../search.html" method="get">
-      <input type="text" name="q" />
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
       <input type="submit" value="Go" />
-      <input type="hidden" name="check_keywords" value="yes" />
-      <input type="hidden" name="area" value="default" />
     </form>
     </div>
 </div>
-<script type="text/javascript">$('#searchbox').show(0);</script>
+<script>$('#searchbox').show(0);</script>
   <h3>This Page</h3>
   <ul class="this-page-menu">
     <li><a href="../../_sources/games/dragon/index.rst.txt"
@@ -183,7 +179,7 @@
       &copy;2018, Sheng Jiang.
       
       |
-      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.8.3</a>
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 4.1.2</a>
       &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
       
       |

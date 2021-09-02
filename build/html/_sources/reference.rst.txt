@@ -7,7 +7,7 @@ Welcome to jiangsheng's documentation!
 ======================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
    :caption: 内容:
    
    Homepage<README.rst>
