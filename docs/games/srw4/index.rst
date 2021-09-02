@@ -2,7 +2,7 @@
 =====================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 5
    :caption: 内容:
 
    序幕 <beforestart.rst>  

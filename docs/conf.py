@@ -222,6 +222,6 @@ todo_include_todos = True
 googleanalytics_id = 'UA-30166843-2'
 
 def setup(app):
-    app.add_stylesheet('css/custom.css')
-    app.add_javascript("https://www.googletagmanager.com/gtag/js?id=UA-30166843-2")
-    app.add_javascript("google_analytics_tracker.js")
+    app.add_css_file('css/custom.css')
+    app.add_js_file("https://www.googletagmanager.com/gtag/js?id=UA-30166843-2")
+    app.add_js_file("google_analytics_tracker.js")

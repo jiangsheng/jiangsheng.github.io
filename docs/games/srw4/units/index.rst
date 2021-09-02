@@ -4,7 +4,7 @@
 ===============================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 5
    :caption: 内容:
 
    机动战士高达登场机体 <MobileSuitGundam.rst>

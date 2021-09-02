@@ -5,7 +5,7 @@
 .. include:: <isotech.txt>
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 5
    :caption: 内容:
 
    芯片 <items>
@@ -16,7 +16,7 @@
    气力 <willpower>
    出击顺序 <deploy>
    修改 <cheat>
-
+   Bug <bug>
 .. contents::
 
 ---------
