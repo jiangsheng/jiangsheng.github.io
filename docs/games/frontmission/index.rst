@@ -106,7 +106,7 @@ number in the skill column denotes the exp requirement to obtain a new skill. On
    :file: characters.csv
    :header-rows: 1
    :widths: 20,60,1,1,1,1,1,10,10,1,1,400
-
+   
 Useful Part and weapon Codes 
 
 * 7ECF1463 Zenith V Body

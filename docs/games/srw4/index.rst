@@ -4,6 +4,7 @@
 .. toctree::
    :maxdepth: 5
    :caption: 内容:
+   :hidden:
 
    序幕 <beforestart.rst>  
    设定 <mechanics/index.rst> 
