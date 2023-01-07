@@ -4,7 +4,8 @@
 <html lang="zh-CN">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>卧龙传（臥竜伝三国制覇の計）修改 &#8212; jiangsheng 1 documentation</title>
     <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/alabaster.css" />
@@ -12,13 +13,15 @@
     <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
     <script src="../../_static/jquery.js"></script>
     <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/_sphinx_javascript_frameworks_compat.js"></script>
     <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/sphinx_highlight.js"></script>
     <script src="https://www.googletagmanager.com/gtag/js?id=UA-30166843-2"></script>
     <script src="../../_static/google_analytics_tracker.js"></script>
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
     <link rel="next" title="甲A风云(96)" href="../fa96/index.html" />
-    <link rel="prev" title="足球经理97" href="../fsm97/index.html" />
+    <link rel="prev" title="FIFA Soccer Manager 96/97" href="../fsm97/index.html" />
    
   <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
   
@@ -35,84 +38,84 @@
 
           <div class="body" role="main">
             
-  <div class="section" id="id1">
-<h1>卧龙传（臥竜伝三国制覇の計）修改<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
-<p>SINARIO.DAT剧本偏移：文件88832字节，每22208个字节一个剧本。SAVE.DAT格式相同，只是剧本换存档。</p>
-<p>文字都是big5码，过短的文字用空格(A140)填充。但是十六进制编辑器程序（推荐NotePad++加Hex Editor插件）需要用applocal或者Locale Emulator改显示文化之后才可以正确显示文字。</p>
-<p>十六进制偏移（0为第一个字节，下同）含义</p>
+  <section id="id1">
+<h1>卧龙传（臥竜伝三国制覇の計）修改<a class="headerlink" href="#id1" title="Permalink to this heading">¶</a></h1>
+<p class="linemarker linemarker-4">SINARIO.DAT剧本偏移：文件88832字节，每22208个字节一个剧本。SAVE.DAT格式相同，只是剧本换存档。</p>
+<p class="linemarker linemarker-6">文字都是big5码，过短的文字用空格(A140)填充。但是十六进制编辑器程序（推荐NotePad++加Hex Editor插件）需要用applocal或者Locale Emulator改显示文化之后才可以正确显示文字。</p>
+<p class="linemarker linemarker-8">十六进制偏移（0为第一个字节，下同）含义</p>
 <ul class="simple">
-<li><p>3 起始日</p></li>
-<li><p>4 起始月</p></li>
-<li><p>6 起始年</p></li>
-<li><p>F 玩家势力编号</p></li>
-<li><p>10 信赖度</p></li>
-<li><p>11 编号</p></li>
-<li><p>18 本月税率</p></li>
-<li><p>1A-1F 本月征兵数</p></li>
-<li><p>20 下月税率</p></li>
-<li><p>22-27 下月征兵数</p></li>
-<li><p>3A 总势力数</p></li>
-<li><p>40-5F 剧本名或存档名</p></li>
-<li><p>80-67f 势力  每个势力64字节，一共24个势力的容量。</p></li>
-<li><p>680-8BF 外交 每个势力24字节，为对应势力的友好度。</p></li>
-<li><p>8C0-21BF 城池信息 每个城池32字节</p></li>
-<li><p>22C-42BF 军团信息，每个军团64字节。最多128个</p></li>
-<li><p>42C0-52BF 武将信息，每个武将32字节，最多128个武将，但是最后一个是自定义军师，可以将其编成军团但是无法下令，只能放在首都手操</p></li>
+<li><p class="linemarker linemarker-10">3 起始日</p></li>
+<li><p class="linemarker linemarker-11">4 起始月</p></li>
+<li><p class="linemarker linemarker-12">6 起始年</p></li>
+<li><p class="linemarker linemarker-13">F 玩家势力编号</p></li>
+<li><p class="linemarker linemarker-14">10 信赖度</p></li>
+<li><p class="linemarker linemarker-15">11 编号</p></li>
+<li><p class="linemarker linemarker-16">18 本月税率</p></li>
+<li><p class="linemarker linemarker-17">1A-1F 本月征兵数</p></li>
+<li><p class="linemarker linemarker-18">20 下月税率</p></li>
+<li><p class="linemarker linemarker-19">22-27 下月征兵数</p></li>
+<li><p class="linemarker linemarker-20">3A 总势力数</p></li>
+<li><p class="linemarker linemarker-21">40-5F 剧本名或存档名</p></li>
+<li><p class="linemarker linemarker-22">80-67f 势力  每个势力64字节，一共24个势力的容量。</p></li>
+<li><p class="linemarker linemarker-23">680-8BF 外交 每个势力24字节，为对应势力的友好度。</p></li>
+<li><p class="linemarker linemarker-24">8C0-21BF 城池信息 每个城池32字节</p></li>
+<li><p class="linemarker linemarker-25">22C-42BF 军团信息，每个军团64字节。最多128个</p></li>
+<li><p class="linemarker linemarker-26">42C0-52BF 武将信息，每个武将32字节，最多128个武将，但是最后一个是自定义军师，可以将其编成军团但是无法下令，只能放在首都手操</p></li>
 </ul>
-<p>势力数据格式</p>
+<p class="linemarker linemarker-28">势力数据格式</p>
 <ul class="simple">
-<li><p>0 状态</p></li>
-<li><p>1 君主武将序号</p></li>
-<li><p>2 军师编号 7F表示没有军师</p></li>
-<li><p>3 首都城池序号</p></li>
-<li><p>4-9 起始兵数 兵数都是显示值除以10，下同</p></li>
-<li><p>18  武将数目 武将越少，自由武将加入的机会越高，所以把电脑的势力武将数都改成200的话，一开始绝大多数没有投奔目标的武将都会加入你。一些武将是固定投奔指定势力的，所以也不能改的太高，到256溢出之后就轮到你被人抢武将了。随着你的势力武将增加这个修改的作用也逐渐降低。</p></li>
-<li><p>20-22 钱 上限65万，改太多会死机</p></li>
-<li><p>23 城池数 （所以修改搜钱不能选四个字节的数据类型……）</p></li>
-<li><p>3A 外交官武将序号 FF表示没有，下同。</p></li>
+<li><p class="linemarker linemarker-30">0 状态</p></li>
+<li><p class="linemarker linemarker-31">1 君主武将序号</p></li>
+<li><p class="linemarker linemarker-32">2 军师编号 7F表示没有军师</p></li>
+<li><p class="linemarker linemarker-33">3 首都城池序号</p></li>
+<li><p class="linemarker linemarker-34">4-9 起始兵数 兵数都是显示值除以10，下同</p></li>
+<li><p class="linemarker linemarker-35">18  武将数目 武将越少，自由武将加入的机会越高，所以把电脑的势力武将数都改成200的话，一开始绝大多数没有投奔目标的武将都会加入你。一些武将是固定投奔指定势力的，所以也不能改的太高，到256溢出之后就轮到你被人抢武将了。随着你的势力武将增加这个修改的作用也逐渐降低。</p></li>
+<li><p class="linemarker linemarker-36">20-22 钱 上限65万，改太多会死机</p></li>
+<li><p class="linemarker linemarker-37">23 城池数 （所以修改搜钱不能选四个字节的数据类型……）</p></li>
+<li><p class="linemarker linemarker-38">3A 外交官武将序号 FF表示没有，下同。</p></li>
 </ul>
-<p>城池数据格式</p>
+<p class="linemarker linemarker-40">城池数据格式</p>
 <ul class="simple">
-<li><p>1 所属势力序号 18是空城</p></li>
-<li><p>2-7 城池名称</p></li>
-<li><p>8-b 城池坐标 然而改了没什么用，一个是城池仍然在原地显示，另一个是道路连接还是照原来的，一样会被电脑打，只是更改军团出现的地点。而且操作的时候很容易死机。不过可以用来作为军团当前和目标坐标的参照系——前提是你喜欢玩军团瞬移……</p></li>
-<li><p>c 最大生产力</p></li>
-<li><p>E 当前生产力</p></li>
-<li><p>10 上升值 为显示值+100</p></li>
-<li><p>11 防灾值</p></li>
-<li><p>12 城兵</p></li>
-<li><p>17 第0-2字节是类型，00-02为大中小城市，03为关卡。</p></li>
-<li><p>19 内政官序号</p></li>
-<li><p>军团数据格式</p></li>
-<li><p>0 状态 位2为委任/战斗指挥</p></li>
-<li><p>1 所属势力序号 但是如果在城池中的时候改掉的话，即使是君主也会被敌人所擒。在路上改君主的话则可能会出现军团找不到可以攻打的城市而转圈圈。</p></li>
-<li><p>2 军团长武将序号</p></li>
-<li><p>4-5 总兵数</p></li>
-<li><p>6 士气</p></li>
-<li><p>E-1 当前坐标</p></li>
-<li><p>16-19 目标坐标</p></li>
-<li><p>20 目的地城池序号</p></li>
-<li><p>28-3F 每4字节的前两个字节是主将、先锋、左翼、右翼、左备和右备的兵数和兵种</p></li>
+<li><p class="linemarker linemarker-42">1 所属势力序号 18是空城</p></li>
+<li><p class="linemarker linemarker-43">2-7 城池名称</p></li>
+<li><p class="linemarker linemarker-44">8-b 城池坐标 然而改了没什么用，一个是城池仍然在原地显示，另一个是道路连接还是照原来的，一样会被电脑打，只是更改军团出现的地点。而且操作的时候很容易死机。不过可以用来作为军团当前和目标坐标的参照系——前提是你喜欢玩军团瞬移……</p></li>
+<li><p class="linemarker linemarker-45">c 最大生产力</p></li>
+<li><p class="linemarker linemarker-46">E 当前生产力</p></li>
+<li><p class="linemarker linemarker-47">10 上升值 为显示值+100</p></li>
+<li><p class="linemarker linemarker-48">11 防灾值</p></li>
+<li><p class="linemarker linemarker-49">12 城兵</p></li>
+<li><p class="linemarker linemarker-50">17 第0-2字节是类型，00-02为大中小城市，03为关卡。</p></li>
+<li><p class="linemarker linemarker-51">19 内政官序号</p></li>
+<li><p class="linemarker linemarker-52">军团数据格式</p></li>
+<li><p class="linemarker linemarker-53">0 状态 位2为委任/战斗指挥</p></li>
+<li><p class="linemarker linemarker-54">1 所属势力序号 但是如果在城池中的时候改掉的话，即使是君主也会被敌人所擒。在路上改君主的话则可能会出现军团找不到可以攻打的城市而转圈圈。</p></li>
+<li><p class="linemarker linemarker-55">2 军团长武将序号</p></li>
+<li><p class="linemarker linemarker-56">4-5 总兵数</p></li>
+<li><p class="linemarker linemarker-57">6 士气</p></li>
+<li><p class="linemarker linemarker-58">E-1 当前坐标</p></li>
+<li><p class="linemarker linemarker-59">16-19 目标坐标</p></li>
+<li><p class="linemarker linemarker-60">20 目的地城池序号</p></li>
+<li><p class="linemarker linemarker-61">28-3F 每4字节的前两个字节是主将、先锋、左翼、右翼、左备和右备的兵数和兵种</p></li>
 </ul>
-<p>武将数据格式</p>
+<p class="linemarker linemarker-63">武将数据格式</p>
 <ul class="simple">
-<li><p>0 属性 0-3位总是为0 4表示势力被灭掉不会成为俘虏而是会自杀，如果灭掉的时候已经是俘虏则本次不会自杀——然而仅仅是本次而已，如果没有投奔你，下次该自杀还是要自杀。第6位表示是君主 第7位表示是否登场。貌似统统改成80（只有第7位是1）游戏不会出问题——除了最后一个武将是自定义军师，默认不登场，改出来也有不能控制军团的问题之外。</p></li>
-<li><p>1 头像序号</p></li>
-<li><p>2-8 姓名</p></li>
-<li><p>9-D 号 原作中只有诸葛亮和庞统的号跟姓名不同。</p></li>
-<li><p>E 城塞战能力 高四位有效，最大A0，下同。</p></li>
-<li><p>F 野战能力</p></li>
-<li><p>10 水战能力 貌似有bug，水战能力高的，在水上作战也并没有什么优势</p></li>
-<li><p>11 武力</p></li>
-<li><p>12 统率</p></li>
-<li><p>13 政治</p></li>
-<li><p>17 武将列表中看到的状态 01234是待命军团长内政官外交官被俘</p></li>
-<li><p>18 登场时间 登场时间倒计时，单位是月。</p></li>
-<li><p>19 投奔势力 自由武将登场时，将加入的势力，例如诸葛亮总是会投奔刘备。如果是有主公的武将，则是主公被灭时会加入的势力，例如刘备被灭刘关张都会去投奔刘表。但是这个投奔只会有效一次，例如公孙瓒被灭之后赵云会投奔刘备，但是投奔之后这个值就变成了FF，之后刘备再被灭掉的话，则电脑随机选择赵云会加入的势力，武将少的势力优先。</p></li>
-<li><p>1C 武将所属势力 被俘则是俘获方势力。FF表示自由武将 _结合19的修改可以让敌方君主都投奔我方，但是敌人武将投奔我方之后其现有的军团并不会消失，仍旧会来攻打我方……</p></li>
-<li><p>1D 被俘武将所属势力</p></li>
+<li><p class="linemarker linemarker-65">0 属性 0-3位总是为0 4表示势力被灭掉不会成为俘虏而是会自杀，如果灭掉的时候已经是俘虏则本次不会自杀——然而仅仅是本次而已，如果没有投奔你，下次该自杀还是要自杀。第6位表示是君主 第7位表示是否登场。貌似统统改成80（只有第7位是1）游戏不会出问题——除了最后一个武将是自定义军师，默认不登场，改出来也有不能控制军团的问题之外。</p></li>
+<li><p class="linemarker linemarker-66">1 头像序号</p></li>
+<li><p class="linemarker linemarker-67">2-8 姓名</p></li>
+<li><p class="linemarker linemarker-68">9-D 号 原作中只有诸葛亮和庞统的号跟姓名不同。</p></li>
+<li><p class="linemarker linemarker-69">E 城塞战能力 高四位有效，最大A0，下同。</p></li>
+<li><p class="linemarker linemarker-70">F 野战能力</p></li>
+<li><p class="linemarker linemarker-71">10 水战能力 貌似有bug，水战能力高的，在水上作战也并没有什么优势</p></li>
+<li><p class="linemarker linemarker-72">11 武力</p></li>
+<li><p class="linemarker linemarker-73">12 统率</p></li>
+<li><p class="linemarker linemarker-74">13 政治</p></li>
+<li><p class="linemarker linemarker-75">17 武将列表中看到的状态 01234是待命军团长内政官外交官被俘</p></li>
+<li><p class="linemarker linemarker-76">18 登场时间 登场时间倒计时，单位是月。</p></li>
+<li><p class="linemarker linemarker-77">19 投奔势力 自由武将登场时，将加入的势力，例如诸葛亮总是会投奔刘备。如果是有主公的武将，则是主公被灭时会加入的势力，例如刘备被灭刘关张都会去投奔刘表。但是这个投奔只会有效一次，例如公孙瓒被灭之后赵云会投奔刘备，但是投奔之后这个值就变成了FF，之后刘备再被灭掉的话，则电脑随机选择赵云会加入的势力，武将少的势力优先。</p></li>
+<li><p class="linemarker linemarker-78">1C 武将所属势力 被俘则是俘获方势力。FF表示自由武将 _结合19的修改可以让敌方君主都投奔我方，但是敌人武将投奔我方之后其现有的军团并不会消失，仍旧会来攻打我方……</p></li>
+<li><p class="linemarker linemarker-79">1D 被俘武将所属势力</p></li>
 </ul>
-</div>
+</section>
 
 
           </div>
@@ -146,7 +149,7 @@
 <ul>
   <li><a href="../../reference.html">Documentation overview</a><ul>
   <li><a href="../index.html">gaming guides</a><ul>
-      <li>Previous: <a href="../fsm97/index.html" title="previous chapter">足球经理97</a></li>
+      <li>Previous: <a href="../fsm97/index.html" title="previous chapter">FIFA Soccer Manager 96/97</a></li>
       <li>Next: <a href="../fa96/index.html" title="next chapter">甲A风云(96)</a></li>
   </ul></li>
   </ul></li>
@@ -161,7 +164,7 @@
     </form>
     </div>
 </div>
-<script>$('#searchbox').show(0);</script>
+<script>document.getElementById('searchbox').style.display = "block"</script>
   <h3>This Page</h3>
   <ul class="this-page-menu">
     <li><a href="../../_sources/games/dragon/index.rst.txt"
@@ -179,7 +182,7 @@
       &copy;2018, Sheng Jiang.
       
       |
-      Powered by <a href="http://sphinx-doc.org/">Sphinx 4.1.2</a>
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 5.3.0</a>
       &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
       
       |

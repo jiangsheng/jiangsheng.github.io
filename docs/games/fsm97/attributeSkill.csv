@@ -1,0 +1,21 @@
+,shoot,pass,head,ctrl,drib
+Position,,,,,
+LRM,3,42,,5,5
+AM,5,46,,5,5
+LRW,3,31,,3,27
+FR,4,14,1,10,27
+FOR,36,4,10,10,3
+SS,29,16,7,13,6
+Training,,,,,
+Sprinting,-1,-1,-1,-1,-1
+Weight,-1,-1,-1,-1,-1
+Jogging,-1,-1,-1,-1,-1
+Shoot,8,,,,
+Pass,,8,,,
+Head,,,8,,
+Control,,,,8,6
+Marking,-1,-1,-1,-1,-1
+Tackling,-1,-1,-1,-1,-1
+Five a side,4,8,2,8,2
+Training Match,8,8,4,4,2
+Physio,-1,-1,-1,-1,

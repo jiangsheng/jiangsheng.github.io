@@ -4,7 +4,8 @@
 <html lang="zh-CN">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>地形 &#8212; jiangsheng 1 documentation</title>
     <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css" />
     <link rel="stylesheet" type="text/css" href="../../../_static/alabaster.css" />
@@ -12,7 +13,9 @@
     <script data-url_root="../../../" id="documentation_options" src="../../../_static/documentation_options.js"></script>
     <script src="../../../_static/jquery.js"></script>
     <script src="../../../_static/underscore.js"></script>
+    <script src="../../../_static/_sphinx_javascript_frameworks_compat.js"></script>
     <script src="../../../_static/doctools.js"></script>
+    <script src="../../../_static/sphinx_highlight.js"></script>
     <script src="https://www.googletagmanager.com/gtag/js?id=UA-30166843-2"></script>
     <script src="../../../_static/google_analytics_tracker.js"></script>
     <link rel="index" title="Index" href="../../../genindex.html" />
@@ -35,81 +38,81 @@
 
           <div class="body" role="main">
             
-  <div class="section" id="topography">
-<span id="id1"></span><h1>地形<a class="headerlink" href="#topography" title="Permalink to this headline">¶</a></h1>
-<p>战斗画面中，你可以移动光标到任何空地（没有机体的地点）按下[取消]键来查看地形对战斗的影响。通常，地形越崎岖，你的命中效果降低越多，并且防御力升高越多。所以，移动你的机体到山地上可以获得比平地更高的防御效果，但是同样使得你的机体的命中效果降低。另外地形越崎岖，对你的机体的在这个地形上的移动能力影响越大。例如高达的移动地形是陆，移动力是7，这意味着它可以在每次行动中，在理想陆地地形上移动7格(比如没有树的平地和草地）。换句话说，没有树的平地和草地的移动消耗是1点行动力/格。其他地形，比如树丛（只有一两棵树）的移动消耗是2点行动力/格，真正崎岖的山地和森林移动消耗是3点行动力/格；所以，高达在树丛中每次行动可以移动3格，在森林中每次行动可以移动两格。记住这只影响陆地移动。空中的移动和命中/防御效果不受地形影响。如果一个机体具有[海]移动类型，那么它在水中的移动不受影响。</p>
-<p>命中下降防御上升地形：</p>
+  <section id="topography">
+<span id="id1"></span><h1>地形<a class="headerlink" href="#topography" title="Permalink to this heading">¶</a></h1>
+<p class="linemarker linemarker-6">战斗画面中，你可以移动光标到任何空地（没有机体的地点）按下[取消]键来查看地形对战斗的影响。通常，地形越崎岖，你的命中效果降低越多，并且防御力升高越多。所以，移动你的机体到山地上可以获得比平地更高的防御效果，但是同样使得你的机体的命中效果降低。另外地形越崎岖，对你的机体的在这个地形上的移动能力影响越大。例如高达的移动地形是陆，移动力是7，这意味着它可以在每次行动中，在理想陆地地形上移动7格(比如没有树的平地和草地）。换句话说，没有树的平地和草地的移动消耗是1点行动力/格。其他地形，比如树丛（只有一两棵树）的移动消耗是2点行动力/格，真正崎岖的山地和森林移动消耗是3点行动力/格；所以，高达在树丛中每次行动可以移动3格，在森林中每次行动可以移动两格。记住这只影响陆地移动。空中的移动和命中/防御效果不受地形影响。如果一个机体具有[海]移动类型，那么它在水中的移动不受影响。</p>
+<p class="linemarker linemarker-9">命中下降防御上升地形：</p>
 <ul class="simple">
-<li><p>山 30%</p></li>
-<li><p>研究所 30%</p></li>
-<li><p>军事基地 30%</p></li>
-<li><p>阿克西斯 30%</p></li>
-<li><p>拉彼安玫瑰 30%</p></li>
-<li><p>月面环形山绝壁 30%</p></li>
-<li><p>火星基地</p></li>
-<li><p>街 25%</p></li>
-<li><p>深海 25%</p></li>
-<li><p>国会议事堂 25%</p></li>
-<li><p>高楼 25%</p></li>
-<li><p>月面都市 25%</p></li>
-<li><p>森 20%</p></li>
-<li><p>暗礁空域 20%</p></li>
-<li><p>残骸 20%</p></li>
-<li><p>宇宙殖民地 20%</p></li>
-<li><p>宇宙殖民地残骸 20%</p></li>
-<li><p>月面环形山盆地 20%</p></li>
-<li><p>火星平台 15%</p></li>
-<li><p>林 命中10%，防御15%</p></li>
-<li><p>云（空中地形） 命中15% 防御5%</p></li>
-<li><p>云（空中地形） 命中15% 防御5%</p></li>
-<li><p>川 5%</p></li>
-<li><p>海 5%</p></li>
-<li><p>岩 5%</p></li>
-<li><p>低木 5%</p></li>
-<li><p>丘 5%</p></li>
-<li><p>斜面 5%</p></li>
-<li><p>湖 5%</p></li>
-<li><p>能量槽 （基地） 命中 5%</p></li>
-<li><p>桥 命中5%</p></li>
+<li><p class="linemarker linemarker-11">山 30%</p></li>
+<li><p class="linemarker linemarker-12">研究所 30%</p></li>
+<li><p class="linemarker linemarker-13">军事基地 30%</p></li>
+<li><p class="linemarker linemarker-14">阿克西斯 30%</p></li>
+<li><p class="linemarker linemarker-15">拉彼安玫瑰 30%</p></li>
+<li><p class="linemarker linemarker-16">月面环形山绝壁 30%</p></li>
+<li><p class="linemarker linemarker-17">火星基地</p></li>
+<li><p class="linemarker linemarker-18">街 25%</p></li>
+<li><p class="linemarker linemarker-19">深海 25%</p></li>
+<li><p class="linemarker linemarker-20">国会议事堂 25%</p></li>
+<li><p class="linemarker linemarker-21">高楼 25%</p></li>
+<li><p class="linemarker linemarker-22">月面都市 25%</p></li>
+<li><p class="linemarker linemarker-23">森 20%</p></li>
+<li><p class="linemarker linemarker-24">暗礁空域 20%</p></li>
+<li><p class="linemarker linemarker-25">残骸 20%</p></li>
+<li><p class="linemarker linemarker-26">宇宙殖民地 20%</p></li>
+<li><p class="linemarker linemarker-27">宇宙殖民地残骸 20%</p></li>
+<li><p class="linemarker linemarker-28">月面环形山盆地 20%</p></li>
+<li><p class="linemarker linemarker-29">火星平台 15%</p></li>
+<li><p class="linemarker linemarker-30">林 命中10%，防御15%</p></li>
+<li><p class="linemarker linemarker-31">云（空中地形） 命中15% 防御5%</p></li>
+<li><p class="linemarker linemarker-32">云（空中地形） 命中15% 防御5%</p></li>
+<li><p class="linemarker linemarker-33">川 5%</p></li>
+<li><p class="linemarker linemarker-34">海 5%</p></li>
+<li><p class="linemarker linemarker-35">岩 5%</p></li>
+<li><p class="linemarker linemarker-36">低木 5%</p></li>
+<li><p class="linemarker linemarker-37">丘 5%</p></li>
+<li><p class="linemarker linemarker-38">斜面 5%</p></li>
+<li><p class="linemarker linemarker-39">湖 5%</p></li>
+<li><p class="linemarker linemarker-40">能量槽 （基地） 命中 5%</p></li>
+<li><p class="linemarker linemarker-41">桥 命中5%</p></li>
 </ul>
-<p>部分地形的方格可以在每回合开始的时候恢复其上机体的HP和EN，即使机体在空中也不例外。某些地形（通常为红色）上的机体（无论是我方还是敌方的） 每回合开始的时候恢复机体的HP和EN10%。在某些话中，一种叫做“基地”的地形可以在每回合开始的时候恢复机体的HP和EN20%。建议尽量在这种地形上战斗。（历史学家：受剧情影响会受到攻击的地点除外，例如在F完结篇中，悲伤的卡多鲁会让你欲哭无泪。）</p>
-<p>HPEN每回合回复地形：</p>
+<p class="linemarker linemarker-43">部分地形的方格可以在每回合开始的时候恢复其上机体的HP和EN，即使机体在空中也不例外。某些地形（通常为红色）上的机体（无论是我方还是敌方的） 每回合开始的时候恢复机体的HP和EN10%。在某些话中，一种叫做“基地”的地形可以在每回合开始的时候恢复机体的HP和EN20%。建议尽量在这种地形上战斗。（历史学家：受剧情影响会受到攻击的地点除外，例如在F完结篇中，悲伤的卡多鲁会让你欲哭无泪。）</p>
+<p class="linemarker linemarker-45">HPEN每回合回复地形：</p>
 <ul class="simple">
-<li><p>研究所 30%</p></li>
-<li><p>拉彼安玫瑰 30%</p></li>
-<li><p>高楼 25%</p></li>
-<li><p>軍事基地 20%</p></li>
-<li><p>火星基地 20%</p></li>
-<li><p>国会議事堂 10%</p></li>
-<li><p>街 10%</p></li>
-<li><p>能量槽 （基地） HP 10%，EN 20%</p></li>
-<li><p>宇宙殖民地 10%</p></li>
-<li><p>阿克西斯 10%</p></li>
-<li><p>月面都市 10%</p></li>
+<li><p class="linemarker linemarker-47">研究所 30%</p></li>
+<li><p class="linemarker linemarker-48">拉彼安玫瑰 30%</p></li>
+<li><p class="linemarker linemarker-49">高楼 25%</p></li>
+<li><p class="linemarker linemarker-50">軍事基地 20%</p></li>
+<li><p class="linemarker linemarker-51">火星基地 20%</p></li>
+<li><p class="linemarker linemarker-52">国会議事堂 10%</p></li>
+<li><p class="linemarker linemarker-53">街 10%</p></li>
+<li><p class="linemarker linemarker-54">能量槽 （基地） HP 10%，EN 20%</p></li>
+<li><p class="linemarker linemarker-55">宇宙殖民地 10%</p></li>
+<li><p class="linemarker linemarker-56">阿克西斯 10%</p></li>
+<li><p class="linemarker linemarker-57">月面都市 10%</p></li>
 </ul>
-<p>一般来说，可以很容易地判断进入地形所需要的移动类型。</p>
+<p class="linemarker linemarker-62">一般来说，可以很容易地判断进入地形所需要的移动类型。</p>
 <ul class="simple">
-<li><p>空：可以进入所有地形。（历史学家：新大战中，有一话的主要地形是海，而且所有机体都暂时不能飞），移动需要消耗EN。地形防御补正无效。</p></li>
-<li><p>陆：可以进入浅海和地面。如果处于深海地形而被强制降落（例如灵格斯飞机状态下被击落）则被强制击坠。崎岖地形有移动惩罚。</p></li>
-<li><p>地中：可以进入地面地形。在地中状态不能攻击（历史学家：在后来的几部作品中，处于这种状态的机体居然可以援攻和援防）</p></li>
-<li><p>海：可以进入深海，移动需要消耗EN。在河流、海洋和深海无移动地形惩罚。</p></li>
-<li><p>水陆：可以进入地面、海洋和深海。在森林和沙漠有3的移动惩罚。</p></li>
-<li><p>地中： 移动消耗EN。无法攻击或者被攻击。适合潜伏放地图炮或者脱力。森林无移动惩罚。</p></li>
-<li><p>宇：可以进入宇宙地形，无法在地面出击。</p></li>
+<li><p class="linemarker linemarker-64">空：可以进入所有地形。（历史学家：新大战中，有一话的主要地形是海，而且所有机体都暂时不能飞），移动需要消耗EN。地形防御补正无效。</p></li>
+<li><p class="linemarker linemarker-65">陆：可以进入浅海和地面。如果处于深海地形而被强制降落（例如灵格斯飞机状态下被击落）则被强制击坠。崎岖地形有移动惩罚。</p></li>
+<li><p class="linemarker linemarker-66">地中：可以进入地面地形。在地中状态不能攻击（历史学家：在后来的几部作品中，处于这种状态的机体居然可以援攻和援防）</p></li>
+<li><p class="linemarker linemarker-67">海：可以进入深海，移动需要消耗EN。在河流、海洋和深海无移动地形惩罚。</p></li>
+<li><p class="linemarker linemarker-68">水陆：可以进入地面、海洋和深海。在森林和沙漠有3的移动惩罚。</p></li>
+<li><p class="linemarker linemarker-69">地中： 移动消耗EN。无法攻击或者被攻击。适合潜伏放地图炮或者脱力。森林无移动惩罚。</p></li>
+<li><p class="linemarker linemarker-70">宇：可以进入宇宙地形，无法在地面出击。</p></li>
 </ul>
-<p>地图类型</p>
+<p class="linemarker linemarker-72">地图类型</p>
 <ul class="simple">
-<li><p>地上 火星 卫星内 出击可能：陆、空、海 地形适应 陆</p></li>
-<li><p>高空 只有キリマンジャロの嵐这一话 出击可能：空 地形适应 陆</p></li>
-<li><p>宇宙 出击可能：陆、空、水陆、宇宙 移动每格消耗1EN 地形适应 宇</p></li>
-<li><p>月 出击可能：陆、空、水陆、宇宙 地形适应 陆 移动类型为宇的无法降落。</p></li>
-<li><p>火星 同月</p></li>
-<li><p>基地 同地上</p></li>
-<li><p>太空殖民地内部  同地上</p></li>
+<li><p class="linemarker linemarker-74">地上 火星 卫星内 出击可能：陆、空、海 地形适应 陆</p></li>
+<li><p class="linemarker linemarker-75">高空 只有キリマンジャロの嵐这一话 出击可能：空 地形适应 陆</p></li>
+<li><p class="linemarker linemarker-76">宇宙 出击可能：陆、空、水陆、宇宙 移动每格消耗1EN 地形适应 宇</p></li>
+<li><p class="linemarker linemarker-77">月 出击可能：陆、空、水陆、宇宙 地形适应 陆 移动类型为宇的无法降落。</p></li>
+<li><p class="linemarker linemarker-78">火星 同月</p></li>
+<li><p class="linemarker linemarker-79">基地 同地上</p></li>
+<li><p class="linemarker linemarker-80">太空殖民地内部  同地上</p></li>
 </ul>
-<p>GP03的移动类型是宇太坑了，最后几话用不了。</p>
-<p>每个机师和机体都有陆海空宇四项地形适配属性。最终效果是两者的平均值。比如A+A=A，A+B=B,A+C=B等等。很多机体虽然出击的时候处于空飞状态，但是地形适应还是空B陆A，这时候记得要在开战的时候把机体降落到地面。注意使用近身格斗武器的时候地形适应是看敌方所在，所以用盖塔的烈日光弹打地面目标或者用戴莫斯的必殺烈風正拳突き改攻击空中目标的时候，都会有两成的地形惩罚。</p>
-</div>
+<p class="linemarker linemarker-82">GP03的移动类型是宇太坑了，最后几话用不了。</p>
+<p class="linemarker linemarker-84">每个机师和机体都有陆海空宇四项地形适配属性。最终效果是两者的平均值。比如A+A=A，A+B=B,A+C=B等等。很多机体虽然出击的时候处于空飞状态，但是地形适应还是空B陆A，这时候记得要在开战的时候把机体降落到地面。注意使用近身格斗武器的时候地形适应是看敌方所在，所以用盖塔的烈日光弹打地面目标或者用戴莫斯的必殺烈風正拳突き改攻击空中目标的时候，都会有两成的地形惩罚。</p>
+</section>
 
 
           </div>
@@ -125,7 +128,27 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../README.html#indices-and-tables">Indices and tables</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../../index.html">gaming guides</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="../../frontmission/index.html">Front Mission s</a></li>
-<li class="toctree-l2 current"><a class="reference internal" href="../index.html">Super Robot Wars 4</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../index.html">Super Robot Wars 4</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../beforestart.html">序幕</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="index.html">设定</a><ul class="current">
+<li class="toctree-l4"><a class="reference internal" href="items.html">芯片</a></li>
+<li class="toctree-l4"><a class="reference internal" href="srw4schanges.html">PS版本的变化</a></li>
+<li class="toctree-l4"><a class="reference internal" href="expfoumla.html">经验值公式</a></li>
+<li class="toctree-l4 current"><a class="current reference internal" href="#">地形适应</a></li>
+<li class="toctree-l4"><a class="reference internal" href="remodeling.html">机体改造</a></li>
+<li class="toctree-l4"><a class="reference internal" href="willpower.html">气力</a></li>
+<li class="toctree-l4"><a class="reference internal" href="deploy.html">出击顺序</a></li>
+<li class="toctree-l4"><a class="reference internal" href="cheat.html">修改</a></li>
+<li class="toctree-l4"><a class="reference internal" href="bug.html">Bug</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#id3">公式</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#id4">芯片</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../pilots/index.html">机师</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../units/index.html">机体</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../walkthrough/index.html">攻略流程</a></li>
+</ul>
+</li>
 <li class="toctree-l2"><a class="reference internal" href="../../mjelct3/index.html">Mahjong Electron Base</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../tenkai/index.html">Mahjong Tenkaigan</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../mm6/index.html">Might and Magic 6</a></li>
@@ -162,7 +185,7 @@
     </form>
     </div>
 </div>
-<script>$('#searchbox').show(0);</script>
+<script>document.getElementById('searchbox').style.display = "block"</script>
   <h3>This Page</h3>
   <ul class="this-page-menu">
     <li><a href="../../../_sources/games/srw4/mechanics/topography.rst.txt"
@@ -180,7 +203,7 @@
       &copy;2018, Sheng Jiang.
       
       |
-      Powered by <a href="http://sphinx-doc.org/">Sphinx 4.1.2</a>
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 5.3.0</a>
       &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
       
       |

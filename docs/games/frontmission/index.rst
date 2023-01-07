@@ -5,9 +5,9 @@ front mission 1 characters
 Training Priority
 =================
 
-each pilot has a max skill slot value. if the number of current skills is less than the max skill slot and the hero has more fight exp than the pilot's requirement to get a skill in a category, a new skill will be offered when gain a level. The order of choosing skill is Short>Long>Melee. Tanks do not have skill designed for them. 
+each pilot has a max skill slot value. if the number of current skills is less than the max skill slot and the hero has more fight exp than the pilot's requirement to get a skill in a category, a new skill will be offered when gain a level. The order of choosing skill is Short>Long>Melee. Tanks do not have skill designed for them.
 
-Skill upgrades randomly when activated, so colosseum is not just a place to fight for money. After getting a new skill, switch to a pair of PIZ3, F-1 TONFAR or SIEGE (you only care about skill activation, not damage) and fight your clone in vs fights. Lv1 skills suck (e.g. lv1 dual and guide cut your accuracy in half) but lv 4 takes too much time so not worth trying in colosseum. you can exit clone fights at skill level 3. 
+Skill upgrades randomly when activated (from First & Guide's 9% chance at LV1, to .05% at lv3). Colosseum is not just a place to fight for money. After getting a new skill, switch to a pair of PIZ3, F-1 TONFAR or SIEGE (you only care about skill activation, not damage) and fight your clone in vs fights. Lv1 skills suck (e.g. lv1 dual and guide cut your accuracy in half) but lv 4 takes too much time so not worth trying in colosseum. you can exit clone fights at skill level 3. 
 
 -----
 short
@@ -15,7 +15,7 @@ short
 
 Machine gun is just scary in the game, even Maury can do decent damage when maxed out short exp, which is basically free after you get the secret weapon in mission 15. the first 5 are the only characters that can learn all short skills and are good in short. Prioritize short for them and equip with machine guns on both hands.
 
-dual>switch>speed 
+dual>switch>speed
 
 dual gives you much more exp now you can keep destroying enemy arms and legs when they are next to a supply truck for repair. switch gives 200%, sometimes more dmg while speed gives only 1-3 more bullet - 20%- 60% more dmg on a 5X machine gun.
 
@@ -85,6 +85,8 @@ agility
 --------
 
 Tanks are not that necessary because melee usually don't carry short or long weapon so they can get high def parts without worrying much about engine overload. agility exp is the hardest to get in this game, though, and hero level formula uses exp from all categories, so everyone needs agility xp. don't bother counterattacking in the game, just guard in the enemy turn.
+
+The agility xp you get by guarding is scaled to the level at the beginning of the battle, thus if you build agility xp earlier, you will get more xp. The first mission has no lose condition and enemy damage is low, perfect time to build agility.
 
 tank lineup in the order of guarding defence:
 
