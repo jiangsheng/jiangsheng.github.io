@@ -1,0 +1,20 @@
+,deter,skill
+Position,,
+LRB,10,44
+CD,10,50
+LRWB,3,26
+SW,3,26
+DM,3,27
+LRM,,20
+AM,,14
+LRW,,3
+Training,,
+Sprinting,-1,-1
+Weight Training,-1,-1
+Jogging,-1,-1
+Passing,-1,-1
+Marking,8,4
+Tackling,4,8
+Five a side,2,6
+Traning match,4,4
+Physio,-1,-1
