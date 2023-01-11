@@ -45,9 +45,9 @@ short lineup in the order of damage:
 long
 -----
 
-Missles makes up the short range deficit. The only skill can be learnt in this category is guide.
+Missles makes up the short range deficit. The only skill can be learnt in this category is guide. Similair to Guide you can farm xp by keep destroying arms and legs when the targt is next to a supply truck.
 
-Guide: lv1: accuracy -50% lv2: accuracy -25% lv3 no accuracy penalty lvmax: accuracy 100%
+Guide: lv1: accuracy -50% lv2: accuracy -25% lv3 no accuracy penalty lvmax: accuracy 100% bug:90% activation at lv Last
 
 long lineup in the order of damage
 
