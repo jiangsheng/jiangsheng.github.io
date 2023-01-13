@@ -104,10 +104,10 @@ tank lineup in the order of guarding defense:
 * Maury Odonnell: useful tank in the stage that Frederick joins the enemy.
 * Porunga: in the last stage everyone can join the fight so you may want to train him a little. 
 
------------
+----------------------
 issue with truck xp farming 
------------
-enemy do get exp and level up for taking your shots and killing our parts. start training on your weakest ones then go with stronger ones. it is best to keep multiple enemies alive. 
+----------------------
+enemies do get exp and level up for taking your shots and killing our parts. start training on your weakest ones then go with stronger ones. it is best to keep multiple enemies alive so you spread out enemy xp gain. 
 
 -----------
 characters

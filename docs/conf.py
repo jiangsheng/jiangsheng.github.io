@@ -126,6 +126,7 @@ html_sidebars = {
         'sourcelink.htm',
         ],
 }
+html_baseurl='https://git.jiangsheng.net/build/html/'
 
 # -- Options for HTMLHelp output ---------------------------------------------
 
