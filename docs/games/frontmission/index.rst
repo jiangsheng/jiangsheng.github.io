@@ -12,12 +12,13 @@ Skill upgrades randomly when activated. Colosseum is not just a place to fight f
 Lv1 skills suck (e.g. lv1 dual and guide cut your accuracy in half) but lv 4 takes too much time so not worth trying in colosseum. you can exit clone fights at skill level 3. A skill cannot be upgraded without activation, therefore if you want to level up Double or Switch, you need the required type of weapons in both hands. The higher your skill level, the more likely the skill will activate, thus creating a snowball effect. Getting a head start in the colosseum would be a great help.
 
 chance to level up when activated:
-1/2000 all skills at lv3
-1/100 Stun/Double/Dual at lv2
-2/100 Switch, Speed at lv2
-3/100 Long at lv2, Dual Switch, Speed at lv1
-5/100 First at lv2, Stun/Double at lv1
-9/100 First, Guide at lv1 
+
+    * 1/2000 all skills at lv3
+    * 1/100 Stun/Double/Dual at lv2
+    * 2/100 Switch, Speed at lv2
+    * 3/100 Long at lv2, Dual Switch, Speed at lv1
+    * 5/100 First at lv2, Stun/Double at lv1
+    * 9/100 First, Guide at lv1 
 
 -----
 short
