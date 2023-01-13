@@ -1,0 +1,22 @@
+# Name of website
+title: Jiang Sheng's documentation
+
+# Your name to show in the footer
+author: Sheng Jiang
+
+navbar-links:
+Author's home: "https://jiangsheng.net"
+social-network-links:
+  github: jiangsheng
+  twitter: jiangsheng
+
+# Add a search button to the navbar
+post_search: true
+
+# Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
+edit_page_button: true
+
+# Exclude these files from production site
+exclude:
+- docs/
+include: [_static]
