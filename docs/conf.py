@@ -224,5 +224,5 @@ googleanalytics_id = 'UA-30166843-2'
 
 def setup(app):
     app.add_css_file('css/custom.css')
-    app.add_js_file("https://www.googletagmanager.com/gtag/js?id=UA-30166843-2")
+    app.add_js_file("https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N")
     app.add_js_file("google_analytics_tracker.js")
