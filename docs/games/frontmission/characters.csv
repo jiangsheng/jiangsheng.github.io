@@ -1,19 +1,19 @@
-﻿Name,Eng. Name,Type,M,S,L,A,Melee,Short,Long,SS,Notes
-ロイド・クライブ,Lloyd Clive,G,B,B,B,B,700/1900/3500,2000/5000/7000,1500,5,
-坂田竜二,Ryuji Sakata,S,D+,S+,C+,C,1000/2300,2500/5500/8500,2000,5,
-ナタリー・F・ブレイクウッド,Natalie F.Blakewood,S/ L,C+,A,B+,C,1000/2200,3100/5000/7000,1900,5,"Can't lean First. join mission 2. leave mission 22, rejoin mission 25"
-キース・カラベル,Keith Carabell,S/ L,B,A,B+,D+,1200,2000/5000/7000,2500,5,"Can't lean First or Stun. join mission 2. leave mission 22, rejoin mission 25."
-ジョイナス・ジェリアスカ,J.J.,S,D,A+,B+,D,2000/3600,2000/5000/7000,2500,5,"join mission 2. leave mission 22, rejoin mission 25"
-フレデリック・ランカスター,Frederick Lancaster,T,C+,C,C+,S+,3000/9000,5000/7000,6000,4,Can't learn Stun or Dual. join mission 3. leave mission 20. opponent mission 22. rejoin after mission 22.
-"楊美花, ヤン・メイファ",Yang Meihua,M/S,A+,B+,D+,C+,1800/2800,3000/5000/7000,2200,3,"Starts with Double. Joins mission 4, talk in military office, then talk & fight in colosseum, leave mission 14. rejoin after mission 14."
-ポール・C・グリバー,Paul C. Grieber,L,C,C,S+,C+,3000,3000/5000,1500,5,"Can't learn First, Double or Speed. talk in bar after mission 5 "
-アルダー・ワイス,Alder Weiss,M/S,A,A,C+,D+,1500,4000/7000,1700,3,"Starts with Stun. Can't learn Speed.  after mission 5, talk in bar, then move to city menasa, talk in bar, then fight in colosseum."
-ピウィー・リッチバーグ Jr.,Peewie Richburg jr.,S/T,D+,B+,D+,B+,,5120,,1,Can only learn Speed in original ROM. no skill in subsequent versions. joins mission 6.
-ハンス・ゴルドウィン,Hans Goldwin,L,C+,C,A+,B,,2900/5900/7900,900,3,joins after mission 8.
-グレゴリオ・マイアス,Gregorio Maias,M,S+,C+,D+,C+,1800/3000,,,3,"Starts with Stun. Can't learn short or long skills. Skills start at lv2. after mission 8, fight in colosseum, join after victory"
-モーリー・オドネル,Maury Odonnell,T,C+,C,C,A,1200/5500,4000/6000,,4,"Can't learn Speed. joins after mission 9, leave mission 10, rejoin after mission 10"
-ボビー・ホプキンス,Bobby Hopkins,S/L,C,A,A,C,1300,2000,1500,3,"Can't learn First, Dual or Speed. after mission 11, stop fight after going to military office,"
-ポルンガ,Porunga,T,B,B,C+,B+,900/2200,3000,,5,Can't learn Dual or Switch. joins with bobby. 
-"楊一清, ヤン・イーヒン",Yang Yeehin,S/L,C+,A,B+,C,2000/3500,4000,2600,4,"Can't learn First, Dual or Switch. joins mission 14. "
-ラルフ・ダイアン,Ralph Dian,M,A+,B+,C+,D+,,,2000,3,"Starts with Stun and Double. after mission 16, fight in colosseum"
-ゲンツ・ヴィーザー,Gentz Weizer,G,B,B,B,B,,3000,2500,2,Starts with Stun. joins mission 23.
+﻿Name,Eng. Name,Tp,M,S,L,A,Melee,Short,Long,SS,Notes
+ロイド・クライブ,Lloyd Clive,G,B,B,B,B,"700, 1900, 3500","2000, 5000, 7000",1500, 5,
+坂田竜二,Ryuji Sakata,S,D+,S+,C+,C,"1000, 2300","2500, 5500, 8500",2000, 5,
+ナタリー・F・ブレイクウッド,Natalie F.Blakewood,S/L,C+,A,B+,C,"1000, 2200","3100, 5000, 7000",1900, 5,"Can't lean First. Joins mission 2. Leaves mission 22. Rejoins mission 25"
+キース・カラベル,Keith Carabell,S/L,B,A,B+,D+,1200, "2000, 5000, 7000",2500, 5,"Can't lean First or Stun. Joins mission 2. Leaves mission 22. Rejoins mission 25."
+ジョイナス・ジェリアスカ,J.J.,S,D,A+,B+,D,"2000, 3600","2000, 5000, 7000",2500, 5,"Joins mission 2. Leaves mission 22. Rejoins mission 25"
+フレデリック・ランカスター,Frederick Lancaster,T,C+,C,C+,S+,"3000, 9000","5000, 7000",6000, 4,"Can't learn Stun or Dual. Joins mission 3. Leaves mission 20. Opponent mission 22. Rejoins after mission 22."
+"楊美花, ヤン・メイファ",Yang Meihua,M/S,A+,B+,D+,C+,"1800, 2800","3000, 5000, 7000",2200, 3,"Starts with Double. Joins mission 4, talk in military office, then talk & fight in colosseum. Leaves mission 14. Rejoins after mission 14."
+ポール・C・グリバー,Paul C. Grieber,L,C,C,S+,C+,3000, "3000, 5000",1500, 5,"Can't learn First, Double or Speed. Talk in bar after mission 5"
+アルダー・ワイス,Alder Weiss,M/S,A,A,C+,D+,1500, "4000, 7000",1700, 3,"Starts with Stun. Can't learn Speed. After mission 5, talk in bar, then move to city Menasa, talk in bar, then fight in colosseum."
+ピウィー・リッチバーグ Jr.,Peewie Richburg Jr.,S/T,D+,B+,D+,B+,,5120, ,1,"Can only learn Speed in original SNES ROM. No skill in subsequent versions and ports. Joins mission 6."
+ハンス・ゴルドウィン,Hans Goldwin,L,C+,C,A+,B,,"2900, 5900, 7900",900, 3,"Joins after mission 8."
+グレゴリオ・マイアス,Gregorio Maias,M,S+,C+,D+,C+,"1800, 3000",,,3,"Starts with Stun. Can't learn short or long skills. Skills start at lv2. After mission 8, fight in colosseum, joins after victory"
+モーリー・オドネル,Maury Odonnell,T,C+,C,C,A,"1200, 5500","4000, 6000",,4,"Can't learn Speed. Joins after mission 9, Leaves mission 10. Rejoins after mission 10"
+ボビー・ホプキンス,Bobby Hopkins,S/L,C,A,A,C,1300, 2000, 1500, 3,"Can't learn First, Dual or Speed. After mission 11, stop fight after going to military office."
+ポルンガ,Porunga,T,B,B,C+,B+,"900, 2200",3000, ,5,"Can't learn Dual or Switch. Joins with Bobby. "
+"楊一清, ヤン・イーヒン",Yang Yeehin,S/L,C+,A,B+,C,"2000, 3500",4000, 2600, 4,"Can't learn First, Dual or Switch. Joins mission 14."
+ラルフ・ダイアン,Ralph Dian,M,A+,B+,C+,D+,,,2000, 3,"Starts with Stun and Double. After mission 16, fight in colosseum."
+ゲンツ・ヴィーザー,Gentz Weizer,G,B,B,B,B,,3000, 2500, 2,"Starts with Stun. Joins mission 23."

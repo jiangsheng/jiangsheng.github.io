@@ -2,5 +2,16 @@
     "restructuredtext.confPath": "${workspaceFolder}\\docs",
     "restructuredtext.workspaceRoot": "c:\\github\\jiangsheng\\jiangsheng.github.io",
     "esbonio.sphinx.buildDir": "${workspaceRoot}/build",
-    "esbonio.sphinx.confDir": "${workspaceFolder}\\docs"
+    "esbonio.sphinx.confDir": "${workspaceFolder}\\docs",
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "restructuredtext",
+        "latex",
+        "plaintext",
+        "html",
+        "jsonc"
+    ]
 }
