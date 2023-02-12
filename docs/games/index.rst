@@ -7,8 +7,9 @@ gaming guides
 ======================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 5
    :caption: 内容:
+   :titlesonly:
 
    Front Mission<frontmission/index.rst>
    Super Robot Wars 4<srw4/index.rst>
