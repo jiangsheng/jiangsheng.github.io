@@ -1,7 +1,7 @@
 Welcome to jiangsheng's documentation!
 ======================================
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 1
    :caption: 内容:
 
    
