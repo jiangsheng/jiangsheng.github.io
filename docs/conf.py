@@ -23,7 +23,7 @@ sys.path.insert(0, os.path.abspath('_ext'))
 # -- Project information -----------------------------------------------------
 
 project = u'jiangsheng'
-copyright = u'2018, Sheng Jiang'
+copyright = u'2018-, Sheng Jiang'
 author = u'Sheng Jiang'
 
 # The short X.Y version
@@ -96,7 +96,10 @@ html_theme = 'alabaster'
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-html_theme_options = { 'page_width': 'auto','body_max_width': 'auto'}
+html_theme_options = {
+     'page_width': 'auto',
+     'body_max_width': 'auto'
+     }
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
