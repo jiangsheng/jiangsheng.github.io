@@ -45,7 +45,7 @@ OCU characters:
 * Keith Carabell: Melee placeholder until Yang Meihua joins. Short and OK Long afterwards. Joins mission 2. Leaves mission 22. Rejoins mission 25.
 * Alder Weiss: better train as Short because of the Melee surplus in the game. Starts with Stun. Can’t learn Speed. I prefer to learn Dual and Switch instead of Guide or other Melee skills as anyone with the two Short skills can disarm an enemy in one turn. After mission 5, talk in bar, then move to city Menasa, talk in bar, then fight in colosseum.
 * Yang Yeehin: Late to join the party and have to play catchup. Worth the training though. Can’t learn First, Dual or Switch. Joins mission 14.
-* Peewie Richburg Jr.: no other weapons. supply truck is too important to send to the front line. if money is not an issue (colosseum fight income) then train after battle is decided with the help of flash grenades/acid. if you have to throw a chaff on him you are in trouble. In the original SNES ROM somehow can learn Speed, probably a bug as it is disabled in later releases. Joins mission 6
+* Peewie Richburg Jr.: no other weapons. supply truck is too important to send to the front line. if money is not an issue (colosseum fight income) then train after battle is decided with the help of flash grenades/acid. if you have to throw a chaff on him you are in trouble. In the original SNES ROM somehow can learn Speed LV3, probably a bug as it cannot be activated and is disabled in later releases. Joins mission 6.
 * Yang Meihua: :Melee placeholder until Gregorio joins. Short afterwards. Best at Melee, but better convert to Short as in this game Short rules. She comes with double, so only 2 skill slots left. Her Long damage is the lowest in the game, may not be a good idea to aim for the guide skill. Joins mission 4, talk in military office, then talk & fight in colosseum. Leaves mission 14. Rejoins after mission 14.
 * Lloyd Clive: although an average Short, learning skills early means more damage in early game. Get surpassed in damage output when specialists learnt their skills though.
 
@@ -157,7 +157,7 @@ Number in the skill column denotes the exp requirement to obtain a new skill. On
    :header-rows: 1
    :widths: 120,120,1,1,1,1,1,10,10,1,1
    
-Useful Part and weapon Codes 
+Useful Part and weapon Codes for SNES
 
 * 7ECF1463 Zenith V Body
 * 7ECFB163 Valiant Body
