@@ -67,7 +67,7 @@ OCU characters:
 * Peewie Richburg Jr.: No other weapons. Supply truck is too important to send to the front line. If money is not an issue (colosseum fight income) then train after battle is decided with the help of flash grenades/acid. if you have to throw a chaff on him you are in trouble. In the original SNES ROM somehow can learn Speed LV3, probably a bug as it cannot be activated and is removed in later releases. Joins mission 6.
 * Yang Meihua: : Melee placeholder until Gregorio joins. Short afterwards. Best at Melee, but better convert to Short as in this game Short rules. She comes with double, leaving only 2 open skill slots. Her Long damage is the lowest in the game, may not be a good idea to aim for the guide skill. Joins mission 4, talk in military office, then talk & fight in colosseum. Leaves mission 14. Rejoins after mission 14.
 * Lloyd Clive: Although an average Short, learning skills early means more damage in early game. Get surpassed in damage output when specialists learnt their skills though.
-* Gentz Weizer: Another Lloyd if not for the serious Shortage of skill slots. Starts with Stun and only 2 skill slots. Joins mission 23
+* Gentz Weizer: Another Lloyd if not for the serious shortage of skill slots. Starts with Stun and only 2 skill slots. Joins mission 23
 * Porunga: A tank that wants to be attacker... and good at neither. Can’t learn Dual or Switch. Joins with Bobby.
 * Frederick Lancaster: Gain skills very slowly (especially for Melee). Good bait for enemy missilers though. Short is the worse talent for him, and he has the worst Short damage in the game, but he can learn 2 Short skills which is better than some ace Shorts (I am looking at you Bobby). Besides his Melee and Long are just slightly better. With Short so overpowered in the game, even the worst Short in the game gets a nod over Melee or Long. Can’t learn Stun or Dual. Joins mission 3. Leaves mission 20. Opponent mission 22. Rejoins after mission 22.
 * Maury Odonnell : A weak version of Frederick but a useful backup tank for splits. Can’t learn Speed. Joins after mission 9, Leaves mission 10. Rejoins after mission 10
@@ -115,6 +115,8 @@ Melee has high accuracy and damage, but no aiming skill like dual or guide so th
 
 In the PS port and later you can get a secret weapon that increases melee exp just like the secret weapon in the SNES version. This makes training melees much less painful. 
 
+Due to the requirement of activation in order to leveling up skills, it does not make sense to train hybrid Melee/Short as every character can learn at least one skill in Double or Switch except Peewie. 
+
 Double > First > Stun 
 
 You can stun with flash grenade which has a 1-4 range (can be further extended by backpacks). There aren't enough enemies worth stunning anyway, better guard their attacks for agility exp. Not to mention Stun is often wasted by Double activation. First gives Melee units a higher attack priority, but does not really matter unless the counterattacking arm or body gets destroyed in a single turn. Due to how hard Melee gets in late game, I don't recommend you train Roid or Kevin as Melee. 
@@ -126,7 +128,7 @@ You can stun with flash grenade which has a 1-4 range (can be further extended b
     * lv3 80%
     * lv max: 90%
 
-* Double: Hit with the other hand if it is also a Melee weapon. 
+* Double: Hit with the other hand if it is also a Melee weapon. Can also activate multiple times.
 
     * lv1: activates 40% of the time
     * lv2: 60% 
@@ -158,7 +160,7 @@ USN characters:
 Agility
 --------
 
-Tanks are not that necessary because Melee usually don't carry Short or Long weapon so they can get defensive parts without worrying much about engine overload. Agility exp is the hardest to get in this game, though, and hero level formula uses exp from all categories, so everyone needs agility exp. Don't bother counterattacking in the game, just guard in the enemy turn.
+Tanks are not that necessary because Melee usually don't carry Short or Long weapon so they can get defensive parts without worrying much about engine overload. Agility exp is the hardest to get in this game, though, and hero level formula uses exp from all categories, so everyone needs agility exp. Don't bother counterattacking in the game, just guard in the enemy turn. Also you can clear the map except enemy supply trucks and guard against their attacks to farm agility exp.
 
 The agility exp you get by guarding is scaled to the level at the beginning of the battle, thus if you build agility exp earlier, you will get a snowball effect. The first mission has no lose condition and enemy damage is low, perfect time to build agility.
 
@@ -170,10 +172,16 @@ OCU characters:
 * Maury Odonnell: Useful tank in the stage that Frederick joins the enemy and when you need to split.
 * Porunga: In the last stage everyone can join the fight so you may want to train him a little. Somehow he has 5 skill slots, but can only learn skill 3 times. Probably an oversight for the designer.
 
+USN characters:
+
+* Halle Fiennes: Ideally would take the role of Peewie in the OCU side. Cannot learn First or Dual. Joins mission 4.
+* Ghetta Cedric: Ideally would take the role of Frederick in the OCU side. Cannot learn Switch or Speed. Comes with Stun. 
+
+
 --------------------------------------------
 Issue with truck exp farming 
 --------------------------------------------
-Enemies do get exp and level up for taking your shots and destroying parts. Start training on your weakest ones then go with stronger ones. It is best to keep multiple enemies alive (e.g. move away from enemy supply truck and make them walk to you in turns after repair) so you spread out enemy exp gain. 
+Enemies do get exp and level up for taking your shots and destroying parts. Start training on your weakest ones (except maybe Peewie, who's only good against armless or stunned wanzers and trucks) then go with stronger ones. It is best to keep multiple enemies alive (e.g. move away from enemy supply truck and make them walk to you in turns after repair) so you spread out enemy exp gain. 
 
 -----------
 Characters
