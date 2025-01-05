@@ -7,8 +7,10 @@ author: Sheng Jiang
 navbar-links:
 Author's home: "https://jiangsheng.net"
 social-network-links:
-  github: jiangsheng
-  twitter: jiangsheng
+  [github:jiangsheng](https://github.com/jiangsheng/)
+  twitter (archived): jiangsheng
+  [bluesky:sheng-jiang.bsky.social](https://bsky.app/profile/sheng-jiang.bsky.social)
+  [stackoverflow:Sheng Jiang 蒋晟](https://stackoverflow.com/users/109919/sheng-jiang-%e8%92%8b%e6%99%9f")
 
 # Add a search button to the navbar
 post_search: true
