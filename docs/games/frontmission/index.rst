@@ -182,7 +182,7 @@ Tank lineup in the order of guarding defense:
 OCU characters:
 
 * Frederick Lancaster: Insane agility growth rate 
-* Maury Odonnell: Useful tank in the stage that Frederick joins the enemy and when you need to split.
+* Maury/Molly Odonnell: Useful tank in the stage that Frederick joins the enemy and when you need to split.
 * Porunga: In the last stage everyone can join the fight so you may want to train him a little. Somehow he has 5 skill slots, but can only learn skill 3 times. Probably an oversight for the designer.
 
 USN characters:
