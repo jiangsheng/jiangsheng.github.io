@@ -15,7 +15,7 @@ The game is centralized on battle with units on a stage. Then use the prize mone
 
 Each stage has a victory condition and a defeat condition. Most of the time, the defeat condition is losing the main character, but sometimes it could be failing to protect a certain NPC or out of time. 
 
-Each pilot has a wanzer. Although you can customize wanzers any way you want, it is best to build a wanzer to its pilot's strength. For example, if the pilot has Double or Switch :ref:`skills <front_mission_mechanics_skills>`, then put Melee or Short :ref:`weapons <front_mission_mechanics_weapons>` in both hands. If the pilot is good at long, equip some long range weapons. You walt good defensive :ref:`parts <front_mission_mechanics_parts>` on a tank, but you want offensive parts on your attackers. 
+Each pilot has a wanzer. Although you can customize wanzers any way you want, it is best to build a wanzer to its pilot's strength. For example, if the pilot has Double or Switch :ref:`skills <front_mission_mechanics_skills>`, then put Melee or Short :ref:`weapons <front_mission_mechanics_weapons>` in both hands. If the pilot is good at long, equip some long range weapons. You want good defensive :ref:`parts <front_mission_mechanics_parts>` on a tank, but you want offensive parts on your attackers. 
 
 Use arrow keys to select options or move target. Use A to confirm and B to cancel. Use L and R to switch pilots. See :ref:`Input <front_mission_mechanics_input>` for more information. 
 

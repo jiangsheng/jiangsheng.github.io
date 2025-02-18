@@ -9,6 +9,7 @@ pilots get :ref:`exps <front_mission_mechanics_exp>`  when attacking and defendi
 
 Pilot levels up When reaching a certain value of total EXP. When level up, the skills the pilot can learn will be displayed. Each pilot has certain thresholds for :ref:`skills <front_mission_mechanics_skills>` to appear. Once a skill has been learned, it cannot be changed, be careful of your selection.
 
+ Generally speaking the earlier joined the better in terms of overall skill set and attributes, the later joined are either too specialized (limited skill set except in one area) or weak, some even with skill slot shortage. You want to actively hold your aces back if you trained them too much, as everyone will be eventually useful.
 
 -------------
 Short lineup 
