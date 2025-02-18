@@ -2,14 +2,14 @@
 =====================================
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 1
    :caption: 内容:
    :hidden:
 
-   序幕 <beforestart.rst>  
-   设定 <mechanics/index.rst> 
-   机师 <pilots/index.rst>
-   机体 <units/index.rst>
+   序幕 <beforestart>  
+   设定 <mechanics/index> 
+   机师 <pilots/index>
+   机体 <units/index>
    攻略流程 <walkthrough/index>
    
 第三次超级机器人大战之后，三个月过去了…… 
