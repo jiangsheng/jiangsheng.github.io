@@ -1,0 +1,907 @@
+
+<!DOCTYPE html>
+
+
+<html lang="zh-CN" data-content_root="../../../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Pilots &#8212; jiangsheng 1 documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="../../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css?v=906dce5e" />
+  
+  <!-- So that users can add custom icons -->
+  <script src="../../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="../../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+
+    <script src="../../../_static/documentation_options.js?v=78b98999"></script>
+    <script src="../../../_static/doctools.js?v=9bcbadda"></script>
+    <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <script src="../../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'games/frontmission/mechanics/pilots';</script>
+    <link rel="canonical" href="https://git.jiangsheng.net/build/html/games/frontmission/mechanics/pilots.html" />
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../search.html" />
+    <link rel="next" title="Skills" href="skills.html" />
+    <link rel="prev" title="Personalize" href="personalize.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="zh-CN"/>
+  <meta name="docsearch:version" content="" />
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="../../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-3 navbar-header-items__start">
+    
+      <div class="navbar-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../../../reference.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">jiangsheng 1 documentation</p>
+  
+</a></div>
+    
+  </div>
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../../gradma/index.html">
+    Gradma's handbook
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          
+          
+            <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../../gradma/index.html">
+    Gradma's handbook
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+          
+        
+      </div>
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+<h3><a href="../../../reference.html">Table of Contents</a></h3>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">内容:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../../README.html">Welcome to jiangsheng’s documentation!</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../README.html#indices-and-tables">Indices and tables</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../../index.html">Games</a><ul class="current">
+<li class="toctree-l2 current"><a class="reference internal" href="../index.html">Front Mission</a><ul class="current">
+<li class="toctree-l3 current"><a class="reference internal" href="index.html">Mechanics</a><ul class="current">
+<li class="toctree-l4"><a class="reference internal" href="city.html"> City</a></li>
+<li class="toctree-l4"><a class="reference internal" href="commands.html"> Commands</a></li>
+<li class="toctree-l4"><a class="reference internal" href="computer.html"> Computer</a></li>
+<li class="toctree-l4"><a class="reference internal" href="exp.html"> Exp</a></li>
+<li class="toctree-l4"><a class="reference internal" href="input.html"> Input</a></li>
+<li class="toctree-l4"><a class="reference internal" href="items.html"> Items</a></li>
+<li class="toctree-l4"><a class="reference internal" href="parts.html"> Parts</a></li>
+<li class="toctree-l4"><a class="reference internal" href="personalize.html"> Personalize</a></li>
+<li class="toctree-l4 current"><a class="current reference internal" href="#"> Pilots</a><ul>
+<li class="toctree-l5"><a class="reference internal" href="#short-lineup">Short lineup</a></li>
+<li class="toctree-l5"><a class="reference internal" href="#long-lineup">Long lineup</a></li>
+<li class="toctree-l5"><a class="reference internal" href="#melee-lineup">Melee lineup</a></li>
+<li class="toctree-l5"><a class="reference internal" href="#tank-lineup">Tank lineup</a></li>
+</ul>
+</li>
+<li class="toctree-l4"><a class="reference internal" href="skills.html"> Skills</a></li>
+<li class="toctree-l4"><a class="reference internal" href="terrain.html"> Terrain</a></li>
+<li class="toctree-l4"><a class="reference internal" href="weapons.html"> Weapons</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../platform_difference.html">Platform Differences</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../srw4/index.html">Super Robot Wars 4</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../mjelct3/index.html">Mahjong Electron Base</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../tenkai/index.html">Mahjong Tenkaigan</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../mm6/index.html">Might and Magic 6</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../fsm97/index.html">Fifa Soccer Manager 97</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../dragon/index.html">卧龙传</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../fa96/index.html">甲A风云</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../san5/index.html">三国志 V</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../index.html#indices-and-tables">Indices and tables</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../gradma/index.html">Gradma's handbook</a></li>
+</ul>
+</div>
+        <div class="sidebar-primary-item">
+  <div>
+    <h4>Previous topic</h4>
+    <p class="topless"><a href="personalize.html"
+                          title="previous chapter">Personalize</a></p>
+  </div>
+  <div>
+    <h4>Next topic</h4>
+    <p class="topless"><a href="skills.html"
+                          title="next chapter">Skills</a></p>
+  </div></div>
+        <div class="sidebar-primary-item">
+<div id="searchbox"></div></div>
+        <div class="sidebar-primary-item">
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="../../../_sources/games/frontmission/mechanics/pilots.rst.txt"
+           rel="nofollow">Show Source</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/games\frontmission\mechanics\pilots.rst"
+           rel="nofollow">Show on GitHub</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/games\frontmission\mechanics\pilots.rst"
+           rel="nofollow">Edit on GitHub</a></li>
+  </ul>
+  <h3>Social Media Links</h3>
+  <ul>
+    <li>twitter (archived): #jiangsheng </li>
+    <li>bluesky: <a href="https://bsky.app/profile/sheng-jiang.bsky.social"> sheng-jiang.bsky.social</a></li>
+    <li>stackoverflow: <a href="https://stackoverflow.com/users/109919/sheng-jiang-%e8%92%8b%e6%99%9f">Sheng Jiang 蒋晟</a></li>
+  </ul></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="../../../reference.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    
+    <li class="breadcrumb-item"><a href="../../index.html" class="nav-link">Gaming guides</a></li>
+    
+    
+    <li class="breadcrumb-item"><a href="../index.html" class="nav-link">Front Mission 1</a></li>
+    
+    
+    <li class="breadcrumb-item"><a href="index.html" class="nav-link">Mechanics</a></li>
+    
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">Pilots</span></li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="pilots">
+<span id="front-mission-mechanics-pilots"></span><h1>Pilots<a class="headerlink" href="#pilots" title="Link to this heading">#</a></h1>
+<p>You will be alone first but many characters will join you later, some automatically, some by choice and you can miss them.</p>
+<p>pilots get <a class="reference internal" href="exp.html#front-mission-mechanics-exp"><span class="std std-ref">exps</span></a>  when attacking and defending. There is not one exp data but 4, melee, short, long and agility. The exp gain you get would depend on the action you took in battle. Even if you lose a wanzer, you will still receive the experience points for the actions you have taken up to that point. Except yourself of cause, losing yourself would most likely be game over.</p>
+<p>Pilot levels up When reaching a certain value of total EXP. When level up, the skills the pilot can learn will be displayed. Each pilot has certain thresholds for <a class="reference internal" href="skills.html#front-mission-mechanics-skills"><span class="std std-ref">skills</span></a> to appear. Once a skill has been learned, it cannot be changed, be careful of your selection.</p>
+<section id="short-lineup">
+<h2>Short lineup<a class="headerlink" href="#short-lineup" title="Link to this heading">#</a></h2>
+<p>Short lineup in the order of damage:</p>
+<p>OCU characters:</p>
+<ul class="simple">
+<li><p>Ryuji Sakata: Short specialist, good for not much else. Somehow can learn 2 Melee skills despite being one of the worse Melee in the game.</p></li>
+<li><p>J.J.: Second best Short. also good at Long. Somehow can learn 2 Melee skills despite being the worse Melee in the game. Joins mission 2. Leaves mission 22. Rejoins mission 25</p></li>
+<li><p>Bobby Hopkins: Rare double ace in Short and Long. Can’t learn First is inconsequential, but can’t earn Dual and Speed hurts. After mission 11, stop fight after going to military office.</p></li>
+<li><p>Natalie F.Blakewood: Ace Short and OK Long. Can’t learn First. Joins mission 2. Leaves mission 22. Rejoins mission 25</p></li>
+<li><p>Keith Carabell: Melee placeholder until Yang Meihua joins. Short and OK Long afterwards. Joins mission 2. Leaves mission 22. Rejoins mission 25.</p></li>
+<li><p>Alder Weiss: Better train as Short because of the Melee surplus in the game. Starts with Stun. Can’t learn Speed (and other melee skills in the original SNES version). I prefer to learn Dual and Switch instead of Guide or other Melee skills as anyone with the two Short skills can disarm an enemy in one turn. After mission 5, talk in bar, then move to city Menasa, talk in bar, then fight in colosseum.</p></li>
+<li><p>Yang Yeehin: Late to join the party and have to play catchup. Worth the training though. Can’t learn First, Dual or Switch. Joins mission 14.</p></li>
+<li><p>Peewie Richburg Jr.: No other weapons. Supply truck is too important to send to the front line. If money is not an issue (colosseum fight income) then train after battle is decided with the help of flash grenades/acid. if you have to throw a chaff on him you are in trouble. In the original SNES ROM somehow can learn Speed LV3, probably a bug as it cannot be activated and is removed in later releases. Joins mission 6.</p></li>
+<li><p>Yang Meihua: : Melee placeholder until Gregorio joins. Short afterwards. Best at Melee, but better convert to Short as in this game Short rules. She comes with Double, leaving only 2 open skill slots. Her Long damage is the lowest in the game, may not be a good idea to aim for the guide skill. Joins mission 4, talk in military office, then talk &amp; fight in colosseum. Leaves mission 14. Rejoins after mission 14. Her First, if learnt, will start at LV2.</p></li>
+<li><p>Lloyd Clive: Although an average Short, learning skills early means more damage in early game. Get surpassed in damage output when specialists learnt their skills though.</p></li>
+<li><p>Gentz Weizer: Another Lloyd if not for the serious shortage of skill slots. Starts with Stun and only 2 skill slots, one for Short and one for Guide. Joins mission 23</p></li>
+<li><p>Porunga: A tank that wants to be attacker… and good at neither. Can’t learn Dual, Switch or Guide. Joins with Bobby.</p></li>
+<li><p>Frederick Lancaster: Gain skills very slowly (especially for Melee). Good bait for enemy missileers though. Short is the worse talent for him, and he has the worst Short damage in the game, but he can learn 2 Short skills which is better than some ace Shorts (I am looking at you Bobby). Besides his Melee and Long are just slightly better. With Short so overpowered in the game, even the worst Short in the game gets a nod over Melee or Long. Can’t learn Stun or Dual. Joins mission 3. Leaves mission 20. Opponent mission 22. Rejoins after mission 22.</p></li>
+<li><p>Maury/Molly Odonnell : A weak version of Frederick but a useful backup tank for splits. Can’t learn Speed or Guide. Joins after mission 9, Leaves mission 10. Rejoins after mission 10</p></li>
+</ul>
+<p>USN characters:</p>
+<ul class="simple">
+<li><p>Gina Davies: A Short specialist like Ryuji in OCU, comes with Guide. Cannot learn Stun or First. Joins mission 12. Leaves mission 18 and returns mission 20.</p></li>
+<li><p>Johnny Sandars (or Johnny Sanders): A nice Short.  Leaves mission 18 and returns mission 19.</p></li>
+<li><p>Kevin Greenfield: Almost identical to Lloyd in OCU, he is also average, flexible and acquire skills fast.</p></li>
+</ul>
+</section>
+<section id="long-lineup">
+<h2>Long lineup<a class="headerlink" href="#long-lineup" title="Link to this heading">#</a></h2>
+<p>Long lineup in the order of damage</p>
+<p>OCU characters:</p>
+<ul class="simple">
+<li><p>Paul C. Grieber: The best Long in the game. Also double as Short because free talent slots. Frederick level Short though. Can’t learn First, Double or Speed. Talk in bar after mission 5.</p></li>
+<li><p>Hans Goldwin: Second best Long in the game.  Also double as Short because free talent slots. Frederick level Short though. Can’t learn melee skills. Joins after mission 8.</p></li>
+<li><p>Bobby Hopkins: Good missileer and Short, too bad not much Short skills</p></li>
+<li><p>Yang Yeehin: Good missileer and Short, too bad not much Short skills</p></li>
+<li><p>Natalie F.Blakewood,Keith Carabell and J.J. Above average Long.</p></li>
+<li><p>Lloyd Clive and Gentz Weizer: Average Long.</p></li>
+</ul>
+<p>USN characters:</p>
+<ul class="simple">
+<li><p>Howard Wong: The only good long at the USN side. He’s at Hans level, not Paul’s. Cannot learn Dual or Switch (yikes). Joins mission 4.</p></li>
+<li><p>Kevin Greenfield: he will be an average Long if at the OCU side, but here he is the second best.</p></li>
+</ul>
+</section>
+<section id="melee-lineup">
+<h2>Melee lineup<a class="headerlink" href="#melee-lineup" title="Link to this heading">#</a></h2>
+<p>Melee lineup in the order of damage:</p>
+<p>OCU characters:</p>
+<ul class="simple">
+<li><p>Gregorio Maias: Best Melee in the game, not good for much else. Starts with Stun. Can’t learn Short or Long skills. Skills start at lv2. After mission 8, fight in colosseum, joins after victory.</p></li>
+<li><p>Ralph Dian: Second best Melee in the game. Starts with Stun and Double. No First hurts. Cannot learn Short skills but can learn Guide. After mission 16, fight in colosseum.</p></li>
+<li><p>Yang Meihua: Convert to Short after Gregorio joins. If the above 2 can do Short, then they will also be converted. Too bad they don’t have much potential in Short skills like Yang.</p></li>
+<li><p>Keith Carabell: Melee placeholder until Yang Meihua joins. Can get Double early but that’s all he can learn in Melee. His portrait is kind of deceiving. He’s better in Short and Long.</p></li>
+</ul>
+<p>USN characters:</p>
+<ul class="simple">
+<li><p>Matthew D. Lorenzo: A nice Melee but more talented than Yang Meihua in OCU in Short skills. Leaves mission 18 and returns mission 19.</p></li>
+<li><p>Kevin Greenfield, Halle Fiennes, Howard Wong and Ghetta Cedric: Average Melee.</p></li>
+</ul>
+</section>
+<section id="tank-lineup">
+<h2>Tank lineup<a class="headerlink" href="#tank-lineup" title="Link to this heading">#</a></h2>
+<p>Tank lineup in the order of guarding defense:</p>
+<p>OCU characters:</p>
+<ul class="simple">
+<li><p>Frederick Lancaster: Insane agility growth rate</p></li>
+<li><p>Maury/Molly Odonnell: Useful tank in the stage that Frederick joins the enemy and when you need to split.</p></li>
+<li><p>Porunga: In the last stage everyone can join the fight so you may want to train him a little. Somehow he has 5 skill slots, but can only learn skill 3 times. Probably an oversight for the designer.</p></li>
+</ul>
+<p>USN characters:</p>
+<ul class="simple">
+<li><p>Halle Fiennes: Ideally would take the role of Peewie in the OCU side as the repairman. Cannot learn First or Dual. Joins mission 4.</p></li>
+<li><p>Ghetta Cedric: Ideally would take the role of Frederick in the OCU side as the tank. Cannot learn Switch or Speed. Comes with Stun.</p></li>
+</ul>
+<p>Tp=Type M=Melee, S=Short, L=Long, A=Agility G=Generic, T=Tank,SS=Skill Slots</p>
+<p>Number in the skill column denotes the exp requirement to obtain a new skill. Once the exp requirement is met, the character can choose one of the skills available to the character in the exp category on the next level up bonus screen, unless the skill slots are full or you hacked too many skills in the category.</p>
+<p>15=D+, 20=C, 25=C+, 30=B, 35=B+, 40=A,45=A+, 50=S, 55=S+</p>
+<div class="pst-scrollable-table-container"><table class="table" id="id1">
+<caption><span class="caption-text">characters</span><a class="headerlink" href="#id1" title="Link to this table">#</a></caption>
+<thead>
+<tr class="row-odd"><th class="head"><p>Name</p></th>
+<th class="head"><p>Eng. Name</p></th>
+<th class="head"><p>Tp</p></th>
+<th class="head"><p>M</p></th>
+<th class="head"><p>S</p></th>
+<th class="head"><p>L</p></th>
+<th class="head"><p>A</p></th>
+<th class="head"><p>Melee</p></th>
+<th class="head"><p>Short</p></th>
+<th class="head"><p>Long</p></th>
+<th class="head"><p>SS</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>ロイド・クライブ</p></td>
+<td><p>Royd/Lloyd Clive</p></td>
+<td><p>G</p></td>
+<td><p>B</p></td>
+<td><p>B</p></td>
+<td><p>B</p></td>
+<td><p>B</p></td>
+<td><p>700, 1900, 3500</p></td>
+<td><p>2000, 5000, 7000</p></td>
+<td><p>1500</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="row-odd"><td><p>坂田竜二</p></td>
+<td><p>Ryuji Sakata</p></td>
+<td><p>S</p></td>
+<td><p>D+</p></td>
+<td><p>S+</p></td>
+<td><p>C+</p></td>
+<td><p>C</p></td>
+<td><p>1000, 2300</p></td>
+<td><p>2500, 5500, 8500</p></td>
+<td><p>2000</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="row-even"><td><p>ナタリー・F・ブレイクウッド</p></td>
+<td><p>Natalie F.Blakewood</p></td>
+<td><p>S/L</p></td>
+<td><p>C+</p></td>
+<td><p>A</p></td>
+<td><p>B+</p></td>
+<td><p>C</p></td>
+<td><p>1000, 2200</p></td>
+<td><p>3100, 5000, 7000</p></td>
+<td><p>1900</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="row-odd"><td><p>キース・カラベル</p></td>
+<td><p>Keith Carabell</p></td>
+<td><p>S/L</p></td>
+<td><p>B</p></td>
+<td><p>A</p></td>
+<td><p>B+</p></td>
+<td><p>D+</p></td>
+<td><p>1200</p></td>
+<td><p>2000, 5000, 7000</p></td>
+<td><p>2500</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="row-even"><td><p>ジョイナス・ジェリアスカ</p></td>
+<td><p>J.J.</p></td>
+<td><p>S</p></td>
+<td><p>D</p></td>
+<td><p>A+</p></td>
+<td><p>B+</p></td>
+<td><p>D</p></td>
+<td><p>2000, 3600</p></td>
+<td><p>2000, 5000, 7000</p></td>
+<td><p>2500</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="row-odd"><td><p>フレデリック・ランカスター</p></td>
+<td><p>Frederick Lancaster</p></td>
+<td><p>T</p></td>
+<td><p>C+</p></td>
+<td><p>C</p></td>
+<td><p>C+</p></td>
+<td><p>S+</p></td>
+<td><p>3000, 9000</p></td>
+<td><p>5000, 7000</p></td>
+<td><p>6000</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>楊美花, ヤン・メイファ</p></td>
+<td><p>Yang Meihua</p></td>
+<td><p>M/S</p></td>
+<td><p>A+</p></td>
+<td><p>B+</p></td>
+<td><p>D+</p></td>
+<td><p>C+</p></td>
+<td><p>1800, 2800</p></td>
+<td><p>3000, 5000, 7000</p></td>
+<td><p>2200</p></td>
+<td><p>3</p></td>
+</tr>
+<tr class="row-odd"><td><p>ポール・C・グリバー</p></td>
+<td><p>Paul C. Grieber</p></td>
+<td><p>L</p></td>
+<td><p>C</p></td>
+<td><p>C</p></td>
+<td><p>S+</p></td>
+<td><p>C+</p></td>
+<td><p>3000</p></td>
+<td><p>3000, 5000</p></td>
+<td><p>1500</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="row-even"><td><p>アルダー・ワイス</p></td>
+<td><p>Alder Weiss</p></td>
+<td><p>M/S</p></td>
+<td><p>A</p></td>
+<td><p>A</p></td>
+<td><p>C+</p></td>
+<td><p>D+</p></td>
+<td><p>1500</p></td>
+<td><p>4000, 7000</p></td>
+<td><p>1700</p></td>
+<td><p>3</p></td>
+</tr>
+<tr class="row-odd"><td><p>ピウィー・リッチバーグ Jr.</p></td>
+<td><p>Peewie Richburg Jr.</p></td>
+<td><p>S/T</p></td>
+<td><p>D+</p></td>
+<td><p>B+</p></td>
+<td><p>D+</p></td>
+<td><p>B+</p></td>
+<td></td>
+<td><p>2000</p></td>
+<td></td>
+<td><p>1</p></td>
+</tr>
+<tr class="row-even"><td><p>ハンス・ゴルドウィン</p></td>
+<td><p>Hans Goldwin</p></td>
+<td><p>L</p></td>
+<td><p>C+</p></td>
+<td><p>C</p></td>
+<td><p>A+</p></td>
+<td><p>B</p></td>
+<td></td>
+<td><p>2900, 5900, 7900</p></td>
+<td><p>900</p></td>
+<td><p>3</p></td>
+</tr>
+<tr class="row-odd"><td><p>グレゴリオ・マイアス</p></td>
+<td><p>Gregorio Maias</p></td>
+<td><p>M</p></td>
+<td><p>S+</p></td>
+<td><p>C+</p></td>
+<td><p>D+</p></td>
+<td><p>C+</p></td>
+<td><p>1800, 3000</p></td>
+<td></td>
+<td></td>
+<td><p>3</p></td>
+</tr>
+<tr class="row-even"><td><p>モーリー・オドネル</p></td>
+<td><p>Maury/Molly Odonnell</p></td>
+<td><p>T</p></td>
+<td><p>C+</p></td>
+<td><p>C</p></td>
+<td><p>C</p></td>
+<td><p>A</p></td>
+<td><p>1200, 5500</p></td>
+<td><p>4000, 6000</p></td>
+<td></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>ボビー・ホプキンス</p></td>
+<td><p>Bobby Hopkins</p></td>
+<td><p>S/L</p></td>
+<td><p>C</p></td>
+<td><p>A</p></td>
+<td><p>A</p></td>
+<td><p>C</p></td>
+<td><p>1300</p></td>
+<td><p>2000</p></td>
+<td><p>1500</p></td>
+<td><p>3</p></td>
+</tr>
+<tr class="row-even"><td><p>ポルンガ</p></td>
+<td><p>Porunga</p></td>
+<td><p>T</p></td>
+<td><p>B</p></td>
+<td><p>B</p></td>
+<td><p>C+</p></td>
+<td><p>B+</p></td>
+<td><p>900, 2200</p></td>
+<td><p>3000</p></td>
+<td></td>
+<td><p>5</p></td>
+</tr>
+<tr class="row-odd"><td><p>楊一清, ヤン・イーヒン</p></td>
+<td><p>Yang Yeehin</p></td>
+<td><p>S/L</p></td>
+<td><p>C+</p></td>
+<td><p>A</p></td>
+<td><p>B+</p></td>
+<td><p>C</p></td>
+<td><p>2000, 3500</p></td>
+<td><p>4000</p></td>
+<td><p>2000</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>ラルフ・ダイアン</p></td>
+<td><p>Ralph Dian</p></td>
+<td><p>M</p></td>
+<td><p>A+</p></td>
+<td><p>B+</p></td>
+<td><p>C+</p></td>
+<td><p>D+</p></td>
+<td></td>
+<td></td>
+<td><p>2000</p></td>
+<td><p>3</p></td>
+</tr>
+<tr class="row-odd"><td><p>ゲンツ・ヴィーザー</p></td>
+<td><p>Gentz Weizer</p></td>
+<td><p>G</p></td>
+<td><p>B</p></td>
+<td><p>B</p></td>
+<td><p>B</p></td>
+<td><p>B</p></td>
+<td></td>
+<td><p>3000</p></td>
+<td><p>2500</p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="row-even"><td><p>ケビン・グリーンフィールド</p></td>
+<td><p>Kevin Greenfield</p></td>
+<td><p>G</p></td>
+<td><p>B</p></td>
+<td><p>B</p></td>
+<td><p>B</p></td>
+<td><p>B</p></td>
+<td><p>1000, 2200, 3500</p></td>
+<td><p>1800, 4800, 7000</p></td>
+<td><p>2000</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="row-odd"><td><p>ジョニー・サンダース</p></td>
+<td><p>Johnny Sandars</p></td>
+<td><p>S</p></td>
+<td><p>C+</p></td>
+<td><p>A+</p></td>
+<td><p>C+</p></td>
+<td><p>C</p></td>
+<td><p>1100, 2300, 3800</p></td>
+<td><p>1600, 4500, 6500</p></td>
+<td><p>2000</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="row-even"><td><p>マシュー・D・ロレンツィオ</p></td>
+<td><p>Matthew D. Lorenzo</p></td>
+<td><p>M/S</p></td>
+<td><p>A+</p></td>
+<td><p>B+</p></td>
+<td><p>C+</p></td>
+<td><p>C</p></td>
+<td><p>700, 1900, 3500</p></td>
+<td><p>2100, 5100, 8000</p></td>
+<td><p>2000</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="row-odd"><td><p>ハル・ファインズ</p></td>
+<td><p>Halle Fiennes</p></td>
+<td><p>T</p></td>
+<td><p>B</p></td>
+<td><p>C+</p></td>
+<td><p>C+</p></td>
+<td><p>A</p></td>
+<td><p>1000, 2200</p></td>
+<td><p>3100, 5000</p></td>
+<td><p>1900</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>ハワード・ウォン</p></td>
+<td><p>Howard Wong</p></td>
+<td><p>L</p></td>
+<td><p>B</p></td>
+<td><p>C</p></td>
+<td><p>A+</p></td>
+<td><p>D+</p></td>
+<td><p>800, 2000</p></td>
+<td><p>3500</p></td>
+<td><p>1500</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>ジーナ</p></td>
+<td><p>Gina Davies</p></td>
+<td><p>S</p></td>
+<td><p>D+</p></td>
+<td><p>S+</p></td>
+<td><p>C</p></td>
+<td><p>C</p></td>
+<td><p>3000</p></td>
+<td><p>4800, 6500</p></td>
+<td><p>3000</p></td>
+<td><p>3</p></td>
+</tr>
+<tr class="row-even"><td><p>ゲッタ・セドリック</p></td>
+<td><p>Ghetta Cedric</p></td>
+<td><p>M/T</p></td>
+<td><p>B</p></td>
+<td><p>C</p></td>
+<td><p>C</p></td>
+<td><p>B</p></td>
+<td><p>2200, 3500</p></td>
+<td><p>5000</p></td>
+<td><p>3000</p></td>
+<td><p>3</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+</section>
+
+
+                </article>
+              
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="personalize.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Personalize</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="skills.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Skills</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+<div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> On this page
+  </div>
+  <nav class="bd-toc-nav page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#short-lineup">Short lineup</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#long-lineup">Long lineup</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#melee-lineup">Melee lineup</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tank-lineup">Tank lineup</a></li>
+</ul>
+  </nav></div>
+
+  <div class="sidebar-secondary-item">
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../../../_sources/games/frontmission/mechanics/pilots.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script defer src="../../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="../../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item">
+
+  <p class="copyright">
+    
+      © Copyright 2018-, Sheng Jiang.
+      <br/>
+    
+  </p>
+</div>
+      
+        <div class="footer-item">
+
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 8.1.3.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item">
+<p class="theme-version">
+  <!-- # L10n: Setting the PST URL as an argument as this does not need to be localized -->
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.16.1.
+</p></div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>

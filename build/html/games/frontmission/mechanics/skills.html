@@ -1,0 +1,609 @@
+
+<!DOCTYPE html>
+
+
+<html lang="zh-CN" data-content_root="../../../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Skills &#8212; jiangsheng 1 documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="../../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css?v=906dce5e" />
+  
+  <!-- So that users can add custom icons -->
+  <script src="../../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="../../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+
+    <script src="../../../_static/documentation_options.js?v=78b98999"></script>
+    <script src="../../../_static/doctools.js?v=9bcbadda"></script>
+    <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <script src="../../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'games/frontmission/mechanics/skills';</script>
+    <link rel="canonical" href="https://git.jiangsheng.net/build/html/games/frontmission/mechanics/skills.html" />
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../search.html" />
+    <link rel="next" title="Terrain" href="terrain.html" />
+    <link rel="prev" title="Pilots" href="pilots.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="zh-CN"/>
+  <meta name="docsearch:version" content="" />
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="../../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-3 navbar-header-items__start">
+    
+      <div class="navbar-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../../../reference.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">jiangsheng 1 documentation</p>
+  
+</a></div>
+    
+  </div>
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../../gradma/index.html">
+    Gradma's handbook
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          
+          
+            <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../../gradma/index.html">
+    Gradma's handbook
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+          
+        
+      </div>
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+<h3><a href="../../../reference.html">Table of Contents</a></h3>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">内容:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../../README.html">Welcome to jiangsheng’s documentation!</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../README.html#indices-and-tables">Indices and tables</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../../index.html">Games</a><ul class="current">
+<li class="toctree-l2 current"><a class="reference internal" href="../index.html">Front Mission</a><ul class="current">
+<li class="toctree-l3 current"><a class="reference internal" href="index.html">Mechanics</a><ul class="current">
+<li class="toctree-l4"><a class="reference internal" href="city.html"> City</a></li>
+<li class="toctree-l4"><a class="reference internal" href="commands.html"> Commands</a></li>
+<li class="toctree-l4"><a class="reference internal" href="computer.html"> Computer</a></li>
+<li class="toctree-l4"><a class="reference internal" href="exp.html"> Exp</a></li>
+<li class="toctree-l4"><a class="reference internal" href="input.html"> Input</a></li>
+<li class="toctree-l4"><a class="reference internal" href="items.html"> Items</a></li>
+<li class="toctree-l4"><a class="reference internal" href="parts.html"> Parts</a></li>
+<li class="toctree-l4"><a class="reference internal" href="personalize.html"> Personalize</a></li>
+<li class="toctree-l4"><a class="reference internal" href="pilots.html"> Pilots</a></li>
+<li class="toctree-l4 current"><a class="current reference internal" href="#"> Skills</a><ul>
+<li class="toctree-l5"><a class="reference internal" href="#short">Short</a></li>
+<li class="toctree-l5"><a class="reference internal" href="#long">Long</a></li>
+<li class="toctree-l5"><a class="reference internal" href="#melee">Melee</a></li>
+<li class="toctree-l5"><a class="reference internal" href="#agility">Agility</a></li>
+</ul>
+</li>
+<li class="toctree-l4"><a class="reference internal" href="terrain.html"> Terrain</a></li>
+<li class="toctree-l4"><a class="reference internal" href="weapons.html"> Weapons</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../platform_difference.html">Platform Differences</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../srw4/index.html">Super Robot Wars 4</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../mjelct3/index.html">Mahjong Electron Base</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../tenkai/index.html">Mahjong Tenkaigan</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../mm6/index.html">Might and Magic 6</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../fsm97/index.html">Fifa Soccer Manager 97</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../dragon/index.html">卧龙传</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../fa96/index.html">甲A风云</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../san5/index.html">三国志 V</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../index.html#indices-and-tables">Indices and tables</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../gradma/index.html">Gradma's handbook</a></li>
+</ul>
+</div>
+        <div class="sidebar-primary-item">
+  <div>
+    <h4>Previous topic</h4>
+    <p class="topless"><a href="pilots.html"
+                          title="previous chapter">Pilots</a></p>
+  </div>
+  <div>
+    <h4>Next topic</h4>
+    <p class="topless"><a href="terrain.html"
+                          title="next chapter">Terrain</a></p>
+  </div></div>
+        <div class="sidebar-primary-item">
+<div id="searchbox"></div></div>
+        <div class="sidebar-primary-item">
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="../../../_sources/games/frontmission/mechanics/skills.rst.txt"
+           rel="nofollow">Show Source</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/games\frontmission\mechanics\skills.rst"
+           rel="nofollow">Show on GitHub</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/games\frontmission\mechanics\skills.rst"
+           rel="nofollow">Edit on GitHub</a></li>
+  </ul>
+  <h3>Social Media Links</h3>
+  <ul>
+    <li>twitter (archived): #jiangsheng </li>
+    <li>bluesky: <a href="https://bsky.app/profile/sheng-jiang.bsky.social"> sheng-jiang.bsky.social</a></li>
+    <li>stackoverflow: <a href="https://stackoverflow.com/users/109919/sheng-jiang-%e8%92%8b%e6%99%9f">Sheng Jiang 蒋晟</a></li>
+  </ul></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="../../../reference.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    
+    <li class="breadcrumb-item"><a href="../../index.html" class="nav-link">Gaming guides</a></li>
+    
+    
+    <li class="breadcrumb-item"><a href="../index.html" class="nav-link">Front Mission 1</a></li>
+    
+    
+    <li class="breadcrumb-item"><a href="index.html" class="nav-link">Mechanics</a></li>
+    
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">Skills</span></li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="skills">
+<span id="front-mission-mechanics-skills"></span><h1>Skills<a class="headerlink" href="#skills" title="Link to this heading">#</a></h1>
+<p>Each <a class="reference internal" href="pilots.html#front-mission-mechanics-pilots"><span class="std std-ref">pilot</span></a> has a max skill slot value. if the number of current skills is less than the max skill slot and the hero has more fight exp than the pilot’s requirement to get a skill in a category, a new skill will be offered when gaining a level. The order of choosing skill is Short&gt;Long&gt;Melee. Tanks do not have skill designed for them.</p>
+<p>Skill upgrades randomly when activated. As there aren’t enough enemies to fully level up skills, you can use colosseum to train your skills. After getting a new skill, switch to a pair of PIZ3, F-1 TONFAR or SIEGE (you only care about skill activation, not damage), get your best defensive build (the lower accuracy the better), get a high agility <a class="reference internal" href="computer.html#front-mission-mechanics-computers"><span class="std std-ref">CPU</span></a> with a low rating with the weapon and fight your clone in vs fights. You can find a demonstration at <a class="reference external" href="https://www.youtube.com/watch?v=C8MaxaBPEQE">https://www.youtube.com/watch?v=C8MaxaBPEQE</a>.</p>
+<p>Lv1 skills suck (e.g. lv1 dual and guide cut your accuracy in half) but lv 4 takes too much time and not worth trying in colosseum. you can exit clone fights at skill level 2 or 3 depending on your patience. A skill cannot be upgraded without activation, therefore if you want to level up Double or Switch, you need the required type of weapons in both hands.The initial build of your wanzers are really deceiving.</p>
+<p>The higher your skill level, the more likely the skill will activate, thus creating a snowball effect. Getting a head start in the colosseum would be a great help for your journey.</p>
+<p>Chance to level up when activated</p>
+<ul class="simple">
+<li><p>0.5% all skills at lv3</p></li>
+<li><p>1% Stun/Double/Dual at lv2</p></li>
+<li><p>2% Switch, Speed at lv2</p></li>
+<li><p>3% Guide at lv2, Dual, Switch, Speed at lv1</p></li>
+<li><p>5% First at lv2, Stun/Double at lv1</p></li>
+<li><p>9% First, Guide at lv1</p></li>
+</ul>
+<section id="short">
+<h2>Short<a class="headerlink" href="#short" title="Link to this heading">#</a></h2>
+<p>Machine gun is just scary in the game, as exp adds damage to each round of attacks and multiple rounds of bullets magnifies the bonus. Even Maury/Molly can do decent damage when maxed out on Short exp, which is basically free after you get the secret weapon in mission 15 at the OCU side. Hint you can use Dual to miss intentionally and transfer the weapon between wanzers via the supply truck during a mission. In late game you can send tough enemies back for repair with Dual and Switch quickly and let your weaker teammates deal with the rest.</p>
+<p>For the OCU side, the first 5 are the only characters that can learn all Short skills and are good in Short. Prioritize Short for them and equip with machine guns on both hands. If you were able to use them throughout the game then you don’t really need other characters. This is how broken Short is. For the USN side the characters are few and it make less sense to convert other types to Short.</p>
+<p>Dual &gt; Switch &gt; Speed (skill slot allowing)</p>
+<p>Switch &gt; Speed&gt; Dual (skill slot limited)</p>
+<p>Dual gives you much more exp fast as you can keep destroying every part except the body when they are next to a supply truck for repair. It should be the first Short skill to get for faster training (with certain weapon you get hundreds of exp even when missing intentionally) unless there’s a skill slot shortage.</p>
+<p>Switch gives 200%, sometimes more damage while Speed gives only 1-3 more bullet - 20%- 60% more damage on a 5X machine gun. Or 33% to 100% more damage on a 3x machine gun. Due to how damage is calculated, you don’t really want a 3x machine gun over a 5x, and forgot single hit weapons like shotguns and flamethrowers, except the secret weapon of course.</p>
+<p>All Short skills can activate when Switch activation, which grants another round of attack. The max bullets I get in one turn is 23 bullets. (<a class="reference external" href="https://www.youtube.com/watch?v=mOnsv1iXWDI">https://www.youtube.com/watch?v=mOnsv1iXWDI</a>)</p>
+<p>Skill level and effects:</p>
+<ul class="simple">
+<li><p>Dual: Aim for a specific body part. Always activate.</p>
+<ul>
+<li><p>lv1: accuracy -50%</p></li>
+<li><p>lv2: accuracy -25%</p></li>
+<li><p>lv3 no accuracy penalty</p></li>
+<li><p>lv max: accuracy 100%</p></li>
+</ul>
+</li>
+<li><p>Switch: Fire with the other hand if it is also a Short weapon.</p>
+<ul>
+<li><p>lv1: activates 30% of the time</p></li>
+<li><p>lv2: 50%</p></li>
+<li><p>lv3 80%</p></li>
+<li><p>lv max: 90%</p></li>
+</ul>
+</li>
+<li><p>Speed: Add rounds to a multiple round Short weapon.</p>
+<ul>
+<li><p>lv1 activates 50% of the time. Extra bullets:1</p></li>
+<li><p>lv2: 60% Extra bullets:2</p></li>
+<li><p>lv3 70% Extra bullets:3</p></li>
+<li><p>lv max: 80%. Extra bullets: 3</p></li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="long">
+<h2>Long<a class="headerlink" href="#long" title="Link to this heading">#</a></h2>
+<p>Missiles makes up the Short range deficit. Can also weaken enemy before finishing up with Short specialists. The only skill can be learnt in this category is Guide. Similar to Dual you can farm exp by aiming for arms and legs when the target is next to a supply truck for repair. Like Short weapons, the damage bonus from exp is per hit, which means a 3x missile is better than a 1x in late game. In other games you may not want to send artillery units to the front line, but in this one they got decent close range output due to Short being unbalanced in the game with the help of a secret weapon (many consider it cheating) and they can get at least some Short skills.</p>
+<dl class="simple">
+<dt>Guide: Aim for a specific body part. Always activate unless bugged.</dt><dd><ul class="simple">
+<li><p>lv1: accuracy -50%</p></li>
+<li><p>lv2: accuracy -25%</p></li>
+<li><p>lv3 no accuracy penalty</p></li>
+<li><p>lv max: accuracy 100% bug:90% activation at Lv Last and hasn’t been patched with so many platform ports, leading me to think it might be intentional now.</p></li>
+</ul>
+</dd>
+</dl>
+</section>
+<section id="melee">
+<h2>Melee<a class="headerlink" href="#melee" title="Link to this heading">#</a></h2>
+<p>Melee has high accuracy and damage, but no aiming skill like dual or guide causing them wasting a lot of exp by destroying the body first, robbing you the chance of supply truck exp farming. Besides, you need some combinations of smoke bomb + First + some luck on Stun/Double to avoid being seriously wounded by counterattacks in late game. And that missiles hurt. Throw some chaff on them when closing to enemy.</p>
+<p>Due to how hard Melee gets in late game, it would be best to farm Melee exp in early game. just remember don’t pick up Melee skills unless the skill slot allows one after Short/Long.</p>
+<p>That said, if you can’t farm exp due to time limits or if you need to defend someone, Melee does have advantage by destroying the body first.</p>
+<p>In the PS port and later you can get a secret weapon that increases melee exp just like the secret weapon in the SNES version. This makes training melees much less painful.</p>
+<p>Due to the requirement of activation in order to leveling up skills, it does not make sense to train hybrid Melee/Short as every character can learn at least one skill in Double or Switch except Peewie.</p>
+<p>Double &gt; First &gt; Stun</p>
+<p>You can stun with <a class="reference internal" href="items.html#front-mission-mechanics-items"><span class="std std-ref">flash grenade</span></a> which has a 1-4 range (can be further extended by backpacks). There aren’t enough enemies worth stunning anyway, better guard their attacks for agility exp (see later). Not to mention Stun is often wasted by Double activation.</p>
+<p>First gives Melee units a higher attack priority, but does not really matter unless the counterattacking arm or body gets destroyed in the attack. Due to how hard Melee gets in late game, I don’t recommend you train Royd or Kevin as Melee.</p>
+<ul class="simple">
+<li><p>Stun: Disable enemy with Melee weapon for up to 3 turns.</p>
+<ul>
+<li><p>lv1: activates 40% of the time</p></li>
+<li><p>lv2: 60%</p></li>
+<li><p>lv3 80%</p></li>
+<li><p>lv max: 90%</p></li>
+</ul>
+</li>
+<li><p>Double: Hit with the other hand if it is also a Melee weapon. Can also activate multiple times.</p>
+<ul>
+<li><p>lv1: activates 40% of the time</p></li>
+<li><p>lv2: 60%</p></li>
+<li><p>lv3 80%</p></li>
+<li><p>lv max: 90%</p></li>
+</ul>
+</li>
+<li><p>First: Attack first (normally Melee act later than Short and Long)</p>
+<ul>
+<li><p>lv1: activates 40% of the time</p></li>
+<li><p>lv2: 60%</p></li>
+<li><p>lv3 80%</p></li>
+<li><p>lv max: 90%</p></li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="agility">
+<h2>Agility<a class="headerlink" href="#agility" title="Link to this heading">#</a></h2>
+<p>Tanks are not that necessary because Melees usually don’t carry Short or Long weapon so they can get defensive parts without worrying much about engine overload. Agility exp is the hardest to get in this game, though, and hero level formula uses <a class="reference internal" href="exp.html#front-mission-mechanics-exp"><span class="std std-ref">exp</span></a> from all categories, so everyone needs agility exp. Don’t bother counterattacking in the game, just guard in the enemy turn (Cancel if prompted for shield if you can). Also you can clear the map except enemy supply trucks and guard against their attacks to farm agility exp.</p>
+</section>
+</section>
+
+
+                </article>
+              
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="pilots.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Pilots</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="terrain.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Terrain</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+<div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> On this page
+  </div>
+  <nav class="bd-toc-nav page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#short">Short</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#long">Long</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#melee">Melee</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#agility">Agility</a></li>
+</ul>
+  </nav></div>
+
+  <div class="sidebar-secondary-item">
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../../../_sources/games/frontmission/mechanics/skills.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script defer src="../../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="../../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item">
+
+  <p class="copyright">
+    
+      © Copyright 2018-, Sheng Jiang.
+      <br/>
+    
+  </p>
+</div>
+      
+        <div class="footer-item">
+
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 8.1.3.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item">
+<p class="theme-version">
+  <!-- # L10n: Setting the PST URL as an argument as this does not need to be localized -->
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.16.1.
+</p></div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>
