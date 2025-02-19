@@ -5,6 +5,8 @@ Skills
 
 Each :ref:`pilot <front_mission_mechanics_pilots>` has a max skill slot value. if the number of current skills is less than the max skill slot and the hero has more fight exp than the pilot's requirement to get a skill in a category, a new skill will be offered when gaining a level. The order of choosing skill is Short>Long>Melee. Tanks do not have skill designed for them.
 
+If you skip a skill, it will be offered again and again until either your level is maxed out (pretty much mean you maxed out all 4 exp categories) or your skill slot is filled.
+
 Skill upgrades randomly when activated. As there aren't enough enemies to fully level up skills, you can use colosseum to train your skills. After getting a new skill, switch to a pair of PIZ3, F-1 TONFAR or SIEGE (you only care about skill activation, not damage), get your best defensive build (the lower accuracy the better), get a high agility :ref:`CPU <front_mission_mechanics_computers>` with a low rating with the weapon and fight your clone in vs fights. You can find a demonstration at https://www.youtube.com/watch?v=C8MaxaBPEQE.
 
 Lv1 skills suck (e.g. lv1 dual and guide cut your accuracy in half) but lv 4 takes too much time and not worth trying in colosseum. you can exit clone fights at skill level 2 or 3 depending on your patience. A skill cannot be upgraded without activation, therefore if you want to level up Double or Switch, you need the required type of weapons in both hands.The initial build of your wanzers are really deceiving. 
