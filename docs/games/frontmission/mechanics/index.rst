@@ -7,8 +7,8 @@ Mechanics
 .. toctree::
    :maxdepth: 1
    :caption: mechanics:
-    :titlesonly:
-    :hidden:
+   :titlesonly:
+   :hidden:
 
     City <city>
     Commands <commands>
