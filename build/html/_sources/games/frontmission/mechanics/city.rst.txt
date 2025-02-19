@@ -23,8 +23,8 @@ Know your enemy:
 
 * Named pilots and Commanders: delay fighting with them if you can. Once engaged, focus fire. 
 * Attackers (Melee): Even in late game and in enemy phrase they can be still be disarmed without incident if you have the Short Skills. But if left unchecked can do some serious harm if your units become stunned.
-* Attackers (Short): due to the imbalance of Short skills, they will do serious damage in late game. However you can still disarm them like Melee counterpart in the player phrase. 
-* Missileers : Due to their range they can focus on your weakest unit (the supply truck that is). Take them out ASAP. 
+* Attackers (Short): due to the imbalance of Short skills, they can do serious damage in late game. However you can still disarm them like Melee counterpart in the player phrase. 
+* Missileers : Due to their range they can focus on your weakest unit (the supply truck that is). Take them out with your close range attackers (they suck when attacked). 
 * Tanks and carriers. They are not much of a threat. Use them to farm Agility exp and do truck exp farming. 
 
 --------------------
@@ -40,7 +40,7 @@ Colosseum
 
 Here you fight for money. You can also lose money, however, if you are not careful (or unwilling to save/load).   
 
-Having one Dual or Guide skill can probably get you a win. You can remove unnecessary weapons to boost your odds. 
+Having one Dual or Guide skill can probably get you a win. You can remove unnecessary weapons (e.g. if you don't need Switch to win, drop a grip weapon) and downgrade parts to boost your payout odds. 
 
 As skills level up by activation, you can use colosseum fights to level up skills.
 
@@ -68,6 +68,8 @@ How you setup your wanzer depends on the pilot.
 * Tank/Melee units. Prioritize movement and defense. Keep weight/power ration low. Can be mass trained in some :ref:`platform ports <front_mission_platform_differences>`. 
 * Short units. Can be mass trained due to the secret weapon. Best defensive hand. Machine guns in both hands. Prioritize Hp for body.
 * Long units. They won't receive counterattacks. You can prioritize output for body. (due to Short being OP, most of them can use Short builds as well) 
+
+The rating of the finished wanzer will decide the colosseum odds.
 
 
 --------------------

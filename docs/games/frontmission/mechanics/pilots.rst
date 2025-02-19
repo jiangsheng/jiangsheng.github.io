@@ -5,9 +5,9 @@ Pilots
 ======================
 You will be alone first but many characters will join you later, some automatically, some by choice and you can miss them. 
 
-pilots get :ref:`exps <front_mission_mechanics_exp>`  when attacking and defending. There is not one exp data but 4, melee, short, long and agility. The exp gain you get would depend on the action you took in battle. Even if you lose a wanzer, you will still receive the experience points for the actions you have taken up to that point. Except yourself of cause, losing yourself would most likely be game over. 
+Pilots get :ref:`exps <front_mission_mechanics_exp>`  when attacking and defending. There is not one exp data but 4, melee, short, long and agility. The exp type you get would depend on the action you took in battle. Even if you lose a wanzer, you will still receive the experience points for the actions you have taken up to that point. Except yourself of cause, losing yourself would most likely be game over. 
 
-Pilot levels up When reaching a certain value of total EXP. When level up, the skills the pilot can learn will be displayed. Each pilot has certain thresholds for :ref:`skills <front_mission_mechanics_skills>` to appear. Once a skill has been learned, it cannot be changed, be careful of your selection.
+Pilot levels up when reaching a certain value of total EXP. When level up, the skills the pilot can learn will be displayed. Each pilot has certain thresholds for :ref:`skills <front_mission_mechanics_skills>` to appear. Once a skill has been learned, it cannot be changed, be careful of your selection.
 
  Generally speaking the earlier joined the better in terms of overall skill set and attributes, the later joined are either too specialized (limited skill set except in one area) or weak, some even with skill slot shortage. You want to actively hold your aces back if you trained them too much, as everyone will be eventually useful.
 

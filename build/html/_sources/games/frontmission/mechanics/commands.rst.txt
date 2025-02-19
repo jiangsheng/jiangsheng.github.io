@@ -20,7 +20,7 @@ Most commands are fixed and you cannot miss, some les obvious commands are
   * Machine status show HP for each part, as well as the wanzer's status e.g. stunned, etc.
   * Pilot Status show pilot's attributes and skills.
   * Equipment View shows weapons on each part and their ammo. 
-* Supply: exchange weapons and resupply ammo. Only visible when next to the supply truck. If a unit ends turn next to a trunk and has damaged :ref:`parts <front_mission_mechanics_parts>`, then the damaged parts will be repaired first to 1 HP, then to a percent of lost HP.
+* Supply: exchange weapons and resupply ammo. Good for exchange the secret weapon during battle to mass produce Short attackers. Only visible when next to the supply truck. If a unit ends turn next to a trunk and has damaged :ref:`parts <front_mission_mechanics_parts>`, then the damaged parts will be repaired first to 1 HP, then to a percent of lost HP.
 * Repair: This command will only be displayed if there is an allied unit adjacent to a unit equipped with Refill. Repair is automatic when ending turn next to a supply truck.  
 * Machine/pilot status: you can easily trigger this for your pilots by pressing B when selected, but for NPC/enemies, you need to first deselect your current unit then select the unit you want to check, then press B.
 
