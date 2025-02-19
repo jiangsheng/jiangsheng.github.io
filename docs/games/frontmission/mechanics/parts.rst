@@ -20,6 +20,7 @@ Body: provide engine support. When the body is destroyed, the wanzer is defeated
   * 60%-69% ： 3 movement points
   * 50%-59% ： 4 movement point
   * <50% : 5 movement point
+ 
 You want high HP for tanks and high output for attackers that carry a lot of weapons. 
 
 Arm: When an arm is destroyed, you can not use grip or shoulder weapons on that arm without :ref:`repairing <front_mission_mechanics_commands>`. You want high hit arm for attackers and high HP arm for tanks. 
