@@ -27,5 +27,5 @@ The grip/shoulder weapons has their Hit but is also affected by the Hit value of
 
 Some arms have integrated weapons. Normal arms come with punch, others like gun or cannon are generally less preferable as they have lower HP and defense in exchange of lowering total weight. Also you cannot equip a Long weapon on shoulder. 
 
-For the OCU side, if you missed the secret weapon in mission 15, you can pick it up again in mission 19, but you need to use Ryod to pick up this time. 
+For the OCU side, if you missed the secret weapon in mission 15, you can pick it up again in mission 19, but you need to use Royd to pick up this time. 
 
