@@ -14,3 +14,5 @@ You can equip items to either heal in battle or have various buffs/debuffs. Back
 * B\. A\. Mine: anti-unit mine.  
 
 Long range items are essentially Long weapons, you will get exp by using them. 
+
+The USN route does not have a supply truck, a special backpack would turn a wanzer into one that has similar functionality. 
