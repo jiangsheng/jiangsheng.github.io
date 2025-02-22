@@ -22,6 +22,8 @@ Chance to level up when activated
 * 5% First at lv2, Stun/Double at lv1
 * 9% First, Guide at lv1 
   
+Note even when you cancel Dual or Guide it still counts as an activation.
+  
 -----
 Short
 -----
@@ -34,7 +36,7 @@ Dual > Switch > Speed (skill slot allowing)
 
 Switch > Speed> Dual (skill slot limited)
 
-Dual gives you much more exp fast as you can keep destroying every part except the body when they are next to a supply truck for repair. It should be the first Short skill to get for faster training (with certain weapon you get hundreds of exp even when missing intentionally) unless there's a skill slot shortage. 
+Dual gives you much more exp fast as you can keep destroying every part except the body when they are next to a supply truck for repair. It should be the first Short skill to get for faster training (with certain weapon you get hundreds of exp even when missing intentionally) unless there's a skill slot shortage. And you can intentionally miss by aiming for a damaged part to level your other short skills during the missions when the battle is decided. 
 
 Switch gives 200%, sometimes more damage while Speed gives only 1-3 more bullet - 20%- 60% more damage on a 5X machine gun. Or 33% to 100% more damage on a 3x machine gun. Due to how damage is calculated, you don't really want a 3x machine gun over a 5x, and forgot single hit weapons like shotguns and flamethrowers, except the secret weapon of course.
 
@@ -63,12 +65,13 @@ Skill level and effects:
   * lv3 70% Extra bullets:3
   * lv max: 80%. Extra bullets: 3
 
-
 -----
 Long
 -----
 
 Missiles makes up the Short range deficit. Can also weaken enemy before finishing up with Short specialists. The only skill can be learnt in this category is Guide. Similar to Dual you can farm exp by aiming for arms and legs when the target is next to a supply truck for repair. Like Short weapons, the damage bonus from exp is per hit, which means a 3x missile is better than a 1x in late game. In other games you may not want to send artillery units to the front line, but in this one they got decent close range output due to Short being unbalanced in the game with the help of a secret weapon (many consider it cheating) and they can get at least some Short skills. 
+
+Guide always activate before maxed, thus it is easy to train. If you really need to level it fast, you can intentionally miss by aiming for a damaged part during the missions when the battle is decided. 
 
 Guide: Aim for a specific body part. Always activate unless bugged.
   *  lv1: accuracy -50% 
@@ -84,7 +87,7 @@ Melee
 
 Melee has high accuracy and damage, but no aiming skill like dual or guide causing them wasting a lot of exp by destroying the body first, robbing you the chance of supply truck exp farming. Besides, you need some combinations of smoke bomb + First + some luck on Stun/Double to avoid being seriously wounded by counterattacks in late game. And that missiles hurt. Throw some chaff on them when closing to enemy. 
 
-Due to how hard Melee gets in late game, it would be best to farm Melee exp in early game. just remember don't pick up Melee skills unless the skill slot allows one after Short/Long. 
+Melee weapons are single hit and benefit less compared to multiple hit Short or Long weapons. Due to how hard Melee gets in late game, it would be best to farm Melee exp in early game. just remember don't pick up Melee skills unless the skill slot allows one after Short/Long. 
 
 That said, if you can't farm exp due to time limits or if you need to defend someone, Melee does have advantage by destroying the body first.
 

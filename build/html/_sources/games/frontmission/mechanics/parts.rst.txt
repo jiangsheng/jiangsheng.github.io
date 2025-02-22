@@ -27,6 +27,8 @@ Arm: When an arm is destroyed, you can not use grip or shoulder weapons on that 
 
 There are two kinds of hit values on an arm, one is with equipped weapon and one is without. The hit value of the arm affects grip and shoulder weapons. The integrated weapon hit affects integrated weapons only.
 
-Leg: provides movement. When the leg is destroyed, the unit would have very limited movement. Actual range depends on leg type (or lack thereof) and the :ref:`terrain <front_mission_mechanics_terrain>`. Normal legs are best for traveling between different elevation levels. For flat terrains, you can switch to other type of legs. Although tanks need high HP legs, usually you just want highest movement ones as they need to run to the front to absorb damage.
+Leg: provides movement. When the leg is destroyed, the unit would have very limited movement. Actual range depends on leg type (or lack thereof) and the :ref:`terrain <front_mission_mechanics_terrain>`. Normal legs are usually the slowest except for rivers, rocks and beaches, but they can get up and down multiple elevation levels. Hover does not slowdown in beaches and rivers, and they are faster than others in jungles, woods and rocks, the only drawback being unable to move multiple elevation levels. Tires are usually the fastest on flat terrains, but slow in desert, jungle, river rock and woods. Treads are normally a equal or slower version of tire, but they are a little faster than tire in deserts. 
+
+Although tanks need high HP legs, usually you just want highest movement ones as they need to run to the front to absorb damage and use items to reduce damage taken.
 
 The most expensive part is usually the best option for everyone, if you can afford that is.

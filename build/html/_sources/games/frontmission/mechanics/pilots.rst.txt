@@ -11,6 +11,8 @@ Pilot levels up when reaching a certain value of total EXP. When level up, the s
 
  Generally speaking the earlier joined the better in terms of overall skill set and attributes, the later joined are either too specialized (limited skill set except in one area) or weak, some even with skill slot shortage. You want to actively hold your aces back if you trained them too much, as everyone will be eventually useful.
 
+ In the pilot status window, the password is the data you would enter in the VS play menu of your friend's game. In this way you can battle your wanzer with your friend. 
+
 -------------
 Short lineup 
 -------------
@@ -21,7 +23,7 @@ OCU characters:
 
 * Ryuji Sakata: Short specialist, good for not much else. Somehow can learn 2 Melee skills despite being one of the worse Melee in the game. 
 * J.J.: Second best Short. also good at Long. Somehow can learn 2 Melee skills despite being the worse Melee in the game. Joins mission 2. Leaves mission 22. Rejoins mission 25
-* Bobby Hopkins: Rare double ace in Short and Long. Can't learn First is inconsequential, but can't earn Dual and Speed hurts. After mission 11, stop fight after going to military office.
+* Bobby Hopkins: Rare double ace in Short and Long. Can't learn First is inconsequential, but can't earn Dual and Speed hurts (from the skill slot and number of short skill thresholds, he was initially designed to have more short skills) . After mission 11, stop fight after going to military office.
 * Natalie F.Blakewood: Ace Short and OK Long. Can't learn First. Joins mission 2. Leaves mission 22. Rejoins mission 25
 * Keith Carabell: Melee placeholder until Yang Meihua joins. Short and OK Long afterwards. Joins mission 2. Leaves mission 22. Rejoins mission 25.
 * Alder Weiss: Better train as Short because of the Melee surplus in the game. Starts with Stun. Can't learn Speed (and other melee skills in the original SNES version). I prefer to learn Dual and Switch instead of Guide or other Melee skills as anyone with the two Short skills can disarm an enemy in one turn. After mission 5, talk in bar, then move to city Menasa, talk in bar, then fight in colosseum.
@@ -31,7 +33,7 @@ OCU characters:
 * Lloyd Clive: Although an average Short, learning skills early means more damage in early game. Get surpassed in damage output when specialists learnt their skills though.
 * Gentz Weizer: Another Lloyd if not for the serious shortage of skill slots. Starts with Stun and only 2 skill slots, one for Short and one for Guide. Joins mission 23
 * Porunga: A tank that wants to be attacker... and good at neither. Can't learn Dual, Switch or Guide. Joins with Bobby.
-* Frederick Lancaster: Gain skills very slowly (especially for Melee). Good bait for enemy missileers though. Short is the worse talent for him, and he has the worst Short damage in the game, but he can learn 2 Short skills which is better than some ace Shorts (I am looking at you Bobby). Besides his Melee and Long are just slightly better. With Short so overpowered in the game, even the worst Short in the game gets a nod over Melee or Long. Can't learn Stun or Dual. Joins mission 3. Leaves mission 20. Opponent mission 22. Rejoins after mission 22.
+* Frederick Lancaster: Gain skills very slowly (especially for Melee). Good bait for enemy missileers though. Short is the worse talent for him, and he has the worst Short damage in the game, but he can learn 2 Short skills which is better than some ace Shorts (I am looking at you Bobby). Besides his Melee and Long are just slightly better. With Short so overpowered in the game, even the worst Short in the game gets a nod over Melee or Long. Can't learn Stun or Dual. Joins mission 3. Leaves mission 20. Opponent mission 22 (upgrade his wanzer for better award). Rejoins after mission 22.
 * Maury/Molly Odonnell : A weak version of Frederick but a useful backup tank for splits. Can't learn Speed or Guide. Joins after mission 9, Leaves mission 10. Rejoins after mission 10
 
 USN characters:
@@ -68,7 +70,7 @@ Melee lineup in the order of damage:
 OCU characters:
 
 * Gregorio Maias: Best Melee in the game, not good for much else. Starts with Stun. Can't learn Short or Long skills. Skills start at lv2. After mission 8, fight in colosseum, joins after victory.
-* Ralph Dian: Second best Melee in the game. Starts with Stun and Double. No First hurts. Cannot learn Short skills but can learn Guide. After mission 16, fight in colosseum. 
+* Ralph Dian: Second best Melee in the game. Starts with Stun and Double. No First hurts. Cannot learn Short skills but can learn Guide after the DS port. After mission 16, fight in colosseum. 
 * Yang Meihua: Convert to Short after Gregorio joins. If the above 2 can do Short, then they will also be converted. Too bad they don't have much potential in Short skills like Yang. 
 * Keith Carabell: Melee placeholder until Yang Meihua joins. Can get Double early but that's all he can learn in Melee. His portrait is kind of deceiving. He's better in Short and Long. 
 
@@ -87,7 +89,7 @@ OCU characters:
 
 * Frederick Lancaster: Insane agility growth rate 
 * Maury/Molly Odonnell: Useful tank in the stage that Frederick joins the enemy and when you need to split. 
-* Porunga: In the last stage everyone can join the fight so you may want to train him a little. Somehow he has 5 skill slots, but can only learn skill 3 times. Probably an oversight for the designer.
+* Porunga: In the last stage everyone can join the fight so you may want to train him a little. Somehow he has 5 skill slots, but can only learn skill 3 times. Probably an oversight for the designer. From the skill slot and number of short skill thresholds, he was initially designed to have more short skills.
 
 USN characters:
 
