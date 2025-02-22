@@ -3,12 +3,11 @@
 Mechanics
 =====================================
  
-
 .. toctree::
    :maxdepth: 1
    :caption: mechanics:
-    :titlesonly:
-    :hidden:
+   :titlesonly:
+   :hidden:
 
     City <city>
     Commands <commands>
@@ -28,7 +27,7 @@ The game is centralized on battle with units on a stage. Then use the prize mone
 
 Each :ref:`pilot <front_mission_mechanics_pilots>` has a wanzer. Although you can customize wanzers any way you want, it is best to build a wanzer to its :ref:`pilot <front_mission_mechanics_pilots>`'s strength. For example, if the pilot has Double or Switch :ref:`skills <front_mission_mechanics_skills>`, then put Melee or Short :ref:`weapons <front_mission_mechanics_weapons>` in both hands. If the pilot is good at Long, equip some long range weapons. You walt good defensive :ref:`parts <front_mission_mechanics_parts>` on a tank, but you want offensive parts on your attackers. Depending on the :ref:`terrain <front_mission_mechanics_terrain>`, you may want the best suitable legs. 
 
-After exiting a city, you will have the chance to select a destination. The default one is the next battlefield but you probably want to change that for secret missions (when available for the :ref:`platform <front_mission_platform_differences>`) or upgrade your wanzers/newly acquired skills first between battles. If the destination is a battlefield, you will be asked for deployment. After deployment, you will then control your units. If you missed a recruitable character you can always go back a few cities and recruit. 
+After exiting a city, you will have the chance to select a destination. The default one is the next battlefield but you probably want to change that for saving your progress, secret missions (when available for the :ref:`platform <front_mission_platform_differences>`) or upgrade your wanzers/newly acquired skills first between battles. If the destination is a battlefield, you will be asked for deployment. After deployment, you will then control your units. If you missed a recruitable character you can always go back a few cities and recruit. 
 
 Each stage has a victory condition and a defeat condition. Most of the time, the defeat condition is losing the main character, but sometimes it could be failing to protect a certain NPC or out of time. If you fail a bonus objective, such as protecting an NPC, you will get less reward.
 

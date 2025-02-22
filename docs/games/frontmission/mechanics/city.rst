@@ -17,7 +17,7 @@ The shop gradually releases newer and better parts. Don't throw your money on ti
 --------------------
 Military office
 --------------------
-Here you receive orders for the battle and gain intelligence to the enemy. Check the Boss data and adjust your setup accordingly.
+Here you receive orders and briefings for the battle and gain intelligence to the enemy. Check the boss data and adjust your setup accordingly. Getting orders is the main way to unlock new battlefield or town you can move to.
 
 Know your enemy:
 
@@ -44,6 +44,8 @@ Having one Dual or Guide skill can probably get you a win. You can remove unnece
 
 As skills level up by activation, you can use colosseum fights to level up skills.
 
+Certain pilots are recruited here after a fight. 
+
 * Front Mission 1st: Remake: exp increased
 
 --------------------
@@ -65,9 +67,10 @@ You can equip backpacks to expand your item storage. However if you remove your 
 
 How you setup your wanzer depends on the pilot. 
 
-* Tank/Melee units. Prioritize movement and defense. Keep weight/power ration low. Can be mass trained in some :ref:`platform ports <front_mission_platform_differences>`. 
-* Short units. Can be mass trained due to the secret weapon. Best defensive hand. Machine guns in both hands. Prioritize Hp for body.
-* Long units. They won't receive counterattacks. You can prioritize output for body. (due to Short being OP, most of them can use Short builds as well) 
+* Tank/Melee units. Prioritize movement and defense. Keep weight/power ration low. Can be mass trained in some :ref:`platform ports <front_mission_platform_differences>` with the help of a secret weapon. Equip a Shield on shoulder. Movement is essential if the wander carries Riff. 
+* Short units. Can be mass trained due to a secret weapon. Best defensive hand. Machine guns in both hands. Prioritize Hp for body.
+* Long units. They won't receive counterattacks. You can prioritize output for body and Hit for arm. (due to Short being OP, most of them can use Short builds as well) You can even equip a Bazooka or Grenade Launcher on one Arm if you don't feel like running back to the supply truck.
+* Due to every pilot can learn Switch or Double and you need the same type of weapon in both hands to level up those skills, do not mix short and long weapons like those setups you get from the beginning of the game.
 
 The rating of the finished wanzer will decide the colosseum odds.
 

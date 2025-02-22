@@ -11,7 +11,7 @@ Front Mission 1
 
 After creating a new game, you will be asked to :ref:`personalize <front_mission_mechanics_personalize>` your name and call sign. Then you will enter a battle field. 
 
-The game is centralized on battle with robots (called wanzers in this game) on a stage. Then use the prize money to upgrade units in a :ref:`city <front_mission_mechanics_city>` and fight next one. 
+The game is centralized on battle with robots (called wanzers in this game) on a stage. Then use the prize money to upgrade units in a :ref:`city <front_mission_mechanics_city>` and fight next one. Sometimes the default move target after a battle is another battlefield, you should always check your destination before confirming, at least saving your progress first before next battle (sometimes you get to recruit pilots or enter secret mission by going back). 
 
 Each stage has a victory condition and a defeat condition. Most of the time, the defeat condition is losing the main character, but sometimes it could be failing to protect a certain NPC or out of time. If you lost in a stage it would be game over. If you saved earlier, you can load that save. 
 

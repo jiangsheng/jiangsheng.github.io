@@ -13,7 +13,19 @@ Weapons have the following attributes:
 * Weight: how much it costs engine output
 * Type: weapon type (Melee/Short/Long) 
   
-As the :ref:`exp <front_mission_mechanics_exp>` bonus is per hit, generally you should avoid single hit Short and Long weapons (except the secret weapon of course). That means no flamethrower, rifle or shotgun. Machine gun or missile launcher only. Some weapons are Short/Long hybrid but as they are single hit, they run out of usefulness quickly. 
+Melee weapons usually comes with arms. Some grip weapons are melee but there aren't many good melee weapons - you can do without purchasing any. Although for truck exp farming, you want weakest grips to not blow enemy up by accident. 
 
-For late games, if you haven't done agility exp farming, equip a shield for everyone. Shield defense adds to the wanzer's guarding defense but is useless if guard is broken after the first hit. 
+Short weapons are usually bought for the shop. As the :ref:`exp <front_mission_mechanics_exp>` damage bonus is per hit, generally you should avoid single hit Short weapons (except the secret weapon of course). Shotguns are the first to retire as they only have accuracy advantage but accuracy goes up with xp. Flamethrowers and rifles are next as they are single hit. In the end you want machine gun or vulcan only.
+
+Some weapons are Short/Long hybrid. For the point blank range, their accuracies are too low (except maybe rifles) when the Short xp is low, and damage too low when the Short xp is high as they are single hit. For long range battle the accuracy make them unreliable damage dealers. Better than nothing of course (if your engine cannot afford a separate Long weapon on the shoulder that is). 
+
+Long weapons are basically free damage. They need to be reloaded often and cannot be fired at close range. Like Short weapons, you want multiple hit ones other than single hit ones. 
+
+For late games, if you haven't done agility exp farming, equip a shield for everyone. Shield defense adds to the wanzer's guarding defense but is useless if guard is broken after the first hit or the unit is stunned. 
+
+The grip/shoulder weapons has their Hit but is also affected by the Hit value of the arm. You want a high Hit arm to boost accuracy. 
+
+Some arms have integrated weapons. Normal arms come with punch, others like gun or cannon are generally less preferable as they have lower HP and defense in exchange of lowering total weight. Also you cannot equip a Long weapon on shoulder. 
+
+For the OCU side, if you missed the secret weapon in mission 15, you can pick it up again in mission 19, but you need to use Ryod to pick up this time. 
 
