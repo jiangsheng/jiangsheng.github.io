@@ -31,8 +31,8 @@ After exiting a city, you will have the chance to select a destination. The defa
 
 Each stage has a victory condition and a defeat condition. Most of the time, the defeat condition is losing the main character, but sometimes it could be failing to protect a certain NPC or out of time. If you fail a bonus objective, such as protecting an NPC, you will get less reward.
 
-When the main character's wanzer is destroyed in a battle, the game ends (except for the first OCU mission). You can interrupt during a mission. Then you can reset and continue from the interrupted point. The interrupted point will be erased when you create a new game.
+When the main character's wanzer is destroyed in a battle, the game usually ends. You can interrupt during a mission. Then you can reset and continue from the interrupted point. The interrupted point will be erased when you create a new game.
 
-You probably want to delay fighting with a boss until you finished other enemies and optionally repaired/resupplied your wanzers.
+You probably want to delay fighting with a boss until you finished other enemies and optionally repaired/resupplied your wanzers. If the mission does not have a time limit that is. 
 
 After the victory condition is met, you get mission award and pay the repair cost (if any). Then you go to the next base to prepare for another battle until the game ends. 

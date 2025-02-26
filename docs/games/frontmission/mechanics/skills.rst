@@ -7,9 +7,9 @@ Each :ref:`pilot <front_mission_mechanics_pilots>` has a max skill slot value. i
 
 If you skip a skill, it will be offered again and again until either your level is maxed out (pretty much mean you maxed out all 4 exp categories) or your skill slot is filled.
 
-Skill upgrades randomly when activated. As there aren't enough enemies to fully level up skills, you can use colosseum to train your skills. After getting a new skill, switch to a pair of PIZ3, F-1 TONFAR or SIEGE (you only care about skill activation, not damage), get your best defensive build (the lower accuracy the better), get a high agility :ref:`CPU <front_mission_mechanics_computers>` with a low rating with the weapon and fight your clone in vs fights. You can find a demonstration at https://www.youtube.com/watch?v=C8MaxaBPEQE.
+Skill upgrades randomly when activated. As there aren't enough enemies to fully level up skills in the missions, you can use colosseum to train your skills. After getting a new skill, switch to a pair of PIZ3, F-1 TONFAR or SIEGE (you only care about skill activation, not damage), get your best defensive build (the lower accuracy the better), get a high agility :ref:`CPU <front_mission_mechanics_computers>` with a low rating with the weapon and fight your clone in vs fights. You can find a demonstration at https://www.youtube.com/watch?v=C8MaxaBPEQE.
 
-Lv1 skills suck (e.g. lv1 dual and guide cut your accuracy in half) but lv 4 takes too much time and not worth trying in colosseum. you can exit clone fights at skill level 2 or 3 depending on your patience. A skill cannot be upgraded without activation, therefore if you want to level up Double or Switch, you need the required type of weapons in both hands.The initial build of your wanzers are really deceiving. 
+Level 1 skills suck (e.g. lv1 dual and guide cut your accuracy in half) but the last level takes too much time to train and not worth trying in colosseum. you can exit clone fights at skill level 2 or 3 depending on your patience. A skill cannot be upgraded without activation, therefore if you want to level up Double or Switch, you need the required type of weapons in both hands. The initial build of your wanzers are really deceiving. 
 
 The higher your skill level, the more likely the skill will activate, thus creating a snowball effect. Getting a head start in the colosseum would be a great help for your journey.
 
@@ -85,7 +85,7 @@ Guide: Aim for a specific body part. Always activate unless bugged.
 Melee
 -----
 
-Melee has high accuracy and damage, but no aiming skill like dual or guide causing them wasting a lot of exp by destroying the body first, robbing you the chance of supply truck exp farming. Besides, you need some combinations of smoke bomb + First + some luck on Stun/Double to avoid being seriously wounded by counterattacks in late game. And that missiles hurt. Throw some chaff on them when closing to enemy. 
+Melee has high accuracy and damage, but no aiming skill like dual or guide causing them wasting a lot of exp by destroying the body first, robbing you the chance of supply truck exp farming. Besides, you need some combinations of smoke bomb + First + some luck on Stun/Double to avoid being seriously wounded by counterattacks in late game. And that missiles hurt. Throw some chaff on them when closing to enemy encirclement. 
 
 Melee weapons are single hit and benefit less compared to multiple hit Short or Long weapons. Due to how hard Melee gets in late game, it would be best to farm Melee exp in early game. just remember don't pick up Melee skills unless the skill slot allows one after Short/Long. 
 
