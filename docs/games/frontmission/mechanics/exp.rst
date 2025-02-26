@@ -11,11 +11,11 @@ Each pilot require different exp for different skills. They have different skill
 
 You can't change a skill once learned so only take skills when the :ref:`pilot's <front_mission_mechanics_pilots>` skill slot allows one. If you skip an undesired skill, it will be offered again and again until the skill slot is full or the pilot reaches level 50. 
 
-Certain weapons have exp bonus, which means you get a lot of exp even when you miss. 
+Certain weapons have exp bonus, which means you get a lot of exp even when you miss intentionally. You can also exchange the weapon between wanzers to train multiple pilots in the same mission. 
 
 In stages where enemy have supply trucks, you can break parts and let enemy wanzers run back for repair, then break the repaired parts again. Dual and Guide :ref:`skills <front_mission_mechanics_skills>` helps you from destroying the body, but they will take a skill slot. Use a very weak weapon if a pilot does not have aiming skills.
 
-You can leave the leg as enemy may be unable to reach the truck without it on rough :ref:`terrain <front_mission_mechanics_terrain>`.
+You can leave the leg intact as enemy may be unable to reach the truck without it on rough :ref:`terrain <front_mission_mechanics_terrain>`.
 
 For agility exp, you want to defend next to a weak unit. Do not use a shield (cancel when prompted to use) . The agility exp you get by guarding is scaled to the level at the beginning of the battle (:ref:`except for the Switch remake <front_mission_platform_differences>`), thus if you build agility exp earlier, you will get a snowball effect. The first mission has no lose condition and enemy damage is low, perfect time to build agility.
 

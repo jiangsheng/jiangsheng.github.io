@@ -23,7 +23,7 @@ Long weapons are basically free damage. They need to be reloaded often and canno
 
 For late games, if you haven't done agility exp farming, equip a shield for everyone. Shield defense adds to the wanzer's guarding defense but is useless if guard is broken after the first hit or the unit is stunned. 
 
-The grip/shoulder weapons has their Hit but is also affected by the Hit value of the arm. You want a high Hit arm to boost accuracy. 
+The grip/shoulder weapons has their own Hit values but are also affected by the Hit value of the arm. You want a high Hit arm to boost accuracy for grip/shoulder weapons. 
 
 Some arms have integrated weapons. Normal arms come with punch, others like gun or cannon are generally less preferable as they have lower HP and defense in exchange of lowering total weight. Also you cannot equip a Long weapon on shoulder. 
 
