@@ -10,16 +10,16 @@ Secondary SNES ROM:
     * Peewee skill removed
 
 WonderSwan Color:
-    * :ref:`mechanics <front_mission_mechanics>` Same as Secondary SNES ROM:
+    * :ref:`mechanics <front_mission_mechanics>`: based on Secondary SNES ROM:
     * Added simplified battle mode
     * Some game mechanic change, e.g. some special enemies now have bonus xp when destroyed, exclusive to this version. 
 
 Playstation 1:
     * Titled Front Mission 1st
     * :ref:`Alder <front_mission_mechanics_pilots>` can learn other melee skills.
-    * new U.S.N route (now called U.C.S. )
-    * new weapons and parts
-    * crossover from Front Mission 4
+    * New U.S.N route (now called U.C.S. )
+    * New weapons and parts
+    * Crossover from Front Mission 4
     * Improved graphics (e.g. new watch tower and radar added in the first OCU mission, flying clouds and real trees with variety unlike the toy trees in previous ports)    
     * Improved sound effects and tracks
     * Some pilots have skill exp thresholds and skill slots changed.
@@ -31,8 +31,8 @@ Playstation 1:
 Nintendo DS:
     * Based on PS1 port.
     * Extra screen displaying more data that was previously displayed in extra menus or not at all.
-    * Ex.Missions
-    * More crossovers and extra dialogs.
+    * New secret Ex.Missions
+    * More crossovers from other games from the front mission series and extra dialogs.
     * New weapons and parts
     * Improved graphics 
     * High speed battle mode replaces simplified battle mode
@@ -46,7 +46,7 @@ Nintendo DS:
     * Password for Player vs Player Duel removed.
   
 Front Mission 1st: Remake
-    * Multiple Platform:
+    * Multiple Platforms
     * 3D graphics
     * pilot setup no longer shows peewee status
     * More exp from colosseum fights
