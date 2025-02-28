@@ -10,7 +10,9 @@
         <script src="math_test.js"></script>        
     </head>
    
-    <body onload="GenerateNewQuestion();">    
+    <body onload="GenerateNewQuestion();loadVoicesWhenAvailable(function () {
+        console.log("loaded") 
+       });">    
         <form>
             <div id="readableContent">
                 <div id="instruction">Write the following equation in English.<br/> For example, if the question is 1 + 1 = 2, you answer "One plus one equals two.". <br/>If the question is 2 × 2 = 4, you answer "Two times two equals four.". </div>
