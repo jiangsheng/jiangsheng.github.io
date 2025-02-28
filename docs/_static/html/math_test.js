@@ -91,7 +91,7 @@ function ReadPage()
 {    
     var synth = window.speechSynthesis;
     var textToSpeech=document.getElementById("readableContent").innerText;
-    setTimeout(() => playByText("en-US", textToSpeech, 300)
+    setTimeout(() => playByText("en-US", textToSpeech, 300));
 }
 let _speechSynth
 let _voices
