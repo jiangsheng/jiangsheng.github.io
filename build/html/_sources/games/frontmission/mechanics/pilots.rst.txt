@@ -5,13 +5,13 @@ Pilots
 ======================
 You will be alone first but many characters will join you later, some automatically, some by choice and you can miss them. 
 
-Pilots get :ref:`exps <front_mission_mechanics_exp>`  when attacking and defending. There is not one exp data but 4, melee, short, long and agility. The exp type you get would depend on the action you took in battle. Even if you lose a wanzer, you will still receive the experience points for the actions you have taken up to that point. Except yourself of cause, losing yourself would most likely be game over. 
+Pilots get :ref:`exps <front_mission_mechanics_exp>`  when attacking and defending. There is not one exp data but 4, Melee, Short, Long and Agility. The exp type you get would depend on the action you took in battle. Even if you lose a wanzer, you will still receive the experience points for the actions you have taken up to that point. Except yourself of cause, losing yourself would most likely be game over. 
 
 Pilot levels up when reaching a certain value of total EXP. When level up, the skills the pilot can learn will be displayed. Each pilot has certain thresholds for :ref:`skills <front_mission_mechanics_skills>` to appear. Once a skill has been learned, it cannot be changed, be careful of your selection.
 
- Generally speaking the earlier joined the better in terms of overall skill set and attributes, the later joined are either too specialized (limited skill set except in one area) or weak, some even with skill slot shortage. You want to actively hold your aces back if you trained them too much, as everyone will be eventually useful.
+Generally speaking the earlier joined the better in terms of overall skill set and attributes, the later joined are either too specialized (limited skill set except in one area) or weak, some even with skill slot shortage. You want to actively hold your aces back if you trained them too much, as everyone will be eventually useful.
 
- In the pilot status window, the password is the data you would enter in the VS play menu of your friend's game. In this way you can battle your wanzer with your friend. 
+In the pilot status window, the password is the data you would enter in the VS play menu of your friend's game. In this way you can battle your wanzer with your friend. 
 
 -------------
 Short lineup 
@@ -24,13 +24,13 @@ OCU characters:
 * Ryuji Sakata: Short specialist, good for not much else. Somehow can learn 2 Melee skills despite being one of the worse Melee in the game. 
 * J.J.: Second best Short. also good at Long. Somehow can learn 2 Melee skills despite being the worse Melee in the game. Joins mission 2. Leaves mission 22. Rejoins mission 25
 * Bobby Hopkins: Rare double ace in Short and Long. Can't learn First is inconsequential, but can't earn Dual and Speed hurts (from the skill slot and number of short skill thresholds, he was initially designed to have more short skills) . After mission 11, stop fight after going to military office.
-* Natalie F.Blakewood: Ace Short and OK Long. Can't learn First. Joins mission 2. Leaves mission 22. Rejoins mission 25
+* Natalie F. Blakewood: Ace Short and OK Long. Can't learn First. Joins mission 2. Leaves mission 22. Rejoins mission 25
 * Keith Carabell: Melee placeholder until Yang Meihua joins. Short and OK Long afterwards. Joins mission 2. Leaves mission 22. Rejoins mission 25.
 * Alder Weiss: Better train as Short because of the Melee surplus in the game. Starts with Stun. Can't learn Speed (and other melee skills in the original SNES version). I prefer to learn Dual and Switch instead of Guide or other Melee skills as anyone with the two Short skills can disarm an enemy in one turn. After mission 5, talk in bar, then move to city Menasa, talk in bar, then fight in colosseum.
 * Yang Yeehin: Late to join the party and have to play catchup. Worth the training though. Can't learn First, Dual or Switch. Joins mission 14.
 * Peewie Richburg Jr.: No other weapons. Supply truck is too important to send to the front line. If money is not an issue (colosseum fight income) then train after battle is decided with the help of flash grenades/acid. if you have to throw a chaff on him you are in trouble. In the original SNES ROM somehow can learn Speed LV3, probably a bug as it cannot be activated and is removed in later releases. Joins mission 6.
 * Yang Meihua: : Melee placeholder until Gregorio joins. Short afterwards. Best at Melee, but better convert to Short as in this game Short rules. She comes with Double, leaving only 2 open skill slots. Her Long damage is the lowest in the game, may not be a good idea to aim for the guide skill. Joins mission 4, talk in military office, then talk & fight in colosseum. Leaves mission 14. Rejoins after mission 14. Her First, if learnt, will start at LV2. 
-* Lloyd Clive: Although an average Short, learning skills early means more damage in early game. Get surpassed in damage output when specialists learnt their skills though.
+* Royd/Lloyd Clive: Although an average Short, learning skills early means more damage in early game. Get surpassed in damage output when specialists learnt their skills though.
 * Gentz Weizer: Another Lloyd if not for the serious shortage of skill slots. Starts with Stun and only 2 skill slots, one for Short and one for Guide. Joins mission 23
 * Porunga: A tank that wants to be attacker... and good at neither. Can't learn Dual, Switch or Guide. Joins with Bobby.
 * Frederick Lancaster: Gain skills very slowly (especially for Melee). Good bait for enemy missileers though. Short is the worse talent for him, and he has the worst Short damage in the game, but he can learn 2 Short skills which is better than some ace Shorts (I am looking at you Bobby). Besides his Melee and Long are just slightly better. With Short so overpowered in the game, even the worst Short in the game gets a nod over Melee or Long. Can't learn Stun or Dual. Joins mission 3. Leaves mission 20. Opponent mission 22 (upgrade his wanzer for better award). Rejoins after mission 22.
@@ -54,7 +54,7 @@ OCU characters:
 * Bobby Hopkins: Good missileer and Short, too bad not much Short skills
 * Yang Yeehin: Good missileer and Short, too bad not much Short skills
 * Natalie F.Blakewood,Keith Carabell and J.J. Above average Long. 
-* Lloyd Clive and Gentz Weizer: Average Long.
+* Royd/Lloyd Clive and Gentz Weizer: Average Long.
 
 USN characters:
 

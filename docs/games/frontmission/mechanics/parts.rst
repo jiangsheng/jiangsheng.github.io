@@ -31,7 +31,7 @@ Leg: provides movement. When the leg is destroyed, the unit would have very limi
 
 Backpacks: Can increase item storage and range in additional to power output. 
 
-CPU: increase hit/avoid rate. See :ref:`Computers <_front_mission_mechanics_computers>`
+CPU: increase hit/avoid rate. See :ref:`Computers <front_mission_mechanics_computers>`
 
 Although tanks need high HP legs, usually you just want highest movement ones as they need to run to the front to absorb damage and use items to reduce damage taken.
 
