@@ -1,5 +1,5 @@
-var mathOperations=["\+" , "x"]
-var operations=["plus","multiplied by"]
+var mathOperations=["\+" , "×"]
+var operations=["plus","times"]
 var ones = ['', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine'];
 var tens = ['', '', 'twenty', 'thirty', 'forty', 'fifty', 'sixty', 'seventy', 'eighty', 'ninety'];
 var teens = ['ten', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen', 'seventeen', 'eighteen', 'nineteen'];
@@ -86,4 +86,11 @@ function CheckAnswer()
         document.getElementById("answerStatus").innerText="incorrect";
         document.getElementById("answerStatus").className="text-danger";
     }
+}
+function ReadPage()
+{    
+    var synth = window.speechSynthesis;
+    var textToSpeech=document.getElementById("readableContent").innerText;
+    var toSpeak = new SpeechSynthesisUtterance(textToSpeech);
+    synth.speak(toSpeak);
 }
