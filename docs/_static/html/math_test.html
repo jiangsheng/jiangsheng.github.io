@@ -12,13 +12,16 @@
    
     <body onload="GenerateNewQuestion();">    
         <form>
-            <div id="instruction">Write the following equation in English.<br/> For example, if the question is 1 + 1 = 2, you answer "One plus one equals two.". <br/>If the question is 2 x 2 = 4, you answer "Two multiplied by two equals four.". </div>
-            <div id="question">Now, your question is <span id="operatorNumber"></span> <span id="operation"></span> <span id="operand"></span> = <span id="operationResult"></span>.</div>            
-            <div id="answer"><label for="myAnswer">Your answer is "</label><input type="text" id="myAnswer" size="80"/>".</div>
-            <div id="correctAnswerLine" >Correct answer is "<span id="correctAnswer"></span>"</div>
-            <div id="testResult" >Your answer is "<span id="answerStatus"></span>".</div>
+            <div id="readableContent">
+                <div id="instruction">Write the following equation in English.<br/> For example, if the question is 1 + 1 = 2, you answer "One plus one equals two.". <br/>If the question is 2 × 2 = 4, you answer "Two times two equals four.". </div>
+                <div id="question">Now, your question is <span id="operatorNumber"></span> <span id="operation"></span> <span id="operand"></span> = <span id="operationResult"></span>.</div>            
+                <div id="answer"><label for="myAnswer">Your answer is "</label><input type="text" id="myAnswer" size="80"/>".</div>
+                <div id="correctAnswerLine" >Correct answer is "<span id="correctAnswer"></span>"</div>
+                <div id="testResult" >Your answer is "<span id="answerStatus"></span>".</div>
+            </div>
             <div><input type="button" value="Check Answer" onclick="CheckAnswer();return false;"/></div>
-            <div><input type="button" value="Next Question" onclick="GenerateNewQuestion();return false;"/></div>            
+            <div><input type="button" value="Next Question" onclick="GenerateNewQuestion();return false;"/></div>      
+            <div><input type="button" value="Read page 🗣️" onclick="ReadPage();return false;"/></div>      
         </form>
     </body>
 </html>
