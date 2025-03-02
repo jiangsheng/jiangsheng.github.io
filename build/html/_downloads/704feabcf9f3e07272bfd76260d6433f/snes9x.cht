@@ -130,7 +130,7 @@ cheat
 
 cheat
   name: Roid Dual
-  code: 7ed566=07
+  code: 7ed566=09
   enable
 
 cheat
@@ -140,12 +140,17 @@ cheat
 
 cheat
   name: Roid Switch
-  code: 7ed568=08
+  code: 7ed568=16
   enable
 
 cheat
   name: Roid Speed
   code: 7ed569=17
+  enable
+
+cheat
+  name: Roid infinite turns
+  code: 7ed574=00
   enable
 
 cheat
@@ -696,6 +701,7 @@ cheat
 cheat
   name: Peewee Short
   code: 7ed416=27
+  enable
 
 cheat
   name: Peewee long
@@ -720,25 +726,125 @@ cheat
 cheat
   name: Peewee Skill First
   code: 7ed41b=19
+  enable
 
 cheat
   name: Peewee Skill Dual
   code: 7ed41c=09
+  enable
 
 cheat
   name: Peewee Skill Switch
   code: 7ed41d=16
+  enable
 
 cheat
   name: Peewee Skill Speed
   code: 7ed41e=17
+  enable
 
 cheat
   name: Peewee Skill Guide
   code: 7ed41f=18
+  enable
 
 cheat
   name: Gentz Skill First
   code: 7ed3fd=19
+  enable
+
+cheat
+  name: character 1 infinite turns
+  code: 7ed574=00
+  enable
+
+cheat
+  name: character 2 infinite turns
+  code: 7ed5ff=00
+  enable
+
+cheat
+  name: character 3 infinite turns
+  code: 7ed68a=00
+  enable
+
+cheat
+  name: character 4 infinite turns
+  code: 7ed715=00
+  enable
+
+cheat
+  name: character 5 infinite turns
+  code: 7ed7a0=00
+  enable
+
+cheat
+  name: character 6 infinite turns
+  code: 7ed82b=00
+  enable
+
+cheat
+  name: character 7 infinite turns
+  code: 7ed8b6=00
+  enable
+
+cheat
+  name: character 8 infinite turns
+  code: 7ed941=00
+  enable
+
+cheat
+  name: character 9 infinite turns
+  code: 7ed9cc=00
+  enable
+
+cheat
+  name: character 10 infinite turns
+  code: 7eda57=00
+  enable
+
+cheat
+  name: character 11 infinite turns
+  code: 7edae2=00
+  enable
+
+cheat
+  name: character 12 infinite turns
+  code: 7edb6d=00
+  enable
+
+cheat
+  name: character 13 infinite turns
+  code: 7edbf8=00
+  enable
+
+cheat
+  name: character 14 infinite turns
+  code: 7edc83=00
+  enable
+
+cheat
+  name: character 15 infinite turns
+  code: 7edd0e=00
+  enable
+
+cheat
+  name: character 16 infinite turns
+  code: 7edd99=00
+  enable
+
+cheat
+  name: character 17 infinite turns
+  code: 7ede24=00
+  enable
+
+cheat
+  name: character 18 infinite turns
+  code: 7edeaf=00
+  enable
+
+cheat
+  name: character 19 infinite turns
+  code: 7edf3a=00
   enable
 
