@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <title>Month Test</title>
+    <head><meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">        
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+        <script src="math_test.js"></script>        
+    </head>
+   
+    <body onload="GenerateNewDateSpellingQuestion();loadVoicesWhenAvailable();">    
+        <form>
+            <div id="readableContent">
+                <div id="instruction">Write the following date in English.<br/> For example, if the date is 11/22/1988, you answer "November twenty-second, nineteen eighty-eight". </div>
+                <div id="question">Now, your date is <span id="randomDate"></span>.</div>            
+                <div id="answer"><label for="myAnswer">Your answer is "</label><input type="text" id="myAnswer" size="80"/>".</div>
+                <div id="correctAnswerLine" >Correct answer is "<span id="correctAnswer"></span>"</div>
+                <div id="testResult" >Your answer is "<span id="answerStatus"></span>".</div>
+            </div>
+            <div><input type="button" value="Check Answer" onclick="CheckDateSpellingAnswer();return false;"/></div>
+            <div><input type="button" value="Next Question" onclick="GenerateNewDateSpellingQuestion();return false;"/></div>      
+            <div><input type="button" value="Read page 🗣️" onclick="ReadPage();return false;"/></div>
+        </form>
+    </body>
+</html>
