@@ -46,7 +46,7 @@ function convert(num) {
 function capitalizeFirstLetter(val) {
     return String(val).charAt(0).toUpperCase() + String(val).slice(1);
 }
-function GenerateNewQuestion()
+function GenerateNewEquationQuestion()
 {  
     document.getElementById("correctAnswerLine").className='d-none';
     document.getElementById("testResult").className='d-none';
@@ -70,7 +70,7 @@ function GenerateNewQuestion()
     var correctAnswer=capitalizeFirstLetter(convert(operator))+" " + operations[operationIndex]+ " " + convert(operand)+" equals " + convert(operationResult)+".";
     document.getElementById('correctAnswer').innerText=correctAnswer;
 }
-function CheckAnswer()
+function CheckEquationAnswer()
 {    
     document.getElementById("correctAnswerLine").className='d-block';
     document.getElementById("testResult").className='d-block';
@@ -157,3 +157,46 @@ function loadVoicesWhenAvailable (onComplete = () => {}) {
     _speechSynth.cancel() // cancel current speak, if any is running
     _speechSynth.speak(utterance)
   }
+
+  function CreateRandomDate(start, end) {
+    return new Date(start.getTime() + Math.random() * (end.getTime() - start.getTime()));
+  }
+  
+  
+function GenerateNewDateSpellingQuestion()
+{  
+    document.getElementById("correctAnswerLine").className='d-none';
+    document.getElementById("testResult").className='d-none';
+    var randomDate = CreateRandomDate(new Date(1000, 0, 1), new Date());    
+    document.getElementById('randomDate').innerText=randomDate.toLocaleDateString("en-US");
+    var month = new Intl.DateTimeFormat('en', { month: 'long' }).format(randomDate);
+    
+    var ordinalDateNames = [ "", "first", "second", "third", "fourth", "fifth", "sixth", "seventh", "eighth", "ninth", "tenth", "eleventh", "twelfth", "thirteenth", "fourteenth", "fifteenth", "sixteenth", "seventeenth", "eighteenth", "nineteenth", "twentieth", "twenty-first", "twenty-second", "twenty-third", "twenty-fourth", "twenty-fifth", "twenty-sixth", "twenty-seventh", "twenty-eighth", "twenty-ninth", "thirtieth", "thirty-first" ];
+    var daystring = ordinalDateNames[randomDate.getDate()];
+    var correctAnswer=capitalizeFirstLetter(month)+" " + " " + daystring +", " + convert(Math.floor(randomDate.getFullYear()/100));
+    var remainder=randomDate.getFullYear()%100;
+    if(remainder!=0)
+    {
+        if( remainder<10)
+            correctAnswer=correctAnswer+" O ";    
+        correctAnswer=correctAnswer+" "+convert(randomDate.getFullYear()%100);
+    }
+    document.getElementById('correctAnswer').innerText=correctAnswer;
+}
+function CheckDateSpellingAnswer()
+{    
+    document.getElementById("correctAnswerLine").className='d-block';
+    document.getElementById("testResult").className='d-block';
+ 
+    var correctAnswer=document.getElementById('correctAnswer').innerText;
+    if(correctAnswer==document.getElementById('myAnswer').value)
+    {
+        document.getElementById("answerStatus").innerText="correct";
+        document.getElementById("answerStatus").className="text-success";
+    }
+    else
+    {
+        document.getElementById("answerStatus").innerText="incorrect";
+        document.getElementById("answerStatus").className="text-danger";
+    }
+}
