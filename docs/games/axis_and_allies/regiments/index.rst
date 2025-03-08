@@ -1,14 +1,15 @@
 .. _axis_and_allies_regiments:
 
+Regiments
+===============
+
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
    :hidden:
 
    Formation <formation>
-
-Regiments
-===============
+   Terrain <terrain>
 
 Unlike other RTS games, in this game units are grouped into regiments. When you lost all units in the regiment, you lost the regiment. If not, you can have the regiment retreat to the :ref:`supply <axis_and_allies_supply>` zone and restore units over time. 
 
@@ -20,7 +21,7 @@ A regiment has a :ref:`formation <axis_and_allies_formation>` that affects the r
 
 A regiment's moral drops when taking fire, and drop further when losing a unit. When reaching the moral breakpoint, the unit will rout, running to safety. You can regain control of the regiment once its moral is back up above the breakpoint. The Advanced Infantry Training `upgrade <axis_and_allies_upgrades>` can be used to lower the moral breakpoint, however this may cause your elite troops fight to their death. Always keep an eye on your troops and withdraw manually before too late. 
 
-A regiment can also gain exp and veterancy during battle. Elite regiment have better attributes.
+A regiment can also gain exp and veterancy during battle. Elite regiments have better attributes. The exp is also contribute to the general and can be used in :ref:`special operations<axis_and_allies_special_operations>`.`
 
 A regiment's speed is largely decided by formation and `terrain <axis_and_allies_terrain>`. A regiment's speed is usually decided by the slowest unit. Except when routed, then everyone run as fast as they can without trying to keep a formation. 
 

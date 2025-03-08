@@ -9,7 +9,7 @@ For example, the default formation for all regiments is Aggressive. It is best u
 
 .. list-table:: Formations
     :header-rows: 1
-    
+
     * - Formation
       - Behavior
       - Effect
@@ -20,5 +20,5 @@ For example, the default formation for all regiments is Aggressive. It is best u
       - Aggressive
       - -25% max attack efficiency
     * - Column
-      - Aggressive
+      - Passive
       - -50% max attack efficiency, +25% max speed
