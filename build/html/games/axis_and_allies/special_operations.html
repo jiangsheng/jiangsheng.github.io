@@ -1,0 +1,903 @@
+
+<!DOCTYPE html>
+
+
+<html lang="zh-CN" data-content_root="../../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Special Operations &#8212; jiangsheng 1 documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css?v=906dce5e" />
+  
+  <!-- So that users can add custom icons -->
+  <script src="../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+
+    <script src="../../_static/documentation_options.js?v=78b98999"></script>
+    <script src="../../_static/doctools.js?v=9bcbadda"></script>
+    <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <script src="../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'games/axis_and_allies/special_operations';</script>
+    <link rel="canonical" href="https://git.jiangsheng.net/build/html/games/axis_and_allies/special_operations.html" />
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Upgrades" href="upgrades.html" />
+    <link rel="prev" title="Supply" href="supply.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="zh-CN"/>
+  <meta name="docsearch:version" content="" />
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-3 navbar-header-items__start">
+    
+      <div class="navbar-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../../reference.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">jiangsheng 1 documentation</p>
+  
+</a></div>
+    
+  </div>
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          
+          
+            <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+          
+        
+      </div>
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+<h3><a href="../../reference.html">Table of Contents</a></h3>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">内容:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../README.html">Welcome to jiangsheng’s documentation!</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../README.html#indices-and-tables">Indices and tables</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Games</a><ul class="current">
+<li class="toctree-l2 current"><a class="reference internal" href="index.html">Axis and Allies</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="buildings/index.html">Buildings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="regiments/index.html">Regiments</a></li>
+<li class="toctree-l3"><a class="reference internal" href="economy.html">Economy</a></li>
+<li class="toctree-l3"><a class="reference internal" href="supply.html">Supply</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Special Operations</a></li>
+<li class="toctree-l3"><a class="reference internal" href="upgrades.html">Upgrades</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../frontmission/index.html">Front Mission</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../srw4/index.html">Super Robot Wars 4</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../mjelct3/index.html">Mahjong Electron Base</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../tenkai/index.html">Mahjong Tenkaigan</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../mm6/index.html">Might and Magic 6</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../fsm97/index.html">Fifa Soccer Manager 97</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../dragon/index.html">卧龙传</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../fa96/index.html">甲A风云</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../san5/index.html">三国志 V</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../index.html#indices-and-tables">Indices and tables</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../grandma/index.html">Grandma's handbook</a></li>
+</ul>
+</div>
+        <div class="sidebar-primary-item">
+  <div>
+    <h4>Previous topic</h4>
+    <p class="topless"><a href="supply.html"
+                          title="previous chapter">Supply</a></p>
+  </div>
+  <div>
+    <h4>Next topic</h4>
+    <p class="topless"><a href="upgrades.html"
+                          title="next chapter">Upgrades</a></p>
+  </div></div>
+        <div class="sidebar-primary-item">
+<div id="searchbox"></div></div>
+        <div class="sidebar-primary-item">
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="../../_sources/games/axis_and_allies/special_operations.rst.txt"
+           rel="nofollow">Show Source</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/games\axis_and_allies\special_operations.rst"
+           rel="nofollow">Show on GitHub</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/games\axis_and_allies\special_operations.rst"
+           rel="nofollow">Edit on GitHub</a></li>
+  </ul>
+  <h3>Social Media Links</h3>
+  <ul>
+    <li>twitter (archived): #jiangsheng </li>
+    <li>bluesky: <a href="https://bsky.app/profile/sheng-jiang.bsky.social"> sheng-jiang.bsky.social</a></li>
+    <li>stackoverflow: <a href="https://stackoverflow.com/users/109919/sheng-jiang-%e8%92%8b%e6%99%9f">Sheng Jiang 蒋晟</a></li>
+  </ul></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="../../reference.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    
+    <li class="breadcrumb-item"><a href="../index.html" class="nav-link">Gaming guides</a></li>
+    
+    
+    <li class="breadcrumb-item"><a href="index.html" class="nav-link">Axis &amp; Allies</a></li>
+    
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">Special Operations</span></li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="special-operations">
+<span id="axis-and-allies-special-operations"></span><h1>Special Operations<a class="headerlink" href="#special-operations" title="Link to this heading">#</a></h1>
+<p>You control a general during battle, and the general would have 4 skills (called special operations in this game). Using a skill costs exp points you gain during battle. You gain general exp for regiments engagement as well as simply running the game. After you use a special operation, it goes into a cool down mode and you cannot use it for some time.</p>
+<div class="pst-scrollable-table-container"><table class="table" id="id1">
+<caption><span class="caption-text">Special Operations</span><a class="headerlink" href="#id1" title="Link to this table">#</a></caption>
+<thead>
+<tr class="row-odd"><th class="head"><p>Name</p></th>
+<th class="head"><p>Cost</p></th>
+<th class="head"><p>Area</p></th>
+<th class="head"><p>Duration(s)</p></th>
+<th class="head"><p>Effect</p></th>
+<th class="head"></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Advance</p></td>
+<td><p>1000</p></td>
+<td><p>Large</p></td>
+<td><p>120</p></td>
+<td><p>Damage +6, Defense +5, Max Speed +20%, immune to fear enchantments</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Armored Resupply</p></td>
+<td><p>300</p></td>
+<td><p>Large</p></td>
+<td><p>30</p></td>
+<td><p>Tanks : increased supply rate (instant)</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Assembly Line</p></td>
+<td><p>300</p></td>
+<td><p>N/A</p></td>
+<td><p>N/A</p></td>
+<td><p>Vehicles: increased supply rate</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Atomic Bomb</p></td>
+<td><p>2000</p></td>
+<td><p>Large</p></td>
+<td><p>N/A</p></td>
+<td><p>Damages: 500 Explosive +1000 Extra Explosive to buildings +25 Flame per second Radiation for 10s</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Banzai Charge</p></td>
+<td><p>1000</p></td>
+<td><p>Large</p></td>
+<td><p>60</p></td>
+<td><p>Infantry : Attack Speed +50%, Health +50%,  immune to fear enchantments</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Blitzkrieg</p></td>
+<td><p>1000</p></td>
+<td><p>Large</p></td>
+<td><p>120</p></td>
+<td><p>Tanks: Attack +50, Max Speed +20%, immune to fear enchantments</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Bombing</p></td>
+<td><p>1800</p></td>
+<td><p>Large</p></td>
+<td><p>N/A</p></td>
+<td><p>500 Explosive Damage +1500 Extra Explosive Damage to buildings</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>British Sabotage</p></td>
+<td><p>800</p></td>
+<td><p>N/A</p></td>
+<td><p>90</p></td>
+<td><p>Summons a saboteur that will damage buildings</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Carpet Bombing</p></td>
+<td><p>1800</p></td>
+<td><p>Large</p></td>
+<td><p>N/A</p></td>
+<td><p>500 Explosive Damage +1500 Extra Explosive Damage to buildings</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Code Breaker</p></td>
+<td><p>200</p></td>
+<td><p>N/A</p></td>
+<td><p>15</p></td>
+<td><p>Briefly remove fog of war from target area</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Communist Purge</p></td>
+<td><p>200</p></td>
+<td><p>Large</p></td>
+<td><p>60</p></td>
+<td><p>Infantry: Attack +5, kill officers</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Communist Zeal</p></td>
+<td><p>1000</p></td>
+<td><p>Large</p></td>
+<td><p>120</p></td>
+<td><p>Infantry :  Armor Piercing Damage +3, Health +40%, Max Speed +20%, immune to fear enchantments</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Corps Reorganintion</p></td>
+<td><p>1000</p></td>
+<td><p>N/A</p></td>
+<td><p>N/A</p></td>
+<td><p>Summons a new Corps HQ Truck</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Demoralization</p></td>
+<td><p>800</p></td>
+<td><p>Large</p></td>
+<td><p>20</p></td>
+<td><p>Enemy Attack Speed -30%, Morale -3</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Double the Guard</p></td>
+<td><p>400</p></td>
+<td><p>Large</p></td>
+<td><p>60</p></td>
+<td><p>Buildings:Attack +15</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Economic Aid</p></td>
+<td><p>500</p></td>
+<td><p>N/A</p></td>
+<td><p>N/A</p></td>
+<td><p>Ammo +15 , Oil +15 when crate exist</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Espionage</p></td>
+<td><p>400</p></td>
+<td><p>N/A</p></td>
+<td><p>N/A</p></td>
+<td><p>Reveal target bulding status, steals 50 money</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Fighting Spirit</p></td>
+<td><p>300</p></td>
+<td><p>Large</p></td>
+<td><p>60</p></td>
+<td><p>Defense +2, Max Speed +20%,   immune to fear enchantments, Morale+1</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Forced March</p></td>
+<td><p>200</p></td>
+<td><p>Large</p></td>
+<td><p>30</p></td>
+<td><p>Max Damage +50%, 1 Flame Damage Taken per second</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Industrial Sabotage</p></td>
+<td><p>500</p></td>
+<td><p>N/A</p></td>
+<td><p>N/A</p></td>
+<td><p>enemy depot:2500 Explosive Damage</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Infantry Resupply</p></td>
+<td><p>200</p></td>
+<td><p>Large</p></td>
+<td><p>30</p></td>
+<td><p>Infantry : increased supply rate</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Kamikaze</p></td>
+<td><p>1600</p></td>
+<td><p>Large</p></td>
+<td><p>N/A</p></td>
+<td><p>Damages: 500 Armor Piercing +1000 Flame to buildings</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Lend Lease</p></td>
+<td><p>400</p></td>
+<td><p>N/A</p></td>
+<td><p>5</p></td>
+<td><p>Income  +1000 for 5 Seconds</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Maskirovka</p></td>
+<td><p>500</p></td>
+<td><p>N/A</p></td>
+<td><p>N/A</p></td>
+<td><p>deploy fake tank that looks like a medium tank</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Mechanized Advance</p></td>
+<td><p>1000</p></td>
+<td><p>Large</p></td>
+<td><p>120</p></td>
+<td><p>Halftracks:Damage +6, Defense +5, Max Speed +20%, immune to fear enchantments</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Mechanized Resupply</p></td>
+<td><p>300</p></td>
+<td><p>Large</p></td>
+<td><p>30</p></td>
+<td><p>Halftracks : increased supply rate</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Military Gear Up</p></td>
+<td><p>300</p></td>
+<td><p>Large</p></td>
+<td><p>180</p></td>
+<td><p>Infantry : Health+10%</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Panzer Holhe</p></td>
+<td><p>500</p></td>
+<td><p>N/A</p></td>
+<td><p>N/A</p></td>
+<td><p>deploy fake tank that looks like a medium tank</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Propaganda War</p></td>
+<td><p>800</p></td>
+<td><p>Large</p></td>
+<td><p>20</p></td>
+<td><p>Enemy defense -2, Max Speed -20%, Morale -4</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Radar Scan</p></td>
+<td><p>400</p></td>
+<td><p>N/A</p></td>
+<td><p>10</p></td>
+<td><p>no fog on minimap briefly</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Rapid Deployment</p></td>
+<td><p>300</p></td>
+<td><p>N/A</p></td>
+<td><p>N/A</p></td>
+<td><p>Infantry : permanently increased supply rate</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Russian Sabotage</p></td>
+<td><p>800</p></td>
+<td><p>N/A</p></td>
+<td><p>90</p></td>
+<td><p>Summons a saboteur that will damage buildings</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Sandbagging</p></td>
+<td><p>300</p></td>
+<td><p>Large</p></td>
+<td><p>180</p></td>
+<td><p>Target Buildings:Gunfire resistance +25%, Armor Piercing reststance +25%, Explosive resistance +50%</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Secret Agent</p></td>
+<td><p>200</p></td>
+<td><p>N/A</p></td>
+<td><p>100</p></td>
+<td><p>Summons a Secret Agent that will remove fog of war from target area</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Smoke Barrage</p></td>
+<td><p>600</p></td>
+<td><p>Large</p></td>
+<td><p>30</p></td>
+<td><p>Attack Speed -50%, Max Speed -50%</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Supply Drop</p></td>
+<td><p>400</p></td>
+<td><p>N/A</p></td>
+<td><p>180</p></td>
+<td><p>Temporary supply zone creation when air dropped crate exist</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>V Weapons</p></td>
+<td><p>1600</p></td>
+<td><p>Large</p></td>
+<td><p>N/A</p></td>
+<td><p>Damage: 750 Explosive +750 extra damage vs buildings</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Every general has Corps Reorganization, but the rest 3 special operations are different for each one.</p>
+<div class="pst-scrollable-table-container"><table class="table" id="id2">
+<caption><span class="caption-text">Generals</span><a class="headerlink" href="#id2" title="Link to this table">#</a></caption>
+<thead>
+<tr class="row-odd"><th class="head"><p>Name</p></th>
+<th class="head"><p>Side</p></th>
+<th class="head"><p>Special operation 1</p></th>
+<th class="head"><p>Special operation 2</p></th>
+<th class="head"><p>Special operation 3</p></th>
+<th class="head"><p>Notes</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>George S. Patton</p></td>
+<td><p>USA</p></td>
+<td><p>Mechanized Advance 1</p></td>
+<td><p>Fighting Spirit</p></td>
+<td><p>Supply Drop</p></td>
+<td><p>halftracks rush</p></td>
+</tr>
+<tr class="row-odd"><td><p>Albert Kesselring</p></td>
+<td><p>GER</p></td>
+<td><p>Blitzkrieg</p></td>
+<td><p>Supply Drop</p></td>
+<td><p>Military Gear Up</p></td>
+<td><p>tank rush</p></td>
+</tr>
+<tr class="row-even"><td><p>Archibald Percival Wavell</p></td>
+<td><p>GBR</p></td>
+<td><p>Carpet Bombing</p></td>
+<td><p>Sandbagging</p></td>
+<td><p>Secret Agent</p></td>
+<td><p>defense</p></td>
+</tr>
+<tr class="row-odd"><td><p>Bernard Montgomery</p></td>
+<td><p>GBR</p></td>
+<td><p>Carpet Bombing</p></td>
+<td><p>Fighting Spirit</p></td>
+<td><p>Code Breaker</p></td>
+<td><p>airforce</p></td>
+</tr>
+<tr class="row-even"><td><p>Chester Nimitz</p></td>
+<td><p>USA</p></td>
+<td><p>Atomic Bomb</p></td>
+<td><p>Assembly Line</p></td>
+<td><p>Economic Aid</p></td>
+<td><p>airforce</p></td>
+</tr>
+<tr class="row-odd"><td><p>Chuichi Nagumo</p></td>
+<td><p>JPN</p></td>
+<td><p>Kamikaze</p></td>
+<td><p>Industrial Sabotage</p></td>
+<td><p>Code Breaker</p></td>
+<td><p>Target economy</p></td>
+</tr>
+<tr class="row-even"><td><p>Dwight D. Eisenhower</p></td>
+<td><p>USA</p></td>
+<td><p>Advance</p></td>
+<td><p>Lend Lease</p></td>
+<td><p>Mechanized Resupply</p></td>
+<td><p>halftracks</p></td>
+</tr>
+<tr class="row-odd"><td><p>Erich von Manstein</p></td>
+<td><p>GER</p></td>
+<td><p>V Weapons</p></td>
+<td><p>Espionage</p></td>
+<td><p>Propaganda War</p></td>
+<td><p>Target economy</p></td>
+</tr>
+<tr class="row-even"><td><p>Erwin Rommel</p></td>
+<td><p>GER</p></td>
+<td><p>Blitzkrieg</p></td>
+<td><p>Forced March</p></td>
+<td><p>Panzer Holhe</p></td>
+<td><p>tanks</p></td>
+</tr>
+<tr class="row-odd"><td><p>Georgi Zhukov</p></td>
+<td><p>USSR</p></td>
+<td><p>Communist Purge</p></td>
+<td><p>Supply Drop</p></td>
+<td><p>Russian Sabotage</p></td>
+<td><p>infantry defense, supply drop attack</p></td>
+</tr>
+<tr class="row-even"><td><p>Gerd von Rundstedt</p></td>
+<td><p>GER</p></td>
+<td><p>V Weapons</p></td>
+<td><p>Armored Resupply</p></td>
+<td><p>Demoralization</p></td>
+<td><p>tanks</p></td>
+</tr>
+<tr class="row-odd"><td><p>Gunichi Mikawa</p></td>
+<td><p>JPN</p></td>
+<td><p>Banzai Charge</p></td>
+<td><p>Lend Lease</p></td>
+<td><p>Rapid Deployment</p></td>
+<td><p>infantry</p></td>
+</tr>
+<tr class="row-even"><td><p>Henry Arnold</p></td>
+<td><p>USA</p></td>
+<td><p>Bombing</p></td>
+<td><p>Propaganda War</p></td>
+<td><p>Propaganda War</p></td>
+<td><p>generic</p></td>
+</tr>
+<tr class="row-odd"><td><p>Isoroku Yamamoto</p></td>
+<td><p>JPN</p></td>
+<td><p>Kamikaze</p></td>
+<td><p>Demoralization</p></td>
+<td><p>Radar Scan</p></td>
+<td><p>airforce</p></td>
+</tr>
+<tr class="row-even"><td><p>Ivan Konev</p></td>
+<td><p>USSR</p></td>
+<td><p>Communist Zeal</p></td>
+<td><p>Military Gear Up</p></td>
+<td><p>Smoke Barrage</p></td>
+<td><p>infantry</p></td>
+</tr>
+<tr class="row-odd"><td><p>Konstantin Rokossovski</p></td>
+<td><p>USSR</p></td>
+<td><p>Communist Zeal</p></td>
+<td><p>Rapid Deployment</p></td>
+<td><p>Double the Guard</p></td>
+<td><p>infantry</p></td>
+</tr>
+<tr class="row-even"><td><p>Lord Mountbatten</p></td>
+<td><p>GBR</p></td>
+<td><p>British Sabotage</p></td>
+<td><p>Smoke Barrage</p></td>
+<td><p>Radar Scan</p></td>
+<td><p>defense</p></td>
+</tr>
+<tr class="row-odd"><td><p>Orde Wingate</p></td>
+<td><p>GBR</p></td>
+<td><p>British Sabotage</p></td>
+<td><p>Infantry Resupply</p></td>
+<td><p>Economic Aid</p></td>
+<td><p>generic</p></td>
+</tr>
+<tr class="row-even"><td><p>Tadamichi Kuribayashi w</p></td>
+<td><p>JPN</p></td>
+<td><p>Banzai Charge</p></td>
+<td><p>Mechanized Resupply</p></td>
+<td><p>Espionage</p></td>
+<td><p>generic</p></td>
+</tr>
+<tr class="row-odd"><td><p>Vasily Chuikov</p></td>
+<td><p>USSR</p></td>
+<td><p>Carpet Bombing</p></td>
+<td><p>Assembly Line</p></td>
+<td><p>Maskirovka</p></td>
+<td><p>tanks</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+
+
+                </article>
+              
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="supply.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Supply</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="upgrades.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Upgrades</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../../_sources/games/axis_and_allies/special_operations.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script defer src="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item">
+
+  <p class="copyright">
+    
+      © Copyright 2018-, Sheng Jiang.
+      <br/>
+    
+  </p>
+</div>
+      
+        <div class="footer-item">
+
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 8.1.3.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item">
+<p class="theme-version">
+  <!-- # L10n: Setting the PST URL as an argument as this does not need to be localized -->
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.16.1.
+</p></div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>

@@ -1,3 +1,5 @@
+.. _grandmas_handbook:
+
 Grandma's handbook
 ==========================
 

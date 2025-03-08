@@ -1,3 +1,5 @@
+.. _game_guides:
+
 .. jiangsheng documentation master file, created by
    sphinx-quickstart on Tue Mar 20 21:51:31 2018.
    You can adapt this file completely to your liking, but it should at least
@@ -11,7 +13,8 @@ Gaming guides
    :maxdepth: 1
    :caption: 内容:
    :titlesonly:
-
+    
+   Axis and Allies<axis_and_allies/index>
    Front Mission<frontmission/index>
    Super Robot Wars 4<srw4/index>
    Mahjong Electron Base <mjelct3/index>

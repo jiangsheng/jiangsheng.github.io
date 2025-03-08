@@ -10,9 +10,9 @@ Welcome to jiangsheng's documentation!
    :maxdepth: 5
    :caption: 内容:
    
-   Homepage<README.rst>
-   Games<games/index.rst>
-   Gradma's handbook<gradma/index.rst>
+   Homepage<README>
+   Games<games/index>
+   Grandma's handbook<grandma/index>
 
 Indices and tables
 ==================
