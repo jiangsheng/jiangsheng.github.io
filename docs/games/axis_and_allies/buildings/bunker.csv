@@ -1,0 +1,4 @@
+Name, Cost, Ammo Upkeep,Resistances, Health, Defense, Attack, Damage Type, Rate, Area
+Bunker,25,-9,,1250,10,20,Gun,2,
+Anti-Aircraft Bunker,30,-5,"Gunfire +25%, AP +50%",1000,5,40,Gun,2,2
+Artillery Bunker,40,-7,"Gunfire +25%, AP +50%",1000,5,60,Explosive,9,4

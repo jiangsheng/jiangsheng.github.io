@@ -1,0 +1,12 @@
+﻿Name,Location,Cost,Side,Affect,Effect
+Advanced Armored Training,Corp HQ,100,GER,Tanks,Morale +3
+Advanced Infantry Training,Corp HQ,50,"USA,GER,USSR",Infantry,Morale +1
+Conscription,Corp HQ,100,USSR,Infantry,Recruit cost -20%
+Foraging,Corp HQ,100,"GBR,JPN",Infantry,Supply rate +15%
+Garand Semi-Automatic Rifle,Corp HQ,50,USA,Infantry Rifles,Attack Speed +20%
+Improved Logistics,Corp HQ,50,"USA,GBR,GER,JPN",All units/buildings,"Range: Sight +5, Supply +5"
+Improved Machine Guns,Corp HQ,75,"USA,GBR,GER",Machine Guns,Attack +4
+Marksmanship Training,Corp HQ,50,"USSR, GER",Infantry,Attack +2
+Military Gear Up,Corp HQ,100,"GBR,USSR,JPN",All HQs,Income +5
+Sniper Rifles,Corp HQ,75,"USSR, JPN",Infantry HQs,Grant Access
+Special Forces,Corp HQ,75,"USA, GBR, JPN",Recon Infantry,"Attack+1, Defense +1, Health +10%"

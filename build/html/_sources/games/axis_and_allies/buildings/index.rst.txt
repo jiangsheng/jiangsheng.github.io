@@ -9,12 +9,14 @@ Buildings
    :hidden:
 
    Corps HQ <corps_hq>
+   Infantry HQ <infantry_hq>
+   Bunkers <bunker>
 
 In this game buildings are generally built from trucks. As they are mostly mobile structures, you can usually pack up buildings and deploy them elsewhere. In truck mode a building can move just like normal troops. 
 
 Some buildings generate :ref:`resources <axis_and_allies_economy>` in addition to deploying :ref:`regiments <axis_and_allies_regiments>`. Some buildings cost resources, however.
 
-Building take damage and some buildings have weapons. :ref:`Engineers <axis_and_allies_engineer>`  can be used to repair buildings. 
+Building take damage and some buildings have weapons. :ref:`Engineers <axis_and_allies_regiments_engineer>` can be used to repair buildings. 
 
 There is a building limit but certain type of buildings don't count toward the limit.
 
@@ -31,7 +33,7 @@ Division HQs
 
 Here you recruit :ref:`regiments <axis_and_allies_regiments>`. New regiments are linked to its recruiting Division HQ by default. When attacked, a regiment can be supplied while in the supply zone. Once a Division HQ has the maximum linked regiments, it cannot recruit more. You can detach some regiments to get around this, but regiments out of supplies are at such a big disadvantage that it is much better just to buy another Division HQ. 
 
-Division HQs are also supply line extenders, although they cannot start a supply zone themselves. If the supply line is cut to the division HQ, the linked units would be out of supply too. 
+Division HQs are also supply line extenders, although they cannot start a supply zone themselves. If the supply line is cut to the division HQ, the linked units and nearby buildings would be out of supply too. 
 
 -------------
 Supply Depots
