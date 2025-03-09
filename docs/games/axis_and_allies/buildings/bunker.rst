@@ -3,7 +3,7 @@
 Bunkers
 ============
 
-Bunkers are defensive structures built by :ref:`engineers <_axis_and_allies_regiment_infantry>.
+Bunkers are defensive structures built by :ref:`engineers <axis_and_allies_regiment_infantry>`.
 
 Generally speaking, you should use infantry instead of bunkers. Infantry can move and can gain ranks and upgrades. Bunkers are weak and take a lot of ammo. Only use bunkers when your regiments are better used elsewhere or you are worried about the regiment limit. Except the anti-aircraft bunker of course. 
 

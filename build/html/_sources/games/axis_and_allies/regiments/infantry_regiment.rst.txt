@@ -34,9 +34,9 @@ Sniper Infantry Regiment: USSR only. Requires Sniper Rifles upgrade. Sniper shot
 Goliath Infantry Regiment: GER only. Requires Motor Pool and Goliath Remote Bombs upgrade. A manned remote control bomb. Although having bonus damage to buildings, the bombs need to be constantly resupplied, which means it is usually assigned to defend enemy vehicles. 
 
 .. csv-table:: Infantry Regiments
-   :file: infantry_regiments.csv
+   :file: infantry_regiment.csv
    :header-rows: 1
 
 .. csv-table:: Infantry Units
-   :file: infantry_units.csv
+   :file: infantry_unit.csv
    :header-rows: 1

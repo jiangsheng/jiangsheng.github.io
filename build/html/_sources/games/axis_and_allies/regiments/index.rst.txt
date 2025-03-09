@@ -10,7 +10,7 @@ Regiments
 
    Formation <formation>
    Terrain <terrain>
-   Infantry regiments <infantry_regiments>
+   Infantry regiments <infantry_regiment>
 
 Unlike other RTS games, in this game units are grouped into regiments. When you lost all units in the regiment, you lost the regiment. If not, you can have the regiment retreat to the :ref:`supply <axis_and_allies_supply>` zone and restore units over time. 
 
