@@ -87,11 +87,11 @@ Melee
 
 Melee has high accuracy and damage, but no aiming skill like dual or guide causing them wasting a lot of exp by destroying the body first, robbing you the chance of supply truck exp farming. Besides, you need some combinations of smoke bomb + First + some luck on Stun/Double to avoid being seriously wounded by counterattacks in late game. And that missiles hurt. Throw some chaff on them when closing to enemy encirclement. 
 
-Melee weapons are single hit and benefit less compared to multiple hit Short or Long weapons. Due to how hard Melee gets in late game, it would be best to farm Melee exp in early game. just remember don't pick up Melee skills unless the skill slot allows one after Short/Long. 
+Melee weapons are single hit and benefit less from exp growth compared to multiple hit Short or Long weapons. Due to how hard Melee gets in late game, it would be best to farm Melee exp in early game. just remember don't pick up Melee skills unless the skill slot allows one after Short/Long. 
 
 That said, if you can't farm exp due to time limits or if you need to defend someone, Melee does have advantage by destroying the body first.
 
-In the PS port and later you can get a secret weapon that increases melee exp just like the secret weapon in the SNES version. This makes training melees much less painful. 
+In the PS port and later you can get a secret weapon that increases melee exp just like the secret weapon in the SNES version does for Short. This makes training melees much less painful. 
 
 Due to the requirement of activation in order to leveling up skills, it does not make sense to train hybrid Melee/Short as every character can learn at least one skill in Double or Switch except Peewie. 
 
