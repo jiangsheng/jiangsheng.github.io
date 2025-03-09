@@ -1,0 +1,12 @@
+Attribute,Value,Value (truck mode),Notes
+Prerequisites,:ref:`Corps HQ  <axis_and_allies_corps_hq>`,
+Cost,250,
+Income,25,
+Ammo,15,
+Oil,5,
+HP,2000,
+Defense,5,
+Weapon,Gunfire,
+Attack,"20 (USSR -2, GER +2)",
+Rate,2,
+Area,2,

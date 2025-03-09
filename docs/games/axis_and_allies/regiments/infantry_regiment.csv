@@ -1,0 +1,13 @@
+﻿Name,Requires,Exclusive to,Cost,Ammo Upkeep,Oil Upkeep,Resistances,Officer Unit,Main Units,Support Units,Support Units 2,upport Units 3
+Infantry Regiment,,,50,-10,,"Armor Piercing +25%, Explosive +25%",Infantry Officer,Infantry x6,Machine Gun Infantry x2,,
+Recon Infantry Regiment,,,25,-5,,"Armor Piercing +25%, Explosive +25%",Infantry Officer,Infantry x4,,,
+Anti-Tank Infantry Regiment,Motor Pool,,70,-15,,"Armor Piercing +25%, Explosive +25%",Infantry Officer,Infantry x4-5,Machine Gun Infantry x1-2,Anti-Tank Infantry x2,
+Artillery Infantry Regiment,Artillery Brigade,,65,-15,,"Armor Piercing +25%, Explosive +25%",Infantry Officer,Infantry x5,Machine Gun Infantry,Mortar Infantry x2,
+Engineer Infantry Regiment,Engineer Brigade,,75,-5,-5,"Armor Piercing +25%, Explosive +25%",Infantry Officer,Engineer x6,,,
+Assault Infantry Regiment,"Artillery Brigade,M7 Rifle Grenades upgrade",USA,60,-15,,"Armor Piercing +25%, Explosive +25%",Infantry Officer,Assault Infantry x6,Machine Gun Infantry x2,,
+Flamethrower Infantry Regiment,"Motor Pool, Flamethrower Infantry upgrade",USA,75,-10,-5,"Armor Piercing +25%, Explosive +25%",Infantry Officer,Infantry x4,Machine Gun Infantry x2,Flamethrower Infantry x2,
+Anti-Aircraft Infantry Regiment,Engineer Brigade,GBR,60,-10,-5,"Armor Piercing +25%, Explosive +25%",Infantry Officer,Infantry x5,Machine Gun Infantry,M16 MGMC x2,
+Heavy Infantry Regiment,Motor Pool and Artillery Brigade,GBR,80,-15,,"Armor Piercing +25%, Explosive +25%",Infantry Officer,Infantry x3,Machine Gun Infantry x3,Anti-Tank Infantry,Mortar Infantry 
+Conscript Regiment,,USSR,35,-5,,"Armor Piercing +25%, Explosive +25%",Infantry Officer,Conscript x8,,,
+Sniper Infantry Regiment,Sniper Rifles upgrade,USSR,75,-10,,"Armor Piercing +25%, Explosive +25%",Infantry Officer,Infantry x3,Sniper,,
+Goliath Infantry Regiment,"Motor Pool, Goliath Remote Bombs upgrade",GER,100,-15,-5,"Armor Piercing +25%, Explosive +25%",Infantry Officer,Infantry x4,Machine Gun Infantry x2,Goliath B1 x2,
