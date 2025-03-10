@@ -1,7 +1,7 @@
 Axis & Allies
 ===============================
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 0
    :caption: Contents:
    :hidden:
 
@@ -11,6 +11,8 @@ Axis & Allies
    Supply <supply>    
    Special Operations<special_operations> 
    Upgrades<upgrades> 
+
+.. index:: Axis & Allies
    
 Axis & Allies (2004) is a real-time strategy game based on the namesake board game for Windows 98/2000/ME/XP. Data execution prevention has to be turned off (DEP) for AA.exe for the game to work on modern versions of Windows. 
 

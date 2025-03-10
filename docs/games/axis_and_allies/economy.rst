@@ -9,3 +9,4 @@ Each :ref:`regiments <axis_and_allies_regiments>` and some buildings will cost y
 
 If your money is in the red, your regiments outside of the :ref:`supply <axis_and_allies_supply>` zone, will be taking damage until they self disband, and your regiments inside will be supplied much slower than normal. 
 
+Capturing a city or building a new HQ will get you additional income. The enemies are going to take city for their own, however. 

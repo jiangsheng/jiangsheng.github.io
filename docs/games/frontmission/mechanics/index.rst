@@ -22,6 +22,7 @@ Mechanics
     Terrain <terrain>
     Weapons <weapons>
 
+.. index:: pair: Front Mission; Mechanics
 
 The game is centralized on battle with units on a stage. Then use the prize money to upgrade units in a :ref:`city <front_mission_mechanics_city>` and fight next one. You can save or load here as well. 
 

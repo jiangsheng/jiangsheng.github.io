@@ -48,7 +48,7 @@
     <link rel="canonical" href="https://git.jiangsheng.net/build/html/games/axis_and_allies/regiments/infantry_regiment.html" />
     <link rel="index" title="Index" href="../../../genindex.html" />
     <link rel="search" title="Search" href="../../../search.html" />
-    <link rel="next" title="Economy" href="../economy.html" />
+    <link rel="next" title="Mechanized" href="mechanized_regiment.html" />
     <link rel="prev" title="Terrain" href="terrain.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="zh-CN"/>
@@ -252,7 +252,14 @@
 <li class="toctree-l3 current"><a class="reference internal" href="index.html">Regiments</a><ul class="current">
 <li class="toctree-l4"><a class="reference internal" href="formation.html">Formation</a></li>
 <li class="toctree-l4"><a class="reference internal" href="terrain.html">Terrain</a></li>
-<li class="toctree-l4 current"><a class="current reference internal" href="#">Infantry regiments</a></li>
+<li class="toctree-l4 current"><a class="current reference internal" href="#">Infantry</a><ul>
+<li class="toctree-l5"><a class="reference internal" href="#index-0">Infantry</a></li>
+<li class="toctree-l5"><a class="reference internal" href="#airborne-infantry">Airborne Infantry</a></li>
+</ul>
+</li>
+<li class="toctree-l4"><a class="reference internal" href="mechanized_regiment.html">Mechanized</a></li>
+<li class="toctree-l4"><a class="reference internal" href="tank_regiment.html">Tanks</a></li>
+<li class="toctree-l4"><a class="reference internal" href="npc_unit.html">Not controllable units</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../economy.html">Economy</a></li>
@@ -284,8 +291,8 @@
   </div>
   <div>
     <h4>Next topic</h4>
-    <p class="topless"><a href="../economy.html"
-                          title="next chapter">Economy</a></p>
+    <p class="topless"><a href="mechanized_regiment.html"
+                          title="next chapter">Mechanized</a></p>
   </div></div>
         <div class="sidebar-primary-item">
 <div id="searchbox"></div></div>
@@ -370,46 +377,107 @@
                   
   <section id="infantry">
 <span id="axis-and-allies-regiment-infantry"></span><h1>Infantry<a class="headerlink" href="#infantry" title="Link to this heading">#</a></h1>
-<p>The cheapest regiment type in the game, good for early game recons, rough <a class="reference internal" href="terrain.html#axis-and-allies-terrain"><span class="std std-ref">terrain</span></a> and defensive battles with the heap of entrenchment.</p>
-<p>Although they are weak, you can improve them with improved machine gun, marksmanship training or entrenchment upgrades.</p>
-<p>Infantry Regiment: Basic infantry unit with a wide range of weapons. In favorable terrains they are hard to deal with vehicles.</p>
-<p>Recon Infantry Regiment: Weakest in the game and lack firepower. May just as well run away from threat with the column <a class="reference internal" href="formation.html#axis-and-allies-formation"><span class="std std-ref">formation</span></a>. Good for capturing unmanned cities.</p>
-<p>Anti-Tank Infantry Regiment: Mostly like the standard infantry regiment except some units equipped anti-tank weapons. The only infantry good against tanks and halftracks. As most of units are still wearing guns, it still needs entrenchment and terrain bonus to hold their own against tanks.</p>
-<p>Artillery Infantry Regiment: Similar to Anti-Tank Infantry Regiment it replaced some gunman with long range mortar, good for attacking fixed defense positions. It also has morale damage, causing enemy to rout even without heavy casualties.</p>
-<p id="axis-and-allies-regiments-engineer">Engineer Regiment: You should at least keep one to repair buildings after airstrikes. They also build bunkers that do not count toward building limit, but you need a lot of ammo to support them. Better sell unused bunkers to save some money.</p>
-<p>Assault Infantry Regiment: USA only. Requires M7 Rifle Grenades upgrade from Artillery Brigade.  It is like replacing the regular infantry in the standard Infantry Regiment with upgraded officers that deal explosive damages, with so little added cost that you should use it instead of the standard one.</p>
-<p>Flamethrower Infantry Regiment: USA only. Requires Motor Pool and Flamethrower Infantry upgrade. Equip 2 soldiers in the standard infantry regiment with flamethrowers. Flames have moral damage, causing enemies to rout much easier. But it is a close range weapon and when losing the two flamethrowers, the regiment is no different from a regular one.</p>
-<p>Anti-Aircraft Infantry: GBR only. Requires Engineer Brigade. It is basically a mix of AA halftracks with standard infantry. If you can spare a regiment limit, this can be used to rotate between buildings, replacing some bunkers.</p>
-<p>Heavy Infantry Regiment: GBR only. Requires Motor Pool and Artillery Brigade. It is basically a mix of everything except AA. In a group they are pretty effective on most enemies, even armored ones. You want something more suitable if one on one.</p>
-<p>Conscript Regiment: USSR only. Cheap to recruit and maintain. Although without machine guns, Molotov cocktails are more effective than grenades because many troops resist to explosives. Their rifles are weak, however. You need mass recruit before making a move. Perfect meat shield for your artillery or snipers.</p>
-<p>Sniper Infantry Regiment: USSR only. Requires Sniper Rifles upgrade. Sniper shots have very high damage to infantry, can one shot any infantry unit, but must infantry regiments consist of many such units. The very low rate of fire from the sniper means not enough firepower in the regiment for the counter attack. Best paired with other regiments.</p>
-<p>Goliath Infantry Regiment: GER only. Requires Motor Pool and Goliath Remote Bombs upgrade. A manned remote control bomb. Although having bonus damage to buildings, the bombs need to be constantly resupplied, which means it is usually assigned to defend enemy vehicles.</p>
-<div class="pst-scrollable-table-container"><table class="table" id="id1">
-<caption><span class="caption-text">Infantry Regiments</span><a class="headerlink" href="#id1" title="Link to this table">#</a></caption>
+<section id="index-0">
+<span id="id1"></span><h2>Infantry<a class="headerlink" href="#index-0" title="Link to this heading">#</a></h2>
+<p>The cheapest regiment type in the game, good for early game recons, rough <a class="reference internal" href="terrain.html#axis-and-allies-terrain"><span class="std std-ref">terrain</span></a> and defensive battles with the heap of entrenchment.
+Although they are relatively weak, you can improve them with improved machine gun, marksmanship training or entrenchment upgrades.</p>
+<p>All infantry regiments have +25% resistance for Armor Piercing and Explosive weapons. They also have one infantry officer in the regiment.</p>
+<section id="infantry-regiment">
+<h3>Infantry Regiment<a class="headerlink" href="#infantry-regiment" title="Link to this heading">#</a></h3>
+<p>Basic infantry unit with a wide range of weapons. In favorable terrains they are hard to deal with vehicles.</p>
+</section>
+<section id="recon-infantry-regiment">
+<h3>Recon Infantry Regiment<a class="headerlink" href="#recon-infantry-regiment" title="Link to this heading">#</a></h3>
+<p>Weakest in the game and lack firepower. May just as well run away from threat with the column <a class="reference internal" href="formation.html#axis-and-allies-formation"><span class="std std-ref">formation</span></a>. Good for capturing unmanned cities.</p>
+</section>
+<section id="anti-tank-infantry-regiment">
+<h3>Anti-Tank Infantry Regiment<a class="headerlink" href="#anti-tank-infantry-regiment" title="Link to this heading">#</a></h3>
+<p>Mostly like the standard infantry regiment except some units equipped anti-tank weapons. The only infantry good against tanks and halftracks. As most of units are still wearing guns, it still needs entrenchment and terrain bonus to hold their own against tanks.</p>
+</section>
+<section id="artillery-infantry-regiment">
+<h3>Artillery Infantry Regiment<a class="headerlink" href="#artillery-infantry-regiment" title="Link to this heading">#</a></h3>
+<p>Similar to Anti-Tank Infantry Regiment it replaced some gunman with long range mortar, good for attacking fixed defense positions. It also has morale damage, causing enemy to rout even without heavy casualties.</p>
+</section>
+<section id="engineer-regiment">
+<span id="axis-and-allies-regiments-engineer"></span><h3>Engineer Regiment<a class="headerlink" href="#engineer-regiment" title="Link to this heading">#</a></h3>
+<p>You should at least keep one to repair buildings after airstrikes. They also build bunkers that do not count toward building limit, but you need a lot of ammo to support them. Better sell unused bunkers to save some money.</p>
+</section>
+<section id="assault-infantry-regiment">
+<h3>Assault Infantry Regiment<a class="headerlink" href="#assault-infantry-regiment" title="Link to this heading">#</a></h3>
+<p>USA only. Requires M7 Rifle Grenades upgrade from Artillery Brigade.  It is like replacing the regular infantry in the standard Infantry Regiment with upgraded officers that deal explosive damages, with so little added cost that you should use it instead of the standard one.</p>
+</section>
+<section id="flamethrower-infantry-regiment">
+<h3>Flamethrower Infantry Regiment<a class="headerlink" href="#flamethrower-infantry-regiment" title="Link to this heading">#</a></h3>
+<p>USA only. Requires Motor Pool and Flamethrower Infantry upgrade. Equip 2 soldiers in the standard infantry regiment with flamethrowers. Flames have moral damage, causing enemies to rout much easier. But it is a close range weapon and when losing the two flamethrowers, the regiment is no different from a regular one.</p>
+</section>
+<section id="anti-aircraft-infantry">
+<h3>Anti-Aircraft Infantry<a class="headerlink" href="#anti-aircraft-infantry" title="Link to this heading">#</a></h3>
+<p>GBR only. Requires Engineer Brigade. It is basically a mix of AA halftracks with standard infantry. If you can spare a regiment limit, this can be used to rotate between buildings, replacing some bunkers.</p>
+</section>
+<section id="heavy-infantry-regiment">
+<h3>Heavy Infantry Regiment<a class="headerlink" href="#heavy-infantry-regiment" title="Link to this heading">#</a></h3>
+<p>GBR only. Requires Motor Pool and Artillery Brigade. It is basically a mix of everything except AA. In a group they are pretty effective on most enemies, even armored ones. You want something more suitable if one on one.</p>
+</section>
+<section id="conscript-regiment">
+<h3>Conscript Regiment<a class="headerlink" href="#conscript-regiment" title="Link to this heading">#</a></h3>
+<p>USSR only. Cheap to recruit and maintain. Although without machine guns, Molotov cocktails are more effective than grenades because many troops resist to explosives. Their rifles are weak, however. You need mass recruit before making a move. Perfect meat shield for your artillery or snipers.</p>
+</section>
+<section id="sniper-infantry-regiment">
+<h3>Sniper Infantry Regiment<a class="headerlink" href="#sniper-infantry-regiment" title="Link to this heading">#</a></h3>
+<p>USSR only. Requires Sniper Rifles upgrade. Sniper shots have very high damage to infantry, can one shot any infantry unit, but must infantry regiments consist of many such units. The very low rate of fire from the sniper means not enough firepower in the regiment for the counter attack. Best paired with other regiments.</p>
+</section>
+<section id="goliath-infantry-regiment">
+<h3>Goliath Infantry Regiment<a class="headerlink" href="#goliath-infantry-regiment" title="Link to this heading">#</a></h3>
+<p>GER only. Requires Motor Pool and Goliath Remote Bombs upgrade. A manned remote control bomb. As the explosive charge surprisingly does not do explosive damage but AP damage, there success depends on how fast they can run into enemy armor, thus don’t send them in unfavorable <a class="reference internal" href="terrain.html#axis-and-allies-terrain"><span class="std std-ref">terrains</span></a>.  Although having bonus damage to buildings, the bombs need to be constantly resupplied, which means it is usually assigned to defend enemy vehicles.</p>
+</section>
+<section id="banzai-infantry-regiment">
+<h3>Banzai Infantry Regiment<a class="headerlink" href="#banzai-infantry-regiment" title="Link to this heading">#</a></h3>
+<p>JPN only. Requires Artillery Brigade and Banzai Infantry upgrade. Basically base infantry mixed with WWII era suicide bombers, a human version of Goliath. As the explosive charge surprisingly does not do explosive damage but AP damage, there success depends on how fast they can run into enemy armor, thus don’t send them in unfavorable <a class="reference internal" href="terrain.html#axis-and-allies-terrain"><span class="std std-ref">terrains</span></a>. After the suicide bombers die, it would be as useful as a recon infantry regiment, so it needs to be constant resupplied too, best if used in a defense role. A couple of these can be used to deter a tank regiment.</p>
+</section>
+<section id="commando-infantry-regiment">
+<h3>Commando Infantry Regiment<a class="headerlink" href="#commando-infantry-regiment" title="Link to this heading">#</a></h3>
+<p>JPN only. Requires Sniper Rifles upgrade. Japanese version of sniper, much cheaper but shorter range. Like the USSR one, this one is best paired with other regiments to avoid retaliation.</p>
+</section>
+</section>
+<section id="airborne-infantry">
+<h2>Airborne Infantry<a class="headerlink" href="#airborne-infantry" title="Link to this heading">#</a></h2>
+<p id="index-1"><span id="axis-and-allies-regiment-airborne-infantry"></span>Airborne Infantries are generally stronger but come with a cost. Do not just throw them in the dark. They can only be attached to Airborne Infantry HQs.</p>
+<p>All airborne infantry regiments have +25% resistance for Armor Piercing and Explosive weapons. They also usually have one airborne infantry as the officer in the regiment that is stronger than the regular infantry officer.</p>
+<section id="airborne-infantry-regiment">
+<h3>Airborne Infantry Regiment<a class="headerlink" href="#airborne-infantry-regiment" title="Link to this heading">#</a></h3>
+<p>Although they are basically stronger of officers with better explosives, lack of machine gun is very noticeable against other infantries. Best to capture remote defenseless cities or as plugin defense until regular regiments arrive.</p>
+</section>
+<section id="airborne-heavy-regiment">
+<h3>Airborne Heavy Regiment<a class="headerlink" href="#airborne-heavy-regiment" title="Link to this heading">#</a></h3>
+<p>Requires Artillery Brigade. With two machine guns and a mortar, It can stand one on one with other infantries. Still you don’t want to throw them into regular battles as they are more expensive. You want to drop them to destroy high value targets like unguarded depots.</p>
+</section>
+<section id="sas-commandos">
+<h3>SAS Commandos<a class="headerlink" href="#sas-commandos" title="Link to this heading">#</a></h3>
+<p>GBR only. Requires airfield with SAS Paratroopers upgrade. Has one SAS Commando as the officer instead of the regular airborne infantry. The machine guns and especially two snipers gives the regiments unmatched advantage over other infantries. However they are still way too expensive for regular battle. Use them to capture lightly defended cities or use as instant defense against infantries.</p>
+</section>
+<section id="airborne-banzai-infantry">
+<h3>Airborne Banzai Infantry<a class="headerlink" href="#airborne-banzai-infantry" title="Link to this heading">#</a></h3>
+<p>JPN only. Requires Artillery Brigade. Airdropped suicide bombers sounds good on paper but being airdropped means they do not usually benefit from supplies like their ground counterparts. And only two Banzai infantry in them means the explosive charges are very limited. Best used against unguarded high value targets, like airfields or depot.</p>
+<div class="pst-scrollable-table-container"><table class="table" id="id2">
+<caption><span class="caption-text">Infantry Regiments</span><a class="headerlink" href="#id2" title="Link to this table">#</a></caption>
 <thead>
 <tr class="row-odd"><th class="head"><p>Name</p></th>
 <th class="head"><p>Requires</p></th>
-<th class="head"><p>Exclusive to</p></th>
 <th class="head"><p>Cost</p></th>
-<th class="head"><p>Ammo Upkeep</p></th>
-<th class="head"><p>Oil Upkeep</p></th>
-<th class="head"><p>Resistances</p></th>
-<th class="head"><p>Officer Unit</p></th>
-<th class="head"><p>Main Units</p></th>
-<th class="head"><p>Support Units</p></th>
-<th class="head"><p>Support Units 2</p></th>
-<th class="head"><p>upport Units 3</p></th>
+<th class="head"><p>Ammo</p></th>
+<th class="head"><p>Oil</p></th>
+<th class="head"><p>Main</p></th>
+<th class="head"><p>Support 1</p></th>
+<th class="head"><p>Support 2</p></th>
+<th class="head"><p>Support 3</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="row-even"><td><p>Infantry Regiment</p></td>
 <td></td>
-<td></td>
 <td><p>50</p></td>
 <td><p>-10</p></td>
 <td></td>
-<td><p>Armor Piercing +25%, Explosive +25%</p></td>
-<td><p>Infantry Officer</p></td>
 <td><p>Infantry x6</p></td>
 <td><p>Machine Gun Infantry x2</p></td>
 <td></td>
@@ -417,12 +485,9 @@
 </tr>
 <tr class="row-odd"><td><p>Recon Infantry Regiment</p></td>
 <td></td>
-<td></td>
 <td><p>25</p></td>
 <td><p>-5</p></td>
 <td></td>
-<td><p>Armor Piercing +25%, Explosive +25%</p></td>
-<td><p>Infantry Officer</p></td>
 <td><p>Infantry x4</p></td>
 <td></td>
 <td></td>
@@ -430,12 +495,9 @@
 </tr>
 <tr class="row-even"><td><p>Anti-Tank Infantry Regiment</p></td>
 <td><p>Motor Pool</p></td>
-<td></td>
 <td><p>70</p></td>
 <td><p>-15</p></td>
 <td></td>
-<td><p>Armor Piercing +25%, Explosive +25%</p></td>
-<td><p>Infantry Officer</p></td>
 <td><p>Infantry x4-5</p></td>
 <td><p>Machine Gun Infantry x1-2</p></td>
 <td><p>Anti-Tank Infantry x2</p></td>
@@ -443,12 +505,9 @@
 </tr>
 <tr class="row-odd"><td><p>Artillery Infantry Regiment</p></td>
 <td><p>Artillery Brigade</p></td>
-<td></td>
 <td><p>65</p></td>
 <td><p>-15</p></td>
 <td></td>
-<td><p>Armor Piercing +25%, Explosive +25%</p></td>
-<td><p>Infantry Officer</p></td>
 <td><p>Infantry x5</p></td>
 <td><p>Machine Gun Infantry</p></td>
 <td><p>Mortar Infantry x2</p></td>
@@ -456,12 +515,9 @@
 </tr>
 <tr class="row-even"><td><p>Engineer Infantry Regiment</p></td>
 <td><p>Engineer Brigade</p></td>
-<td></td>
 <td><p>75</p></td>
 <td><p>-5</p></td>
 <td><p>-5</p></td>
-<td><p>Armor Piercing +25%, Explosive +25%</p></td>
-<td><p>Infantry Officer</p></td>
 <td><p>Engineer x6</p></td>
 <td></td>
 <td></td>
@@ -469,12 +525,9 @@
 </tr>
 <tr class="row-odd"><td><p>Assault Infantry Regiment</p></td>
 <td><p>Artillery Brigade,M7 Rifle Grenades upgrade</p></td>
-<td><p>USA</p></td>
 <td><p>60</p></td>
 <td><p>-15</p></td>
 <td></td>
-<td><p>Armor Piercing +25%, Explosive +25%</p></td>
-<td><p>Infantry Officer</p></td>
 <td><p>Assault Infantry x6</p></td>
 <td><p>Machine Gun Infantry x2</p></td>
 <td></td>
@@ -482,12 +535,9 @@
 </tr>
 <tr class="row-even"><td><p>Flamethrower Infantry Regiment</p></td>
 <td><p>Motor Pool, Flamethrower Infantry upgrade</p></td>
-<td><p>USA</p></td>
 <td><p>75</p></td>
 <td><p>-10</p></td>
 <td><p>-5</p></td>
-<td><p>Armor Piercing +25%, Explosive +25%</p></td>
-<td><p>Infantry Officer</p></td>
 <td><p>Infantry x4</p></td>
 <td><p>Machine Gun Infantry x2</p></td>
 <td><p>Flamethrower Infantry x2</p></td>
@@ -495,12 +545,9 @@
 </tr>
 <tr class="row-odd"><td><p>Anti-Aircraft Infantry Regiment</p></td>
 <td><p>Engineer Brigade</p></td>
-<td><p>GBR</p></td>
 <td><p>60</p></td>
 <td><p>-10</p></td>
 <td><p>-5</p></td>
-<td><p>Armor Piercing +25%, Explosive +25%</p></td>
-<td><p>Infantry Officer</p></td>
 <td><p>Infantry x5</p></td>
 <td><p>Machine Gun Infantry</p></td>
 <td><p>M16 MGMC x2</p></td>
@@ -508,12 +555,9 @@
 </tr>
 <tr class="row-even"><td><p>Heavy Infantry Regiment</p></td>
 <td><p>Motor Pool and Artillery Brigade</p></td>
-<td><p>GBR</p></td>
 <td><p>80</p></td>
 <td><p>-15</p></td>
 <td></td>
-<td><p>Armor Piercing +25%, Explosive +25%</p></td>
-<td><p>Infantry Officer</p></td>
 <td><p>Infantry x3</p></td>
 <td><p>Machine Gun Infantry x3</p></td>
 <td><p>Anti-Tank Infantry</p></td>
@@ -521,12 +565,9 @@
 </tr>
 <tr class="row-odd"><td><p>Conscript Regiment</p></td>
 <td></td>
-<td><p>USSR</p></td>
 <td><p>35</p></td>
 <td><p>-5</p></td>
 <td></td>
-<td><p>Armor Piercing +25%, Explosive +25%</p></td>
-<td><p>Infantry Officer</p></td>
 <td><p>Conscript x8</p></td>
 <td></td>
 <td></td>
@@ -534,12 +575,9 @@
 </tr>
 <tr class="row-even"><td><p>Sniper Infantry Regiment</p></td>
 <td><p>Sniper Rifles upgrade</p></td>
-<td><p>USSR</p></td>
 <td><p>75</p></td>
 <td><p>-10</p></td>
 <td></td>
-<td><p>Armor Piercing +25%, Explosive +25%</p></td>
-<td><p>Infantry Officer</p></td>
 <td><p>Infantry x3</p></td>
 <td><p>Sniper</p></td>
 <td></td>
@@ -547,37 +585,84 @@
 </tr>
 <tr class="row-odd"><td><p>Goliath Infantry Regiment</p></td>
 <td><p>Motor Pool, Goliath Remote Bombs upgrade</p></td>
-<td><p>GER</p></td>
 <td><p>100</p></td>
 <td><p>-15</p></td>
 <td><p>-5</p></td>
-<td><p>Armor Piercing +25%, Explosive +25%</p></td>
-<td><p>Infantry Officer</p></td>
 <td><p>Infantry x4</p></td>
 <td><p>Machine Gun Infantry x2</p></td>
 <td><p>Goliath B1 x2</p></td>
 <td></td>
 </tr>
+<tr class="row-even"><td><p>Banzai Infantry Regiment</p></td>
+<td><p>Artillery Brigade and Banzai Infantry upgrade</p></td>
+<td><p>75</p></td>
+<td><p>-15</p></td>
+<td></td>
+<td><p>Infantry x4</p></td>
+<td><p>Banzai Infantry x4</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Airborne Infantry Regiment</p></td>
+<td></td>
+<td><p>150</p></td>
+<td><p>-10</p></td>
+<td></td>
+<td><p>Airborne Infantry x8 (9)</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Airborne Heavy Infantry Regiment</p></td>
+<td><p>Artillery Brigade</p></td>
+<td><p>200</p></td>
+<td><p>-15</p></td>
+<td></td>
+<td><p>Airborne Infantry x5 (6)</p></td>
+<td><p>Machine Gun Infantry x2</p></td>
+<td><p>Mortar Infantry</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>SAS Commandos</p></td>
+<td><p>Airfield with SAS Paratroopers upgrade</p></td>
+<td><p>200</p></td>
+<td><p>-15</p></td>
+<td></td>
+<td><p>SAS Commando x6 (7)</p></td>
+<td><p>SAS Sniper x2</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Airborne Banzai Infantry Regiment</p></td>
+<td><p>Artillery Brigade and Banzai Infantry upgrade</p></td>
+<td><p>250</p></td>
+<td><p>-15</p></td>
+<td></td>
+<td><p>Airborne Infantry x6 (7)</p></td>
+<td><p>Airborne Banzai Infantry x2</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 </div>
-<div class="pst-scrollable-table-container"><table class="table" id="id2">
-<caption><span class="caption-text">Infantry Units</span><a class="headerlink" href="#id2" title="Link to this table">#</a></caption>
+<div class="pst-scrollable-table-container"><table class="table" id="id3">
+<caption><span class="caption-text">Infantry Units</span><a class="headerlink" href="#id3" title="Link to this table">#</a></caption>
 <thead>
 <tr class="row-odd"><th class="head"><p>Name</p></th>
-<th class="head"><p>Health</p></th>
-<th class="head"><p>Defense</p></th>
-<th class="head"><p>Speed</p></th>
+<th class="head"><p>HP</p></th>
+<th class="head"><p>Def</p></th>
+<th class="head"><p>Spd</p></th>
 <th class="head"><p>Morale</p></th>
-<th class="head"><p>Weapon1</p></th>
-<th class="head"><p>Attack</p></th>
-<th class="head"><p>Damage Type</p></th>
+<th class="head"><p>Wpn1</p></th>
+<th class="head"><p>Atk</p></th>
+<th class="head"><p>Type</p></th>
 <th class="head"><p>Delay</p></th>
 <th class="head"><p>Range</p></th>
 <th class="head"><p>AOE</p></th>
-<th class="head"><p>Weapon2</p></th>
-<th class="head"><p>Attack</p></th>
-<th class="head"><p>Damage Type</p></th>
+<th class="head"><p>Wpn2</p></th>
+<th class="head"><p>Atk</p></th>
+<th class="head"><p>Type</p></th>
 <th class="head"><p>Delay</p></th>
 <th class="head"><p>Range</p></th>
 <th class="head"><p>AOE</p></th>
@@ -590,15 +675,15 @@
 <td><p>1</p></td>
 <td><p>3</p></td>
 <td><p>5 (JPN:+1)</p></td>
-<td><p>Submachine gun</p></td>
+<td><p>SMG</p></td>
 <td><p>10 (USA:+2)</p></td>
-<td><p>Gun</p></td>
+<td><p>G</p></td>
 <td><p>2</p></td>
 <td><p>12 (GER:-2)</p></td>
 <td></td>
 <td><p>Grenade</p></td>
 <td><p>20</p></td>
-<td><p>Explosive</p></td>
+<td><p>EX</p></td>
 <td><p>15</p></td>
 <td><p>9</p></td>
 <td><p>2</p></td>
@@ -611,26 +696,26 @@
 <td><p>5 (JPN:+1)</p></td>
 <td><p>Rifle</p></td>
 <td><p>10 (USA:+2)</p></td>
-<td><p>Gun</p></td>
+<td><p>G</p></td>
 <td><p>3</p></td>
 <td><p>12</p></td>
 <td></td>
 <td><p>Grenade</p></td>
 <td><p>20</p></td>
-<td><p>Explosive</p></td>
+<td><p>EX</p></td>
 <td><p>15</p></td>
 <td><p>9</p></td>
 <td><p>2</p></td>
 <td></td>
 </tr>
-<tr class="row-even"><td><p>Machine Gun Infantry</p></td>
+<tr class="row-even"><td><p>MG Infantry</p></td>
 <td><p>150</p></td>
 <td><p>1</p></td>
 <td><p>2.5</p></td>
 <td><p>5 (JPN:+1)</p></td>
-<td><p>Machine Gun</p></td>
+<td><p>MG</p></td>
 <td><p>12 (GBR:+3, GER:+2)</p></td>
-<td><p>Gun</p></td>
+<td><p>G</p></td>
 <td><p>2</p></td>
 <td><p>12</p></td>
 <td><p>1.5</p></td>
@@ -668,7 +753,7 @@
 <td><p>5 (JPN:+1)</p></td>
 <td><p>Mortar</p></td>
 <td><p>30</p></td>
-<td><p>Explosive</p></td>
+<td><p>EX</p></td>
 <td><p>9</p></td>
 <td><p>30</p></td>
 <td><p>3</p></td>
@@ -687,7 +772,7 @@
 <td><p>5 (JPN:+1)</p></td>
 <td><p>Rifle</p></td>
 <td><p>10</p></td>
-<td><p>Gun</p></td>
+<td><p>G</p></td>
 <td><p>3</p></td>
 <td><p>10</p></td>
 <td></td>
@@ -706,26 +791,26 @@
 <td><p>5</p></td>
 <td><p>Garand Rifle</p></td>
 <td><p>12</p></td>
-<td><p>Gun</p></td>
+<td><p>G</p></td>
 <td><p>3</p></td>
 <td><p>12</p></td>
 <td></td>
 <td><p>Grenade</p></td>
 <td><p>20</p></td>
-<td><p>Explosive</p></td>
+<td><p>EX</p></td>
 <td><p>15</p></td>
 <td><p>9</p></td>
 <td><p>2</p></td>
-<td><p>Rifle Grenade Attack (Explosive damage +30 )</p></td>
+<td><p>Rifle Grenade Attack (EX damage +30 )</p></td>
 </tr>
-<tr class="row-odd"><td><p>Flamethrower Infantry</p></td>
+<tr class="row-odd"><td><p>FL thrower Infantry</p></td>
 <td><p>150</p></td>
 <td><p>1</p></td>
 <td><p>2.5</p></td>
 <td><p>5</p></td>
 <td></td>
 <td><p>40</p></td>
-<td><p>Flame</p></td>
+<td><p>FL</p></td>
 <td><p>6</p></td>
 <td><p>6</p></td>
 <td></td>
@@ -744,36 +829,36 @@
 <td><p>5</p></td>
 <td><p>Rifle</p></td>
 <td><p>8</p></td>
-<td><p>Gun</p></td>
+<td><p>G</p></td>
 <td><p>3</p></td>
 <td><p>10</p></td>
 <td></td>
 <td><p>Molotov Cocktail</p></td>
 <td><p>10</p></td>
-<td><p>Flame</p></td>
+<td><p>FL</p></td>
 <td><p>20</p></td>
 <td><p>9</p></td>
 <td><p>2</p></td>
 <td></td>
 </tr>
-<tr class="row-odd"><td><p>Sniper</p></td>
+<tr class="row-odd"><td><p>USSR Sniper</p></td>
 <td><p>150</p></td>
 <td><p>1</p></td>
 <td><p>2.5</p></td>
 <td><p>5</p></td>
 <td><p>Mosin</p></td>
 <td><p>10</p></td>
-<td><p>Gun</p></td>
+<td><p>G</p></td>
 <td><p>10</p></td>
 <td><p>20</p></td>
 <td></td>
 <td><p>Grenade</p></td>
 <td><p>20</p></td>
-<td><p>Explosive</p></td>
+<td><p>EX</p></td>
 <td><p>15</p></td>
 <td><p>9</p></td>
 <td><p>2</p></td>
-<td><p>Gun Damage +250 vs Infantry</p></td>
+<td><p>G Damage +250 vs Infantry</p></td>
 </tr>
 <tr class="row-even"><td><p>Goliath B1</p></td>
 <td><p>100</p></td>
@@ -792,11 +877,127 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p>Explosive Damage +250 vs buildings</p></td>
+<td><p>EX Damage +250 vs buildings</p></td>
+</tr>
+<tr class="row-odd"><td><p>Banzai Infantry</p></td>
+<td><p>175</p></td>
+<td><p>1</p></td>
+<td><p>3</p></td>
+<td><p>8</p></td>
+<td><p>Rifle</p></td>
+<td><p>10</p></td>
+<td><p>G</p></td>
+<td><p>3</p></td>
+<td><p>12</p></td>
+<td><p>2</p></td>
+<td><p>EX Charge</p></td>
+<td><p>200</p></td>
+<td><p>AP</p></td>
+<td><p>1</p></td>
+<td><p>50</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Japanese Sniper</p></td>
+<td><p>150</p></td>
+<td><p>1</p></td>
+<td><p>2.5</p></td>
+<td><p>6</p></td>
+<td><p>Arisaka</p></td>
+<td><p>10</p></td>
+<td><p>G</p></td>
+<td><p>10</p></td>
+<td><p>18</p></td>
+<td></td>
+<td><p>Grenade</p></td>
+<td><p>20</p></td>
+<td><p>EX</p></td>
+<td><p>15</p></td>
+<td><p>9</p></td>
+<td><p>2</p></td>
+<td><p>G Damage +250 vs Infantry</p></td>
+</tr>
+<tr class="row-odd"><td><p>Airborne Officer/Infantry</p></td>
+<td><p>250</p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>7</p></td>
+<td><p>SMG</p></td>
+<td><p>12</p></td>
+<td><p>G</p></td>
+<td><p>2</p></td>
+<td><p>12</p></td>
+<td></td>
+<td><p>Grenade</p></td>
+<td><p>25</p></td>
+<td><p>EX</p></td>
+<td><p>15</p></td>
+<td><p>9</p></td>
+<td><p>2</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>SAS Commando</p></td>
+<td><p>250</p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>8</p></td>
+<td><p>MG</p></td>
+<td><p>14</p></td>
+<td><p>G</p></td>
+<td><p>2</p></td>
+<td><p>12</p></td>
+<td></td>
+<td><p>Grenade</p></td>
+<td><p>25</p></td>
+<td><p>EX</p></td>
+<td><p>15</p></td>
+<td><p>9</p></td>
+<td><p>2</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>SAS Sniper</p></td>
+<td><p>250</p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>8</p></td>
+<td><p>Enfield</p></td>
+<td><p>10</p></td>
+<td><p>G</p></td>
+<td><p>10</p></td>
+<td><p>20</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>G Damage +250 vs Infantry</p></td>
+</tr>
+<tr class="row-even"><td><p>Airborne Banzai Infantry</p></td>
+<td><p>200</p></td>
+<td><p>1</p></td>
+<td><p>3</p></td>
+<td><p>8</p></td>
+<td><p>SMG</p></td>
+<td><p>12</p></td>
+<td><p>G</p></td>
+<td><p>2</p></td>
+<td><p>12</p></td>
+<td></td>
+<td><p>EX Charge</p></td>
+<td><p>200</p></td>
+<td><p>AP</p></td>
+<td><p>1</p></td>
+<td><p>50</p></td>
+<td><p>1</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 </div>
+</section>
+</section>
 </section>
 
 
@@ -819,11 +1020,11 @@
       </div>
     </a>
     <a class="right-next"
-       href="../economy.html"
+       href="mechanized_regiment.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Economy</p>
+        <p class="prev-next-title">Mechanized</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
@@ -837,6 +1038,41 @@
                 <dialog id="pst-secondary-sidebar-modal"></dialog>
                 <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
+
+  <div class="sidebar-secondary-item">
+<div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> On this page
+  </div>
+  <nav class="bd-toc-nav page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#index-0">Infantry</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#infantry-regiment">Infantry Regiment</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#recon-infantry-regiment">Recon Infantry Regiment</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#anti-tank-infantry-regiment">Anti-Tank Infantry Regiment</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#artillery-infantry-regiment">Artillery Infantry Regiment</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#engineer-regiment">Engineer Regiment</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#assault-infantry-regiment">Assault Infantry Regiment</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#flamethrower-infantry-regiment">Flamethrower Infantry Regiment</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#anti-aircraft-infantry">Anti-Aircraft Infantry</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#heavy-infantry-regiment">Heavy Infantry Regiment</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#conscript-regiment">Conscript Regiment</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#sniper-infantry-regiment">Sniper Infantry Regiment</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#goliath-infantry-regiment">Goliath Infantry Regiment</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#banzai-infantry-regiment">Banzai Infantry Regiment</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#commando-infantry-regiment">Commando Infantry Regiment</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#airborne-infantry">Airborne Infantry</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#airborne-infantry-regiment">Airborne Infantry Regiment</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#airborne-heavy-regiment">Airborne Heavy Regiment</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#sas-commandos">SAS Commandos</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#airborne-banzai-infantry">Airborne Banzai Infantry</a></li>
+</ul>
+</li>
+</ul>
+  </nav></div>
 
   <div class="sidebar-secondary-item">
   <div role="note" aria-label="source link">

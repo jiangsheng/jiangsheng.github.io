@@ -3,6 +3,8 @@
 Upgrades
 ===========
 
+.. index:: pair: Axis & Allies; Upgrades
+
 .. csv-table:: Upgrades
    :file: upgrades.csv
    :header-rows: 1

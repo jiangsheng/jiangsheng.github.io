@@ -1,5 +1,6 @@
 .. _front_mission_mechanics_pilots:
 
+.. index:: pair: Front Mission; Pilots
 
 Pilots
 ======================

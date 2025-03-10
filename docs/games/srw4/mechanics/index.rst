@@ -5,7 +5,7 @@
 .. include:: <isotech.txt>
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 1
    :caption: 内容:
 
    芯片 <items>

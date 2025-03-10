@@ -1,7 +1,7 @@
 攻略流程
 =====================================
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 1
    :caption: 内容:
    :hidden:
 

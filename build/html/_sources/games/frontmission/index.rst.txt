@@ -9,6 +9,8 @@ Front Mission 1
    Mechanics <mechanics/index> 
    Platform Differences <platform_difference> 
 
+.. index::  Front Mission 
+   
 After creating a new game, you will be asked to :ref:`personalize <front_mission_mechanics_personalize>` your name and call sign. Then you will enter a battle field. 
 
 The game is centralized on battle with robots (called wanzers in this game) on a stage. Then use the prize money to upgrade units in a :ref:`city <front_mission_mechanics_city>` and fight next one. Sometimes the default move target after a battle is another battlefield, you should always check your destination before confirming, at least saving your progress first before next battle (sometimes you get to recruit pilots or enter secret mission by going back). 

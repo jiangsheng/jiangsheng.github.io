@@ -3,6 +3,8 @@
 Terrain
 ===============================
 
+.. index:: pair: Front Mission; Terrains
+
 Terrain has various effects on the battle. The most obvious one is that your wanzers with treads and tire legs can't go up or down two levels. There are also a few hover type legs that let you cross water or rocks easily. 
 
 Terrain also provides cover. This is explained in the NDS port during the OCU tutorial mission, but not in the original. For example, the Jungle or Forest terrains slowdown your movement but provide huge defensive bonuses compared to the Glass terrain. A Soil terrain with snow would provide much less cover than the normal Soil terrain.
