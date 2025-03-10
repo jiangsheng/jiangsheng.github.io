@@ -10,29 +10,29 @@ Infantry
 ---------------------
 
 The cheapest regiment type in the game, good for early game recons, rough :ref:`terrain <axis_and_allies_terrain>` and defensive battles with the heap of entrenchment. 
-Although they are relatively weak, you can improve them with improved machine gun, marksmanship training or entrenchment upgrades. 
+Although they are relatively weak, you can improve them with improved machine gun, marksmanship training or entrenchment :ref:`upgrade <axis_and_allies_upgrades>`. 
 
 All infantry regiments have +25% resistance for Armor Piercing and Explosive weapons. They also have one infantry officer in the regiment.
 
 ^^^^^^^^^^^^^^^^^^
 Infantry Regiment
 ^^^^^^^^^^^^^^^^^^
-Basic infantry unit with a wide range of weapons. In favorable terrains they are hard to deal with vehicles. 
+Basic infantry unit with a wide range of weapons. In favorable terrains and entrenched they are hard to deal with. 
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Recon Infantry Regiment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Weakest in the game and lack firepower. May just as well run away from threat with the column :ref:`formation <axis_and_allies_formation>`. Good for capturing unmanned cities. 
+Weakest in the game and lacks firepower. May just as well run away from threat with the column :ref:`formation <axis_and_allies_formation>`. Good for capturing unmanned cities. 
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Anti-Tank Infantry Regiment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Mostly like the standard infantry regiment except some units equipped anti-tank weapons. The only infantry good against tanks and halftracks. As most of units are still wearing guns, it still needs entrenchment and terrain bonus to hold their own against tanks. 
+Mostly like the standard infantry regiment except some units equipped anti-tank weapons. The only infantry good against tanks and halftracks. As most of units are still carrying guns, it still needs entrenchment and terrain bonus to hold their own against tanks. 
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Artillery Infantry Regiment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Similar to Anti-Tank Infantry Regiment it replaced some gunman with long range mortar, good for attacking fixed defense positions. It also has morale damage, causing enemy to rout even without heavy casualties.
+Similar to Anti-Tank Infantry Regiment it replaced some gunman with long range mortar, good for attacking fixed defense positions like bunkers. It also has morale damage, causing enemy to rout even without heavy casualties.
 
 .. _axis_and_allies_regiments_engineer:
 
@@ -84,7 +84,7 @@ JPN only. Requires Artillery Brigade and Banzai Infantry upgrade. Basically base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Commando Infantry Regiment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-JPN only. Requires Sniper Rifles upgrade. Japanese version of sniper, much cheaper but shorter range. Like the USSR one, this one is best paired with other regiments to avoid retaliation. 
+JPN only. Requires Sniper Rifles upgrade. Japanese version of sniper, cheaper but shorter range. Like the USSR one, this one is best paired with other regiments to avoid retaliation. 
 
 -------------------------------
 Airborne Infantry
@@ -111,7 +111,7 @@ Requires Artillery Brigade. With two machine guns and a mortar, It can stand one
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 SAS Commandos
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-GBR only. Requires airfield with SAS Paratroopers upgrade. Has one SAS Commando as the officer instead of the regular airborne infantry. The machine guns and especially two snipers gives the regiments unmatched advantage over other infantries. However they are still way too expensive for regular battle. Use them to capture lightly defended cities or use as instant defense against infantries. 
+GBR only. Requires airfield with SAS Paratroopers upgrade. Has one SAS Commando as the officer instead of the regular airborne infantry. The machine guns and especially two snipers gives the regiments unmatched advantage over other infantries. However they are still way too expensive for regular battles. Use them to capture lightly defended cities or use as instant defense against infantries. 
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Airborne Banzai Infantry
