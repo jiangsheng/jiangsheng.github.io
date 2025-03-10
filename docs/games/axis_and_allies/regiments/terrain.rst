@@ -3,6 +3,8 @@
 Terrain
 =============
 
+.. index:: pair: Axis & Allies; Terrain
+
 Different type of regiments have advantage and disadvantage on different terrains. For example, infantry is better than vehicle in cities, forests and jungles. 
 
 .. list-table:: Terrain Effects

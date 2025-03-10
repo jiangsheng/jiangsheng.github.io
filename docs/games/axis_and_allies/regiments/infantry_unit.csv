@@ -1,12 +1,18 @@
-﻿Name,Health,Defense,Speed,Morale,Weapon1,Attack,Damage Type,Delay,Range,AOE,Weapon2,Attack,Damage Type,Delay,Range,AOE,Bonuses
-Infantry Officers,200,1,3,5 (JPN:+1),Submachine gun,10 (USA:+2),Gun,2,12 (GER:-2),,Grenade,20,Explosive,15,9,2,
-Infantry ,200,1,2.5,5 (JPN:+1),Rifle,10 (USA:+2),Gun,3,12,,Grenade,20,Explosive,15,9,2,
-Machine Gun Infantry ,150,1,2.5,5 (JPN:+1),Machine Gun,"12 (GBR:+3, GER:+2)",Gun,2,12,1.5,,,,,,,
+Name,HP,Def,Spd,Morale,Wpn1,Atk,Type,Delay,Range,AOE,Wpn2,Atk,Type,Delay,Range,AOE,Bonuses
+Infantry Officers,200,1,3,5 (JPN:+1),SMG,10 (USA:+2),G,2,12 (GER:-2),,Grenade,20,EX,15,9,2,
+Infantry ,200,1,2.5,5 (JPN:+1),Rifle,10 (USA:+2),G,3,12,,Grenade,20,EX,15,9,2,
+MG Infantry ,150,1,2.5,5 (JPN:+1),MG,"12 (GBR:+3, GER:+2)",G,2,12,1.5,,,,,,,
 Anti-Tank Infantry ,150,1,2.5,5 (JPN:+1),AT,"45 (USA:+5, GER:-5)",AP,"6 (USA:+1, GER:-1)",12,,,,,,,,Short Paralyze
-Mortar Infantry,150,1,2,5 (JPN:+1),Mortar,30,Explosive,9,30,3,,,,,,,Morale Damage 0.75 
-Engineer,200,1,3,5 (JPN:+1),Rifle,10,Gun,3,10,,,,,,,,Rapid Entrenchment
-Assault Infantry,225,2,3,5,Garand Rifle,12,Gun,3,12,,Grenade,20,Explosive,15,9,2,Rifle Grenade Attack (Explosive damage +30 )
-Flamethrower Infantry,150,1,2.5,5,,40,Flame,6,6,,,,,,,,
-Conscript,150,0,3,5,Rifle,8,Gun,3,10,,Molotov Cocktail,10,Flame,20,9,2,
-Sniper,150,1,2.5,5,Mosin,10,Gun,10,20,,Grenade,20,Explosive,15,9,2,Gun Damage +250 vs Infantry
-Goliath B1,100,5,3.5,5,Self destruct,250,AP,50,0.5,2,,,,,,,Explosive Damage +250 vs buildings
+Mortar Infantry,150,1,2,5 (JPN:+1),Mortar,30,EX,9,30,3,,,,,,,Morale Damage 0.75 
+Engineer,200,1,3,5 (JPN:+1),Rifle,10,G,3,10,,,,,,,,Rapid Entrenchment
+Assault Infantry,225,2,3,5,Garand Rifle,12,G,3,12,,Grenade,20,EX,15,9,2,Rifle Grenade Attack (EX damage +30 )
+FL thrower Infantry,150,1,2.5,5,,40,FL,6,6,,,,,,,,
+Conscript,150,0,3,5,Rifle,8,G,3,10,,Molotov Cocktail,10,FL,20,9,2,
+USSR Sniper,150,1,2.5,5,Mosin,10,G,10,20,,Grenade,20,EX,15,9,2,G Damage +250 vs Infantry
+Goliath B1,100,5,3.5,5,Self destruct,250,AP,50,0.5,2,,,,,,,EX Damage +250 vs buildings
+Banzai Infantry,175,1,3,8,Rifle,10,G,3,12,2,EX Charge,200,AP,1,50,1,
+Japanese Sniper,150,1,2.5,6,Arisaka,10,G,10,18,,Grenade,20,EX,15,9,2,G Damage +250 vs Infantry
+Airborne Officer/Infantry,250,2,3,7,SMG,12,G,2,12,,Grenade,25,EX,15,9,2,
+SAS Commando,250,2,3,8,MG,14,G,2,12,,Grenade,25,EX,15,9,2,
+SAS Sniper,250,2,3,8,Enfield,10,G,10,20,,,,,,,,G Damage +250 vs Infantry
+Airborne Banzai Infantry,200,1,3,8,SMG,12,G,2,12,,EX Charge,200,AP,1,50,1,

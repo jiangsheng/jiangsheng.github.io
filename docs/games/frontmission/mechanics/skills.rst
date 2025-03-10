@@ -3,6 +3,8 @@
 Skills
 ===============================
 
+.. index:: pair: Front Mission; Skills
+
 Each :ref:`pilot <front_mission_mechanics_pilots>` has a max skill slot value. if the number of current skills is less than the max skill slot and the hero has more fight exp than the pilot's requirement to get a skill in a category, a new skill will be offered when gaining a level. The order of choosing skill is Short>Long>Melee. Tanks do not have skill designed for them.
 
 If you skip a skill, it will be offered again and again until either your level is maxed out (pretty much mean you maxed out all 4 exp categories) or your skill slot is filled.

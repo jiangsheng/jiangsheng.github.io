@@ -1,0 +1,8 @@
+Name, Requires, Cost, Income, Ammo, Oil, Health, Defense,Resistances, Weapon, Attack, Attack Type, Rate, Area,
+Corps HQ,Battleship or :ref:`Corps Reorganization <axis_and_allies_special_operations>`,400,"25(USSR+10,USA+5)",20,10,2500,5,AP 25%,MG,"20 (USSR:-2, GER:+2)",G,2,2,
+Infantry HQ,Corps HQ,250 (GBR:-25),25,15,5,2000,5,AP 25%,MG,"20 (USSR:-2, GER:+2)",G,2,2,
+Bunker,Engineer,25,,-3,,1250,10,"AP 50%, Gun 25%",MG,"20 (USSR:-2, GER:+2)",G,2,,
+Anti-Aircraft Bunker,Engineer,30,,-5,,1000,5,"AP 50%, Gun 25%",AA,40,G,2,2,
+Artillery Bunker,Engineer,40,,-7,,1000,5,"AP 50%, Gun 25%",Cannon,"50(USA:+10,GER:+5)",EX,9,4,1.25 Morale damage
+Mechanized HQ,Infantry HQ,300 (GBR:-25),25,15,10,2000,5,AP 25%,MG,"20 (USSR:-2, GER:+2)",G,2,2,
+Armor HQ,Mechanized HQ,350,25,15,15,2000,5,AP 25%,MG,"20 (USSR:-2, GER:+2)",G,2,2,
