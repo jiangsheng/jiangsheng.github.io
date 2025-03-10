@@ -20,7 +20,7 @@ Halftracks are machine guns on wheels. Great to chase down routed infantries but
 ----------------------------------------------
 Anti-aircraft Halftrack Regiment
 ----------------------------------------------
-Requires Engineer Brigade. The best Anti-air unit in the game with 4 mobile AA guns. Use them to protect vital buildings that you have not shielded with bunkers. Useless to ground treat though. Need to be protected with other regiments or bunkers. 
+Requires Engineer Brigade. The best Anti-air unit in the game with 4 mobile AA guns. Use them to protect vital buildings that you have not shielded with bunkers. Useless to ground threat though. Need to be protected with other regiments or bunkers. 
 
 ----------------------------------------------
 Anti-tank Halftrack Regiment
@@ -30,17 +30,17 @@ Requires Motor Pool. Basically the normal halftrack regiment plus two tank destr
 ----------------------------------------------
 Artillery Halftrack Regiment
 ----------------------------------------------
-Requires Artillery Brigade. Basically the normal halftrack regiment plus two artillery halftracks. Fast artillery when you need it. Only for light fights, however, as it lacks the firepower from the armor counterpart. It has morale damage, however, good for driving enemies away.
+Requires Artillery Brigade. Basically the normal halftrack regiment plus two artillery halftracks. Fast artillery when you need it. Only use for light fights, as it lacks the firepower from the armor counterpart. It has morale damage, however, good for driving enemies away.
 
 ----------------------------------------------
 Mechanized Infantry Regiment
 ----------------------------------------------
-Requires both Mechanized and Infantry HQs. Units have normal resistance depending on unit type. Has counter for basically all regiment types, with even a light tank in the mix,good for defending unknown threat. In exchange it sacrificed its speed to the foot soldier level.  
+Requires both Mechanized and Infantry HQs. Units have normal resistance depending on unit type. Has counter for basically all regiment types, with even a light tank in the mix, good for defending unknown threat. In exchange it sacrificed its speed to the foot soldier level.  
 
 ----------------------------------------------
 Rocket Truck Regiment
 ----------------------------------------------
-USSR only, requires Artillery Brigade and Rocket Truck upgrade. It also mix of infantry, halftracks and tank with a focus on rocket truck. However the rocket truck does large area but minimal damage, and has a long reloading cool down, making them unsuitable for defending a single enemy regiment. It is best used on offense as support.
+USSR only, requires Artillery Brigade and Rocket Truck upgrade. It is also mix of infantry, halftracks and tank with a focus on rocket truck. However the rocket truck does large area but minimal damage, and has a long reloading cool down, making them unsuitable for defending a single enemy regiment. It is best used on offense as support.
 
 ----------------------------------------------
 Tankette Regiment

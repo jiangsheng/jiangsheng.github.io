@@ -6,5 +6,5 @@ Mobile friendly version is on [read the docs](https://jiangsheng.readthedocs.io/
 
 Indices and tables
 ==================
-* search(build/html/search.html)
+* [search](build/html/search.html)
 
