@@ -20,4 +20,4 @@ edit_page_button: true
 # Exclude these files from production site
 exclude:
 - docs/
-include: [_static,_downloads]
+include: [_static,_downloads,_images]
