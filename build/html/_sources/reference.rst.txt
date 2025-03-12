@@ -14,6 +14,7 @@ Welcome to jiangsheng's documentation!
    Games<games/index>
    Blogs<blogs/index>
    Grandma's handbook<grandma/index>
+   Homepage<index>
 
 Indices and tables
 ==================
