@@ -9,7 +9,7 @@ The fastest regiment type in the game. Although not the strongest, the mobility 
 
 Each mechanized regiment has a mechanized command vehicle as the officer unit, with the rest of the regiment varies depending on the regiment type.
 
-Mechanized regiments have 25% gunfire resistance. 
+Mechanized units (including those included in tank regiments) have 25% gunfire resistance. 
 
 -----------------------
 Halftrack Regiment
@@ -20,12 +20,12 @@ Halftracks are machine guns on wheels. Great to chase down routed infantries but
 ----------------------------------------------
 Anti-aircraft Halftrack Regiment
 ----------------------------------------------
-Requires Engineer Brigade. The best Anti-air unit in the game with 4 mobile AA guns. Use them to protect vital buildings that you have not shielded with bunkers. Useless to ground threat though. Need to be protected with other regiments or bunkers. 
+Requires Engineer Brigade. The best Anti-air unit in the game with 4 mobile AA guns. Use them to protect vital buildings that you have not shielded with bunkers. Useless to ground threat though. Need to be protected with other regiments or bunkers. If you have excess ammo, you can probably get away with building AA bunkers instead of these.
 
 ----------------------------------------------
 Anti-tank Halftrack Regiment
 ----------------------------------------------
-Requires Motor Pool. Basically the normal halftrack regiment plus two tank destroyers. With sacrificed speed you get anti-armor. The tank destroyer has 75% gun and 25% explosive resistance, as well as paralyzing enemies briefly. The halftracks serve as cannon folder in tank fights but are somewhat good against infantries. You need two of these to repel a tank regiment.
+Requires Motor Pool. Basically the normal halftrack regiment plus two tank destroyers. With sacrificed speed you get anti-armor. The tank destroyer has 75% gun and 25% explosive resistance, as well as paralyzing enemies briefly. The halftracks serve as cannon fodder in tank fights but are somewhat good against infantries. You need two of these to repel a tank regiment.
 
 ----------------------------------------------
 Artillery Halftrack Regiment
@@ -40,12 +40,14 @@ Requires both Mechanized and Infantry HQs. Units have normal resistance dependin
 ----------------------------------------------
 Rocket Truck Regiment
 ----------------------------------------------
+.. _axis_and_allies_regiment_mechanized_rocket_truck:
+
 USSR only, requires Artillery Brigade and Rocket Truck upgrade. It is also mix of infantry, halftracks and tank with a focus on rocket truck. However the rocket truck does large area but minimal damage, and has a long reloading cool down, making them unsuitable for defending a single enemy regiment. It is best used on offense as support.
 
 ----------------------------------------------
 Tankette Regiment
 ----------------------------------------------
-JPN only, requires Motor Pool with Tankette upgrade. It is a hybrid between a commander tank and 4 AP halftracks, both fast, making it the fastest tank regiment in the game. It does not offer much else, though, use it to repel enemy halftracks. It can be built at either mechanized or armor HQs.
+JPN only, requires Motor Pool with Tankette upgrade. It is a hybrid between a commander tank and 4 AP halftracks, both fast, making it the fastest tank regiment in the game. It does not offer much else, though, use it to repel enemy halftracks. It can be built at either mechanized or armor HQs. In terms of resistance the whole regiment has tank resistance, that is, 75% gunfire and 25% explosive.
 
 .. csv-table:: Mechanized Regiments
    :file: mechanized_regiment.csv

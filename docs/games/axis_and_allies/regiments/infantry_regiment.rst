@@ -12,7 +12,7 @@ Infantry
 The cheapest regiment type in the game, good for early game recons, rough :ref:`terrain <axis_and_allies_terrain>` and defensive battles with the heap of entrenchment. 
 Although they are relatively weak, you can improve them with improved machine gun, marksmanship training or entrenchment :ref:`upgrade <axis_and_allies_upgrades>`. 
 
-All infantry regiments have +25% resistance for Armor Piercing and Explosive weapons. They also have one infantry officer in the regiment.
+All infantry units (including those included in mechanized and armor regiments) have +25% resistance for Armor Piercing and Explosive weapons. They also have one infantry officer in the regiment.
 
 ^^^^^^^^^^^^^^^^^^
 Infantry Regiment
@@ -22,17 +22,17 @@ Basic infantry unit with a wide range of weapons. In favorable terrains and entr
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Recon Infantry Regiment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Weakest in the game and lacks firepower. May just as well run away from threat with the column :ref:`formation <axis_and_allies_formation>`. Good for capturing unmanned cities. 
+Weakest in the game and lacks firepower.  May just as well run away from threat with the column :ref:`formation <axis_and_allies_formation>`. Good for capturing unmanned cities. +12 visibility, +3 current morale.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Anti-Tank Infantry Regiment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Mostly like the standard infantry regiment except some units equipped anti-tank weapons. The only infantry good against tanks and halftracks. As most of units are still carrying guns, it still needs entrenchment and terrain bonus to hold their own against tanks. 
+Requires Motor Pool. Mostly like the standard infantry regiment except some units equipped anti-tank weapons. The only infantry good against tanks and halftracks. As most of units are still carrying guns, it still needs entrenchment and terrain bonus to hold their own against tanks.  
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Artillery Infantry Regiment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Similar to Anti-Tank Infantry Regiment it replaced some gunman with long range mortar, good for attacking fixed defense positions like bunkers. It also has morale damage, causing enemy to rout even without heavy casualties.
+Requires Artillery Brigade. Similar to Anti-Tank Infantry Regiment it replaced some gunman with long range mortar, good for attacking fixed defense positions like bunkers. It also has morale damage, causing enemy to rout even without heavy casualties.
 
 .. _axis_and_allies_regiments_engineer:
 
@@ -44,7 +44,7 @@ You should at least keep one to repair buildings after airstrikes. They also bui
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Assault Infantry Regiment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-USA only. Requires M7 Rifle Grenades upgrade from Artillery Brigade.  It is like replacing the regular infantry in the standard Infantry Regiment with upgraded officers that deal explosive damages, with so little added cost that you should use it instead of the standard one. 
+USA only. Requires M7 Rifle Grenades upgrade from Artillery Brigade. It is like replacing the regular infantry in the standard Infantry Regiment with upgraded officers that deal explosive damages, with so little added cost that you should use it instead of the standard one. 
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Flamethrower Infantry Regiment
@@ -106,7 +106,7 @@ Although they are basically stronger of officers with better explosives, lack of
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Airborne Heavy Regiment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Requires Artillery Brigade. With two machine guns and a mortar, It can stand one on one with other infantries. Still you don't want to throw them into regular battles as they are more expensive. You want to drop them to destroy high value targets like unguarded depots. 
+Requires Artillery Brigade. With two machine guns and a mortar, It can stand one on one with other infantries. Still you don't want to throw them into regular battles as they are way too expensive. You want to drop them to destroy high value targets like unguarded depots. 
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 SAS Commandos
@@ -117,6 +117,14 @@ GBR only. Requires airfield with SAS Paratroopers upgrade. Has one SAS Commando 
 Airborne Banzai Infantry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 JPN only. Requires Artillery Brigade. Airdropped suicide bombers sounds good on paper but being airdropped means they do not usually benefit from supplies like their ground counterparts. And only two Banzai infantry in them means the explosive charges are very limited. Best used against unguarded high value targets, like airfields or depot.
+
+-------------------------------
+Marine Regiment
+-------------------------------
+
+.. _axis_and_allies_regiment_marine_infantry:
+
+Marine Regiments are deployed from battleships, not Infantry HQs. They must be attacked to Infantry HQs manually for supply.
 
 .. csv-table:: Infantry Regiments
    :file: infantry_regiment.csv

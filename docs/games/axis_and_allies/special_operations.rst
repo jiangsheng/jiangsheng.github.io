@@ -11,7 +11,7 @@ You control a general during battle, and the general would have 4 skills (called
    :file: special_operations.csv
    :header-rows: 1
 
-Every general has Corps Reorganization, but the rest 3 special operations are different for each one.
+Almost every general has Corps Reorganization. The rest 3 special operations are different for each one.
  
 .. csv-table:: Generals
    :file: generals.csv

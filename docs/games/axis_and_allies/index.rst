@@ -11,6 +11,7 @@ Axis & Allies
    Supply <supply>    
    Special Operations<special_operations> 
    Upgrades<upgrades> 
+   Cheat codes<cheats> 
 
 .. index:: Axis & Allies
    

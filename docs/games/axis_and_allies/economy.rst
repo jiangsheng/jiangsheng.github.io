@@ -7,6 +7,6 @@ Unlike most RTS games, there isn't a resource gatherer unit in this game. Instea
 
 Each :ref:`regiments <axis_and_allies_regiments>` and some buildings will cost you upkeep in ammo and sometimes oil. If you go to negative in the two resources, it will cost your a lot of money. The money drain will be displayed on the resource bar as negative income. It might be cheaper to just disband a costly unit or sell an unused bunker. It is not really beneficial to keep a huge surplus in ammo and oil, however. 
 
-If your money is in the red, your regiments outside of the :ref:`supply <axis_and_allies_supply>` zone, will be taking damage until they self disband, and your regiments inside will be supplied much slower than normal. 
+If your money is in the red, your regiments outside of the :ref:`supply <axis_and_allies_supply>` zone, will be taking damage until they self disband, and your regiments inside will be supplied much slower than normal. You can also use this to your advantage by destroying Ammo and Oil depots. 
 
-Capturing a city or building a new HQ will get you additional income. The enemies are going to take city for their own, however. 
+Capturing a city or building a new HQ will get you additional income. The enemies are going to take city for their own, however. Bombarding a city with artillery can cause enemies in the city to lose supply.
