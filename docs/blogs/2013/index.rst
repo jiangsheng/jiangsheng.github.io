@@ -1,7 +1,7 @@
-.. _blogs_2021:
+.. _blogs_2013:
 
 ======================================
-2021 Blogs
+2013 Blogs
 ======================================
 
 .. toctree::
@@ -9,7 +9,7 @@
    :caption: 内容:
    :titlesonly:
     
-    微软拼音卡顿的问题<microsoft_pinyin_lagging_problem>
+    Howto: Ignoring web browser certificate errors in a webbrowser host <ignoring_web_browser_control_certificate_errors>
 
 Indices and tables
 

@@ -12,7 +12,6 @@
     微软拼音卡顿的问题<microsoft_pinyin_lagging_problem>
 
 Indices and tables
-==================
 
 * :ref:`genindex`
 * :ref:`modindex`

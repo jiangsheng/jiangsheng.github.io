@@ -13,7 +13,6 @@
     Windows Update KB2538242 or KB2538243 offered repeatedly <windows_update_kb2538242_kb2538243_offered_repeatedly>
 
 Indices and tables
-==================
 
 * :ref:`genindex`
 * :ref:`modindex`

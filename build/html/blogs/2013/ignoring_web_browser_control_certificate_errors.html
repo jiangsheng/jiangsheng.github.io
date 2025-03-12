@@ -1,0 +1,633 @@
+
+<!DOCTYPE html>
+
+
+<html lang="zh-CN" data-content_root="../../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Howto: Ignoring web browser certificate errors in a webbrowser host &#8212; jiangsheng 1 documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css?v=906dce5e" />
+  
+  <!-- So that users can add custom icons -->
+  <script src="../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+
+    <script src="../../_static/documentation_options.js?v=78b98999"></script>
+    <script src="../../_static/doctools.js?v=9bcbadda"></script>
+    <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <script src="../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'blogs/2013/ignoring_web_browser_control_certificate_errors';</script>
+    <link rel="canonical" href="https://git.jiangsheng.net/build/html/blogs/2013/ignoring_web_browser_control_certificate_errors.html" />
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="2011 Blogs" href="../2011/index.html" />
+    <link rel="prev" title="2013 Blogs" href="index.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="zh-CN"/>
+  <meta name="docsearch:version" content="" />
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-3 navbar-header-items__start">
+    
+      <div class="navbar-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../../reference.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">jiangsheng 1 documentation</p>
+  
+</a></div>
+    
+  </div>
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../games/index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          
+          
+            <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../games/index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+          
+        
+      </div>
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+<h3><a href="../../reference.html">Table of Contents</a></h3>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">内容:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../README.html">Welcome to jiangsheng’s documentation!</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../README.html#indices-and-tables">Indices and tables</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../games/index.html">Games</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Blogs</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../2022/index.html"> 2022</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2021/index.html"> 2021</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2017/index.html"> 2017</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="index.html"> 2013</a><ul class="current">
+<li class="toctree-l3 current"><a class="current reference internal" href="#"> Howto: Ignoring web browser certificate errors in a webbrowser host</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../2011/index.html"> 2011</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../index.html#indices-and-tables">Indices and tables</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../grandma/index.html">Grandma's handbook</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../index.html">Welcome to jiangsheng’s documentation!</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../index.html#indices-and-tables">Indices and tables</a></li>
+</ul>
+</div>
+        <div class="sidebar-primary-item">
+  <div>
+    <h4>Previous topic</h4>
+    <p class="topless"><a href="index.html"
+                          title="previous chapter">2013 Blogs</a></p>
+  </div>
+  <div>
+    <h4>Next topic</h4>
+    <p class="topless"><a href="../2011/index.html"
+                          title="next chapter">2011 Blogs</a></p>
+  </div></div>
+        <div class="sidebar-primary-item">
+<div id="searchbox"></div></div>
+        <div class="sidebar-primary-item">
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="../../_sources/blogs/2013/ignoring_web_browser_control_certificate_errors.rst.txt"
+           rel="nofollow">Show Source</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/blogs/2013/ignoring_web_browser_control_certificate_errors.rst"
+           rel="nofollow">Show on GitHub</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/blogs/2013/ignoring_web_browser_control_certificate_errors.rst"
+           rel="nofollow">Edit on GitHub</a></li>
+  </ul>
+  <h3>Social Media Links</h3>
+  <ul>
+    <li>twitter (archived): #jiangsheng </li>
+    <li>bluesky: <a href="https://bsky.app/profile/sheng-jiang.bsky.social"> sheng-jiang.bsky.social</a></li>
+    <li>stackoverflow: <a href="https://stackoverflow.com/users/109919/sheng-jiang-%e8%92%8b%e6%99%9f">Sheng Jiang 蒋晟</a></li>
+  </ul></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="../../reference.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    
+    <li class="breadcrumb-item"><a href="../index.html" class="nav-link">Blogs</a></li>
+    
+    
+    <li class="breadcrumb-item"><a href="index.html" class="nav-link">2013 Blogs</a></li>
+    
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">Howto: Ignoring web browser certificate errors in a webbrowser host</span></li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="howto-ignoring-web-browser-certificate-errors-in-a-webbrowser-host">
+<h1>Howto: Ignoring web browser certificate errors in a webbrowser host<a class="headerlink" href="#howto-ignoring-web-browser-certificate-errors-in-a-webbrowser-host" title="Link to this heading">#</a></h1>
+<p id="index-0">Many applications host webbrowser controls to display web pages inside. Before production the web page is often in an internal server that do not have a valid certificate. This article let you skip the certificate error and continue testing your application</p>
+<p>The webbrowser queries host services via IServiceProvider implemented on the ActiveX host. One of the services is IHttpSecurity, which can be used to override the certificate problem dialog.</p>
+<p>Security warning: ignoring security problems can compromise your application.</p>
+<p>IHttpSecurity is derived from IWindowForBindingUI, so the host needs to implement it too.</p>
+<p>In Windows Forms, customizing certificate error handling involves the following:</p>
+<ul class="simple">
+<li><p>derive a class from WebBrowser</p></li>
+<li><p>create a nested class derived from WebBrowser.WebBrowserSite (the only way you can derive from the nested class)</p></li>
+<li><p>overwrite CreateWebBrowserSiteBase and return a new instance of your webbrowser site.</p></li>
+<li><p>implement IServiceProvider on the webbrowser site</p></li>
+<li><p>implement IServiceProvider.QueryService so it returns an IHttpSecurity imepleemntation when the IHttpSecurity service is requested</p></li>
+<li><p>handle IHttpSecurity.OnSecurityProblem and return S_OK (warning: undocumented code, won’t work in IE6)</p></li>
+<li><p>use the new webbrowser in the form</p></li>
+</ul>
+<p>Example Code</p>
+<div class="highlight-C# notranslate"><div class="highlight"><pre><span></span><span class="k">public</span><span class="w"> </span><span class="k">partial</span><span class="w"> </span><span class="k">class</span><span class="w"> </span><span class="nc">Form1</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="n">Form</span><span class="p">{</span>
+<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="nf">Form1</span><span class="p">(){</span>
+<span class="w">            </span><span class="n">InitializeComponent</span><span class="p">();</span>
+<span class="w">        </span><span class="p">}</span>
+
+<span class="w">        </span><span class="k">private</span><span class="w"> </span><span class="k">void</span><span class="w"> </span><span class="nf">webBrowser1_DocumentCompleted</span><span class="p">(</span><span class="kt">object</span><span class="w"> </span><span class="n">sender</span><span class="p">,</span><span class="w"> </span><span class="n">WebBrowserDocumentCompletedEventArgs</span><span class="w"> </span><span class="n">e</span><span class="p">)</span>
+<span class="w">        </span><span class="p">{</span>
+<span class="w">            </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">e</span><span class="p">.</span><span class="n">Url</span><span class="p">.</span><span class="n">ToString</span><span class="p">()</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="err">“</span><span class="n">about</span><span class="p">:</span><span class="n">blank</span><span class="err">”</span><span class="p">)</span>
+<span class="w">            </span><span class="p">{</span>
+<span class="w">                </span><span class="c1">//create a certificate mismatch</span>
+<span class="w">                </span><span class="n">webBrowser1</span><span class="p">.</span><span class="n">Navigate</span><span class="p">(</span><span class="err">“</span><span class="n">https</span><span class="p">:</span><span class="c1">//74.125.225.229&amp;#8221;);</span>
+<span class="w">            </span><span class="p">}</span>
+
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="na">[Guid(“6D5140C1-7436-11CE-8034-00AA006009FA”)]</span>
+<span class="w">    </span><span class="na">[InterfaceType(ComInterfaceType.InterfaceIsIUnknown)]</span>
+<span class="w">    </span><span class="na">[ComImport]</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="k">interface</span><span class="w"> </span><span class="n">UCOMIServiceProvider</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">        </span><span class="na">[return: MarshalAs(UnmanagedType.I4)]</span>
+<span class="w">        </span><span class="na">[PreserveSig]</span>
+<span class="w">        </span><span class="kt">int</span><span class="w"> </span><span class="nf">QueryService</span><span class="p">(</span>
+<span class="w">            </span><span class="na">[In]</span><span class="w"> </span><span class="k">ref</span><span class="w"> </span><span class="n">Guid</span><span class="w"> </span><span class="n">guidService</span><span class="p">,</span>
+<span class="w">            </span><span class="na">[In]</span><span class="w"> </span><span class="k">ref</span><span class="w"> </span><span class="n">Guid</span><span class="w"> </span><span class="n">riid</span><span class="p">,</span>
+<span class="w">            </span><span class="na">[Out]</span><span class="w"> </span><span class="k">out</span><span class="w"> </span><span class="n">IntPtr</span><span class="w"> </span><span class="n">ppvObject</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="na">[ComImport()]</span>
+<span class="w">    </span><span class="na">[ComVisible(true)]</span>
+<span class="w">    </span><span class="na">[Guid(“79eac9d5-bafa-11ce-8c82-00aa004ba90b”)]</span>
+<span class="w">    </span><span class="na">[InterfaceTypeAttribute(ComInterfaceType.InterfaceIsIUnknown)]</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="k">interface</span><span class="w"> </span><span class="n">IWindowForBindingUI</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">        </span><span class="na">[return: MarshalAs(UnmanagedType.I4)]</span>
+<span class="w">        </span><span class="na">[PreserveSig]</span>
+<span class="w">        </span><span class="kt">int</span><span class="w"> </span><span class="nf">GetWindow</span><span class="p">(</span>
+<span class="w">            </span><span class="na">[In]</span><span class="w"> </span><span class="k">ref</span><span class="w"> </span><span class="n">Guid</span><span class="w"> </span><span class="n">rguidReason</span><span class="p">,</span>
+<span class="w">            </span><span class="na">[In, Out]</span><span class="w"> </span><span class="k">ref</span><span class="w"> </span><span class="n">IntPtr</span><span class="w"> </span><span class="n">phwnd</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="na">[ComImport()]</span>
+<span class="w">    </span><span class="na">[ComVisible(true)]</span>
+<span class="w">    </span><span class="na">[Guid(“79eac9d7-bafa-11ce-8c82-00aa004ba90b”)]</span>
+<span class="w">    </span><span class="na">[InterfaceTypeAttribute(ComInterfaceType.InterfaceIsIUnknown)]</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="k">interface</span><span class="w"> </span><span class="n">IHttpSecurity</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">//derived from IWindowForBindingUI</span>
+<span class="w">        </span><span class="na">[return: MarshalAs(UnmanagedType.I4)]</span>
+<span class="w">        </span><span class="na">[PreserveSig]</span>
+<span class="w">        </span><span class="kt">int</span><span class="w"> </span><span class="nf">GetWindow</span><span class="p">(</span>
+<span class="w">            </span><span class="na">[In]</span><span class="w"> </span><span class="k">ref</span><span class="w"> </span><span class="n">Guid</span><span class="w"> </span><span class="n">rguidReason</span><span class="p">,</span>
+<span class="w">            </span><span class="na">[In, Out]</span><span class="w"> </span><span class="k">ref</span><span class="w"> </span><span class="n">IntPtr</span><span class="w"> </span><span class="n">phwnd</span><span class="p">);</span>
+<span class="w">        </span><span class="na">[PreserveSig]</span>
+<span class="w">        </span><span class="kt">int</span><span class="w"> </span><span class="nf">OnSecurityProblem</span><span class="p">(</span>
+<span class="w">            </span><span class="na">[In, MarshalAs(UnmanagedType.U4)]</span><span class="w"> </span><span class="kt">uint</span><span class="w"> </span><span class="n">dwProblem</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="k">class</span><span class="w"> </span><span class="nc">MyWebBrowser</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="n">WebBrowser</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="k">static</span><span class="w"> </span><span class="n">Guid</span><span class="w"> </span><span class="n">IID_IHttpSecurity</span>
+<span class="w">            </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Guid</span><span class="p">(</span><span class="err">“</span><span class="m">79</span><span class="n">eac9d7</span><span class="o">-</span><span class="n">bafa</span><span class="o">-</span><span class="m">11</span><span class="n">ce</span><span class="o">-</span><span class="m">8</span><span class="n">c82</span><span class="o">-</span><span class="m">00</span><span class="n">aa004ba90b</span><span class="err">”</span><span class="p">);</span>
+<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="k">static</span><span class="w"> </span><span class="n">Guid</span><span class="w"> </span><span class="n">IID_IWindowForBindingUI</span>
+<span class="w">            </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Guid</span><span class="p">(</span><span class="err">“</span><span class="m">79</span><span class="n">eac9d5</span><span class="o">-</span><span class="n">bafa</span><span class="o">-</span><span class="m">11</span><span class="n">ce</span><span class="o">-</span><span class="m">8</span><span class="n">c82</span><span class="o">-</span><span class="m">00</span><span class="n">aa004ba90b</span><span class="err">”</span><span class="p">);</span>
+<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">S_OK</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="p">;</span>
+<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">S_FALSE</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">;</span>
+<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">E_NOINTERFACE</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">unchecked</span><span class="p">((</span><span class="kt">int</span><span class="p">)</span><span class="m">0</span><span class="n">x80004002</span><span class="p">);</span>
+<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">RPC_E_RETRY</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">unchecked</span><span class="p">((</span><span class="kt">int</span><span class="p">)</span><span class="m">0</span><span class="n">x80010109</span><span class="p">);</span>
+<span class="w">        </span><span class="k">protected</span><span class="w"> </span><span class="k">override</span><span class="w"> </span><span class="n">WebBrowserSiteBase</span><span class="w"> </span><span class="nf">CreateWebBrowserSiteBase</span><span class="p">()</span>
+<span class="w">        </span><span class="p">{</span>
+<span class="w">            </span><span class="k">return</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="nf">MyWebBrowserSite</span><span class="p">(</span><span class="k">this</span><span class="p">);</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">        </span><span class="k">class</span><span class="w"> </span><span class="nc">MyWebBrowserSite</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="n">WebBrowserSite</span><span class="p">,</span>
+<span class="w">            </span><span class="n">UCOMIServiceProvider</span><span class="p">,</span>
+<span class="w">            </span><span class="n">IHttpSecurity</span><span class="p">,</span>
+<span class="w">            </span><span class="n">IWindowForBindingUI</span>
+<span class="w">        </span><span class="p">{</span>
+<span class="w">            </span><span class="k">private</span><span class="w"> </span><span class="n">MyWebBrowser</span><span class="w"> </span><span class="n">myWebBrowser</span><span class="p">;</span>
+<span class="w">            </span><span class="k">public</span><span class="w"> </span><span class="nf">MyWebBrowserSite</span><span class="p">(</span><span class="n">MyWebBrowser</span><span class="w"> </span><span class="n">myWebBrowser</span><span class="p">)</span>
+<span class="w">                </span><span class="p">:</span><span class="k">base</span><span class="p">(</span><span class="n">myWebBrowser</span><span class="p">)</span>
+<span class="w">            </span><span class="p">{</span>
+<span class="w">                </span><span class="k">this</span><span class="p">.</span><span class="n">myWebBrowser</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">myWebBrowser</span><span class="p">;</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">            </span><span class="k">public</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="nf">QueryService</span><span class="p">(</span><span class="k">ref</span><span class="w"> </span><span class="n">Guid</span><span class="w"> </span><span class="n">guidService</span>
+<span class="w">                </span><span class="p">,</span><span class="w"> </span><span class="k">ref</span><span class="w"> </span><span class="n">Guid</span><span class="w"> </span><span class="n">riid</span>
+<span class="w">                </span><span class="p">,</span><span class="w"> </span><span class="k">out</span><span class="w"> </span><span class="n">IntPtr</span><span class="w"> </span><span class="n">ppvObject</span><span class="p">)</span>
+<span class="w">            </span><span class="p">{</span>
+<span class="w">                </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">riid</span><span class="w"> </span><span class="o">==</span><span class="n">IID_IHttpSecurity</span><span class="p">)</span>
+<span class="w">                </span><span class="p">{</span>
+<span class="w">                    </span><span class="n">ppvObject</span><span class="o">=</span><span class="w"> </span><span class="n">Marshal</span><span class="p">.</span><span class="n">GetComInterfaceForObject</span><span class="p">(</span><span class="k">this</span>
+<span class="w">                        </span><span class="p">,</span><span class="w"> </span><span class="k">typeof</span><span class="p">(</span><span class="n">IHttpSecurity</span><span class="p">));</span>
+<span class="w">                    </span><span class="k">return</span><span class="w"> </span><span class="n">S_OK</span><span class="p">;</span>
+<span class="w">                </span><span class="p">}</span>
+<span class="w">                </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">riid</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">IID_IWindowForBindingUI</span><span class="p">)</span>
+<span class="w">                </span><span class="p">{</span>
+<span class="w">                    </span><span class="n">ppvObject</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Marshal</span><span class="p">.</span><span class="n">GetComInterfaceForObject</span><span class="p">(</span><span class="k">this</span>
+<span class="w">                        </span><span class="p">,</span><span class="w"> </span><span class="k">typeof</span><span class="p">(</span><span class="n">IWindowForBindingUI</span><span class="p">));</span>
+<span class="w">                    </span><span class="k">return</span><span class="w"> </span><span class="n">S_OK</span><span class="p">;</span>
+<span class="w">                </span><span class="p">}</span>
+<span class="w">                </span><span class="n">ppvObject</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">IntPtr</span><span class="p">.</span><span class="n">Zero</span><span class="p">;</span>
+<span class="w">                </span><span class="k">return</span><span class="w"> </span><span class="n">E_NOINTERFACE</span><span class="p">;</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">            </span><span class="k">public</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="nf">GetWindow</span><span class="p">(</span><span class="k">ref</span><span class="w"> </span><span class="n">Guid</span><span class="w"> </span><span class="n">rguidReason</span>
+<span class="w">                </span><span class="p">,</span><span class="w"> </span><span class="k">ref</span><span class="w"> </span><span class="n">IntPtr</span><span class="w"> </span><span class="n">phwnd</span><span class="p">)</span>
+<span class="w">            </span><span class="p">{</span>
+<span class="w">                </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">rguidReason</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">IID_IHttpSecurity</span>
+<span class="w">                    </span><span class="o">||</span><span class="w"> </span><span class="n">rguidReason</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">IID_IWindowForBindingUI</span><span class="p">)</span>
+<span class="w">                </span><span class="p">{</span>
+<span class="w">                    </span><span class="n">phwnd</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">myWebBrowser</span><span class="p">.</span><span class="n">Handle</span><span class="p">;</span>
+<span class="w">                    </span><span class="k">return</span><span class="w"> </span><span class="n">S_OK</span><span class="p">;</span>
+<span class="w">                </span><span class="p">}</span>
+<span class="w">                </span><span class="k">else</span>
+<span class="w">                </span><span class="p">{</span>
+<span class="w">                    </span><span class="n">phwnd</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">IntPtr</span><span class="p">.</span><span class="n">Zero</span><span class="p">;</span>
+<span class="w">                    </span><span class="k">return</span><span class="w"> </span><span class="n">S_FALSE</span><span class="p">;</span>
+<span class="w">                </span><span class="p">}</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">            </span><span class="k">public</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="nf">OnSecurityProblem</span><span class="p">(</span><span class="kt">uint</span><span class="w"> </span><span class="n">dwProblem</span><span class="p">)</span>
+<span class="w">            </span><span class="p">{</span>
+<span class="w">                </span><span class="c1">//ignore errors</span>
+<span class="w">                </span><span class="c1">//undocumented return code, does not work on IE6</span>
+<span class="w">                </span><span class="k">return</span><span class="w"> </span><span class="n">S_OK</span><span class="p">;</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+</pre></div>
+</div>
+<p>For sample code in providing the service using MFC, check <span class="xref std std-ref">Handle NewWindow3 and ShowModalDialog in CHtmlView</span>. The way to implements IHttpSecurity is similar to how the article exposes the INewWindowManager service to the webbrowser control.</p>
+</section>
+
+
+                </article>
+              
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="index.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">2013 Blogs</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="../2011/index.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">2011 Blogs</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../../_sources/blogs/2013/ignoring_web_browser_control_certificate_errors.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script defer src="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item">
+
+  <p class="copyright">
+    
+      © Copyright 2018-, Sheng Jiang.
+      <br/>
+    
+  </p>
+</div>
+      
+        <div class="footer-item">
+
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 8.2.3.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item">
+<p class="theme-version">
+  <!-- # L10n: Setting the PST URL as an argument as this does not need to be localized -->
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.16.1.
+</p></div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>
