@@ -14,6 +14,8 @@ Blogs
     2017<2017/index>
     2011<2011/index>
 
+Blogs are grouped by year. If you are looking for a specic blog you might find the location in indices.
+
 Indices and tables
 ==================
 
