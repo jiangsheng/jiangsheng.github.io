@@ -1,21 +1,28 @@
 ﻿Name,Side,Special operation 1,Special operation 2,Special operation 3,Notes
-George S. Patton,USA,Mechanized Advance 1,Fighting Spirit,Supply Drop,halftracks rush
-Albert Kesselring,GER,Blitzkrieg,Supply Drop,Military Gear Up,tank rush
+George S. Patton,USA,Mechanized Advance,Fighting Spirit,Supply Drop,halftracks rush
+Albert Kesselring,GER,Blitzkrieg,Supply Drop,Military Gear Up,tank rush. Airdrop on Crete
 Archibald Percival Wavell,GBR,Carpet Bombing,Sandbagging,Secret Agent,defense
-Bernard Montgomery,GBR,Carpet Bombing,Fighting Spirit,Code Breaker,air
+Bernard Montgomery,GBR,Carpet Bombing,Fighting Spirit,Code Breaker,"air, Battle of El Alamein, Operation Market Garden"
 Chester Nimitz,USA,Atomic Bomb,Assembly Line,Economic Aid,air
-Chuichi Nagumo,JPN,Kamikaze,Industrial Sabotage,Code Breaker,Target economy
+Chuichi Nagumo,JPN,Kamikaze,Industrial Sabotage,Code Breaker,"Target economy, Invasion of Hawaii"
 Dwight D. Eisenhower,USA,Advance,Lend Lease,Mechanized Resupply,halftracks
-Erich von Manstein,GER,V Weapons,Espionage,Propaganda War,Target economy
-Erwin Rommel,GER,Blitzkrieg,Forced March,Panzer Holhe,tanks
-Georgi Zhukov,USSR,Communist Purge,Supply Drop,Russian Sabotage,"infantry defense, supply drop attack"
-Gerd von Rundstedt,GER,V Weapons,Armored Resupply,Demoralization,tanks
+Erich von Manstein,GER,V Weapons,Espionage,Propaganda War,"Target economy. Battle of Stalingrad, Battle of Kursk, Buring of Moscow"
+Erwin Rommel,GER,Blitzkrieg,Forced March,Panzer Holhe,"tanks, Battle of Alamein"
+Georgi Zhukov,USSR,Communist Purge,Supply Drop,Russian Sabotage,"infantry defense, supply drop attack. Battle of Stalingrad. Fall of Berlin"
+Gerd von Rundstedt,GER,V Weapons,Armored Resupply,Demoralization,"tanks, Defense of Normandy, Operation Sealion"
 Gunichi Mikawa,JPN,Banzai Charge,Lend Lease,Rapid Deployment,infantry
-Henry Arnold,USA,Bombing,Propaganda War,Propaganda War,generic
-Isoroku Yamamoto,JPN,Kamikaze,Demoralization,Radar Scan,air
+Henry Arnold,USA,Bombing,Propaganda War,Propaganda War,generic. Battle of Guadalcanal
+Isoroku Yamamoto,JPN,Kamikaze,Demoralization,Radar Scan,"air, Invasion of Australia, Assault on Midway"
 Ivan Konev,USSR,Communist Zeal,Military Gear Up,Smoke Barrage,infantry
-Konstantin Rokossovski,USSR,Communist Zeal,Rapid Deployment,Double the Guard,infantry
+Konstantin Rokossovski,USSR,Communist Zeal,Rapid Deployment,Double the Guard,infantry. Battle of Kursk
 Lord Mountbatten,GBR,British Sabotage,Smoke Barrage ,Radar Scan,defense
 Orde Wingate,GBR,British Sabotage,Infantry Resupply,Economic Aid,generic
-Tadamichi Kuribayashi w,JPN,Banzai Charge,Mechanized Resupply,Espionage,generic
+Tadamichi Kuribayashi,JPN,Banzai Charge,Mechanized Resupply,Espionage,generic
 Vasily Chuikov,USSR,Carpet Bombing,Assembly Line,Maskirovka,tanks
+101st Airborne,USA,Mechanized Advance,Mechanized Resupply,Lend Lease,Compaign only. No Corps Reorganization
+Omar Bradley,USA,Mechanized Advance,Mechanized Resupply,Lend Lease,Compaign only. Normandy Breakout.
+Simon Buckner ,USA,Atomic Bomb,Assembly Line,Economic Aid,Compaign only. Invasion of Okinawa
+General Gerow,USA,Mechanized Advance,Mechanized Resupply,Lend Lease,Compaign only. D-Day
+Harry Schmidt,USA,Atomic Bomb,Assembly Line,Economic Aid,Compaign only. Battle of Iwo Jima
+Afrika Korps,GER,Blitzkrieg,Forced March,Panzer Hohle,Battle of Suez Canal
+Oliver Leese,GBR,Carpet Bombing,Secret Agent,Sandbagging,Compaign only. Road to Rome

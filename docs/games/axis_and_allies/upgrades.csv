@@ -4,9 +4,43 @@ Advanced Infantry Training,Corp HQ,50,"USA,GER,USSR",Infantry,Morale +1
 Conscription,Corp HQ,100,USSR,Infantry,Recruit cost -20%
 Foraging,Corp HQ,100,"GBR,JPN",Infantry,Supply rate +15%
 Garand Semi-Automatic Rifle,Corp HQ,50,USA,Infantry Rifles,Attack Speed +20%
-Improved Logistics,Corp HQ,50,"USA,GBR,GER,JPN",All units/buildings,"Range: Sight +5, Supply +5"
+Improved Logistics,Corp HQ,50,"All Except USSR",All units/buildings,"Range: Sight +5, Supply +5"
 Improved Machine Guns,Corp HQ,75,"USA,GBR,GER",Machine Guns,Attack +4
 Marksmanship Training,Corp HQ,50,"USSR, GER",Infantry,Attack +2
 Military Gear Up,Corp HQ,100,"GBR,USSR,JPN",All HQs,Income +5
 Sniper Rifles,Corp HQ,75,"USSR, JPN",Infantry HQs,Grant Access
 Special Forces,Corp HQ,75,"USA, GBR, JPN",Recon Infantry,"Attack+1, Defense +1, Health +10%"
+Ammunition Production,Engineer Brigade,100,"USA, USSR, GER",Ammo production buildings,Ammo +5 
+Construction Battalions,Engineer Brigade,50,All,Engineers,Repair +3
+Entrenchment,Engineer Brigade,50,"GBR, USSR, JPN",All,Entrenchment rate +25%
+Improved Fortifications,Engineer Brigade,50,"GBR, USSR, JPN",Bunkers,"Resistance: AP +25%, EX+25%"
+Oil Production,Engineer Brigade,150,"USA, GER, JPN",Oil production buildings,Oil +5 
+Proximity Fuses,Engineer Brigade,100,All,AA weapons,Atk +15 
+Diesel Engines,Motor Pool,75,All Except USA,Tanks,Max Spd +15 
+Flame Tanks,Motor Pool,150,GBR,Armor HQ,Unlock
+Flamethrower Infantry,Motor Pool,75,USA,Infantry HQ,Unlock
+Goliath Remote Bombs,Motor Pool,75,GER,Infantry HQ,Unlock
+Heavy Tanks,Motor Pool,100,All Except JPN,Armor HQ,Unlock
+Improved Light AT Weapons,Motor Pool,50,All Except GBR,AT Infantry,Atk +10 
+King Tiger Tank,Motor Pool,150,GER,Armor HQ,Unlock
+Mechanical Reliability,Motor Pool,75,All,Vehicles,Health +10% 
+Mechanized Production,Motor Pool,100,"USA, GBR, JPN",Mechanized HQ,Recruit Cost -15%
+Panzerfausts,Motor Pool,100,GER,AT Infantry,Atk +15
+Schurzen,Motor Pool,100,GER,Tanks,Resistance:+15% AP
+Tankette,Motor Pool,100,JPN,Mechanized & Armor HQ,Unlock
+Banzai Infantry,Artillery Brigade,75,JPN,Infantry HQ,Unlock
+Gyrostabilized Tank Guns,Artillery Brigade,100,"USA, USSR, GER",Tanks,Atk +10
+Improved Fire Control,Artillery Brigade,100,All,Artillery,Atk Spd +25%
+Improved Mortars,Artillery Brigade,75,"GBR, GER, JPN",Mortar Infantry,"Atk +5 , Atk Spd +20% "
+Long Range Artillery,Artillery Brigade,50,All,Artillery,Range +6
+M7 Rifle Grenades,Artillery Brigade,75,USA,Infantry HQ,Unlock
+Plentiful Ammunition,Artillery Brigade,125,"GBR, JPN",All,Resupply Rate +10%
+Rocket Truck,Artillery Brigade,125,USSR,Mechanized HQ,Unlock
+Tank Production,Artillery Brigade,125,"USSR, GER",Armor HQ,Recuit cost -10%
+Aircraft Superchargers,Airfield,75,All Except USSR,Aircraft,Max Speed +20%
+Air Superiority,Airfield,75,"GBR, GER, JPN",Fighters,"Atk +5, Def +5"
+Improved Reconnaissance,Airfield,50,"USSR, GER, JPN",Aircraft,Visibility +5
+Increased Bomber Payload,Airfield,100,"USA, GBR",Bombers,Atk +15
+Napalm,Airfield,150,USA,Bombers,Atk +15 (FL)
+SAS Paratroopers,Airfield,100,GBR,Airfield,Unlock
+Self-Sealing Fuel Tanks,Airfield,75,All,Aircraft,Def +10

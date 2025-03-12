@@ -13,7 +13,7 @@ Regiments
    Infantry <infantry_regiment>
    Mechanized <mechanized_regiment>
    Tanks <tank_regiment>
-   Not controllable units <npc_unit>
+   Not producible units <npc_unit>
 
 .. index:: pair: Axis & Allies; Regiments
 

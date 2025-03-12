@@ -1,2 +1,4 @@
-Name, Health, Defense, Speed, Morale
-Transport Aircraft,500,0,7,
+Name, Health, Defense, Speed,Wpn1,Atk,Type,Delay,Range,Area,Wpn2,Atk,Type,Delay,Range,Bonus
+Aircraft Carriers,3000,10,1,,,,,,,,,,,,
+Battleships,5000,15,3,Bombard,100 x4 (GBR:x3),Ex,15,90,4,AA,"40x1 (GBR:x2)",G,2,30,1.5 Moral Dmg 
+Transport Aircraft,500,0,7,,,,,,,,,,,,

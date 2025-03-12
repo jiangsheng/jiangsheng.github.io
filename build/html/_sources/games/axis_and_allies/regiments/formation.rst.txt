@@ -7,7 +7,9 @@ Formation
   
 You can control the position of units in a :ref:`regiments <axis_and_allies_regiments>` for different tasks.
 
-For example, the default formation for all regiments is Aggressive. It is best used for defense because when you order the regiment to move, its attack efficiency gradually drops until reaching 75%. The Column formation gets a 25% speed bonus, however after moving its attack efficiency quickly drops to 50%, making it only good for reinforce or retreat. The Assault formation has the best attack efficiency but its speed is slowed by 25%.
+For example, the default formation for all regiments is Aggressive. It is best used for defense because when you order the regiment to move, its attack efficiency gradually drops until reaching 75%. The Column formation gets a 25% speed bonus, however after moving its attack efficiency quickly drops to 50%. The Assault formation has the best attack efficiency but its speed is slowed by 25%. 
+
+Using formation effectively can help greatly in the battle. For example, send your King Tiger tank with Assault Formation to engage the enemy and then send your medium tanks in Column Formation to run the back of enemy without engaging. Once the King Tiger routed the enemy, change your medium tanks to assault formation to finish it off. 
 
 .. list-table:: Formations
     :header-rows: 1
