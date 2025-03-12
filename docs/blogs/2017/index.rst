@@ -1,7 +1,7 @@
-.. _blogs:
+.. _blogs_2017:
 
 ======================================
-Blogs
+2017 Blogs
 ======================================
 
 .. toctree::
@@ -9,10 +9,7 @@ Blogs
    :caption: 内容:
    :titlesonly:
     
-    2022<2022/index>
-    2021<2021/index>
-    2017<2017/index>
-    2011<2011/index>
+    “Strong name signature not valid for assembly” (ClickOnce) <strong_name_signature_not_valid_for_assembly_clickonce>
 
 Indices and tables
 ==================

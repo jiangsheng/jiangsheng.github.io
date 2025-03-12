@@ -1,7 +1,7 @@
-.. _blogs:
+.. _blogs_2021:
 
 ======================================
-Blogs
+2021 Blogs
 ======================================
 
 .. toctree::
@@ -9,10 +9,7 @@ Blogs
    :caption: 内容:
    :titlesonly:
     
-    2022<2022/index>
-    2021<2021/index>
-    2017<2017/index>
-    2011<2011/index>
+    微软拼音卡顿的问题<microsoft_pinyin_lagging_problem>
 
 Indices and tables
 ==================
