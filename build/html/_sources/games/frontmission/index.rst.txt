@@ -17,7 +17,7 @@ The game is centralized on battle with robots (called wanzers in this game) on a
 
 Each stage has a victory condition and a defeat condition. Most of the time, the defeat condition is losing the main character, but sometimes it could be failing to protect a certain NPC or out of time. If you lost in a stage it would be game over. If you saved earlier, you can load that save. 
 
-Each pilot has a wanzer. Although you can customize wanzers any way you want, it is best to build a wanzer to its pilot's strength. For example, if the pilot has Double or Switch :ref:`skills <front_mission_mechanics_skills>`, then put Melee or Short :ref:`weapons <front_mission_mechanics_weapons>` in both hands. If the pilot is good at Long, equip some long range weapons. You want good defensive :ref:`parts <front_mission_mechanics_parts>` on a tank, but you want offensive parts on your attackers. 
+Each :ref:`pilot <front_mission_mechanics_pilots>` has a wanzer. Although you can customize wanzers any way you want, it is best to build a wanzer to its pilot's strength. For example, if the pilot has Double or Switch :ref:`skills <front_mission_mechanics_skills>`, then put Melee or Short :ref:`weapons <front_mission_mechanics_weapons>` in both hands. If the pilot is good at Long, equip some long range weapons. You want good defensive :ref:`parts <front_mission_mechanics_parts>` on a tank, but you want offensive parts on your attackers. 
 
 Use arrow keys to select options or move target. Use A to confirm and B to cancel. Use L and R to switch pilots. See :ref:`Input <front_mission_mechanics_input>` for more information. 
 
@@ -27,7 +27,7 @@ Royd in Shrike Ex - LV 26 HP 107
 
 FI 9 ST 24 LG 14 AG 23 Ge 40% 
 
-would mean the :ref:`pilot <front_mission_mechanics_pilots>` Royd is riding on the wanzer named Shrike. Royd is lv 26, the wanzer has 107 total HP between :ref:`parts <front_mission_mechanics_parts>` (less total HP does not  necessary mean it is in danger, if the body is intact). The wanzer has fight, shooting and long ranged :ref:`weapons <front_mission_mechanics_weapons>` of rating 9,24 and 14 respectively. The wanzer has an agility rating of 23. The :ref:`tile <front_mission_mechanics_terrain>` Royd is on has a cover rating of 40%.
+would mean the :ref:`pilot <front_mission_mechanics_pilots>` Royd is riding on the wanzer named Shrike. Royd is lv 26, the wanzer has 107 total HP between :ref:`parts <front_mission_mechanics_parts>` (less total HP does not necessary mean it is in danger, if the body is intact). The wanzer has fight, shooting and long ranged :ref:`weapons <front_mission_mechanics_weapons>` of rating 9,24 and 14 respectively. The wanzer has an agility rating of 23. The :ref:`tile <front_mission_mechanics_terrain>` Royd is on has a cover rating of 40%.
 
 Keep an eye on ammunition too. You can use the :ref:`equipment view command <front_mission_mechanics_commands>` to check out current ammunition status and the supply command to reload ammunition and change weapons (but not parts) when you are next to a supply truck. 
 
