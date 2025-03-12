@@ -12,6 +12,7 @@ Welcome to jiangsheng's documentation!
    
    Homepage<README>
    Games<games/index>
+   Blogs<blogs/index>
    Grandma's handbook<grandma/index>
 
 Indices and tables
