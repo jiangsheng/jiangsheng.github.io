@@ -103,12 +103,12 @@ When your army scatter around the map, it will be harder and harder to keep them
 ^^^^^^^^^^^^^^^^^
 Ammo Depot
 ^^^^^^^^^^^^^^^^^
-If you are short of ammo this is the fastest way to generate enough. Cost too much compared to extra supply depots and too valuable to concentrate your production in one place, though. 
+If you are short of ammo this is the fastest way to generate enough. Cost too much compared to extra supply depots and too valuable to concentrate your production in one place, though. Good for early game rush against human players.
 
 ^^^^^^^^^^^^^^^^^
 Oil Depot
 ^^^^^^^^^^^^^^^^^
-If you are short of oil this is the fastest way to generate enough. Cost too much compared to extra supply depots and too valuable to concentrate your production in one place, though. 
+If you are short of oil this is the fastest way to generate enough. Cost too much compared to extra supply depots and too valuable to concentrate your production in one place, though. Good for early game rush against human players.
 
 
 -------------

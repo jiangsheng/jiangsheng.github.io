@@ -10,3 +10,5 @@ Each :ref:`regiments <axis_and_allies_regiments>` and some buildings will cost y
 If your money is in the red, your regiments outside of the :ref:`supply <axis_and_allies_supply>` zone, will be taking damage until they self disband, and your regiments inside will be supplied much slower than normal. You can also use this to your advantage by destroying Ammo and Oil depots. 
 
 Capturing a city or building a new HQ will get you additional income. The enemies are going to take city for their own, however. Bombarding a city with artillery can cause enemies in the city to lose supply.
+
+Generally speaking you should build more HQs than necessary so when your finish your tech buildings, you have enough money to make them useful. A newbie mistake is to build tech buildings first. 
