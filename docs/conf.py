@@ -52,6 +52,7 @@ extensions = [
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
+    'sphinx_sitemap',
     'edit_on_github'
 ]
 edit_on_github_project  = 'jiangsheng/jiangsheng.github.io'
@@ -237,6 +238,8 @@ todo_include_todos = True
 # google analytics
 googleanalytics_id = 'UA-30166843-2'
 
+sitemap_locales = ['en', 'zh-CN']
+sitemap_url_scheme = "{version}{link}"
 def setup(app):
     app.add_css_file('css/custom.css')
     app.add_js_file("https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N")
