@@ -14,11 +14,11 @@ Different type of regiments have advantage and disadvantage on different terrain
      - Infantry Effect
      - Vehicle Effect
    * - City 
-     - Gunfire resistance +25%, armor piercing resistance +25%
-     - Medium speed limit, gunfire resistance -50%
+     - Gunfire resistance +25%, armor piercing resistance +20%
+     - Medium speed limit, gunfire resistance -20%
    * - Forests
-     - Defense Value +4,  armor piercing resistance +25%
-     - Gunfire resistance -25%
+     - Defense Value +4,  armor piercing resistance +20%
+     - Gunfire resistance -20%
    * - Jungles
      - Defense Value +4,  armor piercing resistance +25%
      - Very low speed limit, gunfire resistance -50%
