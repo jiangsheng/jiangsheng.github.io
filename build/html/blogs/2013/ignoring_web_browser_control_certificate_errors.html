@@ -30,7 +30,7 @@
   <link href="../../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 <link href="../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 
-    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=03e43079" />
     <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css?v=906dce5e" />
   
   <!-- So that users can add custom icons -->
@@ -284,6 +284,7 @@
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../2011/index.html"> 2011</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2007/index.html"> 2007</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../index.html#indices-and-tables">Indices and tables</a></li>
 </ul>
 </li>
@@ -310,9 +311,9 @@
   <ul class="this-page-menu">
     <li><a href="../../_sources/blogs/2013/ignoring_web_browser_control_certificate_errors.rst.txt"
            rel="nofollow">Show Source</a></li>
-    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/blogs/2013/ignoring_web_browser_control_certificate_errors.rst"
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/blogs\2013\ignoring_web_browser_control_certificate_errors.rst"
            rel="nofollow">Show on GitHub</a></li>
-    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/blogs/2013/ignoring_web_browser_control_certificate_errors.rst"
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/blogs\2013\ignoring_web_browser_control_certificate_errors.rst"
            rel="nofollow">Edit on GitHub</a></li>
   </ul>
   <h3>Social Media Links</h3>
@@ -393,136 +394,14 @@
 <li><p>create a nested class derived from WebBrowser.WebBrowserSite (the only way you can derive from the nested class)</p></li>
 <li><p>overwrite CreateWebBrowserSiteBase and return a new instance of your webbrowser site.</p></li>
 <li><p>implement IServiceProvider on the webbrowser site</p></li>
-<li><p>implement IServiceProvider.QueryService so it returns an IHttpSecurity imepleemntation when the IHttpSecurity service is requested</p></li>
+<li><p>implement IServiceProvider.QueryService so it returns an IHttpSecurity implementation when the IHttpSecurity service is requested</p></li>
 <li><p>handle IHttpSecurity.OnSecurityProblem and return S_OK (warning: undocumented code, won’t work in IE6)</p></li>
 <li><p>use the new webbrowser in the form</p></li>
+<li><p>important: navigate to “<a class="reference external" href="about:blank">about:blank</a>” first otherwise your service provider won’t get called.</p></li>
 </ul>
-<p>Example Code</p>
-<div class="highlight-C# notranslate"><div class="highlight"><pre><span></span><span class="k">public</span><span class="w"> </span><span class="k">partial</span><span class="w"> </span><span class="k">class</span><span class="w"> </span><span class="nc">Form1</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="n">Form</span><span class="p">{</span>
-<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="nf">Form1</span><span class="p">(){</span>
-<span class="w">            </span><span class="n">InitializeComponent</span><span class="p">();</span>
-<span class="w">        </span><span class="p">}</span>
-
-<span class="w">        </span><span class="k">private</span><span class="w"> </span><span class="k">void</span><span class="w"> </span><span class="nf">webBrowser1_DocumentCompleted</span><span class="p">(</span><span class="kt">object</span><span class="w"> </span><span class="n">sender</span><span class="p">,</span><span class="w"> </span><span class="n">WebBrowserDocumentCompletedEventArgs</span><span class="w"> </span><span class="n">e</span><span class="p">)</span>
-<span class="w">        </span><span class="p">{</span>
-<span class="w">            </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">e</span><span class="p">.</span><span class="n">Url</span><span class="p">.</span><span class="n">ToString</span><span class="p">()</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="err">“</span><span class="n">about</span><span class="p">:</span><span class="n">blank</span><span class="err">”</span><span class="p">)</span>
-<span class="w">            </span><span class="p">{</span>
-<span class="w">                </span><span class="c1">//create a certificate mismatch</span>
-<span class="w">                </span><span class="n">webBrowser1</span><span class="p">.</span><span class="n">Navigate</span><span class="p">(</span><span class="err">“</span><span class="n">https</span><span class="p">:</span><span class="c1">//74.125.225.229&amp;#8221;);</span>
-<span class="w">            </span><span class="p">}</span>
-
-<span class="w">        </span><span class="p">}</span>
-<span class="w">    </span><span class="p">}</span>
-<span class="w">    </span><span class="na">[Guid(“6D5140C1-7436-11CE-8034-00AA006009FA”)]</span>
-<span class="w">    </span><span class="na">[InterfaceType(ComInterfaceType.InterfaceIsIUnknown)]</span>
-<span class="w">    </span><span class="na">[ComImport]</span>
-<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="k">interface</span><span class="w"> </span><span class="n">UCOMIServiceProvider</span>
-<span class="w">    </span><span class="p">{</span>
-<span class="w">        </span><span class="na">[return: MarshalAs(UnmanagedType.I4)]</span>
-<span class="w">        </span><span class="na">[PreserveSig]</span>
-<span class="w">        </span><span class="kt">int</span><span class="w"> </span><span class="nf">QueryService</span><span class="p">(</span>
-<span class="w">            </span><span class="na">[In]</span><span class="w"> </span><span class="k">ref</span><span class="w"> </span><span class="n">Guid</span><span class="w"> </span><span class="n">guidService</span><span class="p">,</span>
-<span class="w">            </span><span class="na">[In]</span><span class="w"> </span><span class="k">ref</span><span class="w"> </span><span class="n">Guid</span><span class="w"> </span><span class="n">riid</span><span class="p">,</span>
-<span class="w">            </span><span class="na">[Out]</span><span class="w"> </span><span class="k">out</span><span class="w"> </span><span class="n">IntPtr</span><span class="w"> </span><span class="n">ppvObject</span><span class="p">);</span>
-<span class="w">    </span><span class="p">}</span>
-<span class="w">    </span><span class="na">[ComImport()]</span>
-<span class="w">    </span><span class="na">[ComVisible(true)]</span>
-<span class="w">    </span><span class="na">[Guid(“79eac9d5-bafa-11ce-8c82-00aa004ba90b”)]</span>
-<span class="w">    </span><span class="na">[InterfaceTypeAttribute(ComInterfaceType.InterfaceIsIUnknown)]</span>
-<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="k">interface</span><span class="w"> </span><span class="n">IWindowForBindingUI</span>
-<span class="w">    </span><span class="p">{</span>
-<span class="w">        </span><span class="na">[return: MarshalAs(UnmanagedType.I4)]</span>
-<span class="w">        </span><span class="na">[PreserveSig]</span>
-<span class="w">        </span><span class="kt">int</span><span class="w"> </span><span class="nf">GetWindow</span><span class="p">(</span>
-<span class="w">            </span><span class="na">[In]</span><span class="w"> </span><span class="k">ref</span><span class="w"> </span><span class="n">Guid</span><span class="w"> </span><span class="n">rguidReason</span><span class="p">,</span>
-<span class="w">            </span><span class="na">[In, Out]</span><span class="w"> </span><span class="k">ref</span><span class="w"> </span><span class="n">IntPtr</span><span class="w"> </span><span class="n">phwnd</span><span class="p">);</span>
-<span class="w">    </span><span class="p">}</span>
-<span class="w">    </span><span class="na">[ComImport()]</span>
-<span class="w">    </span><span class="na">[ComVisible(true)]</span>
-<span class="w">    </span><span class="na">[Guid(“79eac9d7-bafa-11ce-8c82-00aa004ba90b”)]</span>
-<span class="w">    </span><span class="na">[InterfaceTypeAttribute(ComInterfaceType.InterfaceIsIUnknown)]</span>
-<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="k">interface</span><span class="w"> </span><span class="n">IHttpSecurity</span>
-<span class="w">    </span><span class="p">{</span>
-<span class="w">        </span><span class="c1">//derived from IWindowForBindingUI</span>
-<span class="w">        </span><span class="na">[return: MarshalAs(UnmanagedType.I4)]</span>
-<span class="w">        </span><span class="na">[PreserveSig]</span>
-<span class="w">        </span><span class="kt">int</span><span class="w"> </span><span class="nf">GetWindow</span><span class="p">(</span>
-<span class="w">            </span><span class="na">[In]</span><span class="w"> </span><span class="k">ref</span><span class="w"> </span><span class="n">Guid</span><span class="w"> </span><span class="n">rguidReason</span><span class="p">,</span>
-<span class="w">            </span><span class="na">[In, Out]</span><span class="w"> </span><span class="k">ref</span><span class="w"> </span><span class="n">IntPtr</span><span class="w"> </span><span class="n">phwnd</span><span class="p">);</span>
-<span class="w">        </span><span class="na">[PreserveSig]</span>
-<span class="w">        </span><span class="kt">int</span><span class="w"> </span><span class="nf">OnSecurityProblem</span><span class="p">(</span>
-<span class="w">            </span><span class="na">[In, MarshalAs(UnmanagedType.U4)]</span><span class="w"> </span><span class="kt">uint</span><span class="w"> </span><span class="n">dwProblem</span><span class="p">);</span>
-<span class="w">    </span><span class="p">}</span>
-<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="k">class</span><span class="w"> </span><span class="nc">MyWebBrowser</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="n">WebBrowser</span>
-<span class="w">    </span><span class="p">{</span>
-<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="k">static</span><span class="w"> </span><span class="n">Guid</span><span class="w"> </span><span class="n">IID_IHttpSecurity</span>
-<span class="w">            </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Guid</span><span class="p">(</span><span class="err">“</span><span class="m">79</span><span class="n">eac9d7</span><span class="o">-</span><span class="n">bafa</span><span class="o">-</span><span class="m">11</span><span class="n">ce</span><span class="o">-</span><span class="m">8</span><span class="n">c82</span><span class="o">-</span><span class="m">00</span><span class="n">aa004ba90b</span><span class="err">”</span><span class="p">);</span>
-<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="k">static</span><span class="w"> </span><span class="n">Guid</span><span class="w"> </span><span class="n">IID_IWindowForBindingUI</span>
-<span class="w">            </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Guid</span><span class="p">(</span><span class="err">“</span><span class="m">79</span><span class="n">eac9d5</span><span class="o">-</span><span class="n">bafa</span><span class="o">-</span><span class="m">11</span><span class="n">ce</span><span class="o">-</span><span class="m">8</span><span class="n">c82</span><span class="o">-</span><span class="m">00</span><span class="n">aa004ba90b</span><span class="err">”</span><span class="p">);</span>
-<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">S_OK</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="p">;</span>
-<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">S_FALSE</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">;</span>
-<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">E_NOINTERFACE</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">unchecked</span><span class="p">((</span><span class="kt">int</span><span class="p">)</span><span class="m">0</span><span class="n">x80004002</span><span class="p">);</span>
-<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">RPC_E_RETRY</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">unchecked</span><span class="p">((</span><span class="kt">int</span><span class="p">)</span><span class="m">0</span><span class="n">x80010109</span><span class="p">);</span>
-<span class="w">        </span><span class="k">protected</span><span class="w"> </span><span class="k">override</span><span class="w"> </span><span class="n">WebBrowserSiteBase</span><span class="w"> </span><span class="nf">CreateWebBrowserSiteBase</span><span class="p">()</span>
-<span class="w">        </span><span class="p">{</span>
-<span class="w">            </span><span class="k">return</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="nf">MyWebBrowserSite</span><span class="p">(</span><span class="k">this</span><span class="p">);</span>
-<span class="w">        </span><span class="p">}</span>
-<span class="w">        </span><span class="k">class</span><span class="w"> </span><span class="nc">MyWebBrowserSite</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="n">WebBrowserSite</span><span class="p">,</span>
-<span class="w">            </span><span class="n">UCOMIServiceProvider</span><span class="p">,</span>
-<span class="w">            </span><span class="n">IHttpSecurity</span><span class="p">,</span>
-<span class="w">            </span><span class="n">IWindowForBindingUI</span>
-<span class="w">        </span><span class="p">{</span>
-<span class="w">            </span><span class="k">private</span><span class="w"> </span><span class="n">MyWebBrowser</span><span class="w"> </span><span class="n">myWebBrowser</span><span class="p">;</span>
-<span class="w">            </span><span class="k">public</span><span class="w"> </span><span class="nf">MyWebBrowserSite</span><span class="p">(</span><span class="n">MyWebBrowser</span><span class="w"> </span><span class="n">myWebBrowser</span><span class="p">)</span>
-<span class="w">                </span><span class="p">:</span><span class="k">base</span><span class="p">(</span><span class="n">myWebBrowser</span><span class="p">)</span>
-<span class="w">            </span><span class="p">{</span>
-<span class="w">                </span><span class="k">this</span><span class="p">.</span><span class="n">myWebBrowser</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">myWebBrowser</span><span class="p">;</span>
-<span class="w">            </span><span class="p">}</span>
-<span class="w">            </span><span class="k">public</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="nf">QueryService</span><span class="p">(</span><span class="k">ref</span><span class="w"> </span><span class="n">Guid</span><span class="w"> </span><span class="n">guidService</span>
-<span class="w">                </span><span class="p">,</span><span class="w"> </span><span class="k">ref</span><span class="w"> </span><span class="n">Guid</span><span class="w"> </span><span class="n">riid</span>
-<span class="w">                </span><span class="p">,</span><span class="w"> </span><span class="k">out</span><span class="w"> </span><span class="n">IntPtr</span><span class="w"> </span><span class="n">ppvObject</span><span class="p">)</span>
-<span class="w">            </span><span class="p">{</span>
-<span class="w">                </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">riid</span><span class="w"> </span><span class="o">==</span><span class="n">IID_IHttpSecurity</span><span class="p">)</span>
-<span class="w">                </span><span class="p">{</span>
-<span class="w">                    </span><span class="n">ppvObject</span><span class="o">=</span><span class="w"> </span><span class="n">Marshal</span><span class="p">.</span><span class="n">GetComInterfaceForObject</span><span class="p">(</span><span class="k">this</span>
-<span class="w">                        </span><span class="p">,</span><span class="w"> </span><span class="k">typeof</span><span class="p">(</span><span class="n">IHttpSecurity</span><span class="p">));</span>
-<span class="w">                    </span><span class="k">return</span><span class="w"> </span><span class="n">S_OK</span><span class="p">;</span>
-<span class="w">                </span><span class="p">}</span>
-<span class="w">                </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">riid</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">IID_IWindowForBindingUI</span><span class="p">)</span>
-<span class="w">                </span><span class="p">{</span>
-<span class="w">                    </span><span class="n">ppvObject</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Marshal</span><span class="p">.</span><span class="n">GetComInterfaceForObject</span><span class="p">(</span><span class="k">this</span>
-<span class="w">                        </span><span class="p">,</span><span class="w"> </span><span class="k">typeof</span><span class="p">(</span><span class="n">IWindowForBindingUI</span><span class="p">));</span>
-<span class="w">                    </span><span class="k">return</span><span class="w"> </span><span class="n">S_OK</span><span class="p">;</span>
-<span class="w">                </span><span class="p">}</span>
-<span class="w">                </span><span class="n">ppvObject</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">IntPtr</span><span class="p">.</span><span class="n">Zero</span><span class="p">;</span>
-<span class="w">                </span><span class="k">return</span><span class="w"> </span><span class="n">E_NOINTERFACE</span><span class="p">;</span>
-<span class="w">            </span><span class="p">}</span>
-<span class="w">            </span><span class="k">public</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="nf">GetWindow</span><span class="p">(</span><span class="k">ref</span><span class="w"> </span><span class="n">Guid</span><span class="w"> </span><span class="n">rguidReason</span>
-<span class="w">                </span><span class="p">,</span><span class="w"> </span><span class="k">ref</span><span class="w"> </span><span class="n">IntPtr</span><span class="w"> </span><span class="n">phwnd</span><span class="p">)</span>
-<span class="w">            </span><span class="p">{</span>
-<span class="w">                </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">rguidReason</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">IID_IHttpSecurity</span>
-<span class="w">                    </span><span class="o">||</span><span class="w"> </span><span class="n">rguidReason</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">IID_IWindowForBindingUI</span><span class="p">)</span>
-<span class="w">                </span><span class="p">{</span>
-<span class="w">                    </span><span class="n">phwnd</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">myWebBrowser</span><span class="p">.</span><span class="n">Handle</span><span class="p">;</span>
-<span class="w">                    </span><span class="k">return</span><span class="w"> </span><span class="n">S_OK</span><span class="p">;</span>
-<span class="w">                </span><span class="p">}</span>
-<span class="w">                </span><span class="k">else</span>
-<span class="w">                </span><span class="p">{</span>
-<span class="w">                    </span><span class="n">phwnd</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">IntPtr</span><span class="p">.</span><span class="n">Zero</span><span class="p">;</span>
-<span class="w">                    </span><span class="k">return</span><span class="w"> </span><span class="n">S_FALSE</span><span class="p">;</span>
-<span class="w">                </span><span class="p">}</span>
-<span class="w">            </span><span class="p">}</span>
-<span class="w">            </span><span class="k">public</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="nf">OnSecurityProblem</span><span class="p">(</span><span class="kt">uint</span><span class="w"> </span><span class="n">dwProblem</span><span class="p">)</span>
-<span class="w">            </span><span class="p">{</span>
-<span class="w">                </span><span class="c1">//ignore errors</span>
-<span class="w">                </span><span class="c1">//undocumented return code, does not work on IE6</span>
-<span class="w">                </span><span class="k">return</span><span class="w"> </span><span class="n">S_OK</span><span class="p">;</span>
-<span class="w">            </span><span class="p">}</span>
-<span class="w">        </span><span class="p">}</span>
-<span class="w">    </span><span class="p">}</span>
-</pre></div>
-</div>
-<p>For sample code in providing the service using MFC, check <span class="xref std std-ref">Handle NewWindow3 and ShowModalDialog in CHtmlView</span>. The way to implements IHttpSecurity is similar to how the article exposes the INewWindowManager service to the webbrowser control.</p>
+<p><a class="reference external" href="https://github.com/jiangsheng/Samples/blob/master/IgnoreSsl/Form1.cs">Example Code:</a></p>
+<p>For sample code in providing the service using MFC, check <a class="reference internal" href="../2007/newWindow3_showModalDialog_chtmlview.html#blogs-handle-newwindow3-and-showmodaldialog-chtmlview"><span class="std std-ref">Handle NewWindow3 and ShowModalDialog in CHtmlView</span></a>. The way to implements IHttpSecurity is similar to how the article exposes the INewWindowManager service to the webbrowser control.</p>
+<p>WPF’s WebBrowser class does not provide a public virtual function to change the ActiveX site. You might have to <a class="reference external" href="https://stackoverflow.com/questions/15515581/why-my-implementation-of-idochostuihandler-is-ignored">implement ICustomQueryInterface yourself</a>.</p>
 </section>
 
 

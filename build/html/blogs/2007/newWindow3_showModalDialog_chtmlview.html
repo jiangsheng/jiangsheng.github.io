@@ -1,0 +1,813 @@
+
+<!DOCTYPE html>
+
+
+<html lang="zh-CN" data-content_root="../../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Handle NewWindow3 and ShowModalDialog in CHtmlView &#8212; jiangsheng 1 documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css?v=906dce5e" />
+  
+  <!-- So that users can add custom icons -->
+  <script src="../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+
+    <script src="../../_static/documentation_options.js?v=78b98999"></script>
+    <script src="../../_static/doctools.js?v=9bcbadda"></script>
+    <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <script src="../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'blogs/2007/newWindow3_showModalDialog_chtmlview';</script>
+    <link rel="canonical" href="https://git.jiangsheng.net/build/html/blogs/2007/newWindow3_showModalDialog_chtmlview.html" />
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Grandma’s handbook" href="../../grandma/index.html" />
+    <link rel="prev" title="2007 Blogs" href="index.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="zh-CN"/>
+  <meta name="docsearch:version" content="" />
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-3 navbar-header-items__start">
+    
+      <div class="navbar-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../../reference.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">jiangsheng 1 documentation</p>
+  
+</a></div>
+    
+  </div>
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../games/index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          
+          
+            <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../games/index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+          
+        
+      </div>
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+<h3><a href="../../reference.html">Table of Contents</a></h3>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">内容:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../README.html">Welcome to jiangsheng’s documentation!</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../README.html#indices-and-tables">Indices and tables</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../games/index.html">Games</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Blogs</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../2022/index.html"> 2022</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2021/index.html"> 2021</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2017/index.html"> 2017</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2013/index.html"> 2013</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2011/index.html"> 2011</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="index.html"> 2007</a><ul class="current">
+<li class="toctree-l3 current"><a class="current reference internal" href="#"> Handle NewWindow3 and ShowModalDialog in CHtmlView</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../index.html#indices-and-tables">Indices and tables</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../grandma/index.html">Grandma's handbook</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../index.html">Welcome to jiangsheng’s documentation!</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../index.html#indices-and-tables">Indices and tables</a></li>
+</ul>
+</div>
+        <div class="sidebar-primary-item">
+  <div>
+    <h4>Previous topic</h4>
+    <p class="topless"><a href="index.html"
+                          title="previous chapter">2007 Blogs</a></p>
+  </div>
+  <div>
+    <h4>Next topic</h4>
+    <p class="topless"><a href="../../grandma/index.html"
+                          title="next chapter">Grandma’s handbook</a></p>
+  </div></div>
+        <div class="sidebar-primary-item">
+<div id="searchbox"></div></div>
+        <div class="sidebar-primary-item">
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="../../_sources/blogs/2007/newWindow3_showModalDialog_chtmlview.rst.txt"
+           rel="nofollow">Show Source</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/blogs\2007\newWindow3_showModalDialog_chtmlview.rst"
+           rel="nofollow">Show on GitHub</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/blogs\2007\newWindow3_showModalDialog_chtmlview.rst"
+           rel="nofollow">Edit on GitHub</a></li>
+  </ul>
+  <h3>Social Media Links</h3>
+  <ul>
+    <li>twitter (archived): #jiangsheng </li>
+    <li>bluesky: <a href="https://bsky.app/profile/sheng-jiang.bsky.social"> sheng-jiang.bsky.social</a></li>
+    <li>stackoverflow: <a href="https://stackoverflow.com/users/109919/sheng-jiang-%e8%92%8b%e6%99%9f">Sheng Jiang 蒋晟</a></li>
+  </ul></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="../../reference.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    
+    <li class="breadcrumb-item"><a href="../index.html" class="nav-link">Blogs</a></li>
+    
+    
+    <li class="breadcrumb-item"><a href="index.html" class="nav-link">2007 Blogs</a></li>
+    
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">Handle NewWindow3 and ShowModalDialog in CHtmlView</span></li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="handle-newwindow3-and-showmodaldialog-in-chtmlview">
+<span id="blogs-handle-newwindow3-and-showmodaldialog-chtmlview"></span><h1>Handle NewWindow3 and ShowModalDialog in CHtmlView<a class="headerlink" href="#handle-newwindow3-and-showmodaldialog-in-chtmlview" title="Link to this heading">#</a></h1>
+<p>CHTMLView does not support NewWindow3 as of MFC 9.0. It is relatively easy to add this support, given the event sink code in atlmfcsrcviewhtml.cpp</p>
+<p>Add the following into the declaration of the derived CHtmlView class (named CHtmlViewTestView in this example)</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="kt">void</span><span class="w"> </span><span class="nf">NewWindow3</span><span class="p">(</span>
+<span class="w">    </span><span class="n">IDispatch</span><span class="w"> </span><span class="o">**</span><span class="n">ppDisp</span><span class="p">,</span>
+<span class="w">    </span><span class="n">VARIANT_BOOL</span><span class="w"> </span><span class="o">*</span><span class="n">Cancel</span><span class="p">,</span>
+<span class="w">    </span><span class="n">DWORD</span><span class="w"> </span><span class="n">dwFlags</span><span class="p">,</span>
+<span class="w">    </span><span class="n">BSTR</span><span class="w"> </span><span class="n">bstrUrlContext</span><span class="p">,</span>
+<span class="w">    </span><span class="n">BSTR</span><span class="w"> </span><span class="n">bstrUrl</span>
+<span class="p">);</span>
+
+<span class="n">DECLARE_EVENTSINK_MAP</span><span class="p">()</span>
+</pre></div>
+</div>
+<p>Add the following to the implementation file of the CHtmlViewTestView class</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="cp">#include</span><span class="w"> </span><span class="cpf">&lt;exdisp.h&gt;</span><span class="c1"> //For IWebBrowser2* and others</span>
+<span class="cp">#include</span><span class="w"> </span><span class="cpf">&lt;exdispid.h&gt;</span>
+<span class="cp">#include</span><span class="w"> </span><span class="cpf">&lt;Mshtml.h&gt;</span>
+<span class="cp">#include</span><span class="w"> </span><span class="cpf">&lt;Mshtmdid.h&gt;</span>
+<span class="cp">#include</span><span class="w"> </span><span class="cpf">&lt;shobjidl.h&gt;</span>
+
+<span class="n">BEGIN_EVENTSINK_MAP</span><span class="p">(</span><span class="n">CHtmlViewTestView</span><span class="p">,</span><span class="w"> </span><span class="n">CHtmlView</span><span class="p">)</span>
+<span class="w">    </span><span class="n">ON_EVENT</span><span class="p">(</span><span class="n">CHtmlViewTestView</span><span class="p">,</span><span class="w"> </span><span class="n">AFX_IDW_PANE_FIRST</span><span class="p">,</span><span class="n">DISPID_NEWWINDOW3</span><span class="p">,</span><span class="n">NewWindow3</span><span class="p">,</span><span class="n">VTS_PDISPATCH</span><span class="w"> </span><span class="n">VTS_PBOOL</span><span class="w"> </span><span class="n">VTS_I4</span><span class="w"> </span><span class="n">VTS_BSTR</span><span class="w"> </span><span class="n">VTS_BSTR</span><span class="p">)</span>
+<span class="n">END_EVENTSINK_MAP</span><span class="p">()</span>
+
+<span class="kt">void</span><span class="w"> </span><span class="n">CHtmlViewTestView</span><span class="o">::</span><span class="n">NewWindow3</span><span class="p">(</span>
+<span class="w">    </span><span class="n">IDispatch</span><span class="w"> </span><span class="o">**</span><span class="n">ppDisp</span><span class="p">,</span>
+<span class="w">    </span><span class="n">VARIANT_BOOL</span><span class="w"> </span><span class="o">*</span><span class="n">Cancel</span><span class="p">,</span>
+<span class="w">    </span><span class="n">DWORD</span><span class="w"> </span><span class="n">dwFlags</span><span class="p">,</span>
+<span class="w">    </span><span class="n">BSTR</span><span class="w"> </span><span class="n">bstrUrlContext</span><span class="p">,</span>
+<span class="w">    </span><span class="n">BSTR</span><span class="w"> </span><span class="n">bstrUrl</span>
+<span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">CDocTemplate</span><span class="o">*</span><span class="w"> </span><span class="n">pDocTemplate</span><span class="o">=</span><span class="n">GetDocument</span><span class="p">()</span><span class="o">-&gt;</span><span class="n">GetDocTemplate</span><span class="p">();</span>
+<span class="w">    </span><span class="n">CDocument</span><span class="o">*</span><span class="w"> </span><span class="n">pDocument</span><span class="o">=</span><span class="n">pDocTemplate</span><span class="o">-&gt;</span><span class="n">OpenDocumentFile</span><span class="p">(</span><span class="nb">NULL</span><span class="p">);</span>
+<span class="w">    </span><span class="n">POSITION</span><span class="w"> </span><span class="n">pos</span><span class="o">=</span><span class="w"> </span><span class="n">pDocument</span><span class="o">-&gt;</span><span class="n">GetFirstViewPosition</span><span class="p">();</span>
+<span class="w">    </span><span class="n">CHtmlViewTestView</span><span class="o">*</span><span class="w"> </span><span class="n">pNewView</span><span class="o">=</span><span class="p">(</span><span class="n">CHtmlViewTestView</span><span class="o">*</span><span class="p">)</span><span class="n">pDocument</span><span class="o">-&gt;</span><span class="n">GetNextView</span><span class="p">(</span><span class="n">pos</span><span class="p">);</span>
+<span class="w">    </span><span class="n">pNewView</span><span class="o">-&gt;</span><span class="n">SetRegisterAsBrowser</span><span class="p">(</span><span class="n">TRUE</span><span class="p">);</span>
+<span class="w">    </span><span class="o">*</span><span class="n">ppDisp</span><span class="o">=</span><span class="n">pNewView</span><span class="o">-&gt;</span><span class="n">GetApplication</span><span class="p">();</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>Handling ShowHtmlDialog in CHtmlView needs some extension the browser control site, however, the MFC implementation is not reusable. Heck, for some reason the two MFC HTML Classes, namely CHtmlView and CDHtmlDialog, are NOT reusing their own extension inside the same class library. They use two almost identical extension control sites to redirect IDocHostUIHandler methods. The one used CHtmlView, CHtmlControlSite, is not even in MFC header file, while the one used by CDHtmlDialog, CBrowserControlSite, is in afxdhtml.h, leaving some room to extend it by exposing GetInterfaceHook.</p>
+<p>Now back to CHtmlView. To create a control site extension, you need to override CWnd::CreateControlSite, which is added in MFC 7.0 specifically for extending the web browser control ,  but is used in MFC 8.0 for embedding .Net Windows Forms controls.</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="n">BOOL</span><span class="w"> </span><span class="nf">CHtmlViewTestView::CreateControlSite</span><span class="p">(</span><span class="n">COleControlContainer</span><span class="o">*</span><span class="w"> </span><span class="n">pContainer</span><span class="p">,</span>
+<span class="n">COleControlSite</span><span class="o">**</span><span class="w"> </span><span class="n">ppSite</span><span class="p">,</span><span class="w"> </span><span class="n">UINT</span><span class="w"> </span><span class="cm">/* nID */</span><span class="p">,</span><span class="w"> </span><span class="n">REFCLSID</span><span class="w"> </span><span class="cm">/* clsid */</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">ASSERT</span><span class="p">(</span><span class="n">ppSite</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="nb">NULL</span><span class="p">);</span>
+<span class="w">    </span><span class="o">*</span><span class="n">ppSite</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="p">(</span><span class="n">pContainer</span><span class="p">,</span><span class="k">this</span><span class="p">);</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">TRUE</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>Actually, pContainer-&gt;m_pWnd is this (CHtmlViewTestView), so I can emit a parameter here and cast the window pointer to CHtmlViewTestView, but this is not obvious to me when I wrote this class.</p>
+<p>The control site extension needs to extend COleControlSite, an internal class in MFC 6.0 but is documented in MFC 7.0, again, to support class level customization of the control site. Previously, you can only replace the global control container by calling AfxEnableControlContainer.</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="k">class</span><span class="w"> </span><span class="nc">CExtendedHtmlControlSite</span><span class="w"> </span><span class="o">:</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="n">COleControlSite</span>
+<span class="p">{</span>
+<span class="k">public</span><span class="o">:</span>
+<span class="w">    </span><span class="n">CExtendedHtmlControlSite</span><span class="p">(</span><span class="n">COleControlContainer</span><span class="o">*</span><span class="w"> </span><span class="n">pContainer</span><span class="p">,</span><span class="n">CHtmlViewTestView</span><span class="o">*</span><span class="w"> </span><span class="n">pView</span><span class="p">);</span>
+<span class="w">    </span><span class="k">virtual</span><span class="w"> </span><span class="o">~</span><span class="n">CExtendedHtmlControlSite</span><span class="p">(</span><span class="kt">void</span><span class="p">);</span>
+<span class="k">protected</span><span class="o">:</span>
+<span class="w">    </span><span class="n">CHtmlViewTestView</span><span class="o">*</span><span class="w"> </span><span class="n">m_pView</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">CExtendedHtmlControlSite</span><span class="p">(</span><span class="n">COleControlContainer</span><span class="o">*</span><span class="w"> </span><span class="n">pContainer</span><span class="p">,</span><span class="n">CHtmlViewTestView</span><span class="o">*</span><span class="w"> </span><span class="n">pView</span><span class="p">)</span>
+<span class="o">:</span><span class="n">COleControlSite</span><span class="p">(</span><span class="n">pContainer</span><span class="p">),</span><span class="n">m_pView</span><span class="p">(</span><span class="n">pView</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="p">}</span>
+
+<span class="n">CExtendedHtmlControlSite</span><span class="o">::~</span><span class="n">CExtendedHtmlControlSite</span><span class="p">(</span><span class="kt">void</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>Here m_pView is saved to delegate INewWindowManager calls to the CHtmlViewTestView class.</p>
+<p>Now it is the fun part. The web browser control does not actually query the INewWindowManager interface from the control site, instead, it calls the control site’s implementation of IServiceProvider::QueryService, so I need to implement IServiceProvider first, then answer the service query call with my INewWindowManager implementation.</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="n">BEGIN_INTERFACE_PART</span><span class="p">(</span><span class="n">ServiceProvider</span><span class="p">,</span><span class="w"> </span><span class="n">IServiceProvider</span><span class="p">)</span>
+<span class="w">    </span><span class="n">STDMETHOD</span><span class="p">(</span><span class="n">QueryService</span><span class="p">)(</span><span class="n">REFGUID</span><span class="p">,</span><span class="n">REFIID</span><span class="p">,</span><span class="kt">void</span><span class="o">**</span><span class="p">);</span>
+<span class="n">END_INTERFACE_PART</span><span class="p">(</span><span class="n">ServiceProvider</span><span class="p">)</span>
+
+<span class="n">BEGIN_INTERFACE_PART</span><span class="p">(</span><span class="n">NewWindowManager</span><span class="p">,</span><span class="w"> </span><span class="n">INewWindowManager</span><span class="p">)</span>
+<span class="w">    </span><span class="n">STDMETHOD</span><span class="p">(</span><span class="n">EvaluateNewWindow</span><span class="p">)(</span>
+<span class="w">        </span><span class="n">LPCWSTR</span><span class="w"> </span><span class="n">pszUrl</span><span class="p">,</span>
+<span class="w">        </span><span class="n">LPCWSTR</span><span class="w"> </span><span class="n">pszName</span><span class="p">,</span>
+<span class="w">        </span><span class="n">LPCWSTR</span><span class="w"> </span><span class="n">pszUrlContext</span><span class="p">,</span>
+<span class="w">        </span><span class="n">LPCWSTR</span><span class="w"> </span><span class="n">pszFeatures</span><span class="p">,</span>
+<span class="w">        </span><span class="n">BOOL</span><span class="w"> </span><span class="n">fReplace</span><span class="p">,</span>
+<span class="w">        </span><span class="n">DWORD</span><span class="w"> </span><span class="n">dwFlags</span><span class="p">,</span>
+<span class="w">        </span><span class="n">DWORD</span><span class="w"> </span><span class="n">dwUserActionTime</span><span class="p">);</span>
+<span class="n">END_INTERFACE_PART</span><span class="p">(</span><span class="n">NewWindowManager</span><span class="p">);</span>
+
+<span class="n">ULONG</span><span class="w"> </span><span class="n">FAR</span><span class="w"> </span><span class="n">EXPORT</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XServiceProvider</span><span class="o">::</span><span class="n">AddRef</span><span class="p">()</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">ServiceProvider</span><span class="p">)</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">ExternalAddRef</span><span class="p">();</span>
+<span class="p">}</span>
+
+<span class="n">ULONG</span><span class="w"> </span><span class="n">FAR</span><span class="w"> </span><span class="n">EXPORT</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XServiceProvider</span><span class="o">::</span><span class="n">Release</span><span class="p">()</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">ServiceProvider</span><span class="p">)</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">ExternalRelease</span><span class="p">();</span>
+<span class="p">}</span>
+
+<span class="n">HRESULT</span><span class="w"> </span><span class="n">FAR</span><span class="w"> </span><span class="n">EXPORT</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XServiceProvider</span><span class="o">::</span><span class="n">QueryInterface</span><span class="p">(</span><span class="n">REFIID</span><span class="w"> </span><span class="n">riid</span><span class="p">,</span>
+<span class="w">    </span><span class="kt">void</span><span class="o">**</span><span class="w"> </span><span class="n">ppvObj</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">ServiceProvider</span><span class="p">)</span>
+<span class="w">    </span><span class="n">HRESULT</span><span class="w"> </span><span class="n">hr</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="n">HRESULT</span><span class="p">)</span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">ExternalQueryInterface</span><span class="p">(</span><span class="o">&amp;</span><span class="n">riid</span><span class="p">,</span><span class="w"> </span><span class="n">ppvObj</span><span class="p">);</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">hr</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="n">STDMETHODIMP</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XServiceProvider</span><span class="o">::</span><span class="n">QueryService</span><span class="p">(</span><span class="n">REFGUID</span><span class="w"> </span><span class="n">guidService</span><span class="p">,</span>
+<span class="w">    </span><span class="n">REFIID</span><span class="w"> </span><span class="n">riid</span><span class="p">,</span>
+<span class="w">    </span><span class="kt">void</span><span class="o">**</span><span class="w"> </span><span class="n">ppvObject</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">riid</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">IID_INewWindowManager</span><span class="p">)</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">        </span><span class="n">METHOD_PROLOGUE</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">ServiceProvider</span><span class="p">);</span>
+<span class="w">        </span><span class="n">HRESULT</span><span class="w"> </span><span class="n">hr</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="n">HRESULT</span><span class="p">)</span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">ExternalQueryInterface</span><span class="p">(</span><span class="o">&amp;</span><span class="n">riid</span><span class="p">,</span><span class="w"> </span><span class="n">ppvObject</span><span class="p">);</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">hr</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="k">else</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">        </span><span class="o">*</span><span class="n">ppvObject</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">NULL</span><span class="p">;</span>
+
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">E_NOINTERFACE</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="n">ULONG</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XNewWindowManager</span><span class="o">::</span><span class="n">AddRef</span><span class="p">()</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">NewWindowManager</span><span class="p">);</span>
+
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">ExternalAddRef</span><span class="p">();</span>
+<span class="p">}</span>
+
+<span class="n">ULONG</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XNewWindowManager</span><span class="o">::</span><span class="n">Release</span><span class="p">()</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">NewWindowManager</span><span class="p">);</span>
+
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">ExternalRelease</span><span class="p">();</span>
+<span class="p">}</span>
+
+<span class="n">HRESULT</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XNewWindowManager</span><span class="o">::</span><span class="n">QueryInterface</span><span class="p">(</span><span class="n">REFIID</span><span class="w"> </span><span class="n">riid</span><span class="p">,</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="o">**</span><span class="w"> </span><span class="n">ppvObj</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">NewWindowManager</span><span class="p">);</span>
+
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">ExternalQueryInterface</span><span class="p">(</span><span class="w"> </span><span class="o">&amp;</span><span class="n">riid</span><span class="p">,</span><span class="w"> </span><span class="n">ppvObj</span><span class="w"> </span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="n">HRESULT</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XNewWindowManager</span><span class="o">::</span><span class="n">EvaluateNewWindow</span><span class="p">(</span>
+<span class="n">LPCWSTR</span><span class="w"> </span><span class="n">pszUrl</span><span class="p">,</span>
+<span class="n">LPCWSTR</span><span class="w"> </span><span class="n">pszName</span><span class="p">,</span>
+<span class="n">LPCWSTR</span><span class="w"> </span><span class="n">pszUrlContext</span><span class="p">,</span>
+<span class="n">LPCWSTR</span><span class="w"> </span><span class="n">pszFeatures</span><span class="p">,</span>
+<span class="n">BOOL</span><span class="w"> </span><span class="n">fReplace</span><span class="p">,</span>
+<span class="n">DWORD</span><span class="w"> </span><span class="n">dwFlags</span><span class="p">,</span>
+<span class="n">DWORD</span><span class="w"> </span><span class="n">dwUserActionTime</span>
+<span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">NewWindowManager</span><span class="p">);</span>
+
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">m_pView</span><span class="o">-&gt;</span><span class="n">EvaluateNewWindow</span><span class="p">(</span>
+<span class="w">        </span><span class="n">pszUrl</span><span class="p">,</span>
+<span class="w">        </span><span class="n">pszName</span><span class="p">,</span>
+<span class="w">        </span><span class="n">pszUrlContext</span><span class="p">,</span>
+<span class="w">        </span><span class="n">pszFeatures</span><span class="p">,</span>
+<span class="w">        </span><span class="n">fReplace</span><span class="p">,</span>
+<span class="w">        </span><span class="n">dwFlags</span><span class="p">,</span>
+<span class="w">        </span><span class="n">dwUserActionTime</span><span class="p">);</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>Actually, I can implementation INewWindowManager in another class and return another object in QueryService, but since INewWindowManager is used exclusively for web browser customization, this INewWindowManager implementation is not going to be reusable anyway.</p>
+<p>Finally, to make CHtmlView’s IDocHostUIHandler implementation happy, I have to redirect IDocHostUIHandler method calls to it:</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="n">DECLARE_INTERFACE_MAP</span><span class="p">()</span>
+<span class="w">    </span><span class="n">BEGIN_INTERFACE_PART</span><span class="p">(</span><span class="n">DocHostUIHandler</span><span class="p">,</span><span class="w"> </span><span class="n">IDocHostUIHandler</span><span class="p">)</span>
+<span class="w">        </span><span class="n">STDMETHOD</span><span class="p">(</span><span class="n">ShowContextMenu</span><span class="p">)(</span><span class="n">DWORD</span><span class="p">,</span><span class="w"> </span><span class="n">LPPOINT</span><span class="p">,</span><span class="w"> </span><span class="n">LPUNKNOWN</span><span class="p">,</span><span class="w"> </span><span class="n">LPDISPATCH</span><span class="p">);</span>
+<span class="w">        </span><span class="n">STDMETHOD</span><span class="p">(</span><span class="n">GetHostInfo</span><span class="p">)(</span><span class="n">DOCHOSTUIINFO</span><span class="o">*</span><span class="p">);</span>
+<span class="w">        </span><span class="n">STDMETHOD</span><span class="p">(</span><span class="n">ShowUI</span><span class="p">)(</span><span class="n">DWORD</span><span class="p">,</span><span class="w"> </span><span class="n">LPOLEINPLACEACTIVEOBJECT</span><span class="p">,</span>
+<span class="w">            </span><span class="n">LPOLECOMMANDTARGET</span><span class="p">,</span><span class="w"> </span><span class="n">LPOLEINPLACEFRAME</span><span class="p">,</span><span class="w"> </span><span class="n">LPOLEINPLACEUIWINDOW</span><span class="p">);</span>
+<span class="w">        </span><span class="n">STDMETHOD</span><span class="p">(</span><span class="n">HideUI</span><span class="p">)(</span><span class="kt">void</span><span class="p">);</span>
+<span class="w">        </span><span class="n">STDMETHOD</span><span class="p">(</span><span class="n">UpdateUI</span><span class="p">)(</span><span class="kt">void</span><span class="p">);</span>
+<span class="w">        </span><span class="n">STDMETHOD</span><span class="p">(</span><span class="n">EnableModeless</span><span class="p">)(</span><span class="n">BOOL</span><span class="p">);</span>
+<span class="w">        </span><span class="n">STDMETHOD</span><span class="p">(</span><span class="n">OnDocWindowActivate</span><span class="p">)(</span><span class="n">BOOL</span><span class="p">);</span>
+<span class="w">        </span><span class="n">STDMETHOD</span><span class="p">(</span><span class="n">OnFrameWindowActivate</span><span class="p">)(</span><span class="n">BOOL</span><span class="p">);</span>
+<span class="w">        </span><span class="n">STDMETHOD</span><span class="p">(</span><span class="n">ResizeBorder</span><span class="p">)(</span><span class="n">LPCRECT</span><span class="p">,</span><span class="w"> </span><span class="n">LPOLEINPLACEUIWINDOW</span><span class="p">,</span><span class="w"> </span><span class="n">BOOL</span><span class="p">);</span>
+<span class="w">        </span><span class="n">STDMETHOD</span><span class="p">(</span><span class="n">TranslateAccelerator</span><span class="p">)(</span><span class="n">LPMSG</span><span class="p">,</span><span class="w"> </span><span class="k">const</span><span class="w"> </span><span class="n">GUID</span><span class="o">*</span><span class="p">,</span><span class="w"> </span><span class="n">DWORD</span><span class="p">);</span>
+<span class="w">        </span><span class="n">STDMETHOD</span><span class="p">(</span><span class="n">GetOptionKeyPath</span><span class="p">)(</span><span class="n">OLECHAR</span><span class="w"> </span><span class="o">**</span><span class="p">,</span><span class="w"> </span><span class="n">DWORD</span><span class="p">);</span>
+<span class="w">        </span><span class="n">STDMETHOD</span><span class="p">(</span><span class="n">GetDropTarget</span><span class="p">)(</span><span class="n">LPDROPTARGET</span><span class="p">,</span><span class="w"> </span><span class="n">LPDROPTARGET</span><span class="o">*</span><span class="p">);</span>
+<span class="w">        </span><span class="n">STDMETHOD</span><span class="p">(</span><span class="n">GetExternal</span><span class="p">)(</span><span class="n">LPDISPATCH</span><span class="o">*</span><span class="p">);</span>
+<span class="w">        </span><span class="n">STDMETHOD</span><span class="p">(</span><span class="n">TranslateUrl</span><span class="p">)(</span><span class="n">DWORD</span><span class="p">,</span><span class="w"> </span><span class="n">OLECHAR</span><span class="o">*</span><span class="p">,</span><span class="w"> </span><span class="n">OLECHAR</span><span class="w"> </span><span class="o">**</span><span class="p">);</span>
+<span class="w">        </span><span class="n">STDMETHOD</span><span class="p">(</span><span class="n">FilterDataObject</span><span class="p">)(</span><span class="n">LPDATAOBJECT</span><span class="w"> </span><span class="p">,</span><span class="w"> </span><span class="n">LPDATAOBJECT</span><span class="o">*</span><span class="p">);</span>
+<span class="w">    </span><span class="n">END_INTERFACE_PART</span><span class="p">(</span><span class="n">DocHostUIHandler</span><span class="p">)</span>
+
+
+
+<span class="n">STDMETHODIMP</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XDocHostUIHandler</span><span class="o">::</span><span class="n">GetExternal</span><span class="p">(</span><span class="n">LPDISPATCH</span><span class="w"> </span><span class="o">*</span><span class="n">lppDispatch</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE_EX_</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">DocHostUIHandler</span><span class="p">)</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">m_pView</span><span class="o">-&gt;</span><span class="n">OnGetExternal</span><span class="p">(</span><span class="n">lppDispatch</span><span class="p">);</span>
+<span class="p">}</span><span class="n">STDMETHODIMP</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XDocHostUIHandler</span><span class="o">::</span><span class="n">ShowContextMenu</span><span class="p">(</span>
+<span class="w">    </span><span class="n">DWORD</span><span class="w"> </span><span class="n">dwID</span><span class="p">,</span><span class="w"> </span><span class="n">LPPOINT</span><span class="w"> </span><span class="n">ppt</span><span class="p">,</span><span class="w"> </span><span class="n">LPUNKNOWN</span><span class="w"> </span><span class="n">pcmdtReserved</span><span class="p">,</span><span class="w"> </span><span class="n">LPDISPATCH</span><span class="w"> </span><span class="n">pdispReserved</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE_EX_</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">DocHostUIHandler</span><span class="p">)</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">m_pView</span><span class="o">-&gt;</span><span class="n">OnShowContextMenu</span><span class="p">(</span><span class="n">dwID</span><span class="p">,</span><span class="w"> </span><span class="n">ppt</span><span class="p">,</span><span class="w"> </span><span class="n">pcmdtReserved</span><span class="p">,</span><span class="w"> </span><span class="n">pdispReserved</span><span class="p">);</span>
+<span class="p">}</span><span class="n">STDMETHODIMP</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XDocHostUIHandler</span><span class="o">::</span><span class="n">GetHostInfo</span><span class="p">(</span>
+<span class="w">    </span><span class="n">DOCHOSTUIINFO</span><span class="w"> </span><span class="o">*</span><span class="n">pInfo</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE_EX_</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">DocHostUIHandler</span><span class="p">)</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">m_pView</span><span class="o">-&gt;</span><span class="n">OnGetHostInfo</span><span class="p">(</span><span class="n">pInfo</span><span class="p">);</span>
+<span class="p">}</span><span class="n">STDMETHODIMP</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XDocHostUIHandler</span><span class="o">::</span><span class="n">ShowUI</span><span class="p">(</span>
+<span class="w">    </span><span class="n">DWORD</span><span class="w"> </span><span class="n">dwID</span><span class="p">,</span><span class="w"> </span><span class="n">LPOLEINPLACEACTIVEOBJECT</span><span class="w"> </span><span class="n">pActiveObject</span><span class="p">,</span>
+<span class="w">    </span><span class="n">LPOLECOMMANDTARGET</span><span class="w"> </span><span class="n">pCommandTarget</span><span class="p">,</span><span class="w"> </span><span class="n">LPOLEINPLACEFRAME</span><span class="w"> </span><span class="n">pFrame</span><span class="p">,</span>
+<span class="w">    </span><span class="n">LPOLEINPLACEUIWINDOW</span><span class="w"> </span><span class="n">pDoc</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE_EX_</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">DocHostUIHandler</span><span class="p">)</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">m_pView</span><span class="o">-&gt;</span><span class="n">OnShowUI</span><span class="p">(</span><span class="n">dwID</span><span class="p">,</span><span class="w"> </span><span class="n">pActiveObject</span><span class="p">,</span><span class="w"> </span><span class="n">pCommandTarget</span><span class="p">,</span><span class="w"> </span><span class="n">pFrame</span><span class="p">,</span><span class="w"> </span><span class="n">pDoc</span><span class="p">);</span>
+<span class="p">}</span><span class="n">STDMETHODIMP</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XDocHostUIHandler</span><span class="o">::</span><span class="n">HideUI</span><span class="p">(</span><span class="kt">void</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE_EX_</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">DocHostUIHandler</span><span class="p">)</span>
+
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">m_pView</span><span class="o">-&gt;</span><span class="n">OnHideUI</span><span class="p">();</span>
+<span class="p">}</span>
+<span class="n">STDMETHODIMP</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XDocHostUIHandler</span><span class="o">::</span><span class="n">EnableModeless</span><span class="p">(</span><span class="n">BOOL</span><span class="w"> </span><span class="n">fEnable</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE_EX_</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">DocHostUIHandler</span><span class="p">)</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">m_pView</span><span class="o">-&gt;</span><span class="n">OnEnableModeless</span><span class="p">(</span><span class="n">fEnable</span><span class="p">);</span>
+<span class="p">}</span><span class="n">STDMETHODIMP</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XDocHostUIHandler</span><span class="o">::</span><span class="n">OnDocWindowActivate</span><span class="p">(</span><span class="n">BOOL</span><span class="w"> </span><span class="n">fActivate</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE_EX_</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">DocHostUIHandler</span><span class="p">)</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">m_pView</span><span class="o">-&gt;</span><span class="n">OnDocWindowActivate</span><span class="p">(</span><span class="n">fActivate</span><span class="p">);</span>
+<span class="p">}</span><span class="n">STDMETHODIMP</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XDocHostUIHandler</span><span class="o">::</span><span class="n">OnFrameWindowActivate</span><span class="p">(</span>
+<span class="w">    </span><span class="n">BOOL</span><span class="w"> </span><span class="n">fActivate</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE_EX_</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">DocHostUIHandler</span><span class="p">)</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">m_pView</span><span class="o">-&gt;</span><span class="n">OnFrameWindowActivate</span><span class="p">(</span><span class="n">fActivate</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="n">STDMETHODIMP</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XDocHostUIHandler</span><span class="o">::</span><span class="n">ResizeBorder</span><span class="p">(</span>
+<span class="w">    </span><span class="n">LPCRECT</span><span class="w"> </span><span class="n">prcBorder</span><span class="p">,</span><span class="w"> </span><span class="n">LPOLEINPLACEUIWINDOW</span><span class="w"> </span><span class="n">pUIWindow</span><span class="p">,</span><span class="w"> </span><span class="n">BOOL</span><span class="w"> </span><span class="n">fFrameWindow</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE_EX_</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">DocHostUIHandler</span><span class="p">)</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">m_pView</span><span class="o">-&gt;</span><span class="n">OnResizeBorder</span><span class="p">(</span><span class="n">prcBorder</span><span class="p">,</span><span class="w"> </span><span class="n">pUIWindow</span><span class="p">,</span><span class="w"> </span><span class="n">fFrameWindow</span><span class="p">);</span>
+<span class="p">}</span>
+<span class="n">STDMETHODIMP</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XDocHostUIHandler</span><span class="o">::</span><span class="n">TranslateAccelerator</span><span class="p">(</span>
+<span class="w">    </span><span class="n">LPMSG</span><span class="w"> </span><span class="n">lpMsg</span><span class="p">,</span><span class="w"> </span><span class="k">const</span><span class="w"> </span><span class="n">GUID</span><span class="o">*</span><span class="w"> </span><span class="n">pguidCmdGroup</span><span class="p">,</span><span class="w"> </span><span class="n">DWORD</span><span class="w"> </span><span class="n">nCmdID</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE_EX_</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">DocHostUIHandler</span><span class="p">)</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">m_pView</span><span class="o">-&gt;</span><span class="n">OnTranslateAccelerator</span><span class="p">(</span><span class="n">lpMsg</span><span class="p">,</span><span class="w"> </span><span class="n">pguidCmdGroup</span><span class="p">,</span><span class="w"> </span><span class="n">nCmdID</span><span class="p">);</span>
+<span class="p">}</span>
+<span class="n">STDMETHODIMP</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XDocHostUIHandler</span><span class="o">::</span><span class="n">GetOptionKeyPath</span><span class="p">(</span>
+<span class="w">    </span><span class="n">LPOLESTR</span><span class="o">*</span><span class="w"> </span><span class="n">pchKey</span><span class="p">,</span><span class="w"> </span><span class="n">DWORD</span><span class="w"> </span><span class="n">dwReserved</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE_EX_</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">DocHostUIHandler</span><span class="p">)</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">m_pView</span><span class="o">-&gt;</span><span class="n">OnGetOptionKeyPath</span><span class="p">(</span><span class="n">pchKey</span><span class="p">,</span><span class="w"> </span><span class="n">dwReserved</span><span class="p">);</span>
+<span class="p">}</span><span class="n">STDMETHODIMP</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XDocHostUIHandler</span><span class="o">::</span><span class="n">GetDropTarget</span><span class="p">(</span>
+<span class="w">    </span><span class="n">LPDROPTARGET</span><span class="w"> </span><span class="n">pDropTarget</span><span class="p">,</span><span class="w"> </span><span class="n">LPDROPTARGET</span><span class="o">*</span><span class="w"> </span><span class="n">ppDropTarget</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE_EX_</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">DocHostUIHandler</span><span class="p">)</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">m_pView</span><span class="o">-&gt;</span><span class="n">OnGetDropTarget</span><span class="p">(</span><span class="n">pDropTarget</span><span class="p">,</span><span class="w"> </span><span class="n">ppDropTarget</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="n">STDMETHODIMP</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XDocHostUIHandler</span><span class="o">::</span><span class="n">TranslateUrl</span><span class="p">(</span>
+<span class="w">    </span><span class="n">DWORD</span><span class="w"> </span><span class="n">dwTranslate</span><span class="p">,</span><span class="w"> </span><span class="n">OLECHAR</span><span class="o">*</span><span class="w"> </span><span class="n">pchURLIn</span><span class="p">,</span><span class="w"> </span><span class="n">OLECHAR</span><span class="o">**</span><span class="w"> </span><span class="n">ppchURLOut</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE_EX_</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">DocHostUIHandler</span><span class="p">)</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">m_pView</span><span class="o">-&gt;</span><span class="n">OnTranslateUrl</span><span class="p">(</span><span class="n">dwTranslate</span><span class="p">,</span><span class="w"> </span><span class="n">pchURLIn</span><span class="p">,</span><span class="w"> </span><span class="n">ppchURLOut</span><span class="p">);</span>
+<span class="p">}</span><span class="n">STDMETHODIMP</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XDocHostUIHandler</span><span class="o">::</span><span class="n">FilterDataObject</span><span class="p">(</span>
+<span class="w">    </span><span class="n">LPDATAOBJECT</span><span class="w"> </span><span class="n">pDataObject</span><span class="p">,</span><span class="w"> </span><span class="n">LPDATAOBJECT</span><span class="o">*</span><span class="w"> </span><span class="n">ppDataObject</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE_EX_</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">DocHostUIHandler</span><span class="p">)</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">m_pView</span><span class="o">-&gt;</span><span class="n">OnFilterDataObject</span><span class="p">(</span><span class="n">pDataObject</span><span class="p">,</span><span class="w"> </span><span class="n">ppDataObject</span><span class="p">);</span>
+<span class="p">}</span>
+<span class="n">STDMETHODIMP_</span><span class="p">(</span><span class="n">ULONG</span><span class="p">)</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XDocHostUIHandler</span><span class="o">::</span><span class="n">AddRef</span><span class="p">()</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE_EX_</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">DocHostUIHandler</span><span class="p">)</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">ExternalAddRef</span><span class="p">();</span>
+<span class="p">}</span>
+<span class="n">STDMETHODIMP_</span><span class="p">(</span><span class="n">ULONG</span><span class="p">)</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XDocHostUIHandler</span><span class="o">::</span><span class="n">Release</span><span class="p">()</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE_EX_</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">DocHostUIHandler</span><span class="p">)</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">ExternalRelease</span><span class="p">();</span>
+<span class="p">}</span>
+
+<span class="n">STDMETHODIMP</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XDocHostUIHandler</span><span class="o">::</span><span class="n">QueryInterface</span><span class="p">(</span>
+<span class="w">        </span><span class="n">REFIID</span><span class="w"> </span><span class="n">iid</span><span class="p">,</span><span class="w"> </span><span class="n">LPVOID</span><span class="w"> </span><span class="n">far</span><span class="o">*</span><span class="w"> </span><span class="n">ppvObj</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE_EX_</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">DocHostUIHandler</span><span class="p">)</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">ExternalQueryInterface</span><span class="p">(</span><span class="o">&amp;</span><span class="n">iid</span><span class="p">,</span><span class="w"> </span><span class="n">ppvObj</span><span class="p">);</span>
+<span class="p">}</span><span class="n">STDMETHODIMP</span><span class="w"> </span><span class="n">CExtendedHtmlControlSite</span><span class="o">::</span><span class="n">XDocHostUIHandler</span><span class="o">::</span><span class="n">UpdateUI</span><span class="p">(</span><span class="kt">void</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">METHOD_PROLOGUE_EX_</span><span class="p">(</span><span class="n">CExtendedHtmlControlSite</span><span class="p">,</span><span class="w"> </span><span class="n">DocHostUIHandler</span><span class="p">)</span>
+
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">pThis</span><span class="o">-&gt;</span><span class="n">m_pView</span><span class="o">-&gt;</span><span class="n">OnUpdateUI</span><span class="p">();</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>That’s it, you can handle ShowModalDialog now</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="n">HRESULT</span><span class="w"> </span><span class="nf">CHtmlViewTestView::EvaluateNewWindow</span><span class="p">(</span>
+<span class="w">    </span><span class="n">LPCWSTR</span><span class="w"> </span><span class="n">pszUrl</span><span class="p">,</span>
+<span class="w">    </span><span class="n">LPCWSTR</span><span class="w"> </span><span class="n">pszName</span><span class="p">,</span>
+<span class="w">    </span><span class="n">LPCWSTR</span><span class="w"> </span><span class="n">pszUrlContext</span><span class="p">,</span>
+<span class="w">    </span><span class="n">LPCWSTR</span><span class="w"> </span><span class="n">pszFeatures</span><span class="p">,</span>
+<span class="w">    </span><span class="n">BOOL</span><span class="w"> </span><span class="n">fReplace</span><span class="p">,</span>
+<span class="w">    </span><span class="n">DWORD</span><span class="w"> </span><span class="n">dwFlags</span><span class="p">,</span>
+<span class="w">    </span><span class="n">DWORD</span><span class="w"> </span><span class="n">dwUserActionTime</span>
+<span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">CString</span><span class="w"> </span><span class="n">url</span><span class="p">(</span><span class="n">pszUrl</span><span class="p">);</span>
+<span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">url</span><span class="p">.</span><span class="n">MakeLower</span><span class="p">().</span><span class="n">Find</span><span class="p">(</span><span class="n">_T</span><span class="p">(</span><span class="s">&quot;showdialogtest.htm&quot;</span><span class="p">))</span><span class="o">!=</span><span class="mi">-1</span><span class="p">)</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">S_FALSE</span><span class="p">;</span><span class="c1">//block the new window</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">E_FAIL</span><span class="p">;</span><span class="c1">//default</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>Well, here you can add as many policies as you like , people can never be creative enough on making policies.</p>
+<p>This should be enough for adding your web browser customization. If you want to add more interfaces, such as IDocHostUIHandler2, IInternetSecurityManager, IDocHostShowUI, IOleCommandTarget or IAuthenticate, to of the customized control site, simply add more interface parts and answer QueryService calls if necessary.</p>
+</section>
+
+
+                </article>
+              
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="index.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">2007 Blogs</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="../../grandma/index.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Grandma’s handbook</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../../_sources/blogs/2007/newWindow3_showModalDialog_chtmlview.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script defer src="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item">
+
+  <p class="copyright">
+    
+      © Copyright 2018-, Sheng Jiang.
+      <br/>
+    
+  </p>
+</div>
+      
+        <div class="footer-item">
+
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 8.2.3.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item">
+<p class="theme-version">
+  <!-- # L10n: Setting the PST URL as an argument as this does not need to be localized -->
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.16.1.
+</p></div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>

@@ -4,11 +4,11 @@ Windows Update KB2538242 or KB2538243 offered repeatedly
 
 .. index:: Windows Update KB2538243
 
-Recently (this post was originally published in 2011) there is an outburst of posts related to the `KB2538242 update<https://support.microsoft.com/en-us/topic/ms11-025-description-of-the-security-update-for-visual-c-2005-sp1-redistributable-package-june-14-2011-ef98bf3e-5f8e-4b30-2951-1cd8219892b5`_ being offered repeatedly on MSDN’s Visual C++ forums, TechNet’s various Windows security forums and the Windows Update forum on Microsoft Answers forums. Questions about KB2538243 appear as well, but to a less degree.
+Recently (this post was originally published in 2011) there is an outburst of posts related to the `KB2538242 update <https://support.microsoft.com/en-us/topic/ms11-025-description-of-the-security-update-for-visual-c-2005-sp1-redistributable-package-june-14-2011-ef98bf3e-5f8e-4b30-2951-1cd8219892b5>`_ being offered repeatedly on MSDN’s Visual C++ forums, TechNet’s various Windows security forums and the Windows Update forum on Microsoft Answers forums. Questions about KB2538243 appear as well, but to a less degree.
 
 To save your time going to the forums or calling Microsoft’s free security hotline, this is my answer:
 
-KB2538242 (maybe KB2538243 as well, but I did not find an official response from Microsoft) is defective and will be replaced. In the mean time, you can `hide it <https://learn.microsoft.com/en-us/previous-versions/technet-magazine/ff382716(v=msdn.10)?redirectedfrom=MSDN`_ and unhide after the fix is released (probably in a week or so), or manually download the updates from Microsoft’s download center.
+KB2538242 (maybe KB2538243 as well, but I did not find an official response from Microsoft) is defective and will be replaced. In the mean time, you can `pause it <https://learn.microsoft.com/en-us/previous-versions/technet-magazine/ff382716(v=msdn.10)?redirectedfrom=MSDN>`_ and resume after the fix is released (probably in a week or so), or manually download the updates from Microsoft’s download center.
 
 Background:
 
@@ -16,7 +16,7 @@ This update is offered when Microsoft Visual C++ Redistributable is installed al
 
 Speculation
 
-From reading the reports on Microsoft Answer’s Windows Update forum, Windows Update correctly detects the x64 edition of Visual C++ Redistributable needs to be updated, but downloads the x86 edition to install. Some Windows x64 edition users reports the problem goes away by manually download the x64 edition to install, probably inspired by an `old walkaround for a similair issue with KB2467175 <https://answers.microsoft.com/en-us/windows/forum/all/repeatedly-offered-kb2467175-microsoft-visual/aca03e2b-4566-e011-8dfc-68b599b31bf5>`_.
+From reading the reports on Microsoft Answer’s Windows Update forum, Windows Update correctly detects the x64 edition of Visual C++ Redistributable needs to be updated, but downloads the x86 edition to install. Some Windows x64 edition users reports the problem goes away by manually download the x64 edition to install, probably inspired by an `old workaround for a similar issue with KB2467175 <https://answers.microsoft.com/en-us/windows/forum/all/repeatedly-offered-kb2467175-microsoft-visual/aca03e2b-4566-e011-8dfc-68b599b31bf5>`_.
 
 Advertisement
 
@@ -26,4 +26,4 @@ A Microsoft tech support is quoted as saying (“Visual C++ packages were writte
 
 See also
 
-`How to troubleshoot Windows Update or Microsoft Update when you are repeatedly offered an update. <https://learn.microsoft.com/en-us/troubleshoot/windows-client/installing-updates-features-roles/repeatedly-offer-the-same-update`_
+`How to troubleshoot Windows Update or Microsoft Update when you are repeatedly offered an update. <https://learn.microsoft.com/en-us/troubleshoot/windows-client/installing-updates-features-roles/repeatedly-offer-the-same-update>`_

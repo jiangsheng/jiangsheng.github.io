@@ -30,7 +30,7 @@
   <link href="../../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 <link href="../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 
-    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=03e43079" />
     <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css?v=906dce5e" />
   
   <!-- So that users can add custom icons -->
@@ -48,7 +48,7 @@
     <link rel="canonical" href="https://git.jiangsheng.net/build/html/blogs/2017/strong_name_signature_not_valid_for_assembly_clickonce.html" />
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
-    <link rel="next" title="2011 Blogs" href="../2011/index.html" />
+    <link rel="next" title="2013 Blogs" href="../2013/index.html" />
     <link rel="prev" title="2017 Blogs" href="index.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="zh-CN"/>
@@ -280,9 +280,9 @@
 <li class="toctree-l2"><a class="reference internal" href="../2021/index.html"> 2021</a></li>
 <li class="toctree-l2 current"><a class="reference internal" href="index.html"> 2017</a><ul class="current">
 <li class="toctree-l3 current"><a class="current reference internal" href="#"> “Strong name signature not valid for assembly” (ClickOnce)</a></li>
-<li class="toctree-l3"><a class="reference internal" href="index.html#indices-and-tables">Indices and tables</a></li>
 </ul>
 </li>
+<li class="toctree-l2"><a class="reference internal" href="../2013/index.html"> 2013</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2011/index.html"> 2011</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../index.html#indices-and-tables">Indices and tables</a></li>
 </ul>
@@ -300,8 +300,8 @@
   </div>
   <div>
     <h4>Next topic</h4>
-    <p class="topless"><a href="../2011/index.html"
-                          title="next chapter">2011 Blogs</a></p>
+    <p class="topless"><a href="../2013/index.html"
+                          title="next chapter">2013 Blogs</a></p>
   </div></div>
         <div class="sidebar-primary-item">
 <div id="searchbox"></div></div>
@@ -310,9 +310,9 @@
   <ul class="this-page-menu">
     <li><a href="../../_sources/blogs/2017/strong_name_signature_not_valid_for_assembly_clickonce.rst.txt"
            rel="nofollow">Show Source</a></li>
-    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/blogs/2017/strong_name_signature_not_valid_for_assembly_clickonce.rst"
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/blogs\2017\strong_name_signature_not_valid_for_assembly_clickonce.rst"
            rel="nofollow">Show on GitHub</a></li>
-    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/blogs/2017/strong_name_signature_not_valid_for_assembly_clickonce.rst"
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/blogs\2017\strong_name_signature_not_valid_for_assembly_clickonce.rst"
            rel="nofollow">Edit on GitHub</a></li>
   </ul>
   <h3>Social Media Links</h3>
@@ -395,7 +395,7 @@ Copyright (c) Microsoft Corporation. All rights reserved.</p>
 <li><p>sn-vr to remove the file from strong name signature validation</p></li>
 </ul>
 <p>Because the dll is referenced by too many other third party assemblies it is kinda time consuming to modify all of them. And I don’t really have the permission to run anything else but my ClickOnce app on client machines so changing client side strong validation name policy is out too. I continued with the second route.</p>
-<p>First thing I tried was renaming the file. After all, ClickOnce did not complain my database file’s strong name signature right? So I went ahead and <a href="#id1"><span class="problematic" id="id2">`set the reference’s CopyLocal property to false &lt;https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/t1zz5y8c(v=vs.100)?redirectedfrom=MSDN`_</span></a>, excluded the file from <a href="#id3"><span class="problematic" id="id4">`application files &lt;https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2015/deployment/how-to-specify-which-files-are-published-by-clickonce?view=vs-2015&amp;redirectedfrom=MSDN`_</span></a>, and added a copy of the dll under the name of dllname.dll1 to the project.  With the BuildAction property set to content this would add the dll1 file as a data file.  At the run time I used the <a href="#id5"><span class="problematic" id="id6">`AssemblyResolve event &lt;https://learn.microsoft.com/en-us/dotnet/api/system.appdomain.assemblyresolve?view=net-9.0&amp;redirectedfrom=MSDN`_</span></a> to load the dll1 file as an assembly when the dll is requested. Debugged the AssemblyResolve code so the program ran without a dllname.dll file in the application directory. Now publish it as a ClickOnce Application and wait…</p>
+<p>First thing I tried was renaming the file. After all, ClickOnce did not complain my database file’s strong name signature right? So I went ahead and <a class="reference external" href="https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/t1zz5y8c(v=vs.100)?redirectedfrom=MSDN">set the reference’s CopyLocal property to false</a>, excluded the file from <a class="reference external" href="https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2015/deployment/how-to-specify-which-files-are-published-by-clickonce?view=vs-2015&amp;redirectedfrom=MSDN">application files</a>, and added a copy of the dll under the name of dllname.dll1 to the project.  With the BuildAction property set to content this would add the dll1 file as a data file.  At the run time I used the <a class="reference external" href="https://learn.microsoft.com/en-us/dotnet/api/system.appdomain.assemblyresolve?view=net-9.0&amp;redirectedfrom=MSDN">AssemblyResolve event</a> to load the dll1 file as an assembly when the dll is requested. Debugged the AssemblyResolve code so the program ran without a dllname.dll file in the application directory. Now publish it as a ClickOnce Application and wait…</p>
 <p>And ClickOnce launcher reported the same error! So ClickOnce validates strong name for data files as long as it has one, regardless of the file extension. Maybe I need to hide the strong name somehow. A natural wrapper would be a zip file, I can unzipping the file for use during AssemblyResolve. Unzipping during AssemblyResolve did not really work, the dll loading failed when I called SharpZipLib to extract the zip file. So this looked like a catch 22 – AssemblyResolve fails when loading another dll and I need another dll to unzip the file (or I have to ilmerge the code to my main executable, another thing I don’t want to do).</p>
 <p>Advertisement</p>
 <p>So AssemblyResolve is out of question. I have to unzip the dependency files before use. A natural time to do this is the beginning of Program.Main. And ClickOnce has no problem with my zip file approach now.</p>
@@ -422,11 +422,11 @@ Copyright (c) Microsoft Corporation. All rights reserved.</p>
       </div>
     </a>
     <a class="right-next"
-       href="../2011/index.html"
+       href="../2013/index.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">2011 Blogs</p>
+        <p class="prev-next-title">2013 Blogs</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>

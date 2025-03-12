@@ -30,7 +30,7 @@
   <link href="../../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 <link href="../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 
-    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=03e43079" />
     <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css?v=906dce5e" />
   
   <!-- So that users can add custom icons -->
@@ -279,10 +279,10 @@
 <li class="toctree-l2"><a class="reference internal" href="../2022/index.html"> 2022</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2021/index.html"> 2021</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2017/index.html"> 2017</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2013/index.html"> 2013</a></li>
 <li class="toctree-l2 current"><a class="reference internal" href="index.html"> 2011</a><ul class="current">
 <li class="toctree-l3"><a class="reference internal" href="breaking_change_ado_KB983246_windows_7_SP1.html"> Breaking change in ADO update KB983246 (included in Windows 7 Service Pack 1)</a></li>
 <li class="toctree-l3 current"><a class="current reference internal" href="#"> Windows Update KB2538242 or KB2538243 offered repeatedly</a></li>
-<li class="toctree-l3"><a class="reference internal" href="index.html#indices-and-tables">Indices and tables</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../index.html#indices-and-tables">Indices and tables</a></li>
@@ -311,9 +311,9 @@
   <ul class="this-page-menu">
     <li><a href="../../_sources/blogs/2011/windows_update_kb2538242_kb2538243_offered_repeatedly.rst.txt"
            rel="nofollow">Show Source</a></li>
-    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/blogs/2011/windows_update_kb2538242_kb2538243_offered_repeatedly.rst"
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/blogs\2011\windows_update_kb2538242_kb2538243_offered_repeatedly.rst"
            rel="nofollow">Show on GitHub</a></li>
-    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/blogs/2011/windows_update_kb2538242_kb2538243_offered_repeatedly.rst"
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/blogs\2011\windows_update_kb2538242_kb2538243_offered_repeatedly.rst"
            rel="nofollow">Edit on GitHub</a></li>
   </ul>
   <h3>Social Media Links</h3>
@@ -384,18 +384,18 @@
                   
   <section id="windows-update-kb2538242-or-kb2538243-offered-repeatedly">
 <h1>Windows Update KB2538242 or KB2538243 offered repeatedly<a class="headerlink" href="#windows-update-kb2538242-or-kb2538243-offered-repeatedly" title="Link to this heading">#</a></h1>
-<p id="index-1"><span id="index-0"></span>Recently (this post was originally published in 2011) there is an outburst of posts related to the <a href="#id1"><span class="problematic" id="id2">`KB2538242 update&lt;https://support.microsoft.com/en-us/topic/ms11-025-description-of-the-security-update-for-visual-c-2005-sp1-redistributable-package-june-14-2011-ef98bf3e-5f8e-4b30-2951-1cd8219892b5`_</span></a> being offered repeatedly on MSDN’s Visual C++ forums, TechNet’s various Windows security forums and the Windows Update forum on Microsoft Answers forums. Questions about KB2538243 appear as well, but to a less degree.</p>
+<p id="index-1"><span id="index-0"></span>Recently (this post was originally published in 2011) there is an outburst of posts related to the <a class="reference external" href="https://support.microsoft.com/en-us/topic/ms11-025-description-of-the-security-update-for-visual-c-2005-sp1-redistributable-package-june-14-2011-ef98bf3e-5f8e-4b30-2951-1cd8219892b5">KB2538242 update</a> being offered repeatedly on MSDN’s Visual C++ forums, TechNet’s various Windows security forums and the Windows Update forum on Microsoft Answers forums. Questions about KB2538243 appear as well, but to a less degree.</p>
 <p>To save your time going to the forums or calling Microsoft’s free security hotline, this is my answer:</p>
-<p>KB2538242 (maybe KB2538243 as well, but I did not find an official response from Microsoft) is defective and will be replaced. In the mean time, you can <a href="#id3"><span class="problematic" id="id4">`hide it &lt;https://learn.microsoft.com/en-us/previous-versions/technet-magazine/ff382716(v=msdn.10)?redirectedfrom=MSDN`_</span></a> and unhide after the fix is released (probably in a week or so), or manually download the updates from Microsoft’s download center.</p>
+<p>KB2538242 (maybe KB2538243 as well, but I did not find an official response from Microsoft) is defective and will be replaced. In the mean time, you can <a class="reference external" href="https://learn.microsoft.com/en-us/previous-versions/technet-magazine/ff382716(v=msdn.10)?redirectedfrom=MSDN">pause it</a> and resume after the fix is released (probably in a week or so), or manually download the updates from Microsoft’s download center.</p>
 <p>Background:</p>
 <p>This update is offered when Microsoft Visual C++ Redistributable is installed along with one of the apps created using a Microsoft software developer tool called Visual C++. To make those app more secure, Microsoft offers security update for the customers of its customers of developer tools. You may not have those components installed, if you did not install one of these apps that ship with Visual C++ components. On a 64bit computer, the system could have both x86 and x64 editions of Visual C++ Redistributable installed, since Visual C++ is a common used component, and it is normal to have 32bit apps and 64bit apps installed on a 64bit system.</p>
 <p>Speculation</p>
-<p>From reading the reports on Microsoft Answer’s Windows Update forum, Windows Update correctly detects the x64 edition of Visual C++ Redistributable needs to be updated, but downloads the x86 edition to install. Some Windows x64 edition users reports the problem goes away by manually download the x64 edition to install, probably inspired by an <a class="reference external" href="https://answers.microsoft.com/en-us/windows/forum/all/repeatedly-offered-kb2467175-microsoft-visual/aca03e2b-4566-e011-8dfc-68b599b31bf5">old walkaround for a similair issue with KB2467175</a>.</p>
+<p>From reading the reports on Microsoft Answer’s Windows Update forum, Windows Update correctly detects the x64 edition of Visual C++ Redistributable needs to be updated, but downloads the x86 edition to install. Some Windows x64 edition users reports the problem goes away by manually download the x64 edition to install, probably inspired by an <a class="reference external" href="https://answers.microsoft.com/en-us/windows/forum/all/repeatedly-offered-kb2467175-microsoft-visual/aca03e2b-4566-e011-8dfc-68b599b31bf5">old workaround for a similar issue with KB2467175</a>.</p>
 <p>Advertisement</p>
 <p>Based on the number of error reports and those “me too” comments, Visual C++ 2005 programs probably have a customer base 9 times larger than Visual C++ 2008. Looks like either those Visual C++ programmers are slow to update their tools, or the customers of those programmers are slow to update their apps.</p>
 <p>A Microsoft tech support is quoted as saying (“Visual C++ packages were written by a <a class="reference external" href="https://answers.microsoft.com/en-us/windows/forum/all/kb2538242-visual-c-redistributable-update-on-june/ba0b6202-c775-4d64-9fd2-21adc49f6e73?page=4">‘third party’</a>. ” Who wrote these update packages? Microsoft’s Visual C++ team should not be called like this. To Windows users, Microsoft is a single entity.</p>
 <p>See also</p>
-<p><a href="#id5"><span class="problematic" id="id6">`How to troubleshoot Windows Update or Microsoft Update when you are repeatedly offered an update. &lt;https://learn.microsoft.com/en-us/troubleshoot/windows-client/installing-updates-features-roles/repeatedly-offer-the-same-update`_</span></a></p>
+<p><a class="reference external" href="https://learn.microsoft.com/en-us/troubleshoot/windows-client/installing-updates-features-roles/repeatedly-offer-the-same-update">How to troubleshoot Windows Update or Microsoft Update when you are repeatedly offered an update.</a></p>
 </section>
 
 
