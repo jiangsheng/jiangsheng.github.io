@@ -195,7 +195,7 @@ Now it is the fun part. The web browser control does not actually query the INew
 
 Actually, I can implementation INewWindowManager in another class and return another object in QueryService, but since INewWindowManager is used exclusively for web browser customization, this INewWindowManager implementation is not going to be reusable anyway.
 
-Finally, to make CHtmlView’s IDocHostUIHandler implementation happy, I have to redirect IDocHostUIHandler method calls to it:
+Finally, to make CHtmlView's IDocHostUIHandler implementation happy, I have to redirect IDocHostUIHandler method calls to it:
 
 .. code-block:: C++
         
@@ -343,7 +343,7 @@ That's it, you can handle ShowModalDialog now
         }
         return E_FAIL;//default
     }
-    
+
 
 Well, here you can add as many policies as you like , people can never be creative enough on making policies.
 
