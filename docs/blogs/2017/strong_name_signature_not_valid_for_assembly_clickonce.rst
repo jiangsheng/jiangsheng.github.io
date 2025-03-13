@@ -23,8 +23,6 @@ First thing I tried was renaming the file. After all, ClickOnce did not complain
 
 And ClickOnce launcher reported the same error! So ClickOnce validates strong name for data files as long as it has one, regardless of the file extension. Maybe I need to hide the strong name somehow. A natural wrapper would be a zip file, I can unzipping the file for use during AssemblyResolve. Unzipping during AssemblyResolve did not really work, the dll loading failed when I called SharpZipLib to extract the zip file. So this looked like a catch 22 – AssemblyResolve fails when loading another dll and I need another dll to unzip the file (or I have to ilmerge the code to my main executable, another thing I don’t want to do).
 
-Advertisement
-
 So AssemblyResolve is out of question. I have to unzip the dependency files before use. A natural time to do this is the beginning of Program.Main. And ClickOnce has no problem with my zip file approach now.
 
 Since I got this zip mechanism in place what I can do more about it? Maybe putting other files that I do not really update in the file like my UI framework library or Microsoft Enterprise Library? But then I get dll not found exception before Main is executed. Maybe I need to move the extraction even earlier. What gets executed before Main? Static constructors! After moving the extracting code to a static constructor, I now suddenly cut my download size from 100mb to 30mb, a nice bonus indeed.

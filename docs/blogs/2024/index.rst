@@ -1,7 +1,7 @@
-.. _blogs_2007:
+.. _blogs_2024:
 
 ======================================
-2007 Blogs
+2024 Blogs
 ======================================
 
 .. toctree::
@@ -9,9 +9,8 @@
    :caption: 内容:
    :titlesonly:
    
-    AutoComplete with DataSource <autocomplete_customization_winforms>
-    Handle NewWindow3 and ShowModalDialog in CHtmlView <newWindow3_showModalDialog_chtmlview>
-
+   SGEN error An attempt was made to load an assembly with an incorrect format<sgen_assembly_incorrect_format>
+   
 Indices and tables
 
 * :ref:`genindex`

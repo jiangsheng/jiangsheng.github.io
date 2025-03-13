@@ -10,6 +10,8 @@
    :titlesonly:
     
     微软拼音卡顿的问题<microsoft_pinyin_lagging_problem>
+    Web server hijacker HttpResetModule.dll <web_server_hijacker_httpResetModule>
+    Converting generic OopFactory.X12 structures to typed counterparts<typed_oopfactory_x12_835>
 
 Indices and tables
 
