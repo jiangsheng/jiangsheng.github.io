@@ -238,7 +238,7 @@ todo_include_todos = True
 # google analytics
 googleanalytics_id = 'UA-30166843-2'
 
-sitemap_locales = ['en', 'zh-CN']
+sitemap_locales = ['zh-CN']
 sitemap_url_scheme = "{version}{link}"
 def setup(app):
     app.add_css_file('css/custom.css')
