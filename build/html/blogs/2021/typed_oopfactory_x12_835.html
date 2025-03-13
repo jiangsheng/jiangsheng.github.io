@@ -1,0 +1,572 @@
+
+<!DOCTYPE html>
+
+
+<html lang="zh-CN" data-content_root="../../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Converting generic OopFactory.X12 structures to typed counterparts &#8212; jiangsheng 1 documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css?v=906dce5e" />
+  
+  <!-- So that users can add custom icons -->
+  <script src="../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+
+    <script src="../../_static/documentation_options.js?v=78b98999"></script>
+    <script src="../../_static/doctools.js?v=9bcbadda"></script>
+    <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <script src="../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'blogs/2021/typed_oopfactory_x12_835';</script>
+    <link rel="canonical" href="https://git.jiangsheng.net/build/html/blogs/2021/typed_oopfactory_x12_835.html" />
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="2017 Blogs" href="../2017/index.html" />
+    <link rel="prev" title="New web server hijacker HttpResetModule.dll" href="web_server_hijacker_httpResetModule.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="zh-CN"/>
+  <meta name="docsearch:version" content="" />
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-3 navbar-header-items__start">
+    
+      <div class="navbar-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../../reference.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">jiangsheng 1 documentation</p>
+  
+</a></div>
+    
+  </div>
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../games/index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          
+          
+            <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../games/index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+          
+        
+      </div>
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+<h3><a href="../../reference.html">Table of Contents</a></h3>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">内容:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../README.html">Welcome to jiangsheng’s documentation!</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../README.html#indices-and-tables">Indices and tables</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../games/index.html">Games</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Blogs</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../2024/index.html"> 2024</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2022/index.html"> 2022</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="index.html"> 2021</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="microsoft_pinyin_lagging_problem.html"> 微软拼音卡顿的问题</a></li>
+<li class="toctree-l3"><a class="reference internal" href="web_server_hijacker_httpResetModule.html"> Web server hijacker HttpResetModule.dll</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#"> Converting generic OopFactory.X12 structures to typed counterparts</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../2017/index.html"> 2017</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2013/index.html"> 2013</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2011/index.html"> 2011</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2007/index.html"> 2007</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../index.html#indices-and-tables">Indices and tables</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../grandma/index.html">Grandma's handbook</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../index.html">Welcome to jiangsheng’s documentation!</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../index.html#indices-and-tables">Indices and tables</a></li>
+</ul>
+</div>
+        <div class="sidebar-primary-item">
+  <div>
+    <h4>Previous topic</h4>
+    <p class="topless"><a href="web_server_hijacker_httpResetModule.html"
+                          title="previous chapter">New web server hijacker HttpResetModule.dll</a></p>
+  </div>
+  <div>
+    <h4>Next topic</h4>
+    <p class="topless"><a href="../2017/index.html"
+                          title="next chapter">2017 Blogs</a></p>
+  </div></div>
+        <div class="sidebar-primary-item">
+<div id="searchbox"></div></div>
+        <div class="sidebar-primary-item">
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="../../_sources/blogs/2021/typed_oopfactory_x12_835.rst.txt"
+           rel="nofollow">Show Source</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/blogs\2021\typed_oopfactory_x12_835.rst"
+           rel="nofollow">Show on GitHub</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/blogs\2021\typed_oopfactory_x12_835.rst"
+           rel="nofollow">Edit on GitHub</a></li>
+  </ul>
+  <h3>Social Media Links</h3>
+  <ul>
+    <li>twitter (archived): #jiangsheng </li>
+    <li>bluesky: <a href="https://bsky.app/profile/sheng-jiang.bsky.social"> sheng-jiang.bsky.social</a></li>
+    <li>stackoverflow: <a href="https://stackoverflow.com/users/109919/sheng-jiang-%e8%92%8b%e6%99%9f">Sheng Jiang 蒋晟</a></li>
+  </ul></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="../../reference.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    
+    <li class="breadcrumb-item"><a href="../index.html" class="nav-link">Blogs</a></li>
+    
+    
+    <li class="breadcrumb-item"><a href="index.html" class="nav-link">2021 Blogs</a></li>
+    
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">Converting generic OopFactory.X12 structures to typed counterparts</span></li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="converting-generic-oopfactory-x12-structures-to-typed-counterparts">
+<h1>Converting generic OopFactory.X12 structures to typed counterparts<a class="headerlink" href="#converting-generic-oopfactory-x12-structures-to-typed-counterparts" title="Link to this heading">#</a></h1>
+<p id="index-0">OopFactory.X12 can parse EDI messages into segments and loops. However despite typed segments and loops exist, the parser does not generate them in the object model.  The unit test only use them when generating EDI messages.</p>
+<p>The typed segments and loops are aggregative objects that do not contain their own data members besides the contained untyped objects. Which means if I replace the contained object with the generic one from the parser via .Net reflection, then I can access the object model in a typed way. So I created this in a static class</p>
+<div class="highlight-C# notranslate"><div class="highlight"><pre><span></span><span class="k">public</span><span class="w"> </span><span class="k">static</span><span class="w"> </span><span class="k">void</span><span class="w"> </span><span class="nf">SetFieldValue</span><span class="p">(</span><span class="k">this</span><span class="w"> </span><span class="kt">object</span><span class="w"> </span><span class="n">obj</span><span class="p">,</span><span class="w"> </span><span class="kt">string</span><span class="w"> </span><span class="n">name</span><span class="p">,</span><span class="w"> </span><span class="kt">object</span><span class="w"> </span><span class="k">value</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">            </span><span class="c1">// Set the flags so that private and public fields from instances will be found</span>
+<span class="w">            </span><span class="kt">var</span><span class="w"> </span><span class="n">bindingFlags</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">BindingFlags</span><span class="p">.</span><span class="n">Public</span><span class="w"> </span><span class="o">|</span><span class="w"> </span><span class="n">BindingFlags</span><span class="p">.</span><span class="n">NonPublic</span><span class="w"> </span><span class="o">|</span><span class="w"> </span><span class="n">BindingFlags</span><span class="p">.</span><span class="n">Instance</span><span class="p">;</span>
+<span class="w">            </span><span class="kt">var</span><span class="w"> </span><span class="n">field</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">obj</span><span class="p">.</span><span class="n">GetType</span><span class="p">().</span><span class="n">GetField</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="w"> </span><span class="n">bindingFlags</span><span class="p">);</span>
+<span class="w">            </span><span class="n">field</span><span class="p">.</span><span class="n">SetValue</span><span class="p">(</span><span class="n">obj</span><span class="p">,</span><span class="w"> </span><span class="k">value</span><span class="p">);</span>
+<span class="p">}</span>
+<span class="k">public</span><span class="w"> </span><span class="k">static</span><span class="w"> </span><span class="n">T</span><span class="w"> </span><span class="n">AsTypedSegment</span><span class="o">&lt;</span><span class="n">T</span><span class="o">&gt;</span><span class="p">(</span><span class="k">this</span><span class="w"> </span><span class="n">OopFactory</span><span class="p">.</span><span class="n">X12</span><span class="p">.</span><span class="n">Parsing</span><span class="p">.</span><span class="n">Model</span><span class="p">.</span><span class="n">Segment</span><span class="w"> </span><span class="n">segment</span><span class="p">)</span>
+<span class="w">            </span><span class="k">where</span><span class="w"> </span><span class="n">T</span><span class="p">:</span><span class="w"> </span><span class="n">OopFactory</span><span class="p">.</span><span class="n">X12</span><span class="p">.</span><span class="n">Parsing</span><span class="p">.</span><span class="n">Model</span><span class="p">.</span><span class="n">TypedSegment</span><span class="p">,</span><span class="k">new</span><span class="p">()</span>
+
+<span class="p">{</span>
+<span class="w">            </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">segment</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="k">null</span><span class="p">)</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="k">null</span><span class="p">;</span>
+<span class="w">            </span><span class="n">T</span><span class="w"> </span><span class="n">result</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">T</span><span class="p">();</span>
+<span class="w">            </span><span class="n">result</span><span class="p">.</span><span class="n">SetFieldValue</span><span class="p">(</span><span class="s">&quot;_segment&quot;</span><span class="p">,</span><span class="w"> </span><span class="n">segment</span><span class="p">);</span>
+<span class="w">            </span><span class="k">return</span><span class="w"> </span><span class="n">result</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="k">public</span><span class="w"> </span><span class="k">static</span><span class="w"> </span><span class="n">T</span><span class="w"> </span><span class="n">AsTypedLoop</span><span class="o">&lt;</span><span class="n">T</span><span class="o">&gt;</span><span class="p">(</span><span class="k">this</span><span class="w"> </span><span class="n">OopFactory</span><span class="p">.</span><span class="n">X12</span><span class="p">.</span><span class="n">Parsing</span><span class="p">.</span><span class="n">Model</span><span class="p">.</span><span class="n">Loop</span><span class="w"> </span><span class="n">loop</span><span class="p">)</span>
+<span class="w">            </span><span class="k">where</span><span class="w"> </span><span class="n">T</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="n">OopFactory</span><span class="p">.</span><span class="n">X12</span><span class="p">.</span><span class="n">Parsing</span><span class="p">.</span><span class="n">Model</span><span class="p">.</span><span class="n">TypedLoop</span><span class="p">,</span><span class="w"> </span><span class="k">new</span><span class="p">()</span>
+
+<span class="p">{</span>
+<span class="w">            </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">loop</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="k">null</span><span class="p">)</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="k">null</span><span class="p">;</span>
+<span class="w">            </span><span class="n">T</span><span class="w"> </span><span class="n">result</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">T</span><span class="p">();</span>
+<span class="w">            </span><span class="n">result</span><span class="p">.</span><span class="n">SetFieldValue</span><span class="p">(</span><span class="s">&quot;_loop&quot;</span><span class="p">,</span><span class="w"> </span><span class="n">loop</span><span class="p">);</span>
+<span class="w">            </span><span class="k">return</span><span class="w"> </span><span class="n">result</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>Then I use them to convert the generic segments and loops from the parser to typed ones. The example is for parsing a 835 file, for other types the loop numbers and segments may be different.</p>
+<div class="highlight-C# notranslate"><div class="highlight"><pre><span></span><span class="kt">string</span><span class="w"> </span><span class="n">fileText</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">System</span><span class="p">.</span><span class="n">IO</span><span class="p">.</span><span class="n">File</span><span class="p">.</span><span class="n">ReadAllText</span><span class="p">(</span><span class="n">fileName</span><span class="p">);</span>
+<span class="n">List</span><span class="o">&lt;</span><span class="n">Interchange</span><span class="o">&gt;</span><span class="w"> </span><span class="n">envelopes</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">parser</span><span class="p">.</span><span class="n">ParseMultiple</span><span class="p">(</span><span class="n">fileText</span><span class="p">);</span>
+<span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">envelopes</span><span class="p">.</span><span class="n">Count</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="k">null</span><span class="p">;</span>
+
+<span class="kt">var</span><span class="w"> </span><span class="n">isa</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">envelopes</span><span class="p">[</span><span class="mi">0</span><span class="p">];</span>
+
+<span class="kt">var</span><span class="w"> </span><span class="n">gs</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">isa</span><span class="p">.</span><span class="n">FunctionGroups</span><span class="p">.</span><span class="n">ElementAt</span><span class="p">(</span><span class="mi">0</span><span class="p">);</span>
+
+<span class="kt">var</span><span class="w"> </span><span class="n">st</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">gs</span><span class="p">.</span><span class="n">Transactions</span><span class="p">[</span><span class="mi">0</span><span class="p">];</span>
+
+<span class="kt">var</span><span class="w"> </span><span class="n">payerLoops</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">st</span><span class="p">.</span><span class="n">Loops</span><span class="p">.</span><span class="n">Where</span><span class="p">(</span><span class="n">l</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="n">l</span><span class="p">.</span><span class="n">Specification</span><span class="p">.</span><span class="n">LoopId</span><span class="p">.</span><span class="n">Equals</span><span class="p">(</span><span class="s">&quot;1000A&quot;</span><span class="p">));</span>
+
+<span class="kt">var</span><span class="w"> </span><span class="n">payerLoop</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">payerLoops</span><span class="p">.</span><span class="n">FirstOrDefault</span><span class="p">();</span>
+<span class="kt">var</span><span class="w"> </span><span class="n">payerName</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">payerLoop</span><span class="p">.</span><span class="n">AsTypedLoop</span><span class="o">&lt;</span><span class="n">TypedLoopN1</span><span class="o">&gt;</span><span class="p">().</span><span class="n">N102_Name</span><span class="p">;</span>
+
+<span class="kt">var</span><span class="w"> </span><span class="n">payerIdSegment</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">payerLoop</span><span class="p">.</span><span class="n">Segments</span>
+<span class="w">                    </span><span class="p">.</span><span class="n">Where</span><span class="p">(</span><span class="n">s</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="n">s</span><span class="p">.</span><span class="n">SegmentId</span><span class="p">.</span><span class="n">Equals</span><span class="p">(</span><span class="s">&quot;REF&quot;</span><span class="p">)</span>
+<span class="w">                        </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="n">s</span><span class="p">.</span><span class="n">GetElement</span><span class="p">(</span><span class="mi">1</span><span class="p">).</span><span class="n">Equals</span><span class="p">(</span><span class="s">&quot;2U&quot;</span><span class="p">)).</span><span class="n">FirstOrDefault</span><span class="p">();</span>
+<span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">payerIdSegment</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="k">null</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">        </span><span class="kt">var</span><span class="w"> </span><span class="n">payerId</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">payerIdSegment</span><span class="p">.</span><span class="n">AsTypedSegment</span><span class="o">&lt;</span><span class="n">TypedSegmentREF</span><span class="o">&gt;</span><span class="p">().</span><span class="n">REF02_ReferenceId</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="kt">var</span><span class="w"> </span><span class="n">paymentLoops</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">st</span><span class="p">.</span><span class="n">Loops</span><span class="p">.</span><span class="n">Where</span><span class="p">(</span><span class="n">l</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="n">l</span><span class="p">.</span><span class="n">Specification</span><span class="p">.</span><span class="n">LoopId</span><span class="p">.</span><span class="n">Equals</span><span class="p">(</span><span class="s">&quot;2000&quot;</span><span class="p">));</span>
+
+<span class="k">foreach</span><span class="w"> </span><span class="p">(</span><span class="kt">var</span><span class="w"> </span><span class="n">paymentLoop</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="n">paymentLoops</span><span class="p">)</span>
+<span class="p">{</span>
+
+<span class="w">        </span><span class="kt">var</span><span class="w"> </span><span class="n">claimPaymentInformationLoops</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">paymentLoop</span><span class="p">.</span><span class="n">Loops</span><span class="p">.</span>
+<span class="w">                        </span><span class="n">Where</span><span class="p">(</span><span class="n">l</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="n">l</span><span class="p">.</span><span class="n">Specification</span><span class="p">.</span><span class="n">LoopId</span><span class="p">.</span><span class="n">Equals</span><span class="p">(</span><span class="s">&quot;2100&quot;</span><span class="p">));</span>
+
+<span class="w">    </span><span class="k">foreach</span><span class="w"> </span><span class="p">(</span><span class="kt">var</span><span class="w"> </span><span class="n">claimPaymentInformationLoop</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="n">claimPaymentInformationLoops</span><span class="p">)</span>
+<span class="w">        </span><span class="p">{</span>
+<span class="w">                </span><span class="kt">var</span><span class="w"> </span><span class="n">mrnSegment</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">claimPaymentInformationLoop</span><span class="p">.</span><span class="n">Segments</span><span class="p">.</span><span class="n">Where</span>
+<span class="w">                        </span><span class="p">(</span><span class="n">s</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="n">s</span><span class="p">.</span><span class="n">SegmentId</span><span class="p">.</span><span class="n">Equals</span><span class="p">(</span><span class="s">&quot;REF&quot;</span><span class="p">)</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="n">s</span><span class="p">.</span><span class="n">GetElement</span><span class="p">(</span><span class="mi">1</span><span class="p">).</span><span class="n">Equals</span><span class="p">(</span><span class="s">&quot;EA&quot;</span><span class="p">)).</span><span class="n">FirstOrDefault</span><span class="p">()</span>
+<span class="w">                        </span><span class="p">.</span><span class="n">AsTypedSegment</span><span class="o">&lt;</span><span class="n">TypedSegmentREF</span><span class="o">&gt;</span><span class="p">();</span>
+<span class="w">                </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">mrnSegment</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="k">null</span><span class="p">)</span>
+<span class="w">                </span><span class="p">{</span>
+<span class="w">                            </span><span class="kt">var</span><span class="w"> </span><span class="n">patientMrn</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">mrnSegment</span><span class="p">.</span><span class="n">REF02_ReferenceId</span><span class="p">;</span>
+<span class="w">                </span><span class="p">}</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>The library is written for 837, thus many types used in 835 like loop 2000 and segment CLP are not defined.</p>
+</section>
+
+
+                </article>
+              
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="web_server_hijacker_httpResetModule.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">New web server hijacker HttpResetModule.dll</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="../2017/index.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">2017 Blogs</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../../_sources/blogs/2021/typed_oopfactory_x12_835.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script defer src="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item">
+
+  <p class="copyright">
+    
+      © Copyright 2018-, Sheng Jiang.
+      <br/>
+    
+  </p>
+</div>
+      
+        <div class="footer-item">
+
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 8.2.3.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item">
+<p class="theme-version">
+  <!-- # L10n: Setting the PST URL as an argument as this does not need to be localized -->
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.16.1.
+</p></div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>
