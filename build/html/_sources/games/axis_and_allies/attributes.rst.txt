@@ -2,7 +2,7 @@
 
 Attributes
 =============
-Attribtues give buildings or regiments certain bonuses, some are automatic, some are purchased via :ref:`upgrades <axis_and_allies_upgrades>`.
+Attributes give buildings or regiments certain bonuses, some are automatic, some are purchased via :ref:`upgrades <axis_and_allies_upgrades>`.
 
 -------------------------
 Advanced Armored Training
