@@ -5,6 +5,7 @@ Axis & Allies
    :caption: Contents:
    :hidden:
 
+   Attributes <attributes>
    Buildings <buildings/index> 
    Regiments <regiments/index> 
    Economy <economy> 

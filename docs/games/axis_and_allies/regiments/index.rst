@@ -7,7 +7,7 @@ Regiments
    :maxdepth: 1
    :caption: Contents:
    :hidden:
-
+      
    Formation <formation>
    Terrain <terrain>
    Infantry <infantry_regiment>

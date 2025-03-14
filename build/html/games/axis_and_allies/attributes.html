@@ -1,0 +1,939 @@
+
+<!DOCTYPE html>
+
+
+<html lang="zh-CN" data-content_root="../../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Attributes &#8212; jiangsheng 1 documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css?v=906dce5e" />
+  
+  <!-- So that users can add custom icons -->
+  <script src="../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+
+    <script src="../../_static/documentation_options.js?v=78b98999"></script>
+    <script src="../../_static/doctools.js?v=9bcbadda"></script>
+    <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <script src="../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'games/axis_and_allies/attributes';</script>
+    <link rel="canonical" href="https://git.jiangsheng.net/build/html/games/axis_and_allies/attributes.html" />
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Buildings" href="buildings/index.html" />
+    <link rel="prev" title="Axis &amp; Allies" href="index.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="zh-CN"/>
+  <meta name="docsearch:version" content="" />
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-3 navbar-header-items__start">
+    
+      <div class="navbar-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../../reference.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">jiangsheng 1 documentation</p>
+  
+</a></div>
+    
+  </div>
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../blogs/index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          
+          
+            <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../blogs/index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+          
+        
+      </div>
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+<h3><a href="../../reference.html">Table of Contents</a></h3>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">内容:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../README.html">Welcome to jiangsheng’s documentation!</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../README.html#indices-and-tables">Indices and tables</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Games</a><ul class="current">
+<li class="toctree-l2 current"><a class="reference internal" href="index.html">Axis and Allies</a><ul class="current">
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Attributes</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#advanced-armored-training">Advanced Armored Training</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#advanced-infantry-training">Advanced Infantry Training</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#aircraft-superchargers">Aircraft Superchargers</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#air-superiority">Air Superiority</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#ammunition-production">Ammunition Production</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#banzai-infantry">Banzai Infantry</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#buildings">Buildings</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#bunkers">Bunkers</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#city-infantry">City (Infantry)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#city-vehicles">City (Vehicles)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#conscription">Conscription</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#construction-battalions">Construction Battalions</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#decaying">Decaying</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#diesel-engines">Diesel Engines</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#engaged">Engaged</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#entrenchment">Entrenchment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#flame-tanks">Flame Tanks</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#flamethrower-infantry">Flamethrower Infantry</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#foraging">Foraging</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#forest-infantry">Forest (Infantry)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#forest-vehicle">Forest (Vehicle)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#garand-semi-auto-rifle">Garand Semi-Auto Rifle</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#goliath-remote-bombs">Goliath Remote Bombs</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#gyrostabilized-tank-guns">Gyrostabilized Tank Guns</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#heavy-tanks">Heavy Tanks</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#improved-at-weapons">Improved AT Weapons</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#improved-fire-control">Improved Fire Control</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#improved-fortifications">Improved Fortifications</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#improved-logistics">Improved Logistics</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#improved-machine-guns">Improved Machine Guns</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#improved-mortars">Improved Mortars</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#improved-reconnaissance">Improved Reconnaissance</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#increased-payload">Increased Payload</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#infantry">Infantry</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#infantry-entrenchment">Infantry Entrenchment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#jungle-infantry">Jungle (Infantry)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#jungle-vehicles">Jungle (Vehicles)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#king-tiger-tank">King Tiger Tank</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#lightly-equipped">Lightly Equipped</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#long-range-artillery">Long Range Artillery</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#m7-rifle-grenades">M7 Rifle Grenades</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#marksmanship-training">Marksmanship Training</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#mechanical-reliability">Mechanical Reliability</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#mechanized-production">Mechanized Production</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#military-surplus">Military Surplus</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#napalm">Napalm</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#no-upkeep">No Upkeep</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#oil-production">Oil Production</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#panzerfausts">Panzerfausts</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#plentiful-ammunition">Plentiful Ammunition</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#proximity-fuses">Proximity Fuses</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#recon">Recon</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#repairing">Repairing</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#rocket-truck">Rocket Truck</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#saboteur-decay">Saboteur Decay</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#sand-infantry">Sand (Infantry)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#sand-vehicles">Sand (Vehicles)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#sand-bagged">Sand Bagged</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#sas-commandos">SAS Commandos</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#schurzen">Schurzen</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#self-sealing-fuel-tanks">Self-Sealing Fuel Tanks</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#sniper-rifles">Sniper Rifles</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#special-forces">Special Forces</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#stealthy">Stealthy</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#tankette">Tankette</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#tank-production">Tank Production</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#tanks">Tanks</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#targeted">Targeted</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#vehicle-entrenchment">Vehicle Entrenchment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#vehicles">Vehicles</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="buildings/index.html">Buildings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="regiments/index.html">Regiments</a></li>
+<li class="toctree-l3"><a class="reference internal" href="economy.html">Economy</a></li>
+<li class="toctree-l3"><a class="reference internal" href="supply.html">Supply</a></li>
+<li class="toctree-l3"><a class="reference internal" href="special_operations.html">Special Operations</a></li>
+<li class="toctree-l3"><a class="reference internal" href="upgrades.html">Upgrades</a></li>
+<li class="toctree-l3"><a class="reference internal" href="cheats.html">Cheat codes</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../frontmission/index.html">Front Mission</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../srw4/index.html">Super Robot Wars 4</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../mjelct3/index.html">Mahjong Electron Base</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../tenkai/index.html">Mahjong Tenkaigan</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../mm6/index.html">Might and Magic 6</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../fsm97/index.html">Fifa Soccer Manager 97</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../dragon/index.html">卧龙传</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../fa96/index.html">甲A风云</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../san5/index.html">三国志 V</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../index.html#indices-and-tables">Indices and tables</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../blogs/index.html">Blogs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../grandma/index.html">Grandma's handbook</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../index.html">Welcome to jiangsheng’s documentation!</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../index.html#indices-and-tables">Indices and tables</a></li>
+</ul>
+</div>
+        <div class="sidebar-primary-item">
+  <div>
+    <h4>Previous topic</h4>
+    <p class="topless"><a href="index.html"
+                          title="previous chapter">Axis &amp; Allies</a></p>
+  </div>
+  <div>
+    <h4>Next topic</h4>
+    <p class="topless"><a href="buildings/index.html"
+                          title="next chapter">Buildings</a></p>
+  </div></div>
+        <div class="sidebar-primary-item">
+<div id="searchbox"></div></div>
+        <div class="sidebar-primary-item">
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="../../_sources/games/axis_and_allies/attributes.rst.txt"
+           rel="nofollow">Show Source</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/games\axis_and_allies\attributes.rst"
+           rel="nofollow">Show on GitHub</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/games\axis_and_allies\attributes.rst"
+           rel="nofollow">Edit on GitHub</a></li>
+  </ul>
+  <h3>Social Media Links</h3>
+  <ul>
+    <li>twitter (archived): #jiangsheng </li>
+    <li>bluesky: <a href="https://bsky.app/profile/sheng-jiang.bsky.social"> sheng-jiang.bsky.social</a></li>
+    <li>stackoverflow: <a href="https://stackoverflow.com/users/109919/sheng-jiang-%e8%92%8b%e6%99%9f">Sheng Jiang 蒋晟</a></li>
+  </ul></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="../../reference.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    
+    <li class="breadcrumb-item"><a href="../index.html" class="nav-link">Gaming guides</a></li>
+    
+    
+    <li class="breadcrumb-item"><a href="index.html" class="nav-link">Axis &amp; Allies</a></li>
+    
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">Attributes</span></li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="attributes">
+<span id="axis-and-allies-attributes"></span><h1>Attributes<a class="headerlink" href="#attributes" title="Link to this heading">#</a></h1>
+<p>Attribtues give buildings or regiments certain bonuses, some are automatic, some are purchased via <a class="reference internal" href="upgrades.html#axis-and-allies-upgrades"><span class="std std-ref">upgrades</span></a>.</p>
+<section id="advanced-armored-training">
+<h2>Advanced Armored Training<a class="headerlink" href="#advanced-armored-training" title="Link to this heading">#</a></h2>
+<p>Vehicles Current Morale +3. Researched at a Corps HQ.</p>
+</section>
+<section id="advanced-infantry-training">
+<h2>Advanced Infantry Training<a class="headerlink" href="#advanced-infantry-training" title="Link to this heading">#</a></h2>
+<p>+1 to Current Morale. Researched at a Corps HQ.</p>
+</section>
+<section id="aircraft-superchargers">
+<h2>Aircraft Superchargers<a class="headerlink" href="#aircraft-superchargers" title="Link to this heading">#</a></h2>
+<p>Aircraft Maximum Speed +25%. Researched at an Airfield.</p>
+</section>
+<section id="air-superiority">
+<h2>Air Superiority<a class="headerlink" href="#air-superiority" title="Link to this heading">#</a></h2>
+<p>Fighter Attack +10 and Defense +5. Researched at an Airfield.</p>
+</section>
+<section id="ammunition-production">
+<h2>Ammunition Production<a class="headerlink" href="#ammunition-production" title="Link to this heading">#</a></h2>
+<p>This only increase the ammo production of Engineer Brigade by 5. Researched at an Engineer Brigade.</p>
+</section>
+<section id="banzai-infantry">
+<h2>Banzai Infantry<a class="headerlink" href="#banzai-infantry" title="Link to this heading">#</a></h2>
+<p>Allows Infantry HQs to recruit Banzai Infantry.Researched at an Artillery Brigade.</p>
+</section>
+<section id="buildings">
+<h2>Buildings<a class="headerlink" href="#buildings" title="Link to this heading">#</a></h2>
+<p>Immune to Radiation,  AP Damage Resistance +20%</p>
+</section>
+<section id="bunkers">
+<h2>Bunkers<a class="headerlink" href="#bunkers" title="Link to this heading">#</a></h2>
+<p>Gun and Explosive Resistance +20%. Applied automatically on all bunkers.</p>
+</section>
+<section id="city-infantry">
+<h2>City (Infantry)<a class="headerlink" href="#city-infantry" title="Link to this heading">#</a></h2>
+<p>Infantries within city limits: Defense +4,  AP Resistance +20%.</p>
+</section>
+<section id="city-vehicles">
+<h2>City (Vehicles)<a class="headerlink" href="#city-vehicles" title="Link to this heading">#</a></h2>
+<p>Vehicles within city limits: Gun Vulnerability +20%.</p>
+</section>
+<section id="conscription">
+<h2>Conscription<a class="headerlink" href="#conscription" title="Link to this heading">#</a></h2>
+<p>Infantry HQ Recruit Cost -20%. Researched at a Corps HQ.</p>
+</section>
+<section id="construction-battalions">
+<h2>Construction Battalions<a class="headerlink" href="#construction-battalions" title="Link to this heading">#</a></h2>
+<p>Engineers Repair +3. Researched at an Engineer Brigade.</p>
+</section>
+<section id="decaying">
+<h2>Decaying<a class="headerlink" href="#decaying" title="Link to this heading">#</a></h2>
+<p>-10 HP every second. This is what makes Supply Drops temporary.</p>
+</section>
+<section id="diesel-engines">
+<h2>Diesel Engines<a class="headerlink" href="#diesel-engines" title="Link to this heading">#</a></h2>
+<p>Tanks Max Speed +15%. Researched at a Motor Pool.</p>
+</section>
+<section id="engaged">
+<h2>Engaged<a class="headerlink" href="#engaged" title="Link to this heading">#</a></h2>
+<p>Automatically applied when attacking, Maximum Speed +25% .</p>
+</section>
+<section id="entrenchment">
+<h2>Entrenchment<a class="headerlink" href="#entrenchment" title="Link to this heading">#</a></h2>
+<p>All Regiments Entrenchment Rate +25%. Researched at an Engineer Brigade.</p>
+</section>
+<section id="flame-tanks">
+<h2>Flame Tanks<a class="headerlink" href="#flame-tanks" title="Link to this heading">#</a></h2>
+<p>Allows Armor HQ to recruit Flame Tanks. Researched at a Motor Pool.</p>
+</section>
+<section id="flamethrower-infantry">
+<h2>Flamethrower Infantry<a class="headerlink" href="#flamethrower-infantry" title="Link to this heading">#</a></h2>
+<p>Allows Infantry HQ to recruit Flamethrower Infantry. Researched at a Motor Pool.</p>
+</section>
+<section id="foraging">
+<h2>Foraging<a class="headerlink" href="#foraging" title="Link to this heading">#</a></h2>
+<p>All Regiments Resupply Rate +15%. Researched at a Corps HQ.</p>
+</section>
+<section id="forest-infantry">
+<h2>Forest (Infantry)<a class="headerlink" href="#forest-infantry" title="Link to this heading">#</a></h2>
+<p>Infantry Defense +4, AP Resistance +20%, Max Speed to Slow when in forest.</p>
+</section>
+<section id="forest-vehicle">
+<h2>Forest (Vehicle)<a class="headerlink" href="#forest-vehicle" title="Link to this heading">#</a></h2>
+<p>Vehicles Gun Vulnerability +20%, Max Speed to Slow when in forest.</p>
+</section>
+<section id="garand-semi-auto-rifle">
+<h2>Garand Semi-Auto Rifle<a class="headerlink" href="#garand-semi-auto-rifle" title="Link to this heading">#</a></h2>
+<p>Infantry Rifles Attack Speed +20%. Researched at a Corps HQ.</p>
+</section>
+<section id="goliath-remote-bombs">
+<h2>Goliath Remote Bombs<a class="headerlink" href="#goliath-remote-bombs" title="Link to this heading">#</a></h2>
+<p>Allows Infantry HQ to recruit Goliath Infantry regiments. Researched at a Motor Pool.</p>
+</section>
+<section id="gyrostabilized-tank-guns">
+<h2>Gyrostabilized Tank Guns<a class="headerlink" href="#gyrostabilized-tank-guns" title="Link to this heading">#</a></h2>
+<p>Tanks Attack +10. Can be Researched at an Artillery Brigade.</p>
+</section>
+<section id="heavy-tanks">
+<h2>Heavy Tanks<a class="headerlink" href="#heavy-tanks" title="Link to this heading">#</a></h2>
+<p>Grants Armor HQs the ability to recruit Heavy Tanks. Researched at  aMotor Pool.</p>
+</section>
+<section id="improved-at-weapons">
+<h2>Improved AT Weapons<a class="headerlink" href="#improved-at-weapons" title="Link to this heading">#</a></h2>
+<p>AT Infantry Attack +10. Researched at a Motor Pool.</p>
+</section>
+<section id="improved-fire-control">
+<h2>Improved Fire Control<a class="headerlink" href="#improved-fire-control" title="Link to this heading">#</a></h2>
+<p>Artillery Attack Speed +25%. Researched at an Artillery Brigade.</p>
+</section>
+<section id="improved-fortifications">
+<h2>Improved Fortifications<a class="headerlink" href="#improved-fortifications" title="Link to this heading">#</a></h2>
+<p>Bunkers AP Resistance +25%, Explosive Resistance +25%, Researched at an Engineer Brigade.</p>
+</section>
+<section id="improved-logistics">
+<h2>Improved Logistics<a class="headerlink" href="#improved-logistics" title="Link to this heading">#</a></h2>
+<p>Detection and supply range for all buildings and units. Researched at a Corps HQ.</p>
+</section>
+<section id="improved-machine-guns">
+<h2>Improved Machine Guns<a class="headerlink" href="#improved-machine-guns" title="Link to this heading">#</a></h2>
+<p>MG weapons Attack +4. Affects regiments with MG infantry, Bunkers, MG halftracks, Fighters and HQs. Researched at a Corps HQ.</p>
+</section>
+<section id="improved-mortars">
+<h2>Improved Mortars<a class="headerlink" href="#improved-mortars" title="Link to this heading">#</a></h2>
+<p>Mortar units in regiments Attack +5,  Attack Speed +20%. Researched at a Artillery Brigade.</p>
+</section>
+<section id="improved-reconnaissance">
+<h2>Improved Reconnaissance<a class="headerlink" href="#improved-reconnaissance" title="Link to this heading">#</a></h2>
+<p>Aircraft Detection Range +5. Researched at an Airfield.</p>
+</section>
+<section id="increased-payload">
+<h2>Increased Payload<a class="headerlink" href="#increased-payload" title="Link to this heading">#</a></h2>
+<p>Bombers Attack +15. Researched at an Airfield.</p>
+</section>
+<section id="infantry">
+<h2>Infantry<a class="headerlink" href="#infantry" title="Link to this heading">#</a></h2>
+<p>Each individual infantry’s AP Resistance +20%.</p>
+</section>
+<section id="infantry-entrenchment">
+<h2>Infantry Entrenchment<a class="headerlink" href="#infantry-entrenchment" title="Link to this heading">#</a></h2>
+<p>After resting for some time, Infantry Defense +4, AP Resistance +40%, Explosive Resistance +40%, Morale Loss Speed -50%.</p>
+</section>
+<section id="jungle-infantry">
+<h2>Jungle (Infantry)<a class="headerlink" href="#jungle-infantry" title="Link to this heading">#</a></h2>
+<p>When in jungles, Infantry Defense +4, AP Resistance +20% and Max Speed to Slow.</p>
+</section>
+<section id="jungle-vehicles">
+<h2>Jungle (Vehicles)<a class="headerlink" href="#jungle-vehicles" title="Link to this heading">#</a></h2>
+<p>When in jungles, Vehicles Gun Vulnerability +20% and Max Speed to Slow.</p>
+</section>
+<section id="king-tiger-tank">
+<h2>King Tiger Tank<a class="headerlink" href="#king-tiger-tank" title="Link to this heading">#</a></h2>
+<p>Allows Armor HQ to recruit King Tiger Tank. Researched at a Motor Pool.</p>
+</section>
+<section id="lightly-equipped">
+<h2>Lightly Equipped<a class="headerlink" href="#lightly-equipped" title="Link to this heading">#</a></h2>
+<p>Recon Infantry Regiments have this, the description says trailblazing. Not sure what it does.</p>
+</section>
+<section id="long-range-artillery">
+<h2>Long Range Artillery<a class="headerlink" href="#long-range-artillery" title="Link to this heading">#</a></h2>
+<p>Artillery Projectile Ability Range +6, Bombard Ability Range +6. Researched at an Artillery Brigade.</p>
+</section>
+<section id="m7-rifle-grenades">
+<h2>M7 Rifle Grenades<a class="headerlink" href="#m7-rifle-grenades" title="Link to this heading">#</a></h2>
+<p>Enables Infantry HQ to deploy Assault Infantry regiments. Researched at an Artillery Brigade.</p>
+</section>
+<section id="marksmanship-training">
+<h2>Marksmanship Training<a class="headerlink" href="#marksmanship-training" title="Link to this heading">#</a></h2>
+<p>Infantry Attack +2. Researched at Corps HQ.</p>
+</section>
+<section id="mechanical-reliability">
+<h2>Mechanical Reliability<a class="headerlink" href="#mechanical-reliability" title="Link to this heading">#</a></h2>
+<p>Vehicles Health +10%. Researched at a Motor Pool.</p>
+</section>
+<section id="mechanized-production">
+<h2>Mechanized Production<a class="headerlink" href="#mechanized-production" title="Link to this heading">#</a></h2>
+<p>Mechanized HQ recruit cost -15%. Researched at a Motor Pool.</p>
+</section>
+<section id="military-surplus">
+<h2>Military Surplus<a class="headerlink" href="#military-surplus" title="Link to this heading">#</a></h2>
+<p>Money Production +5 for those with money production. Researched at a Corps HQ.</p>
+</section>
+<section id="napalm">
+<h2>Napalm<a class="headerlink" href="#napalm" title="Link to this heading">#</a></h2>
+<p>Bombers Attack +15 Flame Damage. +1.5 Morale Dmg. Researched at an Airfield.</p>
+</section>
+<section id="no-upkeep">
+<h2>No Upkeep<a class="headerlink" href="#no-upkeep" title="Link to this heading">#</a></h2>
+<p>You are not going to pay for the upkeep. E.g. when you start a game with some units, they will not cost you. Remember to keep them alive as the replacement will cost you.</p>
+</section>
+<section id="oil-production">
+<h2>Oil Production<a class="headerlink" href="#oil-production" title="Link to this heading">#</a></h2>
+<p>This only increase the oil production of Engineer Brigade by 5. Researched at an Engineer Brigade.</p>
+</section>
+<section id="panzerfausts">
+<h2>Panzerfausts<a class="headerlink" href="#panzerfausts" title="Link to this heading">#</a></h2>
+<p>AT Infantry Attack +15. Researched at an Motor Pool.</p>
+</section>
+<section id="plentiful-ammunition">
+<h2>Plentiful Ammunition<a class="headerlink" href="#plentiful-ammunition" title="Link to this heading">#</a></h2>
+<p>Regiments Resupply Rate +10. Researched at an Artillery Brigade.</p>
+</section>
+<section id="proximity-fuses">
+<h2>Proximity Fuses<a class="headerlink" href="#proximity-fuses" title="Link to this heading">#</a></h2>
+<p>AA weapons Attack +10. Researched at  an Engineer Brigade.</p>
+</section>
+<section id="recon">
+<h2>Recon<a class="headerlink" href="#recon" title="Link to this heading">#</a></h2>
+<p>Recon Infantry Regiments automatically get Detection Range +12 and Current Morale +3.</p>
+</section>
+<section id="repairing">
+<h2>Repairing<a class="headerlink" href="#repairing" title="Link to this heading">#</a></h2>
+<p>City buildings self heal by 5 HP per second. Cities can be temporarily neutralized but never destroyed. They will rebuild themselves over time.</p>
+</section>
+<section id="rocket-truck">
+<h2>Rocket Truck<a class="headerlink" href="#rocket-truck" title="Link to this heading">#</a></h2>
+<p>Allow Division HQs to build regiments that contain Rocket Trucks. Researched at an Artillery Brigade.</p>
+</section>
+<section id="saboteur-decay">
+<h2>Saboteur Decay<a class="headerlink" href="#saboteur-decay" title="Link to this heading">#</a></h2>
+<p>Secret Agents: -2 HP Every Second, no upkeep. This is what made them temporary.</p>
+</section>
+<section id="sand-infantry">
+<h2>Sand (Infantry)<a class="headerlink" href="#sand-infantry" title="Link to this heading">#</a></h2>
+<p>Speed limit is slow.</p>
+</section>
+<section id="sand-vehicles">
+<h2>Sand (Vehicles)<a class="headerlink" href="#sand-vehicles" title="Link to this heading">#</a></h2>
+<p>Speed limit is Medium.</p>
+</section>
+<section id="sand-bagged">
+<h2>Sand Bagged<a class="headerlink" href="#sand-bagged" title="Link to this heading">#</a></h2>
+<p>Buildings targeted by the Sandbagging <cite>Special Operation &lt;axis_and_allies_special_operations&gt;</cite> have Gun Resistance, AP Resistance and Explosive Resistance +40%</p>
+</section>
+<section id="sas-commandos">
+<h2>SAS Commandos<a class="headerlink" href="#sas-commandos" title="Link to this heading">#</a></h2>
+<p>Allows Airborne HQ to recruit SAS Commandos. Researched at a Corps HQ.</p>
+</section>
+<section id="schurzen">
+<h2>Schurzen<a class="headerlink" href="#schurzen" title="Link to this heading">#</a></h2>
+<p>Tanks AP Resistance +15%. Researched at a Motor Pool building.</p>
+</section>
+<section id="self-sealing-fuel-tanks">
+<h2>Self-Sealing Fuel Tanks<a class="headerlink" href="#self-sealing-fuel-tanks" title="Link to this heading">#</a></h2>
+<p>Aircraft Defense +20. Researched at an Airfield.</p>
+</section>
+<section id="sniper-rifles">
+<h2>Sniper Rifles<a class="headerlink" href="#sniper-rifles" title="Link to this heading">#</a></h2>
+<p>Allows Infantry HQ to recruit Snippers (JPN:Commandos). Researched at a Corps HQ.</p>
+</section>
+<section id="special-forces">
+<h2>Special Forces<a class="headerlink" href="#special-forces" title="Link to this heading">#</a></h2>
+<p>Infantry Attack &amp; Defense +1, Health +10%. Researched at a Corps HQ.</p>
+</section>
+<section id="stealthy">
+<h2>Stealthy<a class="headerlink" href="#stealthy" title="Link to this heading">#</a></h2>
+<p>Russian Saboteur has Gun Resistance +40%.</p>
+</section>
+<section id="tankette">
+<h2>Tankette<a class="headerlink" href="#tankette" title="Link to this heading">#</a></h2>
+<p>Allows Mechanized and Armored Division HQs to recruit Tankettes. Researched at a Motor Pool.</p>
+</section>
+<section id="tank-production">
+<h2>Tank Production<a class="headerlink" href="#tank-production" title="Link to this heading">#</a></h2>
+<p>Armor HQs recruit cost -10%. Researched at an Artillery Brigade. Generally pays itself if your battle involve more than 10 tank regiments.</p>
+</section>
+<section id="tanks">
+<h2>Tanks<a class="headerlink" href="#tanks" title="Link to this heading">#</a></h2>
+<p>All tank units starts with Gun Resistance +20% and Explosive Resistance +20% (added on top of the Vehicle resistances).</p>
+</section>
+<section id="targeted">
+<h2>Targeted<a class="headerlink" href="#targeted" title="Link to this heading">#</a></h2>
+<p>-10% Speed. This automatically applies when a unit is engaged by enemies.</p>
+</section>
+<section id="vehicle-entrenchment">
+<h2>Vehicle Entrenchment<a class="headerlink" href="#vehicle-entrenchment" title="Link to this heading">#</a></h2>
+<p>When rested, Vehicles Defense+4,  AP Resistance +20%, Explosive Resistance +20%, Morale Loss +50% slower</p>
+</section>
+<section id="vehicles">
+<h2>Vehicles<a class="headerlink" href="#vehicles" title="Link to this heading">#</a></h2>
+<p>Vehicles have the following resistances by default: Gun +40%, Explosive +20%. This includes building trucks.</p>
+</section>
+</section>
+
+
+                </article>
+              
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="index.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Axis &amp; Allies</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="buildings/index.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Buildings</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+<div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> On this page
+  </div>
+  <nav class="bd-toc-nav page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#advanced-armored-training">Advanced Armored Training</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#advanced-infantry-training">Advanced Infantry Training</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#aircraft-superchargers">Aircraft Superchargers</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#air-superiority">Air Superiority</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ammunition-production">Ammunition Production</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#banzai-infantry">Banzai Infantry</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#buildings">Buildings</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#bunkers">Bunkers</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#city-infantry">City (Infantry)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#city-vehicles">City (Vehicles)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#conscription">Conscription</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#construction-battalions">Construction Battalions</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#decaying">Decaying</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#diesel-engines">Diesel Engines</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#engaged">Engaged</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#entrenchment">Entrenchment</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#flame-tanks">Flame Tanks</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#flamethrower-infantry">Flamethrower Infantry</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#foraging">Foraging</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#forest-infantry">Forest (Infantry)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#forest-vehicle">Forest (Vehicle)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#garand-semi-auto-rifle">Garand Semi-Auto Rifle</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#goliath-remote-bombs">Goliath Remote Bombs</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#gyrostabilized-tank-guns">Gyrostabilized Tank Guns</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#heavy-tanks">Heavy Tanks</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#improved-at-weapons">Improved AT Weapons</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#improved-fire-control">Improved Fire Control</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#improved-fortifications">Improved Fortifications</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#improved-logistics">Improved Logistics</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#improved-machine-guns">Improved Machine Guns</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#improved-mortars">Improved Mortars</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#improved-reconnaissance">Improved Reconnaissance</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#increased-payload">Increased Payload</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#infantry">Infantry</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#infantry-entrenchment">Infantry Entrenchment</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#jungle-infantry">Jungle (Infantry)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#jungle-vehicles">Jungle (Vehicles)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#king-tiger-tank">King Tiger Tank</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lightly-equipped">Lightly Equipped</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#long-range-artillery">Long Range Artillery</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#m7-rifle-grenades">M7 Rifle Grenades</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#marksmanship-training">Marksmanship Training</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mechanical-reliability">Mechanical Reliability</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mechanized-production">Mechanized Production</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#military-surplus">Military Surplus</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#napalm">Napalm</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#no-upkeep">No Upkeep</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#oil-production">Oil Production</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#panzerfausts">Panzerfausts</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#plentiful-ammunition">Plentiful Ammunition</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#proximity-fuses">Proximity Fuses</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#recon">Recon</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#repairing">Repairing</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#rocket-truck">Rocket Truck</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#saboteur-decay">Saboteur Decay</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#sand-infantry">Sand (Infantry)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#sand-vehicles">Sand (Vehicles)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#sand-bagged">Sand Bagged</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#sas-commandos">SAS Commandos</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#schurzen">Schurzen</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#self-sealing-fuel-tanks">Self-Sealing Fuel Tanks</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#sniper-rifles">Sniper Rifles</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#special-forces">Special Forces</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stealthy">Stealthy</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tankette">Tankette</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tank-production">Tank Production</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tanks">Tanks</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#targeted">Targeted</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#vehicle-entrenchment">Vehicle Entrenchment</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#vehicles">Vehicles</a></li>
+</ul>
+  </nav></div>
+
+  <div class="sidebar-secondary-item">
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../../_sources/games/axis_and_allies/attributes.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script defer src="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item">
+
+  <p class="copyright">
+    
+      © Copyright 2018-, Sheng Jiang.
+      <br/>
+    
+  </p>
+</div>
+      
+        <div class="footer-item">
+
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 8.2.3.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item">
+<p class="theme-version">
+  <!-- # L10n: Setting the PST URL as an argument as this does not need to be localized -->
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.16.1.
+</p></div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>

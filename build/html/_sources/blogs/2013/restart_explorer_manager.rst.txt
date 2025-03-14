@@ -36,7 +36,8 @@ The first step of restarting explorer would be registering the main explorer pro
                 {
                     if(wcscmp(L"explorer.exe",PathFindFileName(imageName.data()))==0)
                     {
-                        //this is assmuing the user is not running elevated and won't see explorer processes in other sessions
+                        //this is assmuing the user is not running elevated
+                        // and won't see explorer processes in other sessions
                         FILETIME ftCreate, ftExit, ftKernel, ftUser;
                         if (GetProcessTimes(hProcess, &ftCreate, &ftExit,&ftKernel, &ftUser))
                         {
@@ -80,12 +81,16 @@ Next step would be telling the restart manager to request a shutdown via RmShutd
                        &nProcInfo, rgpi, &dwReason);
         if(dwReason==RmRebootReasonNone)//now free to restart explorer
         {
-            RmShutdown(dwSession,RmForceShutdown,NULL);//important, if we change the registry before shutting down explorer will override our change
+            RmShutdown(dwSession,RmForceShutdown,NULL);
+            //important, if we change the registry before shutting down
+            // explorer will override our change
             //using undocumented setting structure, could break any time
-            //edge setting is stored at HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StuckRects2!Settings
+            //edge setting is stored at 
+            //HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StuckRects2!Settings
             HKEY hKey={0};
             DWORD result=0;
-            result=::RegOpenKeyEx(HKEY_CURRENT_USER, _T("Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\StuckRects2"),
+            result=::RegOpenKeyEx(HKEY_CURRENT_USER,
+                 _T("Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\StuckRects2"),
                     0, KEY_READ|KEY_WRITE, &hKey) ;
             if (result== ERROR_SUCCESS)
             {
@@ -116,7 +121,8 @@ Next step would be telling the restart manager to request a shutdown via RmShutd
                                 data[12]=taskbarPosition;
                                 RECT* taskbarRect=(RECT*)&data[24];
                                 CopyRect (taskbarRect,&abd.rc);
-                                result=::RegSetValueEx(hKey,settingValue,0,REG_BINARY,(LPBYTE) data.data(), dwDataBufSize);
+                                result=::RegSetValueEx(hKey,
+                                settingValue,0,REG_BINARY,(LPBYTE) data.data(), dwDataBufSize);
                             }
                             break;
                     }

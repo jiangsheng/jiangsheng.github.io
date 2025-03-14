@@ -22,7 +22,7 @@ In Windows Forms, customizing certificate error handling involves the following:
 * use the new webbrowser in the form
 * important: navigate to "about:blank" first otherwise your service provider won't get called.
 
-Example Code: https://github.com/jiangsheng/Samples/blob/master/IgnoreSsl/Form1.cs_
+Example Code: https://github.com/jiangsheng/Samples/blob/master/IgnoreSsl.
 
 For sample code in providing the service using MFC, check :ref:`Handle NewWindow3 and ShowModalDialog in CHtmlView <blogs_handle_newwindow3_and_showmodaldialog_chtmlview>`. The way to implements IHttpSecurity is similar to how the article exposes the INewWindowManager service to the webbrowser control.
 
