@@ -5,7 +5,7 @@ Tanks
 
 Tanks are the most expensive regiments in the game, for good reasons. They have the best firepower and can take heavy damage. Generally speaking you should begin producing them as soon as possible.
 
-Each tank regiment has a commander tank. The tank units (including those included in mechanized regiments) also have 75% Gunfire and 25% Explosive resistance. 
+Each tank regiment has a commander tank. The tank units (including those mixed with mechanized regiments) have both Tank and Vehicle `attributes<axis_and_allies_attributes>`, which gives them 60% Gunfire and 40% Explosive resistance. 
 
 --------------------
 Light Tank Regiment

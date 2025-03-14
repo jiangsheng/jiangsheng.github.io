@@ -1,3 +1,3 @@
 Name, Health, Def, Spd, Weapon, Atk, Type, Delay, Range,Area,Bonuses
-Fighters,100,0,11,MG,"75(USA, JPN:+10,USSR:-10)",G,1,14,,
+Fighters,100,0,11,MG,"75 (USA, JPN:+10,USSR:-10)",G,1,14,,
 Bombers,300,0,7,Bomb,"75 (USA:+5,GER,USSR:-5)x4",EX,5,15,6,0.5 Morale Dmg

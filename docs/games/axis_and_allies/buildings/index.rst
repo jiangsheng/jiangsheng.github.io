@@ -16,7 +16,7 @@ Building can take damage and some buildings have weapons. :ref:`Engineers <axis_
 
 There is a building limit that caps the number of most buildings you can build but certain type of buildings don't count toward the limit.
 
-Building are immune to radiation , Like all vehicles, trucks have 40% resistance to guns and 20% resistance to explosives.
+In building form, building have the building :ref:`bonus <axis_and_allies_attributes>`. That is, immune to radiation damage and take 20% less AP damage, In truck form they are affected by vehicle bonuses, like :ref:`terrain <axis_and_allies_terrain>` or upgrades that apply to vehicles.
 
 -------------
 The Corps HQ 

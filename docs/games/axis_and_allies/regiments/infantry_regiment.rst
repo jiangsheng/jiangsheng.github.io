@@ -12,7 +12,7 @@ Infantry
 The cheapest regiment type in the game, good for early game recons, rough :ref:`terrain <axis_and_allies_terrain>` and defensive battles with the heap of entrenchment. 
 Although they are relatively weak, you can improve them with improved machine gun, marksmanship training or entrenchment :ref:`upgrade <axis_and_allies_upgrades>`. 
 
-All infantry units (including those included in mechanized and armor regiments) have +25% resistance for Armor Piercing and Explosive weapons. They also have one infantry officer in the regiment.
+All infantry units (including those mixed within mechanized and armor regiments) have the Infantry `attribute <axis_and_allies_attributes>` that gives them +20% AP Resistance. They also have one infantry officer in the regiment.
 
 ^^^^^^^^^^^^^^^^^^
 Infantry Regiment
@@ -22,7 +22,7 @@ Basic infantry unit with a wide range of weapons. In favorable terrains and entr
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Recon Infantry Regiment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Weakest in the game and lacks firepower.  May just as well run away from threat with the column :ref:`formation <axis_and_allies_formation>`. Good for capturing unmanned cities. +12 visibility, +3 current morale.
+Weakest in the game and lacks firepower.  May just as well run away from threat with the column :ref:`formation <axis_and_allies_formation>`. Good for capturing unmanned cities. Comes with the recon attribute, +12 visibility, +3 current morale.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Anti-Tank Infantry Regiment
