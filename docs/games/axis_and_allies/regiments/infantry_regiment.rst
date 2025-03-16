@@ -92,7 +92,6 @@ JPN only. Requires Sniper Rifles upgrade. Japanese version of sniper, cheaper bu
 -------------------------------
 Airborne Infantry
 -------------------------------
-
 .. _axis_and_allies_regiment_airborne_infantry:
 
 .. index:: pair: Axis & Allies; Airborne Infantry Regiments
@@ -100,6 +99,7 @@ Airborne Infantry
 Airborne Infantries are generally stronger but come with a cost. Do not just throw them in the dark. They can only be attached to Airborne Infantry HQs. 
 
 All airborne infantry regiments have the infantry attribute which gives them +20% resistance for Armor Piercing. They also usually have one airborne infantry as the officer in the regiment that is stronger than the regular infantry officer.
+
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Airborne Infantry Regiment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
