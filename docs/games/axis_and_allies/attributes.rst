@@ -119,6 +119,11 @@ Goliath Remote Bombs
 --------------------
 Allows Infantry HQ to recruit Goliath Infantry regiments. Researched at a Motor Pool.
 
+--------------------
+Guarding
+--------------------
+Happens when you assign an regiment to guard another. +25% control range. Good to provide automatic artillery bombardment. 
+
 ------------------------
 Gyrostabilized Tank Guns
 ------------------------
@@ -237,7 +242,8 @@ Bombers Attack +15 Flame Damage. +1.5 Morale Dmg. Researched at an Airfield.
 ---------
 No Upkeep
 ---------
-You are not going to pay for the upkeep. E.g. when you start a game with some units, they will not cost you. Remember to keep them alive as the replacement will cost you.
+You are not going to pay for the upkeep. E.g. when you start a game with some units, they will not cost you. 
+Generally speaking you should sell those to build a few recons to capture cities, despite the replacement will cost you.
 
 --------------
 Oil Production
@@ -303,6 +309,11 @@ Allows Airborne HQ to recruit SAS Commandos. Researched at a Corps HQ.
 Schurzen
 --------
 Tanks AP Resistance +15%. Researched at a Motor Pool building.
+
+-----------------------
+Small Target
+-----------------------
+Goliath B1s have this attribute, AP resistance +40%, Gun resistance -20%. 
 
 -----------------------
 Self-Sealing Fuel Tanks

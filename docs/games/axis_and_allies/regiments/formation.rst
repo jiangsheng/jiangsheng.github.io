@@ -11,6 +11,9 @@ For example, the default formation for all regiments is Aggressive. It is best u
 
 Using formation effectively can help greatly in the battle. For example, send your King Tiger tank with Assault Formation to engage the enemy and then send your medium tanks in Column Formation to run the back of enemy without engaging. Once the King Tiger routed the enemy, change your medium tanks to assault formation to finish it off. 
 
+If you have the time to micro-manage units in regiments, spread out your valuable units (like mortars) so they are not hit by enemy AOE at once. Or group them together if you don't face bombardment or artillery and you want to focus fire. For Mortar Infantries dealing with snipers, mix the infantry units together so there's less chance a single regiment has infantries wiped out.
+
+
 .. list-table:: Formations
     :header-rows: 1
 
