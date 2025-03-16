@@ -25,9 +25,9 @@ The Corps HQ
 
 The :ref:`Corps HQ  <axis_and_allies_corps_hq>` serves as the builder of building and the base of the :ref:`supply <axis_and_allies_supply>` zone in this game. You can build other buildings as trucks here. Losing it means you can no longer build new structures except :ref:`bunkers <axis_and_allies_buildings_bunkers>`. Although you can use the :ref:`Corps Reorganization <axis_and_allies_special_operations>` special operation to summon another, it takes a long time to meet the exp requirement. It is the most important structure. Protect it at all costs, especially in truck mode.  
 
-Destroying enemy corps HQ would cut off their supplies, making the battle much easier. However even the most powerful weapon, the atomic bomb, won't destroy it alone. You need some additional forces to finish it off.
+Destroying enemy corps HQ would cut off their supplies, making the battle much easier. However even the most powerful weapon, the atomic bomb, won't destroy it alone. You need some additional forces to finish it off. Some players packup their HQs and move often in multiplayer games.
 
-Corp HQ is also one of the places where you research your :ref:`upgrades <axis_and_allies_upgrades>`. 
+Corp HQ is also one of the places where you research your :ref:`upgrades <axis_and_allies_upgrades>`.
 
 
 -------------
@@ -41,7 +41,7 @@ Division HQs are also supply line extenders, although they cannot start a supply
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Infantry HQ
 ^^^^^^^^^^^^^^^^^^^^^^^^
-Infantry HQ is the HQ to recruit :ref:`infantry <axis_and_allies_regiment_infantry>`. It is also the cheapest way to boost income even when you don't really need more infantries.
+Infantry HQ is the HQ to recruit :ref:`infantry <axis_and_allies_regiment_infantry>`. It is also the cheapest way to boost income even when you don't really need more infantries. Usually an Infantry HQ can link 6 regiments except the English ones can host 6.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Airborne Infantry HQ
@@ -80,10 +80,11 @@ Home to artillery weapons and upgrades. The morale damage comes handy both in of
 -------------
 Airfield
 -------------
-Requires Engineer Brigade and Motor Pool. Their attack power and flexibility are unmatched. So do their running costs. You must build fighters (max x4) and bBombers (max 2) before sending them to missions. Fighters can conduct recon flights (cost 25), intercept incoming airplanes and escort bombers. Although you can send bombers alone (cost 100-150), fighters escorts are not really optional if enemies have AA firepower. You will need to rebuild planes after previous ones are shot down. Better upgrade their armor when you can afford it, as losing places are more expensive. 
-
+Requires Engineer Brigade and Motor Pool. Their attack power and flexibility are unmatched. So do their running costs. You must build fighters (max x4) and Bombers (max 2) before sending them to missions. Fighters can conduct recon flights (cost 25), intercept incoming airplanes and escort bombers. Although you can send bombers alone (cost 100-150), fighters escorts are not really optional if enemies have AA firepower. You will need to rebuild planes after previous ones are shot down. Better upgrade their armor when you can afford it, as losing planes are more expensive. 
 
 Airfields are also the highest priority targets for air raids and special operations. Although airfield can defend itself with fighters and bombers, they are not effective against ground threats. Add AA defense (4 or more) and some ground support to it. Don't hesitate to attack enemies' airfield if you found one.
+
+Like Bunkers, Airfields can also change directions, and you should adjust the runway to face the enemies. It is also the only building you can't pack up and move, so scout first before deploying. Put your Airfields on hotkeys to recall faster.
 
 
 .. csv-table:: Airplanes
@@ -99,6 +100,8 @@ Depots are stockpiles that extend supply lines, although the production depots a
 Supply Depots
 ^^^^^^^^^^^^^^^^^
 When your army scatter around the map, it will be harder and harder to keep them supplied. You will need to extend your supply zone closer to the front line using supply depots. They are defenseless, and the enemies know this, you can put some bunkers, troops or HQs around for protection. They don't count toward the building list and add a little ammo and oil production as well. If can afford some extra supply depots you can go without ammo or oil depots.
+
+If you are in a multiple player game, you probably want to build a few as scouts, unpack and sell when attacked.
 
 ^^^^^^^^^^^^^^^^^
 Ammo Depot
