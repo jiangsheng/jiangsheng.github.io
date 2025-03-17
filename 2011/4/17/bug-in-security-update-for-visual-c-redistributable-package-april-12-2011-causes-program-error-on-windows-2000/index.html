@@ -1,0 +1,35 @@
+<!doctype html><html><head><meta charset="UTF-8"<title>Bug in Security Update for Visual C++ Redistributable Package: April 12, 2011 causes program error on Windows 2000</head><body><div class="zemanta-img">
+
+[caption id="" align="alignright" width="300" caption="Image via Wikipedia"]<a href="http://en.wikipedia.org/wiki/File:Windows_Update_v3.png"><img title="Windows Update version 3 in Windows 98" src="http://upload.wikimedia.org/wikipedia/en/thumb/4/49/Windows_Update_v3.png/300px-Windows_Update_v3.png" alt="Windows Update version 3 in Windows 98" width="300" height="204" /></a>[/caption]
+
+</div>
+Update:Microsoft's Visual C++ team has <a href="http://blogs.msdn.com/b/vcblog/archive/2011/04/26/10158277.aspx">released workarounds on the problem.</a> AVG has released an utility that can revert the KB2467175 update, downloadable at <a href="http://twitter.blog.avg.com/2011/04/avg-feedback-update-26411.html">http://twitter.blog.avg.com/2011/04/avg-feedback-update-26411.html</a>
+
+<a class="zem_slink" title="Avira" href="http://www.free-av.com/" rel="homepage">Avira</a> is <a href="http://www.avira.com/en/support-for-home-knowledgebase-detail/kbid/829">reporting</a> that its <a class="zem_slink" title="Avira" href="http://en.wikipedia.org/wiki/Avira" rel="wikipedia">AntiVir</a> software throws "The procedure entry point FindActCtxSectionStringW could not be located in the <a class="zem_slink" title="Dynamic-link library" href="http://en.wikipedia.org/wiki/Dynamic-link_library" rel="wikipedia">dynamic link library</a> <a class="zem_slink" title="Microsoft Windows library files" href="http://en.wikipedia.org/wiki/Microsoft_Windows_library_files" rel="wikipedia">KERNEL32.dll</a>." error after installing the update released earlier this week.
+
+This is caused by the introduction of FindActCtxSectionStringW in the MFC update which is distributed to affected computers where the Visual C++ Redistributable is installed by affected programs. I guess <a class="zem_slink" title="Microsoft" href="http://en.wikipedia.org/wiki/Microsoft" rel="wikipedia">Microsoft</a> did not test the update on <a class="zem_slink" title="Windows 2000" href="http://en.wikipedia.org/wiki/Windows_2000" rel="wikipedia">Windows 2000</a> since Windows 2000's support has expired, and indeed removed Windows 2000 from the supported platform list of the redistributables on the Microsoft download center page, but nonetheless those who develop software using Visual  C++ 2005 and Visual  C++ 2008, two currently supported products, would still not able to support Windows 2000 users after this update (KB2467174  and KB2467175).
+
+Microsoft already <a href="http://forum.avast.com/index.php?topic=76351.0">withdrawn the update to fix this issue</a>. On April 21, 2001, Microsoft rereleased the update, and made only a <a href="http://www.microsoft.com/technet/security/bulletin/ms11-025.mspx">detection change</a>, means the update won't be offered to Windows 2000 again.
+
+Suggestion to end users and <a class="zem_slink" title="Software developer" href="http://en.wikipedia.org/wiki/Software_developer" rel="wikipedia">software developers</a> who already installed the update on Windows 2000: Uninstall the April 12, 2011 updates, remove leftovers mentioned in the KB articles identified by the updates and install the ATL security update versions (search in download.microsoft.com to get those updates) for now.
+
+Suggestion to software developers: Call <a href="http://msdn.microsoft.com/en-us/library/dd266735(v=vs.85).aspx">SetSearchPathMode</a> to turn on the safe dll searching mode at the beginning of the app, and join the discussion<a href="https://connect.microsoft.com/VisualStudio/feedback/details/662511/always-ask-the-developer-before-applying-a-security-fix-or-service-pack-to-visual-studio-that-need-changed-the-c-runtime-dlls-atl-mfc-crt"> Always ask the developer before applying a security fix or service pack to Visual Studio that need changed the C++ runtime DLLs ATL/MFC/CRT</a>.
+
+Affected software:
+<ul>
+	<li><a href="http://support.mozilla.com/en-US/questions/666809">Mozilla Firefox</a> (90% users have this issue this week)</li>
+	<li>Avira AntiVir</li>
+	<li><a href="http://social.msdn.microsoft.com/Forums/en-US/vcgeneral/thread/51955563-7ea5-4afc-aede-a2b33cf66c9d">Avast! Antivirus</a></li>
+	<li><a class="zem_slink" title="SonicWALL" href="http://www.sonicwall.com/" rel="homepage">SonicWall</a></li>
+	<li><a href="http://www.computing.net/answers/security/avgfrwexe-win2000-procedure-entry-point-not/35032.html">AVG Free version 9</a>, <a href="http://isc.incidents.org/diary/April+2011+Microsoft+Black+Tuesday+Summary/10693">AVG 8.5</a></li>
+	<li><a href="http://www.spywarefri.dk/forum/viewthread/81141/">Nokia PC Suite 6.85</a></li>
+	<li>Logitech Setpoint Mouse Software</li>
+	<li><a href="http://forums.adobe.com/message/3624802?tstart=0">Adobe Acrobat 8.1.4</a></li>
+	<li><a href="http://www.farchi.jp/forum/viewtopic.php?showtopic=6860">BeDraw DXF</a></li>
+	<li><a href="http://groups.google.com/group/microsoft.public.exchange.admin/browse_thread/thread/b7d2d495377bb210#">Exchange 2000 Server</a></li>
+	<li><a href="http://www.symantec.com/business/support/index?page=content&amp;id=TECH158779">Symantec Endpoint Protection</a></li>
+</ul>
+<div><span style="font-size:small;"><span class="Apple-style-span" style="line-height:24px;">Other known issues in this update can be found in a <a href="http://blogs.msdn.com/b/vcblog/archive/2011/06/17/10175518.aspx">follow up post</a> at the Visual C++ blog.</span></span></div>
+<div><span style="font-size:small;"><span class="Apple-style-span" style="line-height:24px;">Alternative error message: </span></span></div>
+<div><span style="font-size:small;"><span class="Apple-style-span" style="line-height:24px;">プロシージャエントリポイントFindActCtxSectionStringWがダイナミックリンクライブラリKERNEL32.dllから見つかりません
+无法定位程序输入点FindActCtxSectionStringW于动态链接库KERNEL32.dll上</span></span></div></body></html>

@@ -1,0 +1,11 @@
+<!doctype html><html><head><meta charset="UTF-8"<title>Howto: reset IE security zone settings programmatically</head><body><a class="zem_slink" title="Internet Explorer 7" href="http://en.wikipedia.org/wiki/Internet_Explorer_7" target="_blank" rel="wikipedia">Internet Explorer 7</a> introduced the <a href="http://msdn.microsoft.com/en-us/library/ms537055(v=VS.85).aspx">IInternetZoneManagerEx2</a> interface, which has a FixUnsecureSettings method to reset all security zone settings. Like all other IInternetZoneManager* interfaces, you can query this interface from the internet zone manager object:
+
+IInternetZoneManagerEx2* pzoneManager=NULL;
+
+<a class="zem_slink" title="HRESULT" href="http://en.wikipedia.org/wiki/HRESULT" target="_blank" rel="wikipedia">HRESULT</a> hr=CoCreateInstance(CLSID_InternetZoneManager ,NULL,CLSCTX_INPROC_SERVER,IID_IInternetZoneManagerEx2,(LPVOID*)&amp;pzoneManager);
+if(hr==S_OK &amp;&amp; pzoneManager!=NULL)
+{
+hr=pzoneManager-&gt;FixUnsecureSettings();
+}
+
+There's another <a href="http://msdn.microsoft.com/en-us/library/ms537159(v=VS.85).aspx">CoInternetCreateZoneManager</a> function to get the zone manager object's IInternetZoneManager interface.</body></html>

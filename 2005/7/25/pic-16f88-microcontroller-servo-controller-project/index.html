@@ -1,0 +1,188 @@
+<!doctype html><html><head><meta charset="UTF-8"<title>PIC 16F88 Microcontroller Servo Controller Project</head><body><div id="msgcns!1BE894DEAF296E0A!198" class="bvMsg">
+<h1><a><span style="color:#000000;"><span style="font-family:Arial;font-size:large;">1)</span><span style="font:7pt 'Times New Roman';"> </span><span style="font-family:Arial;font-size:large;">Introduction</span></span></a></h1>
+<span style="font-family:'Times New Roman';font-size:small;"> </span>
+
+<span style="font-family:'Times New Roman';font-size:small;">The goal of this assignment is to control the position of a servomotor by generate pulses on the output pin for a time specified by various voltage of the input pin of the chip. The voltage should also be displayed by a 7-segment <a class="zem_slink" title="Light-emitting diode" rel="wikipedia" href="http://en.wikipedia.org/wiki/Light-emitting_diode">LED</a> connected to some output pins of the chip.</span>
+
+<span style="font-size:12pt;font-family:'Times New Roman';" lang="EN-US"><br style="page-break-before:always;" /></span>
+
+<span style="font-family:'Times New Roman';font-size:small;"> </span>
+<h1><a><span style="color:#000000;"><span style="font-family:Arial;font-size:large;">2)</span><span style="font:7pt 'Times New Roman';"> </span><span style="font-family:Arial;font-size:large;">Overview of the PIC 16F88 Microcontroller</span></span></a></h1>
+<span style="font-family:'Times New Roman';font-size:small;">PIC16F88 is a member of the huge Microcontroller Chip Family with 16 I/O pins and 2 power pins. It contains a lot of functions which are abundant to this project. The essential features used by this project are</span>
+
+<span style="font-family:'Times New Roman';font-size:small;"> </span>
+<p style="text-indent:-18pt;"><span style="font-family:Symbol;" lang="EN-US"><span style="font-family:Symbol;font-size:small;">·</span><span style="font:7pt 'Times New Roman';"> </span></span><span style="font-family:'Times New Roman';font-size:small;">Programmable Flash</span></p>
+<p style="text-indent:-18pt;"><span style="font-family:Symbol;" lang="EN-US"><span style="font-family:Symbol;font-size:small;">·</span><span style="font:7pt 'Times New Roman';"> </span></span><span style="font-family:'Times New Roman';font-size:small;">Data Memory</span></p>
+<p style="text-indent:-18pt;"><span style="font-family:Symbol;" lang="EN-US"><span style="font-family:Symbol;font-size:small;">·</span><span style="font:7pt 'Times New Roman';"> </span></span><span style="font-family:'Times New Roman';font-size:small;">Interrupt</span></p>
+<p style="text-indent:-18pt;"><span style="font-family:Symbol;" lang="EN-US"><span style="font-family:Symbol;font-size:small;">·</span><span style="font:7pt 'Times New Roman';"> </span></span><span style="font-family:'Times New Roman';font-size:small;">Internal clock and multiple time modules</span></p>
+<p style="text-indent:-18pt;"><span style="font-family:Symbol;" lang="EN-US"><span style="font-family:Symbol;font-size:small;">·</span><span style="font:7pt 'Times New Roman';"> </span></span><span style="font-family:'Times New Roman';font-size:small;">A/D Module</span></p>
+<span style="font-family:'Times New Roman';font-size:small;"> </span>
+
+<span style="font-family:'Times New Roman';font-size:small;">Information of other features, such as <a class="zem_slink" title="EPROM" rel="wikipedia" href="http://en.wikipedia.org/wiki/EPROM">EPROM</a> access or power management, can be found in the datasheet of this chip, which is available at </span><a href="http://www.microchip.com/"><span style="text-decoration:underline;"><span style="color:#0000ff;font-family:'Times New Roman';font-size:small;">www.microchip.com</span></span></a><span style="font-family:'Times New Roman';font-size:small;">.</span>
+<h2><a><span style="color:#000000;"><em><span style="font-family:Arial;font-size:large;">a)</span></em><span style="font:7pt 'Times New Roman';"> </span><em><span style="font-family:Arial;font-size:large;">Programmable Flash</span></em></span></a></h2>
+<span style="font-family:'Times New Roman';font-size:small;">PIC16F88 has a 13 bit program counter, which can address 8K*14 addresses, or up to 1FFFh. However, it is paged so that accessing above 4K*14 will cause a wraparound. That is, the actual address is the address masked with 3FFh. The size of the code in this project is far from this limit, however.</span>
+
+<span style="font-family:'Times New Roman';font-size:small;"> </span>
+
+<span style="font-family:'Times New Roman';font-size:small;">The starting address after power up, named <a class="zem_slink" title="Reset vector" rel="wikipedia" href="http://en.wikipedia.org/wiki/Reset_vector">Reset vector</a>, located at 0000h. The <a class="zem_slink" title="Interrupt vector" rel="wikipedia" href="http://en.wikipedia.org/wiki/Interrupt_vector">interrupt vector</a>, called by the chip when an interrupt occurs, located at 0004h. Stack memory is hardware implemented, and is indirectly manipulated by some instructions such as CALL and RETURN.</span>
+<h2><a><span style="color:#000000;"><em><span style="font-family:Arial;font-size:large;">b)</span></em><span style="font:7pt 'Times New Roman';"> </span><em><span style="font-family:Arial;font-size:large;">Data memory</span></em></span></a></h2>
+<span style="font-family:'Times New Roman';font-size:small;">Similar to <a class="zem_slink" title="IBM Personal Computer" rel="wikipedia" href="http://en.wikipedia.org/wiki/IBM_Personal_Computer">IBM-PC</a>, data memory is divided into several parts, called Banks in this chip, and a bank selection must be made before accessing an address outside current bank. Each bank has a 128 bytes extent, and some of them are mapped to the same position for convenience. </span>
+
+<span style="font-family:'Times New Roman';font-size:small;"> </span>
+
+<span style="font-family:'Times New Roman';font-size:small;">The lower part of bank is reserved for Special Function Registers, and above them are <a class="zem_slink" title="Processor register" rel="wikipedia" href="http://en.wikipedia.org/wiki/Processor_register">General Purpose Registers</a>, implemented as <a class="zem_slink" title="Static random access memory" rel="wikipedia" href="http://en.wikipedia.org/wiki/Static_random_access_memory">static RAM</a>. To reduce bank selection, this project use 70h-7fh, the General Purpose Registers mapped to the same position in every bank. Some Special Function Registers are also accessed to perform tasks such as A/D I/O or timing. Accessing to these registers will be discussed later.</span>
+<h2><a><span style="color:#000000;"><em><span style="font-family:Arial;font-size:large;">c)</span></em><span style="font:7pt 'Times New Roman';"> </span><em><span style="font-family:Arial;font-size:large;">Interrupt</span></em></span></a></h2>
+<span style="font-family:'Times New Roman';font-size:small;">An interrupt is generated when predefined condition met, and the chip will make a call to the interrupt vector located at 0004h in the Programmable Flash. Some special flag bit in Some Special Function Registers are set before this call. This project use the A/D, Time0 and Time1 overflow interrupts for asynchronous operation. </span>
+
+<span style="font-family:'Times New Roman';font-size:small;"> </span>
+
+<span style="font-family:'Times New Roman';font-size:small;">The general tasks of the <a class="zem_slink" title="Interrupt handler" rel="wikipedia" href="http://en.wikipedia.org/wiki/Interrupt_handler">interrupt handler</a> are</span>
+<p style="text-indent:-18pt;"><span style="font-family:'Times New Roman';"><span style="font-size:small;">1.</span><span style="font:7pt 'Times New Roman';"> </span><span style="font-size:small;">First, disable all interrupt to prevent reentry</span></span></p>
+<p style="text-indent:-18pt;"><span style="font-family:'Times New Roman';"><span style="font-size:small;">2.</span><span style="font:7pt 'Times New Roman';"> </span><span style="font-size:small;">Save context information, such the value of W register, the Status register and program counter.</span></span></p>
+<p style="text-indent:-18pt;"><span style="font-family:'Times New Roman';"><span style="font-size:small;">3.</span><span style="font:7pt 'Times New Roman';"> </span><span style="font-size:small;">Check desired flag bits to see if the reveal the desired type of the interrupt occurs, and handle it with the flag bits cleared for future handling.</span></span></p>
+<p style="text-indent:-18pt;"><span style="font-family:'Times New Roman';"><span style="font-size:small;">4.</span><span style="font:7pt 'Times New Roman';"> </span><span style="font-size:small;">Restore context information to enable the program continues as usual after the interrupt occurs.</span></span></p>
+<p style="text-indent:-18pt;"><span style="font-family:'Times New Roman';"><span style="font-size:small;">5.</span><span style="font:7pt 'Times New Roman';"> </span><span style="font-size:small;">At last, enable interrupts to enable future interrupts </span></span></p>
+
+<h2><a><span style="color:#000000;"><em><span style="font-family:Arial;font-size:large;">d)</span></em><span style="font:7pt 'Times New Roman';"> </span><em><span style="font-family:Arial;font-size:large;">Internal clock and multiple time modules</span></em></span></a></h2>
+<span style="font-family:'Times New Roman';font-size:small;">The chip comes with 3 timer modules, and 2 are used by this project. TMR0 and TMR1 are prescalable timers with different ranges. The TMR0 register and TMR1H/TMR1L are readable and writeable counter register for these two timers, along with the Status register for synchronous operations. Interrupts are also generated when these counters overflow, and this project use them to invoke asynchronous operations and generate signals with varied time interval.</span>
+<h2><a><span style="color:#000000;"><em><span style="font-family:Arial;font-size:large;">e)</span></em><span style="font:7pt 'Times New Roman';"> </span><em><span style="font-family:Arial;font-size:large;">A/D Module</span></em></span></a></h2>
+<span style="font-family:'Times New Roman';font-size:small;">The chip comes with a 10-bit, 7-channel Analog to Digital module to convert input signals to 10 bit digital number. If the module is configured properly, after a flag bit in the ADCON0 register is set, an A/D conversation begins, and when it finishes, the result is placed into A/D result registers, namely ADRESH and ADRESL, and the flag bit is cleared. An peripheral interrupt is also generated to allow asynchronous operations</span>
+
+<span style="font-size:12pt;font-family:'Times New Roman';" lang="EN-US"><br style="page-break-before:always;" /></span>
+
+<span style="font-family:'Times New Roman';font-size:small;"> </span>
+<h1><a><span style="color:#000000;"><span style="font-family:Arial;font-size:large;">3)</span><span style="font:7pt 'Times New Roman';"> </span><span style="font-family:Arial;font-size:large;">Description of the test circuit</span></span></a></h1>
+<span style="font-family:'Times New Roman';font-size:small;">Here is a block diagram in the assignment guideline of this project.</span>
+
+<span style="font-family:'Times New Roman';font-size:small;"> </span>
+
+<span style="font-family:'Times New Roman';font-size:small;">Connection specification:</span>
+<table style="border-collapse:collapse;border:medium none;" border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width:147.6pt;background-color:transparent;border:windowtext 1pt solid;" width="197" valign="top"><span style="font-family:'Times New Roman';font-size:small;">Pin number</span></td>
+<td style="border-right:windowtext 1pt solid;border-top:windowtext 1pt solid;border-left:#e1e0d2;width:147.6pt;border-bottom:windowtext 1pt solid;background-color:transparent;" width="197" valign="top"><span style="font-family:'Times New Roman';font-size:small;">Description</span></td>
+<td style="border-right:windowtext 1pt solid;border-top:windowtext 1pt solid;border-left:#e1e0d2;width:147.6pt;border-bottom:windowtext 1pt solid;background-color:transparent;" width="197" valign="top"><span style="font-family:'Times New Roman';font-size:small;">Connected to </span></td>
+</tr>
+<tr>
+<td style="border-right:windowtext 1pt solid;border-top:#e1e0d2;border-left:windowtext 1pt solid;width:147.6pt;border-bottom:windowtext 1pt solid;background-color:transparent;" width="197" valign="top"><span style="font-family:'Times New Roman';font-size:small;">17</span></td>
+<td style="border-right:windowtext 1pt solid;border-top:#e1e0d2;border-left:#e1e0d2;width:147.6pt;border-bottom:windowtext 1pt solid;background-color:transparent;" width="197" valign="top"><span style="font-family:'Times New Roman';font-size:small;">A/D input,  0-5V</span></td>
+<td style="border-right:windowtext 1pt solid;border-top:#e1e0d2;border-left:#e1e0d2;width:147.6pt;border-bottom:windowtext 1pt solid;background-color:transparent;" width="197" valign="top"><span style="font-family:'Times New Roman';font-size:small;">Variable voltage</span></td>
+</tr>
+<tr>
+<td style="border-right:windowtext 1pt solid;border-top:#e1e0d2;border-left:windowtext 1pt solid;width:147.6pt;border-bottom:windowtext 1pt solid;background-color:transparent;" width="197" valign="top"><span style="font-family:'Times New Roman';font-size:small;">18</span></td>
+<td style="border-right:windowtext 1pt solid;border-top:#e1e0d2;border-left:#e1e0d2;width:147.6pt;border-bottom:windowtext 1pt solid;background-color:transparent;" width="197" valign="top"><span style="font-family:'Times New Roman';font-size:small;">Digital output, 33HZ signal</span></td>
+<td style="border-right:windowtext 1pt solid;border-top:#e1e0d2;border-left:#e1e0d2;width:147.6pt;border-bottom:windowtext 1pt solid;background-color:transparent;" width="197" valign="top"><span style="font-family:'Times New Roman';font-size:small;">Servomotor</span></td>
+</tr>
+<tr>
+<td style="border-right:windowtext 1pt solid;border-top:#e1e0d2;border-left:windowtext 1pt solid;width:147.6pt;border-bottom:windowtext 1pt solid;background-color:transparent;" width="197" valign="top"><span style="font-family:'Times New Roman';font-size:small;">6-13</span></td>
+<td style="border-right:windowtext 1pt solid;border-top:#e1e0d2;border-left:#e1e0d2;width:147.6pt;border-bottom:windowtext 1pt solid;background-color:transparent;" width="197" valign="top"><span style="font-family:'Times New Roman';font-size:small;">Digital output</span></td>
+<td style="border-right:windowtext 1pt solid;border-top:#e1e0d2;border-left:#e1e0d2;width:147.6pt;border-bottom:windowtext 1pt solid;background-color:transparent;" width="197" valign="top"><span style="font-family:'Times New Roman';font-size:small;">7-segment LED</span></td>
+</tr>
+<tr>
+<td style="border-right:windowtext 1pt solid;border-top:#e1e0d2;border-left:windowtext 1pt solid;width:147.6pt;border-bottom:windowtext 1pt solid;background-color:transparent;" width="197" valign="top"><span style="font-family:'Times New Roman';font-size:small;">5</span></td>
+<td style="border-right:windowtext 1pt solid;border-top:#e1e0d2;border-left:#e1e0d2;width:147.6pt;border-bottom:windowtext 1pt solid;background-color:transparent;" width="197" valign="top"><span style="font-family:'Times New Roman';font-size:small;">Ground reference</span></td>
+<td style="border-right:windowtext 1pt solid;border-top:#e1e0d2;border-left:#e1e0d2;width:147.6pt;border-bottom:windowtext 1pt solid;background-color:transparent;" width="197" valign="top"><span style="font-family:'Times New Roman';font-size:small;">Ground</span></td>
+</tr>
+<tr>
+<td style="border-right:windowtext 1pt solid;border-top:#e1e0d2;border-left:windowtext 1pt solid;width:147.6pt;border-bottom:windowtext 1pt solid;background-color:transparent;" width="197" valign="top"><span style="font-family:'Times New Roman';font-size:small;">14</span></td>
+<td style="border-right:windowtext 1pt solid;border-top:#e1e0d2;border-left:#e1e0d2;width:147.6pt;border-bottom:windowtext 1pt solid;background-color:transparent;" width="197" valign="top"><span style="font-family:'Times New Roman';font-size:small;">Positive supply</span></td>
+<td style="border-right:windowtext 1pt solid;border-top:#e1e0d2;border-left:#e1e0d2;width:147.6pt;border-bottom:windowtext 1pt solid;background-color:transparent;" width="197" valign="top"><span style="font-family:'Times New Roman';font-size:small;">Power</span></td>
+</tr>
+</tbody>
+</table>
+<span style="font-family:'Times New Roman';font-size:small;"> </span>
+
+<strong><span style="font-size:16pt;font-family:Arial;" lang="EN-US"><br style="page-break-before:always;" /></span></strong>
+<h1><a><span style="color:#000000;"><span style="font-family:Arial;font-size:large;">4)</span><span style="font:7pt 'Times New Roman';"> </span><span style="font-family:Arial;font-size:large;">Development of the control program</span></span></a></h1>
+<span style="font-family:'Times New Roman';font-size:small;">This program is divided into following modules:</span>
+<ul>
+	<li><span style="font-family:'Times New Roman';font-size:small;">Initialization module</span>
+<ul>
+	<li><span style="font-family:'Times New Roman';font-size:small;">Port A Configuration</span></li>
+	<li><span style="font-family:'Times New Roman';font-size:small;">Port B Configuration</span></li>
+	<li><span style="font-family:'Times New Roman';font-size:small;">Frequency Setting</span></li>
+	<li><span style="font-family:'Times New Roman';font-size:small;">Interrupt Setting</span></li>
+</ul>
+</li>
+	<li><span style="font-family:'Times New Roman';font-size:small;">Interrupt handler modules</span>
+<ul>
+	<li><span style="font-family:'Times New Roman';font-size:small;">A/D Interrupt</span></li>
+	<li><span style="font-family:'Times New Roman';font-size:small;">TMR1 Interrupt </span></li>
+	<li><span style="font-family:'Times New Roman';font-size:small;">TMR0 Interrupt</span></li>
+</ul>
+</li>
+</ul>
+<span style="font-family:'Times New Roman';font-size:small;">With the reset and interrupt vector fixed, the program placed a jump instruction at the reset vector, and the destination of the jump is the actual beginning of the program. The program then calls the initialization module, and then enters an infinite loop and is ready for interrupts.</span>
+<h2><a><span style="color:#000000;"><em><span style="font-family:Arial;font-size:large;">a)</span></em><span style="font:7pt 'Times New Roman';"> </span><em><span style="font-family:Arial;font-size:large;">Initialization module</span></em></span></a></h2>
+<span style="font-family:'Times New Roman';font-size:small;">This module is spitted into 4 modules. These modules are independent, so they can be composed into one, but they are separated for easier debugging and understanding. </span>
+<h3><a><span style="color:#000000;"><span style="font-family:Arial;font-size:medium;">i)</span><span style="font:7pt 'Times New Roman';"> </span><span style="font-family:Arial;font-size:medium;">Port A Configuration</span></span></a></h3>
+<span style="font-family:'Times New Roman';font-size:small;">The task of this module is to set analog input and digital out pins. TRISA register is set to 1, indicates the pin RA0 is set to analog input, and the rest pings on PortA are set to digital output. The ANSEL register is also set to 1 to select RA0 for A/D conversation, and the ADCON0 is set to b'11000001' in accordance. After the configurations are finished, the first A/D conversation is triggered after a short wait.</span>
+<h3><a><span style="color:#000000;"><span style="font-family:Arial;font-size:medium;">ii)</span><span style="font:7pt 'Times New Roman';"> </span><span style="font-family:Arial;font-size:medium;">Port B Configuration</span></span></a></h3>
+<span style="font-family:'Times New Roman';font-size:small;">Because PortB is used for 7-segment LED display, both TRISB and PORTB registers are cleared to display nothing at the beginning.</span>
+<h3><a><span style="color:#000000;"><span style="font-family:Arial;font-size:medium;">iii)</span><span style="font:7pt 'Times New Roman';"> </span><span style="font-family:Arial;font-size:medium;">Frequency Setting</span></span></a></h3>
+<span style="font-family:'Times New Roman';font-size:small;">The internal clock is set to 4MHZ, which is specified in the assignment guideline. This is implemented by setting the OSCCON register to b'01101110'.</span>
+<h3><a><span style="color:#000000;"><span style="font-family:Arial;font-size:medium;">iv)</span><span style="font:7pt 'Times New Roman';"> </span><span style="font-family:Arial;font-size:medium;">Interrupt Setting</span></span></a></h3>
+<span style="font-family:'Times New Roman';font-size:small;">This project uses 3 interrupts, A/D, TMR0 and TMR1. A/D is used for A/D conversations, TMR1 for a 33HZ signal generator, and TMR0 for pulses. INTCON and PIE1 are configured to enable these interrupts, and T1CON and OPTION_REG are used to scale TMR0 to 1:16, and TMR1 to 1:1. TMR1L and TMR1H are initialized so that the first TMR1 overflow interrupt will occur 1/33 second later, and the timers are started when the configurations are done.</span>
+<h2><a><span style="color:#000000;"><em><span style="font-family:Arial;font-size:large;">b)</span></em><span style="font:7pt 'Times New Roman';"> </span><em><span style="font-family:Arial;font-size:large;">Interrupt handler modules</span></em></span></a></h2>
+<span style="font-family:'Times New Roman';font-size:small;">After necessary tasks of the interrupt handler are done, the flags bits of interrupts will be checked. If a flag bit of an interrupt is set, a corresponding handle routine will be called. Routinely interrupt handler tasks will be performed at last. </span>
+<h3><a><span style="color:#000000;"><span style="font-family:Arial;font-size:medium;">i)</span><span style="font:7pt 'Times New Roman';"> </span><span style="font-family:Arial;font-size:medium;">TMR1 Interrupt</span></span></a><span style="font-family:Arial;font-size:medium;"> </span></h3>
+<span style="font-family:'Times New Roman';font-size:small;">Both the initialization and the handler routine set TMR1H and TMR1L to 35233 to ensure the overflow interrupt will occur after 30303 cycles, or 1/33 seconds, thus generate a 33HZ clock. For convenience, a high pulse signal output for the Servomotor and an A/D conversation request is also placed here. In other words, the pulse is set to high every 1/33 seconds, and the A/D conversation is also triggered every 1/33 seconds. The TMR0 timer is also enabled to set the pulse to low after a period of time. This period is calculated after the voltage is read.</span>
+<h3><a><span style="color:#000000;"><span style="font-family:Arial;font-size:medium;">ii)</span><span style="font:7pt 'Times New Roman';"> </span><span style="font-family:Arial;font-size:medium;">A/D Interrupt</span></span></a></h3>
+<span style="font-family:'Times New Roman';font-size:small;">This interrupt handler does the heaviest job in the program. First, it copy the digitalized voltage into user defined variable named AnalogResultH and AnalogResultL, and AnalogResultL is abandoned since a continuum specified by AnalogResultH is enough. Then the duration of the high stage of the output pulse and the LAD output will be calculated. </span>
+
+<span style="font-family:'Times New Roman';font-size:small;"> </span>
+
+<span style="font-family:'Times New Roman';font-size:small;">According to the document of the Servo, a high stage of 0.36ms will cause the Servo turn to left, and 2.3 ms will cause it to turn right. Suppose the A/D result 0 means left, and 255 means right, then the duration of the high stage can be calculated by the following formula:</span>
+
+<span style="font-family:'Times New Roman';font-size:small;"> </span>
+
+<span style="font-family:'Times New Roman';font-size:small;">Duration       = 0.36+AnalogResultH/256 * 1.94 ms</span>
+
+<span style="font-size:small;"><span style="font-family:'Times New Roman';"> = 360+AnalogResultH*1,940/256   cycles</span></span>
+
+<span style="font-family:'Times New Roman';font-size:small;"> </span>
+
+<span style="font-family:'Times New Roman';font-size:small;">to store the duration in TMR0, we need to prescale it to fit. The upper bound of it is 2.3 ms, or 2,300 cycles. To make the maximum duration fit into a byte, the timer need to be prescaled to 1:16.</span>
+
+<span style="font-family:'Times New Roman';font-size:small;"> </span>
+
+<span style="font-family:'Times New Roman';font-size:small;">Duration =360/16+(AnalogResultH/256) *(1,940/16) ticks</span>
+
+<span style="font-size:small;"><span style="font-family:'Times New Roman';"> =22.5+ AnalogResultH/256* 121.25 ticks</span></span>
+
+<span style="font-family:'Times New Roman';font-size:small;"> </span>
+
+<span style="font-family:'Times New Roman';font-size:small;">Of course I can not do it with such precision with the little instruction set of the chip. Round downs are inevitable</span>
+
+<span style="font-family:'Times New Roman';font-size:small;"> </span>
+
+<span style="font-family:'Times New Roman';font-size:small;">Duration ≈22 + AnalogResultH/256*121</span>
+
+<span style="font-size:small;"><span style="font-family:'Times New Roman';"> ≈22 + -AnalogResultH/64 -AnalogResultH/128 -AnalogResultH/256</span></span>
+
+<span style="font-family:'Times New Roman';font-size:small;"> </span>
+
+<span style="font-family:'Times New Roman';font-size:small;">So, to make the TMR0 overflows Duration ticks after the TMR1 interrupt rise the pulse signal, the TMR0 register must be set to </span>
+
+<span style="font-family:'Times New Roman';font-size:small;">TMR0           =256- Duration.</span>
+
+<span style="font-family:'Times New Roman';font-size:small;">This result is stored in a variable named Time0Interval, and is used by the TMR1 interrupt handler routine. </span>
+
+<span style="font-family:'Times New Roman';font-size:small;"> </span>
+
+<span style="font-family:'Times New Roman';font-size:small;">This routine also scales the analog result to one digit value and displays it on a 7-segment LED. It is done by getting the high 4 bits of the high byte of the analog result.</span>
+<h3><a><span style="color:#000000;"><span style="font-family:Arial;font-size:medium;">iii)</span><span style="font:7pt 'Times New Roman';"> </span><span style="font-family:Arial;font-size:medium;">TMR0 Interrupt</span></span></a></h3>
+<span style="font-family:'Times New Roman';font-size:small;">This interrupt handler routine merely turn the TMR0 interrupt off, and output a low signal to end a pulse.</span>
+
+<span style="font-family:'Times New Roman';font-size:small;"> </span>
+
+<strong><span style="font-size:16pt;font-family:Arial;" lang="EN-US"><br style="page-break-before:always;" /></span></strong>
+<h1><a><span style="color:#000000;"><span style="font-family:Arial;font-size:large;">5)</span><span style="font:7pt 'Times New Roman';"> </span><span style="font-family:Arial;font-size:large;">Overview of testing done before burning the chip</span></span></a></h1>
+<span style="font-family:'Times New Roman';font-size:small;">The test is done in the emulator. After loading the program into emulator, and execute it, it reads the value set on RA0, and output a pulse every 1/33HZ.</span>
+
+&nbsp;
+
+<span style="font-size:12pt;font-family:'Times New Roman';" lang="EN-US"><br style="page-break-before:always;" /></span>
+
+</div></body></html>
