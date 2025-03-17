@@ -2,11 +2,11 @@
 =====================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 0
    :caption: 内容:
    :hidden:
 
-   序幕 <beforestart>  
+   序幕 <preclude>  
    设定 <mechanics/index> 
    机师 <pilots/index>
    机体 <units/index>
@@ -27,4 +27,6 @@
 在快速脱离地球联邦军队之后，库瓦特罗·巴吉纳大佐建立了反地球联合组织エゥーゴ。依赖于来源不明的资金，以及SIDE-1殖民地ロンデニオン的支持，掀起了对地球联邦政府的抵抗运动。 
 
 于是，战乱的火焰在这里燃烧，也许，这就是超级机器人们命中注定的最后一战。
+
+在开始的时候，需要:ref:`自定义主角<srw4_preclude>`。然后进入:ref:`游戏进程 <srw4_walkthrough>`。
 

@@ -1,16 +1,19 @@
 
+.. _srw4_mechanics:
+
 游戏设定
 =====================================
 
 .. include:: <isotech.txt>
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 0
    :caption: 内容:
+   :hidden:
 
    芯片 <items>
-   PS版本的变化<srw4schanges>
-   经验值公式 <expfoumla>
+   PS版本的变化<platform_differences>
+   经验值公式 <exp>
    地形适应 <topography>
    机体改造 <remodeling>
    气力 <willpower>
