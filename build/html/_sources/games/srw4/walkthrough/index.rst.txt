@@ -1,36 +1,38 @@
+.. _srw4_walkthrough:
+
 攻略流程
 =====================================
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 0
    :caption: 内容:
    :hidden:
 
-   第零话Ａ 接触Ａ <00A-ContactA>
-   第零话Ｂ 接触Ｂ <00B-ContactB>
-   第一话Ａ 発端Ａ <01A-TheBeginningA>
-   第一话Ｂ 発端Ｂ <01B-TheBeginningB>
-   第二话Ａ 謎の訪問者Ａ<02A-EnigmaticVisitorsA>
-   第二话Ｂ 謎の訪問者Ｂ<02B-EnigmaticVisitorsB>
-   第三话Ａ 新たな敵Ａ <03A-ANewEnemyA>
-   第三话Ｂ 特訓！大雪山おろしＢ  <03B-SpecialTraining!Dai-Setsu-ZanOroshiB>
-   第四话Ａ 特訓！大雪山おろしＡ <04A-SpecialTraining!Dai-Setsu-ZanOroshiA>
-   第四话Ｂ 新たな敵Ｂ <04B-ANewEnemyB>
-   第五话Ａ ブライトの帰還 <05A-BrightsReturn>
-   第五话Ｂ ダハ=マイロド <05B-DabaMylord>
-   第六话Ａ スタンピド <06A-Stampede>
-   第六话Ｂ 救出!コンバトラV <06B-RescueCombattlerV>
-   第七话 闘将ダイモス <07-BattleCommanderDaimoz>
-   第八话 戦場の愛 <08-LoveoftheBattlefield>
-   第九话 ザンボット3登场  <09-EnterZanbot3>
-   第十话Ａ 悲しき記憶Ａ <10A-SorrowfulMemoriesA>
-   第十话Ｂ 悲しき記憶Ｂ <10B-SorrowfulMemoriesB>
-   第十一话 目覚めよ！超獣機神  <11-WakeUpSuperBestialMachineGod>
-   第十二话Ａ 愛の行方 <12A-LovesWhereabouts>
-   第十二话Ｂ ガイゾックの恐怖 <12B-GuyzocksTerror>
+   第零话Ａ 接触 (真实系) <00a_contact_real>
+   第零话Ｂ 接触（超级系）<00b_contact_super>
+   第一话Ａ 発端 (真实系) <01a_the_beginning_real>
+   第一话Ｂ 発端（超级系）<01b_the_beginning_super>
+   第二话Ａ 謎の訪問者（速）<02a_enigmatic_visitors_fast>
+   第二话Ｂ 謎の訪問者（缓）<02b_enigmatic_visitors_slow>
+   第三话Ａ 新たな敵（速） <03a_a_new_enemy_fast>
+   第三话Ｂ 特訓！大雪山おろし（缓） <03b_special_training_dai_setsu_zan_oroshi_slow>
+   第四话Ａ 特訓！大雪山おろし（速） <04a_special_training_dai_setsu_zan_oroshi_fast>
+   第四话Ｂ 新たな敵（缓） <04b_a_new_enemy_slow>
+   第五话Ａ ブライトの帰還 <05a_brights_return>
+   第五话Ｂ ダハ=マイロド <05b_daba_my_lord>
+   第六话Ａ スタンピド <06a_stampede>
+   第六话Ｂ 救出!コンバトラV <06b_rescue_combattler_v>
+   第七话 闘将ダイモス <07_battle_commander_daimoz>
+   第八话 戦場の愛 <08_love_of_the_battlefield>
+   第九话 ザンボット3登场  <09_enter_zanbot_3>
+   第十话Ａ 悲しき記憶（太平洋侧） <10a_sorrowful_memories_pacific>
+   第十话Ｂ 悲しき記憶（日本海侧） <10b_sorrowful_memories_japanese_sea>
+   第十一话 目覚めよ！超獣機神  <11_wake_up_super_bestial_machine_god>
+   第十二话Ａ 愛の行方 <12a_loves_whereabouts>
+   第十二话Ｂ ガイゾックの恐怖 <12b_guyzocks_terror>
 
 因为血色宫殿和最后一话有三个版本所以至少三周目才能基本打完剧情，其中真实系和超级系都必须走一遍，所以建议的分支是
 
-* 第1话 真实系8回合以上完成 （ケーラ ジェガン）超级系 7回合以内完成 （ハサウェイ ネモ）
+* 第1话 真实系8回合以上完成 （ケーラ ジェガン）超级系 7回合以内完成 （ハサウェイ ネモ）（如果是PS版，则是16回合）
 * 恋人有无：真实系选择有 （バイアラン），超级系选择无，之后恋爱度事件，真实系选择增加恋爱度的，超级系选择减少。
 * 第10话前 真实系日本海侧 （カツ Gディフェンサー ジェガン サラ ガブスレイ Sガンダム ExSガンダム ロザミア） 超级系太平洋侧 （ルー）
 * 第12话前 真实系本隊，8回合内完成，超级系甲児
@@ -47,54 +49,54 @@
 
 游戏路线：
 
-* :ref:`beforestart` 游戏开始的时候会让你自定义主人公的属性
-* 第四次S: 开始时进入 :ref:`00A-ContactA` （真实系）或者 :ref:`00B-ContactB` （超级系）。
-* 第四次开头/第四次S第二话： 进入 :ref:`01A-TheBeginningA` （真实系）或者 :ref:`01B-TheBeginningB` （超级系）。
+* :ref:`序幕 <srw4_preclude>` 游戏开始的时候会让你自定义主人公的属性
+* 第四次S: 开始时进入 :doc:`00a_contact_real` （真实系）或者 :doc:`00b_contact_super` （超级系）。
+* 第四次开头/第四次S第二话： 进入 :doc:`01a_the_beginning_real` （真实系）或者 :doc:`01b_the_beginning_super` （超级系）。
     * 加入机体：トロイホース，マジンガーZ，アフロダイA，ボスボロット，ガンダム，ガンダムmkII，GP-01Fb，メタス，ガンキャノン，ゲッターロボ，ゲシュペンスト（真实系）/ゲシュペンスト（超级系），ガンタンク，マリンスペイザー
     * 加入机师：トーレス，兜甲児，さやか，ボス，アムロ＝レイ ，コウ＝ウラキ，エマ＝シーン，ファ＝ユイリィ，チャック＝キース ，リョウ，ハヤト，ベンケイ，真实系主人公/超级系主人公
-* 如果总回合数少于一定值（[SRW4]8，[SRW4S]16），下一话进入进入 :ref:`02A-EnigmaticVisitorsA` ，否则进入 :ref:`02B-EnigmaticVisitorsB`。
-* :ref:`02A-EnigmaticVisitorsA`：建议第四次超级系和第四次S真实系走这个路线。下一话进入 :ref:`03A-ANewEnemyA`。
+* 如果总回合数少于一定值（[SRW4]8，[SRW4S]16），下一话进入进入 :doc:`02a_enigmatic_visitors_fast` ，否则进入 :doc:`02b_enigmatic_visitors_slow`。
+* :doc:`02a_enigmatic_visitors_fast`：建议第四次超级系和第四次S真实系走这个路线。下一话进入 :doc:`03a_a_new_enemy_fast`。
     * 加入机体：エルガイム，ディザード
     * 加入机师：ダバ＝マイロード，ファンネリア＝アム，リリス＝ファウ
-* :ref:`02B-EnigmaticVisitorsB`。建议第四次真实系和第四次S超级系走这个路线。下一话进入 :ref:`03B-SpecialTraining!Dai-Setsu-ZanOroshiB`。
-* :ref:`03A-ANewEnemyA`：下一话进入 :ref:`04A-SpecialTraining!Dai-Setsu-ZanOroshiA`
-* :ref:`03B-SpecialTraining!Dai-Setsu-ZanOroshiB`：下一话进入 :ref:`04B-ANewEnemyB`。
+* :doc:`02b_enigmatic_visitors_slow`。建议第四次真实系和第四次S超级系走这个路线。下一话进入 :doc:`03b_special_training_dai_setsu_zan_oroshi_slow`。
+* :doc:`03a_a_new_enemy_fast`：下一话进入 :doc:`04a_special_training_dai_setsu_zan_oroshi_fast`
+* :doc:`03b_special_training_dai_setsu_zan_oroshi_slow`：下一话进入 :doc:`04b_a_new_enemy_slow`。
     * 追加武器：ゲッターロボ
-* :ref:`04A-SpecialTraining!Dai-Setsu-ZanOroshiA`：下一话进入 :ref:`05A-BrightsReturn`。
+* :doc:`04a_special_training_dai_setsu_zan_oroshi_fast`：下一话进入 :doc:`05a_brights_return`。
     * 追加武器：ゲッターロボ
-* :ref:`04B-ANewEnemyB`：下一话进入 :ref:`05B-DabaMylord`。
+* :doc:`04b_a_new_enemy_slow`：下一话进入 :doc:`05b_daba_my_lord`。
     * 加入机体：イーグルファイター，ランドクーガー，ランドライガー，ビッグモス，ジェガン，GMIII，リ・ガズィ
     * 加入机师：忍，沙羅，雅人，亮，ブライト，ケーラ，（副主人公）
     * 离队：トーレス
-* :ref:`05A-BrightsReturn`：如果选择有恋人，那么下一话进入 :ref:`06A-Stampede`，否则进入 :ref:`06B-RescueCombattlerV`。
+* :doc:`05a_brights_return`：如果选择有恋人，那么下一话进入 :doc:`06a_stampede`，否则进入 :doc:`06b_rescue_combattler_v`。
     * 加入机体：イーグルファイター，ランドクーガー，ランドライガー，ビッグモス，ネモ，GMIII，リ・ガズィ
     * 加入机师：忍，沙羅，雅人，亮，ブライト，ハサウェイ，（副主人公）
     * 离队：トーレス
-* :ref:`05B-DabaMylord`：如果选择有恋人，那么下一话进入 :ref:`06A-Stampede`，否则进入 :ref:`06B-RescueCombattlerV`。
+* :doc:`05b_daba_my_lord`：如果选择有恋人，那么下一话进入 :doc:`06a_stampede`，否则进入 :doc:`06b_rescue_combattler_v`。
     * 加入机体：エルガイム，ディザード，NT-1アレックス，ザク改
     * 加入机师：ダバ＝マイロード，ファンネリア＝アム，リリス＝ファウ，クリスチーナ＝マッケンジー，バーナード＝ワイズマン
-* :ref:`06A-Stampede`：下一话进入 :ref:`07-BattleCommanderDaimoz`
-* :ref:`06B-RescueCombattlerV`：下一话进入 :ref:`07-BattleCommanderDaimoz`。
-* :ref:`07-BattleCommanderDaimoz`：下一话进入 :ref:`08-LoveoftheBattlefield`。
+* :doc:`06a_stampede`：下一话进入 :doc:`07_battle_commander_daimoz`
+* :doc:`06b_rescue_combattler_v`：下一话进入 :doc:`07_battle_commander_daimoz`。
+* :doc:`07_battle_commander_daimoz`：下一话进入 :doc:`08_love_of_the_battlefield`。
     * 加入机体：ダイモス，ガルバーFX II
     * 加入机师：一矢，京四郎，ナナ
-* :ref:`08-LoveoftheBattlefield` ：下一话进入  :ref:`09-EnterZanbot3`。
+* :doc:`08_love_of_the_battlefield` ：下一话进入  :doc:`09_enter_zanbot_3`。
     * 加入机体：カルバリーテンプル
     * 加入机师：レッシィ
-* :ref:`09-EnterZanbot3`：选太平洋側下一话进入 :ref:`10A-SorrowfulMemoriesA` （建议超级系） 选日本海側进入 :ref:`10B-SorrowfulMemoriesB` （建议真实系）
+* :doc:`09_enter_zanbot_3`：选太平洋側下一话进入 :doc:`10a_sorrowful_memories_pacific` （建议超级系） 选日本海側进入 :doc:`10b_sorrowful_memories_japanese_sea` （建议真实系）
     * 加入机体：ザンボット3/ザンバード ザンブル ザンベース
     * 加入机师：勝平，宇宙太，恵子
-* :ref:`10A-SorrowfulMemoriesA` ：下一话进入 :ref:`11-WakeUpSuperBestialMachineGod`
+* :doc:`10a_sorrowful_memories_pacific` ：下一话进入 :doc:`11_wake_up_super_bestial_machine_god`
     * 加入机体：Zガンダム
     * 加入机师：カミーユ ルー
     * 替换机体：トロイホース→アーガマ 改造保留
-* :ref:`10B-SorrowfulMemoriesB`：下一话进入 :ref:`11-WakeUpSuperBestialMachineGod`
+* :doc:`10b_sorrowful_memories_japanese_sea`：下一话进入 :doc:`11_wake_up_super_bestial_machine_god`
     * 加入机体：Zガンダム Gディフェンサー， ジェガン
     * 加入机师：カミーユ カツ
     * 替换机体：トロイホース→アーガマ 改造保留
-* :ref:`11-WakeUpSuperBestialMachineGod`： 选本隊 下一话进入 :ref:`12B-GuyzocksTerror` （建议真实系），选甲児たち下一话进入 :ref:`12A-LovesWhereabout` （建议超级系）
-* :ref:`12B-GuyzocksTerror`：下一话进入浮上
-* :ref:`12A-LovesWhereabout`：下一话进入浮上
+* :doc:`11_wake_up_super_bestial_machine_god`： 选本隊 下一话进入 :doc:`12b_guyzocks_terror` （建议真实系），选甲児たち下一话进入 :doc:`12a_loves_whereabouts` （建议超级系）
+* :doc:`12a_loves_whereabouts`：下一话进入浮上
+* :doc:`12b_guyzocks_terror`：下一话进入浮上
 * 浮上：下一话进入空飛ぶマジンガーＺ
     * 加入机体：ダンバイン，ボチューン，（バストール）
     * 加入机师：ショウ，チャム，マーベル，（ガラリア）

@@ -4,18 +4,18 @@
 ===============================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 0
    :caption: 内容:
 
-   机动战士高达登场机体 <MobileSuitGundam.rst>
-   机动战士Z高达登场机体 <MobileSuitZGundam.rst>
-   机动战士高达0080登场机体 <MobileSuitGundam0080.rst>
-   机动战士高达0083登场机体 <MobileSuitGundam0083.rst>
-   重战机登场机体 <HeavyMetalLGaim.rst>
-   魔神Z/大魔神/UFO机器人 古连泰沙登场机体 <MazingerZ.rst>   
-   盖塔机器人/盖塔机器人G/真盖塔机器人登场机体 <GetterRobo.rst>
-   勇者莱汀登场机体 <BraveRaideen.rst>
-   原创机体 <BanprestoOriginals.rst>
+   机动战士高达登场机体 <mobile_suit_gundam.rst>
+   机动战士Z高达登场机体 <mobile_suit_z_gundam.rst>
+   机动战士高达0080登场机体 <mobile_suit_gundam_0080.rst>
+   机动战士高达0083登场机体 <mobile_suit_gundam_0083.rst>
+   重战机登场机体 <heavy_metal_l_gaim.rst>
+   魔神Z/大魔神/UFO机器人 古连泰沙登场机体 <mazinger_z.rst>   
+   盖塔机器人/盖塔机器人G/真盖塔机器人登场机体 <getter_robo.rst>
+   勇者莱汀登场机体 <reideen_the_brave .rst>
+   原创机体 <banpresto_originals.rst>
 
 --------------
 属性 

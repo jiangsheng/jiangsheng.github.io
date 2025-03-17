@@ -1,4 +1,4 @@
-.. _deployOrder:
+.. _srw4_deployOrder:
 
 出击顺序
 =====================
