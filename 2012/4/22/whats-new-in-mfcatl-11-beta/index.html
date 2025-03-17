@@ -1,0 +1,21 @@
+<!doctype html><html><head><meta charset="UTF-8"<title>What's new in MFC/ATL 11 Beta</head><body>Note this post is on <a class="zem_slink" title="Microsoft Visual Studio" href="http://en.wikipedia.org/wiki/Microsoft_Visual_Studio" rel="wikipedia" target="_blank">Visual Studio</a> 11 Beta, you can download it from <a href="http://www.microsoft.com/click/services/Redirect2.ashx?CR_CC=200098129">http://www.microsoft.com/visualstudio/11/en-us/downloads</a>
+
+Since <a href="http://blogs.msdn.com/b/b8/archive/2012/02/09/building-windows-for-the-arm-processor-architecture.aspx">Sinofsky posted about no desktop apps on Windows on ARM (WOA)</a>, it looks like MFC and <a class="zem_slink" title="Active Template Library" href="http://en.wikipedia.org/wiki/Active_Template_Library" rel="wikipedia" target="_blank">ATL</a> are going to support <a class="zem_slink" title="Metro (design language)" href="http://en.wikipedia.org/wiki/Metro_%28design_language%29" rel="wikipedia" target="_blank">metro-style</a> apps, although most ATL classes are not going to be compatible with metro style apps.
+<blockquote>#if !defined(_M_IX86) &amp;&amp; !defined(_M_AMD64) &amp;&amp; !defined(_M_ARM)
+#error Compiling for unsupported platform. Only x86, x64 and ARM platforms are supported by MFC.
+#endif</blockquote>
+DAO support for ARM is missing, just like the lack of DAO support for 64 bit apps. Jet was deprecated a while ago, no surprise here.
+
+You can now decide <a href="http://blogs.msdn.com/b/vcblog/archive/2012/02/06/10263387.aspx">whether you want MFC's feature pack code when static linking</a>.
+
+Added support for RichEdit 4.1. About time.
+
+MFC now introduces dependency on uxtheme.dll and dwmapi.dll. Not sure why applications need to check MFC for DWM status.
+
+Lots of defensive programming added to OLE and <a class="zem_slink" title="ActiveX Document" href="http://en.wikipedia.org/wiki/ActiveX_Document" rel="wikipedia" target="_blank">ActiveX document</a> support. MFC developers have too much free time? I thought ActiveX document was dead. Or maybe someone else is pushing those changes, like Adobe or the Office team. Or Microsoft's security police. Lots of function prototype changes, probably because MFC headers need to pass <a href="http://msdn.microsoft.com/en-us/library/hh409293(v=vs.110).aspx">static code analysis</a>. Some other security improvements, like loading known Dlls only from system path, skipping <a href="http://msdn.microsoft.com/en-us/library/windows/desktop/ms682586(v=vs.85).aspx">DLL search paths</a>.  CDatabase now stores the connection string in memory in encrypted form.
+
+Some new OS <a class="zem_slink" title="Application programming interface" href="http://en.wikipedia.org/wiki/Application_programming_interface" rel="wikipedia" target="_blank">API</a> exposure like CFile gets a lot more <a class="zem_slink" title="NTFS" href="http://en.wikipedia.org/wiki/NTFS" rel="wikipedia" target="_blank">NTFS</a>-specific attributes. CFileDialog gets a pick non-system folder mode.
+
+Some design changes are head-scratching, CPropertyPage gets a GetParentSheet function. Looks like the parent of the page may no longer be a property sheet.
+
+In summary, there isn't much code change in MFC. The demands I see from community forums are mostly on C++11, which is not surprisingly the focus of the <a class="zem_slink" title="Visual C++" href="http://en.wikipedia.org/wiki/Visual_C%2B%2B" rel="wikipedia" target="_blank">Visual C++</a> team in this release and probably will continue for a while.</body></html>

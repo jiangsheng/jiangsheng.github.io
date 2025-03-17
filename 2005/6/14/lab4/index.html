@@ -1,0 +1,129 @@
+<!doctype html><html><head><meta charset="UTF-8"<title>Lab4</head><body><div id="msgcns!1BE894DEAF296E0A!187" class="bvMsg"><font size="2">
+<p>;=====================================================================</p>
+<p>; lab4.asm - Example function call to get the 20th Fibonacci number</p>
+<p>;; Author: Sheng_Jiang</p>
+<p>; Course: COSC 2425</p>
+<p>; Date: 6/13/05;=====================================================================</p>
+<p>.386</p>
+<p>.MODEL flat, stdcall</p>
+<p>option casemap:none</p>
+<p></p>
+<p>include windows.inc ; always first</p>
+<p>include macros.asm ; MASM support macros</p>
+<p>; -----------------------------------------------------------------</p>
+<p>; include files that have MASM format prototypes for function calls</p>
+<p>; -----------------------------------------------------------------</p>
+<p>include masm32.inc</p>
+<p>include gdi32.inc</p>
+<p>include user32.inc</p>
+<p>include kernel32.inc</p>
+<p>; ------------------------------------------------</p>
+<p>; Library files that have definitions for function</p>
+<p>; exports and tested reliable prebuilt code.</p>
+<p>; ------------------------------------------------</p>
+<p>includelib masm32.lib</p>
+<p>includelib gdi32.lib</p>
+<p>includelib user32.lib</p>
+<p>includelib kernel32.lib</p>
+<p></p>
+<p>;costants</p>
+<p>cr equ 0dh</p>
+<p>lf equ 0ah </p>
+<p>.Data</p>
+<p>.STACK 4096h ;RECURSION need large stacks</p>
+<p></p>
+<p>.CODE</p>
+<p></p>
+<p>;Function Fibonacci returns n'th Fibonacci number</p>
+<p>;It uses RECURSION</p>
+<p>;__stdcall unsigned int f(int x)</p>
+<p>;&#123;</p>
+<p>; return (x&lt;2) ? 1 : f(x-1) + f(x-2);</p>
+<p>;&#125;</p>
+<p>;usage: </p>
+<p>;push SomethingToAllocateTheReturnValue</p>
+<p>;push Parameter;</p>
+<p>;call Fibonacci</p>
+<p>;stack changes during function call:12</p>
+<p>Fibonacci PROC</p>
+<p>push ebp</p>
+<p>mov ebp , esp</p>
+<p>push ecx ; this register is used to calculate the parameters of the function calls</p>
+<p>push esi ; sum goes here</p>
+<p>FibonacciFunctionBegin: </p>
+<p>mov ecx,[ebp+8] ;ecx=param1 = esp/*old*/+4/*new esp*/+4/*pushed ebp*/</p>
+<p>cmp ecx,2 ;ecx&lt;2 ? </p>
+<p>jge FibonacciRecursion ;return f(x-1) + f(x-2);</p>
+<p>mov esi,1 ;otherwise return 1</p>
+<p>jmp FibonacciCleanup ;exit function</p>
+<p>FibonacciRecursion:</p>
+<p>dec ecx ;calculate f(x-1)</p>
+<p>push ecx ;allocate the returnValue</p>
+<p>push ecx ;ecx=x-1</p>
+<p>call Fibonacci</p>
+<p>pop esi</p>
+<p></p>
+<p>dec ecx ;calculate f(x-2)</p>
+<p>push ecx ;allocate the returnValue</p>
+<p>push ecx ;ecx=x-2</p>
+<p>call Fibonacci</p>
+<p>pop ecx</p>
+<p>add esi,ecx</p>
+<p>FibonacciCleanup:</p>
+<p>mov dword ptr [ebp+12],esi; //set return values</p>
+<p>pop esi </p>
+<p>pop ecx</p>
+<p></p>
+<p>mov esp,ebp</p>
+<p>pop ebp</p>
+<p>ret 4</p>
+<p>Fibonacci ENDP</p>
+<p>;int main(int argc, char* argv[])</p>
+<p>;&#123;</p>
+<p>; printf(&quot;the 20th Fibonacci number is:rn&quot;;</p>
+<p>; return 0;</p>
+<p>;&#125;</p>
+<p>main PROC</p>
+<p>int 3</p>
+<p>push ecx ;allocate the return value</p>
+<p>push 13 ;</p>
+<p>call Fibonacci</p>
+<p>print chr$(&quot;the 20th Fibonacci number is:&quot;,cr,lf)</p>
+<p>pop ecx</p>
+<p>print str$(ecx);</p>
+<p>print chr$(cr,lf)</p>
+<p>exit</p>
+<p>main ENDP</p>
+<p>END main</p>
+<p> </p><font size="2">
+<p># makefile for Lab4</p>
+<p>PROJECT = Lab4</p>
+<p>NAME = Sheng_Jiang</p>
+<p>Date = 6/13/05</p>
+<p>ROOTDRIVE = C</p>
+<p>VERSION = V1</p>
+<p>SRCS = </p>
+<p>$(PROJECT).asm</p>
+<p>makefile </p>
+<p>MASM32 = $(ROOTDRIVE):/masm32</p>
+<p>ML = $(MASM32)/bin/ml</p>
+<p>LINK = $(MASM32)/bin/link</p>
+<p>Zip = H:/mydoc/Tools/Bin/zip</p>
+<p>DEBUG = c:/masm32/debug/windbg</p>
+<p> </p>
+<p>MLFLAGS = /I. /I $(MASM32)include /I $(MASM32)macros /Zi /Zd /Zf /c /Fl /coff /Cp</p>
+<p>LINKFLAGS = /subsystem:console /libpath:$(MASM32)lib /debug </p>
+<p>DEBUGFLAGS = -QY -g -G -WF $(PROJECT).WEW</p>
+<p>all: $(PROJECT).exe</p>
+<p>$(PROJECT).obj: $(PROJECT).asm</p>
+<p>$(ML) $(MLFLAGS) $(PROJECT).asm</p>
+<p>$(PROJECT).exe: $(PROJECT).obj</p>
+<p>$(LINK) $(LINKFLAGS) $(PROJECT).obj</p>
+<p>clean:</p>
+<p>del $(PROJECT).exe *.obj *.lst *.map *.pdb *.ilk</p>
+<p>zip: clean</p>
+<p>del $(NAME)_$(PROJECT)_$(VERSION).zip</p>
+<p>$(Zip) $(NAME)_$(PROJECT)_$(VERSION).zip $(SRCS)</p>
+<p>debug: $(PROJECT).exe</p>
+<p>$(DEBUG) $(DEBUGFLAGS) $(PROJECT).exe</p>
+<p> </p></font></font></div></body></html>

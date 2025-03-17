@@ -1,0 +1,24 @@
+<!doctype html><html><head><meta charset="UTF-8"<title>PRB: ICustomDoc::SetUIHandler Causes Changes in Save As Dialog</head><body><div id="msgcns!1BE894DEAF296E0A!483" class="bvMsg">
+<div>For the description of this problem, see <a href="http://support.microsoft.com/kb/330441">http://support.microsoft.com/kb/330441</a>.</div>
+<div>A workaround is <a href="http://blog.joycode.com/jiangsheng/archive/2005/07/09/58754.aspx">delegating DHTML commands </a>to the origional webbrowser object through its IOleCommandTarget interface. A sample can be found at <a href="http://www.codeproject.com/atl/popupblocker.asp">http://www.codeproject.com/atl/popupblocker.asp</a>:</div>
+<div>STDMETHOD(Exec)(
+/*[in]*/ const <a class="zem_slink" title="Globally unique identifier" rel="wikipedia" href="http://en.wikipedia.org/wiki/Globally_unique_identifier">GUID</a> *pguidCmdGroup,
+/*[in]*/ <a class="zem_slink" title="Word (computing)" rel="wikipedia" href="http://en.wikipedia.org/wiki/Word_%28computing%29">DWORD</a> nCmdID,
+/*[in]*/ DWORD nCmdExecOpt,
+/*[in]*/ VARIANTARG *pvaIn,
+/*[in,out]*/ VARIANTARG *pvaOut)
+{
+if (nCmdID == OLECMDID_SHOWSCRIPTERROR)
+{
+// Don't show the error dialog, but
+// continue running scripts on the page.
+(*pvaOut).vt = VT_BOOL;
+(*pvaOut).boolVal = VARIANT_TRUE;
+return S_OK;
+}
+return m_spDefaultOleCommandTarget-&gt;Exec(pguidCmdGroup, nCmdID,
+nCmdExecOpt, pvaIn, pvaOut);
+}</div>
+<div>By redirecting the ole commands to the original client site, the save as options are restored.</div>
+<div>BTW, the sentence "This means that you must host the <a class="zem_slink" title="Web browser" rel="wikipedia" href="http://en.wikipedia.org/wiki/Web_browser">Web browser</a> control must be hosted" in the article seems confusing.</div>
+</div></body></html>

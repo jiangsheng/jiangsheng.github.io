@@ -1,0 +1,80 @@
+<!doctype html><html><head><meta charset="UTF-8"<title>How to use Visual C++ with Perl</head><body><div id="msgcns!1BE894DEAF296E0A!439" class="bvMsg">
+<div>
+
+&nbsp;
+<h1>SUMMARY</h1>
+<a class="zem_slink" title="Visual C++" rel="homepage" href="http://msdn2.microsoft.com/en-us/visualc/default.aspx">Microsoft Visual C</a>++ and later do not support perl scripts by default. That is, the Developer Studio does not associate any special significance to perl scripts without being informed otherwise. However, there are several viable options, namely custom build rules, which enable the creation of projects that depend directly upon perl scripts.
+
+The remainder of this article discusses the following three methods for adding perl script files to a Visual C++ project:
+<ol>
+	<li>Using custom build rules</li>
+	<li>Using an makefile project</li>
+	<li>Creating an option on the Tools menu to execute perl scripts as needed</li>
+</ol>
+<h2>Method 1: Using custom build rules</h2>
+<ol>
+	<li>Start the Visual C++ Developer Studio, Msdev.exe.</li>
+	<li>Create and save a hello world console project</li>
+	<li>From the Insert menu, choose Files into Project. In the Insert Files into Project dialog box, select a perl script an All Files Type and press OK</li>
+	<li>From the Build menu, choose Settings. In the Settings For list box in the Project Settings dialog box, expand the current configuration target such that the perl script file is visible. Highlight only the perl script file.</li>
+	<li>Select the Custom Build tab.</li>
+	<li>In the first line of the Build command(s) box, enter the full path and file name for perl, the desired <a class="zem_slink" title="Command-line interface" rel="wikipedia" href="http://en.wikipedia.org/wiki/Command-line_interface">command line</a> switches, and the path of the perl script. The latter can be obtained by right click the file in the file view, and select properties from the <a class="zem_slink" title="Context menu" rel="wikipedia" href="http://en.wikipedia.org/wiki/Context_menu">context menu</a>. If Perl.exe is in the C:PerlBIN directory, the entry would appear as follows:
+C:Perlbinperl.exe Test3.pl &lt; input1.txt</li>
+	<li>Type something in the output box</li>
+	<li>Press OK in the Project Settings dialog box to save your changes</li>
+	<li>The target is now ready to be built. From the Build menu, select Rebuild All. Perl.exe will be invoked to execute the script.</li>
+	<li>The following is the console output :
+<pre>--------------------Configuration: test3 - Win32 Debug--------------------Performing Custom Build Step on Test3.pl
+Encrypt/Decrypt:dEnter the key:relationsEnter the text:ks me hz bbl ks me mpog aj xse jcsflzsyto be or not to be that is the question
+Compiling...
+StdAfx.cpp
+Compiling...
+test3.cpp
+Linking...test3.exe - 0 error(s), 0 warning(s)</pre>
+</li>
+</ol>
+<h2>Method 2 Using an makefile project</h2>
+<ol>
+	<li>Start the Visual C++ Developer Studio, Msdev.exe.</li>
+	<li>Create a makefile project</li>
+	<li>In the command line box, type the perl command line.  If Perl.exe is in the C:\Perl\BIN directory, the text would appear as follows:
+C:\Perl\bin\perl.exe Test3.plx &lt; input1.txt</li>
+	<li>Type the command line again for the release configuration</li>
+	<li>Click "Finish" to save your changes</li>
+	<li>The target is now ready to be built. From the Build menu, select Rebuild All. Perl.exe will be invoked to execute the script.</li>
+	<li>The following is the console output :
+<pre>--------------------Configuration: Test2 - Win32 Debug--------------------  Encrypt/Decrypt:d  Enter the key:relations  Enter the text:ks me hz bbl ks me mpog aj xse jcsflzsy  to be or not to be that is the question  Test2.exe - 0 error(s), 0 warning(s)</pre>
+</li>
+</ol>
+<h2>Method 3 Creating an option on the Tools menu to execute perl scripts as needed</h2>
+Create an option on the Tools menu to execute a perl script as needed. The following setups can be used to create Tools menu items that print the current file with line number:
+<ol>
+	<li>From the Tools menu, choose the Customize option</li>
+	<li>Select the Tools tab in the Customize dialog box. Press Add.</li>
+	<li>Specify the complete path to Perl.exe in the Command edit field of the Add Tool dialog box, or use the Browse button feature, and press OK.</li>
+	<li>Set up the Perl.exe menu option as follows:
+<pre>      Menu Text:  &amp;Print Current File with Line Number      Command:        Arguments (May vary between versions):  FPrinter.pl $(FileName)$(FileExt)
+      Initial Directory (May vary between versions):  $(FileDir)       Check the box for:   "Redirect to Output Window"</pre>
+</li>
+	<li>Press the Close button.</li>
+	<li>Create a perl script file named FPrinter.pl inside the project directory</li>
+	<li>Open FPrinter.pl  in a text editor such as notepad, and type the perl script as follows
+<pre>$numArgs = $#ARGV + 1;
+undef $/; # input record separator
+#for every file in command line
+foreach $argnum (0 .. $#ARGV) {
+	$FileName=$ARGV[$argnum];  	open (SourceFile, $FileName) || die "couldn't open the file!".$FileName;  	open(IN,$FileName);	$_=&lt;IN&gt;; # slurp!	close(IN);	$count=0;	while(m/^(.*)$/mg){		$count++;		print "[".sprintf("%.4d",$count)."]t".$1."n";	}
+}</pre>
+</li>
+	<li>Close and save FPrinter.pl</li>
+	<li>If the current file is FPrinter.pl, the script results will appear in the build output window as follows.
+<pre>  [0001] $numArgs = $#ARGV + 1;  [0002] undef $/; # input record separator  [0003] #for every file in command line  [0004] foreach $argnum (0 .. $#ARGV) {  [0005] $FileName=$ARGV[$argnum];  [0006] open (SourceFile, $FileName) || die "couldn't open the file!".$FileName;  [0007] open(IN,$FileName);  [0008] $_=&lt;IN&gt;; # slurp!  [0009] close(IN);  [0010] $count=0;  [0011] while(m/^(.*)$/mg){  [0012] $count++;  [0013] print "[".sprintf("%.4d",$count)."]t".$1."n";  [0014] }  [0015] }  [0016]   Tool returned code: 0</pre>
+</li>
+</ol>
+References:
+<ul>
+	<li><a href="http://support.microsoft.com/kb/q106399/"><span style="color:#800080;"><span style="text-decoration:underline;">How to use the Development Studio or Visual Workbench with MASM (MSKB)</span></span></a></li>
+	<li><a href="http://www.codeproject.com/debug/trace_locate.asp"><span style="text-decoration:underline;"><span style="color:#800080;">Double-click on the trace message in the Output window in Developer Studio to get to the line of code</span></span></a> (<a class="zem_slink" title="CodeProject" rel="homepage" href="http://www.codeproject.com/">CodeProject</a>)</li>
+</ul>
+</div>
+</div></body></html>

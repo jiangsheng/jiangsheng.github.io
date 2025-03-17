@@ -1,0 +1,80 @@
+<!doctype html><html><head><meta charset="UTF-8"<title>Lab2</head><body><div id="msgcns!1BE894DEAF296E0A!184" class="bvMsg"><font size="2">
+<p># makefile for program 1</p>
+<p>PROJECT = Lab2</p>
+<p>NAME = Sheng_Jiang</p>
+<p>Date = 5/25/05</p>
+<p>ROOTDRIVE = C</p>
+<p>VERSION = V1</p>
+<p>SRCS = </p>
+<p>$(PROJECT).asm</p>
+<p>makefile </p>
+<p>MASM32 = $(ROOTDRIVE):/masm32</p>
+<p>ML = $(MASM32)/bin/ml</p>
+<p>LINK = $(MASM32)/bin/link</p>
+<p>Zip = H:/mydoc/Tools/Bin/zip</p>
+<p>MLFLAGS = /I. /I $(MASM32)include /Zi /Zd /Zf /c /Fl /coff /Cp</p>
+<p>LINKFLAGS = /subsystem:console /libpath:$(MASM32)lib</p>
+<p>all: $(PROJECT).exe</p>
+<p>$(PROJECT).obj: $(PROJECT).asm</p>
+<p>$(ML) $(MLFLAGS) $(PROJECT).asm</p>
+<p>$(PROJECT).exe: $(PROJECT).obj</p>
+<p>$(LINK) $(LINKFLAGS) $(PROJECT).obj</p>
+<p>clean:</p>
+<p>del $(PROJECT).exe *.obj *.lst *.map</p>
+<p>zip: clean</p>
+<p>del $(NAME)_$(PROJECT)_$(VERSION).zip</p>
+<p>$(Zip) $(NAME)_$(PROJECT)_$(VERSION).zip $(SRCS)</p><font size="2">
+<p>;=====================================================================</p>
+<p>; hello.asm - Example Assembler program</p>
+<p>; Propose: a program that displays the following information on the console: </p>
+<p>; Line 1: full name </p>
+<p>; Line 2: birthday </p>
+<p>; Line 3: ACC student ID number </p>
+<p>; Line 4: preferred email address </p>
+<p>; Course: COSC 2425</p>
+<p>; Author: Sheng Jiang</p>
+<p>; Date: 5/23/05</p>
+<p>;=====================================================================</p>
+<p>.386</p>
+<p>.MODEL flat, stdcall</p>
+<p>; define a few constants</p>
+<p>cr equ 0dh</p>
+<p>lf equ 0ah</p>
+<p>STD_OUTPUT_HANDLE equ -11</p>
+<p></p>
+<p>; win32 declarations</p>
+<p>; kernel32.exe</p>
+<p>GetStdHandle proto near32 stdcall,</p>
+<p>nStdHandle:dword</p>
+<p>WriteFile proto near32 stdcall,</p>
+<p>hfile:dword, lpbuff:near32, </p>
+<p>lmsg:dword, lwrt:near32, lpovr:near32</p>
+<p>ExitProcess proto near32 stdcall, </p>
+<p>dwExitCode:dword</p>
+<p>;masm32 includes</p>
+<p>include masm32.inc</p>
+<p>includelib masm32.lib</p>
+<p>;win32 includes</p>
+<p>includelib kernel32.lib</p>
+<p>;variables </p>
+<p>.DATA</p>
+<p>;Handle of the standard output</p>
+<p>nStdHandle dword ? </p>
+<p>;string to print</p>
+<p>lpBuffer BYTE 'Sheng Jiang',cr,lf,'',cr,lf,'',cr,lf,'sheng_jiang',cr,lf,0</p>
+<p>;string length</p>
+<p>nNumberOfBytesToWrite dword $-lpBuffer</p>
+<p>;bytes written</p>
+<p>nNumberOfBytesWritten dword ?</p>
+<p>.CODE</p>
+<p>SayHello PROC</p>
+<p>; first get a handle to stdout for output from win32</p>
+<p>invoke GetStdHandle, STD_OUTPUT_HANDLE</p>
+<p>; save it for later</p>
+<p>mov nStdHandle,eax</p>
+<p>; now print the message - lots of parameters needed for this one!</p>
+<p>invoke WriteFile, nStdHandle, near ptr lpBuffer, nNumberOfBytesToWrite, near ptr nNumberOfBytesWritten,0</p>
+<p>; go back to the operating system when done</p>
+<p>invoke ExitProcess, 0</p>
+<p>SayHello ENDP</p>
+<p>END SayHello</p></font></font></div></body></html>

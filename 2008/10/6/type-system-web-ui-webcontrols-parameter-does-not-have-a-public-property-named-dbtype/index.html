@@ -1,0 +1,15 @@
+<!doctype html><html><head><meta charset="UTF-8"<title>Type ‘System.Web.UI.WebControls.Parameter’ does not have a public property named ‘DbType’</head><body><div id="msgcns!1BE894DEAF296E0A!816" class="bvMsg">
+
+In Visual C# 2005 SP1, I added an object data source to a web page that uses my business class as the select method. The method has one parameter of type <a class="zem_slink" title="Globally unique identifier" rel="wikipedia" href="http://en.wikipedia.org/wiki/Globally_unique_identifier">Guid</a>. The data source wizard generates code like this
+
+&lt;asp:Parameter DbType="Guid" Name="rowId" /&gt;
+
+Although the web server has <a class="zem_slink" title=".NET Framework" rel="homepage" href="http://msdn.microsoft.com/netframework/">.Net 2.0</a> SP1 installed (I checked the registry), it still throws an error
+
+Type 'System.Web.UI.WebControls.Parameter' does not have a public property named 'DbType'
+
+The walk around is easy:
+
+&lt;asp:Parameter Type="Object" Name="rowId" /&gt;
+
+</div></body></html>
