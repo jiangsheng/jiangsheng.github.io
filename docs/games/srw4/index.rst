@@ -6,11 +6,12 @@
    :caption: 内容:
    :hidden:
 
-   序幕 <preclude>  
+   初期设定 主人公、恋人诞生日 <preclude>  
    设定 <mechanics/index> 
    机师 <pilots/index>
    机体 <units/index>
    攻略流程 <walkthrough/index>
+   隐藏要素 <missable>
    
 第三次超级机器人大战之后，三个月过去了…… 
 
@@ -28,5 +29,5 @@
 
 于是，战乱的火焰在这里燃烧，也许，这就是超级机器人们命中注定的最后一战。
 
-在开始的时候，需要:ref:`自定义主角<srw4_preclude>`。然后进入:ref:`游戏进程 <srw4_walkthrough>`。
+在开始的时候，需要 :doc:`自定义主角<preclude>` 。注意主角的选择影响 :doc:`missable`。然后进入 :doc:`游戏进程 <walkthrough/index>` 。
 
