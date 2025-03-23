@@ -39,6 +39,11 @@ Buildings
 ---------
 Immune to Radiation,  AP Damage Resistance +20% 
 
+------------------
+Broken Formation
+------------------
+When routed, Speed +25%, attack efficiency -50%.
+
 -------
 Bunkers
 -------
@@ -195,6 +200,11 @@ Jungle (Vehicles)
 When in jungles, Vehicles Gun Vulnerability +20% and Max Speed to Slow. 
 
 ---------------
+Kneeling
+---------------
+When Infantries are attacked into kneeling, -20% speed.
+
+---------------
 King Tiger Tank
 ---------------
 Allows Armor HQ to recruit King Tiger Tank. Researched at a Motor Pool.
@@ -259,6 +269,11 @@ AT Infantry Attack +15. Researched at an Motor Pool.
 Plentiful Ammunition
 --------------------
 Regiments Resupply Rate +10. Researched at an Artillery Brigade.
+
+------------
+Prone 
+------------
+-60% max speed.
 
 ---------------
 Proximity Fuses

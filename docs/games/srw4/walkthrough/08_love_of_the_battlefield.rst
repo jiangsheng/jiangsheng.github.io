@@ -1,4 +1,4 @@
-.. _08-LoveoftheBattlefield:
+.. _srw4_walkthrough_08_love_of_the_battlefield:
 
 第八话 戦場の愛
 ===============================

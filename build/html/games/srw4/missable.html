@@ -1,0 +1,835 @@
+
+<!DOCTYPE html>
+
+
+<html lang="zh-CN" data-content_root="../../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>隐藏要素 &#8212; jiangsheng 1 documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css?v=906dce5e" />
+  
+  <!-- So that users can add custom icons -->
+  <script src="../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+
+    <script src="../../_static/documentation_options.js?v=78b98999"></script>
+    <script src="../../_static/doctools.js?v=9bcbadda"></script>
+    <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <script src="../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'games/srw4/missable';</script>
+    <link rel="canonical" href="https://git.jiangsheng.net/build/html/games/srw4/missable.html" />
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="mjelct3" href="../mjelct3/index.html" />
+    <link rel="prev" title="第十三话 浮上" href="walkthrough/13_surfacing.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="zh-CN"/>
+  <meta name="docsearch:version" content="" />
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-3 navbar-header-items__start">
+    
+      <div class="navbar-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../../reference.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">jiangsheng 1 documentation</p>
+  
+</a></div>
+    
+  </div>
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../blogs/index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          
+          
+            <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../blogs/index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+          
+        
+      </div>
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+<h3><a href="../../reference.html">Table of Contents</a></h3>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">内容:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../README.html">Welcome to jiangsheng’s documentation!</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../README.html#indices-and-tables">Indices and tables</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Games</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../axis_and_allies/index.html">Axis and Allies</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../frontmission/index.html">Front Mission</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="index.html">Super Robot Wars 4</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="preclude.html">初期设定 主人公、恋人诞生日</a></li>
+<li class="toctree-l3"><a class="reference internal" href="mechanics/index.html">设定</a></li>
+<li class="toctree-l3"><a class="reference internal" href="pilots/index.html">机师</a></li>
+<li class="toctree-l3"><a class="reference internal" href="units/index.html">机体</a></li>
+<li class="toctree-l3"><a class="reference internal" href="walkthrough/index.html">攻略流程</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">隐藏要素</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#id2">主人公机</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id3">ハサウェイ和ネモ</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id4">ジェガン（ケーラ）</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#nt-1">NT-1アレックス（クリスチーナ） 和ザク改（バーナード）</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id5">补充货物</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id6">副主人公（以及バイアラン）</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id7">カルバリーテンプル（レッシィ）</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#g">Gディフェンサー（カツ）和ジェガン</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id8">ルー</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id9">アキ生存</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id10">グラン・ガラン（シーラ）、エル、ベル</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id11">ゴラオン（エレ）、、ボチューン（ニー）、ボチューン（キーン）</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id12">サーバイン或者ズワウス、シルキー</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id13">イントルーダー</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id14">ガブスレイ（サラ）</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id15">ザク改或者ジェガン离队</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#sex-s">Sガンダム和Ex-Sガンダム</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id16">ヤクト・ドーガ (クェス)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id17">クワサン</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id18">アシュラテンプル（ギャブレー）</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#mk-iix2">キュベレイMk-IIx2（プル和プルツー）</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#gp-02a">GP-02A追加アトミックバズーカ</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id19">ロザミィ</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id20">クワトロ离队</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#v">コンバトラーＶ或ダンクーガ离队</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id21">GP-02A（ガトー）和ビギナ・ギナ（セシリー）</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id22">サザビー</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id23">サイバスター（マサキ＝アンドー）</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#r">ヴァルシオーネR（リューネ）</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id24">グランゾン（シュウ）、ウィーゾル改（サフィーネ）和ノルス・レイ（モニカ）</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id25">ダイモス追加武器</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id26">フォウ</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id27">ライネック（リムル）</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../mjelct3/index.html">Mahjong Electron Base</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../tenkai/index.html">Mahjong Tenkaigan</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../mm6/index.html">Might and Magic 6</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../fsm97/index.html">Fifa Soccer Manager 97</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../dragon/index.html">卧龙传</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../fa96/index.html">甲A风云</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../san5/index.html">三国志 V</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../index.html#indices-and-tables">Indices and tables</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../blogs/index.html">Blogs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../grandma/index.html">Grandma's handbook</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../index.html">Welcome to jiangsheng’s documentation!</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../index.html#indices-and-tables">Indices and tables</a></li>
+</ul>
+</div>
+        <div class="sidebar-primary-item">
+  <div>
+    <h4>Previous topic</h4>
+    <p class="topless"><a href="walkthrough/13_surfacing.html"
+                          title="previous chapter">第十三话 浮上</a></p>
+  </div>
+  <div>
+    <h4>Next topic</h4>
+    <p class="topless"><a href="../mjelct3/index.html"
+                          title="next chapter">mjelct3</a></p>
+  </div></div>
+        <div class="sidebar-primary-item">
+<div id="searchbox"></div></div>
+        <div class="sidebar-primary-item">
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="../../_sources/games/srw4/missable.rst.txt"
+           rel="nofollow">Show Source</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/games\srw4\missable.rst"
+           rel="nofollow">Show on GitHub</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/games\srw4\missable.rst"
+           rel="nofollow">Edit on GitHub</a></li>
+  </ul>
+  <h3>Social Media Links</h3>
+  <ul>
+    <li>twitter (archived): #jiangsheng </li>
+    <li>bluesky: <a href="https://bsky.app/profile/sheng-jiang.bsky.social"> sheng-jiang.bsky.social</a></li>
+    <li>stackoverflow: <a href="https://stackoverflow.com/users/109919/sheng-jiang-%e8%92%8b%e6%99%9f">Sheng Jiang 蒋晟</a></li>
+  </ul></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="../../reference.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    
+    <li class="breadcrumb-item"><a href="../index.html" class="nav-link">Gaming guides</a></li>
+    
+    
+    <li class="breadcrumb-item"><a href="index.html" class="nav-link">第四次机器人大战 攻略 试做版</a></li>
+    
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">隐藏要素</span></li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="srw4-missable">
+<span id="id1"></span><h1>隐藏要素<a class="headerlink" href="#srw4-missable" title="Link to this heading">#</a></h1>
+<section id="id2">
+<h2>主人公机<a class="headerlink" href="#id2" title="Link to this heading">#</a></h2>
+<p>主人公的初期和后期机体取决于在 <a class="reference internal" href="preclude.html"><span class="doc">序幕</span></a> 中主角的系别选择。如果选择了真实系是ゲシュペンスト（リアル）和ヒュッケバイン，选择了超级系是ゲシュペンスト（スーパー）和グルンガスト）。后期机体在ハイパージェリル战斗之前，或者ロンデニオン战斗之后获得。可以自定义机体的名称和颜色。ゲシュペンスト可以换成主角恋人驾驶。</p>
+</section>
+<section id="id3">
+<h2>ハサウェイ和ネモ<a class="headerlink" href="#id3" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>在 <a class="reference internal" href="walkthrough/01a_the_beginning_real.html"><span class="doc">第一话Ａ 発端(真实系)</span></a> 或者 <a class="reference internal" href="walkthrough/01a_the_beginning_real.html"><span class="doc">第一话Ａ 発端(真实系)</span></a> 过关时回合数在一定值以内（[SRW4]7，[SRW4S]15）。</p></li>
+<li><p><a class="reference internal" href="walkthrough/05a_brights_return.html"><span class="doc">第五话Ａ ブライトの帰還</span></a> 之后自动加入。</p></li>
+</ol>
+</section>
+<section id="id4">
+<h2>ジェガン（ケーラ）<a class="headerlink" href="#id4" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>在 <a class="reference internal" href="walkthrough/01a_the_beginning_real.html"><span class="doc">第一话Ａ 発端(真实系)</span></a> 或者 <a class="reference internal" href="walkthrough/01a_the_beginning_real.html"><span class="doc">第一话Ａ 発端(真实系)</span></a> 过关时回合数在一定值以上（[SRW4]8，[SRW4S]16）。</p></li>
+<li><p><a class="reference internal" href="walkthrough/04b_a_new_enemy_slow.html"><span class="doc">第四话Ｂ 新たな敵 (缓)</span></a> 之后自动加入。</p></li>
+</ol>
+<p>在SRW4版本中，如果不走这条路，就不可能全收Ex-Sガンダム、ヤクト・ドーガ (クェス専用)和ロザミィ。</p>
+</section>
+<section id="nt-1">
+<h2>NT-1アレックス（クリスチーナ） 和ザク改（バーナード）<a class="headerlink" href="#nt-1" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>在 <a class="reference internal" href="walkthrough/01a_the_beginning_real.html"><span class="doc">第一话Ａ 発端(真实系)</span></a> 或者 <a class="reference internal" href="walkthrough/01a_the_beginning_real.html"><span class="doc">第一话Ａ 発端(真实系)</span></a> 过关时回合数在一定值以上（[SRW4]8，[SRW4S]16）。</p></li>
+<li><p><a class="reference internal" href="walkthrough/05b_daba_my_lord.html"><span class="doc">第五话Ｂ ダハ=マイロド</span></a> 中增援并加入。</p></li>
+</ol>
+</section>
+<section id="id5">
+<h2>补充货物<a class="headerlink" href="#id5" title="Link to this heading">#</a></h2>
+<p>在 <a class="reference internal" href="walkthrough/04b_a_new_enemy_slow.html"><span class="doc">第四话Ｂ 新たな敵 (缓)</span></a> 或者 <a class="reference internal" href="walkthrough/05a_brights_return.html"><span class="doc">第五话Ａ ブライトの帰還</span></a> 之后，根据战斗结束时运输机生存的数量：</p>
+<ol class="arabic simple">
+<li><ul class="simple">
+<li><p><a class="reference internal" href="mechanics/items.html#srw4-items"><span class="std std-ref">高性能レーダー</span></a></p></li>
+<li><p>リペアキット</p></li>
+<li><p>チョバムアーマー</p></li>
+<li><p>対ビームコーティング</p></li>
+<li><p>プロペラトタンク</p></li>
+<li><p>20000G</p></li>
+</ul>
+</li>
+<li><ul class="simple">
+<li><p>ＧＭⅢ</p></li>
+<li><p>10000G</p></li>
+</ul>
+</li>
+<li><ul class="simple">
+<li><p>リ・ガズィ（BWS）</p></li>
+<li><p>5000G</p></li>
+</ul>
+</li>
+</ol>
+</section>
+<section id="id6">
+<h2>副主人公（以及バイアラン）<a class="headerlink" href="#id6" title="Link to this heading">#</a></h2>
+<p>在 <a class="reference internal" href="walkthrough/04b_a_new_enemy_slow.html"><span class="doc">第四话Ｂ 新たな敵 (缓)</span></a> 或者 <a class="reference internal" href="walkthrough/05a_brights_return.html"><span class="doc">第五话Ａ ブライトの帰還</span></a> 开始前有恋人选择。如果选择没有恋人，那么恋人会在上述货物补充时加入。补充货物后下一话进入 <a class="reference internal" href="walkthrough/06b_rescue_combattler_v.html"><span class="doc">第六话Ｂ 救出!コンバトラV</span></a> 。否则补充货物后下一话进入 <a class="reference internal" href="walkthrough/06a_stampede.html"><span class="doc">第六话Ａ スタンピド</span></a> ，恋人会加入提坦斯，在「宇宙へ」或者「ティターンズ台頭」中驾驶バイアラン登场，由主角说得之后当场加入。</p>
+</section>
+<section id="id7">
+<h2>カルバリーテンプル（レッシィ）<a class="headerlink" href="#id7" title="Link to this heading">#</a></h2>
+<p><a class="reference internal" href="walkthrough/08_love_of_the_battlefield.html"><span class="doc">第八话 戦場の愛</span></a> 中ダバ＝マイロード可以说得カルバリーテンプル（ガウ＝ハ＝レッシィ）。即使不说得，敌全灭后她也会作为援军增援，所以还是拿钱和经验值比较划算。</p>
+</section>
+<section id="g">
+<h2>Gディフェンサー（カツ）和ジェガン<a class="headerlink" href="#g" title="Link to this heading">#</a></h2>
+<p><a class="reference internal" href="walkthrough/09_enter_zanbot_3.html"><span class="doc">第九话 ザンボット3登场</span></a> 之后选择日本海側，カツ在 <a class="reference internal" href="walkthrough/04b_a_new_enemy_slow.html"><span class="doc">第四话Ｂ 新たな敵 (缓)</span></a> 中驾驶Gディフェンサー登场并加入。ジェガン在战斗后加入。</p>
+</section>
+<section id="id8">
+<h2>ルー<a class="headerlink" href="#id8" title="Link to this heading">#</a></h2>
+<p><a class="reference internal" href="walkthrough/09_enter_zanbot_3.html"><span class="doc">第九话 ザンボット3登场</span></a> 之后选择太平洋側，战斗后加入。</p>
+</section>
+<section id="id9">
+<h2>アキ生存<a class="headerlink" href="#id9" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p><a class="reference internal" href="walkthrough/11_wake_up_super_bestial_machine_god.html"><span class="doc">第十一话 目覚めよ！超獣機神</span></a> 之后选择本隊</p></li>
+<li><p><a class="reference internal" href="walkthrough/12b_guyzocks_terror.html"><span class="doc">第十二话Ｂ ガイゾックの恐怖</span></a> 中，在8回合内包围或者击落バンドック。</p></li>
+</ol>
+<p>如果アキ生存，第33话进入新しい力，可以拿到两个比较好的芯片ALICE和Iフィールド発生機，否则进入无芯片的人間爆弾の恐怖。</p>
+</section>
+<section id="id10">
+<h2>グラン・ガラン（シーラ）、エル、ベル<a class="headerlink" href="#id10" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p><a class="reference internal" href="walkthrough/13_surfacing.html"><span class="doc">第十三话 浮上</span></a> 中不攻击ガラリア</p></li>
+<li><p>大将軍ガルーダの悲劇之后进入オーラマシン展開（A），开始时加入。</p></li>
+</ol>
+</section>
+<section id="id11">
+<h2>ゴラオン（エレ）、、ボチューン（ニー）、ボチューン（キーン）<a class="headerlink" href="#id11" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p><a class="reference internal" href="walkthrough/13_surfacing.html"><span class="doc">第十三话 浮上</span></a> 中攻击ガラリア</p></li>
+<li><p>大将軍ガルーダの悲劇之后进入オーラマシン展開（B），开始时加入。</p></li>
+</ol>
+</section>
+<section id="id12">
+<h2>サーバイン或者ズワウス、シルキー<a class="headerlink" href="#id12" title="Link to this heading">#</a></h2>
+<p>大将軍ガルーダの悲劇这一话中将ショウ移动到左下角（3，2）的位置（假定左下角那一格是1，1）。如果左上角那一格是1，1的话，那么是（3，41）的位置。
+シルキー带来了サーバイン和ズワウス。过关后会问你是否要用ダンバイン的开关修复サーバイン或者ズワウス。修复的场合，ダンバイン和另一个没有被修复的机体会被废弃。不修复的话，ショウ仍旧继续驾驶ダンバイン，无法修理的サーバイン和ズワウス会被废弃。</p>
+</section>
+<section id="id13">
+<h2>イントルーダー<a class="headerlink" href="#id13" title="Link to this heading">#</a></h2>
+<p>オーラマシン展開Ａ或者オーラマシン展開Ｂ之后选择攻击路线。选择南南西进入イントルーダーＡ，路线短一些，但是敌人多。选择北西进入イントルーダーＢ，路线长一些，但是敌人少。</p>
+</section>
+<section id="id14">
+<h2>ガブスレイ（サラ）<a class="headerlink" href="#id14" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>真实系限定</p></li>
+<li><p>满足カツ加入的条件</p></li>
+<li><p>あしゅら男爵の最期之后，如果主角是真实系，那么进入老兵の挽歌，这一话中用カツ说得サラ，当场加入。</p></li>
+</ol>
+</section>
+<section id="id15">
+<h2>ザク改或者ジェガン离队<a class="headerlink" href="#id15" title="Link to this heading">#</a></h2>
+<p>1. 满足ザク改（バーナード）的加入条件。2.
+3. 在Dr.ヘルの野望战斗之后选择ザク改和ジェガン中的一个进行保留，未选择的会被出售。</p>
+</section>
+<section id="sex-s">
+<h2>Sガンダム和Ex-Sガンダム<a class="headerlink" href="#sex-s" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>真实系限定</p></li>
+<li><p>老兵の挽歌这一话过关时选择获得Sガンダム而不是保留ガンタンク</p></li>
+<li><p>キリマンジャロの嵐或者ダカールの日中，不用カミーユ说得フォウ</p></li>
+<li><p>在ビヨン・ザ・トッド战斗之前，Ｓガンダム进化成为ＥＸＳガンダム。</p></li>
+</ol>
+</section>
+<section id="id16">
+<h2>ヤクト・ドーガ (クェス)<a class="headerlink" href="#id16" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>真实系限定</p></li>
+<li><p>部队中有ジェガン</p></li>
+<li><p>マーズ・コネクション这一话中，アムロ（可搭载于主舰种）到达左上角（9,7）的房子。</p></li>
+<li><p>过关后选择是获得ヤクト・ドーガ还是保留ジェガン</p></li>
+</ol>
+</section>
+<section id="id17">
+<h2>クワサン<a class="headerlink" href="#id17" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>真实系限定。</p></li>
+<li><p>宇宙路线ロンデニオン这一话中，和ダバ战斗。地上路线无需此条件</p></li>
+<li><p>マーズ・コネクション这一话中作为敌方援军登场。用ダバ说得。</p></li>
+<li><p>ポセイダルの野心这一话中作为敌方援军登场。用ダバ说得。</p></li>
+</ol>
+</section>
+<section id="id18">
+<h2>アシュラテンプル（ギャブレー）<a class="headerlink" href="#id18" title="Link to this heading">#</a></h2>
+<p>说得クワサン之后，在同一话中用ダバ说得ギャブレー。</p>
+</section>
+<section id="mk-iix2">
+<h2>キュベレイMk-IIx2（プル和プルツー）<a class="headerlink" href="#mk-iix2" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>ギャブレー已经加入</p></li>
+<li><p>月の裏側这一话中作为敌方援军登场。不攻击他们的情况下可以用ジュドー说得。</p></li>
+</ol>
+</section>
+<section id="gp-02a">
+<h2>GP-02A追加アトミックバズーカ<a class="headerlink" href="#gp-02a" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>プル已经加入</p></li>
+<li><p>月の裏側这一话之后选择去甘泉</p></li>
+<li><p>ハマーンの黒い影中用ジュドー说得ハマーン</p></li>
+</ol>
+</section>
+<section id="id19">
+<h2>ロザミィ<a class="headerlink" href="#id19" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>キリマンジャロの嵐或者ダカールの日中，不用カミーユ说得フォウ</p></li>
+<li><p>ビヨン・ザ・トッド开始的时候，存在无人驾驶的ザク改、ガンタンク或者ジェガン（SRW4S追加：GMIII）</p></li>
+<li><p>作为我方援军登场，随即被敌方控制，用カミーユで説得。机体消失。</p></li>
+<li><p>如果不满足条件2，或者在ロザミア＝バダム出现之前全灭敌人 ，那么她会自爆，并且一些机体在下一话不可使用。</p></li>
+<li><p>ゲストとインスペクター作为敌人登场。击落ゲーツ之后用カミーユ说得，战后加入。如果ゲーツ在战场上，则说得失败。</p></li>
+<li><p>[SRW4]因为ガンタンク在Sガンダム入手的时候废弃，ザク改和ジェガン二选一废弃，以及ヤクト・ドーガ 入手的时候废弃ジェガン的原因，必须获得两台ジェガン才不会导致冲突。所以建议是第1话8回合以上完成，以及10话前走日本海侧。SRW4S没有这么多的废弃事件，可以自由一点。</p></li>
+</ol>
+</section>
+<section id="id20">
+<h2>クワトロ离队<a class="headerlink" href="#id20" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>ダカールの日战斗之前选择和クワトロ一起行动</p></li>
+<li><p>第三回合选择往左逃跑</p></li>
+</ol>
+</section>
+<section id="v">
+<h2>コンバトラーＶ或ダンクーガ离队<a class="headerlink" href="#v" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>SRW4版本。SRW4S无此事件</p></li>
+<li><p>ブライト需要派人去支援エゥーゴ，你可以在コンバトラーＶ小队和ダンクーガ小队之间选择。选择的小队将不能回到部队。</p></li>
+</ol>
+</section>
+<section id="id21">
+<h2>GP-02A（ガトー）和ビギナ・ギナ（セシリー）<a class="headerlink" href="#id21" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>クワトロ离队</p></li>
+<li><p>リューネ・カプリッチオA 中作为援军登场。セシリー当场加入，ガトー作为NPC登场，生存到战斗结束才会加入。</p></li>
+</ol>
+</section>
+<section id="id22">
+<h2>サザビー<a class="headerlink" href="#id22" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>クワトロ没有离队</p></li>
+<li><p>リューネ・カプリッチオB中护卫NPCギリアム生存到战斗结束。</p></li>
+</ol>
+</section>
+<section id="id23">
+<h2>サイバスター（マサキ＝アンドー）<a class="headerlink" href="#id23" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>[SRW4S] グランゾンの谜之后可以选择是否让他临时加入。SRW4无此事件。</p></li>
+<li><p>新しい力或者人間爆弾の恐怖中不在开始攻击バンドック的一回合内击破バンドック。</p></li>
+<li><p>[SRW4]在新しい力中加入的话，机体和武器会有3段改造，在人間爆弾の恐怖中加入则没有。</p></li>
+<li><p>[SRW4S]如果之前加入过，机体的改造将保持在玩家完成的阶段，否则在新しい力中加入会有机体的3段改造，在人間爆弾の恐怖中加入则没有。</p></li>
+</ol>
+</section>
+<section id="r">
+<h2>ヴァルシオーネR（リューネ）<a class="headerlink" href="#r" title="Link to this heading">#</a></h2>
+<p>「リューネ・カプリッチオ」(A或B)中由マサキで説得。</p>
+</section>
+<section id="id24">
+<h2>グランゾン（シュウ）、ウィーゾル改（サフィーネ）和ノルス・レイ（モニカ）<a class="headerlink" href="#id24" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>最终话火星の決戦之前回合数小于一定值（SRW4:319，SRW4S:349）</p></li>
+<li><p>SRW4S没有随之而来的リューネ、ヤンロン、テュッティ离队事件。</p></li>
+</ol>
+</section>
+<section id="id25">
+<h2>ダイモス追加武器<a class="headerlink" href="#id25" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>超级系限定</p></li>
+<li><p>リヒテルとアイザム这一话中无条件追加。</p></li>
+</ol>
+</section>
+<section id="id26">
+<h2>フォウ<a class="headerlink" href="#id26" title="Link to this heading">#</a></h2>
+<p>キリマンジャロの嵐和ダカールの日这两话中由カミーユ说得。</p>
+</section>
+<section id="id27">
+<h2>ライネック（リムル）<a class="headerlink" href="#id27" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>满足ニー的加入条件</p></li>
+<li><p>满足フォウ的加入条件</p></li>
+<li><p>トータル・バランス这一话中派ニー出击</p></li>
+<li><p>会作为我方NPC援军登场，向我方移动，用ニー邻接后撤退。</p></li>
+<li><p>战斗后加入。如果邻接之前被敌军击坠，则以非战斗人员身份加入，也不会带来机体。如果邻接之前通关，也不会加入。</p></li>
+</ol>
+</section>
+</section>
+
+
+                </article>
+              
+              
+              
+                <footer class="bd-footer-article">
+                  <div class="footer-article-items footer-article__inner">
+  
+    <div class="footer-article-item"><script src="https://utteranc.es/client.js"
+        repo="jiangsheng/jiangsheng.github.io"
+        branch="master"
+        issue-term="pathname"
+        label="UtteranceComments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async=async">
+</script></div>
+  
+</div>
+                </footer>
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="walkthrough/13_surfacing.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">第十三话 浮上</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="../mjelct3/index.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">mjelct3</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+<div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> On this page
+  </div>
+  <nav class="bd-toc-nav page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">主人公机</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">ハサウェイ和ネモ</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">ジェガン（ケーラ）</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#nt-1">NT-1アレックス（クリスチーナ） 和ザク改（バーナード）</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">补充货物</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">副主人公（以及バイアラン）</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id7">カルバリーテンプル（レッシィ）</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#g">Gディフェンサー（カツ）和ジェガン</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id8">ルー</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id9">アキ生存</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id10">グラン・ガラン（シーラ）、エル、ベル</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id11">ゴラオン（エレ）、、ボチューン（ニー）、ボチューン（キーン）</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id12">サーバイン或者ズワウス、シルキー</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id13">イントルーダー</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id14">ガブスレイ（サラ）</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id15">ザク改或者ジェガン离队</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#sex-s">Sガンダム和Ex-Sガンダム</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id16">ヤクト・ドーガ (クェス)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id17">クワサン</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id18">アシュラテンプル（ギャブレー）</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mk-iix2">キュベレイMk-IIx2（プル和プルツー）</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#gp-02a">GP-02A追加アトミックバズーカ</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id19">ロザミィ</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id20">クワトロ离队</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#v">コンバトラーＶ或ダンクーガ离队</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id21">GP-02A（ガトー）和ビギナ・ギナ（セシリー）</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id22">サザビー</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id23">サイバスター（マサキ＝アンドー）</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#r">ヴァルシオーネR（リューネ）</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id24">グランゾン（シュウ）、ウィーゾル改（サフィーネ）和ノルス・レイ（モニカ）</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id25">ダイモス追加武器</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id26">フォウ</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id27">ライネック（リムル）</a></li>
+</ul>
+  </nav></div>
+
+  <div class="sidebar-secondary-item">
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../../_sources/games/srw4/missable.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script defer src="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item">
+
+  <p class="copyright">
+    
+      © Copyright 2018-, Sheng Jiang.
+      <br/>
+    
+  </p>
+</div>
+      
+        <div class="footer-item">
+
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 8.2.3.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item">
+<p class="theme-version">
+  <!-- # L10n: Setting the PST URL as an argument as this does not need to be localized -->
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.16.1.
+</p></div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>
