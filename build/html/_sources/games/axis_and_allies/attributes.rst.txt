@@ -271,7 +271,7 @@ Plentiful Ammunition
 Regiments Resupply Rate +10. Researched at an Artillery Brigade.
 
 ------------
-Prone
+Prone 
 ------------
 -60% max speed.
 
