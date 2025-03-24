@@ -1,4 +1,4 @@
-.. srw4_remodeling:
+.. _srw4_remodeling:
 
 ------
 改造
