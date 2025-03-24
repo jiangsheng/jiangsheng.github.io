@@ -11,6 +11,8 @@
    :caption: 内容:
    :hidden:
 
+   机体特殊技能 <unit_specialty>
+   机师特殊技能 <pilot_specialty>
    芯片 <items>
    PS版本的变化<platform_differences>
    经验值公式 <exp>
