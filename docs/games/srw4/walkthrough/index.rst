@@ -30,7 +30,7 @@
    第十二话Ａ 愛の行方 <12a_loves_whereabouts>
    第十二话Ｂ ガイゾックの恐怖 <12b_guyzocks_terror>
    第十三话 浮上 <13_surfacing>
-
+   第十四话 空飛ぶマジンガーＺ <14_mazinger_z_flying_in_the_sky>
 
 游戏路线：
 
