@@ -1,6 +1,6 @@
 .. _04A-SpecialTraining!Dai-Setsu-ZanOroshiA:
 
-第四话Ａ 特訓！大雪山おろし（速）
+第四话Ａ 特訓！大雪山おろし (速)
 ===================================
 
 :doc:`03a_a_new_enemy_fast` 结束之后进入本话。

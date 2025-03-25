@@ -41,6 +41,7 @@
    20a_old_soldiers_elegy
    20b_raideen_the_brave
    21_dr_hells_ambition
+   22_turning_point
 
 括号内为可能不加入的 :doc:`../missable` 。
 
@@ -191,7 +192,7 @@
 
        离队：ジェガン/ザク改
 
-   * - :cspan:`11` ターニングポイント
+   * - :cspan:`11` :doc:`22_turning_point`
    * - :cspan:`11` 主角和当前路线的队员会留在队伍中，其他队员会暂时离队，下同。
    * - :cspan:`5` 宇宙
      - :cspan:`5` 地上
