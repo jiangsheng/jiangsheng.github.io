@@ -1,6 +1,6 @@
 .. _srw4_walkthrough_02a_enigmatic_visitors_slow:
 
-第二话Ｂ 謎の訪問者(缓)
+第二话Ｂ 謎の訪問者 (缓)
 ===============================
 
 .. contents::
