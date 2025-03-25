@@ -37,6 +37,9 @@
    17b_expansion_of_the_aura_machine_gran_garan
    18a_intruder_south_south_west
    18b_intruder_northwest
+   19_baron_ashuras_final_moment
+   20a_old_soldiers_elegy
+   20b_raideen_the_brave
 
 括号内为可能不加入的 :doc:`../missable` 。
 
@@ -169,11 +172,11 @@
        
        加入机师：ダイターン3
 
-   * - :cspan:`11` あしゅら男爵の最期
+   * - :cspan:`11` :doc:`19_baron_ashuras_final_moment`
    * - :cspan:`5` 真实系
      - :cspan:`5` 超级系
-   * - :cspan:`5` 老兵の挽歌
-     - :cspan:`5` :rspan:`1` 勇者ライディン
+   * - :cspan:`5` :doc:`20a_old_soldiers_elegy`
+     - :cspan:`5` :rspan:`1` :doc:`20b_raideen_the_brave`
    * - :cspan:`5` 加入机体：（ガブスレイ），（Sガンダム）
        
        加入机师：（サラ）
@@ -295,7 +298,7 @@
        替换：ゲッターロボG→真・ゲッターロボ
 
    * - :cspan:`5` A队：ブライト，主人公，副主人公，アムロ，ジュドー，クワトロ，コウ，エマ，ファ，キース，ハサウェイ，ケーラ，クリス，バーニィ，ルー，カツ，サラ，鉄也，ジュン，ひかる，デューク，エルガイム系，ライディーン系，ザンボット3
-     - :cspan:`5` B队：カミーユ，シーブック，クェス，フォウ，甲児，さやか，ボス，マリア，万丈，マサキ，ミオ，ダンバイン系，ダイモス系，ゲッターロボ，ゴーショーグン，ダンクーガ，コンバトラーV,以及其他修改出来的队员
+     - :cspan:`5` B队：カミーユ，シーブック，クェス，フォウ，甲児，さやか，ボス，マリア，万丈，マサキ，ミオ，ダンバイン系，ダイモス系，ゲッターロボ，ゴーショーグン，ダンクーガ，コンバトラーV，以及其他修改出来的队员
        
    * - :cspan:`11` 栄光の落日 （A）   
    * - :cspan:`11` 替换：ネェル・アーガマ→ラー・カイラム
