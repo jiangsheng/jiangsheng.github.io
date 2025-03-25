@@ -53,7 +53,8 @@ extensions = [
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
     'sphinx_sitemap',
-    'edit_on_github'
+    'edit_on_github',
+    'linuxdoc.rstFlatTable'
 ]
 edit_on_github_project  = 'jiangsheng/jiangsheng.github.io'
 edit_on_github_url = 'docs/'

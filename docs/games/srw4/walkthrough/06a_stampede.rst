@@ -3,7 +3,7 @@
 第六话Ａ スタンピド
 ===============================
 
-如果在 :doc:`05a_brights_return` 或者 :doc:`04b_a_new_enemy_slow` 选择有恋人，那么在 :doc:`05a_brights_return` 或者 :doc:`05b_daba_my_lord` 之后进入本话。
+如果在 :doc:`05a_bright_s_return` 或者 :doc:`04b_a_new_enemy_slow` 选择有恋人，那么在 :doc:`05a_bright_s_return` 或者 :doc:`05b_daba_my_lord` 之后进入本话。
 
 ダバ＝マイロ－ド觉得ガウ＝ハ＝レッシィ并不坏（或许是同性相斥，ファンネリア＝アム和リリス＝フォウ对此持保留意见），并且，令人惊讶地释放了她，希望这个决定能够在将来让她做出正确的选择。你的下一步是回应ティターンズ队 的求援，向名古屋市进发。
 
