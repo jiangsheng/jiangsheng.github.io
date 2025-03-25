@@ -21,9 +21,9 @@
 敌方初始配置
 -------------
 
-* :ref:`マラサイ<srw4_units_ms_z_gundam>` * 3
-* :ref:`ザク改<srw4_units_ms_z_gundam>` * 2
-* :ref:`ミニフォー<srw4_units_getter_robo>` * 3
+* :ref:`マラサイ<srw4_units_ms_z_gundam>` x3
+* :ref:`ザク改<srw4_units_ms_z_gundam>` x2
+* :ref:`ミニフォー<srw4_units_getter_robo>` x3
 
 -------------
 我方援军
