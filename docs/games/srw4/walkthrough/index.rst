@@ -40,6 +40,7 @@
    19_baron_ashuras_final_moment
    20a_old_soldiers_elegy
    20b_raideen_the_brave
+   21_dr_hells_ambition
 
 括号内为可能不加入的 :doc:`../missable` 。
 
@@ -183,7 +184,7 @@
 
        离队：（ガンタンク）
 
-   * - :cspan:`11` Dr.ヘルの野望
+   * - :cspan:`11` :doc:`21_dr_hells_ambition`
    * - :cspan:`11` 加入机体：ライディーン　ブルーガー
        
        加入机师：洸　神宮寺　麗　マリ
