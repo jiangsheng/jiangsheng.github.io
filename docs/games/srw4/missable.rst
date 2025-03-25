@@ -31,13 +31,13 @@
 ハサウェイ和ネモ
 ------------------------------
 
-1. 在 :doc:`walkthrough/01a_the_beginning_real` 或者 :doc:`walkthrough/01a_the_beginning_real` 过关时回合数在一定值以内（[SRW4]7，[SRW4S]15）。
+1. 在 :doc:`walkthrough/01a_the_beginning_real` 或者 :doc:`walkthrough/01b_the_beginning_super` 过关时回合数在一定值以内（[SRW4]7，[SRW4S]15）。
 2. :doc:`walkthrough/05a_bright_s_return` 之后自动加入。
 
 ------------------------------
 ジェガン（ケーラ）
 ------------------------------
-1. 在 :doc:`walkthrough/01a_the_beginning_real` 或者 :doc:`walkthrough/01a_the_beginning_real` 过关时回合数在一定值以上（[SRW4]8，[SRW4S]16）。
+1. 在 :doc:`walkthrough/01a_the_beginning_real` 或者 :doc:`walkthrough/01b_the_beginning_super` 过关时回合数在一定值以上（[SRW4]8，[SRW4S]16）。
 2. :doc:`walkthrough/04b_a_new_enemy_slow` 之后自动加入。
 
 在SRW4版本中，如果不走这条路，就不可能全收Ex-Sガンダム、ヤクト・ドーガ (クェス専用)和ロザミィ。
