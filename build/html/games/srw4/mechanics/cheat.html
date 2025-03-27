@@ -278,8 +278,8 @@
 <li class="toctree-l2"><a class="reference internal" href="../../axis_and_allies/index.html">Axis and Allies</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../frontmission/index.html">Front Mission</a></li>
 <li class="toctree-l2 current"><a class="reference internal" href="../index.html">Super Robot Wars 4</a><ul class="current">
-<li class="toctree-l3"><a class="reference internal" href="../preclude.html">初期设定 主人公、恋人诞生日</a></li>
-<li class="toctree-l3 current"><a class="reference internal" href="index.html">设定</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../preclude.html">序幕</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="index.html">游戏设定</a><ul class="current">
 <li class="toctree-l4"><a class="reference internal" href="unit_specialty.html">机体特殊技能</a></li>
 <li class="toctree-l4"><a class="reference internal" href="pilot_specialty.html">机师特殊技能</a></li>
 <li class="toctree-l4"><a class="reference internal" href="items.html">芯片</a></li>
@@ -297,7 +297,6 @@
 </li>
 <li class="toctree-l4"><a class="reference internal" href="bug.html">Bug</a></li>
 <li class="toctree-l4"><a class="reference internal" href="index.html#id3">公式</a></li>
-<li class="toctree-l4"><a class="reference internal" href="index.html#id4">芯片</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../pilots/index.html">机师</a></li>
@@ -421,7 +420,7 @@
 <p>添加机体会需要连武器数量那一段数据一起改，只添加机体的代码的话，加的机体不能改造。另外游戏需要一些机体离队以腾出空间容纳新加入的机体，如果改掉了会离队的机体，可能导致后面人物加入时没有对应的机体。</p>
 <section id="id2">
 <h2>第四次金手指<a class="headerlink" href="#id2" title="Link to this heading">#</a></h2>
-<ul>
+<ul class="simple">
 <li><p>无限资金 7e105795</p></li>
 <li><p>最大经验 7e0edbff</p></li>
 <li><p>强化配件 7e107899</p></li>
@@ -439,8 +438,7 @@
 <li><p>总回合数最大 7e10530f</p></li>
 <li><p>总回合数最大 7e105427</p></li>
 <li><p>关闭战斗画面 7e105840</p></li>
-<li><p>地图菜单显示坐标 7E105820
-这个跟关动画是同一个地址所以要一起启用的话，是7E105860</p></li>
+<li><p>地图菜单显示坐标 7E105820  这个跟关动画是同一个地址所以要一起启用的话，是7E105860</p></li>
 <li><p>打开战斗画面 7e105800</p></li>
 <li><p>1级全精神 7e0ebaff</p></li>
 <li><p>无限移动 7E156644</p></li>
@@ -480,8 +478,7 @@
 <li><p>7e140188 血色宫殿武器数量</p></li>
 <li><p>7E0EE17E经验值倍率最大</p></li>
 <li><p>全单位改造：bug:全单位改造里面的7F会使得复活这精神无效。可以关闭掉或者干脆就不用复活打……反正开了金手指也很难输</p>
-<blockquote>
-<div><ul class="simple">
+<ul>
 <li><p>7E1288FF</p></li>
 <li><p>7E12897F</p></li>
 <li><p>7E128AFF</p></li>
@@ -490,32 +487,27 @@
 <li><p>7E1306FF</p></li>
 <li><p>7E13077F</p></li>
 </ul>
-</div></blockquote>
 </li>
 <li><p>全武器15段</p>
-<blockquote>
-<div><ul class="simple">
+<ul>
 <li><p>7E141EFF</p></li>
 <li><p>7E141FFF</p></li>
 <li><p>中间每个字节都是FF</p></li>
 <li><p>7E14EBFF</p></li>
 </ul>
-</div></blockquote>
 </li>
 <li><p>7E0EEC18 出击数锁定。只是看着好看，比如同时可以出击两台母舰，但是总出击数量是写死的，后选的会把先选的覆盖，而且把剧情预留出击位占了会出bug，比如战场之爱击落蕾西之后她本来会重新作为友军出现，但是开了之后会作为敌军出现，安藤正树也只会作为NPC出场。</p></li>
 <li><p>7E1226DF 第一话加入的潜海斯陪沙改为萨德兰</p></li>
 <li><p>7E13a788 萨德兰武器数量 这两个应该只在第一话过关时开启一次，存盘之后关闭。一开始就开启的话，不会替换掉潜海斯陪沙，导致机体栏被占用。替换掉就可以不用把阿修罗改出来了。阿修罗的升级有点问题，开了经验值金手指都只能升到80级，不开的话经验值够了也不能升到比敌人更高的等级。</p></li>
 <li><p>7E10FE8A 增加玛瓦</p></li>
 <li><p>妖精的修改需要开局开启，第一话过关之后存盘之后关闭再读盘，因为换乘的机师代码也在同一个字节，一直锁定的话会导致改出来也没法用。</p>
-<blockquote>
-<div><ul class="simple">
+<ul>
 <li><p>7E140980 查姆</p></li>
 <li><p>7E140D80 贝露</p></li>
 <li><p>7E141180 艾露</p></li>
 <li><p>7E141580 莉莉丝</p></li>
 <li><p>7E141980 希露姬</p></li>
 </ul>
-</div></blockquote>
 </li>
 </ul>
 </section>
