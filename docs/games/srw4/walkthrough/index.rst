@@ -44,6 +44,17 @@
    22_turning_point
    23a_into_space
    23b_recapture_of_great_mazinger
+   24a_encounter_with_the_aeug
+   24b_rise_of_the_titans
+   25a_assault_intervention_point
+   25b_hyper_jerill
+   26a_londenion
+   26b_i_have_the_power_of_the_sun
+   27_granzon_s_enigma
+   28_new_dc
+   29a_mars_connection
+   29b1_genius_scientist_aizam_s_challenge
+   29b2_richter_and_aizam
 
 括号内为可能不加入的 :doc:`../missable` 。
 
@@ -56,15 +67,19 @@
      - :cspan:`2`  第四次S真实系
      - :cspan:`2`  第四次S超级系
      - :cspan:`2`  第四次超级系 
-   * - :cspan:`2` 
+   * - :cspan:`2` ↓
      - :cspan:`2`  :doc:`00a_contact_real`
      - :cspan:`2`  :doc:`00b_contact_super`
-     - :cspan:`2`
+     - :cspan:`2` ↓
    * - :cspan:`5`  :doc:`01a_the_beginning_real`
      - :cspan:`5`  :doc:`01b_the_beginning_super`
+   * - :cspan:`5`  ↘
+     - :cspan:`5`  ↙ 
    * - :cspan:`11` 加入机体：トロイホース，マジンガーZ，アフロダイA，ボスボロット，ガンダム，ガンダムmkII，GP-01Fb，メタス，ガンキャノン，ゲッターロボ，ゲシュペンスト（真实系）/ゲシュペンスト（超级系），ガンタンク，マリンスペイザー  
   
        加入机师：トーレス，兜甲児，さやか，ボス，アムロ＝レイ ，コウ＝ウラキ，エマ＝シーン，ファ＝ユイリィ，チャック＝キース ，リョウ，ハヤト，ベンケイ，真实系主人公/超级系主人公 
+   * - :cspan:`5`  ↙
+     - :cspan:`5`  ↘ 
    * - :cspan:`5`  总回合一定值以内（[SRW4]7，[SRW4S]15）
      - :cspan:`5`  总回合一定值以上（[SRW4]8，[SRW4S]16）
    * - :cspan:`5`  :doc:`02a_enigmatic_visitors_fast`
@@ -91,8 +106,12 @@
      - :cspan:`5` 加入机体：エルガイム，ディザード，NT-1アレックス，ザク改
   
        加入机师：ダバ＝マイロード，ファンネリア＝アム，リリス＝ファウ，クリスチーナ＝マッケンジー，バーナード＝ワイズマン
+   * - :cspan:`5`  ↘
+     - :cspan:`5`  ↙ 
    * - :cspan:`5`  有恋人
      - :cspan:`5`  无恋人
+   * - :cspan:`5`  ↙
+     - :cspan:`5`  ↘ 
    * - :cspan:`5`  :doc:`06a_stampede`
      - :cspan:`5`  :doc:`06b_rescue_combattler_v`
    * - :cspan:`11` :doc:`07_battle_commander_daimoz`
@@ -108,6 +127,8 @@
 
        加入机师：勝平，宇宙太，恵子
 
+   * - :cspan:`5`  ↙
+     - :cspan:`5`  ↘ 
    * - :cspan:`5`  太平洋側
      - :cspan:`5`  日本海側
    * - :cspan:`5`  :doc:`10a_sorrowful_memories_pacific` 
@@ -123,12 +144,18 @@
 
        替换机体：トロイホース→アーガマ 改造保留
 
+   * - :cspan:`5`  ↘
+     - :cspan:`5`  ↙ 
    * - :cspan:`11` :doc:`11_wake_up_super_bestial_machine_god`
    * - :cspan:`11` 加入机体：ダンクーガ
+   * - :cspan:`5`  ↙
+     - :cspan:`5`  ↘ 
    * - :cspan:`5`  甲児たち
      - :cspan:`5`  本隊
    * - :cspan:`5`  :doc:`12a_loves_whereabouts`
      - :cspan:`5`  :doc:`12b_guyzocks_terror` 
+   * - :cspan:`5`  ↘
+     - :cspan:`5`  ↙ 
    * - :cspan:`11` :doc:`13_surfacing`
    * - :cspan:`11` 加入机体：ダンバイン，ボチューン，（バストール）
 
@@ -156,6 +183,8 @@
 
         离队：（ダンバイン）
 
+   * - :cspan:`5`  ↙
+     - :cspan:`5`  ↘ 
    * - :cspan:`5`  ガラリア未加入
      - :cspan:`5`  ガラリア已加入
    * - :cspan:`5`  :doc:`17a_expansion_of_the_aura_machine_goraon`
@@ -176,7 +205,11 @@
        
        加入机师：ダイターン3
 
+   * - :cspan:`5`  ↘
+     - :cspan:`5`  ↙ 
    * - :cspan:`11` :doc:`19_baron_ashuras_final_moment`
+   * - :cspan:`5`  ↙
+     - :cspan:`5`  ↘ 
    * - :cspan:`5` 真实系
      - :cspan:`5` 超级系
    * - :cspan:`5` :doc:`20a_old_soldiers_elegy`
@@ -186,7 +219,8 @@
        加入机师：（サラ）
 
        离队：（ガンタンク）
-
+   * - :cspan:`5`  ↘
+     - :cspan:`5`  ↙ 
    * - :cspan:`11` :doc:`21_dr_hells_ambition`
    * - :cspan:`11` 加入机体：ライディーン　ブルーガー
        
@@ -196,6 +230,8 @@
 
    * - :cspan:`11` :doc:`22_turning_point`
    * - :cspan:`11` 主角和当前路线的队员会留在队伍中，其他队员会暂时离队，下同。
+   * - :cspan:`5`  ↙
+     - :cspan:`5`  ↘ 
    * - :cspan:`5` 宇宙
      - :cspan:`5` 地上
    * - :cspan:`5` ブライト，アムロ，コウ，ファ，キース エルガイム系，ライディーン系，ザンボット3，ダンクーガ
@@ -209,8 +245,8 @@
      - :cspan:`5` 加入机体：ビューナスA，グレートマジンガー
   
        加入机师：ジュン，鉄也
-   * - :cspan:`5` エゥーゴとの接触
-     - :cspan:`5` ティターンズ台頭
+   * - :cspan:`5` :doc:`24a_encounter_with_the_aeug` 
+     - :cspan:`5` :doc:`24b_rise_of_the_titans`
    * - :cspan:`5` 加入机体：百式，グレンダイザー，ダブルスペイザー
     
        加入机师：クワトロ，デューク，ひかる
@@ -219,10 +255,10 @@
   
        加入机师：（副主人公）    
 
-       替换机体：ゲッターロボ→ゲッターロボG 改造基本保留   
+       替换机体：ゲッターロボ→ゲッターロボG :doc:`../mechanics/remodeling` 基本保留   
 
-   * - :cspan:`5` 強襲！阻止限界点
-     - :cspan:`5` ハイパージェリル  
+   * - :cspan:`5` :doc:`25a_assault_intervention_point`
+     - :cspan:`5` :doc:`25b_hyper_jerill`
    * - :cspan:`5` 加入机体：ZZガンダム　F91　エルガイムmkII　ヌーベルディザード
     
        加入机师：ジュドー　シーブック
@@ -232,16 +268,17 @@
      - :cspan:`5` 加入机体：ビルバイン ヒュッケバイン/グルンガスト
   
        离队：ボチューン
-   * - :cspan:`5` ハロンデニオン
-     - :cspan:`5` 日輪は我にあり
+   * - :cspan:`5` :doc:`26a_londenion` 
+     - :cspan:`5` :doc:`26b_i_have_the_power_of_the_sun`
    * - :cspan:`5` 离队：カルバリーテンプル
      - :cspan:`5` 加入机体：νガンダム ヒュッケバイン/グルンガスト
     
        替换机体：アーガマ→ネェル・アーガマ 改造保留
 
        离队：ガンダム
-
-   * - :cspan:`11` グランゾンの谜
+   * - :cspan:`5`  ↘
+     - :cspan:`5`  ↙ 
+   * - :cspan:`11` :doc:`27_granzon_s_enigma`
    * - :cspan:`11` 加入机体：(サイバスター)
    
        加入机师：(マサキ)
@@ -250,24 +287,28 @@
 
        两队合流，和主角不在一队的机师等级+4
 
-   * - :cspan:`11` ノイエＤＣ
+   * - :cspan:`11` :doc:`28_new_dc`
    * - :cspan:`11` 加入机体：ゴーショーグン
    
        加入机师：真吾，レミー，キリー
 
        离队：ネモ
 
+   * - :cspan:`5`  ↙
+     - :cspan:`5`  ↘ 
    * - :cspan:`5` 真实系
      - :cspan:`5` 超级系
-   * - :cspan:`5` マーズ・コネクション
-     - :cspan:`5` 天才科学者アイザムの挑戦
+   * - :cspan:`5` :doc:`29a_mars_connection`
+     - :cspan:`5` :doc:`29b1_genius_scientist_aizam_s_challenge`
    * - :cspan:`5` 加入机体：（ヤクト・ドーガ（赤））
    
        加入机师：（クェス）
 
        离队：（ジェガン）神宮寺/麗/マリ中两人
 
-     - :cspan:`5` リヒテルとアイザム
+     - :cspan:`5` :doc:`29b2_richter_and_aizam`
+   * - :cspan:`5`  ↘
+     - :cspan:`5`  ↙ 
    * - :cspan:`11` コロスとドン・サウザー
    * - :cspan:`11` キリマンジャロの嵐
    * - :cspan:`11` ダカールの日
@@ -275,6 +316,8 @@
 
        离队：（クワトロ），(第四次)ダンクーガ/コンバトラーV
 
+   * - :cspan:`5`  ↙
+     - :cspan:`5`  ↘ 
    * - :cspan:`5` フォウ已加入
      - :cspan:`5` フォウ未加入
    * - :cspan:`5` 加入机体：（ライネック）
@@ -286,11 +329,16 @@
      - :cspan:`5` 离队：ザク改/ガンタンク/ジェガン
   
        替换：Sガンダム→ExSガンダム 改造保留
-
+   * - :cspan:`5`  ↘
+     - :cspan:`5`  ↙ 
    * - :cspan:`5` 香月没有被抓走
      - :cspan:`5` 香月被抓走
+   * - :cspan:`5`  ↙
+     - :cspan:`5`  ↘  
    * - :cspan:`5` 新しい力
      - :cspan:`5` 人間爆弾の恐怖
+   * - :cspan:`5`  ↘
+     - :cspan:`5`  ↙ 
    * - :cspan:`11` 加入机体：サイバスター
     
        加入机师：マサキ
@@ -317,7 +365,8 @@
        加入机师：（ギャブレー）
 
        替换：GP03-Sステイメン→GP03デンドロビウム   
-
+   * - :cspan:`5`  ↙
+     - :cspan:`5`  ↘ 
    * - :cspan:`5` クワトロ离队
      - :cspan:`5` クワトロ没有离队
    * - :cspan:`5` 40話B リューネ・カプリッチオ（ガトー）（B）
@@ -327,30 +376,47 @@
         加入机师：ガトー セシリー
 
      - :cspan:`5` 加入机体：サザビー
+   * - :cspan:`5`  ↘
+     - :cspan:`5`  ↙ 
+   * - :cspan:`5`  ↙
+     - :cspan:`5`  ↘  
    * - :cspan:`5` リューネ已加入
      - :cspan:`5` :rspan:`1` リューネ未加入
    * - :cspan:`5` 救出
+   * - :cspan:`5`  ↘
+     - :cspan:`5`  ↙ 
    * - :cspan:`5` ギャブレー已加入
      - :cspan:`5` ギャブレー未加入
    * - :cspan:`5` 月の裏側 （A）
      - :cspan:`5` :rspan:`1` 包囲網突破！（A）
    * - :cspan:`5` 加入机体：（キュベレイmkII×2）加入机师：プル，プルツー
+   * - :cspan:`5`  ↘
+     - :cspan:`5`  ↙ 
    * - :cspan:`11` アクシズに散る（B）     
    * - :cspan:`11` 加入机体：ヴァルシオーネ
 
        加入机师：リューネ
+   * - :cspan:`5`  ↙
+     - :cspan:`5`  ↘        
    * - :cspan:`7` プル和プルツー已加入
-     - :cspan:`3` :rspan:`2` プル和プルツー未加入
+     - :cspan:`3` :rspan:`3` プル和プルツー未加入
+   * - :cspan:`3`  ↙
+     - :cspan:`3`  ↘ 
    * - :cspan:`3` スウィートウォーターへ行く
      - :cspan:`3` :rspan:`1` 行かない
    * - :cspan:`3` ハマーンの黒い影
    * - :cspan:`3` オルドナ＝ポセイダルＡ (A)
      - :cspan:`3` オルドナ＝ポセイダルＢ (A)
      - :cspan:`3` オルドナ＝ポセイダルＣ (A)
+   * - :cspan:`3`  ↘
+     - :cspan:`3`  ↓ 
+     - :cspan:`3`  ↙ 
    * - :cspan:`11` 加入机体：ガッデス，グランヴェール
 
        加入机师：テュッティ，ヤンロン 
    * - :cspan:`11` 荒野の死闘(BA)
+   * - :cspan:`5`  ↙
+     - :cspan:`5`  ↘ 
    * - :cspan:`5` 总回合数一定值以内（SRW4 319, SRW4S 349）
      - :cspan:`5` 总回合数一定值以内（SRW4 320, SRW4S 350）
    * - :cspan:`5` 加入机体：グランゾン，ウィーゾル改，ノルス・レイ
