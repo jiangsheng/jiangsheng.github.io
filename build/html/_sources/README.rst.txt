@@ -6,7 +6,7 @@ Welcome to jiangsheng's documentation!
 
 This is Sheng Jiang's documentation.    
 
-Only :ref:`Game guides <game_guides>`, :ref:`blogs <blogs>` and :ref:`Grandma's handbook <grandmas_handbook>` at the moment. 
+Only\ :ref:`Game guides <game_guides>`,\ :ref:`blogs <blogs>`\ and\ :ref:`Grandma's handbook <grandmas_handbook>`\ at the moment. 
 
 
 Indices and tables

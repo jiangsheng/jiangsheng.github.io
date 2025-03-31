@@ -29,5 +29,5 @@
 
 于是，战乱的火焰在这里燃烧，也许，这就是超级机器人们命中注定的最后一战。
 
-在开始的时候，需要 :doc:`自定义主角<preclude>` 。注意主角的选择影响 :doc:`missable`。然后进入 :doc:`游戏进程 <walkthrough/index>` 。
+在开始的时候，需要\ :doc:`自定义主角<preclude>`\ 。注意主角的选择影响\ :doc:`missable`。然后进入\ :doc:`游戏进程 <walkthrough/index>`\ 。
 

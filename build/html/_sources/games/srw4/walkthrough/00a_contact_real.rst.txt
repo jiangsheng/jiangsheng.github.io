@@ -15,15 +15,15 @@
 我方初始配置：
 ------------------
 
--:ref:`ゲシュペンスト（リアル）<srw4_units_banpresto_originals>` （:ref:`主人公<srw4_pilots_banpresto_originals>`）
+-:ref:`ゲシュペンスト（リアル）<srw4_units_banpresto_originals>`\ （:ref:`主人公<srw4_pilots_banpresto_originals>`）
 
 -------------
 敌方初始配置
 -------------
 
-* :ref:`マラサイ<srw4_units_ms_z_gundam>` x3
-* :ref:`ザク改<srw4_units_ms_z_gundam>` x2
-* :ref:`ミニフォー<srw4_units_getter_robo>` x3
+* :ref:`マラサイ<srw4_units_ms_z_gundam>`\ x3
+* :ref:`ザク改<srw4_units_ms_z_gundam>`\ x2
+* :ref:`ミニフォー<srw4_units_getter_robo>`\ x3
 
 -------------
 我方援军
@@ -51,9 +51,9 @@
 * 第一回合 第三方援军
 * 第二回合 主人公机可以行动，我方援军
 
-第三方是来抢钱的。所以派真吾去探宝，主人公在原地抢钱。虽然攻击第三方可以拿到不少经验值，但是本作敌人等级固定，早升几级好处并不大，还是抢钱要紧。
+第三方是来抢钱的。所以派真吾去探宝，主人公在原地抢钱。虽然攻击第三方可以拿到不少经验值，但是本作敌人等级固定，早升几级好处并不大，还是抢钱要紧。下一话进入\ :doc:`01a_the_beginning_real`\ 。
 
-如果和下一话的总回合数少于16，则再下一话会进入 :doc:`02a_enigmatic_visitors_fast` ，否则再下一话会进入 :doc:`02b_enigmatic_visitors_slow`。
+如果和下一话的总回合数少于16，则再下一话会进入\ :doc:`02a_enigmatic_visitors_fast`\ ，否则再下一话会进入\ :doc:`02b_enigmatic_visitors_slow`。
 
 和第四次不同的是，第四次S真实系即使走16回合以下这条路线也不会出现因为机体废弃/替换导致ロザミア到时候没有机体开出来的问题，而且这条路线的隐藏宝物比较好，所以真实系建议走这条路线。
 
