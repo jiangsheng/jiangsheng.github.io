@@ -60,8 +60,8 @@ PS的复刻版的精神设定有所变动
 
 SRW4
 
-完成主人公配置之后，如果你选择了真实系，那么你将从 :doc:`walkthrough/01a_the_beginning_real` 开始，否则你将从 :doc:`walkthrough/01b_the_beginning_super` 开始。
+完成主人公配置之后，如果你选择了真实系，那么你将从\ :doc:`walkthrough/01a_the_beginning_real`\ 开始，否则你将从\ :doc:`walkthrough/01b_the_beginning_super`\ 开始。
 
 SRW4S
 
-完成主人公配置之后，如果你选择了真实系，那么你将从 :doc:`walkthrough/00a_contact_real` 开始，否则你将从 :doc:`walkthrough/00b_contact_super` 开始。
+完成主人公配置之后，如果你选择了真实系，那么你将从\ :doc:`walkthrough/00a_contact_real`\ 开始，否则你将从\ :doc:`walkthrough/00b_contact_super`\ 开始。

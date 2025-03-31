@@ -1,7 +1,7 @@
 第十八话Ａ イントルーダー (南南西)
 ===========================================
 
-:doc:`17a_expansion_of_the_aura_machine_goraon` 或者 :doc:`17b_expansion_of_the_aura_machine_gran_garan` 之后选择南南西进入本话。
+:doc:`17a_expansion_of_the_aura_machine_goraon`\ 或者\ :doc:`17b_expansion_of_the_aura_machine_gran_garan`\ 之后选择南南西进入本话。
 
 和预计的一样，开始时没有敌军，但是很快ＤＣ巡逻部队就发现了你的侵入，拉响了警铃。
 
@@ -74,7 +74,7 @@
 ---------
 其他	
 ---------
-在本话开始的时候，你需要选择出击的主舰，以后你会碰见很多次这种情况。本话有时间限制，以后你也会碰见很多次这种情况。下一话进入 :doc:`19_baron_ashuras_final_moment` 。
+在本话开始的时候，你需要选择出击的主舰，以后你会碰见很多次这种情况。本话有时间限制，以后你也会碰见很多次这种情况。下一话进入\ :doc:`19_baron_ashura_s_final_moment`\ 。
 
 ---------
 评论	
