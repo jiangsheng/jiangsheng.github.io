@@ -70,6 +70,8 @@
    39b_ryune_capriccio_gilliam
    39c_rescue
    40a_the_backside_of_the_moon
+   40b_siege_breakthrough
+   41_scattered_on_axis
 
 括号内为可能不加入的\ :doc:`../missable`\ 。
 
@@ -405,11 +407,11 @@
    * - :cspan:`5`\ ギャブレー已加入
      - :cspan:`5`\ ギャブレー未加入
    * - :cspan:`5`\ :doc:`40a_the_backside_of_the_moon`\ （A）
-     - :cspan:`5`\ :rspan:`1`\ 包囲網突破！（A）
+     - :cspan:`5` :rspan:`1`\ :doc:`40b_siege_breakthrough`\ （A）
    * - :cspan:`5`\ 加入机体：（キュベレイmkII×2）加入机师：プル，プルツー
    * - :cspan:`5`\  ↘
      - :cspan:`5`\  ↙ 
-   * - :cspan:`11`\ アクシズに散る（B）     
+   * - :cspan:`11`\ :doc:`41_scattered_on_axis`\ （B）
    * - :cspan:`11`\ 加入机体：ヴァルシオーネ
 
        加入机师：リューネ

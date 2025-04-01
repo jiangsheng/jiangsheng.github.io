@@ -95,7 +95,7 @@
 
 [SRW4S]如果说得 了リューネ＝ゾルダーク，下面一话进入\ :doc:`39c_rescue`\ 。否则同第四次。
 
-[SRW4]如果ギャブレー在队中，下一话进入\ :doc:`40a_the_backside_of_the_moon`\ ，否则进入包囲網突破！.
+[SRW4]如果ギャブレー在队中，下一话进入\ :doc:`40a_the_backside_of_the_moon`\ ，否则进入\ :doc:`40b_siege_breakthrough`\ 。
 
 ------------------
 评论
