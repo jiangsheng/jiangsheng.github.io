@@ -72,6 +72,8 @@
    40a_the_backside_of_the_moon
    40b_siege_breakthrough
    41_scattered_on_axis
+   41b_haman_s_black_shadow
+   42c_oldna_poseidal_hard
 
 括号内为可能不加入的\ :doc:`../missable`\ 。
 
@@ -423,10 +425,10 @@
      - :cspan:`3`\  ↘ 
    * - :cspan:`3`\ スウィートウォーターへ行く
      - :cspan:`3`\ :rspan:`1`\ 行かない
-   * - :cspan:`3`\ ハマーンの黒い影
+   * - :cspan:`3`\ :doc:`41b_haman_s_black_shadow`
    * - :cspan:`3`\ オルドナ＝ポセイダルＡ (A)
      - :cspan:`3`\ オルドナ＝ポセイダルＢ (A)
-     - :cspan:`3`\ オルドナ＝ポセイダルＣ (A)
+     - :cspan:`3`\ :doc:`42c_oldna_poseidal_hard`\ (A)
    * - :cspan:`3`\  ↘
      - :cspan:`3`\  ↓ 
      - :cspan:`3`\  ↙ 
