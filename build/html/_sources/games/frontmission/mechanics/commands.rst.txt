@@ -1,6 +1,6 @@
 .. _front_mission_mechanics_commands:
 
-Commands
+Commands (Front Mission 1)
 ===============================
 
 Commands are menu options that popup in various times. For example, in the main screen, you have the following options:

@@ -1,7 +1,7 @@
 .. _axis_and_allies_supply:
 
-Supply
-===========
+Supply (Axis and Allies)
+===================================
 
 This game has a concept of supply zone which is displayed as a green line surrounding the player's base. It starts at a :ref:`corps HQ  <axis_and_allies_corps_hq>` or a city, and can be extended with other :ref:`buildings <axis_and_allies_buildings>`. Certain generals can also airdrop supplies to create temporary supply zones.
 

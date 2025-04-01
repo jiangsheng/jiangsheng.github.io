@@ -1,6 +1,6 @@
 .. _front_mission_mechanics_weapons:
 
-Weapons
+Weapons (Front Mission 1)
 ===============================
 
 Weapons have the following attributes:

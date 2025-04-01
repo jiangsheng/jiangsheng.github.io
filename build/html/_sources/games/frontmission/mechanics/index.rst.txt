@@ -1,6 +1,6 @@
 .. _front_mission_mechanics:
 
-Mechanics
+Mechanics  (Front Mission 1)
 =====================================
  
 .. toctree::

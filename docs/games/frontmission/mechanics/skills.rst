@@ -1,6 +1,6 @@
 .. _front_mission_mechanics_skills:
 
-Skills
+Skills (Front Mission 1)
 ===============================
 
 .. index:: pair: Front Mission; Skills

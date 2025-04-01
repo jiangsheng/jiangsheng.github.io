@@ -2,8 +2,8 @@
 
 .. index:: pair: Front Mission; Pilots
 
-Pilots
-======================
+Pilots (Front Mission 1)
+==========================================
 You will be alone first but many characters will join you later, some automatically, some by choice and you can miss them. 
 
 Pilots get :ref:`exps <front_mission_mechanics_exp>`  when attacking and defending. There is not one exp data but 4, Melee, Short, Long and Agility. The exp type you get would depend on the action you took in battle. Even if you lose a wanzer, you will still receive the experience points for the actions you have taken up to that point. Except yourself of cause, losing yourself would most likely be game over. 

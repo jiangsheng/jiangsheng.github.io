@@ -1,7 +1,7 @@
 .. _axis_and_allies_regiment_tank:
 
-Tanks
-============
+Tanks  (Axis and Allies)
+=================================
 
 Tanks are the most expensive regiments in the game, for good reasons. They have the best firepower and can take heavy damage. Generally speaking you should begin producing them as soon as possible.
 

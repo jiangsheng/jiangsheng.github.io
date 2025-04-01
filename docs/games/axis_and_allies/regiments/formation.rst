@@ -1,7 +1,7 @@
 .. _axis_and_allies_formation:
 
-Formation
-=============
+Formation (Axis and Allies)
+=================================
 
 .. index:: pair: Axis & Allies; Formations
   

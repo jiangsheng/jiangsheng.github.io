@@ -1,7 +1,7 @@
 .. _axis_and_allies_buildings:
 
-Buildings
-==========
+Buildings (Axis and Allies)
+========================================
 
 .. toctree::
    :maxdepth: 1

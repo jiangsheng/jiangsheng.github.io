@@ -27,6 +27,8 @@ project = u'jiangsheng'
 copyright = u'2018-, Sheng Jiang'
 author = u'Sheng Jiang'
 
+html_title=u'jiangsheng\'s docs'
+
 # The short X.Y version
 version = u''
 # The full version, including alpha/beta/rc tags
@@ -114,7 +116,7 @@ html_theme_options = {
 "navbar_end": ["navbar-icon-links"],
 "navbar_persistent": ["search-button"],
 "article_footer_items": ["comments"],
-
+"navigation_with_keys":True
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
