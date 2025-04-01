@@ -1,7 +1,7 @@
 .. _front_mission_mechanics_items:
 
 
-Items
+Items  (Front Mission 1)
 ===============================
 
 You can equip items to either heal in battle or have various buffs/debuffs. Backpacks can increase item storage and range in additional to power output. Items can be resupplied when standing next to a supply truck or a wanzer with Riff. 

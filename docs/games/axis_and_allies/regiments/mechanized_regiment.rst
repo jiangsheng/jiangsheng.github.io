@@ -1,7 +1,7 @@
 .. _axis_and_allies_regiment_mechanized:
 
-Mechanized 
-==========
+Mechanized (Axis and Allies)
+========================================
 
 .. index:: pair: Axis & Allies; Mechanized Regiments
 

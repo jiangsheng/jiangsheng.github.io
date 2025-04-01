@@ -1,7 +1,7 @@
 .. _axis_and_allies_regiment_npc:
 
-Non Producible Units
-==========================================
+Non Producible Units (Axis and Allies)
+==================================================
 Those are units given to you and not produced in your HQs.
 
 ----------------------

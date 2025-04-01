@@ -1,6 +1,6 @@
 
-Cheats
-============
+Cheats (Axis and Allies)
+====================================
 To activate, press Enter in the game and enter the cheat code. 
 
 * enigma: Removes fog of war

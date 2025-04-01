@@ -1,7 +1,7 @@
 .. _axis_and_allies_attributes:
 
-Attributes
-=============
+Attributes (Axis and Allies)
+=====================================
 Attributes give buildings or regiments certain bonuses, some are automatic, some are purchased via :ref:`upgrades <axis_and_allies_upgrades>`.
 
 -------------------------

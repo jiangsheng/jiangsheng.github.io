@@ -1,7 +1,7 @@
 .. _front_mission_mechanics_parts:
 
 
-Parts
+Parts (Front Mission 1)
 ===============================
 
 Parts have the following attributes:

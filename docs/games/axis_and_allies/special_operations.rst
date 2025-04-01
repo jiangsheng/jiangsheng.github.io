@@ -1,7 +1,7 @@
 .. _axis_and_allies_special_operations:
 
-Special Operations
-====================
+Special Operations  (Axis and Allies)
+========================================
 
 .. index:: pair: Axis & Allies; Special Operations
 

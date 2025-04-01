@@ -1,6 +1,6 @@
 .. _front_mission_mechanics_computers:
 
-Computers
+Computers (Front Mission 1)
 ===============================
 Computers adds accuracy/evade bonus for respective categories. They do not affect damage. Generally you want to use a computer that best fit the :ref:`pilot <front_mission_mechanics_pilots>`'s strength. Except when the best :ref:`exp <front_mission_mechanics_exp>` category is maxed and you still want to level up in rest of exp categories.
 

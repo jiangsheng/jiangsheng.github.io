@@ -1,6 +1,6 @@
 .. _front_mission_mechanics_city:
 
-City
+City (Front Mission 1)
 ========================
 
 City is where battle preparation happen. Although sometimes you stop in a camp, but camps are effectively cities for the game. 

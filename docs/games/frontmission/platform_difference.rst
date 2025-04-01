@@ -1,7 +1,7 @@
 .. _front_mission_platform_differences:
 
-Platform Differences
-==========================
+Platform Differences (Front Mission 1)
+======================================================
 
 Original SNES ROM:
     * Peewee can learn Speed Lv3 (no activation) 

@@ -1,7 +1,7 @@
 .. _axis_and_allies_upgrades:
 
-Upgrades
-===========
+Upgrades (Axis and Allies)
+============================================
 
 Upgrades give new `attributes <axis_and_allies_attributes>` to affected units and give various bonuses. 
 

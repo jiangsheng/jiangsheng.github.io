@@ -1,6 +1,6 @@
 .. _front_mission_mechanics_input:
 
-Input
+Input  (Front Mission 1)
 ===============================
 
 Each key has different functionality depending on context.

@@ -1,7 +1,7 @@
 .. _axis_and_allies_terrain:
 
-Terrain
-=============
+Terrain (Axis and Allies)
+===============================
 
 .. index:: pair: Axis & Allies; Terrain
 

@@ -1,6 +1,6 @@
 .. _front_mission_mechanics_terrain:
 
-Terrain
+Terrain (Front Mission 1)
 ===============================
 
 .. index:: pair: Front Mission; Terrains

@@ -1,7 +1,7 @@
 .. _axis_and_allies_regiment_infantry:
 
-Infantry 
-==========
+Infantry (Axis and Allies)
+==============================
 
 .. index:: pair: Axis & Allies; Infantry Regiments
 

@@ -1,7 +1,7 @@
 .. _axis_and_allies_regiments:
 
-Regiments
-===============
+Regiments (Axis and Allies)
+========================================
 
 .. toctree::
    :maxdepth: 1

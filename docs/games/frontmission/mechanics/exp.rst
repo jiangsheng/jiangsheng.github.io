@@ -1,6 +1,6 @@
 .. _front_mission_mechanics_exp:
 
-Exp
+Exp (Front Mission 1)
 ===============================
 
 You will gain exp by destroying enemy parts or defend enemy attack. With enough exp from all 4 battle categories your pilot will level up. With enough exp in an exp category, a pilot can learn a :ref:`skill <front_mission_mechanics_skills>` when leveling up. During level up your pilot will get bonus exp that is scaled to the pilot's type (e.g. Frederick gets more agility bonus and Ryuji gets more Short bonus). Therefore you don't need to max out one category before training in another category.
