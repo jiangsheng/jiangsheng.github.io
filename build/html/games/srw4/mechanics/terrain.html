@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>地形 &#8212; jiangsheng&#39;s docs</title>
+    <title>地形 (第四次机器人大战) &#8212; jiangsheng&#39;s docs</title>
   
   
   
@@ -32,6 +32,7 @@
 
     <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=03e43079" />
     <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css?v=906dce5e" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/2.2.2/css/dataTables.bootstrap5.css" />
   
   <!-- So that users can add custom icons -->
   <script src="../../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
@@ -42,10 +43,13 @@
     <script src="../../../_static/documentation_options.js?v=aec57771"></script>
     <script src="../../../_static/doctools.js?v=9bcbadda"></script>
     <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
-    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'games/srw4/mechanics/terrain';</script>
     <script src="../../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'games/srw4/mechanics/topography';</script>
-    <link rel="canonical" href="https://git.jiangsheng.net/build/html/games/srw4/mechanics/topography.html" />
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.bootstrap5.js"></script>
+    <link rel="canonical" href="https://git.jiangsheng.net/build/html/games/srw4/mechanics/terrain.html" />
     <link rel="index" title="Index" href="../../../genindex.html" />
     <link rel="search" title="Search" href="../../../search.html" />
     <link rel="next" title="改造" href="remodeling.html" />
@@ -286,13 +290,14 @@
 <li class="toctree-l4"><a class="reference internal" href="items.html">芯片</a></li>
 <li class="toctree-l4"><a class="reference internal" href="platform_differences.html">PS版本的变化</a></li>
 <li class="toctree-l4"><a class="reference internal" href="exp.html">经验值公式</a></li>
-<li class="toctree-l4 current"><a class="current reference internal" href="#">地形适应</a></li>
+<li class="toctree-l4 current"><a class="current reference internal" href="#">地形</a></li>
 <li class="toctree-l4"><a class="reference internal" href="remodeling.html">机体改造</a></li>
 <li class="toctree-l4"><a class="reference internal" href="willpower.html">气力</a></li>
 <li class="toctree-l4"><a class="reference internal" href="deploy.html">出击顺序</a></li>
+<li class="toctree-l4"><a class="reference internal" href="love_points.html">恋爱度</a></li>
 <li class="toctree-l4"><a class="reference internal" href="cheat.html">修改</a></li>
 <li class="toctree-l4"><a class="reference internal" href="bug.html">Bug</a></li>
-<li class="toctree-l4"><a class="reference internal" href="index.html#id3">公式</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#id2">公式</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../pilots/index.html">机师</a></li>
@@ -329,15 +334,13 @@
                           title="next chapter">改造</a></p>
   </div></div>
         <div class="sidebar-primary-item">
-<div id="searchbox"></div></div>
-        <div class="sidebar-primary-item">
   <h3>This Page</h3>
   <ul class="this-page-menu">
-    <li><a href="../../../_sources/games/srw4/mechanics/topography.rst.txt"
+    <li><a href="../../../_sources/games/srw4/mechanics/terrain.rst.txt"
            rel="nofollow">Show Source</a></li>
-    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/games\srw4\mechanics\topography.rst"
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/games\srw4\mechanics\terrain.rst"
            rel="nofollow">Show on GitHub</a></li>
-    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/games\srw4\mechanics\topography.rst"
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/games\srw4\mechanics\terrain.rst"
            rel="nofollow">Edit on GitHub</a></li>
   </ul>
   <h3>Social Media Links</h3>
@@ -392,7 +395,7 @@
     
     <li class="breadcrumb-item"><a href="index.html" class="nav-link">游戏设定</a></li>
     
-    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">地形</span></li>
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">地形 (第四次机器人大战)</span></li>
   </ul>
 </nav>
 </div>
@@ -410,7 +413,7 @@
                 <article class="bd-article">
                   
   <section id="srw4-terrain">
-<span id="id1"></span><h1>地形<a class="headerlink" href="#srw4-terrain" title="Link to this heading">#</a></h1>
+<span id="id1"></span><h1>地形 (第四次机器人大战)<a class="headerlink" href="#srw4-terrain" title="Link to this heading">#</a></h1>
 <p>战斗画面中，你可以移动光标到任何空地（没有机体的地点）按下[取消]键来查看地形对战斗的影响。通常，地形越崎岖，你的命中效果降低越多，并且防御力升高越多。所以，移动你的机体到山地上可以获得比平地更高的防御效果，但是同样使得你的机体的命中效果降低。另外地形越崎岖，对你的机体的在这个地形上的移动能力影响越大。例如高达的移动地形是陆，移动力是7，这意味着它可以在每次行动中，在理想陆地地形上移动7格(比如没有树的平地和草地）。换句话说，没有树的平地和草地的移动消耗是1点行动力/格。其他地形，比如树丛（只有一两棵树）的移动消耗是2点行动力/格，真正崎岖的山地和森林移动消耗是3点行动力/格；所以，高达在树丛中每次行动可以移动3格，在森林中每次行动可以移动两格。记住这只影响陆地移动。空中的移动和命中/防御效果不受地形影响。如果一个机体具有[海]移动类型，那么它在水中的移动不受影响。</p>
 <p>命中下降防御上升地形：</p>
 <ul class="simple">
@@ -543,7 +546,7 @@
   <div role="note" aria-label="source link">
     <h3>This Page</h3>
     <ul class="this-page-menu">
-      <li><a href="../../../_sources/games/srw4/mechanics/topography.rst.txt"
+      <li><a href="../../../_sources/games/srw4/mechanics/terrain.rst.txt"
             rel="nofollow">Show Source</a></li>
     </ul>
    </div></div>

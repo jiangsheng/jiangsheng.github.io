@@ -73,7 +73,13 @@
    40b_siege_breakthrough
    41_scattered_on_axis
    41b_haman_s_black_shadow
+   42a_oldna_poseidal_easy
+   42b_oldna_poseidal_normal
    42c_oldna_poseidal_hard
+   43_wasteland_deathmatch
+   44a_final_battle_on_mars_zezeenan
+   44b_final_battle_on_mars_shu
+
 
 括号内为可能不加入的\ :doc:`../missable`\ 。
 
@@ -426,8 +432,8 @@
    * - :cspan:`3`\ スウィートウォーターへ行く
      - :cspan:`3`\ :rspan:`1`\ 行かない
    * - :cspan:`3`\ :doc:`41b_haman_s_black_shadow`
-   * - :cspan:`3`\ オルドナ＝ポセイダルＡ (A)
-     - :cspan:`3`\ オルドナ＝ポセイダルＢ (A)
+   * - :cspan:`3`\ :doc:`42a_oldna_poseidal_easy` (A)
+     - :cspan:`3`\ :doc:`42b_oldna_poseidal_normal`\ (A)
      - :cspan:`3`\ :doc:`42c_oldna_poseidal_hard`\ (A)
    * - :cspan:`3`\  ↘
      - :cspan:`3`\  ↓ 
@@ -435,18 +441,18 @@
    * - :cspan:`11`\ 加入机体：ガッデス，グランヴェール
 
        加入机师：テュッティ，ヤンロン 
-   * - :cspan:`11`\ 荒野の死闘(BA)
+   * - :cspan:`11`\ :doc:`43_wasteland_deathmatch`\ (BA)
    * - :cspan:`5`\  ↙
      - :cspan:`5`\  ↘ 
    * - :cspan:`5`\ 总回合数一定值以内（SRW4 319, SRW4S 349）
-     - :cspan:`5`\ 总回合数一定值以内（SRW4 320, SRW4S 350）
+     - :cspan:`5`\ 总回合数一定值以上（SRW4 320, SRW4S 350）
    * - :cspan:`5`\ 加入机体：グランゾン，ウィーゾル改，ノルス・レイ
 
        加入机师：シュウ，サフィーネ，モニカ
 
        (SRW4) 离队：リューネ，テュッティ，ヤンロン
-     - :cspan:`5`\ 火星の決戦Ｂ
-   * - :cspan:`5`\ 火星の決戦Ａ
+     - :cspan:`5`\ :doc:`44a_final_battle_on_mars_zezeenan`\ 
+   * - :cspan:`5`\ :doc:`44b_final_battle_on_mars_shu`\ 
 
 总计（第四次）：
 

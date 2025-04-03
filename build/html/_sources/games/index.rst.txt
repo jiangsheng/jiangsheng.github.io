@@ -14,16 +14,16 @@ Gaming guides
    :caption: 内容:
    :titlesonly:
     
-   Axis and Allies<axis_and_allies/index>
-   Front Mission<frontmission/index>
-   Super Robot Wars 4<srw4/index>
+   Axis and Allies <axis_and_allies/index>
+   Front Mission <frontmission/index>
+   Super Robot Wars 4 <srw4/index>
    Mahjong Electron Base <mjelct3/index>
    Mahjong Tenkaigan <tenkai/index>
    Might and Magic 6 <mm6/index>
    Fifa Soccer Manager 97 <fsm97/index>
-   卧龙传<dragon/index>
-   甲A风云<fa96/index>
-   三国志 V<san5/index>
+   卧龙传 <dragon/index>
+   甲A风云 <fa96/index>
+   三国志 V <san5/index>
 
 Indices and tables
 ==================

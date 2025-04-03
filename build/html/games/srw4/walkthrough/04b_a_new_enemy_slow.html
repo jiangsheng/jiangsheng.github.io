@@ -32,6 +32,7 @@
 
     <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=03e43079" />
     <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css?v=906dce5e" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/2.2.2/css/dataTables.bootstrap5.css" />
   
   <!-- So that users can add custom icons -->
   <script src="../../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
@@ -42,9 +43,12 @@
     <script src="../../../_static/documentation_options.js?v=aec57771"></script>
     <script src="../../../_static/doctools.js?v=9bcbadda"></script>
     <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
-    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
-    <script src="../../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'games/srw4/walkthrough/04b_a_new_enemy_slow';</script>
+    <script src="../../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.bootstrap5.js"></script>
     <link rel="canonical" href="https://git.jiangsheng.net/build/html/games/srw4/walkthrough/04b_a_new_enemy_slow.html" />
     <link rel="index" title="Index" href="../../../genindex.html" />
     <link rel="search" title="Search" href="../../../search.html" />
@@ -360,7 +364,20 @@
 <li class="toctree-l4"><a class="reference internal" href="40b_siege_breakthrough.html">第四十话Ｂ 包囲網突破！</a></li>
 <li class="toctree-l4"><a class="reference internal" href="41_scattered_on_axis.html">第四十一话 アクシズに散る</a></li>
 <li class="toctree-l4"><a class="reference internal" href="41b_haman_s_black_shadow.html">第四十一话Ｂ ハマーンの黒い影</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42a_oldna_poseidal_easy.html">第四十二话Ａ オルドナ＝ポセイダル (易)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html">我方初始配置</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id2">我方援军</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id3">敌方1初始配置</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id4">敌方1援军</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id5">敌方2初始配置</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id6">地图物品</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id7">事件</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id8">其他</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id9">评论</a></li>
 <li class="toctree-l4"><a class="reference internal" href="42c_oldna_poseidal_hard.html">第四十二话Ｃ オルドナ＝ポセイダル (难)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="43_wasteland_deathmatch.html">第四十三话 荒野の死闘</a></li>
+<li class="toctree-l4"><a class="reference internal" href="44a_final_battle_on_mars_zezeenan.html">第四十四话Ａ 火星の決戦 (ゼゼーナン)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="44b_final_battle_on_mars_shu.html">第四十四话Ｂ 火星の決戦 (シュウ)</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../missable.html">隐藏要素</a></li>
@@ -393,8 +410,6 @@
     <p class="topless"><a href="05a_bright_s_return.html"
                           title="next chapter">第五话Ａ ブライトの帰還</a></p>
   </div></div>
-        <div class="sidebar-primary-item">
-<div id="searchbox"></div></div>
         <div class="sidebar-primary-item">
   <h3>This Page</h3>
   <ul class="this-page-menu">
@@ -488,7 +503,7 @@
 <ul class="simple">
 <li><p>トロイホース（トーレス）</p></li>
 <li><p>自选11机</p></li>
-<li><p>ミデア*2 NPC</p></li>
+<li><p>ミデア x2 NPC</p></li>
 <li><p>ミデア（マチルダ＝アジャン） NPC</p></li>
 </ul>
 </section>
@@ -522,10 +537,10 @@
 <li><p>ハンブラビ（MA）x2</p></li>
 <li><p>バーザム</p></li>
 <li><p>ガルスＪ</p></li>
-<li><p>ズサ x2</p></li>
-<li><p>メカザウルス•バド x2</p></li>
-<li><p>ミニフォー x2</p></li>
-<li><p>ドローメ x2</p></li>
+<li><p>ズサ ×2</p></li>
+<li><p>メカザウルス•バド ×2</p></li>
+<li><p>ミニフォー ×2</p></li>
+<li><p>ドローメ ×2</p></li>
 </ul>
 </section>
 <section id="id4">
@@ -533,7 +548,7 @@
 <ul class="simple">
 <li><p>ケンプファ－（ランバ＝ラル）</p></li>
 <li><p>バーザム（クランプ）</p></li>
-<li><p>マラサイ x4</p></li>
+<li><p>マラサイ ×4</p></li>
 </ul>
 </section>
 <section id="id5">
@@ -560,7 +575,7 @@
 <li><p>第二回合，一些不明部队（敌方2援军）闲逛的时候不小心进入了你们战场，但是他们认为两边都不值一战，所以马上就撤退了。</p></li>
 <li><p>第三回合（如果上一话在9回合内完成）/第五回合（如果上一话在10或以上回合完成） 跑出去访问早乙女研究所兼修行的ゲッター队终于赶回来了。</p></li>
 <li><p>第四回合或敌全灭，更多的机体冒出来了——被ジョン=コーウェン中将派过来闲逛的，地球联邦环太平洋軍下属特殊组织，经常违反军规的兽战机队ダンクーガ。如果敌机在5台以下会有对话。如果敌全灭，断空我加入时就是合体状态。</p></li>
-<li><p>第五回合 左下 饭后出来散步的ランバ＝ラル和クランプ……如果シーマ仍然在战场上的话会吵一架，不然会表示意外追个运输机而已都搞不定。</p></li>
+<li><p>第五回合 左下 饭后出来散步的ランバ＝ラル和クランプ……如果シーマ仍然在战场上的话会吵一架，表示意外追个运输机而已都搞不定。</p></li>
 </ul>
 <p>把ＤＣ赶跑之后，トーレス离队，ブライト＝ノア复任ロンド・ベル部队司令官兼トロイホース号舰长。ブライト＝ノア的等级加入时有8级，但是有更多的精神。ケーラ＝スゥ和她的ジェガン加入队中。三台ミデア运载的芯片和机体分别是：</p>
 <ol class="arabic simple">
@@ -584,83 +599,7 @@
 </ul>
 </li>
 </ol>
-<p>如果否认有恋人，弓さやか介绍的恋人也加入部队。搭讪来增加恋爱度的时间到了。</p>
-<div class="pst-scrollable-table-container"><table class="table" id="id10">
-<caption><span class="caption-text">主角和恋人搭讪</span><a class="headerlink" href="#id10" title="Link to this table">#</a></caption>
-<thead>
-<tr class="row-odd"><th class="head"><p>主人公</p></th>
-<th class="head"><p>选择</p></th>
-<th class="head"><p>増減</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td><p>男 熱血漢</p></td>
-<td><p>ぼくは○○。君と同じ新人だ</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="row-odd"><td></td>
-<td><p>へえ、かわいい子だな</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="row-even"><td><p>男 異性好き</p></td>
-<td><p>○○って呼んでいいかい？</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="row-odd"><td></td>
-<td><p>そう固くならずに。リラックス、リラックス</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="row-even"><td><p>男 ちょっとヘン</p></td>
-<td><p>ま、同じ新人同士だ。仲良くやろうぜ</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="row-odd"><td></td>
-<td><p>○○か。いい名前だ</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="row-even"><td><p>男 クールでニヒル</p></td>
-<td><p>そんな調子では、戦場でいきのびられんな</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="row-odd"><td></td>
-<td><p>もう少し何とかしろ</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="row-even"><td><p>女 熱血漢</p></td>
-<td><p>…変な人</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="row-odd"><td></td>
-<td><p>ふふ、ゆかいな人ね</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="row-even"><td><p>女 異性好き</p></td>
-<td><p>わあ～、クールですねぇ～</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="row-odd"><td></td>
-<td><p>○○ですぅ。よろしくぅ</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="row-even"><td><p>女 ちょっとヘン</p></td>
-<td><p>へえ、元気ねえ。仲良くやりましょ</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="row-odd"><td></td>
-<td><p>あなた、ナイメーヘン卒業ね？</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="row-even"><td><p>女 クールでニヒル</p></td>
-<td><p>フン、バカな事を</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="row-odd"><td></td>
-<td><p>え？私が？ウソだろ？</p></td>
-<td><p>3</p></td>
-</tr>
-</tbody>
-</table>
-</div>
+<p>如果否认有恋人，弓さやか介绍的恋人也加入部队。搭讪来增加恋爱度的时间到了。具体选择参考<a class="reference internal" href="../mechanics/love_points.html"><span class="doc">恋爱度</span></a>。</p>
 <p>ダンクーガ队加入。他们可以组合成ダンクーガ。可以在过关之后组合和改造ダンクーガ，但是因为ダンクーガ队犯的军规太多的原因，暂时没有合体权限，所以不能以合体状态出击。</p>
 <p>Bug: 如果在ダンクーガ队出现之前全灭敌军，那么到目覚めよ！超獣機神之前，ダンクーガ队都可以以合体状态出击，只占一个名额，分离出来就是四台机体，这是个有利于速通的bug。但是四回合内全灭敌军很难，得用GP01冲上去当靶子，就算阿姆罗的回避也很悬。</p>
 <p>下一话进入<a class="reference internal" href="05b_daba_my_lord.html"><span class="doc">第五话Ｂ ダハ=マイロド</span></a>。</p>

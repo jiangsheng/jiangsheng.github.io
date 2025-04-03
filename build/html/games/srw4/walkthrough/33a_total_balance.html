@@ -32,6 +32,7 @@
 
     <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=03e43079" />
     <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css?v=906dce5e" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/2.2.2/css/dataTables.bootstrap5.css" />
   
   <!-- So that users can add custom icons -->
   <script src="../../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
@@ -42,9 +43,12 @@
     <script src="../../../_static/documentation_options.js?v=aec57771"></script>
     <script src="../../../_static/doctools.js?v=9bcbadda"></script>
     <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
-    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
-    <script src="../../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'games/srw4/walkthrough/33a_total_balance';</script>
+    <script src="../../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.bootstrap5.js"></script>
     <link rel="canonical" href="https://git.jiangsheng.net/build/html/games/srw4/walkthrough/33a_total_balance.html" />
     <link rel="index" title="Index" href="../../../genindex.html" />
     <link rel="search" title="Search" href="../../../search.html" />
@@ -359,7 +363,20 @@
 <li class="toctree-l4"><a class="reference internal" href="40b_siege_breakthrough.html">第四十话Ｂ 包囲網突破！</a></li>
 <li class="toctree-l4"><a class="reference internal" href="41_scattered_on_axis.html">第四十一话 アクシズに散る</a></li>
 <li class="toctree-l4"><a class="reference internal" href="41b_haman_s_black_shadow.html">第四十一话Ｂ ハマーンの黒い影</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42a_oldna_poseidal_easy.html">第四十二话Ａ オルドナ＝ポセイダル (易)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html">我方初始配置</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id2">我方援军</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id3">敌方1初始配置</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id4">敌方1援军</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id5">敌方2初始配置</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id6">地图物品</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id7">事件</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id8">其他</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id9">评论</a></li>
 <li class="toctree-l4"><a class="reference internal" href="42c_oldna_poseidal_hard.html">第四十二话Ｃ オルドナ＝ポセイダル (难)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="43_wasteland_deathmatch.html">第四十三话 荒野の死闘</a></li>
+<li class="toctree-l4"><a class="reference internal" href="44a_final_battle_on_mars_zezeenan.html">第四十四话Ａ 火星の決戦 (ゼゼーナン)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="44b_final_battle_on_mars_shu.html">第四十四话Ｂ 火星の決戦 (シュウ)</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../missable.html">隐藏要素</a></li>
@@ -392,8 +409,6 @@
     <p class="topless"><a href="33b_beyond_the_todd.html"
                           title="next chapter">第三十三话Ｂ ビヨン・ザ・トッド</a></p>
   </div></div>
-        <div class="sidebar-primary-item">
-<div id="searchbox"></div></div>
         <div class="sidebar-primary-item">
   <h3>This Page</h3>
   <ul class="this-page-menu">
@@ -477,7 +492,7 @@
 <h1>第三十三话Ａ トータル·バランス<a class="headerlink" href="#a" title="Link to this heading">#</a></h1>
 <p><a class="reference internal" href="32_the_day_of_dakar.html"><span class="doc">第三十二话 ダカールの日</span></a>之后，如果フォウ＝ムラサメ加入，那么进入本话。</p>
 <p>Dakar事件导致ノイエＤＣ加强了活动，ＤＣ和ゲスト的联军也试图增加在宇宙的影响力。</p>
-<p>[srw4]因为エゥーゴ的军力不足以对付他们，所以ロンド・ベル要派部队支援。你可以在コンバトラーＶ小队和ダンクーガ之间选择。选择的小队将不能回到部队。</p>
+<p>[SRW4]因为エゥーゴ的军力不足以对付他们，所以ロンド・ベル要派部队支援。你可以在コンバトラーＶ小队和ダンクーガ之间选择。选择的小队将不能回到部队。</p>
 <p>在ティターンズ撤退之后，ガイゾック又开始在日本大举进攻，而且明显进行了恐怖活动——在人口密集的場所发生了爆炸案。ロンド・ベル决定向日本方向进军，但是又碰见了正在重组的ドレイク＝ルフト军。如果你派出了ニー＝ギブン，那么ドレイク＝ルフト的女儿リムル＝ルフト会驾驶一部ライネック来和他会合。</p>
 <p>任务目标    敌全灭</p>
 <section id="id1">
@@ -500,8 +515,8 @@
 <li><p>ズワァース（フェイ＝チェンカ）</p></li>
 <li><p>ズワァース（アレン＝ブレディ）</p></li>
 <li><p>バストール（ガラリア＝ニャムヒー） （如果没有加入）</p></li>
-<li><p>ビアレス x2</p></li>
-<li><p>レプラカーン x9</p></li>
+<li><p>ビアレス ×2</p></li>
+<li><p>レプラカーン ×9</p></li>
 </ul>
 </section>
 <section id="id4">
@@ -515,16 +530,16 @@
 <li><p>ライネック（ガラミティ＝マンガン）</p></li>
 <li><p>ライネック（ダー）</p></li>
 <li><p>ライネック（ニェット）</p></li>
-<li><p>ビアレス x7</p></li>
+<li><p>ビアレス ×7</p></li>
 </ul>
 </li>
 <li><p>援军2 右下</p>
 <ul class="simple">
 <li><p>スプリガン（ショット＝ウェポン）</p></li>
 <li><p>ブブリィ（ミュージィ＝ポー）</p></li>
-<li><p>ズワァース x3</p></li>
-<li><p>ビアレス x4</p></li>
-<li><p>レプラカーン x4</p></li>
+<li><p>ズワァース ×3</p></li>
+<li><p>ビアレス ×4</p></li>
+<li><p>レプラカーン ×4</p></li>
 </ul>
 </li>
 </ol>

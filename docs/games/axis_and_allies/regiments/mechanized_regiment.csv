@@ -1,8 +1,8 @@
 Name,Cost,Ammo,Oil,Main,Support 1,Support 2,Support 3
-Halftrack Regiment,100,,-15,Halftrack x4,,,
-Anti-aircraft halftrack regiment,125,-5,-15,Anti-Aircraft Halftrack x4,,,
-Anti-tank Halftrack Regiment,150,-10,-15,Halftrack x4,Tank Destroyer x2,,
-Artillery Halftrack Regiment,150,-10,-15,Halftrack x4,Artillery Halftrack x2,,
-Mechanized Infantry Regiment,125,-10,-10,Infantry x4(GER:-1),MG Infantry(GER:+1),Halftrack x2,Light Tank
-Rocket Truck Regiment,125,-15,-10,Infantry x4,MG Infantry,Rocket Truck x2,Light Tank
-Tankette Regiment,125,-10,-10,Te-Ke x4,,,
+Halftrack Regiment,100,,-15,Halftrack ×4,,,
+Anti-aircraft halftrack regiment,125,-5,-15,Anti-Aircraft Halftrack ×4,,,
+Anti-tank Halftrack Regiment,150,-10,-15,Halftrack ×4,Tank Destroyer ×2,,
+Artillery Halftrack Regiment,150,-10,-15,Halftrack ×4,Artillery Halftrack ×2,,
+Mechanized Infantry Regiment,125,-10,-10,Infantry ×4(GER:-1),MG Infantry(GER:+1),Halftrack ×2,Light Tank
+Rocket Truck Regiment,125,-15,-10,Infantry ×4,MG Infantry,Rocket Truck ×2,Light Tank
+Tankette Regiment,125,-10,-10,Te-Ke ×4,,,

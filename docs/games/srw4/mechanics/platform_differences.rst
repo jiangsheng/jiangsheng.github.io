@@ -10,8 +10,8 @@ PS版本的变化
 ---------------
 
 * 开始的时候增加了一话，名为“接触”。总回合数要求也相应变化。参见\ :doc:`../missable`。
-* \ :doc:`39a_ryune_capriccio_gato`\或者\ :doc:`39b_ryune_capriccio_gilliam`\ 之后，如果说得了リューネ＝ゾルダーク，下面一话进入新增的一话\ :doc:`39c_rescue`\ 。
-* \ :doc:`33a_total_balance`\ 或者\ :doc:`33b_beyond_the_todd`\ 进入战斗之前コンバトラーＶ小队或者ダンクーガ小队可以不用离队。
+* \ :doc:`../walkthrough/39a_ryune_capriccio_gato`\或者\ :doc:`../walkthrough/39b_ryune_capriccio_gilliam`\ 之后，如果说得了リューネ＝ゾルダーク，下面一话进入新增的一话\ :doc:`../walkthrough/39c_rescue`\ 。
+* \ :doc:`../walkthrough/33a_total_balance`\ 或者\ :doc:`../walkthrough/33b_beyond_the_todd`\ 进入战斗之前コンバトラーＶ小队或者ダンクーガ小队可以不用离队。
 
 
 ---------------

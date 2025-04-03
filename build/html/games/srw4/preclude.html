@@ -32,6 +32,7 @@
 
     <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=03e43079" />
     <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css?v=906dce5e" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/2.2.2/css/dataTables.bootstrap5.css" />
   
   <!-- So that users can add custom icons -->
   <script src="../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
@@ -42,9 +43,12 @@
     <script src="../../_static/documentation_options.js?v=aec57771"></script>
     <script src="../../_static/doctools.js?v=9bcbadda"></script>
     <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
-    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
-    <script src="../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'games/srw4/preclude';</script>
+    <script src="../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.bootstrap5.js"></script>
     <link rel="canonical" href="https://git.jiangsheng.net/build/html/games/srw4/preclude.html" />
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
@@ -316,8 +320,6 @@
     <p class="topless"><a href="mechanics/index.html"
                           title="next chapter">游戏设定</a></p>
   </div></div>
-        <div class="sidebar-primary-item">
-<div id="searchbox"></div></div>
         <div class="sidebar-primary-item">
   <h3>This Page</h3>
   <ul class="this-page-menu">
@@ -2591,147 +2593,10 @@
 <p>性别和主角的性格不仅仅会影响主角的台词，也会影响主角的恋人的人选。主角的恋人会是主角的异性，同时性格也是相反的角色。具体对照表可以参考上面的人物关系图。第四次所有的副主人公都具有热血、気合和幸运这三个精神，第四次S则只有一个没有幸运。因为真实系地图武器入手早，比较适合抢回合数拿古兰森的话，建议第四次真实系的主人公用比较早出觉醒的金牛座的O型血。如果不需要抢古兰森的话，副主人公可以考虑有觉醒的欧文=托斯汀。副主人公的等级很容易用地图武器提得很高，必闪、集中、必中、根性等命中和回避辅助精神并无多大必要。赫克特的精神信赖和再动则太过偏向于辅助了一点，本作并不缺少辅助机师。对于第四次S，可以考虑有觉醒和魂的格蕾丝作为恋人。</p>
 <p>真实系和超级系的选择会大大影响游戏流程。一些隐藏要素是真实系限定。</p>
 <p>除了几个特殊的生日和血型之外，主角和恋人的精神是由生日所在的黄道十二宫决定。</p>
-<p>主人公和副主人公之间有恋爱值的设定，如果恋爱值高于9，那么在最后一话的开始会有告白事件。</p>
-<p>选择没有恋人的场合，沙也加会介绍一个恋人给主人公。这时候的选择：</p>
-<div class="pst-scrollable-table-container"><table class="table" id="id8">
-<caption><span class="caption-text">主角和恋人搭讪</span><a class="headerlink" href="#id8" title="Link to this table">#</a></caption>
-<thead>
-<tr class="row-odd"><th class="head"><p>主人公</p></th>
-<th class="head"><p>选择</p></th>
-<th class="head"><p>増減</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td><p>男 熱血漢</p></td>
-<td><p>ぼくは○○。君と同じ新人だ</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="row-odd"><td></td>
-<td><p>へえ、かわいい子だな</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="row-even"><td><p>男 異性好き</p></td>
-<td><p>○○って呼んでいいかい？</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="row-odd"><td></td>
-<td><p>そう固くならずに。リラックス、リラックス</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="row-even"><td><p>男 ちょっとヘン</p></td>
-<td><p>ま、同じ新人同士だ。仲良くやろうぜ</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="row-odd"><td></td>
-<td><p>○○か。いい名前だ</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="row-even"><td><p>男 クールでニヒル</p></td>
-<td><p>そんな調子では、戦場でいきのびられんな</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="row-odd"><td></td>
-<td><p>もう少し何とかしろ</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="row-even"><td><p>女 熱血漢</p></td>
-<td><p>…変な人</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="row-odd"><td></td>
-<td><p>ふふ、ゆかいな人ね</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="row-even"><td><p>女 異性好き</p></td>
-<td><p>わあ～、クールですねぇ～</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="row-odd"><td></td>
-<td><p>○○ですぅ。よろしくぅ</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="row-even"><td><p>女 ちょっとヘン</p></td>
-<td><p>へえ、元気ねえ。仲良くやりましょ</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="row-odd"><td></td>
-<td><p>あなた、ナイメーヘン卒業ね？</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="row-even"><td><p>女 クールでニヒル</p></td>
-<td><p>フン、バカな事を</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="row-odd"><td></td>
-<td><p>え？私が？ウソだろ？</p></td>
-<td><p>3</p></td>
-</tr>
-</tbody>
-</table>
-</div>
-<p>在特定关卡达成条件之后恋爱度也会变化：</p>
-<div class="pst-scrollable-table-container"><table class="table" id="id9">
-<caption><span class="caption-text">恋爱度事件</span><a class="headerlink" href="#id9" title="Link to this table">#</a></caption>
-<thead>
-<tr class="row-odd"><th class="head"><p>关卡</p></th>
-<th class="head"><p>増減</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td><p>スタンピート</p></td>
-<td><p>被询问关于恋人的态度</p></td>
-</tr>
-<tr class="row-odd"><td></td>
-<td><p>はい：+1</p></td>
-</tr>
-<tr class="row-even"><td></td>
-<td><p>いいえ：0</p></td>
-</tr>
-<tr class="row-odd"><td><p>愛の行方</p></td>
-<td><p>+1</p></td>
-</tr>
-<tr class="row-even"><td><p>ポセイダルの野心</p></td>
-<td><p>关卡开始共同出撃：+1</p></td>
-</tr>
-<tr class="row-odd"><td><p>浮上</p></td>
-<td><p>共同出撃并生存：+1</p></td>
-</tr>
-<tr class="row-even"><td><p>大将軍ガルーダの悲劇</p></td>
-<td></td>
-</tr>
-<tr class="row-odd"><td><p>Drヘルの野望</p></td>
-<td></td>
-</tr>
-<tr class="row-even"><td><p>ノイエDC</p></td>
-<td></td>
-</tr>
-<tr class="row-odd"><td><p>コロスとドン・サウザー</p></td>
-<td></td>
-</tr>
-<tr class="row-even"><td><p>新しい力/人間爆弾の恐怖</p></td>
-<td><p>共同出撃并生存：+1 未共同出击或者有人被击落：-1</p></td>
-</tr>
-<tr class="row-odd"><td><p>特異点崩壊</p></td>
-<td></td>
-</tr>
-<tr class="row-even"><td><p>栄光の落日</p></td>
-<td></td>
-</tr>
-<tr class="row-odd"><td><p>ポセイダルの野心</p></td>
-<td></td>
-</tr>
-<tr class="row-even"><td><p>月の裏側/包囲網突破</p></td>
-<td></td>
-</tr>
-<tr class="row-odd"><td><p>荒野の死闘</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</div>
-<p>SRW4</p>
+<p>主人公和副主人公之间有<a class="reference internal" href="mechanics/love_points.html"><span class="doc">恋爱度</span></a>的设定。</p>
+<p>[SRW4]</p>
 <p>完成主人公配置之后，如果你选择了真实系，那么你将从<a class="reference internal" href="walkthrough/01a_the_beginning_real.html"><span class="doc">第一话Ａ 発端 (真实系)</span></a>开始，否则你将从<a class="reference internal" href="walkthrough/01b_the_beginning_super.html"><span class="doc">第一话Ｂ 発端 (超级系)</span></a>开始。</p>
-<p>SRW4S</p>
+<p>[SRW4S]</p>
 <p>完成主人公配置之后，如果你选择了真实系，那么你将从<a class="reference internal" href="walkthrough/00a_contact_real.html"><span class="doc">第零话Ａ 接触 (真实系)</span></a>开始，否则你将从<a class="reference internal" href="walkthrough/00b_contact_super.html"><span class="doc">第零话Ｂ 接触 (超级系)</span></a>开始。</p>
 </section>
 </section>

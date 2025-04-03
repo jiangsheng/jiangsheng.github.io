@@ -32,6 +32,7 @@
 
     <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=03e43079" />
     <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css?v=906dce5e" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/2.2.2/css/dataTables.bootstrap5.css" />
   
   <!-- So that users can add custom icons -->
   <script src="../../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
@@ -42,9 +43,12 @@
     <script src="../../../_static/documentation_options.js?v=aec57771"></script>
     <script src="../../../_static/doctools.js?v=9bcbadda"></script>
     <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
-    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
-    <script src="../../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'games/frontmission/mechanics/pilots';</script>
+    <script src="../../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.bootstrap5.js"></script>
     <link rel="canonical" href="https://git.jiangsheng.net/build/html/games/frontmission/mechanics/pilots.html" />
     <link rel="index" title="Index" href="../../../genindex.html" />
     <link rel="search" title="Search" href="../../../search.html" />
@@ -330,8 +334,6 @@
                           title="next chapter">Skills (Front Mission 1)</a></p>
   </div></div>
         <div class="sidebar-primary-item">
-<div id="searchbox"></div></div>
-        <div class="sidebar-primary-item">
   <h3>This Page</h3>
   <ul class="this-page-menu">
     <li><a href="../../../_sources/games/frontmission/mechanics/pilots.rst.txt"
@@ -495,8 +497,8 @@
 <p>Tp=Type M=Melee, S=Short, L=Long, A=Agility G=Generic, T=Tank,SS=Skill Slots</p>
 <p>Number in the skill column denotes the exp requirement to obtain a new skill. Once the exp requirement is met, the character can choose one of the skills available to the character in the exp category on the next level up bonus screen, unless the skill slots are full or you hacked too many skills in the category.</p>
 <p>15=D+, 20=C, 25=C+, 30=B, 35=B+, 40=A,45=A+, 50=S, 55=S+</p>
-<div class="pst-scrollable-table-container"><table class="table" id="id1">
-<caption><span class="caption-text">characters</span><a class="headerlink" href="#id1" title="Link to this table">#</a></caption>
+<div class="pst-scrollable-table-container"><table class="table" id="characters">
+<caption><span class="caption-text">Characters</span><a class="headerlink" href="#characters" title="Link to this table">#</a></caption>
 <thead>
 <tr class="row-odd"><th class="head"><p>Name</p></th>
 <th class="head"><p>Eng. Name</p></th>
@@ -815,7 +817,11 @@
 </tbody>
 </table>
 </div>
-</section>
+<script src="https://cdn.datatables.net/plug-ins/2.2.2/sorting/enum.js"/>
+<script>
+     DataTable.enum( [ '<p>S</p>','<p>A+</p>', '<p>A</p>', '<p>B+</p>','<p>B</p>','<p>C+</p>','<p>C</p>','<p>D+</p>','<p>D</p>' ] );
+     new DataTable('#characters',{paging: false,searching: false, info: false, scrollX: "100%"});
+ </script></section>
 </section>
 
 

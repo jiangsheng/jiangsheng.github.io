@@ -106,11 +106,17 @@ Number in the skill column denotes the exp requirement to obtain a new skill. On
 15=D+, 20=C, 25=C+, 30=B, 35=B+, 40=A,45=A+, 50=S, 55=S+
 
 
-.. csv-table:: characters
+.. csv-table:: Characters
    :file: pilots.csv
    :header-rows: 1
+   :name: characters
 
+.. raw:: html
 
+   <script>         
+      new DataTable('#characters',{paging: false,searching: false, info: false, scrollX: "100%"});
+   </script> 
+    
 
 
 

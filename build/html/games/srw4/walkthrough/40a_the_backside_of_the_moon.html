@@ -32,6 +32,7 @@
 
     <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=03e43079" />
     <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css?v=906dce5e" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/2.2.2/css/dataTables.bootstrap5.css" />
   
   <!-- So that users can add custom icons -->
   <script src="../../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
@@ -42,9 +43,12 @@
     <script src="../../../_static/documentation_options.js?v=aec57771"></script>
     <script src="../../../_static/doctools.js?v=9bcbadda"></script>
     <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
-    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
-    <script src="../../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'games/srw4/walkthrough/40a_the_backside_of_the_moon';</script>
+    <script src="../../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.bootstrap5.js"></script>
     <link rel="canonical" href="https://git.jiangsheng.net/build/html/games/srw4/walkthrough/40a_the_backside_of_the_moon.html" />
     <link rel="index" title="Index" href="../../../genindex.html" />
     <link rel="search" title="Search" href="../../../search.html" />
@@ -358,7 +362,20 @@
 <li class="toctree-l4"><a class="reference internal" href="40b_siege_breakthrough.html">第四十话Ｂ 包囲網突破！</a></li>
 <li class="toctree-l4"><a class="reference internal" href="41_scattered_on_axis.html">第四十一话 アクシズに散る</a></li>
 <li class="toctree-l4"><a class="reference internal" href="41b_haman_s_black_shadow.html">第四十一话Ｂ ハマーンの黒い影</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42a_oldna_poseidal_easy.html">第四十二话Ａ オルドナ＝ポセイダル (易)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html">我方初始配置</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id2">我方援军</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id3">敌方1初始配置</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id4">敌方1援军</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id5">敌方2初始配置</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id6">地图物品</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id7">事件</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id8">其他</a></li>
+<li class="toctree-l4"><a class="reference internal" href="42b_oldna_poseidal_normal.html#id9">评论</a></li>
 <li class="toctree-l4"><a class="reference internal" href="42c_oldna_poseidal_hard.html">第四十二话Ｃ オルドナ＝ポセイダル (难)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="43_wasteland_deathmatch.html">第四十三话 荒野の死闘</a></li>
+<li class="toctree-l4"><a class="reference internal" href="44a_final_battle_on_mars_zezeenan.html">第四十四话Ａ 火星の決戦 (ゼゼーナン)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="44b_final_battle_on_mars_shu.html">第四十四话Ｂ 火星の決戦 (シュウ)</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../missable.html">隐藏要素</a></li>
@@ -391,8 +408,6 @@
     <p class="topless"><a href="40b_siege_breakthrough.html"
                           title="next chapter">第四十话Ｂ 包囲網突破！</a></p>
   </div></div>
-        <div class="sidebar-primary-item">
-<div id="searchbox"></div></div>
         <div class="sidebar-primary-item">
   <h3>This Page</h3>
   <ul class="this-page-menu">
@@ -474,8 +489,8 @@
                   
   <section id="a">
 <h1>第四十话Ａ 月の裏側<a class="headerlink" href="#a" title="Link to this heading">#</a></h1>
-<p>[SRW4]<a class="reference internal" href="39a_ryune_capriccio_gato.html"><span class="doc">第三十九话Ａ リューネ・カプリッチオ （ガトー）</span></a>或者<a class="reference internal" href="39b_ryune_capriccio_gilliam.html"><span class="doc">第三十九话Ｂ リューネ・カプリッチオ （ギリアム）</span></a>之后，如果ギャブレット＝ギャブレー在队中， 那么进入本话。
-[SRW4S]如果ギャブレット＝ギャブレー在队中，<a class="reference internal" href="39a_ryune_capriccio_gato.html"><span class="doc">第三十九话Ａ リューネ・カプリッチオ （ガトー）</span></a>或者<a class="reference internal" href="39b_ryune_capriccio_gilliam.html"><span class="doc">第三十九话Ｂ リューネ・カプリッチオ （ギリアム）</span></a>之后如果没有说得リューネ＝ゾルダーク直接进入本话。如果说得了的话，在进入<a class="reference internal" href="39c_rescue.html"><span class="doc">第三十九话Ｃ 救出</span></a> 之后进入本话。</p>
+<p>[SRW4]<a class="reference internal" href="39a_ryune_capriccio_gato.html"><span class="doc">第三十九话Ａ リューネ・カプリッチオ （ガトー）</span></a>或者<a class="reference internal" href="39b_ryune_capriccio_gilliam.html"><span class="doc">第三十九话Ｂ リューネ・カプリッチオ （ギリアム）</span></a>之后，如果ギャブレット＝ギャブレー在队中， 那么进入本话。</p>
+<p>[SRW4S]如果ギャブレット＝ギャブレー在队中，<a class="reference internal" href="39a_ryune_capriccio_gato.html"><span class="doc">第三十九话Ａ リューネ・カプリッチオ （ガトー）</span></a>或者<a class="reference internal" href="39b_ryune_capriccio_gilliam.html"><span class="doc">第三十九话Ｂ リューネ・カプリッチオ （ギリアム）</span></a>之后如果没有说得リューネ＝ゾルダーク直接进入本话。如果说得了的话，在进入<a class="reference internal" href="39c_rescue.html"><span class="doc">第三十九话Ｃ 救出</span></a>之后进入本话。</p>
 <p>ギャブレット＝ギャブレー的加入不仅使得A队了解到ポセイダル军的基地在月之暗面，而且知道它具有一个严密的防御战线，由ギワザ＝ロワウ舰队守护。为了进入ポセイダル军的防御盲区而不受察觉，ロンド・ベル绕道ア・バオア・クー向月亮前进。</p>
 <p>在临近月亮的时候，ロンド・ベル迎头碰上了ノイエＤＣ和ゲスト，被迫加入双方的混战。ノイエＤＣ的マシュマー＝セロ被命令不得进攻ロンド・ベル，除非是自卫，但是他可以用战场上无法区分ゲスト和ロンド・ベル为借口进行无差别攻击。</p>
 <p>任务目标 敌全灭</p>
@@ -491,9 +506,9 @@
 <ul class="simple">
 <li><p>ゲーマルク（マシュマー＝セロ）</p></li>
 <li><p>ドーベンウルフ（ゴットン＝ゴー）</p></li>
-<li><p>ハンマ・ハンマ x2</p></li>
-<li><p>ドライセン x3</p></li>
-<li><p>ドーベンウルフ x2</p></li>
+<li><p>ハンマ・ハンマ ×2</p></li>
+<li><p>ドライセン ×3</p></li>
+<li><p>ドーベンウルフ ×2</p></li>
 <li><p>R・ジャジャ</p></li>
 <li><p>ベルガ・ギロス</p></li>
 </ul>
@@ -508,8 +523,8 @@
 <li><p>α・アジール（イリア＝バゾム）</p></li>
 <li><p>α・アジール（ランス＝ギーレン）</p></li>
 <li><p>α・アジール（ニー＝ギーレン）</p></li>
-<li><p>バウ（MS） x2</p></li>
-<li><p>ドーベンウルフドライセン x2</p></li>
+<li><p>バウ（MS） ×2</p></li>
+<li><p>ドーベンウルフドライセン ×2</p></li>
 <li><p>R・ジャジャ</p></li>
 </ul>
 </li>
@@ -525,9 +540,9 @@
 <h2>敌方2初始配置<a class="headerlink" href="#id4" title="Link to this heading">#</a></h2>
 <ul class="simple">
 <li><p>ライグ＝ゲイオス（ゼブリ-ズ=フルシュワ）</p></li>
-<li><p>レストグランシェ x4</p></li>
-<li><p>グラシドゥ＝リュ x4</p></li>
-<li><p>レストレイル x7</p></li>
+<li><p>レストグランシェ ×4</p></li>
+<li><p>グラシドゥ＝リュ ×4</p></li>
+<li><p>レストレイル ×7</p></li>
 </ul>
 </section>
 <section id="id5">
@@ -543,9 +558,9 @@
 <ul class="simple">
 <li><p>第二回合 ノイエＤＣ援军</p></li>
 <li><p>第三回合 エルピー＝プル和プルツー出现。由于怕ジュドー＝アーシタ把她们送回家，她们成为你的敌人，声称她们需要遵守一个诺言。ジュドー＝アーシタ可以说得エルピー＝プル和プルツー之一，得知她们在シャングリラ殖民地碰见了ノイエＤＣ的総帥ミネバ・ラオ・ザビ。被ハマーン＝カーン利用来维持正统性的ミネバ・ラオ・ザビ实际上处于被监禁状态。基于对这个女孩的同情心，エルピー＝プル和プルツー救出了她，并且把她藏在スウィートウォーター殖民地。在ジュドー＝アーシタ同意帮忙之后，他们停止了战斗。</p></li>
+<li><p>如果清关时主人公和副主人公都在战场上，那么<a class="reference internal" href="../mechanics/love_points.html"><span class="doc">恋爱度</span></a>+1。否则恋爱度-1。</p></li>
 </ul>
-<p>如果没有说得エルピー＝プル和プルツー，那么<a class="reference internal" href="41_scattered_on_axis.html"><span class="doc">第四十一话 アクシズに散る</span></a>之后进入オルドナ＝ポセイダルＡ。如果说得了エルピー＝プル和プルツー，战斗之后ジュドー＝アーシタ会和エルピー＝プル、プルツー一起去スウィートウォーター殖民地保卫ミネバ・ラオ・ザビ，并且问主角去不去。如果选择是，那么下一话<a class="reference internal" href="41_scattered_on_axis.html"><span class="doc">第四十一话 アクシズに散る</span></a>之后进入ハマーンの黒い影，ダバ＝マイロード、ファンネリア＝アム、ガウ＝ハ＝レッシィ也会跟去，否则进入オルドナ＝ポセイダルＢ。
-其他</p>
+<p>如果没有说得エルピー＝プル和プルツー，那么<a class="reference internal" href="41_scattered_on_axis.html"><span class="doc">第四十一话 アクシズに散る</span></a>之后进入<a class="reference internal" href="42c_oldna_poseidal_hard.html"><span class="doc">第四十二话Ｃ オルドナ＝ポセイダル (难)</span></a>。如果说得了エルピー＝プル和プルツー，战斗之后ジュドー＝アーシタ会和エルピー＝プル、プルツー一起去スウィートウォーター殖民地保卫ミネバ・ラオ・ザビ，并且问主角去不去。如果选择是，那么下一话<a class="reference internal" href="41_scattered_on_axis.html"><span class="doc">第四十一话 アクシズに散る</span></a>之后进入<a class="reference internal" href="41b_haman_s_black_shadow.html"><span class="doc">第四十一话Ｂ ハマーンの黒い影</span></a>，ダバ＝マイロード、ファンネリア＝アム、ガウ＝ハ＝レッシィ也会跟去，否则进入<a class="reference internal" href="42b_oldna_poseidal_normal.html"><span class="doc">我方初始配置</span></a>。</p>
 <p>下一话进入<a class="reference internal" href="41_scattered_on_axis.html"><span class="doc">第四十一话 アクシズに散る</span></a>。</p>
 </section>
 <section id="id7">

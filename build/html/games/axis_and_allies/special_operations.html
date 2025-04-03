@@ -32,6 +32,7 @@
 
     <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=03e43079" />
     <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css?v=906dce5e" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/2.2.2/css/dataTables.bootstrap5.css" />
   
   <!-- So that users can add custom icons -->
   <script src="../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
@@ -42,9 +43,12 @@
     <script src="../../_static/documentation_options.js?v=aec57771"></script>
     <script src="../../_static/doctools.js?v=9bcbadda"></script>
     <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
-    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
-    <script src="../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'games/axis_and_allies/special_operations';</script>
+    <script src="../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.bootstrap5.js"></script>
     <link rel="canonical" href="https://git.jiangsheng.net/build/html/games/axis_and_allies/special_operations.html" />
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
@@ -316,8 +320,6 @@
                           title="next chapter">Upgrades (Axis and Allies)</a></p>
   </div></div>
         <div class="sidebar-primary-item">
-<div id="searchbox"></div></div>
-        <div class="sidebar-primary-item">
   <h3>This Page</h3>
   <ul class="this-page-menu">
     <li><a href="../../_sources/games/axis_and_allies/special_operations.rst.txt"
@@ -396,18 +398,15 @@
   <section id="special-operations-axis-and-allies">
 <span id="axis-and-allies-special-operations"></span><h1>Special Operations  (Axis and Allies)<a class="headerlink" href="#special-operations-axis-and-allies" title="Link to this heading">#</a></h1>
 <p id="index-0">You control a general during battle, and the general would have 4 skills (called special operations in this game). Using a skill costs exp points you gain during battle. You gain general exp for regiments engagement as well as simply running the game. After you use a special operation, it goes into a cool down mode and you cannot use it for some time.</p>
-<blockquote>
-<div><p>Generally speaking, in multiple player matches, you want attack generals (nuke, carpet bombing, etc) or economy boost (Lend Lease etc). Those who don’t (e.g. having spies) are at an disadvantage.</p>
-</div></blockquote>
-<div class="pst-scrollable-table-container"><table class="table" id="id1">
-<caption><span class="caption-text">Special Operations</span><a class="headerlink" href="#id1" title="Link to this table">#</a></caption>
+<p>Generally speaking, in multiple player matches, you want attack generals (nuke, carpet bombing, etc) or economy boost (Lend Lease etc). Those who don’t (e.g. having spies) are at an disadvantage.</p>
+<div class="pst-scrollable-table-container"><table class="table" id="special-operations">
+<caption><span class="caption-text">Special Operations</span><a class="headerlink" href="#special-operations" title="Link to this table">#</a></caption>
 <thead>
 <tr class="row-odd"><th class="head"><p>Name</p></th>
 <th class="head"><p>Cost</p></th>
 <th class="head"><p>Area</p></th>
 <th class="head"><p>Duration(s)</p></th>
 <th class="head"><p>Effect</p></th>
-<th class="head"></th>
 </tr>
 </thead>
 <tbody>
@@ -415,267 +414,232 @@
 <td><p>1000</p></td>
 <td><p>Large</p></td>
 <td><p>120</p></td>
-<td><p>Damage +6, Defense +5, Max Speed +20%, immune to fear enchantments</p></td>
-<td></td>
+<td><p>Dmg +6, Def +5, Max Speed +20%, immune to fear</p></td>
 </tr>
 <tr class="row-odd"><td><p>Armored Resupply</p></td>
 <td><p>300</p></td>
 <td><p>Large</p></td>
 <td><p>30</p></td>
 <td><p>Tanks : increased supply rate (instant)</p></td>
-<td></td>
 </tr>
 <tr class="row-even"><td><p>Assembly Line</p></td>
 <td><p>300</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
 <td><p>Vehicles: increased supply rate</p></td>
-<td></td>
 </tr>
 <tr class="row-odd"><td><p>Atomic Bomb</p></td>
 <td><p>2000</p></td>
 <td><p>Large</p></td>
 <td><p>N/A</p></td>
-<td><p>Damages: 500 Explosive +1000 Extra Explosive to buildings +25 Flame per second Radiation for 10s</p></td>
-<td></td>
+<td><p>Dmgs: 500 Ex +1000 Ex to buildings +25/s Flame Radiation Dmg for 10s</p></td>
 </tr>
 <tr class="row-even"><td><p>Banzai Charge</p></td>
 <td><p>1000</p></td>
 <td><p>Large</p></td>
 <td><p>60</p></td>
-<td><p>Infantry : Attack Speed +50%, Health +50%,  immune to fear enchantments</p></td>
-<td></td>
+<td><p>Infantry : Attack Speed +50%, Health +50%,  immune to fear</p></td>
 </tr>
 <tr class="row-odd"><td><p>Blitzkrieg</p></td>
 <td><p>1000</p></td>
 <td><p>Large</p></td>
 <td><p>120</p></td>
-<td><p>Tanks: Attack +50, Max Speed +20%, immune to fear enchantments</p></td>
-<td></td>
+<td><p>Tanks: Attack +50, Max Speed +20%, immune to fear</p></td>
 </tr>
 <tr class="row-even"><td><p>Bombing</p></td>
 <td><p>1800</p></td>
 <td><p>Large</p></td>
 <td><p>N/A</p></td>
-<td><p>500 Explosive Damage +1500 Extra Explosive Damage to buildings</p></td>
-<td></td>
+<td><p>500 Explosive Dmg +1500 Extra Explosive Dmg to buildings</p></td>
 </tr>
 <tr class="row-odd"><td><p>British Sabotage</p></td>
 <td><p>800</p></td>
 <td><p>N/A</p></td>
 <td><p>90</p></td>
-<td><p>Summons a saboteur that will damage buildings</p></td>
-<td></td>
+<td><p>Summons a saboteur that will Dmg buildings</p></td>
 </tr>
 <tr class="row-even"><td><p>Carpet Bombing</p></td>
 <td><p>1800</p></td>
 <td><p>Large</p></td>
 <td><p>N/A</p></td>
-<td><p>500 Explosive Damage +1500 Extra Explosive Damage to buildings</p></td>
-<td></td>
+<td><p>500 Explosive Dmg +1500 Extra Explosive Dmg to buildings</p></td>
 </tr>
 <tr class="row-odd"><td><p>Code Breaker</p></td>
 <td><p>200</p></td>
 <td><p>N/A</p></td>
 <td><p>15</p></td>
 <td><p>Briefly remove fog of war from target area</p></td>
-<td></td>
 </tr>
 <tr class="row-even"><td><p>Communist Purge</p></td>
 <td><p>200</p></td>
 <td><p>Large</p></td>
 <td><p>60</p></td>
 <td><p>Infantry: Attack +5, kill officers</p></td>
-<td></td>
 </tr>
 <tr class="row-odd"><td><p>Communist Zeal</p></td>
 <td><p>1000</p></td>
 <td><p>Large</p></td>
 <td><p>120</p></td>
-<td><p>Infantry :  Armor Piercing Damage +3, Health +40%, Max Speed +20%, immune to fear enchantments</p></td>
-<td></td>
+<td><p>Infantry: AP Dmg +3, Health +40%, Max Speed +20%, immune to fear</p></td>
 </tr>
 <tr class="row-even"><td><p>Corps Reorganization</p></td>
 <td><p>1000</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
 <td><p>Summons a new Corps HQ Truck</p></td>
-<td></td>
 </tr>
 <tr class="row-odd"><td><p>Demoralization</p></td>
 <td><p>800</p></td>
 <td><p>Large</p></td>
 <td><p>20</p></td>
 <td><p>Enemy Attack Speed -30%, Morale -3</p></td>
-<td></td>
 </tr>
 <tr class="row-even"><td><p>Double the Guard</p></td>
 <td><p>400</p></td>
 <td><p>Large</p></td>
 <td><p>60</p></td>
 <td><p>Buildings:Attack +15</p></td>
-<td></td>
 </tr>
 <tr class="row-odd"><td><p>Economic Aid</p></td>
 <td><p>500</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
 <td><p>Ammo +15 , Oil +15 when crate exist</p></td>
-<td></td>
 </tr>
 <tr class="row-even"><td><p>Espionage</p></td>
 <td><p>400</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
 <td><p>Reveal target Building status, steals 50 money</p></td>
-<td></td>
 </tr>
 <tr class="row-odd"><td><p>Fighting Spirit</p></td>
 <td><p>300</p></td>
 <td><p>Large</p></td>
 <td><p>60</p></td>
-<td><p>Defense +2, Max Speed +20%,   immune to fear enchantments, Morale+1</p></td>
-<td></td>
+<td><p>Def +2, Max Speed +20%, immune to fear, Morale+1</p></td>
 </tr>
 <tr class="row-even"><td><p>Forced March</p></td>
 <td><p>200</p></td>
 <td><p>Large</p></td>
 <td><p>30</p></td>
-<td><p>Max Damage +50%, 1 Flame Damage Taken per second</p></td>
-<td></td>
+<td><p>Max Dmg +50%, 1 Flame Dmg Taken per second</p></td>
 </tr>
 <tr class="row-odd"><td><p>Industrial Sabotage</p></td>
 <td><p>500</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
-<td><p>enemy depot:2500 Explosive Damage</p></td>
-<td></td>
+<td><p>enemy depot:2500 Explosive Dmg</p></td>
 </tr>
 <tr class="row-even"><td><p>Infantry Resupply</p></td>
 <td><p>200</p></td>
 <td><p>Large</p></td>
 <td><p>30</p></td>
 <td><p>Infantry : increased supply rate</p></td>
-<td></td>
 </tr>
 <tr class="row-odd"><td><p>Kamikaze</p></td>
 <td><p>1600</p></td>
 <td><p>Large</p></td>
 <td><p>N/A</p></td>
-<td><p>Damages: 500 Armor Piercing +1000 Flame to buildings</p></td>
-<td></td>
+<td><p>Dmgs: 500 AP +1000 Flame to buildings</p></td>
 </tr>
 <tr class="row-even"><td><p>Lend Lease</p></td>
 <td><p>400</p></td>
 <td><p>N/A</p></td>
 <td><p>5</p></td>
 <td><p>Income  +1000 for 5 Seconds</p></td>
-<td></td>
 </tr>
 <tr class="row-odd"><td><p>Maskirovka</p></td>
 <td><p>500</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
 <td><p>deploy fake tank that looks like a medium tank</p></td>
-<td></td>
 </tr>
 <tr class="row-even"><td><p>Mechanized Advance</p></td>
 <td><p>1000</p></td>
 <td><p>Large</p></td>
 <td><p>120</p></td>
-<td><p>Halftracks:Damage +6, Defense +5, Max Speed +20%, immune to fear enchantments</p></td>
-<td></td>
+<td><p>Halftracks: Dmg +6, Def +5, Max Speed +20%, immune to fear</p></td>
 </tr>
 <tr class="row-odd"><td><p>Mechanized Resupply</p></td>
 <td><p>300</p></td>
 <td><p>Large</p></td>
 <td><p>30</p></td>
 <td><p>Halftracks : increased supply rate</p></td>
-<td></td>
 </tr>
 <tr class="row-even"><td><p>Military Gear Up</p></td>
 <td><p>300</p></td>
 <td><p>Large</p></td>
 <td><p>180</p></td>
 <td><p>Infantry : Health+10%</p></td>
-<td></td>
 </tr>
 <tr class="row-odd"><td><p>Panzer Holhe</p></td>
 <td><p>500</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
 <td><p>deploy fake tank that looks like a medium tank</p></td>
-<td></td>
 </tr>
 <tr class="row-even"><td><p>Propaganda War</p></td>
 <td><p>800</p></td>
 <td><p>Large</p></td>
 <td><p>20</p></td>
-<td><p>Enemy defense -2, Max Speed -20%, Morale -4</p></td>
-<td></td>
+<td><p>Enemy Def -2, Max Speed -20%, Morale -4</p></td>
 </tr>
 <tr class="row-odd"><td><p>Radar Scan</p></td>
 <td><p>400</p></td>
 <td><p>N/A</p></td>
 <td><p>10</p></td>
 <td><p>no fog on minimap briefly</p></td>
-<td></td>
 </tr>
 <tr class="row-even"><td><p>Rapid Deployment</p></td>
 <td><p>300</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
 <td><p>Infantry : permanently increased supply rate</p></td>
-<td></td>
 </tr>
 <tr class="row-odd"><td><p>Russian Sabotage</p></td>
 <td><p>800</p></td>
 <td><p>N/A</p></td>
 <td><p>90</p></td>
-<td><p>Summons a saboteur that will damage buildings</p></td>
-<td></td>
+<td><p>Summons a saboteur that will Dmg buildings</p></td>
 </tr>
 <tr class="row-even"><td><p>Sandbagging</p></td>
 <td><p>300</p></td>
 <td><p>Large</p></td>
 <td><p>180</p></td>
-<td><p>Target Buildings:Gunfire resistance +25%, Armor Piercing resistance +25%, Explosive resistance +50%</p></td>
-<td></td>
+<td><p>Targeted Buildings resistance: Gun  +25%, AP +25%, Ex +50%</p></td>
 </tr>
 <tr class="row-odd"><td><p>Secret Agent</p></td>
 <td><p>200</p></td>
 <td><p>N/A</p></td>
 <td><p>100</p></td>
 <td><p>Summons a Secret Agent that will remove fog of war from target area</p></td>
-<td></td>
 </tr>
 <tr class="row-even"><td><p>Smoke Barrage</p></td>
 <td><p>600</p></td>
 <td><p>Large</p></td>
 <td><p>30</p></td>
 <td><p>Attack Speed -50%, Max Speed -50%</p></td>
-<td></td>
 </tr>
 <tr class="row-odd"><td><p>Supply Drop</p></td>
 <td><p>400</p></td>
 <td><p>N/A</p></td>
 <td><p>180</p></td>
 <td><p>Temporary supply zone creation when air dropped crate exist</p></td>
-<td></td>
 </tr>
 <tr class="row-even"><td><p>V Weapons</p></td>
 <td><p>1600</p></td>
 <td><p>Large</p></td>
 <td><p>N/A</p></td>
-<td><p>Damage: 750 Explosive +750 extra damage vs buildings</p></td>
-<td></td>
+<td><p>Dmg: 750 Explosive +750 extra Dmg vs buildings</p></td>
 </tr>
 </tbody>
 </table>
 </div>
-<p>Almost every general has Corps Reorganization. The rest 3 special operations are different for each one.</p>
-<div class="pst-scrollable-table-container"><table class="table" id="id2">
-<caption><span class="caption-text">Generals</span><a class="headerlink" href="#id2" title="Link to this table">#</a></caption>
+<script>
+    new DataTable('#special-operations',{paging: false,searching: false, info: false,scrollX: "100%"});
+</script><p>Almost every general has Corps Reorganization. The rest 3 special operations are different for each one.</p>
+<div class="pst-scrollable-table-container"><table class="table" id="generals">
+<caption><span class="caption-text">Generals</span><a class="headerlink" href="#generals" title="Link to this table">#</a></caption>
 <thead>
 <tr class="row-odd"><th class="head"><p>Name</p></th>
 <th class="head"><p>Side</p></th>
@@ -878,7 +842,9 @@
 </tbody>
 </table>
 </div>
-</section>
+<script>
+    new DataTable('#generals',{paging: false,searching: false, info: false, scrollX: "100%"});
+</script></section>
 
 
                 </article>

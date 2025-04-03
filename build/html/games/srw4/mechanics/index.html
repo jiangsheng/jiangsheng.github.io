@@ -32,6 +32,7 @@
 
     <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=03e43079" />
     <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css?v=906dce5e" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/2.2.2/css/dataTables.bootstrap5.css" />
   
   <!-- So that users can add custom icons -->
   <script src="../../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
@@ -42,9 +43,12 @@
     <script src="../../../_static/documentation_options.js?v=aec57771"></script>
     <script src="../../../_static/doctools.js?v=9bcbadda"></script>
     <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
-    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
-    <script src="../../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'games/srw4/mechanics/index';</script>
+    <script src="../../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.bootstrap5.js"></script>
     <link rel="canonical" href="https://git.jiangsheng.net/build/html/games/srw4/mechanics/index.html" />
     <link rel="index" title="Index" href="../../../genindex.html" />
     <link rel="search" title="Search" href="../../../search.html" />
@@ -286,13 +290,14 @@
 <li class="toctree-l4"><a class="reference internal" href="items.html">芯片</a></li>
 <li class="toctree-l4"><a class="reference internal" href="platform_differences.html">PS版本的变化</a></li>
 <li class="toctree-l4"><a class="reference internal" href="exp.html">经验值公式</a></li>
-<li class="toctree-l4"><a class="reference internal" href="topography.html">地形适应</a></li>
+<li class="toctree-l4"><a class="reference internal" href="terrain.html">地形</a></li>
 <li class="toctree-l4"><a class="reference internal" href="remodeling.html">机体改造</a></li>
 <li class="toctree-l4"><a class="reference internal" href="willpower.html">气力</a></li>
 <li class="toctree-l4"><a class="reference internal" href="deploy.html">出击顺序</a></li>
+<li class="toctree-l4"><a class="reference internal" href="love_points.html">恋爱度</a></li>
 <li class="toctree-l4"><a class="reference internal" href="cheat.html">修改</a></li>
 <li class="toctree-l4"><a class="reference internal" href="bug.html">Bug</a></li>
-<li class="toctree-l4"><a class="reference internal" href="#id3">公式</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id2">公式</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../pilots/index.html">机师</a></li>
@@ -328,8 +333,6 @@
     <p class="topless"><a href="sprit_command.html"
                           title="next chapter">精神</a></p>
   </div></div>
-        <div class="sidebar-primary-item">
-<div id="searchbox"></div></div>
         <div class="sidebar-primary-item">
   <h3>This Page</h3>
   <ul class="this-page-menu">
@@ -407,44 +410,38 @@
                 <article class="bd-article">
                   
   <section id="srw4-mechanics">
-<span id="id1"></span><h1><a class="toc-backref" href="#id4" role="doc-backlink">游戏设定</a><a class="headerlink" href="#srw4-mechanics" title="Link to this heading">#</a></h1>
+<span id="id1"></span><h1>游戏设定<a class="headerlink" href="#srw4-mechanics" title="Link to this heading">#</a></h1>
 <div class="toctree-wrapper compound">
 </div>
-<nav class="contents" id="id2">
-<p class="topic-title">目录</p>
-<ul class="simple">
-<li><p><a class="reference internal" href="#srw4-mechanics" id="id4">游戏设定</a></p>
-<ul>
-<li><p><a class="reference internal" href="#id3" id="id5">公式</a></p></li>
-</ul>
-</li>
-</ul>
-</nav>
-<section id="id3">
-<h2><a class="toc-backref" href="#id5" role="doc-backlink">公式</a><a class="headerlink" href="#id3" title="Link to this heading">#</a></h2>
+<p><a class="reference internal" href="sprit_command.html"><span class="doc">精神</span></a>相当于一般角色扮演游戏中的魔法。使用需要消耗SP。SP值随机师等级而增长。因为经验值是看和敌人的<a class="reference internal" href="exp.html#srw4-exp"><span class="std std-ref">等级差</span></a>，而敌人的等级固定，所以本作最好平均培养机师。机体的能力和武器的威力则是通过<a class="reference internal" href="remodeling.html#srw4-remodeling"><span class="std std-ref">改造</span></a>来提升。</p>
+<p>机师等级上升的时候有可能学得<a class="reference internal" href="pilot_specialty.html#srw4-pilot-specialty"><span class="std std-ref">特殊技能</span></a>。也有些机师出场时就自带一些技能。一些机师特殊技能需要机体有<a class="reference internal" href="unit_specialty.html#srw4-unit-specialty"><span class="std std-ref">对应的技能</span></a>才能发动。</p>
+<p>一些机体特殊技能可以通过装备<a class="reference internal" href="items.html"><span class="doc">芯片 (第四次机器人大战)</span></a>获得。芯片通常是通过在战场上移动到特定地点获得，但是也有随着剧情获得的。</p>
+<p>在<a class="reference internal" href="platform_differences.html#srw4-platform-differences"><span class="std std-ref">PS移植版</span></a>中，精神配置、芯片地点和<a class="reference internal" href="terrain.html#srw4-terrain"><span class="std std-ref">地形适应</span></a>都有变化。</p>
+<section id="id2">
+<h2>公式<a class="headerlink" href="#id2" title="Link to this heading">#</a></h2>
 <p>命中率=(武器命中 + 攻方限界(命中+運動性) + 攻方直感 + 100 - 守方限界(回避+運動性) - 守方直感) * 机体大小補正 * 地形命中補正</p>
 <p>大小补正：S = 0.8, M = 1.0 , L = 1.2, LL = 1.4</p>
-<p>基础伤害=（ 武器攻撃力×武器地形适应×机师攻击力÷100×气力÷100×攻方地形适应－装甲×气力÷100×守方地形适应）× 地形防御补正</p>
+<p>基础伤害=（ 武器攻撃力×武器地形适应×机师攻击力÷100×气力÷100×攻方地形适应－装甲×<a class="reference internal" href="willpower.html#srw4-willpower"><span class="std std-ref">气力</span></a>÷100×守方地形适应）× 地形防御补正</p>
 <p>在计算的时候，根据武器类型决定采用机师的近攻击还是远攻击能力。另外，武器类型也决定机体的地形适应是采用敌方所在格还是我方所在格。武器的地形适应总是采用我方所在格。</p>
 <ul class="simple">
 <li><p>近身格斗武器： 射程1 近攻击 （例如大雪山おろし和必殺烈風正拳突き改）地形参照敌方</p></li>
 <li><p>近距离射击武器： 射程1 近攻击 （例如巴尔干炮、盖塔光线、日轮/月轮、必殺烈風正拳突き等等）地形参照我方</p></li>
 <li><p>远程射击武器，射程1-X或者2以上，例如浮游炮</p></li>
 </ul>
-<p>机体<a class="reference internal" href="topography.html"><span class="doc">地形</span></a>适配：</p>
+<p>机体<a class="reference internal" href="terrain.html#srw4-terrain"><span class="std std-ref">地形 (第四次机器人大战)</span></a>适配：</p>
 <ul class="simple">
 <li><p>A 攻防效果120%</p></li>
 <li><p>B 攻防效果100%</p></li>
 <li><p>C 攻防效果80%</p></li>
 <li><p>D 攻防效果60%</p></li>
-<li><p>−攻防效果0%————一般情况下机体没有移动到这样的地形的能力，需要有米诺夫斯基飞行器。</p></li>
+<li><p>― 攻防效果0%————一般情况下机体没有移动到这样的地形的能力，需要有米诺夫斯基飞行器。</p></li>
 </ul>
-<p>武器地形适配。</p>
+<p>武器地形适配：</p>
 <ul class="simple">
 <li><p>A 攻击效果100%</p></li>
 <li><p>B 攻击效果70%</p></li>
 <li><p>C 攻击效果40%</p></li>
-<li><p>−无法使用，除非机体装备了米诺夫斯基飞行器。</p></li>
+<li><p>― 无法使用，除非机体装备了<a class="reference internal" href="items.html#srw4-items"><span class="std std-ref">ミノフスキークラフト</span></a>。</p></li>
 </ul>
 <p>基础伤害最低为10</p>
 <p>暴击率＝攻方技量 - 守方技量 + 武器暴击率补正</p>
@@ -516,7 +513,7 @@
   </div>
   <nav class="bd-toc-nav page-toc" aria-labelledby="pst-page-navigation-heading-2">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">公式</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">公式</a></li>
 </ul>
   </nav></div>
 
