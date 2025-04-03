@@ -12,6 +12,8 @@
    :class: text-center, align-items-center
 
    * - 类型 陆
+       移动力 8
+     - 移动力 8
      - HP 2300
      - EN 150
      - 盾 无
