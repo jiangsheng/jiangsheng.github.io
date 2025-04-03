@@ -137,13 +137,13 @@ html_sidebars = {
     '**': [
         'globaltoc.html',
         'relations.html',
-        'searchbox.html',
+        #'searchbox.html',
         'sourcelink.htm',
         ],
     'index': [
         'globaltoc.html',
         'relations.html',
-        'searchbox.html',
+        #'searchbox.html',
         'sourcelink.htm',
         ],
 }
@@ -179,7 +179,7 @@ latex_elements={# The paper size ('letterpaper' or 'a4paper').
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'jiangsheng.tex', u'jiangsheng Documentation',
+    (master_doc, 'jiangsheng.tex', u'jiangsheng\'s Documentation',
      u'Sheng Jiang', 'manual'),
 ]
 
@@ -243,10 +243,24 @@ todo_include_todos = True
 # google analytics
 googleanalytics_id = 'UA-30166843-2'
 
+html_css_files  = [
+    'css/custom.css',
+    'https://cdn.datatables.net/2.2.2/css/dataTables.bootstrap5.css'
+]
+
+html_js_files = [
+    'google_analytics_tracker.js',
+    'https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N',
+    'https://code.jquery.com/jquery-3.7.1.js',
+    'https://cdn.datatables.net/2.2.2/js/dataTables.js',
+    'https://cdn.datatables.net/2.2.2/js/dataTables.bootstrap5.js'
+]
+
 sitemap_locales = ['zh-CN']
 sitemap_url_scheme = "{version}{link}"
-def setup(app):
-    app.add_css_file('css/custom.css')
-    app.add_js_file("https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N")
-    app.add_js_file("google_analytics_tracker.js")
-   
+
+# def setup(app):
+    # app.add_css_file('css/custom.css')
+    # app.add_js_file()
+    # app.add_js_file("google_analytics_tracker.js")
+      

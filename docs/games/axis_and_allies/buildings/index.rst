@@ -80,7 +80,7 @@ Home to artillery weapons and upgrades. The morale damage comes handy both in of
 -------------
 Airfield
 -------------
-Requires Engineer Brigade and Motor Pool. Their attack power and flexibility are unmatched. So do their running costs. You must build fighters (max x4) and Bombers (max 2) before sending them to missions. Fighters can conduct recon flights (cost 25), intercept incoming airplanes and escort bombers. Although you can send bombers alone (cost 100-150), fighters escorts are not really optional if enemies have AA firepower. You will need to rebuild planes after previous ones are shot down. Better upgrade their armor when you can afford it, as losing planes are more expensive. 
+Requires Engineer Brigade and Motor Pool. Their attack power and flexibility are unmatched. So do their running costs. You must build fighters (max ×4) and Bombers (max 2) before sending them to missions. Fighters can conduct recon flights (cost 25), intercept incoming airplanes and escort bombers. Although you can send bombers alone (cost 100-150), fighters escorts are not really optional if enemies have AA firepower. You will need to rebuild planes after previous ones are shot down. Better upgrade their armor when you can afford it, as losing planes are more expensive. 
 
 Airfields are also the highest priority targets for air raids and special operations. Although airfield can defend itself with fighters and bombers, they are not effective against ground threats. Add AA defense (4 or more) and some ground support to it. Don't hesitate to attack enemies' airfield if you found one.
 

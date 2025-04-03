@@ -1,38 +1,38 @@
-﻿Name,Cost,Area,Duration(s),Effect,
-Advance,1000,Large,120,"Damage +6, Defense +5, Max Speed +20%, immune to fear enchantments",
-Armored Resupply,300,Large,30,Tanks : increased supply rate (instant),
-Assembly Line,300,N/A,N/A,Vehicles: increased supply rate ,
-Atomic Bomb,2000,Large,N/A,Damages: 500 Explosive +1000 Extra Explosive to buildings +25 Flame per second Radiation for 10s,
-Banzai Charge,1000,Large,60,"Infantry : Attack Speed +50%, Health +50%,  immune to fear enchantments",
-Blitzkrieg,1000,Large,120,"Tanks: Attack +50, Max Speed +20%, immune to fear enchantments",
-Bombing,1800,Large,N/A,500 Explosive Damage +1500 Extra Explosive Damage to buildings,
-British Sabotage,800,N/A,90,Summons a saboteur that will damage buildings,
-Carpet Bombing,1800,Large,N/A,500 Explosive Damage +1500 Extra Explosive Damage to buildings,
-Code Breaker,200,N/A,15,Briefly remove fog of war from target area,
-Communist Purge,200,Large,60,"Infantry: Attack +5, kill officers",
-Communist Zeal,1000,Large,120,"Infantry :  Armor Piercing Damage +3, Health +40%, Max Speed +20%, immune to fear enchantments",
-Corps Reorganization,1000,N/A,N/A,Summons a new Corps HQ Truck,
-Demoralization,800,Large,20,"Enemy Attack Speed -30%, Morale -3",
-Double the Guard,400,Large,60,Buildings:Attack +15,
-Economic Aid,500,N/A,N/A,"Ammo +15 , Oil +15 when crate exist",
-Espionage,400,N/A,N/A,"Reveal target Building status, steals 50 money",
-Fighting Spirit,300,Large,60,"Defense +2, Max Speed +20%,   immune to fear enchantments, Morale+1",
-Forced March,200,Large,30,"Max Damage +50%, 1 Flame Damage Taken per second",
-Industrial Sabotage,500,N/A,N/A,enemy depot:2500 Explosive Damage,
-Infantry Resupply,200,Large,30,Infantry : increased supply rate  ,
-Kamikaze,1600,Large,N/A,Damages: 500 Armor Piercing +1000 Flame to buildings ,
-Lend Lease,400,N/A,5,Income  +1000 for 5 Seconds,
-Maskirovka,500,N/A,N/A,deploy fake tank that looks like a medium tank,
-Mechanized Advance,1000,Large,120,"Halftracks:Damage +6, Defense +5, Max Speed +20%, immune to fear enchantments",
-Mechanized Resupply,300,Large,30,Halftracks : increased supply rate  ,
-Military Gear Up,300,Large,180,Infantry : Health+10%,
-Panzer Holhe,500,N/A,N/A,deploy fake tank that looks like a medium tank,
-Propaganda War,800,Large,20,"Enemy defense -2, Max Speed -20%, Morale -4",
-Radar Scan,400,N/A,10,no fog on minimap briefly,
-Rapid Deployment,300,N/A,N/A,Infantry : permanently increased supply rate  ,
-Russian Sabotage,800,N/A,90,Summons a saboteur that will damage buildings,
-Sandbagging,300,Large,180,"Target Buildings:Gunfire resistance +25%, Armor Piercing resistance +25%, Explosive resistance +50%",
-Secret Agent,200,N/A,100,Summons a Secret Agent that will remove fog of war from target area,
-Smoke Barrage,600,Large,30,"Attack Speed -50%, Max Speed -50%",
+﻿Name,Cost,Area,Duration(s),Effect
+Advance,1000,Large,120,"Dmg +6, Def +5, Max Speed +20%, immune to fear"
+Armored Resupply,300,Large,30,Tanks : increased supply rate (instant)
+Assembly Line,300,N/A,N/A,Vehicles: increased supply rate 
+Atomic Bomb,2000,Large,N/A,Dmgs: 500 Ex +1000 Ex to buildings +25/s Flame Radiation Dmg for 10s
+Banzai Charge,1000,Large,60,"Infantry : Attack Speed +50%, Health +50%,  immune to fear"
+Blitzkrieg,1000,Large,120,"Tanks: Attack +50, Max Speed +20%, immune to fear"
+Bombing,1800,Large,N/A,500 Explosive Dmg +1500 Extra Explosive Dmg to buildings
+British Sabotage,800,N/A,90,Summons a saboteur that will Dmg buildings
+Carpet Bombing,1800,Large,N/A,500 Explosive Dmg +1500 Extra Explosive Dmg to buildings
+Code Breaker,200,N/A,15,Briefly remove fog of war from target area
+Communist Purge,200,Large,60,"Infantry: Attack +5, kill officers"
+Communist Zeal,1000,Large,120,"Infantry: AP Dmg +3, Health +40%, Max Speed +20%, immune to fear"
+Corps Reorganization,1000,N/A,N/A,Summons a new Corps HQ Truck
+Demoralization,800,Large,20,"Enemy Attack Speed -30%, Morale -3"
+Double the Guard,400,Large,60,Buildings:Attack +15
+Economic Aid,500,N/A,N/A,"Ammo +15 , Oil +15 when crate exist"
+Espionage,400,N/A,N/A,"Reveal target Building status, steals 50 money"
+Fighting Spirit,300,Large,60,"Def +2, Max Speed +20%, immune to fear, Morale+1"
+Forced March,200,Large,30,"Max Dmg +50%, 1 Flame Dmg Taken per second"
+Industrial Sabotage,500,N/A,N/A,enemy depot:2500 Explosive Dmg
+Infantry Resupply,200,Large,30,Infantry : increased supply rate  
+Kamikaze,1600,Large,N/A,Dmgs: 500 AP +1000 Flame to buildings 
+Lend Lease,400,N/A,5,Income  +1000 for 5 Seconds
+Maskirovka,500,N/A,N/A,deploy fake tank that looks like a medium tank
+Mechanized Advance,1000,Large,120,"Halftracks: Dmg +6, Def +5, Max Speed +20%, immune to fear"
+Mechanized Resupply,300,Large,30,Halftracks : increased supply rate
+Military Gear Up,300,Large,180,Infantry : Health+10%
+Panzer Holhe,500,N/A,N/A,deploy fake tank that looks like a medium tank
+Propaganda War,800,Large,20,"Enemy Def -2, Max Speed -20%, Morale -4"
+Radar Scan,400,N/A,10,no fog on minimap briefly
+Rapid Deployment,300,N/A,N/A,Infantry : permanently increased supply rate
+Russian Sabotage,800,N/A,90,Summons a saboteur that will Dmg buildings
+Sandbagging,300,Large,180,"Targeted Buildings resistance: Gun  +25%, AP +25%, Ex +50%"
+Secret Agent,200,N/A,100,Summons a Secret Agent that will remove fog of war from target area
+Smoke Barrage,600,Large,30,"Attack Speed -50%, Max Speed -50%"
 Supply Drop,400,N/A,180,Temporary supply zone creation when air dropped crate exist
-V Weapons,1600,Large,N/A,Damage: 750 Explosive +750 extra damage vs buildings,
+V Weapons,1600,Large,N/A,Dmg: 750 Explosive +750 extra Dmg vs buildings

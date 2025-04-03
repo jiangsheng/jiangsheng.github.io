@@ -1,12 +1,12 @@
 Name,Cost,Ammo,Oil,Main,Support 1,Support 2,Support 3
-Light Tank Regiment,150,-15,-10,Light Tank x3(JPN:+1),,,
-Medium Tank Regiment,200,-20,-15,Medium Tank x3(JPN:+1),,,
-Heavy Tank Regiment,250,-20,-20,Heavy Tank x3,,,
-Anti-Aircraft Tank Regiment,225,-20,-15,Light Tank x3,Anti-Aircraft Halftrack x2,,
-Artillery Tank Regiment,250,-25,-15,Light Tank x3,Self-Propelled Artillery x2,,
-Armored Infantry Regiment,150,-15,-15,Infantry x4,MG Infantry,Halftrack,Light Tank x2
-Flame Tank Regiment,225,-20,-25,Light Tank x2,Flame Tank x3,,
-Mechanized Tank Regiment,125,-10,-10,Light Tank x3,Halftrack x2,,
-Armored Rocket Truck Regiment,225,-20,-15,Light Tank x3,Rocket Truck x2,,
-King Tiger Regiment,300,-20,-25,King Tiger x3,,,
-Tankette Regiment,125,-10,-10,Te-Ke x4,,,
+Light Tank Regiment,150,-15,-10,Light Tank ×3(JPN:+1),,,
+Medium Tank Regiment,200,-20,-15,Medium Tank ×3(JPN:+1),,,
+Heavy Tank Regiment,250,-20,-20,Heavy Tank ×3,,,
+Anti-Aircraft Tank Regiment,225,-20,-15,Light Tank ×3,Anti-Aircraft Halftrack ×2,,
+Artillery Tank Regiment,250,-25,-15,Light Tank ×3,Self-Propelled Artillery ×2,,
+Armored Infantry Regiment,150,-15,-15,Infantry ×4,MG Infantry,Halftrack,Light Tank ×2
+Flame Tank Regiment,225,-20,-25,Light Tank ×2,Flame Tank ×3,,
+Mechanized Tank Regiment,125,-10,-10,Light Tank ×3,Halftrack ×2,,
+Armored Rocket Truck Regiment,225,-20,-15,Light Tank ×3,Rocket Truck ×2,,
+King Tiger Regiment,300,-20,-25,King Tiger ×3,,,
+Tankette Regiment,125,-10,-10,Te-Ke ×4,,,
