@@ -113,11 +113,9 @@ Number in the skill column denotes the exp requirement to obtain a new skill. On
 
 .. raw:: html
 
-   <script src="https://cdn.datatables.net/plug-ins/2.2.2/sorting/enum.js"/>
    <script>         
-        DataTable.enum( [ '<p>S</p>','<p>A+</p>', '<p>A</p>', '<p>B+</p>','<p>B</p>','<p>C+</p>','<p>C</p>','<p>D+</p>','<p>D</p>' ] );
-        new DataTable('#characters',{paging: false,searching: false, info: false, scrollX: "100%"});
-    </script> 
+      new DataTable('#characters',{paging: false,searching: false, info: false, scrollX: "100%"});
+   </script> 
     
 
 
