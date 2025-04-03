@@ -7,6 +7,8 @@
    :maxdepth: 0
    :caption: 内容:
 
+   unit_data_snes
+   unit_data_ps
    机动战士高达登场机体 <mobile_suit_gundam.rst>
    机动战士Z高达登场机体 <mobile_suit_z_gundam.rst>
    机动战士高达0080登场机体 <mobile_suit_gundam_0080.rst>
