@@ -76,17 +76,27 @@
 * 第三回合 敌方援军1
 * 第五回合 敌方援军2
 * 第六回合 如果リューネ＝ゾルダーク已经加入，那么她、ホワン＝ヤンロン和テュッティ＝ノールバック完成了救援プレシア＝ゼノサキス的任务，安全返回。
-* [SRW4S]第六回合 如果ゲスト３将軍全部健在，那么メキボス出现，ゲスト３将軍撤退。资金增加20万。三将军事件2/2
+* [SRW4S]第六回合 如果ゲスト３将軍全部健在，那么メキボス出现，ゲスト３将軍撤退。
+
+.. rst-class::center
+.. flat-table::   
+   :class: text-center, align-items-center
+
+   * - :doc:`../missable`：[SRW4S]第六回合ゲスト３将軍全部健在
+      
+   * - .. admonition:: 是
+          :class: attention
+
+          资金增加20万
+
+          三将军事件2/2
+
 
 -------------
 其他
 -------------
 
 战斗之后，如果ホワン＝ヤンロン和テュッティ＝ノールバック加入，那么マサキ＝アンドー把他们派去A队——在队友需要帮助的时候没有理由敝帚自珍。在ゲスト的最后一个基地被破坏之后，前往火星的道路畅通无阻了。
-
-如果没有在月の裏側这一话说得エルピー＝プル和プルツー，那么下一话进入\ :doc:`42c_oldna_poseidal_hard`\ 。
-
-如果在月の裏側这一话说得了エルピー＝プル和プルツー，并且在战斗结束时选择和ジュドー＝アーシタ一起去シャングリラ殖民地，那么下一话进入\ :doc:`41b_haman_s_black_shadow`\ ，否则进入\ :doc:`42b_oldna_poseidal_normal`\ 。
 
 -------------
 评论
@@ -96,3 +106,34 @@
 需要注意的是敌人援军出现的地点，援军1在地图左边卫星附近出现，而援军2在右上角出现，所以不要把部队派在这两个地方，避免被伏击。
 
 建议的布阵地点是地图中间的卫星。基本的战略是用地图武器消灭杂兵，然后围殴其他的敌人。
+
+.. rst-class::center
+.. flat-table::   
+   :class: text-center, align-items-center, align-self-center
+
+   * - :cspan:`2` :doc:`../missable`：エルピー＝プル和プルツー是否在队中
+   * - :cspan:`1` 
+  
+       .. admonition:: 是
+          :class: attention
+
+          在\ :doc:`40a_the_backside_of_the_moon`\ 战斗结束时选择是否和ジュドー＝アーシタ一起去シャングリラ殖民地
+
+     - :rspan:`3`
+
+       .. admonition:: 否
+          :class: attention
+ 
+          下一话进入\ :doc:`42c_oldna_poseidal_hard`\ 。
+   * -
+       .. admonition:: 是
+          :class: attention
+
+          下一话进入\ :doc:`41b_haman_s_black_shadow`\ 。
+
+          GP-02A追加アトミックバズーカ 8/9
+     -
+       .. admonition:: 否
+          :class: attention   
+          
+          下一话进入\ :doc:`42b_oldna_poseidal_normal`\ 。

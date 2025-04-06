@@ -73,9 +73,56 @@
 
 战斗之后，ロンド・ベル队快速撤离Dakar。虽然連邦評議会肯定会驱逐那些腐败的成员，但是这需要时间，在这之前，ロンド・ベル队仍然被认为是叛徒。如果ブレックス＝フォーラ被枪杀，那么クワトロ＝バジーナ离开你的部队 就任エゥーゴ司令官。
 
-虽然ティターンズ可能从此失去政治上的支持，但是他的军力仍不容小视，而且不会凭空消失，所以和ティターンズ的战斗仍会继续。如果说得了フォウ＝ムラサメ，那么下一话进入\ :doc:`33a_total_balance`\ ，否则进入\ :doc:`33b_beyond_the_todd`\ 。
+虽然ティターンズ可能从此失去政治上的支持，但是他的军力仍不容小视，而且不会凭空消失，所以和ティターンズ的战斗仍会继续。
+
+.. rst-class::center
+.. flat-table::   
+   :class: text-center, align-items-center
+
+   * - :cspan:`1` :doc:`../missable`：是否说得フォウ
+   * - .. admonition:: 说得フォウ
+          :class: attention
+
+          下一话进入\ :doc:`33a_total_balance`\
+
+          フォウ 2/2
+
+          リムル 3/4
+
+          ライネック 3/5
+
+     - .. admonition:: 不说得フォウ
+          :class: attention
+
+          下一话进入\ :doc:`33b_beyond_the_todd`\
+          
+          ロザミィ 2/6
+
+.. rst-class::center
+.. flat-table::   
+   :class: text-center, align-items-center
+
+   * - :cspan:`1` :doc:`../missable`：クワトロ
+   * - .. admonition:: クワトロ离队
+          :class: attention
+
+          \ :doc:`38_poseidal_s_ambition`\ 之后进入\ :doc:`39a_ryune_capriccio_gato`\ 
+
+          ビギナ・ギナ（セシリー） 1/1
+
+          GP-02A（ガトー） 1/2
+          
+          GP-02A追加アトミックバズーカ 4/9
+
+     - .. admonition:: クワトロ不离队
+          :class: attention
+
+          \ :doc:`38_poseidal_s_ambition`\ 之后进入\ :doc:`39b_ryune_capriccio_gilliam`\ 
+
+          サザビー 1/2
 
 -------------
+
 评论
 -------------
 

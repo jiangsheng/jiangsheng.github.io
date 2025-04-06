@@ -1,7 +1,3 @@
-table.docutils {
-   
-}
-
 table.docutils td, table.docutils th {
     padding:0; margin:0;
 }
@@ -17,4 +13,9 @@ colgroup col { width: auto; }
 
 .bd-page-width {
     max-width: 100%;  /* default is 88rem */
+}
+
+.dataTables_scrollBody
+{
+ overflow-x:hidden !important;
 }

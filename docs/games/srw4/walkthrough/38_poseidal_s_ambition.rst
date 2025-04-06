@@ -57,15 +57,72 @@
 * 如果你在之前说得过クワサン＝オリビー，那么可以再次说得她 ，恢复她的自由意志。说得她之后，可以说得和她形影不离的ギャブレット＝ギャブレー，并且ハッシャ＝モッシャ因为不愿意和ファンネリア＝アム作战而撤退 。
 * 如果清关时主人公和副主人公都在战场上，那么恋爱度 +1。否则恋爱度-1。
 
+.. rst-class::center
+.. flat-table::   
+   :class: text-center, align-items-center, align-self-center
+
+   * - :cspan:`2` :doc:`../missable`：クワサン   * 
+   * - :cspan:`2` 
+
+       .. admonition:: ダバ＝マイロード说得クワサン＝オリビー
+          :class: attention
+
+          クワサン 4/4
+
+          アシュラテンプル（ギャブレー）4/5
+
+          キュベレイMk-IIx2（プル和プルツー）4/6
+          
+          GP-02A追加アトミックバズーカ 6/9
+
+   * - :cspan:`2` :doc:`../missable`：アシュラテンプル（ギャブレー）
+  
+   * - :cspan:`1`
+  
+       .. admonition:: 说得了ギャブレー
+          :class: attention
+
+          第40话进入\ :doc:`40a_the_backside_of_the_moon`\ 。
+          
+          アシュラテンプル（ギャブレー）5/5
+
+          キュベレイMk-IIx2（プル和プルツー）5/6
+          
+          GP-02A追加アトミックバズーカ 7/9
+
+          :doc:`../missable`：\ :doc:`41_scattered_on_axis`\ 之后选择是否去甘泉镇
+                  
+     - :rspan:`2`
+  
+        .. admonition:: 没有说得
+          :class: attention
+
+          第40话进入\ :doc:`40b_siege_breakthrough`\ 。
+
+          \ :doc:`41_scattered_on_axis`\ 之后进入\ :doc:`42c_oldna_poseidal_hard`\ 
+
+   * - .. admonition:: 去
+          :class: attention
+
+          \ :doc:`41_scattered_on_axis`\ 之后进入\ :doc:`41b_haman_s_black_shadow`\ 。
+
+          GP-02A追加アトミックバズーカ 8/9
+     - .. admonition:: 不去
+          :class: attention    
+          
+          \ :doc:`41_scattered_on_axis`\ 之后进入\ :doc:`42b_oldna_poseidal_normal`\ 。
+
 -------------
 其他
 -------------
 
-战斗之后，虽然已经知道了ゲスト和インスペクター的关系，但是ロンド・ベル在前往火星之前决定先对付ポセイダル军。ギャブレット＝ギャブレー和他的满改アシュラテンプル加入部队，但是恢复自由意志的クワサン＝オリビー不再适合驾驶机体，所以她的バッシュ被拆解以获得备用部件。如果クワトロ＝バジーナ不在队中，那么下一话进入\ :doc:`39a_ryune_capriccio_gato`\ ；否则进入\ :doc:`39b_ryune_capriccio_gilliam`\ 。
+战斗之后，虽然已经知道了ゲスト和インスペクター的关系，但是ロンド・ベル在前往火星之前决定先对付ポセイダル军。ギャブレット＝ギャブレー和他的满改アシュラテンプル加入部队，但是恢复自由意志的クワサン＝オリビー不再适合驾驶机体，所以她的バッシュ被拆解以获得备用部件。
 
 -------------
 评论
 -------------
 
 首先要注意的是很多敌人可以两次行动，除此之外，它们不应该造成什么麻烦。建议在开始时部队左方的基地上迎击敌人，这里可以每回合恢复HP和EN。尽可能使用地图武器削弱敌军。
+
+如果クワトロ＝バジーナ不在队中，那么下一话进入\ :doc:`39a_ryune_capriccio_gato`\ ；否则进入\ :doc:`39b_ryune_capriccio_gilliam`\ 。
 

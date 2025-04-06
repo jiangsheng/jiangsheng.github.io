@@ -62,16 +62,58 @@ B队来到ロンデニオン以取得火星之行需要的長距離用推进器�
 * 第四回合 ドクーガ军到达，这次带来了ヤッター＝ラ＝ケルナグール的新作品，３５体合体ゴッドネロス，但是没人重视——レオナルド＝レディチ＝ブンドル认为这家伙不美，スーグニ＝カットナル认为这名字太长。
 * 战斗之后 ヴァルシオーネR（リューネ＝ゾルダーク） ，グランヴェール（ホワン＝ヤンロン）ガッデス（テュッティ＝ノールバック）出现。
 
+.. rst-class::center
+.. flat-table::   
+   :class: text-center, align-items-center
+
+   * - :doc:`../missable`：サザビー
+   * - .. admonition:: 保护ギリアム不被击坠
+          :class: attention
+
+          サザビー 2/2
+
+.. rst-class::center
+.. flat-table::   
+   :class: text-center, align-items-center
+
+   * - :cspan:`11` :doc:`../missable`：ヴァルシオーネR（リューネ）
+  
+   * - :rspan:`2` :cspan:`3`
+  
+       .. admonition:: マサキ说得リューネ
+          :class: attention 
+
+          ヴァルシオーネR（リューネ） 1/1
+
+          [SRW4S] 下一话进入\ :doc:`39c_rescue`\ 
+
+          [SRW4] 下一话路线同没有说得リューネ
+   * - :cspan:`7` 
+
+       .. admonition:: 没有说得リューネ
+          :class: attention 
+         
+          ギャブレー是否在队中          
+
+   * - :cspan:`3` 
+      
+       .. admonition:: 是
+          :class: attention
+
+          下一话进入\ :doc:`40a_the_backside_of_the_moon`\ 
+     - :cspan:`3` 
+      
+       .. admonition:: 否
+          :class: attention
+
+          下一话进入\ :doc:`40b_siege_breakthrough`\  
+
 -------------
 其他
 -------------
 战斗之后，ヴァルシオーネR（リューネ＝ゾルダーク）按照约定返回。在厌倦了ラ·ギアス之后，她带着プレシア＝ゼノサキス来跟随マサキ＝アンドー，但是プレシア＝ゼノサキス被カロッゾ＝ロナ扣押来强迫她攻击ロンド・ベル。显然需要救出プレシア＝ゼノサキス，但是マサキ＝アンドー拒绝帮忙——他认为リューネ＝ゾルダーク应该自己负起这个责任；幸好还有グランヴェール（ホワン＝ヤンロン）ガッデス（テュッティ＝ノールバック）愿意帮忙。
 
 如果ゲシュペンストmkII（ギリアム＝イェーガー）战斗后仍然生存，那么他会留下一部从ノイエＤＣ捕获的サザビー。 自然，只有クワトロ＝バジーナ最适合驾驶它。
-
-[SRW4S]如果说得了リューネ＝ゾルダーク，下面一话进入\ :doc:`39c_rescue`\ 。否则同第四次。
-
-[SRW4]如果ギャブレー在队中，下一话进入\ :doc:`40a_the_backside_of_the_moon`\ ，否则进入\ :doc:`40b_siege_breakthrough`\ 。
 
 -------------
 评论
