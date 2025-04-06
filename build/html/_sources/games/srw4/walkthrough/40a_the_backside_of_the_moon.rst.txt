@@ -75,7 +75,7 @@
 * 第三回合 エルピー＝プル和プルツー出现。由于怕ジュドー＝アーシタ把她们送回家，她们成为你的敌人，声称她们需要遵守一个诺言。ジュドー＝アーシタ可以说得エルピー＝プル和プルツー之一，得知她们在シャングリラ殖民地碰见了ノイエＤＣ的総帥ミネバ・ラオ・ザビ。被ハマーン＝カーン利用来维持正统性的ミネバ・ラオ・ザビ实际上处于被监禁状态。基于对这个女孩的同情心，エルピー＝プル和プルツー救出了她，并且把她藏在スウィートウォーター殖民地。在ジュドー＝アーシタ同意帮忙之后，他们停止了战斗。
 * 如果清关时主人公和副主人公都在战场上，那么\ :doc:`../mechanics/love_points`\ +1。否则恋爱度-1。
 
-如果没有说得エルピー＝プル和プルツー，那么\ :doc:`41_scattered_on_axis`\ 之后进入\ :doc:`42c_oldna_poseidal_hard`\ 。如果说得了エルピー＝プル和プルツー，战斗之后ジュドー＝アーシタ会和エルピー＝プル、プルツー一起去スウィートウォーター殖民地保卫ミネバ・ラオ・ザビ，并且问主角去不去。如果选择是，那么下一话\ :doc:`41_scattered_on_axis`\ 之后进入\ :doc:`41b_haman_s_black_shadow`\ ，ダバ＝マイロード、ファンネリア＝アム、ガウ＝ハ＝レッシィ也会跟去，否则进入\ :doc:`42b_oldna_poseidal_normal`\ 。
+如果没有说得エルピー＝プル和プルツー，那么\ :doc:`41_scattered_on_axis`\ 之后进入\ :doc:`42c_oldna_poseidal_hard`\ 。如果说得了エルピー＝プル和プルツー，战斗之后ジュドー＝アーシタ会和エルピー＝プル、プルツー一起去スウィートウォーター殖民地保卫ミネバ・ラオ・ザビ，并且问主角去不去。
 
 下一话进入\ :doc:`41_scattered_on_axis`\ 。
 
@@ -86,4 +86,35 @@
 敌人来自两个势力，所以你不得不分头对付他们。你应该把重点放在右上角的敌军，因为他们还有援军。
 
 本来看起来应该是一场激烈的战斗，但是因为敌军的自相残杀，地图上两个卫星的存在而变得简单。把部队移动到卫星上面（可以每回合自动恢复HP和EN），然后适当使用地图武器。
+
+.. rst-class::center
+.. flat-table::   
+   :class: text-center, align-items-center, align-self-center
+
+   * - :cspan:`2` :doc:`../missable`：本话中是否说得了エルピー＝プル和プルツー
+   * - :cspan:`1` 
+  
+       .. admonition:: 是
+          :class: attention
+
+          在战斗结束时选择是否和ジュドー＝アーシタ一起去シャングリラ殖民地
+
+     - :rspan:`3`
+
+       .. admonition:: 否
+          :class: attention
+ 
+          下一话进入\ :doc:`42c_oldna_poseidal_hard`\ 。
+   * -
+       .. admonition:: 是
+          :class: attention
+
+          下一话进入\ :doc:`41b_haman_s_black_shadow`\ 。
+
+          GP-02A追加アトミックバズーカ 8/9
+     -
+       .. admonition:: 否
+          :class: attention   
+          
+          下一话进入\ :doc:`42b_oldna_poseidal_normal`\ 。
 

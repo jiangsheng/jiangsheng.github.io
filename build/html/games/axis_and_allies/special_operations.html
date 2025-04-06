@@ -31,7 +31,7 @@
 <link href="../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css?v=906dce5e" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css?v=87cb59e8" />
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/2.2.2/css/dataTables.bootstrap5.css" />
   
   <!-- So that users can add custom icons -->
@@ -285,7 +285,11 @@
 <li class="toctree-l3"><a class="reference internal" href="regiments/index.html">Regiments</a></li>
 <li class="toctree-l3"><a class="reference internal" href="economy.html">Economy</a></li>
 <li class="toctree-l3"><a class="reference internal" href="supply.html">Supply</a></li>
-<li class="toctree-l3 current"><a class="current reference internal" href="#">Special Operations</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Special Operations</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#special-operations">Special Operations</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#generals">Generals</a></li>
+</ul>
+</li>
 <li class="toctree-l3"><a class="reference internal" href="upgrades.html">Upgrades</a></li>
 <li class="toctree-l3"><a class="reference internal" href="cheats.html">Cheat codes</a></li>
 </ul>
@@ -397,10 +401,12 @@
                   
   <section id="special-operations-axis-and-allies">
 <span id="axis-and-allies-special-operations"></span><h1>Special Operations  (Axis and Allies)<a class="headerlink" href="#special-operations-axis-and-allies" title="Link to this heading">#</a></h1>
-<p id="index-0">You control a general during battle, and the general would have 4 skills (called special operations in this game). Using a skill costs exp points you gain during battle. You gain general exp for regiments engagement as well as simply running the game. After you use a special operation, it goes into a cool down mode and you cannot use it for some time.</p>
+<p id="index-1"><span id="index-0"></span>You control a general during battle, and the general would have 4 skills (called special operations in this game). Using a skill costs exp points you gain during battle. You gain general exp for regiments engagement as well as simply running the game. After you use a special operation, it goes into a cool down mode and you cannot use it for some time.</p>
 <p>Generally speaking, in multiple player matches, you want attack generals (nuke, carpet bombing, etc) or economy boost (Lend Lease etc). Those who don’t (e.g. having spies) are at an disadvantage.</p>
-<div class="pst-scrollable-table-container"><table class="table" id="special-operations">
-<caption><span class="caption-text">Special Operations</span><a class="headerlink" href="#special-operations" title="Link to this table">#</a></caption>
+<section id="special-operations">
+<h2>Special Operations<a class="headerlink" href="#special-operations" title="Link to this heading">#</a></h2>
+<div class="pst-scrollable-table-container"><table class="table" id="axis-and-allies-special-operations-table">
+<caption><span class="caption-text">Special Operations</span><a class="headerlink" href="#axis-and-allies-special-operations-table" title="Link to this table">#</a></caption>
 <thead>
 <tr class="row-odd"><th class="head"><p>Name</p></th>
 <th class="head"><p>Cost</p></th>
@@ -636,10 +642,14 @@
 </table>
 </div>
 <script>
-    new DataTable('#special-operations',{paging: false,searching: false, info: false,scrollX: "100%"});
-</script><p>Almost every general has Corps Reorganization. The rest 3 special operations are different for each one.</p>
-<div class="pst-scrollable-table-container"><table class="table" id="generals">
-<caption><span class="caption-text">Generals</span><a class="headerlink" href="#generals" title="Link to this table">#</a></caption>
+    new DataTable('#axis-and-allies-special-operations-table',{paging: false,searching: false, info: false，
+"sScrollX": "100%","sScrollXInner": "100%"});
+</script></section>
+<section id="generals">
+<h2>Generals<a class="headerlink" href="#generals" title="Link to this heading">#</a></h2>
+<p>Almost every general has Corps Reorganization. The rest 3 special operations are different for each one.</p>
+<div class="pst-scrollable-table-container"><table class="table" id="axis-and-allies-generals">
+<caption><span class="caption-text">Generals</span><a class="headerlink" href="#axis-and-allies-generals" title="Link to this table">#</a></caption>
 <thead>
 <tr class="row-odd"><th class="head"><p>Name</p></th>
 <th class="head"><p>Side</p></th>
@@ -843,8 +853,9 @@
 </table>
 </div>
 <script>
-    new DataTable('#generals',{paging: false,searching: false, info: false, scrollX: "100%"});
+    new DataTable('#axis-and-allies-generals',{paging: false,searching: false, info: false，"sScrollX": "100%","sScrollXInner": "100%"});
 </script></section>
+</section>
 
 
                 </article>
@@ -900,6 +911,19 @@
                 <dialog id="pst-secondary-sidebar-modal"></dialog>
                 <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
+
+  <div class="sidebar-secondary-item">
+<div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> On this page
+  </div>
+  <nav class="bd-toc-nav page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#special-operations">Special Operations</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#generals">Generals</a></li>
+</ul>
+  </nav></div>
 
   <div class="sidebar-secondary-item">
   <div role="note" aria-label="source link">
