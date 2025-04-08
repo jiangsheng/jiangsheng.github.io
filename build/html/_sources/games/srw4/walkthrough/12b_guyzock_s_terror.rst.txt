@@ -68,7 +68,13 @@
      - .. admonition:: 第八回合之前没有击破或者包围ブッチャー
           :class: attention
 
-          \ :doc:`33a_total_balance`\ 或者\ :doc:`33b_beyond_the_todd`\ 之后进入\ :doc:`34b_terror_of_the_human_bomb`\    
+          \ :doc:`33a_total_balance`\ 或者\ :doc:`33b_beyond_the_todd`\ 之后进入\ :doc:`34b_terror_of_the_human_bomb`\ 
+
+-------------
+战斗对话
+-------------
+* 勝平 vs ブッチャー
+
 
 如果在第八回合之前击破或者包围ブッチャー，那么香月不会被抓走。不管是不是剧情党，都要完成这一目标，因为人間爆弾の恐怖这一话没有地图物品可以拿。对于要看全剧情的人来说，因为走另一条路线会默认发生香月被抓走的剧情，所以走本话这条路线就尽量让香月不被抓走吧。
 
