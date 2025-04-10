@@ -16,9 +16,10 @@
    重战机登场机体 <heavy_metal_l_gaim.rst>
    魔神Z/大魔神/UFO机器人 古连泰沙登场机体 <mazinger_z.rst>   
    盖塔机器人/盖塔机器人G/真盖塔机器人登场机体 <getter_robo.rst>
-   勇者莱汀登场机体 <reideen_the_brave .rst>
+   勇者莱汀登场机体 <reideen_the_brave.rst>
+   goshogun
    原创机体 <banpresto_originals.rst>
-
+   
 --------------
 属性 
 --------------
