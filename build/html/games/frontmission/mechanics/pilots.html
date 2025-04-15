@@ -31,7 +31,7 @@
 <link href="../../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css?v=87cb59e8" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css?v=689cafea" />
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/2.2.2/css/dataTables.bootstrap5.css" />
   
   <!-- So that users can add custom icons -->
@@ -353,6 +353,16 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item"><nav class="sidebar-indices-items" aria-labelledby="pst-indices-navigation-heading-2">
+  <p id="pst-indices-navigation-heading-2" class="sidebar-indices-items__title" role="heading" aria-level="1">Indices</p>
+  <ul class="indices-link">
+        <li class="toctree-l1">
+          <a class="reference internal"
+             href="../../../genindex.html"
+             accesskey="I">General Index</a>
+        </li>
+  </ul>
+</nav></div>
       <div class="sidebar-primary-item">
 <div id="ethical-ad-placement"
       class="flat"
@@ -818,7 +828,46 @@
 </table>
 </div>
 <script>
-   new DataTable('#characters',{paging: false,searching: false, info: false, scrollX: "100%"});
+   DataTable.ext.type.order['weapon-grade-pre'] = function (d) {
+      switch (d) {
+         case '<p>D</p>':
+               return 1;
+         case '<p>D+</p>':
+               return 2;
+         case '<p>C</p>':
+               return 3;
+         case '<p>C+</p>':
+               return 4;
+         case '<p>B</p>':
+               return 5;
+         case '<p>B+</p>':
+               return 6;
+         case '<p>A</p>':
+               return 7;
+         case '<p>A+</p>':
+               return 8;
+         case '<p>S</p>':
+               return 9;
+         case '<p>S+</p>':
+               return 10;            }
+      return 0;
+   };
+   $(document).ready( function () {
+      new DataTable('#characters',
+      {
+         paging: false,
+         searching: false,
+         info: false,
+         scrollX: "100%",
+         fixedHeader: true
+         columnDefs: [
+            {
+                  type: 'weapon-grade',
+                  targets:  [3,4,5,6]
+            }
+         ]
+      });
+   });
 </script></section>
 </section>
 

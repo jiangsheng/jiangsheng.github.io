@@ -88,13 +88,13 @@ NT-1アレックス（クリスチーナ） 和ザク改（バーナード）
 Gディフェンサー（カツ）和ジェガン
 ------------------------------------
 
-1. :doc:`walkthrough/09_enter_zanbot_3`\ 之后选择日本海側，カツ在\ :doc:`walkthrough/10b_sorrowful_memories_japanese_sea`\ 中驾驶Gディフェンサー登场并加入。ジェガン在战斗后加入。
+1. :doc:`walkthrough/09_enter_zambot_3`\ 之后选择日本海側，カツ在\ :doc:`walkthrough/10b_sorrowful_memories_japanese_sea`\ 中驾驶Gディフェンサー登场并加入。ジェガン在战斗后加入。
 2. [SRW4]版本:全收Ex-Sガンダム、ヤクト・ドーガ (クェス専用)和ロザミィ的前提条件。
 
 ------------
 ルー
 ------------
-:doc:`walkthrough/09_enter_zanbot_3`\ 之后选择太平洋側，战斗后加入。
+:doc:`walkthrough/09_enter_zambot_3`\ 之后选择太平洋側，战斗后加入。
 
 ------------
 アキ生存

@@ -9,16 +9,29 @@
 
    unit_data_snes
    unit_data_ps
-   机动战士高达登场机体 <mobile_suit_gundam.rst>
-   机动战士Z高达登场机体 <mobile_suit_z_gundam.rst>
-   机动战士高达0080登场机体 <mobile_suit_gundam_0080.rst>
-   机动战士高达0083登场机体 <mobile_suit_gundam_0083.rst>
-   重战机登场机体 <heavy_metal_l_gaim.rst>
-   魔神Z/大魔神/UFO机器人 古连泰沙登场机体 <mazinger_z.rst>   
-   盖塔机器人/盖塔机器人G/真盖塔机器人登场机体 <getter_robo.rst>
-   勇者莱汀登场机体 <reideen_the_brave.rst>
+   mobile_suit_gundam
+   mobile_suit_z_gundam
+   mobile_suit_gundam_zz
+   mobile_suit_gundam_0080
+   mobile_suit_gundam_0083   
+   mobile_suit_gundam_char_s_counterattack
+   mobile_suit_gundam_f91
+   mobile_suit_gundam_sentinel
+   heavy_metal_l_gaim
+   mazinger_z
+   mazinger_z_the_movie
+   great_mazinger
+   grendizer
+   getter_robo
+   daimos
+   zambot_3
+   dancouga
+   dunbine
+   combattler_v
+   daitarn_3
+   reideen_the_brave
    goshogun
-   原创机体 <banpresto_originals.rst>
+   banpresto_originals
    
 --------------
 属性 
@@ -37,7 +50,3 @@
 * 大小机体的大小，从S到LL。小的机体回避的概率比较高。
 * 地形 相当于机体的地形适应，从A到D。-表示机体不能移动到对应地形。如果机体是有人驾驶的，那么机师的地形适应会影响机体的地形适应，大致是取机体和机师的适应的平均值。
 * 修理费 战斗结束的时候，如果该机体在战斗中被击落，需要付出的修理费。对于敌方机体，则是击落之后可以获得的资金。
-
-.. csv-table:: 机体编码
-   :file: units.csv
-   :header-rows: 1
