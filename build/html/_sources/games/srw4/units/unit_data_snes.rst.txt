@@ -4425,7 +4425,7 @@
      - 🚫
      - 🚫
    * - FB
-     - 无
+     - .. image:: ../units/images/icon/FB_B.png
      - アローン
      - :ref:`重战机 <srw4_units_heavy_metal_l_gaim>`
      - 1700
