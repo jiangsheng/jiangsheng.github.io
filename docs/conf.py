@@ -116,7 +116,8 @@ html_theme_options = {
 "navbar_end": ["navbar-icon-links"],
 "navbar_persistent": ["search-button"],
 "article_footer_items": ["comments"],
-"navigation_with_keys":True
+"navigation_with_keys":True,
+"primary_sidebar_end": ["indices.html", "sidebar-ethical-ads.html"]
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -134,18 +135,19 @@ html_static_path = ['_static']
 #
 # html_sidebars = {}
 html_sidebars = {
-    '**': [
-        'globaltoc.html',
-        'relations.html',
-        #'searchbox.html',
-        'sourcelink.htm',
-        ],
     'index': [
         'globaltoc.html',
         'relations.html',
         #'searchbox.html',
         'sourcelink.htm',
         ],
+    '**': [
+        'globaltoc.html',
+        'relations.html',
+        #'searchbox.html',
+        'sourcelink.htm',
+        ],
+
 }
 html_baseurl='https://git.jiangsheng.net/build/html/'
 

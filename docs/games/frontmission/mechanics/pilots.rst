@@ -113,8 +113,47 @@ Number in the skill column denotes the exp requirement to obtain a new skill. On
 
 .. raw:: html
 
-   <script>         
-      new DataTable('#characters',{paging: false,searching: false, info: false, scrollX: "100%"});
+   <script>
+      DataTable.ext.type.order['weapon-grade-pre'] = function (d) {
+         switch (d) {
+            case '<p>D</p>':
+                  return 1;
+            case '<p>D+</p>':
+                  return 2;
+            case '<p>C</p>':
+                  return 3;
+            case '<p>C+</p>':
+                  return 4;
+            case '<p>B</p>':
+                  return 5;
+            case '<p>B+</p>':
+                  return 6;
+            case '<p>A</p>':
+                  return 7;
+            case '<p>A+</p>':
+                  return 8;
+            case '<p>S</p>':
+                  return 9;
+            case '<p>S+</p>':
+                  return 10;            }
+         return 0;
+      };
+      $(document).ready( function () {    
+         new DataTable('#characters',
+         {
+            paging: false,
+            searching: false, 
+            info: false, 
+            scrollX: "100%",
+            fixedHeader: true
+            columnDefs: [
+               {
+                     type: 'weapon-grade',
+                     targets:  [3,4,5,6]
+               }
+            ]
+         });
+      });
    </script> 
     
 

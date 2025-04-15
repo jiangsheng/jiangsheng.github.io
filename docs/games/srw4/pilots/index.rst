@@ -7,12 +7,30 @@
    :caption: 内容:
    :hidden:
 
-   机动战士高达登场人物 <mobile_suit_gundam.rst>
-   机动战士Z高达登场人物 <mobile_suit_z_gundam.rst>
-   机动战士高达0083登场人物 <mobile_suit_gundam_0083.rst>
-   魔神Z/大魔神/UFO机器人 古连泰沙登场人物 <mazinger_z.rst>
-   盖塔机器人/盖塔机器人G/真盖塔机器人登场人物 <getter_robo.rst>
-   原创人物 <banpresto_originals.rst>
+   pilot_data_snes
+   pilot_data_ps
+   mobile_suit_gundam
+   mobile_suit_z_gundam
+   mobile_suit_gundam_zz
+   mobile_suit_gundam_0080
+   mobile_suit_gundam_0083   
+   mobile_suit_gundam_char_s_counterattack
+   mobile_suit_gundam_f91
+   heavy_metal_l_gaim
+   mazinger_z
+   mazinger_z_the_movie
+   great_mazinger
+   grendizer
+   getter_robo
+   daimos
+   zambot_3
+   dancouga
+   dunbine
+   combattler_v
+   daitarn_3
+   reideen_the_brave
+   goshogun
+   banpresto_originals
   
 每个机师有固定的技能和特殊技能，决定了他/她在战斗中的影响。每个机师都是独一无二的，在分配机体时应该考虑最合适的机师。机师属性可以在机师状态查看，我在这里描述每一个项目的含义作为参考。
 
