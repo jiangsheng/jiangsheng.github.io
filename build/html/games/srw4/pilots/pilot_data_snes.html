@@ -31,8 +31,9 @@
 <link href="../../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css?v=689cafea" />
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/2.2.2/css/dataTables.bootstrap5.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/css/datatable_custom.css?v=dc939068" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css?v=cda70fc7" />
   
   <!-- So that users can add custom icons -->
   <script src="../../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
@@ -43,12 +44,14 @@
     <script src="../../../_static/documentation_options.js?v=aec57771"></script>
     <script src="../../../_static/doctools.js?v=9bcbadda"></script>
     <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'games/srw4/pilots/pilot_data_snes';</script>
-    <script src="../../../_static/google_analytics_tracker.js?v=ca8723ef"></script>
-    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <script async="async" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3710396369816898"></script>
     <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
     <script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
     <script src="https://cdn.datatables.net/2.2.2/js/dataTables.bootstrap5.js"></script>
+    <script src="../../../_static/js/datatable_custom.js?v=d450c5a6"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'games/srw4/pilots/pilot_data_snes';</script>
+    <script src="../../../_static/js/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
     <link rel="canonical" href="https://git.jiangsheng.net/build/html/games/srw4/pilots/pilot_data_snes.html" />
     <link rel="index" title="Index" href="../../../genindex.html" />
     <link rel="search" title="Search" href="../../../search.html" />
@@ -434,6 +437,17 @@
 <p>点击列头排序，Shift+点击列头添加排序条件。</p>
 <p>标题打型号的列为99级数据，不打的为1级。</p>
 <div class="docutils container" id="display-options">
+<input type="checkbox" id="checkboxPlayerOnly" name="checkboxPlayerOnly" value="unchecked">
+<label for="checkboxPlayerOnly">只看自军</label>
+<label for="comboboxSeries">选择登场作品</label>
+<select name="comboboxSeries" id="comboboxSeries">
+  <option value="1" selected>全部</option>
+  <option value="2">机动战士系</option>
+  <option value="3">魔神系</option>
+  <option value="4">重战机系</option>
+  <option value="5">圣战士系</option>
+</select>
+
 <a class="toggle-vis" data-column="1">显示1级能力</a>
 <a class="toggle-vis" data-column="2">显示99级能力</a>
 <a class="toggle-vis" data-column="3">显示精神和技能</a>
@@ -442,6 +456,7 @@
 <caption><span class="caption-text">机师数据 （第四次超级机器人大战）</span><a class="headerlink" href="#srw-pilots-snes-table" title="Link to this table">#</a></caption>
 <thead>
 <tr class="row-odd"><th class="head"><p>码</p></th>
+<th class="head"><p>属</p></th>
 <th class="head"><p>图</p></th>
 <th class="head"><p>名</p></th>
 <th class="head"><p>作</p></th>
@@ -474,7 +489,8 @@
 </thead>
 <tbody>
 <tr class="row-even"><td><p>01</p></td>
-<td><img alt="../../../_images/01.png" src="../../../_images/01.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_01.png" src="../../../_images/srw4_pilot_01.png" />
 </td>
 <td><p>チャム＝ファウ</p></td>
 <td><p><a class="reference internal" href="dunbine.html#srw4-pilots-dunbine"><span class="std std-ref">圣战士丹拜因</span></a></p></td>
@@ -505,7 +521,8 @@
 <td></td>
 </tr>
 <tr class="row-odd"><td><p>02</p></td>
-<td><img alt="../../../_images/02.png" src="../../../_images/02.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_02.png" src="../../../_images/srw4_pilot_02.png" />
 </td>
 <td><p>ベル＝アール</p></td>
 <td><p><a class="reference internal" href="dunbine.html#srw4-pilots-dunbine"><span class="std std-ref">圣战士丹拜因</span></a></p></td>
@@ -536,7 +553,8 @@
 <td></td>
 </tr>
 <tr class="row-even"><td><p>03</p></td>
-<td><img alt="../../../_images/03.png" src="../../../_images/03.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_03.png" src="../../../_images/srw4_pilot_03.png" />
 </td>
 <td><p>エル＝フィノ</p></td>
 <td><p><a class="reference internal" href="dunbine.html#srw4-pilots-dunbine"><span class="std std-ref">圣战士丹拜因</span></a></p></td>
@@ -567,7 +585,8 @@
 <td></td>
 </tr>
 <tr class="row-odd"><td><p>04</p></td>
-<td><img alt="../../../_images/04.png" src="../../../_images/04.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_04.png" src="../../../_images/srw4_pilot_04.png" />
 </td>
 <td><p>リリス＝ファウ</p></td>
 <td><p><a class="reference internal" href="heavy_metal_l_gaim.html#srw4-pilots-heavy-metal-l-gaim"><span class="std std-ref">重战机</span></a></p></td>
@@ -598,7 +617,8 @@
 <td></td>
 </tr>
 <tr class="row-even"><td><p>05</p></td>
-<td><img alt="../../../_images/05.png" src="../../../_images/05.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_05.png" src="../../../_images/srw4_pilot_05.png" />
 </td>
 <td><p>シルキー＝マウ</p></td>
 <td><p><a class="reference internal" href="dunbine.html#srw4-pilots-dunbine"><span class="std std-ref">圣战士丹拜因</span></a></p></td>
@@ -629,7 +649,8 @@
 <td></td>
 </tr>
 <tr class="row-odd"><td><p>07</p></td>
-<td><img alt="../../../_images/07.png" src="../../../_images/07.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_07.png" src="../../../_images/srw4_pilot_07.png" />
 </td>
 <td><p>ジャック＝キング</p></td>
 <td><p><a class="reference internal" href="getter_robo.html#srw4-pilots-getter-robo"><span class="std std-ref">盖塔</span></a></p></td>
@@ -660,7 +681,8 @@
 <td></td>
 </tr>
 <tr class="row-even"><td><p>08</p></td>
-<td><img alt="../../../_images/08.png" src="../../../_images/08.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_08.png" src="../../../_images/srw4_pilot_08.png" />
 </td>
 <td><p>メリー＝キング</p></td>
 <td><p><a class="reference internal" href="getter_robo.html#srw4-pilots-getter-robo"><span class="std std-ref">盖塔</span></a></p></td>
@@ -691,7 +713,8 @@
 <td></td>
 </tr>
 <tr class="row-odd"><td><p>09</p></td>
-<td><img alt="../../../_images/09.png" src="../../../_images/09.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_09.png" src="../../../_images/srw4_pilot_09.png" />
 </td>
 <td><p>流竜馬</p></td>
 <td><p><a class="reference internal" href="getter_robo.html#srw4-pilots-getter-robo"><span class="std std-ref">盖塔</span></a></p></td>
@@ -705,8 +728,8 @@
 <td><p>182</p></td>
 <td><p>147</p></td>
 <td><p>189</p></td>
-<td><p>184</p></td>
 <td><p>200</p></td>
+<td><p>184</p></td>
 <td><p>198</p></td>
 <td><p>70</p></td>
 <td><p>A</p></td>
@@ -722,7 +745,8 @@
 <td><p>底力 1</p></td>
 </tr>
 <tr class="row-even"><td><p>0A</p></td>
-<td><img alt="../../../_images/0A.png" src="../../../_images/0A.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_0A.png" src="../../../_images/srw4_pilot_0A.png" />
 </td>
 <td><p>神隼人</p></td>
 <td><p><a class="reference internal" href="getter_robo.html#srw4-pilots-getter-robo"><span class="std std-ref">盖塔</span></a></p></td>
@@ -753,7 +777,8 @@
 <td></td>
 </tr>
 <tr class="row-odd"><td><p>0B</p></td>
-<td><img alt="../../../_images/0B.png" src="../../../_images/0B.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_0B.png" src="../../../_images/srw4_pilot_0B.png" />
 </td>
 <td><p>車弁慶</p></td>
 <td><p><a class="reference internal" href="getter_robo.html#srw4-pilots-getter-robo"><span class="std std-ref">盖塔</span></a></p></td>
@@ -784,7 +809,8 @@
 <td><p>底力 1</p></td>
 </tr>
 <tr class="row-even"><td><p>0C</p></td>
-<td><img alt="../../../_images/0C.png" src="../../../_images/0C.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_0C.png" src="../../../_images/srw4_pilot_0C.png" />
 </td>
 <td><p>北条真吾</p></td>
 <td><p><a class="reference internal" href="goshogun.html#srw4-pilots-goshogun"><span class="std std-ref">战国魔神</span></a></p></td>
@@ -815,7 +841,8 @@
 <td><p>底力 4</p></td>
 </tr>
 <tr class="row-odd"><td><p>0D</p></td>
-<td><img alt="../../../_images/0D.png" src="../../../_images/0D.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_0D.png" src="../../../_images/srw4_pilot_0D.png" />
 </td>
 <td><p>レミー島田</p></td>
 <td><p><a class="reference internal" href="goshogun.html#srw4-pilots-goshogun"><span class="std std-ref">战国魔神</span></a></p></td>
@@ -846,7 +873,8 @@
 <td></td>
 </tr>
 <tr class="row-even"><td><p>0E</p></td>
-<td><img alt="../../../_images/0E.png" src="../../../_images/0E.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_0E.png" src="../../../_images/srw4_pilot_0E.png" />
 </td>
 <td><p>キリー=ギャグレー</p></td>
 <td><p><a class="reference internal" href="goshogun.html#srw4-pilots-goshogun"><span class="std std-ref">战国魔神</span></a></p></td>
@@ -877,7 +905,8 @@
 <td></td>
 </tr>
 <tr class="row-odd"><td><p>0F</p></td>
-<td><img alt="../../../_images/0F.png" src="../../../_images/0F.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_0F.png" src="../../../_images/srw4_pilot_0F.png" />
 </td>
 <td><p>神勝平</p></td>
 <td><p><a class="reference internal" href="zambot_3.html#srw4-pilots-zambot-3"><span class="std std-ref">赞波3</span></a></p></td>
@@ -908,7 +937,8 @@
 <td><p>底力 12</p></td>
 </tr>
 <tr class="row-even"><td><p>10</p></td>
-<td><img alt="../../../_images/10.png" src="../../../_images/10.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_10.png" src="../../../_images/srw4_pilot_10.png" />
 </td>
 <td><p>神江宇宙太</p></td>
 <td><p><a class="reference internal" href="zambot_3.html#srw4-pilots-zambot-3"><span class="std std-ref">赞波3</span></a></p></td>
@@ -939,7 +969,8 @@
 <td></td>
 </tr>
 <tr class="row-odd"><td><p>11</p></td>
-<td><img alt="../../../_images/11.png" src="../../../_images/11.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_11.png" src="../../../_images/srw4_pilot_11.png" />
 </td>
 <td><p>神北恵子</p></td>
 <td><p><a class="reference internal" href="zambot_3.html#srw4-pilots-zambot-3"><span class="std std-ref">赞波3</span></a></p></td>
@@ -970,7 +1001,8 @@
 <td></td>
 </tr>
 <tr class="row-even"><td><p>12</p></td>
-<td><img alt="../../../_images/12.png" src="../../../_images/12.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_12.png" src="../../../_images/srw4_pilot_12.png" />
 </td>
 <td><p>藤原忍</p></td>
 <td><p><a class="reference internal" href="dancouga.html#srw4-pilots-dancouga"><span class="std std-ref">断空我</span></a></p></td>
@@ -1001,7 +1033,8 @@
 <td></td>
 </tr>
 <tr class="row-odd"><td><p>13</p></td>
-<td><img alt="../../../_images/13.png" src="../../../_images/13.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_13.png" src="../../../_images/srw4_pilot_13.png" />
 </td>
 <td><p>結城沙羅</p></td>
 <td><p><a class="reference internal" href="dancouga.html#srw4-pilots-dancouga"><span class="std std-ref">断空我</span></a></p></td>
@@ -1032,7 +1065,8 @@
 <td></td>
 </tr>
 <tr class="row-even"><td><p>14</p></td>
-<td><img alt="../../../_images/14.png" src="../../../_images/14.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_14.png" src="../../../_images/srw4_pilot_14.png" />
 </td>
 <td><p>式部雅人</p></td>
 <td><p><a class="reference internal" href="dancouga.html#srw4-pilots-dancouga"><span class="std std-ref">断空我</span></a></p></td>
@@ -1063,7 +1097,8 @@
 <td></td>
 </tr>
 <tr class="row-odd"><td><p>15</p></td>
-<td><img alt="../../../_images/15.png" src="../../../_images/15.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_15.png" src="../../../_images/srw4_pilot_15.png" />
 </td>
 <td><p>司馬亮</p></td>
 <td><p><a class="reference internal" href="dancouga.html#srw4-pilots-dancouga"><span class="std std-ref">断空我</span></a></p></td>
@@ -1094,7 +1129,8 @@
 <td></td>
 </tr>
 <tr class="row-even"><td><p>16</p></td>
-<td><img alt="../../../_images/16.png" src="../../../_images/16.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_16.png" src="../../../_images/srw4_pilot_16.png" />
 </td>
 <td><p>葵豹馬</p></td>
 <td><p><a class="reference internal" href="combattler_v.html#srw4-pilots-combattler-v"><span class="std std-ref">孔巴特拉V</span></a></p></td>
@@ -1125,7 +1161,8 @@
 <td><p>底力 1</p></td>
 </tr>
 <tr class="row-odd"><td><p>17</p></td>
-<td><img alt="../../../_images/17.png" src="../../../_images/17.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_17.png" src="../../../_images/srw4_pilot_17.png" />
 </td>
 <td><p>浪花十三</p></td>
 <td><p><a class="reference internal" href="combattler_v.html#srw4-pilots-combattler-v"><span class="std std-ref">孔巴特拉V</span></a></p></td>
@@ -1136,7 +1173,7 @@
 <td><p>95</p></td>
 <td><p>82</p></td>
 <td><p>80</p></td>
-<td><p>263</p></td>
+<td><p>152</p></td>
 <td><p>162</p></td>
 <td><p>188</p></td>
 <td><p>199</p></td>
@@ -1156,7 +1193,8 @@
 <td><p>底力 14</p></td>
 </tr>
 <tr class="row-even"><td><p>18</p></td>
-<td><img alt="../../../_images/18.png" src="../../../_images/18.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_18.png" src="../../../_images/srw4_pilot_18.png" />
 </td>
 <td><p>西川大作</p></td>
 <td><p><a class="reference internal" href="combattler_v.html#srw4-pilots-combattler-v"><span class="std std-ref">孔巴特拉V</span></a></p></td>
@@ -1187,7 +1225,8 @@
 <td><p>底力 1</p></td>
 </tr>
 <tr class="row-odd"><td><p>19</p></td>
-<td><img alt="../../../_images/19.png" src="../../../_images/19.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_19.png" src="../../../_images/srw4_pilot_19.png" />
 </td>
 <td><p>南原ちづる</p></td>
 <td><p><a class="reference internal" href="combattler_v.html#srw4-pilots-combattler-v"><span class="std std-ref">孔巴特拉V</span></a></p></td>
@@ -1218,7 +1257,8 @@
 <td></td>
 </tr>
 <tr class="row-even"><td><p>1A</p></td>
-<td><img alt="../../../_images/1A.png" src="../../../_images/1A.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_1A.png" src="../../../_images/srw4_pilot_1A.png" />
 </td>
 <td><p>北小介</p></td>
 <td><p><a class="reference internal" href="combattler_v.html#srw4-pilots-combattler-v"><span class="std std-ref">孔巴特拉V</span></a></p></td>
@@ -1249,7 +1289,8 @@
 <td></td>
 </tr>
 <tr class="row-odd"><td><p>1B</p></td>
-<td><img alt="../../../_images/1B.png" src="../../../_images/1B.png" />
+<td><p>盟</p></td>
+<td><img alt="../../../_images/srw4_pilot_1B.png" src="../../../_images/srw4_pilot_1B.png" />
 </td>
 <td><p>ギリアム＝イェーガー</p></td>
 <td><p><a class="reference internal" href="banpresto_originals.html#srw4-pilots-banpresto-originals"><span class="std std-ref">原创</span></a></p></td>
@@ -1280,7 +1321,8 @@
 <td><p>切り払い１ 1</p></td>
 </tr>
 <tr class="row-even"><td><p>1C</p></td>
-<td><img alt="../../../_images/1C.png" src="../../../_images/1C.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_1C.png" src="../../../_images/srw4_pilot_1C.png" />
 </td>
 <td><p>ショウ＝ザマ</p></td>
 <td><p><a class="reference internal" href="dunbine.html#srw4-pilots-dunbine"><span class="std std-ref">圣战士丹拜因</span></a></p></td>
@@ -1308,10 +1350,14 @@
 <td><p>熱血 10</p></td>
 <td><p>気合 30</p></td>
 <td><p>魂 45</p></td>
-<td><p>聖戦士 10, 切り払い４ 1, 切り払い５ 31</p></td>
+<td><p>聖戦士 10</p>
+<p>切り払い４ 1</p>
+<p>切り払い５ 31</p>
+</td>
 </tr>
 <tr class="row-odd"><td><p>1D</p></td>
-<td><img alt="../../../_images/1D.png" src="../../../_images/1D.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_1D.png" src="../../../_images/srw4_pilot_1D.png" />
 </td>
 <td><p>マサキ＝アンドー</p></td>
 <td><p><a class="reference internal" href="banpresto_originals.html#srw4-pilots-banpresto-originals"><span class="std std-ref">原创</span></a></p></td>
@@ -1342,7 +1388,8 @@
 <td></td>
 </tr>
 <tr class="row-even"><td><p>1E</p></td>
-<td><img alt="../../../_images/1E.png" src="../../../_images/1E.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_1E.png" src="../../../_images/srw4_pilot_1E.png" />
 </td>
 <td><p>リューネ＝ゾルダーク</p></td>
 <td><p><a class="reference internal" href="banpresto_originals.html#srw4-pilots-banpresto-originals"><span class="std std-ref">原创</span></a></p></td>
@@ -1373,7 +1420,8 @@
 <td></td>
 </tr>
 <tr class="row-odd"><td><p>1F</p></td>
-<td><img alt="../../../_images/1F.png" src="../../../_images/1F.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_1F.png" src="../../../_images/srw4_pilot_1F.png" />
 </td>
 <td><p>シュウ＝シラカワ</p></td>
 <td><p><a class="reference internal" href="banpresto_originals.html#srw4-pilots-banpresto-originals"><span class="std std-ref">原创</span></a></p></td>
@@ -1404,7 +1452,8 @@
 <td></td>
 </tr>
 <tr class="row-even"><td><p>20</p></td>
-<td><img alt="../../../_images/20.png" src="../../../_images/20.png" />
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_20.png" src="../../../_images/srw4_pilot_20.png" />
 </td>
 <td><p>クワトロ＝バジーナ</p></td>
 <td><p><a class="reference internal" href="mobile_suit_z_gundam.html#srw4-pilots-ms-z-gundam"><span class="std std-ref">Z高达</span></a></p></td>
@@ -1432,32 +1481,1017 @@
 <td><p>熱血 8</p></td>
 <td><p>威圧 18</p></td>
 <td><p>魂 40</p></td>
-<td><p>ニュータイプ 15, シールド防御３ 1</p></td>
+<td><p>ニュータイプ 15</p>
+<p>シールド防御３ 1</p>
+</td>
+</tr>
+<tr class="row-odd"><td><p>21</p></td>
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_21.png" src="../../../_images/srw4_pilot_21.png" />
+</td>
+<td><p>ブライト＝ノア</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam.html#srw4-units-ms-gundam"><span class="std std-ref">高达0079</span></a></p></td>
+<td><p>普通</p></td>
+<td><p>76</p></td>
+<td><p>110</p></td>
+<td><p>105</p></td>
+<td><p>101</p></td>
+<td><p>86</p></td>
+<td><p>100</p></td>
+<td><p>128</p></td>
+<td><p>162</p></td>
+<td><p>204</p></td>
+<td><p>200</p></td>
+<td><p>187</p></td>
+<td><p>199</p></td>
+<td><p>50</p></td>
+<td><p>A</p></td>
+<td><p>C</p></td>
+<td><p>C</p></td>
+<td><p>A</p></td>
+<td><p>加速 1</p></td>
+<td><p>偵察 3</p></td>
+<td><p>集中 18</p></td>
+<td><p>根性 5</p></td>
+<td><p>必中 24</p></td>
+<td><p>かく乱 41</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>22</p></td>
+<td><p>盟</p></td>
+<td><img alt="../../../_images/srw4_pilot_22.png" src="../../../_images/srw4_pilot_22.png" />
+</td>
+<td><p>ハヤト＝コバヤシ</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam.html#srw4-units-ms-gundam"><span class="std std-ref">高达0079</span></a></p></td>
+<td><p>弱気</p></td>
+<td><p>236</p></td>
+<td><p>236</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>255</p></td>
+<td><p>255</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>0</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>23</p></td>
+<td><p>盟</p></td>
+<td><img alt="../../../_images/srw4_pilot_23.png" src="../../../_images/srw4_pilot_23.png" />
+</td>
+<td><p>カイ＝シデン</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_z_gundam.html#srw4-units-ms-z-gundam"><span class="std std-ref">Z高达</span></a></p></td>
+<td><p>弱気</p></td>
+<td><p>236</p></td>
+<td><p>236</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>255</p></td>
+<td><p>255</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>0</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>24</p></td>
+<td><p>盟</p></td>
+<td><img alt="../../../_images/srw4_pilot_24.png" src="../../../_images/srw4_pilot_24.png" />
+</td>
+<td><p>マチルダ＝アジャン</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam.html#srw4-units-ms-gundam"><span class="std std-ref">高达0079</span></a></p></td>
+<td><p>強気</p></td>
+<td><p>78</p></td>
+<td><p>82</p></td>
+<td><p>104</p></td>
+<td><p>92</p></td>
+<td><p>82</p></td>
+<td><p>80</p></td>
+<td><p>130</p></td>
+<td><p>134</p></td>
+<td><p>203</p></td>
+<td><p>191</p></td>
+<td><p>181</p></td>
+<td><p>179</p></td>
+<td><p>50</p></td>
+<td><p>A</p></td>
+<td><p>C</p></td>
+<td><p>C</p></td>
+<td><p>C</p></td>
+<td><p>加速 1</p></td>
+<td><p>根性 12</p></td>
+<td><p>激励 28</p></td>
+<td><p>補給 32</p></td>
+<td><p>再動 35</p></td>
+<td><p>復活 40</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>25</p></td>
+<td><p>没</p></td>
+<td><img alt="../../../_images/srw4_pilot_25.png" src="../../../_images/srw4_pilot_25.png" />
+</td>
+<td><p>セイラ＝マス(没)</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam.html#srw4-units-ms-gundam"><span class="std std-ref">高达0079</span></a></p></td>
+<td><p>弱気</p></td>
+<td><p>236</p></td>
+<td><p>236</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>255</p></td>
+<td><p>255</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>0</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>26</p></td>
+<td><p>没</p></td>
+<td><img alt="../../../_images/srw4_pilot_26.png" src="../../../_images/srw4_pilot_26.png" />
+</td>
+<td><p>ワッケイン(没)</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam.html#srw4-units-ms-gundam"><span class="std std-ref">高达0079</span></a></p></td>
+<td><p>普通</p></td>
+<td><p>74</p></td>
+<td><p>107</p></td>
+<td><p>105</p></td>
+<td><p>90</p></td>
+<td><p>81</p></td>
+<td><p>80</p></td>
+<td><p>126</p></td>
+<td><p>159</p></td>
+<td><p>204</p></td>
+<td><p>189</p></td>
+<td><p>180</p></td>
+<td><p>179</p></td>
+<td><p>40</p></td>
+<td><p>B</p></td>
+<td><p>C</p></td>
+<td><p>C</p></td>
+<td><p>B</p></td>
+<td><p>加速 1</p></td>
+<td><p>根性 2</p></td>
+<td><p>気合 12</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>27</p></td>
+<td><p>没</p></td>
+<td><img alt="../../../_images/srw4_pilot_27.png" src="../../../_images/srw4_pilot_27.png" />
+</td>
+<td><p>ティアンム提督(没)</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam.html#srw4-units-ms-gundam"><span class="std std-ref">高达0079</span></a></p></td>
+<td><p>普通</p></td>
+<td><p>74</p></td>
+<td><p>108</p></td>
+<td><p>105</p></td>
+<td><p>90</p></td>
+<td><p>81</p></td>
+<td><p>80</p></td>
+<td><p>126</p></td>
+<td><p>160</p></td>
+<td><p>204</p></td>
+<td><p>189</p></td>
+<td><p>180</p></td>
+<td><p>179</p></td>
+<td><p>40</p></td>
+<td><p>B</p></td>
+<td><p>B</p></td>
+<td><p>C</p></td>
+<td><p>B</p></td>
+<td><p>加速 4</p></td>
+<td><p>根性 3</p></td>
+<td><p>気合 15</p></td>
+<td><p>かく乱 17</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>28</p></td>
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_28.png" src="../../../_images/srw4_pilot_28.png" />
+</td>
+<td><p>エマ＝シーン</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_z_gundam.html#srw4-units-ms-z-gundam"><span class="std std-ref">Z高达</span></a></p></td>
+<td><p>普通</p></td>
+<td><p>80</p></td>
+<td><p>108</p></td>
+<td><p>110</p></td>
+<td><p>105</p></td>
+<td><p>88</p></td>
+<td><p>96</p></td>
+<td><p>142</p></td>
+<td><p>165</p></td>
+<td><p>221</p></td>
+<td><p>204</p></td>
+<td><p>187</p></td>
+<td><p>195</p></td>
+<td><p>50</p></td>
+<td><p>B</p></td>
+<td><p>A</p></td>
+<td><p>B</p></td>
+<td><p>B</p></td>
+<td><p>偵察 1</p></td>
+<td><p>ひらめき 2</p></td>
+<td><p>集中 10</p></td>
+<td><p>熱血 17</p></td>
+<td><p>覚醒 30</p></td>
+<td><p>激励 31</p></td>
+<td><p>シールド防御１ 1</p></td>
+</tr>
+<tr class="row-odd"><td><p>29</p></td>
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_29.png" src="../../../_images/srw4_pilot_29.png" />
+</td>
+<td><p>トーレス</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_z_gundam.html#srw4-units-ms-z-gundam"><span class="std std-ref">Z高达</span></a></p></td>
+<td><p>弱気</p></td>
+<td><p>68</p></td>
+<td><p>101</p></td>
+<td><p>103</p></td>
+<td><p>94</p></td>
+<td><p>82</p></td>
+<td><p>81</p></td>
+<td><p>120</p></td>
+<td><p>153</p></td>
+<td><p>204</p></td>
+<td><p>193</p></td>
+<td><p>181</p></td>
+<td><p>180</p></td>
+<td><p>40</p></td>
+<td><p>A</p></td>
+<td><p>C</p></td>
+<td><p>C</p></td>
+<td><p>B</p></td>
+<td><p>加速 2</p></td>
+<td><p>偵察 1</p></td>
+<td><p>根性 1</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>2A</p></td>
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_2A.png" src="../../../_images/srw4_pilot_2A.png" />
+</td>
+<td><p>ファ＝ユイリィ</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_z_gundam.html#srw4-units-ms-z-gundam"><span class="std std-ref">Z高达</span></a></p></td>
+<td><p>弱気</p></td>
+<td><p>70</p></td>
+<td><p>97</p></td>
+<td><p>105</p></td>
+<td><p>96</p></td>
+<td><p>84</p></td>
+<td><p>82</p></td>
+<td><p>137</p></td>
+<td><p>169</p></td>
+<td><p>216</p></td>
+<td><p>200</p></td>
+<td><p>193</p></td>
+<td><p>181</p></td>
+<td><p>55</p></td>
+<td><p>A</p></td>
+<td><p>B</p></td>
+<td><p>C</p></td>
+<td><p>A</p></td>
+<td><p>ひらめき 5</p></td>
+<td><p>集中 10</p></td>
+<td><p>信頼 1</p></td>
+<td><p>幸運 12</p></td>
+<td><p>激励 18</p></td>
+<td><p>愛 23</p></td>
+<td><p>ニュータイプ 29</p>
+<p>シールド防御１ 14</p>
+</td>
+</tr>
+<tr class="row-odd"><td><p>2B</p></td>
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_2B.png" src="../../../_images/srw4_pilot_2B.png" />
+</td>
+<td><p>カツ＝コバヤシ</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_z_gundam.html#srw4-units-ms-z-gundam"><span class="std std-ref">Z高达</span></a></p></td>
+<td><p>弱気</p></td>
+<td><p>90</p></td>
+<td><p>98</p></td>
+<td><p>104</p></td>
+<td><p>93</p></td>
+<td><p>83</p></td>
+<td><p>82</p></td>
+<td><p>142</p></td>
+<td><p>170</p></td>
+<td><p>203</p></td>
+<td><p>192</p></td>
+<td><p>192</p></td>
+<td><p>186</p></td>
+<td><p>50</p></td>
+<td><p>A</p></td>
+<td><p>B</p></td>
+<td><p>C</p></td>
+<td><p>A</p></td>
+<td><p>根性 5</p></td>
+<td><p>必中 8</p></td>
+<td><p>信頼 12</p></td>
+<td><p>熱血 14</p></td>
+<td><p>隠れ身 21</p></td>
+<td><p>補給 57</p></td>
+<td><p>ニュータイプ 20</p>
+<p>シールド防御１ 1</p>
+</td>
+</tr>
+<tr class="row-even"><td><p>2C</p></td>
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_2C.png" src="../../../_images/srw4_pilot_2C.png" />
+</td>
+<td><p>フォウ＝ムラサメ</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_z_gundam.html#srw4-units-ms-z-gundam"><span class="std std-ref">Z高达</span></a></p></td>
+<td><p>普通</p></td>
+<td><p>98</p></td>
+<td><p>102</p></td>
+<td><p>122</p></td>
+<td><p>114</p></td>
+<td><p>95</p></td>
+<td><p>112</p></td>
+<td><p>160</p></td>
+<td><p>164</p></td>
+<td><p>211</p></td>
+<td><p>213</p></td>
+<td><p>194</p></td>
+<td><p>211</p></td>
+<td><p>50</p></td>
+<td><p>A</p></td>
+<td><p>B</p></td>
+<td><p>C</p></td>
+<td><p>A</p></td>
+<td><p>ひらめき 2</p></td>
+<td><p>集中 1</p></td>
+<td><p>信頼 14</p></td>
+<td><p>熱血 5</p></td>
+<td><p>覚醒 20</p></td>
+<td><p>愛 30</p></td>
+<td><p>強化人間 1</p>
+<p>シールド防御２ 1</p>
+</td>
+</tr>
+<tr class="row-odd"><td><p>2D</p></td>
+<td><p>盟</p></td>
+<td><img alt="../../../_images/srw4_pilot_2D.png" src="../../../_images/srw4_pilot_2D.png" />
+</td>
+<td><p>ベルトーチカ＝イルマ</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_z_gundam.html#srw4-units-ms-z-gundam"><span class="std std-ref">Z高达</span></a></p></td>
+<td><p>弱気</p></td>
+<td><p>236</p></td>
+<td><p>236</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>255</p></td>
+<td><p>255</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>0</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>2E</p></td>
+<td><p>敌</p></td>
+<td><img alt="../../../_images/srw4_pilot_2E.png" src="../../../_images/srw4_pilot_2E.png" />
+</td>
+<td><p>ケリィ＝レズナー</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam_0083.html#srw4-units-ms-gundam-0083"><span class="std std-ref">高达0083</span></a></p></td>
+<td><p>普通</p></td>
+<td><p>100</p></td>
+<td><p>117</p></td>
+<td><p>113</p></td>
+<td><p>112</p></td>
+<td><p>82</p></td>
+<td><p>116</p></td>
+<td><p>152</p></td>
+<td><p>169</p></td>
+<td><p>212</p></td>
+<td><p>211</p></td>
+<td><p>181</p></td>
+<td><p>215</p></td>
+<td><p>50</p></td>
+<td><p>A</p></td>
+<td><p>B</p></td>
+<td><p>B</p></td>
+<td><p>A</p></td>
+<td><p>加速 3</p></td>
+<td><p>ひらめき 15</p></td>
+<td><p>根性 1</p></td>
+<td><p>信頼 28</p></td>
+<td><p>熱血 10</p></td>
+<td><p>隠れ身 7</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>2F</p></td>
+<td><p>盟</p></td>
+<td><img alt="../../../_images/srw4_pilot_2F.png" src="../../../_images/srw4_pilot_2F.png" />
+</td>
+<td><p>ヘンケン＝ベッケナー</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_z_gundam.html#srw4-units-ms-z-gundam"><span class="std std-ref">Z高达</span></a></p></td>
+<td><p>普通</p></td>
+<td><p>74</p></td>
+<td><p>108</p></td>
+<td><p>104</p></td>
+<td><p>99</p></td>
+<td><p>82</p></td>
+<td><p>100</p></td>
+<td><p>126</p></td>
+<td><p>160</p></td>
+<td><p>203</p></td>
+<td><p>198</p></td>
+<td><p>181</p></td>
+<td><p>199</p></td>
+<td><p>50</p></td>
+<td><p>A</p></td>
+<td><p>B</p></td>
+<td><p>C</p></td>
+<td><p>A</p></td>
+<td><p>加速 4</p></td>
+<td><p>偵察 8</p></td>
+<td><p>集中 6</p></td>
+<td><p>ド根性 1</p></td>
+<td><p>かく乱 29</p></td>
+<td><p>愛 34</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>30</p></td>
+<td><p>盟</p></td>
+<td><img alt="../../../_images/srw4_pilot_30.png" src="../../../_images/srw4_pilot_30.png" />
+</td>
+<td><p>ブレックス＝フォーラ</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_z_gundam.html#srw4-units-ms-z-gundam"><span class="std std-ref">Z高达</span></a></p></td>
+<td><p>弱気</p></td>
+<td><p>236</p></td>
+<td><p>236</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>255</p></td>
+<td><p>255</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>0</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>31</p></td>
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_31.png" src="../../../_images/srw4_pilot_31.png" />
+</td>
+<td><p>ルー＝ルカ</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam_zz.html#srw4-units-ms-gundam-zz"><span class="std std-ref">ZZ高达</span></a></p></td>
+<td><p>強気</p></td>
+<td><p>78</p></td>
+<td><p>91</p></td>
+<td><p>110</p></td>
+<td><p>100</p></td>
+<td><p>87</p></td>
+<td><p>89</p></td>
+<td><p>140</p></td>
+<td><p>162</p></td>
+<td><p>209</p></td>
+<td><p>199</p></td>
+<td><p>191</p></td>
+<td><p>193</p></td>
+<td><p>50</p></td>
+<td><p>B</p></td>
+<td><p>B</p></td>
+<td><p>A</p></td>
+<td><p>A</p></td>
+<td><p>ひらめき 3</p></td>
+<td><p>根性 1</p></td>
+<td><p>熱血 13</p></td>
+<td><p>幸運 10</p></td>
+<td><p>補給 46</p></td>
+<td><p>友情 26</p></td>
+<td><p>ニュータイプ 22</p>
+<p>シールド防御１ 1</p>
+<p>シールド防御２21</p>
+</td>
+</tr>
+<tr class="row-even"><td><p>32</p></td>
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_32.png" src="../../../_images/srw4_pilot_32.png" />
+</td>
+<td><p>エルピー＝プル</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam_zz.html#srw4-units-ms-gundam-zz"><span class="std std-ref">ZZ高达</span></a></p></td>
+<td><p>強気</p></td>
+<td><p>80</p></td>
+<td><p>102</p></td>
+<td><p>123</p></td>
+<td><p>115</p></td>
+<td><p>95</p></td>
+<td><p>100</p></td>
+<td><p>132</p></td>
+<td><p>164</p></td>
+<td><p>222</p></td>
+<td><p>214</p></td>
+<td><p>194</p></td>
+<td><p>199</p></td>
+<td><p>50</p></td>
+<td><p>B</p></td>
+<td><p>A</p></td>
+<td><p>C</p></td>
+<td><p>A</p></td>
+<td><p>てかげん 25</p></td>
+<td><p>根性 4</p></td>
+<td><p>熱血 7</p></td>
+<td><p>幸運 19</p></td>
+<td><p>激励 35</p></td>
+<td><p>愛 32</p></td>
+<td><p>強化人間 1</p></td>
+</tr>
+<tr class="row-odd"><td><p>33</p></td>
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_33.png" src="../../../_images/srw4_pilot_33.png" />
+</td>
+<td><p>プルツー</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam_zz.html#srw4-units-ms-gundam-zz"><span class="std std-ref">ZZ高达</span></a></p></td>
+<td><p>超強気</p></td>
+<td><p>80</p></td>
+<td><p>102</p></td>
+<td><p>123</p></td>
+<td><p>115</p></td>
+<td><p>95</p></td>
+<td><p>100</p></td>
+<td><p>132</p></td>
+<td><p>164</p></td>
+<td><p>222</p></td>
+<td><p>214</p></td>
+<td><p>194</p></td>
+<td><p>199</p></td>
+<td><p>50</p></td>
+<td><p>B</p></td>
+<td><p>A</p></td>
+<td><p>C</p></td>
+<td><p>A</p></td>
+<td><p>集中 6</p></td>
+<td><p>根性 2</p></td>
+<td><p>熱血 9</p></td>
+<td><p>威圧 22</p></td>
+<td><p>覚醒 18</p></td>
+<td><p>友情 31</p></td>
+<td><p>強化人間 1</p></td>
+</tr>
+<tr class="row-even"><td><p>34</p></td>
+<td><p>盟</p></td>
+<td><img alt="../../../_images/srw4_pilot_34.png" src="../../../_images/srw4_pilot_34.png" />
+</td>
+<td><p>リィナ＝アーシタ</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam_zz.html#srw4-units-ms-gundam-zz"><span class="std std-ref">ZZ高达</span></a></p></td>
+<td><p>弱気</p></td>
+<td><p>236</p></td>
+<td><p>236</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>255</p></td>
+<td><p>255</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>0</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>35</p></td>
+<td><p>盟</p></td>
+<td><img alt="../../../_images/srw4_pilot_35.png" src="../../../_images/srw4_pilot_35.png" />
+</td>
+<td><p>ビーチャ＝オレーグ</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam_zz.html#srw4-units-ms-gundam-zz"><span class="std std-ref">ZZ高达</span></a></p></td>
+<td><p>普通</p></td>
+<td><p>87</p></td>
+<td><p>92</p></td>
+<td><p>106</p></td>
+<td><p>92</p></td>
+<td><p>82</p></td>
+<td><p>80</p></td>
+<td><p>149</p></td>
+<td><p>154</p></td>
+<td><p>205</p></td>
+<td><p>191</p></td>
+<td><p>191</p></td>
+<td><p>179</p></td>
+<td><p>50</p></td>
+<td><p>A</p></td>
+<td><p>B</p></td>
+<td><p>C</p></td>
+<td><p>A</p></td>
+<td><p>加速 4</p></td>
+<td><p>ひらめき 17</p></td>
+<td><p>集中 8</p></td>
+<td><p>根性 1</p></td>
+<td><p>熱血 12</p></td>
+<td><p>覚醒 29</p></td>
+<td><p>ニュータイプ 29</p></td>
+</tr>
+<tr class="row-even"><td><p>36</p></td>
+<td><p>没</p></td>
+<td><img alt="../../../_images/srw4_pilot_36.png" src="../../../_images/srw4_pilot_36.png" />
+</td>
+<td><p>モンド＝アガケ(没)</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam_zz.html#srw4-units-ms-gundam-zz"><span class="std std-ref">ZZ高达</span></a></p></td>
+<td><p>弱気</p></td>
+<td><p>70</p></td>
+<td><p>87</p></td>
+<td><p>100</p></td>
+<td><p>90</p></td>
+<td><p>80</p></td>
+<td><p>78</p></td>
+<td><p>132</p></td>
+<td><p>149</p></td>
+<td><p>199</p></td>
+<td><p>189</p></td>
+<td><p>179</p></td>
+<td><p>177</p></td>
+<td><p>50</p></td>
+<td><p>C</p></td>
+<td><p>B</p></td>
+<td><p>C</p></td>
+<td><p>B</p></td>
+<td><p>根性,12</p></td>
+<td><p>脱力,2</p></td>
+<td><p>幸運,19</p></td>
+<td><p>激励,27</p></td>
+<td><p>再動,37</p></td>
+<td><p>愛,20</p></td>
+<td><p>ニュータイプ 40</p></td>
+</tr>
+<tr class="row-odd"><td><p>37</p></td>
+<td><p>盟</p></td>
+<td><img alt="../../../_images/srw4_pilot_37.png" src="../../../_images/srw4_pilot_37.png" />
+</td>
+<td><p>エル＝ビアンノ</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam_zz.html#srw4-units-ms-gundam-zz"><span class="std std-ref">ZZ高达</span></a></p></td>
+<td><p>強気</p></td>
+<td><p>70</p></td>
+<td><p>88</p></td>
+<td><p>105</p></td>
+<td><p>91</p></td>
+<td><p>82</p></td>
+<td><p>78</p></td>
+<td><p>132</p></td>
+<td><p>160</p></td>
+<td><p>204</p></td>
+<td><p>190</p></td>
+<td><p>191</p></td>
+<td><p>177</p></td>
+<td><p>50</p></td>
+<td><p>C</p></td>
+<td><p>B</p></td>
+<td><p>A</p></td>
+<td><p>A</p></td>
+<td><p>偵察 4</p></td>
+<td><p>探索 2</p></td>
+<td><p>根性 1</p></td>
+<td><p>信頼 7</p></td>
+<td><p>熱血 13</p></td>
+<td><p>かく乱 14</p></td>
+<td><p>ニュータイプ 36</p>
+<p>シールド防御１,8</p>
+</td>
+</tr>
+<tr class="row-even"><td><p>38</p></td>
+<td><p>没</p></td>
+<td><img alt="../../../_images/srw4_pilot_38.png" src="../../../_images/srw4_pilot_38.png" />
+</td>
+<td><p>イーノ＝アッバーブ(没)</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam_zz.html#srw4-units-ms-gundam-zz"><span class="std std-ref">ZZ高达</span></a></p></td>
+<td><p>弱気</p></td>
+<td><p>236</p></td>
+<td><p>236</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>255</p></td>
+<td><p>255</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>0</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>39</p></td>
+<td><p>盟</p></td>
+<td><img alt="../../../_images/srw4_pilot_39.png" src="../../../_images/srw4_pilot_39.png" />
+</td>
+<td><p>エマリー＝オンス</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam_zz.html#srw4-units-ms-gundam-zz"><span class="std std-ref">ZZ高达</span></a></p></td>
+<td><p>弱気</p></td>
+<td><p>236</p></td>
+<td><p>236</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>255</p></td>
+<td><p>255</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>0</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>3A</p></td>
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_3A.png" src="../../../_images/srw4_pilot_3A.png" />
+</td>
+<td><p>クェス＝パラヤ</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam_char_s_counterattack.html#srw4-units-ms-gundam-char-s-counterattack"><span class="std std-ref">逆袭的夏亚</span></a></p></td>
+<td><p>弱気</p></td>
+<td><p>82</p></td>
+<td><p>95</p></td>
+<td><p>110</p></td>
+<td><p>113</p></td>
+<td><p>95</p></td>
+<td><p>100</p></td>
+<td><p>144</p></td>
+<td><p>167</p></td>
+<td><p>219</p></td>
+<td><p>212</p></td>
+<td><p>194</p></td>
+<td><p>199</p></td>
+<td><p>50</p></td>
+<td><p>B</p></td>
+<td><p>B</p></td>
+<td><p>C</p></td>
+<td><p>A</p></td>
+<td><p>加速       8</p></td>
+<td><p>ひらめき     1</p></td>
+<td><p>集中       7</p></td>
+<td><p>必中       3</p></td>
+<td><p>熱血       18</p></td>
+<td><p>気合       9</p></td>
+<td><p>ニュータイプ   3</p></td>
+</tr>
+<tr class="row-odd"><td><p>3B</p></td>
+<td><p>盟</p></td>
+<td><img alt="../../../_images/srw4_pilot_3B.png" src="../../../_images/srw4_pilot_3B.png" />
+</td>
+<td><p>チェーン＝アギ</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam_char_s_counterattack.html#srw4-units-ms-gundam-char-s-counterattack"><span class="std std-ref">逆袭的夏亚</span></a></p></td>
+<td><p>弱気</p></td>
+<td><p>236</p></td>
+<td><p>236</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>255</p></td>
+<td><p>255</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>99</p></td>
+<td><p>0</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td><p>🚫</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>3C</p></td>
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_3C.png" src="../../../_images/srw4_pilot_3C.png" />
+</td>
+<td><p>ケーラ＝スゥ</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam_char_s_counterattack.html#srw4-units-ms-gundam-char-s-counterattack"><span class="std std-ref">逆袭的夏亚</span></a></p></td>
+<td><p>普通</p></td>
+<td><p>80</p></td>
+<td><p>107</p></td>
+<td><p>120</p></td>
+<td><p>113</p></td>
+<td><p>87</p></td>
+<td><p>110</p></td>
+<td><p>137</p></td>
+<td><p>164</p></td>
+<td><p>219</p></td>
+<td><p>212</p></td>
+<td><p>186</p></td>
+<td><p>209</p></td>
+<td><p>50</p></td>
+<td><p>B</p></td>
+<td><p>A</p></td>
+<td><p>C</p></td>
+<td><p>A</p></td>
+<td><p>加速       5</p></td>
+<td><p>ひらめき     17</p></td>
+<td><p>集中       12</p></td>
+<td><p>根性       1</p></td>
+<td><p>熱血       26</p></td>
+<td><p>かく乱      19</p></td>
+<td><p>シールド防御２  1</p></td>
+</tr>
+<tr class="row-odd"><td><p>3D</p></td>
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_3D.png" src="../../../_images/srw4_pilot_3D.png" />
+</td>
+<td><p>ハサウェイ＝ノア</p></td>
+<td><p><a class="reference internal" href="mobile_suit_z_gundam.html#srw4-pilots-ms-z-gundam"><span class="std std-ref">Z高达</span></a></p></td>
+<td><p>弱気</p></td>
+<td><p>90</p></td>
+<td><p>95</p></td>
+<td><p>111</p></td>
+<td><p>97</p></td>
+<td><p>83</p></td>
+<td><p>80</p></td>
+<td><p>142</p></td>
+<td><p>167</p></td>
+<td><p>210</p></td>
+<td><p>196</p></td>
+<td><p>192</p></td>
+<td><p>200</p></td>
+<td><p>50</p></td>
+<td><p>B</p></td>
+<td><p>A</p></td>
+<td><p>B</p></td>
+<td><p>B</p></td>
+<td><p>集中       2</p></td>
+<td><p>熱血       24</p></td>
+<td><p>気合       8</p></td>
+<td><p>隠れ身      16</p></td>
+<td><p>覚醒       23</p></td>
+<td><p>愛        31</p></td>
+<td><p>ニュータイプ   13</p></td>
+</tr>
+<tr class="row-even"><td><p>3E</p></td>
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_3E.png" src="../../../_images/srw4_pilot_3E.png" />
+</td>
+<td><p>クリスチーナ＝マッケンジー</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam_0080.html#srw4-units-ms-gundam-0080"><span class="std std-ref">高达0080</span></a></p></td>
+<td><p>弱気</p></td>
+<td><p>78</p></td>
+<td><p>94</p></td>
+<td><p>103</p></td>
+<td><p>101</p></td>
+<td><p>87</p></td>
+<td><p>94</p></td>
+<td><p>130</p></td>
+<td><p>154</p></td>
+<td><p>202</p></td>
+<td><p>200</p></td>
+<td><p>186</p></td>
+<td><p>214</p></td>
+<td><p>50</p></td>
+<td><p>C</p></td>
+<td><p>A</p></td>
+<td><p>C</p></td>
+<td><p>B</p></td>
+<td><p>加速       2</p></td>
+<td><p>熱血       25</p></td>
+<td><p>覚醒       30</p></td>
+<td><p>友情       12</p></td>
+<td><p>激励       19</p></td>
+<td><p>復活       39</p></td>
+<td><p>シールド防御１  1</p></td>
+</tr>
+<tr class="row-odd"><td><p>3F</p></td>
+<td><p>自</p></td>
+<td><img alt="../../../_images/srw4_pilot_3F.png" src="../../../_images/srw4_pilot_3F.png" />
+</td>
+<td><p>バーナード＝ワイズマン</p></td>
+<td><p><a class="reference internal" href="../units/mobile_suit_gundam_0080.html#srw4-units-ms-gundam-0080"><span class="std std-ref">高达0080</span></a></p></td>
+<td><p>普通</p></td>
+<td><p>98</p></td>
+<td><p>87</p></td>
+<td><p>102</p></td>
+<td><p>99</p></td>
+<td><p>80</p></td>
+<td><p>90</p></td>
+<td><p>170</p></td>
+<td><p>159</p></td>
+<td><p>201</p></td>
+<td><p>198</p></td>
+<td><p>189</p></td>
+<td><p>210</p></td>
+<td><p>50</p></td>
+<td><p>C</p></td>
+<td><p>A</p></td>
+<td><p>B</p></td>
+<td><p>B</p></td>
+<td><p>自爆       10</p></td>
+<td><p>集中       7</p></td>
+<td><p>足かせ      16</p></td>
+<td><p>根性       1</p></td>
+<td><p>熱血       23</p></td>
+<td><p>幸運       4</p></td>
+<td><p>シールド防御１  1</p></td>
 </tr>
 </tbody>
 </table>
 </div>
 <script>
-    DataTable.ext.type.order['terrain-grade-pre'] = function (d) {
-        switch (d) {
-            case '<p>🚫</p>':
-                return 1;
-            case '<p>D</p>':
-                return 2;
-            case '<p>C</p>':
-                return 3;
-            case '<p>B</p>':
-                return 4;
-            case '<p>A</p>':
-                return 5;
-            case '<p>S</p>':
-                return 6;
-        }
-        return 0;
-    };
-    DataTable.ext.type.order['hex-pre'] = function (d) {
-        return parseInt("0x"+d);
-    };
     var oTable = new DataTable('#srw-pilots-snes-table',{paging: false,searching: true, info: false,fixedHeader: true, scrollX: false, columnDefs: [
             {
                  type: 'hex',
@@ -1469,15 +2503,53 @@
                  targets:  [18,19,20,21]
            },
            {
-                target: [5,6,7,8,9,10,11,12,13,14,15,16],
+                target: [6,7,8,9,10,11,12,13,14,15,16,17],
                 visible: false,
            },
            {
-                targets: [1,4,22,23,24,25,26,27,28],
+                targets: [2,5,23,24,25,26,27,28,29],
                 orderable: false
            }
         ]});
     $(document).ready(function(){
+        $("#checkboxPlayerOnly").on( "click", function() {
+          oTable.draw();
+        });
+        $("#comboboxSeries").change(function() {
+          var selectedSeries=$('#comboboxSeries').val();
+          oTable.draw();
+        });
+        oTable.search.fixed('affiliationSearch', function (row, data, index)
+        {
+          let affiliation = data[1] || "";
+          let seriesName = data[4] || "";
+          var affiliationMatch=false;
+          if($('#checkboxPlayerOnly').prop('checked'))
+          {
+              affiliationMatch= affiliation.includes("自");
+          }
+          else
+              affiliationMatch= true;
+          var seriesNameMatch=false;
+          var selectedSeries=$('#comboboxSeries').val();
+          //console.log("selectedSeries="+selectedSeries);
+          switch(selectedSeries)
+          {
+            case "1":
+              seriesNameMatch=true;break;
+            case "2":
+              seriesNameMatch= seriesName.includes("高达")||seriesName.includes("逆袭的夏亚");break;
+            case "3":
+              seriesNameMatch= seriesName.includes("魔神")||seriesName.includes("古连泰沙");break;
+            case "4":
+              seriesNameMatch= seriesName.includes("重战机");break;
+            case "5":
+              seriesNameMatch= seriesName.includes("丹拜因");break;
+            default:
+              console.log("unexpected selectedSeries="+selectedSeries);break;
+          }
+          return affiliationMatch && seriesNameMatch;
+        });
         document.querySelectorAll('a.toggle-vis').forEach((el) => {
                 el.addEventListener('click', function (e) {
                     e.preventDefault();
@@ -1488,20 +2560,20 @@
                     switch(columnMode)
                     {
                         case "1":
-                            visibleColumnIndexArray=[5,6,7,8,9,10,18,19,20,21];
-                            hiddenColumnIndexArray=[11,12,13,14,15,16,17,22,23,24,25,26,27,28];
+                            visibleColumnIndexArray=[6,7,8,9,10,11,19,20,21,22];
+                            hiddenColumnIndexArray=[12,13,14,15,16,17,18,23,24,25,26,27,28,29];
                             break;
                         case "2":
-                            visibleColumnIndexArray=[11,12,13,14,15,16,18,19,20,21];
-                            hiddenColumnIndexArray=[5,6,7,8,9,10,17,22,23,24,25,26,27,28];
+                            visibleColumnIndexArray=[12,13,14,15,16,17,19,20,21,22];
+                            hiddenColumnIndexArray=[6,7,8,9,10,11,18,23,24,25,26,27,28,29];
                             break;
                         case "3":
-                            visibleColumnIndexArray=[17,22,23,24,25,26,27,28];
-                            hiddenColumnIndexArray=[5,6,7,8,9,10,11,12,13,14,15,16,18,19,20,21];
+                            visibleColumnIndexArray=[18,23,24,25,26,27,28,29];
+                            hiddenColumnIndexArray=[6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22];
                             break;
                         default:
-                            visibleColumnIndexArray=[17,18,19,20,21,22,23,24,25,26,27,28];
-                            hiddenColumnIndexArray=[5,6,7,8,9,10,11,12,13,14,15,16];
+                            visibleColumnIndexArray=[18,19,20,21,22,23,24,25,26,27,28,29];
+                            hiddenColumnIndexArray=[6,7,8,9,10,11,12,13,14,15,16,17];
                             break;
 
                     }
