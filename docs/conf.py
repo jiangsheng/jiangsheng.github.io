@@ -246,23 +246,31 @@ todo_include_todos = True
 googleanalytics_id = 'UA-30166843-2'
 
 html_css_files  = [
-    'css/custom.css',
-    'https://cdn.datatables.net/2.2.2/css/dataTables.bootstrap5.css'
+    'css/custom.css'
 ]
 
 html_js_files = [
-    'google_analytics_tracker.js',
+    'js/google_analytics_tracker.js',
     'https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N',
-    'https://code.jquery.com/jquery-3.7.1.js',
-    'https://cdn.datatables.net/2.2.2/js/dataTables.js',
-    'https://cdn.datatables.net/2.2.2/js/dataTables.bootstrap5.js'
+    
 ]
 
 sitemap_locales = ['zh-CN']
 sitemap_url_scheme = "{version}{link}"
 
-# def setup(app):
+def insert_javascript_on_page(app, page_name, template_name, context, doctree):
+    match page_name:
+        case "games/srw4/units/unit_data_snes"|"games/srw4/units/unit_data_ps"|"games/srw4/pilots/pilot_data_snes"|"games/srw4/pilots/pilot_data_ps":
+           app.add_css_file('https://cdn.datatables.net/2.2.2/css/dataTables.bootstrap5.css')
+           app.add_css_file('css/datatable_custom.css')           
+           app.add_js_file('https://code.jquery.com/jquery-3.7.1.js')
+           app.add_js_file('https://cdn.datatables.net/2.2.2/js/dataTables.js')
+           app.add_js_file('https://cdn.datatables.net/2.2.2/js/dataTables.bootstrap5.js')
+           app.add_js_file('js/datatable_custom.js')
+
+def setup(app):
     # app.add_css_file('css/custom.css')
     # app.add_js_file()
-    # app.add_js_file("google_analytics_tracker.js")
+  app.add_js_file('https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3710396369816898',loading_method='async',crossorigin='anonymous')
+  app.connect('html-page-context', insert_javascript_on_page)
       

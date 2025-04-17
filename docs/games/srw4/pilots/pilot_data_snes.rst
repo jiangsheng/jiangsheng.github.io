@@ -12,6 +12,17 @@
    
    .. raw:: html
       
+       <input type="checkbox" id="checkboxPlayerOnly" name="checkboxPlayerOnly" value="unchecked">
+       <label for="checkboxPlayerOnly">只看自军</label>
+       <label for="comboboxSeries">选择登场作品</label>
+       <select name="comboboxSeries" id="comboboxSeries">
+         <option value="1" selected>全部</option>
+         <option value="2">机动战士系</option>
+         <option value="3">魔神系</option>
+         <option value="4">重战机系</option>
+         <option value="5">圣战士系</option>
+       </select>
+       
        <a class="toggle-vis" data-column="1">显示1级能力</a>
        <a class="toggle-vis" data-column="2">显示99级能力</a>
        <a class="toggle-vis" data-column="3">显示精神和技能</a>
@@ -25,6 +36,7 @@
    :fill-cells:
 
    * - 码
+     - 属
      - 图
      - 名
      - 作
@@ -54,7 +66,8 @@
      - 精神6
      - 技能
    * - 01
-     - .. image:: ../pilots/images/01.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_01.png
      - チャム＝ファウ
      - :ref:`圣战士丹拜因 <srw4_pilots_dunbine>`
      - 普通
@@ -82,7 +95,8 @@
      - 再動 20
      - 奇跡 56
    * - 02
-     - .. image:: ../pilots/images/02.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_02.png
      - ベル＝アール
      - :ref:`圣战士丹拜因 <srw4_pilots_dunbine>`
      - 弱気
@@ -110,7 +124,8 @@
      - 友情 36
      - 復活 50
    * - 03
-     - .. image:: ../pilots/images/03.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_03.png
      - エル＝フィノ
      - :ref:`圣战士丹拜因 <srw4_pilots_dunbine>`
      - 弱気
@@ -138,7 +153,8 @@
      - 隠れ身 20
      - 補給 50
    * - 04
-     - .. image:: ../pilots/images/04.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_04.png
      - リリス＝ファウ
      - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
      - 弱気
@@ -166,7 +182,8 @@
      - 激励 3
      - 愛 34
    * - 05
-     - .. image:: ../pilots/images/05.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_05.png
      - シルキー＝マウ
      - :ref:`圣战士丹拜因 <srw4_pilots_dunbine>`
      - 弱気
@@ -194,7 +211,8 @@
      - 隠れ身 7
      - かく乱 2
    * - 07
-     - .. image:: ../pilots/images/07.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_07.png
      - ジャック＝キング
      - :ref:`盖塔 <srw4_pilots_getter_robo>`
      - 強気
@@ -222,7 +240,8 @@
      - 熱血 3
      - かく乱 7
    * - 08
-     - .. image:: ../pilots/images/08.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_08.png
      - メリー＝キング
      - :ref:`盖塔 <srw4_pilots_getter_robo>`
      - 普通
@@ -250,7 +269,8 @@
      - ド根性 1
      - 幸運 2
    * - 09
-     - .. image:: ../pilots/images/09.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_09.png
      - 流竜馬
      - :ref:`盖塔 <srw4_pilots_getter_robo>`
      - 強気
@@ -263,8 +283,8 @@
      - 182
      - 147
      - 189
-     - 184
      - 200
+     - 184
      - 198
      - 70
      - A
@@ -279,7 +299,8 @@
      - 愛 33
      - 底力 1
    * - 0A
-     - .. image:: ../pilots/images/0A.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_0A.png
      - 神隼人
      - :ref:`盖塔 <srw4_pilots_getter_robo>`
      - 強気
@@ -307,7 +328,8 @@
      - 幸運 9
      - 友情 25
    * - 0B
-     - .. image:: ../pilots/images/0B.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_0B.png
      - 車弁慶
      - :ref:`盖塔 <srw4_pilots_getter_robo>`
      - 普通
@@ -336,7 +358,8 @@
      - 友情 28
      - 底力 1
    * - 0C
-     - .. image:: ../pilots/images/0C.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_0C.png
      - 北条真吾
      - :ref:`战国魔神 <srw4_pilots_goshogun>`
      - 強気
@@ -365,7 +388,8 @@
      - 友情 37
      - 底力 4
    * - 0D
-     - .. image:: ../pilots/images/0D.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_0D.png
      - レミー島田
      - :ref:`战国魔神 <srw4_pilots_goshogun>`
      - 超強気
@@ -393,7 +417,8 @@
      - 幸運 8
      - 愛 53
    * - 0E
-     - .. image:: ../pilots/images/0E.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_0E.png
      - キリー=ギャグレー
      - :ref:`战国魔神 <srw4_pilots_goshogun>`
      - 普通
@@ -421,7 +446,8 @@
      - 魂 45
      - 友情 29
    * - 0F
-     - .. image:: ../pilots/images/0F.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_0F.png
      - 神勝平
      - :ref:`赞波3 <srw4_pilots_zambot_3>`
      - 超強気
@@ -450,7 +476,8 @@
      - 愛 41
      - 底力 12
    * - 10
-     - .. image:: ../pilots/images/10.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_10.png
      - 神江宇宙太
      - :ref:`赞波3 <srw4_pilots_zambot_3>`
      - 強気
@@ -478,7 +505,8 @@
      - かく乱 22
      - 友情 31
    * - 11
-     - .. image:: ../pilots/images/11.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_11.png
      - 神北恵子
      - :ref:`赞波3 <srw4_pilots_zambot_3>`
      - 強気
@@ -506,7 +534,8 @@
      - 愛 42
      - 復活 55
    * - 12
-     - .. image:: ../pilots/images/12.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_12.png
      - 藤原忍
      - :ref:`断空我 <srw4_pilots_dancouga>`
      - 超強気
@@ -534,7 +563,8 @@
      - 気合 3
      - 激怒 1
    * - 13
-     - .. image:: ../pilots/images/13.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_13.png
      - 結城沙羅
      - :ref:`断空我 <srw4_pilots_dancouga>`
      - 超強気
@@ -562,7 +592,8 @@
      - 気合 2
      - 幸運,25
    * - 14
-     - .. image:: ../pilots/images/14.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_14.png
      - 式部雅人	
      - :ref:`断空我 <srw4_pilots_dancouga>`
      - 強気
@@ -590,7 +621,8 @@
      - 激励 23
      - 愛 30
    * - 15
-     - .. image:: ../pilots/images/15.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_15.png
      - 司馬亮
      - :ref:`断空我 <srw4_pilots_dancouga>`
      - 強気
@@ -618,7 +650,8 @@
      - 気合 2
      - 覚醒 31
    * - 16
-     - .. image:: ../pilots/images/16.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_16.png
      - 葵豹馬
      - :ref:`孔巴特拉V <srw4_pilots_combattler_v>`
      - 超強気
@@ -647,7 +680,8 @@
      - 覚醒 30
      - 底力 1
    * - 17
-     - .. image:: ../pilots/images/17.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_17.png
      - 浪花十三
      - :ref:`孔巴特拉V <srw4_pilots_combattler_v>`
      - 強気
@@ -657,7 +691,7 @@
      - 95
      - 82
      - 80
-     - 263
+     - 152
      - 162
      - 188
      - 199
@@ -676,7 +710,8 @@
      - 必中 1
      - 底力 14
    * - 18
-     - .. image:: ../pilots/images/18.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_18.png
      - 西川大作
      - :ref:`孔巴特拉V <srw4_pilots_combattler_v>`
      - 強気
@@ -705,7 +740,8 @@
      - 激怒 18
      - 底力 1
    * - 19
-     - .. image:: ../pilots/images/19.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_19.png
      - 南原ちづる
      - :ref:`孔巴特拉V <srw4_pilots_combattler_v>`
      - 普通
@@ -733,7 +769,8 @@
      - 友情 3
      - 愛 12
    * - 1A
-     - .. image:: ../pilots/images/1A.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_1A.png
      - 北小介
      - :ref:`孔巴特拉V <srw4_pilots_combattler_v>`
      - 弱気
@@ -761,7 +798,8 @@
      - 信頼 42
      - 隠れ身 31
    * - 1B
-     - .. image:: ../pilots/images/1B.png
+     - 盟
+     - .. image:: ../pilots/images/srw4_pilot_1B.png
      - ギリアム＝イェーガー
      - :ref:`原创 <srw4_pilots_banpresto_originals>`
      - 超強気
@@ -790,7 +828,8 @@
      - 復活 31
      - 切り払い１ 1
    * - 1C
-     - .. image:: ../pilots/images/1C.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_1C.png
      - ショウ＝ザマ
      - :ref:`圣战士丹拜因 <srw4_pilots_dunbine>`
      - 強気
@@ -817,9 +856,14 @@
      - 熱血 10
      - 気合 30
      - 魂 45
-     - 聖戦士 10, 切り払い４ 1, 切り払い５ 31
+     - 聖戦士 10
+     
+       切り払い４ 1
+       
+       切り払い５ 31
    * - 1D
-     - .. image:: ../pilots/images/1D.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_1D.png
      - マサキ＝アンドー
      - :ref:`原创 <srw4_pilots_banpresto_originals>`
      - 超強気
@@ -847,7 +891,8 @@
      - 熱血 52
      - 気合 10
    * - 1E
-     - .. image:: ../pilots/images/1E.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_1E.png
      - リューネ＝ゾルダーク
      - :ref:`原创 <srw4_pilots_banpresto_originals>`
      - 超強気
@@ -875,7 +920,8 @@
      - 気合 9
      - 愛 36
    * - 1F
-     - .. image:: ../pilots/images/1F.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_1F.png
      - シュウ＝シラカワ
      - :ref:`原创 <srw4_pilots_banpresto_originals>`
      - 普通
@@ -903,7 +949,8 @@
      - 威圧 29
      - 隠れ身 2
    * - 20
-     - .. image:: ../pilots/images/20.png
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_20.png
      - クワトロ＝バジーナ
      - :ref:`Z高达 <srw4_pilots_ms_z_gundam>`
      - 強気
@@ -930,33 +977,887 @@
      - 熱血 8
      - 威圧 18
      - 魂 40
-     - ニュータイプ 15, シールド防御３ 1
+     - ニュータイプ 15
+
+       シールド防御３ 1
+   * - 21
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_21.png
+     - ブライト＝ノア
+     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - 普通
+     - 76
+     - 110
+     - 105
+     - 101
+     - 86
+     - 100
+     - 128
+     - 162
+     - 204
+     - 200
+     - 187
+     - 199
+     - 50
+     - A
+     - C
+     - C
+     - A
+     - 加速 1
+     - 偵察 3
+     - 集中 18
+     - 根性 5
+     - 必中 24
+     - かく乱 41
+   * - 22
+     - 盟
+     - .. image:: ../pilots/images/srw4_pilot_22.png
+     - ハヤト＝コバヤシ
+     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - 弱気
+     - 236
+     - 236
+     - 0
+     - 0
+     - 0
+     - 0
+     - 255
+     - 255
+     - 99
+     - 99
+     - 99
+     - 99
+     - 0
+     - 🚫
+     - 🚫
+     - 🚫
+     - 🚫
+   * - 23
+     - 盟
+     - .. image:: ../pilots/images/srw4_pilot_23.png
+     - カイ＝シデン
+     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - 弱気
+     - 236
+     - 236
+     - 0
+     - 0
+     - 0
+     - 0
+     - 255
+     - 255
+     - 99
+     - 99
+     - 99
+     - 99
+     - 0
+     - 🚫
+     - 🚫
+     - 🚫
+     - 🚫
+   * - 24
+     - 盟
+     - .. image:: ../pilots/images/srw4_pilot_24.png
+     - マチルダ＝アジャン
+     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - 強気
+     - 78
+     - 82
+     - 104
+     - 92
+     - 82
+     - 80
+     - 130
+     - 134
+     - 203
+     - 191
+     - 181
+     - 179
+     - 50
+     - A
+     - C
+     - C
+     - C
+     - 加速 1
+     - 根性 12
+     - 激励 28
+     - 補給 32
+     - 再動 35
+     - 復活 40
+   * - 25
+     - 没
+     - .. image:: ../pilots/images/srw4_pilot_25.png
+     - セイラ＝マス(没)
+     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - 弱気
+     - 236
+     - 236
+     - 0
+     - 0
+     - 0
+     - 0
+     - 255
+     - 255
+     - 99
+     - 99
+     - 99
+     - 99
+     - 0
+     - 🚫
+     - 🚫
+     - 🚫
+     - 🚫
+   * - 26
+     - 没
+     - .. image:: ../pilots/images/srw4_pilot_26.png
+     - ワッケイン(没)
+     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - 普通
+     - 74
+     - 107
+     - 105
+     - 90
+     - 81
+     - 80
+     - 126
+     - 159
+     - 204
+     - 189
+     - 180
+     - 179
+     - 40
+     - B
+     - C
+     - C
+     - B
+     - 加速 1
+     - 根性 2
+     - 気合 12
+   * - 27
+     - 没
+     - .. image:: ../pilots/images/srw4_pilot_27.png
+     - ティアンム提督(没)
+     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - 普通
+     - 74
+     - 108
+     - 105
+     - 90
+     - 81
+     - 80
+     - 126
+     - 160
+     - 204
+     - 189
+     - 180
+     - 179
+     - 40
+     - B
+     - B
+     - C
+     - B
+     - 加速 4
+     - 根性 3
+     - 気合 15
+     - かく乱 17
+   * - 28
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_28.png
+     - エマ＝シーン
+     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - 普通
+     - 80
+     - 108
+     - 110
+     - 105
+     - 88
+     - 96
+     - 142
+     - 165
+     - 221
+     - 204
+     - 187
+     - 195
+     - 50
+     - B
+     - A
+     - B
+     - B
+     - 偵察 1
+     - ひらめき 2
+     - 集中 10
+     - 熱血 17
+     - 覚醒 30
+     - 激励 31
+     - シールド防御１ 1
+   * - 29
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_29.png
+     - トーレス
+     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - 弱気
+     - 68
+     - 101
+     - 103
+     - 94
+     - 82
+     - 81
+     - 120
+     - 153
+     - 204
+     - 193
+     - 181
+     - 180
+     - 40
+     - A
+     - C
+     - C
+     - B
+     - 加速 2
+     - 偵察 1
+     - 根性 1
+   * - 2A
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_2A.png
+     - ファ＝ユイリィ
+     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - 弱気
+     - 70
+     - 97
+     - 105
+     - 96
+     - 84
+     - 82
+     - 137
+     - 169
+     - 216
+     - 200
+     - 193
+     - 181
+     - 55
+     - A
+     - B
+     - C
+     - A
+     - ひらめき 5
+     - 集中 10
+     - 信頼 1
+     - 幸運 12
+     - 激励 18
+     - 愛 23
+     - ニュータイプ 29
+
+       シールド防御１ 14
+   * - 2B
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_2B.png
+     - カツ＝コバヤシ
+     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - 弱気
+     - 90
+     - 98
+     - 104
+     - 93
+     - 83
+     - 82
+     - 142
+     - 170
+     - 203
+     - 192
+     - 192
+     - 186
+     - 50
+     - A
+     - B
+     - C
+     - A
+     - 根性 5
+     - 必中 8
+     - 信頼 12
+     - 熱血 14
+     - 隠れ身 21
+     - 補給 57
+     - ニュータイプ 20
+
+       シールド防御１ 1
+   * - 2C
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_2C.png
+     - フォウ＝ムラサメ
+     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - 普通
+     - 98
+     - 102
+     - 122
+     - 114
+     - 95
+     - 112
+     - 160
+     - 164
+     - 211
+     - 213
+     - 194
+     - 211
+     - 50
+     - A
+     - B
+     - C
+     - A
+     - ひらめき 2
+     - 集中 1
+     - 信頼 14
+     - 熱血 5
+     - 覚醒 20
+     - 愛 30
+     - 強化人間 1
+       
+       シールド防御２ 1
+   * - 2D
+     - 盟
+     - .. image:: ../pilots/images/srw4_pilot_2D.png
+     - ベルトーチカ＝イルマ
+     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - 弱気
+     - 236
+     - 236
+     - 0
+     - 0
+     - 0
+     - 0
+     - 255
+     - 255
+     - 99
+     - 99
+     - 99
+     - 99
+     - 0
+     - 🚫
+     - 🚫
+     - 🚫
+     - 🚫
+   * - 2E
+     - 敌
+     - .. image:: ../pilots/images/srw4_pilot_2E.png
+     - ケリィ＝レズナー
+     - :ref:`高达0083 <srw4_units_ms_gundam_0083>`
+     - 普通
+     - 100
+     - 117
+     - 113
+     - 112
+     - 82
+     - 116
+     - 152
+     - 169
+     - 212
+     - 211
+     - 181
+     - 215
+     - 50
+     - A
+     - B
+     - B
+     - A
+     - 加速 3
+     - ひらめき 15
+     - 根性 1
+     - 信頼 28
+     - 熱血 10
+     - 隠れ身 7
+   * - 2F
+     - 盟
+     - .. image:: ../pilots/images/srw4_pilot_2F.png
+     - ヘンケン＝ベッケナー
+     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - 普通
+     - 74
+     - 108
+     - 104
+     - 99
+     - 82
+     - 100
+     - 126
+     - 160
+     - 203
+     - 198
+     - 181
+     - 199
+     - 50
+     - A
+     - B
+     - C
+     - A
+     - 加速 4
+     - 偵察 8
+     - 集中 6
+     - ド根性 1
+     - かく乱 29
+     - 愛 34
+   * - 30
+     - 盟
+     - .. image:: ../pilots/images/srw4_pilot_30.png
+     - ブレックス＝フォーラ
+     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - 弱気
+     - 236
+     - 236
+     - 0
+     - 0
+     - 0
+     - 0
+     - 255
+     - 255
+     - 99
+     - 99
+     - 99
+     - 99
+     - 0
+     - 🚫
+     - 🚫
+     - 🚫
+     - 🚫
+   * - 31
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_31.png
+     - ルー＝ルカ
+     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - 強気
+     - 78
+     - 91
+     - 110
+     - 100
+     - 87
+     - 89
+     - 140
+     - 162
+     - 209
+     - 199
+     - 191
+     - 193
+     - 50
+     - B
+     - B
+     - A
+     - A
+     - ひらめき 3
+     - 根性 1
+     - 熱血 13
+     - 幸運 10
+     - 補給 46
+     - 友情 26
+     - ニュータイプ 22
+     
+       シールド防御１ 1
+     
+       シールド防御２21
+   * - 32
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_32.png
+     - エルピー＝プル
+     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - 強気
+     - 80
+     - 102
+     - 123
+     - 115
+     - 95
+     - 100
+     - 132
+     - 164
+     - 222
+     - 214
+     - 194
+     - 199
+     - 50
+     - B
+     - A
+     - C
+     - A
+     - てかげん 25
+     - 根性 4
+     - 熱血 7
+     - 幸運 19
+     - 激励 35 
+     - 愛 32
+     - 強化人間 1
+   * - 33
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_33.png
+     - プルツー
+     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - 超強気
+     - 80
+     - 102
+     - 123
+     - 115
+     - 95
+     - 100
+     - 132
+     - 164
+     - 222
+     - 214
+     - 194
+     - 199
+     - 50
+     - B
+     - A
+     - C
+     - A
+     - 集中 6
+     - 根性 2
+     - 熱血 9
+     - 威圧 22
+     - 覚醒 18
+     - 友情 31
+     - 強化人間 1
+   * - 34
+     - 盟
+     - .. image:: ../pilots/images/srw4_pilot_34.png
+     - リィナ＝アーシタ
+     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - 弱気
+     - 236
+     - 236
+     - 0
+     - 0
+     - 0
+     - 0
+     - 255
+     - 255
+     - 99
+     - 99
+     - 99
+     - 99
+     - 0
+     - 🚫
+     - 🚫
+     - 🚫
+     - 🚫
+   * - 35
+     - 盟
+     - .. image:: ../pilots/images/srw4_pilot_35.png
+     - ビーチャ＝オレーグ
+     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - 普通
+     - 87
+     - 92
+     - 106
+     - 92
+     - 82
+     - 80
+     - 149
+     - 154
+     - 205
+     - 191
+     - 191
+     - 179
+     - 50
+     - A
+     - B
+     - C
+     - A
+     - 加速 4
+     - ひらめき 17
+     - 集中 8
+     - 根性 1
+     - 熱血 12
+     - 覚醒 29
+     - ニュータイプ 29
+   * - 36
+     - 没
+     - .. image:: ../pilots/images/srw4_pilot_36.png
+     - モンド＝アガケ(没)
+     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - 弱気
+     - 70
+     - 87
+     - 100
+     - 90
+     - 80
+     - 78
+     - 132
+     - 149
+     - 199
+     - 189
+     - 179
+     - 177
+     - 50
+     - C
+     - B
+     - C
+     - B
+     - 根性,12
+     - 脱力,2
+     - 幸運,19
+     - 激励,27
+     - 再動,37
+     - 愛,20
+     - ニュータイプ 40
+   * - 37
+     - 盟
+     - .. image:: ../pilots/images/srw4_pilot_37.png
+     - エル＝ビアンノ
+     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - 強気
+     - 70
+     - 88
+     - 105
+     - 91
+     - 82
+     - 78
+     - 132
+     - 160
+     - 204
+     - 190
+     - 191
+     - 177
+     - 50
+     - C
+     - B
+     - A
+     - A
+     - 偵察 4
+     - 探索 2
+     - 根性 1
+     - 信頼 7
+     - 熱血 13
+     - かく乱 14
+     - ニュータイプ 36
+      
+       シールド防御１,8
+   * - 38
+     - 没
+     - .. image:: ../pilots/images/srw4_pilot_38.png
+     - イーノ＝アッバーブ(没)
+     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - 弱気
+     - 236
+     - 236
+     - 0
+     - 0
+     - 0
+     - 0
+     - 255
+     - 255
+     - 99
+     - 99
+     - 99
+     - 99
+     - 0
+     - 🚫
+     - 🚫
+     - 🚫
+     - 🚫
+   * - 39
+     - 盟
+     - .. image:: ../pilots/images/srw4_pilot_39.png
+     - エマリー＝オンス
+     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - 弱気
+     - 236
+     - 236
+     - 0
+     - 0
+     - 0
+     - 0
+     - 255
+     - 255
+     - 99
+     - 99
+     - 99
+     - 99
+     - 0
+     - 🚫
+     - 🚫
+     - 🚫
+     - 🚫
+   * - 3A
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_3A.png
+     - クェス＝パラヤ
+     - :ref:`逆袭的夏亚 <srw4_units_ms_gundam_char_s_counterattack>`
+     - 弱気
+     - 82
+     - 95
+     - 110
+     - 113
+     - 95
+     - 100
+     - 144
+     - 167
+     - 219
+     - 212
+     - 194
+     - 199
+     - 50
+     - B
+     - B
+     - C
+     - A
+     - 加速	8
+     - ひらめき	1
+     - 集中	7
+     - 必中	3
+     - 熱血	18
+     - 気合	9
+     - ニュータイプ	3
+   * - 3B
+     - 盟
+     - .. image:: ../pilots/images/srw4_pilot_3B.png
+     - チェーン＝アギ
+     - :ref:`逆袭的夏亚 <srw4_units_ms_gundam_char_s_counterattack>`
+     - 弱気
+     - 236
+     - 236
+     - 0
+     - 0
+     - 0
+     - 0
+     - 255
+     - 255
+     - 99
+     - 99
+     - 99
+     - 99
+     - 0
+     - 🚫
+     - 🚫
+     - 🚫
+     - 🚫
+   * - 3C
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_3C.png
+     - ケーラ＝スゥ
+     - :ref:`逆袭的夏亚 <srw4_units_ms_gundam_char_s_counterattack>`
+     - 普通
+     - 80
+     - 107
+     - 120
+     - 113
+     - 87
+     - 110
+     - 137
+     - 164
+     - 219
+     - 212
+     - 186
+     - 209
+     - 50
+     - B
+     - A
+     - C
+     - A
+     - 加速	5
+     - ひらめき	17
+     - 集中	12
+     - 根性	1
+     - 熱血	26
+     - かく乱	19
+     - シールド防御２	1
+   * - 3D
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_3D.png
+     - ハサウェイ＝ノア
+     - :ref:`Z高达 <srw4_pilots_ms_z_gundam>`
+     - 弱気
+     - 90
+     - 95
+     - 111
+     - 97
+     - 83
+     - 80
+     - 142
+     - 167
+     - 210
+     - 196
+     - 192
+     - 200
+     - 50
+     - B
+     - A
+     - B
+     - B
+     - 集中	2
+     - 熱血	24
+     - 気合	8
+     - 隠れ身	16
+     - 覚醒	23
+     - 愛	31
+     - ニュータイプ	13
+   * - 3E
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_3E.png
+     - クリスチーナ＝マッケンジー	
+     - :ref:`高达0080 <srw4_units_ms_gundam_0080>`
+     - 弱気
+     - 78
+     - 94
+     - 103
+     - 101
+     - 87
+     - 94
+     - 130
+     - 154
+     - 202
+     - 200
+     - 186
+     - 214
+     - 50
+     - C
+     - A
+     - C
+     - B
+     - 加速	2
+     - 熱血	25
+     - 覚醒	30
+     - 友情	12
+     - 激励	19
+     - 復活	39
+     - シールド防御１	1
+   * - 3F
+     - 自
+     - .. image:: ../pilots/images/srw4_pilot_3F.png
+     - バーナード＝ワイズマン	
+     - :ref:`高达0080 <srw4_units_ms_gundam_0080>`
+     - 普通
+     - 98
+     - 87
+     - 102
+     - 99
+     - 80
+     - 90
+     - 170
+     - 159
+     - 201
+     - 198
+     - 189
+     - 210
+     - 50
+     - C
+     - A
+     - B
+     - B
+     - 自爆	10
+     - 集中	7
+     - 足かせ	16
+     - 根性	1
+     - 熱血	23
+     - 幸運	4
+     - シールド防御１	1
+
+
+
+
+
+
+
+
 
 
 
 .. raw:: html
 
     <script>
-        DataTable.ext.type.order['terrain-grade-pre'] = function (d) {
-            switch (d) {
-                case '<p>🚫</p>':
-                    return 1;
-                case '<p>D</p>':
-                    return 2;
-                case '<p>C</p>':
-                    return 3;
-                case '<p>B</p>':
-                    return 4;
-                case '<p>A</p>':
-                    return 5;
-                case '<p>S</p>':
-                    return 6;
-            }
-            return 0;
-        };
-        DataTable.ext.type.order['hex-pre'] = function (d) {
-            return parseInt("0x"+d);
-        };
         var oTable = new DataTable('#srw-pilots-snes-table',{paging: false,searching: true, info: false,fixedHeader: true, scrollX: false, columnDefs: [
                 {
                      type: 'hex',
@@ -968,15 +1869,53 @@
                      targets:  [18,19,20,21]
                },
                {
-                    target: [5,6,7,8,9,10,11,12,13,14,15,16],
+                    target: [6,7,8,9,10,11,12,13,14,15,16,17],
                     visible: false,
                },
                {
-                    targets: [1,4,22,23,24,25,26,27,28],
+                    targets: [2,5,23,24,25,26,27,28,29],
                     orderable: false
                }
             ]});
         $(document).ready(function(){
+            $("#checkboxPlayerOnly").on( "click", function() {
+              oTable.draw();
+            });
+            $("#comboboxSeries").change(function() {
+              var selectedSeries=$('#comboboxSeries').val();
+              oTable.draw();
+            });
+            oTable.search.fixed('affiliationSearch', function (row, data, index) 
+            { 
+              let affiliation = data[1] || ""; 
+              let seriesName = data[4] || ""; 
+              var affiliationMatch=false;
+              if($('#checkboxPlayerOnly').prop('checked'))
+              {            
+                  affiliationMatch= affiliation.includes("自");
+              }
+              else 
+                  affiliationMatch= true;
+              var seriesNameMatch=false;
+              var selectedSeries=$('#comboboxSeries').val();
+              //console.log("selectedSeries="+selectedSeries);
+              switch(selectedSeries)
+              {
+                case "1":
+                  seriesNameMatch=true;break;
+                case "2":
+                  seriesNameMatch= seriesName.includes("高达")||seriesName.includes("逆袭的夏亚");break;
+                case "3":
+                  seriesNameMatch= seriesName.includes("魔神")||seriesName.includes("古连泰沙");break;
+                case "4":
+                  seriesNameMatch= seriesName.includes("重战机");break;
+                case "5":
+                  seriesNameMatch= seriesName.includes("丹拜因");break;
+                default:
+                  console.log("unexpected selectedSeries="+selectedSeries);break;
+              }
+              return affiliationMatch && seriesNameMatch;
+            });
             document.querySelectorAll('a.toggle-vis').forEach((el) => {
                     el.addEventListener('click', function (e) {
                         e.preventDefault();
@@ -987,20 +1926,20 @@
                         switch(columnMode)
                         {
                             case "1":
-                                visibleColumnIndexArray=[5,6,7,8,9,10,18,19,20,21];
-                                hiddenColumnIndexArray=[11,12,13,14,15,16,17,22,23,24,25,26,27,28];
+                                visibleColumnIndexArray=[6,7,8,9,10,11,19,20,21,22];
+                                hiddenColumnIndexArray=[12,13,14,15,16,17,18,23,24,25,26,27,28,29];
                                 break;
                             case "2":
-                                visibleColumnIndexArray=[11,12,13,14,15,16,18,19,20,21];
-                                hiddenColumnIndexArray=[5,6,7,8,9,10,17,22,23,24,25,26,27,28];
+                                visibleColumnIndexArray=[12,13,14,15,16,17,19,20,21,22];
+                                hiddenColumnIndexArray=[6,7,8,9,10,11,18,23,24,25,26,27,28,29];
                                 break;
                             case "3":
-                                visibleColumnIndexArray=[17,22,23,24,25,26,27,28];
-                                hiddenColumnIndexArray=[5,6,7,8,9,10,11,12,13,14,15,16,18,19,20,21];
+                                visibleColumnIndexArray=[18,23,24,25,26,27,28,29];
+                                hiddenColumnIndexArray=[6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22];
                                 break;
                             default:
-                                visibleColumnIndexArray=[17,18,19,20,21,22,23,24,25,26,27,28];
-                                hiddenColumnIndexArray=[5,6,7,8,9,10,11,12,13,14,15,16];
+                                visibleColumnIndexArray=[18,19,20,21,22,23,24,25,26,27,28,29];
+                                hiddenColumnIndexArray=[6,7,8,9,10,11,12,13,14,15,16,17];
                                 break;
 
                         }

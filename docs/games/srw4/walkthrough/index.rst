@@ -98,10 +98,10 @@
      - :cspan:`2`\ ↓
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/0B.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_0B.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/1F.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_1F.png
    * - :cspan:`5`\ \ :doc:`01a_the_beginning_real`
      - :cspan:`5`\ \ :doc:`01b_the_beginning_super`
    * - :cspan:`5`\  ↘
@@ -115,10 +115,10 @@
      - :cspan:`5`\  总回合一定值以上（[SRW4]8，[SRW4S]16）
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/ED.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_ED.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/ED.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_ED.png
    * - :cspan:`5`\ \ :doc:`02a_enigmatic_visitors_fast`
      - :cspan:`5`\ :rspan:`1`\ :doc:`02b_enigmatic_visitors_slow`
    * - :cspan:`5`\ 加入机体：エルガイム，ディザード
@@ -126,18 +126,18 @@
        加入机师：ダバ＝マイロード，ファンネリア＝アム，リリス＝ファウ
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/F4.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_F4.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/1A.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_1A.png
    * - :cspan:`5`\ \ :doc:`03a_a_new_enemy_fast`
      - :cspan:`5`\ \ :doc:`03b_special_training_dai_setsu_zan_oroshi_slow`
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/1A.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_1A.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/CE.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_CE.png
    * - :cspan:`5`\  :rspan:`1`\ :doc:`04a_special_training_dai_setsu_zan_oroshi_fast`
      - :cspan:`5`\ \ :doc:`04b_a_new_enemy_slow`
    * - :cspan:`5`\ 加入机体：イーグルファイター，ランドクーガー，ランドライガー，ビッグモス，ジェガン(，GMIII，リ・ガズィ)
@@ -147,10 +147,10 @@
        离队：トーレス
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/CE.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_CE.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/F5.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_F5.png
    * - :cspan:`5`\ \ :doc:`05a_bright_s_return`
      - :cspan:`5`\ \ :doc:`05b_daba_my_lord`
    * - :cspan:`5`\ 加入机体：イーグルファイター，ランドクーガー，ランドライガー，ビッグモス，ネモ，GMIII，リ・ガズィ
@@ -169,29 +169,29 @@
      - :cspan:`5`\  ↘ 
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/A8.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_A8.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/32.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_32.png
    * - :cspan:`5`\ \ :doc:`06a_stampede`
      - :cspan:`5`\ \ :doc:`06b_rescue_combattler_v`
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/35.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_35.png
      - :cspan:`5`
    * - :cspan:`11`\ :doc:`07_battle_commander_daimos`
    * - :cspan:`11`\ 加入机体：ダイモス，ガルバーFX II
        加入机师：一矢，京四郎，ナナ
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/F4.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_F4.png
    * - :cspan:`11`\ :doc:`08_love_of_the_battlefield`\ 
    * - :cspan:`11`\ 加入机体：カルバリーテンプル
 
        加入机师：レッシィ
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/3E.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_3E.png
    * - :cspan:`11`\ :doc:`09_enter_zambot_3`
    * - :cspan:`11`\ 加入机体：ザンボット3/ザンバード ザンブル ザンベース
 
@@ -203,10 +203,10 @@
      - :cspan:`5`\  日本海側
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/112.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_112.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/105.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_105.png
    * - :cspan:`5`\ \ :doc:`10a_sorrowful_memories_pacific`\ 
      - :cspan:`5`\ \ :doc:`10b_sorrowful_memories_japanese_sea`
    * - :cspan:`5`\ 加入机体：Zガンダム
@@ -224,7 +224,7 @@
      - :cspan:`5`\  ↙ 
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/43.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_43.png
    * - :cspan:`11`\ :doc:`11_wake_up_super_bestial_machine_god`
    * - :cspan:`11`\ 加入机体：ダンクーガ
    * - :cspan:`5`\  ↙
@@ -233,24 +233,24 @@
      - :cspan:`5`\  本隊
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/35.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_35.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/3E.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_3E.png
    * - :cspan:`5`\ \ :doc:`12a_love_s_whereabouts`
      - :cspan:`5`\ \ :doc:`12b_guyzock_s_terror`\ 
    * - :cspan:`5`\  ↘
      - :cspan:`5`\  ↙ 
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/3F.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_3F.png
    * - :cspan:`11`\ :doc:`13_surfacing`
    * - :cspan:`11`\ 加入机体：ダンバイン，ボチューン，（バストール）
 
        加入机师：ショウ，チャム，マーベル，（ガラリア）
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/1F.png     
+       .. image:: ../units/images/portrait/srw4_units_portrait_1F.png     
    * - :cspan:`11`\ :doc:`14_mazinger_z_flying_in_the_sky`\ 
    * - :cspan:`11`\ 加入机体：ドリルスペイザー GP-03Sステイメン
 
@@ -261,7 +261,7 @@
        废弃：GP-01Fb
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/C7.png   
+       .. image:: ../units/images/portrait/srw4_units_portrait_C7.png   
    * - :cspan:`11`\ :doc:`15_mia_s_decision`\ 
    * - :cspan:`11`\ 加入机体：コンバトラーV
 
@@ -270,7 +270,7 @@
        离队：京四郎/ナナ
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/C8.png   
+       .. image:: ../units/images/portrait/srw4_units_portrait_C8.png   
    * - :cspan:`11`\ :doc:`16_great_general_garuda_s_tragedy`\ 
    * - :cspan:`11`\ 加入机体：（サーバイン/ズワウス）
        
@@ -284,10 +284,10 @@
      - :cspan:`5`\  ガラリア已加入
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/B4.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_B4.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/B3.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_B3.png
    * - :cspan:`5`\ \ :doc:`17a_expansion_of_the_aura_machine_goraon`
      - :cspan:`5`\ \ :doc:`17b_expansion_of_the_aura_machine_gran_garan`\ 
    * - :cspan:`5`\ 加入机体：ゴラオン，ボチューン×2
@@ -302,10 +302,10 @@
      - :cspan:`5`\ 北西
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/37.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_37.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/38.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_38.png
    * - :cspan:`5`\ :doc:`18a_intruder_south_south_west`\ 
      - :cspan:`5`\ :doc:`18b_intruder_northwest`
    * - :cspan:`11`\ 加入机体：万丈
@@ -316,7 +316,7 @@
      - :cspan:`5`\  ↙ 
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/9C.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_9C.png
    * - :cspan:`11`\ :doc:`19_baron_ashura_s_final_moment`
    * - :cspan:`5`\  ↙
      - :cspan:`5`\  ↘ 
@@ -324,10 +324,10 @@
      - :cspan:`5`\ 超级系
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/6B.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_6B.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/33.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_33.png
    * - :cspan:`5`\ :doc:`20a_old_soldier_s_elegy`
      - :cspan:`5`\ :rspan:`1`\ :doc:`20b_raideen_the_brave`
    * - :cspan:`5`\ 加入机体：（ガブスレイ），（Sガンダム）
@@ -339,7 +339,7 @@
      - :cspan:`5`\  ↙ 
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/9C.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_9C.png
    * - :cspan:`11`\ :doc:`21_dr_hell_s_ambition`
    * - :cspan:`11`\ 加入机体：ライディーン　ブルーガー
        
@@ -348,7 +348,7 @@
        离队：ジェガン/ザク改
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/11A.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_11A.png
    * - :cspan:`11`\ :doc:`22_turning_point`
    * - :cspan:`11`\ 主角和当前路线的队员会留在队伍中，其他队员会暂时离队，下同。
    * - :cspan:`5`\  ↙
@@ -359,10 +359,10 @@
      - :cspan:`5`\ 万丈，カミーユ，エマ，ハサウェイ，ケーラ，クリス，バーニィ，ルー，カツ，サラ
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/D9.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_D9.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/20.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_20.png
    * - :cspan:`5`\ :doc:`23a_into_space`
      - :cspan:`5`\ :doc:`23b_recapture_of_great_mazinger`
    * - :cspan:`5`\ 加入机体：（バイアラン）
@@ -374,10 +374,10 @@
        加入机师：ジュン，鉄也
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/71.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_71.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/B5.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_B5.png
    * - :cspan:`5`\ :doc:`24a_encounter_with_the_aeug`\ 
      - :cspan:`5`\ :doc:`24b_rise_of_the_titans`
    * - :cspan:`5`\ 加入机体：百式，グレンダイザー，ダブルスペイザー
@@ -391,10 +391,10 @@
        替换机体：ゲッターロボ→ゲッターロボG\ :doc:`../mechanics/remodeling`\ 基本保留   
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/0A.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_0A.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/125.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_125.png
    * - :cspan:`5`\ :doc:`25a_assault_intervention_point`
      - :cspan:`5`\ :doc:`25b_hyper_jerill`
    * - :cspan:`5`\ 加入机体：ZZガンダム　F91　エルガイムmkII　ヌーベルディザード
@@ -408,10 +408,10 @@
        离队：ボチューン
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/09.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_09.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/37.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_37.png
    * - :cspan:`5`\ :doc:`26a_londenion`\ 
      - :cspan:`5`\ :doc:`26b_i_have_the_power_of_the_sun`
    * - :cspan:`5`\ 离队：カルバリーテンプル
@@ -424,7 +424,7 @@
      - :cspan:`5`\  ↙ 
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/53.png 
+       .. image:: ../units/images/portrait/srw4_units_portrait_53.png 
    * - :cspan:`11`\ :doc:`27_granzon_s_enigma`
    * - :cspan:`11`\ 加入机体：(サイバスター)
    
@@ -435,7 +435,7 @@
        两队合流，和主角不在一队的机师等级+4
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/42.png 
+       .. image:: ../units/images/portrait/srw4_units_portrait_42.png 
    * - :cspan:`11`\ :doc:`28_new_dc`
    * - :cspan:`11`\ 加入机体：ゴーショーグン
    
@@ -449,10 +449,10 @@
      - :cspan:`5`\ 超级系
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/87.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_87.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/C4.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_C4.png
    * - :cspan:`5`\ :doc:`29a_mars_connection`
      - :cspan:`5`\ :doc:`29b1_genius_scientist_aizam_s_challenge`
    * - :cspan:`5` :rspan:`1` 加入机体：（ヤクト・ドーガ（赤））
@@ -462,21 +462,21 @@
        离队：（ジェガン）神宮寺/麗/マリ中两人
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/35.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_35.png
    * - :cspan:`5`\ :doc:`29b2_richter_and_aizam`
    * - :cspan:`5`\  ↘
      - :cspan:`5`\  ↙ 
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/10F.png 
+       .. image:: ../units/images/portrait/srw4_units_portrait_10F.png 
    * - :cspan:`11`\ :doc:`30_koros_and_don_zauser`
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/69.png 
+       .. image:: ../units/images/portrait/srw4_units_portrait_69.png 
    * - :cspan:`11`\ :doc:`31_storm_of_kilimanjaro`
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/68.png 
+       .. image:: ../units/images/portrait/srw4_units_portrait_68.png 
    * - :cspan:`11`\ :doc:`32_the_day_of_dakar`
    * - :cspan:`11`\ 加入机师：（フォウ）
 
@@ -488,10 +488,10 @@
      - :cspan:`5`\ フォウ未加入
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/AE.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_AE.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/127.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_127.png
    * - :cspan:`5`\ :doc:`33a_total_balance`
      - :cspan:`5`\ :doc:`33b_beyond_the_todd`
    * - :cspan:`5`\ 加入机体：（ライネック）
@@ -511,10 +511,10 @@
      - :cspan:`5`\  ↘  
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/3E.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_3E.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/53.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_53.png
    * - :cspan:`5`\ :doc:`34a_new_strength`
      - :cspan:`5`\ :doc:`34b_terror_of_the_human_bomb`
    * - :cspan:`5`\  ↘
@@ -524,7 +524,7 @@
        加入机师：マサキ
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/55.png 
+       .. image:: ../units/images/portrait/srw4_units_portrait_55.png 
    * - :cspan:`11`\ :doc:`35_singularity_collapse`
    * - :cspan:`11`\ 加入机体：ザムジード
     
@@ -536,19 +536,19 @@
      - :cspan:`5`\ B队：カミーユ，シーブック，クェス，フォウ，甲児，さやか，ボス，マリア，万丈，マサキ，ミオ，ダンバイン系，ダイモス系，ゲッターロボ，ゴーショーグン，ダンクーガ，コンバトラーV
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/B1.png 
+       .. image:: ../units/images/portrait/srw4_units_portrait_B1.png 
    * - :cspan:`11`\ :doc:`36_glorious_sunset`\ （A）   
    * - :cspan:`11`\ 替换：ネェル・アーガマ→ラー・カイラム
      
        离队：NT-1アレックス
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/6F.png 
+       .. image:: ../units/images/portrait/srw4_units_portrait_6F.png 
    * - :cspan:`11`\ :doc:`37_guest_and_inspector`\ （B）   
    * - :cspan:`11`\ 加入机师：（ロザミア）
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/F3.png 
+       .. image:: ../units/images/portrait/srw4_units_portrait_F3.png 
    * - :cspan:`11`\ :doc:`38_poseidal_s_ambition`\ （A）   
    * - :cspan:`11`\ 加入机师：（アシュラテンプル）
       
@@ -561,10 +561,10 @@
      - :cspan:`5`\ クワトロ没有离队
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/0D.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_0D.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/8A.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_8A.png
    * - :cspan:`5`\ :doc:`39a_ryune_capriccio_gato`\ （B）
      - :cspan:`5`\ :doc:`39b_ryune_capriccio_gilliam`\ （B）
    * - :cspan:`5`\ 加入机体：GP-02A ビギナ・ギナ
@@ -580,7 +580,7 @@
      - :cspan:`5`\ :rspan:`2`\ リューネ未加入
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/5B.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_5B.png
    * - :cspan:`5`\ :doc:`39c_rescue`
    * - :cspan:`5`\  ↘
      - :cspan:`5`\  ↙ 
@@ -588,10 +588,10 @@
      - :cspan:`5`\ ギャブレー未加入
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/7B.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_7B.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/E8.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_E8.png
    * - :cspan:`5`\ :doc:`40a_the_backside_of_the_moon`\ （A）
      - :cspan:`5` :rspan:`1`\ :doc:`40b_siege_breakthrough`\ （A）
    * - :cspan:`5`\ 加入机体：（キュベレイmkII×2）加入机师：プル，プルツー
@@ -599,7 +599,7 @@
      - :cspan:`5`\  ↙ 
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/57.png 
+       .. image:: ../units/images/portrait/srw4_units_portrait_57.png 
    * - :cspan:`11`\ :doc:`41_scattered_on_axis`\ （B）
    * - :cspan:`11`\ 加入机体：ヴァルシオーネ
 
@@ -614,17 +614,17 @@
      - :cspan:`3`\ :rspan:`2`\ 行かない
    * - :cspan:`3`\ 
 
-       .. image:: ../units/images/portrait/7A.png 
+       .. image:: ../units/images/portrait/srw4_units_portrait_7A.png 
    * - :cspan:`3`\ :doc:`41b_haman_s_black_shadow`
    * - :cspan:`3`
   
-       .. image:: ../units/images/portrait/F2.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_F2.png
      - :cspan:`3`
   
-       .. image:: ../units/images/portrait/F2.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_F2.png
      - :cspan:`3`
   
-       .. image:: ../units/images/portrait/50.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_50.png
    * - :cspan:`3`\ :doc:`42a_oldna_poseidal_easy` (A)
      - :cspan:`3`\ :doc:`42b_oldna_poseidal_normal`\ (A)
      - :cspan:`3`\ :doc:`42c_oldna_poseidal_hard`\ (A)
@@ -636,7 +636,7 @@
        加入机师：テュッティ，ヤンロン 
    * - :cspan:`11`
   
-       .. image:: ../units/images/portrait/EA.png 
+       .. image:: ../units/images/portrait/srw4_units_portrait_EA.png 
    * - :cspan:`11`\ :doc:`43_wasteland_deathmatch`\ (BA)
    * - :cspan:`5`\  ↙
      - :cspan:`5`\  ↘ 
@@ -650,10 +650,10 @@
      - 
    * - :cspan:`5`
   
-       .. image:: ../units/images/portrait/EB.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_EB.png
      - :cspan:`5`
   
-       .. image:: ../units/images/portrait/56.png
+       .. image:: ../units/images/portrait/srw4_units_portrait_56.png
    * - :cspan:`5`\ :doc:`44a_final_battle_on_mars_zezeenan`\ 
      - :cspan:`5`\ :doc:`44b_final_battle_on_mars_shu`\ 
 
