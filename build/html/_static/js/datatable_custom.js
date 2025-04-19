@@ -1,23 +1,57 @@
 DataTable.ext.type.order['terrain-grade-pre'] = function (d) {
     switch (d) {
-       case '<p>🚫</p>':
-             return 1;
-       case '<p>D</p>':
-             return 2;
-       case '<p>C</p>':
-             return 3;
-       case '<p>B</p>':
-             return 4;
-       case '<p>A</p>':
-             return 5;
        case '<p>S</p>':
+             return 1;
+       case '<p>A</p>':
+             return 2;
+       case '<p>B</p>':
+             return 3;
+       case '<p>C</p>':
+             return 4;
+       case '<p>D</p>':
+             return 5;
+       case '<p>🚫</p>':
              return 6;
     }
     return 0;
  };
- DataTable.ext.type.order['hex-pre'] = function (d) {
 
+ DataTable.ext.type.order['terrain-movement-type-pre'] = function (d) {
+    switch (d) {
+        case '<p>水陆空</p>':
+            return 1;
+        case '<p>陆空地</p>':
+            return 2;
+        case '<p>空陆</p>':
+            return 3;
+        case '<p>空地中</p>':
+            return 4;
+        case '<p>空海</p>':
+            return 5;    
+        case '<p>空</p>':
+            return 6;
+        case '<p>水陆</p>':
+            return 7;
+        case '<p>陆地中</p>':
+            return 8;
+        case '<p>陆</p>':
+            return 9;
+        case '<p>宇宙</p>':
+            return 10;
+        case '<p>水</p>':
+             return 11;    
+        case '<p>🚫</p>':
+            return 12;
+    }
+    return 100;
+ };
+
+ DataTable.ext.type.order['hex-pre'] = function (d) {
     return parseInt("0x"+d);
+ };
+
+ DataTable.ext.type.order['integer-pre'] = function (d) {
+    return parseInt(d.replace(/\D/g,''));
  };
  
 /*

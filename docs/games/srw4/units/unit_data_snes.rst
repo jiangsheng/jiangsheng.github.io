@@ -8,7 +8,7 @@
 远攻数值是威力最强的非地图远程武器。
 
 .. container::
-   :name: display_options
+   :name: srw4_units_snes_table_display_options
    
    .. raw:: html
       
@@ -25,7 +25,7 @@
 
 .. flat-table:: 机体数据 （第四次超级机器人大战）
    :class: text-center, align-items-center, compact, display
-   :name: srw_units_snes_table
+   :name: srw4_units_snes_table
    :header-rows: 1
    :fill-cells:
    
@@ -1154,7 +1154,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_3F_B.png
      - ダンバイン
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 1400
      - 130
      - 45
@@ -1173,7 +1173,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_40_B.png
      - ビルバイン
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 2000
      - 150
      - 50
@@ -1192,7 +1192,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_41_B.png
      - ウイングキャリバー
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 2000
      - 150
      - 50
@@ -3187,7 +3187,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_AA_B.png
      - ドラムロ
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 1600
      - 130
      - 42
@@ -3206,7 +3206,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_AB_B.png
      - レプラカーン
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 2100
      - 170
      - 44
@@ -3225,7 +3225,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_AC_B.png
      - ズワァース
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 3300
      - 160
      - 48
@@ -3244,7 +3244,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_AD_B.png
      - ビアレス
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 2300
      - 150
      - 47
@@ -3263,7 +3263,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_AE_B.png
      - ライネック
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 2800
      - 170
      - 48
@@ -3282,7 +3282,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_AF_B.png
      - バストール
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 1500
      - 130
      - 46
@@ -3301,7 +3301,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_B0_B.png
      - ブブリィ
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 4800
      - 180
      - 50
@@ -3320,7 +3320,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_B1_B.png
      - ガラバ
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 5700
      - 170
      - 49
@@ -3358,7 +3358,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_B3_B.png
      - グラン・ガラン
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 22000
      - 190
      - 35
@@ -3377,7 +3377,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_B4_B.png
      - ゴラオン
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 20000
      - 190
      - 35
@@ -3396,7 +3396,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_B5_B.png
      - ウィル・ウィプス
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 48000
      - 220
      - 36
@@ -3415,7 +3415,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_B6_B.png
      - ゲア・ガリング
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 44000
      - 200
      - 35
@@ -3434,7 +3434,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_B7_B.png
      - スプリガン
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 32000
      - 180
      - 48
@@ -5084,8 +5084,8 @@
      - B
      - 🚫
    * - 112
-     - .. image:: ../units/images/icon/srw4_units_icon_112_B.png
      - 自
+     - .. image:: ../units/images/icon/srw4_units_icon_112_B.png
      - Ｚガンダム
      - :ref:`Z高达 <srw4_units_ms_z_gundam>`
      - 2600
@@ -5103,8 +5103,8 @@
      - C
      - A
    * - 113
-     - .. image:: ../units/images/icon/srw4_units_icon_113_B.png
      - 自
+     - .. image:: ../units/images/icon/srw4_units_icon_113_B.png
      - ウェイブライダー
      - :ref:`Z高达 <srw4_units_ms_z_gundam>`
      - 2600
@@ -5334,7 +5334,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_11F_B.png
      - ボチューン
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 1400
      - 170
      - 44
@@ -5429,7 +5429,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_124_B.png
      - レプラカーン(ハイパー可)
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 1700
      - 170
      - 44
@@ -5448,7 +5448,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_125_B.png
      - ハイパーレプラカーン
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 37000
      - 170
      - 44
@@ -5467,7 +5467,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_126_B.png
      - ライネック(ハイパー可)
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 2200
      - 170
      - 48
@@ -5486,7 +5486,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_127_B.png
      - ハイパーライネック
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 42000
      - 170
      - 48
@@ -5505,7 +5505,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_128_B.png
      - ガラバ(ハイパー可)
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 2700
      - 170
      - 49
@@ -5524,7 +5524,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_129_B.png
      - ハイパーガラバ
-     - :ref:`圣战士丹拜因 <srw4_units_dunbine>`
+     - :ref:`丹拜因 <srw4_units_dunbine>`
      - 47000
      - 170
      - 49
@@ -5545,7 +5545,7 @@
     <script>
       var oTable = new DataTable
         (
-          '#srw-units-snes-table',
+          '#srw4-units-snes-table',
           {
             orderCellsTop: true,
             scrollX: false,
@@ -5555,7 +5555,8 @@
             fixedHeader: true,
             columnDefs: [
               { type: 'hex',targets:  0},
-              {type: 'terrain-grade',targets:  [14,15,16,17]},
+              {type: 'terrain-movement-type',targets:  14},
+              {type: 'terrain-grade',targets:  [15,16,17,18]},
               {targets: 1,orderable: false}
             ]
           }

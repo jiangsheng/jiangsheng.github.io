@@ -56,7 +56,9 @@ extensions = [
     'sphinx.ext.githubpages',
     'sphinx_sitemap',
     'edit_on_github',
-    'linuxdoc.rstFlatTable'
+    'linuxdoc.rstFlatTable',
+     'sphinx_reredirects',
+     "sphinxext.rediraffe"
 ]
 edit_on_github_project  = 'jiangsheng/jiangsheng.github.io'
 edit_on_github_url = 'docs/'
@@ -257,6 +259,8 @@ html_js_files = [
 
 sitemap_locales = ['zh-CN']
 sitemap_url_scheme = "{version}{link}"
+
+rediraffe_redirects = "redirects.txt"
 
 def insert_javascript_on_page(app, page_name, template_name, context, doctree):
     match page_name:
