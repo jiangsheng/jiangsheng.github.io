@@ -1,0 +1,3 @@
+"games/srw4/mechanics/expfoumla.rst" "games/srw4/mechanics/exp.rst" 
+"games/srw4/walkthrough/10A-SorrowfulMemories.rst" "games/srw4/walkthrough/10a_sorrowful_memories_pacific.rst" 
+"games/srw4/walkthrough/03B-SpecialTraining!Dai-Setsu-ZanOroshiB" "games/srw4/walkthrough/03b_special_training_dai_setsu_zan_oroshi_slow.rst" 
