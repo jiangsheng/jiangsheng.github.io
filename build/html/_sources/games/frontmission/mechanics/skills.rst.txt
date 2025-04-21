@@ -1,7 +1,13 @@
 .. _front_mission_mechanics_skills:
 
+.. meta::
+    :description lang=en:
+        Skill Acquisition & Mechanics in Front Mission 1st
+
 Skills (Front Mission 1)
 ===============================
+
+
 
 .. index:: pair: Front Mission; Skills
 

@@ -1,6 +1,6 @@
 Might and Magic 6
 ===================================
-The Chinese edition has a cheat that you can create items out blue with pressing F in the game then enter item number. Then using a character editor additional enhancement can be added to the item.
+The Chinese edition has a cheat that you can create items out of blue with pressing F in the game then enter item number. Then using a character editor additional enhancement can be added to the item.
 
 Here are some nice items 
 
