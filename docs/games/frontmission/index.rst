@@ -37,7 +37,7 @@ Being an RPG, probably the most intriguing part is the growth of the :ref:`pilot
 
 
   
-Useful Part and weapon Codes for SNES
+Useful Part and weapon cheat Codes for SNES
 
 * 7ECF1463 Zenith V Body
 * 7ECFB163 Valiant Body

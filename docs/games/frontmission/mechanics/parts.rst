@@ -3,8 +3,8 @@
 
 Parts (Front Mission 1)
 ===============================
+In Front Mission, wanzers can be customized with parts. Parts have the following attributes:
 
-Parts have the following attributes:
 * DF: defense (effective HP = defense * HP)
 * HP: hit points
 * Hit: Accuracy, only used when a weapon is in grip (multiplied with the weapon's Hit). 
