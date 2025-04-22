@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=zh-Hans:  
+       第四次超级机器人大战攻略流程 第十话Ａ 悲しき記憶（太平洋側）
+       
 .. _10A-SorrowfulMemoriesA:
 
 第十话Ａ 悲しき記憶（太平洋側）

@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=zh-Hans:  
+       第四次超级机器人大战隐藏要素
+
 .. _srw4_missable:
 
 隐藏要素

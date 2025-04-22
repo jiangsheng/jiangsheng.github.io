@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=zh-Hans:  
+       第四次超级机器人大战攻略流程 第零话Ａ 接触 (真实系)
+
 .. _srw4_walkthrough_00a-contact_real:
 
 第零话Ａ 接触 (真实系)

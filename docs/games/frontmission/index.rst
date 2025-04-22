@@ -1,3 +1,9 @@
+
+.. meta::
+    :description lang=en:
+        Mechanics and Guides for Front Mission 1st
+
+
 Front Mission 1 
 ===============================
 
