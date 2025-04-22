@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=en:  
+      Discusses limitation in .Net's autocomplete API wrapper and ways to call the Win32 autocomplete API direct to get more flexible behaviors. Using data bindings between a TextBox instance and a constantly updated .Net DataSource object as an example. 
+
 AutoComplete with DataSource
 =============================
 
@@ -183,6 +187,12 @@ You may want to ask, where is the filtering code? Well, that is implemented by B
 
 Somehow Windows caches the candidate list. If I don't clear the text in the input box, my IEnumString implementation won't be asked again for candidate strings (pointed out by Andy Gilman).
 
-The BindingSource class checks the data source to see if they support the IBindingListView. If IBindingListView is supported, the BindingSource class delegates sorting and filtering to the data source.  In this sample, the data source of the BindingSource object is a DataSet, and the DataMember of BindingSource object is the name of the first table , so BindingSource creates a DataView as its data source. The DataView class implements IBindingListView and filters its data using expressions parsed from the filter string. In reality, the data source could be a business object that implements IBindingListView and supports filtering and sorting with stored procedures.
+The BindingSource class checks the data source to see if they support the IBindingListView. If IBindingListView is supported, the BindingSource class delegates sorting and filtering to the data source.  In this sample, the data source of the BindingSource object is a DataSet, and the DataMember of BindingSource object is the name of the first table, so BindingSource creates a DataView as its data source. The DataView class implements IBindingListView and filters its data using expressions parsed from the filter string. In reality, the data source could be a business object that implements IBindingListView and supports filtering and sorting with stored procedures.
 
-This sample does not consider compound autocomplete object support. If you want to get your options from multiple sources, you need to use IObjMgrto add sources to the autocomplete object.
+This sample does not consider compound autocomplete object support. If you want to get your options from multiple sources, you need to use IObjMgr to add sources to the autocomplete object.
+
+By default autocomplete does a StartWith match with the data source provided by IEnumString. If you want to do a Contains search, you need to set the ACO_NOPREFIXFILTERING option.
+
+I would not suggest turning on the ACO_WORD_FILTER option if you want to match against numbers or punctuations. Theoretically you can benefit if all you want is an "AND" search where the candidate has all the typed words somewhere in the string. If you want to use up and down keys to switch between candidates you can turn on the ACO_UPDOWNKEYDROPSLIST  option. 
+
+If you want to customize the font you may have to do some Window class subclassing to find the candidate window and replace the font. 

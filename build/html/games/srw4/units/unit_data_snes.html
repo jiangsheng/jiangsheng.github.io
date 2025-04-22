@@ -48,7 +48,8 @@
     <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
     <script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
     <script src="https://cdn.datatables.net/2.2.2/js/dataTables.bootstrap5.js"></script>
-    <script src="../../../_static/js/datatable_custom.js?v=c16ecdcf"></script>
+    <script src="../../../_static/js/games/srw4/datatable_custom.js?v=c16ecdcf"></script>
+    <script src="../../../_static/js/games/srw4/units_datatable.js?v=1b7d7ac6"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'games/srw4/units/unit_data_snes';</script>
     <script src="../../../_static/js/google_analytics_tracker.js?v=ca8723ef"></script>
     <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
@@ -747,7 +748,7 @@
 <td><p>C</p></td>
 </tr>
 <tr class="row-odd"><td><p>12</p></td>
-<td><p>自</p></td>
+<td><p>盟</p></td>
 <td><img alt="../../../_images/srw4_units_icon_12_B.png" src="../../../_images/srw4_units_icon_12_B.png" />
 </td>
 <td><p>ボール</p></td>
@@ -6541,66 +6542,7 @@
 </table>
 </div>
 <script>
-  var oTable = new DataTable
-    (
-      '#srw4-units-snes-table',
-      {
-        orderCellsTop: true,
-        scrollX: false,
-        paging: false,
-        searching: true,
-        info: false,
-        fixedHeader: true,
-        columnDefs: [
-          { type: 'hex',targets:  0},
-          {type: 'terrain-movement-type',targets:  14},
-          {type: 'terrain-grade',targets:  [15,16,17,18]},
-          {targets: 1,orderable: false}
-        ]
-      }
-    );
-
-  $(document).ready(function()
-  {
-    $("#checkboxPlayerOnly").on( "click", function() {
-      oTable.draw();
-    });
-    $("#comboboxSeries").change(function() {
-      var selectedSeries=$('#comboboxSeries').val();
-      oTable.draw();
-    });
-    oTable.search.fixed('affiliationSearch', function (row, data, index)
-    {
-      let affiliation = data[1] || "";
-      let seriesName = data[4] || "";
-      var affiliationMatch=false;
-      if($('#checkboxPlayerOnly').prop('checked'))
-      {
-          affiliationMatch= affiliation.includes("自");
-      }
-      else
-          affiliationMatch= true;
-      var seriesNameMatch=false;
-      var selectedSeries=$('#comboboxSeries').val();
-      //console.log("selectedSeries="+selectedSeries);
-      switch(selectedSeries)
-      {
-        case "1":
-          seriesNameMatch=true;break;
-        case "2":
-          seriesNameMatch= seriesName.includes("高达")||seriesName.includes("逆袭的夏亚");break;
-        case "3":
-          seriesNameMatch= seriesName.includes("魔神")||seriesName.includes("古连泰沙");break;
-        case "4":
-          seriesNameMatch= seriesName.includes("重战机");break;
-        case "5":
-          seriesNameMatch= seriesName.includes("丹拜因");break;
-        default:
-          console.log("unexpected selectedSeries="+selectedSeries);break;
-      }
-      return affiliationMatch && seriesNameMatch;
-    });
-  });
+  units_datatable_init('srw4-units-snes-table');
 </script></section>
 
 

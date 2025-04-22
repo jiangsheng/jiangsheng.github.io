@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=zh-Hans:  
+       第四次超级机器人大战攻略流程 第五话Ａ ブライトの帰還
+
 .. _05A-BrightsReturn:
 
 第五话Ａ ブライトの帰還

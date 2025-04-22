@@ -270,7 +270,14 @@ def insert_javascript_on_page(app, page_name, template_name, context, doctree):
            app.add_js_file('https://code.jquery.com/jquery-3.7.1.js')
            app.add_js_file('https://cdn.datatables.net/2.2.2/js/dataTables.js')
            app.add_js_file('https://cdn.datatables.net/2.2.2/js/dataTables.bootstrap5.js')
-           app.add_js_file('js/datatable_custom.js')
+           app.add_js_file('js/games/srw4/datatable_custom.js')
+    match page_name:
+        case "games/srw4/units/unit_data_snes"|"games/srw4/units/unit_data_ps":
+           app.add_js_file('js/games/srw4/units_datatable.js')
+        case "games/srw4/pilots/pilot_data_snes"|"games/srw4/pilots/pilot_data_ps":
+           app.add_js_file('js/games/srw4/pilots_datatable.js')
+
+
 
 def setup(app):
     # app.add_css_file('css/custom.css')

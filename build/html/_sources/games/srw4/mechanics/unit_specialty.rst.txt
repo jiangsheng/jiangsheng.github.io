@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=zh-Hans:  
+       第四次超级机器人大战机体特殊能力
+       
 .. _srw4_unit_specialty:
 
 ------------------
