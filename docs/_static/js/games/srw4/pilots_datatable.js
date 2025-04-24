@@ -47,7 +47,7 @@ function pilots_datatable_init(dataTableName)
                 case "2":
                 seriesNameMatch= seriesName.includes("高达")||seriesName.includes("逆袭的夏亚");break;
                 case "3":
-                seriesNameMatch= (seriesName.includes("魔神") && !seriesName).includes("战国")||seriesName.includes("古连泰沙");break;
+                seriesNameMatch= (seriesName.includes("魔神") && !seriesName.includes("战国"))||seriesName.includes("古连泰沙");break;
                 case "4":
                 seriesNameMatch= seriesName.includes("重战机");break;
                 case "5":
