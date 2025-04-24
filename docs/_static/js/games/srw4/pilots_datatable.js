@@ -81,8 +81,8 @@ function pilots_datatable_init(dataTableName)
                         hiddenColumnIndexArray=[6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22];
                         break;
                     default:
-                        visibleColumnIndexArray=[18,19,20,21,22,23,24,25,26,27,28,29];
-                        hiddenColumnIndexArray=[6,7,8,9,10,11,12,13,14,15,16,17];
+                        visibleColumnIndexArray=[[6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29];
+                        hiddenColumnIndexArray=[]];
                         break;
 
                 }
