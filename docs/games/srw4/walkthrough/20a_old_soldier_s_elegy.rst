@@ -99,6 +99,8 @@
 
           ガンタンク、ザク改或者ジェガン离队 1/4。
 
+          Sガンダム 2/2
+
           Ex-Sガンダム 2/4
      - .. admonition:: 否
           :class: attention
