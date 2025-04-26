@@ -28,6 +28,7 @@ F-91
     .. grid-item-card::
         :columns: auto
 
+        | 编码 0A
         | 类型 陆
         | 移动力 10
         | 大小 M
