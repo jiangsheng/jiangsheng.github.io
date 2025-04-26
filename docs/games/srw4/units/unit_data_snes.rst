@@ -242,7 +242,7 @@
    * - 0F
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_0F_B.png
-     - GP-03Sステイメン
+     - GP-03ステイメン
      - :ref:`高达0083 <srw4_units_ms_gundam_0083>`
      - 1900
      - 250
@@ -5410,7 +5410,7 @@
    * - 123
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_123_B.png
-     - GP-03Sステイメン
+     - GP-03ステイメン
      - :ref:`高达0083 <srw4_units_ms_gundam_0083>`
      - 1900
      - 250
