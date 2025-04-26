@@ -86,8 +86,9 @@
 .. rst-class::center
 .. flat-table:: 游戏路线
    :class: text-center, align-items-center
+   :fill-cells:
 
-   * - :cspan:`11`\ \ :ref:`序幕 <srw4_preclude>`
+   * - :cspan:`11`\ :ref:`序幕 <srw4_preclude>` \ 
    * - :cspan:`2`\  第四次真实系
      - :cspan:`2`\  第四次S真实系
      - :cspan:`2`\  第四次S超级系
@@ -178,7 +179,6 @@
    * - :cspan:`11`
   
        .. image:: ../units/images/portrait/srw4_units_portrait_35.png
-     - :cspan:`5`
    * - :cspan:`11`\ :doc:`07_battle_commander_daimos`
    * - :cspan:`11`\ 加入机体：ダイモス，ガルバーFX II
        加入机师：一矢，京四郎，ナナ
@@ -252,7 +252,7 @@
   
        .. image:: ../units/images/portrait/srw4_units_portrait_1F.png     
    * - :cspan:`11`\ :doc:`14_mazinger_z_flying_in_the_sky`\ 
-   * - :cspan:`11`\ 加入机体：ドリルスペイザー GP-03Sステイメン
+   * - :cspan:`11`\ 加入机体：ドリルスペイザー GP-03ステイメン
 
        加入机师：マリア
 
@@ -554,7 +554,7 @@
       
        加入机师：（ギャブレー）
 
-       替换：GP03-Sステイメン→GP03デンドロビウム   
+       替换：GP-03ステイメン→GP-03デンドロビウム 
    * - :cspan:`5`\  ↙
      - :cspan:`5`\  ↘ 
    * - :cspan:`5`\ クワトロ离队
@@ -641,13 +641,12 @@
    * - :cspan:`5`\  ↙
      - :cspan:`5`\  ↘ 
    * - :cspan:`5`\ 总回合数一定值以内（SRW4 319, SRW4S 349）
-     - :cspan:`5`\ 总回合数一定值以上（SRW4 320, SRW4S 350）
+     - :cspan:`5`\ :rspan:`1` 总回合数一定值以上（SRW4 320, SRW4S 350）
    * - :cspan:`5`\ 加入机体：グランゾン，ウィーゾル改，ノルス・レイ
 
        加入机师：シュウ，サフィーネ，モニカ
 
        (SRW4) 离队：リューネ，テュッティ，ヤンロン
-     - 
    * - :cspan:`5`
   
        .. image:: ../units/images/portrait/srw4_units_portrait_EB.png

@@ -58,7 +58,8 @@ extensions = [
     'edit_on_github',
     'linuxdoc.rstFlatTable',
      'sphinx_reredirects',
-     "sphinxext.rediraffe"
+     "sphinxext.rediraffe",
+     "sphinx_design"
 ]
 edit_on_github_project  = 'jiangsheng/jiangsheng.github.io'
 edit_on_github_url = 'docs/'

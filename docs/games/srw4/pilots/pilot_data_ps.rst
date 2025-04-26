@@ -14,7 +14,7 @@
    
    .. raw:: html
       
-       <a class="toggle-vis" data-column="1">显示1级能力</a>
+       <a class="toggle-vis" data-column="1">显示0级能力</a>
        <a class="toggle-vis" data-column="2">显示99级能力</a>
        <a class="toggle-vis" data-column="3">显示精神和技能</a>
        <a class="toggle-vis" data-column="0">恢复默认</a>
