@@ -26,4 +26,4 @@ Example Code: https://github.com/jiangsheng/Samples/blob/master/IgnoreSsl.
 
 For sample code in providing the service using MFC, check :ref:`Handle NewWindow3 and ShowModalDialog in CHtmlView <blogs_handle_newwindow3_and_showmodaldialog_chtmlview>`. The way to implements IHttpSecurity is similar to how the article exposes the INewWindowManager service to the webbrowser control.
 
-WPF’s WebBrowser class does not provide a public virtual function to change the ActiveX site. You might have to `implement ICustomQueryInterface yourself <https://stackoverflow.com/questions/15515581/why-my-implementation-of-idochostuihandler-is-ignored>`_.
+WPF’s WebBrowser class does not provide a public virtual function to change the ActiveX site. You might have to :ref:`implement ICustomQueryInterface yourself <blog_2023_extend_a_webbrowser_control_using_icustomqueryinterface>`.
