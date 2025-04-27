@@ -546,7 +546,7 @@
    * - 1F
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1F_B.png
-     - マジンガーＺ（Ｊ）
+     - マジンガーＺ（JS）
      - :ref:`魔神Z <srw4_units_mazinger_z>` 
      - 3500
      - 170

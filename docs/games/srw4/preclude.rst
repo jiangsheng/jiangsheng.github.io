@@ -17,15 +17,17 @@
 
    * - 颜
      - 主角姓名
+     - 昵称
      - 生日
      - 血型
      - 性格
      - 恋人
-     - 精神
+     - 默认精神
    * - :rspan:`1`\ 
   
        .. image:: pilots/images/srw4_pilot_renanjess.png
      - :rspan:`1`\ レナンジェス＝スターロード
+     - :rspan:`1`\ ジェス
      - :rspan:`1`\ 7月23日
      - :rspan:`1`\ O
      - :rspan:`1`\ まじめで優しい熱血漢
@@ -38,6 +40,7 @@
 
        .. image:: pilots/images/srw4_pilot_irmgard.png
      - :rspan:`1`\ イルムガルト＝カザハラ
+     -  :rspan:`1`\ イルム
      - :rspan:`1`\ 11月10日
      - :rspan:`1`\ A
      - :rspan:`1`\ 理论家だが异性好き
@@ -50,6 +53,7 @@
 
        .. image:: pilots/images/srw4_pilot_hector.png
      - :rspan:`1`\ ヘクトール＝マディソン
+     - :rspan:`1`\ ヘクトール
      - :rspan:`1`\ 5月4日
      - :rspan:`1`\ AB
      - :rspan:`1`\ ちょっと変な性格
@@ -62,6 +66,7 @@
  
        .. image:: pilots/images/srw4_pilot_erwin.png
      - :rspan:`1`\ アーウィン＝ドースティン
+     - :rspan:`1`\ ウィン
      - :rspan:`1`\ 3月1日
      - :rspan:`1`\ B
      - :rspan:`1`\ クールでニヒル
@@ -74,6 +79,7 @@
 
        .. image:: pilots/images/srw4_pilot_patorisia.png
      - :rspan:`1`\ パトリシア＝ハックマン
+     - :rspan:`1`\ パット
      - :rspan:`1`\ 2月4日
      - :rspan:`1`\ A
      - :rspan:`1`\ 真面目で优しい熱血汉
@@ -86,6 +92,7 @@
 
        .. image:: pilots/images/srw4_pilot_grace.png
      - :rspan:`1`\ グレース＝ウリジン
+     - :rspan:`1`\ グレース
      - :rspan:`1`\ 1月31日
      - :rspan:`1`\ AB
      - :rspan:`1`\ 理论家だが异性好き
@@ -98,6 +105,7 @@
  
        .. image:: pilots/images/srw4_pilot_mina.png
      - :rspan:`1`\ ミーナ＝ライクリング
+     - :rspan:`1`\ ミーナ
      - :rspan:`1`\ 9月21日
      - :rspan:`1`\ O
      - :rspan:`1`\ ちょっと変な性格
@@ -110,6 +118,7 @@
 
        .. image:: pilots/images/srw4_pilot_lynn.png
      - :rspan:`1`\ リン＝マオ
+     - :rspan:`1`\ リン
      - :rspan:`1`\ 4月14日
      - :rspan:`1`\ B
      - :rspan:`1`\ クールでニヒル
@@ -131,7 +140,7 @@
    :file: protagonist_spirit_special.csv
    :header-rows: 1
 
-PS的复刻版的精神设定有所变动
+PS的复刻版的精神设定有所变动。大大减少了集中出现的频率。
 
 .. csv-table:: 主角和恋人精神   
    :file: protagonist_spirit_ps.csv
