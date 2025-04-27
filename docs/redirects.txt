@@ -35,4 +35,3 @@
 "games/srw4/walkthrough/12B-GuyzocksTerror" "games/srw4/walkthrough/12b_guyzock_s_terror" 
 "games/srw4/walkthrough/21_dr_hells_ambition" "games/srw4/walkthrough/21_dr_hell_s_ambition" 
 
-
