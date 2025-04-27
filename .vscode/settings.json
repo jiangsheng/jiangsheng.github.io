@@ -129,5 +129,8 @@
         "zezeenan",
         "Ziege",
         "королд"
-    ]
+    ],
+    "files.exclude": {
+        "**/build/doctrees": true
+    }
 }

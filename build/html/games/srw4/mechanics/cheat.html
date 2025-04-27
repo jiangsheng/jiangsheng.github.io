@@ -295,9 +295,8 @@
 <li class="toctree-l4"><a class="reference internal" href="deploy.html">出击顺序</a></li>
 <li class="toctree-l4"><a class="reference internal" href="love_points.html">恋爱度</a></li>
 <li class="toctree-l4 current"><a class="current reference internal" href="#">修改</a><ul>
-<li class="toctree-l5"><a class="reference internal" href="#id2">第四次金手指</a></li>
-<li class="toctree-l5"><a class="reference internal" href="#id3">芯片修改</a></li>
-<li class="toctree-l5"><a class="reference internal" href="#id4">第四次修改</a></li>
+<li class="toctree-l5"><a class="reference internal" href="#id3">第四次金手指</a></li>
+<li class="toctree-l5"><a class="reference internal" href="#id5">第四次修改</a></li>
 <li class="toctree-l5"><a class="reference internal" href="#s">第四次S金手指</a></li>
 </ul>
 </li>
@@ -428,12 +427,46 @@
                 <article class="bd-article">
                   
   <section id="srw4-cheat">
-<span id="id1"></span><h1>修改 (第四次机器人大战)<a class="headerlink" href="#srw4-cheat" title="Link to this heading">#</a></h1>
+<span id="id1"></span><h1><a class="toc-backref" href="#id15" role="doc-backlink">修改 (第四次机器人大战)</a><a class="headerlink" href="#srw4-cheat" title="Link to this heading">#</a></h1>
+<nav class="contents" id="id2">
+<p class="topic-title">目录</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="#srw4-cheat" id="id15">修改 (第四次机器人大战)</a></p>
+<ul>
+<li><p><a class="reference internal" href="#id3" id="id16">第四次金手指</a></p>
+<ul>
+<li><p><a class="reference internal" href="#id4" id="id17">芯片修改金手指：</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#id5" id="id18">第四次修改</a></p>
+<ul>
+<li><p><a class="reference internal" href="#id6" id="id19">动态修改</a></p>
+<ul>
+<li><p><a class="reference internal" href="#id7" id="id20">人物和机体修改</a></p></li>
+<li><p><a class="reference internal" href="#id8" id="id21">芯片修改</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#id9" id="id22">静态修改</a></p>
+<ul>
+<li><p><a class="reference internal" href="#id10" id="id23">人物修改</a></p></li>
+<li><p><a class="reference internal" href="#id11" id="id24">机体修改</a></p></li>
+<li><p><a class="reference internal" href="#id12" id="id25">精神修改</a></p></li>
+<li><p><a class="reference internal" href="#id13" id="id26">武器修改</a></p></li>
+<li><p><a class="reference internal" href="#id14" id="id27">芯片修改</a></p></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#s" id="id28">第四次S金手指</a></p></li>
+</ul>
+</li>
+</ul>
+</nav>
 <p>用金手指添加机师的时候要注意，按照推荐的真实系和超级系路线走剧情的话（这样打两遍就可以基本走完剧情），真实系到最后有59名机师，58个机体，超级系有55名机师，52个机体。不管走哪条路线，都可以至少添加5名机师，6个机体。不走推荐的路线的话，也可以根据人物机体的加入离开算一下自己想走的路线最后会有多少人物和机体，用64减去最后的数量就是可以利用的空位。</p>
 <p>添加机师会出的问题是一些人物有剧情强制出场。比如如果在一开头把夏亚改出来了，之后走宇宙路线夏亚登场的时候会无限失败，因为改出来的机体和机师会被划到地上分队去，导致这一话夏亚登不了场。在这一话之前把夏亚改到宇宙分队是没有用的，把夏亚改成别的人物才行。</p>
 <p>添加机体会需要连武器数量那一段数据一起改，只添加机体的代码的话，加的机体不能改造。另外游戏需要一些机体离队以腾出空间容纳新加入的机体，如果改掉了会离队的机体，可能导致后面人物加入时没有对应的机体。</p>
-<section id="id2">
-<h2>第四次金手指<a class="headerlink" href="#id2" title="Link to this heading">#</a></h2>
+<section id="id3">
+<h2><a class="toc-backref" href="#id16" role="doc-backlink">第四次金手指</a><a class="headerlink" href="#id3" title="Link to this heading">#</a></h2>
 <ul class="simple">
 <li><p>无限资金 7e105795</p></li>
 <li><p>最大经验 7e0edbff</p></li>
@@ -523,36 +556,13 @@
 <li><p>7E141980 希露姬</p></li>
 </ul>
 </li>
+<li><p>cba18601 断空我移动类型空陆</p></li>
+<li><p>cb973c01 GP03移动类型 空陆</p></li>
+<li><p>cb973d43 GP03地形适应 空海</p></li>
+<li><p>cb973e34 GP03地形适应 陆宇</p></li>
 </ul>
-</section>
-<section id="id3">
-<h2>芯片修改<a class="headerlink" href="#id3" title="Link to this heading">#</a></h2>
-<p>芯片数据分两部分，第一部分为CDF85C开始的数据，每个芯片4字节，共96字节。</p>
-<ul class="simple">
-<li><p>移动力</p></li>
-<li><p>运动性</p></li>
-<li><p>限界</p></li>
-<li><p>装甲/10</p></li>
-</ul>
-<p>例如高性能雷达增加ファティマ效果的代码是</p>
-<div class="line-block">
-<div class="line">CDF85C 02</div>
-<div class="line">CDF85D 12</div>
-<div class="line">CDF85E 14</div>
-</div>
-<p>リペアキット增加ファティマ效果的代码是</p>
-<div class="line-block">
-<div class="line">CDF8B0 02</div>
-<div class="line">CDF8B1 12</div>
-<div class="line">CDF8B2 14</div>
-</div>
-<p>第二部分为CDF8BC开始的数据，每个芯片4字节，共96字节</p>
-<ul class="simple">
-<li><p>HP 2字节</p></li>
-<li><p>添加到装备的机体的技能</p></li>
-<li><p>不明</p></li>
-</ul>
-<p>芯片修改金手指：</p>
+<section id="id4">
+<h3><a class="toc-backref" href="#id17" role="doc-backlink">芯片修改金手指：</a><a class="headerlink" href="#id4" title="Link to this heading">#</a></h3>
 <div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
 <div class="sd-row docutils">
 <div class="sd-col sd-d-flex-row docutils">
@@ -694,10 +704,11 @@ FATIMA</div>
 </div>
 </div>
 </section>
-<section id="id4">
-<h2>第四次修改<a class="headerlink" href="#id4" title="Link to this heading">#</a></h2>
+</section>
 <section id="id5">
-<h3>动态修改<a class="headerlink" href="#id5" title="Link to this heading">#</a></h3>
+<h2><a class="toc-backref" href="#id18" role="doc-backlink">第四次修改</a><a class="headerlink" href="#id5" title="Link to this heading">#</a></h2>
+<section id="id6">
+<h3><a class="toc-backref" href="#id19" role="doc-backlink">动态修改</a><a class="headerlink" href="#id6" title="Link to this heading">#</a></h3>
 <p>基于SFC版本和Snes9x模拟器。因为内存地址在每台计算机上都可能不同，这里给出地址都是基于最容易查找的金钱数值的偏移量。</p>
 <p>借鉴了西XX和BTSG的心得。</p>
 <ul>
@@ -770,7 +781,8 @@ FATIMA</div>
 <li><p>56F   妖精资料    4*5     63 80 00 10     四个字节为一组。含义依次是等级、和谁配对、未知、是否存在。</p></li>
 <li><p>584   武器改造段数                  每半个字节表示一种武器的改造段数</p></li>
 </ul>
-<p>人物和机体修改</p>
+<section id="id7">
+<h4><a class="toc-backref" href="#id20" role="doc-backlink">人物和机体修改</a><a class="headerlink" href="#id7" title="Link to this heading">#</a></h4>
 <p>这里给出地址都是基于最容易查找的当前SP数值的偏移量。注意，机师和机体的数据虽然是连续存放，但是是互不相关的</p>
 <p>偏移(16进制)        说明      长度      建议值(16进制)       备注
 机师数据</p>
@@ -804,8 +816,39 @@ FATIMA</div>
 <li><p>3C    下一个机师的等级显示值     1</p></li>
 </ul>
 </section>
-<section id="id6">
-<h3>静态修改<a class="headerlink" href="#id6" title="Link to this heading">#</a></h3>
+<section id="id8">
+<h4><a class="toc-backref" href="#id21" role="doc-backlink">芯片修改</a><a class="headerlink" href="#id8" title="Link to this heading">#</a></h4>
+<p>芯片数据分两部分，第一部分为CDF85C开始的数据，每个芯片4字节，共96字节。</p>
+<ul class="simple">
+<li><p>移动力</p></li>
+<li><p>运动性</p></li>
+<li><p>限界</p></li>
+<li><p>装甲/10</p></li>
+</ul>
+<p>例如高性能雷达增加ファティマ效果的代码是</p>
+<div class="line-block">
+<div class="line">CDF85C 02</div>
+<div class="line">CDF85D 12</div>
+<div class="line">CDF85E 14</div>
+</div>
+<p>リペアキット增加ファティマ效果的代码是</p>
+<div class="line-block">
+<div class="line">CDF8B0 02</div>
+<div class="line">CDF8B1 12</div>
+<div class="line">CDF8B2 14</div>
+</div>
+<p>第二部分为CDF8BC开始的数据，每个芯片4字节，共96字节</p>
+<ul class="simple">
+<li><p>HP 2字节</p></li>
+<li><p>添加到装备的机体的技能</p></li>
+<li><p>不明</p></li>
+</ul>
+</section>
+</section>
+<section id="id9">
+<h3><a class="toc-backref" href="#id22" role="doc-backlink">静态修改</a><a class="headerlink" href="#id9" title="Link to this heading">#</a></h3>
+<section id="id10">
+<h4><a class="toc-backref" href="#id23" role="doc-backlink">人物修改</a><a class="headerlink" href="#id10" title="Link to this heading">#</a></h4>
 <p>机师数据地址可以通过查找要更改的机师的参数获得。没有默认说明的大小为1字节。</p>
 <ul class="simple">
 <li><p>地形适应 2</p></li>
@@ -821,6 +864,9 @@ FATIMA</div>
 * 切 28
 * 新人类 3E</p></li>
 </ul>
+</section>
+<section id="id11">
+<h4><a class="toc-backref" href="#id24" role="doc-backlink">机体修改</a><a class="headerlink" href="#id11" title="Link to this heading">#</a></h4>
 <p>机体数据可以通过查找要更改的单位的参数获得。例如メタス从移动力到HP的数据为07（移动力）00（陆）0242（地形适应） 12（装甲） 25（运动性）c8（限界）96（EN）0807（HP）。</p>
 <p>没有默认说明的大小为1字节。</p>
 <ul class="simple">
@@ -934,6 +980,9 @@ FATIMA</div>
 <li><p>スーパーガンダム 0BC2BF</p></li>
 <li><p>ヌーベルディザート 0BC423</p></li>
 </ul>
+</section>
+<section id="id12">
+<h4><a class="toc-backref" href="#id25" role="doc-backlink">精神修改</a><a class="headerlink" href="#id12" title="Link to this heading">#</a></h4>
 <p>精神消费位于00B1BD～00B1DC。</p>
 <p>特殊誕生日位于02CD33~02CD4E ：</p>
 <ul class="simple">
@@ -1009,6 +1058,9 @@ FATIMA</div>
 <div class="line">09 01 01 03 0A 09 10 10 0C 14 1E 27　１月２９日Ｂ型</div>
 <div class="line">18 01 09 08 16 0D 15 12 13 1C 1E 27　２月９日Ａ型</div>
 </div>
+</section>
+<section id="id13">
+<h4><a class="toc-backref" href="#id26" role="doc-backlink">武器修改</a><a class="headerlink" href="#id13" title="Link to this heading">#</a></h4>
 <p>武器数据可以通过查找要更改的武器的参数获得。没有特别说明为1字节。</p>
 <ul class="simple">
 <li><p>种类</p>
@@ -1078,9 +1130,14 @@ FATIMA</div>
 <li><p>0000B884　バリアジェネレーター</p></li>
 </ul>
 </section>
+<section id="id14">
+<h4><a class="toc-backref" href="#id27" role="doc-backlink">芯片修改</a><a class="headerlink" href="#id14" title="Link to this heading">#</a></h4>
+<p>参见动态修改的资料。</p>
+</section>
+</section>
 </section>
 <section id="s">
-<h2>第四次S金手指<a class="headerlink" href="#s" title="Link to this heading">#</a></h2>
+<h2><a class="toc-backref" href="#id28" role="doc-backlink">第四次S金手指</a><a class="headerlink" href="#s" title="Link to this heading">#</a></h2>
 <p>31码是Dockstation模拟器的扩展。如果使用其他模拟器，一些一次性追加的31码金手指，比如妖精、人物、机体等，可以用30替换，但是只在游戏开始的时候启用一次，之后存盘并禁用金手指，再读盘。</p>
 <p>强化芯片</p>
 <div class="line-block">
@@ -1270,11 +1327,24 @@ FATIMA</div>
   </div>
   <nav class="bd-toc-nav page-toc" aria-labelledby="pst-page-navigation-heading-2">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">第四次金手指</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">芯片修改</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">第四次修改</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">动态修改</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">静态修改</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">第四次金手指</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">芯片修改金手指：</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">第四次修改</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">动态修改</a><ul class="nav section-nav flex-column">
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id7">人物和机体修改</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id8">芯片修改</a></li>
+</ul>
+</li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id9">静态修改</a><ul class="nav section-nav flex-column">
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id10">人物修改</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id11">机体修改</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id12">精神修改</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id13">武器修改</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id14">芯片修改</a></li>
+</ul>
+</li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#s">第四次S金手指</a></li>
