@@ -3,7 +3,7 @@
 Upgrades (Axis and Allies)
 ============================================
 
-Upgrades give new `attributes <axis_and_allies_attributes>` to affected units and give various bonuses. 
+Upgrades give new :ref:`attributes <axis_and_allies_attributes>` to affected units and give various bonuses. 
 
 .. index:: pair: Axis & Allies; Upgrades
 

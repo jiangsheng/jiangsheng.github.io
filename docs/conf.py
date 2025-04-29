@@ -87,7 +87,7 @@ language = u'zh-CN'
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path .
-exclude_patterns = []
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints"]
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
@@ -120,7 +120,10 @@ html_theme_options = {
 "navbar_persistent": ["search-button"],
 "article_footer_items": ["comments"],
 "navigation_with_keys":True,
-"primary_sidebar_end": ["indices.html", "sidebar-ethical-ads.html"]
+"primary_sidebar_end": ["indices.html", "sidebar-ethical-ads.html"],
+"secondary_sidebar_items": ["page-toc", "edit-this-page", "sourcelink.htm"],
+"show_prev_next": True,
+"back_to_top_button": True,
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -142,16 +145,21 @@ html_sidebars = {
         'globaltoc.html',
         'relations.html',
         #'searchbox.html',
-        'sourcelink.htm',
         ],
     '**': [
-        'globaltoc.html',
-        'relations.html',
+        'relations.html', "sidebar-nav-bs"
         #'searchbox.html',
-        'sourcelink.htm',
         ],
 
 }
+
+html_context = {
+    "github_user": "jiangsheng",
+    "github_repo": "jiangsheng.github.io",
+    "github_version": "main",
+    "doc_path": "docs",
+}
+
 html_baseurl='https://git.jiangsheng.net/build/html/'
 
 # -- Options for HTMLHelp output ---------------------------------------------

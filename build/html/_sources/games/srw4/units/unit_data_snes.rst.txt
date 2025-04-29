@@ -2541,7 +2541,7 @@
    * - 88
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_88_B.png
-     - ヤクトドーガ（青）
+     - ヤクト・ドーガ（青）
      - :ref:`逆袭的夏亚 <srw4_units_ms_gundam_char_s_counterattack>`
      - 3500
      - 180
@@ -2560,7 +2560,7 @@
    * - 89
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_89_B.png
-     - ヤクトドーガ（赤）
+     - ヤクト・ドーガ（赤）
      - :ref:`逆袭的夏亚 <srw4_units_ms_gundam_char_s_counterattack>`
      - 3500
      - 180

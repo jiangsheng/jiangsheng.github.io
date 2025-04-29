@@ -6,7 +6,8 @@
 .. toctree::
    :maxdepth: 0
    :caption: 内容:
-
+   :hidden:
+   
    unit_data_snes
    unit_data_ps
    mobile_suit_gundam
