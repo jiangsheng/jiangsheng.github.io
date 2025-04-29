@@ -9,7 +9,7 @@ The fastest regiment type in the game. Although not the strongest, the mobility 
 
 Each mechanized regiment has a mechanized command vehicle as the officer unit, with the rest of the regiment varies depending on the regiment type. The Japanese and USA command vehicles have an acceleration of 8, double of other countries. The USA command car also has +2 defense. 
 
-Mechanized units (including those included mixed in infantry and tank regiments) have the Vehicle `attribute <axis_and_allies_attributes>` which gives them the following resistances: Gun +40%, Explosive +20%. 
+Mechanized units (including those included mixed in infantry and tank regiments) have the Vehicle :ref:`attribute <axis_and_allies_attributes>` which gives them the following resistances: Gun +40%, Explosive +20%. 
 
 -----------------------
 Halftrack Regiment

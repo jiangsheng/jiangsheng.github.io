@@ -7,54 +7,43 @@
 兜甲児
 --------------------------------
 
-.. flat-table:: 兜甲児
-   :class: text-center, align-items-center, compact, display
-   :fill-cells:
+.. grid:: 
+    :class-container: text-nowrap
 
-   * - .. image:: ../pilots/images/srw4_pilot_50.png
-     - :cspan:`6` 兜甲児
-     - 代码 
-     - 55
-     - 二动等级
-     - 44
-   * - 近攻击
-     - 118+10
-     - 远攻击
-     - 95+10
-     - 回避
-     - 95+10
-     - 命中
-     - 95+5
-     - 直感
-     - 86
-     - 技量
-     - 97+10
-   * - SP
-     - 100
-     - 性格
-     - 超強気	
-     - 空
-     - A
-     - 陆
-     - A
-     - 海
-     - B
-     - 宇
-     - B
-   * - 底力
-     - 1
-   * - ひらめき
-     - 9
-     - 集中
-     - 13
-     - 根性
-     - 1
-     - 必中
-     - 4
-     - 熱血		
-     - 22 
-     - 鉄壁
-     - 24
+    .. grid-item-card::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_55.png
+        
+        | 代码 55
+        | 近攻击 118+10
+        | 远攻击 95+10
+        | 回避 95+10
+        | 命中 95+5
+        | 直感 86
+        | 技量 97+10
+
+    .. grid-item-card::
+        :columns: auto
+
+        | ひらめき 9
+        | 集中 13
+        | 根性 1
+        | 必中 4
+        | 熱血 22
+        | 鉄壁 24(2)
+        | 底力 1
+        
+    .. grid-item-card::
+        :columns: auto
+
+        | SP 100
+        | 性格 超強気	
+        | 空A
+        | 陆A
+        | 海B
+        | 宇B
+        | 二动等级 44
 
 由于\ :doc:`../mechanics/bug`\ ，底力失灵。早期由于驾驶マジンガーZ充当肉盾的原因，等级很容易上去，在魔神系中也是二次行动习得比较早的。
 

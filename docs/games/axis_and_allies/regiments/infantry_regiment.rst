@@ -12,7 +12,7 @@ Infantry
 The cheapest regiment type in the game, good for early game recons, rough :ref:`terrain <axis_and_allies_terrain>` and defensive battles with the heap of entrenchment. 
 Although they are relatively weak, you can improve them with improved machine gun, marksmanship training or entrenchment :ref:`upgrade <axis_and_allies_upgrades>`. 
 
-All infantry units (including those mixed within mechanized and armor regiments) have the Infantry `attribute <axis_and_allies_attributes>` that gives them +20% AP Resistance. They also have one infantry officer in the regiment.
+All infantry units (including those mixed within mechanized and armor regiments) have the Infantry :ref:`attribute <axis_and_allies_attributes>` that gives them +20% AP Resistance. They also have one infantry officer in the regiment.
 
 Tech up when you have 2 full infantry HQs. Even if you are not doing early game rush, the cities you captured in early game will help you up in higher level battles. With maybe the exception being high startup fund multiplayer games.
 
