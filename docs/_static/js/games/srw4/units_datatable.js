@@ -15,7 +15,7 @@ function units_datatable_init(dataTableName)
             [
                 {type: 'hex',targets:  0},
                 {type: 'terrain-movement-type',targets:  14},
-                {type: 'terrain-grade',targets:  [15,16,17,18]},
+                {type: 'rating-grade',targets:  [15,16,17,18]},
                 {targets: 1,orderable: false}
             ]
         }

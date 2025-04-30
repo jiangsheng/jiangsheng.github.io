@@ -53,7 +53,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :cspan:`1` :doc:`../missable`：クワサン
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \：クワサン
    * - .. admonition:: クワサン＝オリビー和ダバ＝マイロード战斗
           :class: attention 
          

@@ -6,7 +6,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :cspan:`2` :doc:`../missable`：生存的ミデア数量
+   * - :cspan:`2` \ :ref:`隐藏要素 <srw4_missable>` \：生存的ミデア数量
    * - .. admonition:: 1
           :class: attention 
 

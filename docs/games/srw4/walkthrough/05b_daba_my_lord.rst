@@ -75,7 +75,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :doc:`../missable`：ジェガン
+   * - \ :ref:`隐藏要素 <srw4_missable>` \：ジェガン
 
    * - .. admonition:: ケーラ＝スゥ（ジェガン）加入
           :class: attention 

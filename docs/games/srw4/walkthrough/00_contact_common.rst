@@ -6,7 +6,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :cspan:`1` :doc:`../missable`：本话和下一话的总回合数
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \：本话和下一话的总回合数
    * - .. admonition:: 15回合以内
           :class: attention 
 

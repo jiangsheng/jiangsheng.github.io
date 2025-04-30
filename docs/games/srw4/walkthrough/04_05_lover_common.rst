@@ -6,7 +6,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :cspan:`1` :doc:`../missable`：沙也加问你是不是有恋人
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \：沙也加问你是不是有恋人
    * - .. admonition:: 有
           :class: attention 
             

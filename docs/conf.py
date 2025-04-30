@@ -124,6 +124,7 @@ html_theme_options = {
 "secondary_sidebar_items": ["page-toc", "edit-this-page", "sourcelink.htm"],
 "show_prev_next": True,
 "back_to_top_button": True,
+"show_nav_level": 0
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -273,7 +274,10 @@ rediraffe_redirects = "redirects.txt"
 
 def insert_javascript_on_page(app, page_name, template_name, context, doctree):
     match page_name:
-        case "games/srw4/units/unit_data_snes"|"games/srw4/units/unit_data_ps"|"games/srw4/pilots/pilot_data_snes"|"games/srw4/pilots/pilot_data_ps":
+        case "games/srw4/units/unit_data_snes"|"games/srw4/units/unit_data_ps"\
+                |"games/srw4/pilots/pilot_data_snes"\
+                |"games/srw4/pilots/pilot_data_ps"\
+                |"games/frontmission/mechanics/pilots":
            app.add_css_file('https://cdn.datatables.net/2.2.2/css/dataTables.bootstrap5.css')
            app.add_css_file('css/datatable_custom.css')           
            app.add_js_file('https://code.jquery.com/jquery-3.7.1.js')
@@ -285,7 +289,8 @@ def insert_javascript_on_page(app, page_name, template_name, context, doctree):
            app.add_js_file('js/games/srw4/units_datatable.js')
         case "games/srw4/pilots/pilot_data_snes"|"games/srw4/pilots/pilot_data_ps":
            app.add_js_file('js/games/srw4/pilots_datatable.js')
-
+        case "games/frontmission/mechanics/pilots":
+           app.add_js_file('js/games/front_mission/pilots.js')
 
 
 def setup(app):

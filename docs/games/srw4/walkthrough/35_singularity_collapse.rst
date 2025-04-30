@@ -85,7 +85,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :doc:`../missable`：[SRW4S]グロフィス＝ラクレイン和主人公交战
+   * - \ :ref:`隐藏要素 <srw4_missable>` \：[SRW4S]グロフィス＝ラクレイン和主人公交战
       
    * - .. admonition:: 是
           :class: attention

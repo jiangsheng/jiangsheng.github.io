@@ -82,7 +82,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :cspan:`1` :doc:`../missable`：ガブスレイ（サラ）
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \：ガブスレイ（サラ）
   
    * - :cspan:`1` 
   
@@ -91,7 +91,7 @@
 
           ガブスレイ（サラ）3/3
    
-   * - :cspan:`1` :doc:`../missable`：是否修复Ｓガンダム
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \：是否修复Ｓガンダム
    * - .. admonition:: 是
           :class: attention 
 

@@ -93,7 +93,7 @@
 .. flat-table::   
    :class: text-center, align-items-center, align-self-center
 
-   * - :cspan:`2` :doc:`../missable`：本话中是否说得了エルピー＝プル和プルツー
+   * - :cspan:`2` \ :ref:`隐藏要素 <srw4_missable>` \：本话中是否说得了エルピー＝プル和プルツー
    * - :cspan:`1` 
   
        .. admonition:: 是

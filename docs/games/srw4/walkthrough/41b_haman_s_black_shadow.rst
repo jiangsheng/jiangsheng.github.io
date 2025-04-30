@@ -42,7 +42,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :doc:`../missable`：GP-02A追加アトミックバズーカ
+   * - \ :ref:`隐藏要素 <srw4_missable>` \：GP-02A追加アトミックバズーカ
    * - .. admonition:: 攻击敌人之前ジュドー＝アーシタ说得ハマーン＝カーン
           :class: attention
 
