@@ -81,7 +81,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :doc:`../missable`：ロザミア
+   * - \ :ref:`隐藏要素 <srw4_missable>` \：ロザミア
       
    * - .. admonition:: 击落α・アジール（ゲーツ＝キャパ）
           :class: attention

@@ -85,7 +85,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :cspan:`2` :doc:`../missable`：ショウ移动到(3,41)
+   * - :cspan:`2` \ :ref:`隐藏要素 <srw4_missable>` \：ショウ移动到(3,41)
    * - .. admonition:: サーバインを修理
           :class: attention 
 

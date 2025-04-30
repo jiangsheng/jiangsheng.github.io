@@ -7,6 +7,7 @@
    :caption: 内容:
    :hidden:
 
+   preclude
    00a_contact_real
    00b_contact_super
    01a_the_beginning_real
@@ -81,7 +82,7 @@
    44b_final_battle_on_mars_shu
 
 
-括号内为可能不加入的\ :doc:`../missable`\ 。
+括号内为可能不加入的\ :ref:`隐藏要素 <srw4_missable>` \ 。
 
 .. grid:: 
     :class-container: sd-d-flex-column, sd-text-center
@@ -89,7 +90,7 @@
     
     .. grid-item-card:: 开始游戏
 
-        :ref:`序幕 <srw4_preclude>`
+        :ref:`序幕 <srw4_walkthrough_preclude>`
 
     .. grid-item-card:: 完成主人公配置
 

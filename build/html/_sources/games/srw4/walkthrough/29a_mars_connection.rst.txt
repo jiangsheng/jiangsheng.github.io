@@ -79,7 +79,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :cspan:`1` :doc:`../missable`：クェス
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \：クェス
   
    * - :cspan:`1` 
   
@@ -88,7 +88,7 @@
 
           クェス 2/2
 
-   * - :cspan:`1` :doc:`../missable`：ダバ＝マイロード说得クワサン＝オリビー
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \：ダバ＝マイロード说得クワサン＝オリビー
    * - :cspan:`1` 
   
        .. admonition:: クワサン
@@ -101,7 +101,7 @@
           キュベレイMk-IIx2（プル和プルツー）3/6
 
           GP-02A追加アトミックバズーカ 3/9
-   * - :cspan:`1` :doc:`../missable`：战后选择
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \：战后选择
    * -
   
        .. admonition:: 保留ヤクト・ドーガ 

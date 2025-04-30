@@ -10,6 +10,7 @@
    :titlesonly:
    
    Misleading Error Message WARNING: All children of a 'grid-row' should be 'grid-item' [design.grid] <misleading_error_all_children_grid_row_should_be_grid_item>
+   Misleading Error Message WARNING: The parent of a 'grid-item' should be a 'grid-row' [design.grid] <misleading_error_parent_grid_item_should_be_grid_row>
    
 Indices and tables
 

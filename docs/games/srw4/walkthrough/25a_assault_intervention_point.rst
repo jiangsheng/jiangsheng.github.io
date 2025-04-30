@@ -94,7 +94,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :cspan:`1` :doc:`../missable`：保留选择
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \：保留选择
    * - .. admonition:: 保留エルガイム 
           :class: attention 
 
@@ -112,7 +112,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :cspan:`1` :doc:`../missable`：ディザード是否在队中
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \：ディザード是否在队中
    * - .. admonition:: ディザード在队中
           :class: attention 
 

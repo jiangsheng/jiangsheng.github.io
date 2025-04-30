@@ -33,6 +33,8 @@
 
     <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=03e43079" />
     <link rel="stylesheet" type="text/css" href="../../../_static/sphinx-design.min.css?v=95c83b7e" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/2.2.2/css/dataTables.bootstrap5.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/css/datatable_custom.css?v=dc939068" />
     <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css?v=cda70fc7" />
   
   <!-- So that users can add custom icons -->
@@ -46,6 +48,11 @@
     <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
     <script async="async" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3710396369816898"></script>
     <script src="../../../_static/design-tabs.js?v=f930bc37"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.bootstrap5.js"></script>
+    <script src="../../../_static/js/games/srw4/datatable_custom.js?v=45d34bf1"></script>
+    <script src="../../../_static/js/games/front_mission/pilots.js?v=b9a42e0a"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'games/frontmission/mechanics/pilots';</script>
     <script src="../../../_static/js/google_analytics_tracker.js?v=ca8723ef"></script>
     <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
@@ -287,8 +294,7 @@
 <nav class="bd-docs-nav bd-links"
      aria-label="Section Navigation">
   <p class="bd-links__title" role="heading" aria-level="1">Section Navigation</p>
-  <div class="bd-toc-item navbar-nav"><p aria-level="2" class="caption" role="heading"><span class="caption-text">内容:</span></p>
-<ul class="current nav bd-sidenav">
+  <div class="bd-toc-item navbar-nav"><ul class="list-caption"><li class="toctree-l0 has-children"><details open><summary><p aria-level="2" class="caption" role="heading"><span class="caption-text">内容:</span></p><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current nav bd-sidenav">
 <li class="toctree-l1 has-children"><a class="reference internal" href="../../axis_and_allies/index.html">Axis and Allies</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
 <li class="toctree-l2"><a class="reference internal" href="../../axis_and_allies/attributes.html">Attributes</a></li>
 <li class="toctree-l2 has-children"><a class="reference internal" href="../../axis_and_allies/buildings/index.html">Buildings</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="simple">
@@ -330,7 +336,6 @@
 </ul>
 </details></li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="../../srw4/index.html">Super Robot Wars 4</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
-<li class="toctree-l2"><a class="reference internal" href="../../srw4/preclude.html">序幕</a></li>
 <li class="toctree-l2 has-children"><a class="reference internal" href="../../srw4/mechanics/index.html">游戏设定</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
 <li class="toctree-l3"><a class="reference internal" href="../../srw4/mechanics/sprit_command.html">精神</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../srw4/mechanics/unit_specialty.html">机体特殊技能</a></li>
@@ -403,6 +408,7 @@
 </ul>
 </details></li>
 <li class="toctree-l2 has-children"><a class="reference internal" href="../../srw4/walkthrough/index.html">攻略流程</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../srw4/walkthrough/preclude.html">序幕</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../srw4/walkthrough/00a_contact_real.html">第零话Ａ 接触 (真实系)</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../srw4/walkthrough/00b_contact_super.html">第零话Ｂ 接触 (超级系)</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../srw4/walkthrough/01a_the_beginning_real.html">第一话Ａ 発端 (真实系)</a></li>
@@ -487,8 +493,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../dragon/index.html">卧龙传</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../fa96/index.html">甲A风云</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../san5/index.html">三国志 V</a></li>
-</ul>
-</div>
+</ul></details></li></ul></div>
 </nav></div>
     </div>
   
@@ -570,295 +575,304 @@
 <p>Pilot levels up when reaching a certain value of total EXP. When level up, the skills the pilot can learn will be displayed. Each pilot has certain thresholds for <a class="reference internal" href="skills.html#front-mission-mechanics-skills"><span class="std std-ref">skills</span></a> to appear. Once a skill has been learned, it cannot be changed, be careful of your selection.</p>
 <p>Generally speaking the earlier joined the better in terms of overall skill set and attributes, the later joined are either too specialized (limited skill set except in one area) or weak, some even with skill slot shortage. You want to actively hold your aces back if you trained them too much, as everyone will be eventually useful.</p>
 <p>In the pilot status window, the password is the data you would enter in the VS play menu of your friend’s game. In this way you can battle your wanzer with your friend.</p>
-<section id="short-lineup">
-<h2>Short lineup<a class="headerlink" href="#short-lineup" title="Link to this heading">#</a></h2>
-<p>Short lineup in the order of damage:</p>
-<p>OCU characters:</p>
-<ul class="simple">
-<li><p>Ryuji Sakata: Short specialist, good for not much else. Somehow can learn 2 Melee skills despite being one of the worse Melee in the game.</p></li>
-<li><p>J.J.: Second best Short. also good at Long. Somehow can learn 2 Melee skills despite being the worse Melee in the game. Joins mission 2. Leaves mission 22. Rejoins mission 25</p></li>
-<li><p>Bobby Hopkins: Rare double ace in Short and Long. Can’t learn First is inconsequential, but can’t earn Dual and Speed hurts (from the skill slot and number of short skill thresholds, he was initially designed to have more short skills) . After mission 11, stop fight after going to military office.</p></li>
-<li><p>Natalie F. Blakewood: Ace Short and OK Long. Can’t learn First. Joins mission 2. Leaves mission 22. Rejoins mission 25</p></li>
-<li><p>Keith Carabell: Melee placeholder until Yang Meihua joins. Short and OK Long afterwards. Joins mission 2. Leaves mission 22. Rejoins mission 25.</p></li>
-<li><p>Alder Weiss: Better train as Short because of the Melee surplus in the game. Starts with Stun. Can’t learn Speed (and other melee skills in the original SNES version). I prefer to learn Dual and Switch instead of Guide or other Melee skills as anyone with the two Short skills can disarm an enemy in one turn. After mission 5, talk in bar, then move to city Menasa, talk in bar, then fight in colosseum.</p></li>
-<li><p>Yang Yeehin: Late to join the party and have to play catchup. Worth the training though. Can’t learn First, Dual or Switch. Joins mission 14.</p></li>
-<li><p>Peewie Richburg Jr.: No other weapons. Supply truck is too important to send to the front line. If money is not an issue (colosseum fight income) then train after battle is decided with the help of flash grenades/acid. if you have to throw a chaff on him you are in trouble. In the original SNES ROM somehow can learn Speed LV3, probably a bug as it cannot be activated and is removed in later releases. Joins mission 6.</p></li>
-<li><p>Yang Meihua: : Melee placeholder until Gregorio joins. Short afterwards. Best at Melee, but better convert to Short as in this game Short rules. She comes with Double, leaving only 2 open skill slots. Her Long damage is the lowest in the game, may not be a good idea to aim for the guide skill. Joins mission 4, talk in military office, then talk &amp; fight in colosseum. Leaves mission 14. Rejoins after mission 14. Her First, if learnt, will start at LV2.</p></li>
-<li><p>Royd/Lloyd Clive: Although an average Short, learning skills early means more damage in early game. Get surpassed in damage output when specialists learnt their skills though.</p></li>
-<li><p>Gentz Weizer: Another Lloyd if not for the serious shortage of skill slots. Starts with Stun and only 2 skill slots, one for Short and one for Guide. Joins mission 23</p></li>
-<li><p>Porunga: A tank that wants to be attacker… and good at neither. Can’t learn Dual, Switch or Guide. Joins with Bobby.</p></li>
-<li><p>Frederick Lancaster: Gain skills very slowly (especially for Melee). Good bait for enemy missileers though. Short is the worse talent for him, and he has the worst Short damage in the game, but he can learn 2 Short skills which is better than some ace Shorts (I am looking at you Bobby). Besides his Melee and Long are just slightly better. With Short so overpowered in the game, even the worst Short in the game gets a nod over Melee or Long. Can’t learn Stun or Dual. Joins mission 3. Leaves mission 20. Opponent mission 22 (upgrade his wanzer for better award). Rejoins after mission 22.</p></li>
-<li><p>Maury/Molly Odonnell : A weak version of Frederick but a useful backup tank for splits. Can’t learn Speed or Guide. Joins after mission 9, Leaves mission 10. Rejoins after mission 10</p></li>
-</ul>
-<p>USN characters:</p>
-<ul class="simple">
-<li><p>Gina Davies: A Short specialist like Ryuji in OCU, comes with Guide. Cannot learn Stun or First. Joins mission 12. Leaves mission 18 and returns mission 20.</p></li>
-<li><p>Johnny Sandars (or Johnny Sanders): A nice Short.  Leaves mission 18 and returns mission 19.</p></li>
-<li><p>Kevin Greenfield: Almost identical to Lloyd in OCU, he is also average, flexible and acquire skills fast.</p></li>
-</ul>
-</section>
-<section id="long-lineup">
-<h2>Long lineup<a class="headerlink" href="#long-lineup" title="Link to this heading">#</a></h2>
-<p>Long lineup in the order of damage</p>
-<p>OCU characters:</p>
-<ul class="simple">
-<li><p>Paul C. Grieber: The best Long in the game. Also double as Short because free talent slots. Frederick level Short though. Can’t learn First, Double or Speed. Talk in bar after mission 5.</p></li>
-<li><p>Hans Goldwin: Second best Long in the game.  Also double as Short because free talent slots. Frederick level Short though. Can’t learn melee skills. Joins after mission 8.</p></li>
-<li><p>Bobby Hopkins: Good missileer and Short, too bad not much Short skills</p></li>
-<li><p>Yang Yeehin: Good missileer and Short, too bad not much Short skills</p></li>
-<li><p>Natalie F.Blakewood,Keith Carabell and J.J. Above average Long.</p></li>
-<li><p>Royd/Lloyd Clive and Gentz Weizer: Average Long.</p></li>
-</ul>
-<p>USN characters:</p>
-<ul class="simple">
-<li><p>Howard Wong: The only good long at the USN side. He’s at Hans level, not Paul’s. Cannot learn Dual or Switch (yikes). Joins mission 4.</p></li>
-<li><p>Kevin Greenfield: he will be an average Long if at the OCU side, but here he is the second best.</p></li>
-</ul>
-</section>
-<section id="melee-lineup">
-<h2>Melee lineup<a class="headerlink" href="#melee-lineup" title="Link to this heading">#</a></h2>
-<p>Melee lineup in the order of damage:</p>
-<p>OCU characters:</p>
-<ul class="simple">
-<li><p>Gregorio Maias: Best Melee in the game, not good for much else. Starts with Stun. Can’t learn Short or Long skills. Skills start at lv2. After mission 8, fight in colosseum, joins after victory.</p></li>
-<li><p>Ralph Dian: Second best Melee in the game. Starts with Stun and Double. No First hurts. Cannot learn Short skills but can learn Guide after the DS port. After mission 16, fight in colosseum.</p></li>
-<li><p>Yang Meihua: Convert to Short after Gregorio joins. If the above 2 can do Short, then they will also be converted. Too bad they don’t have much potential in Short skills like Yang.</p></li>
-<li><p>Keith Carabell: Melee placeholder until Yang Meihua joins. Can get Double early but that’s all he can learn in Melee. His portrait is kind of deceiving. He’s better in Short and Long.</p></li>
-</ul>
-<p>USN characters:</p>
-<ul class="simple">
-<li><p>Matthew D. Lorenzo: A nice Melee but more talented than Yang Meihua in OCU in Short skills. Leaves mission 18 and returns mission 19.</p></li>
-<li><p>Kevin Greenfield, Halle Fiennes, Howard Wong and Ghetta Cedric: Average Melee.</p></li>
-</ul>
-</section>
-<section id="tank-lineup">
-<h2>Tank lineup<a class="headerlink" href="#tank-lineup" title="Link to this heading">#</a></h2>
-<p>Tank lineup in the order of guarding defense:</p>
-<p>OCU characters:</p>
-<ul class="simple">
-<li><p>Frederick Lancaster: Insane agility growth rate</p></li>
-<li><p>Maury/Molly Odonnell: Useful tank in the stage that Frederick joins the enemy and when you need to split.</p></li>
-<li><p>Porunga: In the last stage everyone can join the fight so you may want to train him a little. Somehow he has 5 skill slots, but can only learn skill 3 times. Probably an oversight for the designer. From the skill slot and number of short skill thresholds, he was initially designed to have more short skills.</p></li>
-</ul>
-<p>USN characters:</p>
-<ul class="simple">
-<li><p>Halle Fiennes: Ideally would take the role of Peewie in the OCU side as the repairman. Cannot learn First or Dual. Joins mission 4.</p></li>
-<li><p>Ghetta Cedric: Ideally would take the role of Frederick in the OCU side as the tank. Cannot learn Switch or Speed. Comes with Stun.</p></li>
-</ul>
-<p>Tp=Type M=Melee, S=Short, L=Long, A=Agility G=Generic, T=Tank,SS=Skill Slots</p>
+<p>M=Melee, S=Short, L=Long, A=Agility G=Generic, T=Tank</p>
 <p>Number in the skill column denotes the exp requirement to obtain a new skill. Once the exp requirement is met, the character can choose one of the skills available to the character in the exp category on the next level up bonus screen, unless the skill slots are full or you hacked too many skills in the category.</p>
 <p>15=D+, 20=C, 25=C+, 30=B, 35=B+, 40=A,45=A+, 50=S, 55=S+</p>
-<div class="pst-scrollable-table-container"><table class="table" id="characters">
-<caption><span class="caption-text">Characters</span><a class="headerlink" href="#characters" title="Link to this table">#</a></caption>
+<div class="pst-scrollable-table-container"><table class="table" id="front-mission-characters">
+<caption><span class="caption-text">Characters</span><a class="headerlink" href="#front-mission-characters" title="Link to this table">#</a></caption>
 <thead>
-<tr class="row-odd"><th class="head"><p>Name</p></th>
-<th class="head"><p>Eng. Name</p></th>
-<th class="head"><p>Tp</p></th>
-<th class="head"><p>M</p></th>
-<th class="head"><p>S</p></th>
-<th class="head"><p>L</p></th>
-<th class="head"><p>A</p></th>
+<tr class="row-odd"><th class="head"><p>Call Sign</p></th>
+<th class="head"><p>Type</p></th>
 <th class="head"><p>Melee</p></th>
 <th class="head"><p>Short</p></th>
 <th class="head"><p>Long</p></th>
-<th class="head"><p>SS</p></th>
+<th class="head"><p>Agility</p></th>
+<th class="head"><p>1st Melee</p></th>
+<th class="head"><p>2nd</p></th>
+<th class="head"><p>3rd</p></th>
+<th class="head"><p>1st Short</p></th>
+<th class="head"><p>2nd</p></th>
+<th class="head"><p>3rd</p></th>
+<th class="head"><p>Long</p></th>
+<th class="head"><p>Skill slot</p></th>
+<th class="head"></th>
+<th class="head"></th>
 </tr>
 </thead>
 <tbody>
-<tr class="row-even"><td><p>ロイド・クライブ</p></td>
-<td><p>Royd/Lloyd Clive</p></td>
+<tr class="row-even"><td><p>Royd/Lloyd</p></td>
 <td><p>G</p></td>
 <td><p>B</p></td>
 <td><p>B</p></td>
 <td><p>B</p></td>
 <td><p>B</p></td>
-<td><p>700, 1900, 3500</p></td>
-<td><p>2000, 5000, 7000</p></td>
+<td><p>700</p></td>
+<td><p>1900</p></td>
+<td><p>3500</p></td>
+<td><p>2000</p></td>
+<td><p>5000</p></td>
+<td><p>7000</p></td>
 <td><p>1500</p></td>
 <td><p>5</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-odd"><td><p>坂田竜二</p></td>
-<td><p>Ryuji Sakata</p></td>
+<tr class="row-odd"><td><p>Sakata</p></td>
 <td><p>S</p></td>
 <td><p>D+</p></td>
 <td><p>S+</p></td>
 <td><p>C+</p></td>
 <td><p>C</p></td>
-<td><p>1000, 2300</p></td>
-<td><p>2500, 5500, 8500</p></td>
+<td><p>1000</p></td>
+<td><p>2300</p></td>
+<td></td>
+<td><p>2500</p></td>
+<td><p>5500</p></td>
+<td><p>8500</p></td>
 <td><p>2000</p></td>
 <td><p>5</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-even"><td><p>ナタリー・F・ブレイクウッド</p></td>
-<td><p>Natalie F.Blakewood</p></td>
+<tr class="row-even"><td><p>Natalie</p></td>
 <td><p>S/L</p></td>
 <td><p>C+</p></td>
 <td><p>A</p></td>
 <td><p>B+</p></td>
 <td><p>C</p></td>
-<td><p>1000, 2200</p></td>
-<td><p>3100, 5000, 7000</p></td>
+<td><p>1000</p></td>
+<td><p>2200</p></td>
+<td></td>
+<td><p>3100</p></td>
+<td><p>5000</p></td>
+<td><p>7000</p></td>
 <td><p>1900</p></td>
 <td><p>5</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-odd"><td><p>キース・カラベル</p></td>
-<td><p>Keith Carabell</p></td>
+<tr class="row-odd"><td><p>Keith</p></td>
 <td><p>S/L</p></td>
 <td><p>B</p></td>
 <td><p>A</p></td>
 <td><p>B+</p></td>
 <td><p>D+</p></td>
 <td><p>1200</p></td>
-<td><p>2000, 5000, 7000</p></td>
+<td></td>
+<td></td>
+<td><p>2000</p></td>
+<td><p>5000</p></td>
+<td><p>7000</p></td>
 <td><p>2500</p></td>
 <td><p>5</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-even"><td><p>ジョイナス・ジェリアスカ</p></td>
-<td><p>J.J.</p></td>
+<tr class="row-even"><td><p>J.J.</p></td>
 <td><p>S</p></td>
 <td><p>D</p></td>
 <td><p>A+</p></td>
 <td><p>B+</p></td>
 <td><p>D</p></td>
-<td><p>2000, 3600</p></td>
-<td><p>2000, 5000, 7000</p></td>
+<td><p>2000</p></td>
+<td></td>
+<td></td>
+<td><p>2000</p></td>
+<td><p>5000</p></td>
+<td><p>7000</p></td>
 <td><p>2500</p></td>
 <td><p>5</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-odd"><td><p>フレデリック・ランカスター</p></td>
-<td><p>Frederick Lancaster</p></td>
+<tr class="row-odd"><td><p>Frederick</p></td>
 <td><p>T</p></td>
 <td><p>C+</p></td>
 <td><p>C</p></td>
 <td><p>C+</p></td>
 <td><p>S+</p></td>
-<td><p>3000, 9000</p></td>
-<td><p>5000, 7000</p></td>
+<td><p>3000</p></td>
+<td><p>9000</p></td>
+<td></td>
+<td><p>5000</p></td>
+<td><p>7000</p></td>
+<td></td>
 <td><p>6000</p></td>
 <td><p>4</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-even"><td><p>楊美花, ヤン・メイファ</p></td>
-<td><p>Yang Meihua</p></td>
+<tr class="row-even"><td><p>Yang</p></td>
 <td><p>M/S</p></td>
 <td><p>A+</p></td>
 <td><p>B+</p></td>
 <td><p>D+</p></td>
 <td><p>C+</p></td>
-<td><p>1800, 2800</p></td>
-<td><p>3000, 5000, 7000</p></td>
+<td><p>1800</p></td>
+<td><p>2800</p></td>
+<td></td>
+<td><p>3000</p></td>
+<td><p>5000</p></td>
+<td><p>7000</p></td>
 <td><p>2200</p></td>
 <td><p>3</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-odd"><td><p>ポール・C・グリバー</p></td>
-<td><p>Paul C. Grieber</p></td>
+<tr class="row-odd"><td><p>Paul</p></td>
 <td><p>L</p></td>
 <td><p>C</p></td>
 <td><p>C</p></td>
 <td><p>S+</p></td>
 <td><p>C+</p></td>
 <td><p>3000</p></td>
-<td><p>3000, 5000</p></td>
+<td></td>
+<td></td>
+<td><p>3000</p></td>
+<td><p>5000</p></td>
+<td></td>
 <td><p>1500</p></td>
 <td><p>5</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-even"><td><p>アルダー・ワイス</p></td>
-<td><p>Alder Weiss</p></td>
+<tr class="row-even"><td><p>Alder</p></td>
 <td><p>M/S</p></td>
 <td><p>A</p></td>
 <td><p>A</p></td>
 <td><p>C+</p></td>
 <td><p>D+</p></td>
-<td><p>1500(After SNES)</p></td>
-<td><p>4000, 7000</p></td>
+<td><p>1500</p></td>
+<td></td>
+<td></td>
+<td><p>4000</p></td>
+<td><p>7000</p></td>
+<td></td>
 <td><p>1700</p></td>
 <td><p>3</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-odd"><td><p>ピウィー・リッチバーグ Jr.</p></td>
-<td><p>Peewie Richburg Jr.</p></td>
+<tr class="row-odd"><td><p>Peewie</p></td>
 <td><p>S/T</p></td>
 <td><p>D+</p></td>
 <td><p>B+</p></td>
 <td><p>D+</p></td>
 <td><p>B+</p></td>
 <td></td>
+<td></td>
+<td></td>
 <td><p>2000</p></td>
 <td></td>
+<td></td>
+<td></td>
 <td><p>1</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-even"><td><p>ハンス・ゴルドウィン</p></td>
-<td><p>Hans Goldwin</p></td>
+<tr class="row-even"><td><p>Hans</p></td>
 <td><p>L</p></td>
 <td><p>C+</p></td>
 <td><p>C</p></td>
 <td><p>A+</p></td>
 <td><p>B</p></td>
 <td></td>
-<td><p>2900, 5900, 7900</p></td>
+<td></td>
+<td></td>
+<td><p>2900</p></td>
+<td><p>5900</p></td>
+<td><p>7900</p></td>
 <td><p>900</p></td>
 <td><p>3</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-odd"><td><p>グレゴリオ・マイアス</p></td>
-<td><p>Gregorio Maias</p></td>
+<tr class="row-odd"><td><p>Gregorio</p></td>
 <td><p>M</p></td>
 <td><p>S+</p></td>
 <td><p>C+</p></td>
 <td><p>D+</p></td>
 <td><p>C+</p></td>
-<td><p>1800, 3000</p></td>
+<td><p>1800</p></td>
+<td><p>3000</p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td><p>3</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-even"><td><p>モーリー・オドネル</p></td>
-<td><p>Maury/Molly Odonnell</p></td>
+<tr class="row-even"><td><p>Maury</p></td>
 <td><p>T</p></td>
 <td><p>C+</p></td>
 <td><p>C</p></td>
 <td><p>C</p></td>
 <td><p>A</p></td>
-<td><p>1200, 5500</p></td>
-<td><p>4000, 6000</p></td>
+<td><p>1200</p></td>
+<td><p>5500</p></td>
+<td></td>
+<td><p>4000</p></td>
+<td><p>6000</p></td>
+<td></td>
 <td></td>
 <td><p>4</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-odd"><td><p>ボビー・ホプキンス</p></td>
-<td><p>Bobby Hopkins</p></td>
+<tr class="row-odd"><td><p>Bobby</p></td>
 <td><p>S/L</p></td>
 <td><p>C</p></td>
 <td><p>A</p></td>
 <td><p>A</p></td>
 <td><p>C</p></td>
 <td><p>1300</p></td>
+<td></td>
+<td></td>
 <td><p>2000</p></td>
+<td></td>
+<td></td>
 <td><p>1500</p></td>
 <td><p>3</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-even"><td><p>ポルンガ</p></td>
-<td><p>Porunga</p></td>
+<tr class="row-even"><td><p>Porunga</p></td>
 <td><p>T</p></td>
 <td><p>B</p></td>
 <td><p>B</p></td>
 <td><p>C+</p></td>
 <td><p>B+</p></td>
-<td><p>900, 2200</p></td>
+<td><p>900</p></td>
+<td><p>2200</p></td>
+<td></td>
 <td><p>3000</p></td>
 <td></td>
+<td></td>
+<td></td>
 <td><p>5</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-odd"><td><p>楊一清, ヤン・イーヒン</p></td>
-<td><p>Yang Yeehin</p></td>
+<tr class="row-odd"><td><p>Yeehin</p></td>
 <td><p>S/L</p></td>
 <td><p>C+</p></td>
 <td><p>A</p></td>
 <td><p>B+</p></td>
 <td><p>C</p></td>
-<td><p>2000, 3500</p></td>
-<td><p>4000</p></td>
 <td><p>2000</p></td>
+<td><p>3500</p></td>
+<td></td>
+<td><p>4000</p></td>
+<td></td>
+<td></td>
+<td><p>2600</p></td>
 <td><p>4</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-even"><td><p>ラルフ・ダイアン</p></td>
-<td><p>Ralph Dian</p></td>
+<tr class="row-even"><td><p>Ralph</p></td>
 <td><p>M</p></td>
 <td><p>A+</p></td>
 <td><p>B+</p></td>
@@ -866,149 +880,1314 @@
 <td><p>D+</p></td>
 <td></td>
 <td></td>
-<td><p>2000 (after DS port)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>2000</p></td>
 <td><p>3</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-odd"><td><p>ゲンツ・ヴィーザー</p></td>
-<td><p>Gentz Weizer</p></td>
+<tr class="row-odd"><td><p>Gentz</p></td>
 <td><p>G</p></td>
 <td><p>B</p></td>
 <td><p>B</p></td>
 <td><p>B</p></td>
 <td><p>B</p></td>
 <td></td>
+<td></td>
+<td></td>
 <td><p>3000</p></td>
+<td></td>
+<td></td>
 <td><p>2500</p></td>
 <td><p>2</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-even"><td><p>ケビン・グリーンフィールド</p></td>
-<td><p>Kevin Greenfield</p></td>
+<tr class="row-even"><td><p>Kevin</p></td>
 <td><p>G</p></td>
 <td><p>B</p></td>
 <td><p>B</p></td>
 <td><p>B</p></td>
 <td><p>B</p></td>
-<td><p>1000, 2200, 3500</p></td>
-<td><p>1800, 4800, 7000</p></td>
+<td><p>1000</p></td>
+<td><p>2200</p></td>
+<td><p>3500</p></td>
+<td><p>1800</p></td>
+<td><p>4800</p></td>
+<td><p>7000</p></td>
 <td><p>2000</p></td>
 <td><p>5</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-odd"><td><p>ジョニー・サンダース</p></td>
-<td><p>Johnny Sandars</p></td>
+<tr class="row-odd"><td><p>Johnny</p></td>
 <td><p>S</p></td>
 <td><p>C+</p></td>
 <td><p>A+</p></td>
 <td><p>C+</p></td>
 <td><p>C</p></td>
-<td><p>1100, 2300, 3800</p></td>
-<td><p>1600, 4500, 6500</p></td>
+<td><p>1100</p></td>
+<td><p>2300</p></td>
+<td><p>3800</p></td>
+<td><p>1600</p></td>
+<td><p>4500</p></td>
+<td><p>6500</p></td>
 <td><p>2000</p></td>
 <td><p>5</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-even"><td><p>マシュー・D・ロレンツィオ</p></td>
-<td><p>Matthew D. Lorenzo</p></td>
+<tr class="row-even"><td><p>Matthew</p></td>
 <td><p>M/S</p></td>
 <td><p>A+</p></td>
 <td><p>B+</p></td>
 <td><p>C+</p></td>
 <td><p>C</p></td>
-<td><p>700, 1900, 3500</p></td>
-<td><p>2100, 5100, 8000</p></td>
+<td><p>700</p></td>
+<td><p>1900</p></td>
+<td><p>3500</p></td>
+<td><p>2100</p></td>
+<td><p>5100</p></td>
+<td><p>8000</p></td>
 <td><p>2000</p></td>
 <td><p>5</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-odd"><td><p>ハル・ファインズ</p></td>
-<td><p>Halle Fiennes</p></td>
+<tr class="row-odd"><td><p>Halle</p></td>
 <td><p>T</p></td>
 <td><p>B</p></td>
 <td><p>C+</p></td>
 <td><p>C+</p></td>
 <td><p>A</p></td>
-<td><p>1000, 2200</p></td>
-<td><p>3100, 5000</p></td>
+<td><p>1000</p></td>
+<td><p>2200</p></td>
+<td></td>
+<td><p>3100</p></td>
+<td><p>5000</p></td>
+<td></td>
 <td><p>1900</p></td>
 <td><p>4</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-even"><td><p>ハワード・ウォン</p></td>
-<td><p>Howard Wong</p></td>
+<tr class="row-even"><td><p>Wong</p></td>
 <td><p>L</p></td>
 <td><p>B</p></td>
 <td><p>C</p></td>
 <td><p>A+</p></td>
 <td><p>D+</p></td>
-<td><p>800, 2000</p></td>
+<td><p>800</p></td>
+<td><p>2000</p></td>
+<td></td>
 <td><p>3500</p></td>
+<td></td>
+<td></td>
 <td><p>1500</p></td>
 <td><p>4</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-odd"><td><p>ジーナ</p></td>
-<td><p>Gina Davies</p></td>
+<tr class="row-odd"><td><p>Gina</p></td>
 <td><p>S</p></td>
 <td><p>D+</p></td>
 <td><p>S+</p></td>
 <td><p>C</p></td>
 <td><p>C</p></td>
 <td><p>3000</p></td>
-<td><p>4800, 6500</p></td>
+<td></td>
+<td></td>
+<td><p>4800</p></td>
+<td><p>6500</p></td>
+<td></td>
 <td><p>3000</p></td>
 <td><p>3</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="row-even"><td><p>ゲッタ・セドリック</p></td>
-<td><p>Ghetta Cedric</p></td>
+<tr class="row-even"><td><p>Ghetta</p></td>
 <td><p>M/T</p></td>
 <td><p>B</p></td>
 <td><p>C</p></td>
 <td><p>C</p></td>
 <td><p>B</p></td>
-<td><p>2200, 3500</p></td>
+<td><p>2200</p></td>
+<td><p>3500</p></td>
+<td></td>
 <td><p>5000</p></td>
+<td></td>
+<td></td>
 <td><p>3000</p></td>
 <td><p>3</p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 </div>
+<section id="royd-clive">
+<h2>Royd Clive<a class="headerlink" href="#royd-clive" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: ロイド・クライブ, Lloyd Clive</div>
+<div class="line">Skills slots: 5</div>
+<div class="line">Long Rating: B</div>
+<div class="line">Guide Skill: 1500 exp</div>
+<div class="line">Agility Rating: B</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: B</div>
+<div class="line">First Skill: 700 exp</div>
+<div class="line">Second Skill: 1900 exp</div>
+<div class="line">Third Skill: 3500 exp</div>
+<div class="line">Available Skills: Stun, Double and First</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: B</div>
+<div class="line">First Skill: 2000 exp</div>
+<div class="line">Second Skill: 5000 exp</div>
+<div class="line">Third Skill: 7000 exp</div>
+<div class="line">Available Skills: Duel, Switch and Speed</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Although an average Short, learning skills early means more damage in early game. Get surpassed in damage output when specialists learnt their skills though.</p>
+<p>Can also get Guide fairly early. Although can learn all 3 skills in Melee, better not waste too many skill slots on them. Can take a Double because he has 5 skill slots.</p>
+<p>If you die, the game is most likely over (except OCU first mission), so build up your agility exp despite being an average tank.</p>
+<p>Joins Mission 1.</p>
+</section>
+<section id="ryuji-sakata">
+<h2>Ryuji Sakata<a class="headerlink" href="#ryuji-sakata" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: 坂田竜二, サカタ</div>
+<div class="line">Skills slots: 5</div>
+<div class="line">Long Rating: C+</div>
+<div class="line">Guide Skill: 2000 exp</div>
+<div class="line">Agility Rating: C</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: D+</div>
+<div class="line">First Skill: 1000 exp</div>
+<div class="line">Second Skill: 2300 exp</div>
+<div class="line">Available Skills: Stun, Double and First</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: S+</div>
+<div class="line">First Skill: 2500 exp</div>
+<div class="line">Second Skill: 5500 exp</div>
+<div class="line">Third Skill: 8500 exp</div>
+<div class="line">Available Skills: Duel, Switch and Speed</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Short specialist, good for not much else. Somehow can learn 2 Melee skills despite being one of the worse Melee in the game. You should make room for Short and Long skills and only take one Melee skill.</p>
+<p>Joins Mission 1.</p>
+</section>
+<section id="natalie-f-blakewood">
+<h2>Natalie F. Blakewood<a class="headerlink" href="#natalie-f-blakewood" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: ナタリー・F・ブレイクウッド</div>
+<div class="line">Skills slots: 5</div>
+<div class="line">Long Rating: B+</div>
+<div class="line">Guide Skill: 1900 exp</div>
+<div class="line">Agility Rating: C</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: C+</div>
+<div class="line">First Skill: 1000 exp</div>
+<div class="line">Second Skill: 2200 exp</div>
+<div class="line">Available Skills: Stun and Double</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: A</div>
+<div class="line">First Skill: 3100 exp</div>
+<div class="line">Second Skill: 5000 exp</div>
+<div class="line">Third Skill: 7000 exp</div>
+<div class="line">Available Skills: Duel, Switch and Speed</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Ace Short and OK Long. First Short skill comes slowly but normal after that.</p>
+<p>You should make room for Short and Long skills and only take one Melee skill.</p>
+<p>Joins mission 2. Leaves at mission 22. Rejoins mission 25. If you want to kill Olson max her short exp and skills as much as you can.</p>
+<p>It would be fun to destroy General Blakewood’s wanzer with his daughter. The game is scripted to revive him for the story, so why not take the extra money. Need hover leg and Long weapons for the mission though.</p>
+</section>
+<section id="keith-carabell">
+<h2>Keith Carabell<a class="headerlink" href="#keith-carabell" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: キース・カラベル</div>
+<div class="line">Skills slots: 5</div>
+<div class="line">Joins mission 2. Leaves mission 22. Rejoins mission 25</div>
+<div class="line">Long Rating: B+</div>
+<div class="line">Guide Skill: 2000 exp</div>
+<div class="line">Agility Rating: D+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: B</div>
+<div class="line">First Skill: 1200 exp</div>
+<div class="line">Available Skills: Double</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: A</div>
+<div class="line">First Skill: 2000 exp</div>
+<div class="line">Second Skill: 5000 exp</div>
+<div class="line">Third Skill: 7000 exp</div>
+<div class="line">Available Skills: Duel, Switch and Speed</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Melee placeholder until Yang Meihua joins. Short and OK Long afterwards. Can get Double early but that’s all he can learn in Melee. His portrait is kind of deceiving. He’s better in Short and Long.</p>
+<p>Joins mission 2. Leaves at mission 22. Rejoins mission 25.</p>
+</section>
+<section id="joynas-jeriaska">
+<h2>Joynas Jeriaska<a class="headerlink" href="#joynas-jeriaska" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: J.J., ジョイナス・ジェリアスカ</div>
+<div class="line">Skills slots: 5</div>
+<div class="line">Joins mission 2. Leaves mission 22. Rejoins mission 25</div>
+<div class="line">Long Rating: B+</div>
+<div class="line">Guide Skill: 2500 exp</div>
+<div class="line">Agility Rating: D</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: D</div>
+<div class="line">First Skill: 2000 exp</div>
+<div class="line">Second Skill: 3600 exp</div>
+<div class="line">Available Skills: Stun, Double and First</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: A+</div>
+<div class="line">First Skill: 2000 exp</div>
+<div class="line">Second Skill: 5000 exp</div>
+<div class="line">Third Skill: 7000 exp</div>
+<div class="line">Available Skills: Duel, Switch and Speed</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Second best Short at the OCU side. Also good at Long. Pretty much like Keith, except learning some skills slower and can learn all melee skills. Not that you should convert him to melee, though. He’s the worst Melee in the OCU lineup. You should make room for Short and Long skills and only take one Melee skill.</p>
+<p>Joins mission 2. Leaves at mission 22. Rejoins mission 25.</p>
+</section>
+<section id="frederick-lancaster">
+<h2>Frederick Lancaster<a class="headerlink" href="#frederick-lancaster" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: フレデリック・ランカスター</div>
+<div class="line">Skills slots: 4</div>
+<div class="line">Long Rating: C+</div>
+<div class="line">Guide Skill: 6000 exp</div>
+<div class="line">Agility Rating: S+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: C+</div>
+<div class="line">First Skill: 3000 exp</div>
+<div class="line">Second Skill: 9000 exp</div>
+<div class="line">Available Skills: Double and First</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: C</div>
+<div class="line">First Skill: 5000 exp</div>
+<div class="line">Second Skill: 7000 exp</div>
+<div class="line">Available Skills: Switch and Speed</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Best tank in the game and the others are not even close. Gain skills very slowly (especially for Melee). Good bait for enemy missileers.</p>
+<p>Better convert to Short, despite being the worse talent for him, and he has the worst Short damage in the game, but he can learn 2 Short skills which is better than some ace Shorts (I am looking at you Bobby). Besides his Melee and Long are just slightly better. With Short so overpowered in the game, even the worst Short in the game gets a nod over Melee or Long. Can take one Melee skill because he can only learn Short skills twice.</p>
+<p>Joins after Mission 3. Leaves Mission 20 (remember to upgrade his wanzer for more awards). Enemy Mission 22. Returns after Mission 22.</p>
+</section>
+<section id="yang-meihua">
+<h2>Yang Meihua<a class="headerlink" href="#yang-meihua" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: 楊美花, ヤン・メイファ</div>
+<div class="line">Skills slots: 3, 1 taken</div>
+<div class="line">Long Rating: D+</div>
+<div class="line">Guide Skill: 2200 exp</div>
+<div class="line">Agility Rating: C+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: A+</div>
+<div class="line">First Skill: 1800 exp</div>
+<div class="line">Second Skill: 2800 exp</div>
+<div class="line">Available Skills: Stun, First</div>
+<div class="line">Starts with Double</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: B+</div>
+<div class="line">First Skill: 3000 exp</div>
+<div class="line">Second Skill: 5000 exp</div>
+<div class="line">Third Skill: 7000 exp</div>
+<div class="line">Available Skills: Duel, Switch and Speed</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>To recruit, talk in military office after Mission 4, then talk &amp; fight in colosseum. Leaves Mission 14. Returns after Mission 14.</p>
+<p>Melee placeholder until Gregorio joins. Short afterwards. If Gregorio and Ralph can do Short, then they will also be converted. Too bad they don’t have the potential in Short skills like Yang.</p>
+<p>Best at Melee, but better convert to Short as in this game Short rules. She comes with Double, leaving only 2 open skill slots. Her Long damage is the lowest in the game, may not be a good idea to aim for the guide skill. So Switch and Speed it is.</p>
+<p>Her First, if learnt, will start at level 2.</p>
+</section>
+<section id="paul-c-grieber">
+<h2>Paul C. Grieber<a class="headerlink" href="#paul-c-grieber" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: ポール・C・グリバー</div>
+<div class="line">Skills slots:4</div>
+<div class="line">Long Rating: S+</div>
+<div class="line">Guide Skill: 1500 exp</div>
+<div class="line">Agility Rating: C+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: C</div>
+<div class="line">First Skill: 3000 exp</div>
+<div class="line">Available Skills: Stun</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: C</div>
+<div class="line">First Skill: 3000 exp</div>
+<div class="line">Second Skill: 5000 exp</div>
+<div class="line">Available Skills: Switch and Speed</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>To recruit, talk in bar after mission 5.</p>
+<p>The best Long in the game. Also double as Short because free talent slots and you want to level up further after maxing Long exp. Frederick level Short though.</p>
+</section>
+<section id="alder-weiss">
+<h2>Alder Weiss<a class="headerlink" href="#alder-weiss" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: アルダー・ワイス</div>
+<div class="line">Skills slots: 3, 1 taken</div>
+<div class="line">Long Rating: C+</div>
+<div class="line">Guide Skill: 1700 exp</div>
+<div class="line">Agility Rating: D+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: A</div>
+<div class="line">First Skill (SNES): none</div>
+<div class="line">First Skill (After SNES): 1500 exp</div>
+<div class="line">Available Skills: Double and First</div>
+<div class="line">Starts with Stun</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: A</div>
+<div class="line">First Skill: 4000 exp</div>
+<div class="line">Second Skill: 7000 exp</div>
+<div class="line">Available Skills: Duel and Switch</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>To recruit, talk in bar after mission 5, then move to city Menasa, talk in bar and fight in colosseum.</p>
+<p>Starts with Stun. Better train as Short because of the Short being overpowered in the game. Can’t learn Speed (and other melee skills in the original SNES version). I prefer to learn Dual and Switch instead of Guide or other Melee skills as anyone with the two Short skills can disarm an enemy in one turn.</p>
+</section>
+<section id="peewie-richburg-jr">
+<h2>Peewie Richburg Jr.<a class="headerlink" href="#peewie-richburg-jr" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: ピウィー・リッチバーグ Jr.</div>
+<div class="line">Skills slots: 1</div>
+<div class="line">Long Rating: D+</div>
+<div class="line">Guide Skill: no</div>
+<div class="line">Agility Rating: B+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: D+</div>
+<div class="line">First Skill: none</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: B+</div>
+<div class="line">First Skill: 5120 (SNES 1.0 only)</div>
+<div class="line">First Skill: None (SNES 1.1 and later ports)</div>
+<div class="line">Available Skills: Speed</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>No other weapons but short. Supply truck is too important to send to the front line. If money is not an issue (colosseum fight income) then train after battle is decided with the help of flash grenades/acid. if you have to throw a chaff on him you are in trouble. In the original SNES ROM somehow can learn Speed LV3, probably a bug as it cannot be activated and is removed in later releases. Joins mission 6.</p>
+</section>
+<section id="hans-goldwin">
+<h2>Hans Goldwin<a class="headerlink" href="#hans-goldwin" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: ハンス・ゴルドウィン</div>
+<div class="line">Skills slots: 3</div>
+<div class="line">Long Rating: A+</div>
+<div class="line">Guide Skill: 900 exp</div>
+<div class="line">Agility Rating: B+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: C+</div>
+<div class="line">First Skill: none</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: C</div>
+<div class="line">First Skill: 2900 exp</div>
+<div class="line">Second Skill: 5900 exp</div>
+<div class="line">Third Skill: 7900 exp</div>
+<div class="line">Available Skills: Duel, Switch and Speed</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Second best Long in the game. Also doubles as Short because free talent slots and you want to level up further after maxing Long exp. Frederick level Short though. Can’t learn melee skills. And somehow an average tank, don’t be afraid to close up. Joins after mission 8.</p>
+</section>
+<section id="gregorio-maias">
+<h2>Gregorio Maias<a class="headerlink" href="#gregorio-maias" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: グレゴリオ・マイアス</div>
+<div class="line">Skills slots: 3, 1 taken</div>
+<div class="line">Long Rating: D+</div>
+<div class="line">Guide Skill: no</div>
+<div class="line">Agility Rating: C+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: S+</div>
+<div class="line">First Skill: 1800</div>
+<div class="line">Second Skill: 3000 exp</div>
+<div class="line">Available Skills: Double and First</div>
+<div class="line">Starts with Stun</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: C+</div>
+<div class="line">First Skill: one</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>To recruit, fight in colosseum after mission 8.</p>
+<p>Best Melee in the game, not good for much else. Can’t learn Short or Long skills. Starts with Stun. Skills start at lv2.</p>
+</section>
+<section id="maury-odonnell">
+<h2>Maury Odonnell<a class="headerlink" href="#maury-odonnell" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils" id="front-mission-pilots-maury-odonnell">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: モーリー・オドネル, Molly O’Donnell</div>
+<div class="line">Skills slots: 4</div>
+<div class="line">Long Rating: C</div>
+<div class="line">Guide Skill: no</div>
+<div class="line">Agility Rating: A</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: C+</div>
+<div class="line">First Skill: 1200 exp</div>
+<div class="line">Second Skill: 5500 exp</div>
+<div class="line">Available Skills: Stun, Double and First</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: C</div>
+<div class="line">First Skill: 4000 exp</div>
+<div class="line">Second Skill: 6000 exp</div>
+<div class="line">Available Skills: Duel and Switch</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Useful tank in the stage that Frederick joins the enemy or when you need to split. A weak version of Frederick (purple is a sign of weakness) but a useful backup tank.</p>
+<p>Can’t learn Speed or Guide. Joins after mission 9, Leaves mission 10. Rejoins after mission 10.</p>
+<p>Maury’s strength is her weakness. She gets the best odds in arena. After learning Dual with the secret weapon, ransack the arena for profits.</p>
+</section>
+<section id="bobby-hopkins">
+<h2>Bobby Hopkins<a class="headerlink" href="#bobby-hopkins" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: ボビー・ホプキンス</div>
+<div class="line">Skills slots: 4, 3 usable</div>
+<div class="line">Long Rating: A</div>
+<div class="line">Guide Skill: 1500 exp</div>
+<div class="line">Agility Rating: C</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: A</div>
+<div class="line">First Skill: 1300 exp</div>
+<div class="line">Available Skills: Stun and Double</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: C</div>
+<div class="line">First Skill: 2000 exp</div>
+<div class="line">Available Skills: Switch</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>To recruit, go to military office after mission 11, stop fight.</p>
+<p>Rare double ace in Short and Long. Can’t learn First is inconsequential, but can’t earn Dual and Speed hurts. Have to take a Melee skill for some reason.</p>
+<p>From the skill slot and number of short skill thresholds, he was initially designed to have more short skills.</p>
+</section>
+<section id="porunga">
+<h2>Porunga<a class="headerlink" href="#porunga" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: ポルンガ</div>
+<div class="line">Skills slots: 5, 3 usable</div>
+<div class="line">Long Rating: C+</div>
+<div class="line">Guide Skill: 3000 exp</div>
+<div class="line">Agility Rating: B</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: B</div>
+<div class="line">First Skill: 900 exp</div>
+<div class="line">Second Skill: 2200 exp</div>
+<div class="line">Available Skills: Stun, Double and First</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: B</div>
+<div class="line">First Skill: 3000 exp</div>
+<div class="line">Available Skills: Speed</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Go to military office after mission 11, stop fight.</p>
+<p>A tank that wants to be attacker, and good at neither. Can’t learn Dual, Switch or Guide. Joins with Bobby.</p>
+<p>In the last stage everyone can join the fight so you may want to train him a little.</p>
+<p>Somehow he has 5 skill slots, but can only learn skill 3 times. Probably an oversight for the designer. From the skill slot and number of short skill thresholds, he was initially designed to have more short skills.</p>
+</section>
+<section id="yang-yeehin">
+<h2>Yang Yeehin<a class="headerlink" href="#yang-yeehin" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: 楊一清, ヤン・イーヒン</div>
+<div class="line">Skills slots: 4</div>
+<div class="line">Long Rating: B+</div>
+<div class="line">Guide Skill: 2600 exp</div>
+<div class="line">Agility Rating: C</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: C+</div>
+<div class="line">First Skill: 2000 exp</div>
+<div class="line">Second Skill: 3500 exp</div>
+<div class="line">Available Skills: Stun and Double</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: A</div>
+<div class="line">First Skill: 4000 exp</div>
+<div class="line">Available Skills: Speed</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Good missileer and Short, too bad not much Short skills. Late to join the party and have to play catchup. Worth the training though.</p>
+<p>Can’t learn First, Dual or Switch. Joins mission 14.</p>
+<p>He’s a deserter from the USN. I was expecting him at the USN version of the story but he didn’t show up.</p>
+</section>
+<section id="ralph-dian">
+<h2>Ralph Dian<a class="headerlink" href="#ralph-dian" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: ラルフ・ダイアン</div>
+<div class="line">Skills slots: 3, 2 taken</div>
+<div class="line">Long Rating: C+</div>
+<div class="line">Guide Skill: none (before DS port)</div>
+<div class="line">Guide Skill: 2000 exp (DS and later versions)</div>
+<div class="line">Agility Rating: D+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: A+</div>
+<div class="line">First Skill: none</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: B+</div>
+<div class="line">First Skill: none</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>To recruit, fight in colosseum after mission 16.</p>
+<p>Third best Melee in the OCU side. Starts with Stun and Double. No First hurts. Cannot learn Short skills but can learn Guide after the DS port.</p>
+<p>Yang is a better Melee but she’s too good in Short to not abuse the game imbalance. Ralph would be the second best Melee and the last.</p>
+</section>
+<section id="gentz-weizer">
+<h2>Gentz Weizer<a class="headerlink" href="#gentz-weizer" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: ゲンツ・ヴィーザー</div>
+<div class="line">Skills slots: 2, 1 taken</div>
+<div class="line">Long Rating: B</div>
+<div class="line">Guide Skill: 2500 exp</div>
+<div class="line">Agility Rating: B</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: B</div>
+<div class="line">First Skill: none</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: B+</div>
+<div class="line">First Skill: 3000 exp</div>
+<div class="line">Available Skill: Duel, Switch and Speed</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Another Lloyd if not for the serious shortage of skill slots. Starts with Stun and only 2 skill slots, which means you need to choose between a Short skill and Guide, the choice is obvious. Joins mission 23.</p>
+</section>
+<section id="kevin-greenfield">
+<h2>Kevin Greenfield<a class="headerlink" href="#kevin-greenfield" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: ケビン・グリーンフィールド</div>
+<div class="line">Skills slots: 5</div>
+<div class="line">Long Rating: B</div>
+<div class="line">Guide Skill: 2000 exp</div>
+<div class="line">Agility Rating: B</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: B</div>
+<div class="line">First Skill: 1000 exp</div>
+<div class="line">Second Skill: 2200 exp</div>
+<div class="line">Third Skill: 3500 exp</div>
+<div class="line">Available Skills: Stun, Double and First</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: B</div>
+<div class="line">First Skill: 1800 exp</div>
+<div class="line">Second Skill: 4800 exp</div>
+<div class="line">Third Skill: 7000 exp</div>
+<div class="line">Available Skills: Duel, Switch and Speed</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Almost identical to Lloyd at the OCU side, he is also B on everything, flexible and acquire skills fast.</p>
+<p>He would be an average Long if at the OCU side, but here he is the second best.</p>
+</section>
+<section id="johnny-sandars">
+<h2>Johnny Sandars<a class="headerlink" href="#johnny-sandars" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: ジョニー・サンダース, Johnny Sanders</div>
+<div class="line">Skills slots: 5</div>
+<div class="line">Long Rating: C+</div>
+<div class="line">Guide Skill: 2000 exp</div>
+<div class="line">Agility Rating: C</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: C+</div>
+<div class="line">First Skill: 1100 exp</div>
+<div class="line">Second Skill: 2300 exp</div>
+<div class="line">Third Skill: 3800 exp</div>
+<div class="line">Available Skills: Stun, Double and First</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: A+</div>
+<div class="line">First Skill: 1600 exp</div>
+<div class="line">Second Skill: 4500 exp</div>
+<div class="line">Third Skill: 6500 exp</div>
+<div class="line">Available Skills: Duel, Switch and Speed</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>A nice Short. Somehow can learn Melee skills 3 times. Leaves mission 18 and returns mission 19.</p>
+</section>
+<section id="matthew-d-lorenzo">
+<h2>Matthew D. Lorenzo<a class="headerlink" href="#matthew-d-lorenzo" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: マシュー・D・ロレンツィオ</div>
+<div class="line">Skills slots: 5</div>
+<div class="line">Long Rating: C+</div>
+<div class="line">Guide Skill: 2000 exp</div>
+<div class="line">Agility Rating: C</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: A+</div>
+<div class="line">First Skill: 700 exp</div>
+<div class="line">Second Skill: 1900 exp</div>
+<div class="line">Third Skill: 3500 exp</div>
+<div class="line">Available Skills: Stun, Double and First</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: B+</div>
+<div class="line">First Skill: 2100 exp</div>
+<div class="line">Second Skill: 5100 exp</div>
+<div class="line">Third Skill: 8000 exp</div>
+<div class="line">Available Skills: Duel, Switch and Speed</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>A nice Melee but more talented than Yang Meihua in OCU in skill slots, which means he can learn all Short skills.</p>
+<p>Joins Mission 1. Leaves mission 18 and returns mission 19.</p>
+</section>
+<section id="halle-fiennes">
+<h2>Halle Fiennes<a class="headerlink" href="#halle-fiennes" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: ハル・ファインズ</div>
+<div class="line">Skills slots: 4</div>
+<div class="line">Long Rating: C+</div>
+<div class="line">Guide Skill: 1900 exp</div>
+<div class="line">Agility Rating: A</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: B</div>
+<div class="line">First Skill: 1000 exp</div>
+<div class="line">Second Skill: 2200 exp</div>
+<div class="line">Available Skills: Stun and Double</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: C+</div>
+<div class="line">First Skill: 3100 exp</div>
+<div class="line">Second Skill: 5100 exp</div>
+<div class="line">Available Skills: Switch, Speed</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Joining early and least talented in Short or Long means he would be carrying the Riff and act as a healer/supplier.</p>
+<p>Average Melee but cannot learn First is fatal flaw for him to work as a fighter in late game, so just level up in Short and Agility.</p>
+<p>Joins mission 4.</p>
+</section>
+<section id="howard-wong">
+<h2>Howard Wong<a class="headerlink" href="#howard-wong" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: ハワード・ウォン, Howord Won</div>
+<div class="line">Skills slots: 4</div>
+<div class="line">Long Rating: A+</div>
+<div class="line">Guide Skill: 1500 exp</div>
+<div class="line">Agility Rating: D+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: B</div>
+<div class="line">First Skill: 800 exp</div>
+<div class="line">Second Skill: 2000 exp</div>
+<div class="line">Available Skills: Stun, Double and First</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: C</div>
+<div class="line">First Skill: 3500 exp</div>
+<div class="line">Available Skills: Switch, Speed</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>The only good long at the USN side. He’s at Hans level, not Paul’s, and unlike the OCU Longs, his agility is the lowest in the game.</p>
+<p>He’s also an average Melee but the same can be said for half of the team.</p>
+<p>Cannot learn Dual or Switch (yikes). Joins Mission 4. Leaves Mission 18. Returns after Mission 19.</p>
+</section>
+<section id="gina">
+<h2>Gina<a class="headerlink" href="#gina" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: ジーナ</div>
+<div class="line">Skills slots: 3, 1 taken</div>
+<div class="line">Long Rating: C</div>
+<div class="line">Guide Skill: 3000 exp</div>
+<div class="line">Agility Rating: C</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: D+</div>
+<div class="line">First Skill: 3000 exp</div>
+<div class="line">Available Skills: Double</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: S+</div>
+<div class="line">First Skill: 4800 exp</div>
+<div class="line">First Skill: 6500 exp</div>
+<div class="line">Available Skills: Switch, Speed</div>
+<div class="line">Starts with Duel</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>A Short specialist like Ryuji in OCU, comes with Guide. Cannot learn Stun or First. Joins mission 12. Leaves mission 18 and returns mission 20.</p>
+</section>
+<section id="ghetta-cedric">
+<h2>Ghetta Cedric<a class="headerlink" href="#ghetta-cedric" title="Link to this heading">#</a></h2>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Other Names: ゲッタ・セドリック</div>
+<div class="line">Skills slots: 3, 1 taken</div>
+<div class="line">Long Rating: C</div>
+<div class="line">Guide Skill: 3000 exp</div>
+<div class="line">Agility Rating: B</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Melee Rating: B</div>
+<div class="line">First Skill: 2200 exp</div>
+<div class="line">First Skill: 3500  exp</div>
+<div class="line">Available Skills: Double and First</div>
+<div class="line">Starts with Stun</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-auto sd-col-xs-auto sd-col-sm-auto sd-col-md-auto sd-col-lg-auto docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<div class="line-block">
+<div class="line">Short Rating: C</div>
+<div class="line">First Skill: 5000 exp</div>
+<div class="line">Available Skills: Duel</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Backup tank and fighter. Cannot learn Switch or Speed. Comes with Stun. Join after mission 16.</p>
 <script>
-   DataTable.ext.type.order['weapon-grade-pre'] = function (d) {
-      switch (d) {
-         case '<p>D</p>':
-               return 1;
-         case '<p>D+</p>':
-               return 2;
-         case '<p>C</p>':
-               return 3;
-         case '<p>C+</p>':
-               return 4;
-         case '<p>B</p>':
-               return 5;
-         case '<p>B+</p>':
-               return 6;
-         case '<p>A</p>':
-               return 7;
-         case '<p>A+</p>':
-               return 8;
-         case '<p>S</p>':
-               return 9;
-         case '<p>S+</p>':
-               return 10;            }
-      return 0;
-   };
-   $(document).ready( function () {
-      new DataTable('#characters',
-      {
-         paging: false,
-         searching: false,
-         info: false,
-         scrollX: "100%",
-         fixedHeader: true
-         columnDefs: [
-            {
-                  type: 'weapon-grade',
-                  targets:  [3,4,5,6]
-            }
-         ]
-      });
-   });
+  front_mission_pilot_table_init('front-mission-characters');
 </script></section>
 </section>
 
@@ -1075,10 +2254,31 @@
   </div>
   <nav class="bd-toc-nav page-toc" aria-labelledby="pst-page-navigation-heading-2">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#short-lineup">Short lineup</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#long-lineup">Long lineup</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#melee-lineup">Melee lineup</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tank-lineup">Tank lineup</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#royd-clive">Royd Clive</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ryuji-sakata">Ryuji Sakata</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#natalie-f-blakewood">Natalie F. Blakewood</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#keith-carabell">Keith Carabell</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#joynas-jeriaska">Joynas Jeriaska</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#frederick-lancaster">Frederick Lancaster</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#yang-meihua">Yang Meihua</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#paul-c-grieber">Paul C. Grieber</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#alder-weiss">Alder Weiss</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#peewie-richburg-jr">Peewie Richburg Jr.</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hans-goldwin">Hans Goldwin</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#gregorio-maias">Gregorio Maias</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#maury-odonnell">Maury Odonnell</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#bobby-hopkins">Bobby Hopkins</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#porunga">Porunga</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#yang-yeehin">Yang Yeehin</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ralph-dian">Ralph Dian</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#gentz-weizer">Gentz Weizer</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#kevin-greenfield">Kevin Greenfield</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#johnny-sandars">Johnny Sandars</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#matthew-d-lorenzo">Matthew D. Lorenzo</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#halle-fiennes">Halle Fiennes</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#howard-wong">Howard Wong</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#gina">Gina</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ghetta-cedric">Ghetta Cedric</a></li>
 </ul>
   </nav></div>
 

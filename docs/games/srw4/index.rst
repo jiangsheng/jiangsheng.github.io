@@ -11,12 +11,11 @@
    :caption: 内容:
    :hidden:
 
-   preclude
    mechanics/index 
    pilots/index
    units/index
    walkthrough/index
-   missable
+   隐藏要素 <missable>
    
 第三次超级机器人大战之后，三个月过去了…… 
 
@@ -34,5 +33,5 @@
 
 于是，战乱的火焰在这里燃烧，也许，这就是超级机器人们命中注定的最后一战。
 
-在开始的时候，需要\ :doc:`自定义主角<preclude>`\ 。注意主角的选择影响\ :doc:`missable`。然后进入\ :doc:`游戏进程 <walkthrough/index>`\ 。
+在开始的时候，需要\ :ref:`自定义主角 <srw4_walkthrough_preclude>`\ 。注意主角的选择影响\ :ref:`隐藏要素 <srw4_missable>` \ 。然后进入\ :doc:`游戏进程 <walkthrough/index>`\ 。
 

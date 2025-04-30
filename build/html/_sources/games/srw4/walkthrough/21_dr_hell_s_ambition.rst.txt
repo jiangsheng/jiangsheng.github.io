@@ -98,7 +98,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :cspan:`1` :doc:`../missable`：ザク改或者ジェガン离队
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \：ザク改或者ジェガン离队
    * - .. admonition:: ジェガンをとっておく
           :class: attention 
 

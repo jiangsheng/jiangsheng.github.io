@@ -82,7 +82,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :doc:`../missable`：[SRW4S]第六回合ゲスト３将軍全部健在
+   * - \ :ref:`隐藏要素 <srw4_missable>` \：[SRW4S]第六回合ゲスト３将軍全部健在
       
    * - .. admonition:: 是
           :class: attention
@@ -112,7 +112,7 @@
 .. flat-table::   
    :class: text-center, align-items-center, align-self-center
 
-   * - :cspan:`2` :doc:`../missable`：エルピー＝プル和プルツー是否在队中
+   * - :cspan:`2` \ :ref:`隐藏要素 <srw4_missable>` \：エルピー＝プル和プルツー是否在队中
    * - :cspan:`1` 
   
        .. admonition:: 是

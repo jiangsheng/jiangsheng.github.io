@@ -74,7 +74,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :cspan:`1` :doc:`../missable`：ダバ说得レッシィ
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \：ダバ说得レッシィ
    * - .. admonition:: 是
           :class: attention 
 

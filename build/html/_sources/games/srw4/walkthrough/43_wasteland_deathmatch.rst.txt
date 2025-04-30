@@ -84,7 +84,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :cspan:`1` :doc:`../missable`：シュウ＝シラカワ
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \：シュウ＝シラカワ
    * - .. admonition:: 总回合数在（[SRW4]319，[SRW4S]349）以内
           :class: attention 
 

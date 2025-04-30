@@ -96,7 +96,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :cspan:`1` :doc:`../missable`：路线选择
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \：路线选择
    * - .. admonition:: 本隊
           :class: attention 
 

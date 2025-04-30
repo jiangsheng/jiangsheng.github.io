@@ -90,7 +90,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :doc:`../missable`：GP-02A（ガトー）
+   * - \ :ref:`隐藏要素 <srw4_missable>` \：GP-02A（ガトー）
    * - .. admonition:: 保护ガトー不被击坠
           :class: attention
 
@@ -102,7 +102,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :cspan:`11` :doc:`../missable`：ヴァルシオーネR（リューネ）
+   * - :cspan:`11` \ :ref:`隐藏要素 <srw4_missable>` \：ヴァルシオーネR（リューネ）
   
    * - :rspan:`2` :cspan:`3`
   

@@ -1,4 +1,4 @@
-﻿.. _srw4_preclude:
+﻿.. _srw4_walkthrough_preclude:
 
 序幕
 =====================================
@@ -33,7 +33,7 @@
      - 默认精神
    * - :rspan:`1`\ 
   
-       .. image:: pilots/images/srw4_pilot_renanjess.png
+       .. image:: ../pilots/images/srw4_pilot_renanjess.png
      - :rspan:`1`\ レナンジェス＝スターロード
      - :rspan:`1`\ ジェス
      - :rspan:`1`\ 7月23日
@@ -41,12 +41,12 @@
      - :rspan:`1`\ まじめで優しい熱血漢
      - :rspan:`1`\ 
   
-       .. image:: pilots/images/srw4_pilot_mina.png
+       .. image:: ../pilots/images/srw4_pilot_mina.png
      - SFC版：幸運、ひらめき、集中、根性
    * - PS版：幸運、必中、集中、ひらめき
    * - :rspan:`1`\ 
 
-       .. image:: pilots/images/srw4_pilot_irmgard.png
+       .. image:: ../pilots/images/srw4_pilot_irmgard.png
      - :rspan:`1`\ イルムガルト＝カザハラ
      -  :rspan:`1`\ イルム
      - :rspan:`1`\ 11月10日
@@ -54,12 +54,12 @@
      - :rspan:`1`\ 理论家だが异性好き
      - :rspan:`1`\ 
 
-       .. image:: pilots/images/srw4_pilot_lynn.png
+       .. image:: ../pilots/images/srw4_pilot_lynn.png
      - SFC 版：幸運、加速、ひらめき、必中
    * - PS版：幸運、必中、ひらめき、加速
    * - :rspan:`1`\ 
 
-       .. image:: pilots/images/srw4_pilot_hector.png
+       .. image:: ../pilots/images/srw4_pilot_hector.png
      - :rspan:`1`\ ヘクトール＝マディソン
      - :rspan:`1`\ ヘクトール
      - :rspan:`1`\ 5月4日
@@ -67,12 +67,12 @@
      - :rspan:`1`\ ちょっと変な性格
      - :rspan:`1`\ 
 
-       .. image:: pilots/images/srw4_pilot_patorisia.png
+       .. image:: ../pilots/images/srw4_pilot_patorisia.png
      - SFC 版：幸運、探索、信頼、再動
    * - PS版：幸運、必中、ひらめき、復活
    * - :rspan:`1`\ 
  
-       .. image:: pilots/images/srw4_pilot_erwin.png
+       .. image:: ../pilots/images/srw4_pilot_erwin.png
      - :rspan:`1`\ アーウィン＝ドースティン
      - :rspan:`1`\ ウィン
      - :rspan:`1`\ 3月1日
@@ -80,12 +80,12 @@
      - :rspan:`1`\ クールでニヒル
      - :rspan:`1`\ 
 
-       .. image:: pilots/images/srw4_pilot_grace.png
+       .. image:: ../pilots/images/srw4_pilot_grace.png
      - SFC 版：幸運、加速、威圧、覚醒
    * - PS版：幸運、必中、加速、再動
    * - :rspan:`1`\ 
 
-       .. image:: pilots/images/srw4_pilot_patorisia.png
+       .. image:: ../pilots/images/srw4_pilot_patorisia.png
      - :rspan:`1`\ パトリシア＝ハックマン
      - :rspan:`1`\ パット
      - :rspan:`1`\ 2月4日
@@ -93,12 +93,12 @@
      - :rspan:`1`\ 真面目で优しい熱血汉
      - :rspan:`1`\ 
 
-       .. image:: pilots/images/srw4_pilot_hector.png
+       .. image:: ../pilots/images/srw4_pilot_hector.png
      - SFC 版：幸運、ひらめき、てかげん、友情
    * - PS版：幸運、必中、ひらめき、復活
    * - :rspan:`1`\ 
 
-       .. image:: pilots/images/srw4_pilot_grace.png
+       .. image:: ../pilots/images/srw4_pilot_grace.png
      - :rspan:`1`\ グレース＝ウリジン
      - :rspan:`1`\ グレース
      - :rspan:`1`\ 1月31日
@@ -106,12 +106,12 @@
      - :rspan:`1`\ 理论家だが异性好き
      - :rspan:`1`\ 
   
-       .. image:: pilots/images/srw4_pilot_erwin.png
+       .. image:: ../pilots/images/srw4_pilot_erwin.png
      - SFC 版：幸運、ひらめき、集中、必中
    * - PS版：魂、必中、ひらめき、覚醒
    * - :rspan:`1`\ 
  
-       .. image:: pilots/images/srw4_pilot_mina.png
+       .. image:: ../pilots/images/srw4_pilot_mina.png
      - :rspan:`1`\ ミーナ＝ライクリング
      - :rspan:`1`\ ミーナ
      - :rspan:`1`\ 9月21日
@@ -119,12 +119,12 @@
      - :rspan:`1`\ ちょっと変な性格
      - :rspan:`1`\ 
 
-       .. image:: pilots/images/srw4_pilot_renanjess.png
+       .. image:: ../pilots/images/srw4_pilot_renanjess.png
      - SFC 版：幸運、ひらめき、集中、必中
    * - PS版：幸運、必中、ひらめき、信頼
    * - :rspan:`1`\ 
 
-       .. image:: pilots/images/srw4_pilot_lynn.png
+       .. image:: ../pilots/images/srw4_pilot_lynn.png
      - :rspan:`1`\ リン＝マオ
      - :rspan:`1`\ リン
      - :rspan:`1`\ 4月14日
@@ -132,7 +132,7 @@
      - :rspan:`1`\ クールでニヒル
      - :rspan:`1`\ 
  
-       .. image:: pilots/images/srw4_pilot_irmgard.png
+       .. image:: ../pilots/images/srw4_pilot_irmgard.png
      - SFC 版：幸運、集中、探索、激怒
    * - PS版：幸運、必中、集中、ひらめき
 
@@ -171,13 +171,13 @@ PS的复刻版的精神设定有所变动。大大减少了集中出现的频率
 .. flat-table:: 
    :class: text-center, align-items-center
 
-   * - :cspan:`1` :doc:`missable`：主人公系别选择
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \：主人公系别选择
    * - .. admonition:: 真实系
           :class: attention
    
-          [SRW4S] 第一话会进入\ :doc:`walkthrough/00a_contact_real`\ 
+          [SRW4S] 第一话会进入\ :doc:`00a_contact_real`\ 
 
-          [SRW4] 第一话会进入\ :doc:`walkthrough/01a_the_beginning_real`\ 
+          [SRW4] 第一话会进入\ :doc:`01a_the_beginning_real`\ 
 
           ガブスレイ（サラ） 1/3
 
@@ -201,8 +201,8 @@ PS的复刻版的精神设定有所变动。大大减少了集中出现的频率
      - .. admonition:: 超级系
           :class: attention
 
-          [SRW4S] 第一话会进入\ :doc:`walkthrough/01b_the_beginning_super`\ 
+          [SRW4S] 第一话会进入\ :doc:`01b_the_beginning_super`\ 
 
-          [SRW4] 第一话会进入\ :doc:`walkthrough/00b_contact_super`\ 
+          [SRW4] 第一话会进入\ :doc:`00b_contact_super`\ 
 
           ダイモス追加武器 1/1

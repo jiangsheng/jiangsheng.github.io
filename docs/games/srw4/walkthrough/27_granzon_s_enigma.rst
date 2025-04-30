@@ -104,7 +104,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :cspan:`1` :doc:`../missable`：マサキ是否临时加入
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \：マサキ是否临时加入
    * - .. admonition:: マサキ加入
           :class: attention
 

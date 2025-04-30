@@ -69,7 +69,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :cspan:`1` :doc:`../missable`：是否说得フォウ
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \：是否说得フォウ
    * - .. admonition:: 说得フォウ
           :class: attention
 
@@ -94,7 +94,7 @@
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :cspan:`1` :doc:`../missable`：クワトロ
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \：クワトロ
    * - .. admonition:: クワトロ离队
           :class: attention
 
@@ -117,7 +117,7 @@
 其他
 -------------
 
-本话对游戏进程有很大影响，参考\ :doc:`../missable`。
+本话对游戏进程有很大影响，参考\ \ :ref:`隐藏要素 <srw4_missable>` \。
 
 战斗之后，ロンド・ベル队快速撤离Dakar。虽然連邦評議会肯定会驱逐那些腐败的成员，但是这需要时间，在这之前，ロンド・ベル队仍然被认为是叛徒。如果ブレックス＝フォーラ被枪杀，那么クワトロ＝バジーナ离开你的部队 就任エゥーゴ司令官。
 

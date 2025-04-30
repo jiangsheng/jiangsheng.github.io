@@ -10,7 +10,7 @@ Dakar事件导致ノイエＤＣ加强了活动，ＤＣ和ゲスト的联军也
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :cspan:`1` \ :doc:`../missable`\ ：[SRW4]选择支援エゥーゴ的部队
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \ ：[SRW4]选择支援エゥーゴ的部队
    * - .. admonition:: コンバトラーＶ
           :class: attention
 
@@ -92,7 +92,7 @@ Dakar事件导致ノイエＤＣ加强了活动，ＤＣ和ゲスト的联军也
 .. flat-table::   
    :class: text-center, align-items-center
 
-   * - :cspan:`1` :doc:`../missable`：ロザミア    
+   * - :cspan:`1` \ :ref:`隐藏要素 <srw4_missable>` \：ロザミア    
    * - .. admonition:: ロザミア出战      
           :class: attention
 

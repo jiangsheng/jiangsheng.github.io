@@ -61,7 +61,7 @@
 .. flat-table::   
    :class: text-center, align-items-center, align-self-center
 
-   * - :cspan:`2` :doc:`../missable`：クワサン   * 
+   * - :cspan:`2` \ :ref:`隐藏要素 <srw4_missable>` \：クワサン   * 
    * - :cspan:`2` 
 
        .. admonition:: ダバ＝マイロード说得クワサン＝オリビー
@@ -75,7 +75,7 @@
           
           GP-02A追加アトミックバズーカ 6/9
 
-   * - :cspan:`2` :doc:`../missable`：アシュラテンプル（ギャブレー）
+   * - :cspan:`2` \ :ref:`隐藏要素 <srw4_missable>` \：アシュラテンプル（ギャブレー）
   
    * - :cspan:`1`
   
@@ -90,7 +90,7 @@
           
           GP-02A追加アトミックバズーカ 7/9
 
-          :doc:`../missable`：\ :doc:`41_scattered_on_axis`\ 之后选择是否去甘泉镇
+          \ :ref:`隐藏要素 <srw4_missable>` \：\ :doc:`41_scattered_on_axis`\ 之后选择是否去甘泉镇
                   
      - :rspan:`2`
   
