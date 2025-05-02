@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=zh-Hans:  
+       第四次超级机器人大战攻略流程 第一话Ａ 発端 (真实系)
+       
 .. _srw4_walkthrough_01a_the_beginning_real:
 
 第一话Ａ 発端 (真实系)

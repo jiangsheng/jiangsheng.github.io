@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=zh-Hans:  
+       第四次超级机器人大战攻略流程 第二话Ａ 謎の訪問者 (速)
+       
 .. _srw4_walkthrough_02a_enigmatic_visitors_fast:
 
 第二话Ａ 謎の訪問者 (速)
@@ -14,7 +18,7 @@
 
 作战目的：ダバ生存
 
-跳关代码：0x01
+跳关代码：0x01.
 
 ------------------
 我方初始配置：

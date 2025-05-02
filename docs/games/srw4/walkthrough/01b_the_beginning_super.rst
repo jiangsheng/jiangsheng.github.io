@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=zh-Hans:  
+       第四次超级机器人大战攻略流程 第一话Ｂ 発端 (超级系)
+       
 .. _srw4_walkthrough_01b_the_beginning_super:
 
 第一话Ｂ 発端 (超级系)

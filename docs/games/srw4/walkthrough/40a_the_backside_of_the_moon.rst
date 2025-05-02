@@ -89,34 +89,40 @@
 
 注意本话是42话之前A队培养的最后机会，应该尽可能训练出能够二次行动的队员。
 
-.. rst-class::center
-.. flat-table::   
-   :class: text-center, align-items-center, align-self-center
+战斗后剧情分支：
 
-   * - :cspan:`2` \ :ref:`隐藏要素 <srw4_missable>` \：本话中是否说得了エルピー＝プル和プルツー
-   * - :cspan:`1` 
-  
-       .. admonition:: 是
-          :class: attention
+.. grid:: 
+    
+    .. grid-item-card:: \ :ref:`隐藏要素 <srw4_missable>` \：说得了エルピー＝プル和プルツー
+        :columns: auto
 
-          在战斗结束时选择是否和ジュドー＝アーシタ一起去シャングリラ殖民地
+        在战斗结束时选择是否和ジュドー＝アーシタ一起去シャングリラ殖民地
 
-     - :rspan:`3`
+        .. grid::
 
-       .. admonition:: 否
-          :class: attention
- 
-          下一话进入\ :doc:`42c_oldna_poseidal_hard`\ 。
-   * -
-       .. admonition:: 是
-          :class: attention
+            .. grid-item-card:: スウィートウォーターへ行く
+                :columns: auto
 
-          下一话进入\ :doc:`41b_haman_s_black_shadow`\ 。
+                | 强制乘换：
+                | 主人公 → ヒュッケバイン/グルンガスト
+                | ジュドー → ZZガンダム
+                | ダバ → エルガイムmkII
+                | レッシィ → ヌーベルディザード
+                | アム → エルガイム/カルバリーテンプル
+                | 下一话进入\ :doc:`ハマーンの黒い影 <41b_haman_s_black_shadow>`\ 。
+                | GP-02A追加アトミックバズーカ 8/9
 
-          GP-02A追加アトミックバズーカ 8/9
-     -
-       .. admonition:: 否
-          :class: attention   
-          
-          下一话进入\ :doc:`42b_oldna_poseidal_normal`\ 。
+            .. grid-item-card:: 行かない
+                :columns: auto
+
+                | ジュドー、プル、プルツー 脱队。
+                | 可用于传送ZZ高达。
+                | 下一话进入\ :doc:`オルドナ＝ポセイダル(普) <42b_oldna_poseidal_normal>`\ 。
+                | 
+
+    .. grid-item-card:: 没有说得
+        :columns: auto
+
+        下一话进入\ :doc:`オルドナ＝ポセイダル (难) <42c_oldna_poseidal_hard>`\ 。
+        
 

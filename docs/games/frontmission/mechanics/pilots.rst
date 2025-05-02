@@ -15,7 +15,7 @@ Pilots get :ref:`exps <front_mission_mechanics_exp>`  when attacking and defendi
 
 Pilot levels up when reaching a certain value of total EXP. When level up, the skills the pilot can learn will be displayed. Each pilot has certain thresholds for :ref:`skills <front_mission_mechanics_skills>` to appear. Once a skill has been learned, it cannot be changed, be careful of your selection.
 
-Generally speaking the earlier joined the better in terms of overall skill set and attributes, the later joined are either too specialized (limited skill set except in one area) or weak, some even with skill slot shortage. You want to actively hold your aces back if you trained them too much, as everyone will be eventually useful.
+Generally speaking the earlier joined the better in terms of overall skill set and attributes, the later joined are either too specialized (limited skill set except in one area) or weak, some even with skill slot shortage. You want to actively hold your aces back if you trained them too much, as everyone will be eventually useful and any exp beyond 9999 is wasted.
 
 In the pilot status window, the password is the data you would enter in the VS play menu of your friend's game. In this way you can battle your wanzer with your friend. 
 
@@ -157,8 +157,7 @@ Keith Carabell
 
         | Other Names: キース・カラベル
         | Skills slots: 5 
-        | Joins mission 2. Leaves mission 22. Rejoins mission 25
-        | Long Rating: B+
+        | Long Rating: B+ 
         | Guide Skill: 2000 exp
         | Agility Rating: D+
 
@@ -193,7 +192,6 @@ Joynas Jeriaska
 
         | Other Names: J.J., ジョイナス・ジェリアスカ
         | Skills slots: 5 
-        | Joins mission 2. Leaves mission 22. Rejoins mission 25
         | Long Rating: B+
         | Guide Skill: 2500 exp
         | Agility Rating: D
@@ -608,7 +606,7 @@ Good missileer and Short, too bad not much Short skills. Late to join the party 
 
 Can't learn First, Dual or Switch. Joins mission 14.
 
-He's a deserter from the USN. I was expecting him at the USN version of the story but he didn't show up. 
+He's a deserter from the USN. I was expecting him at the USN arc but he didn't show up. 
 
 ------------------------------
 Ralph Dian
@@ -742,7 +740,7 @@ Johnny Sandars
         | Third Skill: 6500 exp
         | Available Skills: Duel, Switch and Speed
 
-A nice Short. Somehow can learn Melee skills 3 times. Leaves mission 18 and returns mission 19.
+A nice Short. Somehow can learn Melee skills 3 times (you don't really want to do that). Leaves mission 18 and returns mission 19.
 
 ------------------------------
  Matthew D. Lorenzo
@@ -776,7 +774,7 @@ A nice Short. Somehow can learn Melee skills 3 times. Leaves mission 18 and retu
         | Third Skill: 8000 exp
         | Available Skills: Duel, Switch and Speed
 
-A nice Melee but more talented than Yang Meihua in OCU in skill slots, which means he can learn all Short skills. 
+A nice Melee but more talented than Yang Meihua in OCU in skill slots, which means he can learn all Short skills and can be converted to Short. Problem is he's the best Melee at the USN side. Maybe you want others to take up the Melee role? I don't know. 
 
 Joins Mission 1. Leaves mission 18 and returns mission 19.
 
@@ -884,7 +882,7 @@ Gina
         | Available Skills: Switch, Speed
         | Starts with Duel
 
-A Short specialist like Ryuji in OCU, comes with Guide. Cannot learn Stun or First. Joins mission 12. Leaves mission 18 and returns mission 20.
+A Short specialist like Ryuji in OCU, comes with Duel. Cannot learn Stun or First. Joins mission 12. Leaves mission 18 and returns mission 20.
 
 ------------------------------
 Ghetta Cedric
@@ -917,8 +915,6 @@ Ghetta Cedric
         | Available Skills: Duel
 
 Backup tank and fighter. Cannot learn Switch or Speed. Comes with Stun. Join after mission 16.
-
-.. raw:: html
 
 .. raw:: html
 
