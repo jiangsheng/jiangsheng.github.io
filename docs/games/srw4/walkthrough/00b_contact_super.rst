@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=zh-Hans:  
+       第四次超级机器人大战攻略流程 第零话Ｂ 接触 (超级系)
+       
 .. _srw4_walkthrough_00b_contact_super:
 
 第零话Ｂ 接触 (超级系)

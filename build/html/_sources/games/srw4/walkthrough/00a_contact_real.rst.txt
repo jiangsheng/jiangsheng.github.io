@@ -2,7 +2,7 @@
    :description lang=zh-Hans:  
        第四次超级机器人大战攻略流程 第零话Ａ 接触 (真实系)
 
-.. _srw4_walkthrough_00a-contact_real:
+.. _srw4_walkthrough_00a_contact_real:
 
 第零话Ａ 接触 (真实系)
 ===============================
@@ -21,15 +21,15 @@
 我方初始配置：
 ------------------
 
--:ref:`ゲシュペンスト（リアル）<srw4_units_banpresto_originals>`\ （:ref:`主人公<srw4_pilots_banpresto_originals>`）
+-:ref:`ゲシュペンスト（リアル）<srw4_units_banpresto_originals>`\ （:ref:`主人公 <srw4_pilots_banpresto_originals>`）
 
 -------------
 敌方初始配置
 -------------
 
-* :ref:`マラサイ<srw4_units_ms_z_gundam>`\  ×3
-* :ref:`ザク改<srw4_units_ms_z_gundam>`\  ×2
-* :ref:`ミニフォー<srw4_units_getter_robo>`\  ×3
+* :ref:`マラサイ <srw4_units_ms_z_gundam>`\  ×3
+* :ref:`ザク改 <srw4_units_ms_z_gundam>`\  ×2
+* :ref:`ミニフォー <srw4_units_getter_robo>`\  ×3
 
 -------------
 我方援军
