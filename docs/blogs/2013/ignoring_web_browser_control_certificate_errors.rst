@@ -1,5 +1,12 @@
 Howto: Ignoring web browser certificate errors in a webbrowser host
 ========================================================================
+
+.. post:: 17 Jul, 2013
+   :tags: C#, WinForms, Trident (Layout Engine), WebBrowser Control
+   :category: C#, WebBrowser Control
+   :author: me
+   :nocomments:
+
 .. index:: pair:Ignore SSL certificate; WebBrowser control
 .. index:: pair: WinForms; Webbrowser Customization
 
@@ -26,4 +33,4 @@ Example Code: https://github.com/jiangsheng/Samples/blob/master/IgnoreSsl.
 
 For sample code in providing the service using MFC, check :ref:`Handle NewWindow3 and ShowModalDialog in CHtmlView <blogs_handle_newwindow3_and_showmodaldialog_chtmlview>`. The way to implements IHttpSecurity is similar to how the article exposes the INewWindowManager service to the webbrowser control.
 
-WPF’s WebBrowser class does not provide a public virtual function to change the ActiveX site. You might have to :ref:`implement ICustomQueryInterface yourself <blog_2023_extend_a_webbrowser_control_using_icustomqueryinterface>`.
+WPF's WebBrowser class does not provide a public virtual function to change the ActiveX site. You might have to :ref:`implement ICustomQueryInterface yourself <blog_2023_extend_a_webbrowser_control_using_icustomqueryinterface>`.

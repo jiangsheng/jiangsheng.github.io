@@ -59,7 +59,8 @@ extensions = [
     'linuxdoc.rstFlatTable',
      'sphinx_reredirects',
      "sphinxext.rediraffe",
-     "sphinx_design"
+     "sphinx_design",
+     'ablog',
 ]
 edit_on_github_project  = 'jiangsheng/jiangsheng.github.io'
 edit_on_github_url = 'docs/'
@@ -114,17 +115,27 @@ html_theme = 'pydata_sphinx_theme'
 # Theme options are theme-specific and customize the look and feel of a
 # theme further.
 html_theme_options = {
-"navbar_start": ["navbar-logo"],
-"navbar_center": ["navbar-nav"],
-"navbar_end": ["navbar-icon-links"],
-"navbar_persistent": ["search-button"],
-"article_footer_items": ["comments"],
-"navigation_with_keys":True,
-"primary_sidebar_end": ["indices.html", "sidebar-ethical-ads.html"],
-"secondary_sidebar_items": ["page-toc", "edit-this-page", "sourcelink.htm"],
-"show_prev_next": True,
-"back_to_top_button": True,
-"show_nav_level": 0
+    "navbar_start": ["navbar-logo"],
+    "navbar_center": ["navbar-nav"],
+    "navbar_end": ["navbar-icon-links"],
+    "navbar_persistent": ["search-button"],
+    "article_footer_items": ["comments"],
+    "navigation_with_keys":True,
+    "primary_sidebar_end": ["indices.html", "sidebar-ethical-ads.html"],
+    "secondary_sidebar_items": ["page-toc", "edit-this-page", "sourcelink.htm"],
+    "show_prev_next": True,
+    "back_to_top_button": True,
+    "show_nav_level": 0,
+    "external_links": [
+        {
+            "url": "https://bsky.app/profile/sheng-jiang.bsky.social",
+            "name": "bluesky",
+        },
+        {
+            "url": "https://stackoverflow.com/users/109919/sheng-jiang-%e8%92%8b%e6%99%9f",
+            "name": "stackoverflow",
+        }
+    ],
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -142,15 +153,30 @@ html_static_path = ['_static']
 #
 # html_sidebars = {}
 html_sidebars = {
+    'games/*': [
+        'relations.html', "sidebar-nav-bs"
+        #'searchbox.html',
+        ],
+    'grandma/*': [
+        'relations.html', "sidebar-nav-bs"
+        #'searchbox.html',
+        ],
     'index': [
         'globaltoc.html',
         'relations.html',
         #'searchbox.html',
         ],
-    '**': [
-        'relations.html', "sidebar-nav-bs"
-        #'searchbox.html',
-        ],
+    "blogs/*": [
+        "ablog/postcard.html",
+        "ablog/recentposts.html",
+        "ablog/tagcloud.html",
+        "ablog/categories.html",
+        "ablog/authors.html",
+        "ablog/languages.html",
+        "ablog/locations.html",
+        "ablog/archives.html",
+    ],
+
 
 }
 
@@ -271,6 +297,11 @@ sitemap_locales = ['zh-CN']
 sitemap_url_scheme = "{version}{link}"
 
 rediraffe_redirects = "redirects.txt"
+
+blog_path = "blogs/"
+blog_authors = {
+    "me": ("Sheng Jiang", "https://jiangsheng.net"),
+}
 
 def insert_javascript_on_page(app, page_name, template_name, context, doctree):
     match page_name:

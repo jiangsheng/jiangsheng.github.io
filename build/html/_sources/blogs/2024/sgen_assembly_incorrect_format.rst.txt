@@ -1,5 +1,10 @@
 Troubleshooting SGEN : error : An attempt was made to load an assembly with an incorrect format
 ================================================================================================================
+.. post:: 10 Sep, 2024
+   :tags: sgen
+   :category: C#, .Net Framework, Windows SDK
+   :author: me
+   :nocomments:
 
 I have a POCO entity project that must generate XML Serializers due to a `memory leak bug <https://www.betaarchive.com/wiki/index.php/Microsoft_KB_Archive/886385>`_. Xml serializer generated dynamic assemblies are not ever collected.
 

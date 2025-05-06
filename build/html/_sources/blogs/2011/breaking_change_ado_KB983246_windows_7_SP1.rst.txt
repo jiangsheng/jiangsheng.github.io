@@ -1,5 +1,12 @@
 Breaking change in ADO update KB983246 (included in Windows 7 Service Pack 1)
 =================================================================================
+
+.. post:: 24 Feb, 2011
+   :tags: Windows Update, Service Pack, Windows 7 SP1, WIndows Server 2008 R2
+   :category: Windows 7, Windows Update, ActiveX Data Objects
+   :author: me
+   :nocomments:
+
 .. index:: pair: ADO; Breaking change
 
 .. index:: Windows Update KB983246   

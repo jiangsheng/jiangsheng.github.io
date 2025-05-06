@@ -1,5 +1,12 @@
 Misleading Error Message WARNING: All children of a 'grid-row' should be 'grid-item' [design.grid]
 =========================================================================================================
+
+.. post:: 30 Apr, 2025
+   :tags: sphinx-design 
+   :category: Sphinx
+   :author: me
+   :nocomments:
+
 Today I am hit by a message "WARNING: All children of a 'grid-row' should be 'grid-item' [design.grid] " from the sphinx-design extension when building a Sphinx documentation. The error line points to a grid that works perfect fine in another file. 
 
 After some digging, it appears that when the next paragraph is indented as quoted text, no matter how many blanks are in between the grid still think it as its children. 

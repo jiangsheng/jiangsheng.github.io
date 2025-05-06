@@ -1,5 +1,12 @@
 New web server hijacker HttpResetModule.dll
 =============================================
+
+.. post:: 22 Sep, 2021
+   :tags: HttpResetModule, ISAPI
+   :category: Windows, IIS
+   :author: me
+   :nocomments:
+
 .. index:: pair: HttpResetModule; IIS
 
 Today a friend’s server was hacked. The web site displays normally if visited directly. The content is highjacked when visit from a Baidu Search result, similar to what user 41nbow experienced at https://www.freebuf.com/articles/web/222060.html.

@@ -1,5 +1,12 @@
 微软拼音卡顿的问题
 ==================
+
+.. post:: 5 Jan, 2021
+   :tags: GetTempFileName
+   :category: Windows, 微软拼音
+   :author: me
+   :nocomments:
+   
 .. index:: pair: Microsoft Pinyin; Lagging
 
 微软拼音最近每次激活的时候都要卡上个几分钟。而且不是一个程序只卡一次，中英文切换之后还会继续卡。

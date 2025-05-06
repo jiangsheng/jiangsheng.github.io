@@ -1,5 +1,10 @@
 "gradma/index" "grandma/index" 
+"games/axis_and_allies/buildings/corps_hq" "games/axis_and_allies/buildings/index"
+"games/axis_and_allies/buildings/infantry_hq" "games/axis_and_allies/buildings/index"
+"games/axis_and_allies/buildings/bunker" "games/axis_and_allies/buildings/index"
 "games/srw4/mechanics/expfoumla" "games/srw4/mechanics/exp" 
+"games/srw4/mechanics/topography" "games/srw4/mechanics/terrain" 
+"games/srw4/mechanics/srw4schanges" "games/srw4/mechanics/platform_differences" 
 "games/srw4/pilots/BanprestoOriginals" "games/srw4/pilots/banpresto_originals"
 "games/srw4/pilots/BraveRaideen" "games/srw4/pilots/reideen_the_brave" 
 "games/srw4/pilots/GetterRobo" "games/srw4/pilots/getter_robo" 
@@ -50,4 +55,6 @@
 "games/srw4/walkthrough/20a_old_soldiers_elegy" "games/srw4/walkthrough/20a_old_soldier_s_elegy" 
 "games/srw4/walkthrough/21_dr_hells_ambition" "games/srw4/walkthrough/21_dr_hell_s_ambition" 
 "games/srw4/walkthrough/29A-MarsConnection" "games/srw4/walkthrough/29a_mars_connection" 
+"games/srw4/beforestart" "games/srw4/walkthrough/preclude" 
+
 

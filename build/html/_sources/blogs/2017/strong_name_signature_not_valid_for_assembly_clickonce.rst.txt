@@ -1,6 +1,13 @@
-Getting around “Strong name signature not valid for assembly” for a ClickOnce application
+Getting around "Strong name signature not valid for assembly" for a ClickOnce application
 =========================================================================================
-.. index:: pair: Strong name; ClickOnce
+
+.. post:: 10 Jan, 2017
+   :tags: Clickonce, Strong Name
+   :category: .Net Framework, WinForms, Deployment
+   :author: me
+   :nocomments:
+
+.. index:: pair: Strong name; ClickOnce   
 
 When building a ClickOnce application, I need to redistribute a third party dll. But it failed the strong name validation under `sn-vf <https://learn.microsoft.com/en-us/dotnet/framework/tools/sn-exe-strong-name-tool?redirectedfrom=MSDN>`_ thus ClickOnce launcher failed with the same error.
 
