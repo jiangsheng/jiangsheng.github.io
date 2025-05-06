@@ -2,7 +2,14 @@
 
 Handle NewWindow3 and ShowModalDialog in CHtmlView
 ========================================================
-.. index::  pair: MFC; Webbrowser Customization
+
+.. post:: 3 Jul, 2007
+   :tags: Microsoft Foundation Classes, WebBrowser Control
+   :category: WinForms
+   :author: me
+   :nocomments:
+
+.. index:: pair: MFC; Webbrowser Customization
 .. index:: pair: Handle New Window and Show Modal Dialog events; WebBrowser control
 
 CHTMLView does not support NewWindow3 as of MFC 9.0. It is relatively easy to add this support, given the event sink code in atlmfcsrcviewhtml.cpp

@@ -2,6 +2,12 @@
    :description lang=en:  
       Discusses limitation in .Net's autocomplete API wrapper and ways to call the Win32 autocomplete API direct to get more flexible behaviors. Using data bindings between a TextBox instance and a constantly updated .Net DataSource object as an example. 
 
+.. post:: 6 Aug, 2007
+   :tags: Microsoft Foundation Classes, WebBrowser Control
+   :category: WinForms
+   :author: me
+   :nocomments:
+
 AutoComplete with DataSource
 =============================
 

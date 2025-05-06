@@ -2,6 +2,13 @@
 
 Extend a webbrowser control using ICustomQueryInterface
 ==================================================================
+
+.. post:: 20 Mar, 2023
+   :tags: C#, WinForms, Trident (Layout Engine), WebBrowser Control
+   :category: C#, WebBrowser Control
+   :author: me
+   :nocomments:
+
 This article is written with the help of ChatGPT. I want to see how far ChatGPT can go solve this and if any correction needs to be made. ChatGPT went pretty far but still made some mistakes. 
 
 --------------------------------

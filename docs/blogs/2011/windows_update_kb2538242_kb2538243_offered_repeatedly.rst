@@ -1,8 +1,16 @@
 Windows Update KB2538242 or KB2538243 offered repeatedly
 ==========================================================
+
+.. post:: 24 Jun, 2011
+   :tags: Microsoft Answers, Patch (computing), Visual C++, Windows Update
+   :category: Visual C++, Windows Update
+   :author: me
+   :nocomments:
+
 .. index:: Windows Update KB2538242
 
 .. index:: Windows Update KB2538243
+
 
 Recently (this post was originally published in 2011) there is an outburst of posts related to the `KB2538242 update <https://support.microsoft.com/en-us/topic/ms11-025-description-of-the-security-update-for-visual-c-2005-sp1-redistributable-package-june-14-2011-ef98bf3e-5f8e-4b30-2951-1cd8219892b5>`_ being offered repeatedly on MSDN’s Visual C++ forums, TechNet’s various Windows security forums and the Windows Update forum on Microsoft Answers forums. Questions about KB2538243 appear as well, but to a less degree.
 

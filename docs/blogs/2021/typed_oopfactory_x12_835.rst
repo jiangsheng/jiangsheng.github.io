@@ -1,5 +1,12 @@
 Converting generic OopFactory.X12 structures to typed counterparts
 ========================================================================
+
+.. post:: 30 Apr, 2021
+   :tags: OopFactory.X12, 835, 837, EDI
+   :category: C#, EDI
+   :author: me
+   :nocomments:
+
 .. index:: pair: OopFactory.X12; EDI
 
 OopFactory.X12 can parse EDI messages into segments and loops. However despite typed segments and loops exist, the parser does not generate them in the object model.  The unit test only use them when generating EDI messages.

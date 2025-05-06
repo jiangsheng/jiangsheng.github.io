@@ -1,5 +1,12 @@
 How to restart Windows Explorer programmatically using Restart manager
 =======================================================================
+
+.. post:: 22 Jan, 2013
+   :tags: C++, Taskbar, Windows Explorer, Windows Registry, Windows Vista
+   :category: Visual C++
+   :author: me
+   :nocomments:
+
 You can download source code of this post at https://github.com/jiangsheng/Samples/tree/master/AppBarTest
 
 For shell extension programmers, restart Windows Explorer is one of steps in their setup programs. A programmer may also want to force some shell setting changes that would only be read by Explorer on start up. For example, this posts is inspired by a `programmer who want to toggle task bar layout automatically depending on the screen resolution <https://stackoverflow.com/questions/12435503/change-windows-7-taskbar-location-automatically-based-on-screen-shape-or-on-dock/14369385#14369385>`_, and is used to demonstrate the new Windows Vista restart manager API like RmStartSession, RmRegisterResources, RmGetList, RmShutdown, RmRestart and RmEndSession.
