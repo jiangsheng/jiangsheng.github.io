@@ -125,17 +125,7 @@ html_theme_options = {
     "secondary_sidebar_items": ["page-toc", "edit-this-page", "sourcelink.htm"],
     "show_prev_next": True,
     "back_to_top_button": True,
-    "show_nav_level": 0,
-    "external_links": [
-        {
-            "url": "https://bsky.app/profile/sheng-jiang.bsky.social",
-            "name": "bluesky",
-        },
-        {
-            "url": "https://stackoverflow.com/users/109919/sheng-jiang-%e8%92%8b%e6%99%9f",
-            "name": "stackoverflow",
-        }
-    ],
+    "show_nav_level": 0,   
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -302,6 +292,7 @@ blog_path = "blogs/"
 blog_authors = {
     "me": ("Sheng Jiang", "https://jiangsheng.net"),
 }
+fontawesome_included = True
 
 def insert_javascript_on_page(app, page_name, template_name, context, doctree):
     match page_name:
