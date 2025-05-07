@@ -7,7 +7,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Posts in WebBrowser Control &#8212; jiangsheng&#39;s docs</title>
+    <title>Posts in Webbrowser control &#8212; jiangsheng&#39;s docs</title>
   
   
   
@@ -57,7 +57,7 @@
   rel="alternate"
   type="application/atom+xml"
   href="..//atom.xml"
-  title="Posts in WebBrowser Control"
+  title="Posts in Webbrowser control"
 />
   
   </head>
@@ -317,7 +317,7 @@
         <i class="fa-solid fa-home"></i>
       </a>
     </li>
-    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">Posts in WebBrowser Control</span></li>
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">Posts in Webbrowser control</span></li>
   </ul>
 </nav>
 </div>
@@ -338,20 +338,20 @@
   <h1>
     
     <span
-      >Posts in  WebBrowser Control 
+      >Posts in  Webbrowser control 
     </span>
   </h1>
    
   <div class="section ablog-post">
     <h2 class="ablog-post-title">
-      <a href="../2023/extend_a_webbrowser_control_using_icustomqueryinterface.html">Extend a webbrowser control using ICustomQueryInterface</a>
+      <a href="../2012/howto-reset-ie-security-zone-settings-programmatically.html">Howto: reset IE security zone settings programmatically</a>
     </h2>
     <ul class="ablog-archive">
       <li>
          
         <i class="fa fa-calendar"></i>
         
-        <span>20 March 2023</span>
+        <span>26 November 2012</span>
         
       </li>
       <div class="ablog-sidebar-item ablog__postcard2">
@@ -374,9 +374,15 @@
       
     </span>
      
-    <a href="c.html">C#</a>
+    <a href="enmsdn.html">enmsdn</a>
      ,    
-    <a href="#">WebBrowser Control</a>
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="visual-c.html">Visual C++</a>
+     ,    
+    <a href="visual-studio.html">Visual Studio</a>
+     ,    
+    <a href="#">Webbrowser control</a>
       
   </li>
    
@@ -387,37 +393,49 @@
        
     </span>
      
-    <a href="../tag/c.html">C#</a>
+    <a href="../tag/internet-explorer-7.html">Internet Explorer 7</a>
         
-    <a href="../tag/winforms.html">WinForms</a>
+    <a href="../tag/security-zone-settings.html">security zone settings</a>
         
-    <a href="../tag/trident-layout-engine.html">Trident (Layout Engine)</a>
-        
-    <a href="../tag/webbrowser-control.html">WebBrowser Control</a>
+    <a href="../tag/trident-layout-engine.html">Trident (layout engine)</a>
       
   </li>
    
 </div>
     </ul>
-    <p class="ablog-post-excerpt"><p>This article is written with the help of ChatGPT. I want to see how far ChatGPT can go solve this and if any correction needs to be made. ChatGPT went pretty far but still made some mistakes.</p>
+    <p class="ablog-post-excerpt"><p><a class="reference external" href="http://en.wikipedia.org/wiki/Internet_Explorer_7">Internet Explorer
+7</a> introduced
+the <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537055(v=VS.85).aspx">IInternetZoneManagerEx2</a>
+interface, which has a FixUnsecureSettings method to reset all security
+zone settings. Like all other IInternetZoneManager* interfaces, you can
+query this interface from the internet zone manager object:
+IInternetZoneManagerEx2* pzoneManager=NULL;
+<a class="reference external" href="http://en.wikipedia.org/wiki/HRESULT">HRESULT</a>
+hr=CoCreateInstance(CLSID_InternetZoneManager
+,NULL,CLSCTX_INPROC_SERVER,IID_IInternetZoneManagerEx2,(LPVOID*)&amp;pzoneManager);
+if(hr==S_OK &amp;&amp; pzoneManager!=NULL) {
+hr=pzoneManager-&gt;FixUnsecureSettings(); } There’s
+another <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537159(v=VS.85).aspx">CoInternetCreateZoneManager</a>
+function to get the zone manager object’s IInternetZoneManager
+interface.</p>
 </p>
 
     <p class="ablog-post-expand">
-      <a href="../2023/extend_a_webbrowser_control_using_icustomqueryinterface.html"><em>Read more ...</em></a>
+      <a href="../2012/howto-reset-ie-security-zone-settings-programmatically.html"><em>Read more ...</em></a>
     </p>
     <hr />
   </div>
   
   <div class="section ablog-post">
     <h2 class="ablog-post-title">
-      <a href="../2013/ignoring_web_browser_control_certificate_errors.html">Howto: Ignoring web browser certificate errors in a webbrowser host</a>
+      <a href="../2012/choosing-formats-when-putting-data-on-clipboard.html">Choosing formats when putting data on clipboard</a>
     </h2>
     <ul class="ablog-archive">
       <li>
          
         <i class="fa fa-calendar"></i>
         
-        <span>17 July 2013</span>
+        <span>21 March 2012</span>
         
       </li>
       <div class="ablog-sidebar-item ablog__postcard2">
@@ -440,9 +458,76 @@
       
     </span>
      
-    <a href="c.html">C#</a>
+    <a href="enmsdn.html">enmsdn</a>
      ,    
-    <a href="#">WebBrowser Control</a>
+    <a href="#">Webbrowser control</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tag"></i>
+      
+    </span>
+     
+    <a href="../tag/clipboard.html">clipboard</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p>The topic is from a forum discussion
+at <a class="reference external" href="http://social.msdn.microsoft.com/Forums/en/windowssdk/thread/94bb2db4-3ca2-4cd8-9f7c-6dd9aab6fd18">http://social.msdn.microsoft.com/Forums/en/windowssdk/thread/94bb2db4-3ca2-4cd8-9f7c-6dd9aab6fd18</a></p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2012/choosing-formats-when-putting-data-on-clipboard.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+  
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="../2009/how-to-force-popup-window-to-navigate-in-the-same-window-in-a-webbrowser-control.html">How to force popup window to navigate in the same window in a webbrowser control</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>22 November 2009</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="enmsdn.html">enmsdn</a>
+     ,    
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="visual-c.html">Visual C++</a>
+     ,    
+    <a href="visual-studio.html">Visual Studio</a>
+     ,    
+    <a href="#">Webbrowser control</a>
       
   </li>
    
@@ -453,23 +538,95 @@
        
     </span>
      
-    <a href="../tag/c.html">C#</a>
+    <a href="../tag/activex.html">ActiveX</a>
         
-    <a href="../tag/winforms.html">WinForms</a>
+    <a href="../tag/internet-explorer.html">Internet Explorer</a>
         
-    <a href="../tag/trident-layout-engine.html">Trident (Layout Engine)</a>
+    <a href="../tag/internet-explorer-6.html">Internet Explorer 6</a>
+        
+    <a href="../tag/trident-layout-engine.html">Trident (layout engine)</a>
+        
+    <a href="../tag/web-browser.html">Web browser</a>
         
     <a href="../tag/webbrowser-control.html">WebBrowser Control</a>
+        
+    <a href="../tag/windows-server-2003.html">Windows Server 2003</a>
+        
+    <a href="../tag/windows-xp.html">Windows XP</a>
       
   </li>
    
 </div>
     </ul>
-    <p class="ablog-post-excerpt"><p id="index-1"><span id="index-0"></span>Many applications host webbrowser controls to display web pages inside. Before production the web page is often in an internal server that do not have a valid certificate. This article let you skip the certificate error and continue testing your application</p>
+    <p class="ablog-post-excerpt"><p>When clicking on an link that targets a new window,  the default
+behavior of a webbrowser control host application is to open a new
+window in <a class="reference external" href="http://en.wikipedia.org/wiki/Internet_Explorer">Internet
+Explorer</a>. User
+ben_lai <a class="reference external" href="http://topic.csdn.net/u/20091120/11/b023d1e9-f31e-4671-bae7-45d6f4fca9e8.html">wants to
+know</a>
+how to handle the click and navigate to the same window. There are three
+events that notifies a new window,
+<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768335(v=VS.85).aspx">NewWindow</a>
+(The current documentation of this event is wong, check
+<a class="reference external" href="http://support.microsoft.com/kb/185538/EN-US/">http://support.microsoft.com/kb/185538/EN-US/</a> for the parameters of the
+event),
+<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768336(v=VS.85).aspx">NewWindow2</a>
+and
+<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768337(VS.85).aspx">NewWindow3</a>,
+each one has a cancel parameter to stop the new window being created,
+though for NewWindow2, it requires cooperation of
+<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768326(v=VS.85).aspx">BeforeNavigate2</a>
+to get the url of the new window. After getting the url, the navigation
+can be carried out in the original window by calling Navigate2. The
+obsolete NewWindow Event has the url right in the parameter so you can
+cancel the navigation and call the navigation methods of the
+<a class="reference external" href="http://en.wikipedia.org/wiki/Web_browser">webbrowser</a> control with
+the new url. The problem is, the event is there for compatibility
+purposes and you don’t know how long the event will still be raised. And
+it is not without problem, <a class="reference external" href="http://support.microsoft.com/kb/194242">one fixed bug causes a 60 seconds delay on
+new window creation</a>,
+<a class="reference external" href="http://support.microsoft.com/kb/294870">another causes the navigation to
+fail</a>. The fix for the
+latter? use NewWindow2. The NewWindow2 event, introduced in IE4, does
+not have the url parameter. So you cannot simply cancel the event. To
+get the url, you need do the normal processing, create a hidden new
+webbrowser host window and <a class="reference external" href="http://support.microsoft.com/kb/184876">assign the webbrowser to the event’s ppdisp
+parameter</a>, then hook
+BeforeNavigate2 in the new window to get the url (may require client to
+<a class="reference external" href="http://support.microsoft.com/kb/943112">patch their Windows if they are on Windows
+Vista</a>). Once you get the
+url, you can destroy the new window and navigate in the old window. The
+NewWindow3 event, introduced with <a class="reference external" href="http://www.microsoft.com/windowsserver2003/">Windows Server 2003
+SP1</a> and <a class="reference external" href="http://www.microsoft.com/windows/windows-xp/default.aspx">Windows XP
+SP2</a>, is
+designed for the webbrowser host to get notified of the decision of the
+<a class="reference external" href="http://en.wikipedia.org/wiki/Pop-up_ad">popup window</a> manager based
+on user preference (for example, if the new window should be opened in a
+new window or a new tab in the current window), though the popup window
+manager’s behavior <a class="reference external" href="http://jiangshengvc.wordpress.com/2007/07/03/handle-newwindow3-and-showmodaldialog-in-chtmlview/http://jiangshengvc.wordpress.com/2007/07/03/handle-newwindow3-and-showmodaldialog-in-chtmlview/">can be customized
+too</a>.
+For the purpose of cancelling navigation and navigate to the old window,
+it does not matter how the new window should be opened, so you can just
+take the url and execute the same logic as in the NewWindow event. Since
+<strong>everyone should be using IE7 or higher now</strong>, the event should be
+supported by the browser. If the client can’t upgrade IE, at least ask
+them to fully patch their Windows. The original poster’s question is in
+the VB forum so all the native events are available. For .net
+programmers, you can <a class="reference external" href="http://support.microsoft.com/kb/311298">hook up the event via IConnectionPointContainer
+directly if you are inserting the webbrowser as an ActievX on a Windows
+Form</a>, or <a class="reference external" href="http://www.codeproject.com/KB/cpp/ExtendedWebBrowser.aspx">extend the
+webbrowser site if you are using the System.Windows.Forms.Webbrowser
+class</a>.
+Update:
+<a class="reference external" href="http://en.wikipedia.org/wiki/Windows_Presentation_Foundation">WPF</a>
+users who want to use System.Windows.Controls.WebBrowser are out of
+luck, they need to <a class="reference external" href="http://social.msdn.microsoft.com/Forums/en-US/wpf/thread/8c43c6f5-4e9f-4491-8219-1b0eeb7b225b/">host the ActiveX versions of the webbrowser control
+to get a hand on the native
+events</a>.</p>
 </p>
 
     <p class="ablog-post-expand">
-      <a href="../2013/ignoring_web_browser_control_certificate_errors.html"><em>Read more ...</em></a>
+      <a href="../2009/how-to-force-popup-window-to-navigate-in-the-same-window-in-a-webbrowser-control.html"><em>Read more ...</em></a>
     </p>
     <hr />
   </div>

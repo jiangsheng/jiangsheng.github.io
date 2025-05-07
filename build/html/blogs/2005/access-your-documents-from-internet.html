@@ -1,0 +1,874 @@
+
+<!DOCTYPE html>
+
+
+<html lang="zh-CN" data-content_root="../../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Access your documents from internet. &#8212; jiangsheng&#39;s docs</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-design.min.css?v=95c83b7e" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css?v=cda70fc7" />
+  
+  <!-- So that users can add custom icons -->
+  <script src="../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+
+    <script src="../../_static/documentation_options.js?v=aec57771"></script>
+    <script src="../../_static/doctools.js?v=9bcbadda"></script>
+    <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script async="async" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3710396369816898"></script>
+    <script src="../../_static/design-tabs.js?v=f930bc37"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'blogs/2005/access-your-documents-from-internet';</script>
+    <script src="../../_static/js/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <link rel="canonical" href="https://git.jiangsheng.net/build/html/blogs/2005/access-your-documents-from-internet.html" />
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Assignment1" href="assignment1.html" />
+    <link rel="prev" title="A Successful Moment" href="a-successful-moment.html" /> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="zh-CN"/>
+  <meta name="docsearch:version" content="" />   
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-3 navbar-header-items__start">
+    
+      <div class="navbar-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../../reference.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">jiangsheng's docs</p>
+  
+</a></div>
+    
+  </div>
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../games/index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          
+          
+            <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../games/index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+          
+        
+      </div>
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+<nav class="bd-docs-nav bd-links"
+     aria-label="Section Navigation">
+  <p class="bd-links__title" role="heading" aria-level="1">Section Navigation</p>
+  <div class="bd-toc-item navbar-nav"><ul class="list-caption"><li class="toctree-l0 has-children"><details open><summary><p aria-level="2" class="caption" role="heading"><span class="caption-text">内容:</span></p><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current nav bd-sidenav">
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2025/index.html"> 2025</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2025/misleading_error_all_children_grid_row_should_be_grid_item.html">Misleading Error Message WARNING: All children of a 'grid-row' should be 'grid-item' [design.grid]</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2025/misleading_error_parent_grid_item_should_be_grid_row.html">Misleading Error Message WARNING: The parent of a 'grid-item' should be a 'grid-row' [design.grid]</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2025/exception_losing_ids_attribute_from_ablog.html">Exception: Losing "ids" attribute: ['index-1', 'index-0'] from ABlog.process_posts</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2025/always_full_rebuild_ablog.html">Sphinx project always rebuild after installing the ablog extension</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2025/todays-phishing-email.html">Today&amp;rsquo;s phishing email RE: Your A⁮pp឵Ie lD Has Been Di⁫sabIed Pending Further Verifi&amp;zwj;cation</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2024/index.html"> 2024</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2024/troubleshooting-sgen-error-an-attempt-was-made-to-load-an-assembly-with-an-incorrect-format.html">Troubleshooting SGEN : error : An attempt was made to load an assembly with an incorrect format</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2023/index.html"> 2023</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2023/extend-a-webbrowser-control-using-icustomqueryinterface.html">Extend a webbrowser control using ICustomQueryInterface</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2023/querying-wikipedia-data-using-sparql.html">Querying Wikipedia data using SPARQL</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2023/todays-phishing-email-subject-re-contract-lease-agreement.html">Today&amp;rsquo;s phishing email (Subject    Re: Contract Lease Agreement)</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2022/index.html"> 2022</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2022/bypassing-factory-reset-production-on-microsoft-lumia-640.html">Bypassing Factory Reset Protection Microsoft Lumia 640</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2021/index.html"> 2021</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2021/better-late-than-never.html">Better Late Than Never</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2021/converting-generic-oopfactory-x12-structures-to-typed-counterparts.html">Converting generic OopFactory.X12 structures to typed counterparts</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2021/how-to-determine-when-a-page-is-done-printing-in-webbrowser-control.html">How To Determine When a Page Is Done Printing in WebBrowser Control</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2021/icepocalypse-2021-%E5%86%B0%E7%8B%B1-2021.html">Icepocalypse 2021 冰狱 2021</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2021/new-web-serer-hijacker-httpresetmodule-dll.html">New web server hijacker HttpResetModule.dll</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2021/troubleshooting-a-memory-leak.html">Troubleshooting a memory leak</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2021/%E5%BE%AE%E8%BD%AF%E6%8B%BC%E9%9F%B3%E5%8D%A1%E9%A1%BF%E7%9A%84%E9%97%AE%E9%A2%98.html">微软拼音卡顿的问题</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2020/index.html"> 2020</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2020/finding-the-right-ruby-version.html">Finding the right ruby version</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2020/todays-fake-email-of-the-day.html">Today’s fake email of the day</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2019/index.html"> 2019</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2019/fix-sphinxcontrib-googleanalytics-on-sphinx-1-8.html">Fix sphinxcontrib-googleanalytics on Sphinx 1.8</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2018/index.html"> 2018</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2018/blinking-wifi-icon-and-black-screen-on-surface-2.html">Blinking wifi icon and black screen on Surface 2</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2018/can-we-run-32-bit-and-64-bit-code-in-the-same-process.html">Can we run 32 bit and 64 bit code in the same process?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2018/farewell-dsoframer.html">Farewell, dsoframer</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2018/%E5%A6%82%E4%BD%95%E5%9C%A864%E4%BD%8Dwin10%E7%9A%84vs2017%E7%8E%AF%E5%A2%83%E4%B8%8B%E6%90%AD%E5%BB%BA%E6%B1%87%E7%BC%96%E7%8E%AF%E5%A2%83.html">如何在64位win10的VS2017环境下搭建汇编环境</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2017/index.html"> 2017</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2017/getting-around-strong-name-signature-not-valid-for-assembly-for-a-clickonce-application.html">Getting around “Strong name signature not valid for assembly” for a ClickOnce application</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2016/index.html"> 2016</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2016/what-part-of-windows-is-written-in-netwpfsilverlight.html">What part of Windows is written in .Net/WPF/Silverlight?</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2015/index.html"> 2015</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2015/flash-player-loading-from-memory.html">Flash Player: Loading from memory</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2015/whats-new-in-visual-studio-tools-for-windows-10-preview.html">What’s new in Visual Studio Tools for Windows 10 Preview</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2013/index.html"> 2013</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2013/another-breaking-change-related-to-64-bit-compatibility-this-time-in-tapisrv-wwindows-8.html">Another breaking change related to 64 bit compatibility, this time in TAPISRV w/Windows 8</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2013/book-review-mastering-winddows-8-c-app-development.html">Book review: Mastering Windows 8 C++ App Development</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2013/how-to-restart-windows-explorer-programmatically-using-restart-manager.html">How to restart Windows Explorer programmatically using Restart manager</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2013/howto-ignoring-web-browser-certificate-errors-in-webbrowser-host.html">Howto: Ignoring web browser certificate errors in a webbrowser host</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2013/when-you-get-a-system-badimageformatexception-maybe-you-indeed-have-a-bad-system-image.html">When you get a System.BadImageFormatException. maybe you indeed have a bad system image.</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2012/index.html"> 2012</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2012/add-the-correct-interface-first-in-the-adding-a-class-from-an-activex-control-wizard.html">Add the correct interface first in Adding an MFC Class from an ActiveX Control wizard.</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2012/choosing-formats-when-putting-data-on-clipboard.html">Choosing formats when putting data on clipboard</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2012/how-to-migrating-a-clr-console-visual-c-project-to-windows-forms.html">How to: Migrating a CLR console Visual C++ project to Windows Forms</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2012/howto-reset-ie-security-zone-settings-programmatically.html">Howto: reset IE security zone settings programmatically</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2012/whats-new-in-mfcatl-11-beta.html">What’s new in MFC/ATL 11 Beta</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2011/index.html"> 2011</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2011/breaking-change-in-ado-update-kb983246-included-in-windows-7-service-pack-1.html">Breaking change in ADO update KB983246 (included in Windows 7 Service Pack 1)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2011/bug-in-security-update-for-visual-c-redistributable-package-april-12-2011-causes-program-error-on-windows-2000.html">Bug in Security Update for Visual C++ Redistributable Package: April 12, 2011 causes program error on Windows 2000</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2011/how-to-solve-lnk2001-errors-related-to-windows-sdk-clsids.html">How to solve LNK2001 errors related to Windows SDK CLSIDs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2011/microsoft-mvp-again-2.html">Microsoft MVP again</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2011/more-ado-issues-with-windows-7-sp1-a-reference-count-leaking-when-event-is-used.html">More ADO issues with KB983246/Windows 7 SP1: a reference count leaking when event is used</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2011/whats-new-in-windows-8-sdk-headers.html">What&amp;rsquo;s new in Windows 8 Developer Preview SDK headers</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2011/where-is-the-forum-for-internet-explorer.html">Where is the forum for Internet Explorer?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2011/windows-update-kb2538242-or-kb2538243-offered-repeatedly.html">Windows Update KB2538242 or KB2538243 offered repeatedly</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2010/index.html"> 2010</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="simple">
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2009/index.html"> 2009</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="simple">
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2008/index.html"> 2008</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2008/detect-if-a-msi-component-is-installed.html">Detect if a MSI component is installed</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2008/feedback-from-microsoft.html">Feedback from Microsoft</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2008/hard-drive-broke.html">Hard Drive broke</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2008/mfc-feature-pack%E5%8F%91%E5%B8%83.html">MFC Feature Pack发布</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2008/mfc%E6%9B%B4%E6%96%B0beta%E7%89%88.html">MFC更新Beta版</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2008/smart-harddrive-error.html">Smart harddrive error</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2008/type-system-web-ui-webcontrols-parameter-does-not-have-a-public-property-named-dbtype.html">Type ‘System.Web.UI.WebControls.Parameter’ does not have a public property named ‘DbType’</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2008/visual-c-10-%E5%92%8C-mfc-10%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7.html">Visual C++ 10 和 MFC 10的新特性</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2008/when-microsoft-office-live-meets-google-chrome.html">When Microsoft Office Live Meets Google Chrome</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2007/index.html"> 2007</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2007/autocomplete-with-datasource.html">AutoComplete with DataSource</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2007/handle-newwindow3-and-showmodaldialog-in-chtmlview.html">Handle NewWindow3 and ShowModalDialog in CHtmlView</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2007/mcdonalds-yum-alleged-to-break-chinese-wage-laws.html">McDonald’s, Yum! Alleged To Break Chinese Wage Laws</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2007/microsoft-mvp-again.html">MIcrosoft MVP again</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2007/skew-detection-and-correction-resources.html">Skew detection and correction resources</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2007/stlclr-compiler-and-marshaling.html">STL/CLR, Compiler and Marshaling</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2007/visual-c-2008-beta2-%E9%87%8C%E9%9D%A2%E7%9A%84class-designer.html">Visual C++ 2008 Beta2 里面的Class Designer</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2007/%E7%A7%91%E5%AD%A6%EF%BC%8C%E6%88%91%E7%9A%84%E4%BF%A1%E4%BB%B0.html">科学，我的信仰?</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2006/index.html"> 2006</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2006/baidu-baike-the-chinese-repalcement-of-wikipedia.html">Baidu Baike, the Chinese repalcement of Wikipedia</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2006/csdn-statistics.html">CSDN statistics</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2006/error-unable-to-cast-com-object-of-type-mshtml-htmldocumentclass-to-interface-type-icustomdoc.html">Error: Unable to cast COM object of type ‘mshtml.HTMLDocumentClass’ to interface type ‘ICustomDoc’</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2006/from-in-god-we-trust-to-in-freedom-we-spam.html">From In God We Trust to In Freedom We Spam</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2006/microsoft-award-certificates.html">Microsoft Award Certificates</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2006/microsoft-mvp-re-awarded-again.html">Microsoft MVP re-awarded again</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2006/prb-icustomdocsetuihandler-causes-changes-in-save-as-dialog.html">PRB: ICustomDoc::SetUIHandler Causes Changes in Save As Dialog</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2006/the-death-of-virgo-shaka-under-the-twin-salas.html">The death of Virgo Shaka under the twin Salas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2006/the-microsoft-code-by-adam-barr.html">‘The Microsoft Code’ by Adam Barr</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2006/visual-studio-2005-untrusted-by-ie7.html">Visual Studio 2005 Untrusted by IE7</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="index.html"> 2005</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="4-11%E6%97%A5%E5%85%A8%E7%90%83%E4%BA%92%E8%81%94%E7%BD%91%E7%BE%A4%E5%8F%91%E6%80%A7%E6%95%85%E9%9A%9C.html">4-11日全球互联网群发性故障</a></li>
+<li class="toctree-l2"><a class="reference internal" href="a-successful-moment.html">A Successful Moment</a></li>
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">Access your documents from internet.</a></li>
+<li class="toctree-l2"><a class="reference internal" href="assignment1.html">Assignment1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="blog-past-and-present-2.html">Blog, past and present</a></li>
+<li class="toctree-l2"><a class="reference internal" href="blog-past-and-present.html">Blog, past and present</a></li>
+<li class="toctree-l2"><a class="reference internal" href="blog.html">Blog</a></li>
+<li class="toctree-l2"><a class="reference internal" href="blogging.html">Blogging</a></li>
+<li class="toctree-l2"><a class="reference internal" href="champ-de-coquelicots-environs-de-giverny.html">Champ de Coquelicots, Environs de Giverny</a></li>
+<li class="toctree-l2"><a class="reference internal" href="chinese-diet.html">Chinese diet</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cosc-2425-computer-organization-and-machine-language-pc-assembly-language.html">COSC 2425 - Computer Organization and Machine Language - PC Assembly Language</a></li>
+<li class="toctree-l2"><a class="reference internal" href="diet-change.html">Diet Change</a></li>
+<li class="toctree-l2"><a class="reference internal" href="draft.html">draft</a></li>
+<li class="toctree-l2"><a class="reference internal" href="early-working-vs-studying.html">early working VS studying</a></li>
+<li class="toctree-l2"><a class="reference internal" href="editors-note.html">Editor’s note</a></li>
+<li class="toctree-l2"><a class="reference internal" href="error-3e6-with-writefile.html">Error 3e6 with WriteFile</a></li>
+<li class="toctree-l2"><a class="reference internal" href="expectation-differences-between-male-and-female-in-chinese-culture_revised.html">Expectation differences between male and female in Chinese culture (Revised)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="expectation-differences-between-male-and-female-in-chinese-culture.html">Expectation differences between male and female in Chinese culture</a></li>
+<li class="toctree-l2"><a class="reference internal" href="find-and-evaluate-sources-on-www.html">Find and evaluate sources on WWW</a></li>
+<li class="toctree-l2"><a class="reference internal" href="find-and-replace-specific-formatting-in-word-2003.html">Find and replace specific formatting in Word 2003</a></li>
+<li class="toctree-l2"><a class="reference internal" href="first_children_education_version_2.html">First Children and Education (version 2)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="free-msdn-visual-studio-2005-team-suite-with-msdn-premium-subscription-for-awardee-of-microsoft-award-for-of-customer-excellence-microsoft-mvp.html">Free MSDN Visual Studio 2005 Team Suite with MSDN Premium Subscription for awardee of Microsoft Award for of Customer Excellence/ Microsoft MVP?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="generation-gap-prevention.html">Generation Gap Prevention</a></li>
+<li class="toctree-l2"><a class="reference internal" href="genetic-discrimination.html">genetic discrimination</a></li>
+<li class="toctree-l2"><a class="reference internal" href="how-to-fail-in-a-class.html">How to fail in a class</a></li>
+<li class="toctree-l2"><a class="reference internal" href="how-to-use-visual-c-with-perl.html">How to use Visual C++ with Perl</a></li>
+<li class="toctree-l2"><a class="reference internal" href="httpmeta-wikimedia-orgwikichinese_conversion.html">http://meta.wikimedia.org/wiki/Chinese_conversion</a></li>
+<li class="toctree-l2"><a class="reference internal" href="immigration-past-and-present.html">Immigration Past and Present</a></li>
+<li class="toctree-l2"><a class="reference internal" href="interview-summary-report.html">interview summary report</a></li>
+<li class="toctree-l2"><a class="reference internal" href="introduction.html">First Children and Education</a></li>
+<li class="toctree-l2"><a class="reference internal" href="introductionconclusion.html">Introduction/Conclusion</a></li>
+<li class="toctree-l2"><a class="reference internal" href="jiangsheng%E7%9A%84csdn%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE.html">jiangsheng的CSDN统计数据</a></li>
+<li class="toctree-l2"><a class="reference internal" href="knowledge-of-foreign-countries-of-ut-austin-students.html">Knowledge of Foreign Countries of UT Austin students</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lab2.html">Lab2</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lab3.html">Lab3</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lab4.html">Lab4</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lab5-draft1.html">Lab5 Draft1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lab5-draft2.html">Lab5 Draft2</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lab5-draft3.html">Lab5 Draft3</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lab5-step4.html">Lab5 Step4</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lincolns-assassination.html">Lincoln’s assassination</a></li>
+<li class="toctree-l2"><a class="reference internal" href="litblogs.html">Litblogs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="microchip-pic16f88a-emulator-project.html">Microchip PIC16F88A Emulator Project</a></li>
+<li class="toctree-l2"><a class="reference internal" href="msn-messenger-exceeds-capacity.html">MSN messenger exceeds capacity</a></li>
+<li class="toctree-l2"><a class="reference internal" href="nomination-of-microsoft-award-for-customer-excellence.html">Nomination of Microsoft Award for Customer Excellence</a></li>
+<li class="toctree-l2"><a class="reference internal" href="notes-2.html">Notes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="notes-3.html">Notes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="notes-4.html">Notes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="notes-5.html">Notes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="notes.html">Notes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="noteworth-011.html">NoteWorth 011</a></li>
+<li class="toctree-l2"><a class="reference internal" href="pic-16f88-microcontroller-servo-controller-project.html">PIC 16F88 Microcontroller Servo Controller Project</a></li>
+<li class="toctree-l2"><a class="reference internal" href="population-in-us.html">Population in US</a></li>
+<li class="toctree-l2"><a class="reference internal" href="primates-2.html">Primates</a></li>
+<li class="toctree-l2"><a class="reference internal" href="primates.html">Primates</a></li>
+<li class="toctree-l2"><a class="reference internal" href="public_education_notes.html">Public Education Notes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="read-twice-to-reveal-the-cluesorson-scott-cardspeaker-for-the-dead.html">Read Twice to reveal the clues(Orson Scott Card,SPEAKER FOR THE DEAD)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="role-modal-notes.html">Role Modal Notes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="scholarship-application.html">Scholarship Application</a></li>
+<li class="toctree-l2"><a class="reference internal" href="self-efficacy.html">Self-Efficacy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="self-introduction.html">Self Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="sentence-combining.html">Sentence Combining</a></li>
+<li class="toctree-l2"><a class="reference internal" href="spread-of-blog.html">Spread of Blog</a></li>
+<li class="toctree-l2"><a class="reference internal" href="stress-cntrol.html">Stress Cntrol</a></li>
+<li class="toctree-l2"><a class="reference internal" href="stress-control-2.html">Stress Control</a></li>
+<li class="toctree-l2"><a class="reference internal" href="stress-control.html">Stress Control</a></li>
+<li class="toctree-l2"><a class="reference internal" href="summary-2.html">summary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="summary-3.html">Summary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="summary-for-are-your-patients-exercising-too-much.html">Summary for “Are Your Patients Exercising Too Much?”</a></li>
+<li class="toctree-l2"><a class="reference internal" href="summary.html">Summary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="talking-about-where-does-power-come-from.html">Talking about Where does power come from?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="telephone-tips.html">Telephone Tips</a></li>
+<li class="toctree-l2"><a class="reference internal" href="the-schiavo-case.html">The Schiavo case</a></li>
+<li class="toctree-l2"><a class="reference internal" href="trade-war-over-genetically-modified-food.html">Trade war over genetically modified food</a></li>
+<li class="toctree-l2"><a class="reference internal" href="use-windbg-as-an-external-tools-of-visual-c.html">Use windbg as an external tools of Visual C++</a></li>
+<li class="toctree-l2"><a class="reference internal" href="virtual-friends.html">virtual friends</a></li>
+<li class="toctree-l2"><a class="reference internal" href="working-holidays-in-mozambique.html">Working Holidays in Mozambique</a></li>
+<li class="toctree-l2"><a class="reference internal" href="working-tourism.html">Working Tourism</a></li>
+<li class="toctree-l2"><a class="reference internal" href="xu-beihong.html">Xu Beihong</a></li>
+<li class="toctree-l2"><a class="reference internal" href="%E3%80%8A%E8%BD%AC%E6%8D%A2%E6%8C%87%E5%8D%97-%E5%B0%86%E7%A8%8B%E5%BA%8F%E4%BB%8E%E6%89%98%E7%AE%A1%E6%89%A9%E5%B1%95c%E8%BF%81%E7%A7%BB%E5%88%B0ccli%E3%80%8B%E8%AF%91%E5%90%8E.html">《转换指南: 将程序从托管扩展C++迁移到C++/CLI》译后</a></li>
+<li class="toctree-l2"><a class="reference internal" href="%E4%BB%8Esony%E6%8B%9B%E5%9B%9E%E5%90%AB%E7%96%91%E4%BC%BC%E9%97%B4%E8%B0%8D%E8%BD%AF%E4%BB%B6%E7%9A%84cd%E8%AF%B4%E8%B5%B7.html">从Sony招回含疑似间谍软件的CD说起</a></li>
+<li class="toctree-l2"><a class="reference internal" href="%E5%81%87%E5%A6%82%E6%8A%93%E5%88%B0%E4%B8%80%E6%9D%A1%E7%BE%8E%E4%BA%BA%E9%B1%BC%E8%BD%AC%E8%87%AA%E6%9C%BA%E6%88%98%E4%B8%96%E7%95%8C%E8%AE%BA%E5%9D%9B%EF%BC%8C%E6%B0%B4%E6%98%9F%E7%9A%84%E7%88%B1.html">假如抓到一条美人鱼(转自机战世界论坛，水星的爱发)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="%E6%95%B4%E7%90%86%E6%97%A7%E7%85%A7%E7%89%87%E2%80%A6%E2%80%A6.html">整理旧照片……</a></li>
+<li class="toctree-l2"><a class="reference internal" href="%E7%99%BB%E9%B9%B3%E9%9B%80%E6%A5%BC%E7%8E%8B%E4%B9%8B%E7%84%95.html">登鹳雀楼(王之焕)</a></li>
+</ul>
+</details></li>
+</ul></details></li></ul></div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item"><nav class="sidebar-indices-items" aria-labelledby="pst-indices-navigation-heading-2">
+  <p id="pst-indices-navigation-heading-2" class="sidebar-indices-items__title" role="heading" aria-level="1">Indices</p>
+  <ul class="indices-link">
+        <li class="toctree-l1">
+          <a class="reference internal"
+             href="../../genindex.html"
+             accesskey="I">General Index</a>
+        </li>
+  </ul>
+</nav></div>
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="../../reference.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    
+    <li class="breadcrumb-item"><a href="../index.html" class="nav-link">Blogs</a></li>
+    
+    
+    <li class="breadcrumb-item"><a href="index.html" class="nav-link">2005 Blogs</a></li>
+    
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">Access your documents from internet.</span></li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                   <section id="access-your-documents-from-internet">
+<h1>Access your documents from internet.<a class="headerlink" href="#access-your-documents-from-internet" title="Link to this heading">#</a></h1>
+<div class="bvmsg docutils container" id="msgcns-1be894deaf296e0a-199">
+<p> 一个飓风刚走，另一个更大的飓风又来了，这回是直冲本州而来。新奥尔良和休斯敦疏散过来一大堆人，但是这里很可能也得疏散。希望休斯敦不会成为第二个新奥尔良。
+原文(英文)：<a class="reference external" href="http://cn.geocities.com/sheng_jiang/accessdocumentsfrominternet.doc">http://cn.geocities.com/sheng_jiang/accessdocumentsfrominternet.doc</a>
+简介：
+使用USB存储或者软盘可以在机房和家里的计算机之间传输数据，但是在可以访问因特网的时候，在线存储是更加快捷和便宜的替代方案。典型的在线存储包含MSN
+上的“我的网站”、FTP服务，以及基于网页的存储空间。 Sheng Jiang 蒋晟
+September 22, 2005</p>
+<p>2005年9月22日</p>
+<p class="rubric" id="id1">Access your documents from internet.</p>
+<p class="rubric" id="id2">从因特网上访问你的文档</p>
+<p>It is very convenient to have mobile storages such as USB storages or
+floppy disks to transfer files between your home and computer labs,
+but there are other faster and cheaper alternatives. If you have
+internet connection in your home, you can use internet storages as
+temporary liaisons between home and computer labs. Typical internet
+storages include MSN space, some free homepage hosting services, or
+web page based storages.
+持有USB存储或者软盘对于在家里和计算机房之间传输文件来说十分方便，但是其他的替代方案更加快捷和便宜。如果你的家里有因特网连接。那么你可以用在线存储来做家里和计算机房之间的桥梁。典型的在线存储方式包括MSN空间、一些免费个人主页主机服务或者基于访问网页的方式。
+ The fastest internet storage on Microsoft Windows is the My Web
+Sites on MSN folder in the “My Network Places” folder. It is built in
+most computer lab computers. If you not have it in your home
+computer, you can use the Add Network Place Wizard command of My
+Network Places to add a short cut to My Web Sites on MSN.
+微软视窗系统中，最快捷的在线存储是在网上邻居文件夹中的MSN中的我的网站文件夹。它内建于大多数机房的计算机中。如果你的家用计算机上没有这个目录，你可以用网上邻居文件夹中的添加网上邻居向导来添加到MSN中的我的网站文件夹的快捷方式。
+Location of the My Web Sites on MSN Folder</p>
+<p> If the My Web Sites on MSN folder is present, you can access it from
+any software application with file dialog capability, such as Notepad
+or Microsoft Word. For example, on the File menu of Microsoft Word,
+click Open, Save or Save As. In the open or save file dialog box,
+click My Network Places. Under My Network Places, click My Web Sites
+on MSN, and then click Open, as the following figures showed:
+如果MSN中的我的网站文件夹存在，那么你可以从任何支持文件对话框的应用程序来访问，例如记事本和Microsoft
+Word。举例来说，在Microsoft
+Word的文件菜单中点击打开、保存或者另存为，然后在打开或者保存文件对话框中，点击网上邻居，然后打开MSN中的我的网站文件夹，如图：</p>
+<p>Access the My Web Sites on MSN Folder in file dialogs.</p>
+<p>If you are not signed in with your Microsoft Passport account, you
+are prompted to sign in. In the Sign In dialog box, type your
+Passport sign-in name in the Sign-in name box. In the Password box,
+type your Passport password, click to select the “Automatically sign
+me in on this computer” check box if you are using your private
+computer, and then click OK. 如果你没有登录到Microsoft
+Passport，那么你会被提示需要登录。在登录对话框中的登录名文本框键入你的Passport名称，在密码框中键入你的Passport密码，如果你在使用你的私有计算机，选中“自动登录此计算机”复选框，然后点击确定。
+The Sign In dialog box of the My Web Sites on MSN Folder</p>
+<p> If you do not have a Passport account (Hotmail and MSN email
+accounts automatically become Passport accounts), you are prompted to
+create a free one. You can get a free hotmail account at
+<a class="reference external" href="http://www.hotmiail.com/">http://www.hotmiail.com</a>, or use an
+e-mail address you already have as the login name of your new
+Passport account.
+如果你没有一个Passport帐户（Hotmail和MSN的电邮帐户自动成为Passport帐户），你会被提示创建一个。你可以从<a class="reference external" href="http://www.hotmiail.com/">http://www.hotmiail.com</a>免费获得一个hotmail帐户，或者使用你现有的email帐户作为新的Passport帐户登录名。
+The Hotmail homepage</p>
+<p>After signed in to MSN, you can open the desired folder to open or
+save your files. You can also create one if necessary.
+在登录到MSN之后，你可以打开目标目录来打开或者保存文件，有必要时也可以创建自己的目录。
+Note: you can not save files into the root folder or the root folder
+of a group. Instead, you need to save to the files directory of a
+group, such as the “Documents” folder in the “My Web Documents”
+group.
+注意:你不能保存到根目录或者社群的根目录。你需要保存到社群的文件目录，例如“My
+Web Documents” 社群中的“Documents” 文件夹。   If you are using a
+public computer, you may need to prevent unauthorized accessing to
+your documents after you leave it. To accomplish this, you need first
+close all applications, open a web browser, go to
+<a class="reference external" href="http://www.msn.com/">http://www.msn.com</a> and click the Sign
+in link, and then click the Sign out link.
+如果你在使用一个公用计算机，你可能需要阻止在你离开计算机之后对你的文档的未授权访问。你需要首先关闭所有程序，打开一个网页浏览器，访问<a class="reference external" href="http://www.msn.com/">http://www.msn.com</a>，点击登录链接，然后点击登出链接。
+In case you want to manage the files in the My Web Sites on MSN
+folder, you can try to access it through Windows Explorer. First,
+open the Windows Explorer by double clicking the “My Computer” icon
+on your Windows desktop, then open My Network places, If the My Web
+Sites on MSN folder is listed, sign in with a Microsoft Passport
+account, and use it as if it is a local folder. After finished
+working with the My Web Sites on MSN folder, remember to sign out
+from <a class="reference external" href="http://www.msn.com/">http://www.msn.com</a> .
+在你需要管理MSN中的我的网站文件夹中的文件的时候，你可以从Windows的资源管理器中访问。首先，双击你的计算机桌面上的我的电脑图标来打开资源管理器，然后打开网上邻居。如果MSN中的我的网站文件夹在列表中，那么你可以打开它，使用一个Passport帐户登录，然后和普通文件夹一样来访问。在使用完毕之后要记得从<a class="reference external" href="http://www.msn.com/">http://www.msn.com</a>登出。
+If the My Web Sites on MSN folder is not available in the My Network
+places folder, you can still access through a web browser such as
+Internet Explorer. Open <a class="reference external" href="http://www.msn.com/">http://www.msn.com/</a>, and click the “Sign
+In” link to sign in. After that, go to
+<a class="reference external" href="http://groups.msn.com/">http://groups.msn.com</a>, and click the
+“My Storage Info” link. Your document will be displayed in a list.
+You can also delete your files by selecting files and clicking the
+“Delete Select Files” link.
+如果 MSN中的我的网站文件夹不在网上邻居中，你仍旧可以通过一个网页浏览器来访问它，举例来说，用Internet
+Explorer。打开Open
+<a class="reference external" href="http://www.msn.com/">http://www.msn.com/</a>，点击登入链接来登录，之后访问<a class="reference external" href="http://groups.msn.com/">http://groups.msn.com</a>，点击我的存储信息，你的文档将会显示在网页上的列表中。你也可以选中文件之后点击<em>删除选中文件</em>链接来删除文件。
+The My Storage Info page</p>
+<p>Note: You can not add files to your storage here. Uploading files is
+a little more complicated. You can click the “create a group” link on
+<a class="reference external" href="http://groups.msn.com/">http://groups.msn.com</a>, and then
+follow the instructions on the web page to create a group, and then
+create a “Documents Folder” page in it. This page is where you upload
+your files.
+ 注意：你不能在这里添加文件。上传文件相对来说复杂一点。你可以点击“创建社群”链接并且根据网页的指示来创建一个社群并且创建一个文档页面。文档页面是你上传文件的地方。
+Currently, Microsoft offers only 3M of free storage on the MSN Web
+site for each Passport customer. Additional storage can be purchased
+through MSN Hotmail Plus for a low yearly fee. However, there are
+many ways to get larger free space, the FTP service of personal
+homepage hosting services, for example. You can apply for an account
+of free personal homepage hosting services that support FTP access
+such as <a class="reference external" href="http://www.lycos.com/">http://www.lycos.com</a>, and
+then type
+<a class="reference external" href="ftp://hostserver/">ftp://username:password&#64;hostserver</a> to
+access their FTP hosts as if they are local folders. The difference
+is that you need to use a local folder as a liaison, save to it or
+copy files from ftp host to it first, because usually you can not
+access it in the file dialogs. To open an FTP host in Windows
+Explorer or Internet Explorer, type the FTP address in the address
+bar, type your account name and password, and then treat it as a
+local folder. However, although hosting services providers usually
+offer larger spaces, but they are not always happy when you don’t use
+it for your homepage, and sometimes they may eject some files. In
+addition, accessing via FTP is also a little slower then the My Web
+Sites on MSN folder, but it is still a good alternative.
+目前微软只为每个Passport帐户提供3兆免费存储。额外的空间可以通过支付年费订购MSN
+Hotmail
+Plus来获得，但是有很多其他方法获得更多免费的空间。你可以申请一个支持FTP访问的免费个人主页主机，例如<a class="reference external" href="http://www.lycos.com/">http://www.lycos.com</a>的帐户，然后在资源管理器或者IE中输入ftp://用户名:密码&#64;主机域名之后和访问本地文件夹一样的方式来访问FTP主机。和MSN空间不同的是，你通常不能直接从文件对话框访问这样的目录，而需要用一个本地目录作中转，保存到这个目录之后复制到FTP主机，或者从FTP主机复制到这个目录之后打开。但是，虽然免费个人主页主机服务商通常提供比较大的空间，但是他们并不总乐于见到你把空间只用于文件存储而不用于主页用途。有时他们也会拒绝存储特定文件。另外，通过FTP的访问的速度比MSN空间要慢。
+The FTP view of Windows Explorer</p>
+<p>The most common and perhaps the slowest internet storages are web
+page based storages, such as huge email inbox, photo and file
+storages. For example, Yahoo Email
+(<a class="reference external" href="http://mail.yahoo.com/">http://mail.yahoo.com</a> ) offer
+2G inbox, Yahoo! Briefcase (<a class="reference external" href="http://briefcase.yahoo.com/">http://briefcase.yahoo.com/</a>) offers
+30M free space, and Yahoo! Photos (<a class="reference external" href="http://photos.yahoo.com/">http://photos.yahoo.com/</a>)
+offers unlimited storage for JPEG photo files. The only requirements
+of these Yahoo! services are a free Yahoo ID and a web browser.
+However, they are also much slower then the FTP services, because the
+only way to access them is through web pages, which require many more
+human interactions.
+最常见，同时也可能是最慢的在线存储就是基于网页的在线存储了，例如大型的电邮收件箱、在线相册和在线文件存储。举例来说，雅虎电邮(<a class="reference external" href="http://mail.yahoo.com/">http://mail.yahoo.com</a>) 提供两G的收件箱，雅虎公文包 (<a class="reference external" href="http://briefcase.yahoo.com/">http://briefcase.yahoo.com/</a>)
+提供30兆免费空间，而且雅虎相册(<a class="reference external" href="http://photos.yahoo.com/">http://photos.yahoo.com/</a>)
+提供无限的JPG格式文件存储服务。这些雅虎服务的唯一需求是一个免费的雅虎帐号和一个浏览器，但是，它们比FTP服务要慢的多，因为访问它们的唯一方式是浏览网页，这需要太多的人机交流。</p>
+<p>Yahoo! Briefcase</p>
+<p>* * Note: some free storage service providers may stop their services
+if you violate their rules, or empty your storage if you don’t use
+them for a long time. Keep an eye on their terms of services, and do
+not exploit their services.
+* 注意：一些免费存储服务可能在你违反它们的使用条款之后停止服务或者在你长期搁置它们之后清空你的存储。注意阅读它们的服务条款，并且不要滥用它们的服务。*
+As mentioned before, internet storage can be very handy if you have
+internet access in your home. You can simply save your files in your
+home, and open it from your computer lab, or vise visa. Although the
+My Web Sites on MSN folder is the fastest among them, sometimes you
+may still need to use the FTP services and web page based storages
+because space shortage. Use them will save your time and expense on
+USB storage or floppy disks.
+综上所述，在你家中有因特网访问时在线存储可能很有用处。你可以在家里保存文件，然后在计算机房打开它，或者反之。虽然MSN中的我的网站文件夹是最快捷的，但是有时你仍需使用FTP服务和基于网页的在线存储服务来避免空间紧缺。使用它们可以节省你使用USB设备或者软盘的时间和金钱。</p>
+</div>
+</section>
+
+<div class="section ablog__blog_comments">
+     
+<div class="section ablog__prev-next">
+  <span class="ablog__prev">
+     
+    <a href="pic-16f88-microcontroller-servo-controller-project.html">
+      
+      <i class="fa fa-arrow-circle-left"></i>
+      
+      <span>PIC 16F88 Microcontroller Servo Controller Project</span>
+    </a>
+    
+  </span>
+  <span class="ablog__spacer">&nbsp;</span>
+  <span class="ablog__next">
+     
+    <a href="how-to-use-visual-c-with-perl.html">
+      <span>How to use Visual C++ with Perl</span>
+      
+      <i class="fa fa-arrow-circle-right"></i>
+      
+    </a>
+    
+  </span>
+</div>
+  
+</div>
+
+                </article>
+              
+              
+              
+                <footer class="bd-footer-article">
+                  <div class="footer-article-items footer-article__inner">
+  
+    <div class="footer-article-item"><script src="https://utteranc.es/client.js"
+        repo="jiangsheng/jiangsheng.github.io"
+        branch="master"
+        issue-term="pathname"
+        label="UtteranceComments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async=async">
+</script></div>
+  
+</div>
+                </footer>
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="a-successful-moment.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">A Successful Moment</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="assignment1.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Assignment1</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="../../_sources/blogs/2005/access-your-documents-from-internet.rst.txt"
+           rel="nofollow">Show Source</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/blogs\2005\access-your-documents-from-internet.rst"
+           rel="nofollow">Show on GitHub</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/blogs\2005\access-your-documents-from-internet.rst"
+           rel="nofollow">Edit on GitHub</a></li>
+  </ul>
+  <h3>Social Media Links</h3>
+  <ul>
+    <li>twitter (archived): #jiangsheng </li>
+    <li>bluesky: <a href="https://bsky.app/profile/sheng-jiang.bsky.social"> sheng-jiang.bsky.social</a></li>
+    <li>stackoverflow: <a href="https://stackoverflow.com/users/109919/sheng-jiang-%e8%92%8b%e6%99%9f">Sheng Jiang 蒋晟</a></li>
+  </ul></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script defer src="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item">
+
+  <p class="copyright">
+    
+      © Copyright 2018-, Sheng Jiang.
+      <br/>
+    
+  </p>
+</div>
+      
+        <div class="footer-item">
+
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 8.2.3.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item">
+<p class="theme-version">
+  <!-- # L10n: Setting the PST URL as an argument as this does not need to be localized -->
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.16.1.
+</p></div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>

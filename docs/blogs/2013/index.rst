@@ -8,11 +8,12 @@
    :maxdepth: 1
    :caption: 内容:
    :titlesonly:
-    
-    Howto: Ignoring web browser certificate errors in a webbrowser host <ignoring_web_browser_control_certificate_errors>
-    How to restart Windows Explorer programmatically using Restart manager<restart_explorer_manager>
-
-Indices and tables
+        
+   another-breaking-change-related-to-64-bit-compatibility-this-time-in-tapisrv-wwindows-8.rst
+   book-review-mastering-winddows-8-c-app-development.rst
+   how-to-restart-windows-explorer-programmatically-using-restart-manager.rst
+   howto-ignoring-web-browser-certificate-errors-in-webbrowser-host.rst
+   when-you-get-a-system-badimageformatexception-maybe-you-indeed-have-a-bad-system-image.rst
 
 * :ref:`genindex`
 * :ref:`modindex`

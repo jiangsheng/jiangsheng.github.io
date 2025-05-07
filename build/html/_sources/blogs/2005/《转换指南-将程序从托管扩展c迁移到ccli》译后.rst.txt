@@ -1,0 +1,18 @@
+《转换指南: 将程序从托管扩展C++迁移到C++/CLI》译后
+==============================================================
+.. post:: 17, Mar, 2005
+   :tags: C++/CLI,Managed C++,Visual C++
+   :category: Microsoft,Visual Studio
+   :author: jiangshengvc
+   :nocomments:
+
+.. container:: bvMsg
+   :name: msgcns!1BE894DEAF296E0A!142
+
+   终于把Stan Lippman先生的这篇文章译完了。从去年4月在全球MVP峰会上拿到这篇文章的手稿到现在，差不多一年过去了。虽然当时的Visual Studio 2005还不支持一些语法，但是我和董颖涛对新的C++/CLI语言都很感兴趣，在当时就讨论过翻译的问题。之后我就开始翻译这篇文章，但是进度一直很慢——主要是杂务太多、语言上的困难（尽量避免误解和词不达意的情况，以及斟酌用词的选择）。在1月份完成了全文之后，看到了Sunhui的一篇文章（http://community.csdn.net/expert/Topicview1.asp?id=3834281），觉得附录里面讲到的一些内容或许一些人也有兴趣，所以继续翻译附录的工作，幸好现在是春假，比较有时间，终于在今天完成了。译文目前在http://blog.csdn.net/jiangsheng/archive/2004/10/18/140450.aspx可以访问，希望读者指正。
+   在翻译过程中得到了曾毅的帮助，得以联系到Stan Lippman先生，在此一并感谢。
+   文章简介：
+   C++/CLI代表ISO-C++标准语言的一个动态编程范型扩展(dynamic `programming paradigm <http://en.wikipedia.org/wiki/Programming_paradigm>`__
+   extension). 在原版语言设计(V1)中有许多显著的弱点，我们觉得在修订版语言设计(V2)中已经修正了。 本文列举了V1版本语言的特色和它们在V2版本中的对应 （如果有这样的对应存在的话）；并指出为对应不存在的V1特色构建的语言特性。对于有兴趣的读者，附录中提供新语言设计的扩展原理。 另外，一个源代码级别的转换工具(mscfront)正在开发中，而且可能在C++/CLI的发布版中提供给希望 自动化移植V1代码到新语言设计的人。
+   本文分为五个章节加一个附录。第一节讨论主要的语言关键字，特别是双下划线的移除以及上下文性和分段关键字。 第二节着眼于托管数据类型的变化——特别是托管引用类型和数组类型。还可以在这里找到有关确定性终结化语义（deterministic finalization）的详细讨论。关于类成员的变化，例如属性、索引属性和操作符，是第三节的焦点。第四节着眼于托管枚举、内部和约束指针的语法变化。它也讨论了许多可观的语义变化，例如隐式装箱的引入、托管CLI枚举的变化，和对值类默认构造函数的支持的移除。第五节有几分像大杂烩——声名狼藉的杂项。可以在里面找到对类型转换符号、字符串常数的行为和参数数组的讨论。
+   原帖来自于网易社区:http://p5.club.163.com/viewArticleByWWW.m?boardId=clanguage&articleId=clanguage_102af78217a4c5b

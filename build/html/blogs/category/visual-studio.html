@@ -1,0 +1,2050 @@
+
+<!DOCTYPE html>
+
+
+<html lang="zh-CN" data-content_root="../../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Posts in Visual Studio &#8212; jiangsheng&#39;s docs</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-design.min.css?v=95c83b7e" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css?v=cda70fc7" />
+  
+  <!-- So that users can add custom icons -->
+  <script src="../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+
+    <script src="../../_static/documentation_options.js?v=aec57771"></script>
+    <script src="../../_static/doctools.js?v=9bcbadda"></script>
+    <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script async="async" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3710396369816898"></script>
+    <script src="../../_static/design-tabs.js?v=f930bc37"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'blogs/category/visual-studio';</script>
+    <script src="../../_static/js/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <link rel="canonical" href="https://git.jiangsheng.net/build/html/blogs/category/visual-studio.html" />
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" /> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="zh-CN"/>
+  <meta name="docsearch:version" content="" /> 
+<link
+  rel="alternate"
+  type="application/atom+xml"
+  href="..//atom.xml"
+  title="Posts in Visual Studio"
+/>
+  
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-3 navbar-header-items__start">
+    
+      <div class="navbar-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../../reference.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">jiangsheng's docs</p>
+  
+</a></div>
+    
+  </div>
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../games/index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+    </div>
+  
+
+  
+</div>
+
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+        
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar hide-on-wide">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          
+          
+            <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../games/index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+          
+        
+      </div>
+    
+    
+    
+  </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item"><nav class="sidebar-indices-items" aria-labelledby="pst-indices-navigation-heading-2">
+  <p id="pst-indices-navigation-heading-2" class="sidebar-indices-items__title" role="heading" aria-level="1">Indices</p>
+  <ul class="indices-link">
+        <li class="toctree-l1">
+          <a class="reference internal"
+             href="../../genindex.html"
+             accesskey="I">General Index</a>
+        </li>
+  </ul>
+</nav></div>
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="../../reference.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">Posts in Visual Studio</span></li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                   
+<div class="section ablog__collection">
+  <h1>
+    
+    <span
+      >Posts in  Visual Studio 
+    </span>
+  </h1>
+   
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="../2013/book-review-mastering-winddows-8-c-app-development.html">Book review: Mastering Windows 8 C++ App Development</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>08 August 2013</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="enmsdn.html">enmsdn</a>
+     ,    
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="visual-c.html">Visual C++</a>
+     ,    
+    <a href="#">Visual Studio</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tags"></i>
+       
+    </span>
+     
+    <a href="../tag/directx.html">DirectX</a>
+        
+    <a href="../tag/microsoft-windows.html">Microsoft Windows</a>
+        
+    <a href="../tag/model-view-viewmodel.html">Model View ViewModel</a>
+        
+    <a href="../tag/windows-8.html">Windows 8</a>
+        
+    <a href="../tag/windows-runtime.html">Windows Runtime</a>
+        
+    <a href="../tag/windows-store.html">Windows Store</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p>Disclaimer: I am a Microsoft MVP in Visual C++, so is Pavel Yosifovich,
+the author of the book. Mastering Windows 8 C++ App Development by Pavel
+Yosifovich is a new addition to the Windows Store development books. It
+took me a while to read (304 pages) but is well worth the time from the
+perspective of a C++ developer. The book obviously went through great
+lengths to be comprehensive, not only introduced the typical Windows
+Runtime (WinRT) APIs in a crisp manner but also added a refreshment of
+C++ 11, the Model View ViewModel (MVVM) pattern, and the Windows Runtime
+C++ Template Library (WRL). In addition, being a book for C++
+developers, the author’s emphasis on performance can be found in several
+tips and discussions, which is a nice focus for C++ developers. There
+are also several weaknesses in the book. Introducing WRL before C++/CX
+may be a poor choice as it is difficult to inspire the reader with
+laborious code. Also the book could use a few more details on DirectX
+and some WinRT APIs such as GeoPosition. Nevertheless, the book is an
+excellent text for the subject and I recommend the book to C++
+programmers who want to start developing Windows Store apps and can do
+research outside of the book.</p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2013/book-review-mastering-winddows-8-c-app-development.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+  
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="../2013/when-you-get-a-system-badimageformatexception-maybe-you-indeed-have-a-bad-system-image.html">When you get a System.BadImageFormatException. maybe you indeed have a bad system image.</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>08 February 2013</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="#">Visual Studio</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tags"></i>
+       
+    </span>
+     
+    <a href="../tag/net-framework.html">.NET Framework</a>
+        
+    <a href="../tag/call-stack.html">Call stack</a>
+        
+    <a href="../tag/exception-handling.html">Exception handling</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p>I am getting a StackOverflowException with two functions repeating on
+the <a class="reference external" href="http://en.wikipedia.org/wiki/Call_stack">call stack</a>, one is
+the constructor of System.BadImageFormatException, another is
+System.Environment.GetResourceStringLocal.  Since the call that throws
+the stack overflow is to a <a class="reference external" href="http://en.wikipedia.org/wiki/Web_service">web
+service</a> proxy defined in
+the same project as the application, there isn’t a 32bit/64bit mismatch
+here (32bit machine with every project targeting x86), unlike almost all
+other discussions on the internet about this exception. After inspecting
+Fusion and event logs and finding nothing suspicious, I decided to treat
+it as a real bad image problem and reinstalled .Net. Ура! The exception
+went away after reinstalling. Sometimes, the exception name isn’t
+misleading. PS
+a <a class="reference external" href="http://stackoverflow.com/questions/7705751/system-badimageformatexception-an-attempt-was-made-to-load-a-program-with-an-i">similar question</a>
+was closed as too vague on stackoverflow.</p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2013/when-you-get-a-system-badimageformatexception-maybe-you-indeed-have-a-bad-system-image.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+  
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="../2012/how-to-migrating-a-clr-console-visual-c-project-to-windows-forms.html">How to: Migrating a CLR console Visual C++ project to Windows Forms</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>17 December 2012</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="enmsdn.html">enmsdn</a>
+     ,    
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="#">Visual Studio</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tags"></i>
+       
+    </span>
+     
+    <a href="../tag/ccli.html">C++/CLI</a>
+        
+    <a href="../tag/console-application.html">Console application</a>
+        
+    <a href="../tag/visual-c.html">Visual C++</a>
+        
+    <a href="../tag/windows-form.html">Windows Form</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p>Note: <a class="reference external" href="http://en.wikipedia.org/wiki/Microsoft_Windows">Windows</a> Forms
+programming in new development is <a class="reference external" href="http://stackoverflow.com/questions/913417/will-windows-forms-be-deprecated-in-favor-of-wpf">discouraged by
+Microsoft</a> at
+this point as Microsoft wants to make full use of hardware accelerated
+drawing instead of using the CPU-intensive
+<a class="reference external" href="http://en.wikipedia.org/wiki/Graphics_Device_Interface">GDI</a>. But
+maintaining old Windows Forms code in <a class="reference external" href="http://msdn2.microsoft.com/en-us/visualc/default.aspx">Visual
+C++</a> 2012 is
+still supported, GDI isn’t going anywhere anytime soon. Visual C++ 2012
+removed the Windows Forms project template and I see people scramble to
+find ways to create a Windows Forms project.  There is a walkaround
+that’s been around for years, that is, to convert a <a class="reference external" href="http://msdn.microsoft.com/en-us/library/z6ad605x(v=vs.110).aspx">CLR console
+application</a>
+to a Windows one, then add forms related code to the project. The basic
+steps are listed
+at <a class="reference external" href="http://support.microsoft.com/kb/317433">http://support.microsoft.com/kb/317433</a>, conveniently named “How to
+suppress the console window for a managed extensions to Visual C++
+<a class="reference external" href="http://en.wikipedia.org/wiki/Windows_Forms">Windows Forms
+application</a>”. Yes, the
+need to convert a C++ console application to windows forms is that old,
+back all the way back in the <a class="reference external" href="http://en.wikipedia.org/wiki/Managed_Extensions_for_C%2B%2B">managed extensions for
+C++</a>
+ days. So what I need to do to add Windows Forms support to a C++/CLI
+console application? Of course the System.Windows.Forms.dll reference is
+missing in a new console application, so I need to reference it:</p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2012/how-to-migrating-a-clr-console-visual-c-project-to-windows-forms.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+  
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="../2012/add-the-correct-interface-first-in-the-adding-a-class-from-an-activex-control-wizard.html">Add the correct interface first in Adding an MFC Class from an ActiveX Control wizard.</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>04 December 2012</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="enmsdn.html">enmsdn</a>
+     ,    
+    <a href="mfc.html">MFC</a>
+     ,    
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="microsoft-foundation-class-library.html">Microsoft Foundation Class Library</a>
+     ,    
+    <a href="#">Visual Studio</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tags"></i>
+       
+    </span>
+     
+    <a href="../tag/activex.html">ActiveX</a>
+        
+    <a href="../tag/com.html">COM</a>
+        
+    <a href="../tag/visual-c.html">Visual C++</a>
+        
+    <a href="../tag/windows-media-player.html">Windows Media Player</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p>In good old times aka VC6, if you want to use an ActiveX in MFC,
+the <a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa269050(v=vs.60).aspx">Components and Controls
+Gallery</a>
+would generate all the properties and methods of an ActiveX and pull
+dependent types and create wrapper classes for them as well. And it was
+good. It magically knows the main class of the <a class="reference external" href="http://en.wikipedia.org/wiki/Windows_Media_Player">Windows Media
+Player</a> ActiveX
+is CWMPPlayer4 and that GetCurrentMedia
+<a class="reference external" href="http://en.wikipedia.org/wiki/Method_%28computer_programming%29">method</a>
+returns CWMPMedia. Welcome to the modern <a class="reference external" href="http://en.wikipedia.org/wiki/Visual_C%2B%2B">Visual
+C++</a>. Now comes a <a class="reference external" href="http://msdn.microsoft.com/en-us/library/9kdzetyx.aspx">new
+wizard</a> that
+gives you options to choose interfaces to import from. At the same time
+you got to decide if you really need that many types from an ActiveX.
+ If you went the unfortunate path of <a class="reference external" href="http://msdn.microsoft.com/en-us/library/86kdbbs8.aspx">Adding a Member Variable
+wizard</a> in the
+<a class="reference external" href="http://msdn.microsoft.com/en-us/library/6zd672xs.aspx">dialog
+editor</a> and
+somehow got a COCX1 class back, you don’t have the luxury to choose, and
+you end up with an CWnd wrapper class that does not really wrap up the
+properties and methods of the ActiveX. It is still good for early
+binding (like querying IWMPPlayer4 from the result of
+<a class="reference external" href="http://msdn.microsoft.com/en-us/library/6fde5b3k.aspx">CWnd::GetControlUnknown</a>)
+but if you plan to use late binding and MFC’s OLE support (hello
+<a class="reference external" href="http://msdn.microsoft.com/en-us/library/fa1zk0fk(v=vs.110).aspx">COleException</a>!),
+ you probably want to delete the COCX1 files and start over with the
+Adding a Class from an ActiveX Control wizard. Good thing about the new
+Adding a Class from an ActiveX Control wizard is that most of time we
+don’t care about the majority of the types in the ActiveX’s type
+library. We are not going to call most of the ActiveX’s functionality
+anyways, so selecting what we would use makes sense. Bad thing is that
+now we don’t know the return type of a method from the generated classes
+if the return type is LPDISPATCH, lead to guesswork or fire
+up <a class="reference external" href="http://msdn.microsoft.com/en-us/library/windows/desktop/ms693754(v=vs.85).aspx">OLEView</a>
+to look up the types in the ActiveX’s type library). Now comes the worst
+part of the new wizard. The wizard somehow lost its ability to find the
+correct ActiveX control class and opt to use the first selected
+interface to generate a CWnd wrapper.  If you naturally click on the &gt;&gt;
+button to select all interfaces in the Windows Media Player ActiveX at
+once, you get a CWMPCdromCollection derived from CWnd. That  won’t work
+as the ActiveX does not implement the IWMPCdromCollection interfaces
+(undefined behavior can happen if you call the generated methods), and
+certainly the WMPCdromCollection class isn’t an insertable ActiveX.
+Fortunately it is easy to avoid this issue if you add the ActiveX’s main
+interface first (e.g. IWMPPlayer4 for the Windows Media Player control)
+before adding the rest of interfaces, or correct the generated code for
+the first interface. That is, swap the CWnd and COleDispatchDriver code
+between the wrong class and the correct class for the main interface. It
+takes some time to find the correct class for the ActiveX control,
+however. Side note: For code cleanness, you probably want to move the
+InvokeHelper code in the headers to cpp files like VC6 did. A good C++
+<a class="reference external" href="http://en.wikipedia.org/wiki/Code_refactoring">refactoring tool</a> can
+help that tremendously.</p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2012/add-the-correct-interface-first-in-the-adding-a-class-from-an-activex-control-wizard.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+  
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="../2012/howto-reset-ie-security-zone-settings-programmatically.html">Howto: reset IE security zone settings programmatically</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>26 November 2012</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="enmsdn.html">enmsdn</a>
+     ,    
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="visual-c.html">Visual C++</a>
+     ,    
+    <a href="#">Visual Studio</a>
+     ,    
+    <a href="webbrowser-control.html">Webbrowser control</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tags"></i>
+       
+    </span>
+     
+    <a href="../tag/internet-explorer-7.html">Internet Explorer 7</a>
+        
+    <a href="../tag/security-zone-settings.html">security zone settings</a>
+        
+    <a href="../tag/trident-layout-engine.html">Trident (layout engine)</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p><a class="reference external" href="http://en.wikipedia.org/wiki/Internet_Explorer_7">Internet Explorer
+7</a> introduced
+the <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537055(v=VS.85).aspx">IInternetZoneManagerEx2</a>
+interface, which has a FixUnsecureSettings method to reset all security
+zone settings. Like all other IInternetZoneManager* interfaces, you can
+query this interface from the internet zone manager object:
+IInternetZoneManagerEx2* pzoneManager=NULL;
+<a class="reference external" href="http://en.wikipedia.org/wiki/HRESULT">HRESULT</a>
+hr=CoCreateInstance(CLSID_InternetZoneManager
+,NULL,CLSCTX_INPROC_SERVER,IID_IInternetZoneManagerEx2,(LPVOID*)&amp;pzoneManager);
+if(hr==S_OK &amp;&amp; pzoneManager!=NULL) {
+hr=pzoneManager-&gt;FixUnsecureSettings(); } There’s
+another <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537159(v=VS.85).aspx">CoInternetCreateZoneManager</a>
+function to get the zone manager object’s IInternetZoneManager
+interface.</p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2012/howto-reset-ie-security-zone-settings-programmatically.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+  
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="../2011/bug-in-security-update-for-visual-c-redistributable-package-april-12-2011-causes-program-error-on-windows-2000.html">Bug in Security Update for Visual C++ Redistributable Package: April 12, 2011 causes program error on Windows 2000</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>17 April 2011</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="enmsdn.html">enmsdn</a>
+     ,    
+    <a href="mfc.html">MFC</a>
+     ,    
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="#">Visual Studio</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tags"></i>
+       
+    </span>
+     
+    <a href="../tag/deployment.html">Deployment</a>
+        
+    <a href="../tag/microsoft-foundation-class-library.html">Microsoft Foundation Class Library</a>
+        
+    <a href="../tag/redistributable.html">Redistributable</a>
+        
+    <a href="../tag/visual-c.html">Visual C++</a>
+        
+    <a href="../tag/windows-2000.html">Windows 2000</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p>[caption id=”” align=”alignright” width=”300” caption=”Image via
+Wikipedia”]<a class="reference external" href="http://en.wikipedia.org/wiki/File:Windows_Update_v3.png"><img alt="Windows Update version 3 in Windows 98" src="http://upload.wikimedia.org/wikipedia/en/thumb/4/49/Windows_Update_v3.png/300px-Windows_Update_v3.png" style="width: 300px; height: 204px;" /></a>[/caption]</p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2011/bug-in-security-update-for-visual-c-redistributable-package-april-12-2011-causes-program-error-on-windows-2000.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+  
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="../2011/how-to-solve-lnk2001-errors-related-to-windows-sdk-clsids.html">How to solve LNK2001 errors related to Windows SDK CLSIDs</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>08 April 2011</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="enmsdn.html">enmsdn</a>
+     ,    
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="#">Visual Studio</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tags"></i>
+       
+    </span>
+     
+    <a href="../tag/globally-unique-identifier.html">Globally unique identifier</a>
+        
+    <a href="../tag/microsoft-windows-sdk.html">Microsoft Windows SDK</a>
+        
+    <a href="../tag/visual-c.html">Visual C++</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p>User IMFCoder <a class="reference external" href="http://social.msdn.microsoft.com/Forums/en-US/vcgeneral/thread/7aa5ff12-cf78-438d-b9de-324a0530ca87/">wants to
+know</a>
+how to solve a LNK2001 error related to CLSID_CMpeg4sDecMediaObject. The
+user has no problem linking a lib file in the project but couldn’t find
+which lib the CLSID is in. The <a class="reference external" href="http://en.wikipedia.org/wiki/Microsoft_Windows_SDK">Windows
+SDK</a> is strangely
+cryptic on which lib file the CLSID is exported from. Luckily you can
+find out the library file you need to link with, if you execute the
+following <a class="reference external" href="http://en.wikipedia.org/wiki/Command-line_interface">command
+line</a> in the SDK
+command prompt Update: use findstr /m /S /c:”CMpeg4” *.lib is easier
+C:\Program Files\Microsoft SDKs\Windows\v7.0\Lib&gt;for %a in (*.lib)
+do dumpbin /symbols %a |find “CMpeg4” After a bunch of fruitless
+searches, the search yields the results when it encounters
+wmcodecdspuuid.lib C:\Program Files\Microsoft
+SDKs\Windows\v7.0\Lib&gt;dumpbin /symbols wmcodecdspuuid.lib   | find
+“CMpeg4” 056 00000000 SECT1D notype       External     |
+_CLSID_CMpeg4DecMediaObject 059 00000000 SECT1E notype
+External     | _CLSID_CMpeg43DecMediaObject 05C 00000000 SECT1F
+notype       External     | _CLSID_CMpeg4sDecMediaObject 05F 00000000
+SECT20 notype       External     | _CLSID_CMpeg4sDecMFT 065 00000000
+SECT22 notype       External     | _CLSID_CMpeg4EncMediaObject 068
+00000000 SECT23 notype       External     |
+_CLSID_CMpeg4sEncMediaObject There is a big uuid.lib file contains most
+of the SDK CLSIDs in the Windows SDK, and it is likely linked by default
+if you use Visual C++’s project templates, so you may not see the link
+error at all if you use common CLSIDs like CLSID_InternetExplorer. There
+are also <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ff960419.aspx">GUIDs defined in the Windows SDK using the DEFINE_GUID
+macro</a>. The
+SDK assumes you to initialize the GUID using the methods demonstrated in
+<a class="reference external" href="http://support.microsoft.com/kb/130869">How to avoid error “LNK2001 unresolved external” by using
+DEFINE_GUID</a>.</p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2011/how-to-solve-lnk2001-errors-related-to-windows-sdk-clsids.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+  
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="../2010/what-is-the-difference-between-int-and-systemint32.html">What is the difference between int and System::Int32</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>22 November 2010</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="enmsdn.html">enmsdn</a>
+     ,    
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="visual-c.html">Visual C++</a>
+     ,    
+    <a href="#">Visual Studio</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tags"></i>
+       
+    </span>
+     
+    <a href="../tag/c.html">C#</a>
+        
+    <a href="../tag/ccli.html">C++/CLI</a>
+        
+    <a href="../tag/integer-computer-science.html">Integer (computer science)</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p>Some may say identical, at least that’s what the <a class="reference external" href="http://msdn2.microsoft.com/en-us/visualc/default.aspx">Visual
+C</a>++ compiler
+tells you at the first glance  when you turn on /oldsyntax public __gc
+class Class1 { public: void F1(int a){} void F1(System::Int32 a){}
+//Error    2    error  2535:  void Class1::F1(int)’ : member function
+already defined or declared } Okay, so if I add &amp; to the parameter types
+I should get the same error right?void F1(int&amp;a){} void
+F1(System::Int32&amp; a){} Build: 1 succeeded, 0 failed, 0 up-to-date, 0
+skipped Wait, didn’t I get an error just now? You are right, somehow the
+compiler treat the two types differently when passing by reference. look
+at the function signatures in
+<a class="reference external" href="http://en.wikipedia.org/wiki/Common_Intermediate_Language">MSIL</a>.
+Int32 is passed by reference as expected</p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2010/what-is-the-difference-between-int-and-systemint32.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+  
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="../2009/how-to-force-popup-window-to-navigate-in-the-same-window-in-a-webbrowser-control.html">How to force popup window to navigate in the same window in a webbrowser control</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>22 November 2009</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="enmsdn.html">enmsdn</a>
+     ,    
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="visual-c.html">Visual C++</a>
+     ,    
+    <a href="#">Visual Studio</a>
+     ,    
+    <a href="webbrowser-control.html">Webbrowser control</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tags"></i>
+       
+    </span>
+     
+    <a href="../tag/activex.html">ActiveX</a>
+        
+    <a href="../tag/internet-explorer.html">Internet Explorer</a>
+        
+    <a href="../tag/internet-explorer-6.html">Internet Explorer 6</a>
+        
+    <a href="../tag/trident-layout-engine.html">Trident (layout engine)</a>
+        
+    <a href="../tag/web-browser.html">Web browser</a>
+        
+    <a href="../tag/webbrowser-control.html">WebBrowser Control</a>
+        
+    <a href="../tag/windows-server-2003.html">Windows Server 2003</a>
+        
+    <a href="../tag/windows-xp.html">Windows XP</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p>When clicking on an link that targets a new window,  the default
+behavior of a webbrowser control host application is to open a new
+window in <a class="reference external" href="http://en.wikipedia.org/wiki/Internet_Explorer">Internet
+Explorer</a>. User
+ben_lai <a class="reference external" href="http://topic.csdn.net/u/20091120/11/b023d1e9-f31e-4671-bae7-45d6f4fca9e8.html">wants to
+know</a>
+how to handle the click and navigate to the same window. There are three
+events that notifies a new window,
+<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768335(v=VS.85).aspx">NewWindow</a>
+(The current documentation of this event is wong, check
+<a class="reference external" href="http://support.microsoft.com/kb/185538/EN-US/">http://support.microsoft.com/kb/185538/EN-US/</a> for the parameters of the
+event),
+<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768336(v=VS.85).aspx">NewWindow2</a>
+and
+<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768337(VS.85).aspx">NewWindow3</a>,
+each one has a cancel parameter to stop the new window being created,
+though for NewWindow2, it requires cooperation of
+<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768326(v=VS.85).aspx">BeforeNavigate2</a>
+to get the url of the new window. After getting the url, the navigation
+can be carried out in the original window by calling Navigate2. The
+obsolete NewWindow Event has the url right in the parameter so you can
+cancel the navigation and call the navigation methods of the
+<a class="reference external" href="http://en.wikipedia.org/wiki/Web_browser">webbrowser</a> control with
+the new url. The problem is, the event is there for compatibility
+purposes and you don’t know how long the event will still be raised. And
+it is not without problem, <a class="reference external" href="http://support.microsoft.com/kb/194242">one fixed bug causes a 60 seconds delay on
+new window creation</a>,
+<a class="reference external" href="http://support.microsoft.com/kb/294870">another causes the navigation to
+fail</a>. The fix for the
+latter? use NewWindow2. The NewWindow2 event, introduced in IE4, does
+not have the url parameter. So you cannot simply cancel the event. To
+get the url, you need do the normal processing, create a hidden new
+webbrowser host window and <a class="reference external" href="http://support.microsoft.com/kb/184876">assign the webbrowser to the event’s ppdisp
+parameter</a>, then hook
+BeforeNavigate2 in the new window to get the url (may require client to
+<a class="reference external" href="http://support.microsoft.com/kb/943112">patch their Windows if they are on Windows
+Vista</a>). Once you get the
+url, you can destroy the new window and navigate in the old window. The
+NewWindow3 event, introduced with <a class="reference external" href="http://www.microsoft.com/windowsserver2003/">Windows Server 2003
+SP1</a> and <a class="reference external" href="http://www.microsoft.com/windows/windows-xp/default.aspx">Windows XP
+SP2</a>, is
+designed for the webbrowser host to get notified of the decision of the
+<a class="reference external" href="http://en.wikipedia.org/wiki/Pop-up_ad">popup window</a> manager based
+on user preference (for example, if the new window should be opened in a
+new window or a new tab in the current window), though the popup window
+manager’s behavior <a class="reference external" href="http://jiangshengvc.wordpress.com/2007/07/03/handle-newwindow3-and-showmodaldialog-in-chtmlview/http://jiangshengvc.wordpress.com/2007/07/03/handle-newwindow3-and-showmodaldialog-in-chtmlview/">can be customized
+too</a>.
+For the purpose of cancelling navigation and navigate to the old window,
+it does not matter how the new window should be opened, so you can just
+take the url and execute the same logic as in the NewWindow event. Since
+<strong>everyone should be using IE7 or higher now</strong>, the event should be
+supported by the browser. If the client can’t upgrade IE, at least ask
+them to fully patch their Windows. The original poster’s question is in
+the VB forum so all the native events are available. For .net
+programmers, you can <a class="reference external" href="http://support.microsoft.com/kb/311298">hook up the event via IConnectionPointContainer
+directly if you are inserting the webbrowser as an ActievX on a Windows
+Form</a>, or <a class="reference external" href="http://www.codeproject.com/KB/cpp/ExtendedWebBrowser.aspx">extend the
+webbrowser site if you are using the System.Windows.Forms.Webbrowser
+class</a>.
+Update:
+<a class="reference external" href="http://en.wikipedia.org/wiki/Windows_Presentation_Foundation">WPF</a>
+users who want to use System.Windows.Controls.WebBrowser are out of
+luck, they need to <a class="reference external" href="http://social.msdn.microsoft.com/Forums/en-US/wpf/thread/8c43c6f5-4e9f-4491-8219-1b0eeb7b225b/">host the ActiveX versions of the webbrowser control
+to get a hand on the native
+events</a>.</p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2009/how-to-force-popup-window-to-navigate-in-the-same-window-in-a-webbrowser-control.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+  
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="../2009/intercept-the-download-dialog-in-webbrowser-control.html">Intercept the download dialog in webbrowser control</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>04 November 2009</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="csdn.html">CSDN</a>
+     ,    
+    <a href="enmsdn.html">enmsdn</a>
+     ,    
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="#">Visual Studio</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tags"></i>
+       
+    </span>
+     
+    <a href="../tag/active-template-library.html">Active Template Library</a>
+        
+    <a href="../tag/trident-layout-engine.html">Trident (layout engine)</a>
+        
+    <a href="../tag/visual-c.html">Visual C++</a>
+        
+    <a href="../tag/webbrowser-control.html">WebBrowser Control</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p>User rsd102 <a class="reference external" href="http://topic.csdn.net/u/20091028/16/db45edcc-bc4a-42e7-950a-93c0c78f0a01.html">looks already find the solution to his
+question</a>
+when he posted the question to <a class="reference external" href="http://community.csdn.net">CSDN</a>,
+except for one missing piece. The sample he found is for overriding the
+global download manager, and what he need is a process wide override. It
+looks like rsd102 is loving research. He found more than he can
+understand initially. After being suggested twice with the vague IE
+<a class="reference external" href="http://en.wikipedia.org/wiki/Software_development_kit">SDK</a>
+documentation he decided to post the sample code he was working on. And
+when the final answer was given he had problem adopting it. The answer
+was for adding INewWindowManager, not IDownloadManager, to the
+webbrowser site, and it has undisclosed error that prevented his
+adoption. In
+<a class="reference external" href="http://msdn2.microsoft.com/en-us/visualc/default.aspx">VC6</a> things
+are easier-there is not much browser host support-so the user settled
+with a VC6 solution. it is pleasant to see a user doing active research
+before positing a question, however we may not see the question online
+if the user take some time reading the documentation he found during
+research.</p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2009/intercept-the-download-dialog-in-webbrowser-control.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+  
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="../2009/how-to-change-the-user-agent-and-download-control-flags-in-a-webbrowser-control-host.html">How to change the user agent and download control flags in a webbrowser control host</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>09 October 2009</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="active-template-library.html">Active Template Library</a>
+     ,    
+    <a href="enmsdn.html">enmsdn</a>
+     ,    
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="visual-c.html">Visual C++</a>
+     ,    
+    <a href="#">Visual Studio</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tags"></i>
+       
+    </span>
+     
+    <a href="../tag/document-object-model.html">Document Object Model</a>
+        
+    <a href="../tag/trident-layout-engine.html">Trident (layout engine)</a>
+        
+    <a href="../tag/user-agent.html">User agent</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p>User vnetvvv <a class="reference external" href="http://topic.csdn.net/u/20090929/13/1f3966e2-dd1b-43ac-b6ee-f300e69413d3.html">wants to
+know</a>
+how to change the user agent string in a
+<a class="reference external" href="http://msdn.microsoft.com/en-us/vbasic/default.aspx">VB6</a> webbrowser
+control. The <a class="reference external" href="http://en.wikipedia.org/wiki/Knowledge_base">knowledge
+base</a> article <a class="reference external" href="http://support.microsoft.com/kb/183412">PRB:
+WebBrowser Control Clients Share Global
+Settings</a> provides the
+necessary code for changing the user agent of the webbrowser control
+when the webbrowser ask for it. But how to have the webbrowser control
+ask for the user agent? Well the webbrowser control is an
+<a class="reference external" href="http://en.wikipedia.org/wiki/ActiveX">ActiveX</a>, so it implements
+<a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms690175(VS.85).aspx">IOleControl::OnAmbientPropertyChange</a>.
+The <a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa753622(VS.85).aspx">host can call the
+method</a>
+to notify the webbrowser control about the property change after the
+browser window is created. The list of ambient properties can be found
+in the <a class="reference external" href="http://www.microsoft.com/downloads/en/details.aspx?FamilyID=AE22E7A9-611F-4112-8B17-0980412D07A5&amp;displaylang=en">walkall
+sample</a>,
+the most useful ones are DISPID_AMBIENT_USERMODE (which VB6 supports),
+DISPID_AMBIENT_DLCONTROL and DISPID_AMBIENT_USERAGENT. The documentation
+of other ambient properties can be found in the <a class="reference external" href="http://msdn.microsoft.com/en-us/library/tc7644wx(v=VS.80).aspx">documentation of
+CComControlBase’s GetAmbient Property
+Methods</a>
+Note the knowledge base article <a class="reference external" href="http://support.microsoft.com/kb/183412">PRB: WebBrowser Control Clients Share
+Global Settings</a> also says
+DISPID_AMBIENT_USERAGENT cannot be used to alter the user agent string
+in DOM or when the navigation is from code. Changing the user agent
+string in registry, of course, can change the behavior but will also
+have global effect. Another way to change the user agent is to go
+directly into the networking layer of webbrowser control and change the
+user agent process-wide. Since most of the time per-page browser setting
+isn’t necessary this can also be used in custom browsers. The WinInet
+function
+<a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms775125(VS.85).aspx">UrlMkSetSessionOption</a>
+has a flag URLMON_OPTION_USERAGENT that can be used to change the user
+agent, However it only updates DOM/Javascript and ignore the WinInet
+stack so other WinInet client won’t be affected, until you call
+UrlMkSetSessionOption with URLMON_OPTION_USERAGENTREFRESH. This is
+better for VB6 and .Net programmers since it does not involve <a class="reference external" href="http://www.mvps.org/emorcillo/en/code/vb6/index.shtml">declaring
+a lot of OLE
+interfaces</a>.
+You can get the user agent from <a class="reference external" href="http://en.wikipedia.org/wiki/Document_Object_Model">the
+DOM</a>
+(<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa752116(VS.85).aspx">document</a>.<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa752599(VS.85).aspx">parentWindow</a>.<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa741467(v=VS.85).aspx">navigator</a>.<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa703729(v=VS.85).aspx">userAgent</a>).</p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2009/how-to-change-the-user-agent-and-download-control-flags-in-a-webbrowser-control-host.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+  
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="../2009/walkaround-for-error-an-add-on-for-this-website-failed-to-run-when-opening-visual-cs-add-variable-wizard-after-ie-8-is-installed.html">Walkaround for Error : An add-on for this website failed to run. When opening Visual C++’s Add Variable Wizard after IE 8 is installed</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>24 March 2009</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="enmsdn.html">enmsdn</a>
+     ,    
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="#">Visual Studio</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tags"></i>
+       
+    </span>
+     
+    <a href="../tag/activex.html">ActiveX</a>
+        
+    <a href="../tag/internet-explorer.html">Internet Explorer</a>
+        
+    <a href="../tag/internet-explorer-8.html">Internet Explorer 8</a>
+        
+    <a href="../tag/microsoft-visual-studio.html">Microsoft Visual Studio</a>
+        
+    <a href="../tag/regmon.html">Regmon</a>
+        
+    <a href="../tag/security-programming.html">Security Programming</a>
+        
+    <a href="../tag/trident-layout-engine.html">Trident (layout engine)</a>
+        
+    <a href="../tag/visual-c.html">Visual C++</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p>Update: it looks like a lot of people are hitting this page by
+mistake. If you don’t write software for a living then this page is
+probably not for you. Download:
+<a class="reference external" href="http://jiangsheng.net/Documents/IE8AddZone.zip">http://jiangsheng.net/Documents/IE8AddZone.zip</a> Prerequisite:
+<a class="reference external" href="http://www.microsoft.com/downloads/details.aspx?familyid=200b2fd9-ae1a-4a14-984d-389c36f85647&amp;displaylang=en">Microsoft Visual C++ 2005 SP1 Redistributable Package
+(x86)</a>
+This program is designed to temporary circumvent the “An add-on for
+this web site failed to run. Check the security settings in Internet
+options for potential conflicts” error in <a class="reference external" href="http://www.microsoft.com/visualstudio">Visual
+Studio</a> after installing
+IE8. For more details about this problem, visit
+<a class="reference external" href="https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=425510">https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=425510</a>
+Update: the VC team’s workaround is at
+<a class="reference external" href="http://blogs.msdn.com/vcblog/archive/2009/03/28/some-vs2005-and-vs2008-wizards-pop-up-script-error.aspx">http://blogs.msdn.com/vcblog/archive/2009/03/28/some-vs2005-and-vs2008-wizards-pop-up-script-error.aspx</a>.
+However, I still suggest copying other settings from a restricted
+zone before modify the 1207 key. Clicking the create button will
+create another <a class="reference external" href="http://en.wikipedia.org/wiki/Internet_Explorer">Internet
+Explorer</a> security
+zone with the id 1000 that will affect all urls not included in other
+zones. This will allow separate security settings for webbrowser
+control hosting
+<a class="reference external" href="http://en.wikipedia.org/wiki/Application_software">application</a>
+such as Visual Studio. If settings are copied from a trusted
+configuration such as “my computer”,a webbrowser control hosting
+application may not experience the aforementioned error. Security
+Remarks: do not visit unsecured web site or use email software on the
+same computer after creating the new zone as the security impact of
+the new zone is not yet tested. Applications that host webbrowser
+control should implement their own <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537182(VS.85).aspx">security
+manager</a>
+if they want to run
+<a class="reference external" href="http://en.wikipedia.org/wiki/ActiveX">ActiveX</a> in the browser
+control. If you received a fix from the IE team for this problem,
+please delete the zone created by this problem by clicking the delete
+button. Visit
+<a class="reference external" href="https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=425510">https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=425510</a>
+for the status of this problem. For more information about adding
+zones to IE, visit <a class="reference external" href="http://www.nthelp.com/50/addazone.htm">http://www.nthelp.com/50/addazone.htm</a> . For more
+information about Internet Explorer security zones, visit
+<a class="reference external" href="http://support.microsoft.com/kb/182569">http://support.microsoft.com/kb/182569</a> For more information about
+Visual C++ wizards, visit
+<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa730846(VS.80).aspx">http://msdn.microsoft.com/en-us/library/aa730846(VS.80).aspx</a>
+Suspicious url actions from
+<a class="reference external" href="http://en.wikipedia.org/wiki/RegMon">Regmon</a> logs:</p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2009/walkaround-for-error-an-add-on-for-this-website-failed-to-run-when-opening-visual-cs-add-variable-wizard-after-ie-8-is-installed.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+  
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="../2008/mfc%E6%9B%B4%E6%96%B0beta%E7%89%88.html">MFC更新Beta版</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>08 January 2008</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="visual-c.html">Visual C++</a>
+     ,    
+    <a href="#">Visual Studio</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tags"></i>
+       
+    </span>
+     
+    <a href="../tag/c.html">C#</a>
+        
+    <a href="../tag/microsoft-foundation-class-library.html">Microsoft Foundation Class Library</a>
+        
+    <a href="../tag/service-pack.html">Service pack</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p>一个面向Visual C++
+2008的MFC更新测试版<a class="reference external" href="http://blogs.msdn.com/vcblog/archive/2008/01/07/mfc-beta-now-available.aspx">已经发布</a>，同时也提供了<a class="reference external" href="http://www.microsoft.com/downloads/details.aspx?familyid=0D805D4E-2DC2-47C7-8818-A9F59DE4CD9B&amp;displaylang=en">文档的下载</a>。这个版本包含新的界面的特性，例如Office
+Ribbon、2003和XP风格,Visual
+Studio风格和MDI标签。另外，这个版本也包含部分TR1的实现，例如正则表达式、更加丰富的集合和智能指针。
+另外，在下载页面居然说这个版本还不支持Visual Studio 2008 Service Pack
+1的Beta版，正式版才出来几天SP1的测试版就出来了？</p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2008/mfc%E6%9B%B4%E6%96%B0beta%E7%89%88.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+  
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="../2007/visual-c-2008-beta2-%E9%87%8C%E9%9D%A2%E7%9A%84class-designer.html">Visual C++ 2008 Beta2 里面的Class Designer</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>30 July 2007</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="#">Visual Studio</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tag"></i>
+      
+    </span>
+     
+    <a href="../tag/visual-c.html">Visual C++</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p><a class="reference external" href="http://blufiles.storage.msn.com/y1pKWlrV0DnS2p7vjktWIo6Qo95bg_ABvWFxCgDSaobnoGEbr22TNOVPcfkJrc8QM251C7gbdGVzOM"><img alt="image" src="http://blufiles.storage.msn.com/y1pKWlrV0DnS2rNBi82HjVfN_JYzrr8q7Bf5_ptaUJEcfckwFQLwnmgNaEy4JWvliEoi500K5isYfs" style="width: 700px; height: 508px;" /></a></p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2007/visual-c-2008-beta2-%E9%87%8C%E9%9D%A2%E7%9A%84class-designer.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+  
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="../2007/stlclr-compiler-and-marshaling.html">STL/CLR, Compiler and Marshaling</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>12 April 2007</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="enmsdn.html">enmsdn</a>
+     ,    
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="#">Visual Studio</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tags"></i>
+       
+    </span>
+     
+    <a href="../tag/c.html">C#</a>
+        
+    <a href="../tag/common-language-runtime.html">Common Language Runtime</a>
+        
+    <a href="../tag/microsoft-foundation-class-library.html">Microsoft Foundation Class Library</a>
+        
+    <a href="../tag/open-source.html">Open source</a>
+        
+    <a href="../tag/standard-template-library.html">Standard Template Library</a>
+        
+    <a href="../tag/visual-c.html">Visual C++</a>
+        
+    <a href="../tag/windows-vista.html">Windows Vista</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p>MSDN第9频道又采访了Visual C++类库组的项目经理<a class="reference external" href="http://channel9.msdn.com/Showpost.aspx?postid=284140">Nikola
+Dudar</a>和<a class="reference external" href="http://channel9.msdn.com/Showpost.aspx?postid=293987">Sarita
+Bafna</a>，以及质量控制组的<a class="reference external" href="http://channel9.msdn.com/Showpost.aspx?postid=285284">Marina
+Polishchuk</a>。<a class="reference external" href="http://blog.joycode.com/jiangsheng/archive/2007/03/01/94082.aspx">尽管Visual
+C++项目组已经转移了工作重点</a>，但是很少人注意到这一点。或许这些采访可以帮助你了解Visual
+C++项目组的工作。 为什么C++仍旧重要？</p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2007/stlclr-compiler-and-marshaling.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+  
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="../2006/microsoft-mvp-re-awarded-again.html">Microsoft MVP re-awarded again</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>04 January 2006</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="computers-and-internet.html">Computers and Internet</a>
+     ,    
+    <a href="enmsdn.html">enmsdn</a>
+     ,    
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="visual-c.html">Visual C++</a>
+     ,    
+    <a href="#">Visual Studio</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tag"></i>
+      
+    </span>
+     
+    <a href="../tag/microsoft-most-valuable-professional.html">Microsoft Most Valuable Professional</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p>亲爱的 Sheng Jiang， 热烈祝贺并欢迎您参与 Microsoft® MVP Program！
+作为本年度“最有价值专家”(<a class="reference external" href="http://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional">Most Valuable
+Professional</a>)
+奖的获奖者，您成为了我们精英群体中的一员，在全球网上和网下技术社区中与他人积极分享
+<a class="reference external" href="http://maps.google.com/maps?ll=47.6395972222,-122.12845&amp;spn=1.0,1.0&amp;q=47.6395972222,-122.12845%20(Microsoft)&amp;t=h">Microsoft</a>
+的产品和技术。Microsoft
+向所有用技术帮助他人发挥潜力，从而促进社区发展的 MVP
+们表示崇高的敬意。要了解有关 <a class="reference external" href="http://mvp.support.microsoft.com/">MVP
+Program</a>
+的更多信息，请访问：<a class="reference external" href="http://www.microsoft.com/mvp">www.microsoft.com/mvp</a>。
+非常感激您在过去的一年中在指导Visual Developer - <a class="reference external" href="http://msdn2.microsoft.com/en-us/visualc/default.aspx">Visual
+C</a>++技术社区中的同伴方面所做的杰出贡献。
+Another email:</p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2006/microsoft-mvp-re-awarded-again.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+  
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="../2005/how-to-use-visual-c-with-perl.html">How to use Visual C++ with Perl</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>03 November 2005</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="acc.html">ACC</a>
+     ,    
+    <a href="enmsdn.html">enmsdn</a>
+     ,    
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="#">Visual Studio</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tags"></i>
+       
+    </span>
+     
+    <a href="../tag/perl.html">Perl</a>
+        
+    <a href="../tag/visual-c.html">Visual C++</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p><a class="reference external" href="http://msdn2.microsoft.com/en-us/visualc/default.aspx">Microsoft Visual
+C</a>++
+and later do not support perl scripts by default. That is, the
+Developer Studio does not associate any special significance to
+perl scripts without being informed otherwise. However, there are
+several viable options, namely custom build rules, which enable
+the creation of projects that depend directly upon perl scripts.
+The remainder of this article discusses the following three
+methods for adding perl script files to a Visual C++ project:</p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2005/how-to-use-visual-c-with-perl.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+  
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="../2005/%E3%80%8A%E8%BD%AC%E6%8D%A2%E6%8C%87%E5%8D%97-%E5%B0%86%E7%A8%8B%E5%BA%8F%E4%BB%8E%E6%89%98%E7%AE%A1%E6%89%A9%E5%B1%95c%E8%BF%81%E7%A7%BB%E5%88%B0ccli%E3%80%8B%E8%AF%91%E5%90%8E.html">《转换指南: 将程序从托管扩展C++迁移到C++/CLI》译后</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>17 March 2005</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="microsoft.html">Microsoft</a>
+     ,    
+    <a href="#">Visual Studio</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tags"></i>
+       
+    </span>
+     
+    <a href="../tag/ccli.html">C++/CLI</a>
+        
+    <a href="../tag/managed-c.html">Managed C++</a>
+        
+    <a href="../tag/visual-c.html">Visual C++</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p>终于把Stan Lippman先生的这篇文章译完了。从去年4月在全球MVP峰会上拿到这篇文章的手稿到现在，差不多一年过去了。虽然当时的Visual Studio 2005还不支持一些语法，但是我和董颖涛对新的C++/CLI语言都很感兴趣，在当时就讨论过翻译的问题。之后我就开始翻译这篇文章，但是进度一直很慢——主要是杂务太多、语言上的困难（尽量避免误解和词不达意的情况，以及斟酌用词的选择）。在1月份完成了全文之后，看到了Sunhui的一篇文章（<a class="reference external" href="http://community.csdn.net/expert/Topicview1.asp?id=3834281">http://community.csdn.net/expert/Topicview1.asp?id=3834281</a>），觉得附录里面讲到的一些内容或许一些人也有兴趣，所以继续翻译附录的工作，幸好现在是春假，比较有时间，终于在今天完成了。译文目前在http://blog.csdn.net/jiangsheng/archive/2004/10/18/140450.aspx可以访问，希望读者指正。
+在翻译过程中得到了曾毅的帮助，得以联系到Stan Lippman先生，在此一并感谢。
+文章简介：
+C++/CLI代表ISO-C++标准语言的一个动态编程范型扩展(dynamic <a class="reference external" href="http://en.wikipedia.org/wiki/Programming_paradigm">programming paradigm</a>
+extension). 在原版语言设计(V1)中有许多显著的弱点，我们觉得在修订版语言设计(V2)中已经修正了。 本文列举了V1版本语言的特色和它们在V2版本中的对应 （如果有这样的对应存在的话）；并指出为对应不存在的V1特色构建的语言特性。对于有兴趣的读者，附录中提供新语言设计的扩展原理。 另外，一个源代码级别的转换工具(mscfront)正在开发中，而且可能在C++/CLI的发布版中提供给希望 自动化移植V1代码到新语言设计的人。
+本文分为五个章节加一个附录。第一节讨论主要的语言关键字，特别是双下划线的移除以及上下文性和分段关键字。 第二节着眼于托管数据类型的变化——特别是托管引用类型和数组类型。还可以在这里找到有关确定性终结化语义（deterministic finalization）的详细讨论。关于类成员的变化，例如属性、索引属性和操作符，是第三节的焦点。第四节着眼于托管枚举、内部和约束指针的语法变化。它也讨论了许多可观的语义变化，例如隐式装箱的引入、托管CLI枚举的变化，和对值类默认构造函数的支持的移除。第五节有几分像大杂烩——声名狼藉的杂项。可以在里面找到对类型转换符号、字符串常数的行为和参数数组的讨论。
+原帖来自于网易社区:<a class="reference external" href="http://p5.club.163.com/viewArticleByWWW.m?boardId=clanguage&amp;articleId=clanguage_102af78217a4c5b">http://p5.club.163.com/viewArticleByWWW.m?boardId=clanguage&amp;articleId=clanguage_102af78217a4c5b</a></p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2005/%E3%80%8A%E8%BD%AC%E6%8D%A2%E6%8C%87%E5%8D%97-%E5%B0%86%E7%A8%8B%E5%BA%8F%E4%BB%8E%E6%89%98%E7%AE%A1%E6%89%A9%E5%B1%95c%E8%BF%81%E7%A7%BB%E5%88%B0ccli%E3%80%8B%E8%AF%91%E5%90%8E.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+   
+</div>
+
+                </article>
+              
+              
+              
+                <footer class="bd-footer-article">
+                  <div class="footer-article-items footer-article__inner">
+  
+    <div class="footer-article-item"><script src="https://utteranc.es/client.js"
+        repo="jiangsheng/jiangsheng.github.io"
+        branch="master"
+        issue-term="pathname"
+        label="UtteranceComments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async=async">
+</script></div>
+  
+</div>
+                </footer>
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script defer src="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item">
+
+  <p class="copyright">
+    
+      © Copyright 2018-, Sheng Jiang.
+      <br/>
+    
+  </p>
+</div>
+      
+        <div class="footer-item">
+
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 8.2.3.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item">
+<p class="theme-version">
+  <!-- # L10n: Setting the PST URL as an argument as this does not need to be localized -->
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.16.1.
+</p></div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>

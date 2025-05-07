@@ -9,8 +9,14 @@
    :caption: 内容:
    :titlesonly:
    
-    AutoComplete with DataSource <autocomplete_customization_winforms>
-    Handle NewWindow3 and ShowModalDialog in CHtmlView <newWindow3_showModalDialog_chtmlview>
+   autocomplete-with-datasource.rst
+   handle-newwindow3-and-showmodaldialog-in-chtmlview.rst
+   mcdonalds-yum-alleged-to-break-chinese-wage-laws.rst
+   microsoft-mvp-again.rst
+   skew-detection-and-correction-resources.rst
+   stlclr-compiler-and-marshaling.rst
+   visual-c-2008-beta2-里面的class-designer.rst
+   科学，我的信仰.rst
 
 Indices and tables
 
