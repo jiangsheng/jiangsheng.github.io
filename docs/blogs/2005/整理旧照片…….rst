@@ -1,0 +1,180 @@
+整理旧照片……
+=========================
+.. post:: 5, Dec, 2005
+   :category: Uncategorized
+   :author: jiangshengvc
+   :nocomments:
+
+.. container:: bvMsg
+   :name: msgcns!1BE894DEAF296E0A!450
+
+   .. rubric:: Source:
+      http://www.flickr.com/photos/jiangsheng/sets/1514328/show/
+      :name: source-httpwww.flickr.comphotosjiangshengsets1514328show
+
+   2004年4月微软MVP峰会前参观上海微软
+
+   |image1|
+
+   .. container::
+
+      .. rubric:: 2005年西雅图微软MVP峰会华人MVP于微软会议中心
+         :name: 年西雅图微软mvp峰会华人mvp于微软会议中心
+
+      |image2|
+
+   .. container::
+
+      .. rubric:: 插队……趁金雪根和黄际洲没注意……
+         :name: 插队趁金雪根和黄际洲没注意
+
+      |image3|
+
+   .. container::
+
+      .. rubric:: 测试黄际洲和地心之间的引力
+         :name: 测试黄际洲和地心之间的引力
+
+      |image4|
+
+      .. rubric:: 2005年9月西雅图微软MVP峰会 陈本峰 孙鹏 陈缘 蒋晟
+         :name: 年9月西雅图微软mvp峰会-陈本峰-孙鹏-陈缘-蒋晟
+
+      |image5|
+
+   .. container::
+
+      .. rubric:: 2005年西雅图MVP峰会 Visual C++ MVP
+         :name: 年西雅图mvp峰会-visual-c-mvp
+
+      |image6|
+
+         .. container::
+
+            后面那个是来宣传MSBuild的……
+
+   .. container::
+
+      .. rubric:: 2005年9月MVP峰会MVP Party 蒋晟于Space Neddle门口
+         :name: 年9月mvp峰会mvp-party-蒋晟于space-neddle门口
+
+      |image7|
+
+   .. container::
+
+      .. rubric:: 2005年微软MVP峰会间隙加紧学习圣经
+         :name: 年微软mvp峰会间隙加紧学习圣经
+
+      |image8|
+
+   .. container::
+
+      .. rubric:: 2005年9月MVP峰会MVP Party 黄际洲 蒋晟于Space
+         Neddle门口
+         :name: 年9月mvp峰会mvp-party-黄际洲-蒋晟于space-neddle门口
+
+      |image9|
+
+   .. container::
+
+      .. rubric:: 蒋晟 孙鹏 陈本峰 2005年9月29日于微软园区
+         :name: 蒋晟-孙鹏-陈本峰-2005年9月29日于微软园区
+
+      |image10|
+
+   .. container::
+
+      .. rubric:: 蒋晟2005年9月于微软会议中心前……沉思……
+         :name: 蒋晟2005年9月于微软会议中心前沉思
+
+      |image11|
+
+   .. container::
+
+      .. rubric:: 蒋晟2005年9月于微软会议中心前
+         :name: 蒋晟2005年9月于微软会议中心前
+
+      |image12|
+
+   .. container::
+
+      .. rubric:: 蒋晟 孙鹏 陈本峰 陈缘 微软会议中心前合影
+         :name: 蒋晟-孙鹏-陈本峰-陈缘-微软会议中心前合影
+
+      |image13|
+
+      .. container::
+
+         .. container::
+
+            2005年9月29日微软全球峰会
+
+   .. container::
+
+      .. rubric:: 照人者恒被人照
+         :name: 照人者恒被人照
+
+      |image14|
+
+      .. container::
+
+         .. container::
+
+            但是Grace也被牵连进来了……
+
+.. |image1| image:: http://static.flickr.com/34/70390976_3fedd910b4_m.jpg
+   :width: 240px
+   :height: 180px
+   :target: http://www.flickr.com/photos/79042858@N00/70390976/
+.. |image2| image:: http://static.flickr.com/34/70387776_df0445836d_m.jpg
+   :width: 240px
+   :height: 180px
+   :target: http://www.flickr.com/photos/79042858@N00/70387776/
+.. |image3| image:: http://static.flickr.com/20/70384026_711325813a_m.jpg
+   :width: 240px
+   :height: 180px
+   :target: http://www.flickr.com/photos/79042858@N00/70384026/
+.. |image4| image:: http://static.flickr.com/35/70383841_d4e7563d89_m.jpg
+   :width: 240px
+   :height: 180px
+   :target: http://www.flickr.com/photos/79042858@N00/70383841/
+.. |image5| image:: http://static.flickr.com/20/70382739_72ee439e08_m.jpg
+   :width: 240px
+   :height: 180px
+   :target: http://www.flickr.com/photos/79042858@N00/70382739/
+.. |image6| image:: http://static.flickr.com/35/70382738_7d7e006ef5_m.jpg
+   :width: 240px
+   :height: 180px
+   :target: http://www.flickr.com/photos/79042858@N00/70382738/
+.. |image7| image:: http://static.flickr.com/20/70379442_0bb8b08759_m.jpg
+   :width: 180px
+   :height: 240px
+   :target: http://www.flickr.com/photos/79042858@N00/70379442/
+.. |image8| image:: http://static.flickr.com/18/70379259_1546dc4b43_m.jpg
+   :width: 240px
+   :height: 180px
+   :target: http://www.flickr.com/photos/79042858@N00/70379259/
+.. |image9| image:: http://static.flickr.com/34/70371674_24f7bfb822_m.jpg
+   :width: 180px
+   :height: 240px
+   :target: http://www.flickr.com/photos/79042858@N00/70371674/
+.. |image10| image:: http://static.flickr.com/20/70368981_72d5f11603_m.jpg
+   :width: 240px
+   :height: 180px
+   :target: http://www.flickr.com/photos/79042858@N00/70368981/
+.. |image11| image:: http://static.flickr.com/34/70367807_6987e228ce_m.jpg
+   :width: 180px
+   :height: 240px
+   :target: http://www.flickr.com/photos/79042858@N00/70367807/
+.. |image12| image:: http://static.flickr.com/18/70364392_aeab74fd9d_m.jpg
+   :width: 180px
+   :height: 240px
+   :target: http://www.flickr.com/photos/79042858@N00/70364392/
+.. |image13| image:: http://static.flickr.com/35/70361272_edff90bd50_m.jpg
+   :width: 240px
+   :height: 180px
+   :target: http://www.flickr.com/photos/79042858@N00/70361272/
+.. |image14| image:: http://static.flickr.com/20/70354672_fbbf39e7f7_m.jpg
+   :width: 240px
+   :height: 180px
+   :target: http://www.flickr.com/photos/79042858@N00/70354672/

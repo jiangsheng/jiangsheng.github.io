@@ -9,7 +9,7 @@
    :caption: 内容:
    :titlesonly:
     
-    Bypassing Factory Reset Protection (Lumia 640) <bypassing_factory_reset_protection_microsoft_lumia_640>
+   bypassing-factory-reset-production-on-microsoft-lumia-640
 
 Indices and tables
 

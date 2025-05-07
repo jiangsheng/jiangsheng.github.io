@@ -9,8 +9,8 @@
    :caption: 内容:
    :titlesonly:
    
-   SGEN error An attempt was made to load an assembly with an incorrect format<sgen_assembly_incorrect_format>
-   
+   troubleshooting-sgen-error-an-attempt-was-made-to-load-an-assembly-with-an-incorrect-format   
+  
 Indices and tables
 
 * :ref:`genindex`

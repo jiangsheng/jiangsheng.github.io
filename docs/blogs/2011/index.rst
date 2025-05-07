@@ -9,8 +9,14 @@
    :caption: 内容:
    :titlesonly:
     
-    Breaking change in ADO update KB983246 (included in Windows 7 Service Pack 1) <breaking_change_ado_KB983246_windows_7_SP1>
-    Windows Update KB2538242 or KB2538243 offered repeatedly <windows_update_kb2538242_kb2538243_offered_repeatedly>
+   breaking-change-in-ado-update-kb983246-included-in-windows-7-service-pack-1
+   bug-in-security-update-for-visual-c-redistributable-package-april-12-2011-causes-program-error-on-windows-2000  
+   how-to-solve-lnk2001-errors-related-to-windows-sdk-clsids
+   microsoft-mvp-again-2
+   more-ado-issues-with-windows-7-sp1-a-reference-count-leaking-when-event-is-used
+   whats-new-in-windows-8-sdk-headers
+   where-is-the-forum-for-internet-explorer
+   windows-update-kb2538242-or-kb2538243-offered-repeatedly
 
 Indices and tables
 

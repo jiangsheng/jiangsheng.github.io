@@ -7,7 +7,9 @@
    :caption: 内容:
    :titlesonly:
    
-   Extend a webbrowser control using ICustomQueryInterface<extend_a_webbrowser_control_using_icustomqueryinterface>
+   extend-a-webbrowser-control-using-icustomqueryinterface
+   querying-wikipedia-data-using-sparql
+   todays-phishing-email-subject-re-contract-lease-agreement   
    
 Indices and tables
 

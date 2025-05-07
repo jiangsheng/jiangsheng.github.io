@@ -9,7 +9,7 @@
    :caption: 内容:
    :titlesonly:
     
-    “Strong name signature not valid for assembly” (ClickOnce) <strong_name_signature_not_valid_for_assembly_clickonce>
+   getting-around-strong-name-signature-not-valid-for-assembly-for-a-clickonce-application.rst
 
 Indices and tables
 

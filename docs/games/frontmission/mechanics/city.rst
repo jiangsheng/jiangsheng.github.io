@@ -68,9 +68,9 @@ You can equip backpacks to expand your item storage. However if you remove your 
 How you setup your wanzer depends on the pilot. 
 
 * Tank/Melee units. Prioritize movement and defense. Keep weight/power ration low. Can be mass trained in some :ref:`platform ports <front_mission_platform_differences>` with the help of a secret weapon. Equip a Shield on shoulder. Movement is essential if the wanzer carries Riff. 
-* Short units. Can be mass trained due to a secret weapon. Best defensive arm. Machine guns in both grips. Prioritize Hp for body.
-* Long units. They won't receive counterattacks. You can prioritize output for body and Hit for arm. Due to Short being overpowered, most of them can use Short builds as well, except you need more engine output for the extra weight. You can even equip a Bazooka or Grenade Launcher on one Arm if you don't feel like running back to your supply truck.
-* Due to every pilot can learn Switch or Double and you need the same type of weapon in both hands to level up those skills, do not mix short and long weapons like those setups you get from the beginning of the game.
+* Short units. Can be mass trained due to a secret weapon. Take the best defensive arm. Machine guns in both grips. Prioritize Hp for body.
+* Long units. They won't receive counterattacks. You can prioritize output for body and Hit for arm. Due to Short being overpowered, most of them can use Short builds as well, except you need more engine output for the extra weight from Long weapons. You can even equip a Bazooka or Grenade Launcher on one Arm if you don't feel like running back to your supply truck often.
+* Due to every pilot can learn Switch or Double and you need the same type of weapon in both hands to level up those skills, do not mix short and long weapons like those wanzers you have at the beginning of the game.
 
 The rating of the finished wanzer will decide the colosseum odds.
 
