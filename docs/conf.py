@@ -177,7 +177,7 @@ html_context = {
     "doc_path": "docs",
 }
 
-html_baseurl='https://git.jiangsheng.net/build/html/'
+html_baseurl='https://jiangsheng.net/build/html/'
 
 # -- Options for HTMLHelp output ---------------------------------------------
 
