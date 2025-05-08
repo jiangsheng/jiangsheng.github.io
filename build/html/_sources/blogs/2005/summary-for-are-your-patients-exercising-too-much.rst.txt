@@ -1,7 +1,7 @@
 Summary for "Are Your Patients Exercising Too Much?"
 ====================================================
 .. post:: 15, Feb, 2005
-   :category: Level 150 S/W
+   :category: English Writing Practice
    :author: jiangshengvc
    :nocomments:
 

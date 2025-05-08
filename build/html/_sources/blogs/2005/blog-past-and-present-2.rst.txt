@@ -1,7 +1,7 @@
 Blog, past and present
 ======================
 .. post:: 28, Apr, 2005
-   :category: Level 150 S/W
+   :category: English Writing Practice
    :author: jiangshengvc
    :nocomments:
 

@@ -2,7 +2,7 @@ Merge wordpress.com site with GitHub Pages
 =========================================================================================================
 
 .. post:: 7 May, 2025
-   :tags: Cloudflare, ABlog, 
+   :tags: Cloudflare, ABlog, DNS
    :category: Sphinx, WordPress
    :author: me
    :nocomments:
@@ -15,11 +15,11 @@ Most guides export as md format, which is natively supported by Github's jekyll,
 
 A good thing is that I know one thing or two about XML. I wrote a small program (https://github.com/jiangsheng/WordPressXmlToStaticFiles) to parse the XML file and extract post content, which is basically HTML encoded in XML. Then I use Pandoc (https://pandoc.org/), in fact the .Net Wrapper PandocNet(https://github.com/SimonCropp/PandocNet) to convert the post HTML to reStructuredText. The RST files then gets build alone with my existing Github Pages content using Sphinx. As Sphinx put everything in the build folder, the WordPressXmlToStaticFiles program also writes HTML pages that redirects WordPress URLs to HTML output in the build folder. 
 
-To be able to find the correct place to put the redirecting pages, I have to study the WordPress exported XML. WordPress has a concept of slug for this in its API docs but the term is not used in the XML format. The WordPress XPath is actually item\Link. Both page title and page content are encoded in CDATA sections. The author of a post is stored in a dc:creator node. The XML format is constantly changing when I am writing the converter, both post publication date and author are now CDATA encoded for some reason. I have to write a function that detect CDATA before node text. Then I copied the generated output to my GitHub Pages repo that is serving the subdomain. 
+To be able to find the correct place to put the redirecting pages, I have to study the WordPress exported XML. WordPress has a concept of slug for this in its API docs but the term is not used in the XML format except for tags. The WordPress XPath is actually item\Link. Both page title and page content are encoded in CDATA sections. The author of a post is stored in a dc:creator node. The XML format is constantly changing when I am writing the converter, both post publication date and author are now CDATA encoded for some reason. I have to write a function that detect CDATA before node text. Then I copied the generated output to my GitHub Pages repo that is serving the subdomain. 
 
 After finish exporting blogs I added some table of content pages that lists blog posts to get around the build warning "document isn't included in any toctree", and modified CNAME data to point my Github Pages repo to my root domain. Next step is to change my domain provider's DNS setting away from WordPress.com to GitHub Pages. That part is easy, but then my old subdomain would disconnect from GitHub Pages and lose search engine ranking. As GitHub Pages is static, I cannot do a site wide redirect, but I can do it at DNS level via Cloudflare, so I changed the domain's DNS server to Cloudflare and added a redirect rule to redirect my old subdomain. 
 
-After the domain DNS is live on Cloudflare, I got ERR_TOO_MANY_REDIRECTS when visiting my web site. The problem is Cloudflare trying to reach GitHub via HTTP and got redirected to HTTPS (https://developers.cloudflare.com/ssl/troubleshooting/too-many-redirects/). 
+After the domain DNS is live on Cloudflare, I got ERR_TOO_MANY_REDIRECTS when visiting my web site. The problem is Cloudflare trying to reach GitHub via HTTP and got redirected to HTTPS (https://developers.cloudflare.com/ssl/troubleshooting/too-many-redirects/). The solution is to set SSL/TLS encryption mode from Automatic to Full. 
 
 One thing lost in the conversion is comments. As most of my blogs are about tech, the existing Github Pages repo uses a comment system that is based on Github discussions and I don't really have the time to port the comments over. If you are looking for old comments for a specific page, my old WordPress site would be still running, you can check jiangshengvc.wordpress.com after a few days. 
 
