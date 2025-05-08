@@ -1,7 +1,7 @@
 Spread of Blog
 ==============
 .. post:: 15, Apr, 2005
-   :category: Level 150 S/W
+   :category: English Writing Practice
    :author: jiangshengvc
    :nocomments:
 

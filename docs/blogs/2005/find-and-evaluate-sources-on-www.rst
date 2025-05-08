@@ -1,14 +1,14 @@
 Find and evaluate sources on WWW
 ================================
 .. post:: 8, Feb, 2005
-   :category: Level 150 S/W
+   :category: English Writing Practice
    :author: jiangshengvc
    :nocomments:
 
 .. container:: bvMsg
    :name: msgcns!1BE894DEAF296E0A!121
 
-   Level 150 S/W
+   English Writing Practice
 
    Jason
 
