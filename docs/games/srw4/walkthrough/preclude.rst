@@ -1,6 +1,6 @@
 ﻿.. _srw4_walkthrough_preclude:
 
-序幕
+序幕 (第四次超级机器人大战)
 =====================================
 
 .. image:: ../walkthrough/images/preclude.jpg

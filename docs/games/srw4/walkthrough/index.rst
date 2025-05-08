@@ -1,13 +1,13 @@
 .. _srw4_walkthrough:
 
-攻略流程
+攻略流程 (第四次超级机器人大战)
 =====================================
 .. toctree::
    :maxdepth: 0
    :caption: 内容:
    :hidden:
 
-   preclude
+   序幕 <preclude>
    00a_contact_real
    00b_contact_super
    01a_the_beginning_real
