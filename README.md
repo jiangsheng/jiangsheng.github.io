@@ -1,7 +1,3 @@
-"# jiangsheng.github.io" 
-
-This repo is the source code for [https://jiangsheng.net/](https://git.jiangsheng.net/build/html/README.html)
-
 This is Sheng Jiang's documentation.    
 
 Only [Game guides](build/html/games/index.html), [blogs](build/html/blogs/index.html) and [Grandma's handbook](build/html/grandma/index.html) at the moment. 
