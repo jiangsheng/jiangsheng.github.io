@@ -1,4 +1,4 @@
-Today&rsquo;s phishing email RE: Your A⁮pp឵Ie lD Has Been Di⁫sabIed Pending Further Verifi&zwj;cation
+Today's phishing email RE: Your A⁮pp឵Ie lD Has Been Di⁫sabIed Pending Further Verification
 =====================================================================================================
 .. post:: 3, Jan, 2025
    :category: Computers and Internet
