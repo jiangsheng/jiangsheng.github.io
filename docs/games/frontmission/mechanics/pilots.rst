@@ -409,7 +409,7 @@ Hans Goldwin
         | Skills slots: 3
         | Long Rating: A+
         | Guide Skill: 900 exp
-        | Agility Rating: B+
+        | Agility Rating: B
 
     .. grid-item-card::
         :columns: auto
@@ -518,14 +518,14 @@ Bobby Hopkins
     .. grid-item-card::
         :columns: auto
 
-        | Melee Rating: A
+        | Melee Rating: C
         | First Skill: 1300 exp
         | Available Skills: Stun and Double
 
     .. grid-item-card::
         :columns: auto       
 
-        | Short Rating: C
+        | Short Rating: A
         | First Skill: 2000 exp
         | Available Skills: Switch
 
@@ -548,7 +548,7 @@ Porunga
         | Skills slots: 5, 3 usable
         | Long Rating: C+
         | Guide Skill: 3000 exp
-        | Agility Rating: B
+        | Agility Rating: B+
 
     .. grid-item-card::
         :columns: auto
@@ -665,7 +665,7 @@ Gentz Weizer
     .. grid-item-card::
         :columns: auto       
 
-        | Short Rating: B+
+        | Short Rating: B
         | First Skill: 3000 exp
         | Available Skill: Duel, Switch and Speed
 

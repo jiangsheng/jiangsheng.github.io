@@ -11,10 +11,10 @@
    :caption: 内容:
    :hidden:
 
-   mechanics/index 
-   pilots/index
-   units/index
-   walkthrough/index
+   游戏设定 <mechanics/index>
+   机师 <pilots/index>
+   机体 <units/index>
+   攻略流程 <walkthrough/index>
    隐藏要素 <missable>
    
 第三次超级机器人大战之后，三个月过去了…… 
