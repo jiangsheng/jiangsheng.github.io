@@ -6,16 +6,12 @@ Bug in Security Update for Visual C++ Redistributable Package: April 12, 2011 ca
    :author: jiangshengvc
    :nocomments:
 
-.. container:: zemanta-img
-
-   [caption id="" align="alignright" width="300" caption="Image via
-   Wikipedia"]\ |Windows Update version 3 in Windows 98|\ [/caption]
-
 Update:Microsoft's Visual C++ team has `released workarounds on the
 problem. <http://blogs.msdn.com/b/vcblog/archive/2011/04/26/10158277.aspx>`__ AVG
 has released an utility that can revert the KB2467175 update,
 downloadable
 at http://twitter.blog.avg.com/2011/04/avg-feedback-update-26411.html
+
 `Avira <http://www.free-av.com/>`__ is
 `reporting <http://www.avira.com/en/support-for-home-knowledgebase-detail/kbid/829>`__
 that its `AntiVir <http://en.wikipedia.org/wiki/Avira>`__ software
@@ -23,7 +19,9 @@ throws "The procedure entry point FindActCtxSectionStringW could not be
 located in the `dynamic link
 library <http://en.wikipedia.org/wiki/Dynamic-link_library>`__
 `KERNEL32.dll <http://en.wikipedia.org/wiki/Microsoft_Windows_library_files>`__."
-error after installing the update released earlier this week. This is
+error after installing the update released earlier this week. 
+
+This is
 caused by the introduction of FindActCtxSectionStringW in the MFC update
 which is distributed to affected computers where the Visual C++
 Redistributable is installed by affected programs. I guess
@@ -34,18 +32,24 @@ since Windows 2000's support has expired, and indeed removed Windows
 Microsoft download center page, but nonetheless those who develop
 software using Visual  C++ 2005 and Visual  C++ 2008, two currently
 supported products, would still not able to support Windows 2000 users
-after this update (KB2467174  and KB2467175). Microsoft already
+after this update (KB2467174  and KB2467175). 
+
+Microsoft already
 `withdrawn the update to fix this
 issue <http://forum.avast.com/index.php?topic=76351.0>`__. On April 21,
-2001, Microsoft rereleased the update, and made only a `detection
+2001, Microsoft re-released the update, and made only a `detection
 change <http://www.microsoft.com/technet/security/bulletin/ms11-025.mspx>`__,
-means the update won't be offered to Windows 2000 again. Suggestion to
+means the update won't be offered to Windows 2000 again. 
+
+Suggestion to
 end users and `software
 developers <http://en.wikipedia.org/wiki/Software_developer>`__ who
 already installed the update on Windows 2000: Uninstall the April 12,
 2011 updates, remove leftovers mentioned in the KB articles identified
 by the updates and install the ATL security update versions (search in
-download.microsoft.com to get those updates) for now. Suggestion to
+download.microsoft.com to get those updates) for now. 
+
+Suggestion to
 software developers: Call
 `SetSearchPathMode <http://msdn.microsoft.com/en-us/library/dd266735(v=vs.85).aspx>`__
 to turn on the safe dll searching mode at the beginning of the app, and
@@ -53,6 +57,7 @@ join the discussion\ ` Always ask the developer before applying a
 security fix or service pack to Visual Studio that need changed the C++
 runtime DLLs
 ATL/MFC/CRT <https://connect.microsoft.com/VisualStudio/feedback/details/662511/always-ask-the-developer-before-applying-a-security-fix-or-service-pack-to-visual-studio-that-need-changed-the-c-runtime-dlls-atl-mfc-crt>`__.
+
 Affected software:
 
 - `Mozilla
@@ -78,22 +83,11 @@ Affected software:
 - `Symantec Endpoint
   Protection <http://www.symantec.com/business/support/index?page=content&id=TECH158779>`__
 
-.. container::
+Other known issues in this update can be found in a \ \ `follow up
+post <http://blogs.msdn.com/b/vcblog/archive/2011/06/17/10175518.aspx>`__\ \ 
+at the Visual C++ blog.
 
-   Other known issues in this update can be found in a \ \ `follow up
-   post <http://blogs.msdn.com/b/vcblog/archive/2011/06/17/10175518.aspx>`__\ \ 
-   at the Visual C++ blog.
+Alternative error message: 
 
-.. container::
-
-   Alternative error message: 
-
-.. container::
-
-   プロシージャエントリポイントFindActCtxSectionStringWがダイナミックリンクライブラリKERNEL32.dllから見つかりません
-   无法定位程序输入点FindActCtxSectionStringW于动态链接库KERNEL32.dll上
-
-.. |Windows Update version 3 in Windows 98| image:: http://upload.wikimedia.org/wikipedia/en/thumb/4/49/Windows_Update_v3.png/300px-Windows_Update_v3.png
-   :width: 300px
-   :height: 204px
-   :target: http://en.wikipedia.org/wiki/File:Windows_Update_v3.png
+* プロシージャエントリポイントFindActCtxSectionStringWがダイナミックリンクライブラリKERNEL32.dllから見つかりません
+* 无法定位程序输入点FindActCtxSectionStringW于动态链接库KERNEL32.dll上

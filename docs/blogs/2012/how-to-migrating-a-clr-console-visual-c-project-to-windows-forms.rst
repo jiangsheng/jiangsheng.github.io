@@ -1,7 +1,7 @@
 How to: Migrating a CLR console Visual C++ project to Windows Forms
 ===================================================================
 .. post:: 17, Dec, 2012
-   :tags: C++/CLI,Console application,Visual C++,Windows Form
+   :tags: C++/CLI,Console application,Visual C++,Windows Forms
    :category: enmsdn,Microsoft,Visual Studio
    :author: jiangshengvc
    :nocomments:
@@ -87,9 +87,19 @@ so I have to add  [STAThreadAttribute] to the main function:
 wait did I add anything here? I guess not yet Here you go,  a Windows
 Forms application that does nothing interesting.  Mmm, to make it a
 little more visual, I create a new Windows Form class named Form1 and
-run it in the main function: //before main function #include "Form1.h"
-using namespace ProjectName; //in the main function
-Application::EnableVisualStyles();
-Application::SetCompatibleTextRenderingDefault(false); // Create the
-main window and run it Application::Run(gcnew Form1()); Yada! I have a
+run it in the main function:
+
+.. code-block::
+
+  //before main function
+  #include "Form1.h"
+  using namespace ProjectName;
+
+  //in the main function
+  Application::EnableVisualStyles();
+  Application::SetCompatibleTextRenderingDefault(false); 
+  // Create the main window and run it 
+  Application::Run(gcnew Form1()); 
+
+Yada! I have a
 Windows Forms application running now.

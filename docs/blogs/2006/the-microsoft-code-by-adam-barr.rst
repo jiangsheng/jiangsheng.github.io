@@ -21,4 +21,4 @@
 
    === :) full story:
 
-http://www.proudlyserving.com/archives/2006/06/the_microsoft_c_6.html
+https://www.proudlyserving.com/archives/2006/06/index.html
