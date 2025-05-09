@@ -414,50 +414,7 @@ good. It magically knows the main class of the <a class="reference external" hre
 Player</a> ActiveX
 is CWMPPlayer4 and that GetCurrentMedia
 <a class="reference external" href="http://en.wikipedia.org/wiki/Method_%28computer_programming%29">method</a>
-returns CWMPMedia. Welcome to the modern <a class="reference external" href="http://en.wikipedia.org/wiki/Visual_C%2B%2B">Visual
-C++</a>. Now comes a <a class="reference external" href="http://msdn.microsoft.com/en-us/library/9kdzetyx.aspx">new
-wizard</a> that
-gives you options to choose interfaces to import from. At the same time
-you got to decide if you really need that many types from an ActiveX.
- If you went the unfortunate path of <a class="reference external" href="http://msdn.microsoft.com/en-us/library/86kdbbs8.aspx">Adding a Member Variable
-wizard</a> in the
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/6zd672xs.aspx">dialog
-editor</a> and
-somehow got a COCX1 class back, you don’t have the luxury to choose, and
-you end up with an CWnd wrapper class that does not really wrap up the
-properties and methods of the ActiveX. It is still good for early
-binding (like querying IWMPPlayer4 from the result of
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/6fde5b3k.aspx">CWnd::GetControlUnknown</a>)
-but if you plan to use late binding and MFC’s OLE support (hello
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/fa1zk0fk(v=vs.110).aspx">COleException</a>!),
- you probably want to delete the COCX1 files and start over with the
-Adding a Class from an ActiveX Control wizard. Good thing about the new
-Adding a Class from an ActiveX Control wizard is that most of time we
-don’t care about the majority of the types in the ActiveX’s type
-library. We are not going to call most of the ActiveX’s functionality
-anyways, so selecting what we would use makes sense. Bad thing is that
-now we don’t know the return type of a method from the generated classes
-if the return type is LPDISPATCH, lead to guesswork or fire
-up <a class="reference external" href="http://msdn.microsoft.com/en-us/library/windows/desktop/ms693754(v=vs.85).aspx">OLEView</a>
-to look up the types in the ActiveX’s type library). Now comes the worst
-part of the new wizard. The wizard somehow lost its ability to find the
-correct ActiveX control class and opt to use the first selected
-interface to generate a CWnd wrapper.  If you naturally click on the &gt;&gt;
-button to select all interfaces in the Windows Media Player ActiveX at
-once, you get a CWMPCdromCollection derived from CWnd. That  won’t work
-as the ActiveX does not implement the IWMPCdromCollection interfaces
-(undefined behavior can happen if you call the generated methods), and
-certainly the WMPCdromCollection class isn’t an insertable ActiveX.
-Fortunately it is easy to avoid this issue if you add the ActiveX’s main
-interface first (e.g. IWMPPlayer4 for the Windows Media Player control)
-before adding the rest of interfaces, or correct the generated code for
-the first interface. That is, swap the CWnd and COleDispatchDriver code
-between the wrong class and the correct class for the main interface. It
-takes some time to find the correct class for the ActiveX control,
-however. Side note: For code cleanness, you probably want to move the
-InvokeHelper code in the headers to cpp files like VC6 did. A good C++
-<a class="reference external" href="http://en.wikipedia.org/wiki/Code_refactoring">refactoring tool</a> can
-help that tremendously.</p>
+returns CWMPMedia.</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -543,65 +500,7 @@ window in <a class="reference external" href="http://en.wikipedia.org/wiki/Inter
 Explorer</a>. User
 ben_lai <a class="reference external" href="http://topic.csdn.net/u/20091120/11/b023d1e9-f31e-4671-bae7-45d6f4fca9e8.html">wants to
 know</a>
-how to handle the click and navigate to the same window. There are three
-events that notifies a new window,
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768335(v=VS.85).aspx">NewWindow</a>
-(The current documentation of this event is wong, check
-<a class="reference external" href="http://support.microsoft.com/kb/185538/EN-US/">http://support.microsoft.com/kb/185538/EN-US/</a> for the parameters of the
-event),
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768336(v=VS.85).aspx">NewWindow2</a>
-and
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768337(VS.85).aspx">NewWindow3</a>,
-each one has a cancel parameter to stop the new window being created,
-though for NewWindow2, it requires cooperation of
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768326(v=VS.85).aspx">BeforeNavigate2</a>
-to get the url of the new window. After getting the url, the navigation
-can be carried out in the original window by calling Navigate2. The
-obsolete NewWindow Event has the url right in the parameter so you can
-cancel the navigation and call the navigation methods of the
-<a class="reference external" href="http://en.wikipedia.org/wiki/Web_browser">webbrowser</a> control with
-the new url. The problem is, the event is there for compatibility
-purposes and you don’t know how long the event will still be raised. And
-it is not without problem, <a class="reference external" href="http://support.microsoft.com/kb/194242">one fixed bug causes a 60 seconds delay on
-new window creation</a>,
-<a class="reference external" href="http://support.microsoft.com/kb/294870">another causes the navigation to
-fail</a>. The fix for the
-latter? use NewWindow2. The NewWindow2 event, introduced in IE4, does
-not have the url parameter. So you cannot simply cancel the event. To
-get the url, you need do the normal processing, create a hidden new
-webbrowser host window and <a class="reference external" href="http://support.microsoft.com/kb/184876">assign the webbrowser to the event’s ppdisp
-parameter</a>, then hook
-BeforeNavigate2 in the new window to get the url (may require client to
-<a class="reference external" href="http://support.microsoft.com/kb/943112">patch their Windows if they are on Windows
-Vista</a>). Once you get the
-url, you can destroy the new window and navigate in the old window. The
-NewWindow3 event, introduced with <a class="reference external" href="http://www.microsoft.com/windowsserver2003/">Windows Server 2003
-SP1</a> and <a class="reference external" href="http://www.microsoft.com/windows/windows-xp/default.aspx">Windows XP
-SP2</a>, is
-designed for the webbrowser host to get notified of the decision of the
-<a class="reference external" href="http://en.wikipedia.org/wiki/Pop-up_ad">popup window</a> manager based
-on user preference (for example, if the new window should be opened in a
-new window or a new tab in the current window), though the popup window
-manager’s behavior <a class="reference external" href="http://jiangshengvc.wordpress.com/2007/07/03/handle-newwindow3-and-showmodaldialog-in-chtmlview/http://jiangshengvc.wordpress.com/2007/07/03/handle-newwindow3-and-showmodaldialog-in-chtmlview/">can be customized
-too</a>.
-For the purpose of cancelling navigation and navigate to the old window,
-it does not matter how the new window should be opened, so you can just
-take the url and execute the same logic as in the NewWindow event. Since
-<strong>everyone should be using IE7 or higher now</strong>, the event should be
-supported by the browser. If the client can’t upgrade IE, at least ask
-them to fully patch their Windows. The original poster’s question is in
-the VB forum so all the native events are available. For .net
-programmers, you can <a class="reference external" href="http://support.microsoft.com/kb/311298">hook up the event via IConnectionPointContainer
-directly if you are inserting the webbrowser as an ActievX on a Windows
-Form</a>, or <a class="reference external" href="http://www.codeproject.com/KB/cpp/ExtendedWebBrowser.aspx">extend the
-webbrowser site if you are using the System.Windows.Forms.Webbrowser
-class</a>.
-Update:
-<a class="reference external" href="http://en.wikipedia.org/wiki/Windows_Presentation_Foundation">WPF</a>
-users who want to use System.Windows.Controls.WebBrowser are out of
-luck, they need to <a class="reference external" href="http://social.msdn.microsoft.com/Forums/en-US/wpf/thread/8c43c6f5-4e9f-4491-8219-1b0eeb7b225b/">host the ActiveX versions of the webbrowser control
-to get a hand on the native
-events</a>.</p>
+how to handle the click and navigate to the same window.</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -679,48 +578,7 @@ events</a>.</p>
     </ul>
     <p class="ablog-post-excerpt"><p>Update: it looks like a lot of people are hitting this page by
 mistake. If you don’t write software for a living then this page is
-probably not for you. Download:
-<a class="reference external" href="http://jiangsheng.net/Documents/IE8AddZone.zip">http://jiangsheng.net/Documents/IE8AddZone.zip</a> Prerequisite:
-<a class="reference external" href="http://www.microsoft.com/downloads/details.aspx?familyid=200b2fd9-ae1a-4a14-984d-389c36f85647&amp;displaylang=en">Microsoft Visual C++ 2005 SP1 Redistributable Package
-(x86)</a>
-This program is designed to temporary circumvent the “An add-on for
-this web site failed to run. Check the security settings in Internet
-options for potential conflicts” error in <a class="reference external" href="http://www.microsoft.com/visualstudio">Visual
-Studio</a> after installing
-IE8. For more details about this problem, visit
-<a class="reference external" href="https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=425510">https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=425510</a>
-Update: the VC team’s workaround is at
-<a class="reference external" href="http://blogs.msdn.com/vcblog/archive/2009/03/28/some-vs2005-and-vs2008-wizards-pop-up-script-error.aspx">http://blogs.msdn.com/vcblog/archive/2009/03/28/some-vs2005-and-vs2008-wizards-pop-up-script-error.aspx</a>.
-However, I still suggest copying other settings from a restricted
-zone before modify the 1207 key. Clicking the create button will
-create another <a class="reference external" href="http://en.wikipedia.org/wiki/Internet_Explorer">Internet
-Explorer</a> security
-zone with the id 1000 that will affect all urls not included in other
-zones. This will allow separate security settings for webbrowser
-control hosting
-<a class="reference external" href="http://en.wikipedia.org/wiki/Application_software">application</a>
-such as Visual Studio. If settings are copied from a trusted
-configuration such as “my computer”,a webbrowser control hosting
-application may not experience the aforementioned error. Security
-Remarks: do not visit unsecured web site or use email software on the
-same computer after creating the new zone as the security impact of
-the new zone is not yet tested. Applications that host webbrowser
-control should implement their own <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537182(VS.85).aspx">security
-manager</a>
-if they want to run
-<a class="reference external" href="http://en.wikipedia.org/wiki/ActiveX">ActiveX</a> in the browser
-control. If you received a fix from the IE team for this problem,
-please delete the zone created by this problem by clicking the delete
-button. Visit
-<a class="reference external" href="https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=425510">https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=425510</a>
-for the status of this problem. For more information about adding
-zones to IE, visit <a class="reference external" href="http://www.nthelp.com/50/addazone.htm">http://www.nthelp.com/50/addazone.htm</a> . For more
-information about Internet Explorer security zones, visit
-<a class="reference external" href="http://support.microsoft.com/kb/182569">http://support.microsoft.com/kb/182569</a> For more information about
-Visual C++ wizards, visit
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa730846(VS.80).aspx">http://msdn.microsoft.com/en-us/library/aa730846(VS.80).aspx</a>
-Suspicious url actions from
-<a class="reference external" href="http://en.wikipedia.org/wiki/RegMon">Regmon</a> logs:</p>
+probably not for you.</p>
 </p>
 
     <p class="ablog-post-expand">

@@ -344,6 +344,98 @@
    
   <div class="section ablog-post">
     <h2 class="ablog-post-title">
+      <a href="../2012/how-to-migrating-a-clr-console-visual-c-project-to-windows-forms.html">How to: Migrating a CLR console Visual C++ project to Windows Forms</a>
+    </h2>
+    <ul class="ablog-archive">
+      <li>
+         
+        <i class="fa fa-calendar"></i>
+        
+        <span>17 December 2012</span>
+        
+      </li>
+      <div class="ablog-sidebar-item ablog__postcard2">
+   
+  <li id="ablog-sidebar-item author ablog__author">
+    <span>
+      
+      <i class="fa-fw fa fa-user"></i>
+      
+    </span>
+     
+    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
+      
+  </li>
+     
+  <li id="ablog-sidebar-item category ablog__category">
+    <span>
+      
+      <i class="fa-fw fa fa-folder-open"></i>
+      
+    </span>
+     
+    <a href="../category/enmsdn.html">enmsdn</a>
+     ,    
+    <a href="../category/microsoft.html">Microsoft</a>
+     ,    
+    <a href="../category/visual-studio.html">Visual Studio</a>
+      
+  </li>
+   
+  <li id="ablog-sidebar-item tags ablog__tags">
+    <span>
+       
+      <i class="fa-fw fa fa-tags"></i>
+       
+    </span>
+     
+    <a href="ccli.html">C++/CLI</a>
+        
+    <a href="console-application.html">Console application</a>
+        
+    <a href="visual-c.html">Visual C++</a>
+        
+    <a href="#">Windows Forms</a>
+      
+  </li>
+   
+</div>
+    </ul>
+    <p class="ablog-post-excerpt"><p>Note: <a class="reference external" href="http://en.wikipedia.org/wiki/Microsoft_Windows">Windows</a> Forms
+programming in new development is <a class="reference external" href="http://stackoverflow.com/questions/913417/will-windows-forms-be-deprecated-in-favor-of-wpf">discouraged by
+Microsoft</a> at
+this point as Microsoft wants to make full use of hardware accelerated
+drawing instead of using the CPU-intensive
+<a class="reference external" href="http://en.wikipedia.org/wiki/Graphics_Device_Interface">GDI</a>. But
+maintaining old Windows Forms code in <a class="reference external" href="http://msdn2.microsoft.com/en-us/visualc/default.aspx">Visual
+C++</a> 2012 is
+still supported, GDI isn’t going anywhere anytime soon. Visual C++ 2012
+removed the Windows Forms project template and I see people scramble to
+find ways to create a Windows Forms project.  There is a walkaround
+that’s been around for years, that is, to convert a <a class="reference external" href="http://msdn.microsoft.com/en-us/library/z6ad605x(v=vs.110).aspx">CLR console
+application</a>
+to a Windows one, then add forms related code to the project. The basic
+steps are listed
+at <a class="reference external" href="http://support.microsoft.com/kb/317433">http://support.microsoft.com/kb/317433</a>, conveniently named “How to
+suppress the console window for a managed extensions to Visual C++
+<a class="reference external" href="http://en.wikipedia.org/wiki/Windows_Forms">Windows Forms
+application</a>”. Yes, the
+need to convert a C++ console application to windows forms is that old,
+back all the way back in the <a class="reference external" href="http://en.wikipedia.org/wiki/Managed_Extensions_for_C%2B%2B">managed extensions for
+C++</a>
+ days. So what I need to do to add Windows Forms support to a C++/CLI
+console application? Of course the System.Windows.Forms.dll reference is
+missing in a new console application, so I need to reference it:</p>
+</p>
+
+    <p class="ablog-post-expand">
+      <a href="../2012/how-to-migrating-a-clr-console-visual-c-project-to-windows-forms.html"><em>Read more ...</em></a>
+    </p>
+    <hr />
+  </div>
+  
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
       <a href="../2009/make-the-webbrowser-control-is-styled-as-the-hosting-application.html">Make the webbrowser control styled the same way as the hosting application</a>
     </h2>
     <ul class="ablog-archive">
@@ -419,46 +511,7 @@
     </ul>
     <p class="ablog-post-excerpt"><p>User wtx_sonery <a class="reference external" href="http://topic.csdn.net/u/20091026/14/05db4eed-c766-4480-80ce-b030488bcae1.html">wants to know whether it is possible to style the
 webbrowser control with the rest of the
-application.</a>
-The answer is yes, you can implement IDocHostUIHandler’s GetHostInfo
-method and return DOCHOSTUIFLAG_THEME in the host flags.
-IDocHostUIHandler is already implemented in MFC and
-<a class="reference external" href="http://en.wikipedia.org/wiki/Active_Template_Library">ATL</a>. For MFC
-there are CHtmlControlSite and CBrowserControlSite but you should be
-overriding the GetHostInfo function in CHTMLView and CDHTMLDialog. In
-ATL the template definition is in Atliface.h but you need to <a class="reference external" href="http://support.microsoft.com/kb/274202">derive
-from IDocHostUIHandlerDispatch by
-yourself.</a> Implementing
-IDocHostUIHandler Windows Forms gets a little tricky. Windows Forms
-already implemented it on its WebBrowserSite class but you can’t extend
-it. Following the .Net <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms182161(v=VS.100).aspx">Framework Class Library Security
-Guideline</a>
-the Windows Forms version of the IDocHostUIHandler interface is internal
-to the class library. If you derive from WebBrowserSite and implement
-your own version of IDocHostUIHandler, you still get Windows Forms’s
-implementation of IDocHostUIHandler when you do
-<a class="reference external" href="http://en.wikipedia.org/wiki/IUnknown">QueryInterface</a> on the
-browser site. That means you need to <a class="reference external" href="http://code.google.com/p/csexwb2/">get ride of the Windows Forms
-wrapper of the webbrowser control and provide your own hosting
-implementation.</a> WPF/Silverlight
-users, you are out of luck. The stock version of the webbrowser control
-does not even provide a way to customize the host site. The best thing
-you can do is to see if Windows Forms interop is available to the
-platform and if so, embed a csexwb <a class="reference external" href="http://en.wikipedia.org/wiki/Windows_Forms">Windows Forms
-control</a>. There are some
-<a class="reference external" href="http://code.google.com/p/csexwb2/issues/detail?id=59">unsolved problems in the csexwb discussion
-area</a>, however.
-There are <a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa753277(VS.85).aspx">other
-switches</a>
-you can tweak the browser control’s behavior. However there is only one
-bit available in the enum for future flags. Maybe that’s why IE
-introduces <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537184(VS.85).aspx">feature
-control</a>
-in IE6 for <a class="reference external" href="http://www.microsoft.com/windows/windows-xp/default.aspx">Windows XP
-SP2</a> where
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537169(v=VS.85).aspx">features are based on
-enum</a>
-– you get a 4GB range for new features!</p>
+application.</a></p>
 </p>
 
     <p class="ablog-post-expand">

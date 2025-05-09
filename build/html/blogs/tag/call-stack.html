@@ -400,18 +400,7 @@
     <p class="ablog-post-excerpt"><p>I am getting a StackOverflowException with two functions repeating on
 the <a class="reference external" href="http://en.wikipedia.org/wiki/Call_stack">call stack</a>, one is
 the constructor of System.BadImageFormatException, another is
-System.Environment.GetResourceStringLocal.  Since the call that throws
-the stack overflow is to a <a class="reference external" href="http://en.wikipedia.org/wiki/Web_service">web
-service</a> proxy defined in
-the same project as the application, there isn’t a 32bit/64bit mismatch
-here (32bit machine with every project targeting x86), unlike almost all
-other discussions on the internet about this exception. After inspecting
-Fusion and event logs and finding nothing suspicious, I decided to treat
-it as a real bad image problem and reinstalled .Net. Ура! The exception
-went away after reinstalling. Sometimes, the exception name isn’t
-misleading. PS
-a <a class="reference external" href="http://stackoverflow.com/questions/7705751/system-badimageformatexception-an-attempt-was-made-to-load-a-program-with-an-i">similar question</a>
-was closed as too vague on stackoverflow.</p>
+System.Environment.GetResourceStringLocal.</p>
 </p>
 
     <p class="ablog-post-expand">

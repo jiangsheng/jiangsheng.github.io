@@ -419,46 +419,7 @@
     </ul>
     <p class="ablog-post-excerpt"><p>User wtx_sonery <a class="reference external" href="http://topic.csdn.net/u/20091026/14/05db4eed-c766-4480-80ce-b030488bcae1.html">wants to know whether it is possible to style the
 webbrowser control with the rest of the
-application.</a>
-The answer is yes, you can implement IDocHostUIHandler’s GetHostInfo
-method and return DOCHOSTUIFLAG_THEME in the host flags.
-IDocHostUIHandler is already implemented in MFC and
-<a class="reference external" href="http://en.wikipedia.org/wiki/Active_Template_Library">ATL</a>. For MFC
-there are CHtmlControlSite and CBrowserControlSite but you should be
-overriding the GetHostInfo function in CHTMLView and CDHTMLDialog. In
-ATL the template definition is in Atliface.h but you need to <a class="reference external" href="http://support.microsoft.com/kb/274202">derive
-from IDocHostUIHandlerDispatch by
-yourself.</a> Implementing
-IDocHostUIHandler Windows Forms gets a little tricky. Windows Forms
-already implemented it on its WebBrowserSite class but you can’t extend
-it. Following the .Net <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms182161(v=VS.100).aspx">Framework Class Library Security
-Guideline</a>
-the Windows Forms version of the IDocHostUIHandler interface is internal
-to the class library. If you derive from WebBrowserSite and implement
-your own version of IDocHostUIHandler, you still get Windows Forms’s
-implementation of IDocHostUIHandler when you do
-<a class="reference external" href="http://en.wikipedia.org/wiki/IUnknown">QueryInterface</a> on the
-browser site. That means you need to <a class="reference external" href="http://code.google.com/p/csexwb2/">get ride of the Windows Forms
-wrapper of the webbrowser control and provide your own hosting
-implementation.</a> WPF/Silverlight
-users, you are out of luck. The stock version of the webbrowser control
-does not even provide a way to customize the host site. The best thing
-you can do is to see if Windows Forms interop is available to the
-platform and if so, embed a csexwb <a class="reference external" href="http://en.wikipedia.org/wiki/Windows_Forms">Windows Forms
-control</a>. There are some
-<a class="reference external" href="http://code.google.com/p/csexwb2/issues/detail?id=59">unsolved problems in the csexwb discussion
-area</a>, however.
-There are <a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa753277(VS.85).aspx">other
-switches</a>
-you can tweak the browser control’s behavior. However there is only one
-bit available in the enum for future flags. Maybe that’s why IE
-introduces <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537184(VS.85).aspx">feature
-control</a>
-in IE6 for <a class="reference external" href="http://www.microsoft.com/windows/windows-xp/default.aspx">Windows XP
-SP2</a> where
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537169(v=VS.85).aspx">features are based on
-enum</a>
-– you get a 4GB range for new features!</p>
+application.</a></p>
 </p>
 
     <p class="ablog-post-expand">
@@ -532,47 +493,7 @@ enum</a>
 know</a>
 how to change the user agent string in a
 <a class="reference external" href="http://msdn.microsoft.com/en-us/vbasic/default.aspx">VB6</a> webbrowser
-control. The <a class="reference external" href="http://en.wikipedia.org/wiki/Knowledge_base">knowledge
-base</a> article <a class="reference external" href="http://support.microsoft.com/kb/183412">PRB:
-WebBrowser Control Clients Share Global
-Settings</a> provides the
-necessary code for changing the user agent of the webbrowser control
-when the webbrowser ask for it. But how to have the webbrowser control
-ask for the user agent? Well the webbrowser control is an
-<a class="reference external" href="http://en.wikipedia.org/wiki/ActiveX">ActiveX</a>, so it implements
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms690175(VS.85).aspx">IOleControl::OnAmbientPropertyChange</a>.
-The <a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa753622(VS.85).aspx">host can call the
-method</a>
-to notify the webbrowser control about the property change after the
-browser window is created. The list of ambient properties can be found
-in the <a class="reference external" href="http://www.microsoft.com/downloads/en/details.aspx?FamilyID=AE22E7A9-611F-4112-8B17-0980412D07A5&amp;displaylang=en">walkall
-sample</a>,
-the most useful ones are DISPID_AMBIENT_USERMODE (which VB6 supports),
-DISPID_AMBIENT_DLCONTROL and DISPID_AMBIENT_USERAGENT. The documentation
-of other ambient properties can be found in the <a class="reference external" href="http://msdn.microsoft.com/en-us/library/tc7644wx(v=VS.80).aspx">documentation of
-CComControlBase’s GetAmbient Property
-Methods</a>
-Note the knowledge base article <a class="reference external" href="http://support.microsoft.com/kb/183412">PRB: WebBrowser Control Clients Share
-Global Settings</a> also says
-DISPID_AMBIENT_USERAGENT cannot be used to alter the user agent string
-in DOM or when the navigation is from code. Changing the user agent
-string in registry, of course, can change the behavior but will also
-have global effect. Another way to change the user agent is to go
-directly into the networking layer of webbrowser control and change the
-user agent process-wide. Since most of the time per-page browser setting
-isn’t necessary this can also be used in custom browsers. The WinInet
-function
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms775125(VS.85).aspx">UrlMkSetSessionOption</a>
-has a flag URLMON_OPTION_USERAGENT that can be used to change the user
-agent, However it only updates DOM/Javascript and ignore the WinInet
-stack so other WinInet client won’t be affected, until you call
-UrlMkSetSessionOption with URLMON_OPTION_USERAGENTREFRESH. This is
-better for VB6 and .Net programmers since it does not involve <a class="reference external" href="http://www.mvps.org/emorcillo/en/code/vb6/index.shtml">declaring
-a lot of OLE
-interfaces</a>.
-You can get the user agent from <a class="reference external" href="http://en.wikipedia.org/wiki/Document_Object_Model">the
-DOM</a>
-(<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa752116(VS.85).aspx">document</a>.<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa752599(VS.85).aspx">parentWindow</a>.<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa741467(v=VS.85).aspx">navigator</a>.<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa703729(v=VS.85).aspx">userAgent</a>).</p>
+control.</p>
 </p>
 
     <p class="ablog-post-expand">

@@ -732,10 +732,6 @@
     </li>
       
     <li class="ablog-cloud ablog-cloud-1">
-      <a href="tag/windows-form.html">Windows Form</a>
-    </li>
-      
-    <li class="ablog-cloud ablog-cloud-1">
       <a href="tag/windows-forms.html">Windows Forms</a>
     </li>
       
@@ -1333,27 +1329,7 @@ research outside of the book.</p>
 APIs</a>
 due to compatibility problem with <a class="reference external" href="http://en.wikipedia.org/wiki/Microsoft_Office">Microsoft
 Office</a>. Now it seems
-to be Tapi’s turn. In the <a class="reference external" href="http://en.wikipedia.org/wiki/64-bit_computing">64
-bit</a> editions of
-<a class="reference external" href="http://en.wikipedia.org/wiki/Windows_8">Windows 8</a> and <a class="reference external" href="http://en.wikipedia.org/wiki/Windows_Server_2012">Windows
-Server 2012</a>, some
-TAPI providers would stop getting incoming calls due to implementation
-changes in the TAPI service (TAPISRV) that had to be done for 64 bit
-compatibility. The problem is pretty obvious from the
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/windows/desktop/ms725235%28v=vs.85%29.aspx">documentation</a>,
-for example LINE_NEWCALL has this: htLine = (HTAPILINE) hLineDevice;
-htCall = (HTAPICALL) 0; dwMsg = (DWORD) LINE_NEWCALL; dwParam1 =
-(DWORD)(HDRVCALL) hdCall; dwParam2 = (DWORD)(LPHTAPICALL) &amp;htCall;
-dwParam3 = (DWORD) 0; The parameters can’t really be passed as DWORDs -
-on a 64 bit build, pointers are 64 bit in size, and a DWORD is 32 bit.
-Fortunately this can be corrected fairly easily, just ignore what the
-documentation said and treat the DWORD parameters as DWORD_PTR, however
-for the end users they would need updates from TAPI providers to get
-TAPI working on their Windows 8 /Server 2012 machine. <a class="reference external" href="http://social.msdn.microsoft.com/Forums/windowsdesktop/en-US/1d9646d9-ea18-4bfa-8214-d017cab97d56/windows-8-tapi-issues">According to TAPI
-MVP Andreas
-Marschall</a>,
-the following TAPI providers are affected (If you got a provider
-released before 2012,  it is likely also affected)</p>
+to be Tapi’s turn.</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -1486,18 +1462,7 @@ released before 2012,  it is likely also affected)</p>
     <p class="ablog-post-excerpt"><p>I am getting a StackOverflowException with two functions repeating on
 the <a class="reference external" href="http://en.wikipedia.org/wiki/Call_stack">call stack</a>, one is
 the constructor of System.BadImageFormatException, another is
-System.Environment.GetResourceStringLocal.  Since the call that throws
-the stack overflow is to a <a class="reference external" href="http://en.wikipedia.org/wiki/Web_service">web
-service</a> proxy defined in
-the same project as the application, there isn’t a 32bit/64bit mismatch
-here (32bit machine with every project targeting x86), unlike almost all
-other discussions on the internet about this exception. After inspecting
-Fusion and event logs and finding nothing suspicious, I decided to treat
-it as a real bad image problem and reinstalled .Net. Ура! The exception
-went away after reinstalling. Sometimes, the exception name isn’t
-misleading. PS
-a <a class="reference external" href="http://stackoverflow.com/questions/7705751/system-badimageformatexception-an-attempt-was-made-to-load-a-program-with-an-i">similar question</a>
-was closed as too vague on stackoverflow.</p>
+System.Environment.GetResourceStringLocal.</p>
 </p>
 
     <p class="ablog-post-expand">

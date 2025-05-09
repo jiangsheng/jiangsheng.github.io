@@ -11,6 +11,7 @@ Good that the summit wifi was amazing but a Surface 2 with touch cover was way e
 prompt <https://answers.microsoft.com/en-us/surface/forum/surfwinrt-surfupdate/surface-rt-deadblack-screen-after-installing/bf7a38bd-f51e-4ded-8bfc-b0804b6c5ac6>`__ and hide the update afterwards. But recently I got the black screen with blinking wifi icon, again after installing a bunch of Windows Updates. 
 
 So it probably has multiple causes. Anyway this is my way to get update working as of July 2018:
+
 #. factory reset
 #. go through initial setup (wifi, microsoft account etc)
 #. search for update, this would take a while

@@ -27,16 +27,18 @@ and use it as a custom template.
 
 To translate the asynchronous printing to synchronous, a message loop needs to be created (better if use with a timeout handler).
 
-| BOOL PrintTemplateTeardownFired=FALSE;
-| //launch printing......
-| //loop until PrintTemplateTeardown is set to TRUE in the
+.. code-block::
+
+  BOOL PrintTemplateTeardownFired=FALSE;
+  //launch printing......
+  //loop until PrintTemplateTeardown is set to TRUE in the
   PrintTemplateTeardown event handler
-| MSG msg;
-| while (!PrintTemplateTeardownFired&&GetMessage(&msg, NULL, 0, 0) > 0)
-| {
-|   TranslateMessage(&msg);
-|   DispatchMessage(&msg);
-| }
+  MSG msg;
+  while (!PrintTemplateTeardownFired&&GetMessage(&msg, NULL, 0, 0) > 0)
+  {
+    TranslateMessage(&msg);
+    DispatchMessage(&msg);
+  }
 
 Reference
 

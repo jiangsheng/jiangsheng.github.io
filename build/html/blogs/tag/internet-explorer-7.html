@@ -408,16 +408,7 @@
 the <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537055(v=VS.85).aspx">IInternetZoneManagerEx2</a>
 interface, which has a FixUnsecureSettings method to reset all security
 zone settings. Like all other IInternetZoneManager* interfaces, you can
-query this interface from the internet zone manager object:
-IInternetZoneManagerEx2* pzoneManager=NULL;
-<a class="reference external" href="http://en.wikipedia.org/wiki/HRESULT">HRESULT</a>
-hr=CoCreateInstance(CLSID_InternetZoneManager
-,NULL,CLSCTX_INPROC_SERVER,IID_IInternetZoneManagerEx2,(LPVOID*)&amp;pzoneManager);
-if(hr==S_OK &amp;&amp; pzoneManager!=NULL) {
-hr=pzoneManager-&gt;FixUnsecureSettings(); } There’s
-another <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537159(v=VS.85).aspx">CoInternetCreateZoneManager</a>
-function to get the zone manager object’s IInternetZoneManager
-interface.</p>
+query this interface from the internet zone manager object:</p>
 </p>
 
     <p class="ablog-post-expand">

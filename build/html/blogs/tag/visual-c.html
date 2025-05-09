@@ -465,7 +465,7 @@
         
     <a href="#">Visual C++</a>
         
-    <a href="windows-form.html">Windows Form</a>
+    <a href="windows-forms.html">Windows Forms</a>
       
   </li>
    
@@ -576,50 +576,7 @@ good. It magically knows the main class of the <a class="reference external" hre
 Player</a> ActiveX
 is CWMPPlayer4 and that GetCurrentMedia
 <a class="reference external" href="http://en.wikipedia.org/wiki/Method_%28computer_programming%29">method</a>
-returns CWMPMedia. Welcome to the modern <a class="reference external" href="http://en.wikipedia.org/wiki/Visual_C%2B%2B">Visual
-C++</a>. Now comes a <a class="reference external" href="http://msdn.microsoft.com/en-us/library/9kdzetyx.aspx">new
-wizard</a> that
-gives you options to choose interfaces to import from. At the same time
-you got to decide if you really need that many types from an ActiveX.
- If you went the unfortunate path of <a class="reference external" href="http://msdn.microsoft.com/en-us/library/86kdbbs8.aspx">Adding a Member Variable
-wizard</a> in the
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/6zd672xs.aspx">dialog
-editor</a> and
-somehow got a COCX1 class back, you don’t have the luxury to choose, and
-you end up with an CWnd wrapper class that does not really wrap up the
-properties and methods of the ActiveX. It is still good for early
-binding (like querying IWMPPlayer4 from the result of
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/6fde5b3k.aspx">CWnd::GetControlUnknown</a>)
-but if you plan to use late binding and MFC’s OLE support (hello
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/fa1zk0fk(v=vs.110).aspx">COleException</a>!),
- you probably want to delete the COCX1 files and start over with the
-Adding a Class from an ActiveX Control wizard. Good thing about the new
-Adding a Class from an ActiveX Control wizard is that most of time we
-don’t care about the majority of the types in the ActiveX’s type
-library. We are not going to call most of the ActiveX’s functionality
-anyways, so selecting what we would use makes sense. Bad thing is that
-now we don’t know the return type of a method from the generated classes
-if the return type is LPDISPATCH, lead to guesswork or fire
-up <a class="reference external" href="http://msdn.microsoft.com/en-us/library/windows/desktop/ms693754(v=vs.85).aspx">OLEView</a>
-to look up the types in the ActiveX’s type library). Now comes the worst
-part of the new wizard. The wizard somehow lost its ability to find the
-correct ActiveX control class and opt to use the first selected
-interface to generate a CWnd wrapper.  If you naturally click on the &gt;&gt;
-button to select all interfaces in the Windows Media Player ActiveX at
-once, you get a CWMPCdromCollection derived from CWnd. That  won’t work
-as the ActiveX does not implement the IWMPCdromCollection interfaces
-(undefined behavior can happen if you call the generated methods), and
-certainly the WMPCdromCollection class isn’t an insertable ActiveX.
-Fortunately it is easy to avoid this issue if you add the ActiveX’s main
-interface first (e.g. IWMPPlayer4 for the Windows Media Player control)
-before adding the rest of interfaces, or correct the generated code for
-the first interface. That is, swap the CWnd and COleDispatchDriver code
-between the wrong class and the correct class for the main interface. It
-takes some time to find the correct class for the ActiveX control,
-however. Side note: For code cleanness, you probably want to move the
-InvokeHelper code in the headers to cpp files like VC6 did. A good C++
-<a class="reference external" href="http://en.wikipedia.org/wiki/Code_refactoring">refactoring tool</a> can
-help that tremendously.</p>
+returns CWMPMedia.</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -821,8 +778,11 @@ metro style apps.</p>
    
 </div>
     </ul>
-    <p class="ablog-post-excerpt"><p>[caption id=”” align=”alignright” width=”300” caption=”Image via
-Wikipedia”]<a class="reference external" href="http://en.wikipedia.org/wiki/File:Windows_Update_v3.png"><img alt="Windows Update version 3 in Windows 98" src="http://upload.wikimedia.org/wikipedia/en/thumb/4/49/Windows_Update_v3.png/300px-Windows_Update_v3.png" style="width: 300px; height: 204px;" /></a>[/caption]</p>
+    <p class="ablog-post-excerpt"><p>Update:Microsoft’s Visual C++ team has <a class="reference external" href="http://blogs.msdn.com/b/vcblog/archive/2011/04/26/10158277.aspx">released workarounds on the
+problem.</a> AVG
+has released an utility that can revert the KB2467175 update,
+downloadable
+at <a class="reference external" href="http://twitter.blog.avg.com/2011/04/avg-feedback-update-26411.html">http://twitter.blog.avg.com/2011/04/avg-feedback-update-26411.html</a></p>
 </p>
 
     <p class="ablog-post-expand">
@@ -892,34 +852,7 @@ Wikipedia”]<a class="reference external" href="http://en.wikipedia.org/wiki/Fi
 know</a>
 how to solve a LNK2001 error related to CLSID_CMpeg4sDecMediaObject. The
 user has no problem linking a lib file in the project but couldn’t find
-which lib the CLSID is in. The <a class="reference external" href="http://en.wikipedia.org/wiki/Microsoft_Windows_SDK">Windows
-SDK</a> is strangely
-cryptic on which lib file the CLSID is exported from. Luckily you can
-find out the library file you need to link with, if you execute the
-following <a class="reference external" href="http://en.wikipedia.org/wiki/Command-line_interface">command
-line</a> in the SDK
-command prompt Update: use findstr /m /S /c:”CMpeg4” *.lib is easier
-C:\Program Files\Microsoft SDKs\Windows\v7.0\Lib&gt;for %a in (*.lib)
-do dumpbin /symbols %a |find “CMpeg4” After a bunch of fruitless
-searches, the search yields the results when it encounters
-wmcodecdspuuid.lib C:\Program Files\Microsoft
-SDKs\Windows\v7.0\Lib&gt;dumpbin /symbols wmcodecdspuuid.lib   | find
-“CMpeg4” 056 00000000 SECT1D notype       External     |
-_CLSID_CMpeg4DecMediaObject 059 00000000 SECT1E notype
-External     | _CLSID_CMpeg43DecMediaObject 05C 00000000 SECT1F
-notype       External     | _CLSID_CMpeg4sDecMediaObject 05F 00000000
-SECT20 notype       External     | _CLSID_CMpeg4sDecMFT 065 00000000
-SECT22 notype       External     | _CLSID_CMpeg4EncMediaObject 068
-00000000 SECT23 notype       External     |
-_CLSID_CMpeg4sEncMediaObject There is a big uuid.lib file contains most
-of the SDK CLSIDs in the Windows SDK, and it is likely linked by default
-if you use Visual C++’s project templates, so you may not see the link
-error at all if you use common CLSIDs like CLSID_InternetExplorer. There
-are also <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ff960419.aspx">GUIDs defined in the Windows SDK using the DEFINE_GUID
-macro</a>. The
-SDK assumes you to initialize the GUID using the methods demonstrated in
-<a class="reference external" href="http://support.microsoft.com/kb/130869">How to avoid error “LNK2001 unresolved external” by using
-DEFINE_GUID</a>.</p>
+which lib the CLSID is in.</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -1108,21 +1041,7 @@ DEFINE_GUID</a>.</p>
 question</a>
 when he posted the question to <a class="reference external" href="http://community.csdn.net">CSDN</a>,
 except for one missing piece. The sample he found is for overriding the
-global download manager, and what he need is a process wide override. It
-looks like rsd102 is loving research. He found more than he can
-understand initially. After being suggested twice with the vague IE
-<a class="reference external" href="http://en.wikipedia.org/wiki/Software_development_kit">SDK</a>
-documentation he decided to post the sample code he was working on. And
-when the final answer was given he had problem adopting it. The answer
-was for adding INewWindowManager, not IDownloadManager, to the
-webbrowser site, and it has undisclosed error that prevented his
-adoption. In
-<a class="reference external" href="http://msdn2.microsoft.com/en-us/visualc/default.aspx">VC6</a> things
-are easier-there is not much browser host support-so the user settled
-with a VC6 solution. it is pleasant to see a user doing active research
-before positing a question, however we may not see the question online
-if the user take some time reading the documentation he found during
-research.</p>
+global download manager, and what he need is a process wide override.</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -1208,46 +1127,7 @@ research.</p>
     </ul>
     <p class="ablog-post-excerpt"><p>User wtx_sonery <a class="reference external" href="http://topic.csdn.net/u/20091026/14/05db4eed-c766-4480-80ce-b030488bcae1.html">wants to know whether it is possible to style the
 webbrowser control with the rest of the
-application.</a>
-The answer is yes, you can implement IDocHostUIHandler’s GetHostInfo
-method and return DOCHOSTUIFLAG_THEME in the host flags.
-IDocHostUIHandler is already implemented in MFC and
-<a class="reference external" href="http://en.wikipedia.org/wiki/Active_Template_Library">ATL</a>. For MFC
-there are CHtmlControlSite and CBrowserControlSite but you should be
-overriding the GetHostInfo function in CHTMLView and CDHTMLDialog. In
-ATL the template definition is in Atliface.h but you need to <a class="reference external" href="http://support.microsoft.com/kb/274202">derive
-from IDocHostUIHandlerDispatch by
-yourself.</a> Implementing
-IDocHostUIHandler Windows Forms gets a little tricky. Windows Forms
-already implemented it on its WebBrowserSite class but you can’t extend
-it. Following the .Net <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms182161(v=VS.100).aspx">Framework Class Library Security
-Guideline</a>
-the Windows Forms version of the IDocHostUIHandler interface is internal
-to the class library. If you derive from WebBrowserSite and implement
-your own version of IDocHostUIHandler, you still get Windows Forms’s
-implementation of IDocHostUIHandler when you do
-<a class="reference external" href="http://en.wikipedia.org/wiki/IUnknown">QueryInterface</a> on the
-browser site. That means you need to <a class="reference external" href="http://code.google.com/p/csexwb2/">get ride of the Windows Forms
-wrapper of the webbrowser control and provide your own hosting
-implementation.</a> WPF/Silverlight
-users, you are out of luck. The stock version of the webbrowser control
-does not even provide a way to customize the host site. The best thing
-you can do is to see if Windows Forms interop is available to the
-platform and if so, embed a csexwb <a class="reference external" href="http://en.wikipedia.org/wiki/Windows_Forms">Windows Forms
-control</a>. There are some
-<a class="reference external" href="http://code.google.com/p/csexwb2/issues/detail?id=59">unsolved problems in the csexwb discussion
-area</a>, however.
-There are <a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa753277(VS.85).aspx">other
-switches</a>
-you can tweak the browser control’s behavior. However there is only one
-bit available in the enum for future flags. Maybe that’s why IE
-introduces <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537184(VS.85).aspx">feature
-control</a>
-in IE6 for <a class="reference external" href="http://www.microsoft.com/windows/windows-xp/default.aspx">Windows XP
-SP2</a> where
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537169(v=VS.85).aspx">features are based on
-enum</a>
-– you get a 4GB range for new features!</p>
+application.</a></p>
 </p>
 
     <p class="ablog-post-expand">
@@ -1325,48 +1205,7 @@ enum</a>
     </ul>
     <p class="ablog-post-excerpt"><p>Update: it looks like a lot of people are hitting this page by
 mistake. If you don’t write software for a living then this page is
-probably not for you. Download:
-<a class="reference external" href="http://jiangsheng.net/Documents/IE8AddZone.zip">http://jiangsheng.net/Documents/IE8AddZone.zip</a> Prerequisite:
-<a class="reference external" href="http://www.microsoft.com/downloads/details.aspx?familyid=200b2fd9-ae1a-4a14-984d-389c36f85647&amp;displaylang=en">Microsoft Visual C++ 2005 SP1 Redistributable Package
-(x86)</a>
-This program is designed to temporary circumvent the “An add-on for
-this web site failed to run. Check the security settings in Internet
-options for potential conflicts” error in <a class="reference external" href="http://www.microsoft.com/visualstudio">Visual
-Studio</a> after installing
-IE8. For more details about this problem, visit
-<a class="reference external" href="https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=425510">https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=425510</a>
-Update: the VC team’s workaround is at
-<a class="reference external" href="http://blogs.msdn.com/vcblog/archive/2009/03/28/some-vs2005-and-vs2008-wizards-pop-up-script-error.aspx">http://blogs.msdn.com/vcblog/archive/2009/03/28/some-vs2005-and-vs2008-wizards-pop-up-script-error.aspx</a>.
-However, I still suggest copying other settings from a restricted
-zone before modify the 1207 key. Clicking the create button will
-create another <a class="reference external" href="http://en.wikipedia.org/wiki/Internet_Explorer">Internet
-Explorer</a> security
-zone with the id 1000 that will affect all urls not included in other
-zones. This will allow separate security settings for webbrowser
-control hosting
-<a class="reference external" href="http://en.wikipedia.org/wiki/Application_software">application</a>
-such as Visual Studio. If settings are copied from a trusted
-configuration such as “my computer”,a webbrowser control hosting
-application may not experience the aforementioned error. Security
-Remarks: do not visit unsecured web site or use email software on the
-same computer after creating the new zone as the security impact of
-the new zone is not yet tested. Applications that host webbrowser
-control should implement their own <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537182(VS.85).aspx">security
-manager</a>
-if they want to run
-<a class="reference external" href="http://en.wikipedia.org/wiki/ActiveX">ActiveX</a> in the browser
-control. If you received a fix from the IE team for this problem,
-please delete the zone created by this problem by clicking the delete
-button. Visit
-<a class="reference external" href="https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=425510">https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=425510</a>
-for the status of this problem. For more information about adding
-zones to IE, visit <a class="reference external" href="http://www.nthelp.com/50/addazone.htm">http://www.nthelp.com/50/addazone.htm</a> . For more
-information about Internet Explorer security zones, visit
-<a class="reference external" href="http://support.microsoft.com/kb/182569">http://support.microsoft.com/kb/182569</a> For more information about
-Visual C++ wizards, visit
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa730846(VS.80).aspx">http://msdn.microsoft.com/en-us/library/aa730846(VS.80).aspx</a>
-Suspicious url actions from
-<a class="reference external" href="http://en.wikipedia.org/wiki/RegMon">Regmon</a> logs:</p>
+probably not for you.</p>
 </p>
 
     <p class="ablog-post-expand">

@@ -565,16 +565,7 @@ research outside of the book.</p>
 the <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537055(v=VS.85).aspx">IInternetZoneManagerEx2</a>
 interface, which has a FixUnsecureSettings method to reset all security
 zone settings. Like all other IInternetZoneManager* interfaces, you can
-query this interface from the internet zone manager object:
-IInternetZoneManagerEx2* pzoneManager=NULL;
-<a class="reference external" href="http://en.wikipedia.org/wiki/HRESULT">HRESULT</a>
-hr=CoCreateInstance(CLSID_InternetZoneManager
-,NULL,CLSCTX_INPROC_SERVER,IID_IInternetZoneManagerEx2,(LPVOID*)&amp;pzoneManager);
-if(hr==S_OK &amp;&amp; pzoneManager!=NULL) {
-hr=pzoneManager-&gt;FixUnsecureSettings(); } There’s
-another <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537159(v=VS.85).aspx">CoInternetCreateZoneManager</a>
-function to get the zone manager object’s IInternetZoneManager
-interface.</p>
+query this interface from the internet zone manager object:</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -650,38 +641,7 @@ interface.</p>
 that caught my eye. Some are just regular header file updates for
 Windows 7 and does not necessary require Windows 8. Some other APIs
 moved to <a class="reference external" href="http://en.wikipedia.org/wiki/Header_file">header files</a>
-with more readable names. Improvements are focused, of course, in
-natural input, efficiency, gaming experience and IE. You can hear the
-silence scream of “Tablet!Tablet!Tablet!” here. Note Windows 8 is still
-a developer preview and there is no guarantee any new feature will
-survive the final cut or there won’t be new API for existing features
-add in Beta/RC/Gold. UI: There is no improvement in the
-<a class="reference external" href="http://en.wikipedia.org/wiki/Graphics_Device_Interface">GDI</a>-based
-shell common controls. No surprise here. The new UI would be based on
-WinRT and will use GPU to render instead of CPU. There are COM API for
-printing, which is traditionally performed via GDI. A lot of Direct2D
-and Direct3D improvements. XAudio2 added and battery/pad support  added
-to <a class="reference external" href="http://en.wikipedia.org/wiki/DirectInput">XInput</a>. Improvement in
-3D rendering, device removal during capturing and stream seeking in
-Windows Media Foundation. API for H264 codec. Shell <a class="reference external" href="http://en.wikipedia.org/wiki/Include_guard">Header
-guard</a> for IE5.01 or
-lower are removed. Building for Windows 2000 is now practically
-impossible. Some header guard switched to NTDDI_VERSION. There is A new
-camera UI control based on COM. Somehow the version guard of
-Shell_NotifyIconGetRect is lost, this might be a header file bug.
-Networking: Lots of IE 10 APIs and HTML 5 support.
-<a class="reference external" href="http://en.wikipedia.org/wiki/Active_Scripting">ActiveScript</a>
-optimized for multiple instance and webworker. Also there is a new
-IActiveScriptContext interface to get url, line and offset of the
-script. New timeout configuration in WinInet.
-<a class="reference external" href="http://en.wikipedia.org/wiki/ActiveX">ActiveX</a> filtering, and
-options to enable/disable audio/video plugins added for IE security
-zones. Others Accessibility for windowless controls and lots of <a class="reference external" href="http://en.wikipedia.org/wiki/Microsoft_UI_Automation">UI
-automation</a>
-improvements, including grid and spreadsheet types. Candidate list
-integration and async document support with Text Service Framework. ARM
-support to .Net APIs.  A lot of pointer device and touch messages,
-notification and drawing.</p>
+with more readable names.</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -980,65 +940,7 @@ window in <a class="reference external" href="http://en.wikipedia.org/wiki/Inter
 Explorer</a>. User
 ben_lai <a class="reference external" href="http://topic.csdn.net/u/20091120/11/b023d1e9-f31e-4671-bae7-45d6f4fca9e8.html">wants to
 know</a>
-how to handle the click and navigate to the same window. There are three
-events that notifies a new window,
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768335(v=VS.85).aspx">NewWindow</a>
-(The current documentation of this event is wong, check
-<a class="reference external" href="http://support.microsoft.com/kb/185538/EN-US/">http://support.microsoft.com/kb/185538/EN-US/</a> for the parameters of the
-event),
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768336(v=VS.85).aspx">NewWindow2</a>
-and
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768337(VS.85).aspx">NewWindow3</a>,
-each one has a cancel parameter to stop the new window being created,
-though for NewWindow2, it requires cooperation of
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768326(v=VS.85).aspx">BeforeNavigate2</a>
-to get the url of the new window. After getting the url, the navigation
-can be carried out in the original window by calling Navigate2. The
-obsolete NewWindow Event has the url right in the parameter so you can
-cancel the navigation and call the navigation methods of the
-<a class="reference external" href="http://en.wikipedia.org/wiki/Web_browser">webbrowser</a> control with
-the new url. The problem is, the event is there for compatibility
-purposes and you don’t know how long the event will still be raised. And
-it is not without problem, <a class="reference external" href="http://support.microsoft.com/kb/194242">one fixed bug causes a 60 seconds delay on
-new window creation</a>,
-<a class="reference external" href="http://support.microsoft.com/kb/294870">another causes the navigation to
-fail</a>. The fix for the
-latter? use NewWindow2. The NewWindow2 event, introduced in IE4, does
-not have the url parameter. So you cannot simply cancel the event. To
-get the url, you need do the normal processing, create a hidden new
-webbrowser host window and <a class="reference external" href="http://support.microsoft.com/kb/184876">assign the webbrowser to the event’s ppdisp
-parameter</a>, then hook
-BeforeNavigate2 in the new window to get the url (may require client to
-<a class="reference external" href="http://support.microsoft.com/kb/943112">patch their Windows if they are on Windows
-Vista</a>). Once you get the
-url, you can destroy the new window and navigate in the old window. The
-NewWindow3 event, introduced with <a class="reference external" href="http://www.microsoft.com/windowsserver2003/">Windows Server 2003
-SP1</a> and <a class="reference external" href="http://www.microsoft.com/windows/windows-xp/default.aspx">Windows XP
-SP2</a>, is
-designed for the webbrowser host to get notified of the decision of the
-<a class="reference external" href="http://en.wikipedia.org/wiki/Pop-up_ad">popup window</a> manager based
-on user preference (for example, if the new window should be opened in a
-new window or a new tab in the current window), though the popup window
-manager’s behavior <a class="reference external" href="http://jiangshengvc.wordpress.com/2007/07/03/handle-newwindow3-and-showmodaldialog-in-chtmlview/http://jiangshengvc.wordpress.com/2007/07/03/handle-newwindow3-and-showmodaldialog-in-chtmlview/">can be customized
-too</a>.
-For the purpose of cancelling navigation and navigate to the old window,
-it does not matter how the new window should be opened, so you can just
-take the url and execute the same logic as in the NewWindow event. Since
-<strong>everyone should be using IE7 or higher now</strong>, the event should be
-supported by the browser. If the client can’t upgrade IE, at least ask
-them to fully patch their Windows. The original poster’s question is in
-the VB forum so all the native events are available. For .net
-programmers, you can <a class="reference external" href="http://support.microsoft.com/kb/311298">hook up the event via IConnectionPointContainer
-directly if you are inserting the webbrowser as an ActievX on a Windows
-Form</a>, or <a class="reference external" href="http://www.codeproject.com/KB/cpp/ExtendedWebBrowser.aspx">extend the
-webbrowser site if you are using the System.Windows.Forms.Webbrowser
-class</a>.
-Update:
-<a class="reference external" href="http://en.wikipedia.org/wiki/Windows_Presentation_Foundation">WPF</a>
-users who want to use System.Windows.Controls.WebBrowser are out of
-luck, they need to <a class="reference external" href="http://social.msdn.microsoft.com/Forums/en-US/wpf/thread/8c43c6f5-4e9f-4491-8219-1b0eeb7b225b/">host the ActiveX versions of the webbrowser control
-to get a hand on the native
-events</a>.</p>
+how to handle the click and navigate to the same window.</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -1112,22 +1014,7 @@ how to access <a class="reference external" href="http://www.microsoft.com/iis">
 directory</a> of the
 <a class="reference external" href="http://en.wikipedia.org/wiki/File_Transfer_Protocol">FTP</a> web site
 in <a class="reference external" href="http://msdn2.microsoft.com/en-us/visualc/default.aspx">Visual
-C</a>++. Before
-IIS6 you need to access the
-<a class="reference external" href="http://en.wikipedia.org/wiki/Metadata">metadata</a> in IIS
-configuration via
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms525079(VS.90).aspx">IMSAdminBase::GetData</a>.
-The hard part to find the path of the IIS setting. Before IIS 6, the
-metadata isn’t saved in <a class="reference external" href="http://en.wikipedia.org/wiki/XML">XML</a>.
-However you can <a class="reference external" href="http://blogs.msdn.com/b/david.wang/archive/2005/07/08/howto-search-and-replace-any-iis-metabase-property-value-automatically.aspx">search the path of a property though the admin
-script</a>.
-You can find the <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms524600(v=VS.90).aspx">path
-property</a>
-from the IIS metadata propertiy reference documentation. The IIS WMI
-provider, introduced in IIS6, makes the query a lot easier. Now you can
-query for
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms524913(VS.90).aspx">IIsFtpVirtualDirSetting.Path</a>
-directly, though querying metadata should still work.</p>
+C</a>++.</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -1201,47 +1088,7 @@ directly, though querying metadata should still work.</p>
 know</a>
 how to change the user agent string in a
 <a class="reference external" href="http://msdn.microsoft.com/en-us/vbasic/default.aspx">VB6</a> webbrowser
-control. The <a class="reference external" href="http://en.wikipedia.org/wiki/Knowledge_base">knowledge
-base</a> article <a class="reference external" href="http://support.microsoft.com/kb/183412">PRB:
-WebBrowser Control Clients Share Global
-Settings</a> provides the
-necessary code for changing the user agent of the webbrowser control
-when the webbrowser ask for it. But how to have the webbrowser control
-ask for the user agent? Well the webbrowser control is an
-<a class="reference external" href="http://en.wikipedia.org/wiki/ActiveX">ActiveX</a>, so it implements
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms690175(VS.85).aspx">IOleControl::OnAmbientPropertyChange</a>.
-The <a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa753622(VS.85).aspx">host can call the
-method</a>
-to notify the webbrowser control about the property change after the
-browser window is created. The list of ambient properties can be found
-in the <a class="reference external" href="http://www.microsoft.com/downloads/en/details.aspx?FamilyID=AE22E7A9-611F-4112-8B17-0980412D07A5&amp;displaylang=en">walkall
-sample</a>,
-the most useful ones are DISPID_AMBIENT_USERMODE (which VB6 supports),
-DISPID_AMBIENT_DLCONTROL and DISPID_AMBIENT_USERAGENT. The documentation
-of other ambient properties can be found in the <a class="reference external" href="http://msdn.microsoft.com/en-us/library/tc7644wx(v=VS.80).aspx">documentation of
-CComControlBase’s GetAmbient Property
-Methods</a>
-Note the knowledge base article <a class="reference external" href="http://support.microsoft.com/kb/183412">PRB: WebBrowser Control Clients Share
-Global Settings</a> also says
-DISPID_AMBIENT_USERAGENT cannot be used to alter the user agent string
-in DOM or when the navigation is from code. Changing the user agent
-string in registry, of course, can change the behavior but will also
-have global effect. Another way to change the user agent is to go
-directly into the networking layer of webbrowser control and change the
-user agent process-wide. Since most of the time per-page browser setting
-isn’t necessary this can also be used in custom browsers. The WinInet
-function
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms775125(VS.85).aspx">UrlMkSetSessionOption</a>
-has a flag URLMON_OPTION_USERAGENT that can be used to change the user
-agent, However it only updates DOM/Javascript and ignore the WinInet
-stack so other WinInet client won’t be affected, until you call
-UrlMkSetSessionOption with URLMON_OPTION_USERAGENTREFRESH. This is
-better for VB6 and .Net programmers since it does not involve <a class="reference external" href="http://www.mvps.org/emorcillo/en/code/vb6/index.shtml">declaring
-a lot of OLE
-interfaces</a>.
-You can get the user agent from <a class="reference external" href="http://en.wikipedia.org/wiki/Document_Object_Model">the
-DOM</a>
-(<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa752116(VS.85).aspx">document</a>.<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa752599(VS.85).aspx">parentWindow</a>.<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa741467(v=VS.85).aspx">navigator</a>.<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa703729(v=VS.85).aspx">userAgent</a>).</p>
+control.</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -1404,7 +1251,7 @@ Studio风格和MDI标签。另外，这个版本也包含部分TR1的实现，�
   
   <div class="section ablog-post">
     <h2 class="ablog-post-title">
-      <a href="../2006/prb-icustomdocsetuihandler-causes-changes-in-save-as-dialog.html">PRB: ICustomDoc::SetUIHandler Causes Changes in Save As Dialog</a>
+      <a href="../2006/prb-icustomdocsetuihandler-causes-changes-in-save-as-dialog.html">PRB: ::SetUIHandler Causes Changes in Save As Dialog</a>
     </h2>
     <ul class="ablog-archive">
       <li>
@@ -1535,8 +1382,7 @@ Professional</a>)
 Program</a>
 的更多信息，请访问：<a class="reference external" href="http://www.microsoft.com/mvp">www.microsoft.com/mvp</a>。
 非常感激您在过去的一年中在指导Visual Developer - <a class="reference external" href="http://msdn2.microsoft.com/en-us/visualc/default.aspx">Visual
-C</a>++技术社区中的同伴方面所做的杰出贡献。
-Another email:</p>
+C</a>++技术社区中的同伴方面所做的杰出贡献。</p>
 </p>
 
     <p class="ablog-post-expand">

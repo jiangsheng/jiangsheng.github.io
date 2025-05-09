@@ -408,16 +408,7 @@
 the <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537055(v=VS.85).aspx">IInternetZoneManagerEx2</a>
 interface, which has a FixUnsecureSettings method to reset all security
 zone settings. Like all other IInternetZoneManager* interfaces, you can
-query this interface from the internet zone manager object:
-IInternetZoneManagerEx2* pzoneManager=NULL;
-<a class="reference external" href="http://en.wikipedia.org/wiki/HRESULT">HRESULT</a>
-hr=CoCreateInstance(CLSID_InternetZoneManager
-,NULL,CLSCTX_INPROC_SERVER,IID_IInternetZoneManagerEx2,(LPVOID*)&amp;pzoneManager);
-if(hr==S_OK &amp;&amp; pzoneManager!=NULL) {
-hr=pzoneManager-&gt;FixUnsecureSettings(); } There’s
-another <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537159(v=VS.85).aspx">CoInternetCreateZoneManager</a>
-function to get the zone manager object’s IInternetZoneManager
-interface.</p>
+query this interface from the internet zone manager object:</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -570,65 +561,7 @@ window in <a class="reference external" href="http://en.wikipedia.org/wiki/Inter
 Explorer</a>. User
 ben_lai <a class="reference external" href="http://topic.csdn.net/u/20091120/11/b023d1e9-f31e-4671-bae7-45d6f4fca9e8.html">wants to
 know</a>
-how to handle the click and navigate to the same window. There are three
-events that notifies a new window,
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768335(v=VS.85).aspx">NewWindow</a>
-(The current documentation of this event is wong, check
-<a class="reference external" href="http://support.microsoft.com/kb/185538/EN-US/">http://support.microsoft.com/kb/185538/EN-US/</a> for the parameters of the
-event),
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768336(v=VS.85).aspx">NewWindow2</a>
-and
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768337(VS.85).aspx">NewWindow3</a>,
-each one has a cancel parameter to stop the new window being created,
-though for NewWindow2, it requires cooperation of
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa768326(v=VS.85).aspx">BeforeNavigate2</a>
-to get the url of the new window. After getting the url, the navigation
-can be carried out in the original window by calling Navigate2. The
-obsolete NewWindow Event has the url right in the parameter so you can
-cancel the navigation and call the navigation methods of the
-<a class="reference external" href="http://en.wikipedia.org/wiki/Web_browser">webbrowser</a> control with
-the new url. The problem is, the event is there for compatibility
-purposes and you don’t know how long the event will still be raised. And
-it is not without problem, <a class="reference external" href="http://support.microsoft.com/kb/194242">one fixed bug causes a 60 seconds delay on
-new window creation</a>,
-<a class="reference external" href="http://support.microsoft.com/kb/294870">another causes the navigation to
-fail</a>. The fix for the
-latter? use NewWindow2. The NewWindow2 event, introduced in IE4, does
-not have the url parameter. So you cannot simply cancel the event. To
-get the url, you need do the normal processing, create a hidden new
-webbrowser host window and <a class="reference external" href="http://support.microsoft.com/kb/184876">assign the webbrowser to the event’s ppdisp
-parameter</a>, then hook
-BeforeNavigate2 in the new window to get the url (may require client to
-<a class="reference external" href="http://support.microsoft.com/kb/943112">patch their Windows if they are on Windows
-Vista</a>). Once you get the
-url, you can destroy the new window and navigate in the old window. The
-NewWindow3 event, introduced with <a class="reference external" href="http://www.microsoft.com/windowsserver2003/">Windows Server 2003
-SP1</a> and <a class="reference external" href="http://www.microsoft.com/windows/windows-xp/default.aspx">Windows XP
-SP2</a>, is
-designed for the webbrowser host to get notified of the decision of the
-<a class="reference external" href="http://en.wikipedia.org/wiki/Pop-up_ad">popup window</a> manager based
-on user preference (for example, if the new window should be opened in a
-new window or a new tab in the current window), though the popup window
-manager’s behavior <a class="reference external" href="http://jiangshengvc.wordpress.com/2007/07/03/handle-newwindow3-and-showmodaldialog-in-chtmlview/http://jiangshengvc.wordpress.com/2007/07/03/handle-newwindow3-and-showmodaldialog-in-chtmlview/">can be customized
-too</a>.
-For the purpose of cancelling navigation and navigate to the old window,
-it does not matter how the new window should be opened, so you can just
-take the url and execute the same logic as in the NewWindow event. Since
-<strong>everyone should be using IE7 or higher now</strong>, the event should be
-supported by the browser. If the client can’t upgrade IE, at least ask
-them to fully patch their Windows. The original poster’s question is in
-the VB forum so all the native events are available. For .net
-programmers, you can <a class="reference external" href="http://support.microsoft.com/kb/311298">hook up the event via IConnectionPointContainer
-directly if you are inserting the webbrowser as an ActievX on a Windows
-Form</a>, or <a class="reference external" href="http://www.codeproject.com/KB/cpp/ExtendedWebBrowser.aspx">extend the
-webbrowser site if you are using the System.Windows.Forms.Webbrowser
-class</a>.
-Update:
-<a class="reference external" href="http://en.wikipedia.org/wiki/Windows_Presentation_Foundation">WPF</a>
-users who want to use System.Windows.Controls.WebBrowser are out of
-luck, they need to <a class="reference external" href="http://social.msdn.microsoft.com/Forums/en-US/wpf/thread/8c43c6f5-4e9f-4491-8219-1b0eeb7b225b/">host the ActiveX versions of the webbrowser control
-to get a hand on the native
-events</a>.</p>
+how to handle the click and navigate to the same window.</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -702,21 +635,7 @@ events</a>.</p>
 question</a>
 when he posted the question to <a class="reference external" href="http://community.csdn.net">CSDN</a>,
 except for one missing piece. The sample he found is for overriding the
-global download manager, and what he need is a process wide override. It
-looks like rsd102 is loving research. He found more than he can
-understand initially. After being suggested twice with the vague IE
-<a class="reference external" href="http://en.wikipedia.org/wiki/Software_development_kit">SDK</a>
-documentation he decided to post the sample code he was working on. And
-when the final answer was given he had problem adopting it. The answer
-was for adding INewWindowManager, not IDownloadManager, to the
-webbrowser site, and it has undisclosed error that prevented his
-adoption. In
-<a class="reference external" href="http://msdn2.microsoft.com/en-us/visualc/default.aspx">VC6</a> things
-are easier-there is not much browser host support-so the user settled
-with a VC6 solution. it is pleasant to see a user doing active research
-before positing a question, however we may not see the question online
-if the user take some time reading the documentation he found during
-research.</p>
+global download manager, and what he need is a process wide override.</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -802,46 +721,7 @@ research.</p>
     </ul>
     <p class="ablog-post-excerpt"><p>User wtx_sonery <a class="reference external" href="http://topic.csdn.net/u/20091026/14/05db4eed-c766-4480-80ce-b030488bcae1.html">wants to know whether it is possible to style the
 webbrowser control with the rest of the
-application.</a>
-The answer is yes, you can implement IDocHostUIHandler’s GetHostInfo
-method and return DOCHOSTUIFLAG_THEME in the host flags.
-IDocHostUIHandler is already implemented in MFC and
-<a class="reference external" href="http://en.wikipedia.org/wiki/Active_Template_Library">ATL</a>. For MFC
-there are CHtmlControlSite and CBrowserControlSite but you should be
-overriding the GetHostInfo function in CHTMLView and CDHTMLDialog. In
-ATL the template definition is in Atliface.h but you need to <a class="reference external" href="http://support.microsoft.com/kb/274202">derive
-from IDocHostUIHandlerDispatch by
-yourself.</a> Implementing
-IDocHostUIHandler Windows Forms gets a little tricky. Windows Forms
-already implemented it on its WebBrowserSite class but you can’t extend
-it. Following the .Net <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms182161(v=VS.100).aspx">Framework Class Library Security
-Guideline</a>
-the Windows Forms version of the IDocHostUIHandler interface is internal
-to the class library. If you derive from WebBrowserSite and implement
-your own version of IDocHostUIHandler, you still get Windows Forms’s
-implementation of IDocHostUIHandler when you do
-<a class="reference external" href="http://en.wikipedia.org/wiki/IUnknown">QueryInterface</a> on the
-browser site. That means you need to <a class="reference external" href="http://code.google.com/p/csexwb2/">get ride of the Windows Forms
-wrapper of the webbrowser control and provide your own hosting
-implementation.</a> WPF/Silverlight
-users, you are out of luck. The stock version of the webbrowser control
-does not even provide a way to customize the host site. The best thing
-you can do is to see if Windows Forms interop is available to the
-platform and if so, embed a csexwb <a class="reference external" href="http://en.wikipedia.org/wiki/Windows_Forms">Windows Forms
-control</a>. There are some
-<a class="reference external" href="http://code.google.com/p/csexwb2/issues/detail?id=59">unsolved problems in the csexwb discussion
-area</a>, however.
-There are <a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa753277(VS.85).aspx">other
-switches</a>
-you can tweak the browser control’s behavior. However there is only one
-bit available in the enum for future flags. Maybe that’s why IE
-introduces <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537184(VS.85).aspx">feature
-control</a>
-in IE6 for <a class="reference external" href="http://www.microsoft.com/windows/windows-xp/default.aspx">Windows XP
-SP2</a> where
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537169(v=VS.85).aspx">features are based on
-enum</a>
-– you get a 4GB range for new features!</p>
+application.</a></p>
 </p>
 
     <p class="ablog-post-expand">
@@ -915,47 +795,7 @@ enum</a>
 know</a>
 how to change the user agent string in a
 <a class="reference external" href="http://msdn.microsoft.com/en-us/vbasic/default.aspx">VB6</a> webbrowser
-control. The <a class="reference external" href="http://en.wikipedia.org/wiki/Knowledge_base">knowledge
-base</a> article <a class="reference external" href="http://support.microsoft.com/kb/183412">PRB:
-WebBrowser Control Clients Share Global
-Settings</a> provides the
-necessary code for changing the user agent of the webbrowser control
-when the webbrowser ask for it. But how to have the webbrowser control
-ask for the user agent? Well the webbrowser control is an
-<a class="reference external" href="http://en.wikipedia.org/wiki/ActiveX">ActiveX</a>, so it implements
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms690175(VS.85).aspx">IOleControl::OnAmbientPropertyChange</a>.
-The <a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa753622(VS.85).aspx">host can call the
-method</a>
-to notify the webbrowser control about the property change after the
-browser window is created. The list of ambient properties can be found
-in the <a class="reference external" href="http://www.microsoft.com/downloads/en/details.aspx?FamilyID=AE22E7A9-611F-4112-8B17-0980412D07A5&amp;displaylang=en">walkall
-sample</a>,
-the most useful ones are DISPID_AMBIENT_USERMODE (which VB6 supports),
-DISPID_AMBIENT_DLCONTROL and DISPID_AMBIENT_USERAGENT. The documentation
-of other ambient properties can be found in the <a class="reference external" href="http://msdn.microsoft.com/en-us/library/tc7644wx(v=VS.80).aspx">documentation of
-CComControlBase’s GetAmbient Property
-Methods</a>
-Note the knowledge base article <a class="reference external" href="http://support.microsoft.com/kb/183412">PRB: WebBrowser Control Clients Share
-Global Settings</a> also says
-DISPID_AMBIENT_USERAGENT cannot be used to alter the user agent string
-in DOM or when the navigation is from code. Changing the user agent
-string in registry, of course, can change the behavior but will also
-have global effect. Another way to change the user agent is to go
-directly into the networking layer of webbrowser control and change the
-user agent process-wide. Since most of the time per-page browser setting
-isn’t necessary this can also be used in custom browsers. The WinInet
-function
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms775125(VS.85).aspx">UrlMkSetSessionOption</a>
-has a flag URLMON_OPTION_USERAGENT that can be used to change the user
-agent, However it only updates DOM/Javascript and ignore the WinInet
-stack so other WinInet client won’t be affected, until you call
-UrlMkSetSessionOption with URLMON_OPTION_USERAGENTREFRESH. This is
-better for VB6 and .Net programmers since it does not involve <a class="reference external" href="http://www.mvps.org/emorcillo/en/code/vb6/index.shtml">declaring
-a lot of OLE
-interfaces</a>.
-You can get the user agent from <a class="reference external" href="http://en.wikipedia.org/wiki/Document_Object_Model">the
-DOM</a>
-(<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa752116(VS.85).aspx">document</a>.<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa752599(VS.85).aspx">parentWindow</a>.<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa741467(v=VS.85).aspx">navigator</a>.<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa703729(v=VS.85).aspx">userAgent</a>).</p>
+control.</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -1114,48 +954,7 @@ applications.</a></p>
     </ul>
     <p class="ablog-post-excerpt"><p>Update: it looks like a lot of people are hitting this page by
 mistake. If you don’t write software for a living then this page is
-probably not for you. Download:
-<a class="reference external" href="http://jiangsheng.net/Documents/IE8AddZone.zip">http://jiangsheng.net/Documents/IE8AddZone.zip</a> Prerequisite:
-<a class="reference external" href="http://www.microsoft.com/downloads/details.aspx?familyid=200b2fd9-ae1a-4a14-984d-389c36f85647&amp;displaylang=en">Microsoft Visual C++ 2005 SP1 Redistributable Package
-(x86)</a>
-This program is designed to temporary circumvent the “An add-on for
-this web site failed to run. Check the security settings in Internet
-options for potential conflicts” error in <a class="reference external" href="http://www.microsoft.com/visualstudio">Visual
-Studio</a> after installing
-IE8. For more details about this problem, visit
-<a class="reference external" href="https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=425510">https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=425510</a>
-Update: the VC team’s workaround is at
-<a class="reference external" href="http://blogs.msdn.com/vcblog/archive/2009/03/28/some-vs2005-and-vs2008-wizards-pop-up-script-error.aspx">http://blogs.msdn.com/vcblog/archive/2009/03/28/some-vs2005-and-vs2008-wizards-pop-up-script-error.aspx</a>.
-However, I still suggest copying other settings from a restricted
-zone before modify the 1207 key. Clicking the create button will
-create another <a class="reference external" href="http://en.wikipedia.org/wiki/Internet_Explorer">Internet
-Explorer</a> security
-zone with the id 1000 that will affect all urls not included in other
-zones. This will allow separate security settings for webbrowser
-control hosting
-<a class="reference external" href="http://en.wikipedia.org/wiki/Application_software">application</a>
-such as Visual Studio. If settings are copied from a trusted
-configuration such as “my computer”,a webbrowser control hosting
-application may not experience the aforementioned error. Security
-Remarks: do not visit unsecured web site or use email software on the
-same computer after creating the new zone as the security impact of
-the new zone is not yet tested. Applications that host webbrowser
-control should implement their own <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537182(VS.85).aspx">security
-manager</a>
-if they want to run
-<a class="reference external" href="http://en.wikipedia.org/wiki/ActiveX">ActiveX</a> in the browser
-control. If you received a fix from the IE team for this problem,
-please delete the zone created by this problem by clicking the delete
-button. Visit
-<a class="reference external" href="https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=425510">https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=425510</a>
-for the status of this problem. For more information about adding
-zones to IE, visit <a class="reference external" href="http://www.nthelp.com/50/addazone.htm">http://www.nthelp.com/50/addazone.htm</a> . For more
-information about Internet Explorer security zones, visit
-<a class="reference external" href="http://support.microsoft.com/kb/182569">http://support.microsoft.com/kb/182569</a> For more information about
-Visual C++ wizards, visit
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa730846(VS.80).aspx">http://msdn.microsoft.com/en-us/library/aa730846(VS.80).aspx</a>
-Suspicious url actions from
-<a class="reference external" href="http://en.wikipedia.org/wiki/RegMon">Regmon</a> logs:</p>
+probably not for you.</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -1217,21 +1016,10 @@ Suspicious url actions from
    
 </div>
     </ul>
-    <p class="ablog-post-excerpt"><p>This operation failed because the
-<a class="reference external" href="http://en.wikipedia.org/wiki/IUnknown">QueryInterface</a> call on
-the <a class="reference external" href="http://en.wikipedia.org/wiki/Component_Object_Model">COM</a>
-component for the interface with IID
-‘{3050F3F0-98B5-11CF-BB82-00AA00BDCE0B}’ failed due to the following
-error: No such interface supported (Exception from
-<a class="reference external" href="http://en.wikipedia.org/wiki/HRESULT">HRESULT</a>: 0x80004002
-(E_NOINTERFACE)). My first reaction was:”What the hell?
-HTMLDocumentClass is the managed wrapper of
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa741317.aspx">MSHTML</a>,
-and MSHTML is supposed to support the ICustomDoc interface!” Now I
-started wondering why the interfaces don’t work I created a sandbox
-project and tried to cast interface there, but it works smoothly. I
-played with strong name and found no luck. Finally, I found out that
-it is the frame document that does not support this interface.</p>
+    <p class="ablog-post-excerpt"><p>This operation failed because the <a class="reference external" href="http://en.wikipedia.org/wiki/IUnknown">QueryInterface</a> call on
+the <a class="reference external" href="http://en.wikipedia.org/wiki/Component_Object_Model">COM</a> component for the interface with IID
+‘{3050F3F0-98B5-11CF-BB82-00AA00BDCE0B}’ failed due to the following error: No such interface supported (Exception from
+<a class="reference external" href="http://en.wikipedia.org/wiki/HRESULT">HRESULT</a>: 0x80004002 (E_NOINTERFACE)).</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -1242,7 +1030,7 @@ it is the frame document that does not support this interface.</p>
   
   <div class="section ablog-post">
     <h2 class="ablog-post-title">
-      <a href="../2006/prb-icustomdocsetuihandler-causes-changes-in-save-as-dialog.html">PRB: ICustomDoc::SetUIHandler Causes Changes in Save As Dialog</a>
+      <a href="../2006/prb-icustomdocsetuihandler-causes-changes-in-save-as-dialog.html">PRB: ::SetUIHandler Causes Changes in Save As Dialog</a>
     </h2>
     <ul class="ablog-archive">
       <li>

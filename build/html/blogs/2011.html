@@ -732,10 +732,6 @@
     </li>
       
     <li class="ablog-cloud ablog-cloud-1">
-      <a href="tag/windows-form.html">Windows Form</a>
-    </li>
-      
-    <li class="ablog-cloud ablog-cloud-1">
       <a href="tag/windows-forms.html">Windows Forms</a>
     </li>
       
@@ -1265,38 +1261,7 @@
 that caught my eye. Some are just regular header file updates for
 Windows 7 and does not necessary require Windows 8. Some other APIs
 moved to <a class="reference external" href="http://en.wikipedia.org/wiki/Header_file">header files</a>
-with more readable names. Improvements are focused, of course, in
-natural input, efficiency, gaming experience and IE. You can hear the
-silence scream of “Tablet!Tablet!Tablet!” here. Note Windows 8 is still
-a developer preview and there is no guarantee any new feature will
-survive the final cut or there won’t be new API for existing features
-add in Beta/RC/Gold. UI: There is no improvement in the
-<a class="reference external" href="http://en.wikipedia.org/wiki/Graphics_Device_Interface">GDI</a>-based
-shell common controls. No surprise here. The new UI would be based on
-WinRT and will use GPU to render instead of CPU. There are COM API for
-printing, which is traditionally performed via GDI. A lot of Direct2D
-and Direct3D improvements. XAudio2 added and battery/pad support  added
-to <a class="reference external" href="http://en.wikipedia.org/wiki/DirectInput">XInput</a>. Improvement in
-3D rendering, device removal during capturing and stream seeking in
-Windows Media Foundation. API for H264 codec. Shell <a class="reference external" href="http://en.wikipedia.org/wiki/Include_guard">Header
-guard</a> for IE5.01 or
-lower are removed. Building for Windows 2000 is now practically
-impossible. Some header guard switched to NTDDI_VERSION. There is A new
-camera UI control based on COM. Somehow the version guard of
-Shell_NotifyIconGetRect is lost, this might be a header file bug.
-Networking: Lots of IE 10 APIs and HTML 5 support.
-<a class="reference external" href="http://en.wikipedia.org/wiki/Active_Scripting">ActiveScript</a>
-optimized for multiple instance and webworker. Also there is a new
-IActiveScriptContext interface to get url, line and offset of the
-script. New timeout configuration in WinInet.
-<a class="reference external" href="http://en.wikipedia.org/wiki/ActiveX">ActiveX</a> filtering, and
-options to enable/disable audio/video plugins added for IE security
-zones. Others Accessibility for windowless controls and lots of <a class="reference external" href="http://en.wikipedia.org/wiki/Microsoft_UI_Automation">UI
-automation</a>
-improvements, including grid and spreadsheet types. Candidate list
-integration and async document support with Text Service Framework. ARM
-support to .Net APIs.  A lot of pointer device and touch messages,
-notification and drawing.</p>
+with more readable names.</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -1499,8 +1464,11 @@ on my own machine. So for the case involving IE:</p>
    
 </div>
     </ul>
-    <p class="ablog-post-excerpt"><p>[caption id=”” align=”alignright” width=”300” caption=”Image via
-Wikipedia”]<a class="reference external" href="http://en.wikipedia.org/wiki/File:Windows_Update_v3.png"><img alt="Windows Update version 3 in Windows 98" src="http://upload.wikimedia.org/wikipedia/en/thumb/4/49/Windows_Update_v3.png/300px-Windows_Update_v3.png" style="width: 300px; height: 204px;" /></a>[/caption]</p>
+    <p class="ablog-post-excerpt"><p>Update:Microsoft’s Visual C++ team has <a class="reference external" href="http://blogs.msdn.com/b/vcblog/archive/2011/04/26/10158277.aspx">released workarounds on the
+problem.</a> AVG
+has released an utility that can revert the KB2467175 update,
+downloadable
+at <a class="reference external" href="http://twitter.blog.avg.com/2011/04/avg-feedback-update-26411.html">http://twitter.blog.avg.com/2011/04/avg-feedback-update-26411.html</a></p>
 </p>
 
     <p class="ablog-post-expand">
@@ -1570,34 +1538,7 @@ Wikipedia”]<a class="reference external" href="http://en.wikipedia.org/wiki/Fi
 know</a>
 how to solve a LNK2001 error related to CLSID_CMpeg4sDecMediaObject. The
 user has no problem linking a lib file in the project but couldn’t find
-which lib the CLSID is in. The <a class="reference external" href="http://en.wikipedia.org/wiki/Microsoft_Windows_SDK">Windows
-SDK</a> is strangely
-cryptic on which lib file the CLSID is exported from. Luckily you can
-find out the library file you need to link with, if you execute the
-following <a class="reference external" href="http://en.wikipedia.org/wiki/Command-line_interface">command
-line</a> in the SDK
-command prompt Update: use findstr /m /S /c:”CMpeg4” *.lib is easier
-C:\Program Files\Microsoft SDKs\Windows\v7.0\Lib&gt;for %a in (*.lib)
-do dumpbin /symbols %a |find “CMpeg4” After a bunch of fruitless
-searches, the search yields the results when it encounters
-wmcodecdspuuid.lib C:\Program Files\Microsoft
-SDKs\Windows\v7.0\Lib&gt;dumpbin /symbols wmcodecdspuuid.lib   | find
-“CMpeg4” 056 00000000 SECT1D notype       External     |
-_CLSID_CMpeg4DecMediaObject 059 00000000 SECT1E notype
-External     | _CLSID_CMpeg43DecMediaObject 05C 00000000 SECT1F
-notype       External     | _CLSID_CMpeg4sDecMediaObject 05F 00000000
-SECT20 notype       External     | _CLSID_CMpeg4sDecMFT 065 00000000
-SECT22 notype       External     | _CLSID_CMpeg4EncMediaObject 068
-00000000 SECT23 notype       External     |
-_CLSID_CMpeg4sEncMediaObject There is a big uuid.lib file contains most
-of the SDK CLSIDs in the Windows SDK, and it is likely linked by default
-if you use Visual C++’s project templates, so you may not see the link
-error at all if you use common CLSIDs like CLSID_InternetExplorer. There
-are also <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ff960419.aspx">GUIDs defined in the Windows SDK using the DEFINE_GUID
-macro</a>. The
-SDK assumes you to initialize the GUID using the methods demonstrated in
-<a class="reference external" href="http://support.microsoft.com/kb/130869">How to avoid error “LNK2001 unresolved external” by using
-DEFINE_GUID</a>.</p>
+which lib the CLSID is in.</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -1655,8 +1596,8 @@ DEFINE_GUID</a>.</p>
    
 </div>
     </ul>
-    <p class="ablog-post-excerpt"><p>[caption id=”” align=”alignright” width=”300” caption=”Image via
-Wikipedia”]<a class="reference external" href="http://en.wikipedia.org/wiki/File:Windows_Update.png"><img alt="Windows Update" src="http://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Windows_Update.png/300px-Windows_Update.png" style="width: 300px; height: 224px;" /></a>[/caption]</p>
+    <p class="ablog-post-excerpt"><p>Update: Microsoft <a class="reference external" href="http://social.msdn.microsoft.com/Forums/en/windowsgeneraldevelopmentissues/thread/280de88a-77dd-455e-9797-b28928206e38">fixed the issue in Windows
+8</a>.</p>
 </p>
 
     <p class="ablog-post-expand">

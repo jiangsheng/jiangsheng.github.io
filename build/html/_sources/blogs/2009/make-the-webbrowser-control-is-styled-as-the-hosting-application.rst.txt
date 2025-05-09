@@ -9,15 +9,19 @@ Make the webbrowser control styled the same way as the hosting application
 User wtx_sonery `wants to know whether it is possible to style the
 webbrowser control with the rest of the
 application. <http://topic.csdn.net/u/20091026/14/05db4eed-c766-4480-80ce-b030488bcae1.html>`__
+
 The answer is yes, you can implement IDocHostUIHandler’s GetHostInfo
 method and return DOCHOSTUIFLAG_THEME in the host flags.
+
 IDocHostUIHandler is already implemented in MFC and
 `ATL <http://en.wikipedia.org/wiki/Active_Template_Library>`__. For MFC
 there are CHtmlControlSite and CBrowserControlSite but you should be
 overriding the GetHostInfo function in CHTMLView and CDHTMLDialog. In
 ATL the template definition is in Atliface.h but you need to `derive
 from IDocHostUIHandlerDispatch by
-yourself. <http://support.microsoft.com/kb/274202>`__ Implementing
+yourself. <http://support.microsoft.com/kb/274202>`__ 
+
+Implementing
 IDocHostUIHandler Windows Forms gets a little tricky. Windows Forms
 already implemented it on its WebBrowserSite class but you can’t extend
 it. Following the .Net `Framework Class Library Security
@@ -29,14 +33,16 @@ implementation of IDocHostUIHandler when you do
 `QueryInterface <http://en.wikipedia.org/wiki/IUnknown>`__ on the
 browser site. That means you need to `get ride of the Windows Forms
 wrapper of the webbrowser control and provide your own hosting
-implementation. <http://code.google.com/p/csexwb2/>`__ WPF/Silverlight
-users, you are out of luck. The stock version of the webbrowser control
+implementation. <http://code.google.com/p/csexwb2/>`__ 
+
+WPF/Silverlight users, you are out of luck. The stock version of the webbrowser control
 does not even provide a way to customize the host site. The best thing
 you can do is to see if Windows Forms interop is available to the
 platform and if so, embed a csexwb `Windows Forms
 control <http://en.wikipedia.org/wiki/Windows_Forms>`__. There are some
 `unsolved problems in the csexwb discussion
 area <http://code.google.com/p/csexwb2/issues/detail?id=59>`__, however.
+
 There are `other
 switches <http://msdn.microsoft.com/en-us/library/aa753277(VS.85).aspx>`__
 you can tweak the browser control’s behavior. However there is only one

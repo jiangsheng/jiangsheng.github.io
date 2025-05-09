@@ -16,6 +16,7 @@ Download Sample code: https://github.com/jiangsheng/Samples/tree/master/AutoComp
 .Net 2.0 introduced autocompletion in TextBox and ComboBox. It is obvious that autocomplete is not very useful when the number of options is small. However, when the number of option becomes too many, pre-filling of all options to an AutoCompleteStringCollection becomes impractical, especially when the data is coming from a remote computer. An alternative is to replace the AutoCompleteCustomSource in a TextChanged event, however, users are getting random AccessViolationException when trying to replace it.  In this article I will demonstrate another alternative, using a BindingSource as the data source of options, bypassing the .Net framework and call the underline Windows API directly.
 
 The first thing I need to do is to port the Windows autocomplete APIs to managed code. The autocompletion API is exposed as a COM object, so I need to write managed version of its interfaces:
+
 .. code-block:: C++
 
     [ComImport]
@@ -38,6 +39,7 @@ The first thing I need to do is to port the Windows autocomplete APIs to managed
     };
 
 Second, I need to create the autocomplete object and query the IAutoComplete2 interface in order to change its options:
+
 .. code-block:: C++
 
     Type^ autoCompleteType = Type::GetTypeFromCLSID(CLSID_AutoComplete);
@@ -52,6 +54,7 @@ Second, I need to create the autocomplete object and query the IAutoComplete2 in
 
 
 Third, I need to bind it to an TextBox control:
+
 .. code-block::
 
     bool AutocompleteBindingSource::Bind()

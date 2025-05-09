@@ -9,12 +9,14 @@ Misleading Error Message from ablog.post
 
 Today I am getting some strange error when I am trying to convert my blogs to the ablog extension of Sphinx. The error log has the following lines
 
-Extension error (ablog.post)!
+        Extension error (ablog.post)!
 
-anaconda3\envs\sphinx\Lib\site-packages\sphinx\events.py", line 415, in emit
-        raise ExtensionError(sphinx.errors.ExtensionError: Handler <function process_posts at 0x00000279DBC23EC0> for event 'doctree-read' threw an exception (exception: Losing "ids" attribute: ['index-1', 'index-0'])
+        anaconda3\envs\sphinx\Lib\site-packages\sphinx\events.py", line 415, in emit
+                raise ExtensionError(sphinx.errors.ExtensionError: Handler <function process_posts at 0x00000279DBC23EC0> for event 'doctree-read' threw an exception (exception: Losing "ids" attribute: ['index-1', 'index-0'])
 	
 Luckily only some of the blogs throw this error, by comparing the blogs that fail and those don't, I found that the culprit is the .. index:: directive right before the .. post:: directive. 
 
 Moving the index directive after the post directive solved this problem.
+
+Update: I am getting the same error again when the post begins with a blog quote. Adding an link target anchor solved the issue. ABlog seems to be too greedy to look for directive. 
 

@@ -13,19 +13,30 @@ The award email is almost identical to last year's, so I assume
 `Microsoft <http://en.wikipedia.org/wiki/Microsoft>`__ would go greener
 and more renewable with the Microsoft MVP award program each year, maybe
 that's the reason I got a frosted glass lug instead of a trophy like
-previous years. |IMG_20110110_133617| The dangling cards on the right
+previous years.
+
+|IMG_20110110_133617|
+
+The dangling cards on the right
 are the ID badges for the last two years which are the only other award
 items that have my name besides the certificates. There are two lugs on
 the 2010 trophy for 2010 and 2011. The trophy on the left is for 2009.
 They look at lot cooler than my 2008 one, though you can tell it takes
 more effort to inscribe the 2008 trophy with my photo. 2008 is the only
 time the trophy come with a photo. Previously I only get trophies with
-my name on. |IMG_0906| Here is the box, not much inside except the
+my name on.
+
+|IMG_0906| 
+
+Here is the box, not much inside except the
 certificate. The award disk is stacked on the 2010 trophy already. The
 lapel pin is there every year but it is hard to keep because it’s too
 small and I practically never wear it. The certificate is going greener
 too, at least the frame is becoming lighter than previous years.
-|IMG_0905| You can also see the MVP logo changed a while ago, and the
+
+|IMG_0905| 
+
+You can also see the MVP logo changed a while ago, and the
 whole certificate goes blue in 2009. The last time I got other stuff
 from Microsoft was back in 2008, when the gift package has an MVP
 branded `Bluetooth <http://en.wikipedia.org/wiki/Bluetooth>`__ package
@@ -35,7 +46,9 @@ stopped wasting money on stuff people may not use. Now Microsoft is also
 asking MVPs to give back a little bit to the community this year at the
 `Northwest Harvest Sponsored event via
 GeekGive <http://www.2011mvpsummit.com/pre_postsessions>`__. Perhaps we
-will be handing out food stamps at the site. Looks like my 2008 MVP
+will be handing out food stamps at the site. 
+
+Looks like my 2008 MVP
 certificate is missing. The green certificate is for community star
 which I got back in 2003 when newsgroups were still active (ah, the good
 old days). The letter on the left bottom is the congratulation letter of
@@ -44,7 +57,9 @@ CNTAC <http://www.microsoft.com/china/community/elite/introduction.mspx>`__,
 I guess, though I never figured out why it was called Microsoft GDI back
 then). The middle yellow one is from the `Microsoft Customer and Partner
 Experience
-program <http://www.microsoft.com/about/cpe/en/us/default.aspx>`__. I
+program <http://www.microsoft.com/about/cpe/en/us/default.aspx>`__. 
+
+I
 will be at the MVP Summit in Seattle next month to help shape the next
 version of `Visual
 C <http://en.wikipedia.org/wiki/Visual_C%2B%2B>`__\ ++. That’s mostly

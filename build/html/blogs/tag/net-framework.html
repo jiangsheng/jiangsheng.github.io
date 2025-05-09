@@ -461,18 +461,7 @@ Obviously an operating system component cannot depend on something that isn’t 
     <p class="ablog-post-excerpt"><p>I am getting a StackOverflowException with two functions repeating on
 the <a class="reference external" href="http://en.wikipedia.org/wiki/Call_stack">call stack</a>, one is
 the constructor of System.BadImageFormatException, another is
-System.Environment.GetResourceStringLocal.  Since the call that throws
-the stack overflow is to a <a class="reference external" href="http://en.wikipedia.org/wiki/Web_service">web
-service</a> proxy defined in
-the same project as the application, there isn’t a 32bit/64bit mismatch
-here (32bit machine with every project targeting x86), unlike almost all
-other discussions on the internet about this exception. After inspecting
-Fusion and event logs and finding nothing suspicious, I decided to treat
-it as a real bad image problem and reinstalled .Net. Ура! The exception
-went away after reinstalling. Sometimes, the exception name isn’t
-misleading. PS
-a <a class="reference external" href="http://stackoverflow.com/questions/7705751/system-badimageformatexception-an-attempt-was-made-to-load-a-program-with-an-i">similar question</a>
-was closed as too vague on stackoverflow.</p>
+System.Environment.GetResourceStringLocal.</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -558,46 +547,7 @@ was closed as too vague on stackoverflow.</p>
     </ul>
     <p class="ablog-post-excerpt"><p>User wtx_sonery <a class="reference external" href="http://topic.csdn.net/u/20091026/14/05db4eed-c766-4480-80ce-b030488bcae1.html">wants to know whether it is possible to style the
 webbrowser control with the rest of the
-application.</a>
-The answer is yes, you can implement IDocHostUIHandler’s GetHostInfo
-method and return DOCHOSTUIFLAG_THEME in the host flags.
-IDocHostUIHandler is already implemented in MFC and
-<a class="reference external" href="http://en.wikipedia.org/wiki/Active_Template_Library">ATL</a>. For MFC
-there are CHtmlControlSite and CBrowserControlSite but you should be
-overriding the GetHostInfo function in CHTMLView and CDHTMLDialog. In
-ATL the template definition is in Atliface.h but you need to <a class="reference external" href="http://support.microsoft.com/kb/274202">derive
-from IDocHostUIHandlerDispatch by
-yourself.</a> Implementing
-IDocHostUIHandler Windows Forms gets a little tricky. Windows Forms
-already implemented it on its WebBrowserSite class but you can’t extend
-it. Following the .Net <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms182161(v=VS.100).aspx">Framework Class Library Security
-Guideline</a>
-the Windows Forms version of the IDocHostUIHandler interface is internal
-to the class library. If you derive from WebBrowserSite and implement
-your own version of IDocHostUIHandler, you still get Windows Forms’s
-implementation of IDocHostUIHandler when you do
-<a class="reference external" href="http://en.wikipedia.org/wiki/IUnknown">QueryInterface</a> on the
-browser site. That means you need to <a class="reference external" href="http://code.google.com/p/csexwb2/">get ride of the Windows Forms
-wrapper of the webbrowser control and provide your own hosting
-implementation.</a> WPF/Silverlight
-users, you are out of luck. The stock version of the webbrowser control
-does not even provide a way to customize the host site. The best thing
-you can do is to see if Windows Forms interop is available to the
-platform and if so, embed a csexwb <a class="reference external" href="http://en.wikipedia.org/wiki/Windows_Forms">Windows Forms
-control</a>. There are some
-<a class="reference external" href="http://code.google.com/p/csexwb2/issues/detail?id=59">unsolved problems in the csexwb discussion
-area</a>, however.
-There are <a class="reference external" href="http://msdn.microsoft.com/en-us/library/aa753277(VS.85).aspx">other
-switches</a>
-you can tweak the browser control’s behavior. However there is only one
-bit available in the enum for future flags. Maybe that’s why IE
-introduces <a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537184(VS.85).aspx">feature
-control</a>
-in IE6 for <a class="reference external" href="http://www.microsoft.com/windows/windows-xp/default.aspx">Windows XP
-SP2</a> where
-<a class="reference external" href="http://msdn.microsoft.com/en-us/library/ms537169(v=VS.85).aspx">features are based on
-enum</a>
-– you get a 4GB range for new features!</p>
+application.</a></p>
 </p>
 
     <p class="ablog-post-expand">
@@ -661,13 +611,7 @@ enum</a>
 that uses my business class as the select method. The method has one
 parameter of type
 <a class="reference external" href="http://en.wikipedia.org/wiki/Globally_unique_identifier">Guid</a>.
-The data source wizard generates code like this &lt;asp:Parameter
-DbType=”Guid” Name=”rowId” /&gt; Although the web server has <a class="reference external" href="http://msdn.microsoft.com/netframework/">.Net
-2.0</a> SP1 installed (I
-checked the registry), it still throws an error Type
-‘System.Web.UI.WebControls.Parameter’ does not have a public property
-named ‘DbType’ The walk around is easy: &lt;asp:Parameter Type=”Object”
-Name=”rowId” /&gt;</p>
+The data source wizard generates code like this</p>
 </p>
 
     <p class="ablog-post-expand">

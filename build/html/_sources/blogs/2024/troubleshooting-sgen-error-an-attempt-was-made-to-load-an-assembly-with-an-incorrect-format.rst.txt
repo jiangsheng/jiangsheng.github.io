@@ -19,24 +19,24 @@ Now where does this value coming from?
 
 Those are the initial MSBuild properties in build log
 
-1>TargetPlatformDisplayName = Windows 7.0
-1>TargetPlatformIdentifier = Windows
-1>TargetPlatformMoniker = Windows,Version=7.0
-1>TargetPlatformRegistryBase = Software\Microsoft\Microsoft SDKs\Windows
-1>TargetPlatformSdkPath =
-1>TargetPlatformVersion = 7.0
+   1>TargetPlatformDisplayName = Windows 7.0
+   1>TargetPlatformIdentifier = Windows
+   1>TargetPlatformMoniker = Windows,Version=7.0
+   1>TargetPlatformRegistryBase = Software\Microsoft\Microsoft SDKs\Windows
+   1>TargetPlatformSdkPath =
+   1>TargetPlatformVersion = 7.0
 
 The GetFrameworkPaths target did the following assignments:
 
-1>Added Item(s): _TargetFramework40DirectoryItem=C:\Windows\Microsoft.NET\Framework\v4.0.30319
-1>Added Item(s): _TargetFramework35DirectoryItem=C:\Windows\Microsoft.NET\Framework\v3.5
-1>Added Item(s): _TargetFramework30DirectoryItem=C:\Windows\Microsoft.NET\Framework\v3.0
-1>Added Item(s): _TargetFramework20DirectoryItem=C:\Windows\Microsoft.NET\Framework\v2.0.50727
-1>Added Item(s): _TargetedFrameworkDirectoryItem=C:\Windows\Microsoft.NET\Framework\v4.0.30319
-1>Added Item(s): _CombinedTargetFrameworkDirectoriesItem=C:\Windows\Microsoft.NET\Framework\v4.0.30319
-1>Set Property: TargetFrameworkDirectory=C:\Windows\Microsoft.NET\Framework\v4.0.30319
-1>Set Property: TargetFrameworkSDKDirectory=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\
-1>Added Item(s): _TargetFrameworkSDKDirectoryItem=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\
+   1>Added Item(s): _TargetFramework40DirectoryItem=C:\Windows\Microsoft.NET\Framework\v4.0.30319
+   1>Added Item(s): _TargetFramework35DirectoryItem=C:\Windows\Microsoft.NET\Framework\v3.5
+   1>Added Item(s): _TargetFramework30DirectoryItem=C:\Windows\Microsoft.NET\Framework\v3.0
+   1>Added Item(s): _TargetFramework20DirectoryItem=C:\Windows\Microsoft.NET\Framework\v2.0.50727
+   1>Added Item(s): _TargetedFrameworkDirectoryItem=C:\Windows\Microsoft.NET\Framework\v4.0.30319
+   1>Added Item(s): _CombinedTargetFrameworkDirectoriesItem=C:\Windows\Microsoft.NET\Framework\v4.0.30319
+   1>Set Property: TargetFrameworkDirectory=C:\Windows\Microsoft.NET\Framework\v4.0.30319
+   1>Set Property: TargetFrameworkSDKDirectory=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\
+   1>Added Item(s): _TargetFrameworkSDKDirectoryItem=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\
 
 I have no x64 anywhere in the log file except the Visual Studio itself is 64 bit, maybe it is reading from the 64 bit registry?
 
@@ -44,6 +44,6 @@ Further digging shows we need to add <SGenPlatformTarget>$(Platform)</SGenPlatfo
 
 Anyway it turns out the same job can now be done with
 
-<SGenUseProxyTypes>false</SGenUseProxyTypes>
+   <SGenUseProxyTypes>false</SGenUseProxyTypes>
 
 Our old AfterBuild target that calls sgen.exe is no longer needed.

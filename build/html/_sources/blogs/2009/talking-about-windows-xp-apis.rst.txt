@@ -6,18 +6,9 @@ Talking about Windows XP APIs
    :author: jiangshengvc
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!886
+Photobucket has deactivated the accounts of all free users and I have no idea what was in there now.
 
-    
-
-   Quote
-
-      |image1|
-
-      .. container::
-
-          \ http://feed728.photobucket.com/flash/rss_slideshow.swf?rssFeed=http://feed728.photobucket.com/albums/ww283/jiangsheng/Windows%2520XP/feed.rss\ ` <http://feed728.photobucket.com/flash/rss_slideshow.swf?rssFeed=http://feed728.photobucket.com/albums/ww283/jiangsheng/Windows%2520XP/feed.rss>`__\ ` <http://feed728.photobucket.com/flash/rss_slideshow.swf?rssFeed=http://feed728.photobucket.com/albums/ww283/jiangsheng/Windows%2520XP/feed.rss>`__\ |image2|\ |image3|
+   |image1| http://feed728.photobucket.com/flash/rss_slideshow.swf?rssFeed=http://feed728.photobucket.com/albums/ww283/jiangsheng/Windows%2520XP/feed.rss\ ` <http://feed728.photobucket.com/flash/rss_slideshow.swf?rssFeed=http://feed728.photobucket.com/albums/ww283/jiangsheng/Windows%2520XP/feed.rss>`__\ ` <http://feed728.photobucket.com/flash/rss_slideshow.swf?rssFeed=http://feed728.photobucket.com/albums/ww283/jiangsheng/Windows%2520XP/feed.rss>`__\ |image2|\ |image3|
 
 .. |image1| image:: http://counters.gigya.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEyNDEzNjMzNjI4OTMmcHQ9MTI*MTM2MzM3NTIxNyZwPTM4NjM2MSZkPSZuPWxpdmVzcGFjZXMmZz*xJnQ9Jm89NDkyNWZmODViMjlkNDg5NGI5OTdlZjQ1ZTZkYzcyNGYmb2Y9MA==.gif
    :width: 0px
