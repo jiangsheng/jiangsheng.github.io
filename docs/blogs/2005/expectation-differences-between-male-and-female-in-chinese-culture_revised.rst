@@ -19,12 +19,8 @@ There has being tide of equalization, and many changes made in last two centurie
 
 References  
 
-Jordan,D.K.(2003, September 3). The Traditional Chinese Family & Lineage. Retrieved from https://pages.ucsd.edu/~dkjordan/chin/familism.html
-
-Jordan,D.K.(2003, September 3). Outline of XIXth-Century Chinese Civil Service Examinations. Retrieved from https://pages.ucsd.edu/~dkjordan//chin//CivilServiceTable.html
-
-Cai, M (2002, January 8). Investigation of Chinese female officials. China Woman Daily. Retrieved from https://web.archive.org/web/20050111104854/http://www.china-woman.com/gb/2002/01/08/zgfnb/lxlt/3.htm
-
-Yang, F. (2003,June 2). Focus on Women Politics. China Woman Daily, Retrieved from https://web.archive.org/web/20050410132339/http://www.china-woman.com/gb/2003/06/02/zgfnb/lxlt/2.htm
-
-Report of Major Data on the Second Random Survey on Women’s Social Status (V) – Survey Displays The Main Issues With Regard To Women’s Status, China Women’s Daily. (2001 September 6) p.1.
+* Jordan,D.K.(2003, September 3). The Traditional Chinese Family & Lineage. Retrieved from https://pages.ucsd.edu/~dkjordan/chin/familism.html
+* Jordan,D.K.(2003, September 3). Outline of XIXth-Century Chinese Civil Service Examinations. Retrieved from https://pages.ucsd.edu/~dkjordan//chin//CivilServiceTable.html
+* Cai, M (2002, January 8). Investigation of Chinese female officials. China Woman Daily. Retrieved from https://web.archive.org/web/20050111104854/http://www.china-woman.com/gb/2002/01/08/zgfnb/lxlt/3.htm
+* Yang, F. (2003,June 2). Focus on Women Politics. China Woman Daily, Retrieved from https://web.archive.org/web/20050410132339/http://www.china-woman.com/gb/2003/06/02/zgfnb/lxlt/2.htm
+* Report of Major Data on the Second Random Survey on Women’s Social Status (V) – Survey Displays The Main Issues With Regard To Women’s Status, China Women’s Daily. (2001 September 6) p.1.

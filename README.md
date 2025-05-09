@@ -17,9 +17,9 @@ Game guides currently have the following games:
 
 My most blogged topics are
 
-* [Computer and Internet] (build/html/blogs/category/computers-and-internet.html)
+* [Computer and Internet](build/html/blogs/category/computers-and-internet.html)
 * [enmsdn](build/html/blogs/category/enmsdn.html)
-* Uncategorized (html/blogs/category/uncategorized.html)
+* [Uncategorized](html/blogs/category/uncategorized.html)
 
 Grandma's handbook describes an old lady's life up to a few years before her death.
 

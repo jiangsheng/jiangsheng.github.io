@@ -85,18 +85,18 @@ September 22, 2005
 
    You can also delete your files by selecting files and clicking the “Delete Select Files” link.
    
-   如果 \ MSN中的我的网站\ 文件夹不在\ 网上邻居\ 中，你仍旧可以通过一个网页浏览器来访问它，举例来说，用Internet Explorer。打开Open \ http://www.msn.com/\ ，点击登入链接来登录，之后访问\ `http://groups.msn.com <http://groups.msn.com/>`__\ ，点击我的存储信息，你的文档将会显示在网页上的列表中。你也可以选中文件之后点击\ *删除选中文件*\ 链接来删除文件。
+   如果MSN中的我的网站文件夹不在网上邻居中，你仍旧可以通过一个网页浏览器来访问它，举例来说，用Internet Explorer。打开Open \ http://www.msn.com/\ ，点击登入链接来登录，之后访问\ `http://groups.msn.com <http://groups.msn.com/>`__\ ，点击我的存储信息，你的文档将会显示在网页上的列表中。你也可以选中文件之后点击\ *删除选中文件*\ 链接来删除文件。
 
    The My Storage Info page
 
    Note: You can not add files to your storage here. Uploading files is a little more complicated. You can click the “create a group” link on \ `http://groups.msn.com <http://groups.msn.com/>`__\ , and then follow the instructions on the web page to create a group, and then create a “Documents Folder” page in it. This page is where you upload your files.
 
-    注意：你不能在这里添加文件。上传文件相对来说复杂一点。你可以点击“创建社群”链接并且根据网页的指示来创建一个社群并且创建一个文档页面。文档页面是你上传文件的地方。
+   注意：你不能在这里添加文件。上传文件相对来说复杂一点。你可以点击“创建社群”链接并且根据网页的指示来创建一个社群并且创建一个文档页面。文档页面是你上传文件的地方。
 
    Currently, Microsoft offers only 3M of free storage on the MSN Web site for each Passport customer. Additional storage can be purchased through MSN Hotmail Plus for a low yearly fee. However, there are many ways to get larger free space, the FTP service of personal homepage hosting services, for example. You can apply for an account of free personal homepage hosting services that support FTP access such as \ `http://www.lycos.com <http://www.lycos.com/>`__\ , and
    then type \ \ `ftp://username:password@hostserver <ftp://hostserver/>`__\ \  to access their FTP hosts as if they are local folders. The difference is that you need to use a local folder as a liaison, save to it or copy files from ftp host to it first, because usually you can not access it in the file dialogs. To open an FTP host in Windows Explorer or Internet Explorer, type the FTP address in the address bar, type your account name and password, and then treat it as a local folder. However, although hosting services providers usually offer larger spaces, but they are not always happy when you don’t use it for your homepage, and sometimes they may eject some files. In addition, accessing via FTP is also a little slower then the My Web Sites on MSN folder, but it is still a good alternative.
 
-   目前微软只为\ 每个\ Passport帐户提供3兆免费存储。额外的空间可以通过支付年费订购MSN Hotmail Plus来获得，但是有很多其他方法获得更多免费的空间。你可以申请一个支持FTP访问的免费个人主页主机，例如\ `http://www.lycos.com <http://www.lycos.com/>`__\ 的帐户，然后在资源管理器或者IE中输入ftp://用户名:密码@主机域名之后和访问本地文件夹一样的方式来访问FTP主机。和MSN空间不同的是，你通常不能直接从文件对话框访问这样的目录，而需要用一个本地目录作中转，保存到这个目录之后复制到FTP主机，或者从FTP主机复制到这个目录之后打开。但是，虽然免费个人主页主机服务商通常提供比较大的空间，但是他们并不总乐于见到你把空间只用于文件存储而不用于主页用途。有时他们也会拒绝存储特定文件。另外，通过FTP的访问的速度比MSN空间要慢。
+   目前微软只为每个Passport帐户提供3兆免费存储。额外的空间可以通过支付年费订购MSN Hotmail Plus来获得，但是有很多其他方法获得更多免费的空间。你可以申请一个支持FTP访问的免费个人主页主机，例如\ `http://www.lycos.com <http://www.lycos.com/>`__\ 的帐户，然后在资源管理器或者IE中输入ftp://用户名:密码@主机域名之后和访问本地文件夹一样的方式来访问FTP主机。和MSN空间不同的是，你通常不能直接从文件对话框访问这样的目录，而需要用一个本地目录作中转，保存到这个目录之后复制到FTP主机，或者从FTP主机复制到这个目录之后打开。但是，虽然免费个人主页主机服务商通常提供比较大的空间，但是他们并不总乐于见到你把空间只用于文件存储而不用于主页用途。有时他们也会拒绝存储特定文件。另外，通过FTP的访问的速度比MSN空间要慢。
 
    The FTP view of Windows Explorer
 
@@ -106,8 +106,8 @@ September 22, 2005
     
    Yahoo! Briefcase
 
-   * * Note: some free storage service providers may stop their services if you violate their rules, or empty your storage if you don’t use them for a long time. Keep an eye on their terms of services, and do not exploit their services.   
-   * 注意：一些免费存储服务可能在你违反它们的使用条款之后停止服务或者在你长期搁置它们之后清空你的存储。注意阅读它们的服务条款，并且不要滥用它们的服务。
+   * Note: some free storage service providers may stop their services if you violate their rules, or empty your storage if you don’t use them for a long time. Keep an eye on their terms of services, and do not exploit their services.   
+   * 注意：一些免费存储服务可能在你违反它们的使用条款之后停止服务或者在你长期搁置它们之后清空你的存储。注意阅读它们的服务条款，并且不要滥用它们的服务。
 
    As mentioned before, internet storage can be very handy if you have internet access in your home. You can simply save your files in your home, and open it from your computer lab, or vise visa. Although the My Web Sites on MSN folder is the fastest among them, sometimes you may still need to use the FTP services and web page based storages because space shortage. Use them will save your time and expense on USB storage or floppy disks.
    

@@ -15,7 +15,9 @@
 
 目前的绕过这个问题的方法是把
 
- del %appdata%\Microsoft\InputMethod\Chs\*.tmp /q
+.. code-block::
+   
+   del %appdata%\Microsoft\InputMethod\Chs\*.tmp /q
 
 加到每日备份脚本。
 

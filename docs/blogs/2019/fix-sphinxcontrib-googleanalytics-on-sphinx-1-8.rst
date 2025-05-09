@@ -16,8 +16,10 @@ cannot import name 'ExtensionError' from 'sphinx.application'
 (c:\\python37\\lib\\site-packages\\sphinx\\application.py))
 
 Fix is to change
-C:\\Python37\\Lib\\site-packages\\sphinxcontrib\\googleanalytics.py Line
-4
+
+C:\\Python37\\Lib\\site-packages\\sphinxcontrib\\googleanalytics.py 
+
+Line 4
 
 from
 

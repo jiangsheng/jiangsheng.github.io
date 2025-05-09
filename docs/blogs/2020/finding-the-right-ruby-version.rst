@@ -5,8 +5,7 @@ Finding the right ruby version
    :author: jiangshengvc
    :nocomments:
 
-I am installing eHMP on Centos 7. Centos 7 has ruby 2.0 out of box, thus
-the install
+I am installing eHMP on Centos 7. Centos 7 has ruby 2.0 out of box, thus the install
 
 chef-client -o workstation --config ~/Projects/vistacore/.chef/knife.rb
 
