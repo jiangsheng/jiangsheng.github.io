@@ -5,8 +5,7 @@ Lab2
    :author: jiangshengvc
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!184
+
 
    # makefile for program 1
 

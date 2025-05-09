@@ -471,11 +471,10 @@
 <li class="toctree-l2"><a class="reference internal" href="../2005/self-introduction.html">Self Introduction</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2005/sentence-combining.html">Sentence Combining</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2005/spread-of-blog.html">Spread of Blog</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../2005/stress-cntrol.html">Stress Cntrol</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/stress-cntrol.html">Stress Control Questions</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2005/stress-control-2.html">Stress Control</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../2005/stress-control.html">Stress Control</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../2005/summary-2.html">summary</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../2005/summary-3.html">Summary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/summary-2.html">Summary for Population, Poverty and the Local Environment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/summary-3.html">Summary for A Global Trade Agreement Must Address Invasive Species</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2005/summary-for-are-your-patients-exercising-too-much.html">Summary for “Are Your Patients Exercising Too Much?”</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2005/summary.html">Summary</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2005/talking-about-where-does-power-come-from.html">Talking about Where does power come from?</a></li>
@@ -567,35 +566,21 @@
                 <article class="bd-article">
                    <section id="how-to-determine-when-a-page-is-done-printing-in-webbrowser-control">
 <h1>How To Determine When a Page Is Done Printing in WebBrowser Control<a class="headerlink" href="#how-to-determine-when-a-page-is-done-printing-in-webbrowser-control" title="Link to this heading">#</a></h1>
-<p>Note this post is originally written in 2012. It was lost when moving my
-web site from Windows Live Spaces to WordPress. I found a dead link to
-my web site on Stackoverflow and found an archive from archive.org. So
-here it is the old article, with dead link updated of course.</p>
-<p>The printing from a WebBrowser control can be customized by using custom
-headers and footers (
-<a class="reference external" href="https://www.betaarchive.com/wiki/index.php/Microsoft_KB_Archive/267240">https://www.betaarchive.com/wiki/index.php/Microsoft_KB_Archive/267240</a>,
-archived from <a class="reference external" href="http://support.microsoft.com/kb/267240">http://support.microsoft.com/kb/267240</a>) or replacing the
-default print template. However, using such techniques conflicts with
-the PRINT_WAITFORCOMPLETION flag, which is used for synchronous
-printing.</p>
-<p>Since Internet Explorer 6.0, the WebBrowser control raises the
-DWebBrowserEvents2::PrintTemplateTeardown event when a print template
-has been destroyed. If the printing involves a custom print template,
-this is a good indicator of print completion. You can create a event
-handler function in your application for this event to determin if a the
-WebBrowser control is finished printing a Web page.</p>
+<p>Note this post is originally written in 2012. It was lost when moving my web site from Windows Live Spaces to WordPress. I found a dead link to
+my web site on Stackoverflow and found an archive from archive.org. So here it is the old article, with dead link updated of course.</p>
+<p>The printing from a WebBrowser control can be customized by using custom headers and footers (<a class="reference external" href="https://www.betaarchive.com/wiki/index.php/Microsoft_KB_Archive/267240">https://www.betaarchive.com/wiki/index.php/Microsoft_KB_Archive/267240</a>,
+archived from <a class="reference external" href="http://support.microsoft.com/kb/267240">http://support.microsoft.com/kb/267240</a>) or replacing the default print template. However, using such techniques conflicts with
+the PRINT_WAITFORCOMPLETION flag, which is used for synchronous printing.</p>
+<p>Since Internet Explorer 6.0, the WebBrowser control raises the DWebBrowserEvents2::PrintTemplateTeardown event when a print template
+has been destroyed. If the printing involves a custom print template, this is a good indicator of print completion. You can create a event
+handler function in your application for this event to determine if a the WebBrowser control is finished printing a Web page.</p>
 <p>MORE INFORMATION</p>
-<p>The WebBrowser control launches another thread which hosts another
-MSHTML document which renders to the printer. When this thread is
-finished, if a custom print template is involved, the WebBrowser control
-destroys the print template and raises PrintTemplateTeardown event. This
-indicates that the WebBrowser control has completed printing the Web
-page.</p>
-<p>If the default print template and the customization of headers and
-footers are desired, load the template from the source of IExplorer.exe,
+<p>The WebBrowser control launches another thread which hosts another MSHTML document which renders to the printer. When this thread is
+finished, if a custom print template is involved, the WebBrowser control destroys the print template and raises PrintTemplateTeardown event. This
+indicates that the WebBrowser control has completed printing the Web page.</p>
+<p>If the default print template and the customization of headers and footers are desired, load the template from the source of IExplorer.exe,
 and use it as a custom template.</p>
-<p>To translate the asynchronous printing to synchronous, a message loop
-need to be created (better if use with a timeout handler) .</p>
+<p>To translate the asynchronous printing to synchronous, a message loop needs to be created (better if use with a timeout handler).</p>
 <div class="line-block">
 <div class="line">BOOL PrintTemplateTeardownFired=FALSE;</div>
 <div class="line">//launch printing……</div>

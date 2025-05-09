@@ -471,11 +471,10 @@
 <li class="toctree-l2"><a class="reference internal" href="../2005/self-introduction.html">Self Introduction</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2005/sentence-combining.html">Sentence Combining</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2005/spread-of-blog.html">Spread of Blog</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../2005/stress-cntrol.html">Stress Cntrol</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/stress-cntrol.html">Stress Control Questions</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2005/stress-control-2.html">Stress Control</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../2005/stress-control.html">Stress Control</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../2005/summary-2.html">summary</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../2005/summary-3.html">Summary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/summary-2.html">Summary for Population, Poverty and the Local Environment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/summary-3.html">Summary for A Global Trade Agreement Must Address Invasive Species</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2005/summary-for-are-your-patients-exercising-too-much.html">Summary for “Are Your Patients Exercising Too Much?”</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2005/summary.html">Summary</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2005/talking-about-where-does-power-come-from.html">Talking about Where does power come from?</a></li>
@@ -570,9 +569,9 @@
 <p id="index-0">微软拼音最近每次激活的时候都要卡上个几分钟。而且不是一个程序只卡一次，中英文切换之后还会继续卡。</p>
 <p>用了Process Monitor跟踪了一下，发现每次切换中英文的时候，微软拼音都会在%appdata%MicrosoftInputMethodChs下面创建一个名字为UDPXXXX（这里XXXX是16进制数字）.tmp的文件，我这个目录下有六万五千多个这样的文件。从命名风格来看，很明显是在调用GetTempFileName，而这个函数有65535个文件的限制，不删除文件的话，第65536次调用会失败，应该是微软拼音没有处理好调用这个函数失败的情况，也没有删除临时文件的代码，就卡住了。</p>
 <p>目前的绕过这个问题的方法是把</p>
-<blockquote>
-<div><p>del %appdata%MicrosoftInputMethodChs*.tmp /q</p>
-</div></blockquote>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="k">del</span> <span class="o">%</span><span class="n">appdata</span><span class="o">%</span>\<span class="n">Microsoft</span>\<span class="n">InputMethod</span>\<span class="n">Chs</span>\<span class="o">*.</span><span class="n">tmp</span> <span class="o">/</span><span class="n">q</span>
+</pre></div>
+</div>
 <p>加到每日备份脚本。</p>
 <p>已经向微软反映了这个问题。不知道微软为什么临时文件不放%TEMP%放应用程序目录下，以及为什么不定期清理自己创建的临时文件。</p>
 <p>更新：微软说修正了这个问题，但是是在Windows 11里，意思就是Windows 10不管了么？</p>

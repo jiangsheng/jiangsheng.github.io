@@ -471,11 +471,10 @@
 <li class="toctree-l2"><a class="reference internal" href="../2005/self-introduction.html">Self Introduction</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2005/sentence-combining.html">Sentence Combining</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2005/spread-of-blog.html">Spread of Blog</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../2005/stress-cntrol.html">Stress Cntrol</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/stress-cntrol.html">Stress Control Questions</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2005/stress-control-2.html">Stress Control</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../2005/stress-control.html">Stress Control</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../2005/summary-2.html">summary</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../2005/summary-3.html">Summary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/summary-2.html">Summary for Population, Poverty and the Local Environment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/summary-3.html">Summary for A Global Trade Agreement Must Address Invasive Species</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2005/summary-for-are-your-patients-exercising-too-much.html">Summary for “Are Your Patients Exercising Too Much?”</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2005/summary.html">Summary</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2005/talking-about-where-does-power-come-from.html">Talking about Where does power come from?</a></li>
@@ -567,32 +566,28 @@
                 <article class="bd-article">
                    <section id="flash-player-loading-from-memory">
 <h1>Flash Player: Loading from memory<a class="headerlink" href="#flash-player-loading-from-memory" title="Link to this heading">#</a></h1>
-<p><a class="reference external" href="http://bbs.csdn.net/topics/391865427">user cucao wants to
-know</a> how to play a flash file
-from application resource. The user wants to use a dongle to protect
-unauthorized viewing of the flash file so can’t just put the swf file in
-plain sight. Adobe’s Flash Player, being an ActiveX
-with supports for many OLE containers such as Internet Explorer and
-Microsoft Word, implements many standard OLE interfaces (for details
-open the ActiveX in oleview). One of them is IPersistStreamInit, a
-standard interface for ActiveX controls who want to distinguish new page
-load vs refresh, but can be used for the user to load the swf file from
-memory. The data source passed into IPersistStreamInit::Load could be a
-home-brew COM server that implements IStream, but since Windows already
-has such an implementation (CreateStreamOnHGlobal), it saves a lot of
-work to just load the resource into global memory
-(GlobalAlloc/GlobalLock/memcpy/GlobalUnlock), and creates a stream off
-there for loading. //MFC and ATL instead of Windows API for readability
-void LoadFlash(LPUNKNOWN player, LPCVOID data, UINT size) {
-COleStreamFile streamFile; if(!streamFile.CreateMemoryStream() return;
-CArchive ar (&amp;streamFile, CArchive::store ); ar.Write(data,size);
-ar.Close(); streamFile.SeekToBegin(); CComQIPtr&lt;IPersistStreamInit&gt;
-playerStreamLoader(player); if(playerStreamLoader==NULL) return;
-playerStreamLoader-&gt;InitNew();
-playerStreamLoader-&gt;Load(streamFile.GetStream()); } This only works for
-self-contained swf files, however. To set a base url for relative url
-search in action scripts, a home-brew COM server that implements both
-IStream and IMoniker is needed.</p>
+<p><a class="reference external" href="http://bbs.csdn.net/topics/391865427">user cucao wants to know</a> how to play a flash file from application resource. The user wants to use a dongle to protect unauthorized viewing of the flash file so can’t just put the swf file in plain sight.</p>
+<p>Adobe’s Flash Player, being an ActiveX with supports for many OLE containers such as Internet Explorer and Microsoft Word, implements many standard OLE interfaces (for details open the ActiveX in oleview). One of them is IPersistStreamInit, a standard interface for ActiveX controls who want to distinguish new page load vs refresh, but can be used for the user to load the swf file from memory.</p>
+<p>The data source passed into IPersistStreamInit::Load could be a home-brew COM server that implements IStream, but since Windows already has such an implementation (CreateStreamOnHGlobal), it saves a lot of work to just load the resource into global memory
+(GlobalAlloc/GlobalLock/memcpy/GlobalUnlock), and creates a stream off there for loading.</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>//MFC and ATL instead of Windows API for readability
+void LoadFlash(LPUNKNOWN player, LPCVOID data, UINT size)
+{
+
+   COleStreamFile streamFile;
+   if(!streamFile.CreateMemoryStream() return;
+   CArchive ar (&amp;streamFile, CArchive::store );
+   ar.Write(data,size);
+   ar.Close();
+   streamFile.SeekToBegin();
+   CComQIPtr&lt;IPersistStreamInit&gt; playerStreamLoader(player);
+   if(playerStreamLoader==NULL) return;
+   playerStreamLoader-&gt;InitNew();
+   playerStreamLoader-&gt;Load(streamFile.GetStream());
+}
+</pre></div>
+</div>
+<p>This only works for self-contained swf files, however. To set a base url for relative url search in action scripts, a home-brew COM server that implements both IStream and IMoniker is needed.</p>
 </section>
 
 <div class="section ablog__blog_comments">

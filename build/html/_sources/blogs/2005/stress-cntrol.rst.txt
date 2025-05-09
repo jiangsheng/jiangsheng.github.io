@@ -1,12 +1,9 @@
-Stress Cntrol
-=============
+Stress Control Questions
+==========================================
 .. post:: 7, Feb, 2005
    :category: English Writing Practice
    :author: jiangshengvc
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!120
 
    | 1.         Q: Why is stress not all bad?
    | A: No. it can help immune systems.

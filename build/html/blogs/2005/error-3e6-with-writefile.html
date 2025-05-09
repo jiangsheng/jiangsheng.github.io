@@ -471,11 +471,10 @@
 <li class="toctree-l2"><a class="reference internal" href="self-introduction.html">Self Introduction</a></li>
 <li class="toctree-l2"><a class="reference internal" href="sentence-combining.html">Sentence Combining</a></li>
 <li class="toctree-l2"><a class="reference internal" href="spread-of-blog.html">Spread of Blog</a></li>
-<li class="toctree-l2"><a class="reference internal" href="stress-cntrol.html">Stress Cntrol</a></li>
+<li class="toctree-l2"><a class="reference internal" href="stress-cntrol.html">Stress Control Questions</a></li>
 <li class="toctree-l2"><a class="reference internal" href="stress-control-2.html">Stress Control</a></li>
-<li class="toctree-l2"><a class="reference internal" href="stress-control.html">Stress Control</a></li>
-<li class="toctree-l2"><a class="reference internal" href="summary-2.html">summary</a></li>
-<li class="toctree-l2"><a class="reference internal" href="summary-3.html">Summary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="summary-2.html">Summary for Population, Poverty and the Local Environment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="summary-3.html">Summary for A Global Trade Agreement Must Address Invasive Species</a></li>
 <li class="toctree-l2"><a class="reference internal" href="summary-for-are-your-patients-exercising-too-much.html">Summary for “Are Your Patients Exercising Too Much?”</a></li>
 <li class="toctree-l2"><a class="reference internal" href="summary.html">Summary</a></li>
 <li class="toctree-l2"><a class="reference internal" href="talking-about-where-does-power-come-from.html">Talking about Where does power come from?</a></li>
@@ -567,31 +566,59 @@
                 <article class="bd-article">
                    <section id="error-3e6-with-writefile">
 <h1>Error 3e6 with WriteFile<a class="headerlink" href="#error-3e6-with-writefile" title="Link to this heading">#</a></h1>
-<div class="bvmsg docutils container" id="msgcns-1be894deaf296e0a-192">
 <p>It looks like you will get error 3E6 when you call write file with an
-address not aligned to DWORD.
+address not aligned to DWORD.</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>;=====================================================================
+; hello.asm - Example Assembler program
+;
+; Author: Sheng Jiang
+; Course: COSC 2425
+; Date: 5/23/05
 ;=====================================================================
-; hello.asm - Example <a class="reference external" href="http://en.wikipedia.org/wiki/Assembly_language">Assembler
-program</a> ;
-; Author: Sheng Jiang ; Course: COSC 2425 ; Date: 5/23/05
-;=====================================================================
-.386 .MODEL flat,
-<a class="reference external" href="http://en.wikipedia.org/wiki/X86_calling_conventions">stdcall</a>
-option casemap:none include windows.inc include kernel32.inc include
-masm32.inc includelib kernel32.lib includelib masm32.lib .DATA align
-1 placeholder <a class="reference external" href="http://en.wikipedia.org/wiki/Byte">byte</a> ? Message
-BYTE  ‘<a class="reference external" href="http://en.wikipedia.org/wiki/Hello_world_program">Hello
-World</a>!’,0
-messegelen
-<a class="reference external" href="http://en.wikipedia.org/wiki/Word_%28computing%29">dword</a>
-$-Message errorcode dword 0 .CODE Hello   PROC int 3 sub
-esp,messegelen mov ecx,messegelen mov edi,esp sub  esp , 8 ;//2 local
-var invoke GetStdHandle, STD_OUTPUT_HANDLE mov  [ebp-4] , eax ;
-mov  eax  ,ebp sub  eax  ,8 mov  [ebp-8] , eax; copystringtostack:
-dec edi mov byte ptr [edi],’a’ loop copystringtostack mov byte ptr
-[edi+12],0 invoke WriteFile, [ebp-4], edi, messegelen, near ptr
-[ebp-8],0 add esp,8 add esp,messegelen invoke GetLastError
-mov  errorcode,eax invoke ExitProcess, 0 Hello   ENDP END Hello</p>
+
+.386
+.MODEL flat, stdcall
+option casemap:none
+
+include windows.inc
+include kernel32.inc
+include masm32.inc
+
+includelib kernel32.lib
+includelib masm32.lib
+
+.DATA
+align 1
+placeholder byte ?
+Message BYTE  &#39;Hello World!&#39;,0
+messegelen dword $-Message
+errorcode dword 0
+.CODE
+Hello   PROC
+int 3
+sub esp,messegelen
+mov ecx,messegelen
+mov edi,esp
+sub  esp , 8 ;//2 local var
+invoke GetStdHandle, STD_OUTPUT_HANDLE
+mov  [ebp-4] , eax ;
+mov  eax  ,ebp
+sub  eax  ,8
+mov  [ebp-8] , eax;
+copystringtostack:
+dec edi
+mov byte ptr [edi],&#39;a&#39;
+loop copystringtostack
+mov byte ptr [edi+12],0
+invoke WriteFile, [ebp-4], edi, messegelen, near ptr [ebp-8],0
+add esp,8
+add esp,messegelen
+invoke GetLastError
+mov  errorcode,eax
+invoke ExitProcess, 0
+Hello   ENDP
+END Hello
+</pre></div>
 </div>
 </section>
 

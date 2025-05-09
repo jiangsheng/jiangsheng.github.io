@@ -590,29 +590,7 @@ also be displayed by a 7-segment
 </div>
     </ul>
     <p class="ablog-post-excerpt"><p>It looks like you will get error 3E6 when you call write file with an
-address not aligned to DWORD.
-;=====================================================================
-; hello.asm - Example <a class="reference external" href="http://en.wikipedia.org/wiki/Assembly_language">Assembler
-program</a> ;
-; Author: Sheng Jiang ; Course: COSC 2425 ; Date: 5/23/05
-;=====================================================================
-.386 .MODEL flat,
-<a class="reference external" href="http://en.wikipedia.org/wiki/X86_calling_conventions">stdcall</a>
-option casemap:none include windows.inc include kernel32.inc include
-masm32.inc includelib kernel32.lib includelib masm32.lib .DATA align
-1 placeholder <a class="reference external" href="http://en.wikipedia.org/wiki/Byte">byte</a> ? Message
-BYTE  ‘<a class="reference external" href="http://en.wikipedia.org/wiki/Hello_world_program">Hello
-World</a>!’,0
-messegelen
-<a class="reference external" href="http://en.wikipedia.org/wiki/Word_%28computing%29">dword</a>
-$-Message errorcode dword 0 .CODE Hello   PROC int 3 sub
-esp,messegelen mov ecx,messegelen mov edi,esp sub  esp , 8 ;//2 local
-var invoke GetStdHandle, STD_OUTPUT_HANDLE mov  [ebp-4] , eax ;
-mov  eax  ,ebp sub  eax  ,8 mov  [ebp-8] , eax; copystringtostack:
-dec edi mov byte ptr [edi],’a’ loop copystringtostack mov byte ptr
-[edi+12],0 invoke WriteFile, [ebp-4], edi, messegelen, near ptr
-[ebp-8],0 add esp,8 add esp,messegelen invoke GetLastError
-mov  errorcode,eax invoke ExitProcess, 0 Hello   ENDP END Hello</p>
+address not aligned to DWORD.</p>
 </p>
 
     <p class="ablog-post-expand">
@@ -805,54 +783,6 @@ mov  errorcode,eax invoke ExitProcess, 0 Hello   ENDP END Hello</p>
 
     <p class="ablog-post-expand">
       <a href="../2005/lab4.html"><em>Read more ...</em></a>
-    </p>
-    <hr />
-  </div>
-  
-  <div class="section ablog-post">
-    <h2 class="ablog-post-title">
-      <a href="../2005/assignment1.html">Assignment1</a>
-    </h2>
-    <ul class="ablog-archive">
-      <li>
-         
-        <i class="fa fa-calendar"></i>
-        
-        <span>09 June 2005</span>
-        
-      </li>
-      <div class="ablog-sidebar-item ablog__postcard2">
-   
-  <li id="ablog-sidebar-item author ablog__author">
-    <span>
-      
-      <i class="fa-fw fa fa-user"></i>
-      
-    </span>
-     
-    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
-      
-  </li>
-     
-  <li id="ablog-sidebar-item category ablog__category">
-    <span>
-      
-      <i class="fa-fw fa fa-folder-open"></i>
-      
-    </span>
-     
-    <a href="#">ACC</a>
-      
-  </li>
-    
-</div>
-    </ul>
-    <p class="ablog-post-excerpt"><p>No directive entry for “container” in module “docutils.parsers.rst.languages.zh_cn”.
-Using English fallback for directive “container”.</p>
-</p>
-
-    <p class="ablog-post-expand">
-      <a href="../2005/assignment1.html"><em>Read more ...</em></a>
     </p>
     <hr />
   </div>

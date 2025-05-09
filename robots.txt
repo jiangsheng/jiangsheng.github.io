@@ -1,1 +1,4 @@
+User-agent: *
 Disallow: /build/html/_sources
+
+Sitemap: https://jiangsheng.net/build/html/sitemap.xml

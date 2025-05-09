@@ -1,29 +1,22 @@
 Assignment1
 ===========
 .. post:: 9, Jun, 2005
-   :category: ACC
+   :tags: Assembly Language
+   :category: PIC16F88A
    :author: jiangshengvc
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!186
+.. code-block::
 
    ;=====================================================================
-
    ; Assignment1.asm - Homework Assignment 1
-
    ;
-
    ; Author: Sheng_Jiang
-
    ; Course: COSC 2425
-
    ; Date: 06/08/05
-
    ;=====================================================================
 
    .386
-
    .MODEL flat, stdcall
 
    option casemap:none
@@ -158,11 +151,11 @@ Assignment1
 
    VERSION = V1
 
-   SRCS =
+   SRCS =   $(PROJECT).asm
 
-   $(PROJECT).asm
+makefile
 
-   makefile
+.. code-block::
 
    MASM32 = $(ROOTDRIVE):/masm32
 

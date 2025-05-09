@@ -74,7 +74,6 @@
    spread-of-blog.rst
    stress-cntrol.rst
    stress-control-2.rst
-   stress-control.rst
    summary-2.rst
    summary-3.rst
    summary-for-are-your-patients-exercising-too-much.rst
