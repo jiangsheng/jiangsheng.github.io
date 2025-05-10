@@ -10,6 +10,8 @@ Howto: Ignoring web browser certificate errors in a webbrowser host
 .. index:: pair:Ignore SSL certificate; WebBrowser control
 .. index:: pair: WinForms; Webbrowser Customization
 
+Download Example Code: https://github.com/jiangsheng/Samples/blob/master/IgnoreSsl.
+
 Many applications host webbrowser controls to display web pages inside. Before production the web page is often in an internal server that do not have a valid certificate. This article let you skip the certificate error and continue testing your application
 
 The webbrowser queries host services via IServiceProvider implemented on the ActiveX host. One of the services is IHttpSecurity, which can be used to override the certificate problem dialog.
@@ -28,8 +30,6 @@ In Windows Forms, customizing certificate error handling involves the following:
 * handle IHttpSecurity.OnSecurityProblem and return S_OK (warning: undocumented code, won’t work in IE6)
 * use the new webbrowser in the form
 * important: navigate to "about:blank" first otherwise your service provider won't get called.
-
-Example Code: https://github.com/jiangsheng/Samples/blob/master/IgnoreSsl.
 
 For sample code in providing the service using MFC, check :ref:`Handle NewWindow3 and ShowModalDialog in CHtmlView <blogs_handle_newwindow3_and_showmodaldialog_chtmlview>`. The way to implements IHttpSecurity is similar to how the article exposes the INewWindowManager service to the webbrowser control.
 
