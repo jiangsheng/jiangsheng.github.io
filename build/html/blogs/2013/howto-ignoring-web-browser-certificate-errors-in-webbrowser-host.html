@@ -506,6 +506,17 @@
 <li class="toctree-l2"><a class="reference internal" href="../2005/%E7%99%BB%E9%B9%B3%E9%9B%80%E6%A5%BC%E7%8E%8B%E4%B9%8B%E7%84%95.html">登鹳雀楼(王之焕)</a></li>
 </ul>
 </details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2003/index.html"> 2003</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2003/asf_study_notes_part_1.html">ASF学习笔记 Part 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2003/asf_study_notes_part_2.html">ASF学习笔记 Part 2</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2003/exhausted_writing.html">写篇文章真累</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2003/add_scripting_support_to_webbrowser_control.html">Sample: IEAutomation to Adding Macro Support to Webbrowser Host Applications</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2002/index.html"> 2002</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2002/display_bmp_gif_jpg_ico_emf_wmf_picture_using_ole_ipicture.html">使用IPicture的OLE实现读取和显示BMP,GIF,JPG,ICO,EMF,WMF图像</a></li>
+</ul>
+</details></li>
 </ul></details></li></ul></div>
 </nav></div>
     </div>
@@ -579,7 +590,8 @@
                 <article class="bd-article">
                    <section id="howto-ignoring-web-browser-certificate-errors-in-a-webbrowser-host">
 <h1>Howto: Ignoring web browser certificate errors in a webbrowser host<a class="headerlink" href="#howto-ignoring-web-browser-certificate-errors-in-a-webbrowser-host" title="Link to this heading">#</a></h1>
-<p id="index-1"><span id="index-0"></span>Many applications host webbrowser controls to display web pages inside. Before production the web page is often in an internal server that do not have a valid certificate. This article let you skip the certificate error and continue testing your application</p>
+<p id="index-1"><span id="index-0"></span>Download Example Code: <a class="github reference external" href="https://github.com/jiangsheng/Samples/blob/master/IgnoreSsl">jiangsheng/Samples</a>.</p>
+<p>Many applications host webbrowser controls to display web pages inside. Before production the web page is often in an internal server that do not have a valid certificate. This article let you skip the certificate error and continue testing your application</p>
 <p>The webbrowser queries host services via IServiceProvider implemented on the ActiveX host. One of the services is IHttpSecurity, which can be used to override the certificate problem dialog.</p>
 <p>Security warning: ignoring security problems can compromise your application.</p>
 <p>IHttpSecurity is derived from IWindowForBindingUI, so the host needs to implement it too.</p>
@@ -594,7 +606,6 @@
 <li><p>use the new webbrowser in the form</p></li>
 <li><p>important: navigate to “<a class="reference external" href="about:blank">about:blank</a>” first otherwise your service provider won’t get called.</p></li>
 </ul>
-<p>Example Code: <a class="github reference external" href="https://github.com/jiangsheng/Samples/blob/master/IgnoreSsl">jiangsheng/Samples</a>.</p>
 <p>For sample code in providing the service using MFC, check <a class="reference internal" href="../2007/handle-newwindow3-and-showmodaldialog-in-chtmlview.html#blogs-handle-newwindow3-and-showmodaldialog-chtmlview"><span class="std std-ref">Handle NewWindow3 and ShowModalDialog in CHtmlView</span></a>. The way to implements IHttpSecurity is similar to how the article exposes the INewWindowManager service to the webbrowser control.</p>
 <p>WPF’s WebBrowser class does not provide a public virtual function to change the ActiveX site. You might have to <a class="reference internal" href="../2023/extend-a-webbrowser-control-using-icustomqueryinterface.html#blog-2023-extend-a-webbrowser-control-using-icustomqueryinterface"><span class="std std-ref">implement ICustomQueryInterface yourself</span></a>.</p>
 </section>

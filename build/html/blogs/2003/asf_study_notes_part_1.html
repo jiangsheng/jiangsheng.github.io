@@ -1,0 +1,903 @@
+
+<!DOCTYPE html>
+
+
+<html lang="zh-CN" data-content_root="../../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>ASF学习笔记 Part 1 &#8212; jiangsheng&#39;s docs</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-design.min.css?v=95c83b7e" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css?v=cda70fc7" />
+  
+  <!-- So that users can add custom icons -->
+  <script src="../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+
+    <script src="../../_static/documentation_options.js?v=aec57771"></script>
+    <script src="../../_static/doctools.js?v=9bcbadda"></script>
+    <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script async="async" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3710396369816898"></script>
+    <script src="../../_static/design-tabs.js?v=f930bc37"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'blogs/2003/asf_study_notes_part_1';</script>
+    <script src="../../_static/js/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <link rel="canonical" href="https://jiangsheng.net/build/html/blogs/2003/asf_study_notes_part_1.html" />
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="ASF学习笔记 Part 2" href="asf_study_notes_part_2.html" />
+    <link rel="prev" title="2003 Blogs" href="index.html" /> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="zh-CN"/>
+  <meta name="docsearch:version" content="" />   
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-3 navbar-header-items__start">
+    
+      <div class="navbar-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../../reference.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">jiangsheng's docs</p>
+  
+</a></div>
+    
+  </div>
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../games/index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          
+          
+            <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../games/index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+          
+        
+      </div>
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+<nav class="bd-docs-nav bd-links"
+     aria-label="Section Navigation">
+  <p class="bd-links__title" role="heading" aria-level="1">Section Navigation</p>
+  <div class="bd-toc-item navbar-nav"><ul class="list-caption"><li class="toctree-l0 has-children"><details open><summary><p aria-level="2" class="caption" role="heading"><span class="caption-text">内容:</span></p><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current nav bd-sidenav">
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2025/index.html"> 2025</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2025/misleading_error_all_children_grid_row_should_be_grid_item.html">Misleading Error Message WARNING: All children of a 'grid-row' should be 'grid-item' [design.grid]</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2025/misleading_error_parent_grid_item_should_be_grid_row.html">Misleading Error Message WARNING: The parent of a 'grid-item' should be a 'grid-row' [design.grid]</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2025/exception_losing_ids_attribute_from_ablog.html">Exception: Losing "ids" attribute: ['index-1', 'index-0'] from ABlog.process_posts</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2025/always_full_rebuild_ablog.html">Sphinx project always rebuild after installing the ablog extension</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2025/todays-phishing-email.html">Today’s phishing email RE: Your A⁮pp឵Ie lD Has Been Di⁫sabIed Pending Further Verification</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2025/merge_wordpress.com_site_with_github_pages.html">Merge wordpress.com site with GitHub Pages</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2024/index.html"> 2024</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2024/troubleshooting-sgen-error-an-attempt-was-made-to-load-an-assembly-with-an-incorrect-format.html">Troubleshooting SGEN : error : An attempt was made to load an assembly with an incorrect format</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2023/index.html"> 2023</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2023/extend-a-webbrowser-control-using-icustomqueryinterface.html">Extend a webbrowser control using ICustomQueryInterface</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2023/querying-wikipedia-data-using-sparql.html">Querying Wikipedia data using SPARQL</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2023/todays-phishing-email-subject-re-contract-lease-agreement.html">Today’s phishing email (Subject    Re: Contract Lease Agreement)</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2022/index.html"> 2022</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2022/bypassing-factory-reset-production-on-microsoft-lumia-640.html">Bypassing Factory Reset Protection Microsoft Lumia 640</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2021/index.html"> 2021</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2021/better-late-than-never.html">Better Late Than Never</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2021/converting-generic-oopfactory-x12-structures-to-typed-counterparts.html">Converting generic OopFactory.X12 structures to typed counterparts</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2021/how-to-determine-when-a-page-is-done-printing-in-webbrowser-control.html">How To Determine When a Page Is Done Printing in WebBrowser Control</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2021/icepocalypse-2021-%E5%86%B0%E7%8B%B1-2021.html">Icepocalypse 2021 冰狱 2021</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2021/new-web-serer-hijacker-httpresetmodule-dll.html">New web server hijacker HttpResetModule.dll</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2021/troubleshooting-a-memory-leak.html">Troubleshooting a memory leak</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2021/%E5%BE%AE%E8%BD%AF%E6%8B%BC%E9%9F%B3%E5%8D%A1%E9%A1%BF%E7%9A%84%E9%97%AE%E9%A2%98.html">微软拼音卡顿的问题</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2020/index.html"> 2020</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2020/finding-the-right-ruby-version.html">Finding the right ruby version</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2020/todays-fake-email-of-the-day.html">Today’s fake email of the day</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2019/index.html"> 2019</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2019/fix-sphinxcontrib-googleanalytics-on-sphinx-1-8.html">Fix sphinxcontrib-googleanalytics on Sphinx 1.8</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2018/index.html"> 2018</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2018/blinking-wifi-icon-and-black-screen-on-surface-2.html">Blinking wifi icon and black screen on Surface 2</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2018/can-we-run-32-bit-and-64-bit-code-in-the-same-process.html">Can we run 32 bit and 64 bit code in the same process?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2018/farewell-dsoframer.html">Farewell, dsoframer</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2018/%E5%A6%82%E4%BD%95%E5%9C%A864%E4%BD%8Dwin10%E7%9A%84vs2017%E7%8E%AF%E5%A2%83%E4%B8%8B%E6%90%AD%E5%BB%BA%E6%B1%87%E7%BC%96%E7%8E%AF%E5%A2%83.html">如何在64位win10的VS2017环境下搭建汇编环境</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2017/index.html"> 2017</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2017/getting-around-strong-name-signature-not-valid-for-assembly-for-a-clickonce-application.html">Getting around “Strong name signature not valid for assembly” for a ClickOnce application</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2016/index.html"> 2016</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2016/what-part-of-windows-is-written-in-netwpfsilverlight.html">What part of Windows is written in .Net/WPF/Silverlight?</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2015/index.html"> 2015</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2015/flash-player-loading-from-memory.html">Flash Player: Loading from memory</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2015/whats-new-in-visual-studio-tools-for-windows-10-preview.html">What’s new in Visual Studio Tools for Windows 10 Preview</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2013/index.html"> 2013</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2013/another-breaking-change-related-to-64-bit-compatibility-this-time-in-tapisrv-wwindows-8.html">Another breaking change related to 64 bit compatibility, this time in TAPISRV w/Windows 8</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2013/book-review-mastering-winddows-8-c-app-development.html">Book review: Mastering Windows 8 C++ App Development</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2013/how-to-restart-windows-explorer-programmatically-using-restart-manager.html">How to restart Windows Explorer programmatically using Restart manager</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2013/howto-ignoring-web-browser-certificate-errors-in-webbrowser-host.html">Howto: Ignoring web browser certificate errors in a webbrowser host</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2013/when-you-get-a-system-badimageformatexception-maybe-you-indeed-have-a-bad-system-image.html">When you get a System.BadImageFormatException. maybe you indeed have a bad system image.</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2012/index.html"> 2012</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2012/add-the-correct-interface-first-in-the-adding-a-class-from-an-activex-control-wizard.html">Add the correct interface first in Adding an MFC Class from an ActiveX Control wizard.</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2012/choosing-formats-when-putting-data-on-clipboard.html">Choosing formats when putting data on clipboard</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2012/how-to-migrating-a-clr-console-visual-c-project-to-windows-forms.html">How to: Migrating a CLR console Visual C++ project to Windows Forms</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2012/howto-reset-ie-security-zone-settings-programmatically.html">Howto: reset IE security zone settings programmatically</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2012/whats-new-in-mfcatl-11-beta.html">What’s new in MFC/ATL 11 Beta</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2011/index.html"> 2011</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2011/breaking-change-in-ado-update-kb983246-included-in-windows-7-service-pack-1.html">Breaking change in ADO update KB983246 (included in Windows 7 Service Pack 1)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2011/bug-in-security-update-for-visual-c-redistributable-package-april-12-2011-causes-program-error-on-windows-2000.html">Bug in Security Update for Visual C++ Redistributable Package: April 12, 2011 causes program error on Windows 2000</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2011/how-to-solve-lnk2001-errors-related-to-windows-sdk-clsids.html">How to solve LNK2001 errors related to Windows SDK CLSIDs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2011/microsoft-mvp-again-2.html">Microsoft MVP again</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2011/more-ado-issues-with-windows-7-sp1-a-reference-count-leaking-when-event-is-used.html">More ADO issues with KB983246/Windows 7 SP1: a reference count leaking when event is used</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2011/whats-new-in-windows-8-sdk-headers.html">What&amp;rsquo;s new in Windows 8 Developer Preview SDK headers</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2011/where-is-the-forum-for-internet-explorer.html">Where is the forum for Internet Explorer?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2011/windows-update-kb2538242-or-kb2538243-offered-repeatedly.html">Windows Update KB2538242 or KB2538243 offered repeatedly</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2010/index.html"> 2010</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="simple">
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2009/index.html"> 2009</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2009/415-unsupported-media-type-when-wse-is-not-configured.html">415 Unsupported Media Type when WSE is NOT configured</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2009/getting-local-ftp-home-directory-from-iis-programmatically.html">Getting local FTP home directory from IIS programmatically</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2009/how-to-change-the-user-agent-and-download-control-flags-in-a-webbrowser-control-host.html">How to change the user agent and download control flags in a webbrowser control host</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2009/how-to-disable-navigation-sound-in-webbrowser-control.html">How to disable navigation sound in webbrowser control</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2009/how-to-force-popup-window-to-navigate-in-the-same-window-in-a-webbrowser-control.html">How to force popup window to navigate in the same window in a webbrowser control</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2009/intercept-the-download-dialog-in-webbrowser-control.html">Intercept the download dialog in webbrowser control</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2009/links.html">Links</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2009/make-the-webbrowser-control-is-styled-as-the-hosting-application.html">Make the webbrowser control styled the same way as the hosting application</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2009/microsoft-mvp-msdn-forum-influencer.html">Microsoft MVP, MSDN Forum Influencer</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2009/talking-about-windows-xp-apis.html">Talking about Windows XP APIs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2009/the-windows-server-2008-sp2-and-windows-vista-sp2-beta-program-has-concluded.html">the Windows Server 2008 SP2 and Windows Vista SP2 Beta program has concluded.</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2009/visual-studio-2010-class-wizard%E9%87%8D%E8%BF%94visual-c-control-shift-x.html">Visual Studio 2010: Class Wizard重返Visual C++… Control Shift X.</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2009/walkaround-for-error-an-add-on-for-this-website-failed-to-run-when-opening-visual-cs-add-variable-wizard-after-ie-8-is-installed.html">Walkaround for Error : An add-on for this website failed to run. When opening Visual C++’s Add Variable Wizard after IE 8 is installed</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2008/index.html"> 2008</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2008/detect-if-a-msi-component-is-installed.html">Detect if a MSI component is installed</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2008/feedback-from-microsoft.html">Feedback from Microsoft</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2008/hard-drive-broke.html">Hard Drive Broke</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2008/mfc-feature-pack%E5%8F%91%E5%B8%83.html">MFC Feature Pack发布</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2008/mfc%E6%9B%B4%E6%96%B0beta%E7%89%88.html">MFC更新Beta版</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2008/smart-harddrive-error.html">Smart harddrive error</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2008/type-system-web-ui-webcontrols-parameter-does-not-have-a-public-property-named-dbtype.html">Type ‘System.Web.UI.WebControls.Parameter’ does not have a public property named ‘DbType’</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2008/visual-c-10-%E5%92%8C-mfc-10%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7.html">Visual C++ 10 和 MFC 10的新特性</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2008/when-microsoft-office-live-meets-google-chrome.html">When Microsoft Office Live Meets Google Chrome</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2007/index.html"> 2007</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2007/autocomplete-with-datasource.html">AutoComplete with DataSource</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2007/handle-newwindow3-and-showmodaldialog-in-chtmlview.html">Handle NewWindow3 and ShowModalDialog in CHtmlView</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2007/mcdonalds-yum-alleged-to-break-chinese-wage-laws.html">McDonald’s, Yum! Alleged To Break Chinese Wage Laws</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2007/microsoft-mvp-again.html">MIcrosoft MVP again</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2007/skew-detection-and-correction-resources.html">Skew detection and correction resources</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2007/stlclr-compiler-and-marshaling.html">STL/CLR, Compiler and Marshaling</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2007/visual-c-2008-beta2-%E9%87%8C%E9%9D%A2%E7%9A%84class-designer.html">Visual C++ 2008 Beta2 里面的Class Designer</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2007/%E7%A7%91%E5%AD%A6%EF%BC%8C%E6%88%91%E7%9A%84%E4%BF%A1%E4%BB%B0.html">科学，我的信仰?</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2006/index.html"> 2006</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2006/baidu-baike-the-chinese-repalcement-of-wikipedia.html">Baidu Baike, the Chinese repalcement of Wikipedia</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2006/csdn-statistics.html">CSDN statistics</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2006/error-unable-to-cast-com-object-of-type-mshtml-htmldocumentclass-to-interface-type-icustomdoc.html">Error: Unable to cast COM object of type ‘mshtml.HTMLDocumentClass’ to interface type ‘ICustomDoc’</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2006/from-in-god-we-trust-to-in-freedom-we-spam.html">From In God We Trust to In Freedom We Spam</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2006/microsoft-award-certificates.html">Microsoft Award Certificates</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2006/microsoft-mvp-re-awarded-again.html">Microsoft MVP re-awarded again</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2006/prb-icustomdocsetuihandler-causes-changes-in-save-as-dialog.html">PRB: ::SetUIHandler Causes Changes in Save As Dialog</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2006/the-death-of-virgo-shaka-under-the-twin-salas.html">The death of Virgo Shaka under the twin Salas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2006/the-microsoft-code-by-adam-barr.html">‘The Microsoft Code’ by Adam Barr</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2006/visual-studio-2005-untrusted-by-ie7.html">Visual Studio 2005 Untrusted by IE7</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2005/index.html"> 2005</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2005/4-11%E6%97%A5%E5%85%A8%E7%90%83%E4%BA%92%E8%81%94%E7%BD%91%E7%BE%A4%E5%8F%91%E6%80%A7%E6%95%85%E9%9A%9C.html">4-11日全球互联网群发性故障</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/a-successful-moment.html">A Successful Moment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/access-your-documents-from-internet.html">Access your documents from internet.</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/assignment1.html">Assignment1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/blog-past-and-present-2.html">Blog, past and present</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/blog-past-and-present.html">Blog, past and present</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/blog.html">Blog</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/blogging.html">Blogging</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/champ-de-coquelicots-environs-de-giverny.html">Champ de Coquelicots, Environs de Giverny</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/chinese-diet.html">Chinese diet</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/cosc-2425-computer-organization-and-machine-language-pc-assembly-language.html">COSC 2425 - Computer Organization and Machine Language - PC Assembly Language</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/diet-change.html">Diet Change</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/draft.html">draft</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/early-working-vs-studying.html">early working VS studying</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/editors-note.html">Editor’s note</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/error-3e6-with-writefile.html">Error 3e6 with WriteFile</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/expectation-differences-between-male-and-female-in-chinese-culture_revised.html">Expectation differences between male and female in Chinese culture (Revised)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/expectation-differences-between-male-and-female-in-chinese-culture.html">Expectation differences between male and female in Chinese culture</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/find-and-evaluate-sources-on-www.html">Find and evaluate sources on WWW</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/find-and-replace-specific-formatting-in-word-2003.html">Find and replace specific formatting in Word 2003</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/first_children_education_version_2.html">First Children and Education (version 2)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/free-msdn-visual-studio-2005-team-suite-with-msdn-premium-subscription-for-awardee-of-microsoft-award-for-of-customer-excellence-microsoft-mvp.html">Free MSDN Visual Studio 2005 Team Suite with MSDN Premium Subscription for awardee of Microsoft Award for of Customer Excellence/ Microsoft MVP?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/generation-gap-prevention.html">Generation Gap Prevention</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/genetic-discrimination.html">genetic discrimination</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/how-to-fail-in-a-class.html">How to fail in a class</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/how-to-use-visual-c-with-perl.html">How to use Visual C++ with Perl</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/httpmeta-wikimedia-orgwikichinese_conversion.html">http://meta.wikimedia.org/wiki/Chinese_conversion</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/immigration-past-and-present.html">Immigration Past and Present</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/interview-summary-report.html">interview summary report</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/introduction.html">First Children and Education</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/introductionconclusion.html">Introduction/Conclusion</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/jiangsheng%E7%9A%84csdn%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE.html">jiangsheng的CSDN统计数据</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/knowledge-of-foreign-countries-of-ut-austin-students.html">Knowledge of Foreign Countries of UT Austin students</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/lab2.html">Lab2</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/lab3.html">Lab3</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/lab4.html">Lab4</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/lab5-draft1.html">Lab5 Draft1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/lab5-draft2.html">Lab5 Draft2</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/lab5-draft3.html">Lab5 Draft3</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/lab5-step4.html">Lab5 Step4</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/lincolns-assassination.html">Lincoln’s assassination</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/litblogs.html">Litblogs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/microchip-pic16f88a-emulator-project.html">Microchip PIC16F88A Emulator Project</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/msn-messenger-exceeds-capacity.html">MSN messenger exceeds capacity</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/nomination-of-microsoft-award-for-customer-excellence.html">Nomination of Microsoft Award for Customer Excellence</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/notes-2.html">Notes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/notes-3.html">Notes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/notes-4.html">Notes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/notes-5.html">Notes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/notes.html">Notes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/noteworth-011.html">NoteWorth 011</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/pic-16f88-microcontroller-servo-controller-project.html">PIC 16F88 Microcontroller Servo Controller Project</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/population-in-us.html">Population in US</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/primates-2.html">Primates</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/primates.html">Primates</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/public_education_notes.html">Public Education Notes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/read-twice-to-reveal-the-cluesorson-scott-cardspeaker-for-the-dead.html">Read Twice to reveal the clues(Orson Scott Card,SPEAKER FOR THE DEAD)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/role-modal-notes.html">Role Modal Notes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/scholarship-application.html">Scholarship Application</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/self-efficacy.html">Self-Efficacy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/self-introduction.html">Self Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/sentence-combining.html">Sentence Combining</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/spread-of-blog.html">Spread of Blog</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/stress-cntrol.html">Stress Control Questions</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/stress-control-2.html">Stress Control</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/summary-2.html">Summary for Population, Poverty and the Local Environment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/summary-3.html">Summary for A Global Trade Agreement Must Address Invasive Species</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/summary-for-are-your-patients-exercising-too-much.html">Summary for “Are Your Patients Exercising Too Much?”</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/summary.html">Summary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/talking-about-where-does-power-come-from.html">Talking about Where does power come from?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/telephone-tips.html">Telephone Tips</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/the-schiavo-case.html">The Schiavo case</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/trade-war-over-genetically-modified-food.html">Trade war over genetically modified food</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/use-windbg-as-an-external-tools-of-visual-c.html">Use windbg as an external tools of Visual C++</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/virtual-friends.html">virtual friends</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/working-holidays-in-mozambique.html">Working Holidays in Mozambique</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/working-tourism.html">Working Tourism</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/xu-beihong.html">Xu Beihong</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/%E3%80%8A%E8%BD%AC%E6%8D%A2%E6%8C%87%E5%8D%97-%E5%B0%86%E7%A8%8B%E5%BA%8F%E4%BB%8E%E6%89%98%E7%AE%A1%E6%89%A9%E5%B1%95c%E8%BF%81%E7%A7%BB%E5%88%B0ccli%E3%80%8B%E8%AF%91%E5%90%8E.html">《转换指南: 将程序从托管扩展C++迁移到C++/CLI》译后</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/%E4%BB%8Esony%E6%8B%9B%E5%9B%9E%E5%90%AB%E7%96%91%E4%BC%BC%E9%97%B4%E8%B0%8D%E8%BD%AF%E4%BB%B6%E7%9A%84cd%E8%AF%B4%E8%B5%B7.html">从Sony招回含疑似间谍软件的CD说起</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/%E5%81%87%E5%A6%82%E6%8A%93%E5%88%B0%E4%B8%80%E6%9D%A1%E7%BE%8E%E4%BA%BA%E9%B1%BC%E8%BD%AC%E8%87%AA%E6%9C%BA%E6%88%98%E4%B8%96%E7%95%8C%E8%AE%BA%E5%9D%9B%EF%BC%8C%E6%B0%B4%E6%98%9F%E7%9A%84%E7%88%B1.html">假如抓到一条美人鱼(转自机战世界论坛，水星的爱发)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/%E6%95%B4%E7%90%86%E6%97%A7%E7%85%A7%E7%89%87%E2%80%A6%E2%80%A6.html">整理旧照片……</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2005/%E7%99%BB%E9%B9%B3%E9%9B%80%E6%A5%BC%E7%8E%8B%E4%B9%8B%E7%84%95.html">登鹳雀楼(王之焕)</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="index.html"> 2003</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">ASF学习笔记 Part 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="asf_study_notes_part_2.html">ASF学习笔记 Part 2</a></li>
+<li class="toctree-l2"><a class="reference internal" href="exhausted_writing.html">写篇文章真累</a></li>
+<li class="toctree-l2"><a class="reference internal" href="add_scripting_support_to_webbrowser_control.html">Sample: IEAutomation to Adding Macro Support to Webbrowser Host Applications</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../2002/index.html"> 2002</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../2002/display_bmp_gif_jpg_ico_emf_wmf_picture_using_ole_ipicture.html">使用IPicture的OLE实现读取和显示BMP,GIF,JPG,ICO,EMF,WMF图像</a></li>
+</ul>
+</details></li>
+</ul></details></li></ul></div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item"><nav class="sidebar-indices-items" aria-labelledby="pst-indices-navigation-heading-2">
+  <p id="pst-indices-navigation-heading-2" class="sidebar-indices-items__title" role="heading" aria-level="1">Indices</p>
+  <ul class="indices-link">
+        <li class="toctree-l1">
+          <a class="reference internal"
+             href="../../genindex.html"
+             accesskey="I">General Index</a>
+        </li>
+  </ul>
+</nav></div>
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="../../reference.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    
+    <li class="breadcrumb-item"><a href="../index.html" class="nav-link">Blogs</a></li>
+    
+    
+    <li class="breadcrumb-item"><a href="index.html" class="nav-link">2003 Blogs</a></li>
+    
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">ASF学习笔记 Part 1</span></li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                   <section id="asf-part-1">
+<h1>ASF学习笔记 Part 1<a class="headerlink" href="#asf-part-1" title="Link to this heading">#</a></h1>
+<section id="profile">
+<h2>设置(Profile)<a class="headerlink" href="#profile" title="Link to this heading">#</a></h2>
+<p>一个设置是一个ASF的配置(configuration)的描述数据集合。一个设置必须至少包含一个流的配置设置。</p>
+</section>
+<section id="id1">
+<h2>流信息<a class="headerlink" href="#id1" title="Link to this heading">#</a></h2>
+<p>设置中的流信息包含流的比特率(bit rate)，缓冲窗口和媒体属性的设置。视频和音频的流信息准确描述了文件中的媒体配置，包括压缩数据使用的编码和解码器（如果有的话）。</p>
+<p>一个设置也包含很多创建ASF文件时使用的ASF的特性，这包括互斥、媒体优先级、带宽共享和数据单位扩展。</p>
+<p>每次写文件是必须提供设置。你可以调用IWMWriter::SetProfile指定一个设置。</p>
+<p>设置有三种形式，应用程序中设置对象包含的数据，XML文件，或者ASF文件头。</p>
+<section id="id2">
+<h3>设置对象<a class="headerlink" href="#id2" title="Link to this heading">#</a></h3>
+<p>可以用设置管理器创建空设置对象，然后从现有数据载入设置</p>
+</section>
+<section id="xml">
+<h3>XML文件<a class="headerlink" href="#xml" title="Link to this heading">#</a></h3>
+<p>具有PRX扩展名.注意Windows Media 9 Series 中没有原来的系统设置(system profiles)也不再使用，而作为这种形式存在。保存自定义设置时必须保存成这种文件。</p>
+</section>
+<section id="asf">
+<h3>ASF文件头<a class="headerlink" href="#asf" title="Link to this heading">#</a></h3>
+<p>ASF读者创建一个设置对象，然后从ASF文件头载入格式信息。但是修改文件头不会影响文件的内容。可以重新对文件编码来完成格式的修改。</p>
+</section>
+</section>
+<section id="id3">
+<h2>使用设置编辑器<a class="headerlink" href="#id3" title="Link to this heading">#</a></h2>
+<p>除了用Windows Media Format SDK之外，还可以用Windows Media Encoder 9 Series中包含的设置编辑器创建设置。在应用程序中使用IWMProfileManager::LoadProfileByData载入预定义的设置。但是，启用“视频大小：和输入相同”这个选项将设置视频的大小为0；Windows Media Encoder 9 Series可以识别并且处理这种情况，但是Windows Media Format SDK的写入对象不会自动处理，所以应用程序必须并且处理这种情况.</p>
+<p>下面是一个XML格式的配置</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">//</span> <span class="mi">73647561</span><span class="o">-</span><span class="mi">0000</span><span class="o">-</span><span class="mi">0010</span><span class="o">-</span><span class="mi">8000</span><span class="o">-</span><span class="mi">00</span><span class="n">AA00389B71</span> <span class="s1">&#39;&#39;</span><span class="n">auds</span><span class="s1">&#39;&#39;</span> <span class="o">==</span> <span class="n">WMMEDIATYPE_Audio</span>
+<span class="o">//</span> <span class="mi">00000001</span><span class="o">-</span><span class="mi">0000</span><span class="o">-</span><span class="mi">0010</span><span class="o">-</span><span class="mi">8000</span><span class="o">-</span><span class="mi">00</span><span class="n">AA00389B71</span> <span class="n">WMMEDIASUBTYPE_PCM</span>
+<span class="o">//</span> <span class="mi">73647561</span><span class="o">-</span><span class="mi">0000</span><span class="o">-</span><span class="mi">0010</span><span class="o">-</span><span class="mi">8000</span><span class="o">-</span><span class="mi">00</span><span class="n">AA00389B71</span> <span class="s1">&#39;&#39;</span><span class="n">auds</span><span class="s1">&#39;&#39;</span> <span class="o">==</span> <span class="n">WMMEDIATYPE_Audio</span>
+<span class="o">//</span> <span class="mi">56555949</span><span class="o">-</span><span class="mi">0000</span><span class="o">-</span><span class="mi">0010</span><span class="o">-</span><span class="mi">8000</span><span class="o">-</span><span class="mi">00</span><span class="n">AA00389B71</span> <span class="s1">&#39;&#39;</span><span class="n">YV12</span><span class="s1">&#39;&#39;</span> <span class="o">==</span> <span class="n">MEDIASUBTYPE_IYUV</span>
+<span class="o">//</span> <span class="mi">73636</span><span class="n">d64</span><span class="o">-</span><span class="mi">0000</span><span class="o">-</span><span class="mi">0010</span><span class="o">-</span><span class="mi">8000</span><span class="o">-</span><span class="mi">00</span><span class="n">AA00389B71</span> <span class="s1">&#39;&#39;</span><span class="n">scmd</span><span class="s1">&#39;&#39;</span> <span class="o">==</span> <span class="n">WMMEDIATYPE_Script</span>
+<span class="o">//</span> <span class="mi">82</span><span class="n">f38a70</span><span class="o">-</span><span class="n">c29f</span><span class="o">-</span><span class="mi">11</span><span class="n">d1</span><span class="o">-</span><span class="mi">97</span><span class="n">ad</span><span class="o">-</span><span class="mi">00</span><span class="n">a0c95ea850</span> <span class="n">WMSCRIPTTYPE_TwoStrings</span>
+</pre></div>
+</div>
+</section>
+<section id="media-sample">
+<h2>媒体采样(Media Sample)<a class="headerlink" href="#media-sample" title="Link to this heading">#</a></h2>
+<p>媒体采样，或者采样，是一块数字媒体数据。采样是Windows Media Format SDK可以读写的数据的最小单位。采样内容由采样相关的媒体类型指出。对于视频，每个采样表示一个桢，每个单独采样中包含的数据量由创建ASF时指定的设置设置。</p>
+<p>采样可以包含未压缩的数据，或者压缩过的数据，这时被称为流采样。创建ASF时，采样被传递给写入对象，写入对象使用相关的编码器压缩数据，并且写入ASF文件的数据段。播放时，读出对象读出压缩的数据，解压数据，并且提供未压缩格式的数据。</p>
+<p>采样被封装在Windows Media Format SDK的自动分配的缓冲区对象中。需要的时候，你也可以自己分配缓冲区对象，使用它的读写特性。
+这里的采样并非音频采样。通常，音频采样质量用每秒录制的采样数据数量表示，例如CD质量是44,100采样/秒，或者44.1 kHz。</p>
+</section>
+<section id="id4">
+<h2>输入，流和输出<a class="headerlink" href="#id4" title="Link to this heading">#</a></h2>
+<p>输入对象是你用于写入文件的任何数字媒体流，必须是可以支持的格式。支持很多标准RGB和YUV作为视频输入格式，PCM作为音频输入格式。如果编码器不支持某种输入格式，那么写入对象会初始化一个辅助对象，转换输入流到可以支持的格式，例如调整色深转换、缩放，调整声音质量、采样率和频道数目。某些情况下，压缩格式的食品和音频可用于输入。输入也可以是其他格式，例如文字，脚本命令，图像，或者任意文件数据。</p>
+<p>输出是读取对象传递给应用程序，提供用户体验的数据。一个输出等同于一个流。如果你使用互斥属性，那么所有互斥数据共享一个输出。</p>
+<p>一个流是一个ASF文件中包含的数据。一个流的生命期中只有一种压缩设置。一个简单的ASF具有两种流：视频和音频。更加复杂的ASF文件可以包含两路音频和多路视频。音频可以有同样的压缩设置，但是内容不同，例如不同语言的讲解；视频可以有同样的内容，但是具有不同的压缩比例。格式是在设置对象中指定的。</p>
+<p>某些输入可以是压缩过的，这时读取对象必须以流编号依次访问数据，而不是按输出顺序访问数据。</p>
+</section>
+<section id="id5">
+<h2>编号<a class="headerlink" href="#id5" title="Link to this heading">#</a></h2>
+<p>流具有从1开始的编号，这是在设置中指定的。同时，流具有一个索引以在设置中枚举流。这两个数字并不相关，例如输入1并不一定是编号为1的流，编号为1的流并不一定是输入1，等等。</p>
+</section>
+<section id="id6">
+<h2>格式<a class="headerlink" href="#id6" title="Link to this heading">#</a></h2>
+<p>每种媒体类型的全部信息。每个格式有一个主类型，例如音频或视频，并且可能有一个子类型。格式包含依赖于主类型的不同信息。视频和音频格式比其他格式需要更多信息。</p>
+</section>
+<section id="id7">
+<h2>输入格式<a class="headerlink" href="#id7" title="Link to this heading">#</a></h2>
+<p>描述你传递给写入对象的数字媒体类型。如果ASF文件中的流是用编码器压缩，那么编码器只支持某些输入格式。使用Windows Media 音频和视频编码器时，可以使用写入对象枚举支持的输入格式。写到文件时，你有责任选择一个匹配输入媒体的输入格式。
+某些格式不必匹配编码器指明的输入格式，编码器可以自行转换数据到需要的格式。</p>
+</section>
+<section id="id8">
+<h2>流格式<a class="headerlink" href="#id8" title="Link to this heading">#</a></h2>
+<p>ASF文件中的数据保存形式。在设置中描述，可以符合或不符合输入、输出格式（例如使用了某种编码/解码器）。可能必须获得编码/解码器信息之后，才可以设置流格式。</p>
+</section>
+<section id="id9">
+<h2>输出格式<a class="headerlink" href="#id9" title="Link to this heading">#</a></h2>
+<p>描述你传递给读出对象的数字媒体类型。如果ASF文件中的流是用编码器压缩，那么编码器只支持某些输出格式。使用Windows Media 音频和视频编码器时，可以使用读出对象枚举支持的输出格式。读出文件时，你有责任选择一个匹配输出媒体的输出格式。
+某些格式不必匹配编码器指明的输出格式，编码器可以自行转换数据到需要的格式。</p>
+</section>
+<section id="bit-rate">
+<h2>比特率(Bit Rate)<a class="headerlink" href="#bit-rate" title="Link to this heading">#</a></h2>
+<p>每秒传递给ASF的数据的数量，以位/秒(bps)或者千位/秒(kbps)为单位。经常与带宽混淆，带宽也以bps或者kbps为单位。</p>
+<p>如果用户的带宽小于ASF的比特率,那么播放可能中断。通常，带宽不足会导致跳过某些采样，或者更多的数据缓冲时间。</p>
+<p>每个ASF文件创建时被指定一个比特率，它基于文件中流的数量。不同的流可以有不同的比特率。比特率可以是常数（压缩的数据可以以基本同样的速度被传输）或者可变（保留压缩的数据质量，即使可能造成突发数据溢出）。</p>
+<p>同一个内容可以被压缩成多个比特率不同的流，然后你可以配置他们为互斥的。这个属性叫多比特率(multiple bit rate), 或者MBR.</p>
+</section>
+<section id="id10">
+<h2>元数据<a class="headerlink" href="#id10" title="Link to this heading">#</a></h2>
+<p>描述ASF文件或者文件内容的信息，位于文件头。元数据的项称为属性。每一个属性由名字和值组成。全局常数用于标识属性，例如ASF文件的标题被保存在g_wszWMTitle 属性中。在Windows Media Format SDK 中定义了最常用的内建属性，但是你也可以定义自己的属性。由于其他开发者可能和你是用同样的名字，所以可能造成冲突。</p>
+<p>一些全局属性可以被修改，例如g_wszWMSeekable属性（文档是否可以从任意点被读取）。</p>
+<p>一些属性纯粹用于信息用途，并且必须被设置，例如g_wszWMAuthor属性（作者）属性可以被应用到整个文件或者单独的流。</p>
+<p>你可以用Windows Media Format SDK编辑MP3文件的元数据，但是必须使用ID3-compliant属性保留与其他MP3应用程序的兼容性。</p>
+</section>
+<section id="id11">
+<h2>媒体时间<a class="headerlink" href="#id11" title="Link to this heading">#</a></h2>
+<p>自第一个采样开始的时间计量方式，单位和SDK其他时间的单位一样，是100纳秒。它使得文件中不同的流可以被同步。你写入的每一个采样都必须有媒体时间。ASF文件数据段中每一个数据对象都有媒体时间。每一个输出的数据也都有媒体时间。</p>
+</section>
+<section id="id12">
+<h2>缓冲<a class="headerlink" href="#id12" title="Link to this heading">#</a></h2>
+<p>读取对象打开流文件时从文件头的信息决定缓冲区大小。实际比特率是变化的，但是平均值应该是设置中指定的值。</p>
+<p>缓冲窗口是以可以缓冲的数据时间长度来衡量的。例如，32Kbps的流，3秒的缓冲窗口，意味着缓冲区大小为 12,000字节(32000*3/8)。解码器限制了这个数值，所以缓冲窗口的平均比特率不大于流的比特率。</p>
+<p>通常在设置中指定这个值，写入对象处理剩下的部分。写入压缩数据到流时，必须自己确定写入的速度不会超出这个值</p>
+</section>
+<section id="id13">
+<h2>ASF文件中的段<a class="headerlink" href="#id13" title="Link to this heading">#</a></h2>
+<p>一个ASF文件中的段以对象的方式组织起来。一共有三种顶层对象，必须有的头对象(Head),数据对象(Data)，以及可选的索引对象(Index)。</p>
+<p>每个对象都以全球唯一标志(GUID)和大小开始。这些数字使得文件读者可以解析这些信息，并且载入到相应的对象。因为这些GUID，底层的对象可以以任何顺序排列，并且仍然可以被识别。这使得一个不完整的ASF文件仍然可被正确读取，只要有一个完整的文件头和至少一个数据对象。某些对象，例如流属性对象，可能有多个示例。</p>
+<p>头对象包含文件的描述信息，同时是唯一的顶层对象容器。</p>
+<p>数据对象以包的格式存储流数据。数据对象还具有文件ID和包总个数属性，但是对于流格式，包总个数属性没有意义。</p>
+<p>每一个数据包包含发送时间和持续时间。这使得读者可以发现流传输的中断。</p>
+<p>数据包的数据被封装到载荷(payloads)中。一个载荷可以包含一个或者多个媒体对象（media objects），媒体对象的一个例子是视频流的一个桢。大的媒体对象，例如视频流的一个关键桢，可能被扩展到多个载荷，甚至多个包。为了跟踪对象的片断，每个对象的段具有从0到255的编号。</p>
+<p>除了数据之外，载荷也具有以毫秒为单位的时间戳。</p>
+<p>所有的包具有头对象中指定的统一的大小。当一个包包含的数据少于指定大小时，用数据（”padding” data ）填充不足部分。</p>
+<p>索引对象包含时间《-》关键桢的配对，以更有效地在文件中定位。因为它处于文件末尾，实时媒体不能访问这个对象。</p>
+</section>
+</section>
+
+<div class="section ablog__blog_comments">
+     
+<div class="section ablog__prev-next">
+  <span class="ablog__prev">
+     
+    <a href="../2002/display_bmp_gif_jpg_ico_emf_wmf_picture_using_ole_ipicture.html">
+      
+      <i class="fa fa-arrow-circle-left"></i>
+      
+      <span>使用IPicture的OLE实现读取和显示BMP,GIF,JPG,ICO,EMF,WMF图像</span>
+    </a>
+    
+  </span>
+  <span class="ablog__spacer">&nbsp;</span>
+  <span class="ablog__next">
+     
+    <a href="asf_study_notes_part_2.html">
+      <span>ASF学习笔记 Part 2</span>
+      
+      <i class="fa fa-arrow-circle-right"></i>
+      
+    </a>
+    
+  </span>
+</div>
+  
+</div>
+
+                </article>
+              
+              
+              
+                <footer class="bd-footer-article">
+                  <div class="footer-article-items footer-article__inner">
+  
+    <div class="footer-article-item"><script src="https://utteranc.es/client.js"
+        repo="jiangsheng/jiangsheng.github.io"
+        branch="master"
+        issue-term="pathname"
+        label="UtteranceComments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async=async">
+</script></div>
+  
+</div>
+                </footer>
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="index.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">2003 Blogs</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="asf_study_notes_part_2.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">ASF学习笔记 Part 2</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+<div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> On this page
+  </div>
+  <nav class="bd-toc-nav page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#profile">设置(Profile)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">流信息</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">设置对象</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#xml">XML文件</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#asf">ASF文件头</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">使用设置编辑器</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#media-sample">媒体采样(Media Sample)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">输入，流和输出</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">编号</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">格式</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id7">输入格式</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id8">流格式</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id9">输出格式</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#bit-rate">比特率(Bit Rate)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id10">元数据</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id11">媒体时间</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id12">缓冲</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id13">ASF文件中的段</a></li>
+</ul>
+  </nav></div>
+
+  <div class="sidebar-secondary-item">
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="../../_sources/blogs/2003/asf_study_notes_part_1.rst.txt"
+           rel="nofollow">Show Source</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/blogs\2003\asf_study_notes_part_1.rst"
+           rel="nofollow">Show on GitHub</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/blogs\2003\asf_study_notes_part_1.rst"
+           rel="nofollow">Edit on GitHub</a></li>
+  </ul>
+  <h3>Social Media Links</h3>
+  <ul>
+    <li>twitter (archived): #jiangsheng </li>
+    <li>bluesky: <a href="https://bsky.app/profile/sheng-jiang.bsky.social"> sheng-jiang.bsky.social</a></li>
+    <li>stackoverflow: <a href="https://stackoverflow.com/users/109919/sheng-jiang-%e8%92%8b%e6%99%9f">Sheng Jiang 蒋晟</a></li>
+  </ul>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3710396369816898"
+     crossorigin="anonymous"></script>
+<!-- Right Sidebar -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3710396369816898"
+     data-ad-slot="1564519607"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script defer src="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item">
+
+  <p class="copyright">
+    
+      © Copyright 2018-, Sheng Jiang.
+      <br/>
+    
+  </p>
+</div>
+      
+        <div class="footer-item">
+
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 8.2.3.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item">
+<p class="theme-version">
+  <!-- # L10n: Setting the PST URL as an argument as this does not need to be localized -->
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.16.1.
+</p></div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>
