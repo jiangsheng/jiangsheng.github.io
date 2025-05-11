@@ -1,14 +1,15 @@
 .. _add_scripting_support_to_webbrowser_control:
 
 Sample: IEAutomation to Adding Macro Support to Webbrowser Host Applications
-==========================================================================================
+============================================================================================================
+
 .. post:: 23, Oct, 2003
    :tags: WebBrowser Control, CHtmlView, Scripting, VBA
    :category: Microsoft Foundation Classes
    :author: jiangshengvc
    :nocomments:
    
-​
+
 这个教程提供在浏览器程序中添加宏支持的方法，你会看到如何给MFC的程序添加宏支持。这篇文章也讨论了如何扩展VC6中的CHtmlView的功能，如何实现MDI结构的浏览器，以及如何分析DHTML的文档结构。
 
 单击 https://github.com/jiangsheng/Samples/tree/master/IEAutomation 下载本文的代码

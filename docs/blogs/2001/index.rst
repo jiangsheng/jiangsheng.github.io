@@ -1,7 +1,7 @@
-.. _blogs_2003:
+.. _blogs_2001:
 
 ======================================
-2003 Blogs
+2001 Blogs
 ======================================
 
 .. toctree::
@@ -9,11 +9,11 @@
    :caption: 内容:
    :titlesonly:
 
-   asf_study_notes_part_1
-   asf_study_notes_part_2
-   exhausted_writing
-   add_scripting_support_to_webbrowser_control
-   disable_control_alt_delete_windows_2000
+   display_html_form_in_dialog
+   get_rid_of_try_catch_in_command_message_handlers
+   handle_command_message_in_separate_class
+   create_menu_from_folder
+
    
 Indices and tables
 

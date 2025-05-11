@@ -7,6 +7,7 @@
    :author: jiangshengvc
    :nocomments:
    
+.. _editor_notes_for_webbrowser_control_host_scripting:
 
 最近一篇文章(:ref:`浏览器集成教学--在浏览器程序中添加宏支持 <add_scripting_support_to_webbrowser_control>`)长长短短，写了两个礼拜吧。
 

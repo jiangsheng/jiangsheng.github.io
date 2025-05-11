@@ -29,8 +29,10 @@ Blogs
     2007<2007/index>
     2006<2006/index>
     2005<2005/index>
+    2004<2004/index>
     2003<2003/index>
     2002<2002/index>
+    2001<2001/index>
     
 Blogs are grouped by year. If you are looking for a specific blog you might find the location in indices.
 
