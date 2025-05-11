@@ -1,0 +1,785 @@
+
+<!DOCTYPE html>
+
+
+<html lang="zh-CN" data-content_root="../../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>使用虚列表和自画实现文件夹的缩略图显示 &#8212; jiangsheng&#39;s docs</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-design.min.css?v=95c83b7e" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css?v=cda70fc7" />
+  
+  <!-- So that users can add custom icons -->
+  <script src="../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+
+    <script src="../../_static/documentation_options.js?v=aec57771"></script>
+    <script src="../../_static/doctools.js?v=9bcbadda"></script>
+    <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script async="async" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3710396369816898"></script>
+    <script src="../../_static/design-tabs.js?v=f930bc37"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'blogs/2003/thumbnail_folder_view_using_list_control';</script>
+    <script src="../../_static/js/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <link rel="canonical" href="https://jiangsheng.net/build/html/blogs/2003/thumbnail_folder_view_using_list_control.html" />
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" /> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="zh-CN"/>
+  <meta name="docsearch:version" content="" />   
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-3 navbar-header-items__start">
+    
+      <div class="navbar-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../../reference.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">jiangsheng's docs</p>
+  
+</a></div>
+    
+  </div>
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../games/index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+        
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar hide-on-wide">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          
+          
+            <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../games/index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+          
+        
+      </div>
+    
+    
+    
+  </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item"><nav class="sidebar-indices-items" aria-labelledby="pst-indices-navigation-heading-2">
+  <p id="pst-indices-navigation-heading-2" class="sidebar-indices-items__title" role="heading" aria-level="1">Indices</p>
+  <ul class="indices-link">
+        <li class="toctree-l1">
+          <a class="reference internal"
+             href="../../genindex.html"
+             accesskey="I">General Index</a>
+        </li>
+  </ul>
+</nav></div>
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="../../reference.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">使用虚列表和自画实现文件夹的缩略图显示</span></li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                   <section id="id1">
+<h1>使用虚列表和自画实现文件夹的缩略图显示<a class="headerlink" href="#id1" title="Link to this heading">#</a></h1>
+<p>本示例演示了列表控件的虚列表和自画功能，也演示了一些系统外壳的函数和接口的使用方法。</p>
+<p>单击 <a class="github reference external" href="https://github.com/jiangsheng/Samples/tree/master/picview">jiangsheng/Samples</a> 下载本文的代码。如果在编译示例程序的时候出现问题，你需要去http://www.microsoft.com/msdownload/platformsdk/sdkupdate/ 升级你的头文件和库文件</p>
+<section id="id2">
+<h2>预备性阅读<a class="headerlink" href="#id2" title="Link to this heading">#</a></h2>
+<p>在阅读本文之前，建议先对列表视图控件和系统外壳有一个基本的了解。建议阅读以下SDK文章</p>
+<ul class="simple">
+<li><p>Shell FAQ</p></li>
+<li><p>List-View Controls Overview</p></li>
+<li><p>Using List-View Controls</p></li>
+<li><p>Customizing a Control’s Appearance Using Custom Draw</p></li>
+</ul>
+</section>
+<section id="id3">
+<h2>创建应用程序<a class="headerlink" href="#id3" title="Link to this heading">#</a></h2>
+<p>使用MFC应用程序向导创建一个SDI应用程序，在最后一步选择视图的基类为CListView。创建完成之后，在资源中去掉保存、编辑和打印等功能的菜单和工具栏按钮（因为这些功能没有实现）。</p>
+</section>
+<section id="id4">
+<h2>虚列表的创建<a class="headerlink" href="#id4" title="Link to this heading">#</a></h2>
+<p>本文采用虚列表技术，使得显示信息是在第一次显示的时候才被获取。为了创建虚列表，在创建之前需要指定列表的风格</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="n">BOOL</span><span class="w"> </span><span class="nf">CPicViewView::PreCreateWindow</span><span class="p">(</span><span class="n">CREATESTRUCT</span><span class="o">&amp;</span><span class="w"> </span><span class="n">cs</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">cs</span><span class="p">.</span><span class="n">style</span><span class="o">&amp;=~</span><span class="n">LVS_TYPEMASK</span><span class="p">;</span>
+<span class="w">    </span><span class="n">cs</span><span class="p">.</span><span class="n">style</span><span class="o">|=</span><span class="n">LVS_ICON</span><span class="o">|</span><span class="n">LVS_OWNERDATA</span><span class="p">;</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">CListView</span><span class="o">::</span><span class="n">PreCreateWindow</span><span class="p">(</span><span class="n">cs</span><span class="p">);</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>同时，因为列表项的Overlay图标也是被动态获取的，所以需要设置动态Overlay图标</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="kt">void</span><span class="w"> </span><span class="nf">CPicViewView::OnInitialUpdate</span><span class="p">()</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">CListView</span><span class="o">::</span><span class="n">OnInitialUpdate</span><span class="p">();</span>
+<span class="w">    </span><span class="n">GetListCtrl</span><span class="p">().</span><span class="n">SetCallbackMask</span><span class="p">(</span><span class="n">LVIS_OVERLAYMASK</span><span class="p">);</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+</section>
+<section id="id5">
+<h2>缓存显示信息<a class="headerlink" href="#id5" title="Link to this heading">#</a></h2>
+<p>在列表需要显示一个范围的项目之前，列表会发送LVN_ODCACHEHINT通知，应用程序可以捕获这个消息来缓存部分列表的显示信息，以提高性能。</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="kt">void</span><span class="w"> </span><span class="nf">CPicViewView::OnOdcachehint</span><span class="p">(</span><span class="n">NMHDR</span><span class="o">*</span><span class="w"> </span><span class="n">pNMHDR</span><span class="p">,</span><span class="w"> </span><span class="n">LRESULT</span><span class="o">*</span><span class="w"> </span><span class="n">pResult</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">NMLVCACHEHINT</span><span class="o">*</span><span class="w"> </span><span class="n">pCacheHint</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="n">NMLVCACHEHINT</span><span class="o">*</span><span class="p">)</span><span class="n">pNMHDR</span><span class="p">;</span>
+<span class="w">    </span><span class="n">PrepCache</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="n">min</span><span class="p">(</span><span class="mi">5</span><span class="p">,</span><span class="n">m_arpFolderItems</span><span class="p">.</span><span class="n">GetSize</span><span class="p">()));</span>
+<span class="w">    </span><span class="n">PrepCache</span><span class="p">(</span><span class="n">pCacheHint</span><span class="o">-&gt;</span><span class="n">iFrom</span><span class="p">,</span><span class="n">pCacheHint</span><span class="o">-&gt;</span><span class="n">iTo</span><span class="p">);</span>
+<span class="w">    </span><span class="n">PrepCache</span><span class="p">(</span><span class="n">max</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="n">m_arpFolderItems</span><span class="p">.</span><span class="n">GetSize</span><span class="p">()</span><span class="mi">-5</span><span class="p">),</span><span class="n">m_arpFolderItems</span><span class="p">.</span><span class="n">GetSize</span><span class="p">());</span>
+<span class="w">    </span><span class="o">*</span><span class="n">pResult</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>在列表需要显示一个项目之前，列表会发送LVN_GETDISPINFO通知，应用程序可以捕获这个消息来提供项目的显示信息。如果显示时需要显示的列表项在缓存中，那么可以从缓存中获取显示信息。否则需要重新从文件获得。</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="kt">void</span><span class="w"> </span><span class="nf">CPicViewView::OnGetdispinfo</span><span class="p">(</span><span class="n">NMHDR</span><span class="o">*</span><span class="w"> </span><span class="n">pNMHDR</span><span class="p">,</span><span class="w"> </span><span class="n">LRESULT</span><span class="o">*</span><span class="w"> </span><span class="n">pResult</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">LV_DISPINFO</span><span class="o">*</span><span class="w"> </span><span class="n">pDispInfo</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="n">LV_DISPINFO</span><span class="o">*</span><span class="p">)</span><span class="n">pNMHDR</span><span class="p">;</span>
+<span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">pDispInfo</span><span class="o">-&gt;</span><span class="n">item</span><span class="p">.</span><span class="n">iItem</span><span class="o">==</span><span class="mi">-1</span><span class="p">)</span><span class="k">return</span><span class="p">;</span>
+<span class="w">    </span><span class="n">HRESULT</span><span class="w"> </span><span class="n">hr</span><span class="o">=</span><span class="n">S_OK</span><span class="p">;</span>
+<span class="w">    </span><span class="n">LPCITEMIDLIST</span><span class="w"> </span><span class="n">pidlItem</span><span class="o">=</span><span class="n">m_arpFolderItems</span><span class="p">[</span><span class="n">pDispInfo</span><span class="o">-&gt;</span><span class="n">item</span><span class="p">.</span><span class="n">iItem</span><span class="p">];</span>
+<span class="w">    </span><span class="n">CFolderItemInfo</span><span class="o">*</span><span class="w"> </span><span class="n">pFolderItemInfo</span><span class="o">=</span><span class="n">FindItemInCache</span><span class="p">(</span><span class="n">pidlItem</span><span class="p">);</span>
+<span class="w">    </span><span class="n">BOOL</span><span class="w"> </span><span class="n">bCached</span><span class="o">=</span><span class="n">TRUE</span><span class="p">;</span>
+<span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">pFolderItemInfo</span><span class="o">==</span><span class="nb">NULL</span><span class="p">){</span>
+<span class="w">        </span><span class="n">bCached</span><span class="o">=</span><span class="n">FALSE</span><span class="p">;</span>
+<span class="w">        </span><span class="n">pFolderItemInfo</span><span class="o">=</span><span class="k">new</span><span class="w"> </span><span class="n">CFolderItemInfo</span><span class="p">;</span>
+<span class="w">        </span><span class="n">GetItemInfo</span><span class="p">(</span><span class="n">pidlItem</span><span class="p">,</span><span class="n">pFolderItemInfo</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">pDispInfo</span><span class="o">-&gt;</span><span class="n">item</span><span class="p">.</span><span class="n">mask</span><span class="o">&amp;</span><span class="n">LVIF_TEXT</span><span class="p">){</span>
+<span class="w">        </span><span class="n">lstrcpyn</span><span class="p">(</span><span class="n">pDispInfo</span><span class="o">-&gt;</span><span class="n">item</span><span class="p">.</span><span class="n">pszText</span><span class="p">,</span><span class="n">pFolderItemInfo</span><span class="o">-&gt;</span><span class="n">tszDisplayName</span><span class="p">,</span><span class="n">pDispInfo</span><span class="o">-</span><span class="w">   </span><span class="o">&gt;</span><span class="n">item</span><span class="p">.</span><span class="n">cchTextMax</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">pDispInfo</span><span class="o">-&gt;</span><span class="n">item</span><span class="p">.</span><span class="n">mask</span><span class="o">&amp;</span><span class="n">LVIF_IMAGE</span><span class="p">){</span>
+<span class="w">        </span><span class="n">pDispInfo</span><span class="o">-&gt;</span><span class="n">item</span><span class="p">.</span><span class="n">iImage</span><span class="o">=</span><span class="n">pFolderItemInfo</span><span class="o">-&gt;</span><span class="n">iIcon</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">pDispInfo</span><span class="o">-&gt;</span><span class="n">item</span><span class="p">.</span><span class="n">mask</span><span class="o">&amp;</span><span class="n">LVIF_STATE</span><span class="p">){</span>
+<span class="w">        </span><span class="n">pDispInfo</span><span class="o">-&gt;</span><span class="n">item</span><span class="p">.</span><span class="n">state</span><span class="o">=</span><span class="n">pFolderItemInfo</span><span class="o">-&gt;</span><span class="n">state</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="n">bCached</span><span class="p">)</span>
+<span class="w">        </span><span class="k">delete</span><span class="w"> </span><span class="n">pFolderItemInfo</span><span class="p">;</span>
+<span class="w">    </span><span class="o">*</span><span class="n">pResult</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+</section>
+<section id="id6">
+<h2>文件图标的显示<a class="headerlink" href="#id6" title="Link to this heading">#</a></h2>
+<p>默认情况下，列表项的图标就是其系统图标。首先获得系统图像列表</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="kt">int</span><span class="w"> </span><span class="nf">CPicViewView::OnCreate</span><span class="p">(</span><span class="n">LPCREATESTRUCT</span><span class="w"> </span><span class="n">lpCreateStruct</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">CListView</span><span class="o">::</span><span class="n">OnCreate</span><span class="p">(</span><span class="n">lpCreateStruct</span><span class="p">)</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="mi">-1</span><span class="p">)</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="mi">-1</span><span class="p">;</span>
+<span class="w">    </span><span class="n">HRESULT</span><span class="w"> </span><span class="n">hr</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">SHGetMalloc</span><span class="p">(</span><span class="o">&amp;</span><span class="n">m_pMalloc</span><span class="p">);</span><span class="w"> </span><span class="k">if</span><span class="p">(</span><span class="n">FAILED</span><span class="p">(</span><span class="n">hr</span><span class="p">))</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="mi">-1</span><span class="p">;</span>
+<span class="w">    </span><span class="n">hr</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">SHGetDesktopFolder</span><span class="p">(</span><span class="o">&amp;</span><span class="n">m_psfDesktop</span><span class="p">);</span><span class="k">if</span><span class="p">(</span><span class="n">FAILED</span><span class="p">(</span><span class="n">hr</span><span class="p">))</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="mi">-1</span><span class="p">;</span>
+<span class="w">    </span><span class="n">SHFILEINFO</span><span class="w"> </span><span class="n">shfi</span><span class="p">;</span>
+<span class="w">    </span><span class="n">ZeroMemory</span><span class="p">(</span><span class="o">&amp;</span><span class="n">shfi</span><span class="p">,</span><span class="k">sizeof</span><span class="p">(</span><span class="n">SHFILEINFO</span><span class="p">));</span>
+<span class="w">    </span><span class="n">HIMAGELIST</span><span class="w"> </span><span class="n">hi</span><span class="o">=</span><span class="p">(</span><span class="n">HIMAGELIST</span><span class="p">)</span><span class="n">SHGetFileInfo</span><span class="p">(</span><span class="nb">NULL</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="o">&amp;</span><span class="n">shfi</span><span class="p">,</span><span class="k">sizeof</span><span class="p">(</span><span class="n">SHFILEINFO</span><span class="p">),</span><span class="n">SHGFI_ICON</span><span class="w"> </span><span class="o">|</span><span class="n">SHGFI_SYSICONINDEX</span><span class="o">|</span><span class="n">SHGFI_SMALLICON</span><span class="p">);</span>
+<span class="w">    </span><span class="n">GetListCtrl</span><span class="p">().</span><span class="n">SetImageList</span><span class="p">(</span><span class="n">CImageList</span><span class="o">::</span><span class="n">FromHandle</span><span class="p">(</span><span class="n">hi</span><span class="p">),</span><span class="n">LVSIL_SMALL</span><span class="p">);</span>
+<span class="w">    </span><span class="n">hi</span><span class="o">=</span><span class="p">(</span><span class="n">HIMAGELIST</span><span class="p">)</span><span class="n">SHGetFileInfo</span><span class="p">(</span><span class="nb">NULL</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="o">&amp;</span><span class="n">shfi</span><span class="p">,</span><span class="k">sizeof</span><span class="p">(</span><span class="n">SHFILEINFO</span><span class="p">),</span><span class="n">SHGFI_ICON</span><span class="w"> </span><span class="o">|</span><span class="n">SHGFI_SYSICONINDEX</span><span class="o">|</span><span class="n">SHGFI_LARGEICON</span><span class="p">);</span>
+<span class="w">    </span><span class="n">GetListCtrl</span><span class="p">().</span><span class="n">SetImageList</span><span class="p">(</span><span class="n">CImageList</span><span class="o">::</span><span class="n">FromHandle</span><span class="p">(</span><span class="n">hi</span><span class="p">),</span><span class="n">LVSIL_NORMAL</span><span class="p">);</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>然后在获取文件信息时，从文件获得其图标在系统图像列表中的索引。</p>
+<p>如果列表项是图像文件，并且从文件成功载入图像，那么使用自画功能以替换默认的图标。</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="kt">void</span><span class="w"> </span><span class="nf">CPicViewView::OnCustomDraw</span><span class="p">(</span><span class="n">NMHDR</span><span class="o">*</span><span class="w"> </span><span class="n">pNMHDR</span><span class="p">,</span><span class="w"> </span><span class="n">LRESULT</span><span class="o">*</span><span class="w"> </span><span class="n">pResult</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">LPNMLVCUSTOMDRAW</span><span class="w"> </span><span class="n">lpNMCustomDraw</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="n">LPNMLVCUSTOMDRAW</span><span class="p">)</span><span class="w"> </span><span class="n">pNMHDR</span><span class="p">;</span>
+<span class="w">    </span><span class="k">switch</span><span class="p">(</span><span class="n">lpNMCustomDraw</span><span class="w"> </span><span class="o">-&gt;</span><span class="n">nmcd</span><span class="p">.</span><span class="n">dwDrawStage</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">case</span><span class="w"> </span><span class="no">CDDS_PREPAINT</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="o">*</span><span class="n">pResult</span><span class="o">=</span><span class="n">CDRF_NOTIFYITEMDRAW</span><span class="p">;</span><span class="k">return</span><span class="p">;</span>
+<span class="w">        </span><span class="k">case</span><span class="w"> </span><span class="no">CDDS_ITEMPREPAINT</span><span class="p">:</span><span class="o">*</span><span class="n">pResult</span><span class="o">=</span><span class="n">CDRF_NOTIFYPOSTPAINT</span><span class="p">;</span><span class="k">return</span><span class="p">;</span>
+<span class="w">        </span><span class="k">case</span><span class="w"> </span><span class="no">CDDS_ITEMPOSTPAINT</span><span class="p">:</span>
+<span class="w">        </span><span class="p">{</span>
+<span class="w">            </span><span class="kt">int</span><span class="w"> </span><span class="n">iItem</span><span class="o">=</span><span class="n">lpNMCustomDraw</span><span class="w"> </span><span class="o">-&gt;</span><span class="n">nmcd</span><span class="p">.</span><span class="n">dwItemSpec</span><span class="p">;</span>
+<span class="w">            </span><span class="k">if</span><span class="p">(</span><span class="n">iItem</span><span class="o">==</span><span class="mi">-1</span><span class="p">){</span>
+<span class="w">                </span><span class="o">*</span><span class="n">pResult</span><span class="o">=</span><span class="n">CDRF_DODEFAULT</span><span class="p">;</span><span class="k">return</span><span class="p">;</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">            </span><span class="n">CFolderItemInfo</span><span class="o">*</span><span class="w"> </span><span class="n">pItemInfo</span><span class="o">=</span><span class="n">FindItemInCache</span><span class="p">(</span><span class="n">m_arpFolderItems</span><span class="p">[</span><span class="n">iItem</span><span class="p">]);</span>
+<span class="w">            </span><span class="k">if</span><span class="p">(</span><span class="n">pItemInfo</span><span class="o">==</span><span class="nb">NULL</span><span class="o">||</span><span class="n">pItemInfo</span><span class="o">-&gt;</span><span class="n">bFailLoadPic</span><span class="o">||</span><span class="n">pItemInfo</span><span class="o">-&gt;</span><span class="n">pic</span><span class="p">.</span><span class="n">m_pPict</span><span class="o">==</span><span class="nb">NULL</span><span class="p">){</span>
+<span class="w">                </span><span class="o">*</span><span class="n">pResult</span><span class="o">=</span><span class="n">CDRF_DODEFAULT</span><span class="p">;</span><span class="k">return</span><span class="p">;</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">            </span><span class="n">CRect</span><span class="w"> </span><span class="n">rectIcon</span><span class="p">;</span>
+<span class="w">            </span><span class="n">GetListCtrl</span><span class="p">().</span><span class="n">GetItemRect</span><span class="p">(</span><span class="n">iItem</span><span class="p">,</span><span class="o">&amp;</span><span class="n">rectIcon</span><span class="p">,</span><span class="n">LVIR_ICON</span><span class="p">);</span>
+<span class="w">            </span><span class="n">CDC</span><span class="o">*</span><span class="w"> </span><span class="n">pDC</span><span class="o">=</span><span class="n">CDC</span><span class="o">::</span><span class="n">FromHandle</span><span class="p">(</span><span class="n">lpNMCustomDraw</span><span class="o">-&gt;</span><span class="n">nmcd</span><span class="p">.</span><span class="n">hdc</span><span class="p">);</span>
+<span class="w">            </span><span class="n">pItemInfo</span><span class="o">-&gt;</span><span class="n">pic</span><span class="p">.</span><span class="n">Render</span><span class="p">(</span><span class="n">pDC</span><span class="p">,</span><span class="n">rectIcon</span><span class="p">,</span><span class="n">rectIcon</span><span class="p">);</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">        </span><span class="o">*</span><span class="n">pResult</span><span class="o">=</span><span class="n">CDRF_NEWFONT</span><span class="p">;</span><span class="k">return</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="o">*</span><span class="w"> </span><span class="n">pResult</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>上面的代码是使用获取的文件显示信息中的图像，在列表项图标的区域画图。</p>
+</section>
+<section id="id7">
+<h2>获取显示信息<a class="headerlink" href="#id7" title="Link to this heading">#</a></h2>
+<p>为了缓存列表项的显示信息，或者显示列表项，需要获取列表项的文字、图标、Overlay图标和缩略图等信息。这里使用了ILCombine来把缓存中的相对PIDL转化为完整的Pidl,再据此获得文件的完整路径，然后调用OleLoadPicturePath函数载入图像。</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="kt">void</span><span class="w"> </span><span class="nf">CPicViewView::GetItemInfo</span><span class="p">(</span><span class="n">LPCITEMIDLIST</span><span class="w"> </span><span class="n">pidl</span><span class="p">,</span><span class="n">CFolderItemInfo</span><span class="o">*</span><span class="w"> </span><span class="n">pItemInfo</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">HRESULT</span><span class="w"> </span><span class="n">hr</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">theApp</span><span class="p">.</span><span class="n">SHGetDisplayNameOf</span><span class="p">(</span><span class="n">pidl</span><span class="p">,</span><span class="n">pItemInfo</span><span class="o">-&gt;</span><span class="n">tszDisplayName</span><span class="p">);</span>
+<span class="w">    </span><span class="n">IShellIcon</span><span class="o">*</span><span class="w"> </span><span class="n">pShellIcon</span><span class="o">=</span><span class="nb">NULL</span><span class="p">;</span>
+<span class="w">    </span><span class="n">hr</span><span class="o">=</span><span class="n">m_psfFolder</span><span class="o">-&gt;</span><span class="n">QueryInterface</span><span class="p">(</span><span class="n">IID_IShellIcon</span><span class="p">,(</span><span class="n">LPVOID</span><span class="o">*</span><span class="p">)</span><span class="o">&amp;</span><span class="n">pShellIcon</span><span class="p">);</span>
+<span class="w">    </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">SUCCEEDED</span><span class="p">(</span><span class="n">hr</span><span class="p">)</span><span class="o">&amp;&amp;</span><span class="n">pShellIcon</span><span class="p">){</span>
+<span class="w">        </span><span class="n">pShellIcon</span><span class="o">-&gt;</span><span class="n">GetIconOf</span><span class="p">(</span><span class="n">pidl</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="o">&amp;</span><span class="n">pItemInfo</span><span class="o">-&gt;</span><span class="n">iIcon</span><span class="p">);</span>
+<span class="w">        </span><span class="n">pShellIcon</span><span class="o">-&gt;</span><span class="n">Release</span><span class="p">();</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="n">IShellIconOverlay</span><span class="o">*</span><span class="w"> </span><span class="n">pShellIconOverlay</span><span class="w"> </span><span class="o">=</span><span class="nb">NULL</span><span class="p">;</span>
+<span class="w">    </span><span class="n">hr</span><span class="o">=</span><span class="n">m_psfFolder</span><span class="o">-&gt;</span><span class="n">QueryInterface</span><span class="p">(</span><span class="n">IID_IShellIconOverlay</span><span class="p">,(</span><span class="n">LPVOID</span><span class="o">*</span><span class="p">)</span><span class="o">&amp;</span><span class="n">pShellIconOverlay</span><span class="p">);</span>
+<span class="w">    </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">SUCCEEDED</span><span class="p">(</span><span class="n">hr</span><span class="p">)</span><span class="o">&amp;&amp;</span><span class="n">pShellIconOverlay</span><span class="p">){</span>
+<span class="w">        </span><span class="kt">int</span><span class="w"> </span><span class="n">nOverlay</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span>
+<span class="w">        </span><span class="n">pShellIconOverlay</span><span class="o">-&gt;</span><span class="n">GetOverlayIndex</span><span class="p">(</span><span class="n">pidl</span><span class="p">,</span><span class="o">&amp;</span><span class="n">nOverlay</span><span class="p">);</span>
+<span class="w">        </span><span class="n">pItemInfo</span><span class="o">-&gt;</span><span class="n">state</span><span class="o">=</span><span class="n">INDEXTOOVERLAYMASK</span><span class="w"> </span><span class="p">(</span><span class="n">nOverlay</span><span class="p">);</span>
+<span class="w">        </span><span class="n">pShellIconOverlay</span><span class="o">-&gt;</span><span class="n">Release</span><span class="p">();</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="n">LPITEMIDLIST</span><span class="w"> </span><span class="n">pidlItemFull</span><span class="o">=</span><span class="n">ILCombine</span><span class="p">(</span><span class="n">m_pidlFolder</span><span class="p">,</span><span class="n">pidl</span><span class="p">);</span>
+<span class="w">        </span><span class="k">if</span><span class="p">(</span><span class="n">pidlItemFull</span><span class="p">){</span>
+<span class="w">            </span><span class="k">if</span><span class="p">(</span><span class="n">SHGetPathFromIDList</span><span class="p">(</span><span class="n">pidlItemFull</span><span class="p">,</span><span class="n">pItemInfo</span><span class="o">-&gt;</span><span class="n">tszPath</span><span class="p">)){</span>
+<span class="w">                </span><span class="n">USES_CONVERSION</span><span class="p">;</span>
+<span class="w">                </span><span class="n">hr</span><span class="o">=</span><span class="n">OleLoadPicturePath</span><span class="p">(</span>
+<span class="w">                    </span><span class="n">T2OLE</span><span class="p">(</span><span class="n">pItemInfo</span><span class="o">-&gt;</span><span class="n">tszPath</span><span class="p">)</span>
+<span class="w">                    </span><span class="p">,</span><span class="nb">NULL</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="n">RGB</span><span class="p">(</span><span class="mi">255</span><span class="p">,</span><span class="mi">255</span><span class="p">,</span><span class="mi">255</span><span class="p">)</span>
+<span class="w">                    </span><span class="p">,</span><span class="n">IID_IPicture</span><span class="p">,(</span><span class="n">LPVOID</span><span class="o">*</span><span class="p">)</span><span class="o">&amp;</span><span class="n">pItemInfo</span><span class="o">-&gt;</span><span class="n">pic</span><span class="p">.</span><span class="n">m_pPict</span><span class="p">);</span>
+<span class="w">            </span><span class="k">if</span><span class="p">(</span><span class="n">FAILED</span><span class="p">(</span><span class="n">hr</span><span class="p">)){</span>
+<span class="w">                    </span><span class="n">pItemInfo</span><span class="o">-&gt;</span><span class="n">bFailLoadPic</span><span class="o">=</span><span class="n">TRUE</span><span class="p">;</span>
+<span class="w">                    </span><span class="n">TRACE</span><span class="p">(</span><span class="s">&quot;OleLoadPicturePath failed %s/r/n&quot;</span><span class="p">,</span><span class="n">pItemInfo</span><span class="o">-&gt;</span><span class="n">tszPath</span><span class="p">);</span>
+<span class="w">                </span><span class="p">}</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">        </span><span class="n">m_pMalloc</span><span class="o">-&gt;</span><span class="n">Free</span><span class="p">(</span><span class="n">pidlItemFull</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+</section>
+<section id="id8">
+<h2>缓存目录的数据<a class="headerlink" href="#id8" title="Link to this heading">#</a></h2>
+<p>在更改目录时，需要重建目录内容的缓存。这包括目录的pidl和IShellFolder接口指针，目录内容的相对pidl，以及列表项的显示信息（基于性能上的考虑，列表项的显示信息是在接收到LVN_ODCACHEHINT通知的时候缓存的）。</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="n">LPITEMIDLIST</span><span class="w"> </span><span class="n">m_pidlFolder</span><span class="p">;</span>
+<span class="n">IShellFolder</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="n">m_psfFolder</span><span class="p">;</span>
+<span class="n">CTypedPtrArray</span><span class="o">&lt;</span><span class="n">CPtrArray</span><span class="p">,</span><span class="n">LPITEMIDLIST</span><span class="o">&gt;</span><span class="w"> </span><span class="n">m_arpFolderItems</span><span class="p">;</span>
+<span class="n">CTypedPtrMap</span><span class="o">&lt;</span><span class="n">CMapPtrToPtr</span><span class="p">,</span><span class="n">LPITEMIDLIST</span><span class="p">,</span><span class="n">CFolderItemInfo</span><span class="o">*&gt;</span><span class="w"> </span><span class="n">m_mapCache</span><span class="p">;</span>
+
+
+<span class="kt">void</span><span class="w"> </span><span class="nf">CPicViewView::EnterFolder</span><span class="p">(</span><span class="n">LPCITEMIDLIST</span><span class="w"> </span><span class="n">pidl</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">USES_CONVERSION</span><span class="p">;</span>
+<span class="w">    </span><span class="n">m_pidlFolder</span><span class="o">=</span><span class="n">ILClone</span><span class="p">(</span><span class="n">pidl</span><span class="p">);</span>
+<span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">m_pidlFolder</span><span class="p">){</span>
+<span class="w">        </span><span class="n">LPENUMIDLIST</span><span class="w"> </span><span class="n">ppenum</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">NULL</span><span class="p">;</span>
+<span class="w">        </span><span class="n">LPITEMIDLIST</span><span class="w"> </span><span class="n">pidlItems</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">NULL</span><span class="p">;</span>
+<span class="w">        </span><span class="n">ULONG</span><span class="w"> </span><span class="n">celtFetched</span><span class="p">;</span>
+<span class="w">        </span><span class="n">HRESULT</span><span class="w"> </span><span class="n">hr</span><span class="p">;</span>
+<span class="w">        </span><span class="n">hr</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">m_psfDesktop</span><span class="o">-&gt;</span><span class="n">BindToObject</span><span class="p">(</span><span class="n">m_pidlFolder</span><span class="p">,</span><span class="w"> </span><span class="nb">NULL</span><span class="p">,</span><span class="w"> </span><span class="n">IID_IShellFolder</span><span class="p">,</span><span class="w"> </span><span class="p">(</span><span class="n">LPVOID</span><span class="w"> </span><span class="o">*</span><span class="p">)</span><span class="w"> </span><span class="o">&amp;</span><span class="n">m_psfFolder</span><span class="p">);</span>
+<span class="w">        </span><span class="k">if</span><span class="p">(</span><span class="n">SUCCEEDED</span><span class="p">(</span><span class="n">hr</span><span class="p">)){</span>
+<span class="w">            </span><span class="n">hr</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">m_psfFolder</span><span class="o">-&gt;</span><span class="n">EnumObjects</span><span class="p">(</span><span class="nb">NULL</span><span class="p">,</span><span class="n">SHCONTF_FOLDERS</span><span class="w"> </span><span class="o">|</span><span class="w"> </span><span class="n">SHCONTF_NONFOLDERS</span><span class="p">,</span><span class="w"> </span><span class="o">&amp;</span><span class="n">ppenum</span><span class="p">);</span>
+<span class="w">            </span><span class="k">if</span><span class="p">(</span><span class="n">SUCCEEDED</span><span class="p">(</span><span class="n">hr</span><span class="p">)){</span>
+<span class="w">                </span><span class="k">while</span><span class="p">(</span><span class="w"> </span><span class="n">hr</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ppenum</span><span class="o">-&gt;</span><span class="n">Next</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="o">&amp;</span><span class="n">pidlItems</span><span class="p">,</span><span class="w"> </span><span class="o">&amp;</span><span class="n">celtFetched</span><span class="p">)</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">S_OK</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="p">(</span><span class="n">celtFetched</span><span class="p">)</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="mi">1</span><span class="p">){</span>
+<span class="w">                    </span><span class="n">m_arpFolderItems</span><span class="p">.</span><span class="n">Add</span><span class="p">(</span><span class="n">pidlItems</span><span class="p">);</span>
+<span class="w">                    </span><span class="p">}</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">        </span><span class="n">GetListCtrl</span><span class="p">().</span><span class="n">SetItemCount</span><span class="p">(</span><span class="n">m_arpFolderItems</span><span class="p">.</span><span class="n">GetSize</span><span class="p">());</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>打开文件夹
+本应用程序显示文件夹的内容而不是显示文档的内容，所以我重载了打开文件时的处理，显示目录选择对话框而不是文件打开对话框。</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="kt">void</span><span class="w"> </span><span class="nf">CPicViewApp::OnFileOpen</span><span class="p">()</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">TCHAR</span><span class="w"> </span><span class="n">tszDisplayName</span><span class="p">[</span><span class="n">_MAX_PATH</span><span class="p">];</span>
+<span class="w">    </span><span class="n">TCHAR</span><span class="w"> </span><span class="n">tszPathSelected</span><span class="p">[</span><span class="n">_MAX_PATH</span><span class="p">];</span>
+<span class="w">    </span><span class="n">LPITEMIDLIST</span><span class="w"> </span><span class="n">pidlSelected</span><span class="o">=</span><span class="n">PidlBrowse</span><span class="p">(</span><span class="n">m_pMainWnd</span><span class="o">-&gt;</span><span class="n">GetSafeHwnd</span><span class="p">(),</span><span class="mi">0</span><span class="p">,</span><span class="n">tszDisplayName</span><span class="p">);</span>
+<span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">pidlSelected</span><span class="p">){</span>
+<span class="w">        </span><span class="k">if</span><span class="p">(</span><span class="n">SHGetPathFromIDList</span><span class="p">(</span><span class="n">pidlSelected</span><span class="p">,</span><span class="n">tszPathSelected</span><span class="p">)){</span>
+<span class="w">            </span><span class="n">CDocument</span><span class="o">*</span><span class="w"> </span><span class="n">pDocument</span><span class="o">=</span><span class="n">OpenDocumentFile</span><span class="p">(</span><span class="n">tszPathSelected</span><span class="p">);</span>
+<span class="w">            </span><span class="n">pDocument</span><span class="o">-&gt;</span><span class="n">SetTitle</span><span class="p">(</span><span class="n">tszDisplayName</span><span class="p">);</span>
+<span class="w">            </span><span class="n">ILFree</span><span class="p">(</span><span class="n">pidlSelected</span><span class="p">);</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>注意从外壳调用获得的PIDL一般都需要调用ILFree或者IMalloc::Free释放。一个例外是调用函数SHBindToParent获得的相对pidl，因为它是输入的参数完整pidl的一部分，所以不必另外释放。</p>
+<p>在新建或者打开“文件”时候，文档需要通知视图当前文件夹的更改，这是通过调用CDocument::UpdateAllViews和重载CView::OnUpdate实现的。视图对这个通知的处理是清除上一个目录的缓存数据，缓存新目录的数据，以及更新文档标题。</p>
+</section>
+<section id="id9">
+<h2>打开文件或者目录<a class="headerlink" href="#id9" title="Link to this heading">#</a></h2>
+<p>为了使用方便，双击列表项时可以在同一窗口打开子目录，或者调用系统的默认处理程序打开文件。如果文件是快捷方式，那么打开快捷方式的目标。</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="kt">void</span><span class="w"> </span><span class="nf">CPicViewView::OnDblclk</span><span class="p">(</span><span class="n">NMHDR</span><span class="o">*</span><span class="w"> </span><span class="n">pNMHDR</span><span class="p">,</span><span class="w"> </span><span class="n">LRESULT</span><span class="o">*</span><span class="w"> </span><span class="n">pResult</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">LPNMLISTVIEW</span><span class="w"> </span><span class="n">lpnm</span><span class="o">=</span><span class="p">(</span><span class="n">LPNMLISTVIEW</span><span class="p">)</span><span class="n">pNMHDR</span><span class="p">;</span>
+<span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">lpnm</span><span class="o">-&gt;</span><span class="n">iItem</span><span class="o">==</span><span class="mi">-1</span><span class="p">)</span><span class="k">return</span><span class="p">;</span>
+<span class="w">    </span><span class="o">*</span><span class="n">pResult</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+<span class="w">    </span><span class="n">HRESULT</span><span class="w"> </span><span class="n">hr</span><span class="o">=</span><span class="n">S_OK</span><span class="p">;</span>
+<span class="w">    </span><span class="n">LPCITEMIDLIST</span><span class="w"> </span><span class="n">pidlItem</span><span class="o">=</span><span class="n">m_arpFolderItems</span><span class="p">[</span><span class="n">lpnm</span><span class="o">-&gt;</span><span class="n">iItem</span><span class="p">];</span>
+<span class="w">    </span><span class="n">LPITEMIDLIST</span><span class="w"> </span><span class="n">pidlItemFull</span><span class="o">=</span><span class="n">ILCombine</span><span class="p">(</span><span class="n">m_pidlFolder</span><span class="p">,</span><span class="n">pidlItem</span><span class="p">);</span>
+<span class="w">    </span><span class="n">LPITEMIDLIST</span><span class="w"> </span><span class="n">pidlItemTarget</span><span class="o">=</span><span class="nb">NULL</span><span class="p">;</span>
+<span class="w">    </span><span class="n">hr</span><span class="o">=</span><span class="n">theApp</span><span class="p">.</span><span class="n">SHGetTargetFolderIDList</span><span class="p">(</span><span class="n">pidlItemFull</span><span class="p">,</span><span class="o">&amp;</span><span class="n">pidlItemTarget</span><span class="p">);</span>
+<span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">pidlItemTarget</span><span class="p">){</span>
+<span class="w">        </span><span class="k">if</span><span class="p">(</span><span class="n">theApp</span><span class="p">.</span><span class="n">ILIsFolder</span><span class="p">(</span><span class="n">pidlItemTarget</span><span class="p">)){</span>
+<span class="w">            </span><span class="n">CFolderChange</span><span class="w"> </span><span class="n">FolderChange</span><span class="p">;</span>
+<span class="w">            </span><span class="n">FolderChange</span><span class="p">.</span><span class="n">m_pidlFolder</span><span class="o">=</span><span class="n">pidlItemTarget</span><span class="p">;</span>
+<span class="w">            </span><span class="n">OnFolderChange</span><span class="p">(</span><span class="o">&amp;</span><span class="n">FolderChange</span><span class="p">);</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">        </span><span class="k">else</span><span class="p">{</span>
+<span class="w">            </span><span class="n">SHELLEXECUTEINFO</span><span class="w"> </span><span class="n">ShExecInfo</span><span class="p">;</span>
+<span class="w">            </span><span class="n">ShExecInfo</span><span class="p">.</span><span class="n">cbSize</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">sizeof</span><span class="p">(</span><span class="n">SHELLEXECUTEINFO</span><span class="p">);</span>
+<span class="w">            </span><span class="n">ShExecInfo</span><span class="p">.</span><span class="n">fMask</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">SEE_MASK_IDLIST</span><span class="p">;</span>
+<span class="w">            </span><span class="n">ShExecInfo</span><span class="p">.</span><span class="n">hwnd</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">NULL</span><span class="p">;</span>
+<span class="w">            </span><span class="n">ShExecInfo</span><span class="p">.</span><span class="n">lpVerb</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">NULL</span><span class="p">;</span>
+<span class="w">            </span><span class="n">ShExecInfo</span><span class="p">.</span><span class="n">lpFile</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">NULL</span><span class="p">;</span>
+<span class="w">            </span><span class="n">ShExecInfo</span><span class="p">.</span><span class="n">lpIDList</span><span class="o">=</span><span class="w"> </span><span class="n">pidlItemTarget</span><span class="p">;</span>
+<span class="w">            </span><span class="n">ShExecInfo</span><span class="p">.</span><span class="n">lpParameters</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">NULL</span><span class="p">;</span>
+<span class="w">            </span><span class="n">ShExecInfo</span><span class="p">.</span><span class="n">lpDirectory</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">NULL</span><span class="p">;</span>
+<span class="w">            </span><span class="n">ShExecInfo</span><span class="p">.</span><span class="n">nShow</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">SW_MAXIMIZE</span><span class="p">;</span>
+<span class="w">            </span><span class="n">ShExecInfo</span><span class="p">.</span><span class="n">hInstApp</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">NULL</span><span class="p">;</span>
+<span class="w">            </span><span class="n">ShellExecuteEx</span><span class="p">(</span><span class="o">&amp;</span><span class="n">ShExecInfo</span><span class="p">);</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">        </span><span class="n">m_pMalloc</span><span class="o">-&gt;</span><span class="n">Free</span><span class="p">(</span><span class="n">pidlItemTarget</span><span class="p">);</span>
+<span class="w">        </span><span class="n">m_pMalloc</span><span class="o">-&gt;</span><span class="n">Free</span><span class="p">(</span><span class="n">pidlItemFull</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+</section>
+<section id="id10">
+<h2>性能的优化<a class="headerlink" href="#id10" title="Link to this heading">#</a></h2>
+<p>为了更好的用户体验，可以使用自定义的图标大小（这需要完全自行绘制列表项的图标区域），用单独的线程来载入图像，或者使用调整到图标大小的缩略图缓冲（这样每次绘制时不必拉伸图像）。但是这超出了本文的范围。有兴趣的读者可以自己试一下。</p>
+</section>
+<section id="id11">
+<h2>参考<a class="headerlink" href="#id11" title="Link to this heading">#</a></h2>
+<p>需要更多信息的话，可以参考</p>
+<ul class="simple">
+<li><p>Shell FAQ</p></li>
+<li><p>List-View Controls Overview</p></li>
+<li><p>Using List-View Controls</p></li>
+<li><p>Customizing a Control’s Appearance Using Custom Draw</p></li>
+</ul>
+</section>
+</section>
+
+<div class="section ablog__blog_comments">
+     
+<div class="section ablog__prev-next">
+  <span class="ablog__prev">
+     
+    <a href="add_scripting_support_to_webbrowser_control.html">
+      
+      <i class="fa fa-arrow-circle-left"></i>
+      
+      <span>Sample: IEAutomation to Adding Macro Support to Webbrowser Host Applications</span>
+    </a>
+    
+  </span>
+  <span class="ablog__spacer">&nbsp;</span>
+  <span class="ablog__next">
+     
+    <a href="exhausted_writing.html">
+      <span>写篇文章真累</span>
+      
+      <i class="fa fa-arrow-circle-right"></i>
+      
+    </a>
+    
+  </span>
+</div>
+  
+</div>
+
+                </article>
+              
+              
+              
+                <footer class="bd-footer-article">
+                  <div class="footer-article-items footer-article__inner">
+  
+    <div class="footer-article-item"><script src="https://utteranc.es/client.js"
+        repo="jiangsheng/jiangsheng.github.io"
+        branch="master"
+        issue-term="pathname"
+        label="UtteranceComments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async=async">
+</script></div>
+  
+</div>
+                </footer>
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+<div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> On this page
+  </div>
+  <nav class="bd-toc-nav page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">预备性阅读</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">创建应用程序</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">虚列表的创建</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">缓存显示信息</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">文件图标的显示</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id7">获取显示信息</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id8">缓存目录的数据</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id9">打开文件或者目录</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id10">性能的优化</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id11">参考</a></li>
+</ul>
+  </nav></div>
+
+  <div class="sidebar-secondary-item">
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="../../_sources/blogs/2003/thumbnail_folder_view_using_list_control.rst.txt"
+           rel="nofollow">Show Source</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/blogs\2003\thumbnail_folder_view_using_list_control.rst"
+           rel="nofollow">Show on GitHub</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/blogs\2003\thumbnail_folder_view_using_list_control.rst"
+           rel="nofollow">Edit on GitHub</a></li>
+  </ul>
+  <h3>Social Media Links</h3>
+  <ul>
+    <li>twitter (archived): #jiangsheng </li>
+    <li>bluesky: <a href="https://bsky.app/profile/sheng-jiang.bsky.social"> sheng-jiang.bsky.social</a></li>
+    <li>stackoverflow: <a href="https://stackoverflow.com/users/109919/sheng-jiang-%e8%92%8b%e6%99%9f">Sheng Jiang 蒋晟</a></li>
+  </ul>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3710396369816898"
+     crossorigin="anonymous"></script>
+<!-- Right Sidebar -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3710396369816898"
+     data-ad-slot="1564519607"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script defer src="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item">
+
+  <p class="copyright">
+    
+      © Copyright 2018-, Sheng Jiang.
+      <br/>
+    
+  </p>
+</div>
+      
+        <div class="footer-item">
+
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 8.2.3.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item">
+<p class="theme-version">
+  <!-- # L10n: Setting the PST URL as an argument as this does not need to be localized -->
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.16.1.
+</p></div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>

@@ -13,6 +13,7 @@
    asf_study_notes_part_2
    exhausted_writing
    add_scripting_support_to_webbrowser_control
+   disable_control_alt_delete_windows_2000
    
 Indices and tables
 
