@@ -4,7 +4,7 @@
 .. post:: 29, Jun, 2004
    :tags: CSDN
    :category: Web Design, Community 
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 CSDN的社区是免费的，做点广告本来是无可厚非；但是做到一个帖子上面两个大Flash加左边一大堆图片广告，开了五个帖子就把我的K7 700HZ 512M RAM搞死机就有点过头了……要是不禁用Flash很少人能上CSDN的话，广告还有什么效果？不是每个人都有P4的（顺便说一下，开了五个页面之后浏览器进程在偶刚买的P4本本上CPU占用率也没下过95%……开一个帖子在偶的K7上面也一样……）

@@ -3,7 +3,7 @@
 .. post:: 17, Mar, 2005
    :tags: C++/CLI,Managed C++,Visual C++
    :category: Microsoft,Visual Studio
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 终于把Stan Lippman先生的这篇文章译完了。从去年4月在全球MVP峰会上拿到这篇文章的手稿到现在，差不多一年过去了。虽然当时的Visual Studio 2005还不支持一些语法，但是我和董颖涛对新的C++/CLI语言都很感兴趣，在当时就讨论过翻译的问题。之后我就开始翻译这篇文章，但是进度一直很慢——主要是杂务太多、语言上的困难（尽量避免误解和词不达意的情况，以及斟酌用词的选择）。在1月份完成了全文之后，看到了Sunhui的一篇文章（http://community.csdn.net/expert/Topicview1.asp?id=3834281），觉得附录里面讲到的一些内容或许一些人也有兴趣，所以继续翻译附录的工作，幸好现在是春假，比较有时间，终于在今天完成了。译文目前在http://blog.csdn.net/jiangsheng/archive/2004/10/18/140450.aspx可以访问，希望读者指正。

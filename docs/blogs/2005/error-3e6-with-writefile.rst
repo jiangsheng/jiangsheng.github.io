@@ -3,7 +3,7 @@ Error 3e6 with WriteFile
 .. post:: 27, Jun, 2005
    :tags: Assembly language
    :category: ACC
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 It looks like you will get error 3E6 when you call write file with an

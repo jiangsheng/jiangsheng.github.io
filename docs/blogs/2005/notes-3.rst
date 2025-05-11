@@ -2,7 +2,7 @@ Notes
 =====
 .. post:: 1, Apr, 2005
    :category: English Writing Practice
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

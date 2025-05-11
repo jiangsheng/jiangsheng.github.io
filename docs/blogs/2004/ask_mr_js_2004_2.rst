@@ -3,7 +3,7 @@ Ask Mr JS
 .. post:: 10, Mar, 2004
    :tags: CSDN, MFC
    :category: Win32, Microsoft Foundation Classes
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 [url=http://community.csdn.net/expert/Topicview2.asp?id=2732377]xml 支持 模糊 查询吗？[/url]

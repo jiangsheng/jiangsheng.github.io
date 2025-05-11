@@ -2,7 +2,7 @@ Today's phishing email RE: Your A⁮pp឵Ie lD Has Been Di⁫sabIed Pending Furt
 =====================================================================================================
 .. post:: 3, Jan, 2025
    :category: Computers and Internet
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 My mom received this email and asked me verification. It is obvious

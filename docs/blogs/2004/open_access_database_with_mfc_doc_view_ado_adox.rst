@@ -4,7 +4,7 @@
 .. post:: 15, Mar, 2004
    :tags: ADO, MFC
    :category: Microsoft Foundation Classes, ADO
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 

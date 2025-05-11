@@ -2,7 +2,7 @@ Icepocalypse 2021 冰狱 2021
 ==================================================
 .. post:: 18, Feb, 2021
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 this is my dairy about the winter storm occurred in Feb 2021.

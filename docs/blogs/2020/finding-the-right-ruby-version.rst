@@ -2,7 +2,7 @@ Finding the right ruby version
 ==============================
 .. post:: 13, May, 2020
    :category: eHMP
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 I am installing eHMP on Centos 7. Centos 7 has ruby 2.0 out of box, thus the install

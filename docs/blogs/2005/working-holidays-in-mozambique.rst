@@ -2,7 +2,7 @@ Working Holidays in Mozambique
 ==============================
 .. post:: 27, Feb, 2005
    :category: English Writing Practice
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

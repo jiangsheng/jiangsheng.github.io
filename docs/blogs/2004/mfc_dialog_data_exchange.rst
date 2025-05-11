@@ -4,7 +4,7 @@
 .. post:: 14, May, 2004
    :tags: MFC
    :category: Microsoft Foundation Classes, Visual C++
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. code-block:: C++

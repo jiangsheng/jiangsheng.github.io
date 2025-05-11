@@ -2,7 +2,7 @@ Querying Wikipedia data using SPARQL
 ====================================
 .. post:: 5, May, 2023
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 Recently I have been working on a trainer for a football manager game. 

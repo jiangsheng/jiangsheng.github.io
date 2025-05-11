@@ -42,6 +42,9 @@
    ask_mr_js_2004_2
    format_msxml_generated_text
    serialziing_ipicture_by_memory_stream
+   progress_dialog_from_ie_5
+   CDHtmlDialog_and_NewWindow2
+   detect_application_stopped_responding
    
 Indices and tables
 

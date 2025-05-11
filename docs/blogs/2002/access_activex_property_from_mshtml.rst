@@ -4,7 +4,7 @@
 .. post:: 13, Jul, 2004
    :tags: WebBrowser Control, MFC
    :category: Microsoft Foundation Classes, MSHTML
-   :author: jiangshengvc
+   :author: me
    :nocomments:
    
 .. _blog_access_activex_property_from_mshtml:

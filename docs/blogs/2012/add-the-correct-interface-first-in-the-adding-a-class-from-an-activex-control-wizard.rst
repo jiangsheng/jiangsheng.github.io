@@ -3,7 +3,7 @@ Add the correct interface first in Adding an MFC Class from an ActiveX Control w
 .. post:: 4, Dec, 2012
    :tags: ActiveX,COM,Visual C++,Windows Media Player
    :category: enmsdn,MFC,Microsoft,Microsoft Foundation Class Library,Visual Studio
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 In good old times aka VC6, if you want to use an ActiveX in MFC,

@@ -4,7 +4,7 @@
 .. post:: 24, Jun, 2004
    :tags: security, process, File Mapping
    :category: Windows Service, Win32
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 问：

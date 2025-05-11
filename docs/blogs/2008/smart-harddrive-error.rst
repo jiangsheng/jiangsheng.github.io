@@ -2,7 +2,7 @@ Smart harddrive error
 =====================
 .. post:: 9, Jan, 2008
    :category: Computers and Internet
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 In case anyone is googling this message

@@ -4,7 +4,7 @@
 .. post:: 23, Oct, 2003
    :tags: MSHTML, ActiveX
    :category: Microsoft Foundation Classes, WebBrowser Control
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 Q195188 PRB: ActiveX Control Window Is Not Created Until Visible in Internet Explorer

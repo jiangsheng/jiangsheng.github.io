@@ -4,7 +4,7 @@ Good Bye MFC?
 .. post:: 12, Dec, 2004
    :tags: MFC
    :category: Microsoft Foundation Classes, Win32, Visual C++
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 原文地址在https://web.archive.org/web/20041204071945/https://channel9.msdn.com/ShowPost.aspx?PostID=31152

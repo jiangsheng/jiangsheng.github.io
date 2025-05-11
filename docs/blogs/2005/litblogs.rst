@@ -2,7 +2,7 @@ Litblogs
 ========
 .. post:: 18, Apr, 2005
    :category: English Writing Practice
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

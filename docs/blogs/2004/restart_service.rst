@@ -4,7 +4,7 @@
 .. post:: 23, Jun, 2004
    :tags: Windows API
    :category: Windows, Win32
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. _blog_restart_service:

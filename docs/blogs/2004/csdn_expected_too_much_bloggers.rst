@@ -4,7 +4,7 @@ CSDN对BLOG用户可能期待过高了
 .. post:: 29, Jun, 2004
    :tags: CSDN
    :category: Manner, Community 
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. _csdn_expected_too_much_bloggers:

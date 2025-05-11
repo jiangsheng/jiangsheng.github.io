@@ -2,7 +2,7 @@ Another breaking change related to 64 bit compatibility, this time in TAPISRV w/
 =========================================================================================
 .. post:: 30, Jul, 2013
    :category: enmsdn,Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 The ADO team `had to make a breaking change the ADO

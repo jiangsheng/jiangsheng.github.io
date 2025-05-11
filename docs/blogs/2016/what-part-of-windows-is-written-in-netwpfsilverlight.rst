@@ -3,7 +3,7 @@ What part of Windows is written in .Net/WPF/Silverlight?
 .. post:: 16, May, 2016
    :tags: .NET Framework
    :category: enmsdn,Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 user `曹一聪 <https://www.zhihu.com/people/cao-yicong-50>`__\  on zhihu is curious how widely .Net is used within Windows components. 

@@ -3,7 +3,7 @@ Farewell, dsoframer
 .. post:: 11, Mar, 2018
    :tags: dsoframer,Office
    :category: Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 I know, it is long overdue. Microsoft discontinued it a decade ago. And

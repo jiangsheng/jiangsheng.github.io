@@ -2,7 +2,7 @@ The Schiavo case
 ================
 .. post:: 24, Mar, 2005
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

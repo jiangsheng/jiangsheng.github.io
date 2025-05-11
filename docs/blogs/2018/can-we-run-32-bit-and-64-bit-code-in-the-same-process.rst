@@ -2,7 +2,7 @@ Can we run 32 bit and 64 bit code in the same process?
 ======================================================
 .. post:: 18, Jun, 2018
    :category: Computers and Internet
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 User redstone001 `wants to

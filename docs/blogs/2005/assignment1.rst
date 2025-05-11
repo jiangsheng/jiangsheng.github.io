@@ -3,7 +3,7 @@ Assignment1
 .. post:: 9, Jun, 2005
    :tags: Assembly Language
    :category: PIC16F88A
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. code-block::

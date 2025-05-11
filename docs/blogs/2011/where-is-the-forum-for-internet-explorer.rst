@@ -3,7 +3,7 @@ Where is the forum for Internet Explorer?
 .. post:: 21, Jul, 2011
    :tags: Internet Explorer,Where is the forum for
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 People get confused by various Microsoft IE forum sites so here is the

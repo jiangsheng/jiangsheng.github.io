@@ -3,7 +3,7 @@ Type ‘System.Web.UI.WebControls.Parameter’ does not have a public property n
 .. post:: 6, Oct, 2008
    :tags: .NET Framework,ASP.Net
    :category: Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 In Visual C# 2005 SP1, I added an object data source to a web page

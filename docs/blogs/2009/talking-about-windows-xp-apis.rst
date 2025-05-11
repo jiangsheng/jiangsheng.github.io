@@ -3,7 +3,7 @@ Talking about Windows XP APIs
 .. post:: 3, May, 2009
    :tags: Windows Shell,Windows XP
    :category: Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 Photobucket has deactivated the accounts of all free users and I have no idea what was in there now.

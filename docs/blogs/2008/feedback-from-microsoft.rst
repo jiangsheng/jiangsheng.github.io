@@ -3,7 +3,7 @@ Feedback from Microsoft
 .. post:: 5, Jun, 2008
    :tags: Microsoft Award,Microsoft Visual Studio
    :category: Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

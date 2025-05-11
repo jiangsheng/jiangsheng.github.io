@@ -2,7 +2,7 @@ Stress Control
 ==============
 .. post:: 8, Feb, 2005
    :category: English Writing Practice
-   :author: jiangshengvc
+   :author: me
    :redirect: build/html/blogs/2005/stress-control
    :nocomments:
 

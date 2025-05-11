@@ -4,7 +4,7 @@ VC编程经验总结第一版完成
 .. post:: 23, Mar, 2004
    :tags: MFC
    :category: Microsoft Foundation Classes, Visual C++
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 该活动由bluebohe发起，CSDN网友积极参与，sgnaw (李逍遥)整理。发布之后反响强烈，但是很多人并未全部看完帖子就留下自己的邮件索取文件……其实下载地址就在第三个回复里面。

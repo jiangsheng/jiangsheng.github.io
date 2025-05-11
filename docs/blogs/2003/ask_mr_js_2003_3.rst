@@ -5,7 +5,7 @@ Ask Mr JS
 .. post:: 16, Dec, 2003
    :tags: CSDN, MFC
    :category: Win32, Microsoft Foundation Classes
-   :author: jiangshengvc
+   :author: me
    :nocomments:
    
 [url=http://community.csdn.net/expert/Topicview2.asp?id=2542812]怎样修改theApp.m_pszAppName[/url]

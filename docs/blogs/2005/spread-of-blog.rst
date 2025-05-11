@@ -2,7 +2,7 @@ Spread of Blog
 ==============
 .. post:: 15, Apr, 2005
    :category: English Writing Practice
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

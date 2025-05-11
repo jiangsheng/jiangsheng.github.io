@@ -2,7 +2,7 @@ Talking about Where does power come from?
 =========================================
 .. post:: 3, Nov, 2005
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

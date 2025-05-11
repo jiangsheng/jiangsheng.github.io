@@ -3,7 +3,7 @@
 .. post:: 14, Feb, 2009
    :tags: ASP.Net,Web Service
    :category: Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

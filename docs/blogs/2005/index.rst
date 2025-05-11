@@ -92,6 +92,8 @@
    假如抓到一条美人鱼转自机战世界论坛，水星的爱.rst
    整理旧照片…….rst
    登鹳雀楼王之焕.rst
+   programming_active_desktop   
+   dial_programmatically
    
 Indices and tables
 

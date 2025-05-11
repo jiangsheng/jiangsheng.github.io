@@ -2,7 +2,7 @@ Visual Studio 2010: Class Wizard重返Visual C++… Control Shift X.
 =============================================================================================
 .. post:: 11, Nov, 2009
    :tags: Microsoft,Microsoft Foundation Class Library,Visual C++,Visual Studio
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

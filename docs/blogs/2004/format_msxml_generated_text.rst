@@ -4,7 +4,7 @@
 .. post:: 6, Feb, 2004
    :tags: msxml, MFC
    :category: Win32, Microsoft Foundation Classes
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 

@@ -3,7 +3,7 @@ MFC更新Beta版
 .. post:: 8, Jan, 2008
    :tags: C#,Microsoft Foundation Class Library,Service pack
    :category: Microsoft,Visual C++,Visual Studio
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

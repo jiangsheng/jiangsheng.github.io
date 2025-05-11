@@ -5,7 +5,7 @@ Ask Mr JS
 .. post:: 1, Dec, 2003
    :tags: CSDN, MFC
    :category: Win32, Microsoft Foundation Classes
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 今天心血来潮，整理了一下上个月在CSDN得分的问题我参与的帖子太多，整理起来有难度，所以只整理结了的贴子

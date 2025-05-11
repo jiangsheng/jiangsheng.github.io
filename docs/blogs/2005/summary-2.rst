@@ -2,7 +2,7 @@ Summary for Population, Poverty and the Local Environment
 ===============================================================
 .. post:: 7, Apr, 2005
    :category: English Writing Practice
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 Given the graphs from “Population, Poverty and the Local Environment”, I conclude that the decreasing percentage of American

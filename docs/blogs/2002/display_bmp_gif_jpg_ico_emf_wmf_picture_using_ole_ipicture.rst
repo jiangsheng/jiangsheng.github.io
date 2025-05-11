@@ -4,7 +4,7 @@
 .. post:: 18, Mar, 2002
    :tags: Microsoft Foundation Classes,Visual C++
    :category: Computer Graphics 
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 作者的话：GDI+看起来是更好的解决方案，但是IPicture的OLE实现更简单。

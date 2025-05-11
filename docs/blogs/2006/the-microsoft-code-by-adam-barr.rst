@@ -2,7 +2,7 @@
 =================================
 .. post:: 23, Jun, 2006
    :category: Entertainment,Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

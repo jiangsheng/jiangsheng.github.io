@@ -5,7 +5,7 @@ Ask Mr JS
 .. post:: 18, Dec, 2003
    :tags: CSDN, MFC
    :category: Win32, Microsoft Foundation Classes
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 [url=http://expert.csdn.net/expert/Topicview2.asp?id=2562836] 如何访问 WebBrowser 控件中的XML源码[/url]

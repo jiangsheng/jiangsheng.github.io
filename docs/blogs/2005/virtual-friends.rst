@@ -2,7 +2,7 @@ virtual friends
 ===============
 .. post:: 10, Feb, 2005
    :category: English Writing Practice
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

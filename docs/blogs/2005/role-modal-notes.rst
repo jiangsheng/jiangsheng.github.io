@@ -2,7 +2,7 @@ Role Modal Notes
 ================
 .. post:: 27, Jan, 2005
    :category: English Writing Practice
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

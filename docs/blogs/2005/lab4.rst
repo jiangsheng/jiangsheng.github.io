@@ -2,7 +2,7 @@ Lab4
 ====
 .. post:: 13, Jun, 2005
    :category: ACC
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

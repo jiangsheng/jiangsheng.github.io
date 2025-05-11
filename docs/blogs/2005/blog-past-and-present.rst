@@ -2,7 +2,7 @@ Blog, past and present
 ======================
 .. post:: 3, May, 2005
    :category: English Writing Practice
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 A. A Introduction 

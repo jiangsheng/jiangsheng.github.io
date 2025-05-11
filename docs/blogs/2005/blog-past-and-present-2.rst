@@ -2,7 +2,7 @@ Blog, past and present
 ======================
 .. post:: 28, Apr, 2005
    :category: English Writing Practice
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 At December 5, 2002, on Sen. Strom Thurmond’s 100th birthday celebration, Sen. Trent Lott (R-MS) stunned his audience with his words “I want to say this about my state. When Strom Thurmond ran for

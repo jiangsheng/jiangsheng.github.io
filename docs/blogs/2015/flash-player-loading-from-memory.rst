@@ -3,7 +3,7 @@ Flash Player: Loading from memory
 .. post:: 26, Nov, 2015
    :tags: Component Object Model,Flash Player,OLE,Visual C++
    :category: ATL,enmsdn,MFC,Microsoft Foundation Class Library
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 `user cucao wants to know <http://bbs.csdn.net/topics/391865427>`__ how to play a flash file from application resource. The user wants to use a dongle to protect unauthorized viewing of the flash file so can't just put the swf file in plain sight.

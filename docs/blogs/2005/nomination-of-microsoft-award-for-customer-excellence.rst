@@ -4,7 +4,7 @@ Nomination of Microsoft Award for Customer Excellence
 .. post:: 22, Nov, 2005
    :tags: Microsoft Visual Studio
    :category: Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. _blogs_Nomination__Microsoft_Award_for_Customer_Excellence:

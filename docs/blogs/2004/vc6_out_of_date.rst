@@ -4,7 +4,7 @@
 .. post:: 11, Nov, 2004
    :tags: 
    :category: Visual C++
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 ​

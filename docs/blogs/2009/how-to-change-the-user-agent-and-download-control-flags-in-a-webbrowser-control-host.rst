@@ -3,7 +3,7 @@ How to change the user agent and download control flags in a webbrowser control 
 .. post:: 9, Oct, 2009
    :tags: Document Object Model,Trident (layout engine),User agent
    :category: Active Template Library,enmsdn,Microsoft,Visual C++,Visual Studio
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 User vnetvvv `wants to

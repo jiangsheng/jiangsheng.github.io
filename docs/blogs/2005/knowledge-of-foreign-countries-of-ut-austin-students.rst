@@ -2,7 +2,7 @@ Knowledge of Foreign Countries of UT Austin students
 ====================================================
 .. post:: 23, Feb, 2005
    :category: English Writing Practice
-   :author: jiangshengvc
+   :author: me
    :nocomments:
    
 Jason/Lv150 February 23, 2005

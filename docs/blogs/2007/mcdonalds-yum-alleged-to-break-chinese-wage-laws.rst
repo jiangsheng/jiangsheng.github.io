@@ -2,7 +2,7 @@ McDonald’s, Yum! Alleged To Break Chinese Wage Laws
 ===================================================
 .. post:: 29, Mar, 2007
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

@@ -3,7 +3,7 @@ PRB: ::SetUIHandler Causes Changes in Save As Dialog
 .. post:: 21, Apr, 2006
    :tags: Dynamic HTML,Trident (layout engine)
    :category: enmsdn,Microsoft,Visual C++
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 

@@ -3,7 +3,7 @@ What is the difference between int and System::Int32
 .. post:: 22, Nov, 2010
    :tags: C#,C++/CLI,Integer (computer science)
    :category: enmsdn,Microsoft,Visual C++,Visual Studio
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 Some may say identical, at least that’s what the `Visual

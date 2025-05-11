@@ -2,7 +2,7 @@ Microsoft MVP, MSDN Forum Influencer
 ====================================
 .. post:: 30, Jan, 2009
    :category: Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

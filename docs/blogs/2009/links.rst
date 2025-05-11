@@ -2,7 +2,7 @@ Links
 =====
 .. post:: 3, Feb, 2009
    :category: Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

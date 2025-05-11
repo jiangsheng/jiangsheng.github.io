@@ -2,7 +2,7 @@ genetic discrimination
 ======================
 .. post:: 29, Mar, 2005
    :category: English Writing Practice
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

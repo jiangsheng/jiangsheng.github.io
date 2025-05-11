@@ -3,7 +3,7 @@ Free MSDN Visual Studio 2005 Team Suite with MSDN Premium Subscription for award
 .. post:: 29, Dec, 2005
    :tags: Microsoft,Microsoft Visual Studio
    :category: Computers and Internet
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 Weeks ago I got an email promising free `Visual Studio

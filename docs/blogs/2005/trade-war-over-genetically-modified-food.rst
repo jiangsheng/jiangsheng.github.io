@@ -2,7 +2,7 @@ Trade war over genetically modified food
 ========================================
 .. post:: 30, Mar, 2005
    :category: English Writing Practice
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
    Trade war over genetically modified food From Wikipedia, the free

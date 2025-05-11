@@ -3,7 +3,7 @@ Visual Studio 2005 Untrusted by IE7
 .. post:: 11, Nov, 2006
    :tags: Visual C++,Visual Studio
    :category: enmsdn,Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

@@ -3,7 +3,7 @@ What's new in Visual Studio Tools for Windows 10 Preview
 .. post:: 24, Mar, 2015
    :tags: Windows 10,Windows SDK
    :category: enmsdn,Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 Looks like Windows 10 SDK gets renamed. 

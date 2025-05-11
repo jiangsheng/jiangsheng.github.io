@@ -4,7 +4,7 @@ GUID数组的初始化
 .. post:: 10, Mar, 2004
    :tags: C++, GUID
    :category: Win32, Visual C++
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 因为GUID也是结构，所以不能用简单类型的初始化

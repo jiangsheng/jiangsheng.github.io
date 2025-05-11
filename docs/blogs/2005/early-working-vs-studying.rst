@@ -2,7 +2,7 @@ early working VS studying
 =========================
 .. post:: 4, Apr, 2005
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

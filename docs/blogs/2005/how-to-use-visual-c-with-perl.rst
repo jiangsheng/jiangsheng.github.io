@@ -3,7 +3,7 @@ How to use Visual C++ with Perl
 .. post:: 3, Nov, 2005
    :tags: Perl,Visual C++
    :category: ACC,enmsdn,Microsoft,Visual Studio
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 `Microsoft Visual

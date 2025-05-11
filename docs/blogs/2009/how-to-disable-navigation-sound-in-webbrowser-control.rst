@@ -3,7 +3,7 @@ How to disable navigation sound in webbrowser control
 .. post:: 6, Jul, 2009
    :tags: Internet Explorer,Internet Explorer 6,Internet Explorer 7,Internet Explorer 8,Internet Explorer 9,Registry,Trident (layout engine),WebBrowser Control
    :category: enmsdn,Microsoft,Visual C++
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 User kill211 does not like the click sound when he calls

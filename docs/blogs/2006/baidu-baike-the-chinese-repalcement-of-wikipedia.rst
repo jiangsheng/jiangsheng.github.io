@@ -2,7 +2,7 @@ Baidu Baike, the Chinese repalcement of Wikipedia
 =================================================
 .. post:: 13, May, 2006
    :category: Computers and Internet
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

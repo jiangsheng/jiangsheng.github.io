@@ -3,7 +3,7 @@ Error: Unable to cast COM object of type ‘mshtml.HTMLDocumentClass’ to inter
 .. post:: 23, Oct, 2006
    :tags: C#,Component Object Model,Trident (layout engine)
    :category: Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

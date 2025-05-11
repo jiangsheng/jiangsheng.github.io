@@ -3,7 +3,7 @@ Getting local FTP home directory from IIS programmatically
 .. post:: 22, Nov, 2009
    :tags: Active Directory,File Transfer Protocol,Internet Information Services,Metadata,Microsoft Windows
    :category: enmsdn,Visual C++
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 User xiaoc1026 `wants to

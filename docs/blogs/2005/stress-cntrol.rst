@@ -2,7 +2,7 @@ Stress Control Questions
 ==========================================
 .. post:: 7, Feb, 2005
    :category: English Writing Practice
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
    | 1.         Q: Why is stress not all bad?

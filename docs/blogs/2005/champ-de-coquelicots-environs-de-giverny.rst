@@ -2,7 +2,7 @@ Champ de Coquelicots, Environs de Giverny
 =========================================
 .. post:: 14, Apr, 2005
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 
