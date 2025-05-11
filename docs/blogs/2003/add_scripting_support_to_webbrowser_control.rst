@@ -39,7 +39,7 @@ Sample: IEAutomation to Adding Macro Support to Webbrowser Host Applications
 * Q223139 HOWTO: Add Support for Hosting VBScript to an ATL Application (https://web.archive.org/web/20080119001407/http://support.microsoft.com/kb/223139)
 * Q183698 SAMPLE: AXSH.exe Demonstrates Implementing ActiveX Script Hosts (https://web.archive.org/web/20080117081519/http://support.microsoft.com/kb/183698/)
 * Q168214 SAMPLE: MFCAxs.exe Implements an ActiveX Script Host Using MFC (https://web.archive.org/web/20080119053556/https://support.microsoft.com/kb/168214)
-* ​​Q223389 FILE: Scriptng.exe Contains the Files Necessary for Implementing ActiveX Script Hosts and Engines (https://web.archive.org/web/20080118223117/https://support.microsoft.com/kb/223389)
+* Q223389 FILE: Scriptng.exe Contains the Files Necessary for Implementing ActiveX Script Hosts and Engines (https://web.archive.org/web/20080118223117/https://support.microsoft.com/kb/223389)
 * Q232394 HOWTO: Catch Run-time Errors in an ActiveX Script Host (https://web.archive.org/web/20080118221836/https://support.microsoft.com/kb/232394)
 
 本文的示例代码是基于MFC6的，所以采用了Q168214中提供的代码。

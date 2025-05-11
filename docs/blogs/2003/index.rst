@@ -14,6 +14,7 @@
    exhausted_writing
    add_scripting_support_to_webbrowser_control
    disable_control_alt_delete_windows_2000
+   thumbnail_folder_view_using_list_control
    
 Indices and tables
 

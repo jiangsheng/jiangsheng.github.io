@@ -7,6 +7,8 @@ ASF学习笔记 Part 1
    :author: jiangshengvc
    :nocomments:
 
+.. _blog_asf_study_notes_part_1:
+
 -----------------------
 设置(Profile)
 -----------------------

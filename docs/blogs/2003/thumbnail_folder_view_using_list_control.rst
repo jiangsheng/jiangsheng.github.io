@@ -7,6 +7,9 @@
    :author: jiangshengvc
    :nocomments:
 
+
+.. _thumbnail_folder_view_using_list_control:
+
 本示例演示了列表控件的虚列表和自画功能，也演示了一些系统外壳的函数和接口的使用方法。
 
 单击 https://github.com/jiangsheng/Samples/tree/master/picview 下载本文的代码。如果在编译示例程序的时候出现问题，你需要去http://www.microsoft.com/msdownload/platformsdk/sdkupdate/ 升级你的头文件和库文件
