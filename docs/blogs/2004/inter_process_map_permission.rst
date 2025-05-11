@@ -1,7 +1,7 @@
 跨进程访问共享内存的权限问题
 ============================
 
-​​.. post:: 24, Jun, 2004
+.. post:: 24, Jun, 2004
    :tags: security, process, File Mapping
    :category: Windows Service, Win32
    :author: jiangshengvc
@@ -176,4 +176,3 @@
 
 * DACL, NULL or not NULL - Flier Lu - 博客园 (https://www.cnblogs.com/flier/archive/2004/07/15/24299.html)
 
-​

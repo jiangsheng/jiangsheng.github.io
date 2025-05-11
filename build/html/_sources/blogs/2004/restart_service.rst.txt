@@ -7,7 +7,7 @@
    :author: jiangshengvc
    :nocomments:
 
-.. _blog_restart_service​:
+.. _blog_restart_service:
 
 最近常去的论坛挂了，看起来是IIS进程系统资源占用太多了；服务器管理员又度周末去了，不能重启IIS，郁闷。CSDN服务器的IIS可能重启过于频繁了，分论坛页面经常来不及更新，自己发的帖子出现在列表里面的时候已经沉了，还是郁闷。
 

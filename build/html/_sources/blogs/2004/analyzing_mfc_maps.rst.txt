@@ -1,10 +1,13 @@
 分析MFC中的映射
 ==============================
+
 .. post:: 5, Jan, 2004
    :tags: MFC
    :category: Microsoft Foundation Classes, Win32
    :author: jiangshengvc
    :nocomments:
+
+.. _blog_analyzing_mfc_maps:
 
 ---------------------
 条件查找映射

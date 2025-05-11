@@ -7,6 +7,8 @@
    :author: jiangshengvc
    :nocomments:
 
+.. _blog_display_html_form_dialog:
+
 此对话框使用了IE5附带的DHTMLEdit控件。
 
 --------------------

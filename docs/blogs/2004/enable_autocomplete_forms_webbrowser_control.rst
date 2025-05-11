@@ -1,7 +1,8 @@
 在浏览器控件中启用自动完成功能
 ======================================
 
-​.. post:: 9, Jan, 2004
+
+.. post:: 9, Jan, 2004
    :tags: WebBrowser Control
    :category: WebBrowser Control, Win32
    :author: jiangshengvc

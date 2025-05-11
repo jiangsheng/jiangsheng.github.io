@@ -512,6 +512,15 @@
 <li class="toctree-l2"><a class="reference internal" href="../2004/open_access_database_with_mfc_doc_view_ado_adox.html">结合ADO、ADOX和MFC的文档/视图/框架架构创建和打开Access数据库</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2004/filter_clipboard_data_in_webbrowser_control_host.html">在浏览器中粘贴时替换剪贴板数据</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2004/inter_process_map_permission.html">跨进程访问共享内存的权限问题</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2004/csdn_expected_too_much_bloggers.html">CSDN对BLOG用户可能期待过高了</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2004/note_on_adding_macro_support_to_webbrowser_control_host.html">在应用程序中添加宏支持的注意事项 (Update)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2004/disable_control_alt_delete_windows_2000_update.html">动态屏蔽Control+Alt+Delete(Update)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2004/hosting_mshtml_update.html">在应用程序中集成浏览器控件(Update)(Subjet to change without notice)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2004/farewell_beijing.html">别了，北京 Time To Say Goodbye</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2004/microsoft_tech_preview_meeting.html">7月1日 微软新技术展望大会</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2004/problem_handling_return_key_dll_ocx_mfc.html">DLL/OCX中的MFC对话框不能处理Tab和回车键的问题</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2004/restart_service.html">重新启动服务</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2004/vc_mfc_qa_2004_07.html">VC/MFC Q&amp;A 200407</a></li>
 </ul>
 </details></li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="../2003/index.html"> 2003</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
@@ -520,10 +529,12 @@
 <li class="toctree-l2"><a class="reference internal" href="../2003/exhausted_writing.html">写篇文章真累</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2003/add_scripting_support_to_webbrowser_control.html">Sample: IEAutomation to Adding Macro Support to Webbrowser Host Applications</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../2003/disable_control_alt_delete_windows_2000.html">在Windows2000中动态禁用/启用Ctrl-Alt-Delete</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2003/thumbnail_folder_view_using_list_control.html">使用虚列表和自画实现文件夹的缩略图显示</a></li>
 </ul>
 </details></li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="../2002/index.html"> 2002</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
 <li class="toctree-l2"><a class="reference internal" href="../2002/display_bmp_gif_jpg_ico_emf_wmf_picture_using_ole_ipicture.html">使用IPicture的OLE实现读取和显示BMP,GIF,JPG,ICO,EMF,WMF图像</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../2002/access_activex_property_from_mshtml.html">如何: 通过HTML文档对象模型访问文档中的ActiveX控件的属性</a></li>
 </ul>
 </details></li>
 <li class="toctree-l1 current active has-children"><a class="reference internal" href="index.html"> 2001</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
@@ -606,137 +617,161 @@
                 <article class="bd-article">
                    <section id="id1">
 <h1>使用目录内容建立菜单<a class="headerlink" href="#id1" title="Link to this heading">#</a></h1>
-<p>​
-目的：根据目录内容，建立一个菜单。菜单项为目录中的文件和子目录（以弹出方式显示）。</p>
+<p>目的：根据目录内容，建立一个菜单。菜单项为目录中的文件和子目录（以弹出方式显示）。</p>
 <p>解决方案：遍历子目录，建立一个文件路径数组。菜单项的ID是数组的索引。当用户单击某个菜单项时，从数组中读取文件路径并执行相应的操作。</p>
 <p>细节：</p>
 <p>首先，我们需要一个菜单。新建立的菜单将作为此菜单的子菜单。</p>
-<p>CMenu*          pmenuFavorites=new CMenu;
-pmenuFavorites-&gt;CreatePopupMenu();</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="n">CMenu</span><span class="o">*</span><span class="w">          </span><span class="n">pmenuFavorites</span><span class="o">=</span><span class="k">new</span><span class="w"> </span><span class="n">CMenu</span><span class="p">;</span>
+<span class="n">pmenuFavorites</span><span class="o">-&gt;</span><span class="n">CreatePopupMenu</span><span class="p">();</span>
+</pre></div>
+</div>
 <p>然后读取目录，建立菜单</p>
-<p>BuildFavoritesMenu(szPath, 0, pmenuFavorites);</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="n">BuildFavoritesMenu</span><span class="p">(</span><span class="n">szPath</span><span class="p">,</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="n">pmenuFavorites</span><span class="p">);</span>
+</pre></div>
+</div>
 <p>最后，将菜单连接到已有菜单上面去</p>
-<p>CMenu* pMenu=m_menuPopup.GetSubMenu(0);</p>
-<p>pMenu-&gt;ModifyMenu(m_iMenuPosition,MF_BYPOSITION|MF_POPUP| MF_STRING,(UINT)(pmenuFavorites-&gt;GetSafeHmenu()),_T(“动态菜单”));</p>
-<p>pmenuFavorites-&gt;Detach();
-delete pmenuFavorites;</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="n">CMenu</span><span class="o">*</span><span class="w"> </span><span class="n">pMenu</span><span class="o">=</span><span class="n">m_menuPopup</span><span class="p">.</span><span class="n">GetSubMenu</span><span class="p">(</span><span class="mi">0</span><span class="p">);</span>
+<span class="n">pMenu</span><span class="o">-&gt;</span><span class="n">ModifyMenu</span><span class="p">(</span><span class="n">m_iMenuPosition</span><span class="p">,</span><span class="n">MF_BYPOSITION</span><span class="o">|</span><span class="n">MF_POPUP</span><span class="o">|</span><span class="w"> </span><span class="n">MF_STRING</span><span class="p">,(</span><span class="n">UINT</span><span class="p">)(</span><span class="n">pmenuFavorites</span><span class="o">-&gt;</span><span class="n">GetSafeHmenu</span><span class="p">()),</span><span class="n">_T</span><span class="p">(</span><span class="s">&quot;动态菜单&quot;</span><span class="p">));</span>
+<span class="n">pmenuFavorites</span><span class="o">-&gt;</span><span class="n">Detach</span><span class="p">();</span>
+<span class="k">delete</span><span class="w"> </span><span class="n">pmenuFavorites</span><span class="p">;</span>
+</pre></div>
+</div>
 <p>其它的都很简单，但是建立这个菜单很麻烦</p>
 <p>申明一个变量来存文件路径</p>
-<p>CStringArray m_astrFavoriteURLs;</p>
-<p>int CWorkBenchDlg::BuildMenu(LPCTSTR pszPath, int nStartPos, CMenu* pMenu)
-{
-    CString         strPath(pszPath);//path to start from
-    CString         strPath2;//path to start from,with trailing backslash
-    CString         str;//menu item text
-    WIN32_FIND_DATA wfd;
-    HANDLE          h;
-    int             nPos;
-    int             nEndPos;
-    int             nNewEndPos;
-    int             nLastDir;
-    TCHAR           buf[INTERNET_MAX_PATH_LENGTH];
-    CStringArray    astrFavorites;
-    CStringArray    astrDirs;
-    CMenu*          pSubMenu;</p>
-<p>    // make sure there’s a trailing backslash
-    if(strPath[strPath.GetLength() - 1] != _T(‘//’))
-        strPath += _T(‘//’);
-    strPath2 = strPath;
-    strPath += _T(”<em>.</em>”);</p>
-<p>    // now scan the directory, first for files and then for subdirectories
-    //make a array of full pathnames.
-    h = FindFirstFile(strPath, &amp;wfd);
-    if(h != INVALID_HANDLE_VALUE)
-    {
-        nEndPos = nStartPos;
-        do
-        {
-            if((wfd.dwFileAttributes &amp; (FILE_ATTRIBUTE_DIRECTORY|FILE_ATTRIBUTE_HIDDEN|FILE_ATTRIBUTE_SYSTEM))==0)
-            {
-                str = wfd.cFileName;//file name
-                lstrcpy(buf,strPath2 + str);//file full pathname
-                if(str.Right(4) .CompareNoCase(_T(“.url”))==0)
-                {
-                    // an .URL file is formatted just like an .INI file, so we can
-                    // use GetPrivateProfileString() to get the information we want</p>
-<p>                    //fill the buf with URL
-                    ::GetPrivateProfileString(_T(“InternetShortcut”), _T(“URL”),
-                                              _T(“”), buf, INTERNET_MAX_PATH_LENGTH,
-                                              strPath2 + str);
-                    str = str.Left(str.GetLength() - 4);//the name of URL</p>
-<p>                }
-                if(str.Right(4) .CompareNoCase( _T(“.lnk”))==0)
-                {
-                    //fill the buf with link target
-                    CGlobal::ResolveShortCut(NULL,strPath2 + str,buf);
-                    str = str.Left(str.GetLength() - 4);
-                }
-                //TODO:add other format process here</p>
-<p>                //这里对.url文件和.lnk文件做了处理，去掉了扩展名。lnk文件的处理参见http://support.microsoft.com/support/kb/articles/Q130/6/98.asp 。可以对其他格式的文件进行处理并更改菜单文字。</p>
-<p>                // scan through the array and perform an insertion sort
-                // to make sure the menu ends up in alphabetic order
-                for(nPos = nStartPos ; nPos &lt; nEndPos ; ++nPos)
-                {
-                    if(str.CompareNoCase(astrFavorites[nPos]) &lt; 0)
-                        break;
-                }
-                astrFavorites.InsertAt(nPos, str);
-                m_astrFavoriteURLs.InsertAt(nPos, buf);
-                ++nEndPos;
-            }
-        } while(FindNextFile(h, &amp;wfd));
-        FindClose(h);
-        // Now add these items to the menu
-        for(nPos = nStartPos ; nPos &lt; nEndPos ; ++nPos)
-        {
-            pMenu-&gt;AppendMenu(MF_STRING | MF_ENABLED, 0xe00 + nPos, astrFavorites[nPos]);
-        }</p>
-<p>        // now that we’ve got all files, check the subdirectories for more
-        nLastDir = 0;
-        h = FindFirstFile(strPath, &amp;wfd);
-        ASSERT(h != INVALID_HANDLE_VALUE);
-        do
-        {
-            if(wfd.dwFileAttributes &amp; FILE_ATTRIBUTE_DIRECTORY)
-            {
-                // ignore the current and parent directory entries
-                if(lstrcmp(wfd.cFileName, _T(“.”)) == 0 || lstrcmp(wfd.cFileName, _T(“..”)) == 0)
-                    continue;</p>
-<p>                for(nPos = 0 ; nPos &lt; nLastDir ; ++nPos)
-                {
-                    if(astrDirs[nPos].CompareNoCase(wfd.cFileName) &gt; 0)
-                        break;
-                }
-                pSubMenu = new CMenu;
-                pSubMenu-&gt;CreatePopupMenu();</p>
-<p>                // call this function recursively.
-                nNewEndPos = BuildFavoritesMenu(strPath2 + wfd.cFileName, nEndPos, pSubMenu);
-                if(nNewEndPos != nEndPos)
-                {
-                    // only intert a submenu if there are in fact files in the subdirectory
-                    nEndPos = nNewEndPos;
-                    pMenu-&gt;InsertMenu(nPos, MF_BYPOSITION | MF_POPUP | MF_STRING, (UINT)pSubMenu-&gt;m_hMenu, wfd.cFileName);
-                    pSubMenu-&gt;Detach();
-                    astrDirs.InsertAt(nPos, wfd.cFileName);
-                    ++nLastDir;
-                }
-                delete pSubMenu;
-            }
-        } while(FindNextFile(h, &amp;wfd));
-        FindClose(h);
-    }
-    return nEndPos;
-}</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="n">CStringArray</span><span class="w"> </span><span class="n">m_astrFavoriteURLs</span><span class="p">;</span>
+<span class="kt">int</span><span class="w"> </span><span class="nf">CWorkBenchDlg::BuildMenu</span><span class="p">(</span><span class="n">LPCTSTR</span><span class="w"> </span><span class="n">pszPath</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">nStartPos</span><span class="p">,</span><span class="w"> </span><span class="n">CMenu</span><span class="o">*</span><span class="w"> </span><span class="n">pMenu</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">   </span><span class="n">CString</span><span class="w">         </span><span class="n">strPath</span><span class="p">(</span><span class="n">pszPath</span><span class="p">);</span><span class="c1">//path to start from</span>
+<span class="w">   </span><span class="n">CString</span><span class="w">         </span><span class="n">strPath2</span><span class="p">;</span><span class="c1">//path to start from,with trailing backslash</span>
+<span class="w">   </span><span class="n">CString</span><span class="w">         </span><span class="n">str</span><span class="p">;</span><span class="c1">//menu item text</span>
+<span class="w">   </span><span class="n">WIN32_FIND_DATA</span><span class="w"> </span><span class="n">wfd</span><span class="p">;</span>
+<span class="w">   </span><span class="n">HANDLE</span><span class="w">          </span><span class="n">h</span><span class="p">;</span>
+<span class="w">   </span><span class="kt">int</span><span class="w">             </span><span class="n">nPos</span><span class="p">;</span>
+<span class="w">   </span><span class="kt">int</span><span class="w">             </span><span class="n">nEndPos</span><span class="p">;</span>
+<span class="w">   </span><span class="kt">int</span><span class="w">             </span><span class="n">nNewEndPos</span><span class="p">;</span>
+<span class="w">   </span><span class="kt">int</span><span class="w">             </span><span class="n">nLastDir</span><span class="p">;</span>
+<span class="w">   </span><span class="n">TCHAR</span><span class="w">           </span><span class="n">buf</span><span class="p">[</span><span class="n">INTERNET_MAX_PATH_LENGTH</span><span class="p">];</span>
+<span class="w">   </span><span class="n">CStringArray</span><span class="w">    </span><span class="n">astrFavorites</span><span class="p">;</span>
+<span class="w">   </span><span class="n">CStringArray</span><span class="w">    </span><span class="n">astrDirs</span><span class="p">;</span>
+<span class="w">   </span><span class="n">CMenu</span><span class="o">*</span><span class="w">          </span><span class="n">pSubMenu</span><span class="p">;</span>
+
+<span class="w">   </span><span class="c1">// make sure there&#39;s a trailing backslash</span>
+<span class="w">   </span><span class="k">if</span><span class="p">(</span><span class="n">strPath</span><span class="p">[</span><span class="n">strPath</span><span class="p">.</span><span class="n">GetLength</span><span class="p">()</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mi">1</span><span class="p">]</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="n">_T</span><span class="p">(</span><span class="sc">&#39;/&#39;</span><span class="p">))</span>
+<span class="w">      </span><span class="n">strPath</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="n">_T</span><span class="p">(</span><span class="s">&quot;/&quot;</span><span class="p">);</span>
+
+<span class="w">   </span><span class="n">strPath2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">strPath</span><span class="p">;</span>
+<span class="w">   </span><span class="n">strPath</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="n">_T</span><span class="p">(</span><span class="s">&quot;*.*&quot;</span><span class="p">);</span>
+<span class="w">   </span><span class="c1">// now scan the directory, first for files and then for subdirectories</span>
+<span class="w">   </span><span class="c1">//make a array of full path names.</span>
+<span class="w">   </span><span class="n">h</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">FindFirstFile</span><span class="p">(</span><span class="n">strPath</span><span class="p">,</span><span class="w"> </span><span class="o">&amp;</span><span class="n">wfd</span><span class="p">);</span>
+<span class="w">   </span><span class="k">if</span><span class="p">(</span><span class="n">h</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="n">INVALID_HANDLE_VALUE</span><span class="p">)</span>
+<span class="w">   </span><span class="p">{</span>
+<span class="w">      </span><span class="n">nEndPos</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">nStartPos</span><span class="p">;</span>
+<span class="w">      </span><span class="k">do</span>
+<span class="w">      </span><span class="p">{</span>
+<span class="w">         </span><span class="k">if</span><span class="p">((</span><span class="n">wfd</span><span class="p">.</span><span class="n">dwFileAttributes</span><span class="w"> </span><span class="o">&amp;</span><span class="w"> </span><span class="p">(</span><span class="n">FILE_ATTRIBUTE_DIRECTORY</span><span class="o">|</span><span class="n">FILE_ATTRIBUTE_HIDDEN</span><span class="o">|</span><span class="n">FILE_ATTRIBUTE_SYSTEM</span><span class="p">))</span><span class="o">==</span><span class="mi">0</span><span class="p">)</span>
+<span class="w">         </span><span class="p">{</span>
+<span class="w">            </span><span class="n">str</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">wfd</span><span class="p">.</span><span class="n">cFileName</span><span class="p">;</span><span class="c1">//file name</span>
+<span class="w">            </span><span class="n">lstrcpy</span><span class="p">(</span><span class="n">buf</span><span class="p">,</span><span class="n">strPath2</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">str</span><span class="p">);</span><span class="c1">//file full pathname</span>
+<span class="w">            </span><span class="k">if</span><span class="p">(</span><span class="n">str</span><span class="p">.</span><span class="n">Right</span><span class="p">(</span><span class="mi">4</span><span class="p">)</span><span class="w"> </span><span class="p">.</span><span class="n">CompareNoCase</span><span class="p">(</span><span class="n">_T</span><span class="p">(</span><span class="s">&quot;.url&quot;</span><span class="p">))</span><span class="o">==</span><span class="mi">0</span><span class="p">)</span>
+<span class="w">            </span><span class="p">{</span>
+<span class="w">               </span><span class="c1">// an .URL file is formatted just like an .INI file, so we can</span>
+<span class="w">               </span><span class="c1">// use GetPrivateProfileString() to get the information we want</span>
+<span class="w">               </span><span class="c1">//fill the buf with URL</span>
+<span class="w">               </span><span class="o">::</span><span class="n">GetPrivateProfileString</span><span class="p">(</span><span class="n">_T</span><span class="p">(</span><span class="s">&quot;InternetShortcut&quot;</span><span class="p">),</span><span class="w"> </span><span class="n">_T</span><span class="p">(</span><span class="s">&quot;URL&quot;</span><span class="p">),</span>
+<span class="w">                                          </span><span class="n">_T</span><span class="p">(</span><span class="s">&quot;&quot;</span><span class="p">),</span><span class="w"> </span><span class="n">buf</span><span class="p">,</span><span class="w"> </span><span class="n">INTERNET_MAX_PATH_LENGTH</span><span class="p">,</span>
+<span class="w">                                          </span><span class="n">strPath2</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">str</span><span class="p">);</span>
+<span class="w">               </span><span class="n">str</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">str</span><span class="p">.</span><span class="n">Left</span><span class="p">(</span><span class="n">str</span><span class="p">.</span><span class="n">GetLength</span><span class="p">()</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mi">4</span><span class="p">);</span><span class="c1">//the name of URL</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">            </span><span class="k">if</span><span class="p">(</span><span class="n">str</span><span class="p">.</span><span class="n">Right</span><span class="p">(</span><span class="mi">4</span><span class="p">)</span><span class="w"> </span><span class="p">.</span><span class="n">CompareNoCase</span><span class="p">(</span><span class="w"> </span><span class="n">_T</span><span class="p">(</span><span class="s">&quot;.lnk&quot;</span><span class="p">))</span><span class="o">==</span><span class="mi">0</span><span class="p">)</span>
+<span class="w">            </span><span class="p">{</span>
+<span class="w">               </span><span class="c1">//fill the buf with link target</span>
+<span class="w">               </span><span class="n">CGlobal</span><span class="o">::</span><span class="n">ResolveShortCut</span><span class="p">(</span><span class="nb">NULL</span><span class="p">,</span><span class="n">strPath2</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">str</span><span class="p">,</span><span class="n">buf</span><span class="p">);</span>
+<span class="w">               </span><span class="n">str</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">str</span><span class="p">.</span><span class="n">Left</span><span class="p">(</span><span class="n">str</span><span class="p">.</span><span class="n">GetLength</span><span class="p">()</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mi">4</span><span class="p">);</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">            </span><span class="c1">//TODO:add other format process here</span>
+
+<span class="w">            </span><span class="c1">//这里对.url文件和.lnk文件做了处理，去掉了扩展名。lnk文件的处理参见http://support.microsoft.com/support/kb/articles/Q130/6/98.asp 。可以对其他格式的文件进行处理并更改菜单文字。</span>
+
+<span class="w">            </span><span class="c1">// scan through the array and perform an insertion sort</span>
+<span class="w">            </span><span class="c1">// to make sure the menu ends up in alphabetic order</span>
+<span class="w">            </span><span class="k">for</span><span class="p">(</span><span class="n">nPos</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">nStartPos</span><span class="w"> </span><span class="p">;</span><span class="w"> </span><span class="n">nPos</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">nEndPos</span><span class="w"> </span><span class="p">;</span><span class="w"> </span><span class="o">++</span><span class="n">nPos</span><span class="p">)</span>
+<span class="w">            </span><span class="p">{</span>
+<span class="w">               </span><span class="k">if</span><span class="p">(</span><span class="n">str</span><span class="p">.</span><span class="n">CompareNoCase</span><span class="p">(</span><span class="n">astrFavorites</span><span class="p">[</span><span class="n">nPos</span><span class="p">])</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span>
+<span class="w">                     </span><span class="k">break</span><span class="p">;</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">            </span><span class="n">astrFavorites</span><span class="p">.</span><span class="n">InsertAt</span><span class="p">(</span><span class="n">nPos</span><span class="p">,</span><span class="w"> </span><span class="n">str</span><span class="p">);</span>
+<span class="w">            </span><span class="n">m_astrFavoriteURLs</span><span class="p">.</span><span class="n">InsertAt</span><span class="p">(</span><span class="n">nPos</span><span class="p">,</span><span class="w"> </span><span class="n">buf</span><span class="p">);</span>
+<span class="w">            </span><span class="o">++</span><span class="n">nEndPos</span><span class="p">;</span>
+<span class="w">         </span><span class="p">}</span>
+<span class="w">      </span><span class="p">}</span>
+<span class="w">      </span><span class="k">while</span><span class="p">(</span><span class="n">FindNextFile</span><span class="p">(</span><span class="n">h</span><span class="p">,</span><span class="w"> </span><span class="o">&amp;</span><span class="n">wfd</span><span class="p">));</span>
+
+<span class="w">      </span><span class="n">FindClose</span><span class="p">(</span><span class="n">h</span><span class="p">);</span>
+<span class="w">      </span><span class="c1">// Now add these items to the menu</span>
+<span class="w">      </span><span class="k">for</span><span class="p">(</span><span class="n">nPos</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">nStartPos</span><span class="w"> </span><span class="p">;</span><span class="w"> </span><span class="n">nPos</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">nEndPos</span><span class="w"> </span><span class="p">;</span><span class="w"> </span><span class="o">++</span><span class="n">nPos</span><span class="p">)</span>
+<span class="w">      </span><span class="p">{</span>
+<span class="w">            </span><span class="n">pMenu</span><span class="o">-&gt;</span><span class="n">AppendMenu</span><span class="p">(</span><span class="n">MF_STRING</span><span class="w"> </span><span class="o">|</span><span class="w"> </span><span class="n">MF_ENABLED</span><span class="p">,</span><span class="w"> </span><span class="mh">0xe00</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">nPos</span><span class="p">,</span><span class="w"> </span><span class="n">astrFavorites</span><span class="p">[</span><span class="n">nPos</span><span class="p">]);</span>
+<span class="w">      </span><span class="p">}</span>
+
+
+<span class="w">      </span><span class="c1">// now that we&#39;ve got all files, check the subdirectories for more</span>
+<span class="w">      </span><span class="n">nLastDir</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+<span class="w">      </span><span class="n">h</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">FindFirstFile</span><span class="p">(</span><span class="n">strPath</span><span class="p">,</span><span class="w"> </span><span class="o">&amp;</span><span class="n">wfd</span><span class="p">);</span>
+<span class="w">      </span><span class="n">ASSERT</span><span class="p">(</span><span class="n">h</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="n">INVALID_HANDLE_VALUE</span><span class="p">);</span>
+<span class="w">      </span><span class="k">do</span>
+<span class="w">      </span><span class="p">{</span>
+<span class="w">         </span><span class="k">if</span><span class="p">(</span><span class="n">wfd</span><span class="p">.</span><span class="n">dwFileAttributes</span><span class="w"> </span><span class="o">&amp;</span><span class="w"> </span><span class="n">FILE_ATTRIBUTE_DIRECTORY</span><span class="p">)</span>
+<span class="w">         </span><span class="p">{</span>
+<span class="w">            </span><span class="c1">// ignore the current and parent directory entries</span>
+<span class="w">            </span><span class="k">if</span><span class="p">(</span><span class="n">lstrcmp</span><span class="p">(</span><span class="n">wfd</span><span class="p">.</span><span class="n">cFileName</span><span class="p">,</span><span class="w"> </span><span class="n">_T</span><span class="p">(</span><span class="s">&quot;.&quot;</span><span class="p">))</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="mi">0</span><span class="w"> </span><span class="o">||</span><span class="w"> </span><span class="n">lstrcmp</span><span class="p">(</span><span class="n">wfd</span><span class="p">.</span><span class="n">cFileName</span><span class="p">,</span><span class="w"> </span><span class="n">_T</span><span class="p">(</span><span class="s">&quot;..&quot;</span><span class="p">))</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span>
+<span class="w">               </span><span class="k">continue</span><span class="p">;</span>
+
+<span class="w">            </span><span class="k">for</span><span class="p">(</span><span class="n">nPos</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="w"> </span><span class="p">;</span><span class="w"> </span><span class="n">nPos</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">nLastDir</span><span class="w"> </span><span class="p">;</span><span class="w"> </span><span class="o">++</span><span class="n">nPos</span><span class="p">)</span>
+<span class="w">            </span><span class="p">{</span>
+<span class="w">               </span><span class="k">if</span><span class="p">(</span><span class="n">astrDirs</span><span class="p">[</span><span class="n">nPos</span><span class="p">].</span><span class="n">CompareNoCase</span><span class="p">(</span><span class="n">wfd</span><span class="p">.</span><span class="n">cFileName</span><span class="p">)</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span>
+<span class="w">                     </span><span class="k">break</span><span class="p">;</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">            </span><span class="n">pSubMenu</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">CMenu</span><span class="p">;</span>
+<span class="w">            </span><span class="n">pSubMenu</span><span class="o">-&gt;</span><span class="n">CreatePopupMenu</span><span class="p">();</span>
+
+<span class="w">            </span><span class="c1">// call this function recursively.</span>
+<span class="w">            </span><span class="n">nNewEndPos</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">BuildFavoritesMenu</span><span class="p">(</span><span class="n">strPath2</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">wfd</span><span class="p">.</span><span class="n">cFileName</span><span class="p">,</span><span class="w"> </span><span class="n">nEndPos</span><span class="p">,</span><span class="w"> </span><span class="n">pSubMenu</span><span class="p">);</span>
+<span class="w">            </span><span class="k">if</span><span class="p">(</span><span class="n">nNewEndPos</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="n">nEndPos</span><span class="p">)</span>
+<span class="w">            </span><span class="p">{</span>
+<span class="w">               </span><span class="c1">// only insert a submenu if there are in fact files in the subdirectory</span>
+<span class="w">               </span><span class="n">nEndPos</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">nNewEndPos</span><span class="p">;</span>
+<span class="w">               </span><span class="n">pMenu</span><span class="o">-&gt;</span><span class="n">InsertMenu</span><span class="p">(</span><span class="n">nPos</span><span class="p">,</span><span class="w"> </span><span class="n">MF_BYPOSITION</span><span class="w"> </span><span class="o">|</span><span class="w"> </span><span class="n">MF_POPUP</span><span class="w"> </span><span class="o">|</span><span class="w"> </span><span class="n">MF_STRING</span><span class="p">,</span><span class="w"> </span><span class="p">(</span><span class="n">UINT</span><span class="p">)</span><span class="n">pSubMenu</span><span class="o">-&gt;</span><span class="n">m_hMenu</span><span class="p">,</span><span class="w"> </span><span class="n">wfd</span><span class="p">.</span><span class="n">cFileName</span><span class="p">);</span>
+<span class="w">               </span><span class="n">pSubMenu</span><span class="o">-&gt;</span><span class="n">Detach</span><span class="p">();</span>
+<span class="w">               </span><span class="n">astrDirs</span><span class="p">.</span><span class="n">InsertAt</span><span class="p">(</span><span class="n">nPos</span><span class="p">,</span><span class="w"> </span><span class="n">wfd</span><span class="p">.</span><span class="n">cFileName</span><span class="p">);</span>
+<span class="w">               </span><span class="o">++</span><span class="n">nLastDir</span><span class="p">;</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">            </span><span class="k">delete</span><span class="w"> </span><span class="n">pSubMenu</span><span class="p">;</span>
+<span class="w">         </span><span class="p">}</span>
+<span class="w">      </span><span class="p">}</span>
+<span class="w">      </span><span class="k">while</span><span class="p">(</span><span class="n">FindNextFile</span><span class="p">(</span><span class="n">h</span><span class="p">,</span><span class="w"> </span><span class="o">&amp;</span><span class="n">wfd</span><span class="p">));</span>
+<span class="w">      </span><span class="n">FindClose</span><span class="p">(</span><span class="n">h</span><span class="p">);</span>
+<span class="w">   </span><span class="p">}</span>
+<span class="w">   </span><span class="k">return</span><span class="w"> </span><span class="n">nEndPos</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+</div>
 <p>好了，菜单建立完了。万事大吉？没有。还要写命令处理函数。</p>
-<p>afx_msg void OnMenu(UINT nID)</p>
-<p>{</p>
-<p>        ShellExecute(NULL,NULL,m_astrFavoriteURLs[nID-0xe00],NULL,NULL,SW_SHOWDEFAULT);</p>
-<p>}</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="n">afx_msg</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="n">OnMenu</span><span class="p">(</span><span class="n">UINT</span><span class="w"> </span><span class="n">nID</span><span class="p">)</span>
+
+<span class="p">{</span>
+
+<span class="w">    </span><span class="n">ShellExecute</span><span class="p">(</span><span class="nb">NULL</span><span class="p">,</span><span class="nb">NULL</span><span class="p">,</span><span class="n">m_astrFavoriteURLs</span><span class="p">[</span><span class="n">nID</span><span class="mh">-0xe00</span><span class="p">],</span><span class="nb">NULL</span><span class="p">,</span><span class="nb">NULL</span><span class="p">,</span><span class="n">SW_SHOWDEFAULT</span><span class="p">);</span>
+
+<span class="p">}</span>
+</pre></div>
+</div>
 <p>和消息映射</p>
-<p>……</p>
-<p> //}}AFX_MSG_MAP
- ON_COMMAND_RANGE(0xe00, 0xfff, OnMenu)
-END_MESSAGE_MAP()</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="c1">//}}AFX_MSG_MAP</span>
+<span class="n">ON_COMMAND_RANGE</span><span class="p">(</span><span class="mh">0xe00</span><span class="p">,</span><span class="w"> </span><span class="mh">0xfff</span><span class="p">,</span><span class="w"> </span><span class="n">OnMenu</span><span class="p">)</span>
+<span class="n">END_MESSAGE_MAP</span><span class="p">()</span>
+</pre></div>
+</div>
 <p>这里我使用了0xe00到0xfff作为命令ID的范围，所以最多有512个文件菜单项（够用吗？不够用自己写一个数好了）。因为通常命令的ID大于327xx,所以不会和其他菜单冲突（倒是可能会和按钮ID冲突，自己注意一下资源ID范围就OK啦）。</p>
 <p>好了，编译，运行，通过！</p>
 <p>唯一的遗憾是没有文件的图标。由于我对操作系统不是很熟悉，不知道怎么才能得到文件的图标并画到菜单上面去。欢迎各方高人指教！</p>
