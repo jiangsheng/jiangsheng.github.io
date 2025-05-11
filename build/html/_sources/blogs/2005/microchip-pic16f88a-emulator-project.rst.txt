@@ -3,7 +3,7 @@ Microchip PIC16F88A Emulator Project
 .. post:: 11, Jul, 2005
    :tags: Hardware,Microcontroller
    :category: ACC
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

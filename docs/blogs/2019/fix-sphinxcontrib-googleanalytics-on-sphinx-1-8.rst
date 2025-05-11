@@ -2,7 +2,7 @@ Fix sphinxcontrib-googleanalytics on Sphinx 1.8
 ===============================================
 .. post:: 5, Jan, 2019
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 The Google Analytics extension from

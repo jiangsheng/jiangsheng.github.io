@@ -2,7 +2,7 @@ MIcrosoft MVP again
 ===================
 .. post:: 1, Jan, 2007
    :category: Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 祝贺您！我们非常高兴向您授予 2007 Microsoft® MVP 大奖！

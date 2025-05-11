@@ -2,7 +2,7 @@
 ==================================
 .. post:: 4, Mar, 2004
    :category: RichEdit, Win32, Visual C++
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 方法基本同Knowledge Base文章Q220844 HOWTO: Insert a Bitmap Into an RTF Document Using the RichEdit Control (https://jeffpar.github.io/kbarchive/kb/220/Q220844/)

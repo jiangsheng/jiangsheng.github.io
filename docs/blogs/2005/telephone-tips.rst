@@ -2,7 +2,7 @@ Telephone Tips
 ==============
 .. post:: 17, Mar, 2005
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

@@ -3,7 +3,7 @@ Microsoft Award Certificates
 .. post:: 7, Apr, 2006
    :tags: Microsoft
    :category: Computers and Internet
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

@@ -2,7 +2,7 @@ From In God We Trust to In Freedom We Spam
 ==========================================
 .. post:: 14, Feb, 2006
    :category: News and politics
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 `In God We Trust <http://en.wikipedia.org/wiki/In_God_We_Trust>`__ is widely considered a religious phrase. Although the definition

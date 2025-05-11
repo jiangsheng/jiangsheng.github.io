@@ -4,7 +4,7 @@
 .. post:: 6, Jul, 2004
    :tags: WebBrowser Control, MFC
    :category: WebBrowser Control, Microsoft Foundation Classes
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. _blog_hosting_mshtml_update:

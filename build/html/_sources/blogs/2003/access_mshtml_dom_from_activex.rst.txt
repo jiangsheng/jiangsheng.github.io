@@ -4,9 +4,9 @@ ActiveX控件访问所在网页的DHTML文档对象模型(MFC）
 .. post:: 23, Oct, 2003
    :tags: MSHTML, ActiveX
    :category: Microsoft Foundation Classes, WebBrowser Control
-   :author: jiangshengvc
+   :author: me
    :nocomments:
-   
+
 .. code-block:: C++
 
     void CICWXPlayerCtrl::SetHolderID(CICWXPlayerWindowHolder::enumHolderIndex iHolderIndex,LPCTSTR lpszElementID)

@@ -2,7 +2,7 @@ Lab2
 ====
 .. post:: 25, May, 2005
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 

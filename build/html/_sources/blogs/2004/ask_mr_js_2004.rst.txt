@@ -3,7 +3,7 @@ Ask Mr JS
 .. post:: 6, Feb, 2004
    :tags: CSDN, MFC
    :category: Win32, Microsoft Foundation Classes
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 Q

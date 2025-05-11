@@ -4,7 +4,7 @@ ADO和ADOX
 .. post:: 10, Mar, 2004
    :tags: ADO
    :category: Visual C++
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 

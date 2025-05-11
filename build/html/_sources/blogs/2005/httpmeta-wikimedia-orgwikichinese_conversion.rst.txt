@@ -2,7 +2,7 @@ http://meta.wikimedia.org/wiki/Chinese_conversion
 =================================================
 .. post:: 24, Apr, 2005
    :category: Computers and Internet
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

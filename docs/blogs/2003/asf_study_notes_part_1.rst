@@ -4,7 +4,7 @@ ASF学习笔记 Part 1
 .. post:: 25, Sep, 2003
    :tags: Codec
    :category: Windows Media SDK
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. _blog_asf_study_notes_part_1:

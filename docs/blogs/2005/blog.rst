@@ -2,7 +2,7 @@ Blog
 ====
 .. post:: 25, Apr, 2005
    :category: English Writing Practice
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 

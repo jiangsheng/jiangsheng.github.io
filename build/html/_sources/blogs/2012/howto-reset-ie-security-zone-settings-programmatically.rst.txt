@@ -3,7 +3,7 @@ Howto: reset IE security zone settings programmatically
 .. post:: 26, Nov, 2012
    :tags: Internet Explorer 7,security zone settings,Trident (layout engine)
    :category: enmsdn,Microsoft,Visual C++,Visual Studio,Webbrowser control
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 `Internet Explorer

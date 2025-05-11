@@ -4,7 +4,7 @@
 .. post:: 9, Nov, 2003
    :tags: MFC, Hook
    :category: Microsoft Foundation Classes,Visual C++
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. _blog_disable_control_alt_delete_windows_2000:

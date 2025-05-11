@@ -2,7 +2,7 @@ How To Determine When a Page Is Done Printing in WebBrowser Control
 ===================================================================
 .. post:: 24, Mar, 2021
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 Note this post is originally written in 2012. It was lost when moving my web site from Windows Live Spaces to WordPress. I found a dead link to

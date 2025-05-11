@@ -5,7 +5,7 @@ VC/MFC Q&A 200407
 .. post:: 13, Jul, 2004
    :tags: Q&A, MFC
    :category: Microsoft Foundation Classes, CSDN
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. _blog_vc_mfc_qa_2004_07:

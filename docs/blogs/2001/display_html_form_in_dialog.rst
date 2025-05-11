@@ -4,7 +4,7 @@
 .. post:: 2, Aug, 2001
    :tags: WebBrowser Control,DHTMLEdit
    :category: Microsoft Foundation Classes,Visual C++
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. _blog_display_html_form_dialog:

@@ -3,7 +3,7 @@ Bug in Security Update for Visual C++ Redistributable Package: April 12, 2011 ca
 .. post:: 17, Apr, 2011
    :tags: Deployment,Microsoft Foundation Class Library,Redistributable,Visual C++,Windows 2000
    :category: enmsdn,MFC,Microsoft,Visual Studio
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 Update:Microsoft's Visual C++ team has `released workarounds on the

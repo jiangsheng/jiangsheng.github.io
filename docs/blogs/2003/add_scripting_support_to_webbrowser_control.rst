@@ -6,7 +6,7 @@ Sample: IEAutomation to Adding Macro Support to Webbrowser Host Applications
 .. post:: 23, Oct, 2003
    :tags: WebBrowser Control, CHtmlView, Scripting, VBA
    :category: Microsoft Foundation Classes
-   :author: jiangshengvc
+   :author: me
    :nocomments:
    
 

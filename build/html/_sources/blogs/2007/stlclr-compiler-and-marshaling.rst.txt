@@ -3,7 +3,7 @@ STL/CLR, Compiler and Marshaling
 .. post:: 12, Apr, 2007
    :tags: C#,Common Language Runtime,Microsoft Foundation Class Library,Open source,Standard Template Library,Visual C++,Windows Vista
    :category: enmsdn,Microsoft,Visual Studio
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

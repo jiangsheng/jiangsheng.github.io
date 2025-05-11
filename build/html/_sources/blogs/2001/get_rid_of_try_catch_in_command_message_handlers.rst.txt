@@ -4,7 +4,7 @@
 .. post:: 2, Aug, 2001
    :tags: MFC, CCmdTarget
    :category: Microsoft Foundation Classes,Visual C++
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 每个命令处理都可能导致异常，抛出异常通常导致终止当前命令处理。在每个命令处理过程中编写异常处理代码是一个十分繁琐的工作，由于命令是CCmdTarget::OnCmdMsg中处理的，所以可以这个函数中处理所有命令处理过程产生的异常而不用分别编写异常处理函数。

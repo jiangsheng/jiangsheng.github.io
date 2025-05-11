@@ -2,7 +2,7 @@ Summary for A Global Trade Agreement Must Address Invasive Species
 ====================================================================================
 .. post:: 9, Feb, 2005
    :category: English Writing Practice
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

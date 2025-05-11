@@ -3,7 +3,7 @@ Microsoft MVP again
 .. post:: 25, Jan, 2011
    :tags: Microsoft Most Valuable Professional,MVP program,Visual C++
    :category: Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 |mvplogo|

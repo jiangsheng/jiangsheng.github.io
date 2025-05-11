@@ -3,7 +3,7 @@
 
 .. post:: 1, Apr, 2004
    :category: Internet Explorer, Win32, Visual C++
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 明天出发去西雅图参加微软全球最有价值专家年会了，暂停更新一段时间。

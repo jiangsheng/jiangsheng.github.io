@@ -3,7 +3,7 @@ Use windbg as an external tools of Visual C++
 .. post:: 27, Jun, 2005
    :tags: Visual C++
    :category: Computers and Internet
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

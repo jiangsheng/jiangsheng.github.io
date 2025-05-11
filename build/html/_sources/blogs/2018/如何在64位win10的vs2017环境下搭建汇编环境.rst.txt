@@ -2,7 +2,7 @@
 ====================================================
 .. post:: 18, Jun, 2018
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 用户AcmeContracted安装masm32失败，所以\ `想知道是否能集成masm64到Visual

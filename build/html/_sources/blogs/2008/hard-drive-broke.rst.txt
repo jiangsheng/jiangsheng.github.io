@@ -2,7 +2,7 @@ Hard Drive Broke
 ================
 .. post:: 17, Mar, 2008
    :category: Computers and Internet
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 

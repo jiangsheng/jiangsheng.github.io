@@ -2,7 +2,7 @@
 =========================
 .. post:: 5, Dec, 2005
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

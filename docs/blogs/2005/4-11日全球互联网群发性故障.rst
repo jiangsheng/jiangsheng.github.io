@@ -2,7 +2,7 @@
 ==============================
 .. post:: 12, Apr, 2005
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 美国中部夏令时4月11日，本市多个因特网服务商，包括Yahoo DSL和得克萨斯州教育网的服务短时间中断。根据报道，在同一时间部分中国和澳洲因特网服务商的服务也出现中断。

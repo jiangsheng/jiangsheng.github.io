@@ -2,7 +2,7 @@ Blinking wifi icon and black screen on Surface 2
 ================================================
 .. post:: 21, Aug, 2018
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 This is the second time I run into this problem after a Windows Update. First time was halfway through last year's Microsoft MVP Summit and I had to Remote Desktop to my home machine with a spare android tablet and Bluetooth keyboard/mouse to get access to Windows apps. 

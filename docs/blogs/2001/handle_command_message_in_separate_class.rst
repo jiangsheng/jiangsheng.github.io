@@ -6,7 +6,7 @@
 .. post:: 2, Aug, 2001
    :tags: MFC, CCmdTarget
    :category: Microsoft Foundation Classes,Visual C++
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 适用于有很多命令处理函数的对象，以及共享命令处理函数。

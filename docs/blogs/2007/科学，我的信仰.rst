@@ -2,7 +2,7 @@
 ========================
 .. post:: 19, Sep, 2007
    :category: Philosophy
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 | 花が咲き そして散る

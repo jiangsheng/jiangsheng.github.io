@@ -3,7 +3,7 @@ Application crash when forcing IE8 rendering mode in webbrowser host
 .. post:: 17, Nov, 2010
    :tags: Internet Explorer 8,Trident (layout engine),WebBrowser Control
    :category: enmsdn,Microsoft Foundation Class Library,Visual C++
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: zemanta-img

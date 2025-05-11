@@ -4,7 +4,7 @@
 .. post:: 10, Mar, 2004
    :tags: ListView, Timer
    :category: Win32
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 http://expert.csdn.net/expert/Topicview2.asp?id=2751134

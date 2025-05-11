@@ -2,7 +2,7 @@ Lincoln's assassination
 =======================
 .. post:: 12, Apr, 2005
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

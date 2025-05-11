@@ -4,7 +4,7 @@
 .. post:: 27, Jun, 2004
    :tags: WebBrowser Control, CHtmlView, Scripting, VBA
    :category: Microsoft Foundation Classes
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. _add_scripting_support_to_webbrowser_control_update:

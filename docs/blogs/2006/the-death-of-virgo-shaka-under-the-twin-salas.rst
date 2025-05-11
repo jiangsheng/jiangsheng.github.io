@@ -2,7 +2,7 @@ The death of Virgo Shaka under the twin Salas
 =============================================
 .. post:: 8, Jun, 2006
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

@@ -3,7 +3,7 @@ Walkaround for Error : An add-on for this website failed to run. When opening Vi
 .. post:: 24, Mar, 2009
    :tags: ActiveX,Internet Explorer,Internet Explorer 8,Microsoft Visual Studio,Regmon,Security Programming,Trident (layout engine),Visual C++
    :category: enmsdn,Microsoft,Visual Studio
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 Update: it looks like a lot of people are hitting this page by

@@ -4,7 +4,7 @@
 .. post:: 7, Jul, 2004
    :tags: WebBrowser Control
    :category: WebBrowser Control, Win32
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 docs/blogs/2004/enable_autocomplete_forms_webbrowser_control.rst

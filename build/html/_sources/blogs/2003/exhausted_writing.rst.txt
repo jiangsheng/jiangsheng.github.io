@@ -4,7 +4,7 @@
 .. post:: 23, Oct, 2003
    :tags: WebBrowser Control, CHtmlView, Scripting
    :category: Microsoft Foundation Classes
-   :author: jiangshengvc
+   :author: me
    :nocomments:
    
 .. _editor_notes_for_webbrowser_control_host_scripting:

@@ -4,7 +4,7 @@ ASF学习笔记 Part 2
 .. post:: 26, Sep, 2003
    :tags: Codec
    :category: Windows Media SDK
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 使用回调方法

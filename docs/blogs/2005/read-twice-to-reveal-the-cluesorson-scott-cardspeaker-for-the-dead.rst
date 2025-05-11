@@ -2,7 +2,7 @@ Read Twice to reveal the clues(Orson Scott Card,SPEAKER FOR THE DEAD)
 =====================================================================
 .. post:: 21, May, 2005
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

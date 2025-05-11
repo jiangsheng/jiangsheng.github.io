@@ -3,7 +3,7 @@ How to solve LNK2001 errors related to Windows SDK CLSIDs
 .. post:: 8, Apr, 2011
    :tags: Globally unique identifier,Microsoft Windows SDK,Visual C++
    :category: enmsdn,Microsoft,Visual Studio
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 User IMFCoder `wants to

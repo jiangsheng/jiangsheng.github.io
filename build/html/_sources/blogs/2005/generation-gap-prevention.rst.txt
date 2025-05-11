@@ -2,7 +2,7 @@ Generation Gap Prevention
 =========================
 .. post:: 21, Feb, 2005
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

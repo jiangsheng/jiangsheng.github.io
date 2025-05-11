@@ -2,7 +2,7 @@ Primates
 ========
 .. post:: 26, Feb, 2005
    :category: English Writing Practice
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

@@ -2,7 +2,7 @@ Find and replace specific formatting in Word 2003
 =================================================
 .. post:: 10, Nov, 2005
    :category: Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

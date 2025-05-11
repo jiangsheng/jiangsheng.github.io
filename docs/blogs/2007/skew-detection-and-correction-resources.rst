@@ -2,7 +2,7 @@ Skew detection and correction resources
 =======================================
 .. post:: 1, Jun, 2007
    :category: Math
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 http://homepages.inf.ed.ac.uk/rbf/HIPR2/hough.htm a nice introduction

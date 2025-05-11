@@ -3,7 +3,7 @@ MFC Feature Pack发布
 .. post:: 7, Apr, 2008
    :tags: Microsoft Foundation Class Library,Visual C++
    :category: Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

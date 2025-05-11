@@ -2,7 +2,7 @@ Summary for "Are Your Patients Exercising Too Much?"
 ====================================================
 .. post:: 15, Feb, 2005
    :category: English Writing Practice
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

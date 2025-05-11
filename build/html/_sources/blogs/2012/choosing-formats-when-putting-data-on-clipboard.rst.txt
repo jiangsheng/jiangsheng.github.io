@@ -3,7 +3,7 @@ Choosing formats when putting data on clipboard
 .. post:: 21, Mar, 2012
    :tags: clipboard
    :category: enmsdn,WebBrowser Control
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 The topic is from a forum discussion

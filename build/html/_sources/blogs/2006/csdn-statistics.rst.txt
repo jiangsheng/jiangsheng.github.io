@@ -2,7 +2,7 @@ CSDN statistics
 ===============
 .. post:: 17, Oct, 2006
    :category: CSDN
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 基本信息：

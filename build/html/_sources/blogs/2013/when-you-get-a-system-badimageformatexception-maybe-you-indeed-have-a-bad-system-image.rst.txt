@@ -3,7 +3,7 @@ When you get a System.BadImageFormatException. maybe you indeed have a bad syste
 .. post:: 8, Feb, 2013
    :tags: .NET Framework,Call stack,Exception handling
    :category: Microsoft,Visual Studio
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 I am getting a StackOverflowException with two functions repeating on

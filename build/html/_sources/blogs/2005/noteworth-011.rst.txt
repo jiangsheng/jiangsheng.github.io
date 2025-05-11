@@ -2,7 +2,7 @@ NoteWorth 011
 =============
 .. post:: 10, Feb, 2005
    :category: English Writing Practice
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

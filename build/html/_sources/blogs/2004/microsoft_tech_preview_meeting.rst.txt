@@ -4,7 +4,7 @@
 .. post:: 1, Jul, 2004
    :tags: 
    :category: Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 很多学生、开发者和媒体出席

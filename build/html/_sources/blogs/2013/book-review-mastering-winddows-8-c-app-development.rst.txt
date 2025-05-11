@@ -3,7 +3,7 @@ Book review: Mastering Windows 8 C++ App Development
 .. post:: 8, Aug, 2013
    :tags: DirectX,Microsoft Windows,Model View ViewModel,Windows 8,Windows Runtime,Windows Store
    :category: enmsdn,Microsoft,Visual C++,Visual Studio
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 Disclaimer: I am a Microsoft MVP in Visual C++, so is Pavel Yosifovich,

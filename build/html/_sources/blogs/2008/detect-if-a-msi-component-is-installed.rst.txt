@@ -3,7 +3,7 @@ Detect if a MSI component is installed
 .. post:: 24, Mar, 2008
    :tags: Application programming interface,C#,Windows SDK
    :category: Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 A C# program for those who don't know MSI SDK or C++. C++ programmers

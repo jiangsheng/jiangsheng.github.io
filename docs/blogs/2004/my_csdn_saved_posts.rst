@@ -4,7 +4,7 @@
 .. post:: 17, Nov, 2004
    :tags: CSDN
    :category: Visual C++
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 * 无界面的HTML分析器·分析网页中的表格/ http://community.csdn.net/Expert/topicview.asp?id=351580

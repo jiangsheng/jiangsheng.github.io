@@ -3,7 +3,7 @@ When Microsoft Office Live Meets Google Chrome
 .. post:: 8, Sep, 2008
    :tags: Google Chrome,Office Live
    :category: Microsoft
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg

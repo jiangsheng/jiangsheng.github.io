@@ -2,7 +2,7 @@ MSN messenger exceeds capacity
 ==============================
 .. post:: 17, Nov, 2005
    :category: Uncategorized
-   :author: jiangshengvc
+   :author: me
    :nocomments:
 
 .. container:: bvMsg
