@@ -94,6 +94,17 @@
    登鹳雀楼王之焕.rst
    programming_active_desktop   
    dial_programmatically
+   when_can_force_cast
+   increase_version_number_on_build
+   virtual_destructor
+   istream_on_cstring
+   wake_on_lan_programmatically
+   win32_dot_net_q_and_a
+   hosting_dotnet_control_in_mfc
+   handle_http_error_in_mshtml
+   bug_in_vc_automation_wizard
+   changes_in_visual_c_2005_beta_2
+   lazy_programmers_generate_code
    
 Indices and tables
 
