@@ -291,7 +291,6 @@ rediraffe_redirects = "redirects.txt"
 blog_path = "blogs/"
 blog_authors = {
     "me": ("Sheng Jiang", "https://jiangsheng.net"),
-    "me": ("Sheng Jiang", "https://jiangsheng.net"),
 }
 fontawesome_included = True
 

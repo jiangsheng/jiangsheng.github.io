@@ -1,17 +1,15 @@
 .. _blogs_2024:
 
 ======================================
-2024 Blogs
+Blogs in 2024 
 ======================================
 
 .. toctree::
    :maxdepth: 1
    :caption: 内容:
    :titlesonly:
-   
-   troubleshooting-sgen-error-an-attempt-was-made-to-load-an-assembly-with-an-incorrect-format   
-  
-Indices and tables
+
+   Blogs in September 2024<09/index>
 
 * :ref:`genindex`
 * :ref:`modindex`

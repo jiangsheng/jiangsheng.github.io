@@ -1,4 +1,3 @@
-"blogs\2005\stress-control" "blogs\2005\stress-control-2"
 "gradma/index" "grandma/index" 
 "games/axis_and_allies/buildings/corps_hq" "games/axis_and_allies/buildings/index"
 "games/axis_and_allies/buildings/infantry_hq" "games/axis_and_allies/buildings/index"

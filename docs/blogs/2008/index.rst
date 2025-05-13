@@ -1,25 +1,20 @@
 .. _blogs_2008:
 
 ======================================
-2008 Blogs
+Blogs in 2008 
 ======================================
 
 .. toctree::
    :maxdepth: 1
    :caption: 内容:
    :titlesonly:
-   
-   detect-if-a-msi-component-is-installed
-   feedback-from-microsoft
-   hard-drive-broke
-   mfc-feature-pack发布
-   mfc更新beta版
-   smart-harddrive-error
-   type-system-web-ui-webcontrols-parameter-does-not-have-a-public-property-named-dbtype
-   visual-c-10-和-mfc-10的新特性
-   when-microsoft-office-live-meets-google-chrome
 
-Indices and tables
+   Blogs in January 2008<01/index>
+   Blogs in March 2008<03/index>
+   Blogs in April 2008<04/index>
+   Blogs in June 2008<06/index>
+   Blogs in September 2008<09/index>
+   Blogs in October 2008<10/index>
 
 * :ref:`genindex`
 * :ref:`modindex`

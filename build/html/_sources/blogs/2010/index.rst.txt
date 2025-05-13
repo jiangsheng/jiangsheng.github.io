@@ -1,19 +1,16 @@
 .. _blogs_2010:
 
 ======================================
-2010 Blogs
+Blogs in 2010 
 ======================================
 
 .. toctree::
    :maxdepth: 1
    :caption: 内容:
    :titlesonly:
-   
-application-crash-when-forcing-ie8-rendering-mode-in-webbrowser-host.rst
-coding-horror.rst
-what-is-the-difference-between-int-and-systemint32.rst
 
-Indices and tables
+   Blogs in February 2010<02/index>
+   Blogs in November 2010<11/index>
 
 * :ref:`genindex`
 * :ref:`modindex`
