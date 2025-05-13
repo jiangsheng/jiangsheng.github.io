@@ -1,17 +1,15 @@
 .. _blogs_2019:
 
 ======================================
-2019 Blogs
+Blogs in 2019 
 ======================================
 
 .. toctree::
    :maxdepth: 1
    :caption: 内容:
    :titlesonly:
-    
-   fix-sphinxcontrib-googleanalytics-on-sphinx-1-8.rst
 
-Indices and tables
+   Blogs in January 2019<01/index>
 
 * :ref:`genindex`
 * :ref:`modindex`

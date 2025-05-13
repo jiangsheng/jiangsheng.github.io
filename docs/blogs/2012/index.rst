@@ -1,19 +1,18 @@
 .. _blogs_2012:
 
 ======================================
-2012 Blogs
+Blogs in 2012 
 ======================================
 
 .. toctree::
    :maxdepth: 1
    :caption: 内容:
    :titlesonly:
-    
-   add-the-correct-interface-first-in-the-adding-a-class-from-an-activex-control-wizard.rst
-   choosing-formats-when-putting-data-on-clipboard.rst
-   how-to-migrating-a-clr-console-visual-c-project-to-windows-forms.rst
-   howto-reset-ie-security-zone-settings-programmatically.rst
-   whats-new-in-mfcatl-11-beta.rst
+
+   Blogs in March 2012<03/index>
+   Blogs in April 2012<04/index>
+   Blogs in November 2012<11/index>
+   Blogs in December 2012<12/index>
 
 * :ref:`genindex`
 * :ref:`modindex`

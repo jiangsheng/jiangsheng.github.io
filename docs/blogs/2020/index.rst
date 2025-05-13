@@ -1,18 +1,16 @@
 .. _blogs_2020:
 
 ======================================
-2020 Blogs
+Blogs in 2020 
 ======================================
 
 .. toctree::
    :maxdepth: 1
    :caption: 内容:
    :titlesonly:
-    
-   finding-the-right-ruby-version.rst
-   todays-fake-email-of-the-day.rst
 
-Indices and tables
+   Blogs in May 2020<05/index>
+   Blogs in October 2020<10/index>
 
 * :ref:`genindex`
 * :ref:`modindex`

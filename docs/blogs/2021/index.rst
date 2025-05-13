@@ -1,23 +1,20 @@
 .. _blogs_2021:
 
 ======================================
-2021 Blogs
+Blogs in 2021 
 ======================================
 
 .. toctree::
    :maxdepth: 1
    :caption: 内容:
    :titlesonly:
-    
-   better-late-than-never.rst
-   converting-generic-oopfactory-x12-structures-to-typed-counterparts.rst
-   how-to-determine-when-a-page-is-done-printing-in-webbrowser-control.rst
-   icepocalypse-2021-冰狱-2021.rst
-   new-web-serer-hijacker-httpresetmodule-dll.rst
-   troubleshooting-a-memory-leak.rst
-   微软拼音卡顿的问题.rst
 
-Indices and tables
+   Blogs in January 2021<01/index>
+   Blogs in February 2021<02/index>
+   Blogs in March 2021<03/index>
+   Blogs in April 2021<04/index>
+   Blogs in June 2021<06/index>
+   Blogs in September 2021<09/index>
 
 * :ref:`genindex`
 * :ref:`modindex`

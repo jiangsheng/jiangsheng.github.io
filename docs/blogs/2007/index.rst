@@ -1,24 +1,21 @@
 .. _blogs_2007:
 
 ======================================
-2007 Blogs
+Blogs in 2007 
 ======================================
 
 .. toctree::
    :maxdepth: 1
    :caption: 内容:
    :titlesonly:
-   
-   autocomplete-with-datasource.rst
-   handle-newwindow3-and-showmodaldialog-in-chtmlview.rst
-   mcdonalds-yum-alleged-to-break-chinese-wage-laws.rst
-   microsoft-mvp-again.rst
-   skew-detection-and-correction-resources.rst
-   stlclr-compiler-and-marshaling.rst
-   visual-c-2008-beta2-里面的class-designer.rst
-   科学，我的信仰.rst
 
-Indices and tables
+   Blogs in January 2007<01/index>
+   Blogs in March 2007<03/index>
+   Blogs in April 2007<04/index>
+   Blogs in June 2007<06/index>
+   Blogs in July 2007<07/index>
+   Blogs in August 2007<08/index>
+   Blogs in September 2007<09/index>
 
 * :ref:`genindex`
 * :ref:`modindex`

@@ -1,17 +1,15 @@
 .. _blogs_2022:
 
 ======================================
-2022 Blogs
+Blogs in 2022 
 ======================================
 
 .. toctree::
    :maxdepth: 1
    :caption: 内容:
    :titlesonly:
-    
-   bypassing-factory-reset-production-on-microsoft-lumia-640
 
-Indices and tables
+   Blogs in August 2022<08/index>
 
 * :ref:`genindex`
 * :ref:`modindex`
