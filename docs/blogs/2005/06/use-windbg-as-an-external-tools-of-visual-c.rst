@@ -6,7 +6,7 @@ Use windbg as an external tools of Visual C++
    :author: me
    :nocomments:
 
-在我的前一篇BLOG(\ :doc:`debug_using_windbg_in_visual_c`\ )中我提到了如何使用WinDbg来调试Visual C++程序。但是从IDE到命令行之间的切换比较麻烦，为了偷懒起见，可以把WinDbg加到Visual Studio的工具菜单中，这样就可以直接从IDE启动WinDbg来进行调试了。下面是外部工具配置界面的设置
+在我的前一篇BLOG(\ :ref:`使用WinDbg调试VC程序 <blog_debug_using_windbg_in_visual_c>`\ )中我提到了如何使用WinDbg来调试Visual C++程序。但是从IDE到命令行之间的切换比较麻烦，为了偷懒起见，可以把WinDbg加到Visual Studio的工具菜单中，这样就可以直接从IDE启动WinDbg来进行调试了。下面是外部工具配置界面的设置
 
 标题 : WinDbg
 

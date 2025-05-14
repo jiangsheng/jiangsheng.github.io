@@ -2,7 +2,7 @@ Bypassing Factory Reset Protection Microsoft Lumia 640
 ======================================================
 
 .. post:: 6 Aug, 2022
-   :tags: Factory Reset Protection, Microsoft Lumia, Windows Phone Interop Tools
+   :tags: Microsoft Lumia
    :category: Windows Phone 
    :author: me
    :nocomments:

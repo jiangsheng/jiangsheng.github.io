@@ -1,11 +1,12 @@
 使用WinDbg调试VC程序
 ======================
-
 .. post:: 8, Jun, 2005
    :tags: Visual C++, windbg
    :category: Visual C++
    :author: me
    :nocomments:
+
+.. _blog_debug_using_windbg_in_visual_c:
 
 虽然在VC6.0中可以通过安装Visual C++ Toolkit(https://archive.org/details/microsoft-visual-c-toolkit-2003)来编写基于最新版本的平台SDK、DirectX SDK的程序以及托管代码，但是VC6附带的调试器并不支持新版本的调试信息，所以实际上是不能用VC6来调试新版本编译器生成的程序的。
 

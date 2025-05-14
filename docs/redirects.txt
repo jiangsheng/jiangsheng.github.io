@@ -159,6 +159,7 @@
 "blogs/2006/baidu-baike-the-chinese-repalcement-of-wikipedia" "blogs/2006/05/baidu-baike-the-chinese-repalcement-of-wikipedia"
 "blogs/2006/csdn-statistics" "blogs/2006/10/csdn-statistics"
 "blogs/2006/error-unable-to-cast-com-object-of-type-mshtml-htmldocumentclass-to-interface-type-icustomdoc" "blogs/2006/10/error-unable-to-cast-com-object-of-type-mshtml-htmldocumentclass-to-interface-type-icustomdoc"
+"2006/error-unable-to-cast-com-object-of-type-mshtml-htmldocumentclass-to-interface-type-icustomdoc" "blogs/2006/10/error-unable-to-cast-com-object-of-type-mshtml-htmldocumentclass-to-interface-type-icustomdoc"
 "blogs/2006/from-in-god-we-trust-to-in-freedom-we-spam" "blogs/2006/02/from-in-god-we-trust-to-in-freedom-we-spam"
 "blogs/2006/microsoft-award-certificates" "blogs/2006/04/microsoft-award-certificates"
 "blogs/2006/microsoft-mvp-re-awarded-again" "blogs/2006/01/microsoft-mvp-re-awarded-again"

@@ -28,7 +28,7 @@
 
 .. code-block:: C++
 
-    DocTitle,DocFormat,Url,DocAuthor,PrimaryDate,FileName, FileExt,IsAttachment,Characterization,Rank,PerceivedType, HasAttach,DocTitlePrefix,FileExtDesc,DisplayFolder, DocKeywords,DocComments,ConversationID,Size, Create,Write。
+    DocTitle,DocFormat,Url,DocAuthor,PrimaryDate,FileName, FileExt,IsAttachment,Characterization,Rank,PerceivedType, HasAttach,DocTitlePrefix,FileExtDesc,DisplayFolder, DocKeywords,DocComments,ConversationID,Size, Create,Write
 
 .. code-block:: C++
 
