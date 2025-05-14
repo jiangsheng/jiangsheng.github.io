@@ -1,61 +1,21 @@
 Use windbg as an external tools of Visual C++
 =============================================
 .. post:: 27, Jun, 2005
-   :tags: Visual C++
+   :tags: Visual C++, windbg
    :category: Computers and Internet
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!193
+在我的前一篇BLOG(\ :doc:`debug_using_windbg_in_visual_c`\ )中我提到了如何使用WinDbg来调试Visual C++程序。但是从IDE到命令行之间的切换比较麻烦，为了偷懒起见，可以把WinDbg加到Visual Studio的工具菜单中，这样就可以直接从IDE启动WinDbg来进行调试了。下面是外部工具配置界面的设置
 
-   .. container::
+标题 : WinDbg
 
-      Title :
+命令行: C:\masm32\debug\windbg.exe (这不是一个典型路径，但是既然MASM里面有了，我也懒得再去下一个来装，如果是单独下载安装的话，命令行可能像这样："C:\Program Files\Debugging Tools for Windows\windbg.exe")
 
-   .. container::
+参数:-ee c++ -G -i "$(TargetDir)" -y "$(TargetDir)" -QY -logo -QSY -sdce -WF "$(ProjectFileName).WEW" "$(TargetPath)"
 
-      WinDbg
+(命令行太长的时候windbg会工作不正常。至于这些参数的含义——呃，还是去下一个Debug Tools For Windows回来装上看文档比较好。）
 
-   .. container::
+初始目录: $(ProjectDir)
 
-      (or any title you want)
-
-   .. container::
-
-      Command :
-
-   .. container::
-
-      C:\\masm32\\debug\\windbg.exe
-
-   .. container::
-
-      (it is not a typical position, but it is where it is on my pc.)
-
-   .. container::
-
-      Arguments:
-
-   .. container::
-
-      -ee c++ -G -i "$(TargetDir)"  -y "$(TargetDir)" -QY -logo -QSY
-      -sdce -WF "$(ProjectFileName).WEW" "$(TargetPath)"
-
-   .. container::
-
-      (The commandline may be too long to execute, remove some switches
-      if that happens. For more information about this junk, see
-      Debugger Reference in the documentation of Debug Tools for
-      Windows, and Macros for Build Commands and Properties, `Visual
-      C <http://msdn2.microsoft.com/en-us/visualc/default.aspx>`__\ ++
-      Concepts: Building a C/C++ Program, in
-      `MSDN <http://en.wikipedia.org/wiki/Microsoft_Developer_Network>`__).
-
-   .. container::
-
-      Initial Directory:
-
-   .. container::
-
-      $(ProjectDir)
+当然，调试的代码不限于C++，实际上，我主要是用windbg来调试汇编代码。
