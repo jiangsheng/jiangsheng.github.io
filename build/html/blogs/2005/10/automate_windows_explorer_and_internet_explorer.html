@@ -1,0 +1,872 @@
+
+<!DOCTYPE html>
+
+
+<html lang="zh-CN" data-content_root="../../../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>创建和自动化Internet Explorer和资源管理器窗口 &#8212; jiangsheng&#39;s docs</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="../../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/sphinx-design.min.css?v=95c83b7e" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css?v=cda70fc7" />
+  
+  <!-- So that users can add custom icons -->
+  <script src="../../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="../../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+
+    <script src="../../../_static/documentation_options.js?v=aec57771"></script>
+    <script src="../../../_static/doctools.js?v=9bcbadda"></script>
+    <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script async="async" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3710396369816898"></script>
+    <script src="../../../_static/design-tabs.js?v=f930bc37"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'blogs/2005/10/automate_windows_explorer_and_internet_explorer';</script>
+    <script src="../../../_static/js/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
+    <link rel="canonical" href="https://jiangsheng.net/build/html/blogs/2005/10/automate_windows_explorer_and_internet_explorer.html" />
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../search.html" /> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="zh-CN"/>
+  <meta name="docsearch:version" content="" />   
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="../../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-3 navbar-header-items__start">
+    
+      <div class="navbar-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../../../reference.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">jiangsheng's docs</p>
+  
+</a></div>
+    
+  </div>
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../../games/index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+        
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar hide-on-wide">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          
+          
+            <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../../README.html">
+    Homepage
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../../games/index.html">
+    Games
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../index.html">
+    Blogs
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../../grandma/index.html">
+    Grandma's handbook
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../../index.html">
+    Homepage
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+          
+        
+      </div>
+    
+    
+    
+  </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item"><nav class="sidebar-indices-items" aria-labelledby="pst-indices-navigation-heading-2">
+  <p id="pst-indices-navigation-heading-2" class="sidebar-indices-items__title" role="heading" aria-level="1">Indices</p>
+  <ul class="indices-link">
+        <li class="toctree-l1">
+          <a class="reference internal"
+             href="../../../genindex.html"
+             accesskey="I">General Index</a>
+        </li>
+  </ul>
+</nav></div>
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="../../../reference.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">创建和自动化Internet Explorer和资源管理器窗口</span></li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                   <section id="internet-explorer">
+<h1>创建和自动化Internet Explorer和资源管理器窗口<a class="headerlink" href="#internet-explorer" title="Link to this heading">#</a></h1>
+<p>下载示例工程 - 34 Kb <a class="github reference external" href="https://github.com/jiangsheng/Samples/tree/master/AutomateShellWindow/Automation">jiangsheng/Samples</a></p>
+<p>我在很久之前就开始用程序自动化Shell窗口——主要对象是IE窗口。有时浏览器控件或者MFC类CHTMLView可以满足我的需要，但是很多时候我需要从头嵌入浏览器控件并且尽可能模拟IE的行为，例如实现IDocHostUIHandler来启用自动完成功能。一个很自然的替代方案是直接操作IE窗口。</p>
+<p>创建新的Internet Explorer窗口</p>
+<p>最简单的方法是调用Windows API ShellExecute (Ex)，Paul DiLascia在他的C++ Q&amp;A专栏文章”Browser Detection Revisited, Toolbar Info, IUnknown with COM and MFC”里面有一段示例代码:</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="c1">/// As I&#39;ve shown in many programs...</span>
+<span class="n">ShellExecute</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="n">_T</span><span class="p">(</span><span class="s">&quot;open&quot;</span><span class="p">),</span><span class="w"> </span><span class="n">pszMyHTMLFile</span><span class="p">,</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="n">SW_SHOWNORMAL</span><span class="p">);</span>
+</pre></div>
+</div>
+<p>但是，这样没法控制新的窗口，而且在用户关闭程序之后会留下一个IE窗口。为了扫我自己的门前雪，我需要找到我创建的窗口，并且控制它。</p>
+<p>我的下一个尝试是创建和控制一个InternetExplorer对象，并且在必要时关掉它。微软知识库中有这么一篇文章”How To Automate Internet Explorer to POST Form Data” 基本上描述的就是我想要的，除了最后的关闭窗口。嗯，简单的调用IWebBrowser2::Quit就可以做到这一点</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="c1">// create a new IE instance and show it</span>
+<span class="c1">//CComQIPtr m_pWebBrowser2;</span>
+<span class="n">m_pWebBrowser2</span><span class="p">.</span><span class="n">CoCreateInstance</span><span class="p">(</span><span class="n">CLSID_InternetExplorer</span><span class="p">);</span>
+<span class="n">HRESULT</span><span class="w"> </span><span class="n">hr</span><span class="p">;</span>
+<span class="n">hr</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">m_pWebBrowser2</span><span class="o">-&gt;</span><span class="n">put_StatusBar</span><span class="p">(</span><span class="n">VARIANT_TRUE</span><span class="p">);</span>
+<span class="n">hr</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">m_pWebBrowser2</span><span class="o">-&gt;</span><span class="n">put_ToolBar</span><span class="p">(</span><span class="n">VARIANT_TRUE</span><span class="p">);</span>
+<span class="n">hr</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">m_pWebBrowser2</span><span class="o">-&gt;</span><span class="n">put_MenuBar</span><span class="p">(</span><span class="n">VARIANT_TRUE</span><span class="p">);</span>
+<span class="n">hr</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">m_pWebBrowser2</span><span class="o">-&gt;</span><span class="n">put_Visible</span><span class="p">(</span><span class="n">VARIANT_TRUE</span><span class="p">);</span>
+
+<span class="k">if</span><span class="p">(</span><span class="o">!::</span><span class="n">PathIsURL</span><span class="p">(</span><span class="n">m_strFileToFind</span><span class="p">))</span>
+<span class="w">    </span><span class="n">m_strFileToFind</span><span class="o">=</span><span class="n">_T</span><span class="p">(</span><span class="s">&quot;http://blog.joycode.com/jiangsheng&quot;</span><span class="p">);</span>
+<span class="n">COleVariant</span><span class="w"> </span><span class="nf">vaURL</span><span class="p">(</span><span class="w"> </span><span class="p">(</span><span class="w"> </span><span class="n">LPCTSTR</span><span class="p">)</span><span class="w"> </span><span class="n">m_strFileToFind</span><span class="p">);</span>
+<span class="n">m_pWebBrowser2</span><span class="o">-&gt;</span><span class="n">Navigate2</span><span class="p">(</span>
+<span class="w">    </span><span class="o">&amp;</span><span class="n">vaURL</span><span class="p">,</span><span class="w"> </span><span class="n">COleVariant</span><span class="p">(</span><span class="w"> </span><span class="p">(</span><span class="kt">long</span><span class="p">)</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="n">VT_I4</span><span class="p">),</span>
+<span class="w">    </span><span class="n">COleVariant</span><span class="p">((</span><span class="n">LPCTSTR</span><span class="p">)</span><span class="nb">NULL</span><span class="p">,</span><span class="w"> </span><span class="n">VT_BSTR</span><span class="p">),</span>
+<span class="w">    </span><span class="n">COleSafeArray</span><span class="p">(),</span>
+<span class="w">    </span><span class="n">COleVariant</span><span class="p">((</span><span class="n">LPCTSTR</span><span class="p">)</span><span class="nb">NULL</span><span class="p">,</span><span class="w"> </span><span class="n">VT_BSTR</span><span class="p">)</span>
+<span class="p">);</span>
+<span class="kt">void</span><span class="w"> </span><span class="nf">CAutomationDlg::OnDestroy</span><span class="p">()</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="c1">//close the IE window created by this program before exit</span>
+<span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">m_pWebBrowser2</span><span class="p">)</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">        </span><span class="k">if</span><span class="p">(</span><span class="n">m_bOwnIE</span><span class="p">)</span>
+<span class="w">        </span><span class="p">{</span>
+<span class="w">            </span><span class="n">m_pWebBrowser2</span><span class="o">-&gt;</span><span class="n">Quit</span><span class="p">();</span>
+<span class="w">            </span><span class="n">m_bOwnIE</span><span class="o">=</span><span class="n">FALSE</span><span class="p">;</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">        </span><span class="n">UnadvisesinkIE</span><span class="p">();</span>
+<span class="w">        </span><span class="n">m_pWebBrowser2</span><span class="o">=</span><span class="p">(</span><span class="n">LPUNKNOWN</span><span class="p">)</span><span class="nb">NULL</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="n">CDialog</span><span class="o">::</span><span class="n">OnDestroy</span><span class="p">();</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>还有一个问题。要是用户在我的WM_TIMER处理函数中操作窗口之前关掉了新的IE窗口怎么办？可以IWebBrowser2接口控制的IE对象现在不再存在了。幸亏微软考虑到了这一点，程序不会崩溃，但是最好还是能够知道什么时候它会关闭，这样我可以避免意外发生。</p>
+<p>处理Internet Explorer的事件</p>
+<p>Internet Explorer对象在退出时会触发DWebBrowserEvents2::OnQuit事件。这是一个理想的释放控制的时机。因为对象要被销毁，所以我同时也停止监视对象的事件</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="k">if</span><span class="p">(</span><span class="n">m_pWebBrowser2</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">UnadvisesinkIE</span><span class="p">();</span>
+<span class="w">    </span><span class="n">m_pWebBrowser2</span><span class="o">=</span><span class="p">(</span><span class="n">LPUNKNOWN</span><span class="p">)</span><span class="nb">NULL</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>连接到当前的Internet Explorer窗口</p>
+<p>虽然我不在乎我会控制到哪个IE窗口，但是既然微软知识库里面有”如何连接到一个Internet Explorer的实例”这样一篇文章，我假定一些人会觉得”如何连接到当前的Internet Explorer实例”这样一篇文章比较有用.</p>
+<p>这样的话，什么是“当前的Internet Explorer实例”？实际上，它就是最后一个活动的IE窗口。因为Windows会把活动的窗口移动到z-order的顶部，所以它会保留在所有IE窗口的z-order的最高处。因此我需要做的就是找到哪个IE窗口具有最高的z-order值。这样我需要先判断哪个窗口是IE窗口。在一些和Spy++有关的调查之后，我假定IE窗口具有一个共同的窗口类”IEFrame”，然后编写了一个函数来获得Shell窗口的窗口类：</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="c1">//shell windows object will list both IE and Explorer windows</span>
+<span class="c1">//use their window class names to identify them.</span>
+<span class="n">CString</span><span class="w"> </span><span class="nf">CAutomationDlg::GetWindowClassName</span><span class="p">(</span><span class="n">IWebBrowser2</span><span class="o">*</span><span class="w"> </span><span class="n">pwb</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">TCHAR</span><span class="w"> </span><span class="n">szClassName</span><span class="p">[</span><span class="n">_MAX_PATH</span><span class="p">];</span>
+<span class="w">    </span><span class="n">ZeroMemory</span><span class="p">(</span><span class="w"> </span><span class="n">szClassName</span><span class="p">,</span><span class="w"> </span><span class="n">_MAX_PATH</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="k">sizeof</span><span class="p">(</span><span class="w"> </span><span class="n">TCHAR</span><span class="p">));</span>
+<span class="w">    </span><span class="n">HWND</span><span class="w"> </span><span class="n">hwnd</span><span class="o">=</span><span class="nb">NULL</span><span class="p">;</span>
+<span class="w">    </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">pwb</span><span class="p">)</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">        </span><span class="n">LONG_PTR</span><span class="w"> </span><span class="n">lwnd</span><span class="o">=</span><span class="nb">NULL</span><span class="p">;</span>
+<span class="w">        </span><span class="n">pwb</span><span class="o">-&gt;</span><span class="n">get_HWND</span><span class="p">(</span><span class="o">&amp;</span><span class="n">lwnd</span><span class="p">);</span>
+<span class="w">        </span><span class="n">hwnd</span><span class="o">=</span><span class="k">reinterpret_cast</span><span class="p">(</span><span class="n">lwnd</span><span class="p">);</span>
+<span class="w">        </span><span class="o">::</span><span class="n">GetClassName</span><span class="p">(</span><span class="w"> </span><span class="n">hwnd</span><span class="p">,</span><span class="w"> </span><span class="n">szClassName</span><span class="p">,</span><span class="w"> </span><span class="n">_MAX_PATH</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">szClassName</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>剩下的问题就很简单了：沿Z轴枚举顶层窗口，找到第一个Shell窗口列表中的具有窗口类”IEFrame”的第一个实例。之后我操作了一下IE的DHTML文档对象模型(也称为DOM，它只在IE窗口触发最后一个DocumentComplete事件只后有效)来确认成功连接到窗口。</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="kt">void</span><span class="w"> </span><span class="nf">CAutomationDlg::DocumentComplete</span><span class="p">(</span><span class="n">IDispatch</span><span class="w"> </span><span class="o">*</span><span class="n">pDisp</span><span class="p">,</span><span class="w"> </span><span class="n">VARIANT</span><span class="w"> </span><span class="o">*</span><span class="n">URL</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="c1">//HTML DOM is available AFTER the DocumentComplete event is fired.</span>
+<span class="w">    </span><span class="c1">//For more information, please visit KB article</span>
+<span class="w">    </span><span class="c1">//&quot;How To Determine When a Page Is Done Loading in WebBrowser Control&quot;</span>
+<span class="w">    </span><span class="c1">//http://support.microsoft.com/kb/q180366/</span>
+<span class="w">    </span><span class="n">CComQIPtr</span><span class="w"> </span><span class="n">pWBUK</span><span class="p">(</span><span class="n">m_pWebBrowser2</span><span class="p">);</span>
+<span class="w">    </span><span class="n">CComQIPtr</span><span class="w"> </span><span class="n">pSenderUK</span><span class="p">(</span><span class="w"> </span><span class="n">pDisp</span><span class="p">);</span>
+<span class="w">    </span><span class="n">USES_CONVERSION</span><span class="p">;</span>
+<span class="w">    </span><span class="n">TRACE</span><span class="p">(</span><span class="w"> </span><span class="n">_T</span><span class="p">(</span><span class="w"> </span><span class="s">&quot;Page downloading complete:</span><span class="se">\r\n</span><span class="s">&quot;</span><span class="p">));</span>
+<span class="w">    </span><span class="n">CComBSTR</span><span class="w"> </span><span class="n">bstrName</span><span class="p">;</span>
+<span class="w">    </span><span class="n">m_pWebBrowser2</span><span class="o">-&gt;</span><span class="n">get_LocationName</span><span class="p">(</span><span class="o">&amp;</span><span class="n">bstrName</span><span class="p">);</span>
+<span class="w">    </span><span class="n">CComBSTR</span><span class="w"> </span><span class="n">bstrURL</span><span class="p">;</span>
+<span class="w">    </span><span class="n">m_pWebBrowser2</span><span class="o">-&gt;</span><span class="n">get_LocationURL</span><span class="p">(</span><span class="o">&amp;</span><span class="n">bstrURL</span><span class="p">);</span>
+<span class="w">    </span><span class="n">TRACE</span><span class="p">(</span><span class="w"> </span><span class="n">_T</span><span class="p">(</span><span class="w"> </span><span class="s">&quot;Name:[ %s ]</span><span class="se">\r\n</span><span class="s">URL: [ %s ]</span><span class="se">\r\n</span><span class="s">&quot;</span><span class="p">),</span>
+<span class="w">    </span><span class="n">OLE2T</span><span class="p">(</span><span class="n">bstrName</span><span class="p">),</span>
+<span class="w">    </span><span class="n">OLE2T</span><span class="p">(</span><span class="n">bstrURL</span><span class="p">));</span>
+<span class="w">    </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">pWBUK</span><span class="o">==</span><span class="w"> </span><span class="n">pSenderUK</span><span class="p">)</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">        </span><span class="n">CComQIPtr</span><span class="w"> </span><span class="n">pHTMLDocDisp</span><span class="p">;</span>
+<span class="w">        </span><span class="n">m_pWebBrowser2</span><span class="o">-&gt;</span><span class="n">get_Document</span><span class="p">(</span><span class="o">&amp;</span><span class="n">pHTMLDocDisp</span><span class="p">);</span>
+<span class="w">        </span><span class="n">CComQIPtr</span><span class="w"> </span><span class="n">pHTMLDoc</span><span class="p">(</span><span class="n">pHTMLDocDisp</span><span class="p">);</span>
+<span class="w">        </span><span class="n">CComQIPtr</span><span class="w"> </span><span class="n">ecAll</span><span class="p">;</span>
+<span class="w">        </span><span class="n">CComPtr</span><span class="w"> </span><span class="n">pTagLineDisp</span><span class="p">;</span>
+<span class="w">        </span><span class="k">if</span><span class="p">(</span><span class="n">pHTMLDoc</span><span class="p">)</span>
+<span class="w">        </span><span class="p">{</span>
+<span class="w">            </span><span class="n">CComBSTR</span><span class="w"> </span><span class="n">bstrNewTitle</span><span class="p">(</span><span class="n">_T</span><span class="p">(</span><span class="s">&quot;Sheng Jiang&#39;s Automation Test&quot;</span><span class="p">));</span>
+<span class="w">            </span><span class="n">pHTMLDoc</span><span class="o">-&gt;</span><span class="n">put_title</span><span class="p">(</span><span class="n">bstrNewTitle</span><span class="p">);</span>
+<span class="w">            </span><span class="n">pHTMLDoc</span><span class="o">-&gt;</span><span class="n">get_all</span><span class="p">(</span><span class="o">&amp;</span><span class="n">ecAll</span><span class="p">);</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">        </span><span class="k">if</span><span class="p">(</span><span class="n">ecAll</span><span class="p">)</span>
+<span class="w">        </span><span class="p">{</span>
+<span class="w">            </span><span class="n">ecAll</span><span class="o">-&gt;</span><span class="n">item</span><span class="p">(</span><span class="n">COleVariant</span><span class="p">(</span><span class="n">_T</span><span class="p">(</span><span class="s">&quot;tagline&quot;</span><span class="p">)),</span><span class="n">COleVariant</span><span class="p">((</span><span class="kt">long</span><span class="p">)</span><span class="mi">0</span><span class="p">),</span><span class="o">&amp;</span><span class="n">pTagLineDisp</span><span class="p">);</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">        </span><span class="n">CComQIPtr</span><span class="w"> </span><span class="n">eTagLine</span><span class="p">(</span><span class="n">pTagLineDisp</span><span class="p">);</span>
+<span class="w">        </span><span class="k">if</span><span class="p">(</span><span class="n">eTagLine</span><span class="p">)</span>
+<span class="w">        </span><span class="p">{</span>
+<span class="w">            </span><span class="n">eTagLine</span><span class="o">-&gt;</span><span class="n">put_innerText</span><span class="p">(</span>
+<span class="w">                </span><span class="n">CComBSTR</span><span class="p">(</span><span class="n">_T</span><span class="p">(</span><span class="s">&quot;Command what is yours, conquer what is not. --Kane&quot;</span><span class="p">)));</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>现在控制的窗口和IE打开文件时选择的一样了。</p>
+<p>副产品: 连接到当前的Windows Explorer窗口</p>
+<p>在研究ShellWindows对象的shell窗口列表时，我获得一个副产品：看起来Windows Explorer窗口也有共同的窗口类名。这样同样的机制在把窗口类从”IEFrame”改成”ExploreWClass”之后对Windows Explorer窗口也适用。因为没有DHTML DOM可供操作，我通知Windows Explorer 窗口打开一个现存路径，来标志我接管了这个窗口。</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="c1">//show the folder bar</span>
+<span class="n">COleVariant</span><span class="w"> </span><span class="n">clsIDFolderBar</span><span class="p">(</span><span class="n">_T</span><span class="p">(</span><span class="s">&quot;{EFA24E64-B078-11d0-89E4-00C04FC9E26E}&quot;</span><span class="p">));</span>
+<span class="n">COleVariant</span><span class="w"> </span><span class="nf">FolderBarShow</span><span class="p">(</span><span class="n">VARIANT_TRUE</span><span class="p">,</span><span class="n">VT_BOOL</span><span class="p">);</span>
+<span class="n">COleVariant</span><span class="w"> </span><span class="n">dummy</span><span class="p">;</span>
+<span class="k">if</span><span class="p">(</span><span class="n">m_pWebBrowser2</span><span class="p">)</span>
+<span class="w">    </span><span class="n">m_pWebBrowser2</span><span class="o">-&gt;</span><span class="n">ShowBrowserBar</span><span class="p">(</span><span class="o">&amp;</span><span class="n">clsIDFolderBar</span><span class="p">,</span><span class="o">&amp;</span><span class="n">FolderBarShow</span><span class="p">,</span><span class="o">&amp;</span><span class="n">dummy</span><span class="p">);</span>
+<span class="c1">//browse to a given folder</span>
+<span class="n">CComQIPtr</span><span class="w"> </span><span class="nf">psp</span><span class="p">(</span><span class="n">m_pWebBrowser2</span><span class="p">);</span>
+<span class="n">CComPtr</span><span class="w"> </span><span class="n">psb</span><span class="p">;</span>
+<span class="k">if</span><span class="p">(</span><span class="n">psp</span><span class="p">)</span>
+<span class="w">    </span><span class="n">psp</span><span class="o">-&gt;</span><span class="n">QueryService</span><span class="p">(</span><span class="n">SID_STopLevelBrowser</span><span class="p">,</span><span class="n">IID_IShellBrowser</span><span class="p">,(</span><span class="n">LPVOID</span><span class="o">*</span><span class="p">)</span><span class="o">&amp;</span><span class="n">psb</span><span class="p">);</span>
+<span class="k">if</span><span class="p">(</span><span class="n">psb</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">USES_CONVERSION</span><span class="p">;</span>
+<span class="w">    </span><span class="n">LPITEMIDLIST</span><span class="w"> </span><span class="n">pidl</span><span class="o">=</span><span class="nb">NULL</span><span class="p">;</span>
+<span class="w">    </span><span class="n">SFGAOF</span><span class="w"> </span><span class="n">sfgao</span><span class="p">;</span>
+<span class="w">    </span><span class="n">SHParseDisplayName</span><span class="w"> </span><span class="p">(</span><span class="n">T2OLE</span><span class="p">(</span><span class="n">m_strFileToFind</span><span class="p">),</span><span class="nb">NULL</span><span class="p">,</span><span class="o">&amp;</span><span class="n">pidl</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="o">&amp;</span><span class="n">sfgao</span><span class="p">);</span>
+<span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">pidl</span><span class="o">==</span><span class="nb">NULL</span><span class="p">)</span>
+<span class="w">        </span><span class="o">::</span><span class="n">SHGetSpecialFolderLocation</span><span class="p">(</span><span class="n">m_hWnd</span><span class="p">,</span><span class="n">CSIDL_DRIVES</span><span class="p">,</span><span class="o">&amp;</span><span class="n">pidl</span><span class="p">);</span>
+<span class="w">    </span><span class="n">m_pidlToNavigate</span><span class="o">=</span><span class="nb">NULL</span><span class="p">;</span>
+<span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">pidl</span><span class="p">)</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">//if the start address is a folder, then browse it.</span>
+<span class="w">        </span><span class="c1">//otherwise browse to its parent folder, and select it in the folder view.</span>
+<span class="w">        </span><span class="n">LPCITEMIDLIST</span><span class="w"> </span><span class="n">pidlChild</span><span class="o">=</span><span class="nb">NULL</span><span class="p">;</span>
+<span class="w">        </span><span class="n">CComPtr</span><span class="w"> </span><span class="n">psf</span><span class="p">;</span>
+<span class="w">        </span><span class="n">HRESULT</span><span class="w"> </span><span class="n">hr</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">SHBindToParent</span><span class="p">(</span><span class="n">pidl</span><span class="p">,</span><span class="w"> </span><span class="n">IID_IShellFolder</span><span class="p">,</span><span class="w"> </span><span class="p">(</span><span class="n">LPVOID</span><span class="o">*</span><span class="p">)</span><span class="o">&amp;</span><span class="n">psf</span><span class="p">,</span><span class="w"> </span><span class="o">&amp;</span><span class="n">pidlChild</span><span class="p">);</span>
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">SUCCEEDED</span><span class="p">(</span><span class="n">hr</span><span class="p">)){</span>
+<span class="w">            </span><span class="n">SFGAOF</span><span class="w"> </span><span class="n">rgfInOut</span><span class="o">=</span><span class="n">SFGAO_FOLDER</span><span class="p">;</span>
+<span class="w">            </span><span class="n">hr</span><span class="o">=</span><span class="n">psf</span><span class="o">-&gt;</span><span class="n">GetAttributesOf</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="o">&amp;</span><span class="n">pidlChild</span><span class="p">,</span><span class="o">&amp;</span><span class="n">rgfInOut</span><span class="p">);</span>
+<span class="w">            </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">SUCCEEDED</span><span class="p">(</span><span class="n">hr</span><span class="p">)){</span>
+<span class="w">                </span><span class="n">m_pidlToNavigate</span><span class="o">=</span><span class="n">ILClone</span><span class="p">(</span><span class="n">pidl</span><span class="p">);</span>
+<span class="w">                </span><span class="k">if</span><span class="p">(</span><span class="n">rgfInOut</span><span class="o">&amp;</span><span class="n">SFGAO_FOLDER</span><span class="p">){</span><span class="c1">//this is a folder</span>
+<span class="w">                    </span><span class="n">psb</span><span class="o">-&gt;</span><span class="n">BrowseObject</span><span class="p">(</span><span class="n">pidl</span><span class="p">,</span><span class="n">SBSP_SAMEBROWSER</span><span class="p">);</span>
+<span class="w">                </span><span class="p">}</span>
+<span class="w">                </span><span class="k">else</span>
+<span class="w">                </span><span class="p">{</span>
+<span class="w">                    </span><span class="c1">//this is a file, browse to the parent folder</span>
+<span class="w">                    </span><span class="n">LPITEMIDLIST</span><span class="w"> </span><span class="n">pidlParent</span><span class="o">=</span><span class="n">ILClone</span><span class="p">(</span><span class="n">pidl</span><span class="p">);</span>
+<span class="w">                    </span><span class="o">::</span><span class="n">ILRemoveLastID</span><span class="p">(</span><span class="n">pidlParent</span><span class="p">);</span>
+<span class="w">                    </span><span class="n">psb</span><span class="o">-&gt;</span><span class="n">BrowseObject</span><span class="p">(</span><span class="w"> </span><span class="n">pidlParent</span><span class="p">,</span><span class="w"> </span><span class="n">SBSP_SAMEBROWSER</span><span class="p">);</span>
+<span class="w">                    </span><span class="n">ILFree</span><span class="p">(</span><span class="n">pidlParent</span><span class="p">);</span>
+<span class="w">                </span><span class="p">}</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">        </span><span class="c1">//clean up</span>
+<span class="w">        </span><span class="n">ILFree</span><span class="p">(</span><span class="n">pidl</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span><span class="o">:</span>
+</pre></div>
+</div>
+<p>这代码有点长，因为我想区别对待文件和文件夹。如果你调用IShellBrowser::BrowseObject并且给这个方法传递一个文件pidl，那么Windows Explorer会提示你是否打开这个文件，就像在资源管理器的地址栏中输入路径之后按回车一样。我想模拟”Explorer.exe /select”的行为，在文件夹视图中选择指定的文件，所以我在DocumentComplete事件处理函数中加入了一些代码：</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="k">if</span><span class="p">(</span><span class="n">m_pidlToNavigate</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="c1">//If the start address is a file, browse to the parent folder</span>
+<span class="w">    </span><span class="c1">//and then select it</span>
+<span class="w">    </span><span class="n">CComQIPtr</span><span class="w"> </span><span class="nf">psp</span><span class="p">(</span><span class="n">m_pWebBrowser2</span><span class="p">);</span>
+<span class="w">    </span><span class="n">CComPtr</span><span class="w"> </span><span class="n">psb</span><span class="p">;</span>
+<span class="w">    </span><span class="n">CComPtr</span><span class="w"> </span><span class="n">psv</span><span class="p">;</span>
+<span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">psp</span><span class="p">)</span>
+<span class="w">        </span><span class="n">psp</span><span class="o">-&gt;</span><span class="n">QueryService</span><span class="p">(</span><span class="n">SID_STopLevelBrowser</span><span class="p">,</span><span class="n">IID_IShellBrowser</span><span class="p">,(</span><span class="n">LPVOID</span><span class="o">*</span><span class="p">)</span><span class="o">&amp;</span><span class="n">psb</span><span class="p">);</span>
+<span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">psb</span><span class="p">)</span>
+<span class="w">        </span><span class="n">psb</span><span class="o">-&gt;</span><span class="n">QueryActiveShellView</span><span class="p">(</span><span class="o">&amp;</span><span class="n">psv</span><span class="p">);</span>
+<span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">psv</span><span class="p">)</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">        </span><span class="n">LPCITEMIDLIST</span><span class="w"> </span><span class="n">pidlChild</span><span class="o">=</span><span class="nb">NULL</span><span class="p">;</span>
+<span class="w">        </span><span class="n">CComPtr</span><span class="w"> </span><span class="n">psf</span><span class="p">;</span>
+<span class="w">        </span><span class="n">SFGAOF</span><span class="w"> </span><span class="n">rgfInOut</span><span class="o">=</span><span class="n">SHCIDS_ALLFIELDS</span><span class="p">;</span>
+<span class="w">        </span><span class="n">HRESULT</span><span class="w"> </span><span class="n">hr</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">SHBindToParent</span><span class="p">(</span><span class="n">m_pidlToNavigate</span><span class="p">,</span><span class="w"> </span><span class="n">IID_IShellFolder</span><span class="p">,</span><span class="w"> </span><span class="p">(</span><span class="n">LPVOID</span><span class="o">*</span><span class="p">)</span><span class="o">&amp;</span><span class="n">psf</span><span class="p">,</span><span class="w"> </span><span class="o">&amp;</span><span class="n">pidlChild</span><span class="p">);</span>
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">SUCCEEDED</span><span class="p">(</span><span class="n">hr</span><span class="p">)){</span>
+<span class="w">            </span><span class="n">hr</span><span class="o">=</span><span class="n">psf</span><span class="o">-&gt;</span><span class="n">GetAttributesOf</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="o">&amp;</span><span class="n">pidlChild</span><span class="p">,</span><span class="o">&amp;</span><span class="n">rgfInOut</span><span class="p">);</span>
+<span class="w">            </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">SUCCEEDED</span><span class="p">(</span><span class="n">hr</span><span class="p">)){</span>
+<span class="w">                </span><span class="k">if</span><span class="p">((</span><span class="n">rgfInOut</span><span class="o">&amp;</span><span class="n">SFGAO_FOLDER</span><span class="p">)</span><span class="o">==</span><span class="mi">0</span><span class="p">){</span>
+<span class="w">                    </span><span class="c1">//a file, select it</span>
+<span class="w">                    </span><span class="n">hr</span><span class="o">=</span><span class="n">psv</span><span class="o">-&gt;</span><span class="n">SelectItem</span><span class="p">(</span><span class="n">ILFindLastID</span><span class="p">(</span><span class="n">m_pidlToNavigate</span><span class="p">)</span>
+<span class="w">                        </span><span class="p">,</span><span class="n">SVSI_SELECT</span><span class="o">|</span><span class="n">SVSI_ENSUREVISIBLE</span><span class="o">|</span><span class="n">SVSI_FOCUSED</span><span class="o">|</span>
+<span class="w">                        </span><span class="n">SVSI_POSITIONITEM</span><span class="p">);</span>
+<span class="w">                </span><span class="p">}</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="c1">//clean up</span>
+<span class="w">    </span><span class="n">ILFree</span><span class="p">(</span><span class="n">m_pidlToNavigate</span><span class="p">);</span>
+<span class="w">    </span><span class="n">m_pidlToNavigate</span><span class="o">=</span><span class="nb">NULL</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>创建Explorer窗口</p>
+<p>解决了这么多问题，可以衣锦还乡了。既然我可以以和当前的Internet Explorer窗口基本相同的方式连接到当前的Windows Explorer窗口，那么我是否可以以和创建Internet Explorer窗口基本相同的方式创建Windows Explorer窗口？遗憾的是，这不可行。不存在Windows Explorer对应的类ID来创建一个COM对象。虽然我仍旧可以创建IE窗口，浏览到文件夹，显示文件夹侧边栏，使得它看起来就像一个Windows Explorer窗口，但是我不能改变窗口类”IEFrame”，因此较难把它和其他的显示HTML网页和活动文档的IE窗口区分开来。</p>
+<p>好吧，既然我不能以COM的方式来创建它，我还可以尝试用传统的方式。我可以创建一个explorer.exe进程之后查找其主窗口，就像Paul DiLascia 在他的文章”Get the Main Window, Get EXE Name”中演示的那样，并且发送未文档化的消息WM_GETISHELLBROWSER来获得窗口的IShellBrowser接口:</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="c1">//start the new process</span>
+<span class="n">STARTUPINFO</span><span class="w"> </span><span class="n">si</span><span class="p">;</span>
+<span class="n">PROCESS_INFORMATION</span><span class="w"> </span><span class="n">pi</span><span class="p">;</span>
+<span class="n">ZeroMemory</span><span class="p">(</span><span class="w"> </span><span class="o">&amp;</span><span class="n">si</span><span class="p">,</span><span class="w"> </span><span class="k">sizeof</span><span class="p">(</span><span class="n">si</span><span class="p">)</span><span class="w"> </span><span class="p">);</span>
+<span class="n">si</span><span class="p">.</span><span class="n">cb</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">sizeof</span><span class="p">(</span><span class="n">si</span><span class="p">);</span>
+<span class="n">ZeroMemory</span><span class="p">(</span><span class="w"> </span><span class="o">&amp;</span><span class="n">pi</span><span class="p">,</span><span class="w"> </span><span class="k">sizeof</span><span class="p">(</span><span class="n">pi</span><span class="p">)</span><span class="w"> </span><span class="p">);</span>
+<span class="c1">// Start the child process.</span>
+<span class="k">if</span><span class="p">(</span><span class="w"> </span><span class="o">!</span><span class="n">CreateProcess</span><span class="p">(</span><span class="w"> </span><span class="nb">NULL</span><span class="p">,</span><span class="w"> </span><span class="c1">// No module name (use command line).</span>
+<span class="w">    </span><span class="n">_T</span><span class="p">(</span><span class="s">&quot;explorer.exe&quot;</span><span class="p">),</span><span class="w"> </span><span class="c1">// Command line.</span>
+<span class="w">    </span><span class="nb">NULL</span><span class="p">,</span><span class="w">             </span><span class="c1">// Process handle not inheritable.</span>
+<span class="w">    </span><span class="nb">NULL</span><span class="p">,</span><span class="w">             </span><span class="c1">// Thread handle not inheritable.</span>
+<span class="w">    </span><span class="n">FALSE</span><span class="p">,</span><span class="w">            </span><span class="c1">// Set handle inheritance to FALSE.</span>
+<span class="w">    </span><span class="mi">0</span><span class="p">,</span><span class="w">                </span><span class="c1">// No creation flags.</span>
+<span class="w">    </span><span class="nb">NULL</span><span class="p">,</span><span class="w">             </span><span class="c1">// Use parent&#39;s environment block.</span>
+<span class="w">    </span><span class="nb">NULL</span><span class="p">,</span><span class="w">             </span><span class="c1">// Use parent&#39;s starting directory.</span>
+<span class="w">    </span><span class="o">&amp;</span><span class="n">si</span><span class="p">,</span><span class="w">              </span><span class="c1">// Pointer to STARTUPINFO structure.</span>
+<span class="w">    </span><span class="o">&amp;</span><span class="n">pi</span><span class="w"> </span><span class="p">)</span><span class="w">             </span><span class="c1">// Pointer to PROCESS_INFORMATION structure.</span>
+<span class="p">)</span>
+<span class="c1">//wait a graceful time</span>
+<span class="c1">//so the window is created and is ready to answer messages.</span>
+<span class="o">::</span><span class="n">WaitForInputIdle</span><span class="p">(</span><span class="n">pi</span><span class="p">.</span><span class="n">hProcess</span><span class="p">,</span><span class="mi">1000</span><span class="p">);</span>
+<span class="c1">//m_hExplorerProcess=(DWORD)pi.hProcess;</span>
+<span class="n">EnumWindows</span><span class="p">(</span><span class="n">EnumWindowsProc</span><span class="p">,(</span><span class="n">LPARAM</span><span class="p">)</span><span class="k">this</span><span class="p">);</span>
+
+<span class="n">BOOL</span><span class="w"> </span><span class="n">CALLBACK</span><span class="w"> </span><span class="n">CAutomationDlg</span><span class="o">::</span><span class="n">EnumWindowsProc</span><span class="p">(</span><span class="n">HWND</span><span class="w"> </span><span class="n">hwnd</span><span class="p">,</span><span class="n">LPARAM</span><span class="w"> </span><span class="n">lParam</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">CAutomationDlg</span><span class="o">*</span><span class="w"> </span><span class="n">pdlg</span><span class="o">=</span><span class="p">(</span><span class="n">CAutomationDlg</span><span class="o">*</span><span class="p">)</span><span class="n">lParam</span><span class="p">;</span>
+<span class="w">    </span><span class="n">DWORD</span><span class="w"> </span><span class="n">pidwin</span><span class="p">;</span>
+<span class="w">    </span><span class="n">GetWindowThreadProcessId</span><span class="p">(</span><span class="n">hwnd</span><span class="p">,</span><span class="w"> </span><span class="o">&amp;</span><span class="n">pidwin</span><span class="p">);</span>
+<span class="w">    </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">pidwin</span><span class="o">==</span><span class="n">pdlg</span><span class="o">-&gt;</span><span class="n">m_hExplorerProcess</span><span class="p">)</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">        </span><span class="n">IShellBrowser</span><span class="o">*</span><span class="w"> </span><span class="n">psb</span><span class="o">=</span><span class="p">(</span><span class="n">IShellBrowser</span><span class="o">*</span><span class="p">)</span><span class="o">::</span><span class="n">SendMessage</span><span class="p">(</span><span class="n">hwnd</span><span class="p">,</span><span class="n">WM_USER</span><span class="o">+</span><span class="mi">7</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">);</span>
+<span class="w">        </span><span class="n">CComQIPtr</span><span class="w"> </span><span class="nf">pwb</span><span class="p">(</span><span class="n">psb</span><span class="p">);</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">FALSE</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">TRUE</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>啊喔，这在我的计算机上也没有效果。怎么回事？在我的资源管理器的文件夹选项中，“在同一窗口中打开每一个文件夹”被选中，所以新的Windows Explorer窗口被创建在现有的Windows Explorer进程中。看起来这是条死胡同。</p>
+<p>等一下，我手头还有另一个ShellWindows对象，它可以给我一个Shell窗口的列表，包含每一个Windows Explorer窗口和每个窗口对应的IWebBrowser2接口，这是到IShellBrowser接口的入口。.现在我需要获得两份shell窗口列表，创建explorer.exe进程之前和之后各一份，之后要比较它们来找到新的shell窗口：</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="n">m_pShellWindows</span><span class="p">.</span><span class="n">CoCreateInstance</span><span class="p">(</span><span class="n">CLSID_ShellWindows</span><span class="p">);</span>
+<span class="k">if</span><span class="p">(</span><span class="n">m_pShellWindows</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="c1">//get the list of running IE windows</span>
+<span class="w">    </span><span class="c1">//using the ShellWindows collection</span>
+<span class="w">    </span><span class="c1">//For more information, please visit</span>
+<span class="w">    </span><span class="c1">//http://support.microsoft.com/kb/176792</span>
+<span class="w">    </span><span class="kt">long</span><span class="w"> </span><span class="n">lCount</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span>
+<span class="w">    </span><span class="n">m_pShellWindows</span><span class="o">-&gt;</span><span class="n">get_Count</span><span class="p">(</span><span class="o">&amp;</span><span class="n">lCount</span><span class="p">);</span>
+<span class="w">    </span><span class="k">for</span><span class="p">(</span><span class="kt">long</span><span class="w"> </span><span class="n">i</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span><span class="n">i</span><span class="w"> </span><span class="n">pdispShellWindow</span><span class="p">;</span>
+<span class="w">        </span><span class="n">m_pShellWindows</span><span class="o">-&gt;</span><span class="n">Item</span><span class="p">(</span><span class="n">COleVariant</span><span class="p">(</span><span class="n">i</span><span class="p">),</span><span class="o">&amp;</span><span class="n">pdispShellWindow</span><span class="p">);</span>
+<span class="w">        </span><span class="k">if</span><span class="p">(</span><span class="n">pdispShellWindow</span><span class="p">)</span>
+<span class="w">        </span><span class="p">{</span>
+<span class="w">            </span><span class="n">m_listShellWindows</span><span class="p">.</span><span class="n">AddTail</span><span class="p">(</span><span class="k">new</span><span class="w"> </span><span class="n">CComQIPtrIDispatch</span><span class="p">(</span><span class="n">pdispShellWindow</span><span class="p">));</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+<span class="c1">//enumerate through the new shell window list</span>
+<span class="kt">long</span><span class="w"> </span><span class="n">lCount</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span>
+<span class="n">m_pShellWindows</span><span class="o">-&gt;</span><span class="n">get_Count</span><span class="p">(</span><span class="o">&amp;</span><span class="n">lCount</span><span class="p">);</span>
+<span class="k">for</span><span class="p">(</span><span class="kt">long</span><span class="w"> </span><span class="n">i</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span><span class="n">i</span><span class="c1">//search the new window</span>
+<span class="w">    </span><span class="c1">//using the ShellWindows collection</span>
+<span class="w">    </span><span class="c1">//For more information, please visit</span>
+<span class="w">    </span><span class="c1">//http://support.microsoft.com/kb/176792</span>
+<span class="w">    </span><span class="n">BOOL</span><span class="w"> </span><span class="n">bFound</span><span class="o">=</span><span class="n">FALSE</span><span class="p">;</span>
+<span class="w">    </span><span class="n">CComPtr</span><span class="w"> </span><span class="n">pdispShellWindow</span><span class="p">;</span>
+<span class="w">    </span><span class="n">m_pShellWindows</span><span class="o">-&gt;</span><span class="n">Item</span><span class="p">(</span><span class="n">COleVariant</span><span class="p">(</span><span class="n">i</span><span class="p">),</span><span class="o">&amp;</span><span class="n">pdispShellWindow</span><span class="p">);</span>
+<span class="w">    </span><span class="c1">//search it in the old shell window list</span>
+<span class="w">    </span><span class="n">POSITION</span><span class="w"> </span><span class="n">pos</span><span class="o">=</span><span class="n">m_listShellWindows</span><span class="p">.</span><span class="n">GetHeadPosition</span><span class="p">();</span>
+<span class="w">    </span><span class="k">while</span><span class="p">(</span><span class="n">pos</span><span class="p">)</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">        </span><span class="n">CComQIPtrIDispatch</span><span class="o">*</span><span class="w"> </span><span class="n">pDispatch</span><span class="o">=</span><span class="n">m_listShellWindows</span><span class="p">.</span><span class="n">GetNext</span><span class="p">(</span><span class="n">pos</span><span class="p">);</span>
+<span class="w">        </span><span class="k">if</span><span class="p">(</span><span class="n">pDispatch</span><span class="o">&amp;&amp;</span><span class="n">pdispShellWindow</span><span class="p">.</span><span class="n">p</span><span class="o">==</span><span class="n">pDispatch</span><span class="o">-&gt;</span><span class="n">p</span><span class="p">)</span>
+<span class="w">        </span><span class="p">{</span>
+<span class="w">            </span><span class="n">bFound</span><span class="o">=</span><span class="n">TRUE</span><span class="p">;</span><span class="k">break</span><span class="p">;</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="n">bFound</span><span class="p">)</span><span class="c1">//new window found</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">//attach to it</span>
+<span class="w">        </span><span class="n">m_pWebBrowser2</span><span class="o">=</span><span class="n">pdispShellWindow</span><span class="p">;</span>
+<span class="w">        </span><span class="n">m_bOwnIE</span><span class="o">=</span><span class="n">TRUE</span><span class="p">;</span>
+<span class="w">        </span><span class="c1">//sink for the Quit and DocumentComplete events</span>
+<span class="w">        </span><span class="n">AdviseSinkIE</span><span class="p">();</span>
+<span class="w">        </span><span class="n">NavigateToSamplePage</span><span class="p">(</span><span class="n">FALSE</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>等一下，你的”创建explorer.exe进程之后”是什么意思?一秒钟之后？还是两秒钟？实际上，一个WindowRegistered事件会被ShellWindows 对象触发，所以我在事件处理中加入一些代码：.</p>
+<div class="highlight-C++ notranslate"><div class="highlight"><pre><span></span><span class="c1">//sink DShellWindowsEvents events</span>
+<span class="n">LPUNKNOWN</span><span class="w"> </span><span class="n">pUnkSink</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">GetIDispatch</span><span class="p">(</span><span class="n">FALSE</span><span class="p">);</span>
+<span class="n">m_pShellWindows</span><span class="p">.</span><span class="n">CoCreateInstance</span><span class="p">(</span><span class="n">CLSID_ShellWindows</span><span class="p">);</span>
+<span class="n">AfxConnectionAdvise</span><span class="p">((</span><span class="n">LPUNKNOWN</span><span class="p">)</span><span class="n">m_pShellWindows</span><span class="p">,</span>
+<span class="w">    </span><span class="n">DIID_DShellWindowsEvents</span><span class="p">,</span><span class="n">pUnkSink</span><span class="p">,</span><span class="n">FALSE</span><span class="p">,</span><span class="o">&amp;</span><span class="n">m_dwCookieShellWindows</span><span class="p">);</span>
+<span class="kt">void</span><span class="w"> </span><span class="nf">CAutomationDlg::WindowRegistered</span><span class="p">(</span><span class="kt">long</span><span class="w"> </span><span class="n">lCookie</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="c1">//ok, a new shell window is created</span>
+<span class="w">    </span><span class="k">if</span><span class="p">(</span><span class="n">m_pShellWindows</span><span class="p">)</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">//enumerate through the new shell window list</span>
+<span class="w">        </span><span class="kt">long</span><span class="w"> </span><span class="n">lCount</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span>
+<span class="w">        </span><span class="n">m_pShellWindows</span><span class="o">-&gt;</span><span class="n">get_Count</span><span class="p">(</span><span class="o">&amp;</span><span class="n">lCount</span><span class="p">);</span>
+<span class="w">        </span><span class="k">for</span><span class="p">(</span><span class="kt">long</span><span class="w"> </span><span class="n">i</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span><span class="n">i</span><span class="c1">//search the new window</span>
+<span class="w">            </span><span class="c1">//using the ShellWindows collection</span>
+<span class="w">            </span><span class="c1">//For more information, please visit</span>
+<span class="w">            </span><span class="c1">//http://support.microsoft.com/kb/176792</span>
+<span class="w">            </span><span class="n">BOOL</span><span class="w"> </span><span class="n">bFound</span><span class="o">=</span><span class="n">FALSE</span><span class="p">;</span>
+<span class="w">            </span><span class="n">CComPtr</span><span class="w"> </span><span class="n">pdispShellWindow</span><span class="p">;</span>
+<span class="w">            </span><span class="n">m_pShellWindows</span><span class="o">-&gt;</span><span class="n">Item</span><span class="p">(</span><span class="n">COleVariant</span><span class="p">(</span><span class="n">i</span><span class="p">),</span><span class="o">&amp;</span><span class="n">pdispShellWindow</span><span class="p">);</span>
+<span class="w">            </span><span class="c1">//search it in the old shell window list</span>
+<span class="w">            </span><span class="n">POSITION</span><span class="w"> </span><span class="n">pos</span><span class="o">=</span><span class="n">m_listShellWindows</span><span class="p">.</span><span class="n">GetHeadPosition</span><span class="p">();</span>
+<span class="w">            </span><span class="k">while</span><span class="p">(</span><span class="n">pos</span><span class="p">)</span>
+<span class="w">            </span><span class="p">{</span>
+<span class="w">                </span><span class="n">CComQIPtrIDispatch</span><span class="o">*</span><span class="w"> </span><span class="n">pDispatch</span><span class="o">=</span><span class="n">m_listShellWindows</span><span class="p">.</span><span class="n">GetNext</span><span class="p">(</span><span class="n">pos</span><span class="p">);</span>
+<span class="w">                </span><span class="k">if</span><span class="p">(</span><span class="n">pDispatch</span><span class="o">&amp;&amp;</span><span class="n">pdispShellWindow</span><span class="p">.</span><span class="n">p</span><span class="o">==</span><span class="n">pDispatch</span><span class="o">-&gt;</span><span class="n">p</span><span class="p">)</span>
+<span class="w">                </span><span class="p">{</span>
+<span class="w">                    </span><span class="n">bFound</span><span class="o">=</span><span class="n">TRUE</span><span class="p">;</span><span class="k">break</span><span class="p">;</span>
+<span class="w">                </span><span class="p">}</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">            </span><span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="n">bFound</span><span class="p">)</span><span class="c1">//new window</span>
+<span class="w">            </span><span class="p">{</span>
+<span class="w">                </span><span class="c1">//attach to it</span>
+<span class="w">                </span><span class="n">m_pWebBrowser2</span><span class="o">=</span><span class="n">pdispShellWindow</span><span class="p">;</span>
+<span class="w">                </span><span class="n">m_bOwnIE</span><span class="o">=</span><span class="n">TRUE</span><span class="p">;</span>
+<span class="w">                </span><span class="c1">//sink for the Quit and DocumentComplete events</span>
+<span class="w">                </span><span class="n">AdviseSinkIE</span><span class="p">();</span>
+<span class="w">                </span><span class="n">NavigateToSamplePage</span><span class="p">(</span><span class="n">FALSE</span><span class="p">);</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">        </span><span class="c1">//clean up</span>
+<span class="w">        </span><span class="k">if</span><span class="p">(</span><span class="n">m_dwCookieShellWindows</span><span class="o">!=</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span>
+<span class="w">        </span><span class="p">{</span>
+<span class="w">            </span><span class="n">LPUNKNOWN</span><span class="w"> </span><span class="n">pUnkSink</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">GetIDispatch</span><span class="p">(</span><span class="n">FALSE</span><span class="p">);</span>
+<span class="w">            </span><span class="n">AfxConnectionUnadvise</span><span class="p">((</span><span class="n">LPUNKNOWN</span><span class="p">)</span><span class="n">m_pShellWindows</span><span class="p">,</span>
+<span class="w">                </span><span class="n">DIID_DShellWindowsEvents</span><span class="p">,</span><span class="w"> </span><span class="n">pUnkSink</span><span class="p">,</span><span class="w"> </span><span class="n">FALSE</span><span class="p">,</span><span class="w"> </span><span class="n">m_dwCookieShellWindows</span><span class="p">);</span>
+<span class="w">            </span><span class="n">m_dwCookieShellWindows</span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">        </span><span class="n">POSITION</span><span class="w"> </span><span class="n">pos</span><span class="o">=</span><span class="n">m_listShellWindows</span><span class="p">.</span><span class="n">GetHeadPosition</span><span class="p">();</span>
+<span class="w">        </span><span class="k">while</span><span class="p">(</span><span class="n">pos</span><span class="p">)</span>
+<span class="w">        </span><span class="p">{</span>
+<span class="w">            </span><span class="n">CComQIPtrIDispatch</span><span class="o">*</span><span class="w"> </span><span class="n">pDispatch</span><span class="o">=</span><span class="n">m_listShellWindows</span><span class="p">.</span><span class="n">GetNext</span><span class="p">(</span><span class="n">pos</span><span class="p">);</span>
+<span class="w">            </span><span class="k">delete</span><span class="w">    </span><span class="n">pDispatch</span><span class="p">;</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">        </span><span class="n">m_listShellWindows</span><span class="p">.</span><span class="n">RemoveAll</span><span class="p">();</span>
+<span class="w">        </span><span class="n">m_pShellWindows</span><span class="o">=</span><span class="p">(</span><span class="n">LPUNKNOWN</span><span class="p">)</span><span class="nb">NULL</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>为什么不用Browser Helper Objects?</p>
+<p>因为新的窗口在进程外，所以跨进程列集COM调用很慢。如果你的自动化操作包含很多的COM调用，那么你可能要把代码本地化，例如编写一个浏览器辅助对象(BHO)。但是，BHO会被每一个Windows Explorer和Internet Explorer的实例加载，而且我不想拖慢整个系统来让它们扫瓦上霜。一些人倒是使用了这个技术连接到当前的Internet Explorer窗口.</p>
+<p>已知问题</p>
+<p>ShellWindows对象在explorer.exe process被终止或者尚未启动时不可访问。BHO在这种情况下可以作为替代方案。</p>
+<p>结论</p>
+<p>这里有一大堆让人迷糊的代码，而且可能还有你不熟悉的COM和Windows API函数混合调用。希望你会觉得本文有用，并且不会被我的代码搞得头昏脑胀。自动化Internet Explorer和Windows Explorers窗口可以节省你模拟系统默认行为的时间，并且给用户提供一个熟悉的界面。</p>
+<p>参考</p>
+<ul class="simple">
+<li><p>Browser Detection Revisited, Toolbar Info, IUnknown with COM and MFC <a class="reference external" href="https://web.archive.org/web/20030423132312/http://msdn.microsoft.com/msdnmag/issues/01/03/c/">https://web.archive.org/web/20030423132312/http://msdn.microsoft.com/msdnmag/issues/01/03/c/</a></p></li>
+<li><p>Connecting to Running Instances of Internet Explorer <a class="reference external" href="https://web.archive.org/web/20040612173240/http://www.codeguru.com/Cpp/I-N/ieprogram/article.php/c4403/">https://web.archive.org/web/20040612173240/http://www.codeguru.com/Cpp/I-N/ieprogram/article.php/c4403/</a></p></li>
+<li><p>Connecting to a running instance of Internet Explorer <a class="reference external" href="https://web.archive.org/web/20040623023311/http://www.codeguru.com/Cpp/I-N/ieprogram/article.php/c1239/">https://web.archive.org/web/20040623023311/http://www.codeguru.com/Cpp/I-N/ieprogram/article.php/c1239/</a></p></li>
+<li><p>Get the Main Window, Get EXE Name <a class="reference external" href="https://web.archive.org/web/20031011160224/http://msdn.microsoft.com/msdnmag/issues/02/07/CQA/">https://web.archive.org/web/20031011160224/http://msdn.microsoft.com/msdnmag/issues/02/07/CQA/</a></p></li>
+<li><p>How to connect to a running instance of Internet Explorer <a class="reference external" href="https://web.archive.org/web/20051028040641/http://support.microsoft.com/kb/176792">https://web.archive.org/web/20051028040641/http://support.microsoft.com/kb/176792</a></p></li>
+<li><p>How to Connect to IExplorer in Citrix Environments <a class="reference external" href="https://www.codeguru.com/network/how-to-connect-to-iexplorer-in-citrix-environments/">https://www.codeguru.com/network/how-to-connect-to-iexplorer-in-citrix-environments/</a></p></li>
+<li><p>PRB: IShellFolder::CreateViewObject() causes access violation <a class="reference external" href="https://web.archive.org/web/20051225035102/http://support.microsoft.com/kb/q157247/">https://web.archive.org/web/20051225035102/http://support.microsoft.com/kb/q157247/</a></p></li>
+<li><p>Querying information from an Explorer window <a class="reference external" href="https://web.archive.org/web/20051028025215/http://blogs.msdn.com/oldnewthing/archive/2004/07/20/188696.aspx">https://web.archive.org/web/20051028025215/http://blogs.msdn.com/oldnewthing/archive/2004/07/20/188696.aspx</a></p></li>
+<li><p>ShellWindows Object (Windows Explorer and Controls) <a class="reference external" href="https://learn.microsoft.com/en-us/windows/win32/shell/shellwindows">https://learn.microsoft.com/en-us/windows/win32/shell/shellwindows</a></p></li>
+</ul>
+</section>
+
+<div class="section ablog__blog_comments">
+     
+<div class="section ablog__prev-next">
+  <span class="ablog__prev">
+     
+    <a href="double_hunking_cpp_cli.html">
+      
+      <i class="fa fa-arrow-circle-left"></i>
+      
+      <span>托管C++中函数调用的双重转换(Double Thunking)</span>
+    </a>
+    
+  </span>
+  <span class="ablog__spacer">&nbsp;</span>
+  <span class="ablog__next">
+     
+    <a href="../11/how-to-use-visual-c-with-perl.html">
+      <span>How to use Visual C++ with Perl</span>
+      
+      <i class="fa fa-arrow-circle-right"></i>
+      
+    </a>
+    
+  </span>
+</div>
+  
+</div>
+
+                </article>
+              
+              
+              
+                <footer class="bd-footer-article">
+                  <div class="footer-article-items footer-article__inner">
+  
+    <div class="footer-article-item"><script src="https://utteranc.es/client.js"
+        repo="jiangsheng/jiangsheng.github.io"
+        branch="master"
+        issue-term="pathname"
+        label="UtteranceComments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async=async">
+</script></div>
+  
+</div>
+                </footer>
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="../../../_sources/blogs/2005/10/automate_windows_explorer_and_internet_explorer.rst.txt"
+           rel="nofollow">Show Source</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/blogs\2005\10\automate_windows_explorer_and_internet_explorer.rst"
+           rel="nofollow">Show on GitHub</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/blogs\2005\10\automate_windows_explorer_and_internet_explorer.rst"
+           rel="nofollow">Edit on GitHub</a></li>
+  </ul>
+  <h3>Social Media Links</h3>
+  <ul>
+    <li>twitter (archived): #jiangsheng </li>
+    <li>bluesky: <a href="https://bsky.app/profile/sheng-jiang.bsky.social"> sheng-jiang.bsky.social</a></li>
+    <li>stackoverflow: <a href="https://stackoverflow.com/users/109919/sheng-jiang-%e8%92%8b%e6%99%9f">Sheng Jiang 蒋晟</a></li>
+  </ul>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3710396369816898"
+     crossorigin="anonymous"></script>
+<!-- Right Sidebar -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3710396369816898"
+     data-ad-slot="1564519607"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script defer src="../../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="../../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item">
+
+  <p class="copyright">
+    
+      © Copyright 2018-, Sheng Jiang.
+      <br/>
+    
+  </p>
+</div>
+      
+        <div class="footer-item">
+
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 8.2.3.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item">
+<p class="theme-version">
+  <!-- # L10n: Setting the PST URL as an argument as this does not need to be localized -->
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.16.1.
+</p></div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>

@@ -739,8 +739,18 @@
 <li class="toctree-l3"><a class="reference internal" href="../07/pic-16f88-microcontroller-servo-controller-project.html">PIC 16F88 Microcontroller Servo Controller Project</a></li>
 </ul>
 </details></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../08/index.html">Blogs in August 2005</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l3"><a class="reference internal" href="../08/default_property_accessor_in_cpp_cli.html">C++/CLI中的默认属性访问</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../08/integrate_windows_desktop_search.html">集成桌面搜索，模拟器</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../08/MFC%EF%BC%8C%E6%AC%A2%E4%B9%90%E4%B8%8E%E7%97%9B%E8%8B%A6.html">MFC，欢乐与痛苦</a></li>
+</ul>
+</details></li>
 <li class="toctree-l2 has-children"><a class="reference internal" href="../09/index.html">Blogs in September 2005</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
 <li class="toctree-l3"><a class="reference internal" href="../09/access-your-documents-from-internet.html">Access your documents from internet.</a></li>
+</ul>
+</details></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../10/index.html">Blogs in October 2005</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l3"><a class="reference internal" href="../10/mvp_summit_news.html">西雅图MVP峰会见闻</a></li>
 </ul>
 </details></li>
 <li class="toctree-l2 has-children"><a class="reference internal" href="../11/index.html">Blogs in November 2005</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
@@ -952,48 +962,13 @@
                 <article class="bd-article">
                    <section id="use-windbg-as-an-external-tools-of-visual-c">
 <h1>Use windbg as an external tools of Visual C++<a class="headerlink" href="#use-windbg-as-an-external-tools-of-visual-c" title="Link to this heading">#</a></h1>
-<div class="bvmsg docutils container" id="msgcns-1be894deaf296e0a-193">
-<div class="docutils container">
-<p>Title :</p>
-</div>
-<div class="docutils container">
-<p>WinDbg</p>
-</div>
-<div class="docutils container">
-<p>(or any title you want)</p>
-</div>
-<div class="docutils container">
-<p>Command :</p>
-</div>
-<div class="docutils container">
-<p>C:\masm32\debug\windbg.exe</p>
-</div>
-<div class="docutils container">
-<p>(it is not a typical position, but it is where it is on my pc.)</p>
-</div>
-<div class="docutils container">
-<p>Arguments:</p>
-</div>
-<div class="docutils container">
-<p>-ee c++ -G -i “$(TargetDir)”  -y “$(TargetDir)” -QY -logo -QSY
--sdce -WF “$(ProjectFileName).WEW” “$(TargetPath)”</p>
-</div>
-<div class="docutils container">
-<p>(The commandline may be too long to execute, remove some switches
-if that happens. For more information about this junk, see
-Debugger Reference in the documentation of Debug Tools for
-Windows, and Macros for Build Commands and Properties, <a class="reference external" href="http://msdn2.microsoft.com/en-us/visualc/default.aspx">Visual
-C</a>++
-Concepts: Building a C/C++ Program, in
-<a class="reference external" href="http://en.wikipedia.org/wiki/Microsoft_Developer_Network">MSDN</a>).</p>
-</div>
-<div class="docutils container">
-<p>Initial Directory:</p>
-</div>
-<div class="docutils container">
-<p>$(ProjectDir)</p>
-</div>
-</div>
+<p>在我的前一篇BLOG(<a class="reference internal" href="debug_using_windbg_in_visual_c.html#blog-debug-using-windbg-in-visual-c"><span class="std std-ref">使用WinDbg调试VC程序</span></a>)中我提到了如何使用WinDbg来调试Visual C++程序。但是从IDE到命令行之间的切换比较麻烦，为了偷懒起见，可以把WinDbg加到Visual Studio的工具菜单中，这样就可以直接从IDE启动WinDbg来进行调试了。下面是外部工具配置界面的设置</p>
+<p>标题 : WinDbg</p>
+<p>命令行: C:masm32debugwindbg.exe (这不是一个典型路径，但是既然MASM里面有了，我也懒得再去下一个来装，如果是单独下载安装的话，命令行可能像这样：”C:Program FilesDebugging Tools for Windowswindbg.exe”)</p>
+<p>参数:-ee c++ -G -i “$(TargetDir)” -y “$(TargetDir)” -QY -logo -QSY -sdce -WF “$(ProjectFileName).WEW” “$(TargetPath)”</p>
+<p>(命令行太长的时候windbg会工作不正常。至于这些参数的含义——呃，还是去下一个Debug Tools For Windows回来装上看文档比较好。）</p>
+<p>初始目录: $(ProjectDir)</p>
+<p>当然，调试的代码不限于C++，实际上，我主要是用windbg来调试汇编代码。</p>
 </section>
 
 <div class="section ablog__blog_comments">
@@ -1012,8 +987,8 @@ Concepts: Building a C/C++ Program, in
   <span class="ablog__spacer">&nbsp;</span>
   <span class="ablog__next">
      
-    <a href="../07/microchip-pic16f88a-emulator-project.html">
-      <span>Microchip PIC16F88A Emulator Project</span>
+    <a href="../07/what_is_new_in_MFC_8_visual_C_2005.html">
+      <span>Visual Studio 2005中MFC的变化</span>
       
       <i class="fa fa-arrow-circle-right"></i>
       

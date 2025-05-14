@@ -18,6 +18,7 @@ Blogs in 2005
    Blogs in July 2005<07/index>
    Blogs in August 2005<08/index>
    Blogs in September 2005<09/index>
+   Blogs in October 2005<10/index>
    Blogs in November 2005<11/index>
    Blogs in December 2005<12/index>
 

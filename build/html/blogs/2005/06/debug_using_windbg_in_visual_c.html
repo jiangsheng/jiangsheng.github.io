@@ -2,12 +2,13 @@
 <!DOCTYPE html>
 
 
-<html lang="zh-CN" data-content_root="../../" >
+<html lang="zh-CN" data-content_root="../../../" >
 
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Posts tagged Factory Reset Protection &#8212; jiangsheng&#39;s docs</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>使用WinDbg调试VC程序 &#8212; jiangsheng&#39;s docs</title>
   
   
   
@@ -26,40 +27,33 @@
   </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
-<link href="../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+  <link href="../../../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="../../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 
-    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-design.min.css?v=95c83b7e" />
-    <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css?v=cda70fc7" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/sphinx-design.min.css?v=95c83b7e" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css?v=cda70fc7" />
   
   <!-- So that users can add custom icons -->
-  <script src="../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
+  <script src="../../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
-<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+  <link rel="preload" as="script" href="../../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="../../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
 
-    <script src="../../_static/documentation_options.js?v=aec57771"></script>
-    <script src="../../_static/doctools.js?v=9bcbadda"></script>
-    <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../../../_static/documentation_options.js?v=aec57771"></script>
+    <script src="../../../_static/doctools.js?v=9bcbadda"></script>
+    <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
     <script async="async" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3710396369816898"></script>
-    <script src="../../_static/design-tabs.js?v=f930bc37"></script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'blogs/tag/factory-reset-protection';</script>
-    <script src="../../_static/js/google_analytics_tracker.js?v=ca8723ef"></script>
+    <script src="../../../_static/design-tabs.js?v=f930bc37"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'blogs/2005/06/debug_using_windbg_in_visual_c';</script>
+    <script src="../../../_static/js/google_analytics_tracker.js?v=ca8723ef"></script>
     <script src="https://www.googletagmanager.com/gtag/js?id=G-BP5YBNN42N"></script>
-    <link rel="canonical" href="https://jiangsheng.net/build/html/blogs/tag/factory-reset-protection.html" />
-    <link rel="index" title="Index" href="../../genindex.html" />
-    <link rel="search" title="Search" href="../../search.html" /> 
+    <link rel="canonical" href="https://jiangsheng.net/build/html/blogs/2005/06/debug_using_windbg_in_visual_c.html" />
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../search.html" /> 
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="zh-CN"/>
-  <meta name="docsearch:version" content="" /> 
-<link
-  rel="alternate"
-  type="application/atom+xml"
-  href="..//atom.xml"
-  title="Posts tagged Factory Reset Protection"
-/>
-  
+  <meta name="docsearch:version" content="" />   
   </head>
   
   
@@ -78,7 +72,7 @@
   <dialog id="pst-search-dialog">
     
 <form class="bd-search d-flex align-items-center"
-      action="../../search.html"
+      action="../../../search.html"
       method="get">
   <i class="fa-solid fa-magnifying-glass"></i>
   <input type="search"
@@ -114,7 +108,7 @@
     
   
 
-<a class="navbar-brand logo" href="../../reference.html">
+<a class="navbar-brand logo" href="../../../reference.html">
   
   
   
@@ -136,35 +130,35 @@
   <ul class="bd-navbar-elements navbar-nav">
     
 <li class="nav-item ">
-  <a class="nav-link nav-internal" href="../../README.html">
+  <a class="nav-link nav-internal" href="../../../README.html">
     Homepage
   </a>
 </li>
 
 
 <li class="nav-item ">
-  <a class="nav-link nav-internal" href="../../games/index.html">
+  <a class="nav-link nav-internal" href="../../../games/index.html">
     Games
   </a>
 </li>
 
 
 <li class="nav-item ">
-  <a class="nav-link nav-internal" href="../index.html">
+  <a class="nav-link nav-internal" href="../../index.html">
     Blogs
   </a>
 </li>
 
 
 <li class="nav-item ">
-  <a class="nav-link nav-internal" href="../../grandma/index.html">
+  <a class="nav-link nav-internal" href="../../../grandma/index.html">
     Grandma's handbook
   </a>
 </li>
 
 
 <li class="nav-item ">
-  <a class="nav-link nav-internal" href="../../index.html">
+  <a class="nav-link nav-internal" href="../../../index.html">
     Homepage
   </a>
 </li>
@@ -233,35 +227,35 @@
   <ul class="bd-navbar-elements navbar-nav">
     
 <li class="nav-item ">
-  <a class="nav-link nav-internal" href="../../README.html">
+  <a class="nav-link nav-internal" href="../../../README.html">
     Homepage
   </a>
 </li>
 
 
 <li class="nav-item ">
-  <a class="nav-link nav-internal" href="../../games/index.html">
+  <a class="nav-link nav-internal" href="../../../games/index.html">
     Games
   </a>
 </li>
 
 
 <li class="nav-item ">
-  <a class="nav-link nav-internal" href="../index.html">
+  <a class="nav-link nav-internal" href="../../index.html">
     Blogs
   </a>
 </li>
 
 
 <li class="nav-item ">
-  <a class="nav-link nav-internal" href="../../grandma/index.html">
+  <a class="nav-link nav-internal" href="../../../grandma/index.html">
     Grandma's handbook
   </a>
 </li>
 
 
 <li class="nav-item ">
-  <a class="nav-link nav-internal" href="../../index.html">
+  <a class="nav-link nav-internal" href="../../../index.html">
     Homepage
   </a>
 </li>
@@ -283,7 +277,7 @@
   <ul class="indices-link">
         <li class="toctree-l1">
           <a class="reference internal"
-             href="../../genindex.html"
+             href="../../../genindex.html"
              accesskey="I">General Index</a>
         </li>
   </ul>
@@ -317,11 +311,11 @@
   <ul class="bd-breadcrumbs">
     
     <li class="breadcrumb-item breadcrumb-home">
-      <a href="../../reference.html" class="nav-link" aria-label="Home">
+      <a href="../../../reference.html" class="nav-link" aria-label="Home">
         <i class="fa-solid fa-home"></i>
       </a>
     </li>
-    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">Posts tagged Factory Reset Protection</span></li>
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">使用WinDbg调试VC程序</span></li>
   </ul>
 </nav>
 </div>
@@ -337,77 +331,40 @@
                 
 <div id="searchbox"></div>
                 <article class="bd-article">
-                   
-<div class="section ablog__collection">
-  <h1>
-    
-    <span
-      >Posts tagged  Factory Reset Protection 
-    </span>
-  </h1>
-   
-  <div class="section ablog-post">
-    <h2 class="ablog-post-title">
-      <a href="../2022/08/bypassing-factory-reset-production-on-microsoft-lumia-640.html">Bypassing Factory Reset Protection Microsoft Lumia 640</a>
-    </h2>
-    <ul class="ablog-archive">
-      <li>
-         
-        <i class="fa fa-calendar"></i>
-        
-        <span>06 August 2022</span>
-        
-      </li>
-      <div class="ablog-sidebar-item ablog__postcard2">
-   
-  <li id="ablog-sidebar-item author ablog__author">
-    <span>
-      
-      <i class="fa-fw fa fa-user"></i>
-      
-    </span>
-     
-    <a href="../author/sheng-jiang.html">Sheng Jiang</a>
-      
-  </li>
-     
-  <li id="ablog-sidebar-item category ablog__category">
-    <span>
-      
-      <i class="fa-fw fa fa-folder-open"></i>
-      
-    </span>
-     
-    <a href="../category/windows-phone.html">Windows Phone</a>
-      
-  </li>
-   
-  <li id="ablog-sidebar-item tags ablog__tags">
-    <span>
-       
-      <i class="fa-fw fa fa-tags"></i>
-       
-    </span>
-     
-    <a href="#">Factory Reset Protection</a>
-        
-    <a href="microsoft-lumia.html">Microsoft Lumia</a>
-        
-    <a href="windows-phone-interop-tools.html">Windows Phone Interop Tools</a>
-      
-  </li>
-   
-</div>
-    </ul>
-    <p class="ablog-post-excerpt"><p id="index-0">The problem:</p>
-</p>
+                   <section id="windbgvc">
+<h1>使用WinDbg调试VC程序<a class="headerlink" href="#windbgvc" title="Link to this heading">#</a></h1>
+<p id="blog-debug-using-windbg-in-visual-c">虽然在VC6.0中可以通过安装Visual C++ Toolkit(<a class="reference external" href="https://archive.org/details/microsoft-visual-c-toolkit-2003">https://archive.org/details/microsoft-visual-c-toolkit-2003</a>)来编写基于最新版本的平台SDK、DirectX SDK的程序以及托管代码，但是VC6附带的调试器并不支持新版本的调试信息，所以实际上是不能用VC6来调试新版本编译器生成的程序的。</p>
+<p>一个替代的解决方案是使用新版本的Windows调试工具Windbg(<a class="reference external" href="https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/">https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/</a>)。Windbg的调试功能基本和Visual C++中的相同，但是需要手动设定源文件和调试符号文件的搜索路径（可以参考VC6.0中的对应设置）。</p>
+<p>一些代码，例如MFC的代码比较难于定位，这时可以双击调用堆栈中的函数名称来打开文件并定位到函数所在位置。Windbg可以进行有限的托管代码调试，但是调试过程比较麻烦。在没有安装Visual Studio的计算机上调试，例如进行远程调试的时候可能还需要部署调试符号(<a class="reference external" href="https://web.archive.org/web/20040417015606/http://msdn.microsoft.com/library/en-us/dnvc60/html/gendepdebug.asp">https://web.archive.org/web/20040417015606/http://msdn.microsoft.com/library/en-us/dnvc60/html/gendepdebug.asp</a>)。</p>
+<p>调试Visual Studio .Net 的程序需要用户是管理员或者”Debug User”用户组成员。如果登录用户不是该组成员，那么也可以用WinDbg来调试程序。</p>
+</section>
 
-    <p class="ablog-post-expand">
-      <a href="../2022/08/bypassing-factory-reset-production-on-microsoft-lumia-640.html"><em>Read more ...</em></a>
-    </p>
-    <hr />
-  </div>
-   
+<div class="section ablog__blog_comments">
+     
+<div class="section ablog__prev-next">
+  <span class="ablog__prev">
+     
+    <a href="lab3.html">
+      
+      <i class="fa fa-arrow-circle-left"></i>
+      
+      <span>Lab3</span>
+    </a>
+    
+  </span>
+  <span class="ablog__spacer">&nbsp;</span>
+  <span class="ablog__next">
+     
+    <a href="assignment1.html">
+      <span>Assignment1</span>
+      
+      <i class="fa fa-arrow-circle-right"></i>
+      
+    </a>
+    
+  </span>
+</div>
+  
 </div>
 
                 </article>
@@ -447,6 +404,21 @@
 
 
   <div class="sidebar-secondary-item">
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="../../../_sources/blogs/2005/06/debug_using_windbg_in_visual_c.rst.txt"
+           rel="nofollow">Show Source</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/blob/master/docs/blogs\2005\06\debug_using_windbg_in_visual_c.rst"
+           rel="nofollow">Show on GitHub</a></li>
+    <li><a href="https://github.com/jiangsheng/jiangsheng.github.io/edit/master/docs/blogs\2005\06\debug_using_windbg_in_visual_c.rst"
+           rel="nofollow">Edit on GitHub</a></li>
+  </ul>
+  <h3>Social Media Links</h3>
+  <ul>
+    <li>twitter (archived): #jiangsheng </li>
+    <li>bluesky: <a href="https://bsky.app/profile/sheng-jiang.bsky.social"> sheng-jiang.bsky.social</a></li>
+    <li>stackoverflow: <a href="https://stackoverflow.com/users/109919/sheng-jiang-%e8%92%8b%e6%99%9f">Sheng Jiang 蒋晟</a></li>
+  </ul>
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3710396369816898"
      crossorigin="anonymous"></script>
@@ -474,8 +446,8 @@
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script defer src="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
-<script defer src="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+  <script defer src="../../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="../../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
 
   <footer class="bd-footer">
 <div class="bd-footer__inner bd-page-width">
