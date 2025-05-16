@@ -684,8 +684,10 @@
         .. image:: ../units/images/portrait/srw4_units_portrait_55.png 
         
         | :doc:`特異点崩壊 <35_singularity_collapse>`
-        | 加入机体：ザムジード
-        | 加入机师：ミオ
+        | 加入机体：ザムジード 
+        | (第四次S):  ガッデス，グランヴェール
+        | 加入机师：ミオ 
+        | (第四次S): テュッティ，ヤンロン
         | 升级：
         | ゲッターロボG
         | → 真・ゲッターロボ
@@ -808,9 +810,9 @@
         .. image:: ../units/images/portrait/srw4_units_portrait_50.png
 
         | :doc:`オルドナ＝ポセイダル <42a_oldna_poseidal_easy>`\ (A)
-        | 加入机体：ガッデス
+        | (第四次)加入机体：ガッデス
         | ，グランヴェール
-        | 加入机师：テュッティ
+        | (第四次)加入机师：テュッティ
         | ，ヤンロン
 
     .. grid-item-card:: 第四十二话（不去甘泉） 
@@ -819,9 +821,9 @@
         .. image:: ../units/images/portrait/srw4_units_portrait_F2.png
 
         | :doc:`オルドナ＝ポセイダル <42b_oldna_poseidal_normal>`\ (A)
-        | 加入机体：ガッデス
+        | (第四次)加入机体：ガッデス
         | ，グランヴェール
-        | 加入机师：テュッティ
+        | (第四次)加入机师：テュッティ
         | ，ヤンロン
 
     .. grid-item-card:: 第四十二话（无プル、プルツー）
@@ -830,9 +832,9 @@
         .. image:: ../units/images/portrait/srw4_units_portrait_F2.png
 
         | :doc:`オルドナ＝ポセイダル <42c_oldna_poseidal_hard>`\ (A)
-        | 加入机体：ガッデス
+        | (第四次)加入机体：ガッデス
         | ，グランヴェール
-        | 加入机师：テュッティ
+        | (第四次)加入机师：テュッティ
         | ，ヤンロン
 
     .. grid-item-card:: 第四十三话
