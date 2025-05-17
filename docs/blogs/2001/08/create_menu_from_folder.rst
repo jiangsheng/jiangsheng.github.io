@@ -1,3 +1,7 @@
+.. meta::
+   :description:
+       This post outlines a method for dynamically generating a Windows application menu based on the contents of a specified directory. 
+
 使用目录内容建立菜单
 ========================
 

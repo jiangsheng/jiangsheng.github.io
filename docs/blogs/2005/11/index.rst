@@ -14,6 +14,7 @@ Blogs in November 2005
    nomination-of-microsoft-award-for-customer-excellence
    talking-about-where-does-power-come-from
    从sony招回含疑似间谍软件的cd说起
+   xml_doc_in_vc_2005
 
 * :ref:`genindex`
 * :ref:`modindex`

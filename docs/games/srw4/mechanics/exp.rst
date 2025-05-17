@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=zh-Hans:  
+       第四次超级机器人大战的经验机制和成长值
+       
 .. _srw4_exp:
 
 ------

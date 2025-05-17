@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=zh-Hans:  
+       第四次超级机器人大战的金手指和修改资料
+
 .. _srw4_cheat:
 
 修改 (第四次机器人大战)

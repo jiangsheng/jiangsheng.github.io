@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=zh-Hans:  
+       第四次超级机器人大战的一些机师具有特殊的能力。你不能选择何时发动这些能力，他们是自动发动的。
+       
 .. _srw4_pilot_specialty:
 
 ------------------

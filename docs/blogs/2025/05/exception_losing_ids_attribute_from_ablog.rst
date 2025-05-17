@@ -14,9 +14,9 @@ Today I am getting some strange error when I am trying to convert my blogs to th
         anaconda3\envs\sphinx\Lib\site-packages\sphinx\events.py", line 415, in emit
                 raise ExtensionError(sphinx.errors.ExtensionError: Handler <function process_posts at 0x00000279DBC23EC0> for event 'doctree-read' threw an exception (exception: Losing "ids" attribute: ['index-1', 'index-0'])
 	
-Luckily only some of the blogs throw this error, by comparing the blogs that fail and those don't, I found that the culprit is the .. index:: directive right before the .. post:: directive. 
+The page has the same date format as pages that successfully got compiled. The problem obviously come from elsewhere. 
 
-Moving the index directive after the post directive solved this problem.
+the .. post:: directive is right after the page title and before a quoted (indented) paragraph. The page title is also ahead of the post directive in other pages that successfully got compiled, so the problem is the quotation. 
 
-Update: I am getting the same error again when the post begins with a blog quote. Adding an link target anchor solved the issue. ABlog seems to be too greedy to look for directive. 
+Remove the indent solved the problem for the moment, as the indention is actually from the conversion and not needed. In the context of actually wanted quotation, an link target anchor is probably needed. ABlog seems to be too greedy to look for directive. 
 

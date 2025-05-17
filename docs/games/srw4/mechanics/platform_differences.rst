@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=zh-Hans:  
+       第四次超级机器人大战和第四次超级机器人大战S的版本差异
+
 .. _srw4_platform_differences:
 
 版本之间的变化

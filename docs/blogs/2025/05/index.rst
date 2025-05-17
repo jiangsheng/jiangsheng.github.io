@@ -12,6 +12,7 @@ Blogs in May 2025
    always_full_rebuild_ablog
    exception_losing_ids_attribute_from_ablog
    merge_wordpress.com_site_with_github_pages
+   exception_invalid_post_date_from_ablog_post
 
 * :ref:`genindex`
 * :ref:`modindex`
