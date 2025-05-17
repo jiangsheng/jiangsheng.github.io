@@ -1,7 +1,6 @@
 
 
 User-agent: *
-Disallow: /build/html/_sources
 Disallow: /cdn-cgi/
 Disallow: /cdn-cgi/bm/cv/
 Disallow: /cdn-cgi/challenge-platform/
