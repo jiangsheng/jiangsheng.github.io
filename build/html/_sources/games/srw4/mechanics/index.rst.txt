@@ -1,4 +1,7 @@
-
+.. meta::
+   :description lang=zh-Hans:  
+       第四次超级机器人大战的机制
+       
 .. _srw4_mechanics:
 
 设定 (第四次机器人大战)

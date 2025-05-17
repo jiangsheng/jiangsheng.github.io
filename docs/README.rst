@@ -1,4 +1,4 @@
-Welcome to jiangsheng's documentation!
+Read me First
 ======================================
 .. toctree::
    :maxdepth: 1

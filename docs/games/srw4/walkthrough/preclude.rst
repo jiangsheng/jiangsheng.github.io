@@ -1,4 +1,8 @@
-﻿.. _srw4_walkthrough_preclude:
+﻿.. meta::
+   :description lang=zh-Hans:  
+       当你开始一个新的游戏的时候，你需要创建一个主角。主角具有一些你可以改变的属性，例如诞生日和血型。
+
+.. _srw4_walkthrough_preclude:
 
 序幕 (第四次超级机器人大战)
 =====================================
@@ -15,9 +19,9 @@
 
 因为真实系地图武器入手早，比较适合抢回合数拿古兰森，建议第四次真实系的副主人公有激怒的リン，这意味着主人公用イルム。主人公的精神方面，可以选择比较早出觉醒的金牛座的O型血。
 
-如果不需要抢古兰森的话，副主人公的等级很容易用地图武器提得很高，必闪、集中、必中、根性等命中和回避辅助精神并无多大必要。ヘクトール的精神再动（第四次）和复活（第四次S）则太过偏向于辅助了一点，本作并不缺少辅助机师。可以考虑的是在第四次中有觉醒的ウィン（主人公选择グレース）和在第四次S中有觉醒的グレース（主人公选择ウィン）（咦）。
+如果不需要抢古兰森的话，副主人公的等级很容易用地图武器提得很高，必闪、集中、必中、根性等命中和回避辅助精神并无多大必要。ヘクトール的精神再动（第四次）和复活（第四次S）则太过偏向于辅助了一点，本作并不缺少辅助机师。如果要速通的话，可以考虑的是选有激怒的リン（第四次）或者有觉醒或者再动的ウィン作为恋人。这意味着主人公的性别和性格要和他们的恋人イルム或者グレース相同。在速通路线让恋人提前加入会少一台机体。
 
-主人公和副主人公全员都有熱血和気合，故省略。
+主人公和副主人公全员都有幸運、熱血和気合，故省略。
 
 .. flat-table:: 主角和恋人 
    :class: text-center, align-items-center, compact, display
@@ -33,32 +37,26 @@
      - 性格
      - 恋人
      - 默认精神
-   * - :rspan:`1`\ 
-  
-       .. image:: ../pilots/images/srw4_pilot_renanjess.png
-     - :rspan:`1`\ レナンジェス＝スターロード
-     - :rspan:`1`\ ジェス
-     - :rspan:`1`\ 7月23日
-     - :rspan:`1`\ O
-     - :rspan:`1`\ まじめで優しい熱血漢
-     - :rspan:`1`\ 
-  
+   * - .. image:: ../pilots/images/srw4_pilot_renanjess.png
+     - レナンジェス＝スターロード
+     - ジェス
+     - 7月23日
+     - O
+     - まじめで優しい熱血漢
+     -   
        .. image:: ../pilots/images/srw4_pilot_mina.png
-     - SFC版：幸運、ひらめき、集中、根性
-   * - PS版：幸運、必中、集中、ひらめき
-   * - :rspan:`1`\ 
 
+     - ひらめき、集中、根性
+   * - 
        .. image:: ../pilots/images/srw4_pilot_irmgard.png
-     - :rspan:`1`\ イルムガルト＝カザハラ
-     -  :rspan:`1`\ イルム
-     - :rspan:`1`\ 11月10日
-     - :rspan:`1`\ A
-     - :rspan:`1`\ 理论家だが异性好き
-     - :rspan:`1`\ 
-
+     - ルムガルト＝カザハラ
+     - イルム
+     - 11月10日
+     - A
+     - 理论家だが异性好き
+     - 
        .. image:: ../pilots/images/srw4_pilot_lynn.png
-     - SFC 版：幸運、加速、ひらめき、必中
-   * - PS版：幸運、必中、ひらめき、加速
+     - 加速、ひらめき、必中
    * - :rspan:`1`\ 
 
        .. image:: ../pilots/images/srw4_pilot_hector.png
@@ -70,8 +68,8 @@
      - :rspan:`1`\ 
 
        .. image:: ../pilots/images/srw4_pilot_patorisia.png
-     - SFC 版：幸運、探索、信頼、再動
-   * - PS版：幸運、必中、ひらめき、復活
+     - SFC 版：探索、信頼、再動
+   * - PS版：必中、ひらめき、復活
    * - :rspan:`1`\ 
  
        .. image:: ../pilots/images/srw4_pilot_erwin.png
@@ -83,8 +81,8 @@
      - :rspan:`1`\ 
 
        .. image:: ../pilots/images/srw4_pilot_grace.png
-     - SFC 版：幸運、加速、威圧、覚醒
-   * - PS版：幸運、必中、加速、再動
+     - SFC 版：加速、威圧、覚醒
+   * - PS版：加速、必中、再動
    * - :rspan:`1`\ 
 
        .. image:: ../pilots/images/srw4_pilot_patorisia.png
@@ -96,21 +94,18 @@
      - :rspan:`1`\ 
 
        .. image:: ../pilots/images/srw4_pilot_hector.png
-     - SFC 版：幸運、ひらめき、てかげん、友情
-   * - PS版：幸運、必中、ひらめき、復活
-   * - :rspan:`1`\ 
-
+     - SFC 版：ひらめき、てかげん、友情
+   * - PS版：ひらめき、必中、復活
+   * - 
        .. image:: ../pilots/images/srw4_pilot_grace.png
-     - :rspan:`1`\ グレース＝ウリジン
-     - :rspan:`1`\ グレース
-     - :rspan:`1`\ 1月31日
-     - :rspan:`1`\ AB
-     - :rspan:`1`\ 理论家だが异性好き
-     - :rspan:`1`\ 
-  
+     - グレース＝ウリジン
+     - グレース
+     - 1月31日
+     - AB
+     - 理论家だが异性好き
+     -   
        .. image:: ../pilots/images/srw4_pilot_erwin.png
-     - SFC 版：幸運、ひらめき、集中、必中
-   * - PS版：魂、必中、ひらめき、覚醒
+     - ひらめき、集中、必中
    * - :rspan:`1`\ 
  
        .. image:: ../pilots/images/srw4_pilot_mina.png
@@ -122,8 +117,8 @@
      - :rspan:`1`\ 
 
        .. image:: ../pilots/images/srw4_pilot_renanjess.png
-     - SFC 版：幸運、ひらめき、集中、必中
-   * - PS版：幸運、必中、ひらめき、信頼
+     - SFC 版：ひらめき、集中、必中
+   * - PS版：ひらめき、必中、信頼
    * - :rspan:`1`\ 
 
        .. image:: ../pilots/images/srw4_pilot_lynn.png
@@ -135,8 +130,8 @@
      - :rspan:`1`\ 
  
        .. image:: ../pilots/images/srw4_pilot_irmgard.png
-     - SFC 版：幸運、集中、探索、激怒
-   * - PS版：幸運、必中、集中、ひらめき
+     - SFC 版：集中、探索、激怒
+   * - PS版：ひらめき、集中、必中
 
 -------------------------
 主角和恋人的精神(第四次)

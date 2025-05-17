@@ -1,3 +1,7 @@
+.. meta::
+   :description:
+        Integrating HTML forms into Win32 applications using the DHTMLEdit ActiveX control included with Internet Explorer 5
+
 在对话框中使用网页输入数据  
 =====================================
 

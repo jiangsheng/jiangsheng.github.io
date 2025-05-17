@@ -1,3 +1,7 @@
+.. meta::
+   :description: 
+       centralize exception handling in message handlers for MFC applications.
+
 摆脱在每个命令消息处理函数中的TRY和CATCH
 ==========================================
 

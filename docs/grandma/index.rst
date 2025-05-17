@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=zh-Hans:  
+       A personal narrative detailing family's life between wars, famine and prosperity. 
+
 .. _grandmas_handbook:
 
 .. index:: handbook; grandma
