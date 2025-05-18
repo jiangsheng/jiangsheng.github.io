@@ -49,7 +49,7 @@
         | 空A陆A海A宇A        
         | 弹数 4
 
-    .. grid-item-card:: プラズマカッター(P)🤛
+    .. grid-item-card:: プラズマカッターⓅ🤛
         :columns: auto
 
         | 攻击 970
@@ -114,7 +114,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         | 空A陆A海A宇A        
         | 弹数 4
 
-    .. grid-item-card:: プラズマカッター(P)🤛
+    .. grid-item-card:: プラズマカッターⓅ🤛
         :columns: auto
 
         | 攻击 970
@@ -123,7 +123,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         | 暴击 +10
         | 空🚫陆A海A→B宇A
 
-    .. grid-item-card:: スマッシュビーム(P)
+    .. grid-item-card:: スマッシュビームⓅ
         :columns: auto
 
         | 攻击 2150
@@ -168,7 +168,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         | 宇A 
         | 分身
         | Iフィールド
-    .. grid-item-card:: 60ミリバルカン(P)
+    .. grid-item-card:: 60ミリバルカンⓅ
         :columns: auto
 
         | 攻击 480
@@ -186,7 +186,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         | 暴击 -10
         | 空A陆A海A宇A        
         | 弹数 8
-    .. grid-item-card:: プラズマソード(P)🤛
+    .. grid-item-card:: プラズマソードⓅ🤛
         :columns: auto
 
         | 攻击 1220
@@ -205,7 +205,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         | 空A陆A海A宇A
         | 弹数 3
 
-    .. grid-item-card:: ロシュセイバー(P)🤛
+    .. grid-item-card:: ロシュセイバーⓅ🤛
         :columns: auto
 
         | 攻击 2100(2200)
@@ -271,7 +271,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         | 陆B
         | 海C→B
         | 宇A
-    .. grid-item-card:: ブレイククロス(P)
+    .. grid-item-card:: ブレイククロスⓅ
         :columns: auto
 
         | 攻击 1040 (1240)
@@ -289,7 +289,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         | 暴击 +0
         | 空A陆A海C宇A
         | 弹数 8
-    .. grid-item-card:: 計都羅睺剣(P)🤛
+    .. grid-item-card:: 計都羅睺剣Ⓟ🤛
         :columns: auto
 
         | 攻击 1180 (1450)
@@ -297,7 +297,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         | 命中 +20
         | 暴击 +20
         | 空A陆A海A→B宇A
-    .. grid-item-card:: ブーストナックル(P)
+    .. grid-item-card:: ブーストナックルⓅ
         :columns: auto
 
         | 攻击 1200 (1500)
@@ -306,7 +306,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         | 暴击 +10
         | 空A陆A海A宇A
         | 弹数 2
-    .. grid-item-card:: グルンガストビーム(P)
+    .. grid-item-card:: グルンガストビームⓅ
         :columns: auto
 
         | 攻击 4720 (4800)
@@ -316,7 +316,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         | 空A陆A海B宇A
         | 消费EN 85
         | 必要气力 120
-    .. grid-item-card:: 計都羅睺剣・暗剣殺(P)🤛
+    .. grid-item-card:: 計都羅睺剣・暗剣殺Ⓟ🤛
         :columns: auto
 
         | 攻击 6900
@@ -379,7 +379,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         | 暴击 -10
         | 空A陆A海A宇A
         | 弹数 4
-    .. grid-item-card:: スパイラルアタック(P)🤛
+    .. grid-item-card:: スパイラルアタックⓅ🤛
         :columns: auto
 
         | 攻击 2970
@@ -438,7 +438,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         | 暴击 -10
         | 空A陆A海A宇A
         | 弹数 4
-    .. grid-item-card:: ドリルアタック(P)🤛
+    .. grid-item-card:: ドリルアタックⓅ🤛
         :columns: auto
 
         | 攻击 2500

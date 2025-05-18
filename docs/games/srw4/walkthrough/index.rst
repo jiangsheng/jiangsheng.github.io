@@ -747,7 +747,7 @@
 
         .. image:: ../units/images/portrait/srw4_units_portrait_0D.png
 
-        | :doc:`リューネ・カプリッチオ <39a_ryune_capriccio_gato>`\ (B)
+        | :doc:`リューネ・カプリッチオ <39a_ryune_capriccio_gato>`\ Ⓑ
         | 加入机体：GP-02A
         | 、ビギナ・ギナ
         | 加入机师：ガトー
@@ -758,7 +758,7 @@
         
         .. image:: ../units/images/portrait/srw4_units_portrait_8A.png
 
-        | :doc:`リューネ・カプリッチオ <39b_ryune_capriccio_gilliam>`\ (B)
+        | :doc:`リューネ・カプリッチオ <39b_ryune_capriccio_gilliam>`\ Ⓑ
         | 加入机体：サザビー
 
     .. grid-item-card:: 第三十九话B（SRW4S:有リューネ)
@@ -792,7 +792,7 @@
 
         .. image:: ../units/images/portrait/srw4_units_portrait_57.png 
         
-        | :doc:`アクシズに散る <41_scattered_on_axis>`\ (B)
+        | :doc:`アクシズに散る <41_scattered_on_axis>`\ Ⓑ
         | 加入机体：ヴァルシオーネ
         | 加入机师：リューネ
 

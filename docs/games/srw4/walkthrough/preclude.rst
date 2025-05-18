@@ -139,9 +139,622 @@
 
 除了几个特殊的生日和血型之外，主角和恋人的精神是由生日所在的黄道十二宫决定。为简洁起见，恋人的生日并不单独列出。可在上面的主角列表中查到恋人的生日和血型。主角和恋人的精神都是由生日和血型决定。
 
-.. csv-table:: 主角和恋人精神   
-   :file: protagonist_spirit.csv
-   :header-rows: 1
+除了一些特殊的生日和血型之外，其他生日和血型的精神如下：
+
+.. grid:: 
+  :gutter: 0
+  :margin: 0
+  :padding: 0
+
+  .. grid-item-card:: 白羊座O型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+    
+    | 3月21日
+    | ~4月19日
+    | 幸運 1
+    | 熱血 2
+    | 気合 8
+    | ひらめき 10
+    | てかげん 12
+    | 集中 21
+
+  .. grid-item-card:: 白羊座A型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 熱血 2
+    | 気合 8
+    | ひらめき 10
+    | てかげん 12
+    | 集中 21
+
+  .. grid-item-card:: 白羊座B型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 集中 1
+    | 幸運 3
+    | 探索 9
+    | 気合 16
+    | 熱血 27
+    | 激怒 24
+    | リン
+
+  .. grid-item-card:: 白羊座AB型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 熱血 3
+    | ひらめき 4
+    | 加速 9
+    | 気合 12
+    | 必中 22
+
+  .. grid-item-card:: 金牛座O型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 4月20日
+    | ~5月20日
+    | 幸運 1
+    | 加速 3
+    | 覚醒 7
+    | ひらめき 9
+    | 気合 10
+    | 熱血 19
+
+  .. grid-item-card:: 金牛座A型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 集中 2
+    | 熱血 7
+    | 気合 9
+    | 加速 11
+    | 補給 33
+
+  .. grid-item-card:: 金牛座B型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 気合 7
+    | 探索 9
+    | ひらめき 11
+    | 熱血 14
+    | 集中 22
+
+  .. grid-item-card:: 金牛座AB型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 熱血 1
+    | 探索 2
+    | 気合 4
+    | 幸運 10
+    | 信頼 31
+    | 再動 40
+    | ヘクトール
+
+  .. grid-item-card:: 双子座O型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 5月21日
+    | ~6月21日
+    | 気合 1
+    | 集中 4
+    | 幸運 8
+    | 熱血 21
+    | 覚醒 27
+    | 友情 30
+
+  .. grid-item-card:: 双子座A型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 熱血 3
+    | ひらめき 7
+    | 気合 8
+    | 威压 28
+    | 鉄壁 39
+
+  .. grid-item-card:: 双子座B型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | ひらめき 3
+    | 熱血 5
+    | 気合 11
+    | かく乱 15
+    | 集中 20
+
+  .. grid-item-card:: 双子座AB型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 加速 3
+    | 熱血 7
+    | 集中 10
+    | 気合 18
+    | 偵察 22
+
+  .. grid-item-card:: 巨蟹座O型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 6月22日
+    | ~7月22日
+    | 幸運 1
+    | ひらめき 2
+    | 気合 3
+    | 熱血 12
+    | てかげん 19
+    | 愛 41
+
+  .. grid-item-card:: 巨蟹座A型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 根性 1
+    | 気合 2
+    | 幸運 4
+    | 熱血 6
+    | 集中 22
+    | 威压 23
+
+  .. grid-item-card:: 巨蟹座B型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 熱血 2
+    | ひらめき 3
+    | 再動 9
+    | てかげん 17
+    | 気合 22
+
+  .. grid-item-card:: 巨蟹座AB型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 加速 3
+    | 熱血 5
+    | 鉄壁 15
+    | ひらめき 19
+    | 気合 21
+
+  .. grid-item-card:: 狮子座O型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 7月23日
+    | ~8月22日
+    | 幸運 1
+    | 根性 2
+    | 集中 3
+    | ひらめき 7
+    | 熱血 17
+    | 気合 20
+    | ジェス
+
+  .. grid-item-card:: 狮子座A型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 加速 2
+    | 熱血 4
+    | 鉄壁 5
+    | 気合 9
+    | 集中12
+
+  .. grid-item-card:: 狮子座B型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 加速 1
+    | 気合 2
+    | 幸運 6
+    | 激励 15
+    | 熱血 19
+    | ひらめき27
+
+  .. grid-item-card:: 狮子座AB型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 熱血 1
+    | 必中 5
+    | ひらめき 12
+    | 気合 24
+    | てかげん 33
+
+  .. grid-item-card:: 处女座O型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 8月23日
+    | ~9月22日
+    | 熱血 1
+    | 気合 4
+    | 幸運 8
+    | ひらめき 12
+    | 必中 18
+    | 集中 31
+    | ミーナ
+
+  .. grid-item-card:: 处女座A型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 必中 2
+    | ひらめき 5
+    | 熱血 8
+    | 加速 11
+    | 気合 14
+
+  .. grid-item-card:: 处女座B型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 熱血 3
+    | 必中 4
+    | 探索 8
+    | 気合 18
+    | ひらめき 24
+
+  .. grid-item-card:: 处女座AB型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 探索 1
+    | 幸運 2
+    | 熱血 4
+    | てかげん 14
+    | 気合 20
+    | ひらめき 24
+
+  .. grid-item-card:: 天秤座O型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 9月23日
+    | ~10月22日
+    | 集中 1
+    | 熱血 2
+    | 幸運 3
+    | 気合 12
+    | てかげん 21
+    | 威压 39
+
+  .. grid-item-card:: 天秤座A型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 集中 3
+    | 熱血 6
+    | 必中 8
+    | 覚醒 10
+    | 気合 17
+
+  .. grid-item-card:: 天秤座B型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 熱血 3
+    | 隠れ身 3
+    | 集中 8
+    | 必中 9
+    | 気合 15
+
+  .. grid-item-card:: 天秤座AB型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 熱血 2
+    | 加速 3
+    | 気合 4
+    | 探索 12
+    | ひらめき17
+
+  .. grid-item-card:: 天蝎座O型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 10月23日
+    | ~11月22日
+    | 幸運 1
+    | 熱血 1
+    | ひらめき 9
+    | 気合 12
+    | 覚醒 27
+    | 信頼 33
+
+  .. grid-item-card:: 天蝎座A型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 熱血 2
+    | 必中 4
+    | ひらめき 5
+    | 加速 8
+    | 気合 21
+    | イルム
+
+  .. grid-item-card:: 天蝎座B型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | ひらめき 1
+    | 幸運 2
+    | 根性 4
+    | 熱血 8
+    | 気合 18
+    | 加速 21
+
+  .. grid-item-card:: 天蝎座AB型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | ひらめき 7
+    | 熱血 10
+    | 隠れ身 14
+    | 気合 16
+    | 集中 30
+
+  .. grid-item-card:: 射手座O型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 11月23日
+    | ~12月21日
+    | 鉄壁 1
+    | ひらめき 2
+    | 幸運 3
+    | 熱血 9
+    | 気合 10
+    | 復活 45
+
+  .. grid-item-card:: 射手座A型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 気合 1
+    | 幸運 4
+    | ひらめき 12
+    | 熱血 18
+    | てかげん 21
+    | 信頼 33
+
+  .. grid-item-card:: 射手座B型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 集中 3
+    | 気合 4
+    | 加速 8
+    | 熱血 16
+    | 友情 36
+
+  .. grid-item-card:: 射手座AB型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 加速 2
+    | 必中 3
+    | 熱血 7
+    | 補給 18
+    | 気合 25
+
+  .. grid-item-card:: 山羊座O型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 12月22日
+    | ~1月19日
+    | 熱血 1
+    | ひらめき 2
+    | 加速 3
+    | 幸運 6
+    | 集中 11
+    | 気合 23
+
+  .. grid-item-card:: 山羊座A型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 探索 2
+    | 加速 3
+    | 熱血 4
+    | 覚醒 12
+    | 気合 20
+
+  .. grid-item-card:: 山羊座B型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | ひらめき 2
+    | 鉄壁 3
+    | 熱血 9
+    | 再動 14
+    | 気合 21
+
+  .. grid-item-card:: 山羊座AB型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 熱血 1
+    | 根性 2
+    | ひらめき 3
+    | 幸運 8
+    | 気合 14
+    | 友情 31
+
+  .. grid-item-card:: 水瓶座O型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 1月20日
+    | ~2月18日
+    | 幸運 1
+    | 加速 2
+    | 根性 3
+    | 熱血 10
+    | 気合 10
+    | 友情 22
+
+  .. grid-item-card:: 水瓶座A型
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 気合 2
+    | 熱血 8
+    | ひらめき 15
+    | てかげん 29
+    | 友情 40
+    | パット
+
+  .. grid-item-card:: 水瓶座B型
+    :columns: auto 
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 熱血 2
+    | 気合 7
+    | 必中 10
+    | ド根性 12
+    | ひらめき 21
+
+  .. grid-item-card:: 水瓶座AB型
+    :columns: auto 
+    :margin: 0
+    :padding: 0
+
+    | 熱血 1
+    | 幸運 2
+    | ひらめき 7
+    | 必中 9
+    | 気合 14
+    | 集中 18
+    | グレース
+
+  .. grid-item-card:: 双鱼座O型
+    :columns: auto 
+    :margin: 0
+    :padding: 0
+
+    | 2月19日
+    | ~3月20日
+    | 幸運 1
+    | 加速 2
+    | 熱血 4
+    | 気合 8
+    | てかげん 14
+    | 友情 30
+
+  .. grid-item-card:: 双鱼座A型
+    :columns: auto 
+    :margin: 0
+    :padding: 0
+
+    | 必中 1
+    | 幸運 2
+    | 熱血 3
+    | てかげん 8
+    | 必中 13
+    | 気合 20
+
+  .. grid-item-card:: 双鱼座B型
+    :columns: auto 
+    :margin: 0
+    :padding: 0
+
+    | 幸運 1
+    | 熱血 2
+    | 気合 3
+    | 加速 4
+    | 覚醒 22
+    | 威压 30
+    | ウィン
+
+  .. grid-item-card:: 双鱼座AB型
+    :columns: auto 
+    :margin: 0
+    :padding: 0
+
+    | 熱血 1
+    | 幸運 2
+    | ひらめき 5
+    | 気合 6
+    | 愛 24
+    | 激励 30
+
+特殊精神
 
 
 .. csv-table:: 主角和恋人特殊精神   
