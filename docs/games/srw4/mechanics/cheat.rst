@@ -271,96 +271,223 @@
       :class-card: text-nowrap
       :columns: auto
       
-      | cdf85c02 移+2
+      | cdf85c08 移+8
       | cdf85d12 运+18
       | cdf85e14 限+20  
-      | cdf85f32 甲+500
-      | cdf8bce8
-      | cdf8bd03 HP +1000
+      | cdf85f0A 甲+100
+      | cdf8bcf4
+      | cdf8bd01 HP +500
       | cdf8be04 光线护壁
 
     .. grid-item-card:: 米诺夫斯基飞行器
       :class-card: text-nowrap
       :columns: auto
 
-      | cdf86002 移+2
+      | cdf86008 移+8
       | cdf86112 运+18
       | cdf86214 限+20  
-      | cdf86332 甲+500
-      | cdf8c0e8
-      | cdf8c103 HP +1000
+      | cdf8630A 甲+100
+      | cdf8c0f4
+      | cdf8c101 HP +500
       | cdf8be04 光线护壁
 
     .. grid-item-card:: 助推器
       :class-card: text-nowrap
       :columns: auto
 
-      | cdf86403 移+3
+      | cdf8640c 移+12
       | cdf86512 运+18
       | cdf86614 限+20  
-      | cdf86732 甲+500
-      | cdf8c4e8
-      | cdf8c503 HP +1000
+      | cdf8670A 甲+100
+      | cdf8c4f4
+      | cdf8c501 HP +500
       | cdf8c604 光线护壁
 
     .. grid-item-card:: 超级助推器
       :class-card: text-nowrap
       :columns: auto
 
-      | cdf86803 移+4
+      | cdf86810 移+16
       | cdf86912 运+18
       | cdf86a14 限+20  
-      | cdf86b32 甲+500
-      | cdf8c8e8
-      | cdf8c903 HP +1000
+      | cdf86b0A 甲+100
+      | cdf8c8f4
+      | cdf8c901 HP +500
       | cdf8ca04 光线护壁
+
+    .. grid-item-card:: 远地点控制发动机
+      :class-card: text-nowrap
+      :columns: auto
+
+      | cdf86C08 移+8
+      | cdf86D12 运+18
+      | cdf86E14 限+20  
+      | cdf86F0A 甲+100
+      | cdf8CCf4
+      | cdf8CD01 HP +500
+      | cdf8cE04 光线护壁
 
     .. grid-item-card:: FATIMA
       :class-card: text-nowrap
       :columns: auto
 
-      | cdf87004 移+4
+      | cdf87010 移+16
       | cdf87124 运+36
       | cdf87228 限+40
-      | cdf87332 甲+500
-      | cdf8d0e8
-      | cdf8d103 HP +1000
+      | cdf8730a 甲+100
+      | cdf8d0f4
+      | cdf8d101 HP +500
       | cdf8d204 光线护壁
+
+    .. grid-item-card:: ALICE
+      :class-card: text-nowrap
+      :columns: auto
+
+      | cdf87408 移+8
+      | cdf8751E 运+30
+      | cdf87628 限+40
+      | cdf8770a 甲+100
+      | cdf8d4f4
+      | cdf8d501 HP +500
+      | cdf8d604 光线护壁
 
     .. grid-item-card:: 精神力框架
       :class-card: text-nowrap
       :columns: auto
 
-      | cdf87802 移+2
-      | cdf87918 运+24
+      | cdf87808 移+8
+      | cdf8791C 运+28
       | cdf87a32 限+50
-      | cdf87b32 甲+500
+      | cdf87b0A 甲+100
+      | cdf8d8f4
+      | cdf8d901 HP +500
       | cdf8da04 光线护壁
-      | 修改精神力框架的HP属性会造成移动力混乱
+
+    .. grid-item-card:: 生物传感器
+      :class-card: text-nowrap
+      :columns: auto
+
+      | cdf87C08 移+8
+      | cdf87D1A 运+26
+      | cdf87E23 限+35
+      | cdf87F0A 甲+100
+      | cdf8dCf4
+      | cdf8dD01 HP +500
+      | cdf8dE04 光线护壁   
+
+    .. grid-item-card:: 磁铁镀膜
+      :class-card: text-nowrap
+      :columns: auto
+
+      | cdf88008 移+8
+      | cdf8811A 运+26
+      | cdf88223 限+35
+      | cdf8830A 甲+100
+      | cdf8E0f4
+      | cdf8E101 HP +500
+      | cdf8E204 光线护壁   
+
+    .. grid-item-card:: I立场发生机
+      :class-card: text-nowrap
+      :columns: auto
+
+      | cdf88408 移+8
+      | cdf88512 运+18
+      | cdf88614 限+20
+      | cdf8870A 甲+100
+      | cdf8E4f4
+      | cdf8E501 HP +500
+      | cdf8E604 光线护壁  
 
     .. grid-item-card:: 乔巴姆装甲
       :class-card: text-nowrap
       :columns: auto
 
-      | cdf88802 移+2
+      | cdf88808 移+8
       | cdf88912 运+18
       | cdf88a28 限+40
       | cdf88b64 甲+1000
       | cdf8E8d0
-      | cdf8E907 HP +2000
+      | cdf8E907 HP+2000
       | cdf8Ea04 光线护壁
 
     .. grid-item-card:: 混合装甲
       :class-card: text-nowrap
       :columns: auto
 
-      | cdf88C02 移+2
+      | cdf88C08 移+8
       | cdf88D12 运+18
       | cdf88E28 限+40
       | cdf88F96 甲+1500
       | cdf8ECA0
-      | cdf8ED0F HP +4000
+      | cdf8ED0F HP+4000
       | cdf8EE04 光线护壁
+
+    .. grid-item-card:: 护壁发生机
+      :columns: auto
+
+      | cdf89008 移+8
+      | cdf89112 运+18
+      | cdf89228 限+40
+      | cdf89396 甲+1500
+      | cdf8F0A0
+      | cdf8F10F HP+4000
+      | cdf8F204 光线护壁 
+
+    .. grid-item-card:: 反光束涂层
+      :columns: auto
+
+      | cdf89408 移+8
+      | cdf89512 运+18
+      | cdf89628 限+40
+      | cdf89796 甲+1500
+      | cdf8F4A0
+      | cdf8F50F HP+4000
+      | cdf8F604 光线护壁 
+
+    .. grid-item-card:: 修理工具包
+      :columns: auto
+
+      | cdf89808 移+8
+      | cdf89912 运+18
+      | cdf89A28 限+40
+      | cdf89B96 甲+1500
+      | cdf8F8A0
+      | cdf8F90F HP+4000
+      | cdf8FA04 光线护壁 
+
+    .. grid-item-card:: 螺旋桨油箱
+      :columns: auto
+
+      | cdf89C08 移+8
+      | cdf89D12 运+18
+      | cdf89E28 限+40
+      | cdf89F96 甲+1500
+      | cdf8FCA0
+      | cdf8FD0F HP+4000
+      | cdf8FE04 光线护壁 
+
+    .. grid-item-card:: 推进剂荚舱
+      :columns: auto
+
+      | cdf8A008 移+8
+      | cdf8A112 运+18
+      | cdf8A228 限+40
+      | cdf8A396 甲+1500
+      | cdf900A0
+      | cdf9010F HP+4000
+      | cdf90204 光线护壁 
+
+    .. grid-item-card:: 推进剂荚舱S
+      :columns: auto
+
+      | cdf8A408 移+8
+      | cdf8A512 运+18
+      | cdf8A628 限+40
+      | cdf8A796 甲+1500
+      | cdf904A0
+      | cdf9050F HP+4000
+      | cdf90604 光线护壁 
         
 -------------------
 第四次修改
@@ -1158,175 +1285,184 @@
       | 31103ED0 0006
       | 30103F0B 00DD クワサン＝オリビー
       | 31103F0C 0006
+      | 3004B822 0009 ニー＝ギブン 必中→加速
+      | 3004B824 000D ニー＝ギブン 根性→幸运
+      | 3004B826 0032 ニー＝ギブン 脱力→聖戦士
+      | 3004B83C 0009 キーン＝キッス 偵察→加速
+      | 3004B83E 000D キーン＝キッス 必中→幸运
+      | 3004B844 0003 キーン＝キッス 信頼→補給
+      | 3004B846 0032 キーン＝キッス 友情→聖戦士
+
+
 
     .. grid-item-card:: 高性能雷达
       :columns: auto
       
-      | 9010721C 32141202
-      | 移+2 运+18
-      | 限+20 甲+500     
-      | 9010729C 000403e8 
-      | HP +1000 光线护壁
+      | 9010721C 0A141208
+      | 移+8 运+18
+      | 限+20 甲+100     
+      | 9010729C 000401F4
+      | HP +500 光线护壁
 
     .. grid-item-card:: 米诺夫斯基飞行器
       :columns: auto
 
-      | 90107220 32141202 
-      | 移+2 运+18
-      | 限+20 甲+500
-      | 901072a0 000403e8 
-      | HP +1000 光线护壁
+      | 90107220 0A141208 
+      | 移+8 运+18
+      | 限+20 甲+100
+      | 901072a0 000401F4 
+      | HP +500 光线护壁
 
     .. grid-item-card:: 助推器
       :columns: auto
 
-      | 90107224 32141203
-      | 移+3 运+18
-      | 限+20 甲+500
-      | 901072a4 000403e8 
-      | HP +1000 光线护壁
+      | 90107224 0A14120C
+      | 移+12 运+18
+      | 限+20 甲+100
+      | 901072a4 000401F4 
+      | HP +500 光线护壁
 
     .. grid-item-card:: 超级助推器
       :columns: auto
 
-      | 90107228 04121432
-      | 移+4 运+18
-      | 限+20 甲+500
-      | 901072a8 000403e8
-      | HP +1000 光线护壁
+      | 90107228 0A141210
+      | 移+16 运+18
+      | 限+20 甲+100
+      | 901072a8 000401F4
+      | HP +500 光线护壁
 
     .. grid-item-card:: 远地点控制发动机
       :columns: auto
 
-      | 9010722C 32141703
-      | 移+3 运+23
-      | 限+20 甲+500
-      | 901072aC 000403e8
-      | HP +1000 光线护壁
+      | 9010722C 1014170C
+      | 移+12 运+23
+      | 限+20 甲+100
+      | 901072aC 000401F4
+      | HP +500 光线护壁
 
 
     .. grid-item-card:: FATIMA
       :columns: auto
 
-      | 90107230 32282403
-      | 移+4 运+36
-      | 限+40 甲+500
-      | 901072b0 000403e8
-      | HP +1000 光线护壁
+      | 90107230 0A282410
+      | 移+16 运+36
+      | 限+40 甲+100
+      | 901072b0 000401F4
+      | HP +500 光线护壁
 
     .. grid-item-card:: ALICE
       :columns: auto
 
-      | 90107234 32281E02
-      | 移+2 运+30
-      | 限+40 甲+500
-      | 901072b4 000403e8
-      | HP +1000 光线护壁      
+      | 90107234 0A281E08
+      | 移+8 运+30
+      | 限+40 甲+100
+      | 901072b4 000401F4
+      | HP +500 光线护壁      
 
     .. grid-item-card:: 精神力框架
       :columns: auto
 
-      | 90107238 322D1C02
-      | 移+2 运+28
-      | 限+45 甲+500
-      | 901072b8 000403e8
-      | HP +1000 光线护壁     
+      | 90107238 0A321C08
+      | 移+8 运+28
+      | 限+50 甲+100
+      | 901072b8 000401F4
+      | HP +500 光线护壁     
 
     .. grid-item-card:: 生物传感器
       :columns: auto
 
-      | 9010723C 32231A02
-      | 移+2 运+26
-      | 限+35 甲+500
-      | 901072bC 000403e8
-      | HP +1000 光线护壁
+      | 9010723C 0A231A08
+      | 移+8 运+26
+      | 限+35 甲+100
+      | 901072bC 000401F4
+      | HP +500 光线护壁
 
     .. grid-item-card:: 磁铁镀膜
       :columns: auto
 
-      | 90107240 321E1702
-      | 移+2 运+23
-      | 限+30 甲+500
-      | 901072C0 000403e8
-      | HP +1000 光线护壁
+      | 90107240 0A1E1708
+      | 移+8 运+23
+      | 限+30 甲+100
+      | 901072C0 000401F4
+      | HP +500 光线护壁
 
     .. grid-item-card:: I立场发生机
       :columns: auto
 
-      | 90107244 32141202
-      | 移+2 运+18
-      | 限+20 甲+500
-      | 901072C4 000403e8
-      | HP +1000 光线护壁      
+      | 90107244 0A141208
+      | 移+8 运+18
+      | 限+20 甲+100
+      | 901072C4 000401F4
+      | HP +500 光线护壁      
 
     .. grid-item-card:: 乔巴姆装甲
       :columns: auto
 
-      | 90107248 32281202
-      | 移+2 运+18
-      | 限+40 甲+500
+      | 90107248 64281208
+      | 移+8 运+18
+      | 限+40 甲+1000
       | 901072c8 960407d0
-      | HP +2000 光线护壁   
+      | HP+2000 光线护壁   
 
     .. grid-item-card:: 混合装甲
       :columns: auto
 
-      | 9010724C 96281202
-      | 移+2 运+18
+      | 9010724C 96281208
+      | 移+8 运+18
       | 限+40 甲+1500
       | 901072cC 96040fa0
-      | HP +4000 光线护壁  
+      | HP+4000 光线护壁  
 
     .. grid-item-card:: 护壁发生机
       :columns: auto
 
-      | 90107250 96281202
-      | 移+2 运+18
+      | 90107250 96281208
+      | 移+8 运+18
       | 限+40 甲+1500
       | 901072D0 96040fa0
-      | HP +4000 光线护壁  
+      | HP+4000 光线护壁  
 
     .. grid-item-card:: 反光束涂层
       :columns: auto
 
-      | 90107254 96281202
-      | 移+2 运+18
+      | 90107254 96281208
+      | 移+8 运+18
       | 限+40 甲+1500
       | 901072D4 96040fa0
-      | HP +4000 光线护壁  
+      | HP+4000 光线护壁  
 
     .. grid-item-card:: 修理工具包
       :columns: auto
 
-      | 90107258 96281202
-      | 移+2 运+18
+      | 90107258 96281208
+      | 移+8 运+18
       | 限+40 甲+1500
       | 901072D8 96040fa0
-      | HP +4000 光线护壁  
+      | HP+4000 光线护壁  
 
     .. grid-item-card:: 螺旋桨油箱
       :columns: auto
 
-      | 9010725C 96281202
-      | 移+2 运+18
+      | 9010725C 96281208
+      | 移+8 运+18
       | 限+40 甲+1500
       | 901072DC 96040fa0
-      | HP +4000 光线护壁  
+      | HP+4000 光线护壁  
 
     .. grid-item-card:: 推进剂荚舱
       :columns: auto
 
-      | 90107260 96281202
-      | 移+2 运+18
+      | 90107260 96281208
+      | 移+8 运+18
       | 限+40 甲+1500
       | 901072e0 96040fa0
-      | HP +4000 光线护壁  
+      | HP+4000 光线护壁  
 
     .. grid-item-card:: 推进剂荚舱S
       :columns: auto
 
-      | 90107264 96281202
-      | 移+2 运+18
+      | 90107264 96281208
+      | 移+8 运+18
       | 限+40 甲+1500
       | 901072E4 96040fa0
-      | HP +4000 光线护壁  
+      | HP+4000 光线护壁  

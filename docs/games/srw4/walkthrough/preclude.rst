@@ -23,115 +23,178 @@
 
 主人公和副主人公全员都有幸運、熱血和気合，故省略。
 
-.. flat-table:: 主角和恋人 
-   :class: text-center, align-items-center, compact, display
-   :name: srw4_protagonist_table
-   :header-rows: 1
-   :fill-cells:
+.. grid:: 
+  :gutter: 0
+  :margin: 0
+  :padding: 0
 
-   * - 颜
-     - 主角姓名
-     - 昵称
-     - 生日
-     - 血型
-     - 性格
-     - 恋人
-     - 默认精神
-   * - .. image:: ../pilots/images/srw4_pilot_renanjess.png
-     - レナンジェス＝スターロード
-     - ジェス
-     - 7月23日
-     - O
-     - まじめで優しい熱血漢
-     -   
-       .. image:: ../pilots/images/srw4_pilot_mina.png
+  .. grid-item-card:: ジェス
+    :columns: auto
+    :margin: 0
+    :padding: 0
 
-     - ひらめき、集中、根性
-   * - 
-       .. image:: ../pilots/images/srw4_pilot_irmgard.png
-     - ルムガルト＝カザハラ
-     - イルム
-     - 11月10日
-     - A
-     - 理论家だが异性好き
-     - 
-       .. image:: ../pilots/images/srw4_pilot_lynn.png
-     - 加速、ひらめき、必中
-   * - :rspan:`1`\ 
+    .. image:: ../pilots/images/srw4_pilot_renanjess.png
+    
+    | レナンジェス
+    | スターロード
+    | 7月23日
+    | O
+    | まじめで優しい熱血漢
+    | ひらめき、集中、根性
+    | 恋人 ミーナ
 
-       .. image:: ../pilots/images/srw4_pilot_hector.png
-     - :rspan:`1`\ ヘクトール＝マディソン
-     - :rspan:`1`\ ヘクトール
-     - :rspan:`1`\ 5月4日
-     - :rspan:`1`\ AB
-     - :rspan:`1`\ ちょっと変な性格
-     - :rspan:`1`\ 
+    .. image:: ../pilots/images/srw4_pilot_mina.png
 
-       .. image:: ../pilots/images/srw4_pilot_patorisia.png
-     - SFC 版：探索、信頼、再動
-   * - PS版：必中、ひらめき、復活
-   * - :rspan:`1`\ 
- 
-       .. image:: ../pilots/images/srw4_pilot_erwin.png
-     - :rspan:`1`\ アーウィン＝ドースティン
-     - :rspan:`1`\ ウィン
-     - :rspan:`1`\ 3月1日
-     - :rspan:`1`\ B
-     - :rspan:`1`\ クールでニヒル
-     - :rspan:`1`\ 
+    | SFC 版：
+    | ひらめき、集中、必中
+    | PS版：
+    | ひらめき、必中、信頼
 
-       .. image:: ../pilots/images/srw4_pilot_grace.png
-     - SFC 版：加速、威圧、覚醒
-   * - PS版：加速、必中、再動
-   * - :rspan:`1`\ 
+  .. grid-item-card:: イルム
+    :columns: auto
+    :margin: 0
+    :padding: 0
 
-       .. image:: ../pilots/images/srw4_pilot_patorisia.png
-     - :rspan:`1`\ パトリシア＝ハックマン
-     - :rspan:`1`\ パット
-     - :rspan:`1`\ 2月4日
-     - :rspan:`1`\ A
-     - :rspan:`1`\ 真面目で优しい熱血汉
-     - :rspan:`1`\ 
+    .. image:: ../pilots/images/srw4_pilot_irmgard.png
 
-       .. image:: ../pilots/images/srw4_pilot_hector.png
-     - SFC 版：ひらめき、てかげん、友情
-   * - PS版：ひらめき、必中、復活
-   * - 
-       .. image:: ../pilots/images/srw4_pilot_grace.png
-     - グレース＝ウリジン
-     - グレース
-     - 1月31日
-     - AB
-     - 理论家だが异性好き
-     -   
-       .. image:: ../pilots/images/srw4_pilot_erwin.png
-     - ひらめき、集中、必中
-   * - :rspan:`1`\ 
- 
-       .. image:: ../pilots/images/srw4_pilot_mina.png
-     - :rspan:`1`\ ミーナ＝ライクリング
-     - :rspan:`1`\ ミーナ
-     - :rspan:`1`\ 9月21日
-     - :rspan:`1`\ O
-     - :rspan:`1`\ ちょっと変な性格
-     - :rspan:`1`\ 
+    | ルムガルト
+    | カザハラ
+    | 11月10日
+    | A
+    | 理论家だが异性好き
+    | 加速、ひらめき、必中
+    | 恋人 リン
 
-       .. image:: ../pilots/images/srw4_pilot_renanjess.png
-     - SFC 版：ひらめき、集中、必中
-   * - PS版：ひらめき、必中、信頼
-   * - :rspan:`1`\ 
+    .. image:: ../pilots/images/srw4_pilot_lynn.png
 
-       .. image:: ../pilots/images/srw4_pilot_lynn.png
-     - :rspan:`1`\ リン＝マオ
-     - :rspan:`1`\ リン
-     - :rspan:`1`\ 4月14日
-     - :rspan:`1`\ B
-     - :rspan:`1`\ クールでニヒル
-     - :rspan:`1`\ 
- 
-       .. image:: ../pilots/images/srw4_pilot_irmgard.png
-     - SFC 版：集中、探索、激怒
-   * - PS版：ひらめき、集中、必中
+    | SFC版：
+    | 集中、探索、激怒
+    | PS版：
+    | ひらめき、集中、必中
+
+  .. grid-item-card:: ヘクトール
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    .. image:: ../pilots/images/srw4_pilot_hector.png
+
+    | ヘクトール
+    | マディソン
+    | 5月4日
+    | AB
+    | ちょっと変な性格
+    | SFC版：
+    | 探索、信頼、再動
+    | PS版：
+    | 必中、ひらめき、復活
+    | 恋人 パット
+
+    .. image:: ../pilots/images/srw4_pilot_patorisia.png
+
+    | SFC 版：
+    | ひらめき、てかげん、友情
+    | PS版：
+    | ひらめき、必中、復活
+
+  .. grid-item-card:: ウィン
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    .. image:: ../pilots/images/srw4_pilot_erwin.png
+
+    | アーウィン
+    | ドースティン
+    | 3月1日
+    | B
+    | クールでニヒル
+    | SFC 版：
+    | 加速、威圧、覚醒
+    | PS版：
+    | 加速、必中、再動
+    | 恋人 グレース 
+
+    .. image:: ../pilots/images/srw4_pilot_grace.png
+
+    | ひらめき、集中、必中
+
+  .. grid-item-card:: パット
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    .. image:: ../pilots/images/srw4_pilot_patorisia.png
+    
+    | パトリシア
+    | ハックマン
+    | 2月4日
+    | A
+    | 真面目で优しい熱血汉
+    | SFC 版：
+    | ひらめき、てかげん、友情
+    | PS版：
+    | ひらめき、必中、復活
+    | 恋人 ヘクトール
+
+    .. image:: ../pilots/images/srw4_pilot_hector.png
+
+  .. grid-item-card:: グレース
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    .. image:: ../pilots/images/srw4_pilot_grace.png
+
+    | グレース
+    | ウリジン
+    | 1月31日
+    | AB
+    | 理论家だが异性好き
+    | ひらめき、集中、必中
+    | 恋人 ウィン
+
+    .. image:: ../pilots/images/srw4_pilot_erwin.png
+
+  .. grid-item-card:: ミーナ
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    .. image:: ../pilots/images/srw4_pilot_mina.png
+
+    | ミーナ
+    | ライクリング
+    | 9月21日
+    | O
+    | ちょっと変な性格
+    | SFC版：
+    | ひらめき、集中、必中
+    | PS版：
+    | ひらめき、必中、信頼
+    | 恋人 ジェス
+
+    .. image:: ../pilots/images/srw4_pilot_renanjess.png
+
+  .. grid-item-card:: リン
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    .. image:: ../pilots/images/srw4_pilot_lynn.png
+
+    | リン
+    | マオ
+    | 4月14日
+    | B
+    | クールでニヒル
+    | SFC版：
+    | 集中、探索、激怒
+    | PS版：
+    | ひらめき、集中、必中
+    | 恋人 イルム
+
+    .. image:: ../pilots/images/srw4_pilot_irmgard.png
 
 -------------------------
 主角和恋人的精神(第四次)
