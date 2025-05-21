@@ -21,7 +21,7 @@ After finish exporting blogs I added some table of content pages that lists blog
 
 After the domain DNS is live on Cloudflare, I got ERR_TOO_MANY_REDIRECTS when visiting my web site. The problem is Cloudflare trying to reach GitHub via HTTP and got redirected to HTTPS (https://developers.cloudflare.com/ssl/troubleshooting/too-many-redirects/). The solution is to set SSL/TLS encryption mode from Automatic to Full. 
 
-One thing lost in the conversion is comments. As most of my blogs are about tech, the existing Github Pages repo uses a comment system that is based on Github discussions and I don't really have the time to port the comments over. If you are looking for old comments for a specific page, my old WordPress site would be still running, you can check me.wordpress.com after a few days. 
+One thing lost in the conversion is comments. As most of my blogs are about tech, the existing Github Pages repo uses a comment system that is based on Github discussions and I don't really have the time to port the comments over. If you are looking for old comments for a specific page, my old WordPress site would be still running, you can check jiangsheng.wordpress.com after a few days. 
 
 
 

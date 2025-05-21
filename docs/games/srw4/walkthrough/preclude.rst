@@ -38,9 +38,12 @@
     | レナンジェス
     | スターロード
     | 7月23日
-    | O
+    | O    
     | まじめで優しい熱血漢
+    |
     | ひらめき、集中、根性
+    | 
+    |
     | 恋人 ミーナ
 
     .. image:: ../pilots/images/srw4_pilot_mina.png
@@ -62,7 +65,10 @@
     | 11月10日
     | A
     | 理论家だが异性好き
+    |
     | 加速、ひらめき、必中
+    |
+    |
     | 恋人 リン
 
     .. image:: ../pilots/images/srw4_pilot_lynn.png
@@ -139,6 +145,11 @@
 
     .. image:: ../pilots/images/srw4_pilot_hector.png
 
+    | SFC版：
+    | 探索、信頼、再動
+    | PS版：
+    | 必中、ひらめき、復活
+
   .. grid-item-card:: グレース
     :columns: auto
     :margin: 0
@@ -151,10 +162,18 @@
     | 1月31日
     | AB
     | 理论家だが异性好き
+    |
     | ひらめき、集中、必中
+    |
+    |
     | 恋人 ウィン
 
     .. image:: ../pilots/images/srw4_pilot_erwin.png
+
+    | SFC 版：
+    | 加速、威圧、覚醒
+    | PS版：
+    | 加速、必中、再動
 
   .. grid-item-card:: ミーナ
     :columns: auto
@@ -176,6 +195,8 @@
 
     .. image:: ../pilots/images/srw4_pilot_renanjess.png
 
+    | ひらめき、集中、根性
+
   .. grid-item-card:: リン
     :columns: auto
     :margin: 0
@@ -196,6 +217,8 @@
 
     .. image:: ../pilots/images/srw4_pilot_irmgard.png
 
+    | 加速、ひらめき、必中
+
 -------------------------
 主角和恋人的精神(第四次)
 -------------------------
@@ -209,7 +232,7 @@
   :margin: 0
   :padding: 0
 
-  .. grid-item-card:: 白羊座O型
+  .. grid-item-card:: 白羊座O
     :columns: auto
     :margin: 0
     :padding: 0
@@ -223,7 +246,7 @@
     | てかげん 12
     | 集中 21
 
-  .. grid-item-card:: 白羊座A型
+  .. grid-item-card:: 白羊座A
     :columns: auto
     :margin: 0
     :padding: 0
@@ -235,7 +258,7 @@
     | てかげん 12
     | 集中 21
 
-  .. grid-item-card:: 白羊座B型
+  .. grid-item-card:: 白羊座B
     :columns: auto
     :margin: 0
     :padding: 0
@@ -248,7 +271,7 @@
     | 激怒 24
     | リン
 
-  .. grid-item-card:: 白羊座AB型
+  .. grid-item-card:: 白羊座AB
     :columns: auto
     :margin: 0
     :padding: 0
@@ -260,7 +283,7 @@
     | 気合 12
     | 必中 22
 
-  .. grid-item-card:: 金牛座O型
+  .. grid-item-card:: 金牛座O
     :columns: auto
     :margin: 0
     :padding: 0
@@ -274,7 +297,7 @@
     | 気合 10
     | 熱血 19
 
-  .. grid-item-card:: 金牛座A型
+  .. grid-item-card:: 金牛座A
     :columns: auto
     :margin: 0
     :padding: 0
@@ -286,7 +309,7 @@
     | 加速 11
     | 補給 33
 
-  .. grid-item-card:: 金牛座B型
+  .. grid-item-card:: 金牛座B
     :columns: auto
     :margin: 0
     :padding: 0
@@ -298,7 +321,7 @@
     | 熱血 14
     | 集中 22
 
-  .. grid-item-card:: 金牛座AB型
+  .. grid-item-card:: 金牛座AB
     :columns: auto
     :margin: 0
     :padding: 0
@@ -311,7 +334,7 @@
     | 再動 40
     | ヘクトール
 
-  .. grid-item-card:: 双子座O型
+  .. grid-item-card:: 双子座O
     :columns: auto
     :margin: 0
     :padding: 0
@@ -325,7 +348,7 @@
     | 覚醒 27
     | 友情 30
 
-  .. grid-item-card:: 双子座A型
+  .. grid-item-card:: 双子座A
     :columns: auto
     :margin: 0
     :padding: 0
@@ -337,7 +360,7 @@
     | 威压 28
     | 鉄壁 39
 
-  .. grid-item-card:: 双子座B型
+  .. grid-item-card:: 双子座B
     :columns: auto
     :margin: 0
     :padding: 0
@@ -349,7 +372,7 @@
     | かく乱 15
     | 集中 20
 
-  .. grid-item-card:: 双子座AB型
+  .. grid-item-card:: 双子座AB
     :columns: auto
     :margin: 0
     :padding: 0
@@ -361,7 +384,7 @@
     | 気合 18
     | 偵察 22
 
-  .. grid-item-card:: 巨蟹座O型
+  .. grid-item-card:: 巨蟹座O
     :columns: auto
     :margin: 0
     :padding: 0
@@ -375,7 +398,7 @@
     | てかげん 19
     | 愛 41
 
-  .. grid-item-card:: 巨蟹座A型
+  .. grid-item-card:: 巨蟹座A
     :columns: auto
     :margin: 0
     :padding: 0
@@ -387,7 +410,7 @@
     | 集中 22
     | 威压 23
 
-  .. grid-item-card:: 巨蟹座B型
+  .. grid-item-card:: 巨蟹座B
     :columns: auto
     :margin: 0
     :padding: 0
@@ -399,7 +422,7 @@
     | てかげん 17
     | 気合 22
 
-  .. grid-item-card:: 巨蟹座AB型
+  .. grid-item-card:: 巨蟹座AB
     :columns: auto
     :margin: 0
     :padding: 0
@@ -411,7 +434,7 @@
     | ひらめき 19
     | 気合 21
 
-  .. grid-item-card:: 狮子座O型
+  .. grid-item-card:: 狮子座O
     :columns: auto
     :margin: 0
     :padding: 0
@@ -426,7 +449,7 @@
     | 気合 20
     | ジェス
 
-  .. grid-item-card:: 狮子座A型
+  .. grid-item-card:: 狮子座A
     :columns: auto
     :margin: 0
     :padding: 0
@@ -438,7 +461,7 @@
     | 気合 9
     | 集中12
 
-  .. grid-item-card:: 狮子座B型
+  .. grid-item-card:: 狮子座B
     :columns: auto
     :margin: 0
     :padding: 0
@@ -450,7 +473,7 @@
     | 熱血 19
     | ひらめき27
 
-  .. grid-item-card:: 狮子座AB型
+  .. grid-item-card:: 狮子座AB
     :columns: auto
     :margin: 0
     :padding: 0
@@ -462,7 +485,7 @@
     | 気合 24
     | てかげん 33
 
-  .. grid-item-card:: 处女座O型
+  .. grid-item-card:: 处女座O
     :columns: auto
     :margin: 0
     :padding: 0
@@ -477,7 +500,7 @@
     | 集中 31
     | ミーナ
 
-  .. grid-item-card:: 处女座A型
+  .. grid-item-card:: 处女座A
     :columns: auto
     :margin: 0
     :padding: 0
@@ -489,7 +512,7 @@
     | 加速 11
     | 気合 14
 
-  .. grid-item-card:: 处女座B型
+  .. grid-item-card:: 处女座B
     :columns: auto
     :margin: 0
     :padding: 0
@@ -501,7 +524,7 @@
     | 気合 18
     | ひらめき 24
 
-  .. grid-item-card:: 处女座AB型
+  .. grid-item-card:: 处女座AB
     :columns: auto
     :margin: 0
     :padding: 0
@@ -513,7 +536,7 @@
     | 気合 20
     | ひらめき 24
 
-  .. grid-item-card:: 天秤座O型
+  .. grid-item-card:: 天秤座O
     :columns: auto
     :margin: 0
     :padding: 0
@@ -527,7 +550,7 @@
     | てかげん 21
     | 威压 39
 
-  .. grid-item-card:: 天秤座A型
+  .. grid-item-card:: 天秤座A
     :columns: auto
     :margin: 0
     :padding: 0
@@ -539,7 +562,7 @@
     | 覚醒 10
     | 気合 17
 
-  .. grid-item-card:: 天秤座B型
+  .. grid-item-card:: 天秤座B
     :columns: auto
     :margin: 0
     :padding: 0
@@ -551,7 +574,7 @@
     | 必中 9
     | 気合 15
 
-  .. grid-item-card:: 天秤座AB型
+  .. grid-item-card:: 天秤座AB
     :columns: auto
     :margin: 0
     :padding: 0
@@ -563,7 +586,7 @@
     | 探索 12
     | ひらめき17
 
-  .. grid-item-card:: 天蝎座O型
+  .. grid-item-card:: 天蝎座O
     :columns: auto
     :margin: 0
     :padding: 0
@@ -577,7 +600,7 @@
     | 覚醒 27
     | 信頼 33
 
-  .. grid-item-card:: 天蝎座A型
+  .. grid-item-card:: 天蝎座A
     :columns: auto
     :margin: 0
     :padding: 0
@@ -590,7 +613,7 @@
     | 気合 21
     | イルム
 
-  .. grid-item-card:: 天蝎座B型
+  .. grid-item-card:: 天蝎座B
     :columns: auto
     :margin: 0
     :padding: 0
@@ -602,7 +625,7 @@
     | 気合 18
     | 加速 21
 
-  .. grid-item-card:: 天蝎座AB型
+  .. grid-item-card:: 天蝎座AB
     :columns: auto
     :margin: 0
     :padding: 0
@@ -614,7 +637,7 @@
     | 気合 16
     | 集中 30
 
-  .. grid-item-card:: 射手座O型
+  .. grid-item-card:: 射手座O
     :columns: auto
     :margin: 0
     :padding: 0
@@ -628,7 +651,7 @@
     | 気合 10
     | 復活 45
 
-  .. grid-item-card:: 射手座A型
+  .. grid-item-card:: 射手座A
     :columns: auto
     :margin: 0
     :padding: 0
@@ -640,7 +663,7 @@
     | てかげん 21
     | 信頼 33
 
-  .. grid-item-card:: 射手座B型
+  .. grid-item-card:: 射手座B
     :columns: auto
     :margin: 0
     :padding: 0
@@ -652,7 +675,7 @@
     | 熱血 16
     | 友情 36
 
-  .. grid-item-card:: 射手座AB型
+  .. grid-item-card:: 射手座AB
     :columns: auto
     :margin: 0
     :padding: 0
@@ -664,7 +687,7 @@
     | 補給 18
     | 気合 25
 
-  .. grid-item-card:: 山羊座O型
+  .. grid-item-card:: 山羊座O
     :columns: auto
     :margin: 0
     :padding: 0
@@ -678,7 +701,7 @@
     | 集中 11
     | 気合 23
 
-  .. grid-item-card:: 山羊座A型
+  .. grid-item-card:: 山羊座A
     :columns: auto
     :margin: 0
     :padding: 0
@@ -690,7 +713,7 @@
     | 覚醒 12
     | 気合 20
 
-  .. grid-item-card:: 山羊座B型
+  .. grid-item-card:: 山羊座B
     :columns: auto
     :margin: 0
     :padding: 0
@@ -702,7 +725,7 @@
     | 再動 14
     | 気合 21
 
-  .. grid-item-card:: 山羊座AB型
+  .. grid-item-card:: 山羊座AB
     :columns: auto
     :margin: 0
     :padding: 0
@@ -714,7 +737,7 @@
     | 気合 14
     | 友情 31
 
-  .. grid-item-card:: 水瓶座O型
+  .. grid-item-card:: 水瓶座O
     :columns: auto
     :margin: 0
     :padding: 0
@@ -728,7 +751,7 @@
     | 気合 10
     | 友情 22
 
-  .. grid-item-card:: 水瓶座A型
+  .. grid-item-card:: 水瓶座A
     :columns: auto
     :margin: 0
     :padding: 0
@@ -741,7 +764,7 @@
     | 友情 40
     | パット
 
-  .. grid-item-card:: 水瓶座B型
+  .. grid-item-card:: 水瓶座B
     :columns: auto 
     :margin: 0
     :padding: 0
@@ -753,7 +776,7 @@
     | ド根性 12
     | ひらめき 21
 
-  .. grid-item-card:: 水瓶座AB型
+  .. grid-item-card:: 水瓶座AB
     :columns: auto 
     :margin: 0
     :padding: 0
@@ -766,7 +789,7 @@
     | 集中 18
     | グレース
 
-  .. grid-item-card:: 双鱼座O型
+  .. grid-item-card:: 双鱼座O
     :columns: auto 
     :margin: 0
     :padding: 0
@@ -780,7 +803,7 @@
     | てかげん 14
     | 友情 30
 
-  .. grid-item-card:: 双鱼座A型
+  .. grid-item-card:: 双鱼座A
     :columns: auto 
     :margin: 0
     :padding: 0
@@ -792,7 +815,7 @@
     | 必中 13
     | 気合 20
 
-  .. grid-item-card:: 双鱼座B型
+  .. grid-item-card:: 双鱼座B
     :columns: auto 
     :margin: 0
     :padding: 0
@@ -805,7 +828,7 @@
     | 威压 30
     | ウィン
 
-  .. grid-item-card:: 双鱼座AB型
+  .. grid-item-card:: 双鱼座AB
     :columns: auto 
     :margin: 0
     :padding: 0
@@ -819,6 +842,23 @@
 
 特殊精神
 
+.. grid:: 
+  :gutter: 0
+  :margin: 0
+  :padding: 0
+
+  .. grid-item-card:: 1月29日B
+    :columns: auto
+    :margin: 0
+    :padding: 0
+
+    | 加速 1
+    | 根性 3
+    | 熱血 9
+    | てかげん 16
+    | ひらめき 20
+    | 奇跡 39
+
 
 .. csv-table:: 主角和恋人特殊精神   
    :file: protagonist_spirit_special.csv
@@ -829,6 +869,8 @@
 --------------------------
 
 PS的复刻版的精神设定有所变动。大大减少了集中出现的频率。
+
+
 
 .. csv-table:: 主角和恋人精神   
    :file: protagonist_spirit_ps.csv

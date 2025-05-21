@@ -24,7 +24,7 @@ is an in-band `OS <http://en.wikipedia.org/wiki/Operating_system>`__
 component, an widely-available update would be in a `service
 pack <http://en.wikipedia.org/wiki/Service_pack>`__ just like how
 `kb983246 was
-delivered <http://me.wordpress.com/2011/02/24/breaking-change-in-ado-update-kb983246-included-in-windows-7-service-pack-1/>`__.
+delivered <http://jiangsheng.wordpress.com/2011/02/24/breaking-change-in-ado-update-kb983246-included-in-windows-7-service-pack-1/>`__.
 
 Concerned ADO users should contact
 `Microsoft <http://en.wikipedia.org/wiki/Microsoft>`__ `Customer
