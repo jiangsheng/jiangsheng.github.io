@@ -37,7 +37,7 @@ jobs:
         run: python3 -m pip install -r ./docs/requirements.txt
 
       - name: Build sphinx documentation
-        run: make html
+        run: make html        
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
@@ -45,6 +45,16 @@ jobs:
         with:
           # upload entire directory
           path: '.'
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${\{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest  
+    steps:  
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
