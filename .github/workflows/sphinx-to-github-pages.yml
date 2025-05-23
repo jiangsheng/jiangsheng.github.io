@@ -37,9 +37,14 @@ jobs:
         run: python3 -m pip install -r ./docs/requirements.txt
 
       - name: Build sphinx documentation
-        run: make html        
+        run: make html               
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
