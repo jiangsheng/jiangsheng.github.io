@@ -22,17 +22,15 @@ Here you receive orders and briefings for the battle and gain intelligence to th
 Know your enemy:
 
 * Named pilots and Commanders: delay fighting with them if you can. Once engaged, focus fire. 
-* Attackers (Melee): Even in late game and in enemy phrase they can be still be disarmed without incident even when attacked if you have the Short Skills. But if left unchecked can do some serious harm if your units become stunned.
+* Attackers (Melee): Even in late game and in enemy phrase they can be still be disarmed without incident if you have the Short Skills. But if left unchecked can do some serious harm if your units become stunned.
 * Attackers (Short): Due to the imbalance of Short skills, they can do serious damage in late game. However you can still disarm them like Melee counterpart in the player phrase. 
 * Missileers : Due to their range they can focus on your weakest unit (the supply truck that is). Take them out with your close range attackers (they suck at close range). 
-* Tanks and carriers. They are not much of a threat. Use them to farm Agility exp and do truck exp farming. 
+* Tanks and carriers. They are not much of a threat. Use them to :ref:`farm Agility exp and do truck exp farming <front_mission_mechanics_exp>`\ .
 
 --------------------
 Bar
 --------------------
 Here you talk to people, sometimes you can recruit a :ref:`pilot <front_mission_mechanics_pilots>` here. 
-
-
 
 --------------------
 Colosseum
@@ -40,7 +38,7 @@ Colosseum
 
 Here you fight for money. You can also lose money, however, if you are not careful (or unwilling to save/load).   
 
-Having one Dual or Guide skill can probably get you a win. You can remove unnecessary weapons (e.g. if you don't need Switch to win, drop a grip weapon) and downgrade parts to boost your payout odds. 
+Having one Dual or Guide skill can probably get you a win. You can remove unnecessary weapons (e.g. if you don't need Switch to win, drop a grip weapon) and downgrade parts to boost your payout odds. Use your weakest pilot to further boost your odds (provided they have the skill to one shot kill) .
 
 As skills level up by activation, you can use colosseum fights to level up skills.
 
@@ -61,19 +59,18 @@ Here you customize your wanzers. This is probably a time consuming process. The 
 
 Your wanzer is powered by an engine in its body, so the total weight you carry can not exceed that. The setup window displays a W/P ratio, and if you exceed 100%, you will receive a warning. If you leave W/P ration very low, however, you will get some movement bonus. 
 
-Melee weapons are usually light (you can even do without those, just use the integrated weapons from the arm. Short weapons are of medium weight. Long weapons are the heaviest. 
+Melee weapons are usually light. You can even do without those, just use the integrated weapons from the arm. Short weapons are of medium weight. Long weapons are the heaviest. 
 
-You can equip backpacks to expand your item storage. However if you remove your backpack or switch to a mobile weapon that does not allow backpack the items somehow stays on you. You can equip more items than your backpack/wanzers allows this way. 
+You can equip backpacks to expand your item storage. However if you remove your backpack or switch to a mobile weapon that does not allow backpack the items somehow stay on you. You can equip more items than your backpack/wanzers allows this way. 
 
 How you setup your wanzer depends on the pilot. 
 
-* Tank/Melee units. Prioritize movement and defense. Keep weight/power ration low. Can be mass trained in some :ref:`platform ports <front_mission_platform_differences>` with the help of a secret weapon. Equip a Shield on shoulder. Movement is essential if the wanzer carries Riff. 
-* Short units. Can be mass trained due to a secret weapon. Take the best defensive arm. Machine guns in both grips. Prioritize Hp for body.
-* Long units. They won't receive counterattacks. You can prioritize output for body and Hit for arm. Due to Short being overpowered, most of them can use Short builds as well, except you need more engine output for the extra weight from Long weapons. You can even equip a Bazooka or Grenade Launcher on one Arm if you don't feel like running back to your supply truck often.
+* Tank/Melee pilots. Prioritize movement and defense. Keep weight/power ration low. Can be mass trained in some :ref:`platform ports <front_mission_platform_differences>` with the help of a secret weapon. Equip a Shield on shoulder. Movement is essential if the wanzer carries Riff. 
+* Short pilots. Can be mass trained due to a secret weapon. Take the best defensive arm. Machine guns in both grips. Prioritize HP for the body.
+* Long pilots. They won't receive counterattacks. You can prioritize power output for body and Hit for arm. Due to Short being overpowered, most of them can use Short builds as well, except you need more engine output for the extra weight from the added Long weapons. You can even equip a Bazooka or Grenade Launcher on one Arm if you don't feel like running back to your supply truck often.
 * Due to every pilot can learn Switch or Double and you need the same type of weapon in both hands to level up those skills, do not mix short and long weapons like those wanzers you have at the beginning of the game.
 
-The rating of the finished wanzer will decide the colosseum odds.
-
+The rating of the finished wanzer will influence the colosseum odds.
 
 --------------------
 Save/Load
@@ -89,4 +86,4 @@ After moving, a "Selection window" may appear. Select "Into Point" to enter anot
 
 Even when your default destination is a battlefield (back to back battles happens), you might want to check if you need to come back to a city for save/load, regroup, or go for secret missions in some :ref:`platform ports <front_mission_platform_differences>`.
 
-If you enter a battlefield, you wll be asked to :ref:`deploy<front_mission_mechanics_input>` your units. 
+If you enter a battlefield, you wll be asked to :ref:`deploy <front_mission_mechanics_input>` your units. 

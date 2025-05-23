@@ -1,3 +1,8 @@
+
+.. meta::
+   :description lang=zh-Hans:  
+       第四次超级机器人大战中登场的超力电磁侠孔巴特拉V角色为数不少，因为コンバトラーV是很多话的中心角色。
+
 .. _srw4_pilots_combattler_v:
 
 

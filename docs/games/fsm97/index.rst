@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=en:  
+       FIFA Soccer Manager 96/97 Guide
+       
 FIFA Soccer Manager 96/97
 ==================================
 

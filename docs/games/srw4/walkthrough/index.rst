@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=zh-Hans:  
+        第四次超级机器人大战有很多分支，如果想看全剧情的话，需要每个分支都走一遍。
+
 .. _srw4_walkthrough:
 
 攻略流程 (第四次超级机器人大战)

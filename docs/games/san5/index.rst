@@ -1,3 +1,7 @@
+.. meta::
+   :description lang=zh-Hans:  
+       三国志V军师培养方法
+
 三国志V
 ================
 

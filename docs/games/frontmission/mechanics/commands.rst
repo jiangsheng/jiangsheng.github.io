@@ -24,7 +24,7 @@ Most commands are fixed and you cannot miss, some les obvious commands are
 * Repair: This command will only be displayed if there is an allied unit adjacent to a unit equipped with Refill. Repair is automatic when ending turn next to a supply truck. Repairing a damaged part is not automatic with Riff.
 * Machine/pilot status: you can easily trigger this for your pilots by pressing B when selected, but for NPC/enemies, you need to first deselect your current unit then select the unit you want to check, then press B.
 
-There is no menu when pressing B after selectign an enemy unit, but you can see its range after selecting it. 
+There is no menu when pressing B after selecting an enemy unit, but you can see its range after selecting it. 
 
 Usually you do not want a unit to do nothing, so avoid the End command. 
 
