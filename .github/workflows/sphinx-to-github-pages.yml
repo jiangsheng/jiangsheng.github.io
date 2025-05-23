@@ -1,30 +1,45 @@
-name: Deploy Sphinx documentation to Pages
-
 on:
   push:
-    branches: [master] # branch to trigger deployment
-
-# Cancel any in-progress job or run
-# https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#concurrency
-concurrency:
-  group: gh-${{ github.ref }}
-  cancel-in-progress: true
+    branches:
+      - master
 
 jobs:
-  pages:
+  deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     permissions:
-      pages: write
-      id-token: write
+      contents: write
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-    - id: deployment
-      uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+      - uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+      - name: Upgrade pip
+        run: |
+          # install pip=>20.1 to use "pip cache dir"
+          python3 -m pip install --upgrade pip
+      - name: Get pip cache dir
+        id: pip-cache
+        run: echo "dir=$(pip cache dir)" >> $GITHUB_OUTPUT
+
+      - name: Cache dependencies
+        uses: actions/cache@v4
         with:
-          publish_branch: master
+          path: ${{ steps.pip-cache.outputs.dir }}
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/docs/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Install dependencies
+        run: python3 -m pip install -r ./docs/requirements.txt
+
+      - name: Build sphinx documentation
+        run: make html
+        run: touch build/html/.nojekyll
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
+        with:
+          publish_branch: gh-pages
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: build/html
+          publish_dir: .
           force_orphan: true
