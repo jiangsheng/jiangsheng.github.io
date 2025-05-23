@@ -49,7 +49,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # upload entire directory
-          path: '.'
+          path: ./_site 
   deploy:
     needs: build
     permissions:
