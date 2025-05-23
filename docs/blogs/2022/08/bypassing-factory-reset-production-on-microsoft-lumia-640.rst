@@ -1,3 +1,6 @@
+.. meta::
+   :robots: noindex, nofollow
+
 Bypassing Factory Reset Protection Microsoft Lumia 640
 ======================================================
 

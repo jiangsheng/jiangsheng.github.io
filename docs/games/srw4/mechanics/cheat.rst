@@ -1065,11 +1065,15 @@
       | 5000503C 00000000
       | 80102F90 00000505
 
-    .. grid-item-card:: 快速升级
+    .. grid-item-card:: 战斗经验值最大
       :columns: auto
 
-      | 80105162 FFFF
-      | 30105168 007F
+      80105162 FFFF
+
+    .. grid-item-card:: 经验倍率最大
+      :columns: auto
+
+      30105168 007F
 
     .. grid-item-card:: 总回合数
       :columns: auto
