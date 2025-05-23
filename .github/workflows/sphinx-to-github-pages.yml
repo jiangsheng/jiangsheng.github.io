@@ -34,7 +34,6 @@ jobs:
 
       - name: Build sphinx documentation
         run: make html
-        run: touch build/html/.nojekyll
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
