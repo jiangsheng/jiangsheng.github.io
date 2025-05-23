@@ -66,6 +66,8 @@ edit_on_github_project  = 'jiangsheng/jiangsheng.github.io'
 edit_on_github_url = 'docs/'
 edit_on_github_branch = 'master/docs'
 
+source_encoding ='utf-8-sig'
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
