@@ -1,3 +1,1 @@
-.. :orphan:
-
 如果之前选择有恋人，那么下一话进入\ :doc:`06a_stampede`，否则下一话进入\ :doc:`06b_rescue_combattler_v`\ 。

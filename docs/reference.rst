@@ -13,11 +13,13 @@ Reference for jiangsheng's documentation!
    :maxdepth: 5
    :caption: 内容:
    
-   Homepage<README>
-   Games<games/index>
-   Blogs<blogs/index>
-   Grandma's handbook<grandma/index>
-   Homepage<index>
+   Homepage <index>
+   Games <games/index>
+   Blogs <blogs/index>
+   Grandma's handbook <grandma/index>
+   Unused Placeholder <py-modindex>
+
+This is the master doctree reference page and the top node of the navigation tree. 
 
 Indices and tables
 -------------------------

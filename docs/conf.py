@@ -55,16 +55,16 @@ extensions = [
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
     'sphinx_sitemap',
-    'edit_on_github',
+    # 'edit_on_github',
     'linuxdoc.rstFlatTable',
      'sphinx_reredirects',
      "sphinxext.rediraffe",
      "sphinx_design",
      'ablog',
 ]
-edit_on_github_project  = 'jiangsheng/jiangsheng.github.io'
-edit_on_github_url = 'docs/'
-edit_on_github_branch = 'master/docs'
+# edit_on_github_project  = 'jiangsheng/jiangsheng.github.io'
+# edit_on_github_url = 'docs/'
+# edit_on_github_branch = 'master/docs'
 
 source_encoding ='utf-8-sig'
 
@@ -128,6 +128,7 @@ html_theme_options = {
     "show_prev_next": True,
     "back_to_top_button": True,
     "show_nav_level": 0,   
+    "use_edit_page_button": True,
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -175,7 +176,7 @@ html_sidebars = {
 html_context = {
     "github_user": "jiangsheng",
     "github_repo": "jiangsheng.github.io",
-    "github_version": "main",
+    "github_version": "master",
     "doc_path": "docs",
 }
 

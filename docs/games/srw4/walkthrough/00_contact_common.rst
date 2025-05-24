@@ -1,5 +1,3 @@
-.. :orphan:
-
 下一话通关后，分歧发生:
 
 .. rst-class::center
