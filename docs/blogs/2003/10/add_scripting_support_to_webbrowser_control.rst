@@ -1,6 +1,6 @@
 .. _add_scripting_support_to_webbrowser_control:
 
-Sample: IEAutomation to Adding Macro Support to Webbrowser Host Applications
+浏览器程序中添加宏支持
 ============================================================================================================
 
 .. post:: 23, Oct, 2003

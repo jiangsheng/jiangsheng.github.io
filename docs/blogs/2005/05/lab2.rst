@@ -1,11 +1,13 @@
 Lab2
 ====
 .. post:: 25, May, 2005
-   :category: Uncategorized
+   :category: Machine Language
    :author: me
    :nocomments:
 
+Assignment 2: A Hello World program for Windows written in assembly language. 
 
+.. code-block::   
 
    # makefile for program 1
 
@@ -56,6 +58,8 @@ Lab2
    del $(NAME)\_$(PROJECT)\_$(VERSION).zip
 
    $(Zip) $(NAME)\_$(PROJECT)\_$(VERSION).zip $(SRCS)
+
+.. code-block::   
 
    ;=====================================================================
 
