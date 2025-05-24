@@ -1,6 +1,6 @@
 ---
-title: My page title
-description: This is Sheng Jiang's documentation. It contains Game guides, my personal blogs and my Grandma's handbook. 
+title: Welcome to Sheng Jiang's documentation
+description: Welcome to Sheng Jiang's documentation. It contains Game guides, my personal blogs and my Grandma's handbook. 
 ---
 
 This is Sheng Jiang's documentation.    

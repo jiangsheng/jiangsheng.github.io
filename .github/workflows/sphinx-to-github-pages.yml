@@ -56,7 +56,7 @@ jobs:
           source: ./
           destination: ./_site         
       - name: Move README.html to index.html
-        run: mv ./_site/README.html ./_site/index.html
+        run: cp ./_site/README.html ./_site/index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
