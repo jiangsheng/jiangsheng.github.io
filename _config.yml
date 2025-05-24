@@ -19,5 +19,13 @@ edit_page_button: true
 
 # Exclude these files from production site
 exclude:
-- docs/
+  - "Gemfile"
+  - "Gemfile.lock"
+  - drafts
+  - _site
+  - docs/
+  - tag/
+  - category/
+  - 20*
+
 include: [_static,_downloads,_images,_sources]
