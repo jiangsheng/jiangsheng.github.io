@@ -17,7 +17,6 @@ Reference for jiangsheng's documentation!
    Games <games/index>
    Blogs <blogs/index>
    Grandma's handbook <grandma/index>
-   Unused Placeholder <py-modindex>
 
 This is the master doctree reference page and the top node of the navigation tree. 
 
