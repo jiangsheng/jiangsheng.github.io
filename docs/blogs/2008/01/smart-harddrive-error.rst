@@ -23,6 +23,6 @@ several messages looked like this
 The reaction is obvious: contact Dell Customer
 Support.
 
-Thankfully, I have dialy incremental backup and weekly
-full system backup, but my dialy backup has been
+Thankfully, I have daily incremental backup and weekly
+full system backup, but my daily has been
 failing. So I will lose a week's data, not a big deal.
