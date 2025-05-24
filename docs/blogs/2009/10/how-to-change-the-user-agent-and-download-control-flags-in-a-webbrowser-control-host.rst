@@ -1,5 +1,5 @@
 .. meta::
-   :description: User vnetvvv wants to know how to change the user agent string in a VB6 webbrowser control.
+   :description: User vnetvvv wants to know how to change the user agent string in a VB6 webbrowser control. The knowledge base article PRB: WebBrowser Control Clients Share Glo
 
 How to change the user agent and download control flags in a webbrowser control host
 ====================================================================================

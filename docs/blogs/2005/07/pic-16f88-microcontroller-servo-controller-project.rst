@@ -1,5 +1,5 @@
 .. meta::
-   :description: 1) Introduction
+   :description: 1) Introduction The goal of this assignment is to control the position of a servomotor by generate pulses on the output pin for a time specified by various volt
 
 PIC 16F88 Microcontroller Servo Controller Project
 ==================================================

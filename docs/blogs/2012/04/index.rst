@@ -1,5 +1,5 @@
 .. meta::
-   :description: 内容:
+   :description: Blogs in April 2012#
 
 .. _blogs_2012_04:
 

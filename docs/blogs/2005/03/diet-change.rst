@@ -1,5 +1,5 @@
 .. meta::
-   :description: Diet Change
+   :description: Diet Change There are many changes in my lifestyle since I moved to USA. My diet is not an exception. The main reasons of this diet change are that some food is
 
 Diet Change
 ===========

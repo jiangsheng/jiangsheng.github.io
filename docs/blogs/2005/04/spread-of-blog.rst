@@ -1,5 +1,5 @@
 .. meta::
-   :description: Spread of Blog
+   :description: Spread of Blog Blog, or weblog, refers to certain kind of online journal that, it is time-stamped articles posted on websites, usually in reverse chronological
 
 Spread of Blog
 ==============

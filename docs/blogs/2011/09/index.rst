@@ -1,5 +1,5 @@
 .. meta::
-   :description: 内容:
+   :description: Blogs in September 2011#
 
 .. _blogs_2011_09:
 

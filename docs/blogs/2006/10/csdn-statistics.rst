@@ -1,5 +1,5 @@
 .. meta::
-   :description: 基本信息：
+   :description: 基本信息： UserID：7298 CSDN帐号：jiangsheng 注册时间：2000-4-29 0:09:00 最后一次登录时间：2006-10-16 21:27:00 社区昵称：蒋晟.Net[MVP] 个人简述： http://bloglines.com/public/jiangsheng https://mv
 
 CSDN statistics
 ===============

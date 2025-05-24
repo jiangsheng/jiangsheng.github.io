@@ -1,5 +1,5 @@
 .. meta::
-   :description: Peewee can learn Speed Lv3 (no activation)
+   :description: Peewee can learn Speed Lv3 (no activation) Peewee skill removed mechanics: based on Secondary SNES ROM: Added simplified battle mode Some game mechanic change,
 
 .. _front_mission_platform_differences:
 

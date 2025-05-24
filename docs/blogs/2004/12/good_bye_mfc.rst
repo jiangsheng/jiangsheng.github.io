@@ -1,5 +1,5 @@
 .. meta::
-   :description: 原文地址在https://web.archive.org/web/20041204071945/https://channel9.msdn.com/ShowPost.aspx?PostID=31152
+   :description: 原文地址在https://web.archive.org/web/20041204071945/https://channel9.msdn.com/ShowPost.aspx?PostID=31152 起源是VC开发组的一个人的言论“MFC仅仅用于支持旧的代码，新的代码不应该用MFC编写，而是应该用C#或者Manage
 
 Good Bye MFC?
 =========================

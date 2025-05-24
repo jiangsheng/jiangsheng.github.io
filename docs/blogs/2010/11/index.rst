@@ -1,5 +1,5 @@
 .. meta::
-   :description: 内容:
+   :description: Blogs in November 2010#
 
 .. _blogs_2010_11:
 

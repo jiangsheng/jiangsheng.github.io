@@ -1,5 +1,5 @@
 .. meta::
-   :description: FIX: “Cannot Save File” Error Message in the Visual C++ IDE
+   :description: FIX: “Cannot Save File” Error Message in the Visual C++ IDE https://web.archive.org/web/20040417095303/http://support.microsoft.com/default.aspx?kbid=822856 VC终
 
 
 Visual Studio 6.0 Service Pack 6

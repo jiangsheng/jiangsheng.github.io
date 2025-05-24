@@ -1,5 +1,5 @@
 .. meta::
-   :description: 下载示例工程 - 34 Kb jiangsheng/Samples
+   :description: 下载示例工程 - 34 Kb jiangsheng/Samples 我在很久之前就开始用程序自动化Shell窗口——主要对象是IE窗口。有时浏览器控件或者MFC类CHTMLView可以满足我的需要，但是很多时候我需要从头嵌入浏览器控件并且尽可能模拟IE的行为，例如实现IDocHostUIHandler来启用自动完成功能
 
 创建和自动化Internet Explorer和资源管理器窗口
 ===============================================

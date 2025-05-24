@@ -1,5 +1,5 @@
 .. meta::
-   :description: 浏览器控件是一个提供浏览器绝大部分功能的ActiveX控件，随Microsoft? Internet Explorer 4.0(IE)或者更高版本发行。实际上，IE可以认为是一个集成浏览器控件的程序。
+   :description: 浏览器控件是一个提供浏览器绝大部分功能的ActiveX控件，随Microsoft? Internet Explorer 4.0(IE)或者更高版本发行。实际上，IE可以认为是一个集成浏览器控件的程序。 怎么给用户提供丰富的内容一直是程序员们努力的目标。尽管各种各样的界面库可能使你眼花缭乱，但是这些也是美工和程序员的恶梦
 
 在应用程序中集成浏览器控件(Update)(Subjet to change without notice)
 ======================================================================

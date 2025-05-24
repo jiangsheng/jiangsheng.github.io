@@ -1,5 +1,5 @@
 .. meta::
-   :description: stdcli::language名称空间被取消，代之以cli名称空间。
+   :description: stdcli::language名称空间被取消，代之以cli名称空间。 MFC对.Net控件的事件支持宏VENT_DELEGATE_ENTRY的参数类型变化：例如 改为 编译器更加友好了，例如这个编译错误消息： 这回总算可以不安装J#的支持包了…… 小道消息：以下功能预计不会存在于Visual Studio 2005的
 
 Visual C++ 2005 Beta 2中的变动
 =====================================

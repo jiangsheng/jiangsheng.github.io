@@ -1,5 +1,5 @@
 .. meta::
-   :description: 带子窗口的ActiveX控件问题，如何获取回车键？
+   :description: 带子窗口的ActiveX控件问题，如何获取回车键？ 问题： 新建一个MFC ActiveX工程，添加一对话框资源，上面有一些标准控件，如按钮、编辑框等，并生成一个类CCtrlPanel。 在CXXXXCtrl类中： 这样一来，的确做了个带界面的ActiveX控件，可是用于网页中的时候，控件的子窗口，就是CCtrlPan
 
 DLL/OCX中的MFC对话框不能处理Tab和回车键的问题
 =================================================

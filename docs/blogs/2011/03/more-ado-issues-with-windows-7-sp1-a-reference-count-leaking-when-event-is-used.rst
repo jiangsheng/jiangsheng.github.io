@@ -1,5 +1,5 @@
 .. meta::
-   :description: Update: Microsoft fixed the issue in Windows 8.
+   :description: Update: Microsoft fixed the issue in Windows 8. User Angus Robertson is reporting that in an application that references ADO 2.1 type library and getting record
 
 More ADO issues with KB983246/Windows 7 SP1: a reference count leaking when event is used
 =========================================================================================

@@ -1,5 +1,5 @@
 .. meta::
-   :description: 内容:
+   :description: Blogs in October 2003#
 
 .. _blogs_2003_10:
 

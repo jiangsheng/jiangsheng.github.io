@@ -1,5 +1,5 @@
 .. meta::
-   :description: 关于新功能的说明 http://msdn2.microsoft.com/library/y8bt6w34(en-us,vs.80).aspx
+   :description: 关于新功能的说明 http://msdn2.microsoft.com/library/y8bt6w34(en-us,vs.80).aspx 一些源代码的变化： 对CLR、.Net类库和Winform控件的支持。 多处安全性的增强，对于函数参数和消息影射类型的检查加强。对ISAPI的支持看起来改动很大。 对基于64位处
 
 Visual Studio 2005中MFC的变化
 ====================================

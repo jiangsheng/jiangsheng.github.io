@@ -1,5 +1,5 @@
 .. meta::
-   :description: 明天出发去西雅图参加微软全球最有价值专家年会了，暂停更新一段时间。
+   :description: 明天出发去西雅图参加微软全球最有价值专家年会了，暂停更新一段时间。 在你调用IUrlHistoryStg:DeleteUrl 之后, 这个URL项目仍旧会出现在IE历史纪录目录中。 你可以使用IContextMenu::InvokeCommand模拟一个手动删除命令，但是这样做的缺点是你不能够跳过删除确认对话框 下面的
 
 编程删除IE历史
 =======================

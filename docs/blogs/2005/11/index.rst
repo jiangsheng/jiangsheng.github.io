@@ -1,5 +1,5 @@
 .. meta::
-   :description: 内容:
+   :description: Blogs in November 2005#
 
 .. _blogs_2005_11:
 

@@ -1,5 +1,5 @@
 .. meta::
-   :description: http://homepages.inf.ed.ac.uk/rbf/HIPR2/hough.htm a nice introduction of the Hough Transform
+   :description: http://homepages.inf.ed.ac.uk/rbf/HIPR2/hough.htm a nice introduction of the Hough Transform http://www.leptonica.com/papers/docskew.pdf A paper discussing diff
 
 Skew detection and correction resources
 =======================================

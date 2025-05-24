@@ -1,5 +1,5 @@
 .. meta::
-   :description: 内容: Index Module Index Search Page
+   :description: Blogs in January 2025#
 
 .. _blogs_2025_01:
 

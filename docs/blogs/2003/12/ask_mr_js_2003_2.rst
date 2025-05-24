@@ -1,5 +1,5 @@
 .. meta::
-   :description: [url=http://community.csdn.net/expert/Topicview2.asp?id=2535830]关于DAO和多线程的问题 [/url]
+   :description: [url=http://community.csdn.net/expert/Topicview2.asp?id=2535830]关于DAO和多线程的问题 [/url] 总结：放弃希望吧，你们这些使用过时技术的人 [url=http://community.csdn.net/expert/Topicview2.asp?i
 
 
 Ask Mr JS

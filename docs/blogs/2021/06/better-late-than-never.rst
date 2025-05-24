@@ -1,5 +1,5 @@
 .. meta::
-   :description: This post originally appeared on Joycode on Sept 17 2004.
+   :description: This post originally appeared on Joycode on Sept 17 2004. 在文件选择对话框和浏览器中都可以显示文件夹视图，但是有时需要对显示的方式进行控制，例如在文件选择对话框初始化时设置显示方式为详细资料视图或者缩略图视图，有的时候需要用程序来选择一些项目，例如在文件选择对话
 
 Better Late Than Never
 ===========================

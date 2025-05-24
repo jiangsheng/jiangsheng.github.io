@@ -1,5 +1,5 @@
 .. meta::
-   :description: Please don’t show your password to 3rd party.
+   :description: Please don’t show your password to 3rd party. 一直以来我都持续收到一些加入在线手机社区http://www.sms.ac的邀请，因为我没有手机（要找我的人注意：我醒着的话一般都挂在MSN上），所以总是看过就算。但是今天收到了来自一个不是很熟的朋友的加入这个社区和另外一个社区
 
 请勿向第三方公开你的个人密码
 ==============================

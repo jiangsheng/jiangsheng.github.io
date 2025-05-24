@@ -1,5 +1,5 @@
 .. meta::
-   :description: 内容:
+   :description: Blogs in February 2011#
 
 .. _blogs_2011_02:
 

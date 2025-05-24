@@ -1,5 +1,5 @@
 .. meta::
-   :description: Over the years I have played many games, those are my favorites and I have written notes for them.
+   :description: Over the years I have played many games, those are my favorites and I have written notes for them. Axis and Allies Front Mission Super Robot Wars 4 Mahjong Elec
 
 .. _game_guides:
 

@@ -1,5 +1,5 @@
 .. meta::
-   :description: Should GM(Genetic Modified) food production be controled by Government?
+   :description: Should GM(Genetic Modified) food production be controled by Government? Q(Drug) Why fostering drug plants is baned and fertilizing GM food is not? A:Drugs can b
 
 Notes
 =====

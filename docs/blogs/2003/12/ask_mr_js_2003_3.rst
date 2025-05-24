@@ -1,5 +1,5 @@
 .. meta::
-   :description: [url=http://community.csdn.net/expert/Topicview2.asp?id=2542812]怎样修改theApp.m_pszAppName[/url]
+   :description: [url=http://community.csdn.net/expert/Topicview2.asp?id=2542812]怎样修改theApp.m_pszAppName[/url] 总结：可以参考微软知识库Q154744 [url=http://community.csdn.net/expert/Topicvie
 
 
 Ask Mr JS

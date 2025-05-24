@@ -1,5 +1,5 @@
 .. meta::
-   :description: .386
+   :description: .386 .MODEL flat, stdcall option casemap:none include windows.inc include kernel32.inc include masm32.inc includelib kernel32.lib includelib masm32.lib .DATA va
 
 Lab3
 ====

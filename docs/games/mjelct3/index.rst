@@ -1,7 +1,6 @@
 .. meta::
-   :description lang=en:  
-       FIFA Soccer Manager 96/97 Guide
-       
+   :description: Other names: Mahjong Electron Base, 电子基盘 Download the mame cheat file and save in mame/cheat folder, then restart game. To enable cheat, press tab. The winning
+     
 mjelct3
 ======================================
 

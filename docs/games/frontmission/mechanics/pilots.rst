@@ -1,6 +1,7 @@
 .. _front_mission_mechanics_pilots:
 
 .. meta::
+   :description: You will be alone first but many characters will join you later, some automatically, some by manual recruitment. You can finish the game without any recruitable
     :description lang=en:
         Character Mechanics and Recruitment in Front Mission 1st
 

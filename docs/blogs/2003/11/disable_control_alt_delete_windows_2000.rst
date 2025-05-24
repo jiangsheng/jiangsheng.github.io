@@ -1,5 +1,5 @@
 .. meta::
-   :description: 来自CSDN论坛VC/MFC版的讨论 在NT/2000中怎么禁用Ctrl+Alt+Delete?（不能用gina,键盘驱动）（此帖已归档，可以在http://search.csdn.net 搜索此帖）
+   :description: 来自CSDN论坛VC/MFC版的讨论 在NT/2000中怎么禁用Ctrl+Alt+Delete?（不能用gina,键盘驱动）（此帖已归档，可以在http://search.csdn.net 搜索此帖） 本文的更新信息位于http://blog.joycode.com/jiangsheng/archive/2004/07
 
 在Windows2000中动态禁用/启用Ctrl-Alt-Delete
 ==============================================

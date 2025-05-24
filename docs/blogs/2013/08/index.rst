@@ -1,5 +1,5 @@
 .. meta::
-   :description: 内容:
+   :description: Blogs in August 2013#
 
 .. _blogs_2013_08:
 

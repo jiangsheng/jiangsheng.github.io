@@ -1,6 +1,5 @@
 .. meta::
-   :description lang=en:  
-       FIFA Soccer Manager 96/97 Guide
+   :description: At the beginning of the game, you will be presented the option to load a game or create a new game. if you select to create a new game, you then select a team t
        
 FIFA Soccer Manager 96/97
 ==================================

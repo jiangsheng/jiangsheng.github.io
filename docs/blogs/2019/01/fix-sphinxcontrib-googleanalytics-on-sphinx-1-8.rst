@@ -1,5 +1,5 @@
 .. meta::
-   :description: The Google Analytics extension from
+   :description: The Google Analytics extension from does not work on Sphinx 1.8. When I run it, I get the following error Could not import extension sphinxcontrib.googleanalyti
 
 Fix sphinxcontrib-googleanalytics on Sphinx 1.8
 ===============================================

@@ -1,3 +1,8 @@
+---
+title: My page title
+description: This is Sheng Jiang's documentation. It contains [Game guides](build/html/games/index.html), my personal [blogs](build/html/blogs/index.html) and my [Grandma's handbook](build/html/grandma/index.html). 
+---
+
 This is Sheng Jiang's documentation.    
 
 It contains [Game guides](build/html/games/index.html), my personal [blogs](build/html/blogs/index.html) and my [Grandma's handbook](build/html/grandma/index.html). 
@@ -27,6 +32,6 @@ Mobile friendly version is on [read the docs](https://jiangsheng.readthedocs.io/
 
 
 Indices and tables
-==================
+-------------------------
 * [search](build/html/search.html)
 

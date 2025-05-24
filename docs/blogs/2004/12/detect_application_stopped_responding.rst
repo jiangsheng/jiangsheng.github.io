@@ -1,5 +1,5 @@
 .. meta::
-   :description: 简介：本文描述了如何使用C++、VB、Windows API和.Net类库判断一个进程是否停止了响应。
+   :description: 简介：本文描述了如何使用C++、VB、Windows API和.Net类库判断一个进程是否停止了响应。 没有一个明确的“停止响应”的定义，例如对于Internet Explorer或者Word 2000这样的多顶层窗口应用程序，可能存在部分顶层窗口失去响应的情况，这时很难定义应用程序是否停止了响应。但是一般来说，很多应
 
 How To Detect If an Application Has Stopped Responding
 ============================================================

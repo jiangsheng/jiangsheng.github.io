@@ -1,5 +1,5 @@
 .. meta::
-   :description: I am installing eHMP on Centos 7. Centos 7 has ruby 2.0 out of box, thus the install
+   :description: I am installing eHMP on Centos 7. Centos 7 has ruby 2.0 out of box, thus the install fails with Following the instructions at https://noobient.com/2019/02/12/in
 
 Finding the right ruby version
 ==============================

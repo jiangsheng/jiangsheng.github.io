@@ -1,5 +1,5 @@
 .. meta::
-   :description: 内容:
+   :description: Blogs in July 2007#
 
 .. _blogs_2007_07:
 

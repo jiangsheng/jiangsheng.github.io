@@ -1,5 +1,5 @@
 .. meta::
-   :description: 内容:
+   :description: Blogs in October 2009#
 
 .. _blogs_2009_10:
 

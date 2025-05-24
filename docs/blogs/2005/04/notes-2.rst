@@ -1,5 +1,5 @@
 .. meta::
-   :description: 2 principles written into the constitution 200 years ago,effect today.
+   :description: 2 principles written into the constitution 200 years ago,effect today. 1.1 3 branch (legislative, Executive, Judicial) compose the us gov. 2.1 Each branches hav
 
 Notes
 =====

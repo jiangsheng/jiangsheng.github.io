@@ -1,5 +1,5 @@
 .. meta::
-   :description: Knowledge of Foreign Countries of UT Austin students
+   :description: Knowledge of Foreign Countries of UT Austin students Many Americans pay little attention to foreign countries. Particularly, American students in UT Austin are
 
 Survey Assignment 
 ====================================================

@@ -1,5 +1,5 @@
 .. meta::
-   :description: Exercise 5. Sentence Combining
+   :description: Exercise 5. Sentence Combining A coin is a piece of metal that has a certain weight. It has the mark of the people who issued it. The Lydians were a powerful pe
 
 Sentence Combining
 ===============================

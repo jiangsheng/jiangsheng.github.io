@@ -1,5 +1,5 @@
 .. meta::
-   :description: A Introduction
+   :description: A Introduction Story of Sen. Treat Lott Definition History Invention Popularization Commercial Application My Experience My Homepage My Blogging Blogospheres Co
 
 Blog, past and present
 ======================

@@ -1,5 +1,5 @@
 .. meta::
-   :description: 内容:
+   :description: Blogs in June 2011#
 
 .. _blogs_2011_06:
 

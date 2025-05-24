@@ -1,5 +1,5 @@
 .. meta::
-   :description: Image by EJeffson via Flickr
+   :description: Image by EJeffson via Flickr The award email is almost identical to last year’s, so I assume Microsoft would go greener and more renewable with the Microsoft MV
 
 Microsoft MVP again
 ===================

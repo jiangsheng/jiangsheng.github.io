@@ -1,5 +1,5 @@
 .. meta::
-   :description: 我收到的来自在线地址本服务的邀请现在越来越频繁了。今天我又收到了一封这样的邮件：
+   :description: 我收到的来自在线地址本服务的邀请现在越来越频繁了。今天我又收到了一封这样的邮件： Add yourself to xxx’s address book! Open your invitation This invitation was sent to my email address on behalf of xxxx
 
 在线地址本服务
 ==================

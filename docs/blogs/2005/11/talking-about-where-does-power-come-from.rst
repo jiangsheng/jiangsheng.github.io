@@ -1,5 +1,5 @@
 .. meta::
-   :description: Quote
+   :description: Quote I do believe so. People who are able to plan, and to implement the plans which facilitate innovation and change are invaluable. According to Clementino Me
 
 Talking about Where does power come from?
 =========================================

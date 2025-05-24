@@ -1,5 +1,5 @@
 .. meta::
-   :description: [caption id=”” align=”alignright” width=”256” caption=”Image via Wikipedia”][/caption]
+   :description: [caption id=”” align=”alignright” width=”256” caption=”Image via Wikipedia”][/caption] User stephench is reporting that when setting webbrowser rendering mode t
 
 Application crash when forcing IE8 rendering mode in webbrowser host
 ====================================================================

@@ -1,5 +1,5 @@
 .. meta::
-   :description: In case anyone is googling this message
+   :description: In case anyone is googling this message Hard Drive SELF MONITOR SYSTEM has reported that a parameter has exceed its normal operating range Dell recommends that
 
 Smart harddrive error
 =====================

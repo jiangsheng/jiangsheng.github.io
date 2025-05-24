@@ -1,5 +1,5 @@
 .. meta::
-   :description: [url=http://community.csdn.net/expert/Topicview2.asp?id=2732377]xml 支持 模糊 查询吗？[/url]
+   :description: [url=http://community.csdn.net/expert/Topicview2.asp?id=2732377]xml 支持 模糊 查询吗？[/url] 可以用XPath来进行节点的选择 [url=http://community.csdn.net/expert/Topicview2.asp?id=27
 
 Ask Mr JS
 =====================

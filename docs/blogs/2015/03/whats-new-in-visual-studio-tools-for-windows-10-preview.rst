@@ -1,5 +1,5 @@
 .. meta::
-   :description: Looks like Windows 10 SDK gets renamed.
+   :description: Looks like Windows 10 SDK gets renamed. This post focuses on the Win32 wide of changes. Changes in the [STRIKEOUT:WinRT] Universal App Platform (UAP) side can b
 
 What's new in Visual Studio Tools for Windows 10 Preview
 ========================================================

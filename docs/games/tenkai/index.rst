@@ -1,5 +1,5 @@
 .. meta::
-   :description: Download the mame cheat file and save in mame/cheat folder, then restart game
+   :description: Download the mame cheat file and save in mame/cheat folder, then restart game To enable cheat, press tab in MAME.
 
 tenkai
 ======================================

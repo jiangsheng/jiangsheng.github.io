@@ -1,5 +1,5 @@
 .. meta::
-   :description: Financial Aid Office,
+   :description: Financial Aid Office, Brooklyn Law School , 467 Atlantic Ave. Suit 632 New York, 10902 To whom it may concern: I would like to apply a university scholarship to
 
 Scholarship Application
 =============================

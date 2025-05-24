@@ -1,5 +1,5 @@
 .. meta::
-   :description: This is Sheng Jiang’s documentation.
+   :description: This is Sheng Jiang’s documentation. Only Game guides, blogs and Grandma’s handbook at the moment. Game guides currently have the following games: Axis and Alli
 
 Read me First
 ======================================
@@ -36,7 +36,7 @@ Mobile friendly version is on read the docs （https://jiangsheng.readthedocs.io
 
 
 Indices and tables
-==================
+-------------------------
 
 * :ref:`genindex`
 * :ref:`modindex`

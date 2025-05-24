@@ -1,5 +1,5 @@
 .. meta::
-   :description: this is my dairy about the winter storm occurred in Feb 2021.
+   :description: this is my dairy about the winter storm occurred in Feb 2021. 这是我2021年二月冬季风暴的日记 Feb 13 Sat. 27-30F. Stockpile food (glad I did it). Heard ice building on roads,
 
 Icepocalypse 2021 冰狱 2021
 ==================================================

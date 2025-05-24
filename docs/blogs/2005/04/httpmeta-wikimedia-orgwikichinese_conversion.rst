@@ -1,5 +1,5 @@
 .. meta::
-   :description: Automatic conversion between simplified and traditional Chinese
+   :description: Automatic conversion between simplified and traditional Chinese http://meta.wikimedia.org/wiki/Chinese_conversion 方言的翻译一直是一个很麻烦的翻译，由于中文的词之间没有空格，而且一些用语的字数不同（例如电脑
 
 http://meta.wikimedia.org/wiki/Chinese_conversion
 =================================================

@@ -1,7 +1,5 @@
 .. meta::
-   :description lang=en:  
-       A personal narrative detailing family's life between wars, famine and prosperity. 
-
+   :description: Information about the author is probably redundant since this is a self-biography. But here’s some background information. This is written by Lee Guang-Show (李光
 .. _grandmas_handbook:
 
 .. index:: handbook; grandma

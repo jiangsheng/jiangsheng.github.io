@@ -1,6 +1,7 @@
 .. _front_mission_mechanics_skills:
 
 .. meta::
+   :description: Each pilot has a max skill slot value. if the number of current skills is less than the max skill slot and the hero has more fight exp than the pilot’s requirem
     :description lang=en:
         Skill Acquisition & Mechanics in Front Mission 1st
 

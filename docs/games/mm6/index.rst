@@ -1,6 +1,5 @@
 .. meta::
-   :description lang=en:  
-       Might and Magic 6
+   :description: The Chinese edition has a cheat that you can create items out of blue with pressing F in the game then enter item number. Then using a character editor addition
 
 Might and Magic 6
 ===================================

@@ -1,8 +1,6 @@
 .. meta::
-    :description lang=zh-Hans: 
-        卧龙传的修改
-
-
+   :description: SINARIO.DAT剧本偏移：文件88832字节，每22208个字节一个剧本。SAVE.DAT格式相同，只是剧本换存档。 文字都是big5码，过短的文字用空格(A140)填充。但是十六进制编辑器程序（推荐NotePad++加Hex Editor插件）需要用applocal或者Locale Emulator改显示文化之
+   
 卧龙传（臥竜伝三国制覇の計）修改
 =================================
 

@@ -1,5 +1,5 @@
 .. meta::
-   :description: 用户AcmeContracted安装masm32失败，所以想知道是否能集成masm64到Visual Studio 2017中。
+   :description: 用户AcmeContracted安装masm32失败，所以想知道是否能集成masm64到Visual Studio 2017中。 VS里面masm不是单独的，是C++工具集的一部分，而在VS2017里C++工具集不是默认安装的，所以要先安装C++工具集。 另外VS里面新建文件的选择里没有asm文件的模板，随便选个纯文本
 
 如何在64位win10的VS2017环境下搭建汇编环境
 ====================================================

@@ -1,5 +1,5 @@
 .. meta::
-   :description: 内容:
+   :description: Blogs in 2015#
 
 .. _blogs_2015:
 

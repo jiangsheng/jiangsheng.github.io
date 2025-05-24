@@ -1,5 +1,5 @@
 .. meta::
-   :description: You can’t get rid of stress, but you can manage it
+   :description: You can’t get rid of stress, but you can manage it Stress is not all bad. Stress is not only death of important friend or get fired, but also holidays, new job
 
 Stress Control
 ==============

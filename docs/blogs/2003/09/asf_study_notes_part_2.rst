@@ -1,5 +1,5 @@
 .. meta::
-   :description: 使用回调方法
+   :description: 使用回调方法 一些Windows Media Format SDK的接口的方法是异步执行的，很多这样的方法使用回调方法和应用程序通讯。 使用OnStatus回调 在Windows Media Format SDK中，IWMStatusCallback::OnStatus 被很多对象调用。OnStatus接收SDK操作状
 
 ASF学习笔记 Part 2
 ==================================================================

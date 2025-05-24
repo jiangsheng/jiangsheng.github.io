@@ -1,5 +1,5 @@
 .. meta::
-   :description: [url=http://expert.csdn.net/expert/Topicview2.asp?id=2562836] 如何访问 WebBrowser 控件中的XML源码[/url]
+   :description: [url=http://expert.csdn.net/expert/Topicview2.asp?id=2562836] 如何访问 WebBrowser 控件中的XML源码[/url] 总结：注意使用IHtmlDocument::get_Script(唯一的一个方法@_@bb)就可以获得脚本的顶层对象，然后就可以用G
 
 
 Ask Mr JS

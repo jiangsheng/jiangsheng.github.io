@@ -1,5 +1,5 @@
 .. meta::
-   :description: 本文描述了如何在MFC的文档/视图/框架架构中使用ADO和ADOX来创建和打开数据库。
+   :description: 本文描述了如何在MFC的文档/视图/框架架构中使用ADO和ADOX来创建和打开数据库。 在阅读本文之前，建议先对COM，数据库和MFC的文档/视图/框架有一个基本的了解。推荐阅读下列文章 TN025: Document, View, and Frame Creation (https://learn.microsoft
 
 结合ADO、ADOX和MFC的文档/视图/框架架构创建和打开Access数据库
 ==========================================================================================

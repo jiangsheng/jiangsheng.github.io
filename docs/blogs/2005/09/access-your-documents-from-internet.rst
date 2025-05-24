@@ -1,5 +1,5 @@
 .. meta::
-   :description: 一个飓风刚走，另一个更大的飓风又来了，这回是直冲本州而来。新奥尔良和休斯敦疏散过来一大堆人，但是这里很可能也得疏散。希望休斯敦不会成为第二个新奥尔良。
+   :description: 一个飓风刚走，另一个更大的飓风又来了，这回是直冲本州而来。新奥尔良和休斯敦疏散过来一大堆人，但是这里很可能也得疏散。希望休斯敦不会成为第二个新奥尔良。 原文(英文)：http://cn.geocities.com/sheng_jiang/accessdocumentsfrominternet.doc 简介： 使用USB
 
 Access your documents from internet.
 ====================================

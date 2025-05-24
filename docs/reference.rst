@@ -1,5 +1,5 @@
 .. meta::
-   :description: 内容:
+   :description: Reference for jiangsheng’s documentation!#
 
 .. jiangsheng documentation master file, created by
    sphinx-quickstart on Tue Mar 20 21:51:31 2018.
@@ -20,7 +20,7 @@ Reference for jiangsheng's documentation!
    Homepage<index>
 
 Indices and tables
-==================
+-------------------------
 
 * :ref:`genindex`
 * :ref:`modindex`

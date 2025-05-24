@@ -1,5 +1,5 @@
 .. meta::
-   :description: Public Edu philosophy and funding
+   :description: Public Edu philosophy and funding Compulsory. 16 / 9 grade Control: No nation wide curriculum set by fed. Fed exercise control by funds to special programs. Han
 
 Public Education Notes
 ==================================

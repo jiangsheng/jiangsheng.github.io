@@ -1,5 +1,5 @@
 .. meta::
-   :description: Introduction
+   :description: Introduction “Attitude decides everything”, former Chinese men’ soccer team coach Bora Milutinović kept telling to his squad during the qualification for World
 
 Self-Efficacy
 ====================================

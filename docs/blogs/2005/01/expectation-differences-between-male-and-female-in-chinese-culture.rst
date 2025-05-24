@@ -1,5 +1,5 @@
 .. meta::
-   :description: There are many differences between male and female in Chinese culture.
+   :description: There are many differences between male and female in Chinese culture. First, women are expected to have lower position in a family. Even now, a husband is usua
 
 Expectation differences between male and female in Chinese culture
 ==================================================================

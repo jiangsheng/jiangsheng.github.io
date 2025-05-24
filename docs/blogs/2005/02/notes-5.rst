@@ -1,5 +1,5 @@
 .. meta::
-   :description: Public Edu phylosephy and funding
+   :description: Public Edu phylosephy and funding Compulsory. 16 / 9 grade
 
 Notes
 =====

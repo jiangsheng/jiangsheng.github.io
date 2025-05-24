@@ -1,5 +1,5 @@
 .. meta::
-   :description: ;=====================================================================
+   :description: ;===================================================================== ; lab4.asm - Example function call to get the 20th Fibonacci number ;; Author: Sheng_Jian
 
 Lab4
 ====

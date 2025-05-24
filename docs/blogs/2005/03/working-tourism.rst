@@ -1,5 +1,5 @@
 .. meta::
-   :description: Sustainable Tourism in Mozambique, Part III
+   :description: Sustainable Tourism in Mozambique, Part III Working Tourism Not only does Mozambique have many natural and culture tourism resources, but she also has great pot
 
 Working Tourism
 ===============

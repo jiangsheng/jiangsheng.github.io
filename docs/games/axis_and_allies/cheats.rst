@@ -1,5 +1,5 @@
 .. meta::
-   :description: To activate, press Enter in the game and enter the cheat code.
+   :description: To activate, press Enter in the game and enter the cheat code. enigma: Removes fog of war fieldpromotion: Provides 100 army experience points swissbank: Provide
 
 
 Cheats (Axis and Allies)

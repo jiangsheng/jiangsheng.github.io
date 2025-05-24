@@ -1,5 +1,5 @@
 .. meta::
-   :description: English Writing Practice
+   :description: English Writing Practice Jason Find and evaluate sources on WWW There are several benefits to find information online(WWW), including saving time, reduce cost a
 
 Find and evaluate sources on WWW
 ================================

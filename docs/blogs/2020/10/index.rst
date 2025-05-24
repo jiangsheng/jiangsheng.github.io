@@ -1,5 +1,5 @@
 .. meta::
-   :description: 内容:
+   :description: Blogs in October 2020#
 
 .. _blogs_2020_10:
 

@@ -1,5 +1,5 @@
 .. meta::
-   :description: Q
+   :description: Q 我想在控件上绘图，现在已能取得该控件的长与宽，但取不了它在对话杠中的位置（X，Y），请问该如何取？谢谢。 A 你确定控件只在MFC对话框上面用？ 如果是的话，你可以看MFC代码中关于COleControlContainer的实现。 void COleControl::OnSetClientSite()之后，COle
 
 Ask Mr JS
 =====================

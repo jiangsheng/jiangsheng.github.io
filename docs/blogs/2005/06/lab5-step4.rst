@@ -1,5 +1,5 @@
 .. meta::
-   :description: END;
+   :description: END; all: $(PROJECT).exe
 
 Lab5 Step4
 ==========

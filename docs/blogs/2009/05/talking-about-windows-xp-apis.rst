@@ -1,5 +1,5 @@
 .. meta::
-   :description: Photobucket has deactivated the accounts of all free users and I have no idea what was in there now.
+   :description: Photobucket has deactivated the accounts of all free users and I have no idea what was in there now. http://feed728.photobucket.com/flash/rss_slideshow.swf?rssF
 
 Talking about Windows XP APIs
 =============================

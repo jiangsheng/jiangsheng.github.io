@@ -1,7 +1,6 @@
 
 .. meta::
-    :description lang=en:
-        Mechanics and Guides for Front Mission 1st
+   :description: After creating a new game, you will be asked to personalize your name and call sign. Then you will enter a battle field. The game is centralized on battling wit
 
 
 Front Mission 1 

@@ -1,5 +1,5 @@
 .. meta::
-   :description: Got called into a memory leak troubleshooting.
+   :description: Got called into a memory leak troubleshooting. The application was leaking memory at 1mb per second. In memory profiler, most of the growing memory are used by
 
 Troubleshooting a memory leak
 =============================

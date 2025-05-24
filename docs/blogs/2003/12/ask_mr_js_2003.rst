@@ -1,5 +1,5 @@
 .. meta::
-   :description: 今天心血来潮，整理了一下上个月在CSDN得分的问题我参与的帖子太多，整理起来有难度，所以只整理结了的贴子
+   :description: 今天心血来潮，整理了一下上个月在CSDN得分的问题我参与的帖子太多，整理起来有难度，所以只整理结了的贴子 希望把这个习惯保留下去 [url=http://community.csdn.net/Expert/TopicView2.asp?id=2501675]为什么一按Ctrl+Alt + DEL后退回到在桌面上画的字就
 
 
 Ask Mr JS

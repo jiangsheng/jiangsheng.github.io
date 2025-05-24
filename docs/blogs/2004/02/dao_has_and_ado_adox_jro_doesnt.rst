@@ -1,5 +1,5 @@
 .. meta::
-   :description: 转自 http://www.trigeminal.com/usenet/usenet025.asp?2052
+   :description: 转自 http://www.trigeminal.com/usenet/usenet025.asp?2052 微软很清楚地把ADO定位为DAO的替换……许多微软的代理认为DAO 就是DOA（Dead On Arrival（到达即死），在美国，这是一个术语，用来描写那些希望获救的人在救护车刚到达，要抢救他们时，他们就死了
 
 DAO拥有ADO/ADOx/JRO所没有的东西（也许从不会有！
 =================================================

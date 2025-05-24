@@ -1,5 +1,5 @@
 .. meta::
-   :description: Download Example Code: jiangsheng/Samples.
+   :description: Download Example Code: jiangsheng/Samples. Many applications host webbrowser controls to display web pages inside. Before production the web page is often in an
 
 Howto: Ignoring web browser certificate errors in a webbrowser host
 ========================================================================

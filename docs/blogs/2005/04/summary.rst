@@ -1,5 +1,5 @@
 .. meta::
-   :description: Story: http://www.reuters.com/newsArticle.jhtml?type=internetNews&storyID=8109019
+   :description: Story: http://www.reuters.com/newsArticle.jhtml?type=internetNews&storyID=8109019 SEATTLE (Reuters) - Microsoft Corp. The world’s largest software maker, launch
 
 Summary
 =======

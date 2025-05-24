@@ -1,5 +1,5 @@
 .. meta::
-   :description: reference: http://homepages.ius.edu/jfdoyle/c335/Html/ProcInvoke.htm
+   :description: reference: http://homepages.ius.edu/jfdoyle/c335/Html/ProcInvoke.htm all: $(PROJECT).exe
 
 Lab5 Draft3
 ===========

@@ -1,5 +1,5 @@
 .. meta::
-   :description: ;=====================================================================
+   :description: ;===================================================================== ; lab5.asm - build a program that displays the Fibonacci numbers for a user defined input
 
 Lab5 Draft1
 ===========

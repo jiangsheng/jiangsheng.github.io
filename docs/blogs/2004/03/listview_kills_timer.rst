@@ -1,5 +1,5 @@
 .. meta::
-   :description: http://expert.csdn.net/expert/Topicview2.asp?id=2751134
+   :description: http://expert.csdn.net/expert/Topicview2.asp?id=2751134 不知道为什么默认的处理不判断timer的ID
 
 列表视图自动KillTimer的问题
 =============================

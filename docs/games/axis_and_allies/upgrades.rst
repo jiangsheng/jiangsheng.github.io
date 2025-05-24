@@ -1,5 +1,5 @@
 .. meta::
-   :description: Upgrades give new attributes to affected units and give various bonuses.
+   :description: Upgrades give new attributes to affected units and give various bonuses. Name Location Cost Side Affect Effect Advanced Armored Training Corp HQ 100 GER Tanks M
 
 .. _axis_and_allies_upgrades:
 

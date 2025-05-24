@@ -1,5 +1,5 @@
 .. meta::
-   :description: 内容:
+   :description: Blogs are grouped by year. If you are looking for a specific blog you might find the location in indices. Index Module Index Search Page
 
 .. _blogs:
 

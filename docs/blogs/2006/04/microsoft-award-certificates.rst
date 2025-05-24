@@ -1,5 +1,5 @@
 .. meta::
-   :description: Microsoft Most Valuable Professional Certificate
+   :description: Microsoft Most Valuable Professional Certificate Microsoft Community Star Certificate December 2003
 
 Microsoft Award Certificates
 ============================

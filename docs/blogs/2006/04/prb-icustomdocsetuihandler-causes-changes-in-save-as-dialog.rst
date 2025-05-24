@@ -1,5 +1,5 @@
 .. meta::
-   :description: For the description of this problem, see http://support.microsoft.com/kb/330441.
+   :description: For the description of this problem, see http://support.microsoft.com/kb/330441. A workaround is delegating DHTML commands to the origional webbrowser object th
 
 PRB: ::SetUIHandler Causes Changes in Save As Dialog
 ==============================================================

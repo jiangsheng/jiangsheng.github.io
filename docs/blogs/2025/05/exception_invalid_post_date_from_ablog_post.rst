@@ -1,7 +1,7 @@
 .. meta::
    :description: Today I am getting some strange error when I am trying to convert my blogs to the ablog extension of Sphinx. The error log has the following lines Extension err
 
-Misleading Error Message from ablog.post Part 2
+Misleading Error Message from ablog.post, Aggressive Looking Ahead
 =========================================================================================================
 
 .. post:: 17 May, 2025

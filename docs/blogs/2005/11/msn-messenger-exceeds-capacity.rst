@@ -1,5 +1,5 @@
 .. meta::
-   :description: This is the first time I get this message when trying to sign in to MSN messenger service
+   :description: This is the first time I get this message when trying to sign in to MSN messenger service We can’t sign any more people in right now. Please try signing in agai
 
 MSN messenger exceeds capacity
 ==============================

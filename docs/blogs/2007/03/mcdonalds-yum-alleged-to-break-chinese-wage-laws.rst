@@ -1,5 +1,5 @@
 .. meta::
-   :description: Source
+   :description: Source McDonald’s and Yum! Brands, the owner of KFC and Pizza Hut were the targets of an undercover investigation made by New Express Daily reporters. The repor
 
 McDonald’s, Yum! Alleged To Break Chinese Wage Laws
 ===================================================

@@ -1,5 +1,5 @@
 .. meta::
-   :description: 2 year junior college admission easier, cheaper,live at home,2 year programs ->Ass. degree
+   :description: 2 year junior college admission easier, cheaper,live at home,2 year programs ->Ass. degree Intention:no Degree? Transfer for degree? every high school student w
 
 NoteWorth 011
 =============

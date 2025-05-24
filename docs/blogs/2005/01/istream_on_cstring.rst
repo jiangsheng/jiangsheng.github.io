@@ -1,5 +1,5 @@
 .. meta::
-   :description: 问：如何传递CString中包含的字符串到具有IStream类型参数的函数？
+   :description: 问：如何传递CString中包含的字符串到具有IStream类型参数的函数？ 问：如何根据获得的IStream接口指针获得字符串？ 答：MFC7中的未公开类CStreamOnCString实现了IStream接口访问封装的CString类型的m_strStream成员。 如果你没有MFC7，可以用CreateStrea
 
 IStream接口和CString之间的转换
 =====================================

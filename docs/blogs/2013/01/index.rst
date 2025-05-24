@@ -1,5 +1,5 @@
 .. meta::
-   :description: 内容:
+   :description: Blogs in January 2013#
 
 .. _blogs_2013_01:
 

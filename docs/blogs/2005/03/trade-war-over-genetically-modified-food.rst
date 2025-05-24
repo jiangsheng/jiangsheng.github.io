@@ -1,5 +1,5 @@
 .. meta::
-   :description: Trade war over genetically modified food From Wikipedia, the free encyclopedia.
+   :description: Trade war over genetically modified food From Wikipedia, the free encyclopedia. The European Union and the United States have strong disagreements over the EU’s
 
 Trade war over genetically modified food
 ========================================

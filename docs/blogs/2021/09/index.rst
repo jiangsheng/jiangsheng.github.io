@@ -1,5 +1,5 @@
 .. meta::
-   :description: 内容:
+   :description: Blogs in September 2021#
 
 .. _blogs_2021_09:
 

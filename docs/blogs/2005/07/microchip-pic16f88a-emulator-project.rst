@@ -1,5 +1,5 @@
 .. meta::
-   :description: Resources:
+   :description: Resources: document http://ww1.microchip.com/downloads/en/DeviceDoc/30487c.pdf PIC16F88 resource center http://www.microchip.com/stellent/idcplgidcplg?IdcServic
 
 Microchip PIC16F88A Emulator Project
 ====================================

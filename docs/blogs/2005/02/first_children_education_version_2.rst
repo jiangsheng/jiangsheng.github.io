@@ -1,5 +1,5 @@
 .. meta::
-   :description: Introduction
+   :description: Introduction The first children of families were used to success their families, as a result, they usually have been educated more carefully, and then they are
 
 First Children and Education (version 2)
 ============================================
