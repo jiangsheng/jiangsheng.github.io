@@ -1,3 +1,6 @@
+.. meta::
+   :description: 程序员在我看来是比较会偷懒的一个群体。为了在开发软件的时候减少人工操作，他们会使用各种各样的软件和语言特性，例如IDE和预处理宏。李建忠在他的BLOG(http://blog.joycode.com/lijianzhong/archive/2005/05/08/50440.aspx)中提到，为了简化声明属性的工作，他的
+
 
 
 程序员之懒

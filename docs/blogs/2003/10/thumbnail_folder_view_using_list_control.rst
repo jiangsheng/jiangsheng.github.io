@@ -1,3 +1,6 @@
+.. meta::
+   :description: 本示例演示了列表控件的虚列表和自画功能，也演示了一些系统外壳的函数和接口的使用方法。
+
 使用虚列表和自画实现文件夹的缩略图显示
 ============================================
 
@@ -320,5 +323,6 @@
 * List-View Controls Overview
 * Using List-View Controls
 * Customizing a Control's Appearance Using Custom Draw
+
 
 

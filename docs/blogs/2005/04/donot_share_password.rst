@@ -1,3 +1,6 @@
+.. meta::
+   :description: Please don’t show your password to 3rd party.
+
 请勿向第三方公开你的个人密码
 ==============================
 

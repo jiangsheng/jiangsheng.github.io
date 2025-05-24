@@ -1,3 +1,6 @@
+.. meta::
+   :description: Primates nurse their young with milk. The primate family, namely monkeys and apes, is one of the major groups of mammals. The word “Primate” comes from the Lati
+
 Primates
 ========
 .. post:: 26, Feb, 2005
@@ -42,3 +45,4 @@ Primates
    Reference:
 
     
+

@@ -1,3 +1,6 @@
+.. meta::
+   :description: To activate, press Enter in the game and enter the cheat code.
+
 
 Cheats (Axis and Allies)
 ====================================

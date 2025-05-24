@@ -1,3 +1,6 @@
+.. meta::
+   :description: 亲爱的 Sheng Jiang， 热烈祝贺并欢迎您参与 Microsoft® MVP Program！ 作为本年度“最有价值专家”(Most Valuable Professional) 奖的获奖者，您成为了我们精英群体中的一员，在全球网上和网下技术社区中与他人积极分享 Microsoft 的产品和技术。Microso
+
 Microsoft MVP re-awarded again
 ==============================
 .. post:: 4, Jan, 2006
@@ -33,3 +36,4 @@ Mail Beta <http://www.hotmail.com>`__. We've been testing the
 service, and we feel like it's now ready for some of our best
 Hotmail customers like you, to try it out and tell us what you
 think.
+

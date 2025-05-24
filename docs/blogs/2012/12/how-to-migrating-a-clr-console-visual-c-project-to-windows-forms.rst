@@ -1,3 +1,6 @@
+.. meta::
+   :description: Note: Windows Forms programming in new development is discouraged by Microsoft at this point as Microsoft wants to make full use of hardware accelerated drawing
+
 How to: Migrating a CLR console Visual C++ project to Windows Forms
 ===================================================================
 .. post:: 17, Dec, 2012
@@ -103,3 +106,4 @@ run it in the main function:
 
 Yada! I have a
 Windows Forms application running now.
+

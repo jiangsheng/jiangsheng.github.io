@@ -1,3 +1,6 @@
+.. meta::
+   :description: 2 year junior college admission easier, cheaper,live at home,2 year programs ->Ass. degree
+
 NoteWorth 011
 =============
 .. post:: 10, Feb, 2005
@@ -36,3 +39,4 @@ NoteWorth 011
    every high school student with reason score can admit in college.
 
    | work,traval,
+

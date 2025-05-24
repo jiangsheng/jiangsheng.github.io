@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2012_12:
 
 ======================================
@@ -14,3 +17,4 @@ Blogs in December 2012
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

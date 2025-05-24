@@ -1,3 +1,6 @@
+.. meta::
+   :description: 微软的桌面搜索API推出也有一段时间了，但是网上可以找到的相关技术资料还不多。官方的资料在https://web.archive.org/web/20051030062212/http://addins.msn.com/devguide.aspx可以看到，而且网页上有SDK和一个C#的示例供下载。
+
 集成桌面搜索，模拟器
 ======================
 

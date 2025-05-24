@@ -1,3 +1,6 @@
+.. meta::
+   :description: Introduction
+
 First Children and Education (version 2)
 ============================================
 

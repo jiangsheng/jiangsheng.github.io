@@ -1,3 +1,6 @@
+.. meta::
+   :description: The first 3 Dell support technicians tried to persuade me to clean the temp files, to remove unnecessary startup programs and to reinstall Windows. It does not
+
 Hard Drive Broke
 ================
 .. post:: 17, Mar, 2008
@@ -19,3 +22,4 @@ asked for a replacement. Dell sent me one in 2 days and I sent back
 the broken one.
 
 Now my back up hard drive started to fail ... Time to call Seagate.
+

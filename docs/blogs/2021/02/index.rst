@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2021_02:
 
 ======================================
@@ -14,3 +17,4 @@ Blogs in February 2021
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

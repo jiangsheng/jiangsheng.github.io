@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs:
 
 ======================================
@@ -42,3 +45,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

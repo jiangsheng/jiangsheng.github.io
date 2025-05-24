@@ -1,3 +1,6 @@
+.. meta::
+   :description: Internet Explorer 7 introduced the IInternetZoneManagerEx2 interface, which has a FixUnsecureSettings method to reset all security zone settings. Like all other
+
 Howto: reset IE security zone settings programmatically
 =======================================================
 .. post:: 26, Nov, 2012
@@ -27,3 +30,4 @@ There's
 another `CoInternetCreateZoneManager <http://msdn.microsoft.com/en-us/library/ms537159(v=VS.85).aspx>`__
 function to get the zone manager object's IInternetZoneManager
 interface.
+

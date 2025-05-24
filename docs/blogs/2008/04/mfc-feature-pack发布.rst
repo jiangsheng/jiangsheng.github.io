@@ -1,3 +1,6 @@
+.. meta::
+   :description: Visual C++项目组今天发布了Visual C++ 2008 Feature Pack。这个Feature Pack包含了一些以前需要付费给BCG Soft才可以使用的控件，例如BCG著名的窗口布局和风格自定义功能，不过也有一些有用的控件，例如文件夹列表、文件夹树、属性窗格等等。
+
 MFC Feature Pack发布
 =================================================
 .. post:: 7, Apr, 2008
@@ -28,3 +31,4 @@ MFC Feature Pack发布
    标准版或更高版本，其他语言版的Visual Studio 2008
    要获得这些新的功能的话，需要等到Visual Studio 2008 SP1发布。Visual
    Studio 2008会包含这个Feature Pack。
+

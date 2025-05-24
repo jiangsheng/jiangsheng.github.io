@@ -1,3 +1,6 @@
+.. meta::
+   :description: user 曹一聪 on zhihu is curious how widely .Net is used within Windows components. Obviously an operating system component cannot depend on something that isn’t in
+
 What part of Windows is written in .Net/WPF/Silverlight?
 ========================================================
 .. post:: 16, May, 2016
@@ -17,3 +20,4 @@ a managed one. And if a file is a managed assembly, search its references to fin
 full code can be found at `github.com/jiangsheng/Samples/blob/master/FindDotnetInWindows <https://github.com/jiangsheng/Samples/blob/master/FindDotnetInWindows/AssemblySearch/AssemblySearch.cpp>`__.
 
 The initial list of managed files I found is pretty long so the scanner skip known locations that have known .Net assemblies, like the GAC, the .Net Framework folder, Windows Powershell, Visual Studio, SQL Server and IIS. The usage of .Net in the rest of system is surprisingly sparse.  Windows itself is still a C/C++ stronghold.
+

@@ -1,3 +1,6 @@
+.. meta::
+   :description: Should GM(Genetic Modified) food production be controled by Government?
+
 Notes
 =====
 .. post:: 1, Apr, 2005
@@ -62,3 +65,4 @@ Notes
    | Don't you think the consumer should have the right to choose their
      diet, smoke or drink?The production of tobacco is not controled by
      gov.
+

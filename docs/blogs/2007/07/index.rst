@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2007_07:
 
 ======================================
@@ -14,3 +17,4 @@ Blogs in July 2007
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

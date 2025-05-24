@@ -1,3 +1,6 @@
+.. meta::
+   :description: Good morning everyone. Today I would like to talk about my role modal, Bill Gates, the founder of Microsoft Cooperation, and the wealthiest people in the world.
+
 Role Modal Notes
 ================
 .. post:: 27, Jan, 2005
@@ -45,3 +48,4 @@ Role Modal Notes
    questions, and wrote tens of articles last year.
 
     As a summary, he is a man deserves my respect.
+

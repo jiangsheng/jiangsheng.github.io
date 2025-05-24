@@ -1,3 +1,6 @@
+.. meta::
+   :description: MSDN第9频道又采访了Visual C++类库组的项目经理Nikola Dudar和Sarita Bafna，以及质量控制组的Marina Polishchuk。尽管Visual C++项目组已经转移了工作重点，但是很少人注意到这一点。或许这些采访可以帮助你了解Visual C++项目组的工作。 为什么C++仍旧重要
+
 STL/CLR, Compiler and Marshaling
 ================================
 .. post:: 12, Apr, 2007
@@ -60,3 +63,4 @@ STL/CLR, Compiler and Marshaling
 
    - ATL
      Server发布到了源代码共享站点\ `CodePlex <http://www.codeplex.com/AtlServer>`__\ 。这包含CAtlRegExp，在.Net和第三方类库(boost,TR1)的竞争下已经不再有必要维护一个单独的条件表达式标准了
+

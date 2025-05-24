@@ -1,3 +1,6 @@
+.. meta::
+   :description: 今年微软最有价值专家的奖品好重，是一个很大的水晶奖杯
+
 Microsoft MVP, MSDN Forum Influencer
 ====================================
 .. post:: 30, Jan, 2009
@@ -21,3 +24,4 @@ Microsoft MVP, MSDN Forum Influencer
    :width: 184px
    :height: 244px
    :target: https://r8q0wa.blu.livefilestore.com/y1mAEapybupIFJltdbTAI1Su0sY7wq4q5NDD4ZbxqbSDh8hYpzlGwjxkOl54C024lLzh87m-ZCO0WsCjft3Hv5sT4BTpU_dYkXX-IbW40ma1jGTYqvLcYdbuBAclD792k6q7uoK838Lcys/20090129234731%5B2%5D.jpg
+

@@ -1,3 +1,6 @@
+.. meta::
+   :description: Recently (this post was originally published in 2011) there is an outburst of posts related to the KB2538242 update being offered repeatedly on MSDN’s Visual C+
+
 Windows Update KB2538242 or KB2538243 offered repeatedly
 ==========================================================
 

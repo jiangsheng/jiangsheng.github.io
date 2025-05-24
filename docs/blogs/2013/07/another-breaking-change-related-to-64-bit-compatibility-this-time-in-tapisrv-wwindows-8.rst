@@ -1,3 +1,6 @@
+.. meta::
+   :description: The ADO team had to make a breaking change the ADO APIs due to compatibility problem with Microsoft Office. Now it seems to be Tapi’s turn.
+
 Another breaking change related to 64 bit compatibility, this time in TAPISRV w/Windows 8
 =========================================================================================
 .. post:: 30, Jul, 2013
@@ -48,3 +51,4 @@ released before 2012,  it is likely also affected)
 - Acatel-Lucent TSP
 - NEC TSP (for PBX NEC SL1100)
 - Siemens HiPath TAPI 120/170 (V2 R1.66.0)
+

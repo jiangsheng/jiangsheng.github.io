@@ -1,3 +1,6 @@
+.. meta::
+   :description: Microsoft Most Valuable Professional Certificate
+
 Microsoft Award Certificates
 ============================
 .. post:: 7, Apr, 2006
@@ -48,3 +51,4 @@ Microsoft Award Certificates
    :width: 100px
    :height: 76px
    :target: http://www.flickr.com/photos/jiangsheng/120503260/
+

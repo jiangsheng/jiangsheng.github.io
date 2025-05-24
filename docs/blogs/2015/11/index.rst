@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2015_11:
 
 ======================================
@@ -13,3 +16,4 @@ Blogs in November 2015
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

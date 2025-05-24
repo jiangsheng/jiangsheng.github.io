@@ -1,3 +1,6 @@
+.. meta::
+   :description: Notes#
+
 Notes
 =====
 .. post:: 8, May, 2005
@@ -50,3 +53,4 @@ Notes
      crowded, no trail in court save time & money. Only if cooprate with
      the presecutor and bring others to justice for less servere
      punishment,
+

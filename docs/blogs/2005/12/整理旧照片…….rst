@@ -1,3 +1,6 @@
+.. meta::
+   :description: Source: http://www.flickr.com/photos/jiangsheng/sets/1514328/show/
+
 整理旧照片……
 =========================
 .. post:: 5, Dec, 2005
@@ -178,3 +181,4 @@
    :width: 240px
    :height: 180px
    :target: http://www.flickr.com/photos/79042858@N00/70354672/
+

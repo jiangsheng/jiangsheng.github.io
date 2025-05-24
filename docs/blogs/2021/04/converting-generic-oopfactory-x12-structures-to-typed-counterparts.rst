@@ -1,3 +1,6 @@
+.. meta::
+   :description: OopFactory.X12 can parse EDI messages into segments and loops. However despite typed segments and loops exist, the parser does not generate them in the object m
+
 Converting generic OopFactory.X12 structures to typed counterparts
 ========================================================================
 

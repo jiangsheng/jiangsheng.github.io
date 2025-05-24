@@ -1,3 +1,6 @@
+.. meta::
+   :description: Blog, or weblog, refers to certain kind of online journal that, it is time-stamped articles posted on websites, usually in reverse chronological order. In addit
+
 Blog
 ====
 .. post:: 25, Apr, 2005
@@ -39,3 +42,4 @@ Reference
 * Macht J.( Sept 27, 2004). How to knock down a Story: THE BLOGGERS.
 * Time 164(13). p30.
 * Quarterly updates to OED Online (March 13, 2003) *Oxford English Dictionary*\ <http://www.oed.com/help/updates/motswana-mussy.html>.(April 14, 2005)
+

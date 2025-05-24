@@ -1,3 +1,6 @@
+.. meta::
+   :description: Most teenagers are good on internet. They spend hours in chartrooms. Some people think keep making virtual friends is dangerous that because people are finding
+
 virtual friends
 ===============
 .. post:: 10, Feb, 2005
@@ -37,3 +40,4 @@ virtual friends
     
 
     
+

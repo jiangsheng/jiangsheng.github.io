@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2009_11:
 
 ======================================
@@ -16,3 +19,4 @@ Blogs in November 2009
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

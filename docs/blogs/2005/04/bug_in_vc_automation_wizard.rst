@@ -1,3 +1,6 @@
+.. meta::
+   :description: BUG: ClassWizard Omits Methods with BYTE or BYTE* As Parameters (http://support.microsoft.com/kb/q241862/)
+
 VC的自动化向导的BUG
 =======================
 

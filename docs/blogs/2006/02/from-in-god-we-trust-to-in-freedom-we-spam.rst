@@ -1,3 +1,6 @@
+.. meta::
+   :description: In God We Trust is widely considered a religious phrase. Although the definition of God can be widened to other monotheistic religions, and an overwhelming majo
+
 From In God We Trust to In Freedom We Spam
 ==========================================
 .. post:: 14, Feb, 2006
@@ -16,3 +19,4 @@ Getting spam is now part my daily life. But last week I got a `messaging spam <h
 when I was using `skype <http://en.wikipedia.org/wiki/Skype>`__, one of the less used `instant messaging <http://en.wikipedia.org/wiki/Instant_messaging>`__ software in China. The sender tried to persuade me to quit the `Communist Party of China <http://en.wikipedia.org/wiki/Communist_Party_of_China>`__ (which I never joined) by signing on an `Epoch Times <http://en.wikipedia.org/wiki/The_Epoch_Times>`__ website. As I did hundreds of times before, I blocked the sender as soon as I found out the message was sent by a `chat bot software <http://en.wikipedia.org/wiki/Chatterbot>`__. But this time, I started to wander. I just started using Skype a month ago for making telephone calls and did give my account out in any public way. I also did nothing to indicate my ability of Chinese reading (I was using a Japanese `pseudonym <http://en.wikipedia.org/wiki/Pseudonyme>`__ and my location was set to U.S.). How can they START a conversation in CHINESE?
 
 The only logical answer is that the spammers are spamming indiscriminately. To do this to a Japanese American is equal to call everybody on a phone book in Spanish to ask them to resign from a party in Spain. In Freedom We Spam!
+

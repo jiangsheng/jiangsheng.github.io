@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2005_08:
 
 ======================================
@@ -15,3 +18,4 @@ Blogs in August 2005
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

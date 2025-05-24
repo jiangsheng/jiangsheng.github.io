@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2008:
 
 ======================================
@@ -19,3 +22,4 @@ Blogs in 2008
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2025:
 
 ======================================
@@ -16,3 +19,4 @@ Blogs in 2025
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

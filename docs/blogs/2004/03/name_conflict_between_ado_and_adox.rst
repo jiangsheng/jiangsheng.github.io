@@ -1,3 +1,6 @@
+.. meta::
+   :description: error C2011: ‘’LockTypeEnum’’ : ‘’enum’’ type redefinition
+
 ADO和ADOX
 ==================
 

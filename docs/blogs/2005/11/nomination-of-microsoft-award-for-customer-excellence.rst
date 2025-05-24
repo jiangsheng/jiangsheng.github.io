@@ -1,3 +1,6 @@
+.. meta::
+   :description: Dear Sheng Jiang, Thank you for being a great contributor to Microsoft Visual Studio 2005. You have been nominated to receive the Award for Customer Excellence.
+
 Nomination of Microsoft Award for Customer Excellence
 =====================================================
 
@@ -65,3 +68,4 @@ About the `MVP Program <http://mvp.support.microsoft.com/>`__
 
   The MVP Program, in existence for over eleven years, is represented
   by over 2,600 MVPs in 81 countries.   
+

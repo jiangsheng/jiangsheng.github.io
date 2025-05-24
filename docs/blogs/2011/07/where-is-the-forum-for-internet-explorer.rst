@@ -1,3 +1,6 @@
+.. meta::
+   :description: People get confused by various Microsoft IE forum sites so here is the steps to find the forum closer to IE related questions Basically, the mentality of differ
+
 Where is the forum for Internet Explorer?
 =========================================
 .. post:: 21, Jul, 2011
@@ -81,3 +84,4 @@ What about other tasks?
       #. Yes, I am the author If you can reproduce your problem in
          no-addon mode, visit
          `http://social.msdn.microsoft.com/Forums/en-US/iewebdevelopment/threads  <http://social.msdn.microsoft.com/Forums/en-US/iewebdevelopment/threads>`__
+

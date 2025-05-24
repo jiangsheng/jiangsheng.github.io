@@ -1,3 +1,6 @@
+.. meta::
+   :description: User vnetvvv wants to know how to change the user agent string in a VB6 webbrowser control.
+
 How to change the user agent and download control flags in a webbrowser control host
 ====================================================================================
 .. post:: 9, Oct, 2009
@@ -61,3 +64,4 @@ interfaces <http://www.mvps.org/emorcillo/en/code/vb6/index.shtml>`__.
 You can get the user agent from `the
 DOM <http://en.wikipedia.org/wiki/Document_Object_Model>`__
 (`document <http://msdn.microsoft.com/en-us/library/aa752116(VS.85).aspx>`__.\ `parentWindow <http://msdn.microsoft.com/en-us/library/aa752599(VS.85).aspx>`__.\ `navigator <http://msdn.microsoft.com/en-us/library/aa741467(v=VS.85).aspx>`__.\ `userAgent <http://msdn.microsoft.com/en-us/library/aa703729(v=VS.85).aspx>`__).
+

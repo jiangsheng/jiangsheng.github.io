@@ -1,3 +1,6 @@
+.. meta::
+   :description: Today I am getting some strange error when I am trying to convert my blogs to the ablog extension of Sphinx. The error log has the following lines Extension err
+
 Misleading Error Message from ablog.post Part 2
 =========================================================================================================
 
@@ -20,4 +23,5 @@ Luckily only some of the blogs throw this error, by comparing the blogs that fai
 Moving the index directive after the post directive solved this problem.
 
 Update: I am getting the same error again when the post begins with a blog quote. Adding an link target anchor solved the issue. ABlog seems to be too greedy to look for directive. 
+
 

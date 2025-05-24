@@ -1,3 +1,6 @@
+.. meta::
+   :description: In Microsoft Word 2003, you can replace text as in other programs. However, you can replace line breaks, graphics, and special formats as well. For example, to
+
 Find and replace specific formatting in Word 2003
 =================================================
 .. post:: 10, Nov, 2005
@@ -45,3 +48,4 @@ Find and replace specific formatting in Word 2003
 
    Reference:
    http://office.microsoft.com/en-us/assistance/HP051894331033.aspx
+

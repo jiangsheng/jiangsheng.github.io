@@ -1,3 +1,6 @@
+.. meta::
+   :description: In case anyone is googling this message
+
 Smart harddrive error
 =====================
 .. post:: 9, Jan, 2008
@@ -26,3 +29,4 @@ Support.
 Thankfully, I have daily incremental backup and weekly
 full system backup, but my daily has been
 failing. So I will lose a week's data, not a big deal.
+

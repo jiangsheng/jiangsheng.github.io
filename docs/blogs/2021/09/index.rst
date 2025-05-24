@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2021_09:
 
 ======================================
@@ -13,3 +16,4 @@ Blogs in September 2021
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

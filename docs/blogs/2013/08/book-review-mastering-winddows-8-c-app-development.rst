@@ -1,3 +1,6 @@
+.. meta::
+   :description: Disclaimer: I am a Microsoft MVP in Visual C++, so is Pavel Yosifovich, the author of the book. Mastering Windows 8 C++ App Development by Pavel Yosifovich is a
+
 Book review: Mastering Windows 8 C++ App Development
 ====================================================
 .. post:: 8, Aug, 2013
@@ -24,3 +27,4 @@ and some WinRT APIs such as GeoPosition. Nevertheless, the book is an
 excellent text for the subject and I recommend the book to C++
 programmers who want to start developing Windows Store apps and can do
 research outside of the book.
+

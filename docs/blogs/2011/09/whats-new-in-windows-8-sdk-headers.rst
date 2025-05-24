@@ -1,3 +1,6 @@
+.. meta::
+   :description: This is by no means a complete list but just some observation on files that caught my eye. Some are just regular header file updates for Windows 7 and does not
+
 What&rsquo;s new in Windows 8 Developer Preview SDK headers
 ===========================================================
 .. post:: 17, Sep, 2011
@@ -59,3 +62,4 @@ improvements, including grid and spreadsheet types. Candidate list
 integration and async document support with Text Service Framework. ARM
 support to .Net APIs.  A lot of pointer device and touch messages,
 notification and drawing.
+

@@ -1,3 +1,6 @@
+.. meta::
+   :description: Upgrades give new attributes to affected units and give various bonuses.
+
 .. _axis_and_allies_upgrades:
 
 Upgrades (Axis and Allies)

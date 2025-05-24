@@ -1,3 +1,6 @@
+.. meta::
+   :description: Update:Microsoft’s Visual C++ team has released workarounds on the problem. AVG has released an utility that can revert the KB2467175 update, downloadable at ht
+
 Bug in Security Update for Visual C++ Redistributable Package: April 12, 2011 causes program error on Windows 2000
 ==================================================================================================================
 .. post:: 17, Apr, 2011

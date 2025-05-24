@@ -1,3 +1,6 @@
+.. meta::
+   :description: stdcli::language名称空间被取消，代之以cli名称空间。
+
 Visual C++ 2005 Beta 2中的变动
 =====================================
 

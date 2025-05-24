@@ -1,3 +1,6 @@
+.. meta::
+   :description: Photobucket has deactivated the accounts of all free users and I have no idea what was in there now.
+
 Talking about Windows XP APIs
 =============================
 .. post:: 3, May, 2009
@@ -17,3 +20,4 @@ Photobucket has deactivated the accounts of all free users and I have no idea wh
    :target: http://photobucket.com/redirect/album?showShareLB=1
 .. |image3| image:: http://pic.photobucket.com/share/icons/embed/btn_viewall.gif
    :target: http://s728.photobucket.com/albums/ww283/jiangsheng/Windows%20XP/
+

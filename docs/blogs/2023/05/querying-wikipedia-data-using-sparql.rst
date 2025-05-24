@@ -1,3 +1,6 @@
+.. meta::
+   :description: Recently I have been working on a trainer for a football manager game. The game has a player database, when a player retires, another with the same last name wo
+
 Querying Wikipedia data using SPARQL
 ====================================
 .. post:: 5, May, 2023
@@ -85,3 +88,4 @@ The query has some unexpected results, for example, woman footballers
 are also appearing in the game now, but I consider this a feature, not a
 bug. Those who Wikipedians consider more notable than males most likely
 can make a team roster somewhere in the game if allowed.
+

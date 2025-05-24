@@ -1,3 +1,6 @@
+.. meta::
+   :description: 在Windows中拨号上网(包括MODEM和PPPoe)，一般都是用Windows平台提供的的Remote Access Service(RAS，远程访问服务):https://learn.microsoft.com/en-us/windows/win32/rras/about-remote-access-servic
+
 编程控制Modem/PPPoE拨号连接
 ===============================
 

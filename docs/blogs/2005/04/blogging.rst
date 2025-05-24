@@ -1,3 +1,6 @@
+.. meta::
+   :description: Given the graphs from “Population, Poverty and the Local Environment”, I conclude that the decreasing percentage of American women’s share of paid employment is
+
 Blogging
 ========
 .. post:: 11, Apr, 2005
@@ -36,3 +39,4 @@ Blog spam appeared and reaction from bloggers and search engines.
 Conclusion.
 
 More and more people will stop updating their personal homepage and start blogging, and hence increase the influence of blog communities. Blog will become as popular as email.
+

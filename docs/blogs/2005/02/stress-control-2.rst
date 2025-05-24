@@ -1,3 +1,6 @@
+.. meta::
+   :description: You can’t get rid of stress, but you can manage it
+
 Stress Control
 ==============
 .. post:: 8, Feb, 2005
@@ -21,3 +24,4 @@ is not good for body for an emotional stress. Doctors use are a lot
 of skills to prevent illness cause by the anxiety of stress, such as
 focus and control. Sometimes the situation get out of our control,
 trying to control it is a huge stressor.
+

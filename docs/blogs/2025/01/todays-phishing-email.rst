@@ -1,3 +1,6 @@
+.. meta::
+   :description: My mom received this email and asked me verification. It is obvious fake, but the red flags are worth noting. The only help from the email provider is marking t
+
 Today's phishing email RE: Your A⁮pp឵Ie lD Has Been Di⁫sabIed Pending Further Verification
 =====================================================================================================
 .. post:: 3, Jan, 2025
@@ -97,3 +100,4 @@ legitimacy of any suspicious emails through official channels. In
 addition, companies like TXU should also strengthen their defenses to
 prevent email spoofing. This post serves as a reminder for cybersecurity
 awareness in identifying and mitigating phishing threats.
+

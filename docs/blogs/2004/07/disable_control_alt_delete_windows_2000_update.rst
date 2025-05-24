@@ -1,3 +1,6 @@
+.. meta::
+   :description: 我曾经编写过一篇关于动态屏蔽Control+Alt+Delete的文章。数月之后我把文章的英文修订版发在了CodeProject(https://web.archive.org/web/20081015201511/http://www.codeproject.com/system/preventclose.asp)。
+
 动态屏蔽Control+Alt+Delete(Update)
 ========================================
 .. post:: 25, Jul, 2004

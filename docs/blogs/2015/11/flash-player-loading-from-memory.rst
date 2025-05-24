@@ -1,3 +1,6 @@
+.. meta::
+   :description: user cucao wants to know how to play a flash file from application resource. The user wants to use a dongle to protect unauthorized viewing of the flash file so
+
 Flash Player: Loading from memory
 =================================
 .. post:: 26, Nov, 2015
@@ -32,3 +35,4 @@ The data source passed into IPersistStreamInit::Load could be a home-brew COM s
    }
    
 This only works for self-contained swf files, however. To set a base url for relative url search in action scripts, a home-brew COM server that implements both IStream and IMoniker is needed.
+

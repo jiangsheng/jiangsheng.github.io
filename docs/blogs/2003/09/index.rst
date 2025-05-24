@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2003_09:
 
 ======================================
@@ -14,3 +17,4 @@ Blogs in September 2003
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

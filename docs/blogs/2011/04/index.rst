@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2011_04:
 
 ======================================
@@ -14,3 +17,4 @@ Blogs in April 2011
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

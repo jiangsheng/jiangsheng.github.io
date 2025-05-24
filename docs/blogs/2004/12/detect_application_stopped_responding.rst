@@ -1,3 +1,6 @@
+.. meta::
+   :description: 简介：本文描述了如何使用C++、VB、Windows API和.Net类库判断一个进程是否停止了响应。
+
 How To Detect If an Application Has Stopped Responding
 ============================================================
 .. post:: 31, Dec, 2004
@@ -24,3 +27,4 @@ Windows2000及Windows XP中提供了一个API IsHungAppWindow，但是微软声�
 * Q304990 Detect if an Application has Stopped Responding by Using Visual Basic .NET (https://web.archive.org/web/20041229003323/http://support.microsoft.com/kb/304990)
 * Get the Main Window, Get EXE Name (https://web.archive.org/web/20031011160224/http://msdn.microsoft.com/msdnmag/issues/02/07/CQA/)
 * Enumerating Windows Using API(VB) (https://web.archive.org/web/20030422013110/http://www.vbaccelerator.com/home/VB/Code/Libraries/Windows/Enumerating_Windows/article.asp)
+

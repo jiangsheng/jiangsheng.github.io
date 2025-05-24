@@ -1,3 +1,6 @@
+.. meta::
+   :description: This is the first time I get this message when trying to sign in to MSN messenger service
+
 MSN messenger exceeds capacity
 ==============================
 .. post:: 17, Nov, 2005
@@ -25,3 +28,4 @@ MSN messenger exceeds capacity
     
 
    It seems Microsoft may need more servers now...
+

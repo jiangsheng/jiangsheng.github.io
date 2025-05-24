@@ -1,3 +1,6 @@
+.. meta::
+   :description: Today a friend’s server was hacked. The web site displays normally if visited directly. The content is highjacked when visit from a Baidu Search result, similar
+
 New web server hijacker HttpResetModule.dll
 =============================================
 

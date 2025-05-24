@@ -1,3 +1,6 @@
+.. meta::
+   :description: In the article, “A Global Trade Agreement Must Address Invasive Species”, published in National Wild Life on the volumn Nov/Oct 2004, Larry J. Schweiger reporte
+
 Summary Assignment
 ====================================================================================
 .. post:: 9, Feb, 2005
@@ -18,3 +21,4 @@ trees, seriously threatening future forest productivity. Trade
 policy  must address the globalization of species. Misplaced species
 can threaten our children’s future. At the last of the article, the
 author said:"We must act now in the face of clear and present danger
+

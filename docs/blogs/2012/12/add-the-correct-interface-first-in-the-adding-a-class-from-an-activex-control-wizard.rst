@@ -1,3 +1,6 @@
+.. meta::
+   :description: In good old times aka VC6, if you want to use an ActiveX in MFC, the Components and Controls Gallery would generate all the properties and methods of an ActiveX
+
 Add the correct interface first in Adding an MFC Class from an ActiveX Control wizard.
 ======================================================================================
 .. post:: 4, Dec, 2012
@@ -67,3 +70,4 @@ Side note: For code cleanness, you probably want to move the
 InvokeHelper code in the headers to cpp files like VC6 did. A good C++
 `refactoring tool <http://en.wikipedia.org/wiki/Code_refactoring>`__ can
 help that tremendously.
+

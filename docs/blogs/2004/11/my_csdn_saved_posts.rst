@@ -1,3 +1,6 @@
+.. meta::
+   :description: 无界面的HTML分析器·分析网页中的表格/ http://community.csdn.net/Expert/topicview.asp?id=351580
+
 偶的CSDN收藏夹(大部分都是古董……)
 ===========================================
 

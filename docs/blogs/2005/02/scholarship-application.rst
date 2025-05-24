@@ -1,3 +1,6 @@
+.. meta::
+   :description: Financial Aid Office,
+
 Scholarship Application
 =============================
 

@@ -1,3 +1,6 @@
+.. meta::
+   :description: Wikipedia has been blocked in mainland China for more than six months. Unlike former blocks, this one seems to be permanent. Like the blocking of Google in 2002
+
 Baidu Baike, the Chinese repalcement of Wikipedia
 =================================================
 .. post:: 13, May, 2006
@@ -57,3 +60,4 @@ Baidu Baike, the Chinese repalcement of Wikipedia
    China <http://en.wikipedia.org/wiki/Great_Firewall_of_China>`__,
    efforts to creating these entries or even search for them resulted
    denial of services, like searches in other web sites.
+

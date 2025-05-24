@@ -1,3 +1,6 @@
+.. meta::
+   :description: 活动桌面处理和一个例子 （https://web.archive.org/web/20010503055645/http://www.vckbase.com/vckbase/vckbase10/vc/nonctrls/atlcomocx_02/1002001.htm）讲述了使用IActiveDesktop接口可以做到的
+
 编程控制活动桌面，用ActiveX控件来增强桌面的功能
 ============================================================
 

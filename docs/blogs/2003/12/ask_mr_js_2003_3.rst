@@ -1,3 +1,6 @@
+.. meta::
+   :description: [url=http://community.csdn.net/expert/Topicview2.asp?id=2542812]怎样修改theApp.m_pszAppName[/url]
+
 
 Ask Mr JS
 =====================

@@ -1,3 +1,6 @@
+.. meta::
+   :description: 自动完成功能在浏览器控件中默认是禁用的（但是没有任何文档提到这一点……），但是可以通过实现IDocHostUIHandler，在GetHostInfo方法中在填充DOCHOSTUIINFO结构的dwFlags成员时设置DOCHOSTUIFLAG_ENABLE_FORMS_AUTOCOMPLETE标识位来启用。
+
 在浏览器控件中启用自动完成功能
 ======================================
 

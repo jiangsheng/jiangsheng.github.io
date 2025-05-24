@@ -1,3 +1,6 @@
+.. meta::
+   :description: Image by EJeffson via Flickr
+
 Microsoft MVP again
 ===================
 .. post:: 25, Jan, 2011
@@ -85,3 +88,4 @@ now is the time to leave your comments.
    :width: 644px
    :height: 484px
    :target: http://jiangsheng.net/wp-content/uploads/2011/01/img_0905.jpg
+

@@ -1,3 +1,6 @@
+.. meta::
+   :description: It looks like you will get error 3E6 when you call write file with an address not aligned to DWORD.
+
 Error 3e6 with WriteFile
 ========================
 .. post:: 27, Jun, 2005
@@ -61,3 +64,4 @@ address not aligned to DWORD.
    invoke ExitProcess, 0
    Hello   ENDP
    END Hello
+

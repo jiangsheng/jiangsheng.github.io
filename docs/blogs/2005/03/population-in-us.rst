@@ -1,3 +1,6 @@
+.. meta::
+   :description: Race org, Where, Age&Sex
+
 Population in US
 ================
 .. post:: 2, Mar, 2005
@@ -34,3 +37,4 @@ Population in US
    | high death rate for man when they get older
    | live fe 79 years/ma 72 years
    | AVG age 30(1980),33.1 (1990) death rate- birth rate+
+

@@ -1,3 +1,6 @@
+.. meta::
+   :description: 假如抓到一条美人鱼(转自机战世界论坛，水星的爱发)#
+
 假如抓到一条美人鱼(转自机战世界论坛，水星的爱发)
 =============================================================
 .. post:: 15, Apr, 2005
@@ -232,3 +235,4 @@
 .. |image5| image:: http://allgames.gamesh.com/srwbbs/images/face/31.gif
    :width: 20px
    :height: 20px
+

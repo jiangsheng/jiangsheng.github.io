@@ -1,3 +1,6 @@
+.. meta::
+   :description: Diet Change
+
 Diet Change
 ===========
 .. post:: 6, Mar, 2005
@@ -38,3 +41,4 @@ Diet Change
    change. Previous local foods fade out, replaced by new local food. As
    many of my diet change, this one is not made by doctor’s advice, but
    by objective and financial choices.
+

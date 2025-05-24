@@ -1,3 +1,6 @@
+.. meta::
+   :description: 微软知识库中的文章How To Increment Version Information After Each Build in Visual C++（https://web.archive.org/web/20070211114127/http://support.microsoft.com/kb/237870/）
+
 在Visual C++中编译工程时自动增加版本号
 =======================================
 .. post:: 24, Jan, 2005
@@ -13,3 +16,4 @@
 An Automatic Build Number Incrementer for Visual Studio .NET
 
 https://web.archive.org/web/20041126103130/http://codeguru.earthweb.com/Csharp/.NET/net_vs_addins/article.php/c5961/
+

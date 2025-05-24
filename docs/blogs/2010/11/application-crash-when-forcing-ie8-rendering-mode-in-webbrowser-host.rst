@@ -1,3 +1,6 @@
+.. meta::
+   :description: [caption id=”” align=”alignright” width=”256” caption=”Image via Wikipedia”][/caption]
+
 Application crash when forcing IE8 rendering mode in webbrowser host
 ====================================================================
 .. post:: 17, Nov, 2010
@@ -59,3 +62,4 @@ int nCmdShow=1)  Line 47 + 0x7 bytes    C++
    :width: 256px
    :height: 256px
    :target: http://en.wikipedia.org/wiki/File:Internet_Explorer_7_Logo.png
+

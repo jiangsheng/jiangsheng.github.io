@@ -1,3 +1,6 @@
+.. meta::
+   :description: User rsd102 looks already find the solution to his question when he posted the question to CSDN, except for one missing piece. The sample he found is for overri
+
 Intercept the download dialog in webbrowser control
 ===================================================
 .. post:: 4, Nov, 2009
@@ -31,3 +34,4 @@ It is pleasant to see a user doing active research
 before positing a question, however we may not see the question online
 if the user take some time reading the documentation he found during
 research.
+

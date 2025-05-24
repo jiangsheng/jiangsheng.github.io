@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2011:
 
 ======================================
@@ -20,3 +23,4 @@ Blogs in 2011
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

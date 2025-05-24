@@ -1,3 +1,6 @@
+.. meta::
+   :description: Nature of Tech and attitude tword of tech of US
+
 Notes from March 2005
 =========================
 
@@ -30,3 +33,4 @@ Nature of Tech and attitude tword of tech of US
 | Present
 |  Lost and largely restored.
 |  social prbs. Naive.
+

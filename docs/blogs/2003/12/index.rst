@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2003_12:
 
 ======================================
@@ -16,3 +19,4 @@ Blogs in December 2003
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

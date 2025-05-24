@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2024:
 
 ======================================
@@ -14,3 +17,4 @@ Blogs in 2024
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

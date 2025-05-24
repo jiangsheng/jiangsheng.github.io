@@ -1,3 +1,6 @@
+.. meta::
+   :description: Assignment 2: A Hello World program for Windows written in assembly language.
+
 Lab2
 ====
 .. post:: 25, May, 2005
@@ -169,3 +172,4 @@ Assignment 2: A Hello World program for Windows written in assembly language.
    SayHello ENDP
 
    END SayHello
+

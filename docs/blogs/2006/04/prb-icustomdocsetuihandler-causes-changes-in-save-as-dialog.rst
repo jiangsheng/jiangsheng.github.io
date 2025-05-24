@@ -1,3 +1,6 @@
+.. meta::
+   :description: For the description of this problem, see http://support.microsoft.com/kb/330441.
+
 PRB: ::SetUIHandler Causes Changes in Save As Dialog
 ==============================================================
 .. post:: 21, Apr, 2006
@@ -48,3 +51,4 @@ save as options are restored.
 BTW, the sentence "This means that you must host the `Web
 browser <http://en.wikipedia.org/wiki/Web_browser>`__ control must
 be hosted" in the article seems confusing.
+

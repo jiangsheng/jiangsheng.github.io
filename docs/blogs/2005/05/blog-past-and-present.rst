@@ -1,3 +1,6 @@
+.. meta::
+   :description: A Introduction
+
 Blog, past and present
 ======================
 .. post:: 3, May, 2005
@@ -60,3 +63,4 @@ Reference
 * Macht, J. ( Sept 27, 2004). How to knock down a Story: THE BLOGGERS. Time 164(13). p30. Microsoft launches MSN blogging, messenger services (April 7, 2005). Reuters<http://www.reuters.com/newsArticle.jhtml?storyID=8109670&type=technologyNews> (May 3,2005) 
 * Quarterly updates to OED Online (March 13, 2003) Oxford English Dictionary.(April 14, 2005) Wright, C. (2003). 
 * Parking Lott: The role of Web logs in the fall of Sen. Trent Lott. Communication, Culture & Technology Program.2003 (3-3). Washington, DC: Georgetown University
+

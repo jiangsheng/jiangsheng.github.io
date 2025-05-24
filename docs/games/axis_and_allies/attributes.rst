@@ -1,3 +1,6 @@
+.. meta::
+   :description: Attributes give buildings or regiments certain bonuses, some are automatic, some are purchased via upgrades.
+
 .. _axis_and_allies_attributes:
 
 Attributes (Axis and Allies)

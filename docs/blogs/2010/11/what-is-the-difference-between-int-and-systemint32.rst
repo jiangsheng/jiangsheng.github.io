@@ -1,3 +1,6 @@
+.. meta::
+   :description: Some may say identical, at least that’s what the Visual C++ compiler tells you at the first glance when you turn on /oldsyntax public __gc class Class1 { public
+
 What is the difference between int and System::Int32
 ====================================================
 .. post:: 22, Nov, 2010
@@ -45,3 +48,4 @@ interface <https://connect.microsoft.com/VisualStudio/feedback/details/280487/up
 Now you `have a hard time to figure out how to declare the signature in
 the new
 syntax <http://stackoverflow.com/questions/4082419/how-to-forward-declare-a-method-in-c-cli-to-match-the-signature-of-a-managed-e>`__.
+

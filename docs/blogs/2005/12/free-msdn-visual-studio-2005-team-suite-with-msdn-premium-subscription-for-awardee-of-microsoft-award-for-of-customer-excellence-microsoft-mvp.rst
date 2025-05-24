@@ -1,3 +1,6 @@
+.. meta::
+   :description: Weeks ago I got an email promising free Visual Studio 2005 if I qualify for the Microsoft Award for Customer Excellence from www.microsoft-ace.com, which, accor
+
 Free MSDN Visual Studio 2005 Team Suite with MSDN Premium Subscription for awardee of Microsoft Award for of Customer Excellence/ Microsoft MVP?
 ================================================================================================================================================
 .. post:: 29, Dec, 2005
@@ -26,3 +29,4 @@ stating "thank you for your passionate support for VSTS"... but
 from `www.mvpinvite.com <http://www.mvpinvite.com>`__, another
 website registered by 3rd party and seems has something to do
 with my MVP membership? So confusing...
+

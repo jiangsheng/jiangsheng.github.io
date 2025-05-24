@@ -1,3 +1,6 @@
+.. meta::
+   :description: In this game buildings are generally deployed from trucks. As they are mostly mobile structures, you can usually pack up buildings and deploy them elsewhere. In
+
 .. _axis_and_allies_buildings:
 
 Buildings (Axis and Allies)
@@ -143,3 +146,4 @@ When your armor is not available you probably resort to bunkers. But they have v
 .. csv-table:: Buildings
    :file: building.csv
    :header-rows: 1   
+

@@ -1,3 +1,6 @@
+.. meta::
+   :description: This is the second time I run into this problem after a Windows Update. First time was halfway through last year’s Microsoft MVP Summit and I had to Remote Desk
+
 Blinking wifi icon and black screen on Surface 2
 ================================================
 .. post:: 21, Aug, 2018
@@ -24,3 +27,4 @@ So it probably has multiple causes. Anyway this is my way to get update working 
 
 Microsoft says `August 14, 2018—KB4343898 (Monthly Rollup) <https://support.microsoft.com/en-us/help/4343898/windows-81-update-kb4343898>`__ fixes an issue with KB3033055 which has the same syndrome. Not sure if
 this has anything to do with KB3097667. Hopefully this is the end of black screen with blinking wifi icon for Surface owners.
+

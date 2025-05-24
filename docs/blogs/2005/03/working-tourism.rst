@@ -1,3 +1,6 @@
+.. meta::
+   :description: Sustainable Tourism in Mozambique, Part III
+
 Working Tourism
 ===============
 .. post:: 6, Mar, 2005
@@ -87,3 +90,4 @@ Working Tourism
    Development Project.(Nov 16,2004).
    http://www-wds.worldbank.org/servlet/WDS_IBank_Servlet?pcont=details&eid=000104615_20041118094642
    >
+

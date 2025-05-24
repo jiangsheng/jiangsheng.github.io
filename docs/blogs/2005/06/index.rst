@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2005_06:
 
 ======================================
@@ -21,3 +24,4 @@ Blogs in June 2005
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

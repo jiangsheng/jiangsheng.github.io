@@ -1,3 +1,6 @@
+.. meta::
+   :description: 适用于有很多命令处理函数的对象，以及共享命令处理函数。
+
 .. _handle_command_message_in_separate_class:
 
 使用单独的命令处理类来处理命令消息
@@ -24,4 +27,5 @@
             return TRUE;
         return CAppBar::OnCmdMsg(nID, nCode, pExtra, pHandlerInfo);
     }
+
 

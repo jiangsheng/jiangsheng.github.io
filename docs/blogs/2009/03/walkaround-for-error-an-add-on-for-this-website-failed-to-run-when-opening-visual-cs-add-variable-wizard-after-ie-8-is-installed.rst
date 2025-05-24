@@ -1,3 +1,6 @@
+.. meta::
+   :description: Update: it looks like a lot of people are hitting this page by mistake. If you don’t write software for a living then this page is probably not for you.
+
 Walkaround for Error : An add-on for this website failed to run. When opening Visual C++’s Add Variable Wizard after IE 8 is installed
 ======================================================================================================================================
 .. post:: 24, Mar, 2009
@@ -76,3 +79,4 @@ Suspicious url actions from
   this is doing, but it is the only one between URLACTION_ACTIVEX_MIN
   and URLACTION_ACTIVEX_MAX)
 - 160A URLACTION_HTML_INCLUDE_FILE_PATH
+

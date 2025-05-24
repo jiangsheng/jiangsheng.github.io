@@ -1,3 +1,6 @@
+.. meta::
+   :description: 虽然在VC6.0中可以通过安装Visual C++ Toolkit(https://archive.org/details/microsoft-visual-c-toolkit-2003)来编写基于最新版本的平台SDK、DirectX SDK的程序以及托管代码，但是VC6附带的调试器并不支持新版本的调试信息，所以实际上
+
 使用WinDbg调试VC程序
 ======================
 .. post:: 8, Jun, 2005

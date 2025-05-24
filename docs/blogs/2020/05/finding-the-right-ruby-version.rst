@@ -1,3 +1,6 @@
+.. meta::
+   :description: I am installing eHMP on Centos 7. Centos 7 has ruby 2.0 out of box, thus the install
+
 Finding the right ruby version
 ==============================
 .. post:: 13, May, 2020
@@ -65,3 +68,4 @@ settled for 2.3.
    sudo gem update --system 2.3
 
 Now the script runs successfully.
+

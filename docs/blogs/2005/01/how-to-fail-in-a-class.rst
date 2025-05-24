@@ -1,3 +1,6 @@
+.. meta::
+   :description: It is not good topic to talk with, but do some investigations on it will help you aware of its risk and you can device to do something to prevent you from faili
+
 How to fail in a class
 ==================================
 .. post:: 28 Jan, 2005

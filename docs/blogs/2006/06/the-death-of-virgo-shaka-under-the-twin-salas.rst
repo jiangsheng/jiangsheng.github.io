@@ -1,3 +1,6 @@
+.. meta::
+   :description: Gold Saint Virgo Shaka, after a suicidal battle against three fallen Gold Saints, Capricornus Shura, Aquarius Camus and Gemini Saga when defending Athena.
+
 The death of Virgo Shaka under the twin Salas
 =============================================
 .. post:: 8, Jun, 2006
@@ -66,3 +69,4 @@ The death of Virgo Shaka under the twin Salas
          谁都不能逃脱死亡的长眠
 
          And, in the end, covered by an eternal sleep called Death.
+

@@ -1,3 +1,6 @@
+.. meta::
+   :description: This post originally appeared on Joycode on Sept 17 2004.
+
 Better Late Than Never
 ===========================
 .. post:: 16, Jun, 2021
@@ -182,3 +185,4 @@ CFileDialog Customization
    |               pFolderView->Release();
    |       }
    |   }
+

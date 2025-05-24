@@ -1,3 +1,6 @@
+.. meta::
+   :description: Chinese is famous for its food. In the history, Chinese have tradition to eat a wild range of foods and does not have a good eating habit, but it is changed in
+
 Chinese diet
 ============
 .. post:: 8, Mar, 2005
@@ -41,3 +44,4 @@ Chinese diet
    Although China has a long history about food, the Chinese changed a
    lot in food area. This is caused by globalization and preventing some
    diseases.
+

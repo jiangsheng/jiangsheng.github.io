@@ -1,3 +1,6 @@
+.. meta::
+   :description: Download the mame cheat file and save in mame/cheat folder, then restart game
+
 tenkai
 ======================================
 

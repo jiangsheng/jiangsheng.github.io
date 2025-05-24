@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2004_01:
 
 ======================================
@@ -14,3 +17,4 @@ Blogs in January 2004
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

@@ -1,3 +1,6 @@
+.. meta::
+   :description: Quote
+
 Talking about Where does power come from?
 =========================================
 .. post:: 3, Nov, 2005
@@ -46,3 +49,4 @@ Talking about Where does power come from?
      (Wikipedia)
    - `Waterfall
      model <http://en.wikipedia.org/wiki/Waterfall_model>`__ (Wikipedia)
+

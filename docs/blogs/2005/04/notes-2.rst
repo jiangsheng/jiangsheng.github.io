@@ -1,3 +1,6 @@
+.. meta::
+   :description: 2 principles written into the constitution 200 years ago,effect today.
+
 Notes
 =====
 .. post:: 28, Apr, 2005
@@ -60,3 +63,4 @@ Notes
      of Superime Court. Congress must approve the nomination. Each
      answer to other two.
    | Inbalance of power does not usually last long.
+

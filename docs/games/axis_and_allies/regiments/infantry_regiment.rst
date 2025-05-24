@@ -1,3 +1,6 @@
+.. meta::
+   :description: The cheapest regiment type in the game, good for early game recons, rough terrain and defensive battles with the heap of entrenchment. Although they are relativ
+
 .. _axis_and_allies_regiment_infantry:
 
 Infantry (Axis and Allies)
@@ -135,3 +138,4 @@ Marine Regiments are deployed from battleships, not Infantry HQs. They must be a
 .. csv-table:: Infantry Units
    :file: infantry_unit.csv
    :header-rows: 1   
+

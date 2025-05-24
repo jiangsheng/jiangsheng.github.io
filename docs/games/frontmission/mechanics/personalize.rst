@@ -1,3 +1,6 @@
+.. meta::
+   :description: After starting the game, you will need to enter the name of the main character, by default Royd Clive. Use the arrow keys to select characters, the A button to
+
 .. _front_mission_mechanics_personalize:
 
 

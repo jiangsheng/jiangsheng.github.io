@@ -1,3 +1,6 @@
+.. meta::
+   :description: 原文地址在https://web.archive.org/web/20041204071945/https://channel9.msdn.com/ShowPost.aspx?PostID=31152
+
 Good Bye MFC?
 =========================
 

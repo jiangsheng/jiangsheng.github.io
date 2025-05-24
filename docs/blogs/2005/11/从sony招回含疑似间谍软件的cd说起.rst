@@ -1,3 +1,6 @@
+.. meta::
+   :description: 面对消费者日益严重的不满，Sony BMG害怕自己的正版音乐产品受到版权保护“后门”的影响，于今天宣布撤回商店货架内所有涉及Rookit软件的CD产品，并为消费者提供免费的非DRM版CD更换。 http://computer.online.sh.cn/computer/gb/content/2005-11/16/con
+
 从Sony招回含疑似间谍软件的CD说起
 ==============================================
 .. post:: 15, Nov, 2005
@@ -26,3 +29,4 @@ http://www.365key.com/forward.aspx?id=1286280
 
 
 本贴仅代表本人在特定时间对特定事物的观点，并不代表任何和本人相关实体的论点。
+

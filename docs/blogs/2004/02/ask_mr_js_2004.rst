@@ -1,3 +1,6 @@
+.. meta::
+   :description: Q
+
 Ask Mr JS
 =====================
 .. post:: 6, Feb, 2004

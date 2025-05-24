@@ -1,3 +1,6 @@
+.. meta::
+   :description: This is Sheng Jiang’s documentation.
+
 Read me First
 ======================================
 .. toctree::
@@ -38,3 +41,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

@@ -1,3 +1,6 @@
+.. meta::
+   :description: The fastest regiment type in the game. Although not the strongest, the mobility means you can rush to control favorable terrain and can eliminate enemies instea
+
 .. _axis_and_allies_regiment_mechanized:
 
 Mechanized (Axis and Allies)

@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2013_08:
 
 ======================================
@@ -13,3 +16,4 @@ Blogs in August 2013
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

@@ -1,3 +1,6 @@
+.. meta::
+   :description: 点击列头排序，Shift+点击列头添加排序条件。 标题打型号的列为99级数据，不打的为0级。 码 属 图 名 作 性 近 远 回 命 直 技 近* 远* 回* 命* 直* 技* SP 空 陆 海 宇 精神1 精神2 精神3 精神4 精神5 精神6 技能 01 自 チャム＝ファウ 丹拜因 普通 0 0 0 0 0 0 5
+
 :html_theme.sidebar_primary.remove: true
 :html_theme.sidebar_secondary.remove: true
 

@@ -1,3 +1,6 @@
+.. meta::
+   :description: 本文描述了如何在MFC的文档/视图/框架架构中使用ADO和ADOX来创建和打开数据库。
+
 结合ADO、ADOX和MFC的文档/视图/框架架构创建和打开Access数据库
 ==========================================================================================
 
@@ -363,3 +366,4 @@ Office VBA参考
 在文档/视图/框架架构中集成数据库访问总体来说还是难度不大的。微软提供了很多示例的代码，大部分工作只是把示例代码从其他语言改写到VC。主要的工作是对MFC的文档/视图/框架架构的理解，在适当的时候调用这些代码。
 
 尽管我在打开数据库的同时也打开了一个记录集，但是我并未给出显示记录集内容的代码，这超出了本文的范围。我可以给出的提示是使用现成的数据列表控件来显示，微软知识库文章Q229029 SAMPLE: AdoDataGrid.exe Demonstrates How to Use ADO with DataGrid Control Using Visual C++(https://web.archive.org/web/19991009055314/https://support.microsoft.com/support/kb/articles/q229/0/29.asp)可以作为参考。
+

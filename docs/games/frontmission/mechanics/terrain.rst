@@ -1,3 +1,6 @@
+.. meta::
+   :description: Terrain has various effects on the battle. The most obvious one is that your wanzers with treads and tire legs can’t go up or down two levels. There are also a
+
 .. _front_mission_mechanics_terrain:
 
 Terrain (Front Mission 1)
@@ -14,6 +17,7 @@ Cover rating changes between :ref:`platform ports <front_mission_platform_differ
 If enemies are under good cover, you want to lure them out if possible. At the same time, find good cover yourself. Of course if you can make a choke point (e.g. at street crossing or on a bridge) and take out anyone approaching quickly, ignore it. 
 
 Altitude difference also limits what weapon you can use and how fast you can move. You can't use Short and Melee weapons when the altitude difference is more than one level. Moving one elevation level costs one movement point. 
+
 
 
 

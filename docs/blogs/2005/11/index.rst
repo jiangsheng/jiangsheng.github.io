@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2005_11:
 
 ======================================
@@ -19,3 +22,4 @@ Blogs in November 2005
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

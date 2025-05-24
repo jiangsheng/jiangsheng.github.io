@@ -1,3 +1,6 @@
+.. meta::
+   :description: The Google Analytics extension from
+
 Fix sphinxcontrib-googleanalytics on Sphinx 1.8
 ===============================================
 .. post:: 5, Jan, 2019
@@ -52,3 +55,4 @@ to
 .. code-block::
    
    return {'version': '0.1'}
+

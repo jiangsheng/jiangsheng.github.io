@@ -1,3 +1,6 @@
+.. meta::
+   :description: First, I am most delighted that the city government continues supporting Urban Park Project (UPJ). I am also pleased with that the government had assured that t
+
 Editor's note
 =============
 .. post:: 27, Feb, 2005
@@ -25,3 +28,4 @@ Editor's note
 
    | Thank you.
    | Jason
+

@@ -1,3 +1,6 @@
+.. meta::
+   :description: Telephone Tips#
+
 Telephone Tips
 ==============
 .. post:: 17, Mar, 2005
@@ -160,3 +163,4 @@ Telephone Tips
      friend can write out a list of dates and numbers and take turns
      reading them over the phone to each other. Record what you hear.
      Swap papers the next day and check your answers.
+

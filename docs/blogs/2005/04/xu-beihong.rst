@@ -1,3 +1,6 @@
+.. meta::
+   :description: influential Chinese artist and art educator who, in the first half of the 20th century, argued for the reformation of Chinese art through the incorporation of l
+
 Xu Beihong
 ==========
 .. post:: 8, Apr, 2005
@@ -64,3 +67,4 @@ Xu Beihong
    :height: 400px
 .. |image2| image:: http://blufiles.storage.live.com/y1pyks2-togqbvvZTVpdPGBJuLmo9VQvF6_N1BwPlhXYrR7YLLhuTSjc7DLX-McRFmfLikYlzKvKEk
    :target: http://blufiles.storage.live.com/y1pyks2-togqbvvZTVpdPGBJuLmo9VQvF6_N9lK7M6nU0nv-pfNY04XdlsdZGMgd8A1dOE8W-IlElc
+

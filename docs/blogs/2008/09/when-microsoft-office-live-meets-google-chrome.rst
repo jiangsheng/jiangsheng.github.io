@@ -1,3 +1,6 @@
+.. meta::
+   :description: To use Microsoft Office Live, your computer must meet one of the following requirements:
+
 When Microsoft Office Live Meets Google Chrome
 ==============================================
 .. post:: 8, Sep, 2008
@@ -18,3 +21,4 @@ When Microsoft Office Live Meets Google Chrome
    | Mozilla Firefox running on Windows XP, Windows Server 2003, Windows
      Vista, or Mac OS X 10.2.x and later. You can download Firefox from
      the Firefox download page.
+

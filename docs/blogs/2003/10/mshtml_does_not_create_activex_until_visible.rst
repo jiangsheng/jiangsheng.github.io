@@ -1,3 +1,6 @@
+.. meta::
+   :description: Q195188 PRB: ActiveX Control Window Is Not Created Until Visible in Internet Explorer 使用知识库里面的方法
+
 问题：Internet Explorer中的控件在可见之前没有被创建
 ======================================================
 

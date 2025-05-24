@@ -1,3 +1,6 @@
+.. meta::
+   :description: 浏览器控件是一个提供浏览器绝大部分功能的ActiveX控件，随Microsoft? Internet Explorer 4.0(IE)或者更高版本发行。实际上，IE可以认为是一个集成浏览器控件的程序。
+
 在应用程序中集成浏览器控件(Update)(Subjet to change without notice)
 ======================================================================
 
@@ -136,3 +139,4 @@ IHTMLDocument2::scripts属性表示HTML文档中所有脚本对象。使用脚�
 * Inside OLE, 第二版, Kraig Brockschmidt著 (微软出版社)
 * Understanding ActiveX and OLE, David Chappell著 (微软出版社)
 * Inside COM, by Dale Rogerson著 (微软出版社)
+

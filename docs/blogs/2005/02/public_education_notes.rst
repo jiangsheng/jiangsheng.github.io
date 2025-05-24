@@ -1,3 +1,6 @@
+.. meta::
+   :description: Public Edu philosophy and funding
+
 Public Education Notes
 ==================================
 .. post:: 4 Feb, 2005

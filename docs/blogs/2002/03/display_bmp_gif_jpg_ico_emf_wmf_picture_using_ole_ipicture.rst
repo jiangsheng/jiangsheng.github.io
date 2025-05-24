@@ -1,3 +1,6 @@
+.. meta::
+   :description: 作者的话：GDI+看起来是更好的解决方案，但是IPicture的OLE实现更简单。
+
 使用IPicture的OLE实现读取和显示BMP,GIF,JPG,ICO,EMF,WMF图像
 ==================================================================
 

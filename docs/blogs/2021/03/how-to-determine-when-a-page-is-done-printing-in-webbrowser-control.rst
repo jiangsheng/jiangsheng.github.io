@@ -1,3 +1,6 @@
+.. meta::
+   :description: Note this post is originally written in 2012. It was lost when moving my web site from Windows Live Spaces to WordPress. I found a dead link to my web site on S
+
 How To Determine When a Page Is Done Printing in WebBrowser Control
 ===================================================================
 .. post:: 24, Mar, 2021
@@ -50,3 +53,4 @@ Reference
 - How To Handle Document Events in a Visual Basic .NET Application
   (https://www.betaarchive.com/wiki/index.php/Microsoft_KB_Archive/311284,
   archived from http://support.microsoft.com/kb/311284)
+

@@ -1,3 +1,6 @@
+.. meta::
+   :description: The game is centralized on battle with units on a stage. Then use the prize money to upgrade units in a city and fight next one. You can save or load here as we
+
 .. _front_mission_mechanics:
 
 Mechanics  (Front Mission 1)

@@ -1,3 +1,6 @@
+.. meta::
+   :description: C#程序员可以用三个斜杠来开始XML格式的注释，而且编译器可以据此生成可用于自动生成帮助文档的XML文件。Visual C++ 2005中的编译器也支持了这个功能，而且对非托管函数也生效，前提是必须打开/clr和/DOC开关，并且不能使用/clr:oldSyntax开关编译。
+
 .. post:: 5 Nov, 2005
    :category: Visual C++
    :author: me

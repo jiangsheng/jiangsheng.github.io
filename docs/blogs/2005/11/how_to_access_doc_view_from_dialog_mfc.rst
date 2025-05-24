@@ -1,3 +1,6 @@
+.. meta::
+   :description: 问：请问如何在一个全局函数中，获得视图类，文档类得指针啊? 问：如何在一个对话框中，获得视图类，文档类得指针啊?
+
 .. post:: 10, Nov, 2005
    :category: Microsoft Foundation Classes, Visual C++
    :author: me

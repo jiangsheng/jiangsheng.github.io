@@ -1,3 +1,6 @@
+.. meta::
+   :description: I have a web service that runs fine on my Windows XP. However, when I deploy to the production server, the web service returns 415 Unsupported Media Type when c
+
 415 Unsupported Media Type when WSE is NOT configured
 =====================================================
 .. post:: 14, Feb, 2009
@@ -26,3 +29,4 @@
    OK, I will isolate my web service to a new application pool. Well,
    that does not help. In the end I have to add WSE configuration to
    both my web service and my Windows client.
+

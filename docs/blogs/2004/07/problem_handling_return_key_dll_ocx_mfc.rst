@@ -1,3 +1,6 @@
+.. meta::
+   :description: 带子窗口的ActiveX控件问题，如何获取回车键？
+
 DLL/OCX中的MFC对话框不能处理Tab和回车键的问题
 =================================================
 
@@ -130,4 +133,5 @@ MFC对话框相应的键盘处理依赖于MFC的消息循环。
 * FAQ: WebBrowser Keystroke Problems (https://web.archive.org/web/20030206122423/https://www.microsoft.com/mind/0499/faq/faq0499.asp)
 * Meandering Through the Maze of MFC Message and Command Routing (https://web.archive.org/web/20030608113420/http://www.microsoft.com/msj/0795/dilascia/dilascia.aspx)
 * C++ Q&A: Enabling Menus in MFC Apps, Changing the Behavior of Enter with DLGKEYS Sample App -- MSDN Magazine, July 2000(https://web.archive.org/web/20021108025739/http://msdn.microsoft.com/msdnmag/issues/0700/c/default.aspx)
+
 

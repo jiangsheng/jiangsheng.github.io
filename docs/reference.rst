@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. jiangsheng documentation master file, created by
    sphinx-quickstart on Tue Mar 20 21:51:31 2018.
    You can adapt this file completely to your liking, but it should at least
@@ -22,3 +25,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

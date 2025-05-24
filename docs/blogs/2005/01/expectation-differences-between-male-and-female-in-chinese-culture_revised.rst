@@ -1,3 +1,6 @@
+.. meta::
+   :description: There are many sexism cultures; and Chinese culture is not an exception. Although legends told that humans are created by a female god, Chinese women are not on
+
 Expectation differences between male and female in Chinese culture (Revised)
 ===============================================================================
 

@@ -1,3 +1,6 @@
+.. meta::
+   :description: Update2: Microsoft fixed the issue in Windows 8 in a way that old programs would work without change. Those who recompiled with the KB983246 version either need
+
 Breaking change in ADO update KB983246 (included in Windows 7 Service Pack 1)
 =================================================================================
 

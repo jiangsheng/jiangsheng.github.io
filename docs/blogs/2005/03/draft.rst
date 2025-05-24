@@ -1,3 +1,6 @@
+.. meta::
+   :description: Wuhan, the capital of Hubei Province in central China, is the one of the largest city in China. It is a major inland transition center because it is the joint o
+
 draft
 =====
 .. post:: 1, Mar, 2005
@@ -48,3 +51,4 @@ draft
 
    Wuhan Government (2005, May
    1).<http://www3.wuhan.gov.cn/portal/english >(2005, May 1).
+

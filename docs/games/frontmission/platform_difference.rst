@@ -1,3 +1,6 @@
+.. meta::
+   :description: Peewee can learn Speed Lv3 (no activation)
+
 .. _front_mission_platform_differences:
 
 Platform Differences (Front Mission 1)
@@ -55,4 +58,5 @@ Front Mission 1st: Remake
 
 
   
+
 

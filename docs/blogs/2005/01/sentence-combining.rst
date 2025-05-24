@@ -1,3 +1,6 @@
+.. meta::
+   :description: Exercise 5. Sentence Combining
+
 Sentence Combining
 ===============================
 

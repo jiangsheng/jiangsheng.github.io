@@ -1,3 +1,6 @@
+.. meta::
+   :description: Given the graphs from “Population, Poverty and the Local Environment”, I conclude that the decreasing percentage of American women’s share of paid employment is
+
 Summary Assignment
 ===============================================================
 .. post:: 7, Apr, 2005
@@ -12,3 +15,4 @@ expressed a sharp increase for 7 or more children. Generally speaking, an Americ
 house work. For another, according to the third graph, the percentage of American women’s share of paid employment steadily decreases when
 the number of children increases. That is to say, the percentage of American women’s share of paid employment steadily decreases when
 unpaid house working gradually increases.
+

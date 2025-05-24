@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2008_10:
 
 ======================================
@@ -14,3 +17,4 @@ Blogs in October 2008
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

@@ -1,3 +1,6 @@
+.. meta::
+   :description: User IMFCoder wants to know how to solve a LNK2001 error related to CLSID_CMpeg4sDecMediaObject. The user has no problem linking a lib file in the project but c
+
 How to solve LNK2001 errors related to Windows SDK CLSIDs
 =========================================================
 .. post:: 8, Apr, 2011
@@ -54,3 +57,4 @@ macro <http://msdn.microsoft.com/en-us/library/ff960419.aspx>`__. The
 SDK assumes you to initialize the GUID using the methods demonstrated in
 `How to avoid error "LNK2001 unresolved external" by using
 DEFINE_GUID <http://support.microsoft.com/kb/130869>`__.
+

@@ -1,3 +1,6 @@
+.. meta::
+   :description: Jason
+
 Generation Gap Prevention
 =========================
 .. post:: 21, Feb, 2005
@@ -25,3 +28,4 @@ Generation Gap Prevention
    may remain true when I have a child, but now there is something I
    will do to narrow this gap, such as self-restraint, polite words and
    respect child.
+

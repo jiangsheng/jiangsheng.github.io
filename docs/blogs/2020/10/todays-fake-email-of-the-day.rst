@@ -1,3 +1,6 @@
+.. meta::
+   :description: Today’s fake email of the day
+
 Today's fake email of the day
 =============================
 .. post:: 15, Oct, 2020
@@ -39,3 +42,4 @@ Also in the mail header:
   gmail.com discourages use of 74.6.132.41 as permitted sender)
 
 I wonder why...
+

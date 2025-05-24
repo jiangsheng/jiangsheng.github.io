@@ -1,3 +1,6 @@
+.. meta::
+   :description: I am getting a StackOverflowException with two functions repeating on the call stack, one is the constructor of System.BadImageFormatException, another is Syste
+
 When you get a System.BadImageFormatException. maybe you indeed have a bad system image.
 ========================================================================================
 .. post:: 8, Feb, 2013
@@ -25,3 +28,4 @@ went away after reinstalling. Sometimes, the exception name isn't
 misleading. PS
 a `similar question <http://stackoverflow.com/questions/7705751/system-badimageformatexception-an-attempt-was-made-to-load-a-program-with-an-i>`__
 was closed as too vague on stackoverflow.
+

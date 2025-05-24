@@ -1,3 +1,6 @@
+.. meta::
+   :description: Resources:
+
 Microchip PIC16F88A Emulator Project
 ====================================
 .. post:: 11, Jul, 2005
@@ -57,3 +60,4 @@ Microchip PIC16F88A Emulator Project
       68HC11 <http://en.wikipedia.org/wiki/Freescale_68HC11>`__
       `microcontroller <http://en.wikipedia.org/wiki/Microcontroller>`__
       http://www.austincc.edu/rblack/COSC2425/Lectures/Day27/servo.pdf
+

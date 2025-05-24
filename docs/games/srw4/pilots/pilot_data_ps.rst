@@ -1,3 +1,6 @@
+.. meta::
+   :description: 点击列头排序，Shift+点击列头添加排序条件。 标题打型号的列为99级数据，不打的为0级。 编码 名字 作品 性格 近攻击 远攻击 回避 命中 直感 技量 近攻击 远攻击 回避 命中 直感 技量 SP 空 陆 海 宇 精1 精2 精3 精4 精5 精6 技能
+
 :html_theme.sidebar_primary.remove: true
 :html_theme.sidebar_secondary.remove: true
 

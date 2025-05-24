@@ -1,3 +1,6 @@
+.. meta::
+   :description: The topic is from a forum discussion at https://web.archive.org/web/20131020094354/http://social.msdn.microsoft.com/Forums/windowsdesktop/en-US/94bb2db4-3ca2-4c
+
 Choosing formats when putting data on clipboard
 ===============================================
 .. post:: 21, Mar, 2012
@@ -19,3 +22,4 @@ If using the webbrowser control as the text editor, you can remove the formattin
 OnFilterDataObject <http://blog.csdn.net/jiangsheng/article/details/3800>`__.
 
  
+

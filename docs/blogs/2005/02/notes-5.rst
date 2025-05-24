@@ -1,3 +1,6 @@
+.. meta::
+   :description: Public Edu phylosephy and funding
+
 Notes
 =====
 .. post:: 3, Feb, 2005
@@ -58,3 +61,4 @@ Notes
    |   
    |   in trouble.
    | film "Stand and Deliver" poor students
+

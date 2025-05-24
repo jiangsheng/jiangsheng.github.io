@@ -1,3 +1,6 @@
+.. meta::
+   :description: [url=http://community.csdn.net/expert/Topicview2.asp?id=2535830]关于DAO和多线程的问题 [/url]
+
 
 Ask Mr JS
 =====================

@@ -1,3 +1,6 @@
+.. meta::
+   :description: 1) Introduction
+
 PIC 16F88 Microcontroller Servo Controller Project
 ==================================================
 .. post:: 25, Jul, 2005
@@ -267,3 +270,4 @@ PIC 16F88 Microcontroller Servo Controller Project
    The test is done in the emulator. After loading the program into
    emulator, and execute it, it reads the value set on RA0, and output a
    pulse every 1/33HZ. 
+

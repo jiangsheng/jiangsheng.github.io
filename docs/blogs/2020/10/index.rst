@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2020_10:
 
 ======================================
@@ -13,3 +16,4 @@ Blogs in October 2020
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

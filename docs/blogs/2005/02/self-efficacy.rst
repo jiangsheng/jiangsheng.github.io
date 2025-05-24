@@ -1,3 +1,6 @@
+.. meta::
+   :description: Introduction
+
 Self-Efficacy
 ====================================
 
@@ -14,4 +17,5 @@ Introduction
 Conclusion:
 
 Overall, there are consistent evidence of a strong perceptions of capability will have positive effect on performance, such as good control of expectations, persistence, self-motivation and efficiency.
+
 

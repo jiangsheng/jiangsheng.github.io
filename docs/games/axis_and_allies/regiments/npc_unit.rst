@@ -1,3 +1,6 @@
+.. meta::
+   :description: Those are units given to you and not produced in your HQs. They are airfields on the water. Requires 5 ammo and 5 oil upkeep. They are defenseless, better group
+
 .. _axis_and_allies_regiment_npc:
 
 Non Producible Units (Axis and Allies)

@@ -1,3 +1,6 @@
+.. meta::
+   :description: At December 5, 2002, on Sen. Strom Thurmond’s 100th birthday celebration, Sen. Trent Lott (R-MS) stunned his audience with his words “I want to say this about m
+
 Blog, past and present
 ======================
 .. post:: 28, Apr, 2005
@@ -84,3 +87,4 @@ Reference
 * Gard,L. (Dec 13, 2004). The business of blogging; explosive growth means web logs are suddenly in Madison Avenue's sights. Business Week. 2004(3912) p117.
 * Macht J.( Sept 27, 2004). How to knock down a Story: THE BLOGGERS. *Time* 164(13). p30.
 * Quarterly updates to OED Online (March 13, 2003) *Oxford English Dictionary*\ <http://www.oed.com/help/updates/motswana-mussy.html>.(April 14, 2005)
+

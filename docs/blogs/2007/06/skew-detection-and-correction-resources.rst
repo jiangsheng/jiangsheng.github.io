@@ -1,3 +1,6 @@
+.. meta::
+   :description: http://homepages.inf.ed.ac.uk/rbf/HIPR2/hough.htm a nice introduction of the Hough Transform
+
 Skew detection and correction resources
 =======================================
 .. post:: 1, Jun, 2007
@@ -18,3 +21,4 @@ library <http://www.leptonica.com/index.html>`__. [Dead link]
 
 http://www.codeproject.com/Articles/13615/How-to-deskew-an-image Hough
 Transform in VB.Net
+

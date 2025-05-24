@@ -1,3 +1,6 @@
+.. meta::
+   :description: You can control the position of units in a regiments for different tasks. For example, the default formation for all regiments is Aggressive. It is best used fo
+
 .. _axis_and_allies_formation:
 
 Formation (Axis and Allies)
@@ -29,3 +32,4 @@ If you have the time to micro-manage units in regiments, spread out your valuabl
     * - Column
       - Passive
       - -50% max attack efficiency, +25% max speed
+

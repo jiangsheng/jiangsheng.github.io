@@ -1,3 +1,6 @@
+.. meta::
+   :description: Microsoft Visual C++ and later do not support perl scripts by default. That is, the Developer Studio does not associate any special significance to perl scripts
+
 How to use Visual C++ with Perl
 ===============================
 .. post:: 3, Nov, 2005
@@ -163,3 +166,4 @@ References:
 
 - `How to use the Development Studio or Visual Workbench with MASM (MSKB) <http://support.microsoft.com/kb/q106399/>`__
 - `Double-click on the trace message in the Output window in Developer Studio to get to the line of code <http://www.codeproject.com/debug/trace_locate.asp>`__ (`CodeProject <http://www.codeproject.com/>`__)
+

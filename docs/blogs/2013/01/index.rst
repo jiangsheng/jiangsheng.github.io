@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2013_01:
 
 ======================================
@@ -13,3 +16,4 @@ Blogs in January 2013
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

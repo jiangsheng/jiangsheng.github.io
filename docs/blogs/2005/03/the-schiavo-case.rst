@@ -1,3 +1,6 @@
+.. meta::
+   :description: The Schiavo case
+
 The Schiavo case
 ================
 .. post:: 24, Mar, 2005
@@ -104,3 +107,4 @@ The Schiavo case
    Court brief on
    Schiavo<http://washingtontimes.com/upi-breaking/20050323-051313-8081r.htm>
    (March 24, 2005)
+

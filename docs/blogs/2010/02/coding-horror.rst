@@ -1,3 +1,6 @@
+.. meta::
+   :description: In this post, there are several things programmer complain their predecessor
+
 Coding Horror
 =============
 .. post:: 4, Feb, 2010
@@ -33,3 +36,4 @@ there are several things programmer complain their predecessor
 
 And imagine you are asked to cleanup the code… So don’t do things that
 your successors would complain.
+

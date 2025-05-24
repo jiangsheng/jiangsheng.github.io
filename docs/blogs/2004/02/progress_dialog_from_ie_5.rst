@@ -1,3 +1,6 @@
+.. meta::
+   :description: 本来想自己写一个的，但是发现codeproject上面已经有了(https://web.archive.org/web/20000604080517/http://www.codeproject.com/miscctrl/iprogressdialog.asp)
+
 使用IE5内建的进度对话框
 =============================
 

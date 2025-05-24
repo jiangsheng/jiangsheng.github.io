@@ -1,3 +1,6 @@
+.. meta::
+   :description: ===
+
 'The Microsoft Code' by Adam Barr
 =================================
 .. post:: 23, Jun, 2006
@@ -22,3 +25,4 @@
    === :) full story:
 
 https://www.proudlyserving.com/archives/2006/06/index.html
+

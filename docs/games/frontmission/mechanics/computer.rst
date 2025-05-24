@@ -1,3 +1,6 @@
+.. meta::
+   :description: Computers adds accuracy/evade bonus for respective categories. They do not affect damage. Generally you want to use a computer that best fit the pilot’s strengt
+
 .. _front_mission_mechanics_computers:
 
 Computers (Front Mission 1)

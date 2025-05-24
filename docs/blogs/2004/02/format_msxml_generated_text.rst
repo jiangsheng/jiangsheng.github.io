@@ -1,3 +1,6 @@
+.. meta::
+   :description: [url=http://expert.csdn.net/expert/Topicview2.asp?id=2637982]讨论链接[/url] 问起过好多次的问题了，手头正好在做XML的生成，就写了一下 其实，缩进和换行就是文本,在需要的位置创建文本节点就可以了。另外一个方法就是用SAX来写
+
 让msxml4导出的文本xml缩进和换行
 ====================================
 

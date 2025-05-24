@@ -1,3 +1,6 @@
+.. meta::
+   :description: Looks like the Microsoft Award for Customer Excellence award I got a few years ago…
+
 Feedback from Microsoft
 =======================
 .. post:: 5, Jun, 2008
@@ -15,3 +18,4 @@ Feedback from Microsoft
 
 .. |image1| image:: http://photos-b.ak.facebook.com/photos-ak-snc1/v263/17/38/656911815/n656911815_925193_9506.jpg
    :target: http://www.facebook.com/photo.php?pid=747440&id=656911815
+

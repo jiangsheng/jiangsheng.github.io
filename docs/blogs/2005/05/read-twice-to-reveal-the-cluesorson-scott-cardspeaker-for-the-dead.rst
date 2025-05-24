@@ -1,3 +1,6 @@
+.. meta::
+   :description: Thanks to Austin Public Library, I have a chance to continue my navigating with Ender the Great Commander, the Xenocide, and the Speaker for the Dead. I’v notic
+
 Read Twice to reveal the clues(Orson Scott Card,SPEAKER FOR THE DEAD)
 =====================================================================
 .. post:: 21, May, 2005
@@ -27,3 +30,4 @@ Read Twice to reveal the clues(Orson Scott Card,SPEAKER FOR THE DEAD)
    and those we never think to question. "
 
     
+

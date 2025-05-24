@@ -1,3 +1,6 @@
+.. meta::
+   :description: Spread of Blog
+
 Spread of Blog
 ==============
 .. post:: 15, Apr, 2005
@@ -166,3 +169,4 @@ Spread of Blog
    14, 2005)
 
     
+

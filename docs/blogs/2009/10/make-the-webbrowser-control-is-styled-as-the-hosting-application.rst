@@ -1,3 +1,6 @@
+.. meta::
+   :description: User wtx_sonery wants to know whether it is possible to style the webbrowser control with the rest of the application.
+
 Make the webbrowser control styled the same way as the hosting application
 ==========================================================================
 .. post:: 27, Oct, 2009
@@ -54,3 +57,4 @@ SP2 <http://www.microsoft.com/windows/windows-xp/default.aspx>`__ where
 `features are based on
 enum <http://msdn.microsoft.com/en-us/library/ms537169(v=VS.85).aspx>`__
 – you get a 4GB range for new features!
+

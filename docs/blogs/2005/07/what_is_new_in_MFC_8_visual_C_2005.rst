@@ -1,3 +1,6 @@
+.. meta::
+   :description: 关于新功能的说明 http://msdn2.microsoft.com/library/y8bt6w34(en-us,vs.80).aspx
+
 Visual Studio 2005中MFC的变化
 ====================================
 

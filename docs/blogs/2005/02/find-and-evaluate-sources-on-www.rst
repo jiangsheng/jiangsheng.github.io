@@ -1,3 +1,6 @@
+.. meta::
+   :description: English Writing Practice
+
 Find and evaluate sources on WWW
 ================================
 .. post:: 8, Feb, 2005
@@ -49,3 +52,4 @@ Find and evaluate sources on WWW
 
    Finally, try to understand the query results and try to remember some
    jargons for later use.
+

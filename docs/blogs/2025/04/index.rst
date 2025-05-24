@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容: Index Module Index Search Page
+
 .. _blogs_2025_04:
 
 ======================================
@@ -14,3 +17,4 @@ Blogs in April 2025
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

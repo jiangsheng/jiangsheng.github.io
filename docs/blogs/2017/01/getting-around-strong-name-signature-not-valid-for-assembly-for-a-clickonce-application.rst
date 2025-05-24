@@ -1,3 +1,6 @@
+.. meta::
+   :description: When building a ClickOnce application, I need to redistribute a third party dll. But it failed the strong name validation under sn-vf thus ClickOnce launcher fa
+
 Getting around "Strong name signature not valid for assembly" for a ClickOnce application
 =========================================================================================
 

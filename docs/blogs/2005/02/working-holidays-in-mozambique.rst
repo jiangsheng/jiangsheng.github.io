@@ -1,3 +1,6 @@
+.. meta::
+   :description: Doctor (General Practitioner), Angoche Rural Hospital, Angoche, Nampula Province, Mozambique (M7)
+
 Working Holidays in Mozambique
 ==============================
 .. post:: 27, Feb, 2005
@@ -26,3 +29,4 @@ Working Holidays in Mozambique
      belot. You must be willing to learn Portugese, the working
      language. This is two year placement with opportunities for
      renewal.
+

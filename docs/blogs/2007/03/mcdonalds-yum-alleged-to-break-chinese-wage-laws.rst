@@ -1,3 +1,6 @@
+.. meta::
+   :description: Source
+
 McDonald’s, Yum! Alleged To Break Chinese Wage Laws
 ===================================================
 .. post:: 29, Mar, 2007
@@ -62,3 +65,4 @@ McDonald’s, Yum! Alleged To Break Chinese Wage Laws
    Ian: Local minimum wage 6, Pizza Hut 5.5
 
    Shijiazhuang: Local minimum wage 6.6, Pizza Hut 5.4
+

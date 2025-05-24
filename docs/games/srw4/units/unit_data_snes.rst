@@ -1,3 +1,6 @@
+.. meta::
+   :description: 点击列头排序，Shift+点击列头添加排序条件。 远攻数值是威力最强的非地图远程武器。 码 属 图 名 作 命 能 运 甲 限 移 近 远 程 类 空 陆 海 宇 01 自 ヒュッケバイン 原创 3000 180 65 320 235 11 2100 3200 10 陆 B A C A 02 自 グルンガスト 原创 3
+
 :html_theme.sidebar_primary.remove: true
 :html_theme.sidebar_secondary.remove: true
 

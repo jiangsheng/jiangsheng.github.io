@@ -1,3 +1,6 @@
+.. meta::
+   :description: Discrimination of gender, race in labor market has been a chronic problem in industrialized periods in United States. The advance of genetic technology produces
+
 genetic discrimination
 ======================
 .. post:: 29, Mar, 2005
@@ -49,3 +52,4 @@ genetic discrimination
    <http://hcs.harvard.edu/~epihc/currentissue/Fall2001/bowen.htm>
 
     
+

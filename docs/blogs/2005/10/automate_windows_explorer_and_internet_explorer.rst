@@ -1,3 +1,6 @@
+.. meta::
+   :description: 下载示例工程 - 34 Kb jiangsheng/Samples
+
 创建和自动化Internet Explorer和资源管理器窗口
 ===============================================
 .. post:: 20 Oct, 2005

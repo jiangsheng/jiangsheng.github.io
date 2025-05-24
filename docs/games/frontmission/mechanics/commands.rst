@@ -1,3 +1,6 @@
+.. meta::
+   :description: Commands are menu options that popup in various times. For example, in the main screen, you have the following options: * New Game * Load Game Sometimes a comma
+
 .. _front_mission_mechanics_commands:
 
 Commands (Front Mission 1)
@@ -27,6 +30,7 @@ Most commands are fixed and you cannot miss, some les obvious commands are
 There is no menu when pressing B after selecting an enemy unit, but you can see its range after selecting it. 
 
 Usually you do not want a unit to do nothing, so avoid the End command. 
+
 
 
 

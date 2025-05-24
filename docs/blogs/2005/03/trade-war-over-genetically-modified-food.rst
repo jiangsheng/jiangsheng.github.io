@@ -1,3 +1,6 @@
+.. meta::
+   :description: Trade war over genetically modified food From Wikipedia, the free encyclopedia.
+
 Trade war over genetically modified food
 ========================================
 .. post:: 30, Mar, 2005
@@ -710,3 +713,4 @@ Trade war over genetically modified food
 
          Retrieved from
          "http://en.wikipedia.org/wiki/Talk:Trade_war_over_genetically_modified_food"
+

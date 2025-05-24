@@ -1,3 +1,6 @@
+.. meta::
+   :description: I have a POCO entity project that must generate XML Serializers due to a memory leak bug. Xml serializer generated dynamic assemblies are not ever collected. Tu
+
 Troubleshooting SGEN : error : An attempt was made to load an assembly with an incorrect format
 ================================================================================================================
 .. post:: 10 Sep, 2024

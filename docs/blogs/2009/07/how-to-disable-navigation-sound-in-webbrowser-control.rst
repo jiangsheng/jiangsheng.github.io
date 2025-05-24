@@ -1,3 +1,6 @@
+.. meta::
+   :description: User kill211 does not like the click sound when he calls WebBrowser.Navigate. He wonders if there is a way to disable it without modifying HKEY_CURRENT_USER\App
+
 How to disable navigation sound in webbrowser control
 =====================================================
 .. post:: 6, Jul, 2009
@@ -42,3 +45,4 @@ Update”, which seems to follow the tradition of choosing confusing
 article titles such as `WebApp.exe Enables User to Move WebBrowser
 Ctrl <http://support.microsoft.com/kb/189634>`__ for an code example
 that enable navigating to folders in the webbrowser control)
+

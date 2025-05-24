@@ -1,3 +1,6 @@
+.. meta::
+   :description: 今天心血来潮，整理了一下上个月在CSDN得分的问题我参与的帖子太多，整理起来有难度，所以只整理结了的贴子
+
 
 Ask Mr JS
 =====================
@@ -147,4 +150,5 @@ Ask Mr JS
 控件找不到容器的窗口 [http://search.csdn.net/Expert/topic/2518/2518945.xml]
 
 总结：其实并不是写ActiveX就不能用WINAPI
+
 

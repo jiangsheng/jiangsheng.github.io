@@ -1,3 +1,6 @@
+.. meta::
+   :description: Got called into a memory leak troubleshooting.
+
 Troubleshooting a memory leak
 =============================
 .. post:: 27, Feb, 2021
@@ -40,3 +43,4 @@ Microsoft and I had to `read it off a
 mirror <https://www.betaarchive.com/wiki/index.php?title=Microsoft_KB_Archive/316775>`__.
 Once the problem is located the fix is easy, making those
 XslCompiledTransform objects singleton solved the issue.
+

@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2016_05:
 
 ======================================
@@ -13,3 +16,4 @@ Blogs in May 2016
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

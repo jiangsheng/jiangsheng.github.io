@@ -1,3 +1,6 @@
+.. meta::
+   :description: [url=http://community.csdn.net/expert/Topicview2.asp?id=2732377]xml 支持 模糊 查询吗？[/url]
+
 Ask Mr JS
 =====================
 .. post:: 10, Mar, 2004

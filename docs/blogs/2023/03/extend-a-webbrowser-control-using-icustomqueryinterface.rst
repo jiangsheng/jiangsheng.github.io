@@ -1,3 +1,6 @@
+.. meta::
+   :description: This article is written with the help of ChatGPT. I want to see how far ChatGPT can go solve this and if any correction needs to be made. ChatGPT went pretty fa
+
 .. _blog_2023_extend_a_webbrowser_control_using_icustomqueryinterface:
 
 Extend a webbrowser control using ICustomQueryInterface

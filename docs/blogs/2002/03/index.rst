@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2002_03:
 
 ======================================
@@ -13,3 +16,4 @@ Blogs in March 2002
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

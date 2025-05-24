@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2020:
 
 ======================================
@@ -15,3 +18,4 @@ Blogs in 2020
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

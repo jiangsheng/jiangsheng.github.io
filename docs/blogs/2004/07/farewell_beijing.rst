@@ -1,3 +1,6 @@
+.. meta::
+   :description: docs/blogs/2004/enable_autocomplete_forms_webbrowser_control.rst 今天把MSN昵称改成“别了，北京 Time To Say Goodbye”之后，询问的信息纷至沓来，这肯定是我的聊天工具最忙的一天，同时有人开始组织欢送计划——当然是计划掏我的腰包……。
+
 别了，北京 Time To Say Goodbye
 ===================================
 

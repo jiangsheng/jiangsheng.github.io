@@ -1,3 +1,6 @@
+.. meta::
+   :description: 祝贺您！我们非常高兴向您授予 2007 Microsoft® MVP 大奖！
+
 MIcrosoft MVP again
 ===================
 .. post:: 1, Jan, 2007
@@ -18,4 +21,5 @@ MVP 们表示崇高的敬意。要了解有关 MVP
 计划的更多信息，请访问：\ `www.microsoft.com/mvp <http://www.microsoft.com/mvp>`__\ 。
 非常感谢您在过去一年中为 Visual Developer - Visual C++
 技术社区所做的杰出贡献。
+
 

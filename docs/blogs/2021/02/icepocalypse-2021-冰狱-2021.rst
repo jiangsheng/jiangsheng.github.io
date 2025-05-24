@@ -1,3 +1,6 @@
+.. meta::
+   :description: this is my dairy about the winter storm occurred in Feb 2021.
+
 Icepocalypse 2021 冰狱 2021
 ==================================================
 .. post:: 18, Feb, 2021
@@ -359,3 +362,4 @@ ERCOT报告首次达到60吉瓦，整个价格地图都是蓝的，这意味着�
    :width: 184px
    :height: 244px
    :target: http://jiangsheng.net/wp-content/uploads/2021/02/dsc_0278.jpg
+

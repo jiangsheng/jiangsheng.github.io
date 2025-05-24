@@ -1,3 +1,6 @@
+.. meta::
+   :description: 来自CSDN论坛VC/MFC版的讨论 在NT/2000中怎么禁用Ctrl+Alt+Delete?（不能用gina,键盘驱动）（此帖已归档，可以在http://search.csdn.net 搜索此帖）
+
 在Windows2000中动态禁用/启用Ctrl-Alt-Delete
 ==============================================
 
@@ -747,4 +750,5 @@ MSDN Magazine > June 2002 > Windows XP Escape from DLL Hell with Custom Debugg
 VC知识库中的文章
 
 Windows XP系统中如何屏蔽 Ctrl+Alt+Del、Alt+Tab以及Ctrl+Esc键序列 (https://web.archive.org/web/20021105132149/http://www.vckbase.com/document/viewdoc.asp?id=424)
+
 

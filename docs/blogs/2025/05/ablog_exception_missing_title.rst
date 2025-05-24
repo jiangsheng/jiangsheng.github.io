@@ -1,3 +1,6 @@
+.. meta::
+   :description: Today I got this error when building my blog based on Sphinx/ABlog extension. When I remove the ABlog post directive, Sphinx indeed gives a warning about the fi
+
 ABlog Exception Missing title from Invisible Character
 ===================================================================
 

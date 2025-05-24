@@ -1,3 +1,6 @@
+.. meta::
+   :description: You will gain exp by destroying enemy parts or defend enemy attack. With enough exp from all 4 battle categories your pilot will level up. With enough exp in an
+
 .. _front_mission_mechanics_exp:
 
 Exp (Front Mission 1)
@@ -20,5 +23,6 @@ You can leave the leg intact as enemy may be unable to reach the truck without i
 For agility exp, you want to defend next to a weak unit. Do not use a shield (cancel when prompted to use). The agility exp you get by guarding is scaled to the level at the beginning of the battle (:ref:`except for the Switch remake <front_mission_platform_differences>`), thus if you build agility exp earlier, you will get a snowball effect. The first mission at OCU side has no lose condition and enemy damage is low, perfect time to build agility.
 
 Enemies do get exp and level up for taking your shots and destroying parts in each mission, although their levels are not carried to the next mission. Start training on your weakest ones (except maybe Peewie, who's only good against armless or stunned wanzers and trucks) then go with stronger ones. It is best to keep multiple enemies alive. That is, move away from enemy supply truck and make wanzers walk to you in turns after repair so you spread out the enemy exp gain. 
+
 
 

@@ -1,3 +1,6 @@
+.. meta::
+   :description: I am so proud that I was awarded Microsoft MVP (Most Valuable Professional) last year. I was so excited I was sleepless for days. I got an invitation of Global
+
 .. post:: 19 Jan, 2005
    :tags: Microsoft MVP
    :category: English Writing Practice

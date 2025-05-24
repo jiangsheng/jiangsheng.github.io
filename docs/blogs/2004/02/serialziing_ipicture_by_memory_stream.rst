@@ -1,3 +1,6 @@
+.. meta::
+   :description: 尽管很久没有用Serialize了，但是接手的工程的数据接口就是CArchive，……所以不得不写了一个IPicture数据到CArchive的接口
+
 Serialziing IPicture by Memory Stream
 ==========================================
 

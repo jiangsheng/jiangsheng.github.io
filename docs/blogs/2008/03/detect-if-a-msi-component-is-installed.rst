@@ -1,3 +1,6 @@
+.. meta::
+   :description: A C# program for those who don’t know MSI SDK or C++. C++ programmers can find the API inside the msi.h file in Windows SDK.
+
 Detect if a MSI component is installed
 ======================================
 .. post:: 24, Mar, 2008

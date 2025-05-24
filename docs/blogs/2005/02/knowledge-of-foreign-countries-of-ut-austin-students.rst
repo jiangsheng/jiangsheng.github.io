@@ -1,3 +1,6 @@
+.. meta::
+   :description: Knowledge of Foreign Countries of UT Austin students
+
 Survey Assignment 
 ====================================================
 .. post:: 23, Feb, 2005

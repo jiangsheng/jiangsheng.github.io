@@ -1,3 +1,6 @@
+.. meta::
+   :description: Update: Microsoft fixed the issue in Windows 8.
+
 More ADO issues with KB983246/Windows 7 SP1: a reference count leaking when event is used
 =========================================================================================
 .. post:: 14, Mar, 2011
@@ -36,4 +39,5 @@ in `XP <http://en.wikipedia.org/wiki/Windows_XP>`__ or 2003, there is a
 `deadlock issue <http://support.microsoft.com/kb/955843>`__ when using
 the same adAsyncExecute option. This issue is fixed on
 `Vista <http://en.wikipedia.org/wiki/Windows_Vista>`__.
+
 

@@ -1,3 +1,6 @@
+.. meta::
+   :description: The survey is based on 3 male upper division students, 2 U.S. students and a International student from Vietnam. Questionnaires were asked several questions to
+
 interview summary report
 ========================
 .. post:: 8, Feb, 2005
@@ -26,3 +29,4 @@ pray. International students consider more about excellence about a
 school in admission, hile local students consider about the location.
 Senior students take fewer classes in a semester, except the one who
 is studying for double major.
+

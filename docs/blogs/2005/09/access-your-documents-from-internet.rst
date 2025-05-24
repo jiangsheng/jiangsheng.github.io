@@ -1,3 +1,6 @@
+.. meta::
+   :description: 一个飓风刚走，另一个更大的飓风又来了，这回是直冲本州而来。新奥尔良和休斯敦疏散过来一大堆人，但是这里很可能也得疏散。希望休斯敦不会成为第二个新奥尔良。
+
 Access your documents from internet.
 ====================================
 .. post:: 22, Sep, 2005
@@ -112,3 +115,4 @@ Yahoo! Briefcase
 As mentioned before, internet storage can be very handy if you have internet access in your home. You can simply save your files in your home, and open it from your computer lab, or vise visa. Although the My Web Sites on MSN folder is the fastest among them, sometimes you may still need to use the FTP services and web page based storages because space shortage. Use them will save your time and expense on USB storage or floppy disks.
 
 综上所述，在你家中有因特网访问时在线存储可能很有用处。你可以在家里保存文件，然后在计算机房打开它，或者反之。虽然\ MSN中的我的网站\ 文件夹是最快捷的，但是有时你仍需使用FTP服务和基于网页的在线存储服务来避免空间紧缺。使用它们可以节省你使用USB设备或者软盘的时间和金钱。
+

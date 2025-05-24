@@ -1,3 +1,6 @@
+.. meta::
+   :description: CHTMLView does not support NewWindow3 as of MFC 9.0. It is relatively easy to add this support, given the event sink code in atlmfcsrcviewhtml.cpp
+
 .. _blogs_handle_newwindow3_and_showmodaldialog_chtmlview:
 
 Handle NewWindow3 and ShowModalDialog in CHtmlView
@@ -358,3 +361,4 @@ That's it, you can handle ShowModalDialog now
 Well, here you can add as many policies as you like , people can never be creative enough on making policies.
 
 This should be enough for adding your web browser customization. If you want to add more interfaces, such as IDocHostUIHandler2, IInternetSecurityManager, IDocHostShowUI, IOleCommandTarget or IAuthenticate, to of the customized control site, simply add more interface parts and answer QueryService calls if necessary.
+

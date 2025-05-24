@@ -1,3 +1,6 @@
+.. meta::
+   :description: early working VS studying#
+
 early working VS studying
 =========================
 .. post:: 4, Apr, 2005
@@ -13,3 +16,4 @@ early working VS studying
      studying has a higher priority than working in early life, since
      studying is more easier when the students are young, and the salary
      will be higher if they succeed in their education.
+

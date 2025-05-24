@@ -1,3 +1,6 @@
+.. meta::
+   :description: Class ID Default Interface Default Event Interface —————– —————– ———————– CLSID_WebBrowser IWebBrowser2 DWebBrowserEvents2 CLSID_WebBrowser_V1 IWebBrowser DWebB
+
 CDHtmlDialog&NewWindow2
 =================================
 

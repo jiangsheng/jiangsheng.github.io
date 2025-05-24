@@ -1,3 +1,6 @@
+.. meta::
+   :description: Today I am getting some strange error when I am trying to convert my blogs to the ablog extension of Sphinx. The error log has the following lines Extension err
+
 Misleading Error Message from ablog.post
 =========================================================================================================
 
@@ -19,4 +22,5 @@ The page has the same date format as pages that successfully got compiled. The p
 the .. post:: directive is right after the page title and before a quoted (indented) paragraph. The page title is also ahead of the post directive in other pages that successfully got compiled, so the problem is the quotation. 
 
 Remove the indent solved the problem for the moment, as the indention is actually from the conversion and not needed. In the context of actually wanted quotation, an link target anchor is probably needed. ABlog seems to be too greedy to look for directive. 
+
 

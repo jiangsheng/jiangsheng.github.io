@@ -1,3 +1,6 @@
+.. meta::
+   :description: 111222的CSDN文档中心文章 用 MSHTML 的一点经验（https://web.archive.org/web/20051126180205/http://dev.csdn.net/develop/article/10/10456.shtm） 说明了如何访问在HTML文档对象模型中的网页的元素、内容。但是，有
+
 如何: 通过HTML文档对象模型访问文档中的ActiveX控件的属性
 =======================================================
 

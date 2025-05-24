@@ -1,3 +1,6 @@
+.. meta::
+   :description: Axis & Allies (2004) is a real-time strategy game based on the namesake board game for Windows 98/2000/ME/XP. Data execution prevention has to be turned off for
+
 Axis & Allies
 ===============================
 .. toctree::

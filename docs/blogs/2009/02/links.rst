@@ -1,3 +1,6 @@
+.. meta::
+   :description: New warning message in MFC9:Warning: Creating dialog from within a COleControlModule application is not a supported scenario. Comments: when people takes the ti
+
 Links
 =====
 .. post:: 3, Feb, 2009
@@ -24,3 +27,4 @@ Links
    - `Programatically activating a Deskband under Windows
      XP <http://social.msdn.microsoft.com/Forums/en-US/windowsgeneraldevelopmentissues/thread/91045415-ac6c-40db-b604-86215efbc0d7>`__
      Comments: Glad I have Vista!
+

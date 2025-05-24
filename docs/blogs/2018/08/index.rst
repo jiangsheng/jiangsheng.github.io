@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2018_08:
 
 ======================================
@@ -13,3 +16,4 @@ Blogs in August 2018
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

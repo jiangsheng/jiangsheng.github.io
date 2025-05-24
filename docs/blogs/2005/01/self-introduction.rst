@@ -1,3 +1,6 @@
+.. meta::
+   :description: This is JIANG, Sheng writing. You can call me Jason also. I am a Chinese, normal height and weight. I am staying in Austin, Texas now.
+
 .. post:: 20 Jan, 2005
    :tags: Microsoft MVP
    :category: English Writing Practice

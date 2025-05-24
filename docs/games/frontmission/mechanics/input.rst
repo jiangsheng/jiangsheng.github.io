@@ -1,3 +1,6 @@
+.. meta::
+   :description: Each key has different functionality depending on context. Basic operation: A: confirm B: cancel. Arrow keys: Move cursor, select options Event Text: A: next pa
+
 .. _front_mission_mechanics_input:
 
 Input  (Front Mission 1)

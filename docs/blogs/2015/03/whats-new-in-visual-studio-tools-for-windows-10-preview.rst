@@ -1,3 +1,6 @@
+.. meta::
+   :description: Looks like Windows 10 SDK gets renamed.
+
 What's new in Visual Studio Tools for Windows 10 Preview
 ========================================================
 .. post:: 24, Mar, 2015
@@ -103,3 +106,4 @@ universal apps)
 Threading (CreateThread etc) 
 
 Winsock
+

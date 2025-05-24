@@ -1,3 +1,6 @@
+.. meta::
+   :description: [url=http://expert.csdn.net/expert/Topicview2.asp?id=2562836] 如何访问 WebBrowser 控件中的XML源码[/url]
+
 
 Ask Mr JS
 =====================
@@ -25,3 +28,4 @@ Ask Mr JS
 [url=http://expert.csdn.net/Expert/TopicView1.asp?id=2288266]怎么用VC修改任意网页中text文本框的值[/url]
 
 总结：有了技术不要做坏事哟
+

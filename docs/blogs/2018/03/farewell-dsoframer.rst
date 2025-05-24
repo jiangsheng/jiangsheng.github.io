@@ -1,3 +1,6 @@
+.. meta::
+   :description: I know, it is long overdue. Microsoft discontinued it a decade ago. And Office is not meant to be embedded. I even advised people to not use it in new developme
+
 Farewell, dsoframer
 ===================
 .. post:: 11, Mar, 2018
@@ -49,3 +52,4 @@ Various drawing issues.
 
 I supported embedding Word longer than the Outlook team, I am really not
 proud of that.
+

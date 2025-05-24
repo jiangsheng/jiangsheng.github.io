@@ -1,3 +1,6 @@
+.. meta::
+   :description: When clicking on an link that targets a new window, the default behavior of a webbrowser control host application is to open a new window in Internet Explorer.
+
 How to force popup window to navigate in the same window in a webbrowser control
 ================================================================================
 .. post:: 22, Nov, 2009
@@ -81,3 +84,4 @@ users who want to use System.Windows.Controls.WebBrowser are :ref:`out of
 luck <blog_2023_extend_a_webbrowser_control_using_icustomqueryinterface>`, they need to `host the ActiveX versions of the webbrowser control
 to get a hand on the native
 events <http://social.msdn.microsoft.com/Forums/en-US/wpf/thread/8c43c6f5-4e9f-4491-8219-1b0eeb7b225b/>`__.
+

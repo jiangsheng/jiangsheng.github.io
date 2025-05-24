@@ -1,3 +1,6 @@
+.. meta::
+   :description: A few primates live on the ground, but most primates spend their time in trees because they have good eyes, grasping hands and feet, and their bodies are well s
+
 Primates
 ========
 .. post:: 28, Feb, 2005
@@ -51,3 +54,4 @@ Primates
      Than We Think? *PLoS Biology*
      <http://www.plosbiology.org/plosonline/?request=get-document&doi=10.1371%2Fjournal.pbio.0020146
      >(2005, Feb 28).
+

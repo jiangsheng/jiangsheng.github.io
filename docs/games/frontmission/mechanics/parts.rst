@@ -1,3 +1,6 @@
+.. meta::
+   :description: In Front Mission, wanzers can be customized with parts. Parts have the following attributes: DF: defense (effective HP = defense * HP) HP: hit points Hit: Accur
+
 .. _front_mission_mechanics_parts:
 
 

@@ -1,3 +1,6 @@
+.. meta::
+   :description: 问：如何传递CString中包含的字符串到具有IStream类型参数的函数？
+
 IStream接口和CString之间的转换
 =====================================
 

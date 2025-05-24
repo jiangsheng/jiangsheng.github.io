@@ -1,3 +1,6 @@
+.. meta::
+   :description: You can download source code of this post at jiangsheng/Samples
+
 How to restart Windows Explorer programmatically using Restart manager
 =======================================================================
 

@@ -1,3 +1,6 @@
+.. meta::
+   :description: 码 属 图 名 作 命 能 运 甲 限 移 近 远 程 类 空 陆 海 宇
+
 :html_theme.sidebar_primary.remove: true
 :html_theme.sidebar_secondary.remove: true
 

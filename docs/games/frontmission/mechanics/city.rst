@@ -1,3 +1,6 @@
+.. meta::
+   :description: City is where battle preparation happen. Although sometimes you stop in a camp, but camps are effectively cities for the game. In a city you can get directions
+
 .. _front_mission_mechanics_city:
 
 City (Front Mission 1)

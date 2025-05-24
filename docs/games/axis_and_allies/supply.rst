@@ -1,3 +1,6 @@
+.. meta::
+   :description: This game has a concept of supply zone which is displayed as a green line surrounding the player’s base. It starts at a corps HQ or a city, and can be extended
+
 .. _axis_and_allies_supply:
 
 Supply (Axis and Allies)

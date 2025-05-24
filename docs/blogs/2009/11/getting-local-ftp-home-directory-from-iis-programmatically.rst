@@ -1,3 +1,6 @@
+.. meta::
+   :description: User xiaoc1026 wants to know how to access IIS to get the home directory of the FTP web site in Visual C++.
+
 Getting local FTP home directory from IIS programmatically
 ==========================================================
 .. post:: 22, Nov, 2009
@@ -32,3 +35,4 @@ provider, introduced in IIS6, makes the query a lot easier. Now you can
 query for
 `IIsFtpVirtualDirSetting.Path <http://msdn.microsoft.com/en-us/library/ms524913(VS.90).aspx>`__
 directly, though querying metadata should still work.
+

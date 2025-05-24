@@ -1,3 +1,6 @@
+.. meta::
+   :description: Unlike other RTS games, in this game units are grouped into regiments. When you lost all units in the regiment, you lost the regiment. If not, you can have the
+
 .. _axis_and_allies_regiments:
 
 Regiments (Axis and Allies)

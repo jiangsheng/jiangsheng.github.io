@@ -1,3 +1,6 @@
+.. meta::
+   :description: .386
+
 Lab3
 ====
 .. post:: 1, Jun, 2005
@@ -117,3 +120,4 @@ Lab3
    $(DEBUG) $(DEBUGFLAGS) $(PROJECT).exe
 
     
+

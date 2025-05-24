@@ -1,3 +1,6 @@
+.. meta::
+   :description: Story: http://www.reuters.com/newsArticle.jhtml?type=internetNews&storyID=8109019
+
 Summary
 =======
 .. post:: 11, Apr, 2005
@@ -41,3 +44,4 @@ Summary
    * How will you react if you are told that you email service is not longer free?
    * How you think about personal online publishing, such as blogging?
    * Do you think internet censorship may affect personal online publishing?
+

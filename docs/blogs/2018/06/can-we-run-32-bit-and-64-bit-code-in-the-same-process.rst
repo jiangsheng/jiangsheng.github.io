@@ -1,3 +1,6 @@
+.. meta::
+   :description: User redstone001 wants to know if it is possible to run 32 bit and 64 bit code in the same process – maybe in a different thread?
+
 Can we run 32 bit and 64 bit code in the same process?
 ======================================================
 .. post:: 18, Jun, 2018
@@ -32,3 +35,4 @@ its own 64 bit DLLs to be callable inside a 32 bit process. If you want
 to reuse your code written for a different CPU architecture, it would be
 much faster to run a separate process and do `interprocess
 communication <https://msdn.microsoft.com/en-us/library/windows/desktop/aa365574(v=vs.85).aspx>`__.
+

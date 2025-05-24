@@ -1,3 +1,6 @@
+.. meta::
+   :description: Stress Control Questions#
+
 Stress Control Questions
 ==========================================
 .. post:: 7, Feb, 2005
@@ -67,3 +70,4 @@ Stress Control Questions
 
    | 18.     Q: What is the main ides of the article?
    | A: How to improve Stress Management.
+

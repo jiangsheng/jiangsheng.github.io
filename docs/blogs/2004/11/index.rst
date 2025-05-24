@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2004_11:
 
 ======================================
@@ -15,3 +18,4 @@ Blogs in November 2004
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

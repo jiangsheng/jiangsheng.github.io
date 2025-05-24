@@ -1,3 +1,6 @@
+.. meta::
+   :description: 方法基本同Knowledge Base文章Q220844 HOWTO: Insert a Bitmap Into an RTF Document Using the RichEdit Control (https://jeffpar.github.io/kbarchive/kb/220/Q220844/)
+
 自定义在RichEdit中插入对象的图标
 ==================================
 .. post:: 4, Mar, 2004
@@ -59,3 +62,4 @@
     lpOleCache->Release();
 
     return TRUE;
+

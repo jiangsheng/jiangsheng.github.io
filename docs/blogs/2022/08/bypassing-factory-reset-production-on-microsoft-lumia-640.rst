@@ -1,4 +1,5 @@
 .. meta::
+   :description: The problem: Recently I had to factory reset my Lumia 640 with Windows 10 Build 15063. However the factory reset protection cannot be turned off in settings. It
    :robots: noindex, nofollow
 
 Bypassing Factory Reset Protection Microsoft Lumia 640
@@ -12,7 +13,7 @@ Bypassing Factory Reset Protection Microsoft Lumia 640
 
 .. index:: pair: Factory Reset Protection; Windows Phone
 
-The problem:
+The problem: 
 
 Recently I had to factory reset my Lumia 640 with Windows 10 Build 15063. However the factory reset protection cannot be turned off in settings. It will ask for password then the slider would stay on.
 
@@ -26,7 +27,7 @@ As the back-end service for Windows Mobile has ended, I cannot turn off the prot
 
 .. image:: ../../images/wp10_reset_protection_recover_key.png
 
-The solution:
+The solution: 
 
 Fortunately the recovery key window has a security vulnerability. Tap on one of the five text fields on the recovery key window to bring up the touch keyboard. Long tap the &123 button on the keyboard and then tap the first menu item that looks like a gear `(this is actually a security vulnerability similar to how the simplified Chinese version of Windows 2000 let you log in without a password <https://learn.microsoft.com/en-us/security-updates/securitybulletins/2000/ms00-069>`_. Now you are in keyboard settings. Tab the gear icon on top left to reach Settings Home.
 

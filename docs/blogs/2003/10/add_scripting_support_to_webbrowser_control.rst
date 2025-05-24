@@ -1,3 +1,6 @@
+.. meta::
+   :description: 这个教程提供在浏览器程序中添加宏支持的方法，你会看到如何给MFC的程序添加宏支持。这篇文章也讨论了如何扩展VC6中的CHtmlView的功能，如何实现MDI结构的浏览器，以及如何分析DHTML的文档结构。
+
 .. _add_scripting_support_to_webbrowser_control:
 
 浏览器程序中添加宏支持
@@ -300,4 +303,5 @@ Q253219 PRB: WebBrowser Control Disappears When Script Calls window.close(https:
 
 * Using AutoComplete in HTML Forms (https://web.archive.org/web/20031226103116/http://msdn.microsoft.com/workshop/Author/forms/autocomplete_ovr.asp)
 * 在应用程序中集成自动完成功能
+
 

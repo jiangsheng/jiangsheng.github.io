@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2008_03:
 
 ======================================
@@ -14,3 +17,4 @@ Blogs in March 2008
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

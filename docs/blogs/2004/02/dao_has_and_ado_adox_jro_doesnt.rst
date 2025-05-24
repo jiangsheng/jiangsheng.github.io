@@ -1,3 +1,6 @@
+.. meta::
+   :description: 转自 http://www.trigeminal.com/usenet/usenet025.asp?2052
+
 DAO拥有ADO/ADOx/JRO所没有的东西（也许从不会有！
 =================================================
 

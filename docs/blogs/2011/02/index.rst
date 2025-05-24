@@ -1,3 +1,6 @@
+.. meta::
+   :description: 内容:
+
 .. _blogs_2011_02:
 
 ======================================
@@ -13,3 +16,4 @@ Blogs in February 2011
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+

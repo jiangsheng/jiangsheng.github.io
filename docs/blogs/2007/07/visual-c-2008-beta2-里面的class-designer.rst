@@ -1,3 +1,6 @@
+.. meta::
+   :description: Visual Studio 2008 Beta2中的Class Designer终于支持C++了，上面是一个MFC程序的类图，可以看到已经支持扩展MFC的宏了，可惜只能看不能重构代码。尽管Class Designer这功能相当不错，但是设计师们可能还是更习惯IBM 的Rational Rose Developer f
+
 Visual C++ 2008 Beta2 里面的Class Designer
 =======================================================
 .. post:: 30, Jul, 2007
@@ -41,3 +44,4 @@ Visual C++ 2008 Beta2 里面的Class Designer
    :width: 700px
    :height: 508px
    :target: http://blufiles.storage.msn.com/y1pKWlrV0DnS2p7vjktWIo6Qo95bg_ABvWFxCgDSaobnoGEbr22TNOVPcfkJrc8QM251C7gbdGVzOM
+

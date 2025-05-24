@@ -1,3 +1,6 @@
+.. meta::
+   :description: Note this post is on Visual Studio 11 Beta, you can download it from http://www.microsoft.com/visualstudio/11/en-us/downloads Since Sinofsky posted about no des
+
 What's new in MFC/ATL 11 Beta
 =============================
 .. post:: 22, Apr, 2012
@@ -74,3 +77,4 @@ community forums are mostly on C++11, which is not surprisingly the
 focus of the `Visual
 C++ <http://en.wikipedia.org/wiki/Visual_C%2B%2B>`__ team in this
 release and probably will continue for a while.
+

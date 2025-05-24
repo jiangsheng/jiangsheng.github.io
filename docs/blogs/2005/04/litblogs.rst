@@ -1,3 +1,6 @@
+.. meta::
+   :description: Uniting the leading literary weblogs for the purpose of drawing attention to the best of contemporary fiction, authors and presses that are struggling to be not
+
 Litblogs
 ========
 .. post:: 18, Apr, 2005
@@ -20,3 +23,4 @@ Litblogs
    :width: 496px
    :height: 144px
    :target: http://lbc.typepad.com/photos/uncategorized/lbcheader_1.gif
+

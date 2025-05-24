@@ -1,3 +1,6 @@
+.. meta::
+   :description: makefile
+
 Assignment1
 ===========
 .. post:: 9, Jun, 2005
@@ -200,3 +203,4 @@ makefile
    $(DEBUG) $(DEBUGFLAGS) $(PROJECT).exe
 
     
+

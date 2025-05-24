@@ -1,3 +1,6 @@
+.. meta::
+   :description: You can equip items to either heal in battle or have various buffs/debuffs. Backpacks can increase item storage and range in additional to power output. Items c
+
 .. _front_mission_mechanics_items:
 
 

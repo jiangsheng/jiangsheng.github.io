@@ -1,3 +1,6 @@
+.. meta::
+   :description: You control a general during battle, and the general would have 4 skills (called special operations in this game). Using a skill costs exp points you gain durin
+
 .. _axis_and_allies_special_operations:
 
 Special Operations  (Axis and Allies)
