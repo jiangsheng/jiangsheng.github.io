@@ -1,6 +1,6 @@
 ---
 title: My page title
-description: This is Sheng Jiang's documentation. It contains [Game guides](build/html/games/index.html), my personal [blogs](build/html/blogs/index.html) and my [Grandma's handbook](build/html/grandma/index.html). 
+description: This is Sheng Jiang's documentation. It contains Game guides, my personal blogs and my Grandma's handbook. 
 ---
 
 This is Sheng Jiang's documentation.    
