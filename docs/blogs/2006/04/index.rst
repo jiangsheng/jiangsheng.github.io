@@ -13,6 +13,7 @@ Blogs in April 2006
 
    microsoft-award-certificates
    prb-icustomdocsetuihandler-causes-changes-in-save-as-dialog
+   jiangsheng_s_csdn_digest_english
 
 * :ref:`genindex`
 * :ref:`modindex`

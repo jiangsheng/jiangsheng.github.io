@@ -1,18 +1,17 @@
 .. meta::
-   :description: Blogs in March 2007
+   :description: Blogs in February 2012
 
-.. _blogs_2007_03:
+.. _blogs_2012_02:
 
 ======================================
-Blogs in March 2007
+Blogs in February 2012
 ======================================
-
 .. toctree::
    :maxdepth: 1
    :caption: 内容:
    :titlesonly:
 
-   mcdonalds-yum-alleged-to-break-chinese-wage-laws
+   
 
 * :ref:`genindex`
 * :ref:`modindex`

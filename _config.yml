@@ -24,8 +24,5 @@ exclude:
   - drafts
   - _site
   - docs/
-  - tag/
-  - category/
-  - 20*
 
 include: [_static,_downloads,_images,_sources]
