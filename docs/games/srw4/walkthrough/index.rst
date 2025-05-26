@@ -133,7 +133,7 @@
     .. grid-item-card:: 第一话共通
         :columns: auto
 
-        | 加入机体：トロイホース、
+        | 加入机体：\ :ref:`トロイホース <srw_unit_trojan_horse>`\ 、
         | マジンガーZ、アフロダイA
         | 、ボスボロット、ガンダム、
         | ガンダムmkII、GP-01Fb、
