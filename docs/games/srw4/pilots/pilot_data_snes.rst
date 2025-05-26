@@ -2162,7 +2162,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_4B.png
      - 早乙女ミチル
-     - :ref:`盖塔 <srw4_units_getter_robo>`
+     - :ref:`盖塔 <srw4_unit_getter_robo>`
      - 弱気
      - 100
      - 100

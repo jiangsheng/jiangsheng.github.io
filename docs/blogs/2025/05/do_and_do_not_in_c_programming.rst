@@ -11,8 +11,7 @@ Do and Do Not in C Programming
    :nocomments:
 
 
-This post is originally written in 2012. It was lost when moving my web site from Office Live to Windows Live Spaces. I found a dead link to
-my web site on Stackoverflow and found an archive from archive.org. So here it is the old article.
+This post is originally written in 2012. It was lost when moving my web site from Office Live to Windows Live Spaces. I found a dead link to my web site and found an archive from archive.org. So here it is the old article.
 
 Don't
 

@@ -417,7 +417,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_18_B.png
      - ゲッター１
-     - :ref:`盖塔 <srw4_units_getter_robo>`
+     - :ref:`盖塔 <srw4_unit_getter_robo>`
      - 2800
      - 180
      - 25
@@ -436,7 +436,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_19_B.png
      - ゲッター２
-     - :ref:`盖塔 <srw4_units_getter_robo>`
+     - :ref:`盖塔 <srw4_unit_getter_robo>`
      - 2800
      - 180
      - 30
@@ -455,7 +455,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1A_B.png
      - ゲッター３
-     - :ref:`盖塔 <srw4_units_getter_robo>`
+     - :ref:`盖塔 <srw4_unit_getter_robo>`
      - 2800
      - 180
      - 23
@@ -474,7 +474,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1B_B.png
      - ゲッタードラゴン
-     - :ref:`盖塔G <srw4_units_getter_robo>`
+     - :ref:`盖塔G <srw4_unit_getter_robo>`
      - 3500
      - 210
      - 30
@@ -493,7 +493,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1C_B.png
      - ゲッターライガー
-     - :ref:`盖塔G <srw4_units_getter_robo>`
+     - :ref:`盖塔G <srw4_unit_getter_robo>`
      - 3500
      - 210
      - 37
@@ -512,7 +512,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1D_B.png
      - ゲッターポセイドン
-     - :ref:`盖塔G <srw4_units_getter_robo>`
+     - :ref:`盖塔G <srw4_unit_getter_robo>`
      - 3500
      - 210
      - 26
@@ -2678,7 +2678,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_8F_B.png
      - メカザウルス・サキ
-     - :ref:`盖塔 <srw4_units_getter_robo>`
+     - :ref:`盖塔 <srw4_unit_getter_robo>`
      - 3000
      - 200
      - 20
@@ -2697,7 +2697,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_90_B.png
      - メカザウルス・バド
-     - :ref:`盖塔 <srw4_units_getter_robo>`
+     - :ref:`盖塔 <srw4_unit_getter_robo>`
      - 1800
      - 200
      - 24
@@ -2716,7 +2716,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_91_B.png
      - メカザウルス・ザイ
-     - :ref:`盖塔 <srw4_units_getter_robo>`
+     - :ref:`盖塔 <srw4_unit_getter_robo>`
      - 2500
      - 200
      - 24
@@ -2735,7 +2735,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_92_B.png
      - メカザウルス・ゼンII
-     - :ref:`盖塔 <srw4_units_getter_robo>`
+     - :ref:`盖塔 <srw4_unit_getter_robo>`
      - 3300
      - 200
      - 28
@@ -2754,7 +2754,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_93_B.png
      - メカザウルス・ダイ
-     - :ref:`盖塔 <srw4_units_getter_robo>`
+     - :ref:`盖塔 <srw4_unit_getter_robo>`
      - 20000
      - 255
      - 20
@@ -2773,7 +2773,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_94_B.png
      - メカザウルス・シグ
-     - :ref:`盖塔 <srw4_units_getter_robo>`
+     - :ref:`盖塔 <srw4_unit_getter_robo>`
      - 7200
      - 255
      - 32
@@ -4711,7 +4711,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_FC_B.png
      - 真・ゲッター1
-     - :ref:`真盖塔 <srw4_units_getter_robo>`
+     - :ref:`真盖塔 <srw4_unit_getter_robo>`
      - 4100
      - 225
      - 42
@@ -4730,7 +4730,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_FD_B.png
      - 真・ゲッター２
-     - :ref:`真盖塔 <srw4_units_getter_robo>`
+     - :ref:`真盖塔 <srw4_unit_getter_robo>`
      - 4100
      - 225
      - 48
@@ -4749,7 +4749,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_FE_B.png
      - 真・ゲッター３
-     - :ref:`真盖塔 <srw4_units_getter_robo>`
+     - :ref:`真盖塔 <srw4_unit_getter_robo>`
      - 4100
      - 225
      - 37
@@ -4939,7 +4939,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_10A_B.png
      - テキサスマック
-     - :ref:`盖塔 <srw4_units_getter_robo>`
+     - :ref:`盖塔 <srw4_unit_getter_robo>`
      - 2800
      - 180
      - 26
@@ -5319,7 +5319,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_11E_B.png
      - メカザウルス・ズー
-     - :ref:`盖塔 <srw4_units_getter_robo>`
+     - :ref:`盖塔 <srw4_unit_getter_robo>`
      - 3000
      - 200
      - 24
