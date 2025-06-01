@@ -8,7 +8,6 @@
 .. toctree::
    :maxdepth: 0
    :caption: 内容:
-   :hidden:
 
    游戏设定 <mechanics/index>
    机师 <pilots/index>
