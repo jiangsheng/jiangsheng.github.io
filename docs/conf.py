@@ -134,7 +134,9 @@ html_theme_options = {
     "show_prev_next": True,
     "back_to_top_button": True,
     "show_nav_level": 0,   
-    "use_edit_page_button": True,
+    "use_edit_page_button": True,    
+    "sidebar_includehidden": False,
+     "collapse_navigation": True
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
