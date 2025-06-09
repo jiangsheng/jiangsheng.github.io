@@ -10,6 +10,8 @@
    :author: me
    :nocomments:
 
+.. _blogs_2005_03_host_managed_control_in_mfc:
+
 从.Net Framework 1.1开始，.Net控件可以以ActiveX的方式被集成到非托管宿主中——但是官方的支持只对于使用托管C++的MFC程序。Chris Sells在2003年3月份的MSDN杂志中描述了这样一个示例（https://web.archive.org/web/20030304083154/http://msdn.microsoft.com/msdnmag/issues/03/03/WindowsForms/default.aspx）。这个示例使用的代码稍微繁琐，而且没有描述如何处理控件的事件。MFC 8.0增加了一系列这方面的支持来把这个集成过程简单化（参考http://msdn2.microsoft.com/en-us/library/ahdd1h97.aspx）。这使得在MFC程序中使用.Net中的一些比较好用的类，例如System::Windows::Forms::PropertyGrid比以前容易多了。
 
 举例来说，要在MFC的基于对话框的程序中使用System::Windows::Forms::PropertyGrid控件，首先创建一个基于对话框的程序，添加必要的引用:

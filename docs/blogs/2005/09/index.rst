@@ -12,7 +12,8 @@ Blogs in September 2005
    :titlesonly:
 
    access-your-documents-from-internet
-
+   csdn_digest_2005_09.rst
+   
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
