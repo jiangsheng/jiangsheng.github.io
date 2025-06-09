@@ -14,6 +14,7 @@ Blogs in December 2005
    free-msdn-visual-studio-2005-team-suite-with-msdn-premium-subscription-for-awardee-of-microsoft-award-for-of-customer-excellence-microsoft-mvp
    jiangsheng的csdn统计数据
    整理旧照片……
+   csdn_digest_2005_12
 
 * :ref:`genindex`
 * :ref:`modindex`

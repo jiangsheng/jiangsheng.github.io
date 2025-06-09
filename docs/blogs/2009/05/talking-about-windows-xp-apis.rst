@@ -9,7 +9,7 @@ Talking about Windows XP APIs
    :author: me
    :nocomments:
 
-Photobucket has deactivated the accounts of all free users and I have no idea what was in there now. Therefore I cannot find what this post was talking about. Probably \ :ref:`the API for various parts of Windows <blog_2012_what_is_the_api_for_windows>'\ . 
+Photobucket has deactivated the accounts of all free users and I have no idea what was in there now. Therefore I cannot find what this post was talking about. Probably \ :ref:`the API for various parts of Windows <blog_2012_what_is_the_api_for_windows>`\ . 
 
    |image1| http://feed728.photobucket.com/flash/rss_slideshow.swf?rssFeed=http://feed728.photobucket.com/albums/ww283/jiangsheng/Windows%2520XP/feed.rss\ ` <http://feed728.photobucket.com/flash/rss_slideshow.swf?rssFeed=http://feed728.photobucket.com/albums/ww283/jiangsheng/Windows%2520XP/feed.rss>`__\ ` <http://feed728.photobucket.com/flash/rss_slideshow.swf?rssFeed=http://feed728.photobucket.com/albums/ww283/jiangsheng/Windows%2520XP/feed.rss>`__\ |image2|\ |image3|
 

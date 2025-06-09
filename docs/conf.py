@@ -54,7 +54,6 @@ extensions = [
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
-    'sphinx_sitemap',
     # 'edit_on_github',
     'linuxdoc.rstFlatTable',
      'sphinx_reredirects',
@@ -62,6 +61,13 @@ extensions = [
      "sphinx_design",
      'ablog',
 ]
+
+if not os.environ.get("READTHEDOCS"):
+    extensions += ["sphinx_sitemap"]
+
+    sitemap_locales = ['zh-CN']
+    sitemap_url_scheme = "{version}{link}"
+
 # edit_on_github_project  = 'jiangsheng/jiangsheng.github.io'
 # edit_on_github_url = 'docs/'
 # edit_on_github_branch = 'master/docs'
@@ -286,15 +292,24 @@ html_js_files = [
     
 ]
 
-sitemap_locales = ['zh-CN']
-sitemap_url_scheme = "{version}{link}"
+
 
 rediraffe_redirects = "redirects.txt"
+
+# -- Ablog options -----------------------------------------------------------
 
 blog_path = "blogs/"
 blog_authors = {
     "me": ("Sheng Jiang", "https://jiangsheng.net"),
 }
+
+blog_default_author="me"
+
+post_auto_excerpt=2
+
+blog_baseurl="https://jiangsheng.net"
+
+
 fontawesome_included = True
 
 def insert_javascript_on_page(app, page_name, template_name, context, doctree):
