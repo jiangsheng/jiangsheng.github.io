@@ -4,8 +4,7 @@
 Free MSDN Visual Studio 2005 Team Suite with MSDN Premium Subscription for awardee of Microsoft Award for of Customer Excellence/ Microsoft MVP?
 ================================================================================================================================================
 .. post:: 29, Dec, 2005
-   :tags: Microsoft,Microsoft Visual Studio
-   :category: Computers and Internet
+   :category: Microsoft, Security,Personal
    :author: me
    :nocomments:
 

@@ -5,8 +5,8 @@ Merge wordpress.com site with GitHub Pages
 =========================================================================================================
 
 .. post:: 7 May, 2025
-   :tags: Cloudflare, ABlog, DNS
-   :category: Sphinx, WordPress
+   :tags: Cloudflare, ABlog, DNS,WordPress
+   :category: Sphinx 
    :author: me
    :nocomments:
 

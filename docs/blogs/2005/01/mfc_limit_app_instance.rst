@@ -5,8 +5,8 @@
 =========================
 
 .. post:: 22, Jan, 2005
-   :tags: MFC
-   :category: Microsoft Foundation Classes, Visual C++
+   :tags: MFC, process
+   :category: Win32
    :author: me
    :nocomments:
 

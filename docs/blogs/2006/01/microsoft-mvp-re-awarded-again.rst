@@ -4,8 +4,8 @@
 Microsoft MVP re-awarded again
 ==============================
 .. post:: 4, Jan, 2006
-   :tags: Microsoft Most Valuable Professional
-   :category: Computers and Internet,enmsdn,Microsoft,Visual C++,Visual Studio
+   :tags: Microsoft MVP
+   :category: Personal
    :author: me
    :nocomments:
 

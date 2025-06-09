@@ -5,8 +5,8 @@ CDHtmlDialog&NewWindow2
 =================================
 
 .. post:: 12, Feb, 2004
-   :tags: WebBrowser Control, MFC
-   :category: WebBrowser Control, Microsoft Foundation Classes
+   :tags: MSHTML, MFC
+   :category: UI
    :author: me
    :nocomments:
 

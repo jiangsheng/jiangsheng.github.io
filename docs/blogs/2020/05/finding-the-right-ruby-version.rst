@@ -4,7 +4,7 @@
 Finding the right ruby version
 ==============================
 .. post:: 13, May, 2020
-   :category: eHMP
+   :category: ruby
    :author: me
    :nocomments:
 

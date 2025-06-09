@@ -6,7 +6,7 @@ Good Bye MFC?
 
 .. post:: 12, Dec, 2004
    :tags: MFC
-   :category: Microsoft Foundation Classes, Win32, Visual C++
+   :category: Win32, Visual Studio
    :author: me
    :nocomments:
 

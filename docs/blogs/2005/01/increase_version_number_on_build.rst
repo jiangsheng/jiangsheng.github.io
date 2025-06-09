@@ -4,8 +4,8 @@
 在Visual C++中编译工程时自动增加版本号
 =======================================
 .. post:: 24, Jan, 2005
-   :tags: Build Number
-   :category: Visual C++
+   :tags: CPP
+   :category: Visual Studio
    :author: me
    :nocomments:
 

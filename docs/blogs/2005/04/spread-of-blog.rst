@@ -8,9 +8,6 @@ Spread of Blog
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!159
-
    Spread of Blog
 
    Blog, or weblog, refers to certain kind of online journal that, it is

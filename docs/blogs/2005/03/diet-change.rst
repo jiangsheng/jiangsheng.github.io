@@ -8,9 +8,6 @@ Diet Change
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!138
-
    Diet Change
 
    There are many changes in my lifestyle since I moved to USA. My diet

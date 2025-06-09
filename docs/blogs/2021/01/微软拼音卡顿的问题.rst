@@ -5,8 +5,8 @@
 ==================
 
 .. post:: 5 Jan, 2021
-   :tags: GetTempFileName
-   :category: Windows, 微软拼音
+   :tags: Bug
+   :category: Microsoft
    :author: me
    :nocomments:
    

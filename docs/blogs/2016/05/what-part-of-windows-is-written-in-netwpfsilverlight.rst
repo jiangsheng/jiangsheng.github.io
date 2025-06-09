@@ -4,13 +4,12 @@
 What part of Windows is written in .Net/WPF/Silverlight?
 ========================================================
 .. post:: 16, May, 2016
-   :tags: .NET Framework
-   :category: enmsdn,Microsoft
+   :category: .Net Framework
    :author: me
    :nocomments:
 
 user `曹一聪 <https://www.zhihu.com/people/cao-yicong-50>`__\  on zhihu is curious how widely .Net is used within Windows components. 
-Obviously an operating system component cannot depend on something that isn't in the operating system, so nothing uses Silverlight in the desktop version of Windows. And because `XP editions mostly did not ship with any .Net framework version <https://blogs.msdn.microsoft.com/astebner/2007/03/14/mailbag-what-version-of-the-net-framework-is-included-in-what-version-of-the-os/>`__, practically nothing from the XP days can use .Net. Only components newer than XP or rewrote after XP can use .Net, except those Windows Media Center and Tablet PC components that have .Net dependencies. 
+Obviously an operating system component cannot depend on something that isn't in the operating system, so nothing uses Silverlight in the desktop version of Windows. And because `XP editions mostly did not ship with any .Net Framework version <https://blogs.msdn.microsoft.com/astebner/2007/03/14/mailbag-what-version-of-the-net-framework-is-included-in-what-version-of-the-os/>`__, practically nothing from the XP days can use .Net. Only components newer than XP or rewrote after XP can use .Net, except those Windows Media Center and Tablet PC components that have .Net dependencies. 
 
 The first time .Net is available in almost all editions is Windows Vista/2008 (the server core editions make .Net optional). ecause a Vista Capable sticker does not guarantee a machine with user-acceptable speed, not much in Windows Vista is using .Net. OR Windows 7 on that matter if you skip Windows Powershell. The usage of .Net is more in the consumer software (e.g. Windows Live Essentials), developer tools (e.g. Visual Studio) and business tools (e.g. SQL Server). In short, .Net is for writing apps, not really for the OS itself. After Windows 8, Microsoft's focus moved to Windows RT, now UWP, not much effort is done to improve the desktop, so practically nothing in the desktop got rewritten in .Net Framework.  Windows Help 2.0 is a notable exception however. Because
 more and more desktop components are moving to UWP (control panel, calculator, games etc), Windows 8 might be the peak of .Net Framework usage in Windows. 

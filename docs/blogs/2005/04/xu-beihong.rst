@@ -8,9 +8,6 @@ Xu Beihong
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!152
-
    influential Chinese artist and art educator who, in the first half of
    the 20th century, argued for the reformation of Chinese art through
    the incorporation of lessons from the West.

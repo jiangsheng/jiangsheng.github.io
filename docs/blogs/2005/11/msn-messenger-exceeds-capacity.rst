@@ -4,12 +4,9 @@
 MSN messenger exceeds capacity
 ==============================
 .. post:: 17, Nov, 2005
-   :category: Uncategorized
+   :category: Internet
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!444
 
    .. container::
 

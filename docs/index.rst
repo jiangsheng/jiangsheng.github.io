@@ -25,9 +25,9 @@ Game guides currently have the following games:
 
 My :ref:`most blogged topics <blog-tags>` are
 
-* Computer and Internet
-* enmsdn
-* Uncategorized
+* MFC
+* MSHTML
+* Visual Studio
  
 Grandma’s handbook describes an old lady’s life up to a few years before her death.
 

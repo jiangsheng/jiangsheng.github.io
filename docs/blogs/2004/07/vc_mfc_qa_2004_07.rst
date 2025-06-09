@@ -6,8 +6,8 @@ VC/MFC Q&A 200407
 ===============================
 
 .. post:: 13, Jul, 2004
-   :tags: Q&A, MFC
-   :category: Microsoft Foundation Classes, CSDN
+   :tags: Q&A, CSDN, MFC
+   :category: Win32
    :author: me
    :nocomments:
 

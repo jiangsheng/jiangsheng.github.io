@@ -3,13 +3,14 @@
 
 Links
 =====
+
 .. post:: 3, Feb, 2009
-   :category: Microsoft
+   :tags: MFC
+   :category: Win32
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!848
+Today's link spam:
 
    - `New warning message in MFC9:Warning: Creating dialog from within a
      COleControlModule application is not a supported

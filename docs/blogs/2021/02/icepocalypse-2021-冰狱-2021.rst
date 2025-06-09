@@ -4,7 +4,7 @@
 Icepocalypse 2021 冰狱 2021
 ==================================================
 .. post:: 18, Feb, 2021
-   :category: Uncategorized
+   :category: Personal
    :author: me
    :nocomments:
 

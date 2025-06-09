@@ -5,8 +5,8 @@ Visual C++ 2005 Beta 2中的变动
 =====================================
 
 .. post:: 19, Apr, 2005
-   :tags: MFC
-   :category: Visual C++, Microsoft Foundation Classes
+   :tags: MFC, CPP
+   :category: Visual Studio
    :author: me
    :nocomments:
 

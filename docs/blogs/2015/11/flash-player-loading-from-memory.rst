@@ -4,8 +4,8 @@
 Flash Player: Loading from memory
 =================================
 .. post:: 26, Nov, 2015
-   :tags: Component Object Model,Flash Player,OLE,Visual C++
-   :category: ATL,enmsdn,MFC,Microsoft Foundation Class Library
+   :tags: MFC
+   :category: Win32
    :author: me
    :nocomments:
 

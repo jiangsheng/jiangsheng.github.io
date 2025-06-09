@@ -5,7 +5,7 @@
 ==================================================================
 
 .. post:: 18, Mar, 2002
-   :tags: Microsoft Foundation Classes,Visual C++
+   :tags: MFC
    :category: Computer Graphics 
    :author: me
    :nocomments:

@@ -5,7 +5,7 @@ Error 3e6 with WriteFile
 ========================
 .. post:: 27, Jun, 2005
    :tags: Assembly language
-   :category: ACC
+   :category: Win32
    :author: me
    :nocomments:
 
@@ -65,3 +65,13 @@ address not aligned to DWORD.
    Hello   ENDP
    END Hello
 
+Update: Raymond Chen explained the reason in his blog https://devblogs.microsoft.com/oldnewthing/20250605-00/?p=111250, basically Windows SDK requires aligned pointers, except for those decorated with UNALIGNED.
+E.g. 
+
+.. code-block:: C++
+
+   LWSTDAPI_(int) SHFormatDateTimeA(
+        _In_ const FILETIME UNALIGNED * pft,
+        _Inout_opt_ DWORD * pdwFlags,
+        _Out_writes_(cchBuf) LPSTR pszBuf,
+        UINT cchBuf); 

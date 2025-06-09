@@ -5,8 +5,8 @@
 =======================
 
 .. post:: 23, Oct, 2003
-   :tags: WebBrowser Control, CHtmlView, Scripting
-   :category: Microsoft Foundation Classes
+   :tags: MSHTML, MFC, Scripting
+   :category: UI
    :author: me
    :nocomments:
    

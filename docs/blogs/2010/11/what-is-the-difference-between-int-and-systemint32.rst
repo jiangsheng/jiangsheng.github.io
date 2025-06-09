@@ -4,26 +4,39 @@
 What is the difference between int and System::Int32
 ====================================================
 .. post:: 22, Nov, 2010
-   :tags: C#,C++/CLI,Integer (computer science)
-   :category: enmsdn,Microsoft,Visual C++,Visual Studio
+   :tags: CPP
+   :category: .Net Framework
    :author: me
    :nocomments:
 
 Some may say identical, at least that’s what the `Visual
 C <http://msdn2.microsoft.com/en-us/visualc/default.aspx>`__\ ++ compiler
-tells you at the first glance  when you turn on /oldsyntax public \__gc
-class Class1 { public: void F1(int a){} void F1(System::Int32 a){}
-//Error    2    error  2535:  void Class1::F1(int)' : member function
-already defined or declared } Okay, so if I add & to the parameter types
-I should get the same error right?void F1(int&a){} void
-F1(System::Int32& a){} Build: 1 succeeded, 0 failed, 0 up-to-date, 0
-skipped Wait, didn’t I get an error just now? You are right, somehow the
+tells you at the first glance  when you turn on /oldsyntax 
+
+.. code-block:: C++
+
+   public __gc class Class1 {
+      public: void F1(int a){}
+      void F1(System::Int32 a){}
+      //Error    2    error  2535:  void Class1::F1(int)' : member function already defined or declared 
+   }
+   
+Okay, so if I add & to the parameter types
+I should get the same error right?
+
+.. code-block:: C++
+
+   void F1(int&a){} 
+   void F1(System::Int32& a){}    
+   Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped 
+   
+Wait, didn’t I get an error just now? You are right, somehow the
 compiler treat the two types differently when passing by reference. look
 at the function signatures in
 `MSIL <http://en.wikipedia.org/wiki/Common_Intermediate_Language>`__.
-Int32 is passed by reference as expected
+Int32 is passed by reference as expected:
 
-::
+.. code-block:: 
 
    .method public instance void F1(int32& modopt([mscorlib]System.Runtime.CompilerServices.IsImplicitlyDereferenced) a) cil managed
    {
@@ -32,9 +45,9 @@ Int32 is passed by reference as expected
    }
 
 and int is passed by address (the behavior is different if you switch to
-new syntax)
+new syntax):
 
-::
+.. code-block:: 
 
    .method public instance void F1(int32* modopt([mscorlib]System.Runtime.CompilerServices.IsImplicitlyDereferenced) a) cil managed
    {
@@ -43,7 +56,7 @@ new syntax)
    }
 
 I guess it does not make a big deal right? `Until you have an interface
-assembly that is compiled in anower compiler and want to implement the
+assembly that is compiled in another compiler and want to implement the
 interface <https://connect.microsoft.com/VisualStudio/feedback/details/280487/upgrade-from-1-1-to-2-0-net-c-dll-with-long-parameter-throws-missingmethod-exception>`__.
 Now you `have a hard time to figure out how to declare the signature in
 the new

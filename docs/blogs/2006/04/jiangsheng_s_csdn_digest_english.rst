@@ -2,8 +2,8 @@ Jiangsheng's CSDN Digest (200604)
 =========================================
 
 .. post:: 3, Apr, 2006
-   :tags: Q&A, MFC
-   :category: Microsoft Foundation Classes, CSDN
+   :tags: Q&A, MFC,CSDN
+   :category: Win32
    :author: me
    :nocomments:
 

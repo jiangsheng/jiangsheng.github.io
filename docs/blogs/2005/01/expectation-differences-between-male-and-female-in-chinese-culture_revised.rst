@@ -5,7 +5,7 @@ Expectation differences between male and female in Chinese culture (Revised)
 ===============================================================================
 
 .. post:: 30 Jan, 2005
-   :tags: culture, gender, China
+   :tags: China
    :category: English Writing Practice
    :author: me
    :nocomments:

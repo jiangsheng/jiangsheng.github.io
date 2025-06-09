@@ -5,8 +5,8 @@
 ==========================================================================
 
 .. post:: 24, Jan, 2005
-   :tags: MFC
-   :category: Visual C++, Microsoft Foundation Classes   
+   :tags: CPP, MFC
+   :category: UI
    :author: me
    :nocomments:
 

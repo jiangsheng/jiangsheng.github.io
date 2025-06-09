@@ -4,7 +4,7 @@
 如何在64位win10的VS2017环境下搭建汇编环境
 ====================================================
 .. post:: 18, Jun, 2018
-   :category: Uncategorized
+   :category: Visual Studio, Machine Language
    :author: me
    :nocomments:
 

@@ -8,10 +8,7 @@ Notes
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!148
-
-   Should GM(Genetic Modified) food production be controled by
+   Should GM(Genetic Modified) food production be controlled by
    Government?
 
    Q(Drug) Why fostering drug plants is baned and fertilizing GM food is

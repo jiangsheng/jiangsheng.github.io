@@ -4,16 +4,11 @@
 The Schiavo case
 ================
 .. post:: 24, Mar, 2005
-   :category: Uncategorized
+   :category: News
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!143
-
    The Schiavo case
-
-    
 
    On Feb. 11, 2000, Pinellas Circuit Court Judge George Greer claimed
    that there was ''clear and convincing evidence'' that Terri Schiavo

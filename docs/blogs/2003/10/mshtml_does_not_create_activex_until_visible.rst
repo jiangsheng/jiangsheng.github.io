@@ -5,8 +5,8 @@
 ======================================================
 
 .. post:: 23, Oct, 2003
-   :tags: MSHTML, ActiveX
-   :category: Microsoft Foundation Classes, WebBrowser Control
+   :tags: MSHTML, ActiveX,MFC
+   :category: UI
    :author: me
    :nocomments:
 

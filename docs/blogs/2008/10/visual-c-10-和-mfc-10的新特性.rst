@@ -4,8 +4,8 @@
 Visual C++ 10 和 MFC 10的新特性
 =========================================================
 .. post:: 11, Oct, 2008
-   :tags: Microsoft Foundation Class Library,Visual C++,Visual Studio
-   :category: Microsoft
+   :tags: MFC
+   :category: Visual Studio
    :author: me
    :nocomments:
 

@@ -4,8 +4,8 @@
 创建和自动化Internet Explorer和资源管理器窗口
 ===============================================
 .. post:: 20 Oct, 2005
-   :tags: MFC, MSHTML, Windows Shell
-   :category: Visual C++, Microsoft Foundation Classes
+   :tags: MFC, MSHTML, shdocvw
+   :category: Win32
    :author: me
    :nocomments:
 

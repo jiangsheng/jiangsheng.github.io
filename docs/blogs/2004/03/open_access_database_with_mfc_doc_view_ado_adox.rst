@@ -6,7 +6,7 @@
 
 .. post:: 15, Mar, 2004
    :tags: ADO, MFC
-   :category: Microsoft Foundation Classes, ADO
+   :category: UI, Microsoft Office
    :author: me
    :nocomments:
 

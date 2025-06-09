@@ -5,8 +5,8 @@
 ============
 
 .. post:: 24, Jan, 2005
-   :tags: destructor
-   :category: C++
+   :tags: CPP
+   :category: Visual Studio
    :author: me
    :nocomments:
 

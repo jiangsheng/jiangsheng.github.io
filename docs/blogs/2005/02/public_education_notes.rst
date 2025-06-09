@@ -4,7 +4,7 @@
 Public Education Notes
 ==================================
 .. post:: 4 Feb, 2005
-   :tags: education
+   :tags: Education
    :category: English Writing Practice
    :author: me
    :nocomments:

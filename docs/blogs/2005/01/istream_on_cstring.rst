@@ -6,7 +6,7 @@ IStream接口和CString之间的转换
 
 .. post:: 24, Jan, 2005
    :tags: MFC
-   :category: Visual C++, Microsoft Foundation Classes   
+   :category: Win32
    :author: me
    :nocomments:
 

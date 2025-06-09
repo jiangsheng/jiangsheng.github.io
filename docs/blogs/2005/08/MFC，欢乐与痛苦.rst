@@ -5,13 +5,17 @@ MFC，欢乐与痛苦
 ========================
 
 .. post:: 20 Aug, 2005
-   :tags: MFC
-   :category: Visual C++, Microsoft Foundation Classes
+   :tags: MFC, Bug
+   :category: Visual Studio
    :author: me
    :nocomments:
 
 
-MFC提供了许多十分有用的类和对象，在很多时候在Office插件、BHO、常规DLL这样的工程中加入MFC支持是一个不错的选择。但是，MFC中的很多功能，例如资源查找，消息预处理等等都依赖于在进程或者线程创建时被初始化的MFC内部数据；而对于需要添加MFC支持的工程，这些数据并不会被自动地初始化。这时候使用一些MFC的功能，例如使用CString从字符串表加载一个字符串，或者使用CDialog::DoModal()创建一个模态对话框，都会有断言错误，用ATL向导创建的支持MFC的程序也没有多少改善，在CWinApp的DLL版本中没有初始化线程数据，所以调用AfxGetThread会返回空指针。解决这个问题的一个办法是使用AfxBeginThread来启动一个MFC线程，这样MFC会初始化线程相关的数据。在下面的示例中，我在线程初始化时建立了一个模态对话框，以避免直接创建模态对话框会触发的断言失败信息。为了模拟模态对话框的效果，在CDialogThread::WaitForDoModal()这个函数中创建了一个消息循环来等待线程结束，同时用MsgWaitForMultipleObjects来避免死锁。因为MFC中和进程相关的数据并不总是被正确初始化，在调用模态对话框之前也需要手动设置一下。
+MFC提供了许多十分有用的类和对象，在很多时候在Office插件、BHO、常规DLL这样的工程中加入MFC支持是一个不错的选择。但是，MFC中的很多功能，例如资源查找，消息预处理等等都依赖于在进程或者线程创建时被初始化的MFC内部数据；而对于需要添加MFC支持的工程，这些数据并不会被自动地初始化。
+
+这时候使用一些MFC的功能，例如使用CString从字符串表加载一个字符串，或者使用CDialog::DoModal()创建一个模态对话框，都会有断言错误，用ATL向导创建的支持MFC的程序也没有多少改善，在CWinApp的DLL版本中没有初始化线程数据，所以调用AfxGetThread会返回空指针。解决这个问题的一个办法是使用AfxBeginThread来启动一个MFC线程，这样MFC会初始化线程相关的数据。
+
+在下面的示例中，我在线程初始化时建立了一个模态对话框，以避免直接创建模态对话框会触发的断言失败信息。为了模拟模态对话框的效果，在CDialogThread::WaitForDoModal()这个函数中创建了一个消息循环来等待线程结束，同时用MsgWaitForMultipleObjects来避免死锁。因为MFC中和进程相关的数据并不总是被正确初始化，在调用模态对话框之前也需要手动设置一下。
 
 .. code-block:: C++
 

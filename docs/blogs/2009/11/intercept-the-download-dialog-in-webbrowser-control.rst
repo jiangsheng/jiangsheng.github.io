@@ -4,8 +4,8 @@
 Intercept the download dialog in webbrowser control
 ===================================================
 .. post:: 4, Nov, 2009
-   :tags: Active Template Library,Trident (layout engine),Visual C++,WebBrowser Control
-   :category: CSDN,enmsdn,Microsoft,Visual Studio
+   :tags: MSHTML
+   :category: Win32
    :author: me
    :nocomments:
 

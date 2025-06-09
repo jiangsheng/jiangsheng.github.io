@@ -5,7 +5,7 @@ Another Aggressive Looking Ahead and Misleading Error Message from ablog.post
 =========================================================================================================
 
 .. post:: 6 May, 2025
-   :tags: ablog
+   :tags: ABlog
    :category: Sphinx
    :author: me
    :nocomments:

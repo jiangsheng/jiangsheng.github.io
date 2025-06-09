@@ -4,13 +4,9 @@
 Feedback from Microsoft
 =======================
 .. post:: 5, Jun, 2008
-   :tags: Microsoft Award,Microsoft Visual Studio
-   :category: Microsoft
+   :category: Personal,Microsoft
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!796
 
    |image1|\ Looks like the `Microsoft Award for Customer Excellence
    award <http://jiangsheng.spaces.live.com/blog/cns!1BE894DEAF296E0A!445.entry>`__

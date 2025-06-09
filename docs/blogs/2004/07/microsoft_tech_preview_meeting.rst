@@ -5,7 +5,6 @@
 ==========================
 
 .. post:: 1, Jul, 2004
-   :tags: 
    :category: Microsoft
    :author: me
    :nocomments:

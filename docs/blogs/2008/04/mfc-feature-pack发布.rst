@@ -4,8 +4,8 @@
 MFC Feature Pack发布
 =================================================
 .. post:: 7, Apr, 2008
-   :tags: Microsoft Foundation Class Library,Visual C++
-   :category: Microsoft
+   :tags: MFC
+   :category: Visual Studio
    :author: me
    :nocomments:
 

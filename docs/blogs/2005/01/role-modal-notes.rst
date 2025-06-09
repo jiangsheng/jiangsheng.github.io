@@ -26,7 +26,7 @@ Role Modal Notes
    He carry some bold plans, such as introduced “Dot Net Framework”,
    while Microsoft products were still occupying more than half of the
    market at that time. He decided that most of new Microsoft products
-   will move to .Net framework.
+   will move to .Net Framework.
 
    He founded global research labs to develop “future technologies”,
    which little quick outcome

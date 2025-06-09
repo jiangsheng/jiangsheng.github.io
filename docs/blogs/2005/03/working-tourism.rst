@@ -8,9 +8,6 @@ Working Tourism
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!137
-
    Sustainable Tourism in Mozambique, Part III
 
    Working Tourism

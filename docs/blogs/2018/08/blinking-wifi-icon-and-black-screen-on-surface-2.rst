@@ -4,7 +4,8 @@
 Blinking wifi icon and black screen on Surface 2
 ================================================
 .. post:: 21, Aug, 2018
-   :category: Uncategorized
+   :tags: Bug
+   :category: Windows Update
    :author: me
    :nocomments:
 

@@ -4,7 +4,7 @@
 From In God We Trust to In Freedom We Spam
 ==========================================
 .. post:: 14, Feb, 2006
-   :category: News and politics
+   :category: News
    :author: me
    :nocomments:
 

@@ -6,8 +6,8 @@
 ========================
 
 .. post:: 2, Aug, 2001
-   :tags: MFC, CMenu
-   :category: Microsoft Foundation Classes,Visual C++
+   :tags: MFC
+   :category: UI
    :author: me
    :nocomments:
 

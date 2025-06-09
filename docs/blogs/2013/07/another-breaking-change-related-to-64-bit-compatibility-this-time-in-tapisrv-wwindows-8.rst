@@ -4,7 +4,7 @@
 Another breaking change related to 64 bit compatibility, this time in TAPISRV w/Windows 8
 =========================================================================================
 .. post:: 30, Jul, 2013
-   :category: enmsdn,Microsoft
+   :category: Win32
    :author: me
    :nocomments:
 

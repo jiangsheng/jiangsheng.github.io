@@ -5,8 +5,8 @@
 =========================================
 
 .. post:: 19, Mar, 2005
-   :tags: MFC
-   :category: Visual C++, Microsoft Foundation Classes, .Net Framework 
+   :tags: MFC,WinForms
+   :category: Visual Studio, .Net Framework 
    :author: me
    :nocomments:
 

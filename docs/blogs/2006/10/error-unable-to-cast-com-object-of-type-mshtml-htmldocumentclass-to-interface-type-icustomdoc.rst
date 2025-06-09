@@ -4,13 +4,10 @@
 Error: Unable to cast COM object of type ‘mshtml.HTMLDocumentClass’ to interface type ‘ICustomDoc’
 ==================================================================================================
 .. post:: 23, Oct, 2006
-   :tags: C#,Component Object Model,Trident (layout engine)
-   :category: Microsoft
+   :tags: MSHTML
+   :category: .Net Framework
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!533
 
    This operation failed because the `QueryInterface <http://en.wikipedia.org/wiki/IUnknown>`__ call on
    the `COM <http://en.wikipedia.org/wiki/Component_Object_Model>`__ component for the interface with IID

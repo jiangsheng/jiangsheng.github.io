@@ -8,9 +8,6 @@ Litblogs
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!161
-
    Uniting the leading literary weblogs for the purpose of drawing
    attention to the best of contemporary fiction, authors and presses
    that are struggling to be noticed in a flooded marketplace.

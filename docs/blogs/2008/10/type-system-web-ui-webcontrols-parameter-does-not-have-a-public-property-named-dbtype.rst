@@ -4,8 +4,8 @@
 Type ‘System.Web.UI.WebControls.Parameter’ does not have a public property named ‘DbType’
 =========================================================================================
 .. post:: 6, Oct, 2008
-   :tags: .NET Framework,ASP.Net
-   :category: Microsoft
+   :tags: ASP.Net
+   :category: .Net Framework
    :author: me
    :nocomments:
 

@@ -5,8 +5,8 @@ DLL/OCX中的MFC对话框不能处理Tab和回车键的问题
 =================================================
 
 .. post:: 11, Jul, 2004
-   :tags: DLL, OCX, Message Pump
-   :category: Microsoft Foundation Classes
+   :tags: process
+   :category: Win32
    :author: me
    :nocomments:
 

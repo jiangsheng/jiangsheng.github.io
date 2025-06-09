@@ -5,7 +5,7 @@
 ==============================================
 .. post:: 15, Nov, 2005
    :tags: Rootkit
-   :category: Computers and Internet
+   :category: Internet, Security
    :author: me
    :nocomments:
 

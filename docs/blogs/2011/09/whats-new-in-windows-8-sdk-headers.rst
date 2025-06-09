@@ -1,11 +1,10 @@
 .. meta::
    :description: This is by no means a complete list but just some observation on files that caught my eye. Some are just regular header file updates for Windows 7 and does not
 
-What&rsquo;s new in Windows 8 Developer Preview SDK headers
+What's new in Windows 8 Developer Preview SDK headers
 ===========================================================
 .. post:: 17, Sep, 2011
-   :tags: Application programming interface,Microsoft Visual Studio,Microsoft Windows,Operating Systems,Software development kit,windows 8 Developer Preview
-   :category: enmsdn,Microsoft,Visual C++
+   :category: Win32
    :author: me
    :nocomments:
 

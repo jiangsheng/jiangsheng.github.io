@@ -5,8 +5,7 @@
 ========================
 .. post:: 3 Oct, 2005
    :tags: MFC
-   :category: Visual C++, Microsoft Foundation Classes
-   :author: me
+   :category: Visual Studio, Microsoft,Personal
    :nocomments:
 
 个人觉得这次MVP峰会最大的进步就是技术相关的Session数量大大增加，按照MVP专长来分类；而不像上次那样按主题分类。我只需要在VC产品组的日程里面选择就可以了，而不是像上回那样不得不去听移动开发。当然这回也有MVP不去参加VC的Session，跑去听IE和移动开发。内容方面也比上次活泼很多，Don Box还是那么幽默，比尔·盖茨也有搞笑的演出，不过他看起来比去年七月份在北京的时候老多了。

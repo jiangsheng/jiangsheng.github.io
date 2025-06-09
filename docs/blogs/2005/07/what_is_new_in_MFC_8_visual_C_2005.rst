@@ -5,8 +5,8 @@ Visual Studio 2005中MFC的变化
 ====================================
 
 .. post:: 5 Jul, 2005
-   :tags: MFC
-   :category: Visual C++, Microsoft Foundation Classes
+   :tags: MFC,Bug
+   :category: Visual Studio
    :author: me
    :nocomments:
 

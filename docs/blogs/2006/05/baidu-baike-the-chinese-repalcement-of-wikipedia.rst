@@ -4,12 +4,9 @@
 Baidu Baike, the Chinese repalcement of Wikipedia
 =================================================
 .. post:: 13, May, 2006
-   :category: Computers and Internet
+   :category: Internet
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!499
 
    Wikipedia has been `blocked in mainland
    China <http://en.wikipedia.org/wiki/Blocking_of_Wikipedia_in_mainland_China>`__

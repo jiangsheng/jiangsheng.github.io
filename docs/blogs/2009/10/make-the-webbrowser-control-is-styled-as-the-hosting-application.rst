@@ -4,8 +4,8 @@
 Make the webbrowser control styled the same way as the hosting application
 ==========================================================================
 .. post:: 27, Oct, 2009
-   :tags: .NET Framework,C#,Internet Explorer,Internet Explorer 6,Microsoft Foundation Class Library,Silverlight,Trident (layout engine),Visual C++,Windows Forms,Windows Presentation Foundation,Windows SDK,Windows XP
-   :category: Active Template Library,enmsdn,Microsoft
+   :tags: MFC
+   :category: Win32,.Net Framework
    :author: me
    :nocomments:
 

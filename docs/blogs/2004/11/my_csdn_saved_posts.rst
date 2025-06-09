@@ -5,8 +5,8 @@
 ===========================================
 
 .. post:: 17, Nov, 2004
-   :tags: CSDN
-   :category: Visual C++
+   :tags: CSDN,MFC
+   :category: UI
    :author: me
    :nocomments:
 

@@ -4,7 +4,7 @@
 Today's fake email of the day
 =============================
 .. post:: 15, Oct, 2020
-   :category: Uncategorized
+   :category: Internet, Security
    :author: me
    :nocomments:
 

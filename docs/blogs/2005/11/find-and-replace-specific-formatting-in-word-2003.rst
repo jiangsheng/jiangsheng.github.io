@@ -4,12 +4,9 @@
 Find and replace specific formatting in Word 2003
 =================================================
 .. post:: 10, Nov, 2005
-   :category: Microsoft
+   :category: Microsoft Office
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!441
 
    .. container::
 

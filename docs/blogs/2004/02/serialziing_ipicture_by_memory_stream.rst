@@ -5,8 +5,8 @@ Serialziing IPicture by Memory Stream
 ==========================================
 
 .. post:: 6, Feb, 2004
-   :tags: Windows API, MFC
-   :category: Microsoft Foundation Classes, Win32
+   :tags: MFC, gdiplus
+   :category: Computer Graphics
    :author: me
    :nocomments:
 

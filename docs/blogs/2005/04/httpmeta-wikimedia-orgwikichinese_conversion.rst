@@ -4,12 +4,9 @@
 http://meta.wikimedia.org/wiki/Chinese_conversion
 =================================================
 .. post:: 24, Apr, 2005
-   :category: Computers and Internet
+   :category: Internet
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!166
 
    Automatic conversion between simplified and traditional Chinese
 

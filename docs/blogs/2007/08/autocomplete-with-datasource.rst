@@ -3,8 +3,8 @@
       Discusses limitation in .Net's autocomplete API wrapper and ways to call the Win32 autocomplete API direct to get more flexible behaviors. Using data bindings between a TextBox instance and a constantly updated .Net DataSource object as an example. 
 
 .. post:: 6 Aug, 2007
-   :tags: Microsoft Foundation Classes, WebBrowser Control
-   :category: WinForms
+   :tags: MFC,MSHTML
+   :category: .Net Framework
    :author: me
    :nocomments:
 
@@ -13,7 +13,7 @@ AutoComplete with DataSource
 
 Download Sample code: https://github.com/jiangsheng/Samples/tree/master/AutoComplete
 
-.Net 2.0 introduced autocompletion in TextBox and ComboBox. It is obvious that autocomplete is not very useful when the number of options is small. However, when the number of option becomes too many, pre-filling of all options to an AutoCompleteStringCollection becomes impractical, especially when the data is coming from a remote computer. An alternative is to replace the AutoCompleteCustomSource in a TextChanged event, however, users are getting random AccessViolationException when trying to replace it.  In this article I will demonstrate another alternative, using a BindingSource as the data source of options, bypassing the .Net framework and call the underline Windows API directly.
+.Net 2.0 introduced autocompletion in TextBox and ComboBox. It is obvious that autocomplete is not very useful when the number of options is small. However, when the number of option becomes too many, pre-filling of all options to an AutoCompleteStringCollection becomes impractical, especially when the data is coming from a remote computer. An alternative is to replace the AutoCompleteCustomSource in a TextChanged event, however, users are getting random AccessViolationException when trying to replace it.  In this article I will demonstrate another alternative, using a BindingSource as the data source of options, bypassing the .Net Framework and call the underline Windows API directly.
 
 The first thing I need to do is to port the Windows autocomplete APIs to managed code. The autocompletion API is exposed as a COM object, so I need to write managed version of its interfaces:
 

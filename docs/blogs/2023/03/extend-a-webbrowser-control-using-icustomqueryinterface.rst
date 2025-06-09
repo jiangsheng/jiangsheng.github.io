@@ -7,8 +7,8 @@ Extend a webbrowser control using ICustomQueryInterface
 ==================================================================
 
 .. post:: 20 Mar, 2023
-   :tags: C#, WinForms, Trident (Layout Engine), WebBrowser Control
-   :category: C#, WebBrowser Control
+   :tags: WinForms, MSHTML
+   :category: Win32
    :author: me
    :nocomments:
 

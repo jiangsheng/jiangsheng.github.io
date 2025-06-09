@@ -4,8 +4,8 @@
 Assignment1
 ===========
 .. post:: 9, Jun, 2005
-   :tags: Assembly Language
-   :category: PIC16F88A
+   :tags: PIC16F88
+   :category: Machine Language
    :author: me
    :nocomments:
 

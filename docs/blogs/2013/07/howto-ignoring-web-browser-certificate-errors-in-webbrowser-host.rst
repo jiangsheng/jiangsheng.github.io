@@ -5,8 +5,8 @@ Howto: Ignoring web browser certificate errors in a webbrowser host
 ========================================================================
 
 .. post:: 17 Jul, 2013
-   :tags: C#, WinForms, Trident (Layout Engine), WebBrowser Control
-   :category: C#, WebBrowser Control
+   :tags: MSHTML,WinForms
+   :category: Win32
    :author: me
    :nocomments:
 

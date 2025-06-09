@@ -7,8 +7,8 @@
 ============================================================================================================
 
 .. post:: 23, Oct, 2003
-   :tags: WebBrowser Control, CHtmlView, Scripting, VBA
-   :category: Microsoft Foundation Classes
+   :tags: MSHTML,MFC, Scripting, Bug
+   :category: UI
    :author: me
    :nocomments:
    

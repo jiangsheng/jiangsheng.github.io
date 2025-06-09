@@ -5,8 +5,8 @@ New web server hijacker HttpResetModule.dll
 =============================================
 
 .. post:: 22 Sep, 2021
-   :tags: HttpResetModule, ISAPI
-   :category: Windows, IIS
+   :tags: IIS
+   :category: Security
    :author: me
    :nocomments:
 

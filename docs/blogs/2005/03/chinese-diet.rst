@@ -8,9 +8,6 @@ Chinese diet
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!139
-
    Chinese is famous for its food. In the history, Chinese have
    tradition to eat a wild range of foods and does not have a good
    eating habit, but it is changed in recent years. Chinese not only

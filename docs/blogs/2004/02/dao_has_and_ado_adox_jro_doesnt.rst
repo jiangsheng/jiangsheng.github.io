@@ -5,8 +5,8 @@ DAO拥有ADO/ADOx/JRO所没有的东西（也许从不会有！
 =================================================
 
 .. post:: 27, Feb, 2004
-   :tags: ADO, DAO, JRO
-   :category:  Win32, Visual C++
+   :tags: ADO
+   :category:  Win32
    :author: me
    :nocomments:
 

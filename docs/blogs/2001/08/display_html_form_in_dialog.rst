@@ -6,8 +6,8 @@
 =====================================
 
 .. post:: 2, Aug, 2001
-   :tags: WebBrowser Control,DHTMLEdit
-   :category: Microsoft Foundation Classes,Visual C++
+   :tags: MFC,MSHTML
+   :category: UI
    :author: me
    :nocomments:
 

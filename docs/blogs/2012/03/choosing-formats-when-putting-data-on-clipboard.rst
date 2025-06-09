@@ -4,8 +4,8 @@
 Choosing formats when putting data on clipboard
 ===============================================
 .. post:: 21, Mar, 2012
-   :tags: clipboard
-   :category: enmsdn,WebBrowser Control
+   :tags: clipboard,MSHTML
+   :category: Win32
    :author: me
    :nocomments:
 

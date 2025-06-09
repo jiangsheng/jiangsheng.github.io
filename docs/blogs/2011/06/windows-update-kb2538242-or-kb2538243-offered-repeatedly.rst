@@ -5,8 +5,8 @@ Windows Update KB2538242 or KB2538243 offered repeatedly
 ==========================================================
 
 .. post:: 24 Jun, 2011
-   :tags: Microsoft Answers, Patch (computing), Visual C++, Windows Update
-   :category: Visual C++, Windows Update
+   :tags: Bug
+   :category: Visual Studio, Windows Update
    :author: me
    :nocomments:
 

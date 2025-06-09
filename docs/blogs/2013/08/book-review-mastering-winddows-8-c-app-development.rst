@@ -4,13 +4,15 @@
 Book review: Mastering Windows 8 C++ App Development
 ====================================================
 .. post:: 8, Aug, 2013
-   :tags: DirectX,Microsoft Windows,Model View ViewModel,Windows 8,Windows Runtime,Windows Store
-   :category: enmsdn,Microsoft,Visual C++,Visual Studio
+   :tags: CPP
+   :category: Personal, Visual Studio, Win32
    :author: me
    :nocomments:
 
 Disclaimer: I am a Microsoft MVP in Visual C++, so is Pavel Yosifovich,
-the author of the book. Mastering Windows 8 C++ App Development by Pavel
+the author of the book. 
+
+Mastering Windows 8 C++ App Development by Pavel
 Yosifovich is a new addition to the Windows Store development books. It
 took me a while to read (304 pages) but is well worth the time from the
 perspective of a C++ developer. The book obviously went through great

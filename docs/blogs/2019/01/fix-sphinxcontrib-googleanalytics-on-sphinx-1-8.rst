@@ -4,7 +4,7 @@
 Fix sphinxcontrib-googleanalytics on Sphinx 1.8
 ===============================================
 .. post:: 5, Jan, 2019
-   :category: Uncategorized
+   :category: Sphinx
    :author: me
    :nocomments:
 

@@ -4,12 +4,9 @@
 Read Twice to reveal the clues(Orson Scott Card,SPEAKER FOR THE DEAD)
 =====================================================================
 .. post:: 21, May, 2005
-   :category: Uncategorized
+   :category: English Writing Practice
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!181
 
    Thanks to Austin Public Library, I have a chance to continue my
    navigating with Ender the Great Commander, the Xenocide, and the
@@ -21,10 +18,10 @@ Read Twice to reveal the clues(Orson Scott Card,SPEAKER FOR THE DEAD)
    removed the barrier between human and peggies, and made the treatment
    between the 3 species. 
 
-   I did not notice the importance of the irrelavent quotation at the
+   I did not notice the importance of the irrelevant quotation at the
    beginning of each chapter, but I found they are noteworthy for better
    understanding. They are kind of background information, and some
-   sources appeard in the body part later.
+   sources appeared in the body part later.
 
    "We question all our beliefs, except for the ones we really believe,
    and those we never think to question. "

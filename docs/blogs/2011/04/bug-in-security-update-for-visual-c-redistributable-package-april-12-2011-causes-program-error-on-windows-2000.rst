@@ -4,8 +4,8 @@
 Bug in Security Update for Visual C++ Redistributable Package: April 12, 2011 causes program error on Windows 2000
 ==================================================================================================================
 .. post:: 17, Apr, 2011
-   :tags: Deployment,Microsoft Foundation Class Library,Redistributable,Visual C++,Windows 2000
-   :category: enmsdn,MFC,Microsoft,Visual Studio
+   :tags: Bug
+   :category: Windows Update,Visual Studio
    :author: me
    :nocomments:
 

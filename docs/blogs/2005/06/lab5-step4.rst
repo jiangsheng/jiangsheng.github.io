@@ -4,12 +4,10 @@
 Lab5 Step4
 ==========
 .. post:: 24, Jun, 2005
-   :category: ACC
+   :category: Machine Language
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!191
 
    | ;=====================================================================
    | ; DrawLine.asm - help routine to draw table lines

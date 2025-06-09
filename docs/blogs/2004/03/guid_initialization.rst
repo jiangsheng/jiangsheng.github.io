@@ -5,8 +5,8 @@ GUID数组的初始化
 ==================
 
 .. post:: 10, Mar, 2004
-   :tags: CPP, GUID
-   :category: Win32, Visual C++
+   :tags: CPP
+   :category: Win32
    :author: me
    :nocomments:
 

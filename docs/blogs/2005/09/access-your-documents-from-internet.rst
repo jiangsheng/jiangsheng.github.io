@@ -4,7 +4,7 @@
 Access your documents from internet.
 ====================================
 .. post:: 22, Sep, 2005
-   :category: Computers and Internet,Microsoft
+   :category: Internet
    :author: me
    :nocomments:
 

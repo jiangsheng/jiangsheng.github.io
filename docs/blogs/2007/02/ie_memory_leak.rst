@@ -4,8 +4,9 @@
 Memory Leak in the Internet Explorer WebBrowser Control
 ========================================================
 
-.. post:: 28 Feb, 2007
-   :category: Uncategorized
+.. post:: 28 Feb, 2007   
+   :tags: MSHTML
+   :category: Win32
    :author: me
    :nocomments:   
 

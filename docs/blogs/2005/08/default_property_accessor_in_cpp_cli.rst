@@ -4,8 +4,8 @@
 C++/CLI中的默认属性访问
 ==============================
 .. post:: 30 Aug, 2005
-   :tags: C++/CLI
-   :category: Visual C++
+   :tags: CPP
+   :category: Visual Studio
    :author: me
    :nocomments:
 

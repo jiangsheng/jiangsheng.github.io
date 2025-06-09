@@ -4,8 +4,8 @@
 《转换指南: 将程序从托管扩展C++迁移到C++/CLI》译后
 ==============================================================
 .. post:: 17, Mar, 2005
-   :tags: C++/CLI,Managed C++,Visual C++
-   :category: Microsoft,Visual Studio
+   :tags: Cpp
+   :category: Visual Studio,Personal
    :author: me
    :nocomments:
 

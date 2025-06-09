@@ -5,8 +5,8 @@ Converting generic OopFactory.X12 structures to typed counterparts
 ========================================================================
 
 .. post:: 30 Apr, 2021
-   :tags: OopFactory.X12, 835, 837, EDI
-   :category: C#, EDI
+   :tags: EDI
+   :category: .Net Framework
    :author: me
    :nocomments:
 

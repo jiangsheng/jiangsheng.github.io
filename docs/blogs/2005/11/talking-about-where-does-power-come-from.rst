@@ -4,14 +4,11 @@
 Talking about Where does power come from?
 =========================================
 .. post:: 3, Nov, 2005
-   :category: Uncategorized
+   :category: Programming
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!437
-
-    
+   
 
    *Quote*
 

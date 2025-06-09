@@ -6,7 +6,7 @@
 
 .. post:: 23, Mar, 2004
    :tags: MFC
-   :category: Microsoft Foundation Classes, Visual C++
+   :category: UI
    :author: me
    :nocomments:
 

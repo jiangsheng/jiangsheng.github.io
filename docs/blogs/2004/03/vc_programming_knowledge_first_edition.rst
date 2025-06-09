@@ -6,7 +6,7 @@ VC编程经验总结第一版完成
 
 .. post:: 23, Mar, 2004
    :tags: MFC
-   :category: Microsoft Foundation Classes, Visual C++
+   :category: Win32
    :author: me
    :nocomments:
 

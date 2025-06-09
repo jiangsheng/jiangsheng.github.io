@@ -4,12 +4,9 @@
 Microsoft MVP, MSDN Forum Influencer
 ====================================
 .. post:: 30, Jan, 2009
-   :category: Microsoft
+   :category: Personal
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!845
 
    今年微软最有价值专家的奖品好重，是一个很大的水晶奖杯
 

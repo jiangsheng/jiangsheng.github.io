@@ -4,8 +4,7 @@
 What's new in Visual Studio Tools for Windows 10 Preview
 ========================================================
 .. post:: 24, Mar, 2015
-   :tags: Windows 10,Windows SDK
-   :category: enmsdn,Microsoft
+   :category: Win32
    :author: me
    :nocomments:
 

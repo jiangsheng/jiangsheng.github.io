@@ -7,8 +7,8 @@
 ==========================================
 
 .. post:: 2, Aug, 2001
-   :tags: MFC, CCmdTarget
-   :category: Microsoft Foundation Classes,Visual C++
+   :tags: MFC
+   :category: Win32
    :author: me
    :nocomments:
 

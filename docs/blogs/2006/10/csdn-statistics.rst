@@ -4,7 +4,8 @@
 CSDN statistics
 ===============
 .. post:: 17, Oct, 2006
-   :category: CSDN
+   :tags: CSDN
+   :category: Personal
    :author: me
    :nocomments:
 

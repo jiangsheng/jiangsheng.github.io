@@ -5,8 +5,8 @@
 =======================================================
 
 .. post:: 13, Jul, 2004
-   :tags: WebBrowser Control, MFC
-   :category: Microsoft Foundation Classes, MSHTML
+   :tags: MSHTML, MFC
+   :category: UI
    :author: me
    :nocomments:
    

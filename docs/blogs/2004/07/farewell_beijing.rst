@@ -5,8 +5,8 @@
 ===================================
 
 .. post:: 7, Jul, 2004
-   :tags: WebBrowser Control
-   :category: WebBrowser Control, Win32
+   :tags: MSHTML
+   :category: Personal
    :author: me
    :nocomments:
 

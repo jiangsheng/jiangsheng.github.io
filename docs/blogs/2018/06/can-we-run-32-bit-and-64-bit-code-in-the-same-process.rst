@@ -4,7 +4,8 @@
 Can we run 32 bit and 64 bit code in the same process?
 ======================================================
 .. post:: 18, Jun, 2018
-   :category: Computers and Internet
+   :tags: process
+   :category: Win32
    :author: me
    :nocomments:
 

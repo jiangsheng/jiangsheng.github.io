@@ -5,8 +5,8 @@
 ======================
 
 .. post:: 24 Aug, 2005
-   :tags: MFC,Windows Desktop Search
-   :category: Visual C++, Microsoft Foundation Classes
+   :tags: MFC
+   :category: Win32
    :author: me
    :nocomments:
 

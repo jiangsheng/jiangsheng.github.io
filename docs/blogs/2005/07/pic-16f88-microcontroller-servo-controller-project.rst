@@ -4,13 +4,10 @@
 PIC 16F88 Microcontroller Servo Controller Project
 ==================================================
 .. post:: 25, Jul, 2005
-   :tags: Hardware,Microcontroller
-   :category: ACC
+   :tags: PIC16F88
+   :category: Machine Language
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!198
 
    .. rubric:: 1) Introduction
       :name: Microcontroller_introduction

@@ -4,13 +4,12 @@
 Visual C++ 2008 Beta2 里面的Class Designer
 =======================================================
 .. post:: 30, Jul, 2007
-   :tags: Visual C++
-   :category: Microsoft,Visual Studio
+   :tags: MFC
+   :category: Visual Studio
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!720
+
 
    |image|
 

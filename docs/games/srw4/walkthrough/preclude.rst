@@ -889,34 +889,22 @@ PS的复刻版的精神设定有所变动。大大减少了集中出现的频率
    * - .. admonition:: 真实系
           :class: attention
    
-          [SRW4S] 第一话会进入\ :doc:`00a_contact_real`\ 
+          | [SRW4S] 第一话会进入\ :doc:`00a_contact_real`\ 
+          | [SRW4] 第一话会进入\ :doc:`01a_the_beginning_real`\ 
+          | \ :ref:`ガブスレイ<srw4_unit_gabthley>`\ （サラ） 1/3
+          | \ :ref:`Sガンダム <srw4_unit_s_gundam>`\ 1/2
+          | :ref:`Ex-Sガンダム <srw4_unit_ex_s_gundam>` 1/4
+          | クェス 1/2
+          | ヤクト・ドーガ 1/3
+          | クワサン 1/4
+          | アシュラテンプル（ギャブレー）1/5
+          | キュベレイMk-IIx2（プル和プルツー）1/6
+          | GP-02A追加アトミックバズーカ 1/9
+          | 神宮寺力、明日香麗和桜野マリ选择一个留队 1/2
 
-          [SRW4] 第一话会进入\ :doc:`01a_the_beginning_real`\ 
-
-          \ :ref:`ガブスレイ<srw4_unit_gabthley>`\ （サラ） 1/3
-
-          :ref:`Sガンダム <srw4_unit_s_gundam> ` 1/2
-
-          :ref:`Ex-Sガンダム <srw4_unit_ex_s_gundam>` 1/4
-
-          クェス 1/2
-          
-          ヤクト・ドーガ 1/3
-
-          クワサン 1/4
-
-          アシュラテンプル（ギャブレー）1/5
-
-          キュベレイMk-IIx2（プル和プルツー）1/6
-
-          GP-02A追加アトミックバズーカ 1/9
-
-          神宮寺力、明日香麗和桜野マリ选择一个留队 1/2
      - .. admonition:: 超级系
           :class: attention
 
-          [SRW4S] 第一话会进入\ :doc:`01b_the_beginning_super`\ 
-
-          [SRW4] 第一话会进入\ :doc:`00b_contact_super`\ 
-
-          ダイモス追加武器 1/1
+          | [SRW4S] 第一话会进入\ :doc:`01b_the_beginning_super`\ 
+          | [SRW4] 第一话会进入\ :doc:`00b_contact_super`\ 
+          | ダイモス追加武器 1/1

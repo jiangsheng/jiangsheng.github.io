@@ -6,8 +6,8 @@ Visual Studio 6.0 Service Pack 6
 =========================================
 
 .. post:: 1, Apr, 2004
-   :tags: 
-   :category: Visual C++
+   :tags: Bug
+   :category: Visual Studio
    :author: me
    :nocomments:
 

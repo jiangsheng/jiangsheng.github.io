@@ -4,8 +4,8 @@
 How to force popup window to navigate in the same window in a webbrowser control
 ================================================================================
 .. post:: 22, Nov, 2009
-   :tags: ActiveX,Internet Explorer,Internet Explorer 6,Trident (layout engine),Web browser,WebBrowser Control,Windows Server 2003,Windows XP
-   :category: enmsdn,Microsoft,Visual C++,Visual Studio,Webbrowser control
+   :tags: MSHTML
+   :category: Win32
    :author: me
    :nocomments:
 

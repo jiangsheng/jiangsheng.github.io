@@ -4,13 +4,10 @@
 STL/CLR, Compiler and Marshaling
 ================================
 .. post:: 12, Apr, 2007
-   :tags: C#,Common Language Runtime,Microsoft Foundation Class Library,Open source,Standard Template Library,Visual C++,Windows Vista
-   :category: enmsdn,Microsoft,Visual Studio
+   :tags: CPP
+   :category: Visual Studio, .Net Framework,Programming
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!664
 
    MSDN第9频道又采访了Visual C++类库组的项目经理\ `Nikola
    Dudar <http://channel9.msdn.com/Showpost.aspx?postid=284140>`__\ 和\ `Sarita

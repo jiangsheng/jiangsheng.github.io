@@ -5,8 +5,8 @@ VC的自动化向导的BUG
 =======================
 
 .. post:: 19, Apr, 2005
-   :tags: MFC
-   :category: Visual C++, Microsoft Foundation Classes
+   :tags: MFC,Bug
+   :category: Visual Studio
    :author: me
    :nocomments:
 

@@ -5,7 +5,7 @@ Do and Do Not in C Programming
 ====================================
 
 .. post:: 25 May, 2025
-   :tags: C
+   :tags: CPP
    :category: Programming
    :author: me
    :nocomments:

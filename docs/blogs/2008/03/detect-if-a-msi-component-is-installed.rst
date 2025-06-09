@@ -4,8 +4,8 @@
 Detect if a MSI component is installed
 ======================================
 .. post:: 24, Mar, 2008
-   :tags: Application programming interface,C#,Windows SDK
-   :category: enmsdn,Microsoft
+   :tags: MSI,pinvoke
+   :category: Win32
    :author: me
    :nocomments:
 

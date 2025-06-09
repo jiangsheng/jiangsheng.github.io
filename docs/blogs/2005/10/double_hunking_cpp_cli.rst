@@ -4,8 +4,8 @@
 托管C++中函数调用的双重转换(Double Thunking)
 ==================================================
 .. post:: 7 Oct, 2005
-   :tags: C++/CLI, Performance
-   :category: Visual C++
+   :tags: CPP
+   :category: Visual Studio, .Net Framework
    :author: me
    :nocomments:
 

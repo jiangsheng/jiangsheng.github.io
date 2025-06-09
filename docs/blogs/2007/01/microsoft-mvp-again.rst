@@ -4,7 +4,7 @@
 MIcrosoft MVP again
 ===================
 .. post:: 1, Jan, 2007
-   :category: Microsoft
+   :category: Personal
    :author: me
    :nocomments:
 

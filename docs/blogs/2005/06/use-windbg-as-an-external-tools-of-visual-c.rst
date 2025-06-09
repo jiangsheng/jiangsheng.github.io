@@ -4,8 +4,8 @@
 Use windbg as an external tools of Visual C++
 =============================================
 .. post:: 27, Jun, 2005
-   :tags: Visual C++, windbg
-   :category: Computers and Internet
+   :tags: windbg
+   :category: Visual Studio
    :author: me
    :nocomments:
 

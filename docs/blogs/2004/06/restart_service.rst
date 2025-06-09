@@ -5,8 +5,8 @@
 ===================
 
 .. post:: 23, Jun, 2004
-   :tags: Windows API
-   :category: Windows, Win32
+   :tags: service,IIS
+   :category: Win32
    :author: me
    :nocomments:
 

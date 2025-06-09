@@ -4,12 +4,10 @@
 Visual Studio 2010: Class Wizard重返Visual C++… Control Shift X.
 =============================================================================================
 .. post:: 11, Nov, 2009
-   :tags: Microsoft,Microsoft Foundation Class Library,Visual C++,Visual Studio
+   :tags: MFC   
+   :category: Visual Studio
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!912
 
    |image|
 

@@ -3,8 +3,10 @@
 
 自定义在RichEdit中插入对象的图标
 ==================================
+
 .. post:: 4, Mar, 2004
-   :category: RichEdit, Win32, Visual C++
+   :tags: RichEdit
+   :category: Win32
    :author: me
    :nocomments:
 

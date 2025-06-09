@@ -5,7 +5,7 @@ WinForm
 ==============
 
 .. post:: 28, Apr, 2004
-   :tags: Windows Forms
+   :tags: WinForms
    :category: .Net Framework
    :author: me
    :nocomments:

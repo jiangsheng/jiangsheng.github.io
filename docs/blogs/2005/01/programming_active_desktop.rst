@@ -5,8 +5,8 @@
 ============================================================
 
 .. post:: 22, Jan, 2005
-   :tags: Windows API
-   :category: Windows, Win32
+   :tags: shdocvw
+   :category: Win32
    :author: me
    :nocomments:
 

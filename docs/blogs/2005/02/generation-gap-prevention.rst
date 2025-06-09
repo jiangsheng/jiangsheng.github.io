@@ -4,16 +4,11 @@
 Generation Gap Prevention
 =========================
 .. post:: 21, Feb, 2005
-   :category: Uncategorized
+   :category: English Writing Practice
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!129
-
    Jason
-
-   LV150 S/W
 
    Generation Gap Prevention
 

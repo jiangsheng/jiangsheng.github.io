@@ -4,12 +4,9 @@
 Lab4
 ====
 .. post:: 13, Jun, 2005
-   :category: ACC
+   :category: Machine Language
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!187
 
    ;=====================================================================
 

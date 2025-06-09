@@ -4,8 +4,8 @@
 When you get a System.BadImageFormatException. maybe you indeed have a bad system image.
 ========================================================================================
 .. post:: 8, Feb, 2013
-   :tags: .NET Framework,Call stack,Exception handling
-   :category: Microsoft,Visual Studio
+   :tags: process
+   :category: .Net Framework
    :author: me
    :nocomments:
 

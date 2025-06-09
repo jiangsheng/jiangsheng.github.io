@@ -4,7 +4,7 @@
 Skew detection and correction resources
 =======================================
 .. post:: 1, Jun, 2007
-   :category: Math
+   :category: Computer Graphics
    :author: me
    :nocomments:
 

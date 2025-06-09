@@ -4,8 +4,7 @@
 Troubleshooting SGEN : error : An attempt was made to load an assembly with an incorrect format
 ================================================================================================================
 .. post:: 10 Sep, 2024
-   :tags: sgen
-   :category: C#, .Net Framework, Windows SDK
+   :category: Visual Studio, .Net Framework
    :author: me
    :nocomments:
 

@@ -8,9 +8,6 @@ Telephone Tips
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!141
-
    | Answering the phone：
    | • Hello? (informal)
    | • Thank you for calling Boyz Autobody. Jody speaking. How can I

@@ -14,6 +14,7 @@ Blogs in April 2004
    delete_ie_history_programmatically
    vc6_sp6
    winform_notes
+   vc6_clr_managed_cpp
 
 * :ref:`genindex`
 * :ref:`modindex`

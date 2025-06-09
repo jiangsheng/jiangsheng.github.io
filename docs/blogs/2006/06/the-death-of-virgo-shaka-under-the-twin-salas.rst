@@ -8,9 +8,6 @@ The death of Virgo Shaka under the twin Salas
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!506
-
    .. container::
 
       Gold Saint Virgo Shaka, after a suicidal battle against three

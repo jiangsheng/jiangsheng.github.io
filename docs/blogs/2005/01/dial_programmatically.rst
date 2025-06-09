@@ -5,8 +5,8 @@
 ===============================
 
 .. post:: 23, Jan, 2005
-   :tags: Windows API
-   :category: Windows, Win32
+   :tags: Win32
+   :category: Win32
    :author: me
    :nocomments:
 

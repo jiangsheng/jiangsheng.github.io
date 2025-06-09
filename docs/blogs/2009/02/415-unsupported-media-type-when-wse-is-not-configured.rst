@@ -4,13 +4,10 @@
 415 Unsupported Media Type when WSE is NOT configured
 =====================================================
 .. post:: 14, Feb, 2009
-   :tags: ASP.Net,Web Service
-   :category: Microsoft
+   :tags: ASP.Net,Web Service,IIS
+   :category: .Net Framework
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!850
 
    I have a web service that runs fine on my Windows XP. However, when I
    deploy to the production server, the web service returns 415

@@ -4,10 +4,12 @@
 数据绑定 TreeView 的演示应用程序
 ==================================
 .. post:: 30, Mar, 2004
-   :tags: Data Binding, TreeView
-   :category: Windows Forms
+   :tags: WinForms
+   :category: UI
    :author: me
    :nocomments:
+
+一个基于WinForms的自绘示例。
 
 https://web.archive.org/web/20020808201431/http://msdn.microsoft.com/library/en-us/dnwinforms/html/custcntrlsamp4.asp
 

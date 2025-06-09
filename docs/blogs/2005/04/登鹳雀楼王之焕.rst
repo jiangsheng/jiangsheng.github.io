@@ -8,9 +8,6 @@
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!168
-
    白日依山尽，黄河入海流
 
    The sun beyond the mountains glows;/The Yellow River seaward flows.

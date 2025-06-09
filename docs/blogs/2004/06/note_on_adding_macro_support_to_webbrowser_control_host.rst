@@ -5,8 +5,8 @@
 ===========================================
 
 .. post:: 27, Jun, 2004
-   :tags: WebBrowser Control, CHtmlView, Scripting, VBA
-   :category: Microsoft Foundation Classes
+   :tags: MSHTML, Scripting
+   :category: Win32
    :author: me
    :nocomments:
 

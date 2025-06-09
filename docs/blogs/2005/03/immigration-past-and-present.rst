@@ -8,9 +8,6 @@ Immigration Past and Present
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!140
-
    Immigration Past and Present
 
    Reasons: Economic/Political/Natural Disasters

@@ -2,10 +2,12 @@ What is the Windows API for
 ====================================
 
 .. post:: 21, Mar, 2012
-   :tags: Win32
-   :category: Windows SDK
+   :tags: shdocvw
+   :category: Win32
    :author: me
    :nocomments:
+
+.. _blog_2012_what_is_the_api_for_windows:
 
 There are the questions programmers ask frequently. This faq does not contain sample code,  readers should use keywords (showing in bold, such as function names, CLSIDs or interface names) to find complete solutions elsewhere.
 

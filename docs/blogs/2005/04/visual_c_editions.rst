@@ -5,8 +5,8 @@ Visual C++ 2005的版本区别
 =========================================
 
 .. post:: 21, Apr, 2005
-   :tags: MFC
-   :category: Visual C++, Microsoft Foundation Classes
+   :tags: MFC,Bug
+   :category: Visual Studio
    :author: me
    :nocomments:
 

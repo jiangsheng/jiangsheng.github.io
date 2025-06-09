@@ -4,8 +4,8 @@
 How to: Migrating a CLR console Visual C++ project to Windows Forms
 ===================================================================
 .. post:: 17, Dec, 2012
-   :tags: C++/CLI,Console application,Visual C++,Windows Forms
-   :category: enmsdn,Microsoft,Visual Studio
+   :tags: CPP,WinForms
+   :category: Visual Studio, .Net Framework
    :author: me
    :nocomments:
 

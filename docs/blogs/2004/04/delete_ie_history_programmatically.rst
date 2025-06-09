@@ -5,7 +5,8 @@
 =======================
 
 .. post:: 1, Apr, 2004
-   :category: Internet Explorer, Win32, Visual C++
+   :tags: MSHTML
+   :category: Win32
    :author: me
    :nocomments:
 

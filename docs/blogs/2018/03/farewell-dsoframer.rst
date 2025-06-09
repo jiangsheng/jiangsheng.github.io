@@ -4,8 +4,7 @@
 Farewell, dsoframer
 ===================
 .. post:: 11, Mar, 2018
-   :tags: dsoframer,Office
-   :category: Microsoft
+   :category: Microsoft Office,Win32
    :author: me
    :nocomments:
 
@@ -33,22 +32,15 @@ Shortly after I published the update Microsoft dropped the bomb that
 discontinued <https://blogs.technet.microsoft.com/windowsitpro/2018/02/01/changes-to-office-and-windows-servicing-and-support/>`__,
 I have to say that I am lucky to have some doctors finally start
 accepting the side by side UI. Maybe the rest will also get use to it
-now there’s no alternative.
+now there's no alternative.
 
 Some issues I encountered over the years
 
-The click-to-run edition of Office dropped the registry entries required
-by dsoframer to function .
-
-.Net Programmability support is not a default install option of Office
-
-Adobe Acrobat Reader shipped with dsoframer too, and uninstall either
-the reader or my app breaks the remaining one. Note to self: GuidGen on
-samples.
-
-Does not open document if Office is running
-
-Various drawing issues.
+* The click-to-run edition of Office dropped the registry entries required by dsoframer to function.
+* .Net Programmability support is not a default install option of Office.
+* Adobe Acrobat Reader shipped with dsoframer too, and uninstall either the reader or my app breaks the remaining one. Note to self: GuidGen on samples.
+* Does not open document if Office is running.
+* Various drawing issues.
 
 I supported embedding Word longer than the Outlook team, I am really not
 proud of that.

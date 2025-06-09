@@ -8,9 +8,6 @@ Notes
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!180
-
    | common law and jury system
    | legal system of country or the system of justice reflect the
      history and culture of the country

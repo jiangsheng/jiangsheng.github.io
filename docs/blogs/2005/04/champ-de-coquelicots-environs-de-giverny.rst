@@ -4,7 +4,7 @@
 Champ de Coquelicots, Environs de Giverny
 =========================================
 .. post:: 14, Apr, 2005
-   :category: Uncategorized
+   :category: English Writing Practice
    :author: me
    :nocomments:
 

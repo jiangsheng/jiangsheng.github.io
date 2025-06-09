@@ -4,12 +4,9 @@
 整理旧照片……
 =========================
 .. post:: 5, Dec, 2005
-   :category: Uncategorized
+   :category: Personal
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!450
 
    .. rubric:: Source:
       http://www.flickr.com/photos/jiangsheng/sets/1514328/show/

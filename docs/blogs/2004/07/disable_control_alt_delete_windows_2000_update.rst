@@ -5,7 +5,7 @@
 ========================================
 .. post:: 25, Jul, 2004
    :tags: MFC, Hook
-   :category: Microsoft Foundation Classes,Visual C++
+   :category: Win32, Security
    :author: me
    :nocomments:
 

@@ -4,7 +4,8 @@
 What's new in MFC/ATL 11 Beta
 =============================
 .. post:: 22, Apr, 2012
-   :tags: ActiveX Document,MFC,Microsoft Visual Studio,Visual C++
+   :tags: MFC
+    :category: Visual Studio
    :author: me
    :nocomments:
 

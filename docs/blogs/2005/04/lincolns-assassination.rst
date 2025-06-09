@@ -4,12 +4,9 @@
 Lincoln's assassination
 =======================
 .. post:: 12, Apr, 2005
-   :category: Uncategorized
+   :category: English Writing Practice
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!156
 
    The assassination of A. Lincoln on April 14, 1865 may be the result
    of his making enemies by his good qualities and acts. He represented

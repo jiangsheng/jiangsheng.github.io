@@ -8,9 +8,6 @@ Summary
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!153
-
    Story:
    http://www.reuters.com/newsArticle.jhtml?type=internetNews&storyID=8109019
 

@@ -5,8 +5,8 @@
 ============================
 
 .. post:: 24, Jun, 2004
-   :tags: security, process, File Mapping
-   :category: Windows Service, Win32
+   :tags: process, service
+   :category: Win32,Security
    :author: me
    :nocomments:
 

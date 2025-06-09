@@ -4,8 +4,8 @@
 Ask Mr JS
 =====================
 .. post:: 6, Feb, 2004
-   :tags: CSDN, MFC
-   :category: Win32, Microsoft Foundation Classes
+   :tags: CSDN, MFC,Q&A
+   :category: Win32
    :author: me
    :nocomments:
 

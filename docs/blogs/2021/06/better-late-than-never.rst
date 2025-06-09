@@ -4,7 +4,8 @@
 Better Late Than Never
 ===========================
 .. post:: 16, Jun, 2021
-   :category: Uncategorized
+   :tags: MFC, shdocvw
+   :category: Win32
    :author: me
    :nocomments:
 

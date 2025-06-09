@@ -4,7 +4,7 @@
 Querying Wikipedia data using SPARQL
 ====================================
 .. post:: 5, May, 2023
-   :category: Uncategorized
+   :category: Internet
    :author: me
    :nocomments:
 

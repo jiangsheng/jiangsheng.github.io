@@ -4,8 +4,8 @@
 PRB: ::SetUIHandler Causes Changes in Save As Dialog
 ==============================================================
 .. post:: 21, Apr, 2006
-   :tags: Dynamic HTML,Trident (layout engine)
-   :category: enmsdn,Microsoft,Visual C++
+   :tags: MSHTML
+   :category: UI
    :author: me
    :nocomments:
 
@@ -45,8 +45,6 @@ http://www.codeproject.com/atl/popupblocker.asp:
 
 By redirecting the ole commands to the original client site, the
 save as options are restored.
-
-
 
 BTW, the sentence "This means that you must host the `Web
 browser <http://en.wikipedia.org/wiki/Web_browser>`__ control must

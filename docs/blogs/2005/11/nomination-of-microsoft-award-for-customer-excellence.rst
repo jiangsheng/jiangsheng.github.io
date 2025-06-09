@@ -5,8 +5,7 @@ Nomination of Microsoft Award for Customer Excellence
 =====================================================
 
 .. post:: 22, Nov, 2005
-   :tags: Microsoft Visual Studio
-   :category: Microsoft
+   :category: Microsoft,Personal,Visual Studio
    :author: me
    :nocomments:
 

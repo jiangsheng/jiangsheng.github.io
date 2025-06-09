@@ -4,14 +4,14 @@
 Walkaround for Error : An add-on for this website failed to run. When opening Visual C++’s Add Variable Wizard after IE 8 is installed
 ======================================================================================================================================
 .. post:: 24, Mar, 2009
-   :tags: ActiveX,Internet Explorer,Internet Explorer 8,Microsoft Visual Studio,Regmon,Security Programming,Trident (layout engine),Visual C++
-   :category: enmsdn,Microsoft,Visual Studio
+   :tags: MSHTML,Security
+   :category: Visual Studio
    :author: me
    :nocomments:
 
 Update: it looks like a lot of people are hitting this page by
 mistake. If you don't write software for a living then this page is
-probably not for you. 
+not for you. 
 
 The program is lost, but what it does is basically copying the entries from the restricted zone to the 1000 zone (custom zone of VC++ Wizards engine). In addition it has a REG_DWORD value set to 0 for name "1207". IE security zone settings are stored in the registry path 
 HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet

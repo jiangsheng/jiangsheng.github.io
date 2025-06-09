@@ -4,12 +4,9 @@
 'The Microsoft Code' by Adam Barr
 =================================
 .. post:: 23, Jun, 2006
-   :category: Entertainment,Microsoft
+   :category: Programming, Microsoft
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!508
 
    .. container::
 

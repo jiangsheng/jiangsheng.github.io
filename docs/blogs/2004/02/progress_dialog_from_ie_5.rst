@@ -5,8 +5,8 @@
 =============================
 
 .. post:: 12, Feb, 2004
-   :tags: Windows API
-   :category: Windows, Win32
+   :tags: MSHTML
+   :category: UI
    :author: me
    :nocomments:
 

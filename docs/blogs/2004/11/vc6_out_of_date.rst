@@ -5,8 +5,7 @@
 ===================================================
 
 .. post:: 11, Nov, 2004
-   :tags: 
-   :category: Visual C++
+   :category: Visual Studio
    :author: me
    :nocomments:
 

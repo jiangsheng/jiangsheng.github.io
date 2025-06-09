@@ -5,12 +5,9 @@ When Microsoft Office Live Meets Google Chrome
 ==============================================
 .. post:: 8, Sep, 2008
    :tags: Google Chrome,Office Live
-   :category: Microsoft
+   :category: Internet, Microsoft
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!804
 
    To use Microsoft Office Live, your computer must meet one of the
    following requirements:

@@ -4,8 +4,8 @@
 How To Detect If an Application Has Stopped Responding
 ============================================================
 .. post:: 31, Dec, 2004
-   :tags: Windows API
-   :category: Windows, Win32
+   :tags: Win32
+   :category: UI 
    :author: me
    :nocomments:
 

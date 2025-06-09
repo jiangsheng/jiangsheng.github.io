@@ -7,8 +7,8 @@ Handle NewWindow3 and ShowModalDialog in CHtmlView
 ========================================================
 
 .. post:: 3 Jul, 2007
-   :tags: Microsoft Foundation Classes, WebBrowser Control
-   :category: WinForms
+   :tags: MFC,MSHTML
+   :category: UI
    :author: me
    :nocomments:
 

@@ -6,7 +6,7 @@
 
 .. post:: 23, Jan, 2005
    :tags: Power Management
-   :category: AMD
+   :category: Networking
    :author: me
    :nocomments:
 

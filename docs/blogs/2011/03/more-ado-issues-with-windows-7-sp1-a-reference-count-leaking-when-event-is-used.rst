@@ -4,8 +4,8 @@
 More ADO issues with KB983246/Windows 7 SP1: a reference count leaking when event is used
 =========================================================================================
 .. post:: 14, Mar, 2011
-   :tags: ActiveX Data Objects
-   :category: Microsoft
+   :tags: ADO,Bug
+   :category: Microsoft, Windows Update
    :author: me
    :nocomments:
 

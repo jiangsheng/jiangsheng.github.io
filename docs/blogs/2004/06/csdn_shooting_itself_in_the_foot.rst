@@ -6,7 +6,7 @@
 
 .. post:: 29, Jun, 2004
    :tags: CSDN
-   :category: Web Design, Community 
+   :category: UI
    :author: me
    :nocomments:
 

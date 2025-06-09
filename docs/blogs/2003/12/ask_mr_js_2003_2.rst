@@ -6,8 +6,8 @@ Ask Mr JS
 =====================
 
 .. post:: 12, Dec, 2003
-   :tags: CSDN, MFC
-   :category: Win32, Microsoft Foundation Classes
+   :tags: CSDN, MFC,Q&A
+   :category: Win32
    :author: me
    :nocomments:
 

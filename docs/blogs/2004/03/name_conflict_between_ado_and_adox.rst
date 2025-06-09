@@ -5,8 +5,8 @@ ADO和ADOX
 ==================
 
 .. post:: 10, Mar, 2004
-   :tags: ADO
-   :category: Visual C++
+   :tags: ADO, CPP
+   :category: Win32
    :author: me
    :nocomments:
 

@@ -5,8 +5,8 @@ How to restart Windows Explorer programmatically using Restart manager
 =======================================================================
 
 .. post:: 22 Jan, 2013
-   :tags: CPP, Taskbar, Windows Explorer, Windows Registry, Windows Vista
-   :category: Visual C++
+   :tags: CPP, shdocvw,process
+   :category: Win32
    :author: me
    :nocomments:
 

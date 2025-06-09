@@ -4,8 +4,8 @@
 使用WinDbg调试VC程序
 ======================
 .. post:: 8, Jun, 2005
-   :tags: Visual C++, windbg
-   :category: Visual C++
+   :tags: windbg
+   :category: Visual Studio
    :author: me
    :nocomments:
 

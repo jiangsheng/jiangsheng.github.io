@@ -12,7 +12,6 @@ Blogs in November 2004
    :titlesonly:
 
    my_csdn_saved_posts
-   vc6_clr_managed_cpp
    vc6_out_of_date
 
 * :ref:`genindex`

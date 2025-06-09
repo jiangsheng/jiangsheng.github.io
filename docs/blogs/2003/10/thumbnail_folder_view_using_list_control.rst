@@ -5,8 +5,8 @@
 ============================================
 
 .. post:: 23, Oct, 2003
-   :tags: thumbnail, Windows Shell
-   :category: Microsoft Foundation Classes, Win32
+   :tags: MFC, shdocvw
+   :category: Computer Graphics
    :author: me
    :nocomments:
 

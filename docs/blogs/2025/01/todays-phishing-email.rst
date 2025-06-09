@@ -4,7 +4,7 @@
 Today's phishing email RE: Your A⁮pp឵Ie lD Has Been Di⁫sabIed Pending Further Verification
 =====================================================================================================
 .. post:: 3, Jan, 2025
-   :category: Computers and Internet
+   :category: Internet, Security
    :author: me
    :nocomments:
 

@@ -4,8 +4,7 @@
 Microsoft Award Certificates
 ============================
 .. post:: 7, Apr, 2006
-   :tags: Microsoft
-   :category: Computers and Internet
+   :category: Microsoft,Personal
    :author: me
    :nocomments:
 

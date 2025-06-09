@@ -8,9 +8,6 @@ Introduction/Conclusion
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!118
-
    Introduction
 
    The first children of families were used to success their families,

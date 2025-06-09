@@ -4,13 +4,10 @@
 MFC更新Beta版
 =========================================
 .. post:: 8, Jan, 2008
-   :tags: C#,Microsoft Foundation Class Library,Service pack
-   :category: Microsoft,Visual C++,Visual Studio
+   :tags: MFC,CPP
+   :category: Visual Studio
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!780
 
    一个面向Visual C++
    2008的MFC更新测试版\ `已经发布 <http://blogs.msdn.com/vcblog/archive/2008/01/07/mfc-beta-now-available.aspx>`__\ ，同时也提供了\ `文档的下载 <http://www.microsoft.com/downloads/details.aspx?familyid=0D805D4E-2DC2-47C7-8818-A9F59DE4CD9B&displaylang=en>`__\ 。这个版本包含新的界面的特性，例如Office

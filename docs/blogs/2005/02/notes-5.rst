@@ -4,30 +4,28 @@
 Notes
 =====
 .. post:: 3, Feb, 2005
-   :category: Uncategorized
+   :tags: Education
+   :category: English Writing Practice
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!117
 
    Public Edu phylosephy and funding
 
    Compulsory. 16 / 9 grade
 
-   | Control: No nation wide cirriccum set by fed. fed. control by Funds
+   | Control: No nation wide curriculum set by fed. fed. control by Funds
      to special programs. handicap and bilingual programs not as other
      countries.
    |  Education control
    |   Locally 3 level
    |  State Depart of Edu 2 basic  fun
-   |    cirriccum requirement for all school in the state
+   | curriculum requirement for all school in the state
    |    numbers of credits to graduate
    |  School district
-   |   number desided by size of population and size of state
+   |   number decided by size of population and size of state
    |   run by school board
-   |   determin content of courses
-   |    decide available elecitve courses
+   |   determine content of courses
+   |    decide available elective courses
    |   operation of the school
    |    hiring
    |  School
@@ -36,27 +34,27 @@ Notes
 
    | Money from, Tuition go
    | Fond :8% from Fed. 40% from state texes, 52% from local tax from
-     local commuty.(by voters)
+     local community.(by voters)
    | Tuitions
 
-   |  Equality of oppitunity
+   |  Equality of opportunity
    |   public school: funded by gov poor area , less money, less likely
      children have higher edu.
-   |   Private/Religius school not funded by gov(usual by religious org)
+   |   Private/Religious school not funded by gov(usual by religious org)
      . Questions about private school student parents have to pay
      private school tuition and public edu tax
-   |   Increate secular nature quially
+   |   Increase secular nature quially
 
    |   press on use tax to private school. arguments
    |    lower taxes?public school offer the best change of
-     equally.should not be less funded.private school devisive.own
+     equally.should not be less funded.private school devisive. own
      concern.
    |    parent decide, unfair tax as well as tuition
-   |   solution no to satify every
+   |   solution no to satisfy every
    |  
-   |   use of the tuitions foutures, each child to recieve scholship
-     with educal value, schools compete the scholship
-   |    each child to recieve scholship with educal value,school can add
+   |   use of the tuitions foutures, each child to receive scholarship
+     with educational value, schools compete the scholarship
+   |    each child to receive scholarship with edueducationalal value,school can add
      tuition
    |   
    |   in trouble.

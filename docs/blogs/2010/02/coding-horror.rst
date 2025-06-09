@@ -4,8 +4,8 @@
 Coding Horror
 =============
 .. post:: 4, Feb, 2010
-   :tags: bug,Comment (computer programming),Microsoft,Visual Basic
-   :category: Computers and Internet
+   :tags: CSDN
+   :category: Programming
    :author: me
    :nocomments:
 

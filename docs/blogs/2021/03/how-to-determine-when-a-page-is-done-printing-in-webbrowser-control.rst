@@ -4,7 +4,8 @@
 How To Determine When a Page Is Done Printing in WebBrowser Control
 ===================================================================
 .. post:: 24, Mar, 2021
-   :category: Uncategorized
+   :tags: MSHTML
+   :category: Win32
    :author: me
    :nocomments:
 

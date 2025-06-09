@@ -4,7 +4,7 @@
 Troubleshooting a memory leak
 =============================
 .. post:: 27, Feb, 2021
-   :category: Uncategorized
+   :category: Programming
    :author: me
    :nocomments:
 

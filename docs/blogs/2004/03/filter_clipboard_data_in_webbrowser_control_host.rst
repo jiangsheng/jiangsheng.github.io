@@ -4,8 +4,8 @@
 在浏览器中粘贴时替换剪贴板数据
 ================================
 .. post:: 20, Mar, 2004
-   :tags: WebBrowser Control, MFC, clipboard
-   :category: WebBrowser Control, Microsoft Foundation Classes
+   :tags: MSHTML, MFC, clipboard
+   :category: UI
    :author: me
    :nocomments:
 

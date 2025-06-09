@@ -6,7 +6,7 @@
 
 .. post:: 5, Jan, 2004
    :tags: MFC
-   :category: Microsoft Foundation Classes, Win32
+   :category: Win32
    :author: me
    :nocomments:
 

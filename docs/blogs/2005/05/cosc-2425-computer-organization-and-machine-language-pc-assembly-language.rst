@@ -4,7 +4,7 @@
 Attending Machine Language Class
 =============================================================================
 .. post:: 23, May, 2005
-   :category: ACC
+   :category: Machine Language
    :author: me
    :nocomments:
 

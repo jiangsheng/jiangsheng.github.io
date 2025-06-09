@@ -8,9 +8,6 @@ Population in US
    :author: me
    :nocomments:
 
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!136
-
    | Population in US
    | 249M people. 8M more 1980
 

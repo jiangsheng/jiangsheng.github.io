@@ -5,8 +5,8 @@ Win32 & .Net Q&A
 ====================
 
 .. post:: 28, Feb, 2005
-   :tags: CSDN, MFC
-   :category: Win32, Microsoft Foundation Classes
+   :tags: CSDN, MFC,Q&A
+   :category: Win32
    :author: me
    :nocomments:
 
@@ -791,7 +791,7 @@ http://www.codeguru.com/Cpp/I-N/ieprogram/security/article.php/c4387
 EastAsianLunisolarCalendar.GetSexagenaryYear Method
 EastAsianLunisolarCalendar.GetTerrestrialBranch Method
 
-Note: Methods are new in the .NET Framework version 2.0.
+Note: Methods are new in the .Net Framework version 2.0.
 Namespace: System.Globalization
 Assembly: mscorlib (in mscorlib.dll)
 

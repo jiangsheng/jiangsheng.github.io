@@ -4,13 +4,10 @@
 Visual Studio 2005 Untrusted by IE7
 ===================================
 .. post:: 11, Nov, 2006
-   :tags: Visual C++,Visual Studio
-   :category: enmsdn,Microsoft
+   :tags: MSHTML
+   :category: Visual Studio
    :author: me
    :nocomments:
-
-.. container:: bvMsg
-   :name: msgcns!1BE894DEAF296E0A!539
 
    Today I upgraded one of my development machine to IE7. Everything
    looks fine, except I have to change the `FileDownload event

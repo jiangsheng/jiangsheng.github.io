@@ -5,7 +5,8 @@ jiangsheng的CSDN统计数据
 ======================================
 
 .. post:: 24, Dec, 2005
-   :category: Computers and Internet
+   :tags: CSDN
+   :category: Internet
    :author: me
    :nocomments:
 
