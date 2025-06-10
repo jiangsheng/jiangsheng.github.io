@@ -10,7 +10,7 @@ Mechanics  (Front Mission 1)
    :maxdepth: 1
    :caption: mechanics:
    :titlesonly:
-   :hidden:
+   
 
     City <city>
     Commands <commands>

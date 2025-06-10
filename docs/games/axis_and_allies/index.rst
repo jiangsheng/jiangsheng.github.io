@@ -6,7 +6,7 @@ Axis & Allies
 .. toctree::
    :maxdepth: 0
    :caption: Contents:
-   :hidden:
+   
 
    Attributes <attributes>
    Buildings <buildings/index> 

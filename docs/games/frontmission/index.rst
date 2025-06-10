@@ -9,7 +9,7 @@ Front Mission 1
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
-   :hidden:
+   
 
    Mechanics <mechanics/index> 
    Platform Differences <platform_difference> 

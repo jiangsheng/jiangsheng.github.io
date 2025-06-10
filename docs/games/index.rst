@@ -16,7 +16,7 @@ Gaming guides
    :maxdepth: 1
    :caption: 内容:
    :titlesonly:
-   :hidden:
+   
     
    Axis and Allies <axis_and_allies/index>
    Front Mission <frontmission/index>

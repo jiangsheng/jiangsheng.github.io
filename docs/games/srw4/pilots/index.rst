@@ -6,9 +6,9 @@
 机师 (第四次超级机器人大战)
 ===============================
 .. toctree::
-   :maxdepth: 0
+   :maxdepth: 1
    :caption: 内容:
-   :hidden:
+   
 
    pilot_data_snes
    pilot_data_ps

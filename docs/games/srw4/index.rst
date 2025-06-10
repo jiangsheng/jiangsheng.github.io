@@ -6,9 +6,8 @@
 =====================================
 
 .. toctree::
-   :maxdepth: 0
+   :maxdepth: 1
    :caption: 内容:
-   :hidden:
 
    游戏设定 <mechanics/index>
    机师 <pilots/index>
@@ -30,5 +29,6 @@
 
 于是，战乱的火焰在这里燃烧，也许，这就是超级机器人们命中注定的最后一战。
 
-在开始的时候，需要\ :ref:`自定义主角 <srw4_walkthrough_preclude>`\ 。注意主角的选择影响\ :ref:`隐藏要素 <srw4_missable>` \ 。然后进入\ :doc:`游戏进程 <walkthrough/index>`\ 。
+在游戏开始的时候，会要求玩家\ :ref:`自定义主角 <srw4_walkthrough_preclude>`\ 。注意主角生日和血型会影响\ :ref:`精神指令 <srw4_mechanics_sprit_command>`\ ，性格和性别的选择影响主人公的恋人人选，系别的选择则影响主人公开局驾驶的\ :ref:`机体 <srw4_units_banpresto_originals>`\ 和\ :ref:`隐藏要素 <srw4_missable>` \ 。在主人公自定义完成之后进入\ :doc:`游戏的第一关 <walkthrough/index>`\ 。
+
 

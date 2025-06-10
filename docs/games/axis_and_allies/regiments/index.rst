@@ -9,7 +9,7 @@ Regiments (Axis and Allies)
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
-   :hidden:
+   
       
    Formation <formation>
    Terrain <terrain>

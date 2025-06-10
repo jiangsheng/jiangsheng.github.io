@@ -9,7 +9,7 @@ Buildings (Axis and Allies)
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
-   :hidden:
+   
 
 In this game buildings are generally deployed from trucks. As they are mostly mobile structures, you can usually pack up buildings and deploy them elsewhere. In truck mode a building can move just like normal troops. But they will have reduced production, health, defense and no offense capabilities.
 
