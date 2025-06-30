@@ -16,4 +16,4 @@ Some terrains are not suitable for buildings. The Improved Logistics :ref:`upgra
 
 Having a city in front of your base is not always a good thing. If captured it now gives enemies a supply line.
 
-Heal only happens when resting. If you assign a regiment on guard duty,
+Heal only happens when resting. If you assign a regiment on guard duty, they won't be healed.

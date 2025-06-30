@@ -3952,7 +3952,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_D2_B.png
      - ダブデ
      - :ref:`高达0079 <srw4_units_ms_gundam>`
-     - 2000
+     - 20000
      - 255
      - 16
      - 380

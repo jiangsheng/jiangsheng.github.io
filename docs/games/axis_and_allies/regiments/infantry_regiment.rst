@@ -15,7 +15,7 @@ Infantry
 The cheapest regiment type in the game, good for early game recons, rough :ref:`terrain <axis_and_allies_terrain>` and defensive battles with the heap of entrenchment. 
 Although they are relatively weak, you can improve them with improved machine gun, marksmanship training or entrenchment :ref:`upgrade <axis_and_allies_upgrades>`. 
 
-All infantry units (including those mixed within mechanized and armor regiments) have the Infantry :ref:`attribute <axis_and_allies_attributes>` that gives them +20% AP Resistance. They also have one infantry officer in the regiment.
+All infantry units (including those mixed within mechanized and armor regiments) have the Infantry :ref:`attribute <axis_and_allies_attributes>` that gives them +20% AP Resistance. Infantry regiments also have one infantry officer in the regiment.
 
 Tech up when you have 2 full infantry HQs. Even if you are not doing early game rush, the cities you captured in early game will help you up in higher level battles. With maybe the exception being high startup fund multiplayer games.
 
@@ -27,7 +27,9 @@ Basic infantry unit with a wide range of weapons. In favorable terrains and entr
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Recon Infantry Regiment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Weakest in the game and lacks firepower. May just as well run away from threat with the column :ref:`formation <axis_and_allies_formation>`. Good for capturing unmanned cities, accumulate general exp for special operations and defend them with entrenchment :ref:`bonus <axis_and_allies_attributes>` against other recons. Comes with the recon attribute, +12 visibility, +3 current morale. The morale bonus is actually counterproductive, as you usually want them to rout fast to heal up somewhere else. They heal faster than other infantries with the smaller 5 person squad. They also come out of tent with fully squads, if your base in trouble this might be the fastest way to pump out regiments, except maybe against snipers, the small squad make them easier to wipe out. In late game you want stronger units, but recons can still have their use as scout and cannon fodder for artillery. 
+Weakest in the game and lacks firepower. May just as well run away from threat with the column :ref:`formation <axis_and_allies_formation>`. Good for capturing unmanned cities, accumulate general exp for special operations and defend them with entrenchment :ref:`bonus <axis_and_allies_attributes>` against other recons. Comes with the recon attribute, +12 visibility, +3 current morale.
+
+The morale bonus is actually counterproductive, as you usually want them to rout fast to heal up somewhere else. They heal faster than other infantries with the smaller 5 person squad. They also come out of tent with fully squads, if your base is in trouble this might be the fastest way to pump out regiments, except maybe against snipers, the small squad make them easier to  snip out. In late game you want stronger units, but recons can still have their use as scout and cannon fodder for artillery. 
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Anti-Tank Infantry Regiment

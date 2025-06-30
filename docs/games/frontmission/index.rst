@@ -22,9 +22,9 @@ The game is centralized on battling with robots (called wanzers in this game) on
 
 Each stage has a victory condition and a defeat condition. Most of the time, the defeat condition is losing the main character, but sometimes it could be failing to protect a certain NPC or out of time. If you lost in a stage it would be game over. If you saved earlier, you can load that save. 
 
-Each :ref:`pilot <front_mission_mechanics_pilots>` has a wanzer. Although you can :ref:`customize <front_mission_mechanics_city>` wanzers any way you want, it is best to build a wanzer to its pilot's strength. For example, if the pilot has Double or Switch :ref:`skills <front_mission_mechanics_skills>`, then put Melee or Short :ref:`weapons <front_mission_mechanics_weapons>` in both hands. If the pilot is good at Long, equip some long range weapons. You want good defensive :ref:`parts <front_mission_mechanics_parts>` on a tank, but you want offensive parts on your attackers. 
+Each :ref:`pilot <front_mission_mechanics_pilots>` rides a robot, called wanzer in this game. Although you can :ref:`customize <front_mission_mechanics_city>` wanzers any way you want, it is best to build a wanzer to its pilot's strength. For example, if the pilot has Double or Switch :ref:`skills <front_mission_mechanics_skills>`, then put Melee or Short :ref:`weapons <front_mission_mechanics_weapons>` in both hands. If the pilot is good at Long, equip some long range weapons. You want good defensive :ref:`parts <front_mission_mechanics_parts>` on a tank, but you want offensive parts on your attackers. 
 
-Use arrow keys to select options or move target. Use A to confirm and B to cancel. Use L and R to switch pilots. See :ref:`Input <front_mission_mechanics_input>` for more information. 
+Use arrow keys to select options or move target. Use A to confirm and B to cancel. Use L and R to switch pilots. See :ref:`Input <front_mission_mechanics_input>` for more information about controls. 
 
 When a unit is selected, the top of the screen will display information about the Unit. For example, the following two lines
 
