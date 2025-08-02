@@ -1,4 +1,6 @@
 {
+    "python.defaultInterpreterPath": "C:\\Users\\jason\\anaconda3\\envs\\sphinx\\python.exe",
+    "python.terminal.activateEnvironment": true,
     "restructuredtext.confPath": "${workspaceFolder}\\docs",
     "restructuredtext.workspaceRoot": "c:\\github\\jiangsheng\\jiangsheng.github.io",
     "esbonio.sphinx.buildDir": "${workspaceRoot}/build",
@@ -152,5 +154,10 @@
     ],
     "files.exclude": {
         "**/build/doctrees": true
-    }
+    },
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.useEnvironmentsExtension": true,
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python-envs.pythonProjects": []
 }

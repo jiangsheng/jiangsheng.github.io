@@ -4482,7 +4482,7 @@
    * - EE
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_EE_B.png
-     - エルガイムmkI
+     - エルガイムmkII
      - :ref:`重战机 <srw4_units_heavy_metal_l_gaim>`
      - 3100
      - 220
