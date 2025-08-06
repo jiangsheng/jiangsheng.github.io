@@ -1,5 +1,5 @@
 .. meta::
-   :description: 点击列头排序，Shift+点击列头添加排序条件。 标题打型号的列为99级数据，不打的为0级。 码 属 图 名 作 性 近 远 回 命 直 技 近* 远* 回* 命* 直* 技* SP 空 陆 海 宇 精神1 精神2 精神3 精神4 精神5 精神6 技能 01 自 チャム＝ファウ 丹拜因 普通 0 0 0 0 0 0 5
+   :description: 点击列头排序，Shift+点击列头添加排序条件。 标题打型号的列为99级数据，不打的为0级。 码 属 图 名 作 性 近 远 回 命 直 技 近* 远* 回* 命* 直* 技* SP 空 陆 海 宇 精神1 精神2 精神3 精神4 精神5 精神6 技能 01 自 チャム＝ファウ ダンバイン 普通 0 0 0 0 0 0 5
 
 :html_theme.sidebar_primary.remove: true
 :html_theme.sidebar_secondary.remove: true
@@ -21,9 +21,9 @@
        <label for="comboboxSeries">选择登场作品</label>
        <select name="comboboxSeries" id="comboboxSeries">
          <option value="1" selected>全部</option>
-         <option value="2">机动战士系</option>
-         <option value="3">魔神系</option>
-         <option value="4">重战机系</option>
+         <option value="2">機動戦士系</option>
+         <option value="3">マジンガー系</option>
+         <option value="4">ダンバイン系</option>
          <option value="5">圣战士系</option>
        </select>
        
@@ -73,7 +73,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_01.png
      - チャム＝ファウ
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 普通
      - 0
      - 0
@@ -102,7 +102,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_02.png
      - ベル＝アール
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 弱気
      - 0
      - 0
@@ -131,7 +131,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_03.png
      - エル＝フィノ
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 弱気
      - 0
      - 0
@@ -160,7 +160,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_04.png
      - リリス＝ファウ
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 弱気
      - 0
      - 0
@@ -189,7 +189,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_05.png
      - シルキー＝マウ
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 弱気
      - 0
      - 0
@@ -218,7 +218,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_07.png
      - ジャック＝キング
-     - :ref:`盖塔 <srw4_pilots_getter_robo>`
+     - :ref:`ゲッター <srw4_pilots_getter_robo>`
      - 強気
      - 95
      - 113
@@ -247,7 +247,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_08.png
      - メリー＝キング
-     - :ref:`盖塔 <srw4_pilots_getter_robo>`
+     - :ref:`ゲッター <srw4_pilots_getter_robo>`
      - 普通
      - 0
      - 0
@@ -276,7 +276,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_09.png
      - 流竜馬
-     - :ref:`盖塔 <srw4_pilots_getter_robo>`
+     - :ref:`ゲッター <srw4_pilots_getter_robo>`
      - 強気
      - 120
      - 90
@@ -306,7 +306,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_0A.png
      - 神隼人
-     - :ref:`盖塔 <srw4_pilots_getter_robo>`
+     - :ref:`ゲッター <srw4_pilots_getter_robo>`
      - 強気
      - 113
      - 95
@@ -335,7 +335,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_0B.png
      - 車弁慶
-     - :ref:`盖塔 <srw4_pilots_getter_robo>`
+     - :ref:`ゲッター <srw4_pilots_getter_robo>`
      - 普通
      - 118
      - 93
@@ -365,7 +365,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_0C.png
      - 北条真吾
-     - :ref:`战国魔神 <srw4_pilots_goshogun>`
+     - :ref:`ゴーショーグン <srw4_pilots_goshogun>`
      - 強気
      - 115
      - 108
@@ -395,7 +395,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_0D.png
      - レミー島田
-     - :ref:`战国魔神 <srw4_pilots_goshogun>`
+     - :ref:`ゴーショーグン <srw4_pilots_goshogun>`
      - 超強気
      - 0
      - 0
@@ -424,7 +424,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_0E.png
      - キリー=ギャグレー
-     - :ref:`战国魔神 <srw4_pilots_goshogun>`
+     - :ref:`ゴーショーグン <srw4_pilots_goshogun>`
      - 普通
      - 0
      - 0
@@ -453,7 +453,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_0F.png
      - 神勝平
-     - :ref:`赞波3 <srw4_pilots_zambot_3>`
+     - :ref:`ザンボット３ <srw4_pilots_zambot_3>`
      - 超強気
      - 112
      - 102
@@ -483,7 +483,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_10.png
      - 神江宇宙太
-     - :ref:`赞波3 <srw4_pilots_zambot_3>`
+     - :ref:`ザンボット３ <srw4_pilots_zambot_3>`
      - 強気
      - 100
      - 100
@@ -512,7 +512,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_11.png
      - 神北恵子
-     - :ref:`赞波3 <srw4_pilots_zambot_3>`
+     - :ref:`ザンボット３ <srw4_pilots_zambot_3>`
      - 強気
      - 95
      - 100
@@ -541,7 +541,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_12.png
      - 藤原忍
-     - :ref:`断空我 <srw4_pilots_dancouga>`
+     - :ref:`ダンクーガ <srw4_pilots_dancouga>`
      - 超強気
      - 105
      - 104
@@ -570,7 +570,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_13.png
      - 結城沙羅
-     - :ref:`断空我 <srw4_pilots_dancouga>`
+     - :ref:`ダンクーガ <srw4_pilots_dancouga>`
      - 超強気
      - 98
      - 85
@@ -599,7 +599,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_14.png
      - 式部雅人	
-     - :ref:`断空我 <srw4_pilots_dancouga>`
+     - :ref:`ダンクーガ <srw4_pilots_dancouga>`
      - 強気
      - 98
      - 86
@@ -628,7 +628,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_15.png
      - 司馬亮
-     - :ref:`断空我 <srw4_pilots_dancouga>`
+     - :ref:`ダンクーガ <srw4_pilots_dancouga>`
      - 強気
      - 105
      - 92
@@ -657,7 +657,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_16.png
      - 葵豹馬
-     - :ref:`孔巴特拉V <srw4_pilots_combattler_v>`
+     - :ref:`コンバトラーV <srw4_pilots_combattler_v>`
      - 超強気
      - 112
      - 92
@@ -687,7 +687,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_17.png
      - 浪花十三
-     - :ref:`孔巴特拉V <srw4_pilots_combattler_v>`
+     - :ref:`コンバトラーV <srw4_pilots_combattler_v>`
      - 強気
      - 90
      - 95
@@ -717,7 +717,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_18.png
      - 西川大作
-     - :ref:`孔巴特拉V <srw4_pilots_combattler_v>`
+     - :ref:`コンバトラーV <srw4_pilots_combattler_v>`
      - 強気
      - 116
      - 75
@@ -747,7 +747,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_19.png
      - 南原ちづる
-     - :ref:`孔巴特拉V <srw4_pilots_combattler_v>`
+     - :ref:`コンバトラーV <srw4_pilots_combattler_v>`
      - 普通
      - 85
      - 88
@@ -776,7 +776,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_1A.png
      - 北小介
-     - :ref:`孔巴特拉V <srw4_pilots_combattler_v>`
+     - :ref:`コンバトラーV <srw4_pilots_combattler_v>`
      - 弱気
      - 70
      - 85
@@ -805,7 +805,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_1B.png
      - ギリアム＝イェーガー
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 超強気
      - 115
      - 122
@@ -835,7 +835,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_1C.png
      - ショウ＝ザマ
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 強気
      - 118
      - 110
@@ -867,7 +867,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_1D.png
      - マサキ＝アンドー
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 超強気
      - 111
      - 122
@@ -896,7 +896,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_1E.png
      - リューネ＝ゾルダーク
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 超強気
      - 107
      - 118
@@ -925,7 +925,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_1F.png
      - シュウ＝シラカワ
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 普通
      - 103
      - 123
@@ -954,7 +954,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_20.png
      - クワトロ＝バジーナ
-     - :ref:`Z高达 <srw4_pilots_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 強気
      - 98
      - 130
@@ -985,7 +985,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_21.png
      - ブライト＝ノア
-     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
      - 普通
      - 76
      - 110
@@ -1014,7 +1014,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_22.png
      - ハヤト＝コバヤシ
-     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
      - 弱気
      - 236
      - 236
@@ -1037,7 +1037,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_23.png
      - カイ＝シデン
-     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 弱気
      - 236
      - 236
@@ -1060,7 +1060,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_24.png
      - マチルダ＝アジャン
-     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
      - 強気
      - 78
      - 82
@@ -1089,7 +1089,7 @@
      - 没
      - .. image:: ../pilots/images/srw4_pilot_25.png
      - セイラ＝マス(没)
-     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
      - 弱気
      - 236
      - 236
@@ -1112,7 +1112,7 @@
      - 没
      - .. image:: ../pilots/images/srw4_pilot_26.png
      - ワッケイン(没)
-     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
      - 普通
      - 74
      - 107
@@ -1138,7 +1138,7 @@
      - 没
      - .. image:: ../pilots/images/srw4_pilot_27.png
      - ティアンム提督(没)
-     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
      - 普通
      - 74
      - 108
@@ -1165,7 +1165,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_28.png
      - エマ＝シーン
-     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 普通
      - 80
      - 108
@@ -1195,7 +1195,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_29.png
      - トーレス
-     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 弱気
      - 68
      - 101
@@ -1221,7 +1221,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_2A.png
      - ファ＝ユイリィ
-     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 弱気
      - 70
      - 97
@@ -1252,7 +1252,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_2B.png
      - カツ＝コバヤシ
-     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 弱気
      - 90
      - 98
@@ -1283,7 +1283,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_2C.png
      - フォウ＝ムラサメ
-     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 普通
      - 98
      - 102
@@ -1314,7 +1314,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_2D.png
      - ベルトーチカ＝イルマ
-     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 弱気
      - 236
      - 236
@@ -1337,7 +1337,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_2E.png
      - ケリィ＝レズナー
-     - :ref:`高达0083 <srw4_units_ms_gundam_0083>`
+     - :ref:`ガンダム0083 <srw4_pilots_ms_gundam_0083>`
      - 普通
      - 100
      - 117
@@ -1366,7 +1366,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_2F.png
      - ヘンケン＝ベッケナー
-     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 普通
      - 74
      - 108
@@ -1395,7 +1395,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_30.png
      - ブレックス＝フォーラ
-     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 弱気
      - 236
      - 236
@@ -1418,7 +1418,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_31.png
      - ルー＝ルカ
-     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - :ref:`ZZガンダム <srw4_pilots_ms_gundam_zz>`
      - 強気
      - 78
      - 91
@@ -1450,7 +1450,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_32.png
      - エルピー＝プル
-     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - :ref:`ZZガンダム <srw4_pilots_ms_gundam_zz>`
      - 強気
      - 80
      - 102
@@ -1480,7 +1480,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_33.png
      - プルツー
-     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - :ref:`ZZガンダム <srw4_pilots_ms_gundam_zz>`
      - 超強気
      - 80
      - 102
@@ -1510,7 +1510,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_34.png
      - リィナ＝アーシタ
-     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - :ref:`ZZガンダム <srw4_pilots_ms_gundam_zz>`
      - 弱気
      - 236
      - 236
@@ -1533,7 +1533,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_35.png
      - ビーチャ＝オレーグ
-     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - :ref:`ZZガンダム <srw4_pilots_ms_gundam_zz>`
      - 普通
      - 87
      - 92
@@ -1563,7 +1563,7 @@
      - 没
      - .. image:: ../pilots/images/srw4_pilot_36.png
      - モンド＝アガケ(没)
-     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - :ref:`ZZガンダム <srw4_pilots_ms_gundam_zz>`
      - 弱気
      - 70
      - 87
@@ -1593,7 +1593,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_37.png
      - エル＝ビアンノ
-     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - :ref:`ZZガンダム <srw4_pilots_ms_gundam_zz>`
      - 強気
      - 70
      - 88
@@ -1624,7 +1624,7 @@
      - 没
      - .. image:: ../pilots/images/srw4_pilot_38.png
      - イーノ＝アッバーブ(没)
-     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - :ref:`ZZガンダム <srw4_pilots_ms_gundam_zz>`
      - 弱気
      - 236
      - 236
@@ -1647,7 +1647,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_39.png
      - エマリー＝オンス
-     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - :ref:`ZZガンダム <srw4_pilots_ms_gundam_zz>`
      - 弱気
      - 236
      - 236
@@ -1670,7 +1670,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_3A.png
      - クェス＝パラヤ
-     - :ref:`逆袭的夏亚 <srw4_units_ms_gundam_char_s_counterattack>`
+     - :ref:`逆襲のシャア <srw4_pilots_ms_gundam_char_s_counterattack>`
      - 弱気
      - 82
      - 95
@@ -1700,7 +1700,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_3B.png
      - チェーン＝アギ
-     - :ref:`逆袭的夏亚 <srw4_units_ms_gundam_char_s_counterattack>`
+     - :ref:`逆襲のシャア <srw4_pilots_ms_gundam_char_s_counterattack>`
      - 弱気
      - 236
      - 236
@@ -1723,7 +1723,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_3C.png
      - ケーラ＝スゥ
-     - :ref:`逆袭的夏亚 <srw4_units_ms_gundam_char_s_counterattack>`
+     - :ref:`逆襲のシャア <srw4_pilots_ms_gundam_char_s_counterattack>`
      - 普通
      - 80
      - 107
@@ -1753,7 +1753,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_3D.png
      - ハサウェイ＝ノア
-     - :ref:`Z高达 <srw4_pilots_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 弱気
      - 90
      - 95
@@ -1783,7 +1783,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_3E.png
      - クリスチーナ＝マッケンジー	
-     - :ref:`高达0080 <srw4_units_ms_gundam_0080>`
+     - :ref:`ガンダム0080 <srw4_pilots_ms_gundam_0080>`
      - 弱気
      - 78
      - 94
@@ -1813,7 +1813,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_3F.png
      - バーナード＝ワイズマン	
-     - :ref:`高达0080 <srw4_units_ms_gundam_0080>`
+     - :ref:`ガンダム0080 <srw4_pilots_ms_gundam_0080>`
      - 普通
      - 98
      - 87
@@ -1843,7 +1843,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_40.png
      - セシリー＝フェアチャイルド
-     - :ref:`高达F91 <srw4_units_ms_gundam_f91>`
+     - :ref:`ガンダムF91 <srw4_pilots_ms_gundam_f91>`
      - 弱気
      - 77
      - 101
@@ -1874,7 +1874,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_41.png
      - ニナ＝パープルトン
-     - :ref:`高达0083 <srw4_units_ms_gundam_0083>`
+     - :ref:`ガンダム0083 <srw4_pilots_ms_gundam_0083>`
      - 弱気
      - 236
      - 236
@@ -1897,7 +1897,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_42.png
      - アナベル＝ガトー
-     - :ref:`高达0083 <srw4_units_ms_gundam_0083>`
+     - :ref:`ガンダム0083 <srw4_pilots_ms_gundam_0083>`
      - 強気
      - 108
      - 127
@@ -1927,7 +1927,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_43.png
      - チャック＝キース
-     - :ref:`高达0083 <srw4_units_ms_gundam_0083>`
+     - :ref:`ガンダム0083 <srw4_pilots_ms_gundam_0083>`
      - 弱気
      - 72
      - 100
@@ -1956,7 +1956,7 @@
      - 没
      - .. image:: ../pilots/images/srw4_pilot_44.png
      - ベルナルド＝モンシア
-     - :ref:`高达0083 <srw4_units_ms_gundam_0083>`
+     - :ref:`ガンダム0083 <srw4_pilots_ms_gundam_0083>`
      - 超強気
      - 90
      - 119
@@ -1986,7 +1986,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_45.png
      - 弓さやか
-     - :ref:`魔神Z <srw4_units_mazinger_z>` 
+     - :ref:`マジンガーＺ <srw4_pilots_mazinger_z>` 
      - 強気
      - 93
      - 105
@@ -2015,7 +2015,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_46.png
      - ラムサス＝ハサ
-     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 普通
      - 88
      - 119
@@ -2045,7 +2045,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_47.png
      - ボス
-     - :ref:`魔神Z <srw4_units_mazinger_z>`
+     - :ref:`マジンガーＺ <srw4_pilots_mazinger_z>`
      - 強気
      - 115
      - 70
@@ -2075,7 +2075,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_48.png
      - 炎ジュン
-     - :ref:`大魔神 <srw4_units_great_mazinger>` 
+     - :ref:`グレートマジンガー <srw4_pilots_great_mazinger>` 
      - 普通
      - 94
      - 107
@@ -2104,7 +2104,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_49.png
      - マリア＝フリード
-     - :ref:`古连泰沙 <srw4_units_grendizer>` 
+     - :ref:`グレンダイザー <srw4_pilots_grendizer>` 
      - 超強気
      - 90
      - 107
@@ -2133,7 +2133,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_4A.png
      - 牧場ひかる
-     - :ref:`古连泰沙 <srw4_units_grendizer>` 
+     - :ref:`グレンダイザー <srw4_pilots_grendizer>` 
      - 弱気
      - 88
      - 105
@@ -2162,7 +2162,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_4B.png
      - 早乙女ミチル
-     - :ref:`盖塔 <srw4_unit_getter_robo>`
+     - :ref:`ゲッター <srw4_pilots_getter_robo>`
      - 弱気
      - 100
      - 100
@@ -2191,7 +2191,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_4C.png
      - ダンゲル＝クーパー
-     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 普通
      - 87
      - 117
@@ -2220,7 +2220,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_4D.png
      - 神宮寺力
-     - :ref:`勇者雷登 <srw4_units_reideen_the_brave>`
+     - :ref:`ライディーン <srw4_pilots_reideen_the_brave>`
      - 普通
      - 105
      - 120
@@ -2249,7 +2249,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_4E.png
      - 明日香麗
-     - :ref:`勇者雷登 <srw4_units_reideen_the_brave>`
+     - :ref:`ライディーン <srw4_pilots_reideen_the_brave>`
      - 普通
      - 100
      - 112
@@ -2278,7 +2278,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_4F.png
      - 桜野マリ
-     - :ref:`勇者雷登 <srw4_units_reideen_the_brave>`
+     - :ref:`ライディーン <srw4_pilots_reideen_the_brave>`
      - 弱気
      - 90
      - 90
@@ -2307,7 +2307,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_50.png
      - アムロ＝レイ
-     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
      - 強気
      - 103
      - 112
@@ -2339,7 +2339,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_51.png
      - カミーユ＝ビダン
-     - :ref:`Z高达 <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 超強気
      - 100
      - 115
@@ -2371,7 +2371,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_52.png
      - ジュドー＝アーシタ
-     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - :ref:`ZZガンダム <srw4_pilots_ms_gundam_zz>`
      - 超強気
      - 108
      - 115
@@ -2403,7 +2403,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_53.png
      - シーブック＝アノー
-     - :ref:`高达F91 <srw4_units_ms_gundam_f91>`
+     - :ref:`ガンダムF91 <srw4_pilots_ms_gundam_f91>`
      - 普通
      - 97
      - 114
@@ -2435,7 +2435,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_54.png
      - コウ＝ウラキ
-     - :ref:`高达0083 <srw4_units_ms_gundam_0083>`
+     - :ref:`ガンダム0083 <srw4_pilots_ms_gundam_0083>`
      - 普通
      - 100
      - 100
@@ -2466,7 +2466,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_55.png
      - 兜甲児
-     - :ref:`魔神Z <srw4_units_mazinger_z>` 
+     - :ref:`マジンガーＺ <srw4_pilots_mazinger_z>` 
      - 超強気
      - 118
      - 95
@@ -2496,7 +2496,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_56.png
      - 神北兵左ェ門
-     - :ref:`赞波3 <srw4_units_zambot_3>`
+     - :ref:`ザンボット３ <srw4_pilots_zambot_3>`
      - 弱気
      - 236
      - 236
@@ -2519,7 +2519,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_57.png
      - 神梅江
-     - :ref:`赞波3 <srw4_units_zambot_3>`
+     - :ref:`ザンボット３ <srw4_pilots_zambot_3>`
      - 弱気
      - 236
      - 236
@@ -2542,7 +2542,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_58.png
      - 神源五郎
-     - :ref:`赞波3 <srw4_units_zambot_3>`
+     - :ref:`ザンボット３ <srw4_pilots_zambot_3>`
      - 弱気
      - 236
      - 236
@@ -2565,7 +2565,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_59.png
      - 神一太郎
-     - :ref:`赞波3 <srw4_units_zambot_3>`
+     - :ref:`ザンボット３ <srw4_pilots_zambot_3>`
      - 弱気
      - 236
      - 236
@@ -2588,7 +2588,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_5A.png
      - ギャリソン時田
-     - :ref:`泰坦3 <srw4_units_daitarn_3>`
+     - :ref:`ダイターン３ <srw4_pilots_daitarn_3>`
      - 普通
      - 115
      - 104
@@ -2617,7 +2617,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_5B.png
      - ビューティフル＝タチバナ
-     - :ref:`泰坦3 <srw4_units_daitarn_3>`
+     - :ref:`ダイターン３ <srw4_pilots_daitarn_3>`
      - 弱気
      - 236
      - 236
@@ -2640,7 +2640,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_5C.png
      - 三条レイカ
-     - :ref:`泰坦3 <srw4_units_daitarn_3>`
+     - :ref:`ダイターン３ <srw4_pilots_daitarn_3>`
      - 普通
      - 236
      - 236
@@ -2663,7 +2663,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_5D.png
      - 戸田突太
-     - :ref:`泰坦3 <srw4_units_daitarn_3>`
+     - :ref:`ダイターン３ <srw4_pilots_daitarn_3>`
      - 弱気
      - 236
      - 236
@@ -2686,7 +2686,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_5E.png
      - 剣鉄也
-     - :ref:`大魔神 <srw4_units_great_mazinger>` 
+     - :ref:`グレートマジンガー <srw4_pilots_great_mazinger>` 
      - 普通
      - 119
      - 93
@@ -2716,7 +2716,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_5F.png
      - 夕月京四郎
-     - :ref:`斗将戴莫斯 <srw4_units_daimos>`
+     - :ref:`ダイモス <srw4_pilots_daimos>`
      - 普通
      - 108
      - 118
@@ -2746,7 +2746,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_60.png
      - 和泉ナナ
-     - :ref:`斗将戴莫斯 <srw4_units_daimos>`
+     - :ref:`ダイモス <srw4_pilots_daimos>`
      - 弱気
      - 90
      - 103
@@ -2775,7 +2775,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_61.png
      - デューク＝フリード
-     - :ref:`古连泰沙 <srw4_units_grendizer>` 
+     - :ref:`グレンダイザー <srw4_pilots_grendizer>` 
      - 弱気
      - 120
      - 92
@@ -2805,7 +2805,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_62.png
      - マーベル＝フローズン
-     - :ref:`丹拜因 <srw4_units_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 普通
      - 117
      - 102
@@ -2835,7 +2835,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_63.png
      - ひびき洸
-     - :ref:`勇者雷登 <srw4_units_reideen_the_brave>`
+     - :ref:`ライディーン <srw4_pilots_reideen_the_brave>`
      - 普通
      - 115
      - 90
@@ -2866,7 +2866,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_64.png
      - ニー＝ギブン
-     - :ref:`丹拜因 <srw4_units_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 強気
      - 118
      - 105
@@ -2895,7 +2895,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_65.png
      - キーン＝キッス
-     - :ref:`丹拜因 <srw4_units_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 弱気
      - 107
      - 110
@@ -2924,7 +2924,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_66.png
      - シーラ＝ラパーナ
-     - :ref:`丹拜因 <srw4_units_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 普通
      - 102
      - 108
@@ -2953,7 +2953,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_67.png
      - エレ＝ハンム
-     - :ref:`丹拜因 <srw4_units_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 普通
      - 97
      - 110
@@ -2982,7 +2982,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_68.png
      - リムル＝ルフト
-     - :ref:`丹拜因 <srw4_units_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 弱気
      - 108
      - 100
@@ -3011,7 +3011,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_69.png
      - エイブ＝タマリ
-     - :ref:`丹拜因 <srw4_units_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 弱気
      - 236
      - 236
@@ -3034,7 +3034,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_6A.png
      - 破嵐万丈
-     - :ref:`泰坦3 <srw4_units_daitarn_3>`
+     - :ref:`ダイターン３ <srw4_pilots_daitarn_3>`
      - 強気
      - 130
      - 110
@@ -3064,7 +3064,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_6B.png
      - 竜崎一矢
-     - :ref:`斗将戴莫斯 <srw4_units_daimos>`
+     - :ref:`ダイモス <srw4_pilots_daimos>`
      - 強気
      - 115
      - 105
@@ -3094,7 +3094,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_6C.png
      - 連邦軍兵士
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 弱気
      - 90
      - 90
@@ -3120,7 +3120,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_6D.png
      - バイストンウェル兵
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 弱気
      - 104
      - 96
@@ -3146,7 +3146,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_6E.png
      - テュッティ＝ノールバック
-     - :ref:`原创 <srw4_units_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 普通
      - 93
      - 106
@@ -3175,7 +3175,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_6F.png
      - 獣魔将軍
-     - :ref:`魔神Z剧场版 <srw4_units_mazinger_z_the_movie>` 
+     - :ref:`劇場版マジンガーＺ <srw4_pilots_mazinger_z_the_movie>` 
      - 普通
      - 110
      - 110
@@ -3200,7 +3200,7 @@
      - 没
      - .. image:: ../pilots/images/srw4_pilot_70.png
      - サウス＝バニング
-     - :ref:`高达0083 <srw4_units_ms_gundam_0083>`
+     - :ref:`ガンダム0083 <srw4_pilots_ms_gundam_0083>`
      - 強気
      - 236
      - 236
@@ -3223,7 +3223,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_71.png
      - ホワン・ヤンロン
-     - :ref:`原创 <srw4_units_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 強気
      - 96
      - 107
@@ -3252,7 +3252,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_72.png
      - プレシア＝ゼノサキス
-     - :ref:`原创 <srw4_units_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 弱気
      - 236
      - 236
@@ -3275,7 +3275,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_73.png
      - ミオ＝サスガ
-     - :ref:`原创 <srw4_units_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 弱気
      - 93
      - 106
@@ -3304,7 +3304,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_74.png
      - ティターンズ兵士
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 弱気
      - 95
      - 107
@@ -3329,7 +3329,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_75.png
      - モニカ＝ビルセイア
-     - :ref:`原创 <srw4_units_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 弱気
      - 85
      - 90
@@ -3358,7 +3358,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_76.png
      - サフィーネ＝グレイス
-     - :ref:`原创 <srw4_units_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 超強気
      - 95
      - 105
@@ -3387,7 +3387,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_77.png
      - ガデム
-     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
      - 強気
      - 90
      - 105
@@ -3414,7 +3414,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_78.png
      - ランバ＝ラル
-     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
      - 強気
      - 100
      - 120
@@ -3443,7 +3443,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_79.png
      -  クラウレ＝ハモン
-     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
      - 普通
      - 89
      - 90
@@ -3470,7 +3470,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_7A.png
      - クランプ
-     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
      - 普通
      - 90
      - 107
@@ -3497,7 +3497,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_7B.png
      - ガイア
-     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
      - 強気
      - 102
      - 117
@@ -3526,7 +3526,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_7C.png
      - マッシュ
-     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
      - 普通
      - 100
      - 115
@@ -3555,7 +3555,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_7D.png
      - オルテガ
-     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
      - 普通
      - 98
      - 116
@@ -3584,7 +3584,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_7E.png
      - シャリア＝ブル
-     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
      - 普通
      - 87
      - 114
@@ -3614,7 +3614,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_7F.png
      - ララァ＝スン
-     - :ref:`高达0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
      - 弱気
      - 86
      - 110
@@ -3644,7 +3644,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_80.png
      - ガディ＝キンゼー
-     - :ref:`Z高达 <srw4_pilots_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 普通
      - 76
      - 102
@@ -3673,7 +3673,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_81.png
      - カクリコン＝カクーラー
-     - :ref:`Z高达 <srw4_pilots_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 普通
      - 88
      - 114
@@ -3702,7 +3702,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_82.png
      - サラ＝ザビアロフ
-     - :ref:`Z高达 <srw4_pilots_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 普通
      - 80
      - 109
@@ -3732,7 +3732,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_83.png
      - ゲーツ＝キャパ
-     - :ref:`Z高达 <srw4_pilots_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 普通
      - 84
      - 114
@@ -3762,7 +3762,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_84.png
      - ジェリド＝メサ
-     - :ref:`Z高达 <srw4_pilots_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 超強気
      - 98
      - 116
@@ -3792,7 +3792,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_85.png
      - 	ジャマイカン＝ダニンガン
-     - :ref:`Z高达 <srw4_pilots_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 弱気
      - 74
      - 106
@@ -3819,7 +3819,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_86.png
      - ジャマイカン＝ダニンガン
-     - :ref:`Z高达 <srw4_pilots_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 弱気
      - 236
      - 236
@@ -3842,7 +3842,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_87.png
      - ハマーン＝カーン
-     - :ref:`Z高达 <srw4_pilots_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 強気
      - 100
      - 128
@@ -3874,7 +3874,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_88.png
      - ブラン＝ブルターク
-     - :ref:`Z高达 <srw4_pilots_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 普通
      - 87
      - 117
@@ -3903,7 +3903,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_89.png
      - ベン＝ウッダー
-     - :ref:`Z高达 <srw4_pilots_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 普通
      - 80
      - 104
@@ -3932,7 +3932,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_8A.png
      - マウアー＝ファラオ
-     - :ref:`Z高达 <srw4_pilots_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 普通
      - 79
      - 99
@@ -3962,7 +3962,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_8B.png
      - ミネバ＝ザビ
-     - :ref:`Z高达 <srw4_pilots_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 弱気
      - 236
      - 236
@@ -3985,7 +3985,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_8C.png
      - ライラ=ミラ=ライラ
-     - :ref:`Z高达 <srw4_pilots_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 強気
      - 99
      - 115
@@ -4015,7 +4015,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_8D.png
      - ヤザン＝ゲーブル
-     - :ref:`Z高达 <srw4_pilots_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 超強気
      - 100
      - 123
@@ -4045,7 +4045,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_8E.png
      - ロザミア＝バダム
-     - :ref:`Z高达 <srw4_pilots_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
      - 普通
      - 88
      - 112
@@ -4075,7 +4075,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_8F.png
      - マシュマー＝セロ
-     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - :ref:`ZZガンダム <srw4_pilots_ms_gundam_zz>`
      - 強気
      - 99
      - 113
@@ -4105,7 +4105,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_90.png
      - イリア＝パゾム
-     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - :ref:`ZZガンダム <srw4_pilots_ms_gundam_zz>`
      - 普通
      - 90
      - 114
@@ -4135,7 +4135,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_91.png
      - キャラ＝スーン
-     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - :ref:`ZZガンダム <srw4_pilots_ms_gundam_zz>`
      - 強気
      - 102
      - 111
@@ -4164,7 +4164,7 @@
      - 没
      - .. image:: ../pilots/images/srw4_pilot_92.png
      - グレミー＝トト
-     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - :ref:`ZZガンダム <srw4_pilots_ms_gundam_zz>`
      - 普通
      - 100
      - 110
@@ -4194,7 +4194,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_93.png
      - ゴットン＝ゴー
-     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - :ref:`ZZガンダム <srw4_pilots_ms_gundam_zz>`
      - 弱気
      - 82
      - 105
@@ -4223,7 +4223,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_94.png
      - ニー＝ギーレン
-     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - :ref:`ZZガンダム <srw4_pilots_ms_gundam_zz>`
      - 普通
      - 86
      - 112
@@ -4253,7 +4253,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_95.png
      - ランス＝ギーレン
-     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - :ref:`ZZガンダム <srw4_pilots_ms_gundam_zz>`
      - 普通
      - 86
      - 112
@@ -4283,7 +4283,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_96.png
      - ラカン＝ダカラン	
-     - :ref:`ZZ高达 <srw4_units_ms_gundam_zz>`
+     - :ref:`ZZガンダム <srw4_pilots_ms_gundam_zz>`
      - 強気
      - 103
      - 123
@@ -4312,7 +4312,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_97.png
      - ギュネイ＝ガス	
-     - :ref:`逆袭的夏亚 <srw4_units_ms_gundam_char_s_counterattack>`
+     - :ref:`逆襲のシャア <srw4_pilots_ms_gundam_char_s_counterattack>`
      - 普通
      - 90
      - 116
@@ -4342,7 +4342,7 @@
      - 没
      - .. image:: ../pilots/images/srw4_pilot_98.png
      - ナナイ＝ミゲル
-     - :ref:`逆袭的夏亚 <srw4_units_ms_gundam_char_s_counterattack>`
+     - :ref:`逆襲のシャア <srw4_pilots_ms_gundam_char_s_counterattack>`
      - 普通
      - 76
      - 107
@@ -4371,7 +4371,7 @@
      - 没
      - .. image:: ../pilots/images/srw4_pilot_99.png
      - レズン＝シュナイダー	
-     - :ref:`逆袭的夏亚 <srw4_units_ms_gundam_char_s_counterattack>`
+     - :ref:`逆襲のシャア <srw4_pilots_ms_gundam_char_s_counterattack>`
      - 強気
      - 90
      - 114
@@ -4400,7 +4400,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_9A.png
      - ザビーネ＝シャル	
-     - :ref:`高达F91 <srw4_units_ms_gundam_f91>`
+     - :ref:`ガンダムF91 <srw4_pilots_ms_gundam_f91>`
      - 普通
      - 97
      - 120
@@ -4431,7 +4431,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_9B.png
      - アンナマリー＝ブルージュ
-     - :ref:`高达F91 <srw4_units_ms_gundam_f91>`
+     - :ref:`ガンダムF91 <srw4_pilots_ms_gundam_f91>`
      - 弱気
      - 87
      - 110
@@ -4460,7 +4460,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_9C.png
      - ドレル＝ロナ
-     - :ref:`高达F91 <srw4_units_ms_gundam_f91>`
+     - :ref:`ガンダムF91 <srw4_pilots_ms_gundam_f91>`
      - 普通
      - 92
      - 115
@@ -4489,7 +4489,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_9D.png
      - カロッゾ＝ロナ
-     - :ref:`高达F91 <srw4_units_ms_gundam_f91>`
+     - :ref:`ガンダムF91 <srw4_pilots_ms_gundam_f91>`
      - 強気
      - 94
      - 122
@@ -4519,7 +4519,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_9E.png
      - シュタイナー
-     - :ref:`高达0080 <srw4_units_ms_gundam_0080>`
+     - :ref:`ガンダム0080 <srw4_pilots_ms_gundam_0080>`
      - 強気
      - 95
      - 119
@@ -4548,7 +4548,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_9F.png
      - シーマ＝ガラハウ
-     - :ref:`高达0083 <srw4_units_ms_gundam_0083>`
+     - :ref:`ガンダム0083 <srw4_pilots_ms_gundam_0083>`
      - 超強気
      - 98
      - 117
@@ -4578,7 +4578,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_A0.png
      - あしゅら男爵
-     - :ref:`魔神Z <srw4_units_mazinger_z>` 
+     - :ref:`マジンガーＺ <srw4_pilots_mazinger_z>` 
      - 弱気
      - 118
      - 110
@@ -4607,7 +4607,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_A1.png
      - ブロッケン伯爵
-     - :ref:`魔神Z <srw4_units_mazinger_z>` 
+     - :ref:`マジンガーＺ <srw4_pilots_mazinger_z>` 
      - 弱気
      - 119
      - 107
@@ -4636,7 +4636,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_A2.png
      - Ｄｒヘル
-     - :ref:`魔神Z <srw4_units_mazinger_z>` 
+     - :ref:`マジンガーＺ <srw4_pilots_mazinger_z>` 
      - 弱気
      - 119
      - 110
@@ -4665,7 +4665,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_A3.png
      - シャーキン
-     - :ref:`勇者雷登 <srw4_units_reideen_the_brave>`
+     - :ref:`ライディーン <srw4_pilots_reideen_the_brave>`
      - 普通
      - 100
      - 100
@@ -4694,7 +4694,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_A4.png
      - 連邦軍兵士
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 弱気
      - 90
      - 90
@@ -4720,7 +4720,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_A5.png
      - エゥーゴ兵
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 普通
      - 95
      - 95
@@ -4746,7 +4746,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_A6.png
      - バラオ
-     - :ref:`勇者雷登 <srw4_units_reideen_the_brave>`
+     - :ref:`ライディーン <srw4_pilots_reideen_the_brave>`
      - 普通
      - 100
      - 100
@@ -4772,7 +4772,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_A7.png
      - ガルーダ
-     - :ref:`孔巴特拉V <srw4_pilots_combattler_v>`
+     - :ref:`コンバトラーV <srw4_pilots_combattler_v>`
      - 強気
      - 100
      - 100
@@ -4801,7 +4801,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_A8.png
      - ミーア
-     - :ref:`孔巴特拉V <srw4_pilots_combattler_v>`
+     - :ref:`コンバトラーV <srw4_pilots_combattler_v>`
      - 弱気
      - 89
      - 95
@@ -4830,7 +4830,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_A9.png
      - オレアナ
-     - :ref:`孔巴特拉V <srw4_pilots_combattler_v>`
+     - :ref:`コンバトラーV <srw4_pilots_combattler_v>`
      - 弱気
      - 236
      - 236
@@ -4853,7 +4853,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_AA.png
      - キラー＝ザ＝ブッチャー
-     - :ref:`赞波3 <srw4_pilots_zambot_3>`
+     - :ref:`ザンボット３ <srw4_pilots_zambot_3>`
      - 弱気
      - 100
      - 100
@@ -4882,7 +4882,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_AB.png
      - コロス
-     - :ref:`泰坦3 <srw4_units_daitarn_3>`
+     - :ref:`ダイターン３ <srw4_pilots_daitarn_3>`
      - 普通
      - 100
      - 100
@@ -4911,7 +4911,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_AC.png
      - ドン＝ザウサー
-     - :ref:`泰坦3 <srw4_units_daitarn_3>`
+     - :ref:`ダイターン３ <srw4_pilots_daitarn_3>`
      - 普通
      - 100
      - 100
@@ -4940,7 +4940,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_AD.png
      - リヒテル
-     - :ref:`斗将戴莫斯 <srw4_units_daimos>`
+     - :ref:`ダイモス <srw4_pilots_daimos>`
      - 普通
      - 120
      - 85
@@ -4969,7 +4969,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_AE.png
      - バルバス
-     - :ref:`斗将戴莫斯 <srw4_units_daimos>`
+     - :ref:`ダイモス <srw4_pilots_daimos>`
      - 強気
      - 123
      - 90
@@ -4998,7 +4998,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_AF.png
      - ライザ
-     - :ref:`斗将戴莫斯 <srw4_units_daimos>`
+     - :ref:`ダイモス <srw4_pilots_daimos>`
      - 弱気
      - 110
      - 88
@@ -5027,7 +5027,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_B0.png
      - アイザム
-     - :ref:`斗将戴莫斯 <srw4_units_daimos>`
+     - :ref:`ダイモス <srw4_pilots_daimos>`
      - 強気
      - 113
      - 98
@@ -5056,7 +5056,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_B1.png
      - レオナルド＝メディチ＝ブンドル
-     - :ref:`战国魔神 <srw4_pilots_goshogun>`
+     - :ref:`ゴーショーグン <srw4_pilots_goshogun>`
      - 普通
      - 100
      - 110
@@ -5085,7 +5085,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_B2.png
      - スーグニ＝カットナル
-     - :ref:`战国魔神 <srw4_pilots_goshogun>`
+     - :ref:`ゴーショーグン <srw4_pilots_goshogun>`
      - 強気
      - 102
      - 105
@@ -5114,7 +5114,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_B3.png
      - ヤッター＝ラ＝ケルナグール
-     - :ref:`战国魔神 <srw4_pilots_goshogun>`
+     - :ref:`ゴーショーグン <srw4_pilots_goshogun>`
      - 超強気
      - 117
      - 95
@@ -5143,7 +5143,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_B4.png
      - トッド＝ギネス
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 強気
      - 126
      - 103
@@ -5174,7 +5174,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_B5.png
      - バーン＝バニングス
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 普通
      - 127
      - 107
@@ -5205,7 +5205,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_B6.png
      - 黒騎士
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 普通
      - 127
      - 107
@@ -5236,7 +5236,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_B7.png
      - ドレイク＝ルフト
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 普通
      - 118
      - 105
@@ -5265,7 +5265,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_B8.png
      - ショット＝ウェポン
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 普通
      - 121
      - 108
@@ -5294,7 +5294,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_B9.png
      - ビショット＝ハッタ
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 弱気
      - 112
      - 101
@@ -5323,7 +5323,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_BA.png
      - ルーザ＝ルフト
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 弱気
      - 236
      - 236
@@ -5346,7 +5346,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_BB.png
      - ミュージィ＝ポー
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 普通
      - 125
      - 107
@@ -5377,7 +5377,7 @@
      - 没
      - .. image:: ../pilots/images/srw4_pilot_BC.png
      - ゼット＝ライト（没）
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 普通
      - 122
      - 103
@@ -5407,7 +5407,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_BD.png
      - トルストール＝チェシレンコ
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 弱気
      - 111
      - 90
@@ -5436,7 +5436,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_BE.png
      - ジェリル＝クチビ
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 超強気
      - 127
      - 94
@@ -5467,7 +5467,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_BF.png
      - アレン＝ブレディ
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 強気
      - 126
      - 98
@@ -5498,7 +5498,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_C0.png
      - フェイ＝チェンカ
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 普通
      - 125
      - 96
@@ -5529,7 +5529,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_C1.png
      - ガラリア＝ニャムヒー
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 強気
      - 122
      - 97
@@ -5560,7 +5560,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_C2.png
      - ガラミティ＝マンガン
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 強気
      - 122
      - 98
@@ -5590,7 +5590,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_C3.png
      - ダー
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 普通
      - 122
      - 98
@@ -5617,7 +5617,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_C4.png
      - ニェット
-     - :ref:`丹拜因 <srw4_pilots_dunbine>`
+     - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 普通
      - 122
      - 98
@@ -5644,7 +5644,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_C5.png
      - 暗黒大将軍
-     - :ref:`大魔神 <srw4_units_great_mazinger>` 
+     - :ref:`グレートマジンガー <srw4_pilots_great_mazinger>` 
      - 弱気
      - 120
      - 112
@@ -5670,7 +5670,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_C6.png
      - 悪霊将軍ハーディアス
-     - :ref:`大魔神 <srw4_units_great_mazinger>` 
+     - :ref:`グレートマジンガー <srw4_pilots_great_mazinger>` 
      - 弱気
      - 115
      - 110
@@ -5696,7 +5696,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_C7.png
      - 妖爬虫将軍ドレイドウ
-     - :ref:`大魔神 <srw4_units_great_mazinger>` 
+     - :ref:`グレートマジンガー <srw4_pilots_great_mazinger>` 
      - 弱気
      - 115
      - 110
@@ -5722,7 +5722,7 @@
      - 敌
      - 
      - ＤＣ兵士
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 弱気
      - 80
      - 80
@@ -5747,7 +5747,7 @@
      - 敌
      - 
      - エリート兵
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 普通
      - 95
      - 95
@@ -5773,7 +5773,7 @@
      - 敌
      - 
      - 人工知能
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 普通
      - 80
      - 80
@@ -5796,7 +5796,7 @@
      - 敌
      - 
      - 人工知能改
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 普通
      - 100
      - 90
@@ -5819,7 +5819,7 @@
      - 敌
      - 
      - ゲスト兵士
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 普通
      - 100
      - 100
@@ -5845,7 +5845,7 @@
      - 敌
      - 
      - ゲスト突撃兵
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 普通
      - 108
      - 98
@@ -5871,7 +5871,7 @@
      - 敌
      - 
      - ポセイダル親衛隊兵
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 普通
      - 101
      - 107
@@ -5901,7 +5901,7 @@
      - 敌
      - 
      - ポセイダル兵
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 普通
      - 98
      - 102
@@ -5927,7 +5927,7 @@
      - 敌
      - 
      - ポセイダル親衛隊兵
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 普通
      - 101
      - 107
@@ -5953,7 +5953,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_D1.png
      - エギーユ＝デラーズ
-     - :ref:`高达0083 <srw4_units_ms_gundam_0083>`
+     - :ref:`ガンダム0083 <srw4_pilots_ms_gundam_0083>`
      - 弱気
      - 100
      - 100
@@ -5979,7 +5979,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_D2.png
      - ダバ＝マイロード
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 強気
      - 95
      - 109
@@ -6009,7 +6009,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_D3.png
      - ガウ＝ハ＝レッシィ
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 強気
      - 96
      - 104
@@ -6039,7 +6039,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_D4.png
      - ミラウー＝キャオ
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 弱気
      - 88
      - 95
@@ -6068,7 +6068,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_D5.png
      - ファンネリア＝アム
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 普通
      - 84
      - 97
@@ -6098,7 +6098,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_D6.png
      - ハッシャ＝モッシャ
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 弱気
      - 95
      - 92
@@ -6123,7 +6123,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_D7.png
      - ギャブレット＝ギャブレー
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 強気
      - 95
      - 107
@@ -6153,7 +6153,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_D8.png
      - アマンダラ＝カマンダラ
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 超強気
      - 130
      - 135
@@ -6181,7 +6181,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_D9.png
      - オルドナ＝ポセイダル
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 超強気
      - 128
      - 122
@@ -6208,7 +6208,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_DA.png
      - ネイ＝モー＝ハン
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 超強気
      - 100
      - 110
@@ -6237,7 +6237,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_DB.png
      - ギワザ＝ロワウ
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 普通
      - 88
      - 110
@@ -6265,7 +6265,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_DC.png
      - フル＝フラット
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 普通
      - 99
      - 108
@@ -6293,7 +6293,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_DD.png
      - クワサン＝オリビー
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 普通
      - 90
      - 96
@@ -6322,7 +6322,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_DE.png
      - リョクレイ＝ロン
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 普通
      - 102
      - 104
@@ -6350,7 +6350,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_DF.png
      - アントン＝ランド
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 普通
      - 98
      - 105
@@ -6378,7 +6378,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_E0.png
      - ヘッケラー＝マウザー
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 超強気
      - 99
      - 104
@@ -6407,7 +6407,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_E1.png
      - リィリィ＝ハッシー
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 超強気
      - 103
      - 107
@@ -6436,7 +6436,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_E2.png
      - チャイ＝チャー
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 弱気
      - 100
      - 101
@@ -6464,7 +6464,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_E3.png
      - ワザン＝ルーン
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 普通
      - 98
      - 109
@@ -6491,7 +6491,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_E4.png
      - マフ＝マクトミン
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 強気
      - 99
      - 110
@@ -6520,7 +6520,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_E5.png
      - バーン＝ガニア＝キラーズ
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 普通
      - 97
      - 107
@@ -6548,7 +6548,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_E6.png
      - テッド＝デビラス
-     - :ref:`重战机 <srw4_pilots_heavy_metal_l_gaim>`
+     - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 普通
      - 96
      - 108
@@ -6576,7 +6576,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_E7.png
      - グロフィス＝ラクレイン
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 弱気
      - 110
      - 110
@@ -6605,7 +6605,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_E8.png
      - ジュスティヌ＝シャフラワース
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 弱気
      - 107
      - 107
@@ -6634,7 +6634,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_E9.png
      - ゼブリーズ＝フルシュワ
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 弱気
      - 108
      - 106
@@ -6663,7 +6663,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_EA.png
      - テイニクェット＝ゼゼーナン
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 弱気
      - 105
      - 105
@@ -6692,7 +6692,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_EB.png
      - メキボス
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 弱気
      - 109
      - 112
@@ -6717,7 +6717,7 @@
      - 盟
      - .. image:: ../pilots/images/srw4_pilot_EC.png
      - テリウス＝ビルセイア
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 弱気
      - 89
      - 104
@@ -6742,7 +6742,7 @@
      - 敌
      - 
      - 強化兵
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 弱気
      - 90
      - 90
@@ -6772,7 +6772,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_EE.png
      - 三輪防人
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 弱気
      - 90
      - 90
@@ -6800,7 +6800,7 @@
      - 敌
      - 
      - 超人工知能
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 普通
      - 100
      - 90
@@ -6823,7 +6823,7 @@
      - 自
      - 
      - 真实系男主人公
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 強気
      - 95
      - 95
@@ -6851,7 +6851,7 @@
      - 自
      - 
      - 超级系男主人公
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 超強気
      - 95
      - 95
@@ -6879,7 +6879,7 @@
      - 自
      - 
      - 真实系女主人公
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 強気
      - 95
      - 95
@@ -6907,7 +6907,7 @@
      - 自
      - 
      - 超级系女主人公
-     - :ref:`原创 <srw4_pilots_banpresto_originals>`
+     - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 超強気
      - 95
      - 95

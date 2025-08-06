@@ -26,7 +26,7 @@
 .. admonition:: 改造
     :class: tip
 
-    :ref:`盖塔小队 <srw4_unit_getter_robo>`\ 可从头用到尾，且改造继承，武器也大部继承。是优先改造对象。至于哪些武器不继承到最后，参见\ :ref:`改造 <srw4_remodeling>`\ 。
+    :ref:`盖塔小队 <srw4_units_getter_robo>`\ 可从头用到尾，且改造继承，武器也大部继承。是优先改造对象。至于哪些武器不继承到最后，参见\ :ref:`改造 <srw4_remodeling>`\ 。
 
 .. rst-class::center
 .. flat-table::   

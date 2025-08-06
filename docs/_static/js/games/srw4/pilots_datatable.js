@@ -45,13 +45,13 @@ function pilots_datatable_init(dataTableName)
                 case "1":
                 seriesNameMatch=true;break;
                 case "2":
-                seriesNameMatch= seriesName.includes("高达")||seriesName.includes("逆袭的夏亚");break;
+                seriesNameMatch= seriesName.includes("ガンダム")||seriesName.includes("逆襲のシャア")||seriesName.includes("閃光のハサウェイ");break;
                 case "3":
-                seriesNameMatch= (seriesName.includes("魔神") && !seriesName.includes("战国"))||seriesName.includes("古连泰沙");break;
+                seriesNameMatch= (seriesName.includes("マジンガー") ||seriesName.includes("グレンダイザー"));break;
                 case "4":
-                seriesNameMatch= seriesName.includes("重战机");break;
+                seriesNameMatch= seriesName.includes("エルガイム");break;
                 case "5":
-                seriesNameMatch= seriesName.includes("丹拜因");break;
+                seriesNameMatch= seriesName.includes("ダンバイン");break;
                 default:
                 console.log("unexpected selectedSeries="+selectedSeries);break;
             }
