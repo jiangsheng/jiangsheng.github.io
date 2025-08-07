@@ -320,11 +320,10 @@ def insert_javascript_on_page(app, page_name, template_name, context, doctree):
                 |"games/srw4/pilots/pilot_data_snes"\
                 |"games/srw4/pilots/pilot_data_ps"\
                 |"games/frontmission/mechanics/pilots":
-           app.add_css_file('https://cdn.datatables.net/2.2.2/css/dataTables.bootstrap5.css')
+           app.add_css_file('https://cdn.datatables.net/v/bs5/jszip-3.10.1/dt-2.3.2/b-3.2.4/b-colvis-3.2.4/b-html5-3.2.4/fc-5.0.4/fh-4.0.3/datatables.min.css')
            app.add_css_file('css/datatable_custom.css')           
            app.add_js_file('https://code.jquery.com/jquery-3.7.1.js')
-           app.add_js_file('https://cdn.datatables.net/2.2.2/js/dataTables.js')
-           app.add_js_file('https://cdn.datatables.net/2.2.2/js/dataTables.bootstrap5.js')
+           app.add_js_file('https://cdn.datatables.net/v/bs5/jszip-3.10.1/dt-2.3.2/b-3.2.4/b-colvis-3.2.4/b-html5-3.2.4/fc-5.0.4/fh-4.0.3/datatables.min.js')
            app.add_js_file('js/games/datatable_custom.js')
     match page_name:
         case "games/srw4/units/unit_data_snes"|"games/srw4/units/unit_data_ps":
