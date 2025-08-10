@@ -10,7 +10,7 @@ function pilots_datatable_init(dataTableName)
             [
                 {type: 'hex',targets:0},
                 {type: 'integer',targets:[6,7,8,9,10,11,12,13,14,15,16,17,18]},
-                {type: 'rating-grade',targets:[18,19,20,21]},
+                {type: 'rating-grade',targets:[19,20,21,22]},
                 //{visible: true,target: [6,7,8,9,10,11,12,13,14,15,16,17]},
                 {orderable: false,targets: [2,5,23,24,25,26,27,28,29]}
             ]

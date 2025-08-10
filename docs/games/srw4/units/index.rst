@@ -13,6 +13,8 @@
    
    unit_data_snes
    unit_data_ps
+   weapon_data_snes
+   weapon_data_ps
    mobile_suit_gundam
    mobile_suit_z_gundam
    mobile_suit_gundam_zz
@@ -37,6 +39,7 @@
    goshogun
    banpresto_originals
    mobile_suit_gundam_hathaway
+
    
 --------------
 属性 

@@ -56,7 +56,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_01_B.png
      - ヒュッケバイン
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 3000
      - 180
      - 65
@@ -66,16 +66,17 @@
      - 2100
      - 3200
      - 10
-     - 陆
+     - 陸宇
      - B
      - A
      - C
      - A
+
    * - 02
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_02_B.png
      - グルンガスト
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 3900
      - 200
      - 40
@@ -84,17 +85,18 @@
      - 8
      - 6900
      - 1200
-     - 4
-     - 空陆
+     - 6
+     - 空陸
      - B
      - B
      - C
      - A
+
    * - 03
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_03_B.png
      - ウイングガスト
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 3900
      - 200
      - 42
@@ -103,17 +105,18 @@
      - 10
      - 2970
      - 2100
-     - 6
+     - 7
      - 空
      - A
      - 🚫
      - 🚫
      - B
+
    * - 04
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_04_B.png
      - ガストランダー
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 3900
      - 200
      - 35
@@ -122,12 +125,13 @@
      - 6
      - 2500
      - 2100
-     - 6
-     - 陆
+     - 8
+     - 陸宇
      - 🚫
      - A
      - A
      - B
+
    * - 09
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_09_B.png
@@ -142,11 +146,12 @@
      - 1050
      - 2000
      - 9
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - C
      - A
+
    * - 0A
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_0A_B.png
@@ -161,11 +166,12 @@
      - 1100
      - 3300
      - 8
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - C
      - A
+
    * - 0B
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_0B_B.png
@@ -180,11 +186,12 @@
      - 920
      - 1020
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - C
      - A
+
    * - 0C
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_0C_B.png
@@ -199,11 +206,12 @@
      - 920
      - 1020
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - D
      - A
+
    * - 0D
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_0D_B.png
@@ -218,11 +226,12 @@
      - 940
      - 1050
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - D
      - A
+
    * - 0E
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_0E_B.png
@@ -238,10 +247,11 @@
      - 2200
      - 9
      - 宇宙
-     - 🚫
-     - 🚫
+     - A
+     - A
      - 🚫
      - A
+
    * - 0F
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_0F_B.png
@@ -256,11 +266,12 @@
      - 940
      - 1250
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - A
+
    * - 10
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_10_B.png
@@ -269,17 +280,18 @@
      - 2000
      - 160
      - 20
-     - 200
+     - 260
      - 145
      - 6
      - 300
      - 1000
-     - 6
-     - 陆
+     - 7
+     - 陸宇
      - 🚫
      - A
      - D
      - B
+
    * - 11
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_11_B.png
@@ -294,11 +306,12 @@
      - 350
      - 970
      - 8
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - C
+
    * - 12
      - 盟
      - .. image:: ../units/images/icon/srw4_units_icon_12_B.png
@@ -318,6 +331,7 @@
      - 🚫
      - 🚫
      - A
+
    * - 13
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_13_B.png
@@ -332,11 +346,12 @@
      - 920
      - 1020
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - C
      - A
+
    * - 14
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_14_B.png
@@ -351,11 +366,12 @@
      - 980
      - 1100
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - C
      - A
+
    * - 15
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_15_B.png
@@ -370,11 +386,12 @@
      - 1000
      - 1140
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - C
      - A
+
    * - 16
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_16_B.png
@@ -394,6 +411,7 @@
      - 🚫
      - 🚫
      - A
+
    * - 17
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_17_B.png
@@ -407,12 +425,13 @@
      - 8
      - 1020
      - 1300
-     - 3
-     - 陆
+     - 7
+     - 陸宇
      - 🚫
      - B
      - C
      - A
+
    * - 18
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_18_B.png
@@ -427,11 +446,12 @@
      - 2300
      - 800
      - 5
-     - 空陆
+     - 空陸
      - A
      - B
      - D
      - A
+
    * - 19
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_19_B.png
@@ -441,16 +461,17 @@
      - 180
      - 30
      - 260
-     - 150
+     - 160
      - 10
      - 1200
      - 1500
      - 4
-     - 陆地中
+     - 陸地中
      - 🚫
      - A
      - C
      - B
+
    * - 1A
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1A_B.png
@@ -465,16 +486,17 @@
      - 2000
      - 1800
      - 6
-     - 海陆
+     - 水陸
      - 🚫
      - A
      - A
      - B
+
    * - 1B
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1B_B.png
      - ゲッタードラゴン
-     - :ref:`ゲッターG <srw4_units_getter_robo>`
+     - :ref:`ゲッター <srw4_units_getter_robo>`
      - 3500
      - 210
      - 30
@@ -484,35 +506,37 @@
      - 4000
      - 1200
      - 6
-     - 空陆
+     - 空陸
      - A
      - B
      - D
      - A
+
    * - 1C
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1C_B.png
      - ゲッターライガー
-     - :ref:`ゲッターG <srw4_units_getter_robo>`
+     - :ref:`ゲッター <srw4_units_getter_robo>`
      - 3500
      - 210
      - 37
      - 290
-     - 180
+     - 190
      - 12
      - 1670
      - 1900
      - 7
-     - 陆地中
+     - 陸地中
      - 🚫
      - A
      - B
      - B
+
    * - 1D
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1D_B.png
      - ゲッターポセイドン
-     - :ref:`ゲッターG <srw4_units_getter_robo>`
+     - :ref:`ゲッター <srw4_units_getter_robo>`
      - 3500
      - 210
      - 26
@@ -522,11 +546,12 @@
      - 2200
      - 2100
      - 6
-     - 海陆
+     - 水陸
      - 🚫
      - A
      - A
      - B
+
    * - 1E
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1E_B.png
@@ -540,17 +565,18 @@
      - 6
      - 2040
      - 1400
-     - 3
-     - 陆
+     - 5
+     - 陸宇
      - 🚫
      - A
      - C
      - B
+
    * - 1F
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1F_B.png
      - マジンガーＺ（JS）
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>` 
+     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
      - 3500
      - 170
      - 22
@@ -559,17 +585,18 @@
      - 7
      - 2040
      - 1600
-     - 3
-     - 空陆
+     - 5
+     - 空陸
      - B
      - A
      - B
      - B
+
    * - 20
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_20_B.png
      - グレートマジンガー
-     - :ref:`グレートマジンガー <srw4_units_great_mazinger>` 
+     - :ref:`グレートマジンガー <srw4_units_great_mazinger>`
      - 3800
      - 180
      - 28
@@ -578,17 +605,18 @@
      - 7
      - 3850
      - 1800
-     - 3
-     - 空陆
+     - 6
+     - 空陸
      - B
      - A
      - B
      - B
+
    * - 21
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_21_B.png
      - グレンダイザー
-     - :ref:`グレンダイザー <srw4_units_grendizer>` 
+     - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 3800
      - 180
      - 30
@@ -597,17 +625,18 @@
      - 7
      - 2800
      - 1800
-     - 3
-     - 空陆
+     - 6
+     - 空陸
      - B
      - A
      - D
      - A
+
    * - 22
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_22_B.png
      - スペイザー
-     - :ref:`グレンダイザー <srw4_units_grendizer>` 
+     - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 3800
      - 180
      - 30
@@ -616,17 +645,18 @@
      - 8
      - 2800
      - 1800
-     - 3
+     - 6
      - 空
      - B
      - 🚫
      - 🚫
      - A
+
    * - 23
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_23_B.png
      - ダブルスペイザー
-     - :ref:`グレンダイザー <srw4_units_grendizer>` 
+     - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 2800
      - 160
      - 28
@@ -635,17 +665,18 @@
      - 9
      - 🚫
      - 1850
-     - 5
+     - 6
      - 空
      - A
      - 🚫
      - 🚫
      - B
+
    * - 24
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_24_B.png
      - ドリルスパイザー
-     - :ref:`グレンダイザー <srw4_units_grendizer>` 
+     - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 2900
      - 160
      - 28
@@ -660,11 +691,12 @@
      - 🚫
      - 🚫
      - B
+
    * - 25
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_25_B.png
      - マリンスペイザー
-     - :ref:`グレンダイザー <srw4_units_grendizer>` 
+     - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 2700
      - 160
      - 30
@@ -673,36 +705,38 @@
      - 8
      - 🚫
      - 1900
-     - 5
+     - 6
      - 空海
      - B
      - 🚫
      - A
      - B
+
    * - 26
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_26_B.png
      - グレンダイザー (WS)
-     - :ref:`グレンダイザー <srw4_units_grendizer>` 
+     - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 3800
      - 180
      - 30
-     - 800
+     - 810
      - 170
      - 9
      - 2800
      - 1850
-     - 5
-     - 空陆
+     - 6
+     - 空陸
      - A
      - A
      - D
      - A
+
    * - 27
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_27_B.png
      - グレンダイザー (DS)
-     - :ref:`グレンダイザー <srw4_units_mazinger_z>` 
+     - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 3800
      - 180
      - 30
@@ -711,17 +745,18 @@
      - 8
      - 2800
      - 1800
-     - 3
-     - 陆空地
+     - 6
+     - 陸空地中
      - A
      - A
      - D
      - A
+
    * - 28
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_28_B.png
      - グレンダイザー (MS)
-     - :ref:`グレンダイザー <srw4_units_mazinger_z>` 
+     - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 3800
      - 180
      - 30
@@ -730,17 +765,18 @@
      - 8
      - 2800
      - 1900
-     - 5
-     - 海陆空
+     - 6
+     - 水陸空
      - A
      - D
      - A
      - A
+
    * - 29
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_29_B.png
      - アフロダイＡ
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>` 
+     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
      - 2800
      - 140
      - 22
@@ -748,18 +784,19 @@
      - 125
      - 6
      - 700
-     - 800
+     - 880
      - 5
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - B
+
    * - 2A
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_2A_B.png
      - ダイアナンＡ
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>` 
+     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
      - 3100
      - 150
      - 22
@@ -769,16 +806,17 @@
      - 1200
      - 1000
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - B
      - B
+
    * - 2B
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_2B_B.png
      - ボスロボット
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>` 
+     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
      - 2900
      - 130
      - 15
@@ -788,16 +826,17 @@
      - 2800
      - 🚫
      - 🚫
-     - 陆
+     - 陸
      - 🚫
      - A
      - D
      - 🚫
+
    * - 2C
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_2C_B.png
      - ビューナスＡ
-     - :ref:`グレートマジンガー <srw4_units_great_mazinger>` 
+     - :ref:`グレートマジンガー <srw4_units_great_mazinger>`
      - 3400
      - 170
      - 23
@@ -807,11 +846,12 @@
      - 1000
      - 1100
      - 6
-     - 空陆
+     - 空陸
      - B
      - A
      - C
      - B
+
    * - 2D
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_2D_B.png
@@ -831,6 +871,7 @@
      - 🚫
      - 🚫
      - C
+
    * - 2E
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_2E_B.png
@@ -850,6 +891,7 @@
      - 🚫
      - 🚫
      - C
+
    * - 2F
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_2F_B.png
@@ -864,11 +906,12 @@
      - 800
      - 980
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - B
      - C
+
    * - 30
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_30_B.png
@@ -888,6 +931,7 @@
      - 🚫
      - A
      - C
+
    * - 31
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_31_B.png
@@ -902,11 +946,12 @@
      - 650
      - 🚫
      - 🚫
-     - 陆空地
+     - 陸空地中
      - B
      - B
      - B
      - B
+
    * - 32
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_32_B.png
@@ -920,12 +965,13 @@
      - 7
      - 5100
      - 2200
-     - 5
-     - 空陆
+     - 6
+     - 空陸
      - A
      - A
      - C
      - B
+
    * - 33
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_33_B.png
@@ -939,12 +985,13 @@
      - 7
      - 5900
      - 2200
-     - 2
-     - 空陆
+     - 8
+     - 空陸
      - A
      - A
      - B
      - B
+
    * - 34
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_34_B.png
@@ -958,12 +1005,13 @@
      - 8
      - 650
      - 830
-     - 5 
+     - 5
      - 空
      - A
      - 🚫
      - 🚫
      - B
+
    * - 35
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_35_B.png
@@ -978,11 +1026,12 @@
      - 3700
      - 1350
      - 5
-     - 空陆
+     - 空陸
      - B
      - A
      - D
      - B
+
    * - 36
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_36_B.png
@@ -1002,6 +1051,7 @@
      - 🚫
      - 🚫
      - B
+
    * - 37
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_37_B.png
@@ -1016,11 +1066,12 @@
      - 3900
      - 2100
      - 7
-     - 空陆
+     - 空陸
      - A
      - A
      - C
      - A
+
    * - 38
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_38_B.png
@@ -1040,6 +1091,7 @@
      - 🚫
      - 🚫
      - A
+
    * - 39
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_39_B.png
@@ -1054,11 +1106,12 @@
      - 🚫
      - 2100
      - 7
-     - 海陆
+     - 水陸
      - 🚫
      - A
      - A
      - C
+
    * - 3A
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_3A_B.png
@@ -1078,6 +1131,7 @@
      - 🚫
      - 🚫
      - B
+
    * - 3B
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_3B_B.png
@@ -1091,12 +1145,13 @@
      - 7
      - 750
      - 1400
-     - 5
-     - 陆
+     - 7
+     - 陸宇
      - 🚫
      - A
      - C
      - B
+
    * - 3C
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_3C_B.png
@@ -1111,11 +1166,12 @@
      - 810
      - 1240
      - 7
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - A
      - B
+
    * - 3D
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_3D_B.png
@@ -1135,6 +1191,7 @@
      - 🚫
      - A
      - B
+
    * - 3E
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_3E_B.png
@@ -1149,11 +1206,12 @@
      - 3000
      - 3500
      - 10
-     - 空陆
+     - 空陸
      - A
      - B
      - C
      - A
+
    * - 3F
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_3F_B.png
@@ -1168,11 +1226,12 @@
      - 3000
      - 970
      - 6
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - B
+
    * - 40
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_40_B.png
@@ -1187,11 +1246,12 @@
      - 3000
      - 1270
      - 8
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - B
+
    * - 41
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_41_B.png
@@ -1211,6 +1271,7 @@
      - 🚫
      - 🚫
      - B
+
    * - 42
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_42_B.png
@@ -1225,11 +1286,12 @@
      - 1380
      - 3500
      - 8
-     - 空陆
+     - 空陸
      - A
      - B
      - D
      - B
+
    * - 43
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_43_B.png
@@ -1244,11 +1306,12 @@
      - 1750
      - 3040
      - 8
-     - 陆
-     - B
+     - 陸宇
+     - A
      - A
      - C
      - B
+
    * - 44
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_44_B.png
@@ -1268,6 +1331,7 @@
      - 🚫
      - 🚫
      - B
+
    * - 45
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_45_B.png
@@ -1287,6 +1351,7 @@
      - 🚫
      - 🚫
      - B
+
    * - 46
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_46_B.png
@@ -1301,11 +1366,12 @@
      - 800
      - 1100
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - D
      - B
+
    * - 47
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_47_B.png
@@ -1319,12 +1385,13 @@
      - 6
      - 🚫
      - 1020
-     - 5
-     - 陆
+     - 6
+     - 陸宇
      - 🚫
      - A
      - C
      - C
+
    * - 48
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_48_B.png
@@ -1338,12 +1405,13 @@
      - 9
      - 1500
      - 1020
-     - 5
-     - 陆
+     - 6
+     - 陸宇
      - 🚫
      - A
      - C
      - C
+
    * - 49
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_49_B.png
@@ -1357,12 +1425,13 @@
      - 7
      - 720
      - 1020
-     - 5
-     - 陆
+     - 6
+     - 陸宇
      - 🚫
      - A
      - C
      - B
+
    * - 4A
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_4A_B.png
@@ -1377,11 +1446,12 @@
      - 🚫
      - 1070
      - 7
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - C
+
    * - 4B
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_4B_B.png
@@ -1396,11 +1466,12 @@
      - 1500
      - 1070
      - 7
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - C
+
    * - 4C
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_4C_B.png
@@ -1415,11 +1486,12 @@
      - 720
      - 1070
      - 7
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - B
+
    * - 4D
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_4D_B.png
@@ -1433,12 +1505,13 @@
      - 6
      - 🚫
      - 1320
-     - 6
-     - 陆
+     - 7
+     - 陸宇
      - 🚫
      - A
      - C
      - C
+
    * - 4E
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_4E_B.png
@@ -1452,12 +1525,13 @@
      - 7
      - 1520
      - 1320
-     - 6
-     - 陆
+     - 7
+     - 陸宇
      - 🚫
      - A
      - C
      - C
+
    * - 4F
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_4F_B.png
@@ -1471,12 +1545,13 @@
      - 6
      - 760
      - 1320
-     - 6
-     - 陆
+     - 7
+     - 陸宇
      - 🚫
      - A
      - C
      - B
+
    * - 50
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_50_B.png
@@ -1491,14 +1566,15 @@
      - 1220
      - 1780
      - 10
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - A
+
    * - 51
      - 没
-     - 无
+     - 
      - アトールＶ
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 25000
@@ -1510,35 +1586,37 @@
      - 1500
      - 1780
      - 7
-     - 空陆
+     - 空陸
      - 🚫
      - A
      - D
      - B
+
    * - 52
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_52_B.png
      - ゴッドネロス
-     -  :ref:`ゴーショーグン <srw4_units_goshogun>`
+     - :ref:`ゴーショーグン <srw4_units_goshogun>`
      - 25000
      - 220
      - 36
      - 480
      - 180
-     - 7
+     - 9
      - 1500
      - 1780
      - 7
-     - 空陆
+     - 空陸
      - 🚫
      - A
      - D
      - B
+
    * - 53
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_53_B.png
      - サイバスター
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 3200
      - 170
      - 52
@@ -1548,16 +1626,17 @@
      - 1150
      - 4280
      - 9
-     - 空陆
+     - 空陸
      - A
      - A
      - C
      - A
+
    * - 54
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_54_B.png
      - サイバード
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 3200
      - 170
      - 49
@@ -1572,11 +1651,12 @@
      - 🚫
      - 🚫
      - A
+
    * - 55
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_55_B.png
      - グランゾン
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 4800
      - 180
      - 43
@@ -1586,16 +1666,17 @@
      - 1260
      - 4200
      - 9
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - A
+
    * - 56
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_56_B.png
      - ネオ·グランゾン
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 60000
      - 255
      - 65
@@ -1605,16 +1686,17 @@
      - 1260
      - 18000
      - 12
-     - 空陆
+     - 空陸
      - A
      - A
      - A
      - A
+
    * - 57
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_57_B.png
      - ヴァルシオーネR
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 3500
      - 170
      - 48
@@ -1623,17 +1705,18 @@
      - 9
      - 970
      - 2390
-     - 7
-     - 空陆
+     - 9
+     - 空陸
      - B
      - B
      - B
      - A
+
    * - 58
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_58_B.png
      - ザムジード
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 4300
      - 190
      - 42
@@ -1642,17 +1725,18 @@
      - 8
      - 2580
      - 3800
-     - 7
-     - 陆空地
+     - 9
+     - 陸空地中
      - B
      - A
      - B
      - B
+
    * - 59
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_59_B.png
      - グランヴェール
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 3500
      - 170
      - 48
@@ -1661,17 +1745,18 @@
      - 9
      - 1090
      - 3720
-     - 7
-     - 空陆
+     - 9
+     - 空陸
      - A
      - A
      - C
      - B
+
    * - 5A
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_5A_B.png
      - ガッデス
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 3600
      - 185
      - 51
@@ -1681,16 +1766,17 @@
      - 1200
      - 3800
      - 8
-     - 海陆空
+     - 水陸空
      - A
      - A
      - A
      - A
+
    * - 5B
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_5B_B.png
      - ウィーゾル改
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 3400
      - 160
      - 46
@@ -1700,35 +1786,37 @@
      - 920
      - 2900
      - 8
-     - 空陆
+     - 空陸
      - A
      - B
      - C
      - B
+
    * - 5C
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_5C_B.png
      - ノルス・レイ
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 3200
      - 150
      - 48
      - 350
      - 190
      - 8
-     - 🚫
+     - 0
      - 1200
      - 6
-     - 空陆
+     - 空陸
      - B
      - B
      - D
      - B
+
    * - 5D
      - 中
      - .. image:: ../units/images/icon/srw4_units_icon_5D_B.png
      - ガディフォール
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 3200
      - 150
      - 44
@@ -1738,16 +1826,17 @@
      - 1150
      - 1300
      - 8
-     - 空陆
+     - 空陸
      - A
      - B
      - C
      - B
+
    * - 5E
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_5E_B.png
      - ゲシュペンスト（リアル）
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 2300
      - 150
      - 43
@@ -1757,11 +1846,12 @@
      - 970
      - 1600
      - 7
-     - 陆
+     - 陸宇
      - C
      - A
      - B
      - A
+
    * - 5F
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_5F_B.png
@@ -1775,12 +1865,13 @@
      - 6
      - 600
      - 870
-     - 4
-     - 陆
+     - 5
+     - 陸宇
      - 🚫
      - B
      - D
      - A
+
    * - 60
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_60_B.png
@@ -1794,12 +1885,13 @@
      - 7
      - 710
      - 900
-     - 4
-     - 陆
+     - 5
+     - 陸宇
      - 🚫
      - A
      - D
      - A
+
    * - 61
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_61_B.png
@@ -1819,6 +1911,7 @@
      - 🚫
      - 🚫
      - A
+
    * - 62
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_62_B.png
@@ -1833,11 +1926,12 @@
      - 920
      - 1020
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - D
      - A
+
    * - 63
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_63_B.png
@@ -1852,11 +1946,12 @@
      - 920
      - 1020
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - C
      - A
+
    * - 64
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_64_B.png
@@ -1871,11 +1966,12 @@
      - 1200
      - 1080
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - C
      - A
+
    * - 65
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_65_B.png
@@ -1895,6 +1991,7 @@
      - 🚫
      - 🚫
      - A
+
    * - 66
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_66_B.png
@@ -1909,11 +2006,12 @@
      - 980
      - 980
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - B
      - 🚫
+
    * - 67
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_67_B.png
@@ -1933,6 +2031,7 @@
      - 🚫
      - 🚫
      - 🚫
+
    * - 68
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_68_B.png
@@ -1942,16 +2041,17 @@
      - 240
      - 28
      - 400
-     - 185
+     - 195
      - 5
      - 890
      - 1250
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - D
      - B
+
    * - 69
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_69_B.png
@@ -1961,7 +2061,7 @@
      - 240
      - 28
      - 420
-     - 185
+     - 195
      - 4
      - 890
      - 1250
@@ -1971,6 +2071,7 @@
      - 🚫
      - 🚫
      - B
+
    * - 6A
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_6A_B.png
@@ -1985,11 +2086,12 @@
      - 980
      - 940
      - 6
-     - 空陆
+     - 空陸
      - A
      - B
      - D
      - A
+
    * - 6B
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_6B_B.png
@@ -2004,11 +2106,12 @@
      - 940
      - 940
      - 8
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - C
      - A
+
    * - 6C
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_6C_B.png
@@ -2028,6 +2131,7 @@
      - 🚫
      - 🚫
      - A
+
    * - 6D
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_6D_B.png
@@ -2042,11 +2146,12 @@
      - 840
      - 1100
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - C
      - A
+
    * - 6E
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_6E_B.png
@@ -2066,6 +2171,7 @@
      - 🚫
      - 🚫
      - A
+
    * - 6F
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_6F_B.png
@@ -2080,11 +2186,12 @@
      - 1650
      - 1960
      - 7
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - D
      - A
+
    * - 70
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_70_B.png
@@ -2104,6 +2211,7 @@
      - 🚫
      - 🚫
      - A
+
    * - 71
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_71_B.png
@@ -2118,11 +2226,12 @@
      - 940
      - 1120
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - C
      - A
+
    * - 72
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_72_B.png
@@ -2137,11 +2246,12 @@
      - 920
      - 840
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - C
      - A
+
    * - 73
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_73_B.png
@@ -2153,7 +2263,7 @@
      - 170
      - 200
      - 10
-     - 🚫
+     - 0
      - 840
      - 6
      - 空
@@ -2161,6 +2271,7 @@
      - 🚫
      - 🚫
      - A
+
    * - 74
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_74_B.png
@@ -2176,10 +2287,11 @@
      - 1240
      - 7
      - 宇宙
-     - 🚫
+     - A
      - 🚫
      - 🚫
      - A
+
    * - 75
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_75_B.png
@@ -2195,10 +2307,11 @@
      - 880
      - 6
      - 宇宙
-     - 🚫
+     - A
      - 🚫
      - 🚫
      - A
+
    * - 76
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_76_B.png
@@ -2212,12 +2325,13 @@
      - 8
      - 1200
      - 1010
-     - 3
-     - 陆
+     - 6
+     - 陸宇
      - 🚫
      - A
      - C
      - B
+
    * - 77
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_77_B.png
@@ -2231,12 +2345,13 @@
      - 10
      - 330
      - 1080
-     - 6
+     - 7
      - 宇宙
-     - 🚫
+     - A
      - 🚫
      - 🚫
      - A
+
    * - 78
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_78_B.png
@@ -2251,11 +2366,12 @@
      - 940
      - 920
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - C
      - A
+
    * - 79
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_79_B.png
@@ -2271,10 +2387,11 @@
      - 2450
      - 9
      - 宇宙
-     - 🚫
-     - 🚫
+     - A
+     - A
      - 🚫
      - A
+
    * - 7A
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_7A_B.png
@@ -2289,11 +2406,12 @@
      - 1020
      - 2000
      - 9
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - D
      - A
+
    * - 7B
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_7B_B.png
@@ -2308,11 +2426,12 @@
      - 1000
      - 1800
      - 8
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - D
      - A
+
    * - 7C
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_7C_B.png
@@ -2327,11 +2446,12 @@
      - 580
      - 950
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - B
+
    * - 7D
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_7D_B.png
@@ -2346,11 +2466,12 @@
      - 980
      - 980
      - 5
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - B
+
    * - 7E
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_7E_B.png
@@ -2365,11 +2486,12 @@
      - 1000
      - 1030
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - D
      - A
+
    * - 7F
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_7F_B.png
@@ -2384,11 +2506,12 @@
      - 1020
      - 1140
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - A
+
    * - 80
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_80_B.png
@@ -2403,11 +2526,12 @@
      - 1020
      - 1140
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - A
+
    * - 81
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_81_B.png
@@ -2427,6 +2551,7 @@
      - 🚫
      - 🚫
      - A
+
    * - 82
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_82_B.png
@@ -2441,11 +2566,12 @@
      - 1020
      - 1150
      - 7
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - A
+
    * - 83
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_83_B.png
@@ -2460,11 +2586,12 @@
      - 1100
      - 2000
      - 9
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - D
      - A
+
    * - 84
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_84_B.png
@@ -2479,11 +2606,12 @@
      - 1020
      - 1790
      - 7
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - D
      - A
+
    * - 85
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_85_B.png
@@ -2493,16 +2621,17 @@
      - 220
      - 40
      - 310
-     - 200
+     - 220
      - 8
      - 1020
      - 1920
      - 10
-     - 陆
+     - 陸宇
      - 🚫
      - C
      - D
      - A
+
    * - 86
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_86_B.png
@@ -2514,14 +2643,15 @@
      - 240
      - 200
      - 8
-     - 1140
+     - 1000
      - 1200
-     - 5
-     - 陆
+     - 6
+     - 陸宇
      - 🚫
      - A
      - C
      - A
+
    * - 87
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_87_B.png
@@ -2535,12 +2665,13 @@
      - 9
      - 1000
      - 1200
-     - 5
-     - 陆
+     - 6
+     - 陸宇
      - 🚫
      - A
      - C
      - A
+
    * - 88
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_88_B.png
@@ -2555,11 +2686,12 @@
      - 1050
      - 1900
      - 9
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - C
      - A
+
    * - 89
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_89_B.png
@@ -2574,11 +2706,12 @@
      - 1050
      - 1900
      - 9
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - C
      - A
+
    * - 8A
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_8A_B.png
@@ -2593,11 +2726,12 @@
      - 1080
      - 2000
      - 9
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - A
+
    * - 8B
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_8B_B.png
@@ -2613,10 +2747,11 @@
      - 2150
      - 9
      - 宇宙
-     - 🚫
-     - 🚫
+     - A
+     - A
      - 🚫
      - A
+
    * - 8C
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_8C_B.png
@@ -2628,14 +2763,15 @@
      - 300
      - 255
      - 10
-     - 110
+     - 1100
      - 3150
      - 8
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - A
+
    * - 8D
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_8D_B.png
@@ -2650,11 +2786,12 @@
      - 1200
      - 1300
      - 7
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - C
      - A
+
    * - 8E
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_8E_B.png
@@ -2670,10 +2807,11 @@
      - 1500
      - 8
      - 宇宙
-     - 🚫
-     - 🚫
+     - A
+     - A
      - 🚫
      - A
+
    * - 8F
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_8F_B.png
@@ -2688,11 +2826,12 @@
      - 790
      - 680
      - 5
-     - 陆
+     - 陸
      - 🚫
      - A
      - B
      - 🚫
+
    * - 90
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_90_B.png
@@ -2712,6 +2851,7 @@
      - 🚫
      - 🚫
      - 🚫
+
    * - 91
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_91_B.png
@@ -2726,11 +2866,12 @@
      - 1650
      - 680
      - 5
-     - 陆
+     - 陸
      - 🚫
      - A
      - B
      - 🚫
+
    * - 92
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_92_B.png
@@ -2745,11 +2886,12 @@
      - 980
      - 700
      - 5
-     - 陆
+     - 陸
      - 🚫
      - A
      - B
      - 🚫
+
    * - 93
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_93_B.png
@@ -2764,11 +2906,12 @@
      - 🚫
      - 1500
      - 7
-     - 陆
+     - 水陸
      - 🚫
      - A
      - A
      - 🚫
+
    * - 94
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_94_B.png
@@ -2783,11 +2926,12 @@
      - 1200
      - 2100
      - 6
-     - 海陆空
+     - 水陸空
      - A
      - A
      - A
      - 🚫
+
    * - 95
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_95_B.png
@@ -2801,12 +2945,13 @@
      - 5
      - 700
      - 1100
-     - 4
-     - 陆
+     - 5
+     - 陸宇
      - 🚫
      - A
      - B
      - C
+
    * - 96
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_96_B.png
@@ -2821,16 +2966,17 @@
      - 1350
      - 1220
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - C
+
    * - 97
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_97_B.png
      - 機械獣トロスD7
-     - :ref:`劇場版マジンガーＺ <srw4_units_mazinger_z_the_movie>` 
+     - :ref:`劇場版マジンガーＺ <srw4_units_mazinger_z_the_movie>`
      - 3200
      - 200
      - 21
@@ -2840,16 +2986,17 @@
      - 1650
      - 800
      - 4
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - B
      - C
+
    * - 98
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_98_B.png
      - ラインX1
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>` 
+     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
      - 7000
      - 255
      - 30
@@ -2859,16 +3006,17 @@
      - 1570
      - 1030
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - A
      - B
+
    * - 99
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_99_B.png
      - 機械獣ジェノバM9
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>` 
+     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
      - 3200
      - 200
      - 24
@@ -2878,16 +3026,17 @@
      - 540
      - 1140
      - 7
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - B
+
    * - 9A
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_9A_B.png
      - 機械獣スパルタンK5
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>` 
+     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
      - 6000
      - 255
      - 27
@@ -2897,16 +3046,17 @@
      - 1370
      - 🚫
      - 🚫
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - B
      - B
+
    * - 9B
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_9B_B.png
      - 機械獣アブドラU6
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>` 
+     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
      - 3300
      - 200
      - 20
@@ -2916,17 +3066,18 @@
      - 890
      - 2100
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - B
      - B
+
    * - 9C
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_9C_B.png
      - グール
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>` 
-     - 3000
+     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
+     - 13000
      - 200
      - 25
      - 480
@@ -2940,11 +3091,12 @@
      - 🚫
      - 🚫
      - 🚫
+
    * - 9D
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_9D_B.png
      - ブード
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>` 
+     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
      - 18000
      - 200
      - 22
@@ -2959,11 +3111,12 @@
      - 🚫
      - A
      - 🚫
+
    * - 9E
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_9E_B.png
      - 戦闘獣グラトニオス
-     - :ref:`グレートマジンガー <srw4_units_great_mazinger>` 
+     - :ref:`グレートマジンガー <srw4_units_great_mazinger>`
      - 6500
      - 200
      - 30
@@ -2973,16 +3126,17 @@
      - 1380
      - 2100
      - 6
-     - 海陆空
+     - 水陸空
      - A
      - A
      - A
      - B
+
    * - 9F
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_9F_B.png
      - 戦闘獣オベリウス
-     - :ref:`グレートマジンガー <srw4_units_great_mazinger>` 
+     - :ref:`グレートマジンガー <srw4_units_great_mazinger>`
      - 6700
      - 200
      - 30
@@ -2997,6 +3151,7 @@
      - 🚫
      - 🚫
      - 🚫
+
    * - A0
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A0_B.png
@@ -3016,6 +3171,7 @@
      - 🚫
      - 🚫
      - A
+
    * - A1
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A1_B.png
@@ -3029,12 +3185,13 @@
      - 7
      - 350
      - 1050
-     - 5
+     - 7
      - 空
      - A
      - 🚫
      - 🚫
      - A
+
    * - A2
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A2_B.png
@@ -3049,11 +3206,12 @@
      - 1210
      - 700
      - 6
-     - 空陆
+     - 空陸
      - B
      - B
      - C
      - A
+
    * - A3
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A3_B.png
@@ -3068,11 +3226,12 @@
      - 1300
      - 1620
      - 6
-     - 空陆
+     - 空陸
      - B
      - B
      - C
      - A
+
    * - A4
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A4_B.png
@@ -3087,16 +3246,17 @@
      - 890
      - 980
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - B
+
    * - A5
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A5_B.png
      - ピクドロン
-     - :ref:`劇場版マジンガーＺ <srw4_units_mazinger_z_the_movie>` 
+     - :ref:`劇場版マジンガーＺ <srw4_units_mazinger_z_the_movie>`
      - 20000
      - 255
      - 30
@@ -3106,16 +3266,17 @@
      - 🚫
      - 1600
      - 7
-     - 空陆
+     - 空陸
      - A
      - B
      - D
      - B
+
    * - A6
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A6_B.png
      - ギルギルガン
-     - :ref:`劇場版マジンガーＺ <srw4_units_mazinger_z_the_movie>` 
+     - :ref:`劇場版マジンガーＺ <srw4_units_mazinger_z_the_movie>`
      - 22000
      - 255
      - 32
@@ -3124,17 +3285,18 @@
      - 9
      - 1500
      - 2100
-     - 6
-     - 海陆空
+     - 7
+     - 水陸空
      - A
      - A
      - A
      - A
+
    * - A7
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A7_B.png
      - メカギルギルガン
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 35000
      - 255
      - 33
@@ -3144,16 +3306,17 @@
      - 1800
      - 2320
      - 8
-     - 海陆空
+     - 水陸空
      - A
      - A
      - A
      - A
+
    * - A8
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A8_B.png
      - ドラゴノザウルス
-     - :ref:`劇場版マジンガーＺ <srw4_units_mazinger_z_the_movie>` 
+     - :ref:`劇場版マジンガーＺ <srw4_units_mazinger_z_the_movie>`
      - 40000
      - 255
      - 30
@@ -3162,17 +3325,18 @@
      - 8
      - 1800
      - 1320
-     - 4
-     - 海陆
+     - 6
+     - 水陸
      - 🚫
      - 🚫
      - A
      - 🚫
+
    * - A9
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A9_B.png
      - ヴァルシオン
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 39000
      - 255
      - 49
@@ -3182,11 +3346,12 @@
      - 1470
      - 1980
      - 7
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - A
+
    * - AA
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_AA_B.png
@@ -3201,11 +3366,12 @@
      - 1040
      - 750
      - 4
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - B
+
    * - AB
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_AB_B.png
@@ -3220,11 +3386,12 @@
      - 3000
      - 1070
      - 7
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - B
+
    * - AC
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_AC_B.png
@@ -3239,11 +3406,12 @@
      - 3000
      - 820
      - 4
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - B
+
    * - AD
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_AD_B.png
@@ -3258,11 +3426,12 @@
      - 3000
      - 🚫
      - 🚫
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - B
+
    * - AE
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_AE_B.png
@@ -3277,11 +3446,12 @@
      - 3000
      - 950
      - 6
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - B
+
    * - AF
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_AF_B.png
@@ -3296,11 +3466,12 @@
      - 3000
      - 980
      - 6
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - B
+
    * - B0
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_B0_B.png
@@ -3320,6 +3491,7 @@
      - 🚫
      - 🚫
      - B
+
    * - B1
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_B1_B.png
@@ -3339,11 +3511,12 @@
      - 🚫
      - 🚫
      - B
+
    * - B2
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_B2_B.png
      - ゲシュペンスト（スーパー）
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 3100
      - 200
      - 32
@@ -3353,11 +3526,12 @@
      - 2150
      - 750
      - 6
-     - 陆
+     - 陸宇
      - C
      - A
      - B
      - A
+
    * - B3
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_B3_B.png
@@ -3377,6 +3551,7 @@
      - 🚫
      - 🚫
      - B
+
    * - B4
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_B4_B.png
@@ -3387,7 +3562,7 @@
      - 35
      - 700
      - 190
-     - 9	
+     - 9
      - 420
      - 1350
      - 8
@@ -3396,6 +3571,7 @@
      - 🚫
      - 🚫
      - B
+
    * - B5
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_B5_B.png
@@ -3415,6 +3591,7 @@
      - 🚫
      - 🚫
      - 🚫
+
    * - B6
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_B6_B.png
@@ -3434,6 +3611,7 @@
      - 🚫
      - 🚫
      - 🚫
+
    * - B7
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_B7_B.png
@@ -3444,7 +3622,7 @@
      - 48
      - 680
      - 200
-     - 12     
+     - 12
      - 420
      - 1350
      - 8
@@ -3453,6 +3631,7 @@
      - 🚫
      - 🚫
      - 🚫
+
    * - B8
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_B8_B.png
@@ -3472,6 +3651,7 @@
      - 🚫
      - 🚫
      - 🚫
+
    * - B9
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_B9_B.png
@@ -3483,7 +3663,7 @@
      - 380
      - 160
      - 5
-     - 1000
+     - 1100
      - 1200
      - 6
      - 空
@@ -3491,6 +3671,7 @@
      - 🚫
      - 🚫
      - 🚫
+
    * - BA
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_BA_B.png
@@ -3505,11 +3686,12 @@
      - 900
      - 🚫
      - 🚫
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - 🚫
+
    * - BB
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_BB_B.png
@@ -3524,11 +3706,12 @@
      - 1020
      - 1120
      - 7
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - 🚫
+
    * - BC
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_BC_B.png
@@ -3543,11 +3726,12 @@
      - 1320
      - 1210
      - 7
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - 🚫
+
    * - BD
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_BD_B.png
@@ -3562,11 +3746,12 @@
      - 750
      - 930
      - 5
-     - 海陆
+     - 水陸
      - 🚫
      - A
      - A
-     - A 
+     - A
+
    * - BE
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_BE_B.png
@@ -3581,11 +3766,12 @@
      - 750
      - 990
      - 5
-     - 陆
+     - 陸宇
      - B
      - A
      - B
      - B
+
    * - BF
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_BF_B.png
@@ -3605,6 +3791,7 @@
      - 🚫
      - 🚫
      - A
+
    * - C0
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C0_B.png
@@ -3619,11 +3806,12 @@
      - 1820
      - 1450
      - 7
-     - 空陆
-     - A
+     - 空陸
      - A
      - A
      - B
+     - A
+
    * - C1
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C1_B.png
@@ -3635,14 +3823,15 @@
      - 350
      - 180
      - 8
-     - 1820
+     - 1850
      - 1450
      - 7
-     - 空陆
-     - A
+     - 空陸
      - A
      - A
      - B
+     - A
+
    * - C2
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C2_B.png
@@ -3657,11 +3846,12 @@
      - 🚫
      - 2300
      - 9
-     - 海陆空
+     - 水陸空
      - A
      - A
      - A
      - A
+
    * - C3
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C3_B.png
@@ -3676,11 +3866,12 @@
      - 1280
      - 1620
      - 6
-     - 空陆
+     - 空陸
      - A
      - A
      - A
      - B
+
    * - C4
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C4_B.png
@@ -3695,11 +3886,12 @@
      - 2970
      - 2100
      - 6
-     - 空陆
+     - 空陸
      - A
      - A
      - A
      - A
+
    * - C5
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C5_B.png
@@ -3714,11 +3906,12 @@
      - 1200
      - 2200
      - 8
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - A
+
    * - C6
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C6_B.png
@@ -3733,11 +3926,12 @@
      - 750
      - 930
      - 5
-     - 空陆
+     - 空陸
      - B
      - A
      - D
      - B
+
    * - C7
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C7_B.png
@@ -3752,11 +3946,12 @@
      - 1820
      - 1350
      - 5
-     - 空陆
+     - 空陸
      - A
      - A
      - C
      - B
+
    * - C8
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C8_B.png
@@ -3771,11 +3966,12 @@
      - 1400
      - 1680
      - 7
-     - 空陆
+     - 空陸
      - A
      - A
      - C
      - B
+
    * - C9
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C9_B.png
@@ -3795,6 +3991,7 @@
      - 🚫
      - 🚫
      - B
+
    * - CA
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_CA_B.png
@@ -3814,6 +4011,7 @@
      - 🚫
      - 🚫
      - B
+
    * - CB
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_CB_B.png
@@ -3827,12 +4025,13 @@
      - 6
      - 1260
      - 1150
-     - 6
+     - 7
      - 空
      - A
      - 🚫
      - 🚫
      - B
+
    * - CC
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_CC_B.png
@@ -3847,11 +4046,12 @@
      - 980
      - 1250
      - 6
-     - 空
+     - 空陸
      - A
      - A
      - C
      - B
+
    * - CD
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_CD_B.png
@@ -3871,6 +4071,7 @@
      - 🚫
      - 🚫
      - A
+
    * - CE
      - 盟
      - .. image:: ../units/images/icon/srw4_units_icon_CE_B.png
@@ -3885,11 +4086,12 @@
      - 340
      - 🚫
      - 🚫
-     - 空
+     - 空（陸可）
      - A
      - 🚫
      - 🚫
      - 🚫
+
    * - CF
      - 没
      - .. image:: ../units/images/icon/srw4_units_icon_CF_B.png
@@ -3909,6 +4111,7 @@
      - 🚫
      - 🚫
      - A
+
    * - D0
      - 没
      - .. image:: ../units/images/icon/srw4_units_icon_D0_B.png
@@ -3928,6 +4131,7 @@
      - 🚫
      - 🚫
      - A
+
    * - D1
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_D1_B.png
@@ -3942,11 +4146,12 @@
      - 1120
      - 980
      - 6
-     - 空
+     - 空（陸可）
      - A
      - 🚫
      - 🚫
      - 🚫
+
    * - D2
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_D2_B.png
@@ -3961,11 +4166,12 @@
      - 450
      - 1100
      - 8
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - D
      - 🚫
+
    * - D3
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_D3_B.png
@@ -3985,6 +4191,7 @@
      - 🚫
      - 🚫
      - A
+
    * - D4
      - 没
      - .. image:: ../units/images/icon/srw4_units_icon_D4_B.png
@@ -4004,6 +4211,7 @@
      - 🚫
      - 🚫
      - A
+
    * - D5
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_D5_B.png
@@ -4017,12 +4225,13 @@
      - 8
      - 1020
      - 1900
-     - 7
-     - 陆
+     - 8
+     - 陸宇
      - 🚫
      - B
      - D
      - A
+
    * - D6
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_D6_B.png
@@ -4036,12 +4245,13 @@
      - 11
      - 🚫
      - 1280
-     - 7
+     - 8
      - 空
      - A
      - 🚫
      - 🚫
      - A
+
    * - D7
      - 没
      - .. image:: ../units/images/icon/srw4_units_icon_D7_B.png
@@ -4061,6 +4271,7 @@
      - 🚫
      - 🚫
      - A
+
    * - D8
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_D8_B.png
@@ -4080,6 +4291,7 @@
      - 🚫
      - 🚫
      - A
+
    * - D9
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_D9_B.png
@@ -4099,6 +4311,7 @@
      - 🚫
      - 🚫
      - A
+
    * - DA
      - 没
      - .. image:: ../units/images/icon/srw4_units_icon_DA_B.png
@@ -4118,6 +4331,7 @@
      - 🚫
      - 🚫
      - A
+
    * - DB
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_DB_B.png
@@ -4132,11 +4346,12 @@
      - 1050
      - 2100
      - 8
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - D
      - A
+
    * - DC
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_DC_B.png
@@ -4156,6 +4371,7 @@
      - 🚫
      - 🚫
      - A
+
    * - DD
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_DD_B.png
@@ -4171,10 +4387,11 @@
      - 1390
      - 8
      - 空
-     - B
+     - A
      - 🚫
      - 🚫
      - A
+
    * - DE
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_DE_B.png
@@ -4194,6 +4411,7 @@
      - 🚫
      - 🚫
      - A
+
    * - DF
      - 中
      - .. image:: ../units/images/icon/srw4_units_icon_DF_B.png
@@ -4212,7 +4430,8 @@
      - B
      - 🚫
      - 🚫
-     - A 
+     - A
+
    * - E0
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_E0_B.png
@@ -4231,7 +4450,8 @@
      - 🚫
      - 🚫
      - 🚫
-     - A 
+     - A
+
    * - E1
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_E1_B.png
@@ -4250,7 +4470,8 @@
      - A
      - 🚫
      - 🚫
-     - A 
+     - A
+
    * - E2
      - 盟
      - .. image:: ../units/images/icon/srw4_units_icon_E2_B.png
@@ -4269,12 +4490,13 @@
      - 🚫
      - 🚫
      - 🚫
-     - A 
+     - A
+
    * - E3
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_E3_B.png
      - ガロイカ
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 3000
      - 160
      - 35
@@ -4288,12 +4510,13 @@
      - A
      - 🚫
      - 🚫
-     - A 
+     - A
+
    * - E4
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_E4_B.png
      - カレイツェド
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 3400
      - 180
      - 37
@@ -4303,16 +4526,17 @@
      - 1100
      - 2600
      - 8
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - A
+
    * - E5
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_E5_B.png
      - レストレイル
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 4500
      - 200
      - 40
@@ -4322,16 +4546,17 @@
      - 1420
      - 1700
      - 7
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - A
+
    * - E6
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_E6_B.png
      - グラシドゥ＝リュ
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 5000
      - 200
      - 40
@@ -4340,17 +4565,18 @@
      - 8
      - 850
      - 2540
-     - 8
-     - 空陆
+     - 9
+     - 空陸
      - A
      - A
      - B
      - A
+
    * - E7
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_E7_B.png
      - レストグランシュ
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 7000
      - 255
      - 42
@@ -4360,16 +4586,17 @@
      - 1600
      - 2020
      - 9
-     - 空陆
+     - 空陸
      - A
      - A
      - A
      - A
+
    * - E8
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_E8_B.png
      - ゼラニオ
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 34000
      - 255
      - 35
@@ -4380,15 +4607,16 @@
      - 2100
      - 7
      - 宇宙
+     - A
      - 🚫
      - 🚫
-     - 🚫
-     - A 
+     - A
+
    * - E9
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_E9_B.png
      - ゲイオス＝グルード
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 32000
      - 255
      - 49
@@ -4397,17 +4625,18 @@
      - 8
      - 1420
      - 2600
-     - 8
-     - 空陆
+     - 9
+     - 空陸
      - A
      - A
      - A
      - A
+
    * - EA
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_EA_B.png
      - ライグ＝ゲイオス
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 48000
      - 255
      - 60
@@ -4416,17 +4645,18 @@
      - 8
      - 1800
      - 2600
-     - 8
-     - 空陆
+     - 10
+     - 空陸
      - A
      - A
      - A
      - A
+
    * - EB
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_EB_B.png
      - バラン＝シュナイル
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 65000
      - 255
      - 65
@@ -4436,16 +4666,17 @@
      - 1800
      - 2400
      - 11
-     - 空陆
+     - 空陸
      - A
      - A
      - A
      - A
+
    * - EC
      - 盟
      - .. image:: ../units/images/icon/srw4_units_icon_EC_B.png
      - ゲシュペンストmkII
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 3800
      - 210
      - 47
@@ -4455,11 +4686,12 @@
      - 970
      - 1830
      - 8
-     - 陆
-     - 🚫
+     - 陸宇
+     - A
      - A
      - B
      - A
+
    * - ED
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_ED_B.png
@@ -4473,12 +4705,13 @@
      - 9
      - 1070
      - 1070
-     - 2
-     - 陆
+     - 6
+     - 陸宇
      - 🚫
      - A
      - D
      - A
+
    * - EE
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_EE_B.png
@@ -4493,11 +4726,12 @@
      - 1220
      - 1120
      - 7
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - A
+
    * - EF
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_EF_B.png
@@ -4516,7 +4750,8 @@
      - A
      - 🚫
      - 🚫
-     - A 
+     - A
+
    * - F0
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_F0_B.png
@@ -4530,12 +4765,13 @@
      - 8
      - 940
      - 1070
-     - 2
-     - 陆
+     - 6
+     - 陸宇
      - 🚫
      - A
      - D
      - B
+
    * - F1
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_F1_B.png
@@ -4550,11 +4786,12 @@
      - 1220
      - 1120
      - 7
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - D
      - A
+
    * - F2
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_F2_B.png
@@ -4569,11 +4806,12 @@
      - 2050
      - 1780
      - 10
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - A
+
    * - F3
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_F3_B.png
@@ -4587,12 +4825,13 @@
      - 9
      - 1080
      - 1360
-     - 5
-     - 陆
+     - 6
+     - 陸宇
      - 🚫
      - A
      - C
      - A
+
    * - F4
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_F4_B.png
@@ -4606,12 +4845,13 @@
      - 9
      - 1080
      - 1250
-     - 5
-     - 陆
+     - 6
+     - 陸宇
      - 🚫
      - A
      - D
      - A
+
    * - F5
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_F5_B.png
@@ -4625,12 +4865,13 @@
      - 9
      - 1000
      - 1360
-     - 5
-     - 陆
+     - 6
+     - 陸宇
      - 🚫
      - A
      - D
      - A
+
    * - F6
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_F6_B.png
@@ -4645,11 +4886,12 @@
      - 1170
      - 1030
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - D
      - A
+
    * - F7
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_F7_B.png
@@ -4664,14 +4906,15 @@
      - 1310
      - 1030
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - D
      - A
+
    * - F8
      - 没
-     - 无
+     - 
      - サロンズ(没)
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 8000
@@ -4681,13 +4924,14 @@
      - 0
      - 0
      - 1310
-     - 1030
-     - 0
-     - 陆
+     - 1060
+     - 6
+     - 陸宇
      - 🚫
      - A
      - 🚫
      - 🚫
+
    * - FB
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_FB_B.png
@@ -4699,19 +4943,20 @@
      - 240
      - 170
      - 8
-     - 970
+     - 870
      - 940
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - D
      - C
+
    * - FC
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_FC_B.png
      - 真・ゲッター1
-     - :ref:`真ゲッター <srw4_units_getter_robo>`
+     - :ref:`ゲッター <srw4_units_getter_robo>`
      - 4100
      - 225
      - 42
@@ -4721,16 +4966,17 @@
      - 5900
      - 1800
      - 6
-     - 空陆
+     - 空陸
      - A
      - A
      - D
      - A
+
    * - FD
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_FD_B.png
      - 真・ゲッター２
-     - :ref:`真ゲッター <srw4_units_getter_robo>`
+     - :ref:`ゲッター <srw4_units_getter_robo>`
      - 4100
      - 225
      - 48
@@ -4739,17 +4985,18 @@
      - 15
      - 3700
      - 2100
-     - 3
-     - 陆地中
+     - 7
+     - 陸地中
      - 🚫
      - A
      - B
      - A
+
    * - FE
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_FE_B.png
      - 真・ゲッター３
-     - :ref:`真ゲッター <srw4_units_getter_robo>`
+     - :ref:`ゲッター <srw4_units_getter_robo>`
      - 4100
      - 225
      - 37
@@ -4759,14 +5006,15 @@
      - 4200
      - 1500
      - 6
-     - 海陆
+     - 水陸
      - 🚫
      - A
      - A
      - B
+
    * - 101
      - 没
-     - 无
+     - 
      - ガイラム(没)
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 2800
@@ -4778,11 +5026,12 @@
      - 840
      - 1030
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - A
+
    * - 102
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_102_B.png
@@ -4796,12 +5045,13 @@
      - 7
      - 1030
      - 1200
-     - 5
-     - 陆
+     - 6
+     - 陸宇
      - 🚫
      - B
      - C
      - A
+
    * - 103
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_103_B.png
@@ -4815,12 +5065,13 @@
      - 8
      - 920
      - 1250
-     - 5
-     - 陆
-     - 🚫
+     - 6
+     - 陸宇
+     - B
      - B
      - C
      - A
+
    * - 104
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_104_B.png
@@ -4839,7 +5090,8 @@
      - A
      - 🚫
      - 🚫
-     - A 
+     - A
+
    * - 105
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_105_B.png
@@ -4853,31 +5105,33 @@
      - 9
      - 920
      - 1250
-     - 5
-     - 陆
-     - 🚫
+     - 7
+     - 空陸
+     - B
      - A
      - C
      - A
+
    * - 106
      - 没
-     - 无
+     - 
      - Ξガンダム(没)
-     - 閃光のハサウェイ
+     - :ref:`閃光のハサウェイ <srw4_units_ms_gundam_hathaway>`
      - 8000
      - 200
      - 0
      - 0
      - 0
      - 0
-     - 890
+     - 🚫
+     - 🚫
+     - 🚫
+     - 空陸
      - 🚫
      - 🚫
      - 🚫
      - 🚫
-     - 🚫
-     - 🚫
-     - 🚫
+
    * - 107
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_107_B.png
@@ -4892,16 +5146,17 @@
      - 600
      - 800
      - 5
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - D
      - A
+
    * - 108
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_108_B.png
      - サーバイン
-     - :ref:`ダンバインOVA <srw4_units_dunbine>`
+     - :ref:`ダンバイン <srw4_units_dunbine>`
      - 3000
      - 200
      - 58
@@ -4911,16 +5166,17 @@
      - 3000
      - 🚫
      - 🚫
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - B
+
    * - 109
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_109_B.png
      - ズワウス
-     - :ref:`ダンバインOVA <srw4_units_dunbine>`
+     - :ref:`ダンバイン <srw4_units_dunbine>`
      - 3500
      - 200
      - 50
@@ -4930,11 +5186,12 @@
      - 3000
      - 🚫
      - 🚫
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - B
+
    * - 10A
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_10A_B.png
@@ -4949,17 +5206,18 @@
      - 1050
      - 1200
      - 7
-     - 海陆空
+     - 水陸空
      - A
      - A
      - A
      - B
+
    * - 10B
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_10B_B.png
      - アッザム
      - :ref:`ガンダム0079 <srw4_units_ms_gundam>`
-     - 400
+     - 2400
      - 170
      - 20
      - 280
@@ -4968,16 +5226,17 @@
      - 🚫
      - 900
      - 6
-     - 空陆
+     - 空陸
      - B
      - A
      - D
      - B
+
    * - 10C
      - 没
      - .. image:: ../units/images/icon/srw4_units_icon_10C_B.png
      - ニセサイバスター(没)
-     - :ref:`オリジナル <srw4_units_banpresto_originals>`
+     - :ref:`原创 <srw4_units_banpresto_originals>`
      - 3200
      - 200
      - 37
@@ -4986,15 +5245,16 @@
      - 9
      - 1150
      - 3100
-     - 8
-     - 空陆
+     - 9
+     - 空陸
      - A
      - A
      - D
      - A
+
    * - 10D
      - 没
-     - 无
+     - 
      - ナイチンゲール(没)
      - :ref:`逆襲のシャア <srw4_units_ms_gundam_char_s_counterattack>`
      - 8000
@@ -5003,14 +5263,15 @@
      - 0
      - 0
      - 0
-     - 890
+     - 🚫
+     - 🚫
+     - 🚫
+     - 陸宇
      - 🚫
      - 🚫
      - 🚫
      - 🚫
-     - 🚫
-     - 🚫
-     - 🚫
+
    * - 10E
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_10E_B.png
@@ -5024,17 +5285,18 @@
      - 9
      - 1080
      - 1110
-     - 2
-     - 陆
+     - 6
+     - 陸宇
      - 🚫
      - A
      - C
      - A
+
    * - 10F
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_10F_B.png
      - 暗黒大将軍
-     - :ref:`グレートマジンガー <srw4_units_great_mazinger>` 
+     - :ref:`グレートマジンガー <srw4_units_great_mazinger>`
      - 22000
      - 255
      - 35
@@ -5044,11 +5306,12 @@
      - 1200
      - 2200
      - 8
-     - 空陆
+     - 空陸
      - B
      - A
      - B
      - 🚫
+
    * - 110
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_110_B.png
@@ -5063,11 +5326,12 @@
      - 1630
      - 1370
      - 6
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - 🚫
+
    * - 111
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_111_B.png
@@ -5082,11 +5346,12 @@
      - 1500
      - 1180
      - 6
-     - 空陆
+     - 空陸
      - B
      - A
      - B
      - 🚫
+
    * - 112
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_112_B.png
@@ -5101,11 +5366,12 @@
      - 1040
      - 2400
      - 8
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - A
+
    * - 113
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_113_B.png
@@ -5125,6 +5391,7 @@
      - 🚫
      - 🚫
      - A
+
    * - 114
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_114_B.png
@@ -5139,11 +5406,12 @@
      - 1080
      - 1200
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - D
-     - A 
+     - A
+
    * - 115
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_115_B.png
@@ -5163,6 +5431,7 @@
      - 🚫
      - 🚫
      - A
+
    * - 116
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_116_B.png
@@ -5177,16 +5446,17 @@
      - 1200
      - 1060
      - 6
-     - 空陆
+     - 空陸
      - A
      - A
      - D
      - A
+
    * - 117
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_117_B.png
      - 円盤獣デギデギ
-     - :ref:`グレンダイザー <srw4_units_grendizer>` 
+     - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 6600
      - 180
      - 31
@@ -5196,11 +5466,12 @@
      - 1200
      - 1080
      - 6
-     - 空陆
+     - 空陸
      - A
      - A
      - D
      - A
+
    * - 118
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_118_B.png
@@ -5214,17 +5485,18 @@
      - 8
      - 🚫
      - 1230
-     - 5
-     - 空陆
+     - 6
+     - 空陸
      - A
      - B
      - D
      - 🚫
+
    * - 119
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_119_B.png
      - 戦闘獣ズガール
-     - :ref:`グレートマジンガー <srw4_units_great_mazinger>` 
+     - :ref:`グレートマジンガー <srw4_units_great_mazinger>`
      - 7000
      - 180
      - 30
@@ -5234,11 +5506,12 @@
      - 1630
      - 1200
      - 6
-     - 空陆
+     - 空陸
      - A
      - B
      - D
      - 🚫
+
    * - 11A
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_11A_B.png
@@ -5253,11 +5526,12 @@
      - 1280
      - 1400
      - 7
-     - 空陆
+     - 空陸
      - B
      - A
      - D
      - 🚫
+
    * - 11B
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_11B_B.png
@@ -5277,6 +5551,7 @@
      - 🚫
      - 🚫
      - B
+
    * - 11C
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_11C_B.png
@@ -5291,11 +5566,12 @@
      - 1000
      - 1180
      - 6
-     - 空
+     - 空陸
      - A
      - 🚫
      - 🚫
      - A
+
    * - 11D
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_11D_B.png
@@ -5310,11 +5586,12 @@
      - 870
      - 940
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - B
      - D
      - C
+
    * - 11E
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_11E_B.png
@@ -5329,11 +5606,12 @@
      - 1000
      - 880
      - 5
-     - 海陆
+     - 水陸
      - 🚫
      - B
      - A
      - 🚫
+
    * - 11F
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_11F_B.png
@@ -5348,11 +5626,12 @@
      - 3000
      - 🚫
      - 🚫
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - B
+
    * - 120
      - 没
      - .. image:: ../units/images/icon/srw4_units_icon_120_B.png
@@ -5367,11 +5646,12 @@
      - 400
      - 2150
      - 8
+     - 宇宙
      - 🚫
      - 🚫
      - 🚫
      - 🚫
-     - 🚫
+
    * - 121
      - 没
      - .. image:: ../units/images/icon/srw4_units_icon_121_B.png
@@ -5386,11 +5666,12 @@
      - 450
      - 980
      - 6
+     - 空（陸可）
      - 🚫
      - 🚫
      - 🚫
      - 🚫
-     - 🚫
+
    * - 122
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_122_B.png
@@ -5405,11 +5686,12 @@
      - 450
      - 980
      - 6
-     - 空
+     - 空（陸可）
      - A
      - 🚫
      - 🚫
      - 🚫
+
    * - 123
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_123_B.png
@@ -5424,11 +5706,12 @@
      - 940
      - 1250
      - 6
-     - 陆
+     - 陸宇
      - 🚫
      - A
      - C
      - A
+
    * - 124
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_124_B.png
@@ -5443,11 +5726,12 @@
      - 3000
      - 1070
      - 7
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - B
+
    * - 125
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_125_B.png
@@ -5462,11 +5746,12 @@
      - 3000
      - 1070
      - 7
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - B
+
    * - 126
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_126_B.png
@@ -5481,11 +5766,12 @@
      - 3000
      - 950
      - 6
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - B
+
    * - 127
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_127_B.png
@@ -5500,11 +5786,12 @@
      - 3000
      - 950
      - 6
-     - 空陆
+     - 空陸
      - A
      - A
      - B
      - B
+
    * - 128
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_128_B.png
@@ -5524,6 +5811,7 @@
      - 🚫
      - 🚫
      - B
+
    * - 129
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_129_B.png
@@ -5544,17 +5832,9 @@
      - 🚫
      - B
 
-
-
-
-
-
-
-
-
-
 .. raw:: html
 
     <script>
       units_datatable_init('srw4-units-snes-table');
     </script>
+
