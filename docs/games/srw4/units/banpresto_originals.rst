@@ -17,11 +17,18 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
 
-    .. grid-item-card::
-        :columns: 2   
+    .. grid-item::
+        :columns: auto   
 
         .. image:: ../units/images/portrait/srw4_units_portrait_5E.png
+
+    .. grid-item::
+        :columns: auto   
 
         | HP 2300
         | EN 150
@@ -29,47 +36,77 @@
         | 运动性 43
         | 限界 195
 
-    .. grid-item-card::
-        :columns: auto
-
-        | 编码 5E
+    .. grid-item::
+        :columns: auto   
+        
+        | 编码 5E        
         | 类型 陆
         | 移动力 8
         | 大小 M
+
+    .. grid-item::
+        :columns: auto
+
         | 空C(B)→B
         | 陆A
         | 海B
         | 宇A 
         | ビームコート
 
-    .. grid-item-card:: スプリットミサイル
-        :columns: auto
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+    
+    .. grid-item:: 名字
+        :columns: 3
+    .. grid-item:: 攻击
+    .. grid-item:: 射程
+    .. grid-item:: 命中
+    .. grid-item:: 暴击
+    .. grid-item:: 地形空陆海宇
+        :columns: 3  
+    .. grid-item:: 残弹/EN
+    .. grid-item:: 前提
+    .. grid-item::
+        :class: flex-break
 
-        | 攻击 750
-        | 射程 1^6
-        | 命中 ^5
-        | 暴击 ^10
-        | 空A陆A海A宇A        
-        | 弹数 4
+    .. grid-item:: スプリットミサイル
+        :columns: 3
+    .. grid-item:: 750
+    .. grid-item:: 1~6
+    .. grid-item:: -5
+    .. grid-item:: -10
+    .. grid-item:: A/A/A/A  
+        :columns: 3  
+    .. grid-item:: 残弹4
+    .. grid-item::
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: プラズマカッターⓅ🤛
+        :columns: 3
+    .. grid-item:: 970
+    .. grid-item:: 1
+    .. grid-item:: +25
+    .. grid-item:: +10
+    .. grid-item:: 🚫/A/A→B/A
+        :columns: 3  
+    .. grid-item::
+        :columns: 2
+    .. grid-item::
+        :class: flex-break     
 
-    .. grid-item-card:: プラズマカッターⓅ🤛
-        :columns: auto
-
-        | 攻击 970
-        | 射程 1
-        | 命中 +25
-        | 暴击 +10
-        | 空🚫陆A海A→B宇A
-
-    .. grid-item-card:: ニュートロンビーム
-        :columns: auto
-
-        | 攻击 1600
-        | 射程 1^7
-        | 命中 +5
-        | 暴击 +20
-        | 空A陆A海🚫宇A        
-        | 弹数 8
+    .. grid-item:: ニュートロンビーム
+        :columns: 3
+    .. grid-item:: 1600
+    .. grid-item:: 1~7
+    .. grid-item:: +5
+    .. grid-item:: +20
+    .. grid-item:: A/A/🚫/A  
+        :columns: 3       
+    .. grid-item:: 残弹8
+    .. grid-item::
 
 中子射线居然不算光线武器，使得敌方重战机和奥拉系的光线防御无效，简直是作弊啊。具有光线防御，很适合和机动战士系以及重战机系敌人战斗。
 

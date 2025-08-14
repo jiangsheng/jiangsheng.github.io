@@ -10,3 +10,8 @@ colgroup col { width: auto; }
 .bd-page-width {
     max-width: 100%;  /* default is 88rem */
 }
+
+.flex-break {
+  flex-basis: 100%; /* forces element to take up full width/height */
+  width: 0; /* ensures it doesn't add extra width/height itself */
+}

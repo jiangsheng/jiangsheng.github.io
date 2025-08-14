@@ -355,7 +355,7 @@
    * - 14
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_14_B.png
-     - GMIII
+     - GM III
      - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
      - 2100
      - 180
@@ -395,7 +395,7 @@
    * - 16
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_16_B.png
-     - リ・ガズィ(MA)
+     - リ・ガズィ (MA)
      - :ref:`逆襲のシャア <srw4_units_ms_gundam_char_s_counterattack>`
      - 2500
      - 200
@@ -415,7 +415,7 @@
    * - 17
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_17_B.png
-     - リ・ガズィ(MS)
+     - リ・ガズィ (MS)
      - :ref:`逆襲のシャア <srw4_units_ms_gundam_char_s_counterattack>`
      - 2400
      - 200
@@ -475,7 +475,7 @@
    * - 1A
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1A_B.png
-     - ゲッター３
+     - ゲッター3
      - :ref:`ゲッター <srw4_units_getter_robo>`
      - 2800
      - 180
@@ -555,8 +555,8 @@
    * - 1E
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1E_B.png
-     - マジンガーＺ
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
+     - マジンガーZ
+     - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 3200
      - 160
      - 20
@@ -575,8 +575,8 @@
    * - 1F
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1F_B.png
-     - マジンガーＺ（JS）
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
+     - マジンガーZ（JS）
+     - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 3500
      - 170
      - 22
@@ -776,7 +776,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_29_B.png
      - アフロダイＡ
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
+     - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 2800
      - 140
      - 22
@@ -796,7 +796,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_2A_B.png
      - ダイアナンＡ
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
+     - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 3100
      - 150
      - 22
@@ -816,7 +816,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_2B_B.png
      - ボスロボット
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
+     - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 2900
      - 130
      - 15
@@ -1055,7 +1055,7 @@
    * - 37
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_37_B.png
-     - ダイターン３
+     - ダイターン3
      - :ref:`ダイターン3 <srw4_units_daitarn_3>`
      - 4700
      - 255
@@ -1195,7 +1195,7 @@
    * - 3E
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_3E_B.png
-     - ザンボット３
+     - ザンボット3
      - :ref:`ザンボット3 <srw4_units_zambot_3>`
      - 3400
      - 170
@@ -1955,7 +1955,7 @@
    * - 64
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_64_B.png
-     - ハンブラビ(MS)
+     - ハンブラビ (MS)
      - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
      - 1900
      - 175
@@ -1975,7 +1975,7 @@
    * - 65
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_65_B.png
-     - ハンブラビ(MA)
+     - ハンブラビ (MA)
      - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
      - 1900
      - 175
@@ -1995,7 +1995,7 @@
    * - 66
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_66_B.png
-     - アッシマー(MS)
+     - アッシマー (MS)
      - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
      - 2400
      - 180
@@ -2015,7 +2015,7 @@
    * - 67
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_67_B.png
-     - アッシマー(MA)
+     - アッシマー (MA)
      - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
      - 2400
      - 180
@@ -2035,7 +2035,7 @@
    * - 68
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_68_B.png
-     - サイコガンダム(MS)
+     - サイコガンダム (MS)
      - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
      - 14500
      - 240
@@ -2055,7 +2055,7 @@
    * - 69
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_69_B.png
-     - サイコガンダム(MA)
+     - サイコガンダム (MA)
      - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
      - 14500
      - 240
@@ -2095,7 +2095,7 @@
    * - 6B
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_6B_B.png
-     - ガブスレイ(MS)
+     - ガブスレイ (MS)
      - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
      - 1900
      - 190
@@ -2115,7 +2115,7 @@
    * - 6C
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_6C_B.png
-     - ガブスレイ(MA)
+     - ガブスレイ (MA)
      - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
      - 1900
      - 190
@@ -2135,7 +2135,7 @@
    * - 6D
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_6D_B.png
-     - バウンド・ドック(MS)
+     - バウンド・ドック (MS)
      - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
      - 5500
      - 210
@@ -2155,7 +2155,7 @@
    * - 6E
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_6E_B.png
-     - バウンド・ドック(MA)
+     - バウンド・ドック (MA)
      - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
      - 5500
      - 210
@@ -2175,7 +2175,7 @@
    * - 6F
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_6F_B.png
-     - サイコガンダムmkII(MS)
+     - サイコガンダム Mk-II (MS)
      - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
      - 25000
      - 255
@@ -2195,7 +2195,7 @@
    * - 70
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_70_B.png
-     - サイコガンダムmkII(MA)
+     - サイコガンダム Mk-II (MA)
      - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
      - 25000
      - 255
@@ -2235,7 +2235,7 @@
    * - 72
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_72_B.png
-     - メタス(MS)
+     - メタス (MS)
      - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
      - 1800
      - 150
@@ -2255,7 +2255,7 @@
    * - 73
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_73_B.png
-     - メタス(MA)
+     - メタス (MA)
      - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
      - 1800
      - 150
@@ -2415,7 +2415,7 @@
    * - 7B
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_7B_B.png
-     - キュベレイmkII
+     - キュベレイ Mk-II
      - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
      - 2100
      - 180
@@ -2515,7 +2515,7 @@
    * - 80
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_80_B.png
-     - バウ(MS)
+     - バウ (MS)
      - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
      - 2200
      - 170
@@ -2535,7 +2535,7 @@
    * - 81
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_81_B.png
-     - バウ(MA)
+     - バウ (MA)
      - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
      - 2200
      - 170
@@ -2936,7 +2936,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_95_B.png
      - 機械獣ダブラスM2
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
+     - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 3000
      - 200
      - 20
@@ -2956,7 +2956,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_96_B.png
      - 機械獣ガラダＫ７
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
+     - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 3000
      - 200
      - 20
@@ -2976,7 +2976,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_97_B.png
      - 機械獣トロスD7
-     - :ref:`劇場版マジンガーＺ <srw4_units_mazinger_z_the_movie>`
+     - :ref:`劇場版マジンガーZ <srw4_units_mazinger_z_the_movie>`
      - 3200
      - 200
      - 21
@@ -2996,7 +2996,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_98_B.png
      - ラインX1
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
+     - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 7000
      - 255
      - 30
@@ -3016,7 +3016,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_99_B.png
      - 機械獣ジェノバM9
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
+     - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 3200
      - 200
      - 24
@@ -3036,7 +3036,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_9A_B.png
      - 機械獣スパルタンK5
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
+     - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 6000
      - 255
      - 27
@@ -3056,7 +3056,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_9B_B.png
      - 機械獣アブドラU6
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
+     - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 3300
      - 200
      - 20
@@ -3076,7 +3076,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_9C_B.png
      - グール
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
+     - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 13000
      - 200
      - 25
@@ -3096,7 +3096,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_9D_B.png
      - ブード
-     - :ref:`マジンガーＺ <srw4_units_mazinger_z>`
+     - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 18000
      - 200
      - 22
@@ -3256,7 +3256,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A5_B.png
      - ピクドロン
-     - :ref:`劇場版マジンガーＺ <srw4_units_mazinger_z_the_movie>`
+     - :ref:`劇場版マジンガーZ <srw4_units_mazinger_z_the_movie>`
      - 20000
      - 255
      - 30
@@ -3276,7 +3276,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A6_B.png
      - ギルギルガン
-     - :ref:`劇場版マジンガーＺ <srw4_units_mazinger_z_the_movie>`
+     - :ref:`劇場版マジンガーZ <srw4_units_mazinger_z_the_movie>`
      - 22000
      - 255
      - 32
@@ -3316,7 +3316,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A8_B.png
      - ドラゴノザウルス
-     - :ref:`劇場版マジンガーＺ <srw4_units_mazinger_z_the_movie>`
+     - :ref:`劇場版マジンガーZ <srw4_units_mazinger_z_the_movie>`
      - 40000
      - 255
      - 30
@@ -4675,7 +4675,7 @@
    * - EC
      - 盟
      - .. image:: ../units/images/icon/srw4_units_icon_EC_B.png
-     - ゲシュペンストmkII
+     - ゲシュペンスト Mk-II
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3800
      - 210
@@ -4715,7 +4715,7 @@
    * - EE
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_EE_B.png
-     - エルガイムmkII
+     - エルガイム Mk-II
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 3100
      - 220
@@ -4995,7 +4995,7 @@
    * - FE
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_FE_B.png
-     - 真・ゲッター３
+     - 真・ゲッター3
      - :ref:`ゲッター <srw4_units_getter_robo>`
      - 4100
      - 225
@@ -5055,7 +5055,7 @@
    * - 103
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_103_B.png
-     - ガンダムmkII
+     - ガンダム Mk-II
      - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
      - 2000
      - 180
@@ -5436,7 +5436,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_116_B.png
      - 円盤獣ジンジン
-     - :ref:`劇場版マジンガーＺ <srw4_units_mazinger_z_the_movie>`
+     - :ref:`劇場版マジンガーZ <srw4_units_mazinger_z_the_movie>`
      - 6500
      - 180
      - 31
@@ -5476,7 +5476,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_118_B.png
      - 戦闘獣ダンテ
-     - :ref:`劇場版マジンガーＺ <srw4_units_mazinger_z_the_movie>`
+     - :ref:`劇場版マジンガーZ <srw4_units_mazinger_z_the_movie>`
      - 6800
      - 180
      - 30
@@ -5516,7 +5516,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_11A_B.png
      - 獣魔将軍
-     - :ref:`劇場版マジンガーＺ <srw4_units_mazinger_z_the_movie>`
+     - :ref:`劇場版マジンガーZ <srw4_units_mazinger_z_the_movie>`
      - 12000
      - 200
      - 30
@@ -5837,5 +5837,4 @@
     <script>
       units_datatable_init('srw4-units-playstation-table');
     </script>
-
 
