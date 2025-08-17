@@ -3409,7 +3409,7 @@
 
    * - 6C
      - 盟
-     - .. image:: ../pilots/images/srw4_pilot_6C.png
+     - 
      - 連邦軍兵士
      - EFGF soldier
      - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
@@ -7632,8 +7632,3 @@
     <script>
       pilots_datatable_init('srw4-pilots-playstation-table');
     </script>
-
-
-
-
-
