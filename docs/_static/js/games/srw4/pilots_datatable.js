@@ -9,10 +9,10 @@ function pilots_datatable_init(dataTableName)
             columnDefs:
             [
                 {type: 'hex',targets:0},
-                {type: 'integer',targets:[6,7,8,9,10,11,12,13,14,15,16,17,18]},
-                {type: 'rating-grade',targets:[19,20,21,22]},
-                //{visible: true,target: [6,7,8,9,10,11,12,13,14,15,16,17]},
-                {orderable: false,targets: [2,5,23,24,25,26,27,28,29]}
+                {type: 'integer',targets:[7,8,9,10,11,12,13,14,15,16,17,18,19]},
+                {type: 'rating-grade',targets:[20,21,22,23]},
+                //{visible: true,target: [7,8,9,10,11,12,13,14,15,16,17,18]},
+                {orderable: false,targets: [2,6,24,25,26,27,28,29,30]}
             ]
         }
     );
@@ -69,19 +69,19 @@ function pilots_datatable_init(dataTableName)
                 switch(columnMode)
                 {
                     case "1":
-                        visibleColumnIndexArray=[6,7,8,9,10,11,19,20,21,22];
-                        hiddenColumnIndexArray=[12,13,14,15,16,17,18,23,24,25,26,27,28,29];
+                        visibleColumnIndexArray=[7,8,9,10,11,12,20,20,21,22,23];
+                        hiddenColumnIndexArray=[13,14,15,16,17,18,19,24,25,26,27,28,29,30];
                         break;
                     case "2":
-                        visibleColumnIndexArray=[12,13,14,15,16,17,19,20,21,22];
-                        hiddenColumnIndexArray=[6,7,8,9,10,11,18,23,24,25,26,27,28,29];
+                        visibleColumnIndexArray=[13,14,15,16,17,19,20,21,22,23];
+                        hiddenColumnIndexArray=[7,8,9,10,11,12,19,24,25,26,27,28,29,30];
                         break;
                     case "3":
-                        visibleColumnIndexArray=[18,23,24,25,26,27,28,29];
-                        hiddenColumnIndexArray=[6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22];
+                        visibleColumnIndexArray=[19,24,25,26,27,28,29,30];
+                        hiddenColumnIndexArray=[7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23];
                         break;
                     default:
-                        visibleColumnIndexArray=[6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29];
+                        visibleColumnIndexArray=[7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30];
                         hiddenColumnIndexArray=[];
                         break;
 
