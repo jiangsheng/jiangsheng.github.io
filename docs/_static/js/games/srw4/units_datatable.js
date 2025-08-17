@@ -34,7 +34,7 @@ function units_datatable_init(dataTableName)
         oTable.search.fixed('affiliationSearch', function (row, data, index) 
         { 
             let affiliation = data[1] || ""; 
-            let seriesName = data[4] || ""; 
+            let seriesName = data[5] || ""; 
             var affiliationMatch=false;
             if($('#checkboxPlayerOnly').prop('checked'))
             {            

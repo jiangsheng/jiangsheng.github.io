@@ -231,7 +231,7 @@
      - ジャック・キング
      - Jack King
      - :ref:`ゲッター <srw4_pilots_getter_robo>`
-     - 超強気
+     - 強気
      - 95
      - 113
      - 94
@@ -293,7 +293,7 @@
      - 流竜馬
      - Ryoma Nagare
      - :ref:`ゲッター <srw4_pilots_getter_robo>`
-     - 超強気
+     - 強気
      - 120
      - 90
      - 90
@@ -325,7 +325,7 @@
      - 神隼人
      - Hayato Jin
      - :ref:`ゲッター <srw4_pilots_getter_robo>`
-     - 超強気
+     - 強気
      - 113
      - 95
      - 98
@@ -388,7 +388,7 @@
      - 北条真吾
      - Shingo Hojo
      - :ref:`ゴーショーグン <srw4_pilots_goshogun>`
-     - 超強気
+     - 強気
      - 115
      - 108
      - 94
@@ -420,7 +420,7 @@
      - レミー島田
      - Remy Shimada
      - :ref:`ゴーショーグン <srw4_pilots_goshogun>`
-     - 
+     - 超強気
      - 0
      - 0
      - 0
@@ -482,7 +482,7 @@
      - 神勝平
      - Kappei Jin
      - :ref:`ザンボット3 <srw4_pilots_zambot_3>`
-     - 
+     - 超強気
      - 112
      - 102
      - 92
@@ -514,7 +514,7 @@
      - 神江宇宙太
      - Uchuuta Kamie
      - :ref:`ザンボット3 <srw4_pilots_zambot_3>`
-     - 超強気
+     - 強気
      - 100
      - 100
      - 90
@@ -545,7 +545,7 @@
      - 神北恵子
      - Keiko Kamikita
      - :ref:`ザンボット3 <srw4_pilots_zambot_3>`
-     - 超強気
+     - 強気
      - 95
      - 100
      - 93
@@ -576,7 +576,7 @@
      - 藤原忍
      - Shinobu Fujiwara
      - :ref:`ダンクーガ <srw4_pilots_dancouga>`
-     - 
+     - 超強気
      - 105
      - 104
      - 104
@@ -607,7 +607,7 @@
      - 結城沙羅
      - Sara Yuki
      - :ref:`ダンクーガ <srw4_pilots_dancouga>`
-     - 
+     - 超強気
      - 98
      - 85
      - 103
@@ -638,7 +638,7 @@
      - 式部雅人
      - Masato Shikibu
      - :ref:`ダンクーガ <srw4_pilots_dancouga>`
-     - 超強気
+     - 強気
      - 98
      - 86
      - 104
@@ -669,7 +669,7 @@
      - 司馬亮
      - Ryo Shiba
      - :ref:`ダンクーガ <srw4_pilots_dancouga>`
-     - 超強気
+     - 強気
      - 105
      - 92
      - 112
@@ -700,7 +700,7 @@
      - 葵豹馬
      - Hyoma Aoi
      - :ref:`コンバトラーV <srw4_pilots_combattler_v>`
-     - 
+     - 超強気
      - 112
      - 92
      - 90
@@ -732,7 +732,7 @@
      - 浪花十三
      - Juzo Naniwa
      - :ref:`コンバトラーV <srw4_pilots_combattler_v>`
-     - 超強気
+     - 強気
      - 90
      - 95
      - 84
@@ -764,7 +764,7 @@
      - 西川大作
      - Daisaku Nishikawa
      - :ref:`コンバトラーV <srw4_pilots_combattler_v>`
-     - 超強気
+     - 強気
      - 116
      - 75
      - 80
@@ -858,7 +858,7 @@
      - ギリアム・イェーガー
      - Gilliam Yeager
      - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
-     - 
+     - 超強気
      - 115
      - 122
      - 128
@@ -895,7 +895,7 @@
      - ショウ・ザマ
      - Show Zama
      - :ref:`ダンバイン <srw4_pilots_dunbine>`
-     - 超強気
+     - 強気
      - 118
      - 110
      - 135
@@ -932,7 +932,7 @@
      - マサキ・アンドー
      - Masaki Andoh
      - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
-     - 
+     - 超強気
      - 111
      - 122
      - 131
@@ -963,7 +963,7 @@
      - リューネ・ゾルダーク
      - Ryune Zoldark
      - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
-     - 
+     - 超強気
      - 107
      - 118
      - 132
@@ -1025,7 +1025,7 @@
      - クワトロ・バジーナ
      - Quattro Bajeena
      - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
-     - 超強気
+     - 強気
      - 98
      - 130
      - 142
@@ -1146,7 +1146,7 @@
      - マチルダ・アジャン
      - Matilda Ajan
      - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
-     - 超強気
+     - 強気
      - 78
      - 82
      - 104
@@ -1544,7 +1544,7 @@
      - ルー・ルカ
      - Roux Louka
      - :ref:`ガンダムΖΖ <srw4_pilots_ms_gundam_zz>`
-     - 超強気
+     - 強気
      - 78
      - 91
      - 117
@@ -1580,7 +1580,7 @@
      - エルピー・プル
      - Elpeo Ple
      - :ref:`ガンダムΖΖ <srw4_pilots_ms_gundam_zz>`
-     - 超強気
+     - 強気
      - 80
      - 102
      - 133
@@ -1614,7 +1614,7 @@
      - プルツー
      - Ple Two
      - :ref:`ガンダムΖΖ <srw4_pilots_ms_gundam_zz>`
-     - 
+     - 超強気
      - 80
      - 102
      - 130
@@ -1737,7 +1737,7 @@
      - エル・ビアンノ
      - Elle Viano
      - :ref:`ガンダムΖΖ <srw4_pilots_ms_gundam_zz>`
-     - 超強気
+     - 強気
      - 70
      - 88
      - 105
@@ -2088,7 +2088,7 @@
      - アナベル・ガトー
      - Anavel Gato
      - :ref:`ガンダム0083 <srw4_pilots_ms_gundam_0083>`
-     - 超強気
+     - 強気
      - 112
      - 127
      - 139
@@ -2152,7 +2152,7 @@
      - ベルナルド・モンシア
      - Bernard Monsha
      - :ref:`ガンダム0083 <srw4_pilots_ms_gundam_0083>`
-     - 
+     - 超強気
      - 90
      - 119
      - 120
@@ -2184,7 +2184,7 @@
      - 弓さやか
      - Sayaka Yumi
      - :ref:`マジンガーZ <srw4_pilots_mazinger_z>`
-     - 超強気
+     - 強気
      - 93
      - 105
      - 90
@@ -2247,7 +2247,7 @@
      - ボス
      - Boss
      - :ref:`マジンガーZ <srw4_pilots_mazinger_z>`
-     - 超強気
+     - 強気
      - 115
      - 70
      - 82
@@ -2310,7 +2310,7 @@
      - マリア・フリード
      - Maria Fleed
      - :ref:`グレンダイザー <srw4_pilots_grendizer>`
-     - 
+     - 超強気
      - 90
      - 107
      - 89
@@ -2527,7 +2527,7 @@
      - アムロ・レイ
      - Amuro Ray
      - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
-     - 超強気
+     - 強気
      - 103
      - 116
      - 143
@@ -2568,7 +2568,7 @@
      - カミーユ・ビダン
      - Kamille Bidan
      - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
-     - 
+     - 超強気
      - 103
      - 117
      - 141
@@ -2609,7 +2609,7 @@
      - ジュドー・アーシタ
      - Judau Ashta
      - :ref:`ガンダムΖΖ <srw4_pilots_ms_gundam_zz>`
-     - 
+     - 超強気
      - 112
      - 117
      - 140
@@ -2734,7 +2734,7 @@
      - 兜甲児
      - Koji Kabuto
      - :ref:`マジンガーZ <srw4_pilots_mazinger_z>`
-     - 
+     - 超強気
      - 118
      - 95
      - 95
@@ -3169,7 +3169,7 @@
      - ニー・ギブン
      - Knee Given
      - :ref:`ダンバイン <srw4_pilots_dunbine>`
-     - 超強気
+     - 強気
      - 118
      - 112
      - 115
@@ -3349,7 +3349,7 @@
      - 破嵐万丈
      - Banjo Haran
      - :ref:`ダイターン3 <srw4_pilots_daitarn_3>`
-     - 超強気
+     - 強気
      - 130
      - 110
      - 108
@@ -3381,7 +3381,7 @@
      - 竜崎一矢
      - Kazuya Ryuzaki
      - :ref:`ダイモス <srw4_pilots_daimos>`
-     - 超強気
+     - 強気
      - 125
      - 108
      - 104
@@ -3527,7 +3527,7 @@
      - サウス・バニング
      - South Burning
      - :ref:`ガンダム0083 <srw4_pilots_ms_gundam_0083>`
-     - 超強気
+     - 強気
      - 236
      - 236
      - 0
@@ -3552,7 +3552,7 @@
      - ホワン・ヤンロン
      - Huang Yanglong
      - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
-     - 超強気
+     - 強気
      - 101
      - 111
      - 123
@@ -3697,7 +3697,7 @@
      - サフィーネ・グレイス
      - Safine Grace
      - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
-     - 
+     - 超強気
      - 98
      - 108
      - 126
@@ -3728,7 +3728,7 @@
      - ガデム
      - Gadem
      - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
-     - 超強気
+     - 強気
      - 90
      - 105
      - 105
@@ -3757,7 +3757,7 @@
      - ランバ・ラル
      - Lamba Ral
      - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
-     - 超強気
+     - 強気
      - 100
      - 120
      - 135
@@ -3815,7 +3815,7 @@
      - 敌
      - .. image:: ../pilots/images/srw4_pilot_7A.png
      - クランプ
-     - clamp
+     - Clamp
      - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
      - 普通
      - 90
@@ -3846,7 +3846,7 @@
      - ガイア
      - Gaia
      - :ref:`ガンダム0079 <srw4_pilots_ms_gundam>`
-     - 超強気
+     - 強気
      - 102
      - 117
      - 132
@@ -4129,7 +4129,7 @@
      - ジェリド・メサ
      - Jerid Messa
      - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
-     - 
+     - 超強気
      - 98
      - 116
      - 132
@@ -4221,7 +4221,7 @@
      - ハマーン・カーン
      - Haman Karn
      - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
-     - 超強気
+     - 強気
      - 112
      - 128
      - 142
@@ -4381,7 +4381,7 @@
      - ライラ=ミラ=ライラ
      - Lila Milla Rira
      - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
-     - 超強気
+     - 強気
      - 99
      - 115
      - 135
@@ -4416,7 +4416,7 @@
      - ヤザン・ゲーブル
      - Yazan Gable
      - :ref:`Zガンダム <srw4_pilots_ms_z_gundam>`
-     - 
+     - 超強気
      - 110
      - 123
      - 138
@@ -4485,7 +4485,7 @@
      - マシュマー・セロ
      - Mashymre Cello
      - :ref:`ガンダムΖΖ <srw4_pilots_ms_gundam_zz>`
-     - 超強気
+     - 強気
      - 109
      - 116
      - 134
@@ -4554,7 +4554,7 @@
      - キャラ・スーン
      - Chara Soon
      - :ref:`ガンダムΖΖ <srw4_pilots_ms_gundam_zz>`
-     - 超強気
+     - 強気
      - 102
      - 111
      - 133
@@ -4715,7 +4715,7 @@
      - ラカン・ダカラン
      - Rakan Dahkaran
      - :ref:`ガンダムΖΖ <srw4_pilots_ms_gundam_zz>`
-     - 超強気
+     - 強気
      - 113
      - 123
      - 135
@@ -4811,7 +4811,7 @@
      - レズン・シュナイダー
      - Rezun Schneider
      - :ref:`逆襲のシャア <srw4_pilots_ms_gundam_char_s_counterattack>`
-     - 超強気
+     - 強気
      - 95
      - 118
      - 130
@@ -4941,7 +4941,7 @@
      - カロッゾ・ロナ
      - Carrozzo Rona
      - :ref:`ガンダムF91 <srw4_pilots_ms_gundam_f91>`
-     - 超強気
+     - 強気
      - 104
      - 125
      - 129
@@ -4973,7 +4973,7 @@
      - シュタイナー
      - Steiner
      - :ref:`ガンダム0080 <srw4_pilots_ms_gundam_0080>`
-     - 超強気
+     - 強気
      - 105
      - 119
      - 126
@@ -5004,7 +5004,7 @@
      - シーマ・ガラハウ
      - Cima Garahau
      - :ref:`ガンダム0083 <srw4_pilots_ms_gundam_0083>`
-     - 
+     - 超強気
      - 101
      - 119
      - 127
@@ -5245,7 +5245,7 @@
      - ガルーダ
      - Garuda
      - :ref:`コンバトラーV <srw4_pilots_combattler_v>`
-     - 超強気
+     - 強気
      - 106
      - 102
      - 92
@@ -5456,7 +5456,7 @@
      - バルバス
      - Balbas
      - :ref:`ダイモス <srw4_pilots_daimos>`
-     - 超強気
+     - 強気
      - 123
      - 90
      - 92
@@ -5518,7 +5518,7 @@
      - アイザム
      - Aizam
      - :ref:`ダイモス <srw4_pilots_daimos>`
-     - 超強気
+     - 強気
      - 113
      - 98
      - 106
@@ -5580,7 +5580,7 @@
      - スーグニ・カットナル
      - Suegni Cuttnal
      - :ref:`ゴーショーグン <srw4_pilots_goshogun>`
-     - 超強気
+     - 強気
      - 105
      - 109
      - 100
@@ -5611,7 +5611,7 @@
      - ヤッター・ラ・ケルナグール
      - Yatta-la Kernagul
      - :ref:`ゴーショーグン <srw4_pilots_goshogun>`
-     - 
+     - 超強気
      - 127
      - 95
      - 99
@@ -5642,7 +5642,7 @@
      - トッド・ギネス
      - Todd Guinness
      - :ref:`ダンバイン <srw4_pilots_dunbine>`
-     - 超強気
+     - 強気
      - 126
      - 103
      - 131
@@ -5963,7 +5963,7 @@
      - ジェリル・クチビ
      - Jeryl Kuchibi
      - :ref:`ダンバイン <srw4_pilots_dunbine>`
-     - 
+     - 超強気
      - 127
      - 94
      - 129
@@ -5998,7 +5998,7 @@
      - アレン・ブレディ
      - Allen Brady
      - :ref:`ダンバイン <srw4_pilots_dunbine>`
-     - 超強気
+     - 強気
      - 126
      - 98
      - 132
@@ -6068,7 +6068,7 @@
      - ガラリア・ニャムヒー
      - Galaria Nyanhi
      - :ref:`ダンバイン <srw4_pilots_dunbine>`
-     - 超強気
+     - 強気
      - 122
      - 97
      - 129
@@ -6103,7 +6103,7 @@
      - ガラミティ・マンガン
      - Galamity Manganese
      - :ref:`ダンバイン <srw4_pilots_dunbine>`
-     - 超強気
+     - 強気
      - 122
      - 98
      - 125
@@ -6548,7 +6548,7 @@
      - ダバ・マイロード
      - Daba MyroadMyroad
      - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
-     - 超強気
+     - 強気
      - 95
      - 119
      - 129
@@ -6589,7 +6589,7 @@
      - ガウ・ハ・レッシィ
      - Gaw Ha Leccee
      - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
-     - 超強気
+     - 強気
      - 96
      - 114
      - 129
@@ -6730,7 +6730,7 @@
      - ギャブレット・ギャブレー
      - Gavlet Gablae
      - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
-     - 超強気
+     - 強気
      - 95
      - 117
      - 129
@@ -6770,7 +6770,7 @@
      - アマンダラ・カマンダラ
      - Amandara Kamandara
      - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
-     - 
+     - 超強気
      - 130
      - 135
      - 125
@@ -6800,7 +6800,7 @@
      - オルドナ・ポセイダル
      - Oldna Poseidal
      - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
-     - 
+     - 超強気
      - 128
      - 122
      - 123
@@ -6829,7 +6829,7 @@
      - ネイ・モー・ハン
      - Nei Mo Han
      - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
-     - 
+     - 超強気
      - 100
      - 125
      - 128
@@ -7018,7 +7018,7 @@
      - ヘッケラー・マウザー
      - Heckler Mauser
      - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
-     - 
+     - 超強気
      - 109
      - 119
      - 127
@@ -7050,7 +7050,7 @@
      - リィリィ・ハッシー
      - Lily Hasshi
      - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
-     - 
+     - 超強気
      - 113
      - 117
      - 129
@@ -7141,7 +7141,7 @@
      - マフ・マクトミン
      - Maph McTomin
      - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
-     - 超強気
+     - 強気
      - 109
      - 123
      - 128
@@ -7505,7 +7505,7 @@
      - 真实系男主人公
      - Male Protagonist (real)
      - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
-     - 超強気
+     - 強気
      - 95
      - 105
      - 115
@@ -7539,7 +7539,7 @@
      - 超级系男主人公
      - Male Protagonist (super)
      - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
-     - 
+     - 超強気
      - 110
      - 95
      - 100
@@ -7569,7 +7569,7 @@
      - 真实系女主人公
      - Female Protagonist (real)
      - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
-     - 超強気
+     - 強気
      - 95
      - 112
      - 117
@@ -7603,7 +7603,7 @@
      - 超级系女主人公
      - Female Protagonist (super)
      - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
-     - 
+     - 超強気
      - 112
      - 95
      - 102
@@ -7632,6 +7632,7 @@
     <script>
       pilots_datatable_init('srw4-pilots-playstation-table');
     </script>
+
 
 
 

@@ -26,7 +26,7 @@
          <option value="4">ダンバイン系</option>
          <option value="5">圣战士系</option>
        </select>
-
+       
 .. flat-table:: 机体数据 （第四次超级机器人大战S）
    :class: text-center, align-items-center, compact, display
    :name: srw4_units_playstation_table
@@ -6127,5 +6127,6 @@
     <script>
       units_datatable_init('srw4-units-playstation-table');
     </script>
+
 
 
