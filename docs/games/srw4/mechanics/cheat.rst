@@ -2828,6 +2828,35 @@
 
       | 8004BED8 013E
       | 気合→ニュータイプ
+
+    .. grid-item-card:: ビーチャ
+      :columns: auto
+      | 3004B1B0 004E
+      | 颜
+
+    .. grid-item-card:: イーノ
+      :columns: auto
+
+      | 8004B218 1f01
+      | 颜
+
+    .. grid-item-card:: エル・ビアンノ
+      :columns: auto
+
+      | 8004B1FD 1f05
+      | 颜
+
+    .. grid-item-card:: グレミー・トト
+      :columns: auto
+
+      | 3004BDCA 00E0
+      | 颜
+
+    .. grid-item-card:: ナナイ・ミゲル
+      :columns: auto
+
+      | 3004BE9C 003b
+      | 颜
       
 ^^^^^^^^^^^^^^^^^^^^^
 其他

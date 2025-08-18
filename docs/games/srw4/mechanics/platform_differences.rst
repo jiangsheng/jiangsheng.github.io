@@ -59,5 +59,13 @@
 * ビギナ・ギナ 装甲上升
 * ビルバイン 装甲下降
 * ゴーショーグン ダイモス ザンボット３ 武器威力上升
-* 真・ゲッター２的ドリルテンペスト的射程从1~3变成了1~7。
+* 真・ゲッター２的ドリルテンペスト的射程从1~3变成了1~7。ｹﾞｯﾀｰﾐｻｲﾙ取消。
 * 其他的一些机师和机体能力的修改
+* 更多数据参照
+
+   * :ref:`第四次机师数据 <srw4_pilots_snes_table>`
+   * :ref:`第四次S机师数据 <srw4_pilots_playstation_table>`
+   * :ref:`第四次机体数据 <srw4_units_snes_table>`
+   * :ref:`第四次机体数据 <srw4_units_playstation_table>`
+   * :ref:`第四次机体数据 <srw4_weapons_snes_table>`
+   * :ref:`第四次机体数据 <srw4_weapons_playstation_table>`

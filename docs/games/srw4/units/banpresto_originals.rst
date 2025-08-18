@@ -53,6 +53,14 @@
         | 宇A 
         | ビームコート
 
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_55.png
+            
+        | 地形参照        
+        | 真实系女主人公
+
 .. grid:: 
     :gutter: 0
     :margin: 0
