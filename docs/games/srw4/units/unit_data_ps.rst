@@ -23,8 +23,8 @@
          <option value="1" selected>全部</option>
          <option value="2">機動戦士系</option>
          <option value="3">マジンガー系</option>
-         <option value="4">ダンバイン系</option>
-         <option value="5">圣战士系</option>
+         <option value="4">エルガイム</option>
+         <option value="5">ダンバイン系</option>
        </select>
        
 .. flat-table:: 机体数据 （第四次超级机器人大战S）

@@ -231,6 +231,7 @@
 "blogs/2020/finding-the-right-ruby-version" "blogs/2020/05/finding-the-right-ruby-version"
 "blogs/2020/todays-fake-email-of-the-day" "blogs/2020/10/todays-fake-email-of-the-day"
 "blogs/2021/better-late-than-never" "blogs/2021/06/better-late-than-never"
+"blogs/2021/typed_oopfactory_x12_835" "blogs/2021/04/converting-generic-oopfactory-x12-structures-to-typed-counterparts"
 "blogs/2021/converting-generic-oopfactory-x12-structures-to-typed-counterparts" "blogs/2021/04/converting-generic-oopfactory-x12-structures-to-typed-counterparts"
 "blogs/2021/how-to-determine-when-a-page-is-done-printing-in-webbrowser-control" "blogs/2021/03/how-to-determine-when-a-page-is-done-printing-in-webbrowser-control"
 "blogs/2021/icepocalypse-2021-冰狱-2021" "blogs/2021/02/icepocalypse-2021-冰狱-2021"

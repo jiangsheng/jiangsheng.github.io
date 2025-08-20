@@ -6390,7 +6390,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_D2.png
      - ダバ・マイロード
-     - Daba MyroadMyroad
+     - Daba Myroad
      - :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`
      - 強気
      - 95

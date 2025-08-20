@@ -4,7 +4,7 @@
 :html_theme.sidebar_primary.remove: true
 :html_theme.sidebar_secondary.remove: true
 
-机体数据 （第四次超级机器人大战S）
+机体数据 （第四次超级机器人大战）
 ================================================
 
 点击列头排序，Shift+点击列头添加排序条件。
@@ -23,11 +23,11 @@
          <option value="1" selected>全部</option>
          <option value="2">機動戦士系</option>
          <option value="3">マジンガー系</option>
-         <option value="4">ダンバイン系</option>
-         <option value="5">圣战士系</option>
+         <option value="4">エルガイム系</option>
+         <option value="5">ダンバイン系</option>
        </select>
 
-.. flat-table:: 机体数据 （第四次超级机器人大战S）
+.. flat-table:: 机体数据 （第四次超级机器人大战）
    :class: text-center, align-items-center, compact, display
    :name: srw4_units_snes_table
    :header-rows: 1
