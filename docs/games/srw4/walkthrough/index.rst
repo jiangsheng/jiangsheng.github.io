@@ -658,7 +658,7 @@
         | 升级：Sガンダム
         | → ExSガンダム 
 
-    .. grid-item-card:: 第三十四话（香月未被抓走）
+    .. grid-item-card:: 第三十四话（アキ未被抓走）
         :columns: auto
 
         .. image:: ../units/images/portrait/srw4_units_portrait_3E.png
@@ -669,7 +669,7 @@
         | 追加武器：ヒュッケバイン
         | 、グルンガスト
 
-    .. grid-item-card:: 第三十四话（香月已被抓走）
+    .. grid-item-card:: 第三十四话（アキ已被抓走）
         :columns: auto
 
         .. image:: ../units/images/portrait/srw4_units_portrait_53.png

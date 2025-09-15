@@ -60,3 +60,5 @@
 アトールＶ
 ----------------
 废弃数据，能力和\ :ref:`ゴッドネロス <srw4_units_goshogun>`\ 相同。
+
+somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールＶ is not actually coded so. 300470DD 0003 would correct this so pilots the series can ride it.

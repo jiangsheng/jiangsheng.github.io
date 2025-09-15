@@ -458,7 +458,7 @@ Gregorio Maias
         :columns: auto       
 
         | Short Rating: C+
-        | First Skill: one
+        | First Skill: none
 
 To recruit, fight in colosseum after mission 8.
 
@@ -640,7 +640,7 @@ To recruit, fight in colosseum after mission 16.
 
 Third best Melee in the OCU side. Starts with Stun and Double. No First hurts. Cannot learn Short skills but can learn Guide after the DS port.
 
-Yang is a better Melee but she's too good in Short to not abuse the game imbalance. Ralph would be the second best Melee and the last.
+Yang is a better Melee but she's too good in Short to not abuse the game imbalance. Considering Yang's switch, Ralph would be the second best Melee and the last.
 
 ------------------------------
 Gentz Weizer

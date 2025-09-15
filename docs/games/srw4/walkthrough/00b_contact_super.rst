@@ -10,6 +10,8 @@
 
 刚被分配到朗德·贝尔部队，还没和本队会合就碰见没油的紧急事件。主角联系了附近的基地，但是附近好像有不速之客。
 
+You are a top student graduated from the Naimahn Military Academy and an assistant in the Tesla Institute in Colorado Springs, USA for your father. Now, you are going to study abroad at the Photonic Power Institute in Japan with the machine designed by your father. However something unexpected happens on the way. 
+
 作战目的：敌全灭
 
 地图：26*26 群岛 
@@ -65,4 +67,7 @@
 
 .. include:: 00_contact_common.rst
 
+After this brief interruption, you are reporting to Londo Bell.
+
 下一话进入\ :doc:`01b_the_beginning_super`\ 。
+

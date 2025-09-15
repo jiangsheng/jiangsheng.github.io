@@ -3058,7 +3058,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_75.png
      - モニカ・ビルセイア
-     - Monica Villeseia
+     - Monica Billseia
      - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 弱気
      - 85

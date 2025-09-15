@@ -9,6 +9,10 @@ Dakar事件导致ノイエＤＣ加强了活动，ＤＣ和ゲスト的联军也
 
 [SRW4]因为エゥーゴ的军力不足以对付他们，所以ロンド・ベル要派部队支援。你可以在コンバトラーＶ小队和ダンクーガ之间选择。选择的小队将不能回到部队。
 
+The Dakar incident has led to increased activity by New DC, and the combined forces of DC and Guest are attempting to increase their influence in space.
+
+In the SNES edition, because AEUG forces are insufficient to counter enemies in space, Londo Bal will send a team to reinforce them. You can choose between Combattler V Team and Dancouga. The chosen team will not be able to return to the roster for the rest of the game.
+
 .. rst-class::center
 .. flat-table::   
    :class: text-center, align-items-center

@@ -90,6 +90,8 @@
 
 精神方面只有热血和かく乱可以一用。
 
+Despite desgined to be a non-fighting role,  Elle Vianno is voiced during fighting. Probably just a default voice as other added pilots have the same voice actor.
+
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 イーノ＝アッバーブ
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

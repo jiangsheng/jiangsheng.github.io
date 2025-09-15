@@ -11,6 +11,12 @@
 
 ロンド・ベル队飞到大阪市。グロフィス又一次试图劝阻キラー＝ザ＝ブッチャー停止杀戮，但是他又一次失败了。他随后撤退了，把キラー＝ザ＝ブッチャー留给你对付。
 
+Before the battle with Gaizok, the protagonist's ultimate weapon has arrived from the Photon Power Laboratory: if the player chose the Super robot type at the beginning of the game, then the Grungust added the Keito Ragou Ken - Ankensatsu; otherwise for the Real Robot type, the Huckebein added the Black Hole Cannon. Of course both are flashy and powerful. In this game series the protagonist always gets special treatment. Londo Bell heads to the Photon Power Laboratory to pick up the weapons.
+
+At the Photon Power Laboratory, Kappei Jin discovered Aki, a now refugee but was captured by Gaizok earlier. However, she had no memory of her time in Gaizok's hands, nor did she know how she escaped. While Kappei left her alone to change clothes, Shingo Kōzuki rushed in and informed him of Gaizok's plan: many of Gaizok's captives had been implanted with explosives, to be used to cause explosions in crowded areas. The markings for this "human bomb" are the same star-shaped pattern that Shingo Kōzuki saw on Aki's back. Before Kappei Jin could act, Aki exploded, fortunately destroying only the room she was in and causing no other casualties.
+
+The Londo Bell team flew to Osaka City. Glofis Raclayne once again tried to dissuade Killer the Butcher from his killing spree, but he failed again (really, with that name, he thinks he has any chance?). He then retreated, leaving Killer the Butcher to you.
+
 任务目标:	击落バンドック（キラー＝ザ＝ブッチャー）
 
 ------------------------
@@ -51,7 +57,7 @@
 -------------
 * 神勝平登场气力150
 * バンドック受到伤害 バンドック呼叫亲卫队，バンドックHP回复
-* 下一回合 マサキ＝アンドー 到达
+* 下一回合マサキ＝アンドー到达
 * 如果清关时主人公和副主人公都在战场上，那么\ :doc:`../mechanics/love_points`\ +1。否则恋爱度-1。
 
 -------------
@@ -64,10 +70,20 @@
 
 战斗之后，神勝平找到了最后一个失踪的伙伴ミチ，背上没有图案。香月真吾鼓励神勝平继续进行战斗，直到ゲスト为把ガイゾック带到地球的行为付出代价。マサキ＝アンドー还是没有找到シュウ＝シラカワ，但是シュウ＝シラカワ会在10小时内到达新宿区。他期待在那里能够知道シュウ＝シラカワ的计划。
 
+Masaki Andoh (re)joins Londo Bell after the battle with his Cybuster. Note that if you defeat Bandok before he appear, then he will not join and related characters will not join as well.
+
+[SRW4S] In some versions of SRW4S, if you get a Game Over in this episode, the next time the Masaki Andoh appears, his level will be increased by 5. Repeat this process and you'll get...
+
+After the battle, Kappei Jin finds his last missing friend, Michi, without the pattern on her back. Shingo Kōzuki encourages Kappei to continue fighting until Guest pays the price for bringing Gaizok to Earth. 
+
+Masaki still hasn't found Shuu Shirakawa yet, but Shuu will arrive in the Shinjuku City within 10 hours. He hopes to learn about Shuu's plans there.
+
 -------------
 评论
 -------------
 
 神勝平登场时气力就达到了最高，可以使用最强的武器，但是第一次攻击バンドック的时候用不着使用。バンドック受到伤害时出现的援军HP很多，但是可以用サイバスター的サイフラッシュ削弱敌人。要是感觉吃力的话，集中力量击破バンドック算了。
+
+Kappei Jin's Will is at its highest when he deploys his Cybuster, allowing him to use his strongest weapons. However, he doesn't need to use them for his first attack against Bandok. The reinforcements that appear when the Bandok takes any damage and those have high HP, but you can use the Cybuster's map weapon to weaken them. If you're struggling, just focus on destroying Bandok.
 
 下一话进入\ :doc:`35_singularity_collapse`\ 。
