@@ -25,6 +25,15 @@
          <option value="3">マジンガー系</option>
          <option value="4">エルガイム系</option>
          <option value="5">ダンバイン系</option>
+         <option value="6">オリジナル</option>
+         <option value="7">ゲッター</option>
+         <option value="8">ダンクーガ</option>
+         <option value="9">コンバトラーV</option>
+         <option value="10">ダイモス</option>         
+         <option value="11">ザンボット3</option>
+         <option value="12">ゴーショーグン</option>
+         <option value="13">ダイターン3</option>
+         <option value="14">ライディーン</option>
        </select>
 
 .. flat-table:: 机体数据 （第四次超级机器人大战）
@@ -4782,7 +4791,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_E6_B.png
      - グラシドゥ＝リュ
-     - Glassidou-Lu
+     - Grassidow Ryu
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 5000
      - 200

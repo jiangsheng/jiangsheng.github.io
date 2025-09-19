@@ -25,6 +25,15 @@
          <option value="3">マジンガー系</option>
          <option value="4">エルガイム系</option>
          <option value="5">ダンバイン系</option>
+         <option value="6">オリジナル</option>
+         <option value="7">ゲッター</option>
+         <option value="8">ダンクーガ</option>
+         <option value="9">コンバトラーV</option>
+         <option value="10">ダイモス</option>         
+         <option value="11">ザンボット3</option>
+         <option value="12">ゴーショーグン</option>
+         <option value="13">ダイターン3</option>
+         <option value="14">ライディーン</option>
        </select>
        
        <a class="toggle-vis" data-column="1">显示0级能力</a>
@@ -2876,7 +2885,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_6E.png
      - テュッティ・ノールバック
-     - Tutti Norlbach
+     - Tutty Norback
      - :ref:`オリジナル <srw4_pilots_banpresto_originals>`
      - 普通
      - 93

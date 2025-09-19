@@ -76,7 +76,7 @@ Masaki Andoh (re)joins Londo Bell after the battle with his Cybuster. Note that 
 
 After the battle, Kappei Jin finds his last missing friend, Michi, without the pattern on her back. Shingo Kōzuki encourages Kappei to continue fighting until Guest pays the price for bringing Gaizok to Earth. 
 
-Masaki still hasn't found Shuu Shirakawa yet, but Shuu will arrive in the Shinjuku City within 10 hours. He hopes to learn about Shuu's plans there.
+Masaki still hasn't found Shu Shirakawa yet, but Shu will arrive in the Shinjuku City within 10 hours. He hopes to learn about Shuu's plans there.
 
 -------------
 评论

@@ -52,6 +52,24 @@ function pilots_datatable_init(dataTableName)
                 seriesNameMatch= seriesName.includes("エルガイム");break;
                 case "5":
                 seriesNameMatch= seriesName.includes("ダンバイン");break;
+                case "6":
+                seriesNameMatch= seriesName.includes("オリジナル");break;
+                case "7":
+                    seriesNameMatch= seriesName.includes("ゲッター");break;
+                case "8":
+                    seriesNameMatch= seriesName.includes("ダンクーガ");break;
+                case "9":
+                    seriesNameMatch= seriesName.includes("コンバトラーV");break;
+                case "10":
+                    seriesNameMatch= seriesName.includes("ダイモス");break;
+                case "11":
+                    seriesNameMatch= seriesName.includes("ザンボット3");break;
+                case "12":
+                    seriesNameMatch= seriesName.includes("ゴーショーグン");break;
+                case "13":
+                    seriesNameMatch= seriesName.includes("ダイターン3");break;
+                case "14":
+                    seriesNameMatch= seriesName.includes("ライディーン");break;
                 default:
                 console.log("unexpected selectedSeries="+selectedSeries);break;
             }
