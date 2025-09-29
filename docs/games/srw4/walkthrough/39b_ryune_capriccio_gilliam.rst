@@ -8,6 +8,10 @@
 
 B队来到ロンデニオン以取得火星之行需要的長距離用推进器，并且获知エゥーゴ已经正式成为地球联邦政府的一员，所以将会被解体整合到地球联邦政府中——他们会促进地球联邦政府的内部改革。在ＤＣ入侵ロンデニオン时，ギリアム＝イェーガー也进入了战场。
 
+Team B arrived in Londenion to acquire long-distance thrusters needed for the trip to Mars, and learnt that AEUG had officially became part of the Earth Federation Government, so it would be disbanded and integrated - they will promote internal reform of the Earth Federation Government. 
+
+When DC invaded Londenion, Gilliam Yeager also entered the battlefield.
+
 任务目标	敌全灭
 
 ------------------

@@ -511,6 +511,15 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 虽然限界有255，但是后期生存能力仍然堪忧，好在有复活的话，这说不定是优点，复活之后又可以加热血放サイフラッシュ了。
 
+Cosmonova is a powerful weapon, but with only one shot. Leaving High Familia as Cybuster's main ranged weapon.
+High Familia itself is not bad but the ammo is not much compared with Funnels.
+
+When the Will is high, Masaki can also use the Akashic Buster, basically drawing a circle then summons a firebird out of it.
+
+The firebird would be as large as the enemy, so he must be summoning a big one for battleships and a small one for Byston Well Arua machines.
+
+He must have excellent drawing skills to draw circles that exactly matches the various enemy sizes.
+
 ^^^^^^^^^^^^^^^^^^^^
 ザムジード
 ^^^^^^^^^^^^^^^^^^^^

@@ -88,7 +88,7 @@ Extra line and appearance in the Playstation port for General Draydou and Genera
 
 战斗之后，コロス发来立体影像。她声称你绝不可能击败ＤＣ（虽然在自己的地球分部被灭的时候说这个好像是在虚张声势）。他们的火星总部拥有丰富的资源，足以建立和武装无数个Kimberley级别的基地，而且異星人ゲスト的技术支持使得ＤＣ的戦力大幅強化。她向破嵐万丈提出在火星上决斗，但是在ＤＣ和ティターンズ还在地球上闲逛的时候你还不能离开地球。
 
-Kimberley基地很大程度上降低了ＤＣ的本地战力，所以是时候关注一下ティターンズ了。地球联邦评议会在Dakar集会，奥古的ブレックス准将准备趁这个媒体群集的绝好机会揭露ジャミトフ＝ハイマン的阴谋。为了护送他到达Dakar，你前往会合地点乞力马扎罗山。
+Kimberley基地很大程度上降低了ＤＣ的本地战力，所以是时候关注一下ティターンズ了。地球联邦评议会在Dakar集会，奥古的ブレックス准将准备趁这个媒体群集的绝好机会揭露ジャミトフ・ハイマン的阴谋。为了护送他到达Dakar，你前往会合地点乞力马扎罗山。
 
 After the battle, Koros sent a stereoscopic video. She claimed that you could never defeat DC (though this statement seemed like bluffing after her Earth branch was destroyed).
 

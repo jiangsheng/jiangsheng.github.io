@@ -8,6 +8,8 @@
 
 在ティターンズ被消灭之后，ロンド・ベル在ラビアンローズ上发现被遗忘的オーキス，它和GP-03ステイメン可以组合成GP-03デンドロビウム。之后，ロンド・ベル遭到ゲスト和ＤＣ联军的攻击。ジュスティヌ＝シャフラワース为了谨慎起见，还呼叫了来自ポセイダル的傭兵部隊。
 
+After the destruction of Titans, Londo Bell found the forgotten Orchis on the La Vie en Rose, which can be combined with GP-03 Staymen to form GP-03 Dendrobium (did someone test pilot this or we are going to blindly send ace pilots to ride unknown robots). Afterwards, Londo Bell was attacked by the combined forces of Guest and DC. For the sake of caution, Seti also called the mercenary units from Poseidal.
+
 任务目标	敌全灭
 
 ------------------
@@ -120,6 +122,12 @@
 -------------
 
 战斗之后，虽然已经知道了ゲスト和インスペクター的关系，但是ロンド・ベル在前往火星之前决定先对付ポセイダル军。ギャブレット＝ギャブレー和他的满改アシュラテンプル加入部队，但是恢复自由意志的クワサン＝オリビー不再适合驾驶机体，所以她的バッシュ被拆解以获得备用部件。
+
+If Quwasan was persuaded, She was unfit to pilot a Heavy Metal anymore and her Calvary Temple (sic, should be Bash) was broken for parts. If not, Daba was saddened by failing to save her. 
+
+Bright was briefed by Team B's Banjo and learnt the Guest politics from Mekibos. He decided to deal with Poseidal first before joining Banjo on Mars to face the Guest. So Londo Bell is heading to Mars's noon where Poseidal's HQ is, according to Lecci, who somehow does not remember the location if Gavlet is in the team. She greeted the newcomer Gavlet with scoff. Gavlet insisted that she won't understand his conversion as a women. Gavlet suggested that Poseidal had set up a base on the far side of Mars' moon, however Giwaza's fleet was blocking the way. The area he was in charged of would be a good route to sneak into the base. But if Londo Bell headed straight there, Giwaza would see through the intention. Either Quattro (if he's still in the team) or Duke suggested to attack DC's space fortress A Baoa Qu first as a diversion.
+
+Unlucky us, at this route, we don't have Gavlet's intel and would hit Giwaza's fleet first. As the result, the stage at Poseidal would be the most difficult in the game. 
 
 -------------
 评论

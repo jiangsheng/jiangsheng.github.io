@@ -1830,7 +1830,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_59_B.png
      - グランヴェール
-     - Granveil
+     - Grannvale
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3500
      - 170
@@ -1851,7 +1851,7 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_5A_B.png
      - ガッデス
-     - Gaddess
+     - Gaddeath
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3600
      - 185

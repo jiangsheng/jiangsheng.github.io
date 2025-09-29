@@ -1,5 +1,5 @@
 .. meta::
-   :description: 第三十五话 特異点崩壊之后进入本话。 在B队去香港准备宇宙作战的时候，A队得到ジャミトフ＝ハイマン藏在拉萨的报告之后前往西藏。但是ネェル・アーガマ在接近敌方基地时被导弹击中，然后被ティターンズ军包围。 任务目标 敌全灭 ネェル・アーガマ（ブライト） 自选19机 ダブデ（ジャマイカン＝ダニンガン） ダブデ（ガディ＝キンゼ
+   :description: 第三十五话 特異点崩壊之后进入本话。 在B队去香港准备宇宙作战的时候，A队得到ジャミトフ・ハイマン藏在拉萨的报告之后前往西藏。但是ネェル・アーガマ在接近敌方基地时被导弹击中，然后被ティターンズ军包围。 任务目标 敌全灭 ネェル・アーガマ（ブライト） 自选19机 ダブデ（ジャマイカン＝ダニンガン） ダブデ（ガディ＝キンゼ
 
 第三十六话 栄光の落日
 ===============================
@@ -7,7 +7,9 @@
 
 :doc:`35_singularity_collapse`\ 之后进入本话。
 
-在B队去香港准备宇宙作战的时候，A队得到ジャミトフ＝ハイマン藏在拉萨的报告之后前往西藏。但是ネェル・アーガマ在接近敌方基地时被导弹击中，然后被ティターンズ军包围。
+在B队去香港准备宇宙作战的时候，A队得到ジャミトフ・ハイマン藏在拉萨的报告之后前往西藏。但是ネェル・アーガマ在接近敌方基地时被导弹击中，然后被ティターンズ军包围。
+
+While Team B is preparing for space operations in Hong Kong, Team A receives a report that the Jamitov Hymem is hiding in Lhasa and heads to Tibet. However, Nahel Argama is hit by a missile while approaching the enemy base and is then surrounded by the Titans army.
 
 任务目标	敌全灭
 
@@ -83,7 +85,7 @@
 -------------
 
 * 第三回合 ドレイク＝ルフト和ビショット＝ハッタ来试图挽救他们在地上世界唯一的盟军。
-* 第五回合 敌方援军2
+* 第四回合开始，如果在敌方回合开始时地方数量小于20，那么敌方援军2
 * 如果清关时主人公和副主人公都在战场上，那么\ :doc:`../mechanics/love_points`\ +1。否则恋爱度-1。
 
 
@@ -91,11 +93,17 @@
 其他
 -------------
 
-战斗之后，チャック＝キース和モーラ＝バシット进入基地搜索，目击了ハマーン＝カーン对ジャミトフ＝ハイマン中将的刺杀行动。虽然消灭了ティターンズ和ドレイク＝ルフト军是好事，但是这也意味着和ノイエＤＣ的互不侵犯条约过期。
+战斗之后，チャック＝キース和モーラ＝バシット进入基地搜索，发现了被ハマーン＝カーン刺杀的ジャミトフ・ハイマン中将。虽然消灭了ティターンズ和ドレイク＝ルフト军是好事，但是这也意味着和ノイエＤＣ的互不侵犯条约过期。
+
+After the battle, Chuck Keith and Mora Boscht entered the base to search and found that Lieutenant General Jamitov Hymem had been assassinated by Haman Karn. Although it was good to eliminate the Titans and Drake Luft armies, it also meant that the non-aggression pact with New DC had expired.
 
 因为ネェル・アーガマ的维生系统被击中，A队搭载从基地中发现的ラー・カイラム，准备前往宇宙。
 
+Because the Nahel Argama's life support system was hit, Team A boarded the Ra Cailum found in the base and prepared to go to space.
+
 [SRW4] NT-1アレックス达到了使用限界，被アストナージ＝メドッ拆了以获取备用部件（以及5000G）。
+
+In the SNES version, the NT-1 Alex has reached its usage limit and is dismantled by Astonaige Medoz to obtain spare parts (and 5000G). The event does not occur in the playstation remake. 
 
 -------------
 评论
