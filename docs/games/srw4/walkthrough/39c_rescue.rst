@@ -7,6 +7,10 @@
 
 マサキ和リューネ一起去拯救被绑架的プレシア，但是看起来这是个陷阱。虽然敌人对猎物的数量表示失望，但是决定抓到多少是多少。这时候サフィーネ突然乱入了。
 
+Masaki and Ryune went to rescue the kidnapped Presia, but it turned out to be a trap. Although the enemies were disappointed with the number of preys, they decided to catch as many as they can. At this time, Safine suddenly rushes in.
+
+
+
 任务目标	敌全灭
 
 ------------------

@@ -7,7 +7,7 @@
 Items  (Front Mission 1)
 ===============================
 
-You can equip items to either heal in battle or have various buffs/debuffs. Backpacks can increase item storage and range in additional to power output. Items can be resupplied when standing next to a supply truck or a wanzer with Riff. 
+You can equip items to either heal in battle or have various buffs/debuffs. Backpacks can increase item storage and range in addition to power output. Items can be resupplied when standing next to a supply truck or a wanzer with Riff. 
 
 * Repair S/M/L/SP: repair selected part for 50/100/200/400 HP
 * Flash Grenade: enemy unit unable to act, dodge or guard. 50% chance to recover per turn. 

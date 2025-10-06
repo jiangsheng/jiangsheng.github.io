@@ -8,7 +8,9 @@
 [SRW4S]如果ギャブレット＝ギャブレー不在队中，那么\ :doc:`39a_ryune_capriccio_gato`\ 或者\ :doc:`39b_ryune_capriccio_gilliam`\ 之后，如果没有说得リューネ＝ゾルダーク直接进入本话，如果说得了的话，在进入\ :doc:`39c_rescue`\ 之后进入本话。
 
 
-ギャブレット＝ギャブレー和ガウ＝ハ＝レッシィ以前的一次谈话中提到ポセイダル军的前线总部在月亮上。你很快就碰见了基地的防御舰队，证实了这个消息。但是看起来他们正准备攻击ポセイダル军。防御舰队司令ギワザ＝ロワ为了他个人的野心而反叛了。
+ギャブレット＝ギャブレー和ガウ＝ハ＝レッシィ以前的一次谈话中提到ポセイダル军的前线总部在火星的月亮上。你很快就碰见了基地的防御舰队，证实了这个消息。但是看起来他们正准备攻击ポセイダル军。防御舰队司令ギワザ＝ロワ为了他个人的野心而反叛了。
+
+A previous conversation between Gavlet and Lecci revealed that the Poseidal Army's frontline headquarters was on the moon of Mars. Londo Bell soon encountered the base's defense fleet, confirming the intel. However, it appeared they are preparing to attack the Poseidal Army. The defense fleet's commander, Giwaza, had rebelled for his own personal gain.
 
 任务目标 敌全灭
 
@@ -68,6 +70,13 @@
 -------------
 
 战斗之后，ブライト声称ロンド・ベル在走霉运。只要再到达晚一些，ギワザ＝ロワウ和ポセイダル军就会开始自相残杀了。
+
+After the battle, Bright claimed that Londo Bell was having bad luck. If they had arrived a little later, Giwaza and the Poseidal Army would have started fighting among themselves.
+
+Lecci suggested that Daba needed more actions than just words, apparently she was not talking about the current topic, fighting with enemies. And Amm didn't like it. 
+
+After clearing the Poseidal Army's base, Team A went back to meet Banjo on Mars. 
+
 
 -------------
 评论

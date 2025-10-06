@@ -134,3 +134,15 @@ When DC invaded Londenion, Gilliam Yeager also entered the battlefield.
 第四回合的敌人援军也不是很强，注意他们可以行动两次。总体来说敌人的等级和命中率都不高，只是HP比较多而已。无消耗的ゲッター3的大雪山おろし二段返再不用就没机会用了。
 
 本话清关时是第42话之前整备A队的最后机会。建议给ヒュッケバイン、νガンダム和ザンボット３装高性能雷达制造三个射程11的机体，可以免掉オージ和ブラッドテンプル的反击。另外尽可能多地制造移动力10的超级系。如果后面会去スウィートウォーター殖民地，那么C队的レッシィ或者アム也可以在这里转乘アシュラテンプル。
+
+After the battle, Ryune reappeared. Masaki asked Ryune why she was attacking friends. She replied that she followed Masaki to the surface with Precia, but ended up lost Precia in the process. Precia was held hostage by Carozzo and forced her to attack Londo Bell.
+
+Masaki asked Ryune to take responsibility for saving Precia. And Ryune invited him. They should be fine despite the small number because their machines have map weapons.
+
+As a reward of saving Gilliam, he offered the Sazabi captured from New DC.
+
+Remi was relieved that now Dokuga is behind them. But she still felt empty because she was single and there are too many couple and even some were having multiple relationships.
+
+Team B installed the long-range booster and were ready for Mars.
+
+The intermission after clearing this stage is your last chance to prepare Team A before the hardest stage in this game. It's recommended to build three range-11 units for the Huckebein, the Nu Gundam, and the Zanbot 3. Equip High Fidility Radar to prevent counterattacks from Auge and Blood Temple. Also, build as many super robots with 10 movement range as possible. If you plan to visit the Sweet Water Colony later, Team C's Lecci or Amm can transfer to the Ashura Temple here.

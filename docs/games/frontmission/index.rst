@@ -16,13 +16,13 @@ Front Mission 1
 
 .. index::  Front Mission 
    
-After creating a new game, you will be asked to :ref:`personalize <front_mission_mechanics_personalize>` your name and call sign. Then you will enter a battle field. 
+After creating a new game, you will be asked to :ref:`personalize <front_mission_mechanics_personalize>` your name and call sign. Then you will enter a battlefield. 
 
 The game is centralized on battling with robots (called wanzers in this game) on a stage. Then use the prize money to upgrade units in a :ref:`city <front_mission_mechanics_city>` and fight the next one. Sometimes the default moving destination after a battle is another battlefield, you should always check your destination before confirming, at least saving your progress first before the next battle (sometimes you get to recruit pilots or enter secret mission by going back to a previous city). 
 
-Each stage has a victory condition and a defeat condition. Most of the time, the defeat condition is losing the main character, but sometimes it could be failing to protect a certain NPC or out of time. If you lost in a stage it would be game over. If you saved earlier, you can load that save. 
+Each stage has a victory condition and a defeat condition. Most of the time, the defeat condition is losing the main character, but sometimes it could be failing to protect a certain NPC or out of time. If you lost in a stage, it would be game over. If you saved earlier, you could load that save.
 
-Each :ref:`pilot <front_mission_mechanics_pilots>` rides a robot, called wanzer in this game. Although you can :ref:`customize <front_mission_mechanics_city>` wanzers any way you want, it is best to build a wanzer to its pilot's strength. For example, if the pilot has Double or Switch :ref:`skills <front_mission_mechanics_skills>`, then put Melee or Short :ref:`weapons <front_mission_mechanics_weapons>` in both hands. If the pilot is good at Long, equip some long range weapons. You want good defensive :ref:`parts <front_mission_mechanics_parts>` on a tank, but you want offensive parts on your attackers. 
+Each :ref:`pilot <front_mission_mechanics_pilots>` rides a wanzer in this game. Although you can :ref:`customize <front_mission_mechanics_city>` wanzers any way you want, it is best to build a wanzer to its pilot's strength. For example, if the pilot has Double or Switch :ref:`skills <front_mission_mechanics_skills>`, then put Melee or Short :ref:`weapons <front_mission_mechanics_weapons>` in both hands. If the pilot is good at Long, equip some long-range  weapons. You want good defensive :ref:`parts <front_mission_mechanics_parts>` on a tank, but you want offensive parts on your attackers. 
 
 Use arrow keys to select options or move target. Use A to confirm and B to cancel. Use L and R to switch pilots. See :ref:`Input <front_mission_mechanics_input>` for more information about controls. 
 
@@ -36,7 +36,7 @@ would mean the :ref:`pilot <front_mission_mechanics_pilots>` Royd is riding on t
 
 Keep an eye on ammunition too. You can use the :ref:`equipment view command <front_mission_mechanics_commands>` to check out current ammunition status and the supply command to reload ammunition and change weapons (but not parts) when you are next to a supply truck. 
 
-When destroying an enemy or step on a certain tile sometimes you will find a part or a weapon. Don't let NPC or enemy get it first. 
+When destroying an enemy or stepping on a certain tile sometimes you will find a part or a weapon. Don't let NPC or enemy get it first. 
 
 Being an RPG, probably the most intriguing part is the growth of the :ref:`pilots <front_mission_mechanics_pilots>`. After gaining certain :ref:`exps <front_mission_mechanics_exp>` a pilot will level up and sometimes gain :ref:`skills <front_mission_mechanics_skills>`. It is tricky to choose skills best fit a pilot, however.
   

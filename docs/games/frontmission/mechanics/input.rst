@@ -41,7 +41,7 @@ Unit deselected:
 * A: Select unit. When the selected is an enemy unit, displays its movement range.
 * Start: open system menu
 
-Deploy units: when you enter a battle field, you will be prompted to select units to deploy. The max number of units that can be deployed is set for each stage. Deployment completes when you select the maximum number of units, or when you press start. When you have finished deployment, press A to confirm.
+Deploy units: when you enter a battlefield, you will be prompted to select units to deploy. The max number of units that can be deployed is set for each stage. Deployment completes when you select the maximum number of units, or when you press start. When you have finished deployment, press A to confirm.
 
 * Arrow keys: Select unit to deploy/undeploy
 * A: confirm deployment

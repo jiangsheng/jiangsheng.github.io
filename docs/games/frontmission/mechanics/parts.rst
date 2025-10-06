@@ -33,25 +33,25 @@ You want high HP for tanks and high output for attackers that carry a lot of wea
 -------------------
 Arm
 -------------------
-There are zero to two Arms per wanzer. When an arm is destroyed, you can not use grip or shoulder weapons on that arm without :ref:`repairing <front_mission_mechanics_commands>`. 
+There are zero to two Arms per wanzer. When an arm is destroyed, you cannot use grip or shoulder weapons on that arm without :ref:`repairing <front_mission_mechanics_commands>`. 
 
 You want high hit arm for attackers and high HP arm for tanks. 
 
-There are two kinds of hit values on an arm, one is with equipped weapon and one is without. The hit value of the arm affects grip and shoulder weapons. The integrated weapon hit affects integrated weapons only.
+There are two kinds of hit values on an arm, one is with equipped weapon, and one is without. The hit value of the arm affects grip and shoulder weapons. The integrated weapon hit affects integrated weapons only.
 
 ------------------
 Leg
 ------------------
-Leg decides your movement type and speed. When the leg is destroyed, the unit would have very limited movement. Actual range depends on leg type (or lack thereof) and the :ref:`terrain <front_mission_mechanics_terrain>`. 
+Leg decides your movement type and speed. When the leg is destroyed, the unit will have very limited movement. Actual range depends on leg type (or lack thereof) and the :ref:`terrain <front_mission_mechanics_terrain>`. 
 
-Normal legs are usually the slowest except for rivers, rocks and beaches, but they can get up and down multiple elevation levels. Hover does not slowdown in beaches and rivers, and they are faster than others in jungles, woods and rocks, the only drawback being unable to move multiple elevation levels. Tires are usually the fastest on flat terrains, but slow in desert, jungle, river rock and woods. Treads are normally a equal or slower version of tire, but they are a little faster than tire in deserts. 
+Normal legs are usually the slowest except for rivers, rocks and beaches, but they can get up and down multiple elevation levels. Hover does not slowdown in beaches and rivers, and they are faster than others in jungles, woods and rocks, the only drawback being unable to move multiple elevation levels. Tires are usually the fastest on flat terrains, but slow in desert, jungle, river rock and woods. Treads are normally an equal or slower version of tire, but they are a little faster than tire in deserts. 
 
 Although tanks need high HP legs, usually you just want highest movement ones as they need to run to the front to absorb damage and use items to reduce damage taken.
 
 ------------------
 Backpacks
 ------------------
-Backpacks can increase item storage and range in additional to power output. 
+Backpacks can increase item storage and range in addition to power output. 
 
 ------------------
 CPU
@@ -59,4 +59,4 @@ CPU
 CPU increases hit/avoid rate. See :ref:`Computers <front_mission_mechanics_computers>`
 
 
-The most expensive part is usually the best option for everyone, if you can afford that is.
+The most expensive part is usually the best option for everyone, if you can afford.
