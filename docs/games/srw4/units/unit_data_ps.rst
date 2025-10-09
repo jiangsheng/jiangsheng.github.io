@@ -4,6 +4,8 @@
 :html_theme.sidebar_primary.remove: true
 :html_theme.sidebar_secondary.remove: true
 
+.. _srw4_units_data_ps:
+
 机体数据 （第四次超级机器人大战S）
 ================================================
 

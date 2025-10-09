@@ -4,6 +4,8 @@
 :html_theme.sidebar_primary.remove: true
 :html_theme.sidebar_secondary.remove: true
 
+.. _srw4_pilots_data_snes:
+
 机师数据 （第四次超级机器人大战）
 ================================================
 
@@ -2703,7 +2705,7 @@
      - 自
      - .. image:: ../pilots/images/srw4_pilot_67.png
      - エレ・ハンム
-     - Elle　Hunm
+     - Elle Hunm
      - :ref:`ダンバイン <srw4_pilots_dunbine>`
      - 普通
      - 97
@@ -3324,7 +3326,7 @@
      - 気合 19, ひらめき 4, 集中 2, 根性 1, 熱血 28, 覚醒 24, ニュータイプ 10
 
    * - 7F
-     - 敌
+     - 没
      - .. image:: ../pilots/images/srw4_pilot_7F.png
      - ララァ・スン
      - Lala Sun

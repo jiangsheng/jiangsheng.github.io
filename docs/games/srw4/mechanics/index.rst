@@ -12,6 +12,7 @@
    :maxdepth: 1
    :caption: 内容:
 
+   weapon
    sprit_command
    机体特殊技能 <unit_specialty>
    机师特殊技能 <pilot_specialty>
@@ -24,6 +25,7 @@
    出击顺序 <deploy>
    love_points
    修改 <cheat>
+   
    Bug <bug>
 
 \ :doc:`sprit_command`\ 相当于一般角色扮演游戏中的魔法。使用需要消耗SP。SP值随机师等级而增长。因为经验值是看和敌人的\ :ref:`等级差 <srw4_exp>`\ ，而敌人的等级固定，所以本作最好平均培养机师。机体的能力和武器的威力则是通过\ :ref:`改造 <srw4_remodeling>`\ 来提升。
