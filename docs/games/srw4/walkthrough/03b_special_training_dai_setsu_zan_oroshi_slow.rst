@@ -1,10 +1,10 @@
 .. meta::
    :description: 第二话Ｂ 謎の訪問者 (缓)结束之后进入本话。 接收到ジョン=コーウェン中将的关于前司令官ブライト・ノア大佐被重新编入ロンド・ベル部队的通讯之后，代理司令官アムロ＝レイ大大地松了一口气，终于可以名正言顺地偷懒——呃——是，是释放工作的压力了。ブライト・ノア大佐和一些货物将由マチルダ＝アジャン中尉护送，和你在金沢市会合。
 
-.. _03B-SpecialTraining!Dai-Setsu-ZanOroshiB:
-
 第三话Ｂ 特訓！大雪山おろし (缓)
 =======================================
+
+.. _srw4_walkthrough_03b_special_training_dai_setsu_zan_oroshi_slow:
 
 :doc:`02b_enigmatic_visitors_slow`\ 结束之后进入本话。
 

@@ -3,7 +3,8 @@
 
 第二十话Ａ 老兵の挽歌 
 ======================
-　
+
+.. _srw4_walkthrough_20a_old_soldier_s_elegy:
 
 :doc:`19_baron_ashura_s_final_moment`\ 之后，如果主人公是真实系，那么进入本话。
 

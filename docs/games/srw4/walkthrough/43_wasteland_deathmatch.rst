@@ -4,6 +4,8 @@
 第四十三话 荒野の死闘
 ===================================
 
+.. _srw4_walkthrough_43_wasteland_deathmatch:
+
 \ :doc:`42a_oldna_poseidal_easy`\ 、\ :doc:`42b_oldna_poseidal_normal`\ 和\ :doc:`42c_oldna_poseidal_hard`\ 之后进入本话。
 
 ロンド・ベル的B队到达了ＤＣ的火星总部，当然，敌人很快就察觉了，第一波防御部队由コロス率领出战。在没有A队配合的情况下，コロス认为不擅长宇宙作战的B队不会有太大作为，但是能到达总部也吸引了她的注意力，所以她在战斗还没开打的时候就让更多的部队出战。

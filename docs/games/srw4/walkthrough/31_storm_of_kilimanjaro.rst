@@ -4,6 +4,8 @@
 第三十一话 キリマンジャロの嵐
 =================================================
 
+.. _srw4_walkthrough_31_storm_of_kilimanjaro:
+
 :doc:`30_koros_and_don_zauser`\ 之后进入本话。
 
 ジャミトフ・ハイマン宣布了因为地球被异星人攻击，所以颁布无限期的戒严令。但是考虑到地球联邦议会将在两天之内开始进行宪法改革，这可能是ジャミトフ・ハイマン用来在民主的外表下篡权的伎俩。如果ブレックス＝フォーラ准将在改革投票之后立刻进行演讲的话，ジャミトフ・ハイマン的密谋将会大白于天下，而且他肯定会被推翻。
@@ -22,7 +24,7 @@ Although the map is mostly cloudy visually, and only flying suits can be deploye
 
 Inside Argama is Brigadier General Blex Forer, protect him at all costs.
 
-Duncoga cannot be deployed in this stage in the SNES version but can in the playstation remake, due to the added ability to fly.
+Dancouga cannot be deployed in this stage in the SNES version but can in the playstation remake, due to the added ability to fly.
 
 ----------------
 我方初始配置
@@ -140,6 +142,6 @@ Once Four is persuaded, she starts to remember things, and Ben Wooder thinks the
 
 由于真实系路线太多机师却没有足够的好机体，建议走不说得フォウ的路线拿Ex-Sガンダム。
 
-Since there are too many pilots in the Realistic route but not enough good machines, it is recommended to take the Rosamia Badam route and get the Ex-S Gundam.
+Since there are too many pilots in the Real route but not enough good robots, it is recommended to take the Rosamia Badam route and get the Ex-S Gundam if you choose the Real route.
 
 下一话进入\ :doc:`32_the_day_of_dakar`\ 。

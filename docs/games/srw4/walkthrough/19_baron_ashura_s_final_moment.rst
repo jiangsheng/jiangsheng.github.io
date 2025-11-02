@@ -3,6 +3,9 @@
 
 第十九话 あしゅら男爵の最期
 ===========================
+
+.. _srw4_walkthrough_19_baron_ashura_s_final_moment:
+
 :doc:`18a_intruder_south_south_west`\ 或者\ :doc:`18b_intruder_northwest`\ 之后进入本话。
 
 ＤＣ的基地大到让机体可以在里面飞行，但是当然不足以让主舰飞进去。アムロ＝レイ感觉有点发烧，所以暂时留在医务室。あしゅら男爵决定死战到底，希望用胜利来抵消以前的失败。

@@ -3,6 +3,7 @@
 
 第四十四话Ａ 火星の決戦 (ゼゼーナン)
 ===============================================
+.. _srw4_walkthrough_44a_final_battle_on_mars_zezeenan:
 
 \ :doc:`43_wasteland_deathmatch`\ 之后，如果总回合数小于一定值（[SRW4]320，[SRW4S]350），那么 进入本话。
 

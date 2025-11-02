@@ -3,6 +3,8 @@
 
 第四十话Ｂ 包囲網突破！
 ===============================================
+.. _srw4_walkthrough_40b_siege_breakthrough:
+
 [SRW4]\ :doc:`39a_ryune_capriccio_gato`\ 或者\ :doc:`39b_ryune_capriccio_gilliam`\ 之后，如果ギャブレット＝ギャブレー不在队中， 那么进入本话。
 
 [SRW4S]如果ギャブレット＝ギャブレー不在队中，那么\ :doc:`39a_ryune_capriccio_gato`\ 或者\ :doc:`39b_ryune_capriccio_gilliam`\ 之后，如果没有说得リューネ＝ゾルダーク直接进入本话，如果说得了的话，在进入\ :doc:`39c_rescue`\ 之后进入本话。

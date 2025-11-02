@@ -1,10 +1,11 @@
 .. meta::
    :description: 第十话Ａ 悲しき記憶（太平洋側）或者第十话Ｂ 悲しき記憶（日本海側）之后进入本话。 通过一次全球广播，リヒテル提督宣布バーム星和圣骑士团（ＤＣ）联盟，让“正义的铁槌”落在卑劣的地球联邦政府的头上。为了避免平民的伤亡，他也同时宣布了下一次攻击的时间和地点：明日8时，早乙女研究所。和以往一样，到时候你也将在那里。 因为断空
 
-.. _11-WakeUpSuperBestialMachineGod:
 
 第十一话 目覚めよ！超獣機神 
 ===============================
+
+.. _srw4_walkthrough_11_wake_up_super_bestial_machine_god:
 
 :doc:`10a_sorrowful_memories_pacific`\ 或者\ :doc:`10b_sorrowful_memories_japanese_sea`\ 之后进入本话。
 

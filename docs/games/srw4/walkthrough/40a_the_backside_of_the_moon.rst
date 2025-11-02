@@ -3,6 +3,7 @@
 
 第四十话Ａ 月の裏側
 ============================
+.. _srw4_walkthrough_40a_the_backside_of_the_moon:
 
 [SRW4]\ :doc:`39a_ryune_capriccio_gato`\ 或者\ :doc:`39b_ryune_capriccio_gilliam`\ 之后，如果ギャブレット＝ギャブレー在队中， 那么进入本话。
 

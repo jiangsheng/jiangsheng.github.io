@@ -3,6 +3,7 @@
 
 第四十一话 アクシズに散る
 ================================
+.. _srw4_walkthrough_41_scattered_on_axis:
 
 \ :doc:`40a_the_backside_of_the_moon`\ 或者\ :doc:`40b_siege_breakthrough`\ 之后进入本话。
 

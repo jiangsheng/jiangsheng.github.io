@@ -5,6 +5,8 @@
 第十八话Ｂ イントルーダー (北西)
 ===========================================
 
+.. _srw4_walkthrough_18b_intruder_northwest:
+
 :doc:`17a_expansion_of_the_aura_machine_goraon`\ 或者\ :doc:`17b_expansion_of_the_aura_machine_gran_garan`\ 之后选择北西进入本话。
 
 开始时你的路线上没有敌军，但是很快ＤＣ巡逻部队就发现了你的侵入，拉响了警铃。

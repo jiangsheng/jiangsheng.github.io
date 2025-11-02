@@ -249,7 +249,7 @@
 第四次机体修改
 ^^^^^^^^^^^^^^^
 
-另参考\ :ref:`武器修改 <srw4_weapon_cheat>`\ 和\ :ref:`机体特殊技能修改 <srw4_unit_specialty_cheat>`。
+另参考\ :ref:`武器修改 <srw4_weapon_cheat>`。
 
 .. _srw4_units_cheat_snes:
 

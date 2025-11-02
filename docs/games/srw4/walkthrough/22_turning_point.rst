@@ -4,6 +4,8 @@
 第二十二话 ターニングポイント
 ==============================
 
+.. _srw4_walkthrough_22_turning_point:
+
 
 :doc:`21_dr_hell_s_ambition`\ 之后进入本话。
 

@@ -3,6 +3,7 @@
 
 第三十八话 ポセイダルの野心
 =========================================
+.. _srw4_walkthrough_38_poseidal_s_ambition:
 
 \ :doc:`37_guest_and_inspector`\ 之后进入本话。
 
