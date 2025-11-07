@@ -1075,6 +1075,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 .. _srw4_units_gust_lander_commentBegin:
 
 重战车形态，大招威力有不反应改造段数的问题。装甲比较厚的炮台，也不畏惧近身的敌人。但是本作并不缺乏真实系来当炮台，所以……
+
 .. _srw4_units_gust_lander_commentEnd:
 
 ^^^^^^^^^^^^
@@ -1446,6 +1447,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_units_cybird_commentBegin:
 飞行形态，移动力上升，装甲和运动型下降，另外少了很多武器。鉴于经常只有地图武器被改造，用这个模式战斗也无不可。但是碰见强大的敌人还是建议变成机器人形态然后降落到有利地形获得加成。
+
 .. _srw4_units_cybird_commentEnd:
 
 ^^^^^^^^^^^^^^^^
@@ -1635,6 +1637,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 以敌方身份登场。可能被NPC击落，故需尽早由正树进行说得才能入手。第四次中若最终话前总回合数低于320则会脱队。第四次S则无此事件。加入时机体已完成三阶段改造，但是第四次S则武器无改造，
 
 第四次中一直到倒数第二关才能进行改造。而且还可能脱队，根据路线选择，改造意义可能不是很大。第四次S中则在加入后立刻可以在加入之后新增的剧情之前进行改造。
+
 .. _srw4_units_valsione_r_commentEnd:
 
 ^^^^^^^^^^
@@ -1828,6 +1831,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 尽管战力不佳，但是因为加入后主力分成两队的原因，作为少见的地图武器机体，还是能获得上场机会的。基本上是作为坦克存在，用超振動拳消耗敌人。
 
 第四次S中对空和宇宙的适应都从B提到了A，地图武器的威力也大大上升，消耗更是减少，实用性大大增强。
+
 .. _srw4_units_zamzeed_commentEnd:
 
 ^^^^^^^^^^^^^^
@@ -2209,6 +2213,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 加蒂斯在第四次中和和古兰维尔一样有加入太晚甚至可能离队而导致无法改造的问题。同样这个问题在第四次S中得到改善。
 
 第四次S中地图武器的威力增加，消耗有所降低。
+
 .. _srw4_units_gaddeath_commentEnd:
 
 ^^^^^^^^^^
@@ -3127,6 +3132,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 开局被DC大量使用，暗示了他们背后是ゲスト。尽管宇宙适应是A，但是在太空地图上看不到它。不知为何被エリカ在荒野の死闘开出来。
 
 杂鱼机里面非常值钱的，让我纠结击落时是不是要用幸运。
+
 .. _srw4_units_garoica_commentEnd:
 
 ^^^^^^^^^^^^
