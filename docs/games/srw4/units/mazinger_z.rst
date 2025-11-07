@@ -1,26 +1,47 @@
 .. meta::
-   :description: 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。 マジンガーＺ优点是武器消耗低，甚至连导弹都有20发，而且不需要提升气力就可以使用。但是大招攻击力太低，跟真实系的浮游炮是一个等级，而且射程是1，不要指望对BOSS有用……反正他也没幸运，是吧。 早期因为甲児有铁壁还是能撑一阵的，特别是
-
+   :description: マジンガーZ机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。マジンガーZ, マジンガーZ（JS）, アフロダイA, ダイアナンA, ボスロボット, 機械獣ダブラスM2, 機械獣ガラダK７, ラインX1, 機械獣ジェノバM9, 機械獣スパルタンK5, 機械獣アブドラU6, グール, ブード 
 .. _srw4_units_mazinger_z:
 
-マジンガーＺ登场机体
-=========================================
+================
+マジンガーZ机体
+================
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。
 
------------------
-我方机体
------------------
+.. _srw4_units_mazinger_z_commentBegin:
 
-^^^^^^^^^^^^^^^^^^^^^^
+
+.. _srw4_units_mazinger_z_commentEnd:
+
+--------
+我军机体
+--------
+.. _srw4_units_mazinger_z_own_commentBegin:
+
+
+.. _srw4_units_mazinger_z_own_commentEnd:
+
+^^^^^^^^^^^^
 マジンガーZ
-^^^^^^^^^^^^^^^^^^^^^^
-.. grid:: 
+^^^^^^^^^^^^
 
-    .. grid-item-card::
-        :columns: 2   
+.. _srw4_units_mazinger_z:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
 
         .. image:: ../units/images/portrait/srw4_units_portrait_1E.png
+
+    .. grid-item::
+        :columns: auto
 
         | HP 3200
         | EN 160
@@ -28,246 +49,1900 @@
         | 运动性 20
         | 限界 130
 
-    .. grid-item-card::
+    .. grid-item::
         :columns: auto
 
         | 编码 1E
-        | 类型 陆
+        | Snes地址 B99FC
+        | PS地址 266EB
+        | 类型 陸宇
         | 移动力 6
         | 大小 M
-        | 空🚫
+
+    .. grid-item::
+        :columns: auto
+
+        | 空🚫→C
         | 陆A
         | 海C
         | 宇B
-    .. grid-item-card:: 冷凍ビームⓅ
+
+    .. grid-item::
         :columns: auto
 
-        | 攻击 650
-        | 射程 1
-        | 命中 +15
-        | 暴击 -10
-        | 空A陆A海🚫宇🚫
-        | 消耗EN 5
-    .. grid-item-card:: ミサイル
-        :columns: auto
+        .. image:: ../pilots/images/srw4_pilot_55.png
 
-        | 攻击 900
-        | 射程 1~5
-        | 命中 -5
-        | 暴击 -10
-        | 空A陆A海A宇A
-        | 弹数 20
-    .. grid-item-card:: 光子力ビームⓅⒷ
-        :columns: auto
+        | 地形参照
+        | :ref:`兜甲児 <srw4_pilots_koji_kabuto>`
 
-        | 攻击 1000(1200)
-        | 射程 1
-        | 命中 +5
-        | 暴击 +0
-        | 空A陆A海🚫宇A
-        | 消耗EN 15
-    .. grid-item-card:: ロケットパンチⓅ
-        :columns: auto
 
-        | 攻击 1400(1800)
-        | 射程 1~3
-        | 命中 -5
-        | 暴击 +20
-        | 空A陆A海A宇A
-        | 弹数 2
-    .. grid-item-card:: ルストハリケーンⓅ
-        :columns: auto
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
 
-        | 攻击 1510(1600)
-        | 射程 1
-        | 命中 +12
-        | 暴击 -10
-        | 空B陆A海🚫宇🚫
-        | 消耗EN 25
-    .. grid-item-card:: ブレストファイヤーⓅ
-        :columns: auto
+    .. grid-item:: 名字
+        :columns: 3
 
-        | 攻击 2040(2500)
-        | 射程 1
-        | 命中 +15
-        | 暴击 -10
-        | 空A陆A海C宇A
-        | 消耗EN 30
+    .. grid-item:: 攻击
 
-マジンガーＺ优点是武器消耗低，甚至连导弹都有20发，而且不需要提升气力就可以使用。但是大招攻击力太低，跟真实系的浮游炮是一个等级，而且射程是1，不要指望对BOSS有用……反正他也没幸运，是吧。
+    .. grid-item:: 射程
 
-早期因为甲児有铁壁还是能撑一阵的，特别是对付砍人很痛的奥拉系敌军，可以必中+铁壁在敌人群里开无双。因为会被围殴，气力经常不是问题，所以装强化装甲就可以有很高的防御，连EN都可以不改造，没EN了就撤回去等ボスボロット来补给，注意不要有友军在附近。改造的话，段数继承到后面的升级形态。
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 冷凍ビームⓅ
+        :columns: 3
+
+    .. grid-item:: 650
+
+    .. grid-item:: 1
+
+    .. grid-item:: +15
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海🚫宇🚫
+        :columns: 3
+
+    .. grid-item:: EN 5
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ミサイル⚔
+        :columns: 3
+
+    .. grid-item:: 900
+
+    .. grid-item:: 1~5
+
+    .. grid-item:: -5
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 20
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 光子力ビームⒷⓅ
+        :columns: 3
+
+    .. grid-item:: 1000(1200)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +5
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: EN 15
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ロケットパンチ⚔Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1400(1800)
+
+    .. grid-item:: 1~3
+
+    .. grid-item:: -5
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 2
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ルストハリケーンⓅ
+        :columns: 3
+
+    .. grid-item:: 1510(1600)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +12
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空B陆A海🚫宇🚫
+        :columns: 3
+
+    .. grid-item:: EN 25
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾌﾞﾚｽﾄﾌｧｲﾔｰⓅ
+        :columns: 3
+
+    .. grid-item:: 2040(2500)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +15
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海C宇A
+        :columns: 3
+
+    .. grid-item:: EN 30
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_units_mazinger_z_commentBegin:
+
+魔神Ｚ的优点是武器消耗低，甚至连导弹都有20发，而且不需要提升气力就可以使用。但是大招攻击力太低，跟真实系的浮游炮是一个等级，而且射程是1，不要指望对BOSS有用……反正他也没幸运，是吧。
+
+早期因为甲児有铁壁还是能撑一阵的，特别是对付砍人很痛的奥拉战士，可以用必中+铁壁在敌人群里开无双。因为会被围殴，气力经常不是问题，所以装强化装甲就可以有很高的防御，连EN都可以不改造，没EN了就撤回去等ボスボロット来补给，注意不要有友军在附近导致他被绕过。改造的话，段数继承到后面的升级形态。
 
 第四次S里攻击力有所提高。
 
-^^^^^^^^^^^^^^^^^^^^^^
-マジンガーＺ（JS）
-^^^^^^^^^^^^^^^^^^^^^^
-.. grid:: 
+.. _srw4_units_mazinger_z_commentEnd:
 
-    .. grid-item-card::
-        :columns: 2   
+^^^^^^^^^^^^^^^^^^^^
+マジンガーZ（JS）
+^^^^^^^^^^^^^^^^^^^^
+
+.. _srw4_units_mazinger_z_js:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
 
         .. image:: ../units/images/portrait/srw4_units_portrait_1F.png
 
+    .. grid-item::
+        :columns: auto
+
         | HP 3500
         | EN 170
-        | 装甲 780(870)
+        | 装甲 780 (870)
         | 运动性 22
         | 限界 140
 
-    .. grid-item-card::
+    .. grid-item::
         :columns: auto
 
         | 编码 1F
-        | 类型 空陆
+        | Snes地址 B9A30
+        | PS地址 2671F
+        | 类型 空陸
         | 移动力 7
         | 大小 M
-        | 空B(A)
+
+    .. grid-item::
+        :columns: auto
+
+        | 空B (A)
         | 陆A
-        | 海C(B)
+        | 海B
         | 宇B
-    .. grid-item-card:: 冷凍ビームⓅ
+
+    .. grid-item::
         :columns: auto
 
-        | 攻击 650
-        | 射程 1
-        | 命中 +15
-        | 暴击 -10
-        | 空A陆A海🚫宇🚫
-        | 消耗EN 5
-    .. grid-item-card:: ミサイル
-        :columns: auto
+        .. image:: ../pilots/images/srw4_pilot_55.png
 
-        | 攻击 900
-        | 射程 1~5
-        | 命中 -5
-        | 暴击 -10
-        | 空A陆A海A宇A
-        | 弹数 20
-    .. grid-item-card:: 光子力ビームⓅⒷ
-        :columns: auto
+        | 地形参照
+        | :ref:`兜甲児 <srw4_pilots_koji_kabuto>`
 
-        | 攻击 1000(1200)
-        | 射程 1
-        | 命中 +5
-        | 暴击 +0
-        | 空A陆A海🚫宇A
-        | 消耗EN 15
-    .. grid-item-card:: サザンクロスナイフⓅ
-        :columns: auto
 
-        | 攻击 1070(1100)
-        | 射程 1~3
-        | 命中 +15
-        | 暴击 +10
-        | 空A陆A海B宇A
-        | 弹数 2
-    .. grid-item-card:: ドリルミサイル
-        :columns: auto
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
 
-        | 攻击 1150（1350）
-        | 射程 1~4
-        | 命中 +20
-        | 暴击 610
-        | 空A陆A海A宇A
-        | 弹数 3
-    .. grid-item-card:: ロケットパンチⓅ
-        :columns: auto
+    .. grid-item:: 名字
+        :columns: 3
 
-        | 攻击 1400(1800)
-        | 射程 1~3
-        | 命中 -5
-        | 暴击 +20
-        | 空A陆A海A宇A
-        | 弹数 2
-    .. grid-item-card:: スクランダーカッターⓅ🤛
-        :columns: auto
+    .. grid-item:: 攻击
 
-        | 攻击 1440(1640)
-        | 射程 1
-        | 命中 +20
-        | 暴击 +20
-        | 空A→B(A)陆A
-        | 海B→C(B)宇A→B
-    .. grid-item-card:: ルストハリケーンⓅ
-        :columns: auto
+    .. grid-item:: 射程
 
-        | 攻击 1510(1600)
-        | 射程 1
-        | 命中 +12
-        | 暴击 -10
-        | 空B陆A海🚫宇🚫
-        | 消耗EN 25
-    .. grid-item-card:: アイアンカッターⓅ
-        :columns: auto
+    .. grid-item:: 命中
 
-        | 攻击  1600(2200)
-        | 射程 1~3
-        | 命中 -4
-        | 暴击 +30
-        | 空A陆A海A宇A
-        | 弹数 2 
-    .. grid-item-card:: ブレストファイヤーⓅ
-        :columns: auto
+    .. grid-item:: 暴击
 
-        | 攻击 2040(2500)
-        | 射程 1
-        | 命中 +15
-        | 暴击 -10
-        | 空A陆A海C宇A
-        | 消耗EN 30
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
 
-マジンガーＺ的Jet Scramder或者叫红之翼装备的形态。增加了移动力、飞行能力和武器。\ :doc:`../walkthrough/14_mazinger_z_flying_in_the_sky`\ 开头有装备动画。
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 冷凍ビームⓅ
+        :columns: 3
+
+    .. grid-item:: 650
+
+    .. grid-item:: 1
+
+    .. grid-item:: +15
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海🚫宇🚫
+        :columns: 3
+
+    .. grid-item:: EN 5
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ミサイル⚔
+        :columns: 3
+
+    .. grid-item:: 900
+
+    .. grid-item:: 1~5
+
+    .. grid-item:: -5
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 20
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 光子力ビームⒷⓅ
+        :columns: 3
+
+    .. grid-item:: 1000(1200)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +5
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: EN 15
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ｻｻﾞﾝｸﾛｽﾅｲﾌ⚔Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1070(1100)
+
+    .. grid-item:: 1~3
+
+    .. grid-item:: +15
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海B宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 2
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ドリルミサイル⚔
+        :columns: 3
+
+    .. grid-item:: 1150(1350)
+
+    .. grid-item:: 1~4
+
+    .. grid-item:: +20
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 3
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ロケットパンチ⚔Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1400(1800)
+
+    .. grid-item:: 1~3
+
+    .. grid-item:: -5
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 2
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ｽｸﾗﾝﾀﾞｰｶｯﾀｰ🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1440(1640)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +20
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A→B (A)陆A海B→C宇A→B
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ルストハリケーンⓅ
+        :columns: 3
+
+    .. grid-item:: 1510(1600)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +12
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空B陆A海🚫宇🚫
+        :columns: 3
+
+    .. grid-item:: EN 25
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: アイアンカッター⚔Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1600(2200)
+
+    .. grid-item:: 1~3
+
+    .. grid-item:: -4
+
+    .. grid-item:: +30
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 2
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾌﾞﾚｽﾄﾌｧｲﾔｰⓅ
+        :columns: 3
+
+    .. grid-item:: 2040(2500)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +15
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海C宇A
+        :columns: 3
+
+    .. grid-item:: EN 30
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_units_mazinger_z_js_commentBegin:
+
+魔神Ｚ的Jet Scramder或者叫红之翼装备的形态。增加了移动力、飞行能力和武器。\ :doc:`../walkthrough/14_mazinger_z_flying_in_the_sky`\ 开头有装备动画。
 
 追加了无消耗的武器，看来是要在砍小兵的道路上一去不复返了。但是后期就算小兵也有不错的射程，靠攻击力只有900的导弹给敌人刮痧还是太勉强了。砍只会近战的奥拉系小兵还是能胜任的。
 
-第四次S中对空适应提升到了A，对海适应提升到了B，其他武器也有少许强化。仍然有对Boss火力不足的问题。
+第四次S中对空适应提升到了A，开战的时候大概仍旧需要落地以获得有利地形加成。对海适应提升到了B，打海怪可以不用换乘ダブルスペイザー了。其他武器和装甲也有少许强化。仍然有对Boss火力不足的问题。
 
-^^^^^^^^^^^^^^^^^^^^^^
+.. _srw4_units_mazinger_z_js_commentEnd:
+
+^^^^^^^^^^^^
 アフロダイA
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^
+
+.. _srw4_units_aphrodite_a:
 
 
-HP 2800 EN 110 运动性 22 装甲 580 限界 125 移动 陆6 大小 M 空^陆A海C宇B 
 
-* 修理装置 攻击 0 射程 1  空A陆A海A宇A 残弹 5 
-* 格斗	攻击 700 射程 1 命中+20 暴击 ^10 空A陆A海A宇A 
-* アフロダイミサイル 攻击 880 射程 1^5 命中^5 暴击 ^10 空A陆A海A宇A 残弹 4 
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
 
-阿布罗迪号。早期修理机，装甲厚得跟超级机器人有得一拼，可以一用，但是没有空中移动能力是个缺点，中期就被维纳斯A取代了。
+    .. grid-item::
+        :columns: auto
 
-^^^^^^^^^^^^^^^^^^^^^^
-ボスボロット
-^^^^^^^^^^^^^^^^^^^^^^
+        .. image:: ../units/images/portrait/srw4_units_portrait_29.png
 
-HP 2900 EN 130 运动性 15 装甲 220 限界 120 移动 陆6 大小 M 空^陆A海D宇^ 
+    .. grid-item::
+        :columns: auto
 
-* 补给装置	射程 1^3 残弹 2 消费EN 0 
-* ボロットパンチ	攻击 900 射程 1 命中^10 暴击 +10 空^陆A海A宇A 
-* スペシャルボロットパンチ 攻击 1600 射程 1 命中^20 暴击 +20 空^陆A海A宇A 
-* スペシャルDXボロットパンチ 攻击 2800 射程 1 命中^30 暴击 +30 空^陆A海A宇A
+        | HP 2800
+        | EN 140
+        | 装甲 580
+        | 运动性 22
+        | 限界 125
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 29
+        | Snes地址 B9C5C
+        | PS地址 2694B
+        | 类型 陸宇
+        | 移动力 6
+        | 大小 M
+
+    .. grid-item::
+        :columns: auto
+
+        | 空🚫→D
+        | 陆A
+        | 海C
+        | 宇B
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_45.png
+
+        | 地形参照
+        | :ref:`弓さやか <srw4_pilots_sayaka_yumi>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 修理装置Ⓟ🔧
+        :columns: 3
+
+    .. grid-item:: 0
+
+    .. grid-item:: 1
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 5
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 格闘🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 700
+
+    .. grid-item:: 1
+
+    .. grid-item:: +20
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A→🚫陆A海A→B宇A→B
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ｱﾌﾛﾀﾞｲﾐｻｲﾙ⚔
+        :columns: 3
+
+    .. grid-item:: 880
+
+    .. grid-item:: 1~5
+
+    .. grid-item:: -5
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 4
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_units_aphrodite_a_commentBegin:
+
+阿布罗迪号。早期修理机，装甲厚得跟超级机器人有得一拼，可以一用，但是没有空中移动能力是个缺点，中期就被维纳斯A取代了，改造段数继承。
+
+.. _srw4_units_aphrodite_a_commentEnd:
+
+^^^^^^^^^^^^
+ダイアナンA
+^^^^^^^^^^^^
+
+.. _srw4_units_diana_a:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_2A.png
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 3100
+        | EN 150
+        | 装甲 590 (650)
+        | 运动性 22
+        | 限界 130
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 2A
+        | Snes地址 B9C87
+        | PS地址 26976
+        | 类型 陸宇
+        | 移动力 6
+        | 大小 M
+
+    .. grid-item::
+        :columns: auto
+
+        | 空🚫→D
+        | 陆A
+        | 海B→C
+        | 宇B
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_45.png
+
+        | 地形参照
+        | :ref:`弓さやか <srw4_pilots_sayaka_yumi>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 修理装置Ⓟ🔧
+        :columns: 3
+
+    .. grid-item:: 0
+
+    .. grid-item:: 1
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 5
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 格闘🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 700
+
+    .. grid-item:: 1
+
+    .. grid-item:: +20
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A→🚫陆A海A→B宇A→B
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾀﾞｲｱﾅﾝﾐｻｲﾙ⚔
+        :columns: 3
+
+    .. grid-item:: 1000(1100)
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -5
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 6
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ｽｶｰﾚｯﾄﾋﾞｰﾑⒷⓅ
+        :columns: 3
+
+    .. grid-item:: 1200(1400)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +5
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: EN 15
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_units_diana_a_commentBegin:
+
+戴安娜A是阿布罗迪A的升级版，继承改造。增加了一个消耗EN的武器，战斗力仍然有限。第四次S中提升了装甲和攻击力。
+
+.. _srw4_units_diana_a_commentEnd:
+
+^^^^^^^^^^^^
+ボスロボット
+^^^^^^^^^^^^
+
+.. _srw4_units_boss_borot:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_2B.png
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 2900
+        | EN 130
+        | 装甲 220
+        | 运动性 15
+        | 限界 120
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 2B
+        | Snes地址 B9CB5
+        | PS地址 269A4
+        | 类型 陸
+        | 移动力 6
+        | 大小 M
+
+    .. grid-item::
+        :columns: auto
+
+        | 空🚫
+        | 陆A
+        | 海D
+        | 宇🚫→D
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_47.png
+
+        | 地形参照
+        | :ref:`ボス <srw4_pilots_boss>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 補給装置🔄
+        :columns: 3
+
+    .. grid-item:: 0
+
+    .. grid-item:: 1~3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 2
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ボロットパンチ🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 900(1000)
+
+    .. grid-item:: 1
+
+    .. grid-item:: -10
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A→🚫陆A海A→C宇A→🚫
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ｽﾍﾟｼｬﾙﾎﾞﾛｯﾄﾊﾟﾝﾁ🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1600(2000)
+
+    .. grid-item:: 1
+
+    .. grid-item:: -20
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A→🚫陆A海A→C宇A→🚫
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 必要气力 120
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: SPDXﾎﾞﾛｯﾄﾊﾟﾝﾁ🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 2800(3500)
+
+    .. grid-item:: 1
+
+    .. grid-item:: -30
+
+    .. grid-item:: +30
+
+    .. grid-item:: 空A→🚫陆A海A→C宇A→🚫
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 必要气力 140
+
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_units_boss_borot_commentBegin:
 
 波士机器人。武器账面值优秀（和ダイモス的烈風正拳突き相当）但是命中补正居然是负的。加上ボス本来就不算强的命中能力，即使对于超级系敌人也存在打不中的问题，所以最适合的驾驶员是有必中和加速的剣鉄也……
 
 没有远程或对空武器在敌方回合经常成为被集火对象。修理费只有10元是个优点——如果你想用自爆+复活让地图武器机体可以满EN发射两次的话。在宇宙空间地图不能出战并没有什么影响，后期ボス要练级也是上マリンスペイザー跟グレンダイザー合体的。
 
 
+.. _srw4_units_boss_borot_commentEnd:
 
------------------
-敌方机体
------------------
+--------
+敌军机体
+--------
+.. _srw4_units_mazinger_z_enemy_commentBegin:
 
-^^^^^^^^^^^^^^^^^^^^^^
+
+.. _srw4_units_mazinger_z_enemy_commentEnd:
+
+^^^^^^^^^^^^^^^^^^
+機械獣ダブラスM2
+^^^^^^^^^^^^^^^^^^
+
+.. _srw4_units_mechanical_beast_doublas_m2:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_95.png
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 3000
+        | EN 200
+        | 装甲 200
+        | 运动性 20
+        | 限界 130
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 95
+        | Snes地址 BAF9C
+        | PS地址 27C8B
+        | 类型 陸宇
+        | 移动力 5
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空🚫
+        | 陆A
+        | 海B
+        | 宇C
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 格闘🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 700
+
+    .. grid-item:: 1
+
+    .. grid-item:: +20
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A→🚫陆A海A→B宇A→B
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ミサイル⚔
+        :columns: 3
+
+    .. grid-item:: 800
+
+    .. grid-item:: 1~5
+
+    .. grid-item:: -5
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 10
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: レーザー
+        :columns: 3
+
+    .. grid-item:: 1100
+
+    .. grid-item:: 1~4
+
+    .. grid-item:: -3
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: EN 10
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_units_mechanical_beast_doublas_m2_commentBegin:
+
+皮粗肉厚武器也不怎么差，不过最强武器不能对海，可以在水中攻击它。
+
+.. _srw4_units_mechanical_beast_doublas_m2_commentEnd:
+
+^^^^^^^^^^^^^^^^
+機械獣ガラダK７
+^^^^^^^^^^^^^^^^
+
+.. _srw4_units_mechanical_beast_garada_k7:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_96.png
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 3000
+        | EN 200
+        | 装甲 200
+        | 运动性 20
+        | 限界 130
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 96
+        | Snes地址 BAFC7
+        | PS地址 27CB6
+        | 类型 陸宇
+        | 移动力 5
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空🚫
+        | 陆A
+        | 海C
+        | 宇C
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ミサイル⚔
+        :columns: 3
+
+    .. grid-item:: 800
+
+    .. grid-item:: 1~5
+
+    .. grid-item:: -5
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 10
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ブーメラン⚔
+        :columns: 3
+
+    .. grid-item:: 1220
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: 
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海B宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 2
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: かま🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1350
+
+    .. grid-item:: 1
+
+    .. grid-item:: +10
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A→🚫陆A海A→B宇A→B
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_units_mechanical_beast_garada_k7_commentBegin:
+
+皮粗肉厚武器也不怎么差，不过最强武器不能对空，可以用空飞的机体攻击。
+
+.. _srw4_units_mechanical_beast_garada_k7_commentEnd:
+
+^^^^^^^^^^^^^^^^^^
+機械獣ジェノバM9
+^^^^^^^^^^^^^^^^^^
+
+.. _srw4_units_mechanical_beast_genova_m9:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_99.png
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 3200
+        | EN 200
+        | 装甲 270
+        | 运动性 24
+        | 限界 150
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 99
+        | Snes地址 BB042
+        | PS地址 27D31
+        | 类型 陸宇
+        | 移动力 6
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空🚫
+        | 陆A
+        | 海C
+        | 宇B
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ピストルⓅ
+        :columns: 3
+
+    .. grid-item:: 540
+
+    .. grid-item:: 1
+
+    .. grid-item:: +10
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 10
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ライフル
+        :columns: 3
+
+    .. grid-item:: 1140
+
+    .. grid-item:: 3~7
+
+    .. grid-item:: +10
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 10
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_units_mechanical_beast_genova_m9_commentBegin:
+
+皮粗肉厚，射程也不错，但是命中回避和攻击力都是问题。
+
+.. _srw4_units_mechanical_beast_genova_m9_commentEnd:
+
+^^^^^^^^^^^^^^^^^^^^
+機械獣スパルタンK5
+^^^^^^^^^^^^^^^^^^^^
+
+.. _srw4_units_mechanical_beast_spartan_k5:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_9A.png
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 6000
+        | EN 255
+        | 装甲 380
+        | 运动性 27
+        | 限界 160
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 9A
+        | Snes地址 BB06A
+        | PS地址 27D59
+        | 类型 陸宇
+        | 移动力 6
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空🚫
+        | 陆A
+        | 海B
+        | 宇B
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: スピア🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1080
+
+    .. grid-item:: 1
+
+    .. grid-item:: +2
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A→🚫陆A海A→B宇A→B
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ハリケーンⓅ
+        :columns: 3
+
+    .. grid-item:: 1370
+
+    .. grid-item:: 1
+
+    .. grid-item:: +2
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空🚫陆A海A宇🚫
+        :columns: 3
+
+    .. grid-item:: EN 50
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_units_mechanical_beast_spartan_k5_commentBegin:
+
+
+.. _srw4_units_mechanical_beast_spartan_k5_commentEnd:
+
+^^^^^^^^^^^^^^^^^^
+機械獣アブドラU6
+^^^^^^^^^^^^^^^^^^
+
+.. _srw4_units_mechanical_beast_abdullah_u6:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_9B.png
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 3300
+        | EN 200
+        | 装甲 400
+        | 运动性 20
+        | 限界 150
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 9B
+        | Snes地址 BB092
+        | PS地址 27D81
+        | 类型 陸宇
+        | 移动力 5
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空🚫
+        | 陆A
+        | 海B
+        | 宇B
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 格闘🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 890
+
+    .. grid-item:: 1
+
+    .. grid-item:: +25
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A→🚫陆A海A→B宇A→B
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 破壊光線
+        :columns: 3
+
+    .. grid-item:: 2100
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -20
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海B宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 18
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_units_mechanical_beast_abdullah_u6_commentBegin:
+
+破坏光线攻击力很高，而且能对空。幸好移动力和射程不是很好，很容易放风筝。
+
+.. _srw4_units_mechanical_beast_abdullah_u6_commentEnd:
+
+^^^^^^^^^^
+ラインX1
+^^^^^^^^^^
+
+.. _srw4_units_rhine_x1:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_98.png
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 7000
+        | EN 255
+        | 装甲 430
+        | 运动性 30
+        | 限界 160
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 98
+        | Snes地址 BB01A
+        | PS地址 27D09
+        | 类型 陸宇
+        | 移动力 7
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空🚫
+        | 陆A
+        | 海A
+        | 宇B
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ミサイル⚔
+        :columns: 3
+
+    .. grid-item:: 1030
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -12
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 20
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ムチ🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1570
+
+    .. grid-item:: 1
+
+    .. grid-item:: +15
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A→🚫陆A海A宇A→B
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_units_rhine_x1_commentBegin:
+
+
+.. _srw4_units_rhine_x1_commentEnd:
+
+^^^^^^
 グール
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^
 
-HP 13000 EN 200 运动性 25 装甲 480 限界 170 移动 空7 大小 LL 空A陆^海^宇^ 
+.. _srw4_units_ghoul:
 
-* 磁力光線 攻击 750 射程1^6 命中^10 空A陆A海A宇A 残弹 50
-* ショックビーム 攻击 1000 射程1 命中^5 暴击^10 空A陆A海A宇A 消费EN 10
-* ミサイル 攻击 1030 射程1^6 命中^12 暴击^10  空A陆A海A宇A 残弹 20
-* 爆弾 攻击 1120 射程1 命中+10 暴击^10  空^陆A海A宇^ 残弹 10
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_9C.png
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 13000
+        | EN 200
+        | 装甲 480
+        | 运动性 25
+        | 限界 170
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 9C
+        | Snes地址 BB0BA
+        | PS地址 27DA9
+        | 类型 空
+        | 移动力 7
+        | 大小 LL
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A
+        | 陆🚫→D
+        | 海🚫→C
+        | 宇🚫→D
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_A0.png
+
+        | 地形参照
+        | :ref:`あしゅら男爵 <srw4_pilots_baron_ashura>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 磁力光線
+        :columns: 3
+
+    .. grid-item:: 750
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -10
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 50
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ショックビームⓅ
+        :columns: 3
+
+    .. grid-item:: 1000
+
+    .. grid-item:: 1
+
+    .. grid-item:: -5
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海C宇A
+        :columns: 3
+
+    .. grid-item:: EN 10
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ミサイル⚔
+        :columns: 3
+
+    .. grid-item:: 1030
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -12
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 20
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 爆弾Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1120
+
+    .. grid-item:: 1
+
+    .. grid-item:: +10
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空🚫陆A海A宇🚫
+        :columns: 3
+
+    .. grid-item:: 残弹 10
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_units_ghoul_commentBegin:
 
 这是敌人第一个战舰，除了HP太低之外，具有低运动性、低移动力、弹药充足、武器降命中、击落后钱多等战舰的通性。
 
@@ -275,39 +1950,173 @@ HP 13000 EN 200 运动性 25 装甲 480 限界 170 移动 空7 大小 LL 空A陆
 
 只有近身武器是加命中的，可以围起来之后用射程更高的远程武器围殴。
 
-^^^^^^^^^^^^^^^^^^^^^^
+.. _srw4_units_ghoul_commentEnd:
+
+^^^^^^
 ブード
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^
+
+.. _srw4_units_bood:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_9D.png
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 18000
+        | EN 200
+        | 装甲 470
+        | 运动性 22
+        | 限界 160
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 9D
+        | Snes地址 BB0E8
+        | PS地址 27DD7
+        | 类型 海
+        | 移动力 7
+        | 大小 LL
+
+    .. grid-item::
+        :columns: auto
+
+        | 空🚫→C
+        | 陆🚫→D
+        | 海A
+        | 宇🚫→D
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_A0.png
+
+        | 地形参照
+        | :ref:`あしゅら男爵 <srw4_pilots_baron_ashura>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: リング光線
+        :columns: 3
+
+    .. grid-item:: 880
+
+    .. grid-item:: 1~5
+
+    .. grid-item:: -5
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海C宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 10
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ミサイル⚔
+        :columns: 3
+
+    .. grid-item:: 980
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -10
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 20
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: うずまきⓅ
+        :columns: 3
+
+    .. grid-item:: 1200
+
+    .. grid-item:: 1
+
+    .. grid-item:: +10
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空🚫陆🚫海A宇🚫
+        :columns: 3
+
+    .. grid-item:: EN 15
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 魚雷⚔
+        :columns: 3
+
+    .. grid-item:: 1300
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -10
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空🚫陆🚫海A宇🚫
+        :columns: 3
+
+    .. grid-item:: 残弹 10
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_units_bood_commentBegin:
+
 装甲不错的战舰，但是最强的两个武器是对海专用，可以引到岸边再打。
 
-^^^^^^^^^^^^^^^^^^^^^^
-機械獣ガラダK7
-^^^^^^^^^^^^^^^^^^^^^^
+.. _srw4_units_bood_commentEnd:
 
-HP 3000 EN 200 运动性 20 装甲 200 限界 130 移动 陆5 大小 L 空^陆A海C宇C
-* ミサイル 攻击 800 射程1^5 命中^5 暴击^10  空A陆A海A宇A 残弹 10
-* ブーメラン 攻击 1220 射程1^6 暴击+10  空A陆A海B宇A 残弹 2
-* かま 攻击 1350 射程1  命中+10 暴击+10  空^陆A海A宇A 
-
-皮粗肉厚武器也不怎么差，不过最强武器不能对空，可以用空飞的机体攻击。
-
-^^^^^^^^^^^^^^^^^^^^^^
-機械獣ダブラスM2
-^^^^^^^^^^^^^^^^^^^^^^
-
-HP 3000 EN 200 运动性 20 装甲 200 限界 130 移动 陆5 大小 L 空^陆A海B宇C
-* 格闘 攻击 700 射程1  命中+20 暴击+10  空^陆A海A宇A 
-* ミサイル 攻击 800 射程1^5 命中^5 暴击^10  空A陆A海A宇A 残弹 10
-* レーザー 攻击 1100 射程1^4 命中^3 空A陆A海^宇A 消费EN 10
-
-皮粗肉厚武器也不怎么差，不过最强武器不能对海，可以在水中攻击它。
-
-^^^^^^^^^^^^^^^^^^^^^^
-機械獣ジェノバM9
-^^^^^^^^^^^^^^^^^^^^^^
-皮粗肉厚，射程也不错，但是命中回避和攻击力都是问题。
-
-^^^^^^^^^^^^^^^^^^^^^^
-機械獣アブドラU6 
-^^^^^^^^^^^^^^^^^^^^^^
-破坏光线攻击力很高，而且能对空。幸好移动力和射程不是很好，很容易放风筝。
