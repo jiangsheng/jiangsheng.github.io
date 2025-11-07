@@ -322,15 +322,15 @@
       | CB95BF44
       | グルンガスト空A海A
 
-    .. grid-item-card:: GP03
+    .. grid-item-card:: GP-03
       :columns: auto
 
       | cb973c01
-      | GP03移动空陆
+      | GP-03移动空陆
       | cb973d43
-      | GP03空A海B
+      | GP-03空A海B
       | cb973e34
-      | GP03陆B宇A
+      | GP-03陆B宇A
 
     .. grid-item-card:: ボスロボット
       :columns: auto
@@ -2559,7 +2559,7 @@
       | パワーランチャー
       | (ガイラム)→
       | パワーランチャー
-      | (エルガイムmkII)
+      | (エルガイム Mk-II)
 
     .. grid-item-card:: ガンダム 
       :columns: auto 
@@ -2652,7 +2652,7 @@
       | 8004910A 056e
       | ファンネル
 
-    .. grid-item-card::  Ｚガンダム
+    .. grid-item-card::  Zガンダム
       :columns: auto 
 
       | 800491DB 0108
@@ -2672,7 +2672,7 @@
       | ビームライフルｰ
       | →ファンネル
 
-    .. grid-item-card::  ＺＺガンダム
+    .. grid-item-card::  ZZガンダム
       :columns: auto 
 
       | 80049240 0E06
@@ -3779,13 +3779,13 @@
       | 30047A57 00D9
       | ヤクト・ドーガ（青）
       | 30048B93 00D9
-      | ゲシュペンストmkII      
+      | ゲシュペンスト Mk-II      
       | 30048BC1 00D9
       | エルガイム 
       | 30048C4E 00D9  
       | ディザード
       | 30048D12 00D9
-      | ガルバリーテンプル
+      | カルバリーテンプル
       | 30048DD0 00D9
       | サロンズ      
       | 30048EDE 00D9

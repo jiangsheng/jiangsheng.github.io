@@ -55,7 +55,7 @@ Extra line and appearance in the Playstation port for General Draydou and Genera
 * 戦闘獣グラトニオス ×2
 * 戦闘獣オベリウス ×2
 * ドライセン
-* ギラ・ドーガ
+* ギラ・ドーガ（绿）
 * ガロイカ ×2
 * カレイツェド
 * 円盤獣ギルギル
@@ -66,7 +66,7 @@ Extra line and appearance in the Playstation port for General Draydou and Genera
 * ハンマ・ハンマ
 * 円盤獣ジンジン ×3
 * 円盤獣デキデキ ×2
-* メカザウルス•バド
+* メカザウルス・バド
 * メカザウルス・ザイ
 
 -------------

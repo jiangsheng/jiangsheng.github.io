@@ -2776,7 +2776,7 @@
    * - 86
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_86_B.png
-     - ギラ・ドーガ（青）
+     - ギラ・ドーガ（绿）
      - Geara Doga (blue)
      - :ref:`逆襲のシャア <srw4_units_ms_gundam_char_s_counterattack>`
      - 2300
@@ -2795,10 +2795,10 @@
      - A
 
    * - 87
-     - 敌
+     - 没
      - .. image:: ../units/images/icon/srw4_units_icon_87_B.png
-     - ギラ・ドーガ（赤）
-     - Geara Doga (red)
+     - ギラ・ドーガ（强化）
+     - Geara Doga (upgraded)
      - :ref:`逆襲のシャア <srw4_units_ms_gundam_char_s_counterattack>`
      - 2500
      - 190
@@ -3112,7 +3112,7 @@
    * - 96
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_96_B.png
-     - 機械獣ガラダＫ７
+     - 機械獣ガラダK７
      - Mechanical Beast Garada K7
      - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 3000
@@ -5086,7 +5086,7 @@
    * - F4
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_F4_B.png
-     - ガルバリーテンプル
+     - カルバリーテンプル
      - Calvary Temple
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 2700
@@ -5632,7 +5632,7 @@
    * - 112
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_112_B.png
-     - Ｚガンダム
+     - Zガンダム
      - Z Gundam
      - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
      - 2600
@@ -5674,7 +5674,7 @@
    * - 114
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_114_B.png
-     - ＺＺガンダム
+     - ZZガンダム
      - ZZ Gundam
      - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
      - 3100
@@ -5737,7 +5737,7 @@
    * - 117
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_117_B.png
-     - 円盤獣デギデギ
+     - 円盤獣デキデキ
      - Saucer Beast Dekideki
      - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 6600

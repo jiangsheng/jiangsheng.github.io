@@ -17,7 +17,7 @@
      - .. admonition:: 2，除了1的货物之外，追加
           :class: attention 
 
-          * ＧＭⅢ 
+          * GM III 
           * 10000G
      - .. admonition:: 3，除了1和2的货物之外，追加
           :class: attention 

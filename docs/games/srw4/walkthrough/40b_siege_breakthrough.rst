@@ -49,7 +49,7 @@ A previous conversation between Gavlet and Lecci revealed that the Poseidal Army
 
 * ゲイオス＝グルード（リィリィ＝ハッシー）
 * ゲイオス＝グルード（ワザン＝ルーン）
-* レストグランシェ ×8
+* レストグランシュ ×8
 
 -------------
 地图物品

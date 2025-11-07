@@ -28,7 +28,7 @@ After the destruction of Titans, Londo Bell found the forgotten Orchis on the La
 * ベルガ・ギロス（ドレル＝ロナ）
 * ベルガ・ギロス（アンナマリー＝ブルージュ）
 * ゼラニオ
-* レストグランシェ ×4
+* レストグランシュ ×4
 * ベルガ・ギロス
 * グラシドゥ＝リュ ×5
 * レストレイル ×5

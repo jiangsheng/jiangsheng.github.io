@@ -45,7 +45,7 @@ Even though Earth had developed superior military technology, Teniquette Zezerna
 * ライグ＝ゲイオス（ゼブリ-ズ=フルシュワ）
 * ライグ＝ゲイオス（グロフィス＝ラクレイン）
 * ゲイオス＝グルード
-* レストグランシェ ×7
+* レストグランシュ ×7
 * グラシドゥ＝リュ ×4
 * レストレイル ×5
 * カレイツェド ×4

@@ -34,7 +34,7 @@ The plan is to have a small number of AEUG's troops seize the council hall while
 * ダブデ（ジャマイカン＝ダニンガン）
 * サイコガンダム(MS) （フォウ＝ムラサメ）
 * ベルガ・ギロス ×2
-* ギラ・ドーガ
+* ギラ・ドーガ（绿）
 * バウ（MS） ×3
 * ドライセン
 * ハンマ・ハンマ ×2

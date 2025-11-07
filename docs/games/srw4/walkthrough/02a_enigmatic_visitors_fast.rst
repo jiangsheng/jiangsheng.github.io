@@ -37,8 +37,8 @@ Spaceship Tana is badly damaged on entry. Daba and the rest of team are trying t
 
 * 惡靈將軍ハーディアス　（惡靈將軍ハーディアス）
 * ザク改
-* 機械獣ガラダＫ７
-* 機械獣ダブラスＭ２
+* 機械獣ガラダK７
+* 機械獣ダブラスM2
 * メカザウルス・サキ
 * ミニフォー ×2
 * ドローメ ×2
@@ -63,8 +63,8 @@ Spaceship Tana is badly damaged on entry. Daba and the rest of team are trying t
 ------------------
 敌方援军	
 ------------------
-* 機械獣ガラダＫ７
-* メカザウルス•バド ×2
+* 機械獣ガラダK７
+* メカザウルス・バド ×2
 * ミニフォー ×3
 * マラサイ ×2
 

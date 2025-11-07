@@ -25,6 +25,7 @@
    mobile_suit_gundam_sentinel
    heavy_metal_l_gaim
    mazinger_z
+   mazinger_z_1
    mazinger_z_the_movie
    great_mazinger
    grendizer

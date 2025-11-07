@@ -164,6 +164,7 @@
         :class: flex-break
 
 .. _srw4_units_gespenst_real_commentBegin:
+
 中子射线居然不算光线武器，使得敌方重战机和奥拉系的光线防御无效，简直是作弊啊。具有光线防御，很适合和机动战士系以及重战机系敌人战斗。
 
 陆A的机体比较少见，即使是在主人公换乘凶鸟之后，亡灵在副主人公驾驶下也很活跃。机动战士系好机体本来就少，这部机体在主人公换机之后只能副主人公开，远攻本来就差一截的副主人公还是别跟新人类去抢机体了。
@@ -317,6 +318,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         :class: flex-break
 
 .. _srw4_units_gespenst_super_commentBegin:
+
 スマッシュビーム仍旧不算光线武器，而且消耗小，可以尽快改造。具有光线防御，很适合和机动战士系以及重战机系敌人战斗。陆A的机体比较少见，即使是在主人公换乘古伦加斯特之后，亡灵在副主人公驾驶下也很活跃。另外宇宙适应也是A，虽然攻击力不算出色，但是在超级系后期宇宙战普遍乏力时也算一个不错的战力。
 
 机动战士系好机体本来就少，远攻本来就差一截的副主人公还是别跟4大新人类去抢机体了。
@@ -1446,6 +1448,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
 
 .. _srw4_units_cybird_commentBegin:
+
 飞行形态，移动力上升，装甲和运动型下降，另外少了很多武器。鉴于经常只有地图武器被改造，用这个模式战斗也无不可。但是碰见强大的敌人还是建议变成机器人形态然后降落到有利地形获得加成。
 
 .. _srw4_units_cybird_commentEnd:
@@ -1634,6 +1637,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
 
 .. _srw4_units_valsione_r_commentBegin:
+
 以敌方身份登场。可能被NPC击落，故需尽早由正树进行说得才能入手。第四次中若最终话前总回合数低于320则会脱队。第四次S则无此事件。加入时机体已完成三阶段改造，但是第四次S则武器无改造，
 
 第四次中一直到倒数第二关才能进行改造。而且还可能脱队，根据路线选择，改造意义可能不是很大。第四次S中则在加入后立刻可以在加入之后新增的剧情之前进行改造。
@@ -1824,6 +1828,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
 
 .. _srw4_units_zamzeed_commentBegin:
+
 魔装机里加入比其他人早得多。数据不错的机体，甚至有罕见的HP回复（大），但是被驾驶员拖累了。
 
 具有地下移动能力，可以在敌人Boss旁边安全地放脱力，所以将等级刷高一点攒SP是个不错的主义。
@@ -2039,6 +2044,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
 
 .. _srw4_units_grannvale_commentBegin:
+
 古兰维尔登场太晚，在第四次中就算登场也不会立刻加入而是在AB两队的战斗中增援，一直到倒数第二话才可以开始改造，倒数第二话完了还可能离队而导致无改造机会。第四次S则早早加入A队，可以在关键的\ :ref:`栄光の落日 <srw4_walkthrough_36_glorious_sunset>`\ 中充当主力。
 
 第四次S中虽然宇宙地形适应提升到了A，但是因为黄炎龙本人的地形适应没有提升，所以最后还是无变化。另外，地图武器的威力增加，消耗有所降低。必杀技在第四次S中的动画有所改变。
@@ -2210,6 +2216,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
 
 .. _srw4_units_gaddeath_commentBegin:
+
 加蒂斯在第四次中和和古兰维尔一样有加入太晚甚至可能离队而导致无法改造的问题。同样这个问题在第四次S中得到改善。
 
 第四次S中地图武器的威力增加，消耗有所降低。
@@ -2382,6 +2389,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
 
 .. _srw4_units_granzon_commentBegin:
+
 古兰森是剧情中至关重要的角色。包括《EX》中的拉·吉亚斯事件在内，不可思议的偶然事件频发被揭示为源于其黑洞引擎"奇点"的作用。
 
 作为隐藏要素，根据最终话前总回合数可成为同伴，若总回合数超标，根据选择项不同，可能驾驶真古兰森瞬间击杀最终BOSS后再度袭击我军。
@@ -2687,6 +2695,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
 
 .. _srw4_units_nors_ray_commentBegin:
+
 作为白河愁的同伴作为敌人登场。需注意莫妮卡等级为99，但因极限反应值较低易被命中，且耐久力较低，可以作为优先攻击对象。可使用维修装置，若放任不管可能导致敌机通过维修装置恢复状态。值得一提的是，在本作的重制版《F》及《F完结篇》中，她却莫名缺席（仅存未使用的数据）。
 
 作为隐藏要素之一，与会和白河愁一同加入队伍。虽在最终话前夕加入，但未经改造的莫妮卡等级远不及敌方时期，若要使用则宜作为精神指令要员。
@@ -3129,6 +3138,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
 
 .. _srw4_units_garoica_commentBegin:
+
 开局被DC大量使用，暗示了他们背后是ゲスト。尽管宇宙适应是A，但是在太空地图上看不到它。不知为何被エリカ在荒野の死闘开出来。
 
 杂鱼机里面非常值钱的，让我纠结击落时是不是要用幸运。
@@ -4685,9 +4695,10 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
 
 .. _srw4_units_gespenst_mk_ii_commentBegin:
+
 仅以真实系机体身份登场的亡灵Mk-II。该机体及其驾驶员基利亚姆均以NPC身份登场，不会加入我方阵营。
 
-在"飞翔的魔神Z"剧情中，它会干扰米诺夫斯基飞船的获取并劫掠资金；而在"露恩·卡普里奇奥"剧情中，则会协助摧毁瓦尔西奥涅R。
+在"飞翔的魔神Z"剧情中，它会干扰米诺夫斯基飞船的获取并劫掠资金；而在"琉妮·卡普里奇奥"剧情中，则会协助摧毁瓦尔西奥涅R。
 
 第四次S中对斩击者攻击力进行了上调，并在部分剧本中开放操作权限，由此确保玩家能在"飞翔的魔神Z"剧本中顺利获取米诺夫斯基飞行器。
 

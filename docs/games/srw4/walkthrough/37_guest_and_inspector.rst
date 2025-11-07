@@ -27,7 +27,7 @@ While in space, most of the New DC are destroyed, but Haman Karn and Anavel Gato
 * ライグ＝ゲイオス（ゼブリ-ズ=フルシュワ）
 * ゼラニオ
 * ゲイオス＝グルード
-* レストグランシェ ×5
+* レストグランシュ ×5
 * グラシドゥ＝リュ ×3
 * レストレイル ×3
 * カレイツェド ×6
@@ -43,7 +43,7 @@ While in space, most of the New DC are destroyed, but Haman Karn and Anavel Gato
 --------------------
 敌方2初始配置
 --------------------
-* ザムス•ガル（エギーユ＝デラーズ）
+* ザムス・ガル（エギーユ＝デラーズ）
 * キュベレイ（ハマーン＝カーン）
 * GP-02A（アナベル＝ガトー）
 
@@ -58,7 +58,7 @@ While in space, most of the New DC are destroyed, but Haman Karn and Anavel Gato
 
    * レウルーラ（ジャマイカン＝ダニンガン）
    * α・アジール（ゲーツ＝キャパ）
-   * サイコガンダムmkII(MS) （ロザミア＝バダム）
+   * サイコガンダムmkII(MA) （ロザミア＝バダム）
    * ドーベンウルフ（ジェリド＝メサ）
    * ドーベンウルフ（マウアー＝ファラオ）
    * ドーベンウルフ ×2

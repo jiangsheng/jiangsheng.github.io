@@ -56,7 +56,7 @@ Looks like you are not along, DC and Titans are also coming to the crash site.
 * グール （あしゅら男爵）
 * ドム
 * ザク改
-* 機械獣ダブラスＭ２
+* 機械獣ダブラスM2
 * ミニフォー ×3
 
 --------------------
@@ -65,8 +65,8 @@ Looks like you are not along, DC and Titans are also coming to the crash site.
 左
 
 * グール （ブロッケン伯爵）
-* 機械獣トロスＤ７
-* メカザウルス•バド ×2
+* 機械獣トロスD7
+* メカザウルス・バド ×2
 
 -------------
 地图物品
