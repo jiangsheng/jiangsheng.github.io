@@ -66,8 +66,8 @@
       | 路线A : 日本海侧
       | :ref:`カツ <srw4_pilots_ms_z_gundam>`\  :ref:`Gディフェンサー <srw4_units_ms_z_gundam>`
       | :ref:`ジェガン <srw4_units_ms_gundam_char_s_counterattack>`\ :ref:`サラ <srw4_pilots_ms_z_gundam>`\ 
-      | :ref:`ガブスレイ <srw4_unit_gabthley_ms>`\  :ref:`Sガンダム <srw4_units_ms_gundam_sentinel>`\ 
-      | :ref:`ExSガンダム <srw4_units_ms_gundam_sentinel>`\  :ref:`ロザミア <srw4_pilots_ms_z_gundam>`\ 
+      | :ref:`ガブスレイ <srw4_unit_gabthley_ms>`\  :ref:`Sガンダム <srw4_units_mobile_suit_gundam_sentinel>`\ 
+      | :ref:`ExSガンダム <srw4_units_mobile_suit_gundam_sentinel>`\  :ref:`ロザミア <srw4_pilots_ms_z_gundam>`\ 
       | 路线B : 太平洋侧
       | ルー
       | 路线C : 日本海侧
@@ -243,7 +243,7 @@
 主人公的系别选择
 ----------------------
 1. 主人公的初期和后期机体取决于在\ :ref:`序幕 <srw4_walkthrough_preclude>`\ 中主角的系别选择。如果选择了真实系是\ :ref:`ゲシュペンスト（リアル）和ヒュッケバイン <srw4_units_banpresto_originals>`\ ，选择了超级系是\ :ref:`ゲシュペンスト（スーパー）和グルンガスト <srw4_units_banpresto_originals>`\ ）。后期机体在\ :doc:`walkthrough/25b_hyper_jerill`\ 战斗之前，或者\ :doc:`walkthrough/26a_londenion`\ 战斗之后获得。可以自定义机体的名称和颜色。ゲシュペンスト可以换成主角恋人驾驶。
-2. 真实系限定\ ::ref:`ガブスレイ <srw4_unit_gabthley_ms>`\ （\ :ref:`サラ <srw4_pilots_ms_z_gundam>`\ ）、\  :ref:`Sガンダム <srw4_units_ms_gundam_sentinel>`\ 和\ :ref:`ExSガンダム <srw4_units_ms_gundam_sentinel>`\ 、\ :ref:`ヤクト・ドーガ <srw4_units_ms_gundam_char_s_counterattack>`\  (\ :ref:`クェス <srw4_pilots_ms_gundam_char_s_counterattack>`\ )、 \ :ref:`クワサン <srw4_pilots_heavy_metal_l_gaim>`\ 、\ :ref:`アシュラテンプル <srw4_units_heavy_metal_l_gaim>`\ （\ :ref:`ギャブレー <srw4_pilots_heavy_metal_l_gaim>`\ ）、\ :ref:`キュベレイMk-IIx2 <srw4_units_ms_gundam_zz>`\ （\ :ref:`プル和プルツー <srw4_pilots_ms_gundam_zz>`\ ）、\ :ref:`GP-02A <srw4_units_ms_gundam_0083>`\ 追加アトミックバズーカ
+2. 真实系限定\ ::ref:`ガブスレイ <srw4_unit_gabthley_ms>`\ （\ :ref:`サラ <srw4_pilots_ms_z_gundam>`\ ）、\  :ref:`Sガンダム <srw4_units_mobile_suit_gundam_sentinel>`\ 和\ :ref:`ExSガンダム <srw4_units_mobile_suit_gundam_sentinel>`\ 、\ :ref:`ヤクト・ドーガ <srw4_units_ms_gundam_char_s_counterattack>`\  (\ :ref:`クェス <srw4_pilots_ms_gundam_char_s_counterattack>`\ )、 \ :ref:`クワサン <srw4_pilots_heavy_metal_l_gaim>`\ 、\ :ref:`アシュラテンプル <srw4_units_heavy_metal_l_gaim>`\ （\ :ref:`ギャブレー <srw4_pilots_heavy_metal_l_gaim>`\ ）、\ :ref:`キュベレイMk-IIx2 <srw4_units_ms_gundam_zz>`\ （\ :ref:`プル和プルツー <srw4_pilots_ms_gundam_zz>`\ ）、\ :ref:`GP-02A <srw4_units_ms_gundam_0083>`\ 追加アトミックバズーカ
 3. 超级系限定：\ :ref:`ダイモス <srw4_units_daimos>`\ 追加武器
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -371,7 +371,7 @@
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-\  :ref:`Sガンダム <srw4_units_ms_gundam_sentinel>`\ 和\ :ref:`ExSガンダム <srw4_units_ms_gundam_sentinel>`\  
+\  :ref:`Sガンダム <srw4_units_mobile_suit_gundam_sentinel>`\ 和\ :ref:`ExSガンダム <srw4_units_mobile_suit_gundam_sentinel>`\  
 ----------------------------------------------------------------------------------------------------------------------------------------
 1. 真实系限定。 
 2. :doc:`walkthrough/20a_old_soldier_s_elegy`\ 这一话过关时选择获得Sガンダム而不是保留ガンタンク。 
@@ -496,7 +496,7 @@ GP-02A追加アトミックバズーカ
 \ :ref:`フォウ <srw4_pilots_ms_z_gundam>`\ 
 --------------------------------------------------------------------
 1. :doc:`walkthrough/31_storm_of_kilimanjaro`\ 和\ :doc:`walkthrough/32_the_day_of_dakar`\ 这两话中由\ :ref:`カミーユ <srw4_pilots_ms_z_gundam>`\ 说得。
-2. 和\ :ref:`ExSガンダム <srw4_units_ms_gundam_sentinel>`\ 和\ :ref:`ロザミア <srw4_pilots_ms_z_gundam>`\ 的加入条件冲突。
+2. 和\ :ref:`ExSガンダム <srw4_units_mobile_suit_gundam_sentinel>`\ 和\ :ref:`ロザミア <srw4_pilots_ms_z_gundam>`\ 的加入条件冲突。
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 \ :ref:`ライネック <srw4_units_dunbine>`\ （\ :ref:`リムル <srw4_pilots_dunbine>`\ ）
@@ -506,7 +506,7 @@ GP-02A追加アトミックバズーカ
 3. :doc:`walkthrough/33a_total_balance`\ 这一话中派ニー出击。 
 4. 会作为我方NPC援军登场，向我方移动，用ニー邻接后撤退。
 5. 战斗后加入。如果邻接之前被敌军击坠，则以非战斗人员身份加入，也不会带来机体。如果邻接之前通关，也不会加入。
-6. 和グラン・ガラン（シーラ）、エル、ベル、\ :ref:`ExSガンダム <srw4_units_ms_gundam_sentinel>`\ 和\ :ref:`ロザミア <srw4_pilots_ms_z_gundam>`\ 的加入条件冲突。
+6. 和グラン・ガラン（シーラ）、エル、ベル、\ :ref:`ExSガンダム <srw4_units_mobile_suit_gundam_sentinel>`\ 和\ :ref:`ロザミア <srw4_pilots_ms_z_gundam>`\ 的加入条件冲突。
 
 -----------------------
 三将军事件

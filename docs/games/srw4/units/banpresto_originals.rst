@@ -2,15 +2,16 @@
    :description: バンプレストオリジナル机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。ヒュッケバイン, グルンガスト, ウイングガスト, ガストランダー, サイバスター, サイバード, グランゾン, ネオ·グランゾン, ヴァルシオーネR, ザムジード, グランヴェール, ガッデス, ウィーゾル改, ノルス・レイ, ガディフォール, ゲシュペンスト（リアル）, メカギルギルガン, ヴァルシオン, ゲシュペンスト（スーパー）, ガロイカ, カレイツェド, レストレイル, グラシドゥ＝リュ, レストグランシュ, ゼラニオ, ゲイオス＝グルード, ライグ＝ゲイオス, バラン＝シュナイル, ゲシュペンスト Mk-II, ニセサイバスター 
 .. _srw4_units_banpresto_originals:
 
-==========================
-バンプレストオリジナル机体
-==========================
+==============================
+バンプレストオリジナル登场机体
+==============================
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。
 
-.. _srw4_units_banpresto_originals_franchise_commentBegin:
+.. _srw4_units_banpresto_originals_commentBegin:
 
-.. _srw4_units_banpresto_originals_franchise_commentEnd:
+
+.. _srw4_units_banpresto_originals_commentEnd:
 
 --------
 我军机体
@@ -23,7 +24,7 @@
 ゲシュペンスト（リアル）
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. _srw4_units_gespenst_real:
+.. _srw4_unit_gespenst_real:
 
 
 
@@ -163,20 +164,20 @@
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_gespenst_real_commentBegin:
+.. _srw4_unit_gespenst_real_commentBegin:
 
 中子射线居然不算光线武器，使得敌方重战机和奥拉系的光线防御无效，简直是作弊啊。具有光线防御，很适合和机动战士系以及重战机系敌人战斗。
 
 陆A的机体比较少见，即使是在主人公换乘凶鸟之后，亡灵在副主人公驾驶下也很活跃。机动战士系好机体本来就少，这部机体在主人公换机之后只能副主人公开，远攻本来就差一截的副主人公还是别跟新人类去抢机体了。
 
 PS版不知为何将对空适应提升了，然而因为地形适应是取人物和机体的平均值并向下取整，这个修改并无什么影响。
-.. _srw4_units_gespenst_real_commentEnd:
+.. _srw4_unit_gespenst_real_commentEnd:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 ゲシュペンスト（スーパー）
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. _srw4_units_gespenst_super:
+.. _srw4_unit_gespenst_super:
 
 
 
@@ -317,18 +318,18 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_gespenst_super_commentBegin:
+.. _srw4_unit_gespenst_super_commentBegin:
 
 スマッシュビーム仍旧不算光线武器，而且消耗小，可以尽快改造。具有光线防御，很适合和机动战士系以及重战机系敌人战斗。陆A的机体比较少见，即使是在主人公换乘古伦加斯特之后，亡灵在副主人公驾驶下也很活跃。另外宇宙适应也是A，虽然攻击力不算出色，但是在超级系后期宇宙战普遍乏力时也算一个不错的战力。
 
 机动战士系好机体本来就少，远攻本来就差一截的副主人公还是别跟4大新人类去抢机体了。
-.. _srw4_units_gespenst_super_commentEnd:
+.. _srw4_unit_gespenst_super_commentEnd:
 
 ^^^^^^^^^^^^^^
 ヒュッケバイン
 ^^^^^^^^^^^^^^
 
-.. _srw4_units_huckebein:
+.. _srw4_unit_huckebein:
 
 
 
@@ -489,7 +490,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item::
         :class: flex-break
 
-    .. grid-item:: ﾛｼｭｾｲﾊﾞｰ🤛Ⓟ
+    .. grid-item:: ロシュセイバー🤛Ⓟ
         :columns: 3
 
     .. grid-item:: 2100(2200)
@@ -509,7 +510,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item::
         :class: flex-break
 
-    .. grid-item:: ﾘｰﾌﾟｽﾗｯｼｬｰ⚔
+    .. grid-item:: リープスラッシャー⚔
         :columns: 3
 
     .. grid-item:: 2800
@@ -529,7 +530,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item::
         :class: flex-break
 
-    .. grid-item:: ﾌﾞﾗｯｸﾎｰﾙｷｬﾉﾝ
+    .. grid-item:: ブラックホールキャノン
         :columns: 3
 
     .. grid-item:: 3200
@@ -550,7 +551,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_huckebein_commentBegin:
+.. _srw4_unit_huckebein_commentBegin:
 
 
 凶鸟外观是一部高达，虽然设计者是同一个人，但由于版权属于公司或其他原因，存在侵犯版权的情况，以至于在后续作品中消失了很长一段时间。
@@ -559,13 +560,13 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 弱点是不能飞，有时不能迅速支援，好在移动力也很出色。如果加装ミノフスキークラフト的话，因为对空适应和机师综合起来是B，所以也是能正常发挥的。
 
-.. _srw4_units_huckebein_commentEnd:
+.. _srw4_unit_huckebein_commentEnd:
 
 ^^^^^^^^^^^^
 グルンガスト
 ^^^^^^^^^^^^
 
-.. _srw4_units_grungust:
+.. _srw4_unit_grungust:
 
 
 
@@ -704,7 +705,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item::
         :class: flex-break
 
-    .. grid-item:: ﾌﾞｰｽﾄﾅｯｸﾙ⚔Ⓟ
+    .. grid-item:: ブーストナックル⚔Ⓟ
         :columns: 3
 
     .. grid-item:: 1200(1500)
@@ -766,7 +767,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_grungust_commentBegin:
+.. _srw4_unit_grungust_commentBegin:
 
 可以自定义机体名字，グルンガストビーム的名字也随之更改。F完结篇中グルンガストビーム改名成ファイナルビーム，大概是因为加入了声优名字必须固定的原因。
 
@@ -774,13 +775,13 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 账面数据好看但是因为空B陆B的原因，威力并不是那么大，只能在宇宙发挥最大威力，问题宇宙地图又不是很多，所以是看起来华丽的类型。如果生日有魂或者奇迹的话，可以将任何敌人一击杀，包括最终Boss。除去大招之外，即使是加了攻击的PS版本，攻击力也和普通机动战士相差不多，并不适合对付杂鱼。如果有EN回复地形的话，可以拿来打比较难缠的小怪。
 
-.. _srw4_units_grungust_commentEnd:
+.. _srw4_unit_grungust_commentEnd:
 
 ^^^^^^^^^^^^^^
 ウイングガスト
 ^^^^^^^^^^^^^^
 
-.. _srw4_units_wing_gust:
+.. _srw4_unit_wing_gust:
 
 
 
@@ -921,7 +922,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_wing_gust_commentBegin:
+.. _srw4_unit_wing_gust_commentBegin:
 
 虽然是移动用的形态但是也有对空和宇宙很实用的格斗武器，尤其是对空适应是A，攻击和防御力比机器人形态要强一些。
 
@@ -929,13 +930,13 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 [第四次S]大招不知为何变成了1格射击武器。不再有地形惩罚。
 
-.. _srw4_units_wing_gust_commentEnd:
+.. _srw4_unit_wing_gust_commentEnd:
 
 ^^^^^^^^^^^^^^
 ガストランダー
 ^^^^^^^^^^^^^^
 
-.. _srw4_units_gust_lander:
+.. _srw4_unit_gust_lander:
 
 
 
@@ -1074,17 +1075,17 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_gust_lander_commentBegin:
+.. _srw4_unit_gust_lander_commentBegin:
 
 重战车形态，大招威力有不反应改造段数的问题。装甲比较厚的炮台，也不畏惧近身的敌人。但是本作并不缺乏真实系来当炮台，所以……
 
-.. _srw4_units_gust_lander_commentEnd:
+.. _srw4_unit_gust_lander_commentEnd:
 
 ^^^^^^^^^^^^
 サイバスター
 ^^^^^^^^^^^^
 
-.. _srw4_units_cybuster:
+.. _srw4_unit_cybuster:
 
 
 
@@ -1286,7 +1287,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_cybuster_commentBegin:
+.. _srw4_unit_cybuster_commentBegin:
 
 范围很广的サイフラッシュ是消耗EN的，所以改满EN可以放三发。尽管数值很高，但是因为刷级容易，别的武器基本没有改造必要。
 
@@ -1302,13 +1303,13 @@ The firebird would be as large as the enemy, so he must be summoning a big one f
 
 He must have excellent drawing skills to draw circles that exactly matches the various enemy sizes.
 
-.. _srw4_units_cybuster_commentEnd:
+.. _srw4_unit_cybuster_commentEnd:
 
 ^^^^^^^^^^
 サイバード
 ^^^^^^^^^^
 
-.. _srw4_units_cybird:
+.. _srw4_unit_cybird:
 
 
 
@@ -1447,17 +1448,17 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_cybird_commentBegin:
+.. _srw4_unit_cybird_commentBegin:
 
 飞行形态，移动力上升，装甲和运动型下降，另外少了很多武器。鉴于经常只有地图武器被改造，用这个模式战斗也无不可。但是碰见强大的敌人还是建议变成机器人形态然后降落到有利地形获得加成。
 
-.. _srw4_units_cybird_commentEnd:
+.. _srw4_unit_cybird_commentEnd:
 
 ^^^^^^^^^^^^^^^^
 ヴァルシオーネR
 ^^^^^^^^^^^^^^^^
 
-.. _srw4_units_valsione_r:
+.. _srw4_unit_valsione_r:
 
 
 
@@ -1636,19 +1637,19 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_valsione_r_commentBegin:
+.. _srw4_unit_valsione_r_commentBegin:
 
 以敌方身份登场。可能被NPC击落，故需尽早由正树进行说得才能入手。第四次中若最终话前总回合数低于320则会脱队。第四次S则无此事件。加入时机体已完成三阶段改造，但是第四次S则武器无改造，
 
 第四次中一直到倒数第二关才能进行改造。而且还可能脱队，根据路线选择，改造意义可能不是很大。第四次S中则在加入后立刻可以在加入之后新增的剧情之前进行改造。
 
-.. _srw4_units_valsione_r_commentEnd:
+.. _srw4_unit_valsione_r_commentEnd:
 
 ^^^^^^^^^^
 ザムジード
 ^^^^^^^^^^
 
-.. _srw4_units_zamzeed:
+.. _srw4_unit_zamzeed:
 
 
 
@@ -1827,7 +1828,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_zamzeed_commentBegin:
+.. _srw4_unit_zamzeed_commentBegin:
 
 魔装机里加入比其他人早得多。数据不错的机体，甚至有罕见的HP回复（大），但是被驾驶员拖累了。
 
@@ -1837,13 +1838,13 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 第四次S中对空和宇宙的适应都从B提到了A，地图武器的威力也大大上升，消耗更是减少，实用性大大增强。
 
-.. _srw4_units_zamzeed_commentEnd:
+.. _srw4_unit_zamzeed_commentEnd:
 
 ^^^^^^^^^^^^^^
 グランヴェール
 ^^^^^^^^^^^^^^
 
-.. _srw4_units_grannvale:
+.. _srw4_unit_grannvale:
 
 
 
@@ -2043,19 +2044,19 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_grannvale_commentBegin:
+.. _srw4_unit_grannvale_commentBegin:
 
 古兰维尔登场太晚，在第四次中就算登场也不会立刻加入而是在AB两队的战斗中增援，一直到倒数第二话才可以开始改造，倒数第二话完了还可能离队而导致无改造机会。第四次S则早早加入A队，可以在关键的\ :ref:`栄光の落日 <srw4_walkthrough_36_glorious_sunset>`\ 中充当主力。
 
 第四次S中虽然宇宙地形适应提升到了A，但是因为黄炎龙本人的地形适应没有提升，所以最后还是无变化。另外，地图武器的威力增加，消耗有所降低。必杀技在第四次S中的动画有所改变。
 
-.. _srw4_units_grannvale_commentEnd:
+.. _srw4_unit_grannvale_commentEnd:
 
 ^^^^^^^^
 ガッデス
 ^^^^^^^^
 
-.. _srw4_units_gaddeath:
+.. _srw4_unit_gaddeath:
 
 
 
@@ -2215,19 +2216,19 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_gaddeath_commentBegin:
+.. _srw4_unit_gaddeath_commentBegin:
 
 加蒂斯在第四次中和和古兰维尔一样有加入太晚甚至可能离队而导致无法改造的问题。同样这个问题在第四次S中得到改善。
 
 第四次S中地图武器的威力增加，消耗有所降低。
 
-.. _srw4_units_gaddeath_commentEnd:
+.. _srw4_unit_gaddeath_commentEnd:
 
 ^^^^^^^^^^
 グランゾン
 ^^^^^^^^^^
 
-.. _srw4_units_granzon:
+.. _srw4_unit_granzon:
 
 
 
@@ -2388,7 +2389,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_granzon_commentBegin:
+.. _srw4_unit_granzon_commentBegin:
 
 古兰森是剧情中至关重要的角色。包括《EX》中的拉·吉亚斯事件在内，不可思议的偶然事件频发被揭示为源于其黑洞引擎"奇点"的作用。
 
@@ -2396,13 +2397,13 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 虽然作为盟友时性能相当强劲，但最终话需与精锐机体激战，难度极高甚至可能陷入绝境。加之其加入时未经过改造，且白河愁的精神指令也欠佳，即便费尽周折将其招募，最终也难以成为有效战力，实属遗憾。相反，同时加入的其他两个人物因为精神尚佳，更易获得出场机会。
 
-.. _srw4_units_granzon_commentEnd:
+.. _srw4_unit_granzon_commentEnd:
 
 ^^^^^^^^^^^^
 ウィーゾル改
 ^^^^^^^^^^^^
 
-.. _srw4_units_weesol_kai:
+.. _srw4_unit_weesol_kai:
 
 
 
@@ -2541,7 +2542,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_weesol_kai_commentBegin:
+.. _srw4_unit_weesol_kai_commentBegin:
 
 虽曾在战场中多次出现，但实际参战仅限于特定情况下的最终话。敌对时虽处于全改造+气力MAX的强化状态，但因同时登场的瓦尔西昂和新古兰森更具压倒性优势，结果反而显得不够强悍。
 
@@ -2549,13 +2550,13 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 第四次S新增剧本中实现提前参战。此时虽然机体处于全改造状态，但是正式加入时机体状态将恢复为未改造。此外，陆地和宇宙地形适应性提升至A级，但萨菲妮自身能力未变，宇宙地形适应性仍维持B级，仅有地面适应得到提升。另外，武器威力有所增加。
 
-.. _srw4_units_weesol_kai_commentEnd:
+.. _srw4_unit_weesol_kai_commentEnd:
 
 ^^^^^^^^^^^^
 ノルス・レイ
 ^^^^^^^^^^^^
 
-.. _srw4_units_nors_ray:
+.. _srw4_unit_nors_ray:
 
 
 
@@ -2694,7 +2695,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_nors_ray_commentBegin:
+.. _srw4_unit_nors_ray_commentBegin:
 
 作为白河愁的同伴作为敌人登场。需注意莫妮卡等级为99，但因极限反应值较低易被命中，且耐久力较低，可以作为优先攻击对象。可使用维修装置，若放任不管可能导致敌机通过维修装置恢复状态。值得一提的是，在本作的重制版《F》及《F完结篇》中，她却莫名缺席（仅存未使用的数据）。
 
@@ -2702,332 +2703,20 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 第四次S作为敌方登场时，其等级较SFC版进一步降低，存在感愈发稀薄。另外，除海洋地形外，其他地形适应性虽从B级提升至A级，但莫妮卡自身适应性未变，实际仅提升了陆地的地形适应性。无论如何，其作为战力的薄弱程度与SFC版如出一辙。
 
-.. _srw4_units_nors_ray_commentEnd:
+.. _srw4_unit_nors_ray_commentEnd:
 
 --------
 敌军机体
 --------
-.. _srw4_units_banpresto_originals_enemy_commentBegin:
+.. _srw4_unit_banpresto_originals_enemy_commentBegin:
 
-.. _srw4_units_banpresto_originals_enemy_commentEnd:
-
-^^^^^^^^^^^^^^^^
-ネオ·グランゾン
-^^^^^^^^^^^^^^^^
-
-.. _srw4_units_neo_granzon:
-
-
-
-.. grid:: 
-    :gutter: 3
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item::
-        :columns: auto
-
-        .. image:: ../units/images/portrait/srw4_units_portrait_56.png
-
-    .. grid-item::
-        :columns: auto
-
-        | HP 60000 (65000)
-        | EN 255
-        | 装甲 2200 (2500)
-        | 运动性 65
-        | 限界 240 (255)
-
-    .. grid-item::
-        :columns: auto
-
-        | 编码 56
-        | Snes地址 BA4A1
-        | PS地址 27190
-        | 类型 空陸
-        | 移动力 11
-        | 大小 L
-
-    .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆A
-        | 海A→B
-        | 宇A
-        | 剣装備
-        | HP恢復(大)
-        | 激怒/自爆/てかげん無効
-        | Iフィールド
-
-    .. grid-item::
-        :columns: auto
-
-        .. image:: ../pilots/images/srw4_pilot_1F.png
-
-        | 地形参照
-        | :ref:`シュウ・シラカワ <srw4_pilots_shu_shirakawa>`
-
-
-.. grid:: 
-    :gutter: 3
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 名字
-        :columns: 3
-
-    .. grid-item:: 攻击
-
-    .. grid-item:: 射程
-
-    .. grid-item:: 命中
-
-    .. grid-item:: 暴击
-
-    .. grid-item:: 地形空陆海宇
-        :columns: 3
-
-    .. grid-item:: 残弹/EN
-
-    .. grid-item:: 条件
-
-    .. grid-item::
-        :class: flex-break
-
-    .. grid-item:: ｸﾞﾗﾝﾜｰﾑｿｰﾄﾞ🤛Ⓟ
-        :columns: 3
-
-    .. grid-item:: 1260
-
-    .. grid-item:: 1
-
-    .. grid-item:: +17
-
-    .. grid-item:: +20
-
-    .. grid-item:: 空A陆A海A→B宇A
-        :columns: 3
-
-    .. grid-item:: 
-
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-
-    .. grid-item:: ｸﾞﾗﾋﾞﾄﾛﾝｶﾉﾝ🗺️
-        :columns: 3
-
-    .. grid-item:: 1540(2500)
-
-    .. grid-item:: 1~7
-
-    .. grid-item:: +15
-
-    .. grid-item:: -10
-
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-
-    .. grid-item:: 残弹 3
-
-    .. grid-item:: 必要气力 100
-
-    .. grid-item::
-        :class: flex-break
-
-    .. grid-item:: ﾜｰﾑｽﾏｯｼｬｰ
-        :columns: 3
-
-    .. grid-item:: 2100
-
-    .. grid-item:: 1~9
-
-    .. grid-item:: -5
-
-    .. grid-item:: +10
-
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-
-    .. grid-item:: EN 30
-
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-
-    .. grid-item:: ﾌﾞﾗｯｸﾎｰﾙｸﾗｽﾀｰ
-        :columns: 3
-
-    .. grid-item:: 4200(4600)
-
-    .. grid-item:: 1~9
-
-    .. grid-item:: +2
-
-    .. grid-item:: +20
-
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-
-    .. grid-item:: 残弹 6
-
-    .. grid-item:: 必要气力 130
-
-    .. grid-item::
-        :class: flex-break
-
-    .. grid-item:: 縮退砲
-        :columns: 3
-
-    .. grid-item:: 18000
-
-    .. grid-item:: 1~12
-
-    .. grid-item:: +10 (+15)
-
-    .. grid-item:: +30
-
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-
-    .. grid-item:: 残弹 48 (50)
-
-    .. grid-item:: 必要气力 135 (0)
-
-    .. grid-item::
-        :class: flex-break
-
-.. _srw4_units_neo_granzon_commentBegin:
-
-.. _srw4_units_neo_granzon_commentEnd:
-
-^^^^^^^^^^^^
-ヴァルシオン
-^^^^^^^^^^^^
-
-.. _srw4_units_valsione:
-
-
-
-.. grid:: 
-    :gutter: 3
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item::
-        :columns: auto
-
-        .. image:: ../units/images/portrait/srw4_units_portrait_A9.png
-
-    .. grid-item::
-        :columns: auto
-
-        | HP 39000
-        | EN 255
-        | 装甲 680
-        | 运动性 49
-        | 限界 250
-
-    .. grid-item::
-        :columns: auto
-
-        | 编码 A9
-        | Snes地址 BB2E6
-        | PS地址 27FD5
-        | 类型 空陸
-        | 移动力 9
-        | 大小 L
-
-    .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆A
-        | 海B
-        | 宇A
-        | Iフィールド
-
-
-.. grid:: 
-    :gutter: 3
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 名字
-        :columns: 3
-
-    .. grid-item:: 攻击
-
-    .. grid-item:: 射程
-
-    .. grid-item:: 命中
-
-    .. grid-item:: 暴击
-
-    .. grid-item:: 地形空陆海宇
-        :columns: 3
-
-    .. grid-item:: 残弹/EN
-
-    .. grid-item:: 条件
-
-    .. grid-item::
-        :class: flex-break
-
-    .. grid-item:: ﾃﾞｨﾊﾞｲﾝｱｰﾑ🤛Ⓟ
-        :columns: 3
-
-    .. grid-item:: 1470
-
-    .. grid-item:: 1
-
-    .. grid-item:: +5
-
-    .. grid-item:: +20
-
-    .. grid-item:: 空A陆A海A→B宇A
-        :columns: 3
-
-    .. grid-item:: 
-
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-
-    .. grid-item:: ｸﾛｽﾏｯｼｬｰ
-        :columns: 3
-
-    .. grid-item:: 1980(2180)
-
-    .. grid-item:: 1~7
-
-    .. grid-item:: -4
-
-    .. grid-item:: +10
-
-    .. grid-item:: 空A陆A海C宇A
-        :columns: 3
-
-    .. grid-item:: 残弹 16
-
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-
-.. _srw4_units_valsione_commentBegin:
-
-.. _srw4_units_valsione_commentEnd:
+.. _srw4_unit_banpresto_originals_enemy_commentEnd:
 
 ^^^^^^^^
 ガロイカ
 ^^^^^^^^
 
-.. _srw4_units_garoica:
+.. _srw4_unit_garoica:
 
 
 
@@ -3137,19 +2826,19 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_garoica_commentBegin:
+.. _srw4_unit_garoica_commentBegin:
 
 开局被DC大量使用，暗示了他们背后是ゲスト。尽管宇宙适应是A，但是在太空地图上看不到它。不知为何被エリカ在荒野の死闘开出来。
 
 杂鱼机里面非常值钱的，让我纠结击落时是不是要用幸运。
 
-.. _srw4_units_garoica_commentEnd:
+.. _srw4_unit_garoica_commentEnd:
 
 ^^^^^^^^^^^^
 カレイツェド
 ^^^^^^^^^^^^
 
-.. _srw4_units_kaleitsed:
+.. _srw4_unit_kaleitsed:
 
 
 
@@ -3319,15 +3008,15 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_kaleitsed_commentBegin:
+.. _srw4_unit_kaleitsed_commentBegin:
 
-.. _srw4_units_kaleitsed_commentEnd:
+.. _srw4_unit_kaleitsed_commentEnd:
 
 ^^^^^^^^^^^^
 レストレイル
 ^^^^^^^^^^^^
 
-.. _srw4_units_rest_rail:
+.. _srw4_unit_rest_rail:
 
 
 
@@ -3477,15 +3166,15 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_rest_rail_commentBegin:
+.. _srw4_unit_rest_rail_commentBegin:
 
-.. _srw4_units_rest_rail_commentEnd:
+.. _srw4_unit_rest_rail_commentEnd:
 
 ^^^^^^^^^^^^^^^^
 グラシドゥ＝リュ
 ^^^^^^^^^^^^^^^^
 
-.. _srw4_units_grassidow_ryu:
+.. _srw4_unit_grassidow_ryu:
 
 
 
@@ -3615,359 +3304,15 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_grassidow_ryu_commentBegin:
+.. _srw4_unit_grassidow_ryu_commentBegin:
 
-.. _srw4_units_grassidow_ryu_commentEnd:
-
-^^^^^^^^^^^^^^^^
-レストグランシュ
-^^^^^^^^^^^^^^^^
-
-.. _srw4_units_rest_granshu:
-
-
-
-.. grid:: 
-    :gutter: 3
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item::
-        :columns: auto
-
-        .. image:: ../units/images/portrait/srw4_units_portrait_E7.png
-
-    .. grid-item::
-        :columns: auto
-
-        | HP 7000
-        | EN 255
-        | 装甲 700
-        | 运动性 42
-        | 限界 230
-
-    .. grid-item::
-        :columns: auto
-
-        | 编码 E7
-        | Snes地址 BBDAB
-        | PS地址 28A9A
-        | 类型 空陸
-        | 移动力 8
-        | 大小 L
-
-    .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆A
-        | 海A
-        | 宇A
-
-
-.. grid:: 
-    :gutter: 3
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 名字
-        :columns: 3
-
-    .. grid-item:: 攻击
-
-    .. grid-item:: 射程
-
-    .. grid-item:: 命中
-
-    .. grid-item:: 暴击
-
-    .. grid-item:: 地形空陆海宇
-        :columns: 3
-
-    .. grid-item:: 残弹/EN
-
-    .. grid-item:: 条件
-
-    .. grid-item::
-        :class: flex-break
-
-    .. grid-item:: レーザーバルカンⓅ
-        :columns: 3
-
-    .. grid-item:: 1040
-
-    .. grid-item:: 1
-
-    .. grid-item:: +13
-
-    .. grid-item:: -10
-
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-
-    .. grid-item:: 残弹 25
-
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-
-    .. grid-item:: ﾗﾝﾁｬｰﾐｻｲﾙ⚔
-        :columns: 3
-
-    .. grid-item:: 1150
-
-    .. grid-item:: 1~6
-
-    .. grid-item:: -12
-
-    .. grid-item:: -10
-
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-
-    .. grid-item:: 残弹 10
-
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-
-    .. grid-item:: ﾚｰｻﾞｰｷｬﾉﾝ
-        :columns: 3
-
-    .. grid-item:: 1480
-
-    .. grid-item:: 1~8
-
-    .. grid-item:: -2
-
-    .. grid-item:: +10
-
-    .. grid-item:: 空A陆A海🚫宇A
-        :columns: 3
-
-    .. grid-item:: 残弹 22
-
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-
-    .. grid-item:: ﾂｲﾝﾚｰｻﾞｰｿｰﾄﾞ🤛⚔Ⓟ
-        :columns: 3
-
-    .. grid-item:: 1600
-
-    .. grid-item:: 1
-
-    .. grid-item:: +15
-
-    .. grid-item:: +20
-
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-
-    .. grid-item:: 
-
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-
-    .. grid-item:: ﾄﾞﾗｲﾊﾞｰｷｬﾉﾝ
-        :columns: 3
-
-    .. grid-item:: 2020
-
-    .. grid-item:: 2~9
-
-    .. grid-item:: -5
-
-    .. grid-item:: 
-
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-
-    .. grid-item:: 残弹 4
-
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-
-.. _srw4_units_rest_granshu_commentBegin:
-
-.. _srw4_units_rest_granshu_commentEnd:
-
-^^^^^^^^
-ゼラニオ
-^^^^^^^^
-
-.. _srw4_units_zeranio:
-
-
-
-.. grid:: 
-    :gutter: 3
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item::
-        :columns: auto
-
-        .. image:: ../units/images/portrait/srw4_units_portrait_E8.png
-
-    .. grid-item::
-        :columns: auto
-
-        | HP 34000
-        | EN 255
-        | 装甲 1000
-        | 运动性 35
-        | 限界 220
-
-    .. grid-item::
-        :columns: auto
-
-        | 编码 E8
-        | Snes地址 BBDDC
-        | PS地址 28ACB
-        | 类型 宇宙
-        | 移动力 8
-        | 大小 LL
-
-    .. grid-item::
-        :columns: auto
-
-        | 空A (🚫)→A (C)
-        | 陆🚫→D
-        | 海🚫
-        | 宇A
-
-    .. grid-item::
-        :columns: auto
-
-        .. image:: ../pilots/images/srw4_pilot_DB.png
-
-        | 地形参照
-        | :ref:`ギワザ・ロワウ <srw4_pilots_giwaza_lowau>`
-
-
-.. grid:: 
-    :gutter: 3
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 名字
-        :columns: 3
-
-    .. grid-item:: 攻击
-
-    .. grid-item:: 射程
-
-    .. grid-item:: 命中
-
-    .. grid-item:: 暴击
-
-    .. grid-item:: 地形空陆海宇
-        :columns: 3
-
-    .. grid-item:: 残弹/EN
-
-    .. grid-item:: 条件
-
-    .. grid-item::
-        :class: flex-break
-
-    .. grid-item:: レーザーバルカンⓅ
-        :columns: 3
-
-    .. grid-item:: 1040
-
-    .. grid-item:: 1
-
-    .. grid-item:: +13
-
-    .. grid-item:: -10
-
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-
-    .. grid-item:: 残弹 25
-
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-
-    .. grid-item:: 小型ミサイル⚔
-        :columns: 3
-
-    .. grid-item:: 1100
-
-    .. grid-item:: 1~6
-
-    .. grid-item:: -15
-
-    .. grid-item:: -10
-
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-
-    .. grid-item:: 残弹 10
-
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-
-    .. grid-item:: 大型ミサイル⚔
-        :columns: 3
-
-    .. grid-item:: 1720
-
-    .. grid-item:: 2~7
-
-    .. grid-item:: -20
-
-    .. grid-item:: -10
-
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-
-    .. grid-item:: 残弹 25
-
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-
-    .. grid-item:: 荷電粒子ﾋﾞｰﾑⒷ
-        :columns: 3
-
-    .. grid-item:: 2100
-
-    .. grid-item:: 2~7
-
-    .. grid-item:: -20
-
-    .. grid-item:: +10
-
-    .. grid-item:: 空A陆A海🚫宇A
-        :columns: 3
-
-    .. grid-item:: 残弹 18
-
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-
-.. _srw4_units_zeranio_commentBegin:
-
-.. _srw4_units_zeranio_commentEnd:
+.. _srw4_unit_grassidow_ryu_commentEnd:
 
 ^^^^^^^^^^^^^^^^^^
 ゲイオス＝グルード
 ^^^^^^^^^^^^^^^^^^
 
-.. _srw4_units_geios_glud:
+.. _srw4_unit_geios_glud:
 
 
 
@@ -4145,15 +3490,15 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_geios_glud_commentBegin:
+.. _srw4_unit_geios_glud_commentBegin:
 
-.. _srw4_units_geios_glud_commentEnd:
+.. _srw4_unit_geios_glud_commentEnd:
 
 ^^^^^^^^^^^^^^^^
 ライグ＝ゲイオス
 ^^^^^^^^^^^^^^^^
 
-.. _srw4_units_lige_geios:
+.. _srw4_unit_lige_geios:
 
 
 
@@ -4351,15 +3696,193 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_lige_geios_commentBegin:
+.. _srw4_unit_lige_geios_commentBegin:
 
-.. _srw4_units_lige_geios_commentEnd:
+.. _srw4_unit_lige_geios_commentEnd:
+
+^^^^^^^^^^^^^^^^
+レストグランシュ
+^^^^^^^^^^^^^^^^
+
+.. _srw4_unit_rest_granshu:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_E7.png
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 7000
+        | EN 255
+        | 装甲 700
+        | 运动性 42
+        | 限界 230
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 E7
+        | Snes地址 BBDAB
+        | PS地址 28A9A
+        | 类型 空陸
+        | 移动力 8
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A
+        | 陆A
+        | 海A
+        | 宇A
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: レーザーバルカンⓅ
+        :columns: 3
+
+    .. grid-item:: 1040
+
+    .. grid-item:: 1
+
+    .. grid-item:: +13
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 25
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾗﾝﾁｬｰﾐｻｲﾙ⚔
+        :columns: 3
+
+    .. grid-item:: 1150
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -12
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 10
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾚｰｻﾞｰｷｬﾉﾝ
+        :columns: 3
+
+    .. grid-item:: 1480
+
+    .. grid-item:: 1~8
+
+    .. grid-item:: -2
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 22
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾂｲﾝﾚｰｻﾞｰｿｰﾄﾞ🤛⚔Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1600
+
+    .. grid-item:: 1
+
+    .. grid-item:: +15
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾄﾞﾗｲﾊﾞｰｷｬﾉﾝ
+        :columns: 3
+
+    .. grid-item:: 2020
+
+    .. grid-item:: 2~9
+
+    .. grid-item:: -5
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 4
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_rest_granshu_commentBegin:
+
+.. _srw4_unit_rest_granshu_commentEnd:
 
 ^^^^^^^^^^^^^^^^^^
 バラン＝シュナイル
 ^^^^^^^^^^^^^^^^^^
 
-.. _srw4_units_baran_schnile:
+.. _srw4_unit_baran_schnile:
 
 
 
@@ -4519,22 +4042,500 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_baran_schnile_commentBegin:
+.. _srw4_unit_baran_schnile_commentBegin:
 
-.. _srw4_units_baran_schnile_commentEnd:
+.. _srw4_unit_baran_schnile_commentEnd:
+
+^^^^^^^^
+ゼラニオ
+^^^^^^^^
+
+.. _srw4_unit_zeranio:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_E8.png
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 34000
+        | EN 255
+        | 装甲 1000
+        | 运动性 35
+        | 限界 220
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 E8
+        | Snes地址 BBDDC
+        | PS地址 28ACB
+        | 类型 宇宙
+        | 移动力 8
+        | 大小 LL
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A (🚫)→A (C)
+        | 陆🚫→D
+        | 海🚫
+        | 宇A
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_DB.png
+
+        | 地形参照
+        | :ref:`ギワザ・ロワウ <srw4_pilots_giwaza_lowau>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: レーザーバルカンⓅ
+        :columns: 3
+
+    .. grid-item:: 1040
+
+    .. grid-item:: 1
+
+    .. grid-item:: +13
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 25
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 小型ミサイル⚔
+        :columns: 3
+
+    .. grid-item:: 1100
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -15
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 10
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 大型ミサイル⚔
+        :columns: 3
+
+    .. grid-item:: 1720
+
+    .. grid-item:: 2~7
+
+    .. grid-item:: -20
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 25
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 荷電粒子ﾋﾞｰﾑⒷ
+        :columns: 3
+
+    .. grid-item:: 2100
+
+    .. grid-item:: 2~7
+
+    .. grid-item:: -20
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 18
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_zeranio_commentBegin:
+
+.. _srw4_unit_zeranio_commentEnd:
+
+^^^^^^^^^^^^^^^^
+ネオ·グランゾン
+^^^^^^^^^^^^^^^^
+
+.. _srw4_unit_neo_granzon:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_56.png
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 60000 (65000)
+        | EN 255
+        | 装甲 2200 (2500)
+        | 运动性 65
+        | 限界 240 (255)
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 56
+        | Snes地址 BA4A1
+        | PS地址 27190
+        | 类型 空陸
+        | 移动力 11
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A
+        | 陆A
+        | 海A→B
+        | 宇A
+        | 剣装備
+        | HP恢復(大)
+        | 激怒/自爆/てかげん無効
+        | Iフィールド
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_1F.png
+
+        | 地形参照
+        | :ref:`シュウ・シラカワ <srw4_pilots_shu_shirakawa>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ｸﾞﾗﾝﾜｰﾑｿｰﾄﾞ🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1260
+
+    .. grid-item:: 1
+
+    .. grid-item:: +17
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A陆A海A→B宇A
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ｸﾞﾗﾋﾞﾄﾛﾝｶﾉﾝ🗺️
+        :columns: 3
+
+    .. grid-item:: 1540(2500)
+
+    .. grid-item:: 1~7
+
+    .. grid-item:: +15
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 3
+
+    .. grid-item:: 必要气力 100
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾜｰﾑｽﾏｯｼｬｰ
+        :columns: 3
+
+    .. grid-item:: 2100
+
+    .. grid-item:: 1~9
+
+    .. grid-item:: -5
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: EN 30
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾌﾞﾗｯｸﾎｰﾙｸﾗｽﾀｰ
+        :columns: 3
+
+    .. grid-item:: 4200(4600)
+
+    .. grid-item:: 1~9
+
+    .. grid-item:: +2
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 6
+
+    .. grid-item:: 必要气力 130
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 縮退砲
+        :columns: 3
+
+    .. grid-item:: 18000
+
+    .. grid-item:: 1~12
+
+    .. grid-item:: +10 (+15)
+
+    .. grid-item:: +30
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 48 (50)
+
+    .. grid-item:: 必要气力 135 (0)
+
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_neo_granzon_commentBegin:
+
+.. _srw4_unit_neo_granzon_commentEnd:
+
+^^^^^^^^^^^^
+ヴァルシオン
+^^^^^^^^^^^^
+
+.. _srw4_unit_valsione:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_A9.png
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 39000
+        | EN 255
+        | 装甲 680
+        | 运动性 49
+        | 限界 250
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 A9
+        | Snes地址 BB2E6
+        | PS地址 27FD5
+        | 类型 空陸
+        | 移动力 9
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A
+        | 陆A
+        | 海B
+        | 宇A
+        | Iフィールド
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾃﾞｨﾊﾞｲﾝｱｰﾑ🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1470
+
+    .. grid-item:: 1
+
+    .. grid-item:: +5
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A陆A海A→B宇A
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ｸﾛｽﾏｯｼｬｰ
+        :columns: 3
+
+    .. grid-item:: 1980(2180)
+
+    .. grid-item:: 1~7
+
+    .. grid-item:: -4
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海C宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 16
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_valsione_commentBegin:
+
+.. _srw4_unit_valsione_commentEnd:
 
 --------
 盟军机体
 --------
-.. _srw4_units_banpresto_originals_ally_commentBegin:
+.. _srw4_unit_banpresto_originals_ally_commentBegin:
 
-.. _srw4_units_banpresto_originals_ally_commentEnd:
+.. _srw4_unit_banpresto_originals_ally_commentEnd:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 ゲシュペンスト Mk-II
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. _srw4_units_gespenst_mk_ii:
+.. _srw4_unit_gespenst_mk_ii:
 
 
 
@@ -4694,7 +4695,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_gespenst_mk_ii_commentBegin:
+.. _srw4_unit_gespenst_mk_ii_commentBegin:
 
 仅以真实系机体身份登场的亡灵Mk-II。该机体及其驾驶员基利亚姆均以NPC身份登场，不会加入我方阵营。
 
@@ -4702,20 +4703,20 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 第四次S中对斩击者攻击力进行了上调，并在部分剧本中开放操作权限，由此确保玩家能在"飞翔的魔神Z"剧本中顺利获取米诺夫斯基飞行器。
 
-.. _srw4_units_gespenst_mk_ii_commentEnd:
+.. _srw4_unit_gespenst_mk_ii_commentEnd:
 
 --------
 中立机体
 --------
-.. _srw4_units_banpresto_originals_neutral_commentBegin:
+.. _srw4_unit_banpresto_originals_neutral_commentBegin:
 
-.. _srw4_units_banpresto_originals_neutral_commentEnd:
+.. _srw4_unit_banpresto_originals_neutral_commentEnd:
 
 ^^^^^^^^^^^^^^
 ガディフォール
 ^^^^^^^^^^^^^^
 
-.. _srw4_units_gadifal:
+.. _srw4_unit_gadifal:
 
 
 
@@ -4894,7 +4895,176 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item::
         :class: flex-break
 
-.. _srw4_units_gadifal_commentBegin:
+.. _srw4_unit_gadifal_commentBegin:
 
-.. _srw4_units_gadifal_commentEnd:
+.. _srw4_unit_gadifal_commentEnd:
+
+----------
+未登场机体
+----------
+.. _srw4_unit_banpresto_originals_dead_data_commentBegin:
+
+
+.. _srw4_unit_banpresto_originals_dead_data_commentEnd:
+
+^^^^^^^^^^^^^^^^
+ニセサイバスター
+^^^^^^^^^^^^^^^^
+
+.. _srw4_unit_fake_cybuster:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_10C.png
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 3200
+        | EN 200
+        | 装甲 320
+        | 运动性 37
+        | 限界 200
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 10C
+        | Snes地址 BC3D0
+        | PS地址 290BC
+        | 类型 空陸
+        | 移动力 9
+        | 大小 M
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A
+        | 陆A
+        | 海D
+        | 宇A
+        | 剣装備
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ｶﾛﾘｯｸﾐｻｲﾙ⚔
+        :columns: 3
+
+    .. grid-item:: 980
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -5
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 4
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ディスカッター🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1150
+
+    .. grid-item:: 1
+
+    .. grid-item:: +20
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A陆A海A→C宇A
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ハイファミリア⚔
+        :columns: 3
+
+    .. grid-item:: 2000
+
+    .. grid-item:: 1~9
+
+    .. grid-item:: +18
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 4
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ｱｶｼｯｸﾊﾞｽﾀｰ
+        :columns: 3
+
+    .. grid-item:: 3100(3400)
+
+    .. grid-item:: 1~8
+
+    .. grid-item:: +9
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 4
+
+    .. grid-item:: 必要气力 120
+
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_fake_cybuster_commentBegin:
+
+
+.. _srw4_unit_fake_cybuster_commentEnd:
 

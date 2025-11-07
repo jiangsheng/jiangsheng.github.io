@@ -4437,7 +4437,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_D5_B.png
      - Sガンダム
      - S Gundam
-     - :ref:`ガンダムセンチネル <srw4_units_ms_gundam_sentinel>`
+     - :ref:`ガンダムセンチネル <srw4_units_mobile_suit_gundam_sentinel>`
      - 3000
      - 170
      - 39
@@ -4458,7 +4458,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_D6_B.png
      - Gクルーザー (S)
      - G Cruiser (S)
-     - :ref:`ガンダムセンチネル <srw4_units_ms_gundam_sentinel>`
+     - :ref:`ガンダムセンチネル <srw4_units_mobile_suit_gundam_sentinel>`
      - 3000
      - 170
      - 35
@@ -4563,7 +4563,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_DB_B.png
      - ExSガンダム
      - Ex-S Gundam
-     - :ref:`ガンダムセンチネル <srw4_units_ms_gundam_sentinel>`
+     - :ref:`ガンダムセンチネル <srw4_units_mobile_suit_gundam_sentinel>`
      - 3800
      - 200
      - 44
@@ -4584,7 +4584,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_DC_B.png
      - Gクルーザー (EXS)
      - G Cruiser (EX-S)
-     - :ref:`ガンダムセンチネル <srw4_units_ms_gundam_sentinel>`
+     - :ref:`ガンダムセンチネル <srw4_units_mobile_suit_gundam_sentinel>`
      - 3800
      - 200
      - 40

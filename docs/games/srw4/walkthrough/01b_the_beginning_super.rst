@@ -31,7 +31,7 @@ Looks like you are not along, DC and Titans are also coming to the crash site.
 我方初始配置：
 ------------------
 
-* :ref:`マジンガ－Ｚ <srw4_units_mazinger_z>`\ （\ :ref:`兜甲児 <srw4_pilots_mazinger_z>`\ ）
+* \ :ref:`マジンガ－Ｚ <srw4_units_mazinger_z>`\ （\ :ref:`兜甲児 <srw4_pilots_mazinger_z>`\ ）
 * アフロダイＡ（弓さやか）
 * ボスボロット（ボス）
 * :ref:`ゲシュペンスト（スーパー）<srw4_units_banpresto_originals>`\ （:ref:`主人公<srw4_pilots_banpresto_originals>`）
