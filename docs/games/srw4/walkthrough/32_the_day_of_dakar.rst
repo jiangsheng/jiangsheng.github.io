@@ -8,7 +8,7 @@
 
 :doc:`31_storm_of_kilimanjaro`\ 之后进入本话。
 
-行动计划是，在ロンド・ベル队从Dakar西方进行一次佯攻的同时，少量エゥーゴ的同志攻占议事堂，并且为ブレックス＝フォーラ准将的演讲做准备；ブレックス＝フォーラ准将本人将会从防卫较少的东南方步行到达。クワトロ＝バジーナ大佐询问你是不是和他一起充当护卫。如果你选择否，那么ショウ＝ザマ和チャム＝フォウ会替你去。クワトロ＝バジーナ和志愿者本话中不能出战。
+行动计划是，在ロンド・ベル队从Dakar西方进行一次佯攻的同时，少量エゥーゴ的同志攻占议事堂，并且为ブレックス＝フォーラ准将的演讲做准备；ブレックス＝フォーラ准将本人将会从防卫较少的东南方步行到达。クワトロ＝バジーナ大佐询问你是不是和他一起充当护卫。如果你选择否，那么ショウ＝ザマ和チャム＝フォウ会替你去。クワトロ＝バジーナ和志愿者本话中不能出战。ベルトーチカ・イルマ将会是你的接应人。
 
 The plan is to have a small number of AEUG's troops seize the council hall while the Londo Bell team conducts a feint attack from the west of Dakar, preparing for Brigadier General Blex Forer's speech. Blex Forer will arrive on foot from the less heavily defended southeast. Colonel Quattro Bajeena asks if you want to join him as his escort. If you choose not to, Show Zama and Chum Huau will take your place. Quattro and the volunteers cannot participate in battle in this episode.
 

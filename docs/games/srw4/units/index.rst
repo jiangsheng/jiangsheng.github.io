@@ -39,7 +39,6 @@
    goshogun
    banpresto_originals
    mobile_suit_gundam_hathaway
-
    
 --------------
 属性 
