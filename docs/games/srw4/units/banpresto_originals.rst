@@ -8,9 +8,9 @@
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。
 
-.. _srw4_units_banpresto_originals_commentBegin:
+.. _srw4_units_banpresto_originals_franchise_commentBegin:
 
-.. _srw4_units_banpresto_originals_commentEnd:
+.. _srw4_units_banpresto_originals_franchise_commentEnd:
 
 --------
 我军机体
