@@ -16,10 +16,10 @@
 --------
 我军机体
 --------
-.. _srw4_unit_mazinger_z_own_commentBegin:
+.. _srw4_units_mazinger_z_own_commentBegin:
 
 
-.. _srw4_unit_mazinger_z_own_commentEnd:
+.. _srw4_units_mazinger_z_own_commentEnd:
 
 ^^^^^^^^^^^^
 マジンガーZ

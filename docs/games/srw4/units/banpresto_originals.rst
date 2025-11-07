@@ -2708,9 +2708,10 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 --------
 敌军机体
 --------
-.. _srw4_unit_banpresto_originals_enemy_commentBegin:
+.. _srw4_units_banpresto_originals_enemy_commentBegin:
 
-.. _srw4_unit_banpresto_originals_enemy_commentEnd:
+
+.. _srw4_units_banpresto_originals_enemy_commentEnd:
 
 ^^^^^^^^
 ガロイカ
@@ -4527,9 +4528,10 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 --------
 盟军机体
 --------
-.. _srw4_unit_banpresto_originals_ally_commentBegin:
+.. _srw4_units_banpresto_originals_ally_commentBegin:
 
-.. _srw4_unit_banpresto_originals_ally_commentEnd:
+
+.. _srw4_units_banpresto_originals_ally_commentEnd:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 ゲシュペンスト Mk-II
@@ -4708,9 +4710,10 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 --------
 中立机体
 --------
-.. _srw4_unit_banpresto_originals_neutral_commentBegin:
+.. _srw4_units_banpresto_originals_neutral_commentBegin:
 
-.. _srw4_unit_banpresto_originals_neutral_commentEnd:
+
+.. _srw4_units_banpresto_originals_neutral_commentEnd:
 
 ^^^^^^^^^^^^^^
 ガディフォール
@@ -4902,10 +4905,10 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 ----------
 未登场机体
 ----------
-.. _srw4_unit_banpresto_originals_dead_data_commentBegin:
+.. _srw4_units_banpresto_originals_dead_data_commentBegin:
 
 
-.. _srw4_unit_banpresto_originals_dead_data_commentEnd:
+.. _srw4_units_banpresto_originals_dead_data_commentEnd:
 
 ^^^^^^^^^^^^^^^^
 ニセサイバスター
