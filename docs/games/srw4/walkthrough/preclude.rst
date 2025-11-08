@@ -891,7 +891,7 @@ PS的复刻版的精神设定有所变动。大大减少了集中出现的频率
    
           | [SRW4S] 第一话会进入\ :doc:`00a_contact_real`\ 
           | [SRW4] 第一话会进入\ :doc:`01a_the_beginning_real`\ 
-          | \ :ref:`ガブスレイ<srw4_unit_gabthley>`\ （サラ） 1/3
+          | \ :ref:`ガブスレイ<srw4_unit_gabthley_ms>`\ （サラ） 1/3
           | \ :ref:`Sガンダム <srw4_unit_s_gundam>`\ 1/2
           | :ref:`Ex-Sガンダム <srw4_unit_ex_s_gundam>` 1/4
           | クェス 1/2

@@ -153,7 +153,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_09_B.png
      - νガンダム
      - Nu Gundam
-     - :ref:`逆襲のシャア <srw4_units_ms_gundam_char_s_counterattack>`
+     - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 2800
      - 180
      - 50
@@ -174,7 +174,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_0A_B.png
      - F-91
      - F-91
-     - :ref:`ガンダムF91 <srw4_units_ms_gundam_f91>`
+     - :ref:`ガンダムF91 <srw4_units_mobile_suit_gundam_f91>`
      - 2700
      - 195
      - 50
@@ -195,7 +195,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_0B_B.png
      - NT-1アレックス
      - NT-1 Alex
-     - :ref:`ガンダム0080 <srw4_units_ms_gundam_0080>`
+     - :ref:`ガンダム0080 <srw4_units_mobile_suit_gundam_0080>`
      - 1800
      - 150
      - 35
@@ -216,7 +216,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_0C_B.png
      - GP-01Fb
      - GP-01Fb
-     - :ref:`ガンダム0083 <srw4_units_ms_gundam_0083>`
+     - :ref:`ガンダム0083 <srw4_units_mobile_suit_gundam_0083>`
      - 1800
      - 160
      - 36
@@ -237,7 +237,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_0D_B.png
      - GP-02A
      - GP-02A
-     - :ref:`ガンダム0083 <srw4_units_ms_gundam_0083>`
+     - :ref:`ガンダム0083 <srw4_units_mobile_suit_gundam_0083>`
      - 2300
      - 180
      - 30
@@ -258,7 +258,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_0E_B.png
      - GP-03デンドロビウム
      - GP-03 Dendrobium
-     - :ref:`ガンダム0083 <srw4_units_ms_gundam_0083>`
+     - :ref:`ガンダム0083 <srw4_units_mobile_suit_gundam_0083>`
      - 5200
      - 250
      - 30
@@ -279,7 +279,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_0F_B.png
      - GP-03ステイメン
      - GP-03 Staymen
-     - :ref:`ガンダム0083 <srw4_units_ms_gundam_0083>`
+     - :ref:`ガンダム0083 <srw4_units_mobile_suit_gundam_0083>`
      - 1900
      - 250
      - 36
@@ -300,7 +300,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_10_B.png
      - ガンキャノン
      - Gun Cannon
-     - :ref:`ガンダム0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 2000
      - 160
      - 20
@@ -321,7 +321,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_11_B.png
      - ガンタンク
      - Gun Tank
-     - :ref:`ガンダム0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 2000
      - 150
      - 18
@@ -342,7 +342,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_12_B.png
      - ボール
      - Ball
-     - :ref:`ガンダム0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 1200
      - 100
      - 15
@@ -363,7 +363,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_13_B.png
      - ネモ
      - Nemo
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1900
      - 170
      - 33
@@ -384,7 +384,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_14_B.png
      - GM III
      - GM III
-     - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
+     - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 2100
      - 180
      - 36
@@ -405,7 +405,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_15_B.png
      - ジェガン
      - Jegan
-     - :ref:`逆襲のシャア <srw4_units_ms_gundam_char_s_counterattack>`
+     - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 2200
      - 190
      - 38
@@ -426,7 +426,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_16_B.png
      - リ・ガズィ (MA)
      - Ri Gazi (MA)
-     - :ref:`逆襲のシャア <srw4_units_ms_gundam_char_s_counterattack>`
+     - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 2500
      - 200
      - 42
@@ -447,7 +447,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_17_B.png
      - リ・ガズィ (MS)
      - Ri Gazi (MS)
-     - :ref:`逆襲のシャア <srw4_units_ms_gundam_char_s_counterattack>`
+     - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 2400
      - 200
      - 42
@@ -1959,7 +1959,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_5F_B.png
      - ザク改
      - Zaku Kai
-     - :ref:`ガンダム0080 <srw4_units_ms_gundam_0080>`
+     - :ref:`ガンダム0080 <srw4_units_mobile_suit_gundam_0080>`
      - 1400
      - 130
      - 20
@@ -1980,7 +1980,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_60_B.png
      - ドム
      - Dom
-     - :ref:`ガンダム0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 1500
      - 145
      - 22
@@ -2001,7 +2001,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_61_B.png
      - エルメス
      - Elmeth
-     - :ref:`ガンダム0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 3000
      - 180
      - 28
@@ -2022,7 +2022,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_62_B.png
      - マラサイ
      - Marasai
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1900
      - 170
      - 26
@@ -2043,7 +2043,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_63_B.png
      - バーザム
      - Barzam
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1800
      - 160
      - 28
@@ -2064,7 +2064,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_64_B.png
      - ハンブラビ (MS)
      - Hambrabi (MS)
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1900
      - 175
      - 35
@@ -2085,7 +2085,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_65_B.png
      - ハンブラビ (MA)
      - Hambrabi (MA)
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1900
      - 175
      - 32
@@ -2106,7 +2106,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_66_B.png
      - アッシマー (MS)
      - Asshimar (MS)
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 2400
      - 180
      - 38
@@ -2127,7 +2127,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_67_B.png
      - アッシマー (MA)
      - Asshimar (MA)
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 2400
      - 180
      - 40
@@ -2148,7 +2148,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_68_B.png
      - サイコガンダム (MS)
      - Psycho Gundam (MS)
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 14500
      - 240
      - 28
@@ -2169,7 +2169,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_69_B.png
      - サイコガンダム (MA)
      - Psycho Gundam (MA)
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 14500
      - 240
      - 28
@@ -2190,7 +2190,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_6A_B.png
      - バイアラン
      - Byarlant
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 2000
      - 210
      - 34
@@ -2211,7 +2211,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_6B_B.png
      - ガブスレイ (MS)
      - Gabthley (MS)
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1900
      - 190
      - 38
@@ -2232,7 +2232,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_6C_B.png
      - ガブスレイ (MA)
      - Gabthley (MA)
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1900
      - 190
      - 36
@@ -2253,7 +2253,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_6D_B.png
      - バウンド・ドック (MS)
      - Baund Doc (MS)
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 5500
      - 210
      - 40
@@ -2274,7 +2274,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_6E_B.png
      - バウンド・ドック (MA)
      - Baund Doc (MA)
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 5500
      - 210
      - 38
@@ -2295,7 +2295,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_6F_B.png
      - サイコガンダム Mk-II (MS)
      - Psycho Gundam Mk-II (MS)
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 25000
      - 255
      - 30
@@ -2316,7 +2316,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_70_B.png
      - サイコガンダム Mk-II (MA)
      - Psycho Gundam Mk-II (MA)
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 25000
      - 255
      - 30
@@ -2337,7 +2337,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_71_B.png
      - 百式
      - Hyaku Shiki
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1900
      - 170
      - 39
@@ -2358,7 +2358,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_72_B.png
      - メタス (MS)
      - Methuss (MS)
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1800
      - 150
      - 37
@@ -2379,7 +2379,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_73_B.png
      - メタス (MA)
      - Methuss (MA)
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1800
      - 150
      - 35
@@ -2400,7 +2400,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_74_B.png
      - ブラウ・ブロ
      - Braw Bro
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 14000
      - 210
      - 33
@@ -2421,7 +2421,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_75_B.png
      - ビグロ
      - Bigro
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 7700
      - 200
      - 36
@@ -2442,7 +2442,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_76_B.png
      - ケンプファー
      - Kampfer
-     - :ref:`ガンダム0080 <srw4_units_ms_gundam_0080>`
+     - :ref:`ガンダム0080 <srw4_units_mobile_suit_gundam_0080>`
      - 1800
      - 140
      - 28
@@ -2463,7 +2463,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_77_B.png
      - ヴァル・ヴァロ
      - Val Walo
-     - :ref:`ガンダム0083 <srw4_units_ms_gundam_0083>`
+     - :ref:`ガンダム0083 <srw4_units_mobile_suit_gundam_0083>`
      - 6600
      - 180
      - 35
@@ -2484,7 +2484,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_78_B.png
      - ガーベラ・テトラ
      - Gerbera Tetra
-     - :ref:`ガンダム0083 <srw4_units_ms_gundam_0083>`
+     - :ref:`ガンダム0083 <srw4_units_mobile_suit_gundam_0083>`
      - 1800
      - 160
      - 30
@@ -2505,7 +2505,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_79_B.png
      - ノイエ・ジール
      - Neue Ziel
-     - :ref:`ガンダム0083 <srw4_units_ms_gundam_0083>`
+     - :ref:`ガンダム0083 <srw4_units_mobile_suit_gundam_0083>`
      - 5000
      - 255
      - 30
@@ -2526,7 +2526,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_7A_B.png
      - キュベレイ
      - Qubeley
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 40000
      - 200
      - 43
@@ -2547,7 +2547,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_7B_B.png
      - キュベレイ Mk-II
      - Qubeley Mk-II
-     - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
+     - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 2100
      - 180
      - 39
@@ -2568,7 +2568,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_7C_B.png
      - ガルスJ
      - Galluss-J
-     - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
+     - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 1900
      - 190
      - 36
@@ -2589,7 +2589,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_7D_B.png
      - ズサ
      - Zssa
-     - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
+     - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 2000
      - 160
      - 30
@@ -2610,7 +2610,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_7E_B.png
      - ハンマ・ハンマ
      - Hamma Hamma
-     - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
+     - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 2000
      - 170
      - 37
@@ -2631,7 +2631,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_7F_B.png
      - R・ジャジャ
      - R-Jarja
-     - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
+     - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 2000
      - 170
      - 42
@@ -2652,7 +2652,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_80_B.png
      - バウ (MS)
      - Bawoo (MS)
-     - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
+     - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 2200
      - 170
      - 43
@@ -2673,7 +2673,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_81_B.png
      - バウ (MA)
      - Bawoo (MA)
-     - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
+     - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 2200
      - 170
      - 40
@@ -2694,7 +2694,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_82_B.png
      - ドライセン
      - Dreissen
-     - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
+     - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 2200
      - 180
      - 41
@@ -2715,7 +2715,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_83_B.png
      - クイン・マンサ
      - Quin Mantha
-     - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
+     - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 28200
      - 220
      - 43
@@ -2736,7 +2736,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_84_B.png
      - ドーベンウルフ
      - Doven Wolf
-     - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
+     - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 4000
      - 210
      - 40
@@ -2757,7 +2757,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_85_B.png
      - ゲーマルク
      - Geymalk
-     - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
+     - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 5200
      - 220
      - 40
@@ -2777,8 +2777,8 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_86_B.png
      - ギラ・ドーガ（绿）
-     - Geara Doga (blue)
-     - :ref:`逆襲のシャア <srw4_units_ms_gundam_char_s_counterattack>`
+     - Geara Doga (green)
+     - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 2300
      - 170
      - 40
@@ -2799,7 +2799,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_87_B.png
      - ギラ・ドーガ（强化）
      - Geara Doga (upgraded)
-     - :ref:`逆襲のシャア <srw4_units_ms_gundam_char_s_counterattack>`
+     - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 2500
      - 190
      - 42
@@ -2820,7 +2820,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_88_B.png
      - ヤクト・ドーガ（青）
      - Jagd Doga (blue)
-     - :ref:`逆襲のシャア <srw4_units_ms_gundam_char_s_counterattack>`
+     - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 3500
      - 180
      - 41
@@ -2841,7 +2841,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_89_B.png
      - ヤクト・ドーガ（赤）
      - Jagd Doga (red)
-     - :ref:`逆襲のシャア <srw4_units_ms_gundam_char_s_counterattack>`
+     - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 3500
      - 180
      - 41
@@ -2862,7 +2862,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_8A_B.png
      - サザビー
      - Sazabi
-     - :ref:`逆襲のシャア <srw4_units_ms_gundam_char_s_counterattack>`
+     - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 4300
      - 200
      - 49
@@ -2883,7 +2883,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_8B_B.png
      - α・アジール
      - Alpha Azieru
-     - :ref:`逆襲のシャア <srw4_units_ms_gundam_char_s_counterattack>`
+     - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 35000
      - 255
      - 44
@@ -2904,7 +2904,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_8C_B.png
      - ビギナ・ギナ
      - Vigna Ghina
-     - :ref:`ガンダムF91 <srw4_units_ms_gundam_f91>`
+     - :ref:`ガンダムF91 <srw4_units_mobile_suit_gundam_f91>`
      - 2600
      - 190
      - 49
@@ -2925,7 +2925,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_8D_B.png
      - ベルガ・ギロス
      - Berga Giros
-     - :ref:`ガンダムF91 <srw4_units_ms_gundam_f91>`
+     - :ref:`ガンダムF91 <srw4_units_mobile_suit_gundam_f91>`
      - 2600
      - 200
      - 48
@@ -2946,7 +2946,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_8E_B.png
      - ラフレシア
      - Rafflesia
-     - :ref:`ガンダムF91 <srw4_units_ms_gundam_f91>`
+     - :ref:`ガンダムF91 <srw4_units_mobile_suit_gundam_f91>`
      - 34000
      - 255
      - 48
@@ -3365,7 +3365,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A2_B.png
      - 円盤獣ギルギル
-     - Saucer Beast Giruguru
+     - Saucer Beast Girugiru
      - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 6000
      - 200
@@ -4079,7 +4079,7 @@
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C4_B.png
      - メカ戦士ギメリア
-     - Mecha Knight Gimeria
+     - Mecha Warrior Gimeria
      - :ref:`ダイモス <srw4_units_daimos>`
      - 6000
      - 210
@@ -4269,7 +4269,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_CD_B.png
      - ザンジバル
      - Zanzibar
-     - :ref:`ガンダム0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 5000
      - 200
      - 20
@@ -4290,7 +4290,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_CE_B.png
      - ミデア
      - Medea
-     - :ref:`ガンダム0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 2500
      - 180
      - 18
@@ -4311,7 +4311,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_CF_B.png
      - コロンブス
      - Columbus
-     - :ref:`ガンダム0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 3700
      - 200
      - 18
@@ -4332,7 +4332,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_D0_B.png
      - パゾグ
      - Pazock
-     - :ref:`ガンダム0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 3400
      - 180
      - 15
@@ -4353,7 +4353,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_D1_B.png
      - ガウ
      - Gaw
-     - :ref:`ガンダム0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 4800
      - 200
      - 18
@@ -4374,7 +4374,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_D2_B.png
      - ダブデ
      - Dobday
-     - :ref:`ガンダム0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 20000
      - 255
      - 16
@@ -4395,7 +4395,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_D3_B.png
      - トロイホース
      - Trojan Horse
-     - :ref:`ガンダム0080 <srw4_units_ms_gundam_0080>`
+     - :ref:`ガンダム0080 <srw4_units_mobile_suit_gundam_0080>`
      - 4000
      - 200
      - 20
@@ -4416,7 +4416,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_D4_B.png
      - グラーフ・ツェッペリン
      - Graf Zeppelin
-     - :ref:`ガンダム0080 <srw4_units_ms_gundam_0080>`
+     - :ref:`ガンダム0080 <srw4_units_mobile_suit_gundam_0080>`
      - 13000
      - 200
      - 19
@@ -4479,7 +4479,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_D7_B.png
      - アレキサンドリア
      - Alexandria
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 8000
      - 200
      - 19
@@ -4500,7 +4500,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_D8_B.png
      - ムサイ改
      - Musai Kai
-     - :ref:`ガンダム0080 <srw4_units_ms_gundam_0080>`
+     - :ref:`ガンダム0080 <srw4_units_mobile_suit_gundam_0080>`
      - 4000
      - 200
      - 18
@@ -4521,7 +4521,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_D9_B.png
      - アーガマ
      - Argama
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 5500
      - 210
      - 22
@@ -4542,7 +4542,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_DA_B.png
      - アイリッシュ
      - Irish
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 5000
      - 200
      - 20
@@ -4605,7 +4605,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_DD_B.png
      - ネェル・アーガマ
      - Nahel Argama
-     - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
+     - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 6000
      - 215
      - 23
@@ -4626,7 +4626,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_DE_B.png
      - エンドラ
      - Endra
-     - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
+     - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 5500
      - 200
      - 20
@@ -4647,7 +4647,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_DF_B.png
      - サダラーン
      - Sadalahn
-     - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
+     - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 38000
      - 255
      - 23
@@ -4668,7 +4668,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_E0_B.png
      - レウルーラ
      - Rewloola
-     - :ref:`逆襲のシャア <srw4_units_ms_gundam_char_s_counterattack>`
+     - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 17000
      - 255
      - 27
@@ -4688,8 +4688,8 @@
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_E1_B.png
      - ラー・カイラム
-     - 	Ra Cailum
-     - :ref:`逆襲のシャア <srw4_units_ms_gundam_char_s_counterattack>`
+     - Ra Cailum
+     - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 7000
      - 255
      - 27
@@ -4710,7 +4710,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_E2_B.png
      - ザムス・ガル
      - Zamouth Garr
-     - :ref:`ガンダムF91 <srw4_units_ms_gundam_f91>`
+     - :ref:`ガンダムF91 <srw4_units_mobile_suit_gundam_f91>`
      - 40000
      - 255
      - 30
@@ -5298,7 +5298,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_102_B.png
      - ガンダム
      - Gundam
-     - :ref:`ガンダム0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 1800
      - 160
      - 32
@@ -5319,7 +5319,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_103_B.png
      - ガンダム Mk-II
      - Gundam Mk-II
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 2000
      - 180
      - 38
@@ -5340,7 +5340,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_104_B.png
      - Ｇディフェンサー
      - G Defender
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1600
      - 180
      - 36
@@ -5361,7 +5361,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_105_B.png
      - スーパーガンダム
      - Super Gundam
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 2300
      - 180
      - 39
@@ -5382,7 +5382,7 @@
      - 
      - Ξガンダム
      - Xi Gundam
-     - :ref:`閃光のハサウェイ <srw4_units_ms_gundam_hathaway>`
+     - :ref:`閃光のハサウェイ <srw4_units_mobile_suit_gundam_hathaway>`
      - 8000
      - 200
      - 0
@@ -5403,7 +5403,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_107_B.png
      - 旧ザク
      - Old Zaku
-     - :ref:`ガンダム0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 1300
      - 100
      - 15
@@ -5487,7 +5487,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_10B_B.png
      - アッザム
      - Adzam
-     - :ref:`ガンダム0079 <srw4_units_ms_gundam>`
+     - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 2400
      - 170
      - 20
@@ -5529,7 +5529,7 @@
      - 
      - ナイチンゲール
      - Nightingale
-     - :ref:`逆襲のシャア <srw4_units_ms_gundam_char_s_counterattack>`
+     - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 8000
      - 200
      - 0
@@ -5632,9 +5632,9 @@
    * - 112
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_112_B.png
-     - Zガンダム
+     - Ζガンダム
      - Z Gundam
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 2600
      - 170
      - 43
@@ -5655,7 +5655,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_113_B.png
      - ウェイブライダー
      - Wave Rider
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 2600
      - 170
      - 38
@@ -5674,9 +5674,9 @@
    * - 114
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_114_B.png
-     - ZZガンダム
+     - ZΖガンダム
      - ZZ Gundam
-     - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
+     - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 3100
      - 180
      - 38
@@ -5697,7 +5697,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_115_B.png
      - G-フォートレス
      - G-Fortress
-     - :ref:`ガンダムΖΖ <srw4_units_ms_gundam_zz>`
+     - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 3100
      - 180
      - 34
@@ -5928,7 +5928,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_120_B.png
      - ドゴス・ギア
      - Dogosse Giar
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 8000
      - 200
      - 0
@@ -5949,7 +5949,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_121_B.png
      - アウドムラ
      - Audhumla
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 8000
      - 200
      - 0
@@ -5970,7 +5970,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_122_B.png
      - スードリ
      - Sudori
-     - :ref:`Zガンダム <srw4_units_ms_z_gundam>`
+     - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 28000
      - 255
      - 35
@@ -5991,7 +5991,7 @@
      - .. image:: ../units/images/icon/srw4_units_icon_123_B.png
      - GP-03ステイメン
      - GP-03 Staymen
-     - :ref:`ガンダム0083 <srw4_units_ms_gundam_0083>`
+     - :ref:`ガンダム0083 <srw4_units_mobile_suit_gundam_0083>`
      - 1900
      - 250
      - 36
@@ -6138,3 +6138,4 @@
     <script>
       units_datatable_init('srw4-units-playstation-table');
     </script>
+

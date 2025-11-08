@@ -41,6 +41,8 @@ Sガンダム
 
         .. image:: ../units/images/portrait/srw4_units_portrait_D5.png
 
+        登场/加入:第20话
+
     .. grid-item::
         :columns: auto
 
@@ -55,6 +57,7 @@ Sガンダム
 
         | 编码 D5
         | Snes地址 BBA60
+        | 武器首地址 BBA80
         | PS地址 2874F
         | 类型 陸宇
         | 移动力 8
@@ -254,6 +257,8 @@ Gクルーザー (S)
 
         .. image:: ../units/images/portrait/srw4_units_portrait_D6.png
 
+        登场/加入:第20话
+
     .. grid-item::
         :columns: auto
 
@@ -268,6 +273,7 @@ Gクルーザー (S)
 
         | 编码 D6
         | Snes地址 BBA94
+        | 武器首地址 BBAB4
         | PS地址 28783
         | 类型 空
         | 移动力 11
@@ -379,6 +385,8 @@ ExSガンダム
 
         .. image:: ../units/images/portrait/srw4_units_portrait_DB.png
 
+        登场/加入:第33话
+
     .. grid-item::
         :columns: auto
 
@@ -393,6 +401,7 @@ ExSガンダム
 
         | 编码 DB
         | Snes地址 BBB74
+        | 武器首地址 BBB94
         | PS地址 28863
         | 类型 陸宇
         | 移动力 9
@@ -609,6 +618,8 @@ Gクルーザー (EXS)
 
         .. image:: ../units/images/portrait/srw4_units_portrait_DC.png
 
+        登场/加入:第33话
+
     .. grid-item::
         :columns: auto
 
@@ -623,6 +634,7 @@ Gクルーザー (EXS)
 
         | 编码 DC
         | Snes地址 BBBAB
+        | 武器首地址 BBBCB
         | PS地址 2889A
         | 类型 空
         | 移动力 12

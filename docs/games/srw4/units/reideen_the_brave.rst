@@ -1,48 +1,1167 @@
 .. meta::
-   :description: 作为超级系来说居然有射程为8的武器，残弹也不算少，使用频率比ゴッドバード和ゴッドボイス还高，可以改造一下。ゴッドボイス虽然攻击力高，但是使用超过10次的话，最后一话不能出战，所以平时还是以ゴッドバード为主力武器，除非是为了对付ブラッドテンプル。 第四次S中神之声威力大幅增加，是主角的グルンガスト之后的我军攻击力第二，能
-
+   :description: ライディーン机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。ライディーン, ブルーガー, ドローメ, ガンテ, 化石獣バストドン, 化石獣ギルディーン, 巨大シャーキン 
 .. _srw4_units_reideen_the_brave:
 
+====================
 ライディーン登场机体
-============================
+====================
 
--------------------------
-我方机体
--------------------------
+括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。
 
-^^^^^^^^^^^^^^
+.. _srw4_units_reideen_the_brave_commentBegin:
+
+
+.. _srw4_units_reideen_the_brave_commentEnd:
+
+--------
+我军机体
+--------
+.. _srw4_units_reideen_the_brave_own_commentBegin:
+
+
+.. _srw4_units_reideen_the_brave_own_commentEnd:
+
+^^^^^^^^^^^^
 ライディーン
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^
+
+.. _srw4_unit_reideen:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_33.png
+
+        登场/加入:第20话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 3800
+        | EN 255
+        | 装甲 370
+        | 运动性 36
+        | 限界 165
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 33
+        | Snes地址 B9E3C
+        | 武器首地址 B9E5C
+        | PS地址 26B2B
+        | 类型 空陸
+        | 移动力 7
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A
+        | 陆A
+        | 海B
+        | 宇B
+        | 盾装備
+        | 剣装備
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_63.png
+
+        | 地形参照
+        | :ref:`ひびき洸 <srw4_pilots_akira_hibiki>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ゴッドブレイカー🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 980(1080)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +23
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A陆A海A→B宇A→B
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ゴーガンソード🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1030(1130)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +10
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A陆A海A→B宇A→B
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ゴッドミサイル⚔
+        :columns: 3
+
+    .. grid-item:: 1050
+
+    .. grid-item:: 1~5
+
+    .. grid-item:: +10
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 10
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ゴッドブーメラン⚔Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1150(1350)
+
+    .. grid-item:: 1~3
+
+    .. grid-item:: 0 (-5)
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 4
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ゴッドアロー⚔
+        :columns: 3
+
+    .. grid-item:: 1250(1350)
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: +10
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 6
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ゴッドサンダー
+        :columns: 3
+
+    .. grid-item:: 1270(1370)
+
+    .. grid-item:: 1~4
+
+    .. grid-item:: +5
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海B宇A
+        :columns: 3
+
+    .. grid-item:: EN 20
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ｴﾈﾙｷﾞｰｶｯﾀｰ🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1270(1370)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +20
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A陆A海A→B宇A→B
+        :columns: 3
+
+    .. grid-item:: EN 10
+
+    .. grid-item:: 必要气力 105
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ｺﾞｯﾄﾞﾌﾟﾚｯｼｬｰⓅ
+        :columns: 3
+
+    .. grid-item:: 1280(1480)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +18
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: EN 15
+
+    .. grid-item:: 必要气力 105
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ゴッドゴーガン⚔
+        :columns: 3
+
+    .. grid-item:: 1700(2100)
+
+    .. grid-item:: 1~8
+
+    .. grid-item:: +18
+
+    .. grid-item:: +30
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 6
+
+    .. grid-item:: 必要气力 105
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ゴッドアルファⓅ
+        :columns: 3
+
+    .. grid-item:: 2200(2300)
+
+    .. grid-item:: 1~2
+
+    .. grid-item:: +15
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: EN 40
+
+    .. grid-item:: 必要气力 110
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ゴッドバード🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 3100(3200)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +20
+
+    .. grid-item:: +30
+
+    .. grid-item:: 空A陆A海A→B宇A→B
+        :columns: 3
+
+    .. grid-item:: EN 60
+
+    .. grid-item:: 必要气力 120
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ゴッドボイスⓅ
+        :columns: 3
+
+    .. grid-item:: 5900(7200)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +20
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: EN 130 (110)
+
+    .. grid-item:: 必要气力 130
+
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_reideen_commentBegin:
 
 作为超级系来说居然有射程为8的武器，残弹也不算少，使用频率比ゴッドバード和ゴッドボイス还高，可以改造一下。ゴッドボイス虽然攻击力高，但是使用超过10次的话，最后一话不能出战，所以平时还是以ゴッドバード为主力武器，除非是为了对付ブラッドテンプル。
 
 第四次S中神之声威力大幅增加，是主角的グルンガスト之后的我军攻击力第二，能耗也从130降低到110，不补给就可以使用两次了。
 
+.. _srw4_unit_reideen_commentEnd:
 
-^^^^^^^^^^^^^^
+^^^^^^^^^^
 ブルーガー
-^^^^^^^^^^^^^^
+^^^^^^^^^^
+
+.. _srw4_unit_bluegar:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_34.png
+
+        登场/加入:第20话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 1200
+        | EN 100
+        | 装甲 100
+        | 运动性 40
+        | 限界 160
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 34
+        | Snes地址 B9E85
+        | 武器首地址 B9EA5
+        | PS地址 26B74
+        | 类型 空
+        | 移动力 8
+        | 大小 S
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A
+        | 陆🚫
+        | 海🚫
+        | 宇B
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 補給装置🔄
+        :columns: 3
+
+    .. grid-item:: 0
+
+    .. grid-item:: 1~3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 2
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 20ミリバルカンⓅ
+        :columns: 3
+
+    .. grid-item:: 300
+
+    .. grid-item:: 1
+
+    .. grid-item:: +30
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 10
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 爆雷Ⓟ
+        :columns: 3
+
+    .. grid-item:: 650
+
+    .. grid-item:: 1
+
+    .. grid-item:: +20
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空🚫陆A海A宇🚫
+        :columns: 3
+
+    .. grid-item:: 残弹 10
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ミサイル⚔
+        :columns: 3
+
+    .. grid-item:: 830
+
+    .. grid-item:: 1~5
+
+    .. grid-item:: 
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 4
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_bluegar_commentBegin:
+
 对手是戴莫斯队的ガルバーFXII，后期分队则只需要和ボスボロット竞争。虽然最强武器爆雷无法在宇宙使用，但是至少比ボスボロット连部署都无法部署强。
 
+.. _srw4_unit_bluegar_commentEnd:
 
--------------------------
-敌方机体
--------------------------
+--------
+敌军机体
+--------
+.. _srw4_units_reideen_the_brave_enemy_commentBegin:
 
-^^^^^^^^^^^^^^^^
-巨大シャーキン
-^^^^^^^^^^^^^^^^
-比较没有存在感，只出战一次，还是超级系限定。有五段改造，攻击力不可小视。如果在增援之前就通关，则不会注册到机器人大图鉴。
 
-^^^^^^^^^^^^^^
+
+.. _srw4_units_reideen_the_brave_enemy_commentEnd:
+
+^^^^^^^^
 ドローメ
-^^^^^^^^^^^^^^
-HP 800 EN 100 运动性 28 装甲 80 限界 120 移动 空5 大小 M 空A陆-海-宇-
+^^^^^^^^
 
-* マグマ弾 攻击 620 射程 1 命中 +10 暴击 -10 空A陆A海C宇-
+.. _srw4_unit_drome:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_B8.png
+
+        登场/加入:第1话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 800
+        | EN 100
+        | 装甲 80
+        | 运动性 28
+        | 限界 120
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 B8
+        | Snes地址 BB58F
+        | 武器首地址 BB5AF
+        | PS地址 2827E
+        | 类型 空
+        | 移动力 5
+        | 大小 M
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A
+        | 陆🚫
+        | 海🚫
+        | 宇🚫
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: マグマ弾⚔Ⓟ
+        :columns: 3
+
+    .. grid-item:: 620
+
+    .. grid-item:: 1
+
+    .. grid-item:: +10
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海C宇🚫
+        :columns: 3
+
+    .. grid-item:: 残弹 6
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_drome_commentBegin:
 
 HP只有800，攻击力只有600的射程1的武器……除了给我军送气力之外没什么用，连战斗机都可以轻松击败它，杂鱼中的杂鱼（ボスボロット:……）。出勤率倒是非常高，妖魔帝国的广告专用机？
 
 
+.. _srw4_unit_drome_commentEnd:
 
+^^^^^^
+ガンテ
+^^^^^^
+
+.. _srw4_unit_gante:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_B9.png
+
+        登场/加入:第20话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 17000
+        | EN 255
+        | 装甲 380
+        | 运动性 24
+        | 限界 160
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 B9
+        | Snes地址 BB5B4
+        | 武器首地址 BB5D4
+        | PS地址 282A3
+        | 类型 空
+        | 移动力 5
+        | 大小 LL
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A
+        | 陆🚫→C
+        | 海🚫→D
+        | 宇🚫→D
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_A3.png
+
+        | 地形参照
+        | :ref:`シャーキン <srw4_pilots_sharkin>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ミサイル⚔
+        :columns: 3
+
+    .. grid-item:: 1030
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -12
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 20
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 
+        :columns: 3
+
+        | 火炎🤛Ⓟ (Snes)
+        | 火炎Ⓟ (PlayStation)
+    .. grid-item:: 1100
+
+    .. grid-item:: 1
+
+    .. grid-item:: +5
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A→🚫 (A)海🚫宇🚫
+        :columns: 3
+
+    .. grid-item:: EN 10
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ガンテミサイル⚔
+        :columns: 3
+
+    .. grid-item:: 1200
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -10
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 2
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_gante_commentBegin:
+
+
+.. _srw4_unit_gante_commentEnd:
+
+^^^^^^^^^^^^^^^^
+化石獣バストドン
+^^^^^^^^^^^^^^^^
+
+.. _srw4_unit_fossil_beast_bastodon:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_BA.png
+
+        登场/加入:第20话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 2800
+        | EN 200
+        | 装甲 200
+        | 运动性 22
+        | 限界 140
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 BA
+        | Snes地址 BB5DF
+        | 武器首地址 BB5FF
+        | PS地址 282CE
+        | 类型 空陸
+        | 移动力 5
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A
+        | 陆A
+        | 海B
+        | 宇🚫
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: セラミックソード🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 900
+
+    .. grid-item:: 1
+
+    .. grid-item:: +5
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A→B宇A→🚫
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_fossil_beast_bastodon_commentBegin:
+
+
+.. _srw4_unit_fossil_beast_bastodon_commentEnd:
+
+^^^^^^^^^^^^^^
+巨大シャーキン
+^^^^^^^^^^^^^^
+
+.. _srw4_unit_giant_sharkin:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_BC.png
+
+        登场/加入:第20话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 15000
+        | EN 200
+        | 装甲 320
+        | 运动性 33
+        | 限界 170
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 BC
+        | Snes地址 BB62C
+        | 武器首地址 BB64C
+        | PS地址 2831B
+        | 类型 空陸
+        | 移动力 8
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A
+        | 陆A
+        | 海B
+        | 宇🚫→D
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_A3.png
+
+        | 地形参照
+        | :ref:`シャーキン <srw4_pilots_sharkin>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ヘアミサイル⚔
+        :columns: 3
+
+    .. grid-item:: 940
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -5
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 18
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 妖魔光線
+        :columns: 3
+
+    .. grid-item:: 1210
+
+    .. grid-item:: 1~7
+
+    .. grid-item:: +2
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 12
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 妖魔サーベル🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1320
+
+    .. grid-item:: 1
+
+    .. grid-item:: +5
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A→B宇A→C
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_giant_sharkin_commentBegin:
+
+比较没有存在感，只出战一次，还是超级系限定。有五段改造，攻击力不可小视。如果在增援之前就通关，则不会注册到机器人大图鉴。
+
+.. _srw4_unit_giant_sharkin_commentEnd:
+
+^^^^^^^^^^^^^^^^^^
+化石獣ギルディーン
+^^^^^^^^^^^^^^^^^^
+
+.. _srw4_unit_fossil_beast_girudeen:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_BB.png
+
+        登场/加入:第21话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 3700
+        | EN 200
+        | 装甲 210
+        | 运动性 24
+        | 限界 145
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 BB
+        | Snes地址 BB604
+        | 武器首地址 BB624
+        | PS地址 282F3
+        | 类型 空陸
+        | 移动力 7
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A
+        | 陆A
+        | 海B
+        | 宇🚫
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ギルソード🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1020
+
+    .. grid-item:: 1
+
+    .. grid-item:: +5
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A→B宇A→🚫
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ギルアロー⚔
+        :columns: 3
+
+    .. grid-item:: 1120
+
+    .. grid-item:: 1~7
+
+    .. grid-item:: -10
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 12
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_fossil_beast_girudeen_commentBegin:
+
+
+.. _srw4_unit_fossil_beast_girudeen_commentEnd:
 

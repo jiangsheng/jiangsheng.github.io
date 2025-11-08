@@ -781,6 +781,7 @@ NT-1アレックス
 
 .. _srw4_unit_kampfer_commentBegin:
 
+很奇怪地武器全体对海适应都是A，但是机体本身的海中适应是C，只适合在岸边对付海中的敌人。在\ :doc:`../walkthrough/06a_stampede`\ 这一话中会作为NPC援军登场。
 
 .. _srw4_unit_kampfer_commentEnd:
 

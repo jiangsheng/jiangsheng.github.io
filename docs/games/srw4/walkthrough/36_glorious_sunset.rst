@@ -44,7 +44,7 @@ While Team B is preparing for space operations in Hong Kong, Team A receives a r
 * ハンマ・ハンマ
 * ドライセン ×2
 * R・ジャジャ
-* ガルスＪ
+* ガルスJ
 
 --------------
 敌方援军

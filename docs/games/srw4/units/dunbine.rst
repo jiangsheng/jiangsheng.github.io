@@ -41,6 +41,8 @@
 
         .. image:: ../units/images/portrait/srw4_units_portrait_3F.png
 
+        登场/加入:第13话
+
     .. grid-item::
         :columns: auto
 
@@ -55,6 +57,7 @@
 
         | 编码 3F
         | Snes地址 BA0AA
+        | 武器首地址 BA0CA
         | PS地址 26D99
         | 类型 空陸
         | 移动力 9
@@ -242,6 +245,8 @@
 
         .. image:: ../units/images/portrait/srw4_units_portrait_40.png
 
+        登场/加入:第25话
+
     .. grid-item::
         :columns: auto
 
@@ -256,6 +261,7 @@
 
         | 编码 40
         | Snes地址 BA0DB
+        | 武器首地址 BA0FB
         | PS地址 26DCA
         | 类型 空陸
         | 移动力 10
@@ -488,6 +494,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_41.png
 
+        登场/加入:第25话
+
     .. grid-item::
         :columns: auto
 
@@ -502,6 +510,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 41
         | Snes地址 BA112
+        | 武器首地址 BA132
         | PS地址 26E01
         | 类型 空
         | 移动力 13
@@ -618,6 +627,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_AF.png
 
+        登场/加入:第13话
+
     .. grid-item::
         :columns: auto
 
@@ -632,6 +643,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 AF
         | Snes地址 BB406
+        | 武器首地址 BB426
         | PS地址 280F5
         | 类型 空陸
         | 移动力 10
@@ -819,6 +831,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_11F.png
 
+        登场/加入:第13话
+
     .. grid-item::
         :columns: auto
 
@@ -833,6 +847,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 11F
         | Snes地址 BC70A
+        | 武器首地址 BC72A
         | PS地址 293F6
         | 类型 空陸
         | 移动力 9
@@ -1002,6 +1017,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_108.png
 
+        登场/加入:第16话
+
     .. grid-item::
         :columns: auto
 
@@ -1016,6 +1033,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 108
         | Snes地址 BC324
+        | 武器首地址 BC344
         | PS地址 29010
         | 类型 空陸
         | 移动力 12
@@ -1171,6 +1189,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_109.png
 
+        登场/加入:第16话
+
     .. grid-item::
         :columns: auto
 
@@ -1185,6 +1205,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 109
         | Snes地址 BC34F
+        | 武器首地址 BC36F
         | PS地址 2903B
         | 类型 空陸
         | 移动力 11
@@ -1334,6 +1355,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_B3.png
 
+        登场/加入:第17话
+
     .. grid-item::
         :columns: auto
 
@@ -1348,6 +1371,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 B3
         | Snes地址 BB4C1
+        | 武器首地址 BB4E1
         | PS地址 281B0
         | 类型 空
         | 移动力 8
@@ -1485,6 +1509,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_B4.png
 
+        登场/加入:第17话
+
     .. grid-item::
         :columns: auto
 
@@ -1499,6 +1525,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 B4
         | Snes地址 BB4EC
+        | 武器首地址 BB50C
         | PS地址 281DB
         | 类型 空
         | 移动力 9
@@ -1638,6 +1665,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_AE.png
 
+        登场/加入:第33话
+
     .. grid-item::
         :columns: auto
 
@@ -1652,6 +1681,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 AE
         | Snes地址 BB3D2
+        | 武器首地址 BB3F2
         | PS地址 280C1
         | 类型 空陸
         | 移动力 10
@@ -1864,6 +1894,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_AA.png
 
+        登场/加入:第13话
+
     .. grid-item::
         :columns: auto
 
@@ -1878,6 +1910,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 AA
         | Snes地址 BB30E
+        | 武器首地址 BB32E
         | PS地址 27FFD
         | 类型 空陸
         | 移动力 8
@@ -1993,6 +2026,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_AD.png
 
+        登场/加入:第13话
+
     .. grid-item::
         :columns: auto
 
@@ -2007,6 +2042,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 AD
         | Snes地址 BB3A4
+        | 武器首地址 BB3C4
         | PS地址 28093
         | 类型 空陸
         | 移动力 10
@@ -2171,6 +2207,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_B6.png
 
+        登场/加入:第13话
+
     .. grid-item::
         :columns: auto
 
@@ -2185,6 +2223,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 B6
         | Snes地址 BB53F
+        | 武器首地址 BB55F
         | PS地址 2822E
         | 类型 空
         | 移动力 7
@@ -2299,6 +2338,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_AB.png
 
+        登场/加入:第17话
+
     .. grid-item::
         :columns: auto
 
@@ -2313,6 +2354,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 AB
         | Snes地址 BB336
+        | 武器首地址 BB356
         | PS地址 28025
         | 类型 空陸
         | 移动力 9
@@ -2558,6 +2600,137 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_leprechaun_commentEnd:
 
+^^^^^^^^^^^^^^^^
+ウィル・ウィプス
+^^^^^^^^^^^^^^^^
+
+.. _srw4_unit_will_wipps:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_B5.png
+
+        登场/加入:第17话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 48000
+        | EN 220
+        | 装甲 780
+        | 运动性 36
+        | 限界 190
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 B5
+        | Snes地址 BB517
+        | 武器首地址 BB537
+        | PS地址 28206
+        | 类型 空
+        | 移动力 7
+        | 大小 LL
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A
+        | 陆🚫→D
+        | 海🚫
+        | 宇🚫
+        | オーラバリア
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_B7.png
+
+        | 地形参照
+        | :ref:`ドレイク・ルフト <srw4_pilots_drake_luft>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: オーラバルカンⓅ
+        :columns: 3
+
+    .. grid-item:: 420
+
+    .. grid-item:: 1
+
+    .. grid-item:: +15
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 20
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: オーラキャノン
+        :columns: 3
+
+    .. grid-item:: 1350
+
+    .. grid-item:: 2~8
+
+    .. grid-item:: -18
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 20
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_will_wipps_commentBegin:
+
+
+.. _srw4_unit_will_wipps_commentEnd:
+
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 レプラカーン(ハイパー可)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -2577,6 +2750,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_124.png
 
+        登场/加入:第25话
+
     .. grid-item::
         :columns: auto
 
@@ -2591,6 +2766,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 124
         | Snes地址 BC7F0
+        | 武器首地址 BC810
         | PS地址 294DC
         | 类型 空陸
         | 移动力 9
@@ -2855,6 +3031,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_125.png
 
+        登场/加入:第25话
+
     .. grid-item::
         :columns: auto
 
@@ -2869,6 +3047,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 125
         | Snes地址 BC82D
+        | 武器首地址 BC84D
         | PS地址 29519
         | 类型 空陸
         | 移动力 9
@@ -3114,134 +3293,6 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_hyper_leprechaun_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ウィル・ウィプス
-^^^^^^^^^^^^^^^^
-
-.. _srw4_unit_will_wipps:
-
-
-
-.. grid:: 
-    :gutter: 3
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item::
-        :columns: auto
-
-        .. image:: ../units/images/portrait/srw4_units_portrait_B5.png
-
-    .. grid-item::
-        :columns: auto
-
-        | HP 48000
-        | EN 220
-        | 装甲 780
-        | 运动性 36
-        | 限界 190
-
-    .. grid-item::
-        :columns: auto
-
-        | 编码 B5
-        | Snes地址 BB517
-        | PS地址 28206
-        | 类型 空
-        | 移动力 7
-        | 大小 LL
-
-    .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆🚫→D
-        | 海🚫
-        | 宇🚫
-        | オーラバリア
-
-    .. grid-item::
-        :columns: auto
-
-        .. image:: ../pilots/images/srw4_pilot_B7.png
-
-        | 地形参照
-        | :ref:`ドレイク・ルフト <srw4_pilots_drake_luft>`
-
-
-.. grid:: 
-    :gutter: 3
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 名字
-        :columns: 3
-
-    .. grid-item:: 攻击
-
-    .. grid-item:: 射程
-
-    .. grid-item:: 命中
-
-    .. grid-item:: 暴击
-
-    .. grid-item:: 地形空陆海宇
-        :columns: 3
-
-    .. grid-item:: 残弹/EN
-
-    .. grid-item:: 条件
-
-    .. grid-item::
-        :class: flex-break
-
-    .. grid-item:: オーラバルカンⓅ
-        :columns: 3
-
-    .. grid-item:: 420
-
-    .. grid-item:: 1
-
-    .. grid-item:: +15
-
-    .. grid-item:: -10
-
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-
-    .. grid-item:: 残弹 20
-
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-
-    .. grid-item:: オーラキャノン
-        :columns: 3
-
-    .. grid-item:: 1350
-
-    .. grid-item:: 2~8
-
-    .. grid-item:: -18
-
-    .. grid-item:: 
-
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-
-    .. grid-item:: 残弹 20
-
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-
-.. _srw4_unit_will_wipps_commentBegin:
-
-
-.. _srw4_unit_will_wipps_commentEnd:
-
 ^^^^^^^^
 ブブリィ
 ^^^^^^^^
@@ -3261,6 +3312,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_B0.png
 
+        登场/加入:第31话
+
     .. grid-item::
         :columns: auto
 
@@ -3275,6 +3328,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 B0
         | Snes地址 BB437
+        | 武器首地址 BB457
         | PS地址 28126
         | 类型 空
         | 移动力 13
@@ -3450,6 +3504,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_B7.png
 
+        登场/加入:第31话
+
     .. grid-item::
         :columns: auto
 
@@ -3464,6 +3520,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 B7
         | Snes地址 BB567
+        | 武器首地址 BB587
         | PS地址 28256
         | 类型 空
         | 移动力 12
@@ -3578,6 +3635,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_AC.png
 
+        登场/加入:第33话
+
     .. grid-item::
         :columns: auto
 
@@ -3592,6 +3651,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 AC
         | Snes地址 BB373
+        | 武器首地址 BB393
         | PS地址 28062
         | 类型 空陸
         | 移动力 10
@@ -3776,6 +3836,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_B1.png
 
+        登场/加入:第33话
+
     .. grid-item::
         :columns: auto
 
@@ -3790,6 +3852,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 B1
         | Snes地址 BB468
+        | 武器首地址 BB488
         | PS地址 28157
         | 类型 空
         | 移动力 12
@@ -3926,6 +3989,449 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_gallaba_commentEnd:
 
+^^^^^^^^^^^^^^^^^^^^^^^^
+ライネック(ハイパー可)
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _srw4_unit_wryneck_hyper_available:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_126.png
+
+        登场/加入:第33话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 2200
+        | EN 170
+        | 装甲 660
+        | 运动性 48
+        | 限界 190
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 126
+        | Snes地址 BC86A
+        | 武器首地址 BC88A
+        | PS地址 29556
+        | 类型 空陸
+        | 移动力 10
+        | 大小 S
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A
+        | 陆A
+        | 海B→C
+        | 宇B
+        | 分身
+        | 剣装備
+        | オーラバリア
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_B4.png
+
+        | 地形参照
+        | :ref:`トッド・ギネス <srw4_pilots_tod_guines>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: オーラバルカンⓅ
+        :columns: 3
+
+    .. grid-item:: 400
+
+    .. grid-item:: 1
+
+    .. grid-item:: +15
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 8
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ミサイルポッド⚔
+        :columns: 3
+
+    .. grid-item:: 950
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -10
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 6
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: オーラソード🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1150
+
+    .. grid-item:: 1
+
+    .. grid-item:: +15
+
+    .. grid-item:: +30
+
+    .. grid-item:: 空A陆A海A→B宇A→B
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ワイヤークロー🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1370
+
+    .. grid-item:: 1
+
+    .. grid-item:: -5
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海A→B宇A→B
+        :columns: 3
+
+    .. grid-item:: 残弹 4
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: オーラ斬り🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 2000
+
+    .. grid-item:: 1
+
+    .. grid-item:: -10
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A陆A海A→B宇A→B
+        :columns: 3
+
+    .. grid-item:: EN 0 (20)
+
+    .. grid-item:: 
+
+        | 必要气力 120
+        | 必要技能 聖戦士
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾊｲﾊﾟｰｵｰﾗ斬り🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 3000
+
+    .. grid-item:: 1
+
+    .. grid-item:: -15
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A陆A海A→B宇A→B
+        :columns: 3
+
+    .. grid-item:: EN 0 (35)
+
+    .. grid-item:: 
+
+        | 必要气力 140
+        | 必要技能 聖戦士
+
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_wryneck_hyper_available_commentBegin:
+
+
+.. _srw4_unit_wryneck_hyper_available_commentEnd:
+
+^^^^^^^^^^^^^^^^^^
+ハイパーライネック
+^^^^^^^^^^^^^^^^^^
+
+.. _srw4_unit_hyper_wryneck:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_127.png
+
+        登场/加入:第33话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 42000
+        | EN 170
+        | 装甲 660
+        | 运动性 48
+        | 限界 190
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 127
+        | Snes地址 BC89E
+        | 武器首地址 BC8BE
+        | PS地址 2958A
+        | 类型 空陸
+        | 移动力 10
+        | 大小 LL
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A
+        | 陆A
+        | 海B→C
+        | 宇B
+        | 分身 (仅PlayStation)
+        | 剣装備
+        | オーラバリア
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_B4.png
+
+        | 地形参照
+        | :ref:`トッド・ギネス <srw4_pilots_tod_guines>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: オーラバルカンⓅ
+        :columns: 3
+
+    .. grid-item:: 400
+
+    .. grid-item:: 1
+
+    .. grid-item:: +15
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 8
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ミサイルポッド⚔
+        :columns: 3
+
+    .. grid-item:: 950
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -10
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 6
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: オーラソード🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1150
+
+    .. grid-item:: 1
+
+    .. grid-item:: +15
+
+    .. grid-item:: +30
+
+    .. grid-item:: 空A陆A海A→B宇A→B
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ワイヤークロー🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1370
+
+    .. grid-item:: 1
+
+    .. grid-item:: -5
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海A→B宇A→B
+        :columns: 3
+
+    .. grid-item:: 残弹 4
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: オーラ斬り🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 2000
+
+    .. grid-item:: 1
+
+    .. grid-item:: -10
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A陆A海A→B宇A→B
+        :columns: 3
+
+    .. grid-item:: EN 0 (20)
+
+    .. grid-item:: 
+
+        | 必要气力 120
+        | 必要技能 聖戦士
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾊｲﾊﾟｰｵｰﾗ斬り🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 3000
+
+    .. grid-item:: 1
+
+    .. grid-item:: -15
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A陆A海A→B宇A→B
+        :columns: 3
+
+    .. grid-item:: EN 0 (35)
+
+    .. grid-item:: 
+
+        | 必要气力 140
+        | 必要技能 聖戦士
+
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_hyper_wryneck_commentBegin:
+
+第四次中巨大化之后反而丧失了分身能力，第四次S中修正。
+
+.. _srw4_unit_hyper_wryneck_commentEnd:
+
 ^^^^^^^^^^^^^^^^^^^^
 ガラバ(ハイパー可)
 ^^^^^^^^^^^^^^^^^^^^
@@ -3945,6 +4451,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_128.png
 
+        登场/加入:第33话
+
     .. grid-item::
         :columns: auto
 
@@ -3959,6 +4467,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 128
         | Snes地址 BC8D2
+        | 武器首地址 BC8F2
         | PS地址 295BE
         | 类型 空
         | 移动力 12
@@ -4114,6 +4623,8 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         .. image:: ../units/images/portrait/srw4_units_portrait_129.png
 
+        登场/加入:第33话
+
     .. grid-item::
         :columns: auto
 
@@ -4128,6 +4639,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
         | 编码 129
         | Snes地址 BC900
+        | 武器首地址 BC920
         | PS地址 295EC
         | 类型 空
         | 移动力 12
