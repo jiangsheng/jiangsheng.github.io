@@ -440,7 +440,7 @@ GP-03デンドロビウム
 GP-03ステイメン
 ^^^^^^^^^^^^^^^^^^^^
 
-.. _srw4_unit_gp_03_staymen:
+.. _srw4_unit_gp_03_staymen_final:
 
 
 
@@ -583,19 +583,19 @@ GP-03ステイメン
     .. grid-item::
         :class: flex-break
 
-.. _srw4_unit_gp_03_staymen_commentBegin:
+.. _srw4_unit_gp_03_staymen_final_commentBegin:
 
 仍然不建议改造，因为最后会升级成非常不实用的GP-03デンドロビウム。仍然是可靠的探宝机。
 
 第四次中GP-01FB的陆地适应是B，换机之后升级到了A，攻防有所上升。
 
-.. _srw4_unit_gp_03_staymen_commentEnd:
+.. _srw4_unit_gp_03_staymen_final_commentEnd:
 
 ^^^^^^^^^^^^^^^^^^^^
 GP-03ステイメン
 ^^^^^^^^^^^^^^^^^^^^
 
-.. _srw4_unit_gp_03_staymen:
+.. _srw4_unit_gp_03_staymen_first:
 
 
 
@@ -738,11 +738,11 @@ GP-03ステイメン
     .. grid-item::
         :class: flex-break
 
-.. _srw4_unit_gp_03_staymen_commentBegin:
+.. _srw4_unit_gp_03_staymen_first_commentBegin:
 
 GP-03デンドロビウム入手的时候被替换成上面那个版本，改造继承。和分离的对象相比，除了能被分离出来这个能力之外，并无不同。
 
-.. _srw4_unit_gp_03_staymen_commentEnd:
+.. _srw4_unit_gp_03_staymen_first_commentEnd:
 
 ^^^^^^^^^^^^
 GP-02A
