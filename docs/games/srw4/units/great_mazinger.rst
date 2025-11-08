@@ -1,26 +1,48 @@
 .. meta::
-   :description: 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。 大魔神机体属性和マジンガーZ比起来全面提升，但是武器方面导弹数量少了一些，サンダーブレーク油耗也更高，所以持久能力比マジンガーZ差。在经常打到弹尽粮绝的オルドナ＝ポセイダル这一话中和グレンダイザー一起作为影响战局的消耗低的超级系
-
+   :description: グレートマジンガー机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。グレートマジンガー, ビューナスA, 戦闘獣グラトニオス, 戦闘獣オベリウス, 暗黒大将軍, ハーディアス, ドレイドウ, 戦闘獣ズガール 
 .. _srw4_units_great_mazinger:
 
+==========================
 グレートマジンガー登场机体
-=========================================
+==========================
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。
 
------------------
-我方机体
------------------
+.. _srw4_units_great_mazinger_commentBegin:
 
-^^^^^^^^^^^^^^^^^^^^^^
+
+.. _srw4_units_great_mazinger_commentEnd:
+
+--------
+我军机体
+--------
+.. _srw4_units_great_mazinger_own_commentBegin:
+
+
+.. _srw4_units_great_mazinger_own_commentEnd:
+
+^^^^^^^^^^^^^^^^^^
 グレートマジンガー
-^^^^^^^^^^^^^^^^^^^^^^
-.. grid:: 
+^^^^^^^^^^^^^^^^^^
 
-    .. grid-item-card::
-        :columns: 2   
+.. _srw4_unit_great_mazinger:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
 
         .. image:: ../units/images/portrait/srw4_units_portrait_20.png
+        
+        登场/加入:第23话
+    .. grid-item::
+        :columns: auto
 
         | HP 3800
         | EN 180
@@ -28,135 +50,302 @@
         | 运动性 28
         | 限界 150
 
-    .. grid-item-card::
+    .. grid-item::
         :columns: auto
 
         | 编码 20
-        | 类型 空陆
+        | Snes地址 B9A70
+        | 武器首地址 B9A90
+        | PS地址 2675F
+        | 类型 空陸
         | 移动力 7
         | 大小 M
-        | 空B(A)
-        | 陆A
-        | 海B
-        | 宇B
-    .. grid-item-card:: ニーインパルスキックⓅ🤛
+
+    .. grid-item::
         :columns: auto
 
-        | 攻击 650(750)
-        | 射程 1
-        | 命中 +35
-        | 暴击 +10
-        | 空A→B(A)陆A
-        | 海A→B宇A→B
-    .. grid-item-card:: バックスピンキックⓅ🤛
+        | 空B (A)→D (C)
+        | 陆A→C
+        | 海B→D
+        | 宇B→D
+
+    .. grid-item::
         :columns: auto
 
-        | 攻击 720(820)
-        | 射程 1
-        | 命中 +30
-        | 暴击 +10
-        | 空A→B(A)陆A
-        | 海A→B宇A→B
-    .. grid-item-card:: ネーブルミサイル
-        :columns: auto
+        .. image:: ../pilots/images/srw4_pilot_56.png
 
-        | 攻击 1000
-        | 射程 1~6
-        | 命中 -5
-        | 暴击 -10
-        | 空A陆A海A宇A
-        | 弹数 8
+        | 地形参照
+        | :ref:`神北兵左ェ門 <srw4_pilots_heizaemon_kamikita>`
 
-    .. grid-item-card:: マジンガーブレードⓅ🤛
-        :columns: auto
 
-        | 攻击 1300 (1400)
-        | 射程 1
-        | 命中 +5
-        | 暴击 +20
-        | 空A→B(A)陆A
-        | 海A→B宇A→B
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
 
-    .. grid-item-card:: グレートブーメランⓅ
-        :columns: auto
+    .. grid-item:: 名字
+        :columns: 3
 
-        | 攻击 1300 (1600)
-        | 射程 1~5
-        | 命中 -5
-        | 暴击 +0
-        | 空A陆A海B宇A
-        | 弹数 2
+    .. grid-item:: 攻击
 
-    .. grid-item-card:: スクランブルカッターⓅ🤛
-        :columns: auto
+    .. grid-item:: 射程
 
-        | 攻击 1350 (1500)
-        | 射程 1
-        | 命中 +0
-        | 暴击 +20
-        | 空A→B(A)陆A
-        | 海A→B宇A→B
+    .. grid-item:: 命中
 
-    .. grid-item-card:: グレートタイフーン	Ⓟ
-        :columns: auto
+    .. grid-item:: 暴击
 
-        | 攻击 1500 (1600)
-        | 射程 1
-        | 命中 +10
-        | 暴击 -10
-        | 空A陆A海🚫宇🚫
-        | 消耗EN 25
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
 
-    .. grid-item-card:: アトミックパンチⓅ
-        :columns: auto
+    .. grid-item:: 残弹/EN
 
-        | 攻击 1600 (1900)
-        | 射程 1~3
-        | 命中 -5
-        | 暴击 +20
-        | 空A陆A海A宇A
-        | 弹数 2
+    .. grid-item:: 条件
 
-    .. grid-item-card:: ドリルプレッシャーパンチⓅ	
-        :columns: auto
+    .. grid-item::
+        :class: flex-break
 
-        | 攻击 1800 (2300)
-        | 射程 1~3
-        | 命中 -5
-        | 暴击 +30
-        | 空A陆A海A宇A
-        | 弹数 2
+    .. grid-item:: ﾆｰｲﾝﾊﾟﾙｽｷｯｸ🤛Ⓟ
+        :columns: 3
 
-    .. grid-item-card:: ブレストバーンⓅ	
-        :columns: auto
+    .. grid-item:: 650(750)
 
-        | 攻击 2180 (2900)
-        | 射程 1
-        | 命中 +12
-        | 暴击 -10
-        | 空A陆A海C宇A
-        | 消耗EN 30
+    .. grid-item:: 1
 
-    .. grid-item-card:: サンダーブレークⓅ	
-        :columns: auto
+    .. grid-item:: +35
 
-        | 攻击 2900 (3200)
-        | 射程 1
-        | 命中 +15
-        | 暴击 -10
-        | 空A陆A海🚫宇A
-        | 消耗EN 40
+    .. grid-item:: +10
 
-    .. grid-item-card:: グレートブースターⓅ🤛
-        :columns: auto
+    .. grid-item:: 空A→C (B)陆A→B海A→C宇A→C
+        :columns: 3
 
-        | 攻击 3850
-        | 射程 1
-        | 命中 +5
-        | 暴击 +30
-        | 空A→B(A)陆A
-        | 海A→B宇A→B
-        | 弹数 1
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾊﾞｯｸｽﾋﾟﾝｷｯｸ🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 720(820)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +30
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A→C (B)陆A→B海A→C宇A→C
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ネーブルミサイル⚔
+        :columns: 3
+
+    .. grid-item:: 1000
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -5
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 8
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾏｼﾞﾝｶﾞｰﾌﾞﾚｰﾄﾞ🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1300(1400)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +5
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A→C (B)陆A→B海A→C宇A→C
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ｸﾞﾚｰﾄﾌﾞｰﾒﾗﾝ⚔
+        :columns: 3
+
+    .. grid-item:: 1300(1600)
+
+    .. grid-item:: 1~5
+
+    .. grid-item:: -5
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海B宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 2
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ｽｸﾗﾝﾌﾞﾙｶｯﾀｰ🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1350(1500)
+
+    .. grid-item:: 1
+
+    .. grid-item:: 0 (-5)
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A→C (B)陆A→B海B→C宇A→C
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ｸﾞﾚｰﾄﾀｲﾌｰﾝⓅ
+        :columns: 3
+
+    .. grid-item:: 1500(1600)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +10
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海🚫宇🚫
+        :columns: 3
+
+    .. grid-item:: EN 25
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: アトミックパンチ⚔Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1600(1900)
+
+    .. grid-item:: 1~3
+
+    .. grid-item:: -5
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 2
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾄﾞﾘﾙﾌﾟﾚｯｼｬｰﾊﾟﾝﾁ⚔Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1800(2300)
+
+    .. grid-item:: 1~3
+
+    .. grid-item:: -5
+
+    .. grid-item:: +30
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 2
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ブレストバーンⓅ
+        :columns: 3
+
+    .. grid-item:: 2180(2900)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +12
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海C宇A
+        :columns: 3
+
+    .. grid-item:: EN 30
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: サンダーブレークⓅ
+        :columns: 3
+
+    .. grid-item:: 2900(3200)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +15
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: EN 40
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ｸﾞﾚｰﾄﾌﾞｰｽﾀｰⓅ
+        :columns: 3
+
+    .. grid-item:: 3850
+
+    .. grid-item:: 1
+
+    .. grid-item:: +5
+
+    .. grid-item:: +30
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 1
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_great_mazinger_commentBegin:
 
 大魔神机体属性和マジンガーZ比起来全面提升，但是武器方面导弹数量少了一些，サンダーブレーク油耗也更高，所以持久能力比マジンガーZ差。在经常打到弹尽粮绝的オルドナ＝ポセイダル这一话中和グレンダイザー一起作为影响战局的消耗低的超级系机体。用他们作为墙阻挡敌军，让地图武器可以回复EN。
 
@@ -166,12 +355,1100 @@
 
 大助推器不知为何在F完结篇变成了一种投射道具。至少在本作还是一种近战武器。
 
+.. _srw4_unit_great_mazinger_commentEnd:
 
------------------
-敌方机体
------------------
+^^^^^^^^^^^^
+ビューナスA
+^^^^^^^^^^^^
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-惡靈將軍ハーディアス 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-最强武器不能对海但是利用机会不多。
+.. _srw4_unit_venus_a:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_2C.png
+
+        登场/加入:第23话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 3400
+        | EN 170
+        | 装甲 710 (750)
+        | 运动性 23
+        | 限界 135
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 2C
+        | Snes地址 B9CE3
+        | 武器首地址 B9D03
+        | PS地址 269D2
+        | 类型 空陸
+        | 移动力 7
+        | 大小 M
+
+    .. grid-item::
+        :columns: auto
+
+        | 空B (A)
+        | 陆A→B
+        | 海C
+        | 宇B
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_48.png
+
+        | 地形参照
+        | :ref:`炎ジュン <srw4_pilots_jun_hono>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 修理装置Ⓟ🔧
+        :columns: 3
+
+    .. grid-item:: 0
+
+    .. grid-item:: 1
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 5
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 格闘🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 750
+
+    .. grid-item:: 1
+
+    .. grid-item:: +20
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A→B (A)陆A→B海A→B宇A→B
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾌｨﾝｶﾞｰﾐｻｲﾙ⚔Ⓟ
+        :columns: 3
+
+    .. grid-item:: 780(850)
+
+    .. grid-item:: 1~2
+
+    .. grid-item:: +12
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 2
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 光子力ビームⒷⓅ
+        :columns: 3
+
+    .. grid-item:: 1000(1200)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +5
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: EN 15
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 光子力ミサイル⚔
+        :columns: 3
+
+    .. grid-item:: 1100(1200)
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -5
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 4
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_venus_a_commentBegin:
+
+
+.. _srw4_unit_venus_a_commentEnd:
+
+--------
+敌军机体
+--------
+.. _srw4_units_great_mazinger_enemy_commentBegin:
+
+
+.. _srw4_units_great_mazinger_enemy_commentEnd:
+
+^^^^^^^^^^^^
+ハーディアス
+^^^^^^^^^^^^
+
+.. _srw4_unit_hardias:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_110.png
+
+        登场/加入:第2话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 16000
+        | EN 200
+        | 装甲 490
+        | 运动性 32
+        | 限界 200
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 110
+        | Snes地址 BC479
+        | 武器首地址 BC499
+        | PS地址 29165
+        | 类型 空陸
+        | 移动力 8
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A
+        | 陆A
+        | 海B→C
+        | 宇🚫
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_C6.png
+
+        | 地形参照
+        | :ref:`悪霊将軍ハーディアス <srw4_pilots_evil_spirit_general_hadias>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ｲﾋﾞﾙｻｲｽﾞ🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 980
+
+    .. grid-item:: 1
+
+    .. grid-item:: +15
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A陆A海A→B宇A→🚫
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: カーズ
+        :columns: 3
+
+    .. grid-item:: 1370
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: +5
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: EN 10
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾍﾙﾌｧｲﾔｰ🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1630
+
+    .. grid-item:: 1
+
+    .. grid-item:: +10
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海🚫宇🚫
+        :columns: 3
+
+    .. grid-item:: EN 5
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_hardias_commentBegin:
+
+惡靈將軍的最强武器不能对海但是利用机会不多。
+
+.. _srw4_unit_hardias_commentEnd:
+
+^^^^^^^^^^^^^^^^^^
+戦闘獣グラトニオス
+^^^^^^^^^^^^^^^^^^
+
+.. _srw4_unit_warrior_beast_gratonios:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_9E.png
+
+        登场/加入:第6话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 6500
+        | EN 200
+        | 装甲 500
+        | 运动性 30
+        | 限界 180
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 9E
+        | Snes地址 BB116
+        | 武器首地址 BB136
+        | PS地址 27E05
+        | 类型 水陸空
+        | 移动力 8
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A
+        | 陆A
+        | 海A
+        | 宇B
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 振動波
+        :columns: 3
+
+    .. grid-item:: 800
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -10
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海B宇🚫
+        :columns: 3
+
+    .. grid-item:: EN 25
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ムチ🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1220
+
+    .. grid-item:: 1
+
+    .. grid-item:: 
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海A宇A→B
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ドリル🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1380
+
+    .. grid-item:: 1
+
+    .. grid-item:: +4
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海A宇A→B
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 破壊光線
+        :columns: 3
+
+    .. grid-item:: 2100
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -20
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海B宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 18
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_warrior_beast_gratonios_commentBegin:
+
+
+.. _srw4_unit_warrior_beast_gratonios_commentEnd:
+
+^^^^^^^^^^^^^^^^
+戦闘獣オベリウス
+^^^^^^^^^^^^^^^^
+
+.. _srw4_unit_warrior_beast_obelius:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_9F.png
+
+        登场/加入:第6话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 6700
+        | EN 200
+        | 装甲 500
+        | 运动性 30
+        | 限界 180
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 9F
+        | Snes地址 BB144
+        | 武器首地址 BB164
+        | PS地址 27E33
+        | 类型 空
+        | 移动力 8
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A
+        | 陆🚫
+        | 海🚫
+        | 宇🚫
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ミサイル⚔
+        :columns: 3
+
+    .. grid-item:: 800
+
+    .. grid-item:: 1~5
+
+    .. grid-item:: -5
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 10
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: くちばし🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1100
+
+    .. grid-item:: 1
+
+    .. grid-item:: +8
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A→🚫海A→🚫宇A→🚫
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 破壊光線
+        :columns: 3
+
+    .. grid-item:: 2100
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -20
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海B宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 18
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_warrior_beast_obelius_commentBegin:
+
+
+.. _srw4_unit_warrior_beast_obelius_commentEnd:
+
+^^^^^^^^^^
+ドレイドウ
+^^^^^^^^^^
+
+.. _srw4_unit_draydou:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_111.png
+
+        登场/加入:第6话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 16000
+        | EN 200
+        | 装甲 500
+        | 运动性 32
+        | 限界 200
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 111
+        | Snes地址 BC4A4
+        | 武器首地址 BC4C4
+        | PS地址 29190
+        | 类型 空陸
+        | 移动力 6
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空B (A)
+        | 陆A
+        | 海B
+        | 宇🚫→D
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_C7.png
+
+        | 地形参照
+        | :ref:`妖爬虫将軍ドレイドウ <srw4_pilots_reptilian_general_draydou>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾌｧｲﾔｰﾌﾞﾚｽⓅ
+        :columns: 3
+
+    .. grid-item:: 1000
+
+    .. grid-item:: 1
+
+    .. grid-item:: 
+
+    .. grid-item:: +30
+
+    .. grid-item:: 空A陆A海A宇🚫
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 破壊光線⚔
+        :columns: 3
+
+    .. grid-item:: 1180
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -5
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海B宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 20
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: アイアンクロー🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1500
+
+    .. grid-item:: 1
+
+    .. grid-item:: +10
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A→B (A)陆A海A→B宇A→C
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_draydou_commentBegin:
+
+
+.. _srw4_unit_draydou_commentEnd:
+
+^^^^^^^^^^^^^^
+戦闘獣ズガール
+^^^^^^^^^^^^^^
+
+.. _srw4_unit_warrior_beast_zugar:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_119.png
+            
+        登场/加入:第18话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 7000
+        | EN 180
+        | 装甲 520
+        | 运动性 30
+        | 限界 190
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 119
+        | Snes地址 BC60B
+        | 武器首地址 BC62B
+        | PS地址 292F7
+        | 类型 空陸
+        | 移动力 8
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A
+        | 陆B
+        | 海D
+        | 宇🚫
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 怪光線
+        :columns: 3
+
+    .. grid-item:: 1200
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -2
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海B宇A
+        :columns: 3
+
+    .. grid-item:: EN 5
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: した🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1220
+
+    .. grid-item:: 1
+
+    .. grid-item:: +11
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A→B海A→C宇A→🚫
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾍﾙﾌｧｲﾔｰ🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1630
+
+    .. grid-item:: 1
+
+    .. grid-item:: +10
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A→B海🚫宇🚫
+        :columns: 3
+
+    .. grid-item:: EN 5
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_warrior_beast_zugar_commentBegin:
+
+
+.. _srw4_unit_warrior_beast_zugar_commentEnd:
+
+^^^^^^^^^^
+暗黒大将軍
+^^^^^^^^^^
+
+.. _srw4_unit_great_general_of_darkness:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_10F.png
+            
+        登场/加入:第30话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 22000 (32000)
+        | EN 255
+        | 装甲 580
+        | 运动性 35 (39)
+        | 限界 210
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 10F
+        | Snes地址 BC44E
+        | 武器首地址 BC46E
+        | PS地址 2913A
+        | 类型 空陸
+        | 移动力 6
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空B (A)
+        | 陆A
+        | 海B (A)→B
+        | 宇🚫→D
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_C5.png
+
+        | 地形参照
+        | :ref:`暗黒大将軍 <srw4_pilots_great_general_of_darkness>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾀﾞｰｸｻｰﾍﾞﾙ🤛Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1200(1400)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +10
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A→B (A)陆A海A→B宇A→C
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ハリケーン
+        :columns: 3
+
+    .. grid-item:: 1580
+
+    .. grid-item:: 1~3
+
+    .. grid-item:: -12
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海🚫宇🚫
+        :columns: 3
+
+    .. grid-item:: EN 10
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 超破壊光線
+        :columns: 3
+
+    .. grid-item:: 2200
+
+    .. grid-item:: 1~8
+
+    .. grid-item:: -10
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 16
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_great_general_of_darkness_commentBegin:
+
+
+.. _srw4_unit_great_general_of_darkness_commentEnd:
+
