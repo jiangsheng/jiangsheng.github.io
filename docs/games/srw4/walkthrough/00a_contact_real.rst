@@ -26,20 +26,20 @@
 敌方初始配置
 -------------
 
-* :ref:`マラサイ <srw4_units_ms_z_gundam>`\  ×3
-* :ref:`ザク改 <srw4_units_ms_z_gundam>`\  ×2
-* :ref:`ミニフォー <srw4_units_getter_robo>`\  ×3
+* :ref:`マラサイ <srw4_unit_marasai>`\  ×3
+* :ref:`ザク改 <srw4_unit_zaku_kai>`\  ×2
+* :ref:`ミニフォー <srw4_unit_minifo>`\  ×3
 
 -------------
 我方援军
 -------------
 
-* \ :ref:`ゴーショーグン <srw4_units_goshogun>`\ （\ :ref:`真吾 <srw4_pilots_goshogun>`\ ）
+* \ :ref:`ゴーショーグン <srw4_unit_goshogun>`\ （\ :ref:`真吾 <srw4_pilots_goshogun>`\ ）
 
 -------------
 第三方援军
 -------------
-* \ :ref:`ゲイオス＝グルード <srw4_units_banpresto_originals>`\ （\ :ref:`ロフ <srw4_pilots_banpresto_originals>`\ ）
+* \ :ref:`ゲイオス＝グルード <srw4_unit_geios_glud>`\ （\ :ref:`ロフ <srw4_pilots_banpresto_originals>`\ ）
 
 -------------
 地图物品

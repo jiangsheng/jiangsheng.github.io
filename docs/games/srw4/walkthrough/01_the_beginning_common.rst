@@ -7,7 +7,7 @@
     
     主舰可以搭载其他的机体一起行动抢占有利\ :ref:`地形 <srw4_terrain>`\ ，但是进入主舰时\ :ref:`气力 <srw4_willpower>`\ 会降低5点。在主舰中HP和EN每回合会恢复25%，弹药则是会全部恢复。主舰中有机体的时候会有发进指令，可以让机体出击到指定的位置。
 
-\ :ref:`ガンタンク <srw4_unit_guntank>`\ 和\ :ref:`マリンスペイザー <srw4_unit_marine_spacer>`\ 战斗后入手。
+\ :ref:`ガンタンク <srw4_unit_gun_tank>`\ 和\ :ref:`マリンスペイザー <srw4_unit_marine_spacer>`\ 战斗后入手。
 
 [SRW4] 建议SRW4真实系选择8回合以上，不然Sガンダム、ヤクト・ドーガ（赤）和ロザミア之间会产生冲突。SRW4S没有这个限制，可以走另一条路线。参考\ :ref:`隐藏要素 <srw4_missable>` \ 。
 
