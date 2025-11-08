@@ -1,24 +1,49 @@
 .. meta::
-   :description: GP-01为宇宙战改造的高机动版本，但是在本作中宇宙战还没开始，GP-03ステイメン入手时就废弃了（可以提前卖掉换钱）。改造段数不被GP-03继承，所以不建议改造。 移动力超高，是早期十分有用的探宝机，尽管第四次S中陆地适应升级到了A，不过移动力这么高不拿来探宝浪费了。可以考虑使用具有加速的キース作为探宝机师。 仍然不
+   :description: 機動戦士ガンダム0083机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。GP-01Fb, GP-02A, GP-03デンドロビウム, GP-03ステイメン, ヴァル・ヴァロ, ガーベラ・テトラ, ノイエ・ジール, GP-03ステイメン 
+.. _srw4_units_mobile_suit_gundam_0083:
 
-.. _srw4_units_ms_gundam_0083:
-
+================================
 機動戦士ガンダム0083登场机体
-=================================
+================================
 
------------------
-我方机体
------------------
+括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。
 
-^^^^^^^^^^^^^^^^
+.. _srw4_units_mobile_suit_gundam_0083_commentBegin:
+
+
+.. _srw4_units_mobile_suit_gundam_0083_commentEnd:
+
+--------
+我军机体
+--------
+.. _srw4_units_mobile_suit_gundam_0083_own_commentBegin:
+
+
+.. _srw4_units_mobile_suit_gundam_0083_own_commentEnd:
+
+^^^^^^^^^^^^^^
 GP-01Fb
-^^^^^^^^^^^^^^^^
-.. grid:: 
+^^^^^^^^^^^^^^
 
-    .. grid-item-card::
-        :columns: 2   
+.. _srw4_unit_gp_01fb:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
 
         .. image:: ../units/images/portrait/srw4_units_portrait_0C.png
+
+        登场/加入:第1话
+
+    .. grid-item::
+        :columns: auto
 
         | HP 1800
         | EN 160
@@ -26,127 +51,174 @@ GP-01Fb
         | 运动性 36
         | 限界 170
 
-    .. grid-item-card::
+    .. grid-item::
         :columns: auto
 
         | 编码 0C
-        | 类型 陆
+        | Snes地址 B96CA
+        | 武器首地址 B96EA
+        | PS地址 263B9
+        | 类型 陸宇
         | 移动力 12
         | 大小 M
+
+    .. grid-item::
+        :columns: auto
+
         | 空🚫→D
-        | 陆B(A)
+        | 陆B (A)
         | 海D→C
         | 宇A
-        | シールド
-    .. grid-item-card:: バルカンⓅ
+        | 盾装備
+        | 剣装備
+
+    .. grid-item::
         :columns: auto
 
-        | 攻击 330
-        | 射程 1
-        | 命中 +35
-        | 暴击 -10
-        | 空A陆A海A宇A
-        | 弹数 5
-    .. grid-item-card:: ビームサーベルⓅ🤛
-        :columns: auto
+        .. image:: ../pilots/images/srw4_pilot_54.png
 
-        | 攻击 920
-        | 射程 1
-        | 命中 +20
-        | 暴击 +20
-        | 空🚫陆A→B(A)海A→C宇A
-    .. grid-item-card:: ビームガンⒷ
-        :columns: auto
+        | 地形参照
+        | :ref:`コウ・ウラキ <srw4_pilots_kou_uraki>`
 
-        | 攻击 1000
-        | 射程 1~6
-        | 命中 +5
-        | 暴击 +0
-        | 空A陆A海🚫宇A
-        | 弹数 3
-    .. grid-item-card:: ビームライフルⒷ	
-        :columns: auto
 
-        | 攻击 1020
-        | 射程 1~6
-        | 命中 +0
-        | 暴击 +10
-        | 空A陆A海🚫宇A
-        | 弹数 8
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: バルカンⓅ
+        :columns: 3
+
+    .. grid-item:: 330
+
+    .. grid-item:: 1
+
+    .. grid-item:: +35
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 5
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+        :columns: 3
+
+    .. grid-item:: 920
+
+    .. grid-item:: 1
+
+    .. grid-item:: +20
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A→🚫陆A→B (A)海A→B宇A
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ビームガンⒷ
+        :columns: 3
+
+    .. grid-item:: 1000
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: +5
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 3
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ビームライフルⒷ
+        :columns: 3
+
+    .. grid-item:: 1020
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: 
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 8
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_gp_01fb_commentBegin:
 
 GP-01为宇宙战改造的高机动版本，但是在本作中宇宙战还没开始，GP-03ステイメン入手时就废弃了（可以提前卖掉换钱）。改造段数不被GP-03继承，所以不建议改造。
 
 移动力超高，是早期十分有用的探宝机，尽管第四次S中陆地适应升级到了A，不过移动力这么高不拿来探宝浪费了。可以考虑使用具有加速的キース作为探宝机师。
 
-^^^^^^^^^^^^^^^^
-GP-03ステイメン
-^^^^^^^^^^^^^^^^
-.. grid::
+.. _srw4_unit_gp_01fb_commentEnd:
 
-    .. grid-item-card::
-        :columns: 2
-
-        .. image:: ../units/images/portrait/srw4_units_portrait_0F.png
-
-        | HP 1900
-        | EN 250
-        | 装甲 280
-        | 运动性 36
-        | 限界 180
-
-    .. grid-item-card::
-        :columns: auto
-
-        | 编码 0F
-        | 类型 陆
-        | 移动力 12
-        | 大小 M
-        | 空🚫→D
-        | 陆A
-        | 海C
-        | 宇A
-        | シールド
-    .. grid-item-card:: ビームサーベルⓅ🤛
-        :columns: auto
-
-        | 攻击 940
-        | 射程 1
-        | 命中 +20
-        | 暴击 +20
-        | 空🚫陆A海A→C宇A
-    .. grid-item-card:: ビームライフルⒷ	
-        :columns: auto
-
-        | 攻击 1050
-        | 射程 1~6
-        | 命中 +0
-        | 暴击 +10
-        | 空A陆A海🚫宇A
-        | 弹数 8
-    .. grid-item-card:: フォールディングバズーカ
-        :columns: auto
-
-        | 攻击 1250(1350)
-        | 射程 2~6
-        | 命中 -5
-        | 暴击 +0
-        | 空A陆A海A宇A
-        | 弹数 2
-
-仍然不建议改造，因为最后会升级成非常不实用的GP-03デンドロビウム。仍然是可靠的探宝机。
-
-第四次中GP-01FB的陆地适应是B，换机之后升级到了A，攻防有所上升。
-
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 GP-03デンドロビウム
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. grid::
+.. _srw4_unit_gp_03_dendrobium:
 
-    .. grid-item-card::
-        :columns: 2
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
 
         .. image:: ../units/images/portrait/srw4_units_portrait_0E.png
+
+        登场/加入:第38话
+
+    .. grid-item::
+        :columns: auto
 
         | HP 5200
         | EN 250
@@ -154,89 +226,204 @@ GP-03デンドロビウム
         | 运动性 30
         | 限界 180
 
-    .. grid-item-card::
+    .. grid-item::
         :columns: auto
 
         | 编码 0E
+        | Snes地址 B9727
+        | 武器首地址 B9747
+        | PS地址 26416
         | 类型 宇宙
         | 移动力 12
         | 大小 LL
-        | 空🚫→D
-        | 陆🚫→C
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A (🚫)→B (D)
+        | 陆A (🚫)→A (C)
         | 海🚫→D
         | 宇A
+        | 剣装備
         | Iフィールド
-        | 分离
 
-    .. grid-item-card:: 集束ミサイル
+    .. grid-item::
         :columns: auto
 
-        | 攻击 940
-        | 射程 1~6
-        | 命中 +5
-        | 暴击 +0
-        | 空A陆A海A宇A
-        | 弹数 2
+        .. image:: ../pilots/images/srw4_pilot_54.png
 
-    .. grid-item-card:: ビームライフルⒷ	
-        :columns: auto
+        | 地形参照
+        | :ref:`コウ・ウラキ <srw4_pilots_kou_uraki>`
 
-        | 攻击 1050
-        | 射程 1~6
-        | 命中 +0
-        | 暴击 +10
-        | 空A陆A海🚫宇A
-        | 弹数 8
 
-    .. grid-item-card:: フォールディングバズーカ
-        :columns: auto
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
 
-        | 攻击 1250(1350)
-        | 射程 2~6
-        | 命中 -5
-        | 暴击 +0
-        | 空A陆A海A宇A
-        | 弹数 2
+    .. grid-item:: 名字
+        :columns: 3
 
-    .. grid-item-card:: マイクロミサイル(M)
-        :columns: auto
+    .. grid-item:: 攻击
 
-        | 攻击 1400
-        | 射程 1~8
-        | 命中 +10
-        | 暴击 -10
-        | 空A陆A海A宇A
-        | 弹数 3
+    .. grid-item:: 射程
 
-    .. grid-item-card:: 大型ビームサーベルⓅ🤛
-        :columns: auto
+    .. grid-item:: 命中
 
-        | 攻击 1700(2400)
-        | 射程 1
-        | 命中 +20
-        | 暴击 +10
-        | 空A→🚫陆→🚫
-        | 海A→🚫宇A
+    .. grid-item:: 暴击
 
-    .. grid-item-card:: 爆導索(M)
-        :columns: auto
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
 
-        | 攻击 2100
-        | 射程 1~10
-        | 命中 -5
-        | 暴击 +0
-        | 空A陆A海A宇A
-        | 弹数 3
+    .. grid-item:: 残弹/EN
 
-    .. grid-item-card:: メガビーム砲Ⓑ
-        :columns: auto
+    .. grid-item:: 条件
 
-        | 攻击 2200(2800)
-        | 射程 1~9
-        | 命中 +0
-        | 暴击 +10
-        | 空A陆A海🚫宇A
-        | 弹数 5
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 集中ミサイル⚔
+        :columns: 3
+
+    .. grid-item:: 940
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: +5
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 2
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ビームライフルⒷ
+        :columns: 3
+
+    .. grid-item:: 1050
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: 
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 8
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾌｫｰﾙﾃﾞｨﾝｸﾞﾊﾞｽﾞｰｶ⚔
+        :columns: 3
+
+    .. grid-item:: 1250(1350)
+
+    .. grid-item:: 2~6
+
+    .. grid-item:: -5
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 2
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: マイクロミサイル⚔🗺️
+        :columns: 3
+
+    .. grid-item:: 1400
+
+    .. grid-item:: 1~8
+
+    .. grid-item:: +10
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 3
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 大型ﾋﾞｰﾑｻｰﾍﾞﾙ🤛⚔Ⓟ
+        :columns: 3
+
+    .. grid-item:: 1700(2400)
+
+    .. grid-item:: 1
+
+    .. grid-item:: +20
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A→🚫陆A→🚫海A→🚫宇A
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 爆導索🗺️
+        :columns: 3
+
+    .. grid-item:: 2100
+
+    .. grid-item:: 1~10
+
+    .. grid-item:: -5
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 1 (2)
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: メガビーム砲Ⓑ
+        :columns: 3
+
+    .. grid-item:: 2200(2800)
+
+    .. grid-item:: 1~9
+
+    .. grid-item:: 
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 5
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_gp_03_dendrobium_commentBegin:
 
 改造继承自GP-03デンドロビウム。希望你没有不小心改造了GP-03デンドロビウム。
 
@@ -246,15 +433,340 @@ GP-03デンドロビウム
 
 虽说性能太差，但是HP实在高，把巴尼放上去就可以自爆两次，也算是个优点吧……
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-GP-02Aサイサリス
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. grid::
 
-    .. grid-item-card::
-        :columns: 2
+.. _srw4_unit_gp_03_dendrobium_commentEnd:
+
+^^^^^^^^^^^^^^^^^^^^
+GP-03ステイメン
+^^^^^^^^^^^^^^^^^^^^
+
+.. _srw4_unit_gp_03_staymen:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_0F.png
+
+        登场/加入:第38话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 1900
+        | EN 250
+        | 装甲 280
+        | 运动性 36
+        | 限界 180
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 0F
+        | Snes地址 B975E
+        | 武器首地址 B977E
+        | PS地址 2644D
+        | 类型 陸宇
+        | 移动力 12
+        | 大小 M
+
+    .. grid-item::
+        :columns: auto
+
+        | 空🚫→D
+        | 陆A
+        | 海C
+        | 宇A
+        | 盾装備
+        | 剣装備
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_54.png
+
+        | 地形参照
+        | :ref:`コウ・ウラキ <srw4_pilots_kou_uraki>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+        :columns: 3
+
+    .. grid-item:: 940
+
+    .. grid-item:: 1
+
+    .. grid-item:: +20
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A→🚫陆A海A→B宇A
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ビームライフルⒷ
+        :columns: 3
+
+    .. grid-item:: 1050
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: 
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 8
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾌｫｰﾙﾃﾞｨﾝｸﾞﾊﾞｽﾞｰｶ⚔
+        :columns: 3
+
+    .. grid-item:: 1250(1350)
+
+    .. grid-item:: 2~6
+
+    .. grid-item:: -5
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 2
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_gp_03_staymen_commentBegin:
+
+仍然不建议改造，因为最后会升级成非常不实用的GP-03デンドロビウム。仍然是可靠的探宝机。
+
+第四次中GP-01FB的陆地适应是B，换机之后升级到了A，攻防有所上升。
+
+.. _srw4_unit_gp_03_staymen_commentEnd:
+
+^^^^^^^^^^^^^^^^^^^^
+GP-03ステイメン
+^^^^^^^^^^^^^^^^^^^^
+
+.. _srw4_unit_gp_03_staymen:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_123.png
+
+        登场/加入:第13话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 1900
+        | EN 250
+        | 装甲 280
+        | 运动性 36
+        | 限界 180
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 123
+        | Snes地址 BC7C5
+        | 武器首地址 BC7E5
+        | PS地址 294B1
+        | 类型 陸宇
+        | 移动力 12
+        | 大小 M
+
+    .. grid-item::
+        :columns: auto
+
+        | 空🚫→D
+        | 陆A
+        | 海C
+        | 宇A
+        | 盾装備
+        | 剣装備
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_54.png
+
+        | 地形参照
+        | :ref:`コウ・ウラキ <srw4_pilots_kou_uraki>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+        :columns: 3
+
+    .. grid-item:: 940
+
+    .. grid-item:: 1
+
+    .. grid-item:: +20
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A→🚫陆A海A→B宇A
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ビームライフルⒷ
+        :columns: 3
+
+    .. grid-item:: 1050
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: 
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 8
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ﾌｫｰﾙﾃﾞｨﾝｸﾞﾊﾞｽﾞｰｶ⚔
+        :columns: 3
+
+    .. grid-item:: 1250(1350)
+
+    .. grid-item:: 2~6
+
+    .. grid-item:: -5
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 2
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_gp_03_staymen_commentBegin:
+
+GP-03デンドロビウム入手的时候被替换成上面那个版本，改造继承。和分离的对象相比，除了能被分离出来这个能力之外，并无不同。
+
+.. _srw4_unit_gp_03_staymen_commentEnd:
+
+^^^^^^^^^^^^
+GP-02A
+^^^^^^^^^^^^
+
+.. _srw4_unit_gp_02a:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
 
         .. image:: ../units/images/portrait/srw4_units_portrait_0D.png
+
+        登场/加入:第39话
+
+    .. grid-item::
+        :columns: auto
 
         | HP 2300
         | EN 180
@@ -262,55 +774,146 @@ GP-02Aサイサリス
         | 运动性 30
         | 限界 160
 
-    .. grid-item-card::
+    .. grid-item::
         :columns: auto
 
         | 编码 0D
-        | 类型 陆
+        | Snes地址 B96F8
+        | 武器首地址 B9718
+        | PS地址 263E7
+        | 类型 陸宇
         | 移动力 7
         | 大小 M
+
+    .. grid-item::
+        :columns: auto
+
         | 空🚫→D
         | 陆A
         | 海D→C
         | 宇A
-        | シールド
+        | 盾装備
+        | 剣装備
 
-    .. grid-item-card:: バルカンⓅ
+    .. grid-item::
         :columns: auto
 
-        | 攻击 360
-        | 射程 1
-        | 命中 +35
-        | 暴击 -10
-        | 空A陆A海A宇A
-        | 弹数 5
-    .. grid-item-card:: ビームサーベルⓅ🤛
-        :columns: auto
+        .. image:: ../pilots/images/srw4_pilot_42.png
 
-        | 攻击 940
-        | 射程 1
-        | 命中 +20
-        | 暴击 +20
-        | 空🚫陆A海A→C宇A
-    .. grid-item-card:: ビームライフルⒷ	
-        :columns: auto
+        | 地形参照
+        | :ref:`アナベル・ガトー <srw4_pilots_anavel_gato>`
 
-        | 攻击 1050
-        | 射程 1~6
-        | 命中 +0
-        | 暴击 +10
-        | 空A陆A海🚫宇A
-        | 弹数 8
-    .. grid-item-card:: アトミックバズーカ(M)
-        :columns: auto
 
-        | 攻击 8000
-        | 射程 3~10
-        | 命中 +20
-        | 暴击 -10
-        | 空A陆A海B宇A
-        | 弹数 1
-        | \ :doc:`../walkthrough/41b_haman_s_black_shadow`\ 入手
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: バルカンⓅ
+        :columns: 3
+
+    .. grid-item:: 360
+
+    .. grid-item:: 1
+
+    .. grid-item:: +35
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 5
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+        :columns: 3
+
+    .. grid-item:: 940
+
+    .. grid-item:: 1
+
+    .. grid-item:: +20
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A→🚫陆A海A→B宇A
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ビームライフルⒷ
+        :columns: 3
+
+    .. grid-item:: 1050
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: 
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 8
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ｱﾄﾐｯｸﾊﾞｽﾞｰｶ🗺️
+        :columns: 3
+
+    .. grid-item:: 8000
+
+    .. grid-item:: 3~10
+
+    .. grid-item:: +20
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海B宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 1
+
+    .. grid-item:: 必要气力 100
+
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_gp_02a_commentBegin:
+
 
 有我方最强大的武器，而且是超远程超大范围的地图炮，即使是最终BOSS也可以用激励+魂一击杀，就是入手条件非常苛刻，只有真实系可以入手，入手的时候满改造。虽然驾驶员ガトー远攻击非常强，但是没有魂，所以还是カミーユ来开比较好。クワトロ远攻击虽然更高，但是他离队是本机入手前提，残念。
 
@@ -318,12 +921,550 @@ GP-02Aサイサリス
 
 如果通过超时空传送在ハマーンの黒い影这一话分配到C队的话，记得在获得之后提前装备ミノフスキークラフト，这样在交通不便的\ :doc:`../walkthrough/43_wasteland_deathmatch`\ 这一话就不需要装载到主舰损失气力了。
 
------------------
-敌方机体
------------------
+.. _srw4_unit_gp_02a_commentEnd:
+
+--------
+敌军机体
+--------
+.. _srw4_units_mobile_suit_gundam_0083_enemy_commentBegin:
+
+
+.. _srw4_units_mobile_suit_gundam_0083_enemy_commentEnd:
 
 ^^^^^^^^^^^^^^^^
 ガーベラ・テトラ
 ^^^^^^^^^^^^^^^^
+
+.. _srw4_unit_gerbera_tetra:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_78.png
+
+        登场/加入:第4话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 1800
+        | EN 160
+        | 装甲 180
+        | 运动性 30
+        | 限界 180
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 78
+        | Snes地址 BAA7E
+        | 武器首地址 BAA9E
+        | PS地址 2776D
+        | 类型 陸宇
+        | 移动力 11
+        | 大小 M
+
+    .. grid-item::
+        :columns: auto
+
+        | 空🚫
+        | 陆B
+        | 海C
+        | 宇A
+        | 剣装備
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ミサイルⒷ
+        :columns: 3
+
+    .. grid-item:: 900
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: +3
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 8
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 110ミリ機関砲
+        :columns: 3
+
+    .. grid-item:: 920
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: +4
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 8
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+        :columns: 3
+
+    .. grid-item:: 940
+
+    .. grid-item:: 1
+
+    .. grid-item:: +20
+
+    .. grid-item:: +20
+
+    .. grid-item:: 空A→🚫陆A→B海A→B宇A
+        :columns: 3
+
+    .. grid-item:: 
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_gerbera_tetra_commentBegin:
+
 移动力超高的机动战士，不过攻击力就不怎么样了。第四次里只在救援运输机的时候出战一话，第四次S里则在グレートマジンガー奪回有再次出场。
+
+.. _srw4_unit_gerbera_tetra_commentEnd:
+
+^^^^^^^^^^^^^^
+ヴァル・ヴァロ
+^^^^^^^^^^^^^^
+
+.. _srw4_unit_val_walo:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_77.png
+
+        登场/加入:第25话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 6600
+        | EN 180
+        | 装甲 230
+        | 运动性 35
+        | 限界 180
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 77
+        | Snes地址 BAA4D
+        | 武器首地址 BAA6D
+        | PS地址 2773C
+        | 类型 宇宙
+        | 移动力 10
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A (🚫)
+        | 陆🚫
+        | 海🚫
+        | 宇A
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 100ミリバルカンⓅ
+        :columns: 3
+
+    .. grid-item:: 330
+
+    .. grid-item:: 1
+
+    .. grid-item:: +30
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 12
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ミサイルポッド
+        :columns: 3
+
+    .. grid-item:: 850
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -10
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 6
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 大型メガ粒子砲Ⓑ
+        :columns: 3
+
+    .. grid-item:: 920
+
+    .. grid-item:: 1~7
+
+    .. grid-item:: -4
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 13
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: ビームガンⒷ
+        :columns: 3
+
+    .. grid-item:: 1080
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: +5
+
+    .. grid-item:: 
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 8
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: プラズマリーダー🗺️
+        :columns: 3
+
+    .. grid-item:: 1460(1650)
+
+    .. grid-item:: 2~6
+
+    .. grid-item:: +3
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海C宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 2
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_val_walo_commentBegin:
+
+
+.. _srw4_unit_val_walo_commentEnd:
+
+^^^^^^^^^^^^^^
+ノイエ・ジール
+^^^^^^^^^^^^^^
+
+.. _srw4_unit_neue_ziel:
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_79.png
+
+        登场/加入:第25话
+
+    .. grid-item::
+        :columns: auto
+
+        | HP 5000
+        | EN 255
+        | 装甲 350
+        | 运动性 30
+        | 限界 180
+
+    .. grid-item::
+        :columns: auto
+
+        | 编码 79
+        | Snes地址 BAAA9
+        | 武器首地址 BAAC9
+        | PS地址 27798
+        | 类型 宇宙
+        | 移动力 11
+        | 大小 L
+
+    .. grid-item::
+        :columns: auto
+
+        | 空A (🚫)→B (D)
+        | 陆A (🚫)→A (C)
+        | 海🚫→D
+        | 宇A
+        | Iフィールド
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_42.png
+
+        | 地形参照
+        | :ref:`アナベル・ガトー <srw4_pilots_anavel_gato>`
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+
+    .. grid-item:: 攻击
+
+    .. grid-item:: 射程
+
+    .. grid-item:: 命中
+
+    .. grid-item:: 暴击
+
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+
+    .. grid-item:: 残弹/EN
+
+    .. grid-item:: 条件
+
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 小型ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+        :columns: 3
+
+    .. grid-item:: 880
+
+    .. grid-item:: 1~7
+
+    .. grid-item:: -10
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 2
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: メガ粒子砲Ⓑ
+        :columns: 3
+
+    .. grid-item:: 910(1200)
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: 
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 18
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 有線クローアームⓅ
+        :columns: 3
+
+    .. grid-item:: 970
+
+    .. grid-item:: 1~3
+
+    .. grid-item:: +7
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海B宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 4
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 大型ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+        :columns: 3
+
+    .. grid-item:: 1100
+
+    .. grid-item:: 1~6
+
+    .. grid-item:: -15
+
+    .. grid-item:: -10
+
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 2
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: 偏向メガ粒子砲Ⓑ
+        :columns: 3
+
+    .. grid-item:: 2200
+
+    .. grid-item:: 1~8
+
+    .. grid-item:: -6
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: 残弹 12
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+    .. grid-item:: メガカノン砲Ⓑ
+        :columns: 3
+
+    .. grid-item:: 2450(2650)
+
+    .. grid-item:: 1~9
+
+    .. grid-item:: -4
+
+    .. grid-item:: +10
+
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+
+    .. grid-item:: EN 30
+
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_neue_ziel_commentBegin:
+
+
+.. _srw4_unit_neue_ziel_commentEnd:
 
