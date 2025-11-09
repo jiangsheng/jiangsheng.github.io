@@ -581,6 +581,7 @@
 
 .. _srw4_unit_venus_a_commentBegin:
 
+维纳斯A能够飞，入手时即替代阿波罗迪A作为地面路线和B队的修理机。但是因为魔神系不能用地图炮刷机，修理能力远低于美塔斯。
 
 .. _srw4_unit_venus_a_commentEnd:
 

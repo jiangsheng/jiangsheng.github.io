@@ -19,6 +19,7 @@
 .. _srw4_units_daitarn_3_own_commentBegin:
 
 
+
 .. _srw4_units_daitarn_3_own_commentEnd:
 
 ^^^^^^^^^^^^
@@ -288,6 +289,7 @@
 
 .. _srw4_unit_daitarn_3_commentBegin:
 
+泰坦3和盖塔为我军最强机器人。由于机师SP充沛，更兼有魂，单座也不是什么问题。无消耗和低消耗的武器众多，有泰坦锤、泰坦斩和线激光可以选择作为主力改造对象。因机体装甲不错，也可以改造泰坦加农射程作为反击武器。太阳攻击为Boss杀手，应尽早改造。
 
 .. _srw4_unit_daitarn_3_commentEnd:
 
