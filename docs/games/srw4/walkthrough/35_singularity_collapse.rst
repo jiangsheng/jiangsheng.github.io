@@ -123,9 +123,11 @@ In order to better handle future battles, Londo Bell was divided into two teams.
 
 Note that starting from this episode, the units and pilots on the intermission screen are for the next episode. Therefore, you might find yourself collecting suits or characters after defeating Team A, only to see Team B when you clear the game, preventing you from immediately modifying or configuring them. Furthermore, you should prepare chips for specific enemies two or three episodes in advance.
 
-建议在这里让ひかる把ドリルスペイザー开去A队，本作最难的两话都是A队在打，无消耗的ドリルアタック在グレンダイザー的EN用完的时候很有用。另外B队的地图武器只有サイフラッシュ（可能还有宇宙适应C的主舰奥拉新星炮），可以考虑把百式用シーブック带过去（F91留在A队更有用）。ZZ在第36话开始的时候一定要留在A队。之后可以用强制换乘(例如\ :doc:`40a_the_backside_of_the_moon`\ 的ZZ)在A队和B队之间迅速交换机体。ＧＰ－０３デンドロビウム可以这么换3次。
+建议在这里让ひかる把ドリルスペイザー开去A队，本作最难的两话都是A队在打，无消耗的ドリルアタック在グレンダイザー的EN用完的时候很有用。另外B队的地图武器只有サイフラッシュ（可能还有宇宙适应C的主舰奥拉新星炮），可以考虑把百式用シーブック带过去（F91留在A队更有用）。ZZ在第36话开始的时候一定要留在A队， B队缺乏能够善用ZZ的幸运驾驶员。之后可以用强制换乘(例如\ :doc:`40a_the_backside_of_the_moon`\ 的ZZ)在A队和B队之间迅速交换机体。GP-03デンドロビウム可以这么换3次。
 
-It's recommended to have Hikari take the Drill Spider to Team A. Team A plays the two most difficult episodes of the game, and the cost-free Drill Attack is very useful when the Grendizer runs out of EN. Team A also has too many map weapons while Team B only has the Cyflash (and possibly the Aura Nova Cannon from a Space Adaptation C battleship), so consider transfer Seabook to the Hyaku Shiki and leave F91 with Team A, whose stages are harder). ZZ should definitely stay with Team A from the start of Episode 36. Afterwards, you can use a forced transfer to quickly swap units between Team A and Team B. The GP-03 Dendrobium can be swapped three times this way.
+It's recommended to have Hikari take the Drill Spacer to Team A. Team A plays the two most difficult episodes of the game, and the cost-free Drill Attack is very useful when the Grendizer runs out of EN. Team A also has too many map weapons while Team B only has the Cyflash (and possibly the Aura Nova Cannon from a Space Adaptation C battleship), so consider transfer Seabook to the Hyaku Shiki and leave F91 with Team A, whose stages are harder). ZZ should definitely stay with Team A from the start of Episode 36 as Team B lacks Lucky pilots that can use it. Afterwards, you can use a forced transfer to quickly swap units between Team A and Team B. The GP-03 Dendrobium can be swapped three times this way.
+
+无驾驶员的机体属两队共有，因此虽然サザビー由B队获得，然使用权仍归クワトロ所在的A队。在B队获得的GP-02也可以用此方法在取得核弹头之后在A队提前出场。
 
 -------------
 评论
