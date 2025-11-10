@@ -1139,7 +1139,7 @@
     .. grid-item::
         :class: flex-break
 
-    .. grid-item:: ｹﾞｯﾀｰｻｲｸﾛﾝⓅ
+    .. grid-item:: ゲッターサイクロンⓅ
         :columns: 3
 
     .. grid-item:: 2200

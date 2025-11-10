@@ -206,6 +206,7 @@
 
 .. _srw4_unit_battle_jet_commentBegin:
 
+武器ドスブレッシャー按理来说应该是格斗武器，不知为何设定为1格射击武器，面对地面和海中的敌人也可以用。
 
 .. _srw4_unit_battle_jet_commentEnd:
 
@@ -352,7 +353,7 @@
     .. grid-item::
         :class: flex-break
 
-    .. grid-item:: ｱﾄﾐｯｸﾊﾞｰﾅｰⓅ
+    .. grid-item:: アトミックバーナーⓅ
         :columns: 3
 
     .. grid-item:: 940
@@ -984,7 +985,7 @@
     .. grid-item::
         :class: flex-break
 
-    .. grid-item:: ｱﾄﾐｯｸﾊﾞｰﾅｰⓅ
+    .. grid-item:: アトミックバーナーⓅ
         :columns: 3
 
     .. grid-item:: 940

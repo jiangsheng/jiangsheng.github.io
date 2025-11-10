@@ -267,7 +267,7 @@
     .. grid-item::
         :class: flex-break
 
-    .. grid-item:: ｺﾞｯﾄﾞﾌﾟﾚｯｼｬｰⓅ
+    .. grid-item:: ゴッドプレッシャーⓅ
         :columns: 3
 
     .. grid-item:: 1280(1480)
