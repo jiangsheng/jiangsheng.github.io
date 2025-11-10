@@ -1629,6 +1629,7 @@ GP-02A
 
 .. _srw4_unit_neue_ziel_commentBegin:
 
+攻强守弱的武器库，可能原先考虑过和F完结篇一样加入我军。
 
 .. _srw4_unit_neue_ziel_commentEnd:
 
