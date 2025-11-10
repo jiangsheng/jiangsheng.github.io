@@ -338,7 +338,7 @@
 
         .. image:: ../units/images/portrait/srw4_units_portrait_1F.png
         
-        | :doc:`空飛ぶマジンガーＺ <14_mazinger_z_flying_in_the_sky>`
+        | :doc:`空飛ぶマジンガーZ <14_mazinger_z_flying_in_the_sky>`
         | 加入机体：ドリルスペイザー
         | 、GP-03ステイメン
         | 加入机师：マリア

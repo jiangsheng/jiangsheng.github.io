@@ -84,7 +84,7 @@ Spaceship Tana is badly damaged on entry. Daba and the rest of team are trying t
 * Lilith is scared a little by perceived enemy renforcements.
 * Daba wants Londo Bell to tell DC they don't like to fight, but Londo Bell and DC are far from friends...
 * So continued fighting it is.
-* 第三回合 甲児驾驶ボロボロット、ボス驾驶マジンガーＺ的场合有对话
+* 第三回合 甲児驾驶ボロボロット、ボス驾驶マジンガーZ的场合有对话
 * If you exchanged Koji and Boss's units, Koji would complain not used to Boss Borot.
 * 第五回合 ハーディアス生存時 我方援军2 惡靈將軍ハ－ディアス离开，敌方援军* 
 * If you do not clear the game before Titans arrive, Hardias feels threatened by too man earth federation forces, calls reinforcements of his own. Then run away.
