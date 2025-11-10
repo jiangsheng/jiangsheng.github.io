@@ -380,15 +380,15 @@
       * 7e13fd88 ビギナ・ギナ武器数量      
       * 7e127adb 增加EXSガンダム
       * 7e13fb88 EXSガンダム武器数量      
-      * 7e127870 增加サイコガンダムmkII(MA)
-      * 7e13f988 サイコガンダムmkII(MA)武器数量
+      * 7e127870 增加サイコガンダム Mk-II(MA)
+      * 7e13f988 サイコガンダム Mk-II(MA)武器数量
       * 7e127689 增加ヤクトドーガ（青）
       * 7e13f788 ヤクトドーガ（青）武器数量
       * 武器改造段数位移
       * 7e13fe00 グラシドゥ＝リュ
       * 7e13fc00 ビギナ・ギナ
       * 7e13fa00 ExSガンダム
-      * 7e13f800 サイコガンダムmkII(MA)
+      * 7e13f800 サイコガンダム Mk-II(MA)
       * 7e13f600 ヤクトドーガ（青）
 
 ^^^^^^^^^^^^^^^^^
@@ -1725,28 +1725,28 @@
       | 路线A、B、C通用
       | D010407D 0000
       | 8010407D 24CF
-      | コロンブス    
+      | \ :ref:`コロンブス <srw4_unit_columbus>`\     
       | D01040B9 0000
       | 801040B9 1F01
-      | ガイラム
+      | \ :ref:`ガイラム <srw4_unit_gayrahm>`\ 
       | D01040F5 0000
       | 801040F5 2506
-      | Ξガンダム
+      | \ :ref:`Ξガンダム <srw4_unit_xi_gundam>`\ 
       | D0104131 0000
       | 80104131 240c
-      | ニセサイバスター
+      | \ :ref:`ニセサイバスター <srw4_unit_fake_cybuster>`\ 
       | D010416D 0000
       | 8010416D 2451 
-      | アトールV
+      | \ :ref:`アトールV <srw4_unit_a_taul_v>`\ 
       | D01041A9 0000
       | 801041A9 2485
-      | ゲーマルク
+      | \ :ref:`ゲーマルク <srw4_unit_geymalk>`\ 
       | D01041E5 0000
       | 801041E5 2503
-      | ガンダムmkII
+      | \ :ref:`ガンダム Mk-II <srw4_unit_gundam_mk_ii>`\ 
       | D0104221 0000
       | 80104221 2503
-      | ガンダムmkII
+      | \ :ref:`ガンダム Mk-II <srw4_unit_gundam_mk_ii>`\ 
 
 
     .. grid-item-card:: 路线B增加机体
@@ -1755,40 +1755,40 @@
       | :ref:`隐藏要素 <srw4_missable>`
       | 限路线B
       | D0103DE9 0000
-      | 80103DE9 2488
-      | ヤクト・ドーガ（青）
+      | 80103DE9 2487
+      | \ :ref:`ギラ・ドーガ（强化） <srw4_unit_geara_doga_upgraded>`\ 
       | D0103E25 0000
       | 80103E25 2503
-      | ガンダムmkII
+      | \ :ref:`ガンダム Mk-II <srw4_unit_gundam_mk_ii>`\ 
       | D0103E61 0000
       | 80103E61 24F8
-      | サロンズ
+      | \ :ref:`サロンズ <srw4_unit_salonz>`\ 
       | D0103E9D 0000
       | 80103E9D 2503
-      | ガンダムmkII
+      | \ :ref:`ガンダム Mk-II <srw4_unit_gundam_mk_ii>`\ 
       | D0103ED9 0000
       | 80103ED9 2508
-      | サーバイン
+      | \ :ref:`サーバイン <srw4_unit_sirbine>`\ 
       | D0103F15 0000
       | 80103F15 2503
-      | ガンダムmkII
+      | \ :ref:`ガンダム Mk-II <srw4_unit_gundam_mk_ii>`\ 
       | D0103F51 0000
       | 80103F51 2412
-      | ボール
+      | \ :ref:`ボール <srw4_unit_ball>`\ 
       | D0103F8D 0000
       | 80103F8D 2503
-      | ガンダムmkII
+      | \ :ref:`ガンダム Mk-II <srw4_unit_gundam_mk_ii>`\ 
       | D0103FC9 0000
       | 80103FC9 1E61
-      | エルメス
+      | \ :ref:`エルメス <srw4_unit_elmeth>`\ 
       | D0104005 0000
       | 80104005 2503
-      | ガンダムmkII
+      | \ :ref:`ガンダム Mk-II <srw4_unit_gundam_mk_ii>`\ 
       | D0104041 0000
       | 80104041 2503
-      | ガンダムmkII
+      | \ :ref:`ガンダム Mk-II <srw4_unit_gundam_mk_ii>`\ 
 
-    .. grid-item-card:: ヒュッケバイン
+    .. grid-item-card:: \ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\ 
       :columns: auto
 
       | 80046264 0000
@@ -1810,7 +1810,7 @@
       | ﾛｼｭｾｲﾊﾞｰ→
       | ｸﾞﾙﾝｶﾞｽﾄﾋﾞｰﾑ
 
-    .. grid-item-card:: グルンガスト
+    .. grid-item-card:: \ :ref:`グルンガスト <srw4_unit_grungust>`\ 
       :columns: auto  
 
       | 8004629C 0000
@@ -1833,7 +1833,7 @@
       | 計都羅睺剣
       | →ドリルアタック
 
-    .. grid-item-card:: ウイングガスト
+    .. grid-item-card:: \ :ref:`ウイングガスト <srw4_unit_wing_gust>`\ 
       :columns: auto  
 
       | 800462D1 0000
@@ -1841,7 +1841,7 @@
       | 8004630E 4444
       | 地形适应全A
 
-    .. grid-item-card:: ガストランダー
+    .. grid-item-card:: \ :ref:`ガストランダー <srw4_unit_gust_lander>`\ 
       :columns: auto  
 
       | 800462FC 0000
@@ -1851,35 +1851,35 @@
 
       
 
-    .. grid-item-card:: νガンダム
+    .. grid-item-card:: \ :ref:`νガンダム <srw4_unit_nu_gundam>`\ 
       :columns: auto  
 
       | 8004634F 002D
       | ﾐｻｲﾙﾗﾝﾁｬｰ
       | →ヴェスバー
 
-    .. grid-item-card:: F-91
+    .. grid-item-card:: \ :ref:`F-91 <srw4_unit_f_91>`\ 
       :columns: auto  
 
       | 30046383 002B
       | ﾒｶﾞﾏｼﾝｷｬﾉﾝ→
       | フィンファンネル
 
-    .. grid-item-card:: NT-1アレックス
+    .. grid-item-card:: \ :ref:`NT-1アレックス <srw4_unit_nt_1_alex>`\ 
       :columns: auto 
 
       | 300463B4 002B
       | ガトリングガン
       | →フィンファンネル
 
-    .. grid-item-card:: GP-01Fb
+    .. grid-item-card:: \ :ref:`GP-01Fb <srw4_unit_gp_01fb>`\ 
       :columns: auto
 
       | 300463E2 0D4A
       | ビームガン
       | →ビット
 
-    .. grid-item-card:: GP-03
+    .. grid-item-card:: \ :ref:`GP-03 <srw4_unit_gp_03_dendrobium>`\ 
       :columns: auto
 
       | 3004642B 0001 
@@ -1899,14 +1899,14 @@
       | ﾌｫｰﾙﾃﾞｨﾝｸﾞﾊﾞｽﾞｰｶ
       | →ビット      
 
-    .. grid-item-card:: ガンキャノン
+    .. grid-item-card:: \ :ref:`ガンキャノン <srw4_unit_gun_cannon>`\ 
       :columns: auto
 
       | 8004649E 0D4A
       | ２40ミリキャノン→
       | ビット
 
-    .. grid-item-card:: ガンタンク
+    .. grid-item-card:: \ :ref:`ガンタンク <srw4_unit_gun_tank>`\ 
       :columns: auto
 
       | 800464C3 054A
@@ -1914,7 +1914,7 @@
       | ビット
 
 
-    .. grid-item-card:: ボール
+    .. grid-item-card:: \ :ref:`ボール <srw4_unit_ball>`\ 
       :columns: auto  
 
       | 300464E0 0001
@@ -1922,21 +1922,21 @@
       | 800464E1 4444
       | 地形适应全A
 
-    .. grid-item-card:: GM III
+    .. grid-item-card:: \ :ref:`GM III <srw4_unit_gm_iii>`\ 
       :columns: auto
 
       | 80046578 114A
       | ﾐｻｲﾙﾗﾝﾁｬｰ→
       | ビット
 
-    .. grid-item-card:: ジェガン
+    .. grid-item-card:: \ :ref:`ジェガン <srw4_unit_jegan>`\ 
       :columns: auto
 
       | 80046544 0D4A
       | 小型ミサイル→
       | ビット
 
-    .. grid-item-card:: リ・ガズィ
+    .. grid-item-card:: \ :ref:`リ・ガズィ <srw4_unit_ri_gazi_ma>`\ 
       :columns: auto
 
       | 30046584 0008
@@ -1955,34 +1955,34 @@
       | ﾊｲﾊﾟｰﾒｶﾞﾗﾝﾁｬｰ
 
 
-    .. grid-item-card:: マジンガーZ
+    .. grid-item-card:: \ :ref:`マジンガーZ <srw4_unit_mazinger_z>`\ 
       :columns: auto
 
       | 30046714 0028
       | ミサイル(5E)→
       | ミサイル(28)
 
-    .. grid-item-card:: マジンガーZ（JS）
+    .. grid-item-card:: \ :ref:`マジンガーZ（JS） <srw4_unit_mazinger_z_js>`\ 
       :columns: auto
 
       | 3004674B 0028
       | ミサイル(5E)→
       | ミサイル(28)
 
-    .. grid-item-card:: グレンダイザー 
+    .. grid-item-card:: \ :ref:`グレンダイザー <srw4_unit_grendizer>`\  
       :columns: auto
 
       | 800467A9 0000
       | 乘换機動戦士系
 
-    .. grid-item-card:: スペイザー 
+    .. grid-item-card:: \ :ref:`スペイザー <srw4_unit_spacer>`\  
       :columns: auto
 
       | 800467DD 0100
       | 乘换マジンガーZ系
 
 
-    .. grid-item-card:: ボスロボット 
+    .. grid-item-card:: \ :ref:`ボスロボット <srw4_unit_boss_borot>`\  
       :columns: auto  
 
       | 300469B9 0001 
@@ -1990,7 +1990,7 @@
       | 800469BA 4444
       | 地形适应全A
 
-    .. grid-item-card:: ブルーガー
+    .. grid-item-card:: \ :ref:`ブルーガー <srw4_unit_bluegar>`\ 
       :columns: auto
 
       | 30046B79 0000
@@ -2000,7 +2000,7 @@
       | 80046B8A 4444
       | 地形适应全A
 
-    .. grid-item-card:: ガルバーＦＸⅡ
+    .. grid-item-card:: \ :ref:`ガルバーFXⅡ <srw4_unit_galva_fx_ii>`\ 
       :columns: auto
 
       | 30046BF3 0000
@@ -2010,14 +2010,14 @@
       | 80046C04 4444
       | 地形适应全A
 
-    .. grid-item-card:: ビルバイン 
+    .. grid-item-card:: \ :ref:`ビルバイン <srw4_unit_bilvine>`\  
       :columns: auto
 
       | 80046DED 0A33
       | オーラキャノン→
       | ﾊｲﾊﾟｰｵｰﾗｷｬﾉﾝ
       
-    .. grid-item-card:: アトールV
+    .. grid-item-card:: \ :ref:`アトールV <srw4_unit_a_taul_v>`\ 
       :columns: auto
 
       | 300470D8 00EB
@@ -2041,14 +2041,14 @@
       | パワーランチャー
 
     
-    .. grid-item-card:: ヴァルシオーネR
+    .. grid-item-card:: \ :ref:`ヴァルシオーネR <srw4_unit_valsione_r>`\ 
       :columns: auto
 
       | 300471E7 002B
       | クロスソーサー
       | →ハイファミリア
 
-    .. grid-item-card:: ザムジード
+    .. grid-item-card:: \ :ref:`ザムジード <srw4_unit_zamzeed>`\ 
       :columns: auto
 
       | 30047215 0027
@@ -2058,13 +2058,13 @@
       | 対空ミサイル→
       | ﾌﾞﾗｯｸﾎｰﾙｸﾗｽﾀｰ
 
-    .. grid-item-card:: ノルス・レイ
+    .. grid-item-card:: \ :ref:`ノルス・レイ <srw4_unit_nors_ray>`\ 
       :columns: auto
 
       | 800472B4 0000
       | 乘换機動戦士系
 
-    .. grid-item-card:: ガディフォール
+    .. grid-item-card:: \ :ref:`ガディフォール <srw4_unit_gadifal>`\ 
       :columns: auto
 
       | 800472DF 0000
@@ -2080,7 +2080,7 @@
       | ﾆｭｰﾄﾛﾝﾋﾞｰﾑ
 
 
-    .. grid-item-card:: ゲシュペンスト（R）
+    .. grid-item-card:: \ :ref:`ゲシュペンスト（リアル） <srw4_unit_gespenst_real>`\ 
       :columns: auto
 
 
@@ -2092,14 +2092,14 @@
       | 乘换機動戦士系
 
 
-    .. grid-item-card:: ザク改
+    .. grid-item-card:: \ :ref:`ザク改 <srw4_unit_zaku_kai>`\ 
       :columns: auto
 
       | 8004735A 054A
       | ザクバズーカ
       | →ビット
 
-    .. grid-item-card:: エルメス
+    .. grid-item-card:: \ :ref:`エルメス <srw4_unit_elmeth>`\ 
       :columns: auto  
  
       | 300473AB 0001
@@ -2107,29 +2107,21 @@
       | 800473AC 4444 
       | 地形适应
 
-    .. grid-item-card:: サイコガンダム(MS) 
+    .. grid-item-card:: \ :ref:`サイコガンダム (MS) <srw4_unit_psycho_gundam_ms>`\ 
       :columns: auto
 
       | 300474D7 0057
       | ビーム砲→
       | ﾚﾌﾚｸﾀｰﾋﾞｯﾄ
 
-    .. grid-item-card:: サイコガンダム(MA) 
+    .. grid-item-card:: \ :ref:`サイコガンダム (MA) <srw4_unit_psycho_gundam_ma>`\ 
       :columns: auto
 
       | 30047502 0057
       | ビーム砲→
       | ﾚﾌﾚｸﾀｰﾋﾞｯﾄ
 
-    .. grid-item-card:: サイコガンダム(MA) 
-      :columns: auto
-
-      | 800475AB 0555
-      | ビームライフル→
-      | ﾌｪﾀﾞｰｲﾝﾗｲﾌﾙ
-
-
-    .. grid-item-card:: バイアラン 
+    .. grid-item-card:: \ :ref:`バイアラン <srw4_unit_byarlant>`\  
       :columns: auto
 
       | 8004755B 094A
@@ -2137,21 +2129,21 @@
       | ﾌｪﾀﾞｰｲﾝﾗｲﾌﾙ→
       | ビット
 
-    .. grid-item-card:: ガブスレイ 
+    .. grid-item-card:: \ :ref:`ガブスレイ (MS) <srw4_unit_gabthley_ms>`\  
       :columns: auto
 
       | 30047533 0050
       | メガ粒子砲→
       | 小型メガビーム砲
 
-    .. grid-item-card:: バウンド・ドック (MS) 
+    .. grid-item-card:: \ :ref:`バウンド・ドック (MS) <srw4_unit_baund_doc_ms>`\ 
       :columns: auto
 
       | 300475AB 0555
       | ビームライフル→ 
       | ﾌｪﾀﾞｰｲﾝﾗｲﾌﾙ
 
-    .. grid-item-card:: 百式
+    .. grid-item-card:: \ :ref:`百式 <srw4_unit_hyaku_shiki>`\ 
       :columns: auto
 
       | 30047654 00FD
@@ -2170,7 +2162,7 @@
       | クレイバズーカ→
       | ｻｲｺﾐｭ式ﾋﾞｰﾑｿｰﾄﾞ
 
-    .. grid-item-card:: メタス
+    .. grid-item-card:: \ :ref:`メタス (MS) <srw4_unit_methuss_ms>`\ 
       :columns: auto 
 
       | 3004768B 004A
@@ -2179,7 +2171,7 @@
       | ビット
 
 
-    .. grid-item-card:: ブラウ・ブロ
+    .. grid-item-card:: \ :ref:`ブラウ・ブロ <srw4_unit_braw_bro>`\ 
       :columns: auto 
 
       | 800476CC 010F
@@ -2187,7 +2179,7 @@
       | 800476CE 4444
       | 地形适应 A
 
-    .. grid-item-card:: ノイエ・ジール
+    .. grid-item-card:: \ :ref:`ノイエ・ジール <srw4_unit_neue_ziel>`\ 
       :columns: auto  
 
       | 300477AD 0001
@@ -2207,7 +2199,7 @@
       | ファンネル
 
 
-    .. grid-item-card:: キュベレイ
+    .. grid-item-card:: \ :ref:`キュベレイ <srw4_unit_qubeley>`\ 
       :columns: auto
 
       | 800477EF 0148
@@ -2215,7 +2207,7 @@
       | メガ粒子砲
       | (ヤクト・ドーガ)
 
-    .. grid-item-card:: キュベレイmkII
+    .. grid-item-card:: \ :ref:`キュベレイ Mk-II <srw4_unit_qubeley_mk_ii>`\ 
       :columns: auto
 
       | 30047817 0006 
@@ -2231,7 +2223,7 @@
       | →ファンネル
       | （ キュベレイ）
 
-    .. grid-item-card:: クイン・マンサ
+    .. grid-item-card:: \ :ref:`クイン・マンサ <srw4_unit_quin_mantha>`\ 
       :columns: auto
 
       | 80047975 0148
@@ -2243,7 +2235,7 @@
       | →ファンネル
       | （ゲーマルク）
 
-    .. grid-item-card:: ドーベンウルフ
+    .. grid-item-card:: \ :ref:`ドーベンウルフ <srw4_unit_doven_wolf>`\ 
       :columns: auto
   
       | 800479A9 100D
@@ -2255,7 +2247,7 @@
       | →ファンネル
       | （ゲーマルク）
 
-    .. grid-item-card:: ゲーマルク
+    .. grid-item-card:: \ :ref:`ゲーマルク <srw4_unit_geymalk>`\ 
       :columns: auto
 
       | 800479DD 0413
@@ -2271,7 +2263,7 @@
       | （ドーベンウルフ）
 
 
-    .. grid-item-card:: ヤクト・ドーガ（赤）
+    .. grid-item-card:: \ :ref:`ヤクト・ドーガ（赤） <srw4_unit_jagd_doga_red>`\ 
       :columns: auto
 
       | 30047AAA 0086     
@@ -2282,7 +2274,7 @@
       | →ファンネル
       | （ α・アジール）
 
-    .. grid-item-card:: サザビー
+    .. grid-item-card:: \ :ref:`サザビー <srw4_unit_sazabi>`\ 
       :columns: auto
   
 
@@ -2291,7 +2283,7 @@
       | →ファンネル
       | （ α・アジール）
 
-    .. grid-item-card:: α・アジール
+    .. grid-item-card:: \ :ref:`α・アジール <srw4_unit_alpha_azieru>`\ 
       :columns: auto  
 
       | 30047AF8 0001
@@ -2307,14 +2299,14 @@
       | →ﾋﾞｰﾑｼｮｯﾄﾗｲﾌﾙ
 
 
-    .. grid-item-card:: ビギナ・ギナ
+    .. grid-item-card:: \ :ref:`ビギナ・ギナ <srw4_unit_vigna_ghina>`\ 
       :columns: auto  
 
       | 80047B34 058B
       | ビームライフル
       | →バグ
 
-    .. grid-item-card:: ベルガ・ギロス
+    .. grid-item-card:: \ :ref:`ベルガ・ギロス <srw4_unit_berga_giros>`\ 
       :columns: auto     
 
       | 30047B5F 058A
@@ -2322,7 +2314,7 @@
       | →ﾒｶﾞﾋﾞｰﾑｷｬﾉﾝ  
 
       
-    .. grid-item-card:: ラフレシア
+    .. grid-item-card:: \ :ref:`ラフレシア <srw4_unit_rafflesia>`\ 
       :columns: auto  
 
       | 30047B7C 0001
@@ -2333,7 +2325,7 @@
       | ﾒｶﾞ拡散ﾋﾞｰﾑ砲→
       | ショットランサー      
 
-    .. grid-item-card:: ゲシュペンスト（S）
+    .. grid-item-card:: \ :ref:`ゲシュペンスト（スーパー） <srw4_unit_gespenst_super>`\ 
       :columns: auto
 
       | 3004819A 0001
@@ -2343,7 +2335,7 @@
       | 80048189 0000
       | 乘换機動戦士系     
 
-    .. grid-item-card:: コロンブス
+    .. grid-item-card:: \ :ref:`コロンブス <srw4_unit_columbus>`\ 
       :columns: auto  
             
       | 80048646 00B8
@@ -2353,7 +2345,7 @@
       | 8004865A 4444  
       | 地形适应 A
 
-    .. grid-item-card:: パゾグ
+    .. grid-item-card:: \ :ref:`パゾグ <srw4_unit_pazock>`\ 
       :columns: auto  
 
       | 8004866E 007F
@@ -2369,7 +2361,7 @@
       | 3004868E 0003
       | 武器再编号      
 
-    .. grid-item-card:: ガウ
+    .. grid-item-card:: \ :ref:`ガウ <srw4_unit_gaw>`\ 
       :columns: auto 
 
       | 300486A6 0001
@@ -2377,7 +2369,7 @@
       | 800486A7 4444
       | 地形适应 
 
-    .. grid-item-card:: トロイホース
+    .. grid-item-card:: \ :ref:`トロイホース <srw4_unit_trojan_horse>`\ 
       :columns: auto
 
       | 30048708 0001
@@ -2385,7 +2377,7 @@
       | 80048709 4444
       | 地形适应 A
 
-    .. grid-item-card:: グラーフ・ツェッペリン
+    .. grid-item-card:: \ :ref:`グラーフ・ツェッペリン <srw4_unit_graf_zeppelin>`\ 
       :columns: auto 
 
       | 30048736 0001
@@ -2393,7 +2385,7 @@
       | 80048737 4444
       | 地形适应 A
 
-    .. grid-item-card:: Sガンダム
+    .. grid-item-card:: \ :ref:`Sガンダム <srw4_unit_s_gundam>`\ 
       :columns: auto
 
       | 3004877E 0007
@@ -2401,7 +2393,7 @@
       | ファンネル
       | (α・アジール)
 
-    .. grid-item-card:: アレキサンドリア
+    .. grid-item-card:: \ :ref:`アレキサンドリア <srw4_unit_alexandria>`\ 
       :columns: auto 
 
       | 300487C0 0001
@@ -2421,7 +2413,7 @@
       | →ビームカノン
       | (Sガンダム)
 
-    .. grid-item-card:: アーガマ
+    .. grid-item-card:: \ :ref:`アーガマ <srw4_unit_argama>`\ 
       :columns: auto
 
       | 30048819 0001
@@ -2429,7 +2421,7 @@
       | 8004881A 4444
       | 地形适应 A  
 
-    .. grid-item-card:: アイリッシュ
+    .. grid-item-card:: \ :ref:`アイリッシュ <srw4_unit_irish>`\ 
       :columns: auto 
 
       | 3004884A 0001
@@ -2437,21 +2429,21 @@
       | 8004884B 4444
       | 地形适应 A  
 
-    .. grid-item-card:: ＥｘＳガンダム
+    .. grid-item-card:: \ :ref:`ExSガンダム <srw4_unit_ex_s_gundam>`\ 
       :columns: auto
 
       | 30048895 0007
       | ミサイル→
       | ファンネル
 
-    .. grid-item-card:: Ｇクルーザー (ＥｘＳ)
+    .. grid-item-card:: \ :ref:`Gクルーザー (EXS) <srw4_unit_g_cruiser_ex_s>`\ 
       :columns: auto
 
       | 300488C0 0007
       | ミサイル→
       | ファンネル
 
-    .. grid-item-card:: ネェル・アーガマ
+    .. grid-item-card:: \ :ref:`ネェル・アーガマ <srw4_unit_nahel_argama>`\ 
       :columns: auto
 
       | 300488DA 0001
@@ -2459,7 +2451,7 @@
       | 800488DB 4444
       | 地形适应 A
 
-    .. grid-item-card:: エンドラ
+    .. grid-item-card:: \ :ref:`エンドラ <srw4_unit_endra>`\ 
       :columns: auto
 
       | 3004890B 0001
@@ -2479,7 +2471,7 @@
       | →サブメガ粒子砲
       | (ネェル・アーガマ)
 
-    .. grid-item-card:: サダラーン
+    .. grid-item-card:: \ :ref:`サダラーン <srw4_unit_sadalahn>`\ 
       :columns: auto
 
       | 30048939 0001
@@ -2488,7 +2480,7 @@
       | 地形适应 A
 
 
-    .. grid-item-card:: ザムス・ガル
+    .. grid-item-card:: \ :ref:`ザムス・ガル <srw4_unit_zamouth_garr>`\ 
       :columns: auto 
 
       | 300489CC 0001
@@ -2497,7 +2489,7 @@
       | 地形适应 A
 
 
-    .. grid-item-card:: オージ	
+    .. grid-item-card:: \ :ref:`オージェ <srw4_unit_auger>`\ 	
       :columns: auto
 
       | 30048CC9 00EA
@@ -2506,7 +2498,7 @@
       | (オージェ)
       
 
-    .. grid-item-card:: アシュラテンプル
+    .. grid-item-card:: \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\ 
       :columns: auto
 
 
@@ -2515,7 +2507,7 @@
       | →スロウランサー
       | (オージェ)    
 
-    .. grid-item-card:: サロンズ
+    .. grid-item-card:: \ :ref:`サロンズ <srw4_unit_salonz>`\ 
       :columns: auto 
 
       | 30048DC9 00EA
@@ -2539,14 +2531,14 @@
       | セイバー→
       | バスターランチャー
       
-    .. grid-item-card::  真・ゲッター3
+    .. grid-item-card::  \ :ref:`真・ゲッター3 <srw4_unit_shin_getter_3>`\ 
       :columns: auto
       
       | 30048ECF 0073
       | ｹﾞｯﾀｰﾐｻｲﾙ(0277)→
       | ｹﾞｯﾀｰﾐｻｲﾙ(0273)
 
-    .. grid-item-card:: ガイラム
+    .. grid-item-card:: \ :ref:`ガイラム <srw4_unit_gayrahm>`\ 
       :columns: auto
 
       | 30048ED7 0006
@@ -2561,14 +2553,14 @@
       | パワーランチャー
       | (エルガイム Mk-II)
 
-    .. grid-item-card:: ガンダム 
+    .. grid-item-card:: \ :ref:`ガンダム <srw4_unit_gundam>`\  
       :columns: auto 
 
       | 80048F28 0D4A
       | ハイパーバズーカ
       | →ビット
 
-    .. grid-item-card:: ガンダム Mk-II
+    .. grid-item-card:: \ :ref:`ガンダム Mk-II <srw4_unit_gundam_mk_ii>`\ 
       :columns: auto 
 
       | 80048F59 0D4A
@@ -2576,7 +2568,7 @@
       | →ビット
 
 
-    .. grid-item-card:: スーパーガンダム
+    .. grid-item-card:: \ :ref:`スーパーガンダム <srw4_unit_super_gundam>`\ 
       :columns: auto 
 
       | 30048F9E 0001
@@ -2591,7 +2583,7 @@
       | →ビット
       
 
-    .. grid-item-card:: Ξガンダム
+    .. grid-item-card:: \ :ref:`Ξガンダム <srw4_unit_xi_gundam>`\ 
       :columns: auto 
 
       | 30048FC0 00F7
@@ -2612,7 +2604,7 @@
       | メガカノン砲
       | +残弹槽
 
-    .. grid-item-card:: サーバイン
+    .. grid-item-card:: \ :ref:`サーバイン <srw4_unit_sirbine>`\ 
       :columns: auto       
 
       | 8004902E 0103
@@ -2621,7 +2613,7 @@
       | オーラ斬り→
       | ﾊｲﾊﾟｰｵｰﾗｷｬﾉﾝ
 
-    .. grid-item-card:: ズワウス
+    .. grid-item-card:: \ :ref:`ズワウス <srw4_unit_zwuath>`\ 
       :columns: auto
 
       | 80049059 0103
@@ -2630,7 +2622,7 @@
       | オーラ斬り→ 
       | ﾊｲﾊﾟｰｵｰﾗｷｬﾉﾝ
 
-    .. grid-item-card:: ナイチンゲール
+    .. grid-item-card:: \ :ref:`ナイチンゲール <srw4_unit_nightingale>`\ 
       :columns: auto     
 
       | 300490EA 0081
@@ -2652,7 +2644,7 @@
       | 8004910A 056e
       | ファンネル
 
-    .. grid-item-card::  Zガンダム
+    .. grid-item-card::  \ :ref:`Ζガンダム <srw4_unit_z_gundam>`\ 
       :columns: auto 
 
       | 800491DB 0108
@@ -2662,7 +2654,7 @@
       | ビームライフルｰ
       | →ファンネル  
 
-    .. grid-item-card::  ウェイブライダー
+    .. grid-item-card::  \ :ref:`ウェイブライダー <srw4_unit_wave_rider>`\ 
       :columns: auto 
 
       | 8004920F 0108
@@ -2672,14 +2664,14 @@
       | ビームライフルｰ
       | →ファンネル
 
-    .. grid-item-card::  ZZガンダム
+    .. grid-item-card::  \ :ref:`ZΖガンダム <srw4_unit_zz_gundam>`\ 
       :columns: auto 
 
       | 80049240 0E06
       | ダブルキャノンｰ
       | →ファンネル
 
-    .. grid-item-card::  G-フォートレス
+    .. grid-item-card::  \ :ref:`G-フォートレス <srw4_unit_g_fortress>`\ 
       :columns: auto 
 
       | 80049271 0E06
@@ -2687,7 +2679,7 @@
       | →ファンネル
 
 
-    .. grid-item-card:: ボチューン
+    .. grid-item-card::  \ :ref:`ボチューン <srw4_unit_botune>`\ 
       :columns: auto
 
       | 80049414 0204
@@ -2700,7 +2692,7 @@
       | オーラ斬り→
       | メインメガ粒子砲
 
-    .. grid-item-card:: ドゴス・ギア
+    .. grid-item-card:: \ :ref:`ドゴス・ギア <srw4_unit_dogosse_giar>`\ 
       :columns: auto     
 
       | 30049425 001D 
@@ -2716,7 +2708,7 @@
       | 8004943d F063
       | 限界/运动性
 
-    .. grid-item-card:: アウドムラ
+    .. grid-item-card:: \ :ref:`アウドムラ <srw4_unit_audhumla>`\ 
       :columns: auto    
 
       | 80049469 010F
@@ -2882,7 +2874,7 @@
     .. grid-item-card::  ﾄﾞﾘﾙﾃﾝﾍﾟｽﾄ
       :columns: auto
 
-      | （真・ゲッター2）
+      | （\ :ref:`真・ゲッター2 <srw4_unit_shin_getter_2>`\ ）
       | 3005141B 00FF
       | 地形适应
 
@@ -3208,14 +3200,14 @@
       :columns: auto
 
       | 300475E2 0018
-      | サイコガンダムmkII(MS)
-      | →サイコガンダムmkII(MA)
+      | サイコガンダム Mk-II(MS)
+      | →サイコガンダム Mk-II(MA)
       | 30047610 0019
-      | サイコガンダムmkII(MA)
+      | サイコガンダム Mk-II(MA)
       | →百式
       | 3004763B 001A
       | 百式→
-      | サイコガンダムmkII(MS)
+      | サイコガンダム Mk-II(MS)
       | 800475F9 0305
       | 80047627 0305
       | 80047652 0305
@@ -3755,7 +3747,7 @@
 
 .. grid::
 
-    .. grid-item-card:: ガンダムmkII
+    .. grid-item-card:: ガンダム Mk-II
       :columns: auto
 
       | 300463C0 00D9
