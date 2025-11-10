@@ -1784,6 +1784,7 @@
 
 .. _srw4_unit_elmeth_commentBegin:
 
+仅在第25话登场一次，但是因为驾驶员等级过低，以至于尚未习得强化人间，无法使用ビット，威胁不大。
 
 .. _srw4_unit_elmeth_commentEnd:
 
