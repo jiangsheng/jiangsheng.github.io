@@ -22,14 +22,14 @@ Tech up when you have 2 full infantry HQs. Even if you are not doing early game 
 ^^^^^^^^^^^^^^^^^^
 Infantry Regiment
 ^^^^^^^^^^^^^^^^^^
-Basic infantry unit with a wide range of weapons. In favorable terrains and entrenched they are hard to deal with. As recons take the cap slot in early game and armor in late them, regular infantries see limited usage, especially when the enemies have mortars, snipers or :ref:`special operation bombs <axis_and_allies_special_operations>`. For example despite the British has the best machine gun in the regular Infantry Regiment, their SAS commandos are much better if can afford the research.
+Basic infantry unit with a wide range of weapons. In favorable terrains and entrenched they are hard to deal with. As recons take the cap slot in early game and armor in late them, regular infantries see limited usage, especially when the enemies have mortars, snipers or :ref:`special operation bombs <axis_and_allies_special_operations>`. For example, despite the British has the best machine gun in the regular Infantry Regiment, their SAS commandos are much better if can afford the research.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Recon Infantry Regiment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Weakest in the game and lacks firepower. May just as well run away from threat with the column :ref:`formation <axis_and_allies_formation>`. Good for capturing unmanned cities, accumulate general exp for special operations and defend them with entrenchment :ref:`bonus <axis_and_allies_attributes>` against other recons. Comes with the recon attribute, +12 visibility, +3 current morale.
 
-The morale bonus is actually counterproductive, as you usually want them to rout fast to heal up somewhere else. They heal faster than other infantries with the smaller 5 person squad. They also come out of tent with fully squads, if your base is in trouble this might be the fastest way to pump out regiments, except maybe against snipers, the small squad make them easier to  snip out. In late game you want stronger units, but recons can still have their use as scout and cannon fodder for artillery. 
+The morale bonus is actually counterproductive, as you usually want them to rout fast to heal up somewhere else. They heal faster than other infantries with the smaller 5-person squad. They also come out of tent with fully squads, if your base is in trouble this might be the fastest way to pump out regiments, except maybe against snipers, the small squad make them easier to  snip out. In late game you want stronger units, but recons can still have their use as scout and cannon fodder for artillery. 
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Anti-Tank Infantry Regiment
@@ -71,7 +71,7 @@ GBR only. Requires Motor Pool and Artillery Brigade. It is basically a mix of va
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Conscript Regiment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-USSR only. Cheap to recruit and maintain. Although without machine guns, Molotov cocktails are more effective than grenades because it deals flame damage, and nobody resist to it. Their rifles are weak, however. You need mass recruit before making a move. Perfect meat shield for your artillery or snipers, or against enemy snipers. Besides recon you want 3:1 advantage to start a fight. This is a unit good for infantry rush. The windows of opportunity is small, however. 
+USSR only. Cheap to recruit and maintain. Although without machine guns, Molotov cocktails are more effective than grenades because it deals flame damage, and nobody resist to it. Their rifles are weak, however. You need mass recruit before making a move. Perfect meat shield for your artillery or snipers, or against enemy snipers. Besides recon you want 3:1 advantage to start a fight. This is a unit good for infantry rush. The window of opportunity is small, however. 
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Sniper Infantry Regiment
@@ -113,17 +113,17 @@ Although they are basically stronger of officers with better explosives, lack of
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Airborne Heavy Regiment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Requires Artillery Brigade. With two machine guns and a mortar, It can stand one on one with other infantries. Still you don't want to throw them into regular battles with vehicles as they are way too expensive, except maybe the cheaper Japanese version. You want to drop them to destroy high value targets like unguarded depots. For troops, they are slower moral killers as they have only one mortar per squad instead of two for the ground version. They can hold their own one on one in cities against most vehicles. They are best infantry against vehicles.
+Requires Artillery Brigade. With two machine guns and a mortar, it can stand one on one with other infantries. Still you don't want to throw them into regular battles with vehicles as they are way too expensive, except maybe the cheaper Japanese version. You want to drop them to destroy high value targets like unguarded depots. For troops, they are slower moral killers as they have only one mortar per squad instead of two for the ground version. They can hold their own one on one in cities against most vehicles. They are best infantry against vehicles.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 SAS Commandos
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-GBR only. Requires airfield with SAS Paratroopers upgrade. Has one SAS Commando as the officer instead of the regular airborne infantry. The machine guns and especially two snipers gives the regiments unmatched advantage over other infantries. However they are still way too expensive for regular battles. Use them to capture lightly defended cities or use as instant defense against infantries. They are the second best infantry against vehicles.
+GBR only. Requires airfield with SAS Paratroopers upgrade. Has one SAS Commando as the officer instead of the regular airborne infantry. The machine guns and especially two snipers give the regiments unmatched advantage over other infantries. However, they are still way too expensive for regular battles. Use them to capture lightly defended cities or use as instant defense against infantries. They are the second best infantry against vehicles.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Airborne Banzai Infantry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-JPN only. Requires Artillery Brigade. Airdropped suicide bombers sounds good on paper but being airdropped means they do not usually benefit from supplies like their ground counterparts. And only two Banzai infantry in them means the explosive charges are very limited. Best used against unguarded high value targets, like airfields or depot.
+JPN only. Requires Artillery Brigade. Airdropped suicide bombers sounds good on paper but being airdropped means they do not usually benefit from supplies like their ground counterparts. And having only two Banzai infantries in them means the explosive charges are very limited. Best used against unguarded high value targets, like airfields or depot.
 
 -------------------------------
 Marine Regiment
