@@ -73,7 +73,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`北条真吾 <srw4_pilots_shingo_hojo>`\ 
+            .. grid-item:: 地形参照  \ :ref:`北条真吾 <srw4_pilot_shingo_hojo>`\ 
                 :columns: auto
 
 
@@ -317,7 +317,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`レオナルド・メディチ・ブンドル <srw4_pilots_leonardo_medici_bundle>`\ 
+            .. grid-item:: 地形参照  \ :ref:`レオナルド・メディチ・ブンドル <srw4_pilot_leonardo_medici_bundle>`\ 
                 :columns: auto
 
 
@@ -517,7 +517,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`スーグニ・カットナル <srw4_pilots_suegni_cuttnal>`\ 
+            .. grid-item:: 地形参照  \ :ref:`スーグニ・カットナル <srw4_pilot_suegni_cuttnal>`\ 
                 :columns: auto
 
 
@@ -717,7 +717,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ヤッター・ラ・ケルナグール <srw4_pilots_yatta-la_kernagul>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ヤッター・ラ・ケルナグール <srw4_pilot_yatta_la_kernagul>`\ 
                 :columns: auto
 
 

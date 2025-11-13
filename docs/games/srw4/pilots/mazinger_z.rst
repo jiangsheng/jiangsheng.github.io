@@ -1,71 +1,149 @@
 .. meta::
-   :description: 由于Bug，底力失灵。早期由于驾驶マジンガーZ用铁壁充当肉盾的原因，等级很容易升上去，在魔神系中也是二次行动习得比较早的。 地形适应强，连开マリンスペイザー打海战都不是很吃力。虽然技量不错，但是マジンガーZ大招是减暴击率的以至于体现不出来。 有必闪，打最后几个boss比铁也有优势。当然前提是他去开大魔神，マジンガーZ的攻击力
-
+   :description: マジンガーZ}登场人物 弓さやか, ボス, 兜甲児, あしゅら男爵, ブロッケン伯爵, Ｄｒヘル 
 .. _srw4_pilots_mazinger_z:
 
+====================
 マジンガーZ登场人物
-==================================================================
+====================
+括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
-------------------
-我方人物
-------------------
+.. _srw4_pilots_mazinger_z_commentBegin:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-兜甲児
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _srw4_pilots_mazinger_z_commentEnd:
+
+--------
+我军人物
+--------
+.. _srw4_pilots_mazinger_z_own_commentBegin:
+
+
+.. _srw4_pilots_mazinger_z_own_commentEnd:
+
+^^^^^^^^
+弓さやか
+^^^^^^^^
+
+.. _srw4_pilot_sayaka_yumi:
+
 
 .. grid:: 
-    :class-container: text^nowrap
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
 
-    .. grid-item-card::
+    .. grid-item::
         :columns: auto
 
-        .. image:: ../pilots/images/srw4_pilot_55.png
-        
-        | 代码 55
-        | 近攻击 118+10
-        | 远攻击 95+10
-        | 回避 95+10
-        | 命中 95+5
-        | 直感 86
-        | 技量 97+10
+        .. image:: ../pilots/images/srw4_pilot_45.png
 
-    .. grid-item-card::
+    .. grid-item:: 登场/加入:第1话
+    .. grid-item:: 性格: 強気
+    .. grid-item:: SP: 80
+    .. grid-item:: 编码 45
+    .. grid-item:: 地址 B7B32 (2B3DE)
+    .. grid-item:: 精神地址 B7B43(2B3F0)
+    .. grid-item:: 地形适应 空C陆A海C宇B
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 近攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 回避
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 直感
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        93→
+        155
+
+    .. grid-item:: 46 (48)
+    .. grid-item:: 45 (47)
+    .. grid-item:: +10
+    .. grid-item:: 
+
+        90→
+        189
+
+    .. grid-item:: 36 (35)
+    .. grid-item:: 47 (46)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        85→
+        184
+
+    .. grid-item:: 46 (44)
+    .. grid-item:: 53
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 远攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 命中
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 技量
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        105→
+        162
+
+    .. grid-item:: 53 (49)
+    .. grid-item:: 47
+    .. grid-item:: +5
+    .. grid-item:: 
+
+        90→
+        189
+
+    .. grid-item:: 39 (34)
+    .. grid-item:: 49 (48)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        82→
+        181
+
+    .. grid-item:: 39 (37)
+    .. grid-item:: 47
+    .. grid-item:: 
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
         :columns: auto
 
-        | ひらめき 9
-        | 集中 13
-        | 根性 1
-        | 必中 4
-        | 熱血 22
-        | 鉄壁 24(2)
-        | 底力 1
-        
-    .. grid-item-card::
-        :columns: auto
+        幸運 1,信頼 3,必中 12,ひらめき 18,友情 7,再動 20
 
-        | SP 100
-        | 性格 超強気	
-        | 空A→B（A）
-        | 陆A
-        | 海B
-        | 宇B
-        | 二动等级 44
-
-基本能力在平均值以上，虽然技量不错，但是マジンガーZ大招是减暴击率的以至于体现不出来。直感比较高，在魔神系中也是二次行动习得比较早的。由于\ :doc:`../mechanics/bug`\ ，底力失灵。
-
-地形适应强，连开マリンスペイザー打海战都不是很吃力，所以开局要提高战力的话，可以让他转乘マリンスペイザー，ボス去开魔神Z。第四次マジンガーZ（JS）空适应是B，开战之前要降落到地面。第四次S的话マジンガーZ（JS）空适应提升到A，可以不用降落作战，对空中的敌人的格斗武器也不再削弱两成。
-
-虽然没有幸运，但是早期由于驾驶マジンガーZ用铁壁充当肉盾的原因，等级很容易升上去。有必闪，打最后几个boss比铁也有优势。当然前提是他去开大魔神，マジンガーZ的攻击力实在太差了。不过用地图武器刷了级的话，后期战力不缺缺辅助，魔神Z驾驶员的位置大概会被弓沙也加顶掉。
-
-第四次S加入了配音。
-
-
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-弓さやか
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-性格强气 代码 0x45 二动等级 45 近93+10 远105+5 回90 命90 直85 技82 空C陆A海C宇B 精80 闪避10 必中12 信赖3 幸运1 再动20 友情 7
+.. _srw4_pilot_sayaka_yumi_commentBegin:
 
 能力很差，机体也差。
 
@@ -75,10 +153,143 @@
 
 后面和古连泰沙分开两队的时候就只能靠自己了，还好魔神和大魔神都会跟过来，可以轮换着开。
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _srw4_pilot_sayaka_yumi_commentEnd:
+
+^^^^
 ボス
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-性格强气 代码 0x47 二动等级 52 近115+10 远70+10 回82+15 命71+25 直78 技70+5 空D陆A海D宇C 精90 自爆1 热血 20 脱力 4 大根性 1 气合 3 激怒 10 底力
+^^^^
+
+.. _srw4_pilot_boss:
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_47.png
+
+    .. grid-item:: 登场/加入:第1话
+    .. grid-item:: 性格: 強気
+    .. grid-item:: SP: 90
+    .. grid-item:: 编码 47
+    .. grid-item:: 地址 B7B72 (2B420)
+    .. grid-item:: 精神地址 B7B83(2B432)
+    .. grid-item:: 地形适应 空D陆A海D宇C
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 近攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 回避
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 直感
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        115→
+        177
+
+    .. grid-item:: 62
+    .. grid-item:: 51 (53)
+    .. grid-item:: +10
+    .. grid-item:: 
+
+        82→
+        196
+
+    .. grid-item:: 30 (39)
+    .. grid-item:: 45 (48)
+    .. grid-item:: +15
+    .. grid-item:: 
+
+        78→
+        177
+
+    .. grid-item:: 31 (30)
+    .. grid-item:: 50
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 远攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 命中
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 技量
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        70→
+        132
+
+    .. grid-item:: 20 (22)
+    .. grid-item:: 38 (37)
+    .. grid-item:: +10
+    .. grid-item:: 
+
+        71→
+        180
+
+    .. grid-item:: 17 (24)
+    .. grid-item:: 43 (45)
+    .. grid-item:: +10
+    .. grid-item:: 
+
+        70→
+        174
+
+    .. grid-item:: 29 (32)
+    .. grid-item:: 43 (45)
+    .. grid-item:: +5
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        自爆 1,気合 3,熱血 20,激怒 10,脱力 4,ド根性 1
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        底力 1
+
+.. _srw4_pilot_boss_commentBegin:
 
 波士除了近攻击没有别的能力能看。命中成长比较快，但是开局命中在游戏里倒数第一，自己升级比较困难，所以后面练级的时候都是蹭古连泰沙借别人的必中的，最后命中也达不到平均水平。52级出两动，在我方是最慢的一个。就算蹭古连泰沙，也要在倒数第三关才练得出来。
 
@@ -86,38 +297,551 @@
 
 10级就能习得激怒，真实系路线需要速通的时候很有用。第十二话愛の行方居然没有跟甲児一起走而是跑到本队去了估计就有要赶时间救人的考虑。25级就可以放两次激怒。気合也是可以帮助速通的，前提是把他换乘到マジンガーZ上面去。如果有人会复活的话，自爆也能让我方有地图武器的机体在同一回合满EN行动两次，。后面也可以用他开ドリルスペイザー，在地中来对敌人BOSS脱力。
 
-^^^^^^^^^^^^^^
-炎ジュン
-^^^^^^^^^^^^^^
 
-作为修理机机师来说能力是正常地差。地形适应也和自己的机体不符合，维纳斯A是空B陆A，她是空A陆B，也不适合本系大把的空B陆A的机体，后期グレンダイザー会分在A队，而她会去B队，所以你大概会想让她提前去开ダブルスペイザー。精神方面虽然比较偏战斗向，但是培养她也并无坏处，42级可以学会激励。
+.. _srw4_pilot_boss_commentEnd:
 
-------------------
-敌方人物
-------------------
+^^^^^^
+兜甲児
+^^^^^^
 
-虽然情节不多，但是这是地狱博士的初登场作品。阿修罗男爵的结局相当震撼，初玩者可能被剧情杀。
+.. _srw4_pilot_koji_kabuto:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_55.png
+
+    .. grid-item:: 登场/加入:第1话
+    .. grid-item:: 性格: 超強気
+    .. grid-item:: SP: 100
+    .. grid-item:: 编码 55
+    .. grid-item:: 地址 B7D42 (2B64A)
+    .. grid-item:: 精神地址 B7D53(2B65C)
+    .. grid-item:: 地形适应 空A陆A海B宇B
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 近攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 回避
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 直感
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        118→
+        180
+
+    .. grid-item:: 64
+    .. grid-item:: 51 (54)
+    .. grid-item:: +10
+    .. grid-item:: 
+
+        95→
+        204
+
+    .. grid-item:: 40 (44)
+    .. grid-item:: 48 (50)
+    .. grid-item:: +10
+    .. grid-item:: 
+
+        86→
+        185
+
+    .. grid-item:: 48 (46)
+    .. grid-item:: 53
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 远攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 命中
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 技量
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        95→
+        157
+
+    .. grid-item:: 43 (45)
+    .. grid-item:: 45
+    .. grid-item:: +10
+    .. grid-item:: 
+
+        95→
+        199
+
+    .. grid-item:: 45
+    .. grid-item:: 51
+    .. grid-item:: +5
+    .. grid-item:: 
+
+        97→
+        206
+
+    .. grid-item:: 50 (55)
+    .. grid-item:: 52 (55)
+    .. grid-item:: +10
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        熱血 22,根性 1,鉄壁 2,集中 13,必中 4,ひらめき 9
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        底力 1
+
+.. _srw4_pilot_koji_kabuto_commentBegin:
+
+基本能力在平均值以上，虽然技量不错，但是マジンガーZ大招是减暴击率的以至于体现不出来。直感比较高，在魔神系中也是二次行动习得比较早的。由于\ :doc:`../mechanics/bug`\ ，底力失灵。
+
+地形适应强，连开マリンスペイザー打海战都不是很吃力，所以开局要提高战力的话，可以让他转乘マリンスペイザー，ボス去开魔神Z。第四次マジンガーZ（JS）空适应是B，开战之前要降落到地面。第四次S的话マジンガーZ（JS）空适应提升到A，可以不用降落作战，对空中的敌人的格斗武器也不再削弱两成。
+
+虽然没有幸运，但是早期由于驾驶マジンガーZ用铁壁充当肉盾的原因，等级很容易升上去。有必闪，打最后几个boss比铁也有优势。当然前提是他去开大魔神，マジンガーZ的攻击力实在太差了。不过用地图武器刷了级的话，后期战力不缺缺辅助，魔神Z驾驶员的位置大概会被弓沙也加顶掉。
+
+第四次S加入了配音。
+
+.. _srw4_pilot_koji_kabuto_commentEnd:
+
+--------
+敌军人物
+--------
+.. _srw4_pilots_mazinger_z_enemy_commentBegin:
+
+
+.. _srw4_pilots_mazinger_z_enemy_commentEnd:
+
+^^^^^^^^^^^^
 あしゅら男爵
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-阿修罗男爵 性格弱气 代码 0xA0 二动等级 47 近118 远110 回90 命93 直83 技88 空A陆B海A宇B 精60 自爆1 侦察 2 根性 1 必中25 大根性 10 激怒 9
+^^^^^^^^^^^^
 
-命中回避都很差。海适应是A，有几话会开船出来。性格是弱气，可击落一些敌军之后再打。
+.. _srw4_pilot_baron_ashura:
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_A0.png
+
+    .. grid-item:: 登场/加入:第1话
+    .. grid-item:: 性格: 弱気
+    .. grid-item:: SP: 60
+    .. grid-item:: 编码 A0
+    .. grid-item:: 地址 B8609 (2BFAE)
+    .. grid-item:: 精神地址 B861A(2BFC0)
+    .. grid-item:: 地形适应 空A陆B海A宇B
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 近攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 回避
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 直感
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        118→
+        170
+
+    .. grid-item:: 64 (58)
+    .. grid-item:: 51
+    .. grid-item:: 
+    .. grid-item:: 
+
+        90→
+        189
+
+    .. grid-item:: 36 (35)
+    .. grid-item:: 47 (46)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        83→
+        182
+
+    .. grid-item:: 41 (40)
+    .. grid-item:: 52
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 远攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 命中
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 技量
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        110→
+        162
+
+    .. grid-item:: 58 (49)
+    .. grid-item:: 48 (47)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        93 (97)→
+        192 (196)
+
+    .. grid-item:: 42 (38)
+    .. grid-item:: 50 (49)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        88→
+        187
+
+    .. grid-item:: 43 (41)
+    .. grid-item:: 49
+    .. grid-item:: 
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        自爆 1,偵察 2,激怒 9,必中 25,根性 1,ド根性 10
+
+.. _srw4_pilot_baron_ashura_commentBegin:
+
+阿修罗男爵的命中回避都很差。海适应是A，有几话会开船出来。性格是弱气，可击落一些敌军之后再打。
 
 第四次S中增加了回避。
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _srw4_pilot_baron_ashura_commentEnd:
+
+^^^^^^^^^^^^^^
 ブロッケン伯爵
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^
 
-伯罗肯伯爵 性格弱气 代码 0xA1 二动等级 49 近119 远107 回88 命92 直82 技89 空A陆A海B宇B 精60 自爆1 集中 10 根性 1 必中22 大根性 11 激怒 4
+.. _srw4_pilot_count_of_brocken:
 
-命中回避都很差。性格是弱气，可击落一些敌军之后再打。第四次S中在\ :doc:`../walkthrough/21_dr_hell_s_ambition`\ 这一话增加了为阿修罗男爵复仇的台词。在\ :doc:`../walkthrough/23b_recapture_of_great_mazinger`\ 这一话增加了阵亡的台词。
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_A1.png
+
+    .. grid-item:: 登场/加入:第1话
+    .. grid-item:: 性格: 弱気
+    .. grid-item:: SP: 60
+    .. grid-item:: 编码 A1
+    .. grid-item:: 地址 B8628 (2BFCE)
+    .. grid-item:: 精神地址 B8639(2BFE0)
+    .. grid-item:: 地形适应 空A陆A海B宇B
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 近攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 回避
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 直感
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        119→
+        171
+
+    .. grid-item:: 65 (58)
+    .. grid-item:: 52
+    .. grid-item:: 
+    .. grid-item:: 
+
+        88→
+        187
+
+    .. grid-item:: 35 (34)
+    .. grid-item:: 46 (45)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        82→
+        181
+
+    .. grid-item:: 39 (38)
+    .. grid-item:: 52 (51)
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 远攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 命中
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 技量
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        107→
+        159
+
+    .. grid-item:: 55 (46)
+    .. grid-item:: 48 (46)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        92 (96)→
+        191 (195)
+
+    .. grid-item:: 41 (36)
+    .. grid-item:: 50 (48)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        89→
+        188
+
+    .. grid-item:: 44 (42)
+    .. grid-item:: 50 (49)
+    .. grid-item:: 
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        自爆 1,必中 22,集中 18,ド根性 1,激怒 4,根性 1
+
+.. _srw4_pilot_count_of_brocken_commentBegin:
+
+伯罗肯伯爵的命中回避都很差。性格是弱气，可击落一些敌军之后再打。第四次S中在\ :doc:`../walkthrough/21_dr_hell_s_ambition`\ 这一话增加了为阿修罗男爵复仇的台词。在\ :doc:`../walkthrough/23b_recapture_of_great_mazinger`\ 这一话增加了阵亡的台词。
 
 第四次S中增加了回避。
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _srw4_pilot_count_of_brocken_commentEnd:
+
+^^^^^^^^
 Ｄｒヘル
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^
+
+.. _srw4_pilot_dr_hell:
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_A2.png
+
+    .. grid-item:: 登场/加入:第21话
+    .. grid-item:: 性格: 弱気
+    .. grid-item:: SP: 60
+    .. grid-item:: 编码 A2
+    .. grid-item:: 地址 B8647 (2BFEE)
+    .. grid-item:: 精神地址 B8658(2C000)
+    .. grid-item:: 地形适应 空B陆A海B宇B
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 近攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 回避
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 直感
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        119→
+        171
+
+    .. grid-item:: 65 (58)
+    .. grid-item:: 52
+    .. grid-item:: 
+    .. grid-item:: 
+
+        90→
+        189
+
+    .. grid-item:: 36 (35)
+    .. grid-item:: 47 (46)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        81→
+        180
+
+    .. grid-item:: 37 (36)
+    .. grid-item:: 51
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 远攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 命中
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 技量
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        110→
+        162
+
+    .. grid-item:: 58 (49)
+    .. grid-item:: 48 (47)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        96 (106)→
+        195 (205)
+
+    .. grid-item:: 46 (41)
+    .. grid-item:: 51 (49)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        88→
+        187
+
+    .. grid-item:: 43 (41)
+    .. grid-item:: 49
+    .. grid-item:: 
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        激怒 13,隠れ身 21,根性 1,ド根性 5,かく乱 4,足かせ 17
+
+.. _srw4_pilot_dr_hell_commentBegin:
+
 第四次S中增加了回避。
+
+.. _srw4_pilot_dr_hell_commentEnd:
+

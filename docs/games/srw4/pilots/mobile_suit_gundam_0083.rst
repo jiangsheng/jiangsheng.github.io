@@ -1,21 +1,296 @@
 .. meta::
-   :description: 科 性格普通 代码 0x54 二动等级 41 近100+10 远110+10 回123 命104+12 直89 技104+10 空C陆A海B宇A 精70 闪避2 热血8 铁壁1 幸运10 觉醒27 魂48 切り払いLv2 シールド防御Lv3 没有新人类能力无法使用浮游炮，而且远攻相对差，是机动战士系很少见的远近均衡的类
+   :description: 機動戦士ガンダム0083}登场人物 アナベル・ガトー, チャック・キース, コウ・ウラキ, ニナ・パープルトン, ベルナルド・モンシア, サウス・バニング, ケリィ・レズナー, シーマ・ガラハウ, エギーユ・デラーズ 
+.. _srw4_pilots_mobile_suit_gundam_0083:
 
-.. _srw4_pilots_ms_gundam_0083:
-
+================================
 機動戦士ガンダム0083登场人物
-=================================
+================================
+括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
---------------------
-我方人物
---------------------
+.. _srw4_pilots_mobile_suit_gundam_0083_commentBegin:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-コウ＝ウラキ
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-科 性格普通 代码 0x54 二动等级 41 近100+10 远110+10 回123 命104+12 直89 技104+10 空C陆A海B宇A 精70 闪避2 热血8 铁壁1 幸运10 觉醒27 魂48 切り払いLv2 シールド防御Lv3
 
-相对于新人类来说远攻相对差，是机动战士系很少见的远近均衡的类型，在真实系中格斗能力仅次于巴尼，但如果要发挥近战优势的话还是得等到GP-03デンドロビウム入手。
+.. _srw4_pilots_mobile_suit_gundam_0083_commentEnd:
+
+--------
+我军人物
+--------
+.. _srw4_pilots_mobile_suit_gundam_0083_own_commentBegin:
+
+我方庇护者ジョン・コウェン虽然剧情很多，但是并非机师，只在对话中出现，没有设定数据。虽然在原作未死，但是本作中被提坦斯合德雷克军暗杀。
+
+.. _srw4_pilots_mobile_suit_gundam_0083_own_commentEnd:
+
+^^^^^^^^^^^^^^^^
+チャック・キース
+^^^^^^^^^^^^^^^^
+
+.. _srw4_pilot_chuck_keith:
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_43.png
+
+    .. grid-item:: 登场/加入:第1话
+    .. grid-item:: 性格: 弱気
+    .. grid-item:: SP: 50
+    .. grid-item:: 编码 43
+    .. grid-item:: 地址 B7AF2 (2B39C)
+    .. grid-item:: 精神地址 B7B03(2B3AE)
+    .. grid-item:: 地形适应 空C陆A海C宇B
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 近攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 回避
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 直感
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        72→
+        124
+
+    .. grid-item:: 31 (29)
+    .. grid-item:: 40 (37)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        107→
+        206
+
+    .. grid-item:: 49 (45)
+    .. grid-item:: 52 (50)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        83→
+        182
+
+    .. grid-item:: 41 (40)
+    .. grid-item:: 52
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 远攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 命中
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 技量
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        100→
+        162
+
+    .. grid-item:: 48 (49)
+    .. grid-item:: 46 (47)
+    .. grid-item:: +10
+    .. grid-item:: 
+
+        103→
+        202
+
+    .. grid-item:: 54 (48)
+    .. grid-item:: 53 (52)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        84→
+        204
+
+    .. grid-item:: 40 (53)
+    .. grid-item:: 48 (54)
+    .. grid-item:: + 21
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        幸運 10,熱血 28,友情 19,加速 2,かく乱 9,脱力 15
+
+.. _srw4_pilot_chuck_keith_commentBegin:
+
+基斯能力比较差，只有技量能看，座机钢加农运动性也差，开局经常摸不到人。还好有幸运和热血，可以用地图武器刷级之后放かく乱。至于正儿八经地作战么还是算了吧，宇宙B太吃亏了。
+
+初期有加速，可以开Gディフェンサー（仅限真实系）四处探宝，精神方面也很匹配超级高达的副机师。和ファ＝ユイリィ不同的是，他的空中适应是C，完全不适合开飞机时战斗。
+
+第四次S中在接触（真实系）中有和莫拉的对话。
+
+.. _srw4_pilot_chuck_keith_commentEnd:
+
+^^^^^^^^^^^^
+コウ・ウラキ
+^^^^^^^^^^^^
+
+.. _srw4_pilot_kou_uraki:
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_54.png
+
+    .. grid-item:: 登场/加入:第1话
+    .. grid-item:: 性格: 普通
+    .. grid-item:: SP: 70
+    .. grid-item:: 编码 54
+    .. grid-item:: 地址 B7D1F (2B616)
+    .. grid-item:: 精神地址 B7D30(2B628)
+    .. grid-item:: 地形适应 空C陆A海B宇A
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 近攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 回避
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 直感
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        100 (106)→
+        162 (168)
+
+    .. grid-item:: 51 (53)
+    .. grid-item:: 47 (49)
+    .. grid-item:: +10
+    .. grid-item:: 
+
+        123 (127)→
+        222 (226)
+
+    .. grid-item:: 62 (54)
+    .. grid-item:: 57 (55)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        89→
+        188
+
+    .. grid-item:: 54 (52)
+    .. grid-item:: 54
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 远攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 命中
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 技量
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        100→
+        162
+
+    .. grid-item:: 48 (49)
+    .. grid-item:: 46 (47)
+    .. grid-item:: +10
+    .. grid-item:: 
+
+        104→
+        215
+
+    .. grid-item:: 55 (63)
+    .. grid-item:: 53 (56)
+    .. grid-item:: +12
+    .. grid-item:: 
+
+        104→
+        213
+
+    .. grid-item:: 56 (60)
+    .. grid-item:: 54 (57)
+    .. grid-item:: +10
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        熱血 8,幸運 10,覚醒 27,鉄壁 1,ひらめき 2,魂 48
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        切り払いＬ2 1,シールド防御Ｌ3 1,切り払いＬ3 4 (ps),Ｌ4 12 (ps),Ｌ5 19 (ps),シールド防御Ｌ4 12 (ps),Ｌ5 17 (ps),Ｌ6 24 (ps),Ｌ7 30 (ps),Ｌ8 40 (ps)
+
+.. _srw4_pilot_kou_uraki_commentBegin:
+
+科相对于新人类来说远攻相对差，是机动战士系很少见的远近均衡的类型，在真实系中格斗能力仅次于巴尼，但如果要发挥近战优势的话还是得等到GP-03デンドロビウム入手。
 
 精神方面，有热血、幸运和觉醒，最后还能学到魂，本来精神很适合百式和ZZ，但是这些机体要用来刷级，太抢手了，后期又有强制换乘事件。没有必中和集中，用地图武器自残\ :doc:`../mechanics/bug`\ 练级的时候很容易打不到自己人，所以要第一批刷级。铁壁也比较适合GP-03デンドロビウム，奈何这机体移动类型只有宇宙，在月球上地形适应就变得很差，最后甚至不能出战，以至于要另找机体开。
 
@@ -25,65 +300,946 @@
 
 第四次S中加入了声音，格斗和回避能力也有所上调。切り払い从2级提升到5级，シールド防御从3级提升到8级。
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-チャック＝キース
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-基斯 性格弱气 代码 0x43 二动等级47  近72 远110+10 回107 命103 直83 技84+21 空C陆A海C宇B 精50 加速2 热血28 脱力15 幸运10 扰乱9 友情 19
-
-能力比较差，只有技量能看，座机钢加农运动性也差，开局经常摸不到人。还好有幸运和热血，可以用地图武器刷级之后放かく乱。至于正儿八经地作战么还是算了吧，宇宙B太吃亏了。
-
-初期有加速，可以开Gディフェンサー（仅限真实系）四处探宝，精神方面也很匹配超级高达的副机师。和ファ＝ユイリィ不同的是，他的空中适应是C，完全不适合开飞机时战斗。
-
-第四次S中在接触（真实系）中有和莫拉的对话。
-
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-ジョン・コウェン
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-朗德贝尔的主要赞助者。
-
+.. _srw4_pilot_kou_uraki_commentEnd:
 
 ^^^^^^^^^^^^^^^^
 アナベル・ガトー
 ^^^^^^^^^^^^^^^^
+
+.. _srw4_pilot_anavel_gato:
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_42.png
+
+    .. grid-item:: 登场/加入:第39话
+    .. grid-item:: 性格: 強気
+    .. grid-item:: SP: 50
+    .. grid-item:: 编码 42
+    .. grid-item:: 地址 B7AD1 (2B378)
+    .. grid-item:: 精神地址 B7AE2(2B38A)
+    .. grid-item:: 地形适应 空B陆A海B宇A
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 近攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 回避
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 直感
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        108 (112)→
+        160 (164)
+
+    .. grid-item:: 57 (51)
+    .. grid-item:: 49 (48)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        127 (139)→
+        226 (238)
+
+    .. grid-item:: 65 (57)
+    .. grid-item:: 58 (56)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        82 (85)→
+        181 (184)
+
+    .. grid-item:: 39 (38)
+    .. grid-item:: 52 (51)
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 远攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 命中
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 技量
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        127→
+        179
+
+    .. grid-item:: 73 (64)
+    .. grid-item:: 53
+    .. grid-item:: 
+    .. grid-item:: 
+
+        114 (124)→
+        213 (223)
+
+    .. grid-item:: 67 (61)
+    .. grid-item:: 57 (55)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        120 (125)→
+        219 (224)
+
+    .. grid-item:: 68 (64)
+    .. grid-item:: 59
+    .. grid-item:: 
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        熱血 8,覚醒 23,気合 1,加速 1,集中 2,威圧 10
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        シールド防御Ｌ3 (シールド防御Ｌ8) 1,切り払いＬ8 1 (ps)
+
+.. _srw4_pilot_anavel_gato_commentBegin:
+
 本次作为ノイエＤＣの一員，ノイエＤＣ崩溃之后成为セシリー的护卫。驾驶GP02加入。远攻击在我方排第二，但是没有魂。
 
 第四次S中能力全面上升，除了最重要的远攻击（……）。シールド防御从3级提升到8级，新增的切り払い可以升到8级。
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-ベルナルド＝モンシア
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-废弃数据。按照编号来看，在本作还不是ティターンズ的一员。
+.. _srw4_pilot_anavel_gato_commentEnd:
 
-能力不错，但是地形适应实在是差，只有陆地是A。精神方面也连个热血都没有。
-
-
+--------
+敌军人物
+--------
+.. _srw4_pilots_mobile_suit_gundam_0083_enemy_commentBegin:
 
 
---------------------
-敌方人物
---------------------
-
+.. _srw4_pilots_mobile_suit_gundam_0083_enemy_commentEnd:
 
 ^^^^^^^^^^^^^^^^
-シーマ＝ガラハウ
+シーマ・ガラハウ
 ^^^^^^^^^^^^^^^^
+
+.. _srw4_pilot_cima_garahau:
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_9F.png
+
+    .. grid-item:: 登场/加入:第4话
+    .. grid-item:: 性格: 超強気
+    .. grid-item:: SP: 50
+    .. grid-item:: 编码 9F
+    .. grid-item:: 地址 B85E8 (2BF8A)
+    .. grid-item:: 精神地址 B85F9(2BF9C)
+    .. grid-item:: 地形适应 空C陆A海A宇A
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 近攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 回避
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 直感
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        98 (101)→
+        150 (153)
+
+    .. grid-item:: 50 (45)
+    .. grid-item:: 46 (45)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        125 (127)→
+        224 (226)
+
+    .. grid-item:: 63 (55)
+    .. grid-item:: 57 (55)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        86→
+        185
+
+    .. grid-item:: 48 (46)
+    .. grid-item:: 53
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 远攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 命中
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 技量
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        117 (119)→
+        169 (171)
+
+    .. grid-item:: 64 (55)
+    .. grid-item:: 50 (49)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        110 (120)→
+        209 (219)
+
+    .. grid-item:: 62 (56)
+    .. grid-item:: 55 (54)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        112→
+        211
+
+    .. grid-item:: 62 (58)
+    .. grid-item:: 57 (56)
+    .. grid-item:: 
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        威圧 17,てかげん 22,集中 1,ひらめき 2,脱力 10,隠れ身 21
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        切り払いＬ1 (シールド防御Ｌ4) 1,Ｌ3 1 (ps)
+
+.. _srw4_pilot_cima_garahau_commentBegin:
+
 回避和远攻击优秀的敌人。技量也高，出会心一击的话未改造的机体很容易挂掉。
 
 第四次S中全面增加了除了技量和直感之外的能力。切り払い从1级提升到3级，新增的シールド防御出场就有4级。
 
+.. _srw4_pilot_cima_garahau_commentEnd:
+
 ^^^^^^^^^^^^^^^^
-ケリィ＝レズナー
+ケリィ・レズナー
 ^^^^^^^^^^^^^^^^
+
+.. _srw4_pilot_kelly_layzner:
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_2E.png
+
+    .. grid-item:: 登场/加入:第25话
+    .. grid-item:: 性格: 普通
+    .. grid-item:: SP: 50
+    .. grid-item:: 编码 2E
+    .. grid-item:: 地址 B7875 (2B0CA)
+    .. grid-item:: 精神地址 B7886(2B0DC)
+    .. grid-item:: 地形适应 空A陆B海B宇A
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 近攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 回避
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 直感
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        100→
+        152
+
+    .. grid-item:: 51 (46)
+    .. grid-item:: 47 (46)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        113 (119)→
+        212 (218)
+
+    .. grid-item:: 54 (48)
+    .. grid-item:: 54 (52)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        82→
+        181
+
+    .. grid-item:: 39 (38)
+    .. grid-item:: 52 (51)
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 远攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 命中
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 技量
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        117→
+        169
+
+    .. grid-item:: 64 (55)
+    .. grid-item:: 50 (49)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        112→
+        211
+
+    .. grid-item:: 64 (58)
+    .. grid-item:: 56 (54)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        116→
+        215
+
+    .. grid-item:: 65 (61)
+    .. grid-item:: 58 (57)
+    .. grid-item:: 
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        根性 1,熱血 10,ひらめき 15,隠れ身 7,加速 3,信頼 28
+
+.. _srw4_pilot_kelly_layzner_commentBegin:
+
 和他的机体ヴァル・ヴァロ一样只在\ :ref:`強襲！阻止限界点 <srw4_walkthrough_25a_assault_intervention_point>`\ 这一话中登场。
 
 回避和技量优秀的敌人。出会心一击的话未改造的机体很容易挂掉。
 
 第四次S中增加了和コウ的战斗对话，以及增加了回避。
 
-^^^^^^^^^^^^^^^^^^^^^
+.. _srw4_pilot_kelly_layzner_commentEnd:
+
+^^^^^^^^^^^^^^^^^^
 エギーユ・デラーズ
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+
+.. _srw4_pilot_aiguille_delaz:
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_D1.png
+
+    .. grid-item:: 登场/加入:第37话
+    .. grid-item:: 性格: 弱気
+    .. grid-item:: SP: 60
+    .. grid-item:: 编码 D1
+    .. grid-item:: 地址 B8B7F (2C574)
+    .. grid-item:: 精神地址 B8B90(2C586)
+    .. grid-item:: 地形适应 空B陆A海C宇A
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 近攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 回避
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 直感
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        100→
+        152
+
+    .. grid-item:: 51 (46)
+    .. grid-item:: 47 (46)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        102 (112)→
+        201 (211)
+
+    .. grid-item:: 45 (42)
+    .. grid-item:: 50 (49)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        82→
+        181
+
+    .. grid-item:: 39 (38)
+    .. grid-item:: 52 (51)
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 远攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 命中
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 技量
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        100 (105)→
+        152 (157)
+
+    .. grid-item:: 48 (40)
+    .. grid-item:: 46 (44)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        100 (110)→
+        199 (209)
+
+    .. grid-item:: 50 (45)
+    .. grid-item:: 52 (51)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        99 (109)→
+        198 (208)
+
+    .. grid-item:: 52 (49)
+    .. grid-item:: 53 (52)
+    .. grid-item:: 
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        根性 1,ド根性 1,自爆 1
+
+.. _srw4_pilot_aiguille_delaz_commentBegin:
+
 第四次S中全面增加了除了近攻击和直感之外的能力。
 
+.. _srw4_pilot_aiguille_delaz_commentEnd:
 
+--------
+盟军人物
+--------
+.. _srw4_pilots_mobile_suit_gundam_0083_ally_commentBegin:
+
+
+.. _srw4_pilots_mobile_suit_gundam_0083_ally_commentEnd:
+
+^^^^^^^^^^^^^^^^^^
+ニナ・パープルトン
+^^^^^^^^^^^^^^^^^^
+
+.. _srw4_pilot_nina_purpleton:
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_41.png
+
+    .. grid-item:: 登场/加入:第14话
+    .. grid-item:: 性格: 弱気
+    .. grid-item:: SP: 0
+    .. grid-item:: 编码 41
+    .. grid-item:: 地址 B7ABA (2B360)
+    .. grid-item:: 精神地址 B7ACB(2B372)
+    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 近攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 回避
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 直感
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        236→
+        255
+
+    .. grid-item:: 149 (111)
+    .. grid-item:: 80 (78)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        0→
+        99
+
+    .. grid-item:: -34 (-17)
+    .. grid-item:: 21
+    .. grid-item:: 
+    .. grid-item:: 
+
+        0→
+        99
+
+    .. grid-item:: -132 (-127)
+    .. grid-item:: 19
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 远攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 命中
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 技量
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        236→
+        255
+
+    .. grid-item:: 176 (132)
+    .. grid-item:: 80 (79)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        0→
+        99
+
+    .. grid-item:: -65
+    .. grid-item:: 20
+    .. grid-item:: 
+    .. grid-item:: 
+
+        0→
+        99
+
+    .. grid-item:: -25 (-23)
+    .. grid-item:: 21
+    .. grid-item:: 
+
+.. _srw4_pilot_nina_purpleton_commentBegin:
+
+
+.. _srw4_pilot_nina_purpleton_commentEnd:
+
+----------
+未登场人物
+----------
+.. _srw4_pilots_mobile_suit_gundam_0083_dead_data_commentBegin:
+
+
+.. _srw4_pilots_mobile_suit_gundam_0083_dead_data_commentEnd:
+
+^^^^^^^^^^^^^^^^^^^^
+ベルナルド・モンシア
+^^^^^^^^^^^^^^^^^^^^
+
+.. _srw4_pilot_bernard_monsha:
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_44.png
+
+    .. grid-item:: 性格: 超強気
+    .. grid-item:: SP: 50
+    .. grid-item:: 编码 44
+    .. grid-item:: 地址 B7B11 (2B3BC)
+    .. grid-item:: 精神地址 B7B22(2B3CE)
+    .. grid-item:: 地形适应 空B陆A海B宇B
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 近攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 回避
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 直感
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        90→
+        142
+
+    .. grid-item:: 44 (40)
+    .. grid-item:: 45 (42)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        120→
+        219
+
+    .. grid-item:: 59 (52)
+    .. grid-item:: 56 (54)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        82→
+        181
+
+    .. grid-item:: 39 (38)
+    .. grid-item:: 52 (51)
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 远攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 命中
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 技量
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        119→
+        171
+
+    .. grid-item:: 66 (57)
+    .. grid-item:: 51 (50)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        112→
+        211
+
+    .. grid-item:: 64 (58)
+    .. grid-item:: 56 (54)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        114→
+        213
+
+    .. grid-item:: 64 (60)
+    .. grid-item:: 58 (57)
+    .. grid-item:: 
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        威圧 16,てかげん 19,根性 3,脱力 20,集中 1,ひらめき 14
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        シールド防御Ｌ2 1
+
+.. _srw4_pilot_bernard_monsha_commentBegin:
+
+
+.. _srw4_pilot_bernard_monsha_commentEnd:
+
+^^^^^^^^^^^^^^^^
+サウス・バニング
+^^^^^^^^^^^^^^^^
+
+.. _srw4_pilot_south_burning:
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_70.png
+
+    .. grid-item:: 性格: 強気
+    .. grid-item:: SP: 0
+    .. grid-item:: 编码 70
+    .. grid-item:: 地址 B8045 (2B972)
+    .. grid-item:: 精神地址 B8056(2B984)
+    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 近攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 回避
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 直感
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        236→
+        255
+
+    .. grid-item:: 149 (111)
+    .. grid-item:: 80 (78)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        0→
+        99
+
+    .. grid-item:: -34 (-17)
+    .. grid-item:: 21
+    .. grid-item:: 
+    .. grid-item:: 
+
+        0→
+        99
+
+    .. grid-item:: -132 (-127)
+    .. grid-item:: 19
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 远攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 命中
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 技量
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        236→
+        255
+
+    .. grid-item:: 176 (132)
+    .. grid-item:: 80 (79)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        0→
+        99
+
+    .. grid-item:: -65
+    .. grid-item:: 20
+    .. grid-item:: 
+    .. grid-item:: 
+
+        0→
+        99
+
+    .. grid-item:: -25 (-23)
+    .. grid-item:: 21
+    .. grid-item:: 
+
+.. _srw4_pilot_south_burning_commentBegin:
+
+
+.. _srw4_pilot_south_burning_commentEnd:
 
