@@ -36,60 +36,100 @@
     :padding: 0
     :outline:
 
+
+    .. grid-item:: 
+        :columns: 3
+
+    .. grid-item:: 
+        :columns: 9
+
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 编码 106
+                :columns: auto
+
+            .. grid-item:: 地址 BC2D4 (28FC0)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BC2F4 (28FE0)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空陸
+                :columns: auto
+
+
+            .. grid-item:: 大小 M
+                :columns: auto
+
+            .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 8000
+    .. grid-item:: 70
+    .. grid-item:: 50
+    .. grid-item:: EN
+    .. grid-item:: 200
+    .. grid-item:: 57
+    .. grid-item:: 52
+    .. grid-item:: 装甲
+    .. grid-item:: 0
+    .. grid-item:: 30 (31)
+    .. grid-item:: 33 (34)
     .. grid-item::
-        :columns: auto
-
-        | HP 8000
-        | 我军偏差值 69.64(69.62)
-        | 整体偏差值 49.67(49.63)
-        | EN 200
-        | 我军偏差值 56.67(56.63)
-        | 整体偏差值 52.48(52.47)
-        | 装甲 0
-        | 我军偏差值 29.96(30.95)
-        | 整体偏差值 32.78(33.53)
-        | 运动性 0
-        | 我军偏差值 8.6(8.42)
-        | 整体偏差值 13.74(13.99)
-        | 限界 0
-        | 我军偏差值 -7.51(-7.56)
-        | 整体偏差值 -6.01(-5.88)
-
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 0
+    .. grid-item:: 9 (8)
+    .. grid-item:: 14
+    .. grid-item:: 限界
+    .. grid-item:: 0
+    .. grid-item:: -8
+    .. grid-item:: -6
+    .. grid-item:: 移动力
+    .. grid-item:: 0
+    .. grid-item:: 5
+    .. grid-item:: 7
     .. grid-item::
-        :columns: auto
-
-        | 编码 106
-        | Snes地址 BC2D4
-        | 武器首地址 BC2F4
-        | PS地址 28FC0
-        | 类型 空陸
-        | 移动力 0
-        | 我军偏差值 4.59
-        | 整体偏差值 6.97
-        | 大小 M
-
-        | 经验值 0
-        | 我军偏差值 27.69
-        | 整体偏差值 29.57
-        | 价值 0
-        | 我军偏差值 43.14
-        | 整体偏差值 42
-        | 修理费 0
-        | 我军偏差值 43.76
-        | 整体偏差值 43.71
-    .. grid-item::
-        :columns: auto
-
-        | 空🚫
-        | 陆🚫
-        | 海🚫
-        | 宇🚫
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 0
+    .. grid-item:: 28
+    .. grid-item:: 30
+    .. grid-item:: 价值
+    .. grid-item:: 0
+    .. grid-item:: 43
+    .. grid-item:: 42
+    .. grid-item:: 修理费
+    .. grid-item:: 0
+    .. grid-item:: 44
+    .. grid-item:: 44
 .. _srw4_unit_xi_gundam_commentBegin:
 
 废弃数据，没有登场。

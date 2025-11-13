@@ -36,64 +36,109 @@ Sガンダム
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_D5.png
 
-        登场/加入:第20话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第20话
+                :columns: auto
+
+            .. grid-item:: 编码 D5
+                :columns: auto
+
+            .. grid-item:: 地址 BBA60 (2874F)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BBA80 (2876F)
+                :columns: auto
+
+            .. grid-item:: 移动类型 陸宇
+                :columns: auto
+
+
+            .. grid-item:: 大小 M
+                :columns: auto
+
+            .. grid-item:: 地形适应 空🚫陆B海D宇A
+                :columns: auto
+
+
+            .. grid-item:: 剣装備, ビームコート
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 3000
-        | 我军偏差值 49.1(49.09)
-        | 整体偏差值 45.47(45.48)
-        | EN 170
-        | 我军偏差值 47.86(47.83)
-        | 整体偏差值 44.56(44.54)
-        | 装甲 320
-        | 我军偏差值 47.09(46.82)
-        | 整体偏差值 46.46(46.43)
-        | 运动性 39
-        | 我军偏差值 52.5(52.44)
-        | 整体偏差值 53.78(53.58)
-        | 限界 200
-        | 我军偏差值 54.39(54.35)
-        | 整体偏差值 54.46(54.41)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 3000
+    .. grid-item:: 49
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 170
+    .. grid-item:: 48
+    .. grid-item:: 45
+    .. grid-item:: 装甲
+    .. grid-item:: 320
+    .. grid-item:: 47
+    .. grid-item:: 46
     .. grid-item::
-        :columns: auto
-
-        | 编码 D5
-        | Snes地址 BBA60
-        | 武器首地址 BBA80
-        | PS地址 2874F
-        | 类型 陸宇
-        | 移动力 8
-        | 我军偏差值 47.89
-        | 整体偏差值 50.04
-        | 大小 M
-
-        | 经验值 170
-        | 我军偏差值 55.5
-        | 整体偏差值 55.64
-        | 价值 3000
-        | 我军偏差值 48.78
-        | 整体偏差值 47.26
-        | 修理费 9000
-        | 我军偏差值 53.82
-        | 整体偏差值 51.29
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 39
+    .. grid-item:: 53 (52)
+    .. grid-item:: 54
+    .. grid-item:: 限界
+    .. grid-item:: 200
+    .. grid-item:: 54
+    .. grid-item:: 54
+    .. grid-item:: 移动力
+    .. grid-item:: 8
+    .. grid-item:: 48
+    .. grid-item:: 50
     .. grid-item::
-        :columns: auto
-
-        | 空🚫
-        | 陆B
-        | 海D
-        | 宇A
-        | 剣装備
-        | ビームコート
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 170
+    .. grid-item:: 55
+    .. grid-item:: 56
+    .. grid-item:: 价值
+    .. grid-item:: 3000
+    .. grid-item:: 49
+    .. grid-item:: 47
+    .. grid-item:: 修理费
+    .. grid-item:: 9000
+    .. grid-item:: 54
+    .. grid-item:: 51
 
 .. grid:: 
     :gutter: 3
@@ -103,146 +148,94 @@ Sガンダム
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: バルカンⓅ
         :columns: 3
-
     .. grid-item:: 390
-
+    .. grid-item:: 390
     .. grid-item:: 1
-
     .. grid-item:: +35
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 5
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ミサイル⚔
         :columns: 3
-
     .. grid-item:: 980
-
+    .. grid-item:: 980
     .. grid-item:: 1~6
-
     .. grid-item:: -10
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
-
     .. grid-item:: 1020
-
+    .. grid-item:: 1020
     .. grid-item:: 1
-
     .. grid-item:: +20
-
     .. grid-item:: +20
-
     .. grid-item:: 空A→🚫陆A→B海A→C宇A
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾋﾞｰﾑｽﾏｰﾄｶﾞﾝⒷ
         :columns: 3
-
     .. grid-item:: 1200
-
+    .. grid-item:: 1200
     .. grid-item:: 2~8
-
     .. grid-item:: -5
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海🚫宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ビームカノンⒷ
         :columns: 3
-
     .. grid-item:: 1280
-
+    .. grid-item:: 1280
     .. grid-item:: 1~7
-
     .. grid-item:: 
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海🚫宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: インコム⚔
         :columns: 3
-
     .. grid-item:: 1900
-
+    .. grid-item:: 1900
     .. grid-item:: 1~7
-
     .. grid-item:: +8
-
     .. grid-item:: +30
-
     .. grid-item:: 空A陆A海B宇A
         :columns: 3
-
     .. grid-item:: 残弹 4
-
-    .. grid-item:: 必要气力 100
-
+    .. grid-item:: 100气力
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_s_gundam_commentBegin:
 
 正式名称为「卓越高达（Superior Gundam）」，开发代号为「ι（伊奥塔）高达」。
@@ -273,63 +266,109 @@ Gクルーザー (S)
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_D6.png
 
-        登场/加入:第20话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第20话
+                :columns: auto
+
+            .. grid-item:: 编码 D6
+                :columns: auto
+
+            .. grid-item:: 地址 BBA94 (28783)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BBAB4 (287A3)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空
+                :columns: auto
+
+
+            .. grid-item:: 大小 M
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆🚫海🚫宇A
+                :columns: auto
+
+
+            .. grid-item:: ビームコート
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 3000
-        | 我军偏差值 49.1(49.09)
-        | 整体偏差值 45.47(45.48)
-        | EN 170
-        | 我军偏差值 47.86(47.83)
-        | 整体偏差值 44.56(44.54)
-        | 装甲 300
-        | 我军偏差值 46.02(45.83)
-        | 整体偏差值 45.61(45.62)
-        | 运动性 35
-        | 我军偏差值 48(47.92)
-        | 整体偏差值 49.67(49.52)
-        | 限界 190
-        | 我军偏差值 51.3(51.25)
-        | 整体偏差值 51.44(51.4)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 3000
+    .. grid-item:: 49
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 170
+    .. grid-item:: 48
+    .. grid-item:: 45
+    .. grid-item:: 装甲
+    .. grid-item:: 300
+    .. grid-item:: 46
+    .. grid-item:: 46
     .. grid-item::
-        :columns: auto
-
-        | 编码 D6
-        | Snes地址 BBA94
-        | 武器首地址 BBAB4
-        | PS地址 28783
-        | 类型 空
-        | 移动力 11
-        | 我军偏差值 64.13
-        | 整体偏差值 66.19
-        | 大小 M
-
-        | 经验值 170
-        | 我军偏差值 55.5
-        | 整体偏差值 55.64
-        | 价值 3000
-        | 我军偏差值 48.78
-        | 整体偏差值 47.26
-        | 修理费 9000
-        | 我军偏差值 53.82
-        | 整体偏差值 51.29
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 35
+    .. grid-item:: 48
+    .. grid-item:: 50
+    .. grid-item:: 限界
+    .. grid-item:: 190
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 移动力
+    .. grid-item:: 11
+    .. grid-item:: 64
+    .. grid-item:: 66
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆🚫
-        | 海🚫
-        | 宇A
-        | ビームコート
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 170
+    .. grid-item:: 55
+    .. grid-item:: 56
+    .. grid-item:: 价值
+    .. grid-item:: 3000
+    .. grid-item:: 49
+    .. grid-item:: 47
+    .. grid-item:: 修理费
+    .. grid-item:: 9000
+    .. grid-item:: 54
+    .. grid-item:: 51
 
 .. grid:: 
     :gutter: 3
@@ -339,65 +378,42 @@ Gクルーザー (S)
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾋﾞｰﾑｽﾏｰﾄｶﾞﾝⒷ
         :columns: 3
-
     .. grid-item:: 1200
-
+    .. grid-item:: 1200
     .. grid-item:: 2~8
-
     .. grid-item:: -5
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海🚫宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ビームカノンⒷ
         :columns: 3
-
     .. grid-item:: 1280
-
+    .. grid-item:: 1280
     .. grid-item:: 1~7
-
     .. grid-item:: 
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海🚫宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_g_cruiser_s_commentBegin:
 
 原作S高达无法变形，Ex化本质是为了实现变形功能而进行的改造，如果S高达原本就可以变形，那Ex化的目的到底是什么呢。
@@ -422,64 +438,109 @@ ExSガンダム
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_DB.png
 
-        登场/加入:第33话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第33话
+                :columns: auto
+
+            .. grid-item:: 编码 DB
+                :columns: auto
+
+            .. grid-item:: 地址 BBB74 (28863)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BBB94 (28883)
+                :columns: auto
+
+            .. grid-item:: 移动类型 陸宇
+                :columns: auto
+
+
+            .. grid-item:: 大小 M
+                :columns: auto
+
+            .. grid-item:: 地形适应 空🚫陆B海D宇A
+                :columns: auto
+
+
+            .. grid-item:: 剣装備, Iフィールド
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 3800
-        | 我军偏差值 52.39(52.38)
-        | 整体偏差值 46.14(46.14)
-        | EN 200
-        | 我军偏差值 56.67(56.63)
-        | 整体偏差值 52.48(52.47)
-        | 装甲 380
-        | 我军偏差值 50.3(49.79)
-        | 整体偏差值 49.03(48.85)
-        | 运动性 44
-        | 我军偏差值 58.13(58.08)
-        | 整体偏差值 58.91(58.66)
-        | 限界 210
-        | 我军偏差值 57.49(57.44)
-        | 整体偏差值 57.49(57.43)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 3800
+    .. grid-item:: 52
+    .. grid-item:: 46
+    .. grid-item:: EN
+    .. grid-item:: 200
+    .. grid-item:: 57
+    .. grid-item:: 52
+    .. grid-item:: 装甲
+    .. grid-item:: 380
+    .. grid-item:: 50
+    .. grid-item:: 49
     .. grid-item::
-        :columns: auto
-
-        | 编码 DB
-        | Snes地址 BBB74
-        | 武器首地址 BBB94
-        | PS地址 28863
-        | 类型 陸宇
-        | 移动力 9
-        | 我军偏差值 53.31
-        | 整体偏差值 55.42
-        | 大小 M
-
-        | 经验值 180
-        | 我军偏差值 57.13
-        | 整体偏差值 57.17
-        | 价值 4000
-        | 我军偏差值 50.66
-        | 整体偏差值 49.02
-        | 修理费 11000
-        | 我军偏差值 56.05
-        | 整体偏差值 52.97
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 44
+    .. grid-item:: 58
+    .. grid-item:: 59
+    .. grid-item:: 限界
+    .. grid-item:: 210
+    .. grid-item:: 57
+    .. grid-item:: 57
+    .. grid-item:: 移动力
+    .. grid-item:: 9
+    .. grid-item:: 53
+    .. grid-item:: 55
     .. grid-item::
-        :columns: auto
-
-        | 空🚫
-        | 陆B
-        | 海D
-        | 宇A
-        | 剣装備
-        | Iフィールド
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 180
+    .. grid-item:: 57
+    .. grid-item:: 57
+    .. grid-item:: 价值
+    .. grid-item:: 4000
+    .. grid-item:: 51
+    .. grid-item:: 49
+    .. grid-item:: 修理费
+    .. grid-item:: 11000
+    .. grid-item:: 56
+    .. grid-item:: 53
 
 .. grid:: 
     :gutter: 3
@@ -489,167 +550,107 @@ ExSガンダム
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: バルカンⓅ
         :columns: 3
-
     .. grid-item:: 420
-
+    .. grid-item:: 420
     .. grid-item:: 1
-
     .. grid-item:: +35
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 5
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ミサイル⚔
         :columns: 3
-
     .. grid-item:: 980
-
+    .. grid-item:: 980
     .. grid-item:: 1~6
-
     .. grid-item:: -10
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
-
     .. grid-item:: 1050
-
+    .. grid-item:: 1050
     .. grid-item:: 1
-
     .. grid-item:: +20
-
     .. grid-item:: +20
-
     .. grid-item:: 空A→🚫陆A→B海A→C宇A
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾋﾞｰﾑｽﾏｰﾄｶﾞﾝⒷ
         :columns: 3
-
     .. grid-item:: 1280
-
+    .. grid-item:: 1280
     .. grid-item:: 1~7
-
     .. grid-item:: -5
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海🚫宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ビームカノンⒷ
         :columns: 3
-
     .. grid-item:: 1410
-
+    .. grid-item:: 1410
     .. grid-item:: 1~7
-
     .. grid-item:: 
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海🚫宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: インコム⚔
         :columns: 3
-
     .. grid-item:: 1950
-
+    .. grid-item:: 1950
     .. grid-item:: 1~7
-
     .. grid-item:: +8
-
     .. grid-item:: +30
-
     .. grid-item:: 空A陆A海B宇A
         :columns: 3
-
     .. grid-item:: 残弹 4
-
-    .. grid-item:: 必要气力 100
-
+    .. grid-item:: 100气力
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾘﾌﾚｸﾀｰｲﾝｺﾑ⚔
         :columns: 3
-
     .. grid-item:: 2100
-
+    .. grid-item:: 2100
     .. grid-item:: 1~8
-
     .. grid-item:: +5
-
     .. grid-item:: +30
-
     .. grid-item:: 空A陆A海B宇A
         :columns: 3
-
     .. grid-item:: 残弹 4
-
-    .. grid-item:: 必要气力 100
-
+    .. grid-item:: 100气力
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_ex_s_gundam_commentBegin:
 
 名称读作"伊克塞斯高达"。正式名称为"Extrordinary-Superior GUNDAM（非凡卓越高达）"。在S高达上加装了后述用于变形为G巡洋舰的追加部件的机体。旨在解决S高达变形时的强度不足问题，并全面强化攻防能力。虽然机体因此大型化，但通过在关键部位追加装甲、增设推进剂与推进器（随之将背包替换为大功率推进单元）、搭载I力场发生器及反射式通信装置等措施，整体性能得到显著提升。因为Ex化是为了实现变形能力，所以MS形态是偶然产物。
@@ -676,63 +677,109 @@ Gクルーザー (EXS)
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_DC.png
 
-        登场/加入:第33话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第33话
+                :columns: auto
+
+            .. grid-item:: 编码 DC
+                :columns: auto
+
+            .. grid-item:: 地址 BBBAB (2889A)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BBBCB (288BA)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空
+                :columns: auto
+
+
+            .. grid-item:: 大小 M
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆🚫海🚫宇A
+                :columns: auto
+
+
+            .. grid-item:: Iフィールド
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 3800
-        | 我军偏差值 52.39(52.38)
-        | 整体偏差值 46.14(46.14)
-        | EN 200
-        | 我军偏差值 56.67(56.63)
-        | 整体偏差值 52.48(52.47)
-        | 装甲 360
-        | 我军偏差值 49.23(48.8)
-        | 整体偏差值 48.17(48.04)
-        | 运动性 40
-        | 我军偏差值 53.63(53.57)
-        | 整体偏差值 54.81(54.6)
-        | 限界 200
-        | 我军偏差值 54.39(54.35)
-        | 整体偏差值 54.46(54.41)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 3800
+    .. grid-item:: 52
+    .. grid-item:: 46
+    .. grid-item:: EN
+    .. grid-item:: 200
+    .. grid-item:: 57
+    .. grid-item:: 52
+    .. grid-item:: 装甲
+    .. grid-item:: 360
+    .. grid-item:: 49
+    .. grid-item:: 48
     .. grid-item::
-        :columns: auto
-
-        | 编码 DC
-        | Snes地址 BBBAB
-        | 武器首地址 BBBCB
-        | PS地址 2889A
-        | 类型 空
-        | 移动力 12
-        | 我军偏差值 69.54
-        | 整体偏差值 71.57
-        | 大小 M
-
-        | 经验值 180
-        | 我军偏差值 57.13
-        | 整体偏差值 57.17
-        | 价值 4000
-        | 我军偏差值 50.66
-        | 整体偏差值 49.02
-        | 修理费 11000
-        | 我军偏差值 56.05
-        | 整体偏差值 52.97
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 40
+    .. grid-item:: 54
+    .. grid-item:: 55
+    .. grid-item:: 限界
+    .. grid-item:: 200
+    .. grid-item:: 54
+    .. grid-item:: 54
+    .. grid-item:: 移动力
+    .. grid-item:: 12
+    .. grid-item:: 70
+    .. grid-item:: 72
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆🚫
-        | 海🚫
-        | 宇A
-        | Iフィールド
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 180
+    .. grid-item:: 57
+    .. grid-item:: 57
+    .. grid-item:: 价值
+    .. grid-item:: 4000
+    .. grid-item:: 51
+    .. grid-item:: 49
+    .. grid-item:: 修理费
+    .. grid-item:: 11000
+    .. grid-item:: 56
+    .. grid-item:: 53
 
 .. grid:: 
     :gutter: 3
@@ -742,85 +789,55 @@ Gクルーザー (EXS)
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ミサイル⚔
         :columns: 3
-
     .. grid-item:: 980
-
+    .. grid-item:: 980
     .. grid-item:: 1~6
-
     .. grid-item:: -10
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾋﾞｰﾑｽﾏｰﾄｶﾞﾝⒷ
         :columns: 3
-
     .. grid-item:: 1280
-
+    .. grid-item:: 1280
     .. grid-item:: 1~7
-
     .. grid-item:: -5
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海🚫宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ビームカノンⒷ
         :columns: 3
-
     .. grid-item:: 1410
-
+    .. grid-item:: 1410
     .. grid-item:: 1~7
-
     .. grid-item:: 
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海🚫宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_g_cruiser_ex_s_commentBegin:
 
 原作中Ex-S是以G巡洋舰为主要形态，但是本作中G巡洋舰形态反而性能降低，主要用来跑路。对空适应是A，空A的机师可能用这个形态战力更强。

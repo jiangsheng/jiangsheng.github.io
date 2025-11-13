@@ -1,5 +1,5 @@
 .. meta::
-   :description: ダンバイン/ダンバインOVA机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。ダンバイン, ビルバイン, ウイングキャリバー, ドラムロ, レプラカーン, ズワァース, ビアレス, ライネック, バストール, ブブリィ, ガラバ, グラン・ガラン, ゴラオン, ウィル・ウィプス, ゲア・ガリング, スプリガン, サーバイン, ズワウス, ボチューン, レプラカーン(ハイパー可), ハイパーレプラカーン, ライネック(ハイパー可), ハイパーライネック, ガラバ(ハイパー可), ハイパーガラバ 
+   :description: ダンバイン/ダンバインOVA机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。ダンバイン, ビルバイン, ウイングキャリバー, ライネック, バストール, グラン・ガラン, ゴラオン, サーバイン, ズワウス, ボチューン, ドラムロ, レプラカーン, ズワァース, ビアレス, ブブリィ, ガラバ, ウィル・ウィプス, ゲア・ガリング, スプリガン, レプラカーン(ハイパー可), ハイパーレプラカーン, ライネック(ハイパー可), ハイパーライネック, ガラバ(ハイパー可), ハイパーガラバ 
 .. _srw4_units_dunbine:
 
 ====================================
@@ -44,70 +44,116 @@
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_3F.png
 
-        登场/加入:第13话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第13话
+                :columns: auto
+
+            .. grid-item:: 编码 3F
+                :columns: auto
+
+            .. grid-item:: 地址 BA0AA (26D99)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BA0CA (26DB9)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空陸
+                :columns: auto
+
+
+            .. grid-item:: 大小 S
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆A海B宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`ショウ・ザマ <srw4_pilots_show_zama>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1C.png
+                :columns: auto
+
+            .. grid-item:: 分身, 剣装備, オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 1400
-        | 我军偏差值 42.53(42.52)
-        | 整体偏差值 44.13(44.15)
-        | EN 130
-        | 我军偏差值 36.11(36.09)
-        | 整体偏差值 34(33.98)
-        | 装甲 600
-        | 我军偏差值 62.08(60.7)
-        | 整体偏差值 58.43(57.72)
-        | 运动性 45
-        | 我军偏差值 59.26(59.21)
-        | 整体偏差值 59.94(59.67)
-        | 限界 180
-        | 我军偏差值 48.2(48.16)
-        | 整体偏差值 48.42(48.38)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 1400
+    .. grid-item:: 43
+    .. grid-item:: 44
+    .. grid-item:: EN
+    .. grid-item:: 130
+    .. grid-item:: 36
+    .. grid-item:: 34
+    .. grid-item:: 装甲
+    .. grid-item:: 600
+    .. grid-item:: 62 (61)
+    .. grid-item:: 58
     .. grid-item::
-        :columns: auto
-
-        | 编码 3F
-        | Snes地址 BA0AA
-        | 武器首地址 BA0CA
-        | PS地址 26D99
-        | 类型 空陸
-        | 移动力 9
-        | 我军偏差值 53.31
-        | 整体偏差值 55.42
-        | 大小 S
-
-        | 经验值 80
-        | 我军偏差值 40.78
-        | 整体偏差值 41.84
-        | 价值 800
-        | 我军偏差值 44.64
-        | 整体偏差值 43.41
-        | 修理费 1200
-        | 我军偏差值 45.1
-        | 整体偏差值 44.72
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 45
+    .. grid-item:: 59
+    .. grid-item:: 60
+    .. grid-item:: 限界
+    .. grid-item:: 180
+    .. grid-item:: 48
+    .. grid-item:: 48
+    .. grid-item:: 移动力
+    .. grid-item:: 9
+    .. grid-item:: 53
+    .. grid-item:: 55
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆A
-        | 海B
-        | 宇B
-        | 分身
-        | 剣装備
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_1C.png
-
-        | 地形参照
-        | :ref:`ショウ・ザマ <srw4_pilots_show_zama>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 80
+    .. grid-item:: 41
+    .. grid-item:: 42
+    .. grid-item:: 价值
+    .. grid-item:: 800
+    .. grid-item:: 45
+    .. grid-item:: 43
+    .. grid-item:: 修理费
+    .. grid-item:: 1200
+    .. grid-item:: 45
+    .. grid-item:: 45
 
 .. grid:: 
     :gutter: 3
@@ -117,133 +163,81 @@
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ソーラショット
         :columns: 3
-
     .. grid-item:: 970
-
+    .. grid-item:: 970
     .. grid-item:: 1~6
-
     .. grid-item:: 
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラソード🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1040
-
+    .. grid-item:: 1040
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: +30
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ワイヤークロー🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1200
-
+    .. grid-item:: 1200
     .. grid-item:: 1
-
     .. grid-item:: -5
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 2000
-
+    .. grid-item:: 2000
     .. grid-item:: 1
-
     .. grid-item:: -10
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (20)
-
-    .. grid-item:: 
-
-        | 必要气力 120
-        | 必要技能 聖戦士
-
+    .. grid-item:: 120气力聖戦士
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾊｲﾊﾟｰｵｰﾗ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 3000
-
+    .. grid-item:: 3000
     .. grid-item:: 1
-
     .. grid-item:: -15
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (35)
-
-    .. grid-item:: 
-
-        | 必要气力 140
-        | 必要技能 聖戦士
-
+    .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_dunbine_commentBegin:
 
 由于比尔拜因正在维修，翔便驾驶了这架丹拜因出场。虽然终于得以作为主角机登场，但机体性能早已跟不上翔的能力，更糟的是无需等待比尔拜因，仅过几话就能获得隐藏机体塞拜因或兹瓦士，而且获取时还必须使用本机的灵能转换器导致其报废，可谓待遇堪忧。虽具备可用性能，但因前述因素往往很快便被弃用。若坚持使用到后期可改造，否则装备芯片直到换机就好。
@@ -266,70 +260,116 @@
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_40.png
 
-        登场/加入:第25话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第25话
+                :columns: auto
+
+            .. grid-item:: 编码 40
+                :columns: auto
+
+            .. grid-item:: 地址 BA0DB (26DCA)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BA0FB (26DEA)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空陸
+                :columns: auto
+
+
+            .. grid-item:: 大小 S
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆A海B宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`ショウ・ザマ <srw4_pilots_show_zama>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1C.png
+                :columns: auto
+
+            .. grid-item:: 分身, 剣装備, オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 2000
-        | 我军偏差值 45(44.99)
-        | 整体偏差值 44.63(44.65)
-        | EN 150
-        | 我军偏差值 41.98(41.96)
-        | 整体偏差值 39.28(39.26)
-        | 装甲 780 (700)
-        | 我军偏差值 71.71(65.66)
-        | 整体偏差值 66.13(61.75)
-        | 运动性 50
-        | 我军偏差值 64.88(64.85)
-        | 整体偏差值 65.07(64.75)
-        | 限界 210
-        | 我军偏差值 57.49(57.44)
-        | 整体偏差值 57.49(57.43)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 2000
+    .. grid-item:: 45
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 150
+    .. grid-item:: 42
+    .. grid-item:: 39
+    .. grid-item:: 装甲
+    .. grid-item:: 780 (700)
+    .. grid-item:: 72 (66)
+    .. grid-item:: 66 (62)
     .. grid-item::
-        :columns: auto
-
-        | 编码 40
-        | Snes地址 BA0DB
-        | 武器首地址 BA0FB
-        | PS地址 26DCA
-        | 类型 空陸
-        | 移动力 10
-        | 我军偏差值 58.72
-        | 整体偏差值 60.81
-        | 大小 S
-
-        | 经验值 120
-        | 我军偏差值 47.32
-        | 整体偏差值 47.97
-        | 价值 1200
-        | 我军偏差值 45.4
-        | 整体偏差值 44.11
-        | 修理费 2500
-        | 我军偏差值 46.55
-        | 整体偏差值 45.81
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 50
+    .. grid-item:: 65
+    .. grid-item:: 65
+    .. grid-item:: 限界
+    .. grid-item:: 210
+    .. grid-item:: 57
+    .. grid-item:: 57
+    .. grid-item:: 移动力
+    .. grid-item:: 10
+    .. grid-item:: 59
+    .. grid-item:: 61
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆A
-        | 海B
-        | 宇B
-        | 分身
-        | 剣装備
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_1C.png
-
-        | 地形参照
-        | :ref:`ショウ・ザマ <srw4_pilots_show_zama>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 120
+    .. grid-item:: 47
+    .. grid-item:: 48
+    .. grid-item:: 价值
+    .. grid-item:: 1200
+    .. grid-item:: 45
+    .. grid-item:: 44
+    .. grid-item:: 修理费
+    .. grid-item:: 2500
+    .. grid-item:: 47
+    .. grid-item:: 46
 
 .. grid:: 
     :gutter: 3
@@ -339,173 +379,107 @@
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラキャノン
         :columns: 3
-
     .. grid-item:: 1140
-
+    .. grid-item:: 1140
     .. grid-item:: 1~7
-
     .. grid-item:: 
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラソード🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1150
-
+    .. grid-item:: 1150
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: +30
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ｵｰﾗｿｰﾄﾞﾗｲﾌﾙ
         :columns: 3
-
     .. grid-item:: 1270
-
+    .. grid-item:: 1270
     .. grid-item:: 1~8
-
     .. grid-item:: 
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ｵｰﾗﾋﾞｰﾑｿｰﾄﾞ🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1360
-
+    .. grid-item:: 1360
     .. grid-item:: 1
-
     .. grid-item:: +18
-
     .. grid-item:: +30
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 10
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ワイヤークロー🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1370
-
+    .. grid-item:: 1370
     .. grid-item:: 1
-
     .. grid-item:: -5
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 2000
-
+    .. grid-item:: 2000
     .. grid-item:: 1
-
     .. grid-item:: -10
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (20)
-
-    .. grid-item:: 
-
-        | 必要气力 120
-        | 必要技能 聖戦士
-
+    .. grid-item:: 120气力聖戦士
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾊｲﾊﾟｰｵｰﾗ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 3000
-
+    .. grid-item:: 3000
     .. grid-item:: 1
-
     .. grid-item:: -15
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (35)
-
-    .. grid-item:: 
-
-        | 必要气力 140
-        | 必要技能 聖戦士
-
+    .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_bilvine_commentBegin:
 
 
@@ -533,69 +507,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_41.png
 
-        登场/加入:第25话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第25话
+                :columns: auto
+
+            .. grid-item:: 编码 41
+                :columns: auto
+
+            .. grid-item:: 地址 BA112 (26E01)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BA132 (26E21)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空
+                :columns: auto
+
+
+            .. grid-item:: 大小 S
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆🚫→C海🚫→D宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`ショウ・ザマ <srw4_pilots_show_zama>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1C.png
+                :columns: auto
+
+            .. grid-item:: 分身, オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 2000
-        | 我军偏差值 45(44.99)
-        | 整体偏差值 44.63(44.65)
-        | EN 150
-        | 我军偏差值 41.98(41.96)
-        | 整体偏差值 39.28(39.26)
-        | 装甲 700 (670)
-        | 我军偏差值 67.43(64.17)
-        | 整体偏差值 62.71(60.54)
-        | 运动性 50
-        | 我军偏差值 64.88(64.85)
-        | 整体偏差值 65.07(64.75)
-        | 限界 200
-        | 我军偏差值 54.39(54.35)
-        | 整体偏差值 54.46(54.41)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 2000
+    .. grid-item:: 45
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 150
+    .. grid-item:: 42
+    .. grid-item:: 39
+    .. grid-item:: 装甲
+    .. grid-item:: 700 (670)
+    .. grid-item:: 67 (64)
+    .. grid-item:: 63 (61)
     .. grid-item::
-        :columns: auto
-
-        | 编码 41
-        | Snes地址 BA112
-        | 武器首地址 BA132
-        | PS地址 26E01
-        | 类型 空
-        | 移动力 13
-        | 我军偏差值 74.96
-        | 整体偏差值 76.96
-        | 大小 S
-
-        | 经验值 120
-        | 我军偏差值 47.32
-        | 整体偏差值 47.97
-        | 价值 1200
-        | 我军偏差值 45.4
-        | 整体偏差值 44.11
-        | 修理费 2500
-        | 我军偏差值 46.55
-        | 整体偏差值 45.81
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 50
+    .. grid-item:: 65
+    .. grid-item:: 65
+    .. grid-item:: 限界
+    .. grid-item:: 200
+    .. grid-item:: 54
+    .. grid-item:: 54
+    .. grid-item:: 移动力
+    .. grid-item:: 13
+    .. grid-item:: 75
+    .. grid-item:: 77
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆🚫→C
-        | 海🚫→D
-        | 宇B
-        | 分身
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_1C.png
-
-        | 地形参照
-        | :ref:`ショウ・ザマ <srw4_pilots_show_zama>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 120
+    .. grid-item:: 47
+    .. grid-item:: 48
+    .. grid-item:: 价值
+    .. grid-item:: 1200
+    .. grid-item:: 45
+    .. grid-item:: 44
+    .. grid-item:: 修理费
+    .. grid-item:: 2500
+    .. grid-item:: 47
+    .. grid-item:: 46
 
 .. grid:: 
     :gutter: 3
@@ -605,65 +626,42 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラキャノン
         :columns: 3
-
     .. grid-item:: 1140
-
+    .. grid-item:: 1140
     .. grid-item:: 1~7
-
     .. grid-item:: 
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ワイヤークロー🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1370
-
+    .. grid-item:: 1370
     .. grid-item:: 1
-
     .. grid-item:: -5
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A→🚫海A→🚫宇A→B
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_wing_caliber_commentBegin:
 
 用来赶路的飞行形态。因为本系机师更擅长格斗而本机只有射击武器，不建议在此形态下作战。第四次S改善了装甲。
@@ -684,70 +682,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_AF.png
 
-        登场/加入:第13话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第13话
+                :columns: auto
+
+            .. grid-item:: 编码 AF
+                :columns: auto
+
+            .. grid-item:: 地址 BB406 (280F5)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BB426 (28115)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空陸
+                :columns: auto
+
+
+            .. grid-item:: 大小 S
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆A海B→C宇B→C
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`ガラリア・ニャムヒー <srw4_pilots_garalia_nyamhee>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_C1.png
+                :columns: auto
+
+            .. grid-item:: 分身, 剣装備, オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 1500
-        | 我军偏差值 42.94(42.94)
-        | 整体偏差值 44.21(44.23)
-        | EN 130
-        | 我军偏差值 36.11(36.09)
-        | 整体偏差值 34(33.98)
-        | 装甲 600
-        | 我军偏差值 62.08(60.7)
-        | 整体偏差值 58.43(57.72)
-        | 运动性 46
-        | 我军偏差值 60.38(60.34)
-        | 整体偏差值 60.97(60.69)
-        | 限界 190
-        | 我军偏差值 51.3(51.25)
-        | 整体偏差值 51.44(51.4)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 1500
+    .. grid-item:: 43
+    .. grid-item:: 44
+    .. grid-item:: EN
+    .. grid-item:: 130
+    .. grid-item:: 36
+    .. grid-item:: 34
+    .. grid-item:: 装甲
+    .. grid-item:: 600
+    .. grid-item:: 62 (61)
+    .. grid-item:: 58
     .. grid-item::
-        :columns: auto
-
-        | 编码 AF
-        | Snes地址 BB406
-        | 武器首地址 BB426
-        | PS地址 280F5
-        | 类型 空陸
-        | 移动力 10
-        | 我军偏差值 58.72
-        | 整体偏差值 60.81
-        | 大小 S
-
-        | 经验值 90
-        | 我军偏差值 42.41
-        | 整体偏差值 43.37
-        | 价值 1200
-        | 我军偏差值 45.4
-        | 整体偏差值 44.11
-        | 修理费 2500
-        | 我军偏差值 46.55
-        | 整体偏差值 45.81
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 46
+    .. grid-item:: 60
+    .. grid-item:: 61
+    .. grid-item:: 限界
+    .. grid-item:: 190
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 移动力
+    .. grid-item:: 10
+    .. grid-item:: 59
+    .. grid-item:: 61
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆A
-        | 海B→C
-        | 宇B→C
-        | 分身
-        | 剣装備
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_C1.png
-
-        | 地形参照
-        | :ref:`ガラリア・ニャムヒー <srw4_pilots_garalia_nyamhee>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 90
+    .. grid-item:: 42
+    .. grid-item:: 43
+    .. grid-item:: 价值
+    .. grid-item:: 1200
+    .. grid-item:: 45
+    .. grid-item:: 44
+    .. grid-item:: 修理费
+    .. grid-item:: 2500
+    .. grid-item:: 47
+    .. grid-item:: 46
 
 .. grid:: 
     :gutter: 3
@@ -757,133 +801,81 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
-
     .. grid-item:: 980
-
+    .. grid-item:: 980
     .. grid-item:: 1~6
-
     .. grid-item:: -10
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラソード🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1100
-
+    .. grid-item:: 1100
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: +30
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ワイヤークロー🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1290
-
+    .. grid-item:: 1290
     .. grid-item:: 1
-
     .. grid-item:: -5
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 2000
-
+    .. grid-item:: 2000
     .. grid-item:: 1
-
     .. grid-item:: -10
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (20)
-
-    .. grid-item:: 
-
-        | 必要气力 120
-        | 必要技能 聖戦士
-
+    .. grid-item:: 120气力聖戦士
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾊｲﾊﾟｰｵｰﾗ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 3000
-
+    .. grid-item:: 3000
     .. grid-item:: 1
-
     .. grid-item:: -15
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (35)
-
-    .. grid-item:: 
-
-        | 必要气力 140
-        | 必要技能 聖戦士
-
+    .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_bastole_commentBegin:
 
 巴斯托作为隐藏要素和加拉利亚一起加入。虽然性能较低，但若想将包括加拉利亚在内的三位圣战士全部作为主力使用，就需要对这台机体进行改造。虽说性能较低，但仅是和那些强得犯规的机体相比，于同期加入的波臣和丹拜因仍属优秀，所以此时反而更适合让能使用集中技能的翔或玛贝露驾驶。配合圣战士们的能力，作为全程作战机体完全不成问题。缺点在于宇宙适应为C，不过仅有两话需要在宇宙作战。亦大量作为敌方机体登场。
@@ -906,70 +898,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_11F.png
 
-        登场/加入:第13话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第13话
+                :columns: auto
+
+            .. grid-item:: 编码 11F
+                :columns: auto
+
+            .. grid-item:: 地址 BC70A (293F6)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BC72A (29416)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空陸
+                :columns: auto
+
+
+            .. grid-item:: 大小 S
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆A海B→C宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`ニー・ギブン <srw4_pilots_nie_given>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_64.png
+                :columns: auto
+
+            .. grid-item:: 分身, 剣装備, オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 1400
-        | 我军偏差值 42.53(42.52)
-        | 整体偏差值 44.13(44.15)
-        | EN 170
-        | 我军偏差值 47.86(47.83)
-        | 整体偏差值 44.56(44.54)
-        | 装甲 400
-        | 我军偏差值 51.37(50.78)
-        | 整体偏差值 49.88(49.66)
-        | 运动性 44
-        | 我军偏差值 58.13(58.08)
-        | 整体偏差值 58.91(58.66)
-        | 限界 170
-        | 我军偏差值 45.11(45.06)
-        | 整体偏差值 45.39(45.37)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 1400
+    .. grid-item:: 43
+    .. grid-item:: 44
+    .. grid-item:: EN
+    .. grid-item:: 170
+    .. grid-item:: 48
+    .. grid-item:: 45
+    .. grid-item:: 装甲
+    .. grid-item:: 400
+    .. grid-item:: 51
+    .. grid-item:: 50
     .. grid-item::
-        :columns: auto
-
-        | 编码 11F
-        | Snes地址 BC70A
-        | 武器首地址 BC72A
-        | PS地址 293F6
-        | 类型 空陸
-        | 移动力 9
-        | 我军偏差值 53.31
-        | 整体偏差值 55.42
-        | 大小 S
-
-        | 经验值 80
-        | 我军偏差值 40.78
-        | 整体偏差值 41.84
-        | 价值 900
-        | 我军偏差值 44.83
-        | 整体偏差值 43.58
-        | 修理费 1400
-        | 我军偏差值 45.33
-        | 整体偏差值 44.88
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 44
+    .. grid-item:: 58
+    .. grid-item:: 59
+    .. grid-item:: 限界
+    .. grid-item:: 170
+    .. grid-item:: 45
+    .. grid-item:: 45
+    .. grid-item:: 移动力
+    .. grid-item:: 9
+    .. grid-item:: 53
+    .. grid-item:: 55
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆A
-        | 海B→C
-        | 宇B
-        | 分身
-        | 剣装備
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_64.png
-
-        | 地形参照
-        | :ref:`ニー・ギブン <srw4_pilots_nie_given>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 80
+    .. grid-item:: 41
+    .. grid-item:: 42
+    .. grid-item:: 价值
+    .. grid-item:: 900
+    .. grid-item:: 45
+    .. grid-item:: 44
+    .. grid-item:: 修理费
+    .. grid-item:: 1400
+    .. grid-item:: 45
+    .. grid-item:: 45
 
 .. grid:: 
     :gutter: 3
@@ -979,113 +1017,68 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラバルカンⓅ
         :columns: 3
-
     .. grid-item:: 380
-
+    .. grid-item:: 380
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラソード🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1040
-
+    .. grid-item:: 1040
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: +30
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 2000
-
+    .. grid-item:: 2000
     .. grid-item:: 1
-
     .. grid-item:: -10
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (20)
-
-    .. grid-item:: 
-
-        | 必要气力 120
-        | 必要技能 聖戦士
-
+    .. grid-item:: 120气力聖戦士
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾊｲﾊﾟｰｵｰﾗ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 3000
-
+    .. grid-item:: 3000
     .. grid-item:: 1
-
     .. grid-item:: -15
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (35)
-
-    .. grid-item:: 
-
-        | 必要气力 140
-        | 必要技能 聖戦士
-
+    .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_botune_commentBegin:
 
 波臣作为玛贝露、、尼、基恩的机体登场，但在获得比尔拜因时会强制废弃1架，若满足利姆鲁加入条件则需用莱尼克交换再强制废弃1架。若选择加拉利亚加入路线，则仅能获得玛贝露的1架机体，因此可在获取比尔拜因前自行废弃变现；但需注意若选择加拉利亚未加入路线，自行废弃会导致部分飞行员无机可用。
@@ -1110,71 +1103,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_108.png
 
-        登场/加入:第16话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第16话
+                :columns: auto
+
+            .. grid-item:: 编码 108
+                :columns: auto
+
+            .. grid-item:: 地址 BC324 (29010)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BC344 (29030)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空陸
+                :columns: auto
+
+
+            .. grid-item:: 大小 S
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆A海B宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`マーベル・フローズン <srw4_pilots_marvel_frozen>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_62.png
+                :columns: auto
+
+            .. grid-item:: 分身, 剣装備, HP恢復(小), オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 3000
-        | 我军偏差值 49.1(49.09)
-        | 整体偏差值 45.47(45.48)
-        | EN 200
-        | 我军偏差值 56.67(56.63)
-        | 整体偏差值 52.48(52.47)
-        | 装甲 700
-        | 我军偏差值 67.43(65.66)
-        | 整体偏差值 62.71(61.75)
-        | 运动性 58
-        | 我军偏差值 73.89(73.88)
-        | 整体偏差值 73.28(72.87)
-        | 限界 255
-        | 我军偏差值 71.42(71.37)
-        | 整体偏差值 71.1(70.99)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 3000
+    .. grid-item:: 49
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 200
+    .. grid-item:: 57
+    .. grid-item:: 52
+    .. grid-item:: 装甲
+    .. grid-item:: 700
+    .. grid-item:: 67 (66)
+    .. grid-item:: 63 (62)
     .. grid-item::
-        :columns: auto
-
-        | 编码 108
-        | Snes地址 BC324
-        | 武器首地址 BC344
-        | PS地址 29010
-        | 类型 空陸
-        | 移动力 12
-        | 我军偏差值 69.54
-        | 整体偏差值 71.57
-        | 大小 S
-
-        | 经验值 180
-        | 我军偏差值 57.13
-        | 整体偏差值 57.17
-        | 价值 2000
-        | 我军偏差值 46.9
-        | 整体偏差值 45.51
-        | 修理费 9000
-        | 我军偏差值 53.82
-        | 整体偏差值 51.29
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 58
+    .. grid-item:: 74
+    .. grid-item:: 73
+    .. grid-item:: 限界
+    .. grid-item:: 255
+    .. grid-item:: 71
+    .. grid-item:: 71
+    .. grid-item:: 移动力
+    .. grid-item:: 12
+    .. grid-item:: 70
+    .. grid-item:: 72
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆A
-        | 海B
-        | 宇B
-        | 分身
-        | 剣装備
-        | HP恢復(小)
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_62.png
-
-        | 地形参照
-        | :ref:`マーベル・フローズン <srw4_pilots_marvel_frozen>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 180
+    .. grid-item:: 57
+    .. grid-item:: 57
+    .. grid-item:: 价值
+    .. grid-item:: 2000
+    .. grid-item:: 47
+    .. grid-item:: 46
+    .. grid-item:: 修理费
+    .. grid-item:: 9000
+    .. grid-item:: 54
+    .. grid-item:: 51
 
 .. grid:: 
     :gutter: 3
@@ -1184,93 +1222,55 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラソード🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1150
-
+    .. grid-item:: 1150
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: +30
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 2000
-
+    .. grid-item:: 2000
     .. grid-item:: 1
-
     .. grid-item:: -10
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (20)
-
-    .. grid-item:: 
-
-        | 必要气力 120
-        | 必要技能 聖戦士
-
+    .. grid-item:: 120气力聖戦士
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾊｲﾊﾟｰｵｰﾗ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 3000
-
+    .. grid-item:: 3000
     .. grid-item:: 1
-
     .. grid-item:: -15
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (35)
-
-    .. grid-item:: 
-
-        | 必要气力 140
-        | 必要技能 聖戦士
-
+    .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_sirbine_commentBegin:
 
 在16话中，塞拜因和シルキー同时加入。和ズワウス、ダンバイン三选一。只能进行近战，但是威力强大。
@@ -1301,71 +1301,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_109.png
 
-        登场/加入:第16话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第16话
+                :columns: auto
+
+            .. grid-item:: 编码 109
+                :columns: auto
+
+            .. grid-item:: 地址 BC34F (2903B)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BC36F (2905B)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空陸
+                :columns: auto
+
+
+            .. grid-item:: 大小 S
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆A海B宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`マーベル・フローズン <srw4_pilots_marvel_frozen>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_62.png
+                :columns: auto
+
+            .. grid-item:: 分身, 剣装備, HP恢復(小), オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 3500
-        | 我军偏差值 51.16(51.15)
-        | 整体偏差值 45.89(45.89)
-        | EN 200
-        | 我军偏差值 56.67(56.63)
-        | 整体偏差值 52.48(52.47)
-        | 装甲 750
-        | 我军偏差值 70.11(68.14)
-        | 整体偏差值 64.85(63.77)
-        | 运动性 50
-        | 我军偏差值 64.88(64.85)
-        | 整体偏差值 65.07(64.75)
-        | 限界 255
-        | 我军偏差值 71.42(71.37)
-        | 整体偏差值 71.1(70.99)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 3500
+    .. grid-item:: 51
+    .. grid-item:: 46
+    .. grid-item:: EN
+    .. grid-item:: 200
+    .. grid-item:: 57
+    .. grid-item:: 52
+    .. grid-item:: 装甲
+    .. grid-item:: 750
+    .. grid-item:: 70 (68)
+    .. grid-item:: 65 (64)
     .. grid-item::
-        :columns: auto
-
-        | 编码 109
-        | Snes地址 BC34F
-        | 武器首地址 BC36F
-        | PS地址 2903B
-        | 类型 空陸
-        | 移动力 11
-        | 我军偏差值 64.13
-        | 整体偏差值 66.19
-        | 大小 S
-
-        | 经验值 200
-        | 我军偏差值 60.41
-        | 整体偏差值 60.24
-        | 价值 3000
-        | 我军偏差值 48.78
-        | 整体偏差值 47.26
-        | 修理费 10000
-        | 我军偏差值 54.93
-        | 整体偏差值 52.13
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 50
+    .. grid-item:: 65
+    .. grid-item:: 65
+    .. grid-item:: 限界
+    .. grid-item:: 255
+    .. grid-item:: 71
+    .. grid-item:: 71
+    .. grid-item:: 移动力
+    .. grid-item:: 11
+    .. grid-item:: 64
+    .. grid-item:: 66
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆A
-        | 海B
-        | 宇B
-        | 分身
-        | 剣装備
-        | HP恢復(小)
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_62.png
-
-        | 地形参照
-        | :ref:`マーベル・フローズン <srw4_pilots_marvel_frozen>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 200
+    .. grid-item:: 60
+    .. grid-item:: 60
+    .. grid-item:: 价值
+    .. grid-item:: 3000
+    .. grid-item:: 49
+    .. grid-item:: 47
+    .. grid-item:: 修理费
+    .. grid-item:: 10000
+    .. grid-item:: 55
+    .. grid-item:: 52
 
 .. grid:: 
     :gutter: 3
@@ -1375,93 +1420,55 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラソード🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1150
-
+    .. grid-item:: 1150
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: +30
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 2000
-
+    .. grid-item:: 2000
     .. grid-item:: 1
-
     .. grid-item:: -10
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (20)
-
-    .. grid-item:: 
-
-        | 必要气力 120
-        | 必要技能 聖戦士
-
+    .. grid-item:: 120气力聖戦士
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾊｲﾊﾟｰｵｰﾗ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 3000
-
+    .. grid-item:: 3000
     .. grid-item:: 1
-
     .. grid-item:: -15
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (35)
-
-    .. grid-item:: 
-
-        | 必要气力 140
-        | 必要技能 聖戦士
-
+    .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_zwuath_commentBegin:
 
 兹瓦士和シルキー同时加入。和塞拜因、丹拜因三选一。出于某种问题，オーラソード和クラフトドリル的工艺钻共享改造段数。
@@ -1486,68 +1493,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_B3.png
 
-        登场/加入:第17话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第17话
+                :columns: auto
+
+            .. grid-item:: 编码 B3
+                :columns: auto
+
+            .. grid-item:: 地址 BB4C1 (281B0)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BB4E1 (281D0)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空
+                :columns: auto
+
+
+            .. grid-item:: 大小 LL
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆🚫→D海🚫→D宇B→C
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`シーラ・ラパーナ <srw4_pilots_ciela_lapana>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_66.png
+                :columns: auto
+
+            .. grid-item:: オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 22000
-        | 我军偏差值 127.14(127.11)
-        | 整体偏差值 61.44(61.26)
-        | EN 190
-        | 我军偏差值 53.73(53.7)
-        | 整体偏差值 49.84(49.83)
-        | 装甲 750
-        | 我军偏差值 70.11(68.14)
-        | 整体偏差值 64.85(63.77)
-        | 运动性 35
-        | 我军偏差值 48(47.92)
-        | 整体偏差值 49.67(49.52)
-        | 限界 190
-        | 我军偏差值 51.3(51.25)
-        | 整体偏差值 51.44(51.4)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 22000
+    .. grid-item:: 127
+    .. grid-item:: 61
+    .. grid-item:: EN
+    .. grid-item:: 190
+    .. grid-item:: 54
+    .. grid-item:: 50
+    .. grid-item:: 装甲
+    .. grid-item:: 750
+    .. grid-item:: 70 (68)
+    .. grid-item:: 65 (64)
     .. grid-item::
-        :columns: auto
-
-        | 编码 B3
-        | Snes地址 BB4C1
-        | 武器首地址 BB4E1
-        | PS地址 281B0
-        | 类型 空
-        | 移动力 8
-        | 我军偏差值 47.89
-        | 整体偏差值 50.04
-        | 大小 LL
-
-        | 经验值 200
-        | 我军偏差值 60.41
-        | 整体偏差值 60.24
-        | 价值 15000
-        | 我军偏差值 71.32
-        | 整体偏差值 68.31
-        | 修理费 20000
-        | 我军偏差值 66.11
-        | 整体偏差值 60.56
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 35
+    .. grid-item:: 48
+    .. grid-item:: 50
+    .. grid-item:: 限界
+    .. grid-item:: 190
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 移动力
+    .. grid-item:: 8
+    .. grid-item:: 48
+    .. grid-item:: 50
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆🚫→D
-        | 海🚫→D
-        | 宇B→C
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_66.png
-
-        | 地形参照
-        | :ref:`シーラ・ラパーナ <srw4_pilots_ciela_lapana>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 200
+    .. grid-item:: 60
+    .. grid-item:: 60
+    .. grid-item:: 价值
+    .. grid-item:: 15000
+    .. grid-item:: 71
+    .. grid-item:: 68
+    .. grid-item:: 修理费
+    .. grid-item:: 20000
+    .. grid-item:: 66
+    .. grid-item:: 61
 
 .. grid:: 
     :gutter: 3
@@ -1557,85 +1612,55 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラバルカンⓅ
         :columns: 3
-
     .. grid-item:: 420
-
+    .. grid-item:: 420
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 20
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: フレイボムⓅ
         :columns: 3
-
     .. grid-item:: 950
-
+    .. grid-item:: 950
     .. grid-item:: 1~4
-
     .. grid-item:: -4
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海C宇A
         :columns: 3
-
     .. grid-item:: 残弹 20
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラキャノン
         :columns: 3
-
     .. grid-item:: 1350
-
+    .. grid-item:: 1350
     .. grid-item:: 2~8
-
     .. grid-item:: -18
-
-    .. grid-item:: 
-
+    .. grid-item:: 0
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 20
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_guran_garan_commentBegin:
 
 在加拉利亚没有加入的路线加入。相比ゴラオン，虽然少了两名可有可无的无圣战士能力的机师，但是多了两个妖精，在人员配置方面处于压倒性优势。有移动后可使用的远程武器，速通时可以改造。
@@ -1658,68 +1683,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_B4.png
 
-        登场/加入:第17话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第17话
+                :columns: auto
+
+            .. grid-item:: 编码 B4
+                :columns: auto
+
+            .. grid-item:: 地址 BB4EC (281DB)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BB50C (281FB)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空
+                :columns: auto
+
+
+            .. grid-item:: 大小 LL
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆🚫→D海🚫→D宇B→C
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`エレ・ハンム <srw4_pilots_elle_hunm>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_67.png
+                :columns: auto
+
+            .. grid-item:: オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 20000
-        | 我军偏差值 118.93(118.9)
-        | 整体偏差值 59.76(59.6)
-        | EN 190
-        | 我军偏差值 53.73(53.7)
-        | 整体偏差值 49.84(49.83)
-        | 装甲 700
-        | 我军偏差值 67.43(65.66)
-        | 整体偏差值 62.71(61.75)
-        | 运动性 35
-        | 我军偏差值 48(47.92)
-        | 整体偏差值 49.67(49.52)
-        | 限界 190
-        | 我军偏差值 51.3(51.25)
-        | 整体偏差值 51.44(51.4)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 20000
+    .. grid-item:: 119
+    .. grid-item:: 60
+    .. grid-item:: EN
+    .. grid-item:: 190
+    .. grid-item:: 54
+    .. grid-item:: 50
+    .. grid-item:: 装甲
+    .. grid-item:: 700
+    .. grid-item:: 67 (66)
+    .. grid-item:: 63 (62)
     .. grid-item::
-        :columns: auto
-
-        | 编码 B4
-        | Snes地址 BB4EC
-        | 武器首地址 BB50C
-        | PS地址 281DB
-        | 类型 空
-        | 移动力 9
-        | 我军偏差值 53.31
-        | 整体偏差值 55.42
-        | 大小 LL
-
-        | 经验值 210
-        | 我军偏差值 62.04
-        | 整体偏差值 61.77
-        | 价值 18000
-        | 我军偏差值 76.95
-        | 整体偏差值 73.57
-        | 修理费 25000
-        | 我军偏差值 71.69
-        | 整体偏差值 64.77
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 35
+    .. grid-item:: 48
+    .. grid-item:: 50
+    .. grid-item:: 限界
+    .. grid-item:: 190
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 移动力
+    .. grid-item:: 9
+    .. grid-item:: 53
+    .. grid-item:: 55
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆🚫→D
-        | 海🚫→D
-        | 宇B→C
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_67.png
-
-        | 地形参照
-        | :ref:`エレ・ハンム <srw4_pilots_elle_hunm>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 210
+    .. grid-item:: 62
+    .. grid-item:: 62
+    .. grid-item:: 价值
+    .. grid-item:: 18000
+    .. grid-item:: 77
+    .. grid-item:: 74
+    .. grid-item:: 修理费
+    .. grid-item:: 25000
+    .. grid-item:: 72
+    .. grid-item:: 65
 
 .. grid:: 
     :gutter: 3
@@ -1729,85 +1802,55 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラバルカンⓅ
         :columns: 3
-
     .. grid-item:: 420
-
+    .. grid-item:: 420
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 20
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラキャノン
         :columns: 3
-
     .. grid-item:: 1350
-
+    .. grid-item:: 1350
     .. grid-item:: 2~8
-
     .. grid-item:: -18
-
-    .. grid-item:: 
-
+    .. grid-item:: 0
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 20
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラノバ砲🗺️
         :columns: 3
-
     .. grid-item:: 1920
-
+    .. grid-item:: 1920
     .. grid-item:: 1~9
-
     .. grid-item:: -15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海B宇A
         :columns: 3
-
     .. grid-item:: EN 90
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_goraon_commentBegin:
 
 在加拉利亚加入的路线加入。
@@ -1832,70 +1875,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_AE.png
 
-        登场/加入:第33话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第33话
+                :columns: auto
+
+            .. grid-item:: 编码 AE
+                :columns: auto
+
+            .. grid-item:: 地址 BB3D2 (280C1)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BB3F2 (280E1)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空陸
+                :columns: auto
+
+
+            .. grid-item:: 大小 S
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A→B陆A→B海B→C宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`リムル・ルフト <srw4_pilots_riml_luft>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_68.png
+                :columns: auto
+
+            .. grid-item:: 分身, 剣装備, オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 2800
-        | 我军偏差值 48.28(48.27)
-        | 整体偏差值 45.3(45.31)
-        | EN 170
-        | 我军偏差值 47.86(47.83)
-        | 整体偏差值 44.56(44.54)
-        | 装甲 660
-        | 我军偏差值 65.29(63.67)
-        | 整体偏差值 61(60.14)
-        | 运动性 48
-        | 我军偏差值 62.63(62.6)
-        | 整体偏差值 63.02(62.72)
-        | 限界 190
-        | 我军偏差值 51.3(51.25)
-        | 整体偏差值 51.44(51.4)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 2800
+    .. grid-item:: 48
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 170
+    .. grid-item:: 48
+    .. grid-item:: 45
+    .. grid-item:: 装甲
+    .. grid-item:: 660
+    .. grid-item:: 65 (64)
+    .. grid-item:: 61 (60)
     .. grid-item::
-        :columns: auto
-
-        | 编码 AE
-        | Snes地址 BB3D2
-        | 武器首地址 BB3F2
-        | PS地址 280C1
-        | 类型 空陸
-        | 移动力 10
-        | 我军偏差值 58.72
-        | 整体偏差值 60.81
-        | 大小 S
-
-        | 经验值 120
-        | 我军偏差值 47.32
-        | 整体偏差值 47.97
-        | 价值 1500
-        | 我军偏差值 45.96
-        | 整体偏差值 44.63
-        | 修理费 2500
-        | 我军偏差值 46.55
-        | 整体偏差值 45.81
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 48
+    .. grid-item:: 63
+    .. grid-item:: 63
+    .. grid-item:: 限界
+    .. grid-item:: 190
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 移动力
+    .. grid-item:: 10
+    .. grid-item:: 59
+    .. grid-item:: 61
     .. grid-item::
-        :columns: auto
-
-        | 空A→B
-        | 陆A→B
-        | 海B→C
-        | 宇B
-        | 分身
-        | 剣装備
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_68.png
-
-        | 地形参照
-        | :ref:`リムル・ルフト <srw4_pilots_riml_luft>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 120
+    .. grid-item:: 47
+    .. grid-item:: 48
+    .. grid-item:: 价值
+    .. grid-item:: 1500
+    .. grid-item:: 46
+    .. grid-item:: 45
+    .. grid-item:: 修理费
+    .. grid-item:: 2500
+    .. grid-item:: 47
+    .. grid-item:: 46
 
 .. grid:: 
     :gutter: 3
@@ -1905,153 +1994,94 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラバルカンⓅ
         :columns: 3
-
     .. grid-item:: 400
-
+    .. grid-item:: 400
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ミサイルポッド⚔
         :columns: 3
-
     .. grid-item:: 950
-
+    .. grid-item:: 950
     .. grid-item:: 1~6
-
     .. grid-item:: -10
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラソード🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1150
-
+    .. grid-item:: 1150
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: +30
-
     .. grid-item:: 空A→B陆A→B海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ワイヤークロー🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1370
-
+    .. grid-item:: 1370
     .. grid-item:: 1
-
     .. grid-item:: -5
-
     .. grid-item:: +10
-
     .. grid-item:: 空A→B陆A→B海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 2000
-
+    .. grid-item:: 2000
     .. grid-item:: 1
-
     .. grid-item:: -10
-
     .. grid-item:: +20
-
     .. grid-item:: 空A→B陆A→B海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (20)
-
-    .. grid-item:: 
-
-        | 必要气力 120
-        | 必要技能 聖戦士
-
+    .. grid-item:: 120气力聖戦士
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾊｲﾊﾟｰｵｰﾗ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 3000
-
+    .. grid-item:: 3000
     .. grid-item:: 1
-
     .. grid-item:: -15
-
     .. grid-item:: +20
-
     .. grid-item:: 空A→B陆A→B海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (35)
-
-    .. grid-item:: 
-
-        | 必要气力 140
-        | 必要技能 聖戦士
-
+    .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_wryneck_commentBegin:
 
 隐藏要素，33话中如果救援リムル・ルフト，则会加入我军。在第四次中会因此损失一部波臣，以至于奥拉系会有一个机师无机可开，第四次S没有这个问题。
@@ -2082,69 +2112,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_AA.png
 
-        登场/加入:第13话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第13话
+                :columns: auto
+
+            .. grid-item:: 编码 AA
+                :columns: auto
+
+            .. grid-item:: 地址 BB30E (27FFD)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BB32E (2801D)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空陸
+                :columns: auto
+
+
+            .. grid-item:: 大小 S
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A→B陆A海B宇B→C
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`バイストンウェル兵 <srw4_pilots_byston_well_soldier>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_6D.png
+                :columns: auto
+
+            .. grid-item:: 分身, オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 1600
-        | 我军偏差值 43.35(43.35)
-        | 整体偏差值 44.29(44.31)
-        | EN 130
-        | 我军偏差值 36.11(36.09)
-        | 整体偏差值 34(33.98)
-        | 装甲 580
-        | 我军偏差值 61.01(59.71)
-        | 整体偏差值 57.58(56.91)
-        | 运动性 42
-        | 我军偏差值 55.88(55.82)
-        | 整体偏差值 56.86(56.63)
-        | 限界 160
-        | 我军偏差值 42.01(41.97)
-        | 整体偏差值 42.37(42.35)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 1600
+    .. grid-item:: 43
+    .. grid-item:: 44
+    .. grid-item:: EN
+    .. grid-item:: 130
+    .. grid-item:: 36
+    .. grid-item:: 34
+    .. grid-item:: 装甲
+    .. grid-item:: 580
+    .. grid-item:: 61 (60)
+    .. grid-item:: 58 (57)
     .. grid-item::
-        :columns: auto
-
-        | 编码 AA
-        | Snes地址 BB30E
-        | 武器首地址 BB32E
-        | PS地址 27FFD
-        | 类型 空陸
-        | 移动力 8
-        | 我军偏差值 47.89
-        | 整体偏差值 50.04
-        | 大小 S
-
-        | 经验值 80
-        | 我军偏差值 40.78
-        | 整体偏差值 41.84
-        | 价值 1000
-        | 我军偏差值 45.02
-        | 整体偏差值 43.76
-        | 修理费 1500
-        | 我军偏差值 45.44
-        | 整体偏差值 44.97
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 42
+    .. grid-item:: 56
+    .. grid-item:: 57
+    .. grid-item:: 限界
+    .. grid-item:: 160
+    .. grid-item:: 42
+    .. grid-item:: 42
+    .. grid-item:: 移动力
+    .. grid-item:: 8
+    .. grid-item:: 48
+    .. grid-item:: 50
     .. grid-item::
-        :columns: auto
-
-        | 空A→B
-        | 陆A
-        | 海B
-        | 宇B→C
-        | 分身
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_6D.png
-
-        | 地形参照
-        | :ref:`バイストンウェル兵 <srw4_pilots_byston_well_soldier>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 80
+    .. grid-item:: 41
+    .. grid-item:: 42
+    .. grid-item:: 价值
+    .. grid-item:: 1000
+    .. grid-item:: 45
+    .. grid-item:: 44
+    .. grid-item:: 修理费
+    .. grid-item:: 1500
+    .. grid-item:: 45
+    .. grid-item:: 45
 
 .. grid:: 
     :gutter: 3
@@ -2154,65 +2231,42 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: フレイボムⓅ
         :columns: 3
-
     .. grid-item:: 750
-
+    .. grid-item:: 750
     .. grid-item:: 1~4
-
     .. grid-item:: -2
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海C宇A
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラソード🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1040
-
+    .. grid-item:: 1040
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: +30
-
     .. grid-item:: 空A→B陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_drumlo_commentBegin:
 
 
@@ -2232,70 +2286,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_AD.png
 
-        登场/加入:第13话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第13话
+                :columns: auto
+
+            .. grid-item:: 编码 AD
+                :columns: auto
+
+            .. grid-item:: 地址 BB3A4 (28093)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BB3C4 (280B3)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空陸
+                :columns: auto
+
+
+            .. grid-item:: 大小 S
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆A海B宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`バーン・バニングス <srw4_pilots_bern_bunnings>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B5.png
+                :columns: auto
+
+            .. grid-item:: 分身, 剣装備, オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 2300
-        | 我军偏差值 46.23(46.22)
-        | 整体偏差值 44.88(44.9)
-        | EN 150
-        | 我军偏差值 41.98(41.96)
-        | 整体偏差值 39.28(39.26)
-        | 装甲 640
-        | 我军偏差值 64.22(62.68)
-        | 整体偏差值 60.14(59.33)
-        | 运动性 47
-        | 我军偏差值 61.51(61.47)
-        | 整体偏差值 61.99(61.7)
-        | 限界 180
-        | 我军偏差值 48.2(48.16)
-        | 整体偏差值 48.42(48.38)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 2300
+    .. grid-item:: 46
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 150
+    .. grid-item:: 42
+    .. grid-item:: 39
+    .. grid-item:: 装甲
+    .. grid-item:: 640
+    .. grid-item:: 64 (63)
+    .. grid-item:: 60 (59)
     .. grid-item::
-        :columns: auto
-
-        | 编码 AD
-        | Snes地址 BB3A4
-        | 武器首地址 BB3C4
-        | PS地址 28093
-        | 类型 空陸
-        | 移动力 10
-        | 我军偏差值 58.72
-        | 整体偏差值 60.81
-        | 大小 S
-
-        | 经验值 110
-        | 我军偏差值 45.68
-        | 整体偏差值 46.44
-        | 价值 1400
-        | 我军偏差值 45.77
-        | 整体偏差值 44.46
-        | 修理费 2400
-        | 我军偏差值 46.44
-        | 整体偏差值 45.73
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 47
+    .. grid-item:: 62 (61)
+    .. grid-item:: 62
+    .. grid-item:: 限界
+    .. grid-item:: 180
+    .. grid-item:: 48
+    .. grid-item:: 48
+    .. grid-item:: 移动力
+    .. grid-item:: 10
+    .. grid-item:: 59
+    .. grid-item:: 61
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆A
-        | 海B
-        | 宇B
-        | 分身
-        | 剣装備
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_B5.png
-
-        | 地形参照
-        | :ref:`バーン・バニングス <srw4_pilots_bern_bunnings>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 110
+    .. grid-item:: 46
+    .. grid-item:: 46
+    .. grid-item:: 价值
+    .. grid-item:: 1400
+    .. grid-item:: 46
+    .. grid-item:: 44
+    .. grid-item:: 修理费
+    .. grid-item:: 2400
+    .. grid-item:: 46
+    .. grid-item:: 46
 
 .. grid:: 
     :gutter: 3
@@ -2305,113 +2405,68 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラバルカンⓅ
         :columns: 3
-
     .. grid-item:: 400
-
+    .. grid-item:: 400
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラソード🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1150
-
+    .. grid-item:: 1150
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: +30
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 2000
-
+    .. grid-item:: 2000
     .. grid-item:: 1
-
     .. grid-item:: -10
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (20)
-
-    .. grid-item:: 
-
-        | 必要气力 120
-        | 必要技能 聖戦士
-
+    .. grid-item:: 120气力聖戦士
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾊｲﾊﾟｰｵｰﾗ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 3000
-
+    .. grid-item:: 3000
     .. grid-item:: 1
-
     .. grid-item:: -15
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (35)
-
-    .. grid-item:: 
-
-        | 必要气力 140
-        | 必要技能 聖戦士
-
+    .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_vierres_commentBegin:
 
 
@@ -2431,68 +2486,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_B6.png
 
-        登场/加入:第13话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第13话
+                :columns: auto
+
+            .. grid-item:: 编码 B6
+                :columns: auto
+
+            .. grid-item:: 地址 BB53F (2822E)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BB55F (2824E)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空
+                :columns: auto
+
+
+            .. grid-item:: 大小 LL
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆🚫→D海🚫宇🚫
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`ビショット・ハッタ <srw4_pilots_bishot_hatta>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B9.png
+                :columns: auto
+
+            .. grid-item:: オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 44000
-        | 我军偏差值 217.51(217.44)
-        | 整体偏差值 79.92(79.53)
-        | EN 200
-        | 我军偏差值 56.67(56.63)
-        | 整体偏差值 52.48(52.47)
-        | 装甲 720
-        | 我军偏差值 68.5(66.65)
-        | 整体偏差值 63.56(62.56)
-        | 运动性 35
-        | 我军偏差值 48(47.92)
-        | 整体偏差值 49.67(49.52)
-        | 限界 190
-        | 我军偏差值 51.3(51.25)
-        | 整体偏差值 51.44(51.4)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 44000
+    .. grid-item:: 218 (217)
+    .. grid-item:: 80
+    .. grid-item:: EN
+    .. grid-item:: 200
+    .. grid-item:: 57
+    .. grid-item:: 52
+    .. grid-item:: 装甲
+    .. grid-item:: 720
+    .. grid-item:: 69 (67)
+    .. grid-item:: 64 (63)
     .. grid-item::
-        :columns: auto
-
-        | 编码 B6
-        | Snes地址 BB53F
-        | 武器首地址 BB55F
-        | PS地址 2822E
-        | 类型 空
-        | 移动力 7
-        | 我军偏差值 42.48
-        | 整体偏差值 44.66
-        | 大小 LL
-
-        | 经验值 210
-        | 我军偏差值 62.04
-        | 整体偏差值 61.77
-        | 价值 17000
-        | 我军偏差值 75.08
-        | 整体偏差值 71.82
-        | 修理费 30000
-        | 我军偏差值 77.28
-        | 整体偏差值 68.98
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 35
+    .. grid-item:: 48
+    .. grid-item:: 50
+    .. grid-item:: 限界
+    .. grid-item:: 190
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 移动力
+    .. grid-item:: 7
+    .. grid-item:: 42
+    .. grid-item:: 45
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆🚫→D
-        | 海🚫
-        | 宇🚫
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_B9.png
-
-        | 地形参照
-        | :ref:`ビショット・ハッタ <srw4_pilots_bishot_hatta>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 210
+    .. grid-item:: 62
+    .. grid-item:: 62
+    .. grid-item:: 价值
+    .. grid-item:: 17000
+    .. grid-item:: 75
+    .. grid-item:: 72
+    .. grid-item:: 修理费
+    .. grid-item:: 30000
+    .. grid-item:: 77
+    .. grid-item:: 69
 
 .. grid:: 
     :gutter: 3
@@ -2502,65 +2605,42 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラバルカンⓅ
         :columns: 3
-
     .. grid-item:: 420
-
+    .. grid-item:: 420
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 20
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラキャノン
         :columns: 3
-
     .. grid-item:: 1350
-
+    .. grid-item:: 1350
     .. grid-item:: 2~8
-
     .. grid-item:: -18
-
-    .. grid-item:: 
-
+    .. grid-item:: 0
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 20
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_gea_garing_commentBegin:
 
 
@@ -2580,70 +2660,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_AB.png
 
-        登场/加入:第17话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第17话
+                :columns: auto
+
+            .. grid-item:: 编码 AB
+                :columns: auto
+
+            .. grid-item:: 地址 BB336 (28025)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BB356 (28045)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空陸
+                :columns: auto
+
+
+            .. grid-item:: 大小 S
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆A海B→C宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`ジェリル・クチビ <srw4_pilots_jeril_coochibi>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_BE.png
+                :columns: auto
+
+            .. grid-item:: 分身, 剣装備, オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 2100
-        | 我军偏差值 45.41(45.4)
-        | 整体偏差值 44.71(44.73)
-        | EN 170
-        | 我军偏差值 47.86(47.83)
-        | 整体偏差值 44.56(44.54)
-        | 装甲 620
-        | 我军偏差值 63.15(61.69)
-        | 整体偏差值 59.29(58.53)
-        | 运动性 44
-        | 我军偏差值 58.13(58.08)
-        | 整体偏差值 58.91(58.66)
-        | 限界 170
-        | 我军偏差值 45.11(45.06)
-        | 整体偏差值 45.39(45.37)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 2100
+    .. grid-item:: 45
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 170
+    .. grid-item:: 48
+    .. grid-item:: 45
+    .. grid-item:: 装甲
+    .. grid-item:: 620
+    .. grid-item:: 63 (62)
+    .. grid-item:: 59
     .. grid-item::
-        :columns: auto
-
-        | 编码 AB
-        | Snes地址 BB336
-        | 武器首地址 BB356
-        | PS地址 28025
-        | 类型 空陸
-        | 移动力 9
-        | 我军偏差值 53.31
-        | 整体偏差值 55.42
-        | 大小 S
-
-        | 经验值 100
-        | 我军偏差值 44.05
-        | 整体偏差值 44.91
-        | 价值 1500
-        | 我军偏差值 45.96
-        | 整体偏差值 44.63
-        | 修理费 2500
-        | 我军偏差值 46.55
-        | 整体偏差值 45.81
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 44
+    .. grid-item:: 58
+    .. grid-item:: 59
+    .. grid-item:: 限界
+    .. grid-item:: 170
+    .. grid-item:: 45
+    .. grid-item:: 45
+    .. grid-item:: 移动力
+    .. grid-item:: 9
+    .. grid-item:: 53
+    .. grid-item:: 55
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆A
-        | 海B→C
-        | 宇B
-        | 分身
-        | 剣装備
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_BE.png
-
-        | 地形参照
-        | :ref:`ジェリル・クチビ <srw4_pilots_jeril_coochibi>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 100
+    .. grid-item:: 44
+    .. grid-item:: 45
+    .. grid-item:: 价值
+    .. grid-item:: 1500
+    .. grid-item:: 46
+    .. grid-item:: 45
+    .. grid-item:: 修理费
+    .. grid-item:: 2500
+    .. grid-item:: 47
+    .. grid-item:: 46
 
 .. grid:: 
     :gutter: 3
@@ -2653,213 +2779,133 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラバルカンⓅ
         :columns: 3
-
     .. grid-item:: 380
-
+    .. grid-item:: 380
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: フレイボムⓅ
         :columns: 3
-
     .. grid-item:: 820
-
+    .. grid-item:: 820
     .. grid-item:: 1~4
-
     .. grid-item:: -2
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海C宇A
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾊﾝﾄﾞｸﾞﾚﾈｲﾄﾞ⚔Ⓟ
         :columns: 3
-
     .. grid-item:: 970
-
+    .. grid-item:: 970
     .. grid-item:: 1~2
-
     .. grid-item:: -8
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 2
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラキャノン
         :columns: 3
-
     .. grid-item:: 1020
-
+    .. grid-item:: 1020
     .. grid-item:: 1~7
-
     .. grid-item:: 
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラショット
         :columns: 3
-
     .. grid-item:: 1070
-
+    .. grid-item:: 1070
     .. grid-item:: 1~7
-
     .. grid-item:: 
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラソード🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1100
-
+    .. grid-item:: 1100
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: +30
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ワイヤークロー🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1290
-
+    .. grid-item:: 1290
     .. grid-item:: 1
-
     .. grid-item:: -5
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 2000
-
+    .. grid-item:: 2000
     .. grid-item:: 1
-
     .. grid-item:: -10
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (20)
-
-    .. grid-item:: 
-
-        | 必要气力 120
-        | 必要技能 聖戦士
-
+    .. grid-item:: 120气力聖戦士
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾊｲﾊﾟｰｵｰﾗ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 3000
-
+    .. grid-item:: 3000
     .. grid-item:: 1
-
     .. grid-item:: -15
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (35)
-
-    .. grid-item:: 
-
-        | 必要气力 140
-        | 必要技能 聖戦士
-
+    .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_leprechaun_commentBegin:
 
 
@@ -2879,68 +2925,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_B5.png
 
-        登场/加入:第17话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第17话
+                :columns: auto
+
+            .. grid-item:: 编码 B5
+                :columns: auto
+
+            .. grid-item:: 地址 BB517 (28206)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BB537 (28226)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空
+                :columns: auto
+
+
+            .. grid-item:: 大小 LL
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆🚫→D海🚫宇🚫
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`ドレイク・ルフト <srw4_pilots_drake_luft>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B7.png
+                :columns: auto
+
+            .. grid-item:: オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 48000
-        | 我军偏差值 233.94(233.86)
-        | 整体偏差值 83.28(82.85)
-        | EN 220
-        | 我军偏差值 62.55(62.5)
-        | 整体偏差值 57.76(57.75)
-        | 装甲 780
-        | 我军偏差值 71.71(69.62)
-        | 整体偏差值 66.13(64.98)
-        | 运动性 36
-        | 我军偏差值 49.12(49.05)
-        | 整体偏差值 50.7(50.54)
-        | 限界 190
-        | 我军偏差值 51.3(51.25)
-        | 整体偏差值 51.44(51.4)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 48000
+    .. grid-item:: 234
+    .. grid-item:: 83
+    .. grid-item:: EN
+    .. grid-item:: 220
+    .. grid-item:: 63 (62)
+    .. grid-item:: 58
+    .. grid-item:: 装甲
+    .. grid-item:: 780
+    .. grid-item:: 72 (70)
+    .. grid-item:: 66 (65)
     .. grid-item::
-        :columns: auto
-
-        | 编码 B5
-        | Snes地址 BB517
-        | 武器首地址 BB537
-        | PS地址 28206
-        | 类型 空
-        | 移动力 7
-        | 我军偏差值 42.48
-        | 整体偏差值 44.66
-        | 大小 LL
-
-        | 经验值 220
-        | 我军偏差值 63.68
-        | 整体偏差值 63.31
-        | 价值 20000
-        | 我军偏差值 80.71
-        | 整体偏差值 77.08
-        | 修理费 30000
-        | 我军偏差值 77.28
-        | 整体偏差值 68.98
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 36
+    .. grid-item:: 49
+    .. grid-item:: 51
+    .. grid-item:: 限界
+    .. grid-item:: 190
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 移动力
+    .. grid-item:: 7
+    .. grid-item:: 42
+    .. grid-item:: 45
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆🚫→D
-        | 海🚫
-        | 宇🚫
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_B7.png
-
-        | 地形参照
-        | :ref:`ドレイク・ルフト <srw4_pilots_drake_luft>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 220
+    .. grid-item:: 64
+    .. grid-item:: 63
+    .. grid-item:: 价值
+    .. grid-item:: 20000
+    .. grid-item:: 81
+    .. grid-item:: 77
+    .. grid-item:: 修理费
+    .. grid-item:: 30000
+    .. grid-item:: 77
+    .. grid-item:: 69
 
 .. grid:: 
     :gutter: 3
@@ -2950,65 +3044,42 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラバルカンⓅ
         :columns: 3
-
     .. grid-item:: 420
-
+    .. grid-item:: 420
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 20
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラキャノン
         :columns: 3
-
     .. grid-item:: 1350
-
+    .. grid-item:: 1350
     .. grid-item:: 2~8
-
     .. grid-item:: -18
-
-    .. grid-item:: 
-
+    .. grid-item:: 0
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 20
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_will_wipps_commentBegin:
 
 
@@ -3028,70 +3099,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_124.png
 
-        登场/加入:第25话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第25话
+                :columns: auto
+
+            .. grid-item:: 编码 124
+                :columns: auto
+
+            .. grid-item:: 地址 BC7F0 (294DC)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BC810 (294FC)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空陸
+                :columns: auto
+
+
+            .. grid-item:: 大小 S
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆A海B→C宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`ジェリル・クチビ <srw4_pilots_jeril_coochibi>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_BE.png
+                :columns: auto
+
+            .. grid-item:: 分身, 剣装備, オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 1700
-        | 我军偏差值 43.76(43.76)
-        | 整体偏差值 44.38(44.4)
-        | EN 170
-        | 我军偏差值 47.86(47.83)
-        | 整体偏差值 44.56(44.54)
-        | 装甲 620
-        | 我军偏差值 63.15(61.69)
-        | 整体偏差值 59.29(58.53)
-        | 运动性 44
-        | 我军偏差值 58.13(58.08)
-        | 整体偏差值 58.91(58.66)
-        | 限界 170
-        | 我军偏差值 45.11(45.06)
-        | 整体偏差值 45.39(45.37)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 1700
+    .. grid-item:: 44
+    .. grid-item:: 44
+    .. grid-item:: EN
+    .. grid-item:: 170
+    .. grid-item:: 48
+    .. grid-item:: 45
+    .. grid-item:: 装甲
+    .. grid-item:: 620
+    .. grid-item:: 63 (62)
+    .. grid-item:: 59
     .. grid-item::
-        :columns: auto
-
-        | 编码 124
-        | Snes地址 BC7F0
-        | 武器首地址 BC810
-        | PS地址 294DC
-        | 类型 空陸
-        | 移动力 9
-        | 我军偏差值 53.31
-        | 整体偏差值 55.42
-        | 大小 S
-
-        | 经验值 100
-        | 我军偏差值 44.05
-        | 整体偏差值 44.91
-        | 价值 1500
-        | 我军偏差值 45.96
-        | 整体偏差值 44.63
-        | 修理费 2500
-        | 我军偏差值 46.55
-        | 整体偏差值 45.81
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 44
+    .. grid-item:: 58
+    .. grid-item:: 59
+    .. grid-item:: 限界
+    .. grid-item:: 170
+    .. grid-item:: 45
+    .. grid-item:: 45
+    .. grid-item:: 移动力
+    .. grid-item:: 9
+    .. grid-item:: 53
+    .. grid-item:: 55
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆A
-        | 海B→C
-        | 宇B
-        | 分身
-        | 剣装備
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_BE.png
-
-        | 地形参照
-        | :ref:`ジェリル・クチビ <srw4_pilots_jeril_coochibi>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 100
+    .. grid-item:: 44
+    .. grid-item:: 45
+    .. grid-item:: 价值
+    .. grid-item:: 1500
+    .. grid-item:: 46
+    .. grid-item:: 45
+    .. grid-item:: 修理费
+    .. grid-item:: 2500
+    .. grid-item:: 47
+    .. grid-item:: 46
 
 .. grid:: 
     :gutter: 3
@@ -3101,213 +3218,133 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラバルカンⓅ
         :columns: 3
-
     .. grid-item:: 380
-
+    .. grid-item:: 380
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: フレイボムⓅ
         :columns: 3
-
     .. grid-item:: 820
-
+    .. grid-item:: 820
     .. grid-item:: 1~4
-
     .. grid-item:: -2
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海C宇A
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾊﾝﾄﾞｸﾞﾚﾈｲﾄﾞ⚔Ⓟ
         :columns: 3
-
     .. grid-item:: 970
-
+    .. grid-item:: 970
     .. grid-item:: 1~2
-
     .. grid-item:: -8
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 2
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラキャノン
         :columns: 3
-
     .. grid-item:: 1020
-
+    .. grid-item:: 1020
     .. grid-item:: 1~7
-
     .. grid-item:: 
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラショット
         :columns: 3
-
     .. grid-item:: 1070
-
+    .. grid-item:: 1070
     .. grid-item:: 1~7
-
     .. grid-item:: 
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラソード🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1100
-
+    .. grid-item:: 1100
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: +30
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ワイヤークロー🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1290
-
+    .. grid-item:: 1290
     .. grid-item:: 1
-
     .. grid-item:: -5
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 2000
-
+    .. grid-item:: 2000
     .. grid-item:: 1
-
     .. grid-item:: -10
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (20)
-
-    .. grid-item:: 
-
-        | 必要气力 120
-        | 必要技能 聖戦士
-
+    .. grid-item:: 120气力聖戦士
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾊｲﾊﾟｰｵｰﾗ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 3000
-
+    .. grid-item:: 3000
     .. grid-item:: 1
-
     .. grid-item:: -15
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (35)
-
-    .. grid-item:: 
-
-        | 必要气力 140
-        | 必要技能 聖戦士
-
+    .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_leprechaun_hyper_available_commentBegin:
 
 
@@ -3327,70 +3364,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_125.png
 
-        登场/加入:第25话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第25话
+                :columns: auto
+
+            .. grid-item:: 编码 125
+                :columns: auto
+
+            .. grid-item:: 地址 BC82D (29519)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BC84D (29539)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空陸
+                :columns: auto
+
+
+            .. grid-item:: 大小 LL
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆A海B→C宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`ジェリル・クチビ <srw4_pilots_jeril_coochibi>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_BE.png
+                :columns: auto
+
+            .. grid-item:: 分身, 剣装備, オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 37000
-        | 我军偏差值 188.76(188.7)
-        | 整体偏差值 74.04(73.72)
-        | EN 170
-        | 我军偏差值 47.86(47.83)
-        | 整体偏差值 44.56(44.54)
-        | 装甲 620
-        | 我军偏差值 63.15(61.69)
-        | 整体偏差值 59.29(58.53)
-        | 运动性 44
-        | 我军偏差值 58.13(58.08)
-        | 整体偏差值 58.91(58.66)
-        | 限界 170
-        | 我军偏差值 45.11(45.06)
-        | 整体偏差值 45.39(45.37)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 37000
+    .. grid-item:: 189
+    .. grid-item:: 74
+    .. grid-item:: EN
+    .. grid-item:: 170
+    .. grid-item:: 48
+    .. grid-item:: 45
+    .. grid-item:: 装甲
+    .. grid-item:: 620
+    .. grid-item:: 63 (62)
+    .. grid-item:: 59
     .. grid-item::
-        :columns: auto
-
-        | 编码 125
-        | Snes地址 BC82D
-        | 武器首地址 BC84D
-        | PS地址 29519
-        | 类型 空陸
-        | 移动力 9
-        | 我军偏差值 53.31
-        | 整体偏差值 55.42
-        | 大小 LL
-
-        | 经验值 200
-        | 我军偏差值 60.41
-        | 整体偏差值 60.24
-        | 价值 8500
-        | 我军偏差值 59.11
-        | 整体偏差值 56.91
-        | 修理费 2500
-        | 我军偏差值 46.55
-        | 整体偏差值 45.81
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 44
+    .. grid-item:: 58
+    .. grid-item:: 59
+    .. grid-item:: 限界
+    .. grid-item:: 170
+    .. grid-item:: 45
+    .. grid-item:: 45
+    .. grid-item:: 移动力
+    .. grid-item:: 9
+    .. grid-item:: 53
+    .. grid-item:: 55
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆A
-        | 海B→C
-        | 宇B
-        | 分身
-        | 剣装備
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_BE.png
-
-        | 地形参照
-        | :ref:`ジェリル・クチビ <srw4_pilots_jeril_coochibi>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 200
+    .. grid-item:: 60
+    .. grid-item:: 60
+    .. grid-item:: 价值
+    .. grid-item:: 8500
+    .. grid-item:: 59
+    .. grid-item:: 57
+    .. grid-item:: 修理费
+    .. grid-item:: 2500
+    .. grid-item:: 47
+    .. grid-item:: 46
 
 .. grid:: 
     :gutter: 3
@@ -3400,213 +3483,133 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラバルカンⓅ
         :columns: 3
-
     .. grid-item:: 380
-
+    .. grid-item:: 380
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: フレイボムⓅ
         :columns: 3
-
     .. grid-item:: 820
-
+    .. grid-item:: 820
     .. grid-item:: 1~4
-
     .. grid-item:: -2
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海C宇A
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾊﾝﾄﾞｸﾞﾚﾈｲﾄﾞ⚔Ⓟ
         :columns: 3
-
     .. grid-item:: 970
-
+    .. grid-item:: 970
     .. grid-item:: 1~2
-
     .. grid-item:: -8
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 2
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラキャノン
         :columns: 3
-
     .. grid-item:: 1020
-
+    .. grid-item:: 1020
     .. grid-item:: 1~7
-
     .. grid-item:: 
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラショット
         :columns: 3
-
     .. grid-item:: 1070
-
+    .. grid-item:: 1070
     .. grid-item:: 1~7
-
     .. grid-item:: 
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラソード🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1100
-
+    .. grid-item:: 1100
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: +30
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ワイヤークロー🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1290
-
+    .. grid-item:: 1290
     .. grid-item:: 1
-
     .. grid-item:: -5
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 2000
-
+    .. grid-item:: 2000
     .. grid-item:: 1
-
     .. grid-item:: -10
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (20)
-
-    .. grid-item:: 
-
-        | 必要气力 120
-        | 必要技能 聖戦士
-
+    .. grid-item:: 120气力聖戦士
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾊｲﾊﾟｰｵｰﾗ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 3000
-
+    .. grid-item:: 3000
     .. grid-item:: 1
-
     .. grid-item:: -15
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (35)
-
-    .. grid-item:: 
-
-        | 必要气力 140
-        | 必要技能 聖戦士
-
+    .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_hyper_leprechaun_commentBegin:
 
 
@@ -3626,69 +3629,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_B0.png
 
-        登场/加入:第31话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第31话
+                :columns: auto
+
+            .. grid-item:: 编码 B0
+                :columns: auto
+
+            .. grid-item:: 地址 BB437 (28126)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BB457 (28146)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空
+                :columns: auto
+
+
+            .. grid-item:: 大小 L
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆🚫→D海🚫→D宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`ミュージィ・ポー <srw4_pilots_muzzy_poe>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_BB.png
+                :columns: auto
+
+            .. grid-item:: 分身, オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 4800
-        | 我军偏差值 56.5(56.48)
-        | 整体偏差值 46.98(46.97)
-        | EN 180
-        | 我军偏差值 50.8(50.76)
-        | 整体偏差值 47.2(47.18)
-        | 装甲 700
-        | 我军偏差值 67.43(65.66)
-        | 整体偏差值 62.71(61.75)
-        | 运动性 50
-        | 我军偏差值 64.88(64.85)
-        | 整体偏差值 65.07(64.75)
-        | 限界 240
-        | 我军偏差值 66.78(66.73)
-        | 整体偏差值 66.56(66.47)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 4800
+    .. grid-item:: 56
+    .. grid-item:: 47
+    .. grid-item:: EN
+    .. grid-item:: 180
+    .. grid-item:: 51
+    .. grid-item:: 47
+    .. grid-item:: 装甲
+    .. grid-item:: 700
+    .. grid-item:: 67 (66)
+    .. grid-item:: 63 (62)
     .. grid-item::
-        :columns: auto
-
-        | 编码 B0
-        | Snes地址 BB437
-        | 武器首地址 BB457
-        | PS地址 28126
-        | 类型 空
-        | 移动力 13
-        | 我军偏差值 74.96
-        | 整体偏差值 76.96
-        | 大小 L
-
-        | 经验值 140
-        | 我军偏差值 50.59
-        | 整体偏差值 51.04
-        | 价值 1700
-        | 我军偏差值 46.34
-        | 整体偏差值 44.98
-        | 修理费 3300
-        | 我军偏差值 47.45
-        | 整体偏差值 46.49
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 50
+    .. grid-item:: 65
+    .. grid-item:: 65
+    .. grid-item:: 限界
+    .. grid-item:: 240
+    .. grid-item:: 67
+    .. grid-item:: 67 (66)
+    .. grid-item:: 移动力
+    .. grid-item:: 13
+    .. grid-item:: 75
+    .. grid-item:: 77
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆🚫→D
-        | 海🚫→D
-        | 宇B
-        | 分身
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_BB.png
-
-        | 地形参照
-        | :ref:`ミュージィ・ポー <srw4_pilots_muzzy_poe>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 140
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 价值
+    .. grid-item:: 1700
+    .. grid-item:: 46
+    .. grid-item:: 45
+    .. grid-item:: 修理费
+    .. grid-item:: 3300
+    .. grid-item:: 47
+    .. grid-item:: 46
 
 .. grid:: 
     :gutter: 3
@@ -3698,125 +3748,81 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラバルカンⓅ
         :columns: 3
-
     .. grid-item:: 400
-
+    .. grid-item:: 400
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
-
     .. grid-item:: 980
-
+    .. grid-item:: 980
     .. grid-item:: 1~6
-
     .. grid-item:: -10
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラキャノン
         :columns: 3
-
     .. grid-item:: 1140
-
+    .. grid-item:: 1140
     .. grid-item:: 1~7
-
     .. grid-item:: 
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ワイヤークロー🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1370
-
+    .. grid-item:: 1370
     .. grid-item:: 1
-
     .. grid-item:: -5
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A→🚫海A→🚫宇A→B
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ｵｰﾗｼｮｯﾄｱｰﾑ⚔Ⓟ
         :columns: 3
-
     .. grid-item:: 1780
-
+    .. grid-item:: 1780
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_bubuly_commentBegin:
 
 
@@ -3836,68 +3842,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_B7.png
 
-        登场/加入:第31话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第31话
+                :columns: auto
+
+            .. grid-item:: 编码 B7
+                :columns: auto
+
+            .. grid-item:: 地址 BB567 (28256)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BB587 (28276)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空
+                :columns: auto
+
+
+            .. grid-item:: 大小 LL
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆🚫→D海🚫宇🚫→D
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`ショット・ウェポン <srw4_pilots_shot_weapon>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B8.png
+                :columns: auto
+
+            .. grid-item:: オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 32000
-        | 我军偏差值 168.22(168.17)
-        | 整体偏差值 69.84(69.56)
-        | EN 180
-        | 我军偏差值 50.8(50.76)
-        | 整体偏差值 47.2(47.18)
-        | 装甲 680
-        | 我军偏差值 66.36(64.67)
-        | 整体偏差值 61.85(60.95)
-        | 运动性 48
-        | 我军偏差值 62.63(62.6)
-        | 整体偏差值 63.02(62.72)
-        | 限界 200
-        | 我军偏差值 54.39(54.35)
-        | 整体偏差值 54.46(54.41)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 32000
+    .. grid-item:: 168
+    .. grid-item:: 70
+    .. grid-item:: EN
+    .. grid-item:: 180
+    .. grid-item:: 51
+    .. grid-item:: 47
+    .. grid-item:: 装甲
+    .. grid-item:: 680
+    .. grid-item:: 66 (65)
+    .. grid-item:: 62 (61)
     .. grid-item::
-        :columns: auto
-
-        | 编码 B7
-        | Snes地址 BB567
-        | 武器首地址 BB587
-        | PS地址 28256
-        | 类型 空
-        | 移动力 12
-        | 我军偏差值 69.54
-        | 整体偏差值 71.57
-        | 大小 LL
-
-        | 经验值 220
-        | 我军偏差值 63.68
-        | 整体偏差值 63.31
-        | 价值 9700
-        | 我军偏差值 61.36
-        | 整体偏差值 59.02
-        | 修理费 20000
-        | 我军偏差值 66.11
-        | 整体偏差值 60.56
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 48
+    .. grid-item:: 63
+    .. grid-item:: 63
+    .. grid-item:: 限界
+    .. grid-item:: 200
+    .. grid-item:: 54
+    .. grid-item:: 54
+    .. grid-item:: 移动力
+    .. grid-item:: 12
+    .. grid-item:: 70
+    .. grid-item:: 72
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆🚫→D
-        | 海🚫
-        | 宇🚫→D
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_B8.png
-
-        | 地形参照
-        | :ref:`ショット・ウェポン <srw4_pilots_shot_weapon>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 220
+    .. grid-item:: 64
+    .. grid-item:: 63
+    .. grid-item:: 价值
+    .. grid-item:: 9700
+    .. grid-item:: 61
+    .. grid-item:: 59
+    .. grid-item:: 修理费
+    .. grid-item:: 20000
+    .. grid-item:: 66
+    .. grid-item:: 61
 
 .. grid:: 
     :gutter: 3
@@ -3907,65 +3961,42 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラバルカンⓅ
         :columns: 3
-
     .. grid-item:: 420
-
+    .. grid-item:: 420
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 20
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラキャノン
         :columns: 3
-
     .. grid-item:: 1350
-
+    .. grid-item:: 1350
     .. grid-item:: 2~8
-
     .. grid-item:: -18
-
-    .. grid-item:: 
-
+    .. grid-item:: 0
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 20
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_sprigan_commentBegin:
 
 
@@ -3985,70 +4016,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_AC.png
 
-        登场/加入:第33话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第33话
+                :columns: auto
+
+            .. grid-item:: 编码 AC
+                :columns: auto
+
+            .. grid-item:: 地址 BB373 (28062)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BB393 (28082)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空陸
+                :columns: auto
+
+
+            .. grid-item:: 大小 S
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆A海B→C宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`アレン・ブレディ <srw4_pilots_allen_brady>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_BF.png
+                :columns: auto
+
+            .. grid-item:: 分身, 剣装備, オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 3300
-        | 我军偏差值 50.34(50.33)
-        | 整体偏差值 45.72(45.73)
-        | EN 160
-        | 我军偏差值 44.92(44.89)
-        | 整体偏差值 41.92(41.9)
-        | 装甲 640
-        | 我军偏差值 64.22(62.68)
-        | 整体偏差值 60.14(59.33)
-        | 运动性 48
-        | 我军偏差值 62.63(62.6)
-        | 整体偏差值 63.02(62.72)
-        | 限界 190
-        | 我军偏差值 51.3(51.25)
-        | 整体偏差值 51.44(51.4)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 3300
+    .. grid-item:: 50
+    .. grid-item:: 46
+    .. grid-item:: EN
+    .. grid-item:: 160
+    .. grid-item:: 45
+    .. grid-item:: 42
+    .. grid-item:: 装甲
+    .. grid-item:: 640
+    .. grid-item:: 64 (63)
+    .. grid-item:: 60 (59)
     .. grid-item::
-        :columns: auto
-
-        | 编码 AC
-        | Snes地址 BB373
-        | 武器首地址 BB393
-        | PS地址 28062
-        | 类型 空陸
-        | 移动力 10
-        | 我军偏差值 58.72
-        | 整体偏差值 60.81
-        | 大小 S
-
-        | 经验值 120
-        | 我军偏差值 47.32
-        | 整体偏差值 47.97
-        | 价值 1500
-        | 我军偏差值 45.96
-        | 整体偏差值 44.63
-        | 修理费 3000
-        | 我军偏差值 47.11
-        | 整体偏差值 46.23
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 48
+    .. grid-item:: 63
+    .. grid-item:: 63
+    .. grid-item:: 限界
+    .. grid-item:: 190
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 移动力
+    .. grid-item:: 10
+    .. grid-item:: 59
+    .. grid-item:: 61
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆A
-        | 海B→C
-        | 宇B
-        | 分身
-        | 剣装備
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_BF.png
-
-        | 地形参照
-        | :ref:`アレン・ブレディ <srw4_pilots_allen_brady>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 120
+    .. grid-item:: 47
+    .. grid-item:: 48
+    .. grid-item:: 价值
+    .. grid-item:: 1500
+    .. grid-item:: 46
+    .. grid-item:: 45
+    .. grid-item:: 修理费
+    .. grid-item:: 3000
+    .. grid-item:: 47
+    .. grid-item:: 46
 
 .. grid:: 
     :gutter: 3
@@ -4058,133 +4135,81 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラバルカンⓅ
         :columns: 3
-
     .. grid-item:: 400
-
+    .. grid-item:: 400
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: フレイボムⓅ
         :columns: 3
-
     .. grid-item:: 820
-
+    .. grid-item:: 820
     .. grid-item:: 1~4
-
     .. grid-item:: -2
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海C宇A
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラソード🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1150
-
+    .. grid-item:: 1150
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: +30
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 2000
-
+    .. grid-item:: 2000
     .. grid-item:: 1
-
     .. grid-item:: -10
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (20)
-
-    .. grid-item:: 
-
-        | 必要气力 120
-        | 必要技能 聖戦士
-
+    .. grid-item:: 120气力聖戦士
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾊｲﾊﾟｰｵｰﾗ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 3000
-
+    .. grid-item:: 3000
     .. grid-item:: 1
-
     .. grid-item:: -15
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (35)
-
-    .. grid-item:: 
-
-        | 必要气力 140
-        | 必要技能 聖戦士
-
+    .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_zwarth_commentBegin:
 
 
@@ -4204,69 +4229,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_B1.png
 
-        登场/加入:第33话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第33话
+                :columns: auto
+
+            .. grid-item:: 编码 B1
+                :columns: auto
+
+            .. grid-item:: 地址 BB468 (28157)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BB488 (28177)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空
+                :columns: auto
+
+
+            .. grid-item:: 大小 M
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆🚫→C海🚫→D宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`黒騎士 <srw4_pilots_black_knight>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B6.png
+                :columns: auto
+
+            .. grid-item:: 分身, オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 5700
-        | 我军偏差值 60.19(60.18)
-        | 整体偏差值 47.74(47.72)
-        | EN 170
-        | 我军偏差值 47.86(47.83)
-        | 整体偏差值 44.56(44.54)
-        | 装甲 700
-        | 我军偏差值 67.43(65.66)
-        | 整体偏差值 62.71(61.75)
-        | 运动性 49
-        | 我军偏差值 63.76(63.72)
-        | 整体偏差值 64.04(63.73)
-        | 限界 220
-        | 我军偏差值 60.59(60.54)
-        | 整体偏差值 60.51(60.44)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 5700
+    .. grid-item:: 60
+    .. grid-item:: 48
+    .. grid-item:: EN
+    .. grid-item:: 170
+    .. grid-item:: 48
+    .. grid-item:: 45
+    .. grid-item:: 装甲
+    .. grid-item:: 700
+    .. grid-item:: 67 (66)
+    .. grid-item:: 63 (62)
     .. grid-item::
-        :columns: auto
-
-        | 编码 B1
-        | Snes地址 BB468
-        | 武器首地址 BB488
-        | PS地址 28157
-        | 类型 空
-        | 移动力 12
-        | 我军偏差值 69.54
-        | 整体偏差值 71.57
-        | 大小 M
-
-        | 经验值 140
-        | 我军偏差值 50.59
-        | 整体偏差值 51.04
-        | 价值 1600
-        | 我军偏差值 46.15
-        | 整体偏差值 44.81
-        | 修理费 3200
-        | 我军偏差值 47.34
-        | 整体偏差值 46.4
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 49
+    .. grid-item:: 64
+    .. grid-item:: 64
+    .. grid-item:: 限界
+    .. grid-item:: 220
+    .. grid-item:: 61
+    .. grid-item:: 61 (60)
+    .. grid-item:: 移动力
+    .. grid-item:: 12
+    .. grid-item:: 70
+    .. grid-item:: 72
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆🚫→C
-        | 海🚫→D
-        | 宇B
-        | 分身
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_B6.png
-
-        | 地形参照
-        | :ref:`黒騎士 <srw4_pilots_black_knight>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 140
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 价值
+    .. grid-item:: 1600
+    .. grid-item:: 46
+    .. grid-item:: 45
+    .. grid-item:: 修理费
+    .. grid-item:: 3200
+    .. grid-item:: 47
+    .. grid-item:: 46
 
 .. grid:: 
     :gutter: 3
@@ -4276,105 +4348,68 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラバルカンⓅ
         :columns: 3
-
     .. grid-item:: 400
-
+    .. grid-item:: 400
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラキャノン
         :columns: 3
-
     .. grid-item:: 1140
-
+    .. grid-item:: 1140
     .. grid-item:: 1~7
-
     .. grid-item:: 
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ワイヤークロー🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1370
-
+    .. grid-item:: 1370
     .. grid-item:: 1
-
     .. grid-item:: -5
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A→🚫海A→🚫宇A→B
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ｵｰﾗｼｮｯﾄｱｰﾑ⚔Ⓟ
         :columns: 3
-
     .. grid-item:: 1780
-
+    .. grid-item:: 1780
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_gallaba_commentBegin:
 
 
@@ -4394,70 +4429,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_126.png
 
-        登场/加入:第33话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第33话
+                :columns: auto
+
+            .. grid-item:: 编码 126
+                :columns: auto
+
+            .. grid-item:: 地址 BC86A (29556)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BC88A (29576)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空陸
+                :columns: auto
+
+
+            .. grid-item:: 大小 S
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆A海B→C宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`トッド・ギネス <srw4_pilots_tod_guines>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B4.png
+                :columns: auto
+
+            .. grid-item:: 分身, 剣装備, オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 2200
-        | 我军偏差值 45.82(45.81)
-        | 整体偏差值 44.8(44.81)
-        | EN 170
-        | 我军偏差值 47.86(47.83)
-        | 整体偏差值 44.56(44.54)
-        | 装甲 660
-        | 我军偏差值 65.29(63.67)
-        | 整体偏差值 61(60.14)
-        | 运动性 48
-        | 我军偏差值 62.63(62.6)
-        | 整体偏差值 63.02(62.72)
-        | 限界 190
-        | 我军偏差值 51.3(51.25)
-        | 整体偏差值 51.44(51.4)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 2200
+    .. grid-item:: 46
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 170
+    .. grid-item:: 48
+    .. grid-item:: 45
+    .. grid-item:: 装甲
+    .. grid-item:: 660
+    .. grid-item:: 65 (64)
+    .. grid-item:: 61 (60)
     .. grid-item::
-        :columns: auto
-
-        | 编码 126
-        | Snes地址 BC86A
-        | 武器首地址 BC88A
-        | PS地址 29556
-        | 类型 空陸
-        | 移动力 10
-        | 我军偏差值 58.72
-        | 整体偏差值 60.81
-        | 大小 S
-
-        | 经验值 120
-        | 我军偏差值 47.32
-        | 整体偏差值 47.97
-        | 价值 1500
-        | 我军偏差值 45.96
-        | 整体偏差值 44.63
-        | 修理费 2500
-        | 我军偏差值 46.55
-        | 整体偏差值 45.81
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 48
+    .. grid-item:: 63
+    .. grid-item:: 63
+    .. grid-item:: 限界
+    .. grid-item:: 190
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 移动力
+    .. grid-item:: 10
+    .. grid-item:: 59
+    .. grid-item:: 61
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆A
-        | 海B→C
-        | 宇B
-        | 分身
-        | 剣装備
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_B4.png
-
-        | 地形参照
-        | :ref:`トッド・ギネス <srw4_pilots_tod_guines>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 120
+    .. grid-item:: 47
+    .. grid-item:: 48
+    .. grid-item:: 价值
+    .. grid-item:: 1500
+    .. grid-item:: 46
+    .. grid-item:: 45
+    .. grid-item:: 修理费
+    .. grid-item:: 2500
+    .. grid-item:: 47
+    .. grid-item:: 46
 
 .. grid:: 
     :gutter: 3
@@ -4467,153 +4548,94 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラバルカンⓅ
         :columns: 3
-
     .. grid-item:: 400
-
+    .. grid-item:: 400
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ミサイルポッド⚔
         :columns: 3
-
     .. grid-item:: 950
-
+    .. grid-item:: 950
     .. grid-item:: 1~6
-
     .. grid-item:: -10
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラソード🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1150
-
+    .. grid-item:: 1150
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: +30
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ワイヤークロー🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1370
-
+    .. grid-item:: 1370
     .. grid-item:: 1
-
     .. grid-item:: -5
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 2000
-
+    .. grid-item:: 2000
     .. grid-item:: 1
-
     .. grid-item:: -10
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (20)
-
-    .. grid-item:: 
-
-        | 必要气力 120
-        | 必要技能 聖戦士
-
+    .. grid-item:: 120气力聖戦士
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾊｲﾊﾟｰｵｰﾗ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 3000
-
+    .. grid-item:: 3000
     .. grid-item:: 1
-
     .. grid-item:: -15
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (35)
-
-    .. grid-item:: 
-
-        | 必要气力 140
-        | 必要技能 聖戦士
-
+    .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_wryneck_hyper_available_commentBegin:
 
 
@@ -4633,70 +4655,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_127.png
 
-        登场/加入:第33话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第33话
+                :columns: auto
+
+            .. grid-item:: 编码 127
+                :columns: auto
+
+            .. grid-item:: 地址 BC89E (2958A)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BC8BE (295AA)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空陸
+                :columns: auto
+
+
+            .. grid-item:: 大小 LL
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆A海B→C宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`トッド・ギネス <srw4_pilots_tod_guines>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B4.png
+                :columns: auto
+
+            .. grid-item:: 分身 (仅PlayStation), 剣装備, オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 42000
-        | 我军偏差值 209.29(209.23)
-        | 整体偏差值 78.24(77.87)
-        | EN 170
-        | 我军偏差值 47.86(47.83)
-        | 整体偏差值 44.56(44.54)
-        | 装甲 660
-        | 我军偏差值 65.29(63.67)
-        | 整体偏差值 61(60.14)
-        | 运动性 48
-        | 我军偏差值 62.63(62.6)
-        | 整体偏差值 63.02(62.72)
-        | 限界 190
-        | 我军偏差值 51.3(51.25)
-        | 整体偏差值 51.44(51.4)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 42000
+    .. grid-item:: 209
+    .. grid-item:: 78
+    .. grid-item:: EN
+    .. grid-item:: 170
+    .. grid-item:: 48
+    .. grid-item:: 45
+    .. grid-item:: 装甲
+    .. grid-item:: 660
+    .. grid-item:: 65 (64)
+    .. grid-item:: 61 (60)
     .. grid-item::
-        :columns: auto
-
-        | 编码 127
-        | Snes地址 BC89E
-        | 武器首地址 BC8BE
-        | PS地址 2958A
-        | 类型 空陸
-        | 移动力 10
-        | 我军偏差值 58.72
-        | 整体偏差值 60.81
-        | 大小 LL
-
-        | 经验值 220
-        | 我军偏差值 63.68
-        | 整体偏差值 63.31
-        | 价值 8500
-        | 我军偏差值 59.11
-        | 整体偏差值 56.91
-        | 修理费 1500
-        | 我军偏差值 45.44
-        | 整体偏差值 44.97
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 48
+    .. grid-item:: 63
+    .. grid-item:: 63
+    .. grid-item:: 限界
+    .. grid-item:: 190
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 移动力
+    .. grid-item:: 10
+    .. grid-item:: 59
+    .. grid-item:: 61
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆A
-        | 海B→C
-        | 宇B
-        | 分身 (仅PlayStation)
-        | 剣装備
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_B4.png
-
-        | 地形参照
-        | :ref:`トッド・ギネス <srw4_pilots_tod_guines>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 220
+    .. grid-item:: 64
+    .. grid-item:: 63
+    .. grid-item:: 价值
+    .. grid-item:: 8500
+    .. grid-item:: 59
+    .. grid-item:: 57
+    .. grid-item:: 修理费
+    .. grid-item:: 1500
+    .. grid-item:: 45
+    .. grid-item:: 45
 
 .. grid:: 
     :gutter: 3
@@ -4706,153 +4774,94 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラバルカンⓅ
         :columns: 3
-
     .. grid-item:: 400
-
+    .. grid-item:: 400
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ミサイルポッド⚔
         :columns: 3
-
     .. grid-item:: 950
-
+    .. grid-item:: 950
     .. grid-item:: 1~6
-
     .. grid-item:: -10
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラソード🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1150
-
+    .. grid-item:: 1150
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: +30
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ワイヤークロー🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1370
-
+    .. grid-item:: 1370
     .. grid-item:: 1
-
     .. grid-item:: -5
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 2000
-
+    .. grid-item:: 2000
     .. grid-item:: 1
-
     .. grid-item:: -10
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (20)
-
-    .. grid-item:: 
-
-        | 必要气力 120
-        | 必要技能 聖戦士
-
+    .. grid-item:: 120气力聖戦士
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾊｲﾊﾟｰｵｰﾗ斬り🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 3000
-
+    .. grid-item:: 3000
     .. grid-item:: 1
-
     .. grid-item:: -15
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 0 (35)
-
-    .. grid-item:: 
-
-        | 必要气力 140
-        | 必要技能 聖戦士
-
+    .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_hyper_wryneck_commentBegin:
 
 第四次中巨大化之后反而丧失了分身能力，第四次S中修正。
@@ -4873,69 +4882,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_128.png
 
-        登场/加入:第33话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第33话
+                :columns: auto
+
+            .. grid-item:: 编码 128
+                :columns: auto
+
+            .. grid-item:: 地址 BC8D2 (295BE)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BC8F2 (295DE)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空
+                :columns: auto
+
+
+            .. grid-item:: 大小 M
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆🚫→C海🚫→D宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`黒騎士 <srw4_pilots_black_knight>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B6.png
+                :columns: auto
+
+            .. grid-item:: 分身, オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 2700
-        | 我军偏差值 47.87(47.86)
-        | 整体偏差值 45.22(45.23)
-        | EN 170
-        | 我军偏差值 47.86(47.83)
-        | 整体偏差值 44.56(44.54)
-        | 装甲 700
-        | 我军偏差值 67.43(65.66)
-        | 整体偏差值 62.71(61.75)
-        | 运动性 49
-        | 我军偏差值 63.76(63.72)
-        | 整体偏差值 64.04(63.73)
-        | 限界 220
-        | 我军偏差值 60.59(60.54)
-        | 整体偏差值 60.51(60.44)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 2700
+    .. grid-item:: 48
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 170
+    .. grid-item:: 48
+    .. grid-item:: 45
+    .. grid-item:: 装甲
+    .. grid-item:: 700
+    .. grid-item:: 67 (66)
+    .. grid-item:: 63 (62)
     .. grid-item::
-        :columns: auto
-
-        | 编码 128
-        | Snes地址 BC8D2
-        | 武器首地址 BC8F2
-        | PS地址 295BE
-        | 类型 空
-        | 移动力 12
-        | 我军偏差值 69.54
-        | 整体偏差值 71.57
-        | 大小 M
-
-        | 经验值 140
-        | 我军偏差值 50.59
-        | 整体偏差值 51.04
-        | 价值 1600
-        | 我军偏差值 46.15
-        | 整体偏差值 44.81
-        | 修理费 3200
-        | 我军偏差值 47.34
-        | 整体偏差值 46.4
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 49
+    .. grid-item:: 64
+    .. grid-item:: 64
+    .. grid-item:: 限界
+    .. grid-item:: 220
+    .. grid-item:: 61
+    .. grid-item:: 61 (60)
+    .. grid-item:: 移动力
+    .. grid-item:: 12
+    .. grid-item:: 70
+    .. grid-item:: 72
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆🚫→C
-        | 海🚫→D
-        | 宇B
-        | 分身
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_B6.png
-
-        | 地形参照
-        | :ref:`黒騎士 <srw4_pilots_black_knight>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 140
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 价值
+    .. grid-item:: 1600
+    .. grid-item:: 46
+    .. grid-item:: 45
+    .. grid-item:: 修理费
+    .. grid-item:: 3200
+    .. grid-item:: 47
+    .. grid-item:: 46
 
 .. grid:: 
     :gutter: 3
@@ -4945,105 +5001,68 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラバルカンⓅ
         :columns: 3
-
     .. grid-item:: 400
-
+    .. grid-item:: 400
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラキャノン
         :columns: 3
-
     .. grid-item:: 1140
-
+    .. grid-item:: 1140
     .. grid-item:: 1~7
-
     .. grid-item:: 
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ワイヤークロー🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1370
-
+    .. grid-item:: 1370
     .. grid-item:: 1
-
     .. grid-item:: -5
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A→🚫海A→🚫宇A→B
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ｵｰﾗｼｮｯﾄｱｰﾑ⚔Ⓟ
         :columns: 3
-
     .. grid-item:: 1780
-
+    .. grid-item:: 1780
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_gallaba_hyper_available_commentBegin:
 
 
@@ -5063,69 +5082,116 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_129.png
 
-        登场/加入:第33话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第33话
+                :columns: auto
+
+            .. grid-item:: 编码 129
+                :columns: auto
+
+            .. grid-item:: 地址 BC900 (295EC)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BC920 (2960C)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空
+                :columns: auto
+
+
+            .. grid-item:: 大小 LL
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆🚫→C海🚫→D宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`黒騎士 <srw4_pilots_black_knight>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B6.png
+                :columns: auto
+
+            .. grid-item:: 分身, オーラバリア
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 47000
-        | 我军偏差值 229.83(229.76)
-        | 整体偏差值 82.44(82.02)
-        | EN 170
-        | 我军偏差值 47.86(47.83)
-        | 整体偏差值 44.56(44.54)
-        | 装甲 700
-        | 我军偏差值 67.43(65.66)
-        | 整体偏差值 62.71(61.75)
-        | 运动性 49
-        | 我军偏差值 63.76(63.72)
-        | 整体偏差值 64.04(63.73)
-        | 限界 220
-        | 我军偏差值 60.59(60.54)
-        | 整体偏差值 60.51(60.44)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 47000
+    .. grid-item:: 230
+    .. grid-item:: 82
+    .. grid-item:: EN
+    .. grid-item:: 170
+    .. grid-item:: 48
+    .. grid-item:: 45
+    .. grid-item:: 装甲
+    .. grid-item:: 700
+    .. grid-item:: 67 (66)
+    .. grid-item:: 63 (62)
     .. grid-item::
-        :columns: auto
-
-        | 编码 129
-        | Snes地址 BC900
-        | 武器首地址 BC920
-        | PS地址 295EC
-        | 类型 空
-        | 移动力 12
-        | 我军偏差值 69.54
-        | 整体偏差值 71.57
-        | 大小 LL
-
-        | 经验值 240
-        | 我军偏差值 66.95
-        | 整体偏差值 66.37
-        | 价值 8600
-        | 我军偏差值 59.3
-        | 整体偏差值 57.09
-        | 修理费 3200
-        | 我军偏差值 47.34
-        | 整体偏差值 46.4
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 49
+    .. grid-item:: 64
+    .. grid-item:: 64
+    .. grid-item:: 限界
+    .. grid-item:: 220
+    .. grid-item:: 61
+    .. grid-item:: 61 (60)
+    .. grid-item:: 移动力
+    .. grid-item:: 12
+    .. grid-item:: 70
+    .. grid-item:: 72
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆🚫→C
-        | 海🚫→D
-        | 宇B
-        | 分身
-        | オーラバリア
-
-        .. image:: ../pilots/images/srw4_pilot_B6.png
-
-        | 地形参照
-        | :ref:`黒騎士 <srw4_pilots_black_knight>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 240
+    .. grid-item:: 67
+    .. grid-item:: 66
+    .. grid-item:: 价值
+    .. grid-item:: 8600
+    .. grid-item:: 59
+    .. grid-item:: 57
+    .. grid-item:: 修理费
+    .. grid-item:: 3200
+    .. grid-item:: 47
+    .. grid-item:: 46
 
 .. grid:: 
     :gutter: 3
@@ -5135,105 +5201,68 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラバルカンⓅ
         :columns: 3
-
     .. grid-item:: 400
-
+    .. grid-item:: 400
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: オーラキャノン
         :columns: 3
-
     .. grid-item:: 1140
-
+    .. grid-item:: 1140
     .. grid-item:: 1~7
-
     .. grid-item:: 
-
     .. grid-item:: +20
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ワイヤークロー🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1370
-
+    .. grid-item:: 1370
     .. grid-item:: 1
-
     .. grid-item:: -5
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A→🚫海A→🚫宇A→B
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ｵｰﾗｼｮｯﾄｱｰﾑ⚔Ⓟ
         :columns: 3
-
     .. grid-item:: 1780
-
+    .. grid-item:: 1780
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_hyper_gallaba_commentBegin:
 
 第四次的废弃数据，第四次S中出场，和ハイパーレプラカーン以及ハイパーライネック比起来，バーン的ハイパーガラバ威力不够，因为没有任何气力提升的事件，而且没有奥拉斩。

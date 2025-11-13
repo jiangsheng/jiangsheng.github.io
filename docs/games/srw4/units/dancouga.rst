@@ -37,67 +37,112 @@
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_43.png
 
-        登场/加入:第11话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第11话
+                :columns: auto
+
+            .. grid-item:: 编码 43
+                :columns: auto
+
+            .. grid-item:: 地址 BA171 (26E60)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BA191 (26E80)
+                :columns: auto
+
+            .. grid-item:: 移动类型 陸宇 (空陸)
+                :columns: auto
+
+
+            .. grid-item:: 大小 L
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆A→B (A)海C宇B (A)
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`藤原忍 <srw4_pilots_shinobu_fujiwara>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_12.png
+                :columns: auto
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 4300
-        | 我军偏差值 54.44(54.43)
-        | 整体偏差值 46.56(46.56)
-        | EN 200
-        | 我军偏差值 56.67(56.63)
-        | 整体偏差值 52.48(52.47)
-        | 装甲 410 (500)
-        | 我军偏差值 51.91(55.74)
-        | 整体偏差值 50.31(53.69)
-        | 运动性 26 (31)
-        | 我军偏差值 37.87(43.41)
-        | 整体偏差值 40.43(45.46)
-        | 限界 160 (170)
-        | 我军偏差值 42.01(45.06)
-        | 整体偏差值 42.37(45.37)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 4300
+    .. grid-item:: 54
+    .. grid-item:: 47
+    .. grid-item:: EN
+    .. grid-item:: 200
+    .. grid-item:: 57
+    .. grid-item:: 52
+    .. grid-item:: 装甲
+    .. grid-item:: 410 (500)
+    .. grid-item:: 52 (56)
+    .. grid-item:: 50 (54)
     .. grid-item::
-        :columns: auto
-
-        | 编码 43
-        | Snes地址 BA171
-        | 武器首地址 BA191
-        | PS地址 26E60
-        | 类型 陸宇 (空陸)
-        | 移动力 7
-        | 我军偏差值 42.48
-        | 整体偏差值 44.66
-        | 大小 L
-
-        | 经验值 220
-        | 我军偏差值 63.68
-        | 整体偏差值 63.31
-        | 价值 5000
-        | 我军偏差值 52.53
-        | 整体偏差值 50.77
-        | 修理费 7500
-        | 我军偏差值 52.14
-        | 整体偏差值 50.02
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 26 (31)
+    .. grid-item:: 38 (43)
+    .. grid-item:: 40 (45)
+    .. grid-item:: 限界
+    .. grid-item:: 160 (170)
+    .. grid-item:: 42 (45)
+    .. grid-item:: 42 (45)
+    .. grid-item:: 移动力
+    .. grid-item:: 7
+    .. grid-item:: 42
+    .. grid-item:: 45
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆A→B (A)
-        | 海C
-        | 宇B (A)
-
-        .. image:: ../pilots/images/srw4_pilot_12.png
-
-        | 地形参照
-        | :ref:`藤原忍 <srw4_pilots_shinobu_fujiwara>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 220
+    .. grid-item:: 64
+    .. grid-item:: 63
+    .. grid-item:: 价值
+    .. grid-item:: 5000
+    .. grid-item:: 53
+    .. grid-item:: 51
+    .. grid-item:: 修理费
+    .. grid-item:: 7500
+    .. grid-item:: 52
+    .. grid-item:: 50
 
 .. grid:: 
     :gutter: 3
@@ -107,127 +152,81 @@
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ビームランチャーⒷ
         :columns: 3
-
     .. grid-item:: 750
-
+    .. grid-item:: 750
     .. grid-item:: 1~6
-
     .. grid-item:: +12
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海🚫宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: パルスレーザーⓅ
         :columns: 3
-
     .. grid-item:: 880
-
+    .. grid-item:: 880
     .. grid-item:: 1
-
     .. grid-item:: +25
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海🚫宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 連装キャノン砲
         :columns: 3
-
     .. grid-item:: 1020
-
+    .. grid-item:: 1020
     .. grid-item:: 1~6
-
     .. grid-item:: +4
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海B宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 断空剣🤛Ⓟ
         :columns: 3
-
-    .. grid-item:: 1750(2150)
-
+    .. grid-item:: 1750 (2150)
+    .. grid-item:: 1750 (2150)
     .. grid-item:: 1
-
     .. grid-item:: +5 (+15)
-
     .. grid-item:: +20
-
     .. grid-item:: 空A→🚫 (A)陆A→B (A)海A→B宇A→B (A)
         :columns: 3
-
     .. grid-item:: EN 20 (10)
-
-    .. grid-item:: 必要气力 120
-
+    .. grid-item:: 120气力
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 断空砲
         :columns: 3
-
-    .. grid-item:: 3040(3600)
-
+    .. grid-item:: 3040 (3600)
+    .. grid-item:: 3040 (3600)
     .. grid-item:: 2~8
-
     .. grid-item:: -15
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: EN 80 (70)
-
-    .. grid-item:: 必要气力 140
-
+    .. grid-item:: 140气力
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_dancouga_commentBegin:
 
 断空我第四次后期名义上是援助奥古实际上是和コンバトラーV队二选一废弃的。第四次S可以用到最后。在第四次里和机师能力平均下来，没有任何一个地形的适应是A。而且还不能飞，以至于断空剑不加装ミノフスキークラフト就不能对空。
@@ -256,67 +255,112 @@
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_44.png
 
-        登场/加入:第4话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第4话
+                :columns: auto
+
+            .. grid-item:: 编码 44
+                :columns: auto
+
+            .. grid-item:: 地址 BA1A2 (26E91)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BA1C2 (26EB1)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空
+                :columns: auto
+
+
+            .. grid-item:: 大小 S
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆🚫→D (C)海🚫→D宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`藤原忍 <srw4_pilots_shinobu_fujiwara>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_12.png
+                :columns: auto
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 2200
-        | 我军偏差值 45.82(45.81)
-        | 整体偏差值 44.8(44.81)
-        | EN 120
-        | 我军偏差值 33.17(33.15)
-        | 整体偏差值 31.36(31.34)
-        | 装甲 210
-        | 我军偏差值 41.2(41.36)
-        | 整体偏差值 41.76(41.99)
-        | 运动性 42
-        | 我军偏差值 55.88(55.82)
-        | 整体偏差值 56.86(56.63)
-        | 限界 170
-        | 我军偏差值 45.11(45.06)
-        | 整体偏差值 45.39(45.37)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 2200
+    .. grid-item:: 46
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 120
+    .. grid-item:: 33
+    .. grid-item:: 31
+    .. grid-item:: 装甲
+    .. grid-item:: 210
+    .. grid-item:: 41
+    .. grid-item:: 42
     .. grid-item::
-        :columns: auto
-
-        | 编码 44
-        | Snes地址 BA1A2
-        | 武器首地址 BA1C2
-        | PS地址 26E91
-        | 类型 空
-        | 移动力 9
-        | 我军偏差值 53.31
-        | 整体偏差值 55.42
-        | 大小 S
-
-        | 经验值 90
-        | 我军偏差值 42.41
-        | 整体偏差值 43.37
-        | 价值 1000
-        | 我军偏差值 45.02
-        | 整体偏差值 43.76
-        | 修理费 1500
-        | 我军偏差值 45.44
-        | 整体偏差值 44.97
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 42
+    .. grid-item:: 56
+    .. grid-item:: 57
+    .. grid-item:: 限界
+    .. grid-item:: 170
+    .. grid-item:: 45
+    .. grid-item:: 45
+    .. grid-item:: 移动力
+    .. grid-item:: 9
+    .. grid-item:: 53
+    .. grid-item:: 55
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆🚫→D (C)
-        | 海🚫→D
-        | 宇B
-
-        .. image:: ../pilots/images/srw4_pilot_12.png
-
-        | 地形参照
-        | :ref:`藤原忍 <srw4_pilots_shinobu_fujiwara>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 90
+    .. grid-item:: 42
+    .. grid-item:: 43
+    .. grid-item:: 价值
+    .. grid-item:: 1000
+    .. grid-item:: 45
+    .. grid-item:: 44
+    .. grid-item:: 修理费
+    .. grid-item:: 1500
+    .. grid-item:: 45
+    .. grid-item:: 45
 
 .. grid:: 
     :gutter: 3
@@ -326,85 +370,55 @@
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 27ミリ機関砲Ⓟ
         :columns: 3
-
     .. grid-item:: 800
-
+    .. grid-item:: 800
     .. grid-item:: 1
-
     .. grid-item:: +21
-
-    .. grid-item:: 
-
+    .. grid-item:: 0
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 12
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ４連ミサイル⚔
         :columns: 3
-
     .. grid-item:: 970
-
+    .. grid-item:: 970
     .. grid-item:: 1~6
-
     .. grid-item:: -8
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 爆雷⚔Ⓟ
         :columns: 3
-
     .. grid-item:: 1200
-
+    .. grid-item:: 1200
     .. grid-item:: 1
-
     .. grid-item:: +19
-
     .. grid-item:: -10
-
     .. grid-item:: 空🚫陆A海A宇🚫
         :columns: 3
-
     .. grid-item:: 残弹 2
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_eagle_fighter_n_commentBegin:
 
 鹰战机的兽形态，和断空我共享机体属性改造段数所以如果不打算用コンバトラV的话，入手之后可以开始改造。第四次因为断空我不能飞，所以如果不是要看剧情的话，通常都是保留コンバトラーV而放弃断空我的。第四次S没有和コンバトラーV二选一的问题，断空我能飞了，武器也变强了，但是忍的加速换了魂，移动力又成了问题……
@@ -425,67 +439,112 @@
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_45.png
 
-        登场/加入:第4话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第4话
+                :columns: auto
+
+            .. grid-item:: 编码 45
+                :columns: auto
+
+            .. grid-item:: 地址 BA1CD (26EBC)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BA1ED (26EDC)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空
+                :columns: auto
+
+
+            .. grid-item:: 大小 S
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆🚫→D (C)海🚫→D宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`藤原忍 <srw4_pilots_shinobu_fujiwara>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_12.png
+                :columns: auto
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 2200
-        | 我军偏差值 45.82(45.81)
-        | 整体偏差值 44.8(44.81)
-        | EN 120
-        | 我军偏差值 33.17(33.15)
-        | 整体偏差值 31.36(31.34)
-        | 装甲 220
-        | 我军偏差值 41.74(41.86)
-        | 整体偏差值 42.19(42.4)
-        | 运动性 44
-        | 我军偏差值 58.13(58.08)
-        | 整体偏差值 58.91(58.66)
-        | 限界 190
-        | 我军偏差值 51.3(51.25)
-        | 整体偏差值 51.44(51.4)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 2200
+    .. grid-item:: 46
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 120
+    .. grid-item:: 33
+    .. grid-item:: 31
+    .. grid-item:: 装甲
+    .. grid-item:: 220
+    .. grid-item:: 42
+    .. grid-item:: 42
     .. grid-item::
-        :columns: auto
-
-        | 编码 45
-        | Snes地址 BA1CD
-        | 武器首地址 BA1ED
-        | PS地址 26EBC
-        | 类型 空
-        | 移动力 10
-        | 我军偏差值 58.72
-        | 整体偏差值 60.81
-        | 大小 S
-
-        | 经验值 90
-        | 我军偏差值 42.41
-        | 整体偏差值 43.37
-        | 价值 1000
-        | 我军偏差值 45.02
-        | 整体偏差值 43.76
-        | 修理费 1500
-        | 我军偏差值 45.44
-        | 整体偏差值 44.97
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 44
+    .. grid-item:: 58
+    .. grid-item:: 59
+    .. grid-item:: 限界
+    .. grid-item:: 190
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 移动力
+    .. grid-item:: 10
+    .. grid-item:: 59
+    .. grid-item:: 61
     .. grid-item::
-        :columns: auto
-
-        | 空A
-        | 陆🚫→D (C)
-        | 海🚫→D
-        | 宇B
-
-        .. image:: ../pilots/images/srw4_pilot_12.png
-
-        | 地形参照
-        | :ref:`藤原忍 <srw4_pilots_shinobu_fujiwara>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 90
+    .. grid-item:: 42
+    .. grid-item:: 43
+    .. grid-item:: 价值
+    .. grid-item:: 1000
+    .. grid-item:: 45
+    .. grid-item:: 44
+    .. grid-item:: 修理费
+    .. grid-item:: 1500
+    .. grid-item:: 45
+    .. grid-item:: 45
 
 .. grid:: 
     :gutter: 3
@@ -495,106 +554,68 @@
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 27ミリ機関砲Ⓟ
         :columns: 3
-
     .. grid-item:: 800
-
+    .. grid-item:: 800
     .. grid-item:: 1
-
     .. grid-item:: +21
-
-    .. grid-item:: 
-
+    .. grid-item:: 0
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 12
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ４連ミサイル⚔
         :columns: 3
-
     .. grid-item:: 970
-
+    .. grid-item:: 970
     .. grid-item:: 1~6
-
     .. grid-item:: -8
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 爆雷⚔Ⓟ
         :columns: 3
-
     .. grid-item:: 1200
-
+    .. grid-item:: 1200
     .. grid-item:: 1
-
     .. grid-item:: +19
-
     .. grid-item:: -10
-
     .. grid-item:: 空🚫陆A海A宇🚫
         :columns: 3
-
     .. grid-item:: 残弹 2
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 突撃Ⓟ
         :columns: 3
-
     .. grid-item:: 1540
-
+    .. grid-item:: 1540
     .. grid-item:: 1
-
     .. grid-item:: +12
-
     .. grid-item:: +30
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: EN 20
-
-    .. grid-item:: 必要气力 120
-
+    .. grid-item:: 120气力
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_eagle_fighter_a_commentBegin:
 
 变形成突击形态需要120气力。和イーグルファイターN比起来运动性、装甲、限界、移动力都有上升，并且增加了一个突击武器。移动力有10，可以作为探宝机。
@@ -615,67 +636,112 @@
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_46.png
 
-        登场/加入:第4话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第4话
+                :columns: auto
+
+            .. grid-item:: 编码 46
+                :columns: auto
+
+            .. grid-item:: 地址 BA1FB (26EEA)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BA21B (26F0A)
+                :columns: auto
+
+            .. grid-item:: 移动类型 陸宇
+                :columns: auto
+
+
+            .. grid-item:: 大小 S
+                :columns: auto
+
+            .. grid-item:: 地形适应 空🚫→C陆A→B (A)海D→C宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`藤原忍 <srw4_pilots_shinobu_fujiwara>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_12.png
+                :columns: auto
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 2200
-        | 我军偏差值 45.82(45.81)
-        | 整体偏差值 44.8(44.81)
-        | EN 120
-        | 我军偏差值 33.17(33.15)
-        | 整体偏差值 31.36(31.34)
-        | 装甲 210
-        | 我军偏差值 41.2(41.36)
-        | 整体偏差值 41.76(41.99)
-        | 运动性 42
-        | 我军偏差值 55.88(55.82)
-        | 整体偏差值 56.86(56.63)
-        | 限界 180
-        | 我军偏差值 48.2(48.16)
-        | 整体偏差值 48.42(48.38)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 2200
+    .. grid-item:: 46
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 120
+    .. grid-item:: 33
+    .. grid-item:: 31
+    .. grid-item:: 装甲
+    .. grid-item:: 210
+    .. grid-item:: 41
+    .. grid-item:: 42
     .. grid-item::
-        :columns: auto
-
-        | 编码 46
-        | Snes地址 BA1FB
-        | 武器首地址 BA21B
-        | PS地址 26EEA
-        | 类型 陸宇
-        | 移动力 7
-        | 我军偏差值 42.48
-        | 整体偏差值 44.66
-        | 大小 S
-
-        | 经验值 90
-        | 我军偏差值 42.41
-        | 整体偏差值 43.37
-        | 价值 1000
-        | 我军偏差值 45.02
-        | 整体偏差值 43.76
-        | 修理费 1500
-        | 我军偏差值 45.44
-        | 整体偏差值 44.97
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 42
+    .. grid-item:: 56
+    .. grid-item:: 57
+    .. grid-item:: 限界
+    .. grid-item:: 180
+    .. grid-item:: 48
+    .. grid-item:: 48
+    .. grid-item:: 移动力
+    .. grid-item:: 7
+    .. grid-item:: 42
+    .. grid-item:: 45
     .. grid-item::
-        :columns: auto
-
-        | 空🚫→C
-        | 陆A→B (A)
-        | 海D→C
-        | 宇B
-
-        .. image:: ../pilots/images/srw4_pilot_12.png
-
-        | 地形参照
-        | :ref:`藤原忍 <srw4_pilots_shinobu_fujiwara>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 90
+    .. grid-item:: 42
+    .. grid-item:: 43
+    .. grid-item:: 价值
+    .. grid-item:: 1000
+    .. grid-item:: 45
+    .. grid-item:: 44
+    .. grid-item:: 修理费
+    .. grid-item:: 1500
+    .. grid-item:: 45
+    .. grid-item:: 45
 
 .. grid:: 
     :gutter: 3
@@ -685,105 +751,68 @@
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 格闘🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 720
-
+    .. grid-item:: 720
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A→🚫陆A→B (A)海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 27ミリ機関砲Ⓟ
         :columns: 3
-
     .. grid-item:: 800
-
+    .. grid-item:: 800
     .. grid-item:: 1
-
     .. grid-item:: +21
-
-    .. grid-item:: 
-
+    .. grid-item:: 0
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 12
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ４連ミサイル⚔
         :columns: 3
-
     .. grid-item:: 970
-
+    .. grid-item:: 970
     .. grid-item:: 1~6
-
     .. grid-item:: -8
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: キャノン砲
         :columns: 3
-
     .. grid-item:: 1100
-
+    .. grid-item:: 1100
     .. grid-item:: 1~6
-
     .. grid-item:: 
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海B宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_eagle_fighter_h_commentBegin:
 
 鹰战机的人形态。和イーグルファイターN比起来运动性增加，但是移动力下降。飞行状态下爆雷用完了可以换这个形态，多了两门武器。
@@ -804,67 +833,112 @@
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_47.png
 
-        登场/加入:第4话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第4话
+                :columns: auto
+
+            .. grid-item:: 编码 47
+                :columns: auto
+
+            .. grid-item:: 地址 BA229 (26F18)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BA249 (26F38)
+                :columns: auto
+
+            .. grid-item:: 移动类型 陸宇
+                :columns: auto
+
+
+            .. grid-item:: 大小 M
+                :columns: auto
+
+            .. grid-item:: 地形适应 空🚫→D陆A海C宇C
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`結城沙羅 <srw4_pilots_sara_yuki>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_13.png
+                :columns: auto
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 2600
-        | 我军偏差值 47.46(47.45)
-        | 整体偏差值 45.13(45.14)
-        | EN 140
-        | 我军偏差值 39.05(39.02)
-        | 整体偏差值 36.64(36.62)
-        | 装甲 290
-        | 我军偏差值 45.49(45.33)
-        | 整体偏差值 45.18(45.22)
-        | 运动性 40
-        | 我军偏差值 53.63(53.57)
-        | 整体偏差值 54.81(54.6)
-        | 限界 170
-        | 我军偏差值 45.11(45.06)
-        | 整体偏差值 45.39(45.37)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 2600
+    .. grid-item:: 47
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 140
+    .. grid-item:: 39
+    .. grid-item:: 37
+    .. grid-item:: 装甲
+    .. grid-item:: 290
+    .. grid-item:: 45
+    .. grid-item:: 45
     .. grid-item::
-        :columns: auto
-
-        | 编码 47
-        | Snes地址 BA229
-        | 武器首地址 BA249
-        | PS地址 26F18
-        | 类型 陸宇
-        | 移动力 6
-        | 我军偏差值 37.07
-        | 整体偏差值 39.27
-        | 大小 M
-
-        | 经验值 90
-        | 我军偏差值 42.41
-        | 整体偏差值 43.37
-        | 价值 1000
-        | 我军偏差值 45.02
-        | 整体偏差值 43.76
-        | 修理费 1700
-        | 我军偏差值 45.66
-        | 整体偏差值 45.14
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 40
+    .. grid-item:: 54
+    .. grid-item:: 55
+    .. grid-item:: 限界
+    .. grid-item:: 170
+    .. grid-item:: 45
+    .. grid-item:: 45
+    .. grid-item:: 移动力
+    .. grid-item:: 6
+    .. grid-item:: 37
+    .. grid-item:: 39
     .. grid-item::
-        :columns: auto
-
-        | 空🚫→D
-        | 陆A
-        | 海C
-        | 宇C
-
-        .. image:: ../pilots/images/srw4_pilot_13.png
-
-        | 地形参照
-        | :ref:`結城沙羅 <srw4_pilots_sara_yuki>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 90
+    .. grid-item:: 42
+    .. grid-item:: 43
+    .. grid-item:: 价值
+    .. grid-item:: 1000
+    .. grid-item:: 45
+    .. grid-item:: 44
+    .. grid-item:: 修理费
+    .. grid-item:: 1700
+    .. grid-item:: 46
+    .. grid-item:: 45
 
 .. grid:: 
     :gutter: 3
@@ -874,65 +948,42 @@
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ５連ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
-
     .. grid-item:: 990
-
+    .. grid-item:: 990
     .. grid-item:: 1~6
-
     .. grid-item:: -7
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 高収束ﾋﾞｰﾑ連射砲Ⓑ
         :columns: 3
-
     .. grid-item:: 1020
-
+    .. grid-item:: 1020
     .. grid-item:: 1~5
-
     .. grid-item:: +2
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海🚫宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_land_cougar_n_commentBegin:
 
 豹战车的兽形态。只有两个射击武器，攻击力和机动战士类似。不知道为什么射程比虎战车要短……
@@ -953,67 +1004,112 @@
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_48.png
 
-        登场/加入:第4话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第4话
+                :columns: auto
+
+            .. grid-item:: 编码 48
+                :columns: auto
+
+            .. grid-item:: 地址 BA251 (26F40)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BA271 (26F60)
+                :columns: auto
+
+            .. grid-item:: 移动类型 陸宇
+                :columns: auto
+
+
+            .. grid-item:: 大小 M
+                :columns: auto
+
+            .. grid-item:: 地形适应 空🚫→D陆A海C宇C
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`結城沙羅 <srw4_pilots_sara_yuki>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_13.png
+                :columns: auto
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 2600
-        | 我军偏差值 47.46(47.45)
-        | 整体偏差值 45.13(45.14)
-        | EN 140
-        | 我军偏差值 39.05(39.02)
-        | 整体偏差值 36.64(36.62)
-        | 装甲 260
-        | 我军偏差值 43.88(43.84)
-        | 整体偏差值 43.9(44.01)
-        | 运动性 42
-        | 我军偏差值 55.88(55.82)
-        | 整体偏差值 56.86(56.63)
-        | 限界 190
-        | 我军偏差值 51.3(51.25)
-        | 整体偏差值 51.44(51.4)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 2600
+    .. grid-item:: 47
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 140
+    .. grid-item:: 39
+    .. grid-item:: 37
+    .. grid-item:: 装甲
+    .. grid-item:: 260
+    .. grid-item:: 44
+    .. grid-item:: 44
     .. grid-item::
-        :columns: auto
-
-        | 编码 48
-        | Snes地址 BA251
-        | 武器首地址 BA271
-        | PS地址 26F40
-        | 类型 陸宇
-        | 移动力 9
-        | 我军偏差值 53.31
-        | 整体偏差值 55.42
-        | 大小 M
-
-        | 经验值 90
-        | 我军偏差值 42.41
-        | 整体偏差值 43.37
-        | 价值 1000
-        | 我军偏差值 45.02
-        | 整体偏差值 43.76
-        | 修理费 1700
-        | 我军偏差值 45.66
-        | 整体偏差值 45.14
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 42
+    .. grid-item:: 56
+    .. grid-item:: 57
+    .. grid-item:: 限界
+    .. grid-item:: 190
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 移动力
+    .. grid-item:: 9
+    .. grid-item:: 53
+    .. grid-item:: 55
     .. grid-item::
-        :columns: auto
-
-        | 空🚫→D
-        | 陆A
-        | 海C
-        | 宇C
-
-        .. image:: ../pilots/images/srw4_pilot_13.png
-
-        | 地形参照
-        | :ref:`結城沙羅 <srw4_pilots_sara_yuki>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 90
+    .. grid-item:: 42
+    .. grid-item:: 43
+    .. grid-item:: 价值
+    .. grid-item:: 1000
+    .. grid-item:: 45
+    .. grid-item:: 44
+    .. grid-item:: 修理费
+    .. grid-item:: 1700
+    .. grid-item:: 46
+    .. grid-item:: 45
 
 .. grid:: 
     :gutter: 3
@@ -1023,86 +1119,55 @@
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ５連ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
-
     .. grid-item:: 990
-
+    .. grid-item:: 990
     .. grid-item:: 1~6
-
     .. grid-item:: -7
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 高収束ﾋﾞｰﾑ連射砲Ⓑ
         :columns: 3
-
     .. grid-item:: 1020
-
+    .. grid-item:: 1020
     .. grid-item:: 1~5
-
     .. grid-item:: +2
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海🚫宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: かみつき🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1500
-
+    .. grid-item:: 1500
     .. grid-item:: 1
-
     .. grid-item:: +10
-
     .. grid-item:: +30
-
     .. grid-item:: 空A→🚫陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 20
-
-    .. grid-item:: 必要气力 120
-
+    .. grid-item:: 120气力
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_land_cougar_a_commentBegin:
 
 变形成突击形态需要120气力。和ランドクーガーH比起来，限界、移动力都有所上升。格斗武器有所加强。
@@ -1123,67 +1188,112 @@
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_49.png
 
-        登场/加入:第4话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第4话
+                :columns: auto
+
+            .. grid-item:: 编码 49
+                :columns: auto
+
+            .. grid-item:: 地址 BA27C (26F6B)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BA29C (26F8B)
+                :columns: auto
+
+            .. grid-item:: 移动类型 陸宇
+                :columns: auto
+
+
+            .. grid-item:: 大小 M
+                :columns: auto
+
+            .. grid-item:: 地形适应 空🚫→D陆A海C宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`結城沙羅 <srw4_pilots_sara_yuki>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_13.png
+                :columns: auto
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 2600
-        | 我军偏差值 47.46(47.45)
-        | 整体偏差值 45.13(45.14)
-        | EN 140
-        | 我军偏差值 39.05(39.02)
-        | 整体偏差值 36.64(36.62)
-        | 装甲 260
-        | 我军偏差值 43.88(43.84)
-        | 整体偏差值 43.9(44.01)
-        | 运动性 42
-        | 我军偏差值 55.88(55.82)
-        | 整体偏差值 56.86(56.63)
-        | 限界 180
-        | 我军偏差值 48.2(48.16)
-        | 整体偏差值 48.42(48.38)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 2600
+    .. grid-item:: 47
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 140
+    .. grid-item:: 39
+    .. grid-item:: 37
+    .. grid-item:: 装甲
+    .. grid-item:: 260
+    .. grid-item:: 44
+    .. grid-item:: 44
     .. grid-item::
-        :columns: auto
-
-        | 编码 49
-        | Snes地址 BA27C
-        | 武器首地址 BA29C
-        | PS地址 26F6B
-        | 类型 陸宇
-        | 移动力 7
-        | 我军偏差值 42.48
-        | 整体偏差值 44.66
-        | 大小 M
-
-        | 经验值 90
-        | 我军偏差值 42.41
-        | 整体偏差值 43.37
-        | 价值 1000
-        | 我军偏差值 45.02
-        | 整体偏差值 43.76
-        | 修理费 1700
-        | 我军偏差值 45.66
-        | 整体偏差值 45.14
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 42
+    .. grid-item:: 56
+    .. grid-item:: 57
+    .. grid-item:: 限界
+    .. grid-item:: 180
+    .. grid-item:: 48
+    .. grid-item:: 48
+    .. grid-item:: 移动力
+    .. grid-item:: 7
+    .. grid-item:: 42
+    .. grid-item:: 45
     .. grid-item::
-        :columns: auto
-
-        | 空🚫→D
-        | 陆A
-        | 海C
-        | 宇B
-
-        .. image:: ../pilots/images/srw4_pilot_13.png
-
-        | 地形参照
-        | :ref:`結城沙羅 <srw4_pilots_sara_yuki>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 90
+    .. grid-item:: 42
+    .. grid-item:: 43
+    .. grid-item:: 价值
+    .. grid-item:: 1000
+    .. grid-item:: 45
+    .. grid-item:: 44
+    .. grid-item:: 修理费
+    .. grid-item:: 1700
+    .. grid-item:: 46
+    .. grid-item:: 45
 
 .. grid:: 
     :gutter: 3
@@ -1193,85 +1303,55 @@
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 格闘🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 720
-
+    .. grid-item:: 720
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A→🚫陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ５連ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
-
     .. grid-item:: 990
-
+    .. grid-item:: 990
     .. grid-item:: 1~6
-
     .. grid-item:: -7
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 高収束ﾋﾞｰﾑ連射砲Ⓑ
         :columns: 3
-
     .. grid-item:: 1020
-
+    .. grid-item:: 1020
     .. grid-item:: 1~5
-
     .. grid-item:: +2
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海🚫宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_land_cougar_h_commentBegin:
 
 豹战车的人形态，和ランドクーガーN比起来，运动性、限界和移动力有所上升，还多了门格斗武器，但是装甲有所减弱。
@@ -1292,67 +1372,112 @@
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_4A.png
 
-        登场/加入:第4话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第4话
+                :columns: auto
+
+            .. grid-item:: 编码 4A
+                :columns: auto
+
+            .. grid-item:: 地址 BA2A7 (26F96)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BA2C7 (26FB6)
+                :columns: auto
+
+            .. grid-item:: 移动类型 陸宇
+                :columns: auto
+
+
+            .. grid-item:: 大小 M
+                :columns: auto
+
+            .. grid-item:: 地形适应 空🚫→D陆A海C宇C
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`式部雅人 <srw4_pilots_masato_shikibu>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_14.png
+                :columns: auto
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 2600
-        | 我军偏差值 47.46(47.45)
-        | 整体偏差值 45.13(45.14)
-        | EN 140
-        | 我军偏差值 39.05(39.02)
-        | 整体偏差值 36.64(36.62)
-        | 装甲 290
-        | 我军偏差值 45.49(45.33)
-        | 整体偏差值 45.18(45.22)
-        | 运动性 40
-        | 我军偏差值 53.63(53.57)
-        | 整体偏差值 54.81(54.6)
-        | 限界 170
-        | 我军偏差值 45.11(45.06)
-        | 整体偏差值 45.39(45.37)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 2600
+    .. grid-item:: 47
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 140
+    .. grid-item:: 39
+    .. grid-item:: 37
+    .. grid-item:: 装甲
+    .. grid-item:: 290
+    .. grid-item:: 45
+    .. grid-item:: 45
     .. grid-item::
-        :columns: auto
-
-        | 编码 4A
-        | Snes地址 BA2A7
-        | 武器首地址 BA2C7
-        | PS地址 26F96
-        | 类型 陸宇
-        | 移动力 6
-        | 我军偏差值 37.07
-        | 整体偏差值 39.27
-        | 大小 M
-
-        | 经验值 90
-        | 我军偏差值 42.41
-        | 整体偏差值 43.37
-        | 价值 1000
-        | 我军偏差值 45.02
-        | 整体偏差值 43.76
-        | 修理费 1700
-        | 我军偏差值 45.66
-        | 整体偏差值 45.14
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 40
+    .. grid-item:: 54
+    .. grid-item:: 55
+    .. grid-item:: 限界
+    .. grid-item:: 170
+    .. grid-item:: 45
+    .. grid-item:: 45
+    .. grid-item:: 移动力
+    .. grid-item:: 6
+    .. grid-item:: 37
+    .. grid-item:: 39
     .. grid-item::
-        :columns: auto
-
-        | 空🚫→D
-        | 陆A
-        | 海C
-        | 宇C
-
-        .. image:: ../pilots/images/srw4_pilot_14.png
-
-        | 地形参照
-        | :ref:`式部雅人 <srw4_pilots_masato_shikibu>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 90
+    .. grid-item:: 42
+    .. grid-item:: 43
+    .. grid-item:: 价值
+    .. grid-item:: 1000
+    .. grid-item:: 45
+    .. grid-item:: 44
+    .. grid-item:: 修理费
+    .. grid-item:: 1700
+    .. grid-item:: 46
+    .. grid-item:: 45
 
 .. grid:: 
     :gutter: 3
@@ -1362,65 +1487,42 @@
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ４連ミサイル⚔
         :columns: 3
-
     .. grid-item:: 970
-
+    .. grid-item:: 970
     .. grid-item:: 1~6
-
     .. grid-item:: -8
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 105ﾐﾘライフル砲
         :columns: 3
-
     .. grid-item:: 1070
-
+    .. grid-item:: 1070
     .. grid-item:: 1~7
-
     .. grid-item:: 
-
     .. grid-item:: 
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_land_liger_n_commentBegin:
 
 虎豹战车的兽形态。基本上就是射程长一点的豹战车。
@@ -1441,67 +1543,112 @@
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_4B.png
 
-        登场/加入:第4话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第4话
+                :columns: auto
+
+            .. grid-item:: 编码 4B
+                :columns: auto
+
+            .. grid-item:: 地址 BA2CF (26FBE)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BA2EF (26FDE)
+                :columns: auto
+
+            .. grid-item:: 移动类型 陸宇
+                :columns: auto
+
+
+            .. grid-item:: 大小 M
+                :columns: auto
+
+            .. grid-item:: 地形适应 空🚫→D陆A海C宇C
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`式部雅人 <srw4_pilots_masato_shikibu>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_14.png
+                :columns: auto
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 2600
-        | 我军偏差值 47.46(47.45)
-        | 整体偏差值 45.13(45.14)
-        | EN 140
-        | 我军偏差值 39.05(39.02)
-        | 整体偏差值 36.64(36.62)
-        | 装甲 260
-        | 我军偏差值 43.88(43.84)
-        | 整体偏差值 43.9(44.01)
-        | 运动性 42
-        | 我军偏差值 55.88(55.82)
-        | 整体偏差值 56.86(56.63)
-        | 限界 190
-        | 我军偏差值 51.3(51.25)
-        | 整体偏差值 51.44(51.4)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 2600
+    .. grid-item:: 47
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 140
+    .. grid-item:: 39
+    .. grid-item:: 37
+    .. grid-item:: 装甲
+    .. grid-item:: 260
+    .. grid-item:: 44
+    .. grid-item:: 44
     .. grid-item::
-        :columns: auto
-
-        | 编码 4B
-        | Snes地址 BA2CF
-        | 武器首地址 BA2EF
-        | PS地址 26FBE
-        | 类型 陸宇
-        | 移动力 9
-        | 我军偏差值 53.31
-        | 整体偏差值 55.42
-        | 大小 M
-
-        | 经验值 90
-        | 我军偏差值 42.41
-        | 整体偏差值 43.37
-        | 价值 1000
-        | 我军偏差值 45.02
-        | 整体偏差值 43.76
-        | 修理费 1700
-        | 我军偏差值 45.66
-        | 整体偏差值 45.14
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 42
+    .. grid-item:: 56
+    .. grid-item:: 57
+    .. grid-item:: 限界
+    .. grid-item:: 190
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 移动力
+    .. grid-item:: 9
+    .. grid-item:: 53
+    .. grid-item:: 55
     .. grid-item::
-        :columns: auto
-
-        | 空🚫→D
-        | 陆A
-        | 海C
-        | 宇C
-
-        .. image:: ../pilots/images/srw4_pilot_14.png
-
-        | 地形参照
-        | :ref:`式部雅人 <srw4_pilots_masato_shikibu>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 90
+    .. grid-item:: 42
+    .. grid-item:: 43
+    .. grid-item:: 价值
+    .. grid-item:: 1000
+    .. grid-item:: 45
+    .. grid-item:: 44
+    .. grid-item:: 修理费
+    .. grid-item:: 1700
+    .. grid-item:: 46
+    .. grid-item:: 45
 
 .. grid:: 
     :gutter: 3
@@ -1511,86 +1658,55 @@
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ４連ミサイル⚔
         :columns: 3
-
     .. grid-item:: 970
-
+    .. grid-item:: 970
     .. grid-item:: 1~6
-
     .. grid-item:: -8
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 105ﾐﾘライフル砲
         :columns: 3
-
     .. grid-item:: 1070
-
+    .. grid-item:: 1070
     .. grid-item:: 1~7
-
     .. grid-item:: 
-
     .. grid-item:: 
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: かみつき🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1500
-
+    .. grid-item:: 1500
     .. grid-item:: 1
-
     .. grid-item:: +10
-
     .. grid-item:: +30
-
     .. grid-item:: 空A→🚫陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 20
-
-    .. grid-item:: 必要气力 120
-
+    .. grid-item:: 120气力
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_land_liger_a_commentBegin:
 
 变形成突击形态需要120气力。基本上就是射程长一点的豹战车。
@@ -1611,67 +1727,112 @@
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_4C.png
 
-        登场/加入:第4话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第4话
+                :columns: auto
+
+            .. grid-item:: 编码 4C
+                :columns: auto
+
+            .. grid-item:: 地址 BA2FA (26FE9)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BA31A (27009)
+                :columns: auto
+
+            .. grid-item:: 移动类型 陸宇
+                :columns: auto
+
+
+            .. grid-item:: 大小 M
+                :columns: auto
+
+            .. grid-item:: 地形适应 空🚫→D陆A海C宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`式部雅人 <srw4_pilots_masato_shikibu>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_14.png
+                :columns: auto
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 2600
-        | 我军偏差值 47.46(47.45)
-        | 整体偏差值 45.13(45.14)
-        | EN 140
-        | 我军偏差值 39.05(39.02)
-        | 整体偏差值 36.64(36.62)
-        | 装甲 260
-        | 我军偏差值 43.88(43.84)
-        | 整体偏差值 43.9(44.01)
-        | 运动性 42
-        | 我军偏差值 55.88(55.82)
-        | 整体偏差值 56.86(56.63)
-        | 限界 180
-        | 我军偏差值 48.2(48.16)
-        | 整体偏差值 48.42(48.38)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 2600
+    .. grid-item:: 47
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 140
+    .. grid-item:: 39
+    .. grid-item:: 37
+    .. grid-item:: 装甲
+    .. grid-item:: 260
+    .. grid-item:: 44
+    .. grid-item:: 44
     .. grid-item::
-        :columns: auto
-
-        | 编码 4C
-        | Snes地址 BA2FA
-        | 武器首地址 BA31A
-        | PS地址 26FE9
-        | 类型 陸宇
-        | 移动力 7
-        | 我军偏差值 42.48
-        | 整体偏差值 44.66
-        | 大小 M
-
-        | 经验值 90
-        | 我军偏差值 42.41
-        | 整体偏差值 43.37
-        | 价值 1000
-        | 我军偏差值 45.02
-        | 整体偏差值 43.76
-        | 修理费 1700
-        | 我军偏差值 45.66
-        | 整体偏差值 45.14
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 42
+    .. grid-item:: 56
+    .. grid-item:: 57
+    .. grid-item:: 限界
+    .. grid-item:: 180
+    .. grid-item:: 48
+    .. grid-item:: 48
+    .. grid-item:: 移动力
+    .. grid-item:: 7
+    .. grid-item:: 42
+    .. grid-item:: 45
     .. grid-item::
-        :columns: auto
-
-        | 空🚫→D
-        | 陆A
-        | 海C
-        | 宇B
-
-        .. image:: ../pilots/images/srw4_pilot_14.png
-
-        | 地形参照
-        | :ref:`式部雅人 <srw4_pilots_masato_shikibu>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 90
+    .. grid-item:: 42
+    .. grid-item:: 43
+    .. grid-item:: 价值
+    .. grid-item:: 1000
+    .. grid-item:: 45
+    .. grid-item:: 44
+    .. grid-item:: 修理费
+    .. grid-item:: 1700
+    .. grid-item:: 46
+    .. grid-item:: 45
 
 .. grid:: 
     :gutter: 3
@@ -1681,85 +1842,55 @@
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 格闘🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 720
-
+    .. grid-item:: 720
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A→🚫陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ４連ミサイル⚔
         :columns: 3
-
     .. grid-item:: 970
-
+    .. grid-item:: 970
     .. grid-item:: 1~6
-
     .. grid-item:: -8
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 105ﾐﾘライフル砲
         :columns: 3
-
     .. grid-item:: 1070
-
+    .. grid-item:: 1070
     .. grid-item:: 1~7
-
     .. grid-item:: 
-
     .. grid-item:: 
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 6
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_land_liger_h_commentBegin:
 
 虎豹战车的人形态。基本上就是射程长一点的豹战车。
@@ -1780,67 +1911,112 @@
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_4D.png
 
-        登场/加入:第4话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第4话
+                :columns: auto
+
+            .. grid-item:: 编码 4D
+                :columns: auto
+
+            .. grid-item:: 地址 BA325 (27014)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BA345 (27034)
+                :columns: auto
+
+            .. grid-item:: 移动类型 陸宇
+                :columns: auto
+
+
+            .. grid-item:: 大小 M
+                :columns: auto
+
+            .. grid-item:: 地形适应 空🚫→D陆A海C宇C
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`司馬亮 <srw4_pilots_ryo_shiba>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_15.png
+                :columns: auto
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 3300
-        | 我军偏差值 50.34(50.33)
-        | 整体偏差值 45.72(45.73)
-        | EN 170
-        | 我军偏差值 47.86(47.83)
-        | 整体偏差值 44.56(44.54)
-        | 装甲 330
-        | 我军偏差值 47.63(47.31)
-        | 整体偏差值 46.89(46.83)
-        | 运动性 30
-        | 我军偏差值 42.37(42.28)
-        | 整体偏差值 44.54(44.44)
-        | 限界 170
-        | 我军偏差值 45.11(45.06)
-        | 整体偏差值 45.39(45.37)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 3300
+    .. grid-item:: 50
+    .. grid-item:: 46
+    .. grid-item:: EN
+    .. grid-item:: 170
+    .. grid-item:: 48
+    .. grid-item:: 45
+    .. grid-item:: 装甲
+    .. grid-item:: 330
+    .. grid-item:: 48 (47)
+    .. grid-item:: 47
     .. grid-item::
-        :columns: auto
-
-        | 编码 4D
-        | Snes地址 BA325
-        | 武器首地址 BA345
-        | PS地址 27014
-        | 类型 陸宇
-        | 移动力 6
-        | 我军偏差值 37.07
-        | 整体偏差值 39.27
-        | 大小 M
-
-        | 经验值 100
-        | 我军偏差值 44.05
-        | 整体偏差值 44.91
-        | 价值 1200
-        | 我军偏差值 45.4
-        | 整体偏差值 44.11
-        | 修理费 2000
-        | 我军偏差值 46
-        | 整体偏差值 45.39
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 30
+    .. grid-item:: 42
+    .. grid-item:: 45 (44)
+    .. grid-item:: 限界
+    .. grid-item:: 170
+    .. grid-item:: 45
+    .. grid-item:: 45
+    .. grid-item:: 移动力
+    .. grid-item:: 6
+    .. grid-item:: 37
+    .. grid-item:: 39
     .. grid-item::
-        :columns: auto
-
-        | 空🚫→D
-        | 陆A
-        | 海C
-        | 宇C
-
-        .. image:: ../pilots/images/srw4_pilot_15.png
-
-        | 地形参照
-        | :ref:`司馬亮 <srw4_pilots_ryo_shiba>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 100
+    .. grid-item:: 44
+    .. grid-item:: 45
+    .. grid-item:: 价值
+    .. grid-item:: 1200
+    .. grid-item:: 45
+    .. grid-item:: 44
+    .. grid-item:: 修理费
+    .. grid-item:: 2000
+    .. grid-item:: 46
+    .. grid-item:: 45
 
 .. grid:: 
     :gutter: 3
@@ -1850,105 +2026,68 @@
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾛｹｯﾄﾗﾝﾁｬｰ⚔
         :columns: 3
-
     .. grid-item:: 980
-
+    .. grid-item:: 980
     .. grid-item:: 1~5
-
     .. grid-item:: -10
-
-    .. grid-item:: 
-
+    .. grid-item:: 0
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 4連対空ﾊﾟﾙｽﾚｰｻﾞ-
         :columns: 3
-
     .. grid-item:: 1200
-
+    .. grid-item:: 1200
     .. grid-item:: 1~5
-
     .. grid-item:: -7
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆🚫海🚫宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 200ミリ榴弾砲
         :columns: 3
-
     .. grid-item:: 1300
-
+    .. grid-item:: 1300
     .. grid-item:: 2~7
-
     .. grid-item:: -18
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ４連大口径砲
         :columns: 3
-
     .. grid-item:: 1320
-
+    .. grid-item:: 1320
     .. grid-item:: 1~6
-
     .. grid-item:: -12
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_big_moth_n_commentBegin:
 
 象战车的兽形态。很奇怪地所有武器都是远程。
@@ -1969,67 +2108,112 @@
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_4E.png
 
-        登场/加入:第4话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第4话
+                :columns: auto
+
+            .. grid-item:: 编码 4E
+                :columns: auto
+
+            .. grid-item:: 地址 BA353 (27042)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BA373 (27062)
+                :columns: auto
+
+            .. grid-item:: 移动类型 陸宇
+                :columns: auto
+
+
+            .. grid-item:: 大小 M
+                :columns: auto
+
+            .. grid-item:: 地形适应 空🚫→D陆A海C宇C
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`司馬亮 <srw4_pilots_ryo_shiba>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_15.png
+                :columns: auto
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 3300
-        | 我军偏差值 50.34(50.33)
-        | 整体偏差值 45.72(45.73)
-        | EN 170
-        | 我军偏差值 47.86(47.83)
-        | 整体偏差值 44.56(44.54)
-        | 装甲 300
-        | 我军偏差值 46.02(45.83)
-        | 整体偏差值 45.61(45.62)
-        | 运动性 34
-        | 我军偏差值 46.87(46.79)
-        | 整体偏差值 48.65(48.5)
-        | 限界 190
-        | 我军偏差值 51.3(51.25)
-        | 整体偏差值 51.44(51.4)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 3300
+    .. grid-item:: 50
+    .. grid-item:: 46
+    .. grid-item:: EN
+    .. grid-item:: 170
+    .. grid-item:: 48
+    .. grid-item:: 45
+    .. grid-item:: 装甲
+    .. grid-item:: 300
+    .. grid-item:: 46
+    .. grid-item:: 46
     .. grid-item::
-        :columns: auto
-
-        | 编码 4E
-        | Snes地址 BA353
-        | 武器首地址 BA373
-        | PS地址 27042
-        | 类型 陸宇
-        | 移动力 7
-        | 我军偏差值 42.48
-        | 整体偏差值 44.66
-        | 大小 M
-
-        | 经验值 100
-        | 我军偏差值 44.05
-        | 整体偏差值 44.91
-        | 价值 1200
-        | 我军偏差值 45.4
-        | 整体偏差值 44.11
-        | 修理费 2000
-        | 我军偏差值 46
-        | 整体偏差值 45.39
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 34
+    .. grid-item:: 47
+    .. grid-item:: 49
+    .. grid-item:: 限界
+    .. grid-item:: 190
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 移动力
+    .. grid-item:: 7
+    .. grid-item:: 42
+    .. grid-item:: 45
     .. grid-item::
-        :columns: auto
-
-        | 空🚫→D
-        | 陆A
-        | 海C
-        | 宇C
-
-        .. image:: ../pilots/images/srw4_pilot_15.png
-
-        | 地形参照
-        | :ref:`司馬亮 <srw4_pilots_ryo_shiba>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 100
+    .. grid-item:: 44
+    .. grid-item:: 45
+    .. grid-item:: 价值
+    .. grid-item:: 1200
+    .. grid-item:: 45
+    .. grid-item:: 44
+    .. grid-item:: 修理费
+    .. grid-item:: 2000
+    .. grid-item:: 46
+    .. grid-item:: 45
 
 .. grid:: 
     :gutter: 3
@@ -2039,126 +2223,81 @@
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾛｹｯﾄﾗﾝﾁｬｰ⚔
         :columns: 3
-
     .. grid-item:: 980
-
+    .. grid-item:: 980
     .. grid-item:: 1~5
-
     .. grid-item:: -10
-
-    .. grid-item:: 
-
+    .. grid-item:: 0
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 4連対空ﾊﾟﾙｽﾚｰｻﾞ-
         :columns: 3
-
     .. grid-item:: 1200
-
+    .. grid-item:: 1200
     .. grid-item:: 1~5
-
     .. grid-item:: -7
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆🚫海🚫宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 200ミリ榴弾砲
         :columns: 3
-
     .. grid-item:: 1300
-
+    .. grid-item:: 1300
     .. grid-item:: 2~7
-
     .. grid-item:: -18
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ４連大口径砲
         :columns: 3
-
     .. grid-item:: 1320
-
+    .. grid-item:: 1320
     .. grid-item:: 1~6
-
     .. grid-item:: -12
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 牙🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 1520
-
+    .. grid-item:: 1520
     .. grid-item:: 1
-
     .. grid-item:: +8
-
     .. grid-item:: +30
-
     .. grid-item:: 空A→🚫陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: EN 20
-
-    .. grid-item:: 必要气力 120
-
+    .. grid-item:: 120气力
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_big_moth_a_commentBegin:
 
 变形成突击形态需要120气力。和ビッグモスH比起来，限界、移动力都有所上升。格斗武器有所加强。
@@ -2179,67 +2318,112 @@
     :padding: 0
     :outline:
 
-    .. grid-item::
-        :columns: auto
+
+    .. grid-item:: 
+        :columns: 3
 
         .. image:: ../units/images/portrait/srw4_units_portrait_4F.png
 
-        登场/加入:第4话
+    .. grid-item:: 
+        :columns: 9
 
+        .. grid:: 
+            :gutter: 3
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第4话
+                :columns: auto
+
+            .. grid-item:: 编码 4F
+                :columns: auto
+
+            .. grid-item:: 地址 BA384 (27073)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 BA3A4 (27093)
+                :columns: auto
+
+            .. grid-item:: 移动类型 陸宇
+                :columns: auto
+
+
+            .. grid-item:: 大小 M
+                :columns: auto
+
+            .. grid-item:: 地形适应 空🚫→D陆A海C宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`司馬亮 <srw4_pilots_ryo_shiba>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_15.png
+                :columns: auto
+
+
+.. grid:: 
+    :gutter: 3
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
     .. grid-item::
-        :columns: auto
-
-        | HP 3300
-        | 我军偏差值 50.34(50.33)
-        | 整体偏差值 45.72(45.73)
-        | EN 170
-        | 我军偏差值 47.86(47.83)
-        | 整体偏差值 44.56(44.54)
-        | 装甲 300
-        | 我军偏差值 46.02(45.83)
-        | 整体偏差值 45.61(45.62)
-        | 运动性 34
-        | 我军偏差值 46.87(46.79)
-        | 整体偏差值 48.65(48.5)
-        | 限界 180
-        | 我军偏差值 48.2(48.16)
-        | 整体偏差值 48.42(48.38)
-
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 3300
+    .. grid-item:: 50
+    .. grid-item:: 46
+    .. grid-item:: EN
+    .. grid-item:: 170
+    .. grid-item:: 48
+    .. grid-item:: 45
+    .. grid-item:: 装甲
+    .. grid-item:: 300
+    .. grid-item:: 46
+    .. grid-item:: 46
     .. grid-item::
-        :columns: auto
-
-        | 编码 4F
-        | Snes地址 BA384
-        | 武器首地址 BA3A4
-        | PS地址 27073
-        | 类型 陸宇
-        | 移动力 6
-        | 我军偏差值 37.07
-        | 整体偏差值 39.27
-        | 大小 M
-
-        | 经验值 100
-        | 我军偏差值 44.05
-        | 整体偏差值 44.91
-        | 价值 1200
-        | 我军偏差值 45.4
-        | 整体偏差值 44.11
-        | 修理费 2000
-        | 我军偏差值 46
-        | 整体偏差值 45.39
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 34
+    .. grid-item:: 47
+    .. grid-item:: 49
+    .. grid-item:: 限界
+    .. grid-item:: 180
+    .. grid-item:: 48
+    .. grid-item:: 48
+    .. grid-item:: 移动力
+    .. grid-item:: 6
+    .. grid-item:: 37
+    .. grid-item:: 39
     .. grid-item::
-        :columns: auto
-
-        | 空🚫→D
-        | 陆A
-        | 海C
-        | 宇B
-
-        .. image:: ../pilots/images/srw4_pilot_15.png
-
-        | 地形参照
-        | :ref:`司馬亮 <srw4_pilots_ryo_shiba>`
-
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 100
+    .. grid-item:: 44
+    .. grid-item:: 45
+    .. grid-item:: 价值
+    .. grid-item:: 1200
+    .. grid-item:: 45
+    .. grid-item:: 44
+    .. grid-item:: 修理费
+    .. grid-item:: 2000
+    .. grid-item:: 46
+    .. grid-item:: 45
 
 .. grid:: 
     :gutter: 3
@@ -2249,125 +2433,81 @@
 
     .. grid-item:: 名字
         :columns: 3
-
     .. grid-item:: 攻击
-
     .. grid-item:: 射程
-
     .. grid-item:: 命中
-
     .. grid-item:: 暴击
-
     .. grid-item:: 地形空陆海宇
         :columns: 3
-
     .. grid-item:: 残弹/EN
-
     .. grid-item:: 条件
-
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 格闘🤛Ⓟ
         :columns: 3
-
     .. grid-item:: 760
-
+    .. grid-item:: 760
     .. grid-item:: 1
-
     .. grid-item:: +15
-
     .. grid-item:: -10
-
     .. grid-item:: 空A→🚫陆A海A→B宇A→B
         :columns: 3
-
     .. grid-item:: 
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ﾛｹｯﾄﾗﾝﾁｬｰ⚔
         :columns: 3
-
     .. grid-item:: 980
-
+    .. grid-item:: 980
     .. grid-item:: 1~5
-
     .. grid-item:: -10
-
-    .. grid-item:: 
-
+    .. grid-item:: 0
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 4連対空ﾊﾟﾙｽﾚｰｻﾞ-
         :columns: 3
-
     .. grid-item:: 1200
-
+    .. grid-item:: 1200
     .. grid-item:: 1~5
-
     .. grid-item:: -7
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆🚫海🚫宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: 200ミリ榴弾砲
         :columns: 3
-
     .. grid-item:: 1300
-
+    .. grid-item:: 1300
     .. grid-item:: 2~7
-
     .. grid-item:: -18
-
     .. grid-item:: -10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 4
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
     .. grid-item:: ４連大口径砲
         :columns: 3
-
     .. grid-item:: 1320
-
+    .. grid-item:: 1320
     .. grid-item:: 1~6
-
     .. grid-item:: -12
-
     .. grid-item:: +10
-
     .. grid-item:: 空A陆A海A宇A
         :columns: 3
-
     .. grid-item:: 残弹 8
-
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-
 .. _srw4_unit_big_moth_h_commentBegin:
 
 象战车的人形态。和ビッグモスN比起来，装甲有所下降，运动性、限界有所上升，还多了门格斗武器。
