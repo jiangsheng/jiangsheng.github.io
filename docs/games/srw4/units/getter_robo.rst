@@ -36,7 +36,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -51,7 +51,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -79,7 +79,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`流竜馬 <srw4_pilots_ryoma_nagare>`\ 
+            .. grid-item:: 地形参照  \ :ref:`流竜馬 <srw4_pilot_ryoma_nagare>`\ 
                 :columns: auto
 
 
@@ -88,7 +88,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -149,7 +149,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -218,6 +218,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_getter_1_commentBegin:
 
 可以用到最终话而且改造也大多继承的强力机体，是重点培养和改造对象。注意不要改造ゲッターレザー，这个武器的改造不继承到真ゲッター。EN改造超过4级也将会是浪费资金。盖塔光线的消耗就威力来说非常小，如果要击落开局会逃窜的敌人，则应首先将其改造到5段以上再考虑其他机体的改造。
@@ -241,7 +242,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -256,7 +257,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -284,7 +285,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`神隼人 <srw4_pilots_hayato_jin>`\ 
+            .. grid-item:: 地形参照  \ :ref:`神隼人 <srw4_pilot_hayato_jin>`\ 
                 :columns: auto
 
 
@@ -297,7 +298,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -358,7 +359,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -427,6 +428,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_getter_2_commentBegin:
 
 盖塔三个形态中运动性和移动力最高的。但是也是最脆的，幸好有分身。攻击力也是最差的。仅用于赶路的形态，盖塔1对地乏力，2号机对地更强，幻影钻头仅需25EN，但是对空乏力。
@@ -446,7 +448,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -461,7 +463,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -489,7 +491,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`車弁慶 <srw4_pilots_benkei_kuruma>`\ 
+            .. grid-item:: 地形参照  \ :ref:`車弁慶 <srw4_pilot_benkei_kuruma>`\ 
                 :columns: auto
 
 
@@ -498,7 +500,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -559,7 +561,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -615,6 +617,7 @@
     .. grid-item:: 120气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_getter_3_commentBegin:
 
 在上一次大战中大放光彩的盖塔3号，本作中因为大雪山おろし的削弱而显得没有什么存在感。
@@ -634,7 +637,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -649,7 +652,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -677,7 +680,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`流竜馬 <srw4_pilots_ryoma_nagare>`\ 
+            .. grid-item:: 地形参照  \ :ref:`流竜馬 <srw4_pilot_ryoma_nagare>`\ 
                 :columns: auto
 
 
@@ -686,7 +689,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -747,7 +750,7 @@
     .. grid-item:: 48
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -829,6 +832,7 @@
     .. grid-item:: 120气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_getter_dragon_commentBegin:
 
 盖塔龙有了强力的绝招，从此成长为Boss杀手。仍然很脆，所以变形成2号机潜行仍然有用。因为机师地形适应问题，シャインスパーク对地面敌人比较乏力。盖塔光线仍旧是对地面敌人的主战武器。闪光火花的改造会继承到真・ゲッター1，对空中敌人效果更佳，所以也需要改造。
@@ -846,7 +850,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -861,7 +865,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -889,7 +893,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`神隼人 <srw4_pilots_hayato_jin>`\ 
+            .. grid-item:: 地形参照  \ :ref:`神隼人 <srw4_pilot_hayato_jin>`\ 
                 :columns: auto
 
 
@@ -902,7 +906,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -963,7 +967,7 @@
     .. grid-item:: 48
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1019,6 +1023,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_getter_liger_commentBegin:
 
 虽然盖特狮虎的移动力和GP-03有得一拼，但是无消耗的チェーンアタック威力不容小视。非常适合探宝之余顺路对付地面的杂鱼。另外ゲッター2的ドリルストーム的改造不被继承到本机，但是会继承到真ゲッター2的ドリルテンペスト上面去。本机新增的狮虎导弹的改造反而不被真ゲッター2继承。
@@ -1035,7 +1040,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1050,7 +1055,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1078,7 +1083,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`車弁慶 <srw4_pilots_benkei_kuruma>`\ 
+            .. grid-item:: 地形参照  \ :ref:`車弁慶 <srw4_pilot_benkei_kuruma>`\ 
                 :columns: auto
 
 
@@ -1087,7 +1092,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1148,7 +1153,7 @@
     .. grid-item:: 48
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1217,6 +1222,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_getter_poseidon_commentBegin:
 
 盖特波塞冬的大雪山おろし威力连导弹都不如……另外，对盖特旋风的改造并不会继承到真ゲッター3上。好在陆战还是能用的。
@@ -1232,7 +1238,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1247,7 +1253,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1275,7 +1281,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`流竜馬 <srw4_pilots_ryoma_nagare>`\ 
+            .. grid-item:: 地形参照  \ :ref:`流竜馬 <srw4_pilot_ryoma_nagare>`\ 
                 :columns: auto
 
 
@@ -1288,7 +1294,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1349,7 +1355,7 @@
     .. grid-item:: 62
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1418,6 +1424,7 @@
     .. grid-item:: 130气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_shin_getter_1_commentBegin:
 
 真盖塔1的斯通纳阳光为全游戏攻击力前三，于核弹头这种太晚入手的武器不同，它入手很早，而且作为一格射击武器，没有闪光火花的地形使用问题。消耗EN120，不补给的话更是可以打两发。虽然机师没有魂，但是威力超越加了魂的太阳攻击和黑洞炮，当然还是不能和暗剑杀相比。
@@ -1433,7 +1440,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1448,7 +1455,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1476,7 +1483,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`神隼人 <srw4_pilots_hayato_jin>`\ 
+            .. grid-item:: 地形参照  \ :ref:`神隼人 <srw4_pilot_hayato_jin>`\ 
                 :columns: auto
 
 
@@ -1489,7 +1496,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1550,7 +1557,7 @@
     .. grid-item:: 62
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1619,6 +1626,7 @@
     .. grid-item:: 120气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_shin_getter_2_commentBegin:
 
 第四次S取消了ゲッターミサイル这个弹药很少的远程武器，而消耗只有5EN的ドリルテンペスト的射程从1~3变成了1~7。从而变成了一个远程消耗机体。
@@ -1634,7 +1642,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1649,7 +1657,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1677,7 +1685,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`車弁慶 <srw4_pilots_benkei_kuruma>`\ 
+            .. grid-item:: 地形参照  \ :ref:`車弁慶 <srw4_pilot_benkei_kuruma>`\ 
                 :columns: auto
 
 
@@ -1690,7 +1698,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1751,7 +1759,7 @@
     .. grid-item:: 62
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1807,6 +1815,7 @@
     .. grid-item:: 130气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_shin_getter_3_commentBegin:
 
 
@@ -1821,7 +1830,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1836,7 +1845,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1864,7 +1873,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ジャック・キング <srw4_pilots_jack_king>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ジャック・キング <srw4_pilot_jack_king>`\ 
                 :columns: auto
 
 
@@ -1873,7 +1882,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1934,7 +1943,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2003,6 +2012,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_texas_mack_commentBegin:
 
 只在速路线临时出战一话，并不会加入。真实系的攻击力，超级系的运动性……除了那些死要钱的（盖塔队还没幸运），还是当专职探宝队吧。
@@ -2026,7 +2036,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2041,7 +2051,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2071,7 +2081,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2132,7 +2142,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2175,6 +2185,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mechasaurus_bado_commentBegin:
 
 和ドローメ的区别是一下打不死。
@@ -2190,7 +2201,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2205,7 +2216,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2235,7 +2246,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2296,7 +2307,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2339,6 +2350,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mechasaurus_saki_commentBegin:
 
 武器最高只有790还不能对空的肉靶子。
@@ -2354,7 +2366,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2369,7 +2381,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2399,7 +2411,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2460,7 +2472,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2503,6 +2515,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mechasaurus_zai_commentBegin:
 
 虽然很脆但是有不错的近身武器，如果不是移动力太差的话或许有点威胁。
@@ -2518,7 +2531,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2533,7 +2546,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2563,7 +2576,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2624,7 +2637,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2667,6 +2680,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mechasaurus_zen_ii_commentBegin:
 
 跟機械獣ジェノバM9差不多，但是射程和攻击力更差。
@@ -2682,7 +2696,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2697,7 +2711,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2727,7 +2741,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2788,7 +2802,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2844,6 +2858,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mechasaurus_zuu_commentBegin:
 
 虽然是海战专用机体，但是大招居然不能对海……
@@ -2859,7 +2874,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2874,7 +2889,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2904,7 +2919,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2965,7 +2980,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3008,6 +3023,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mechasaurus_dai_commentBegin:
 
 
@@ -3022,7 +3038,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3037,7 +3053,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3067,7 +3083,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3128,7 +3144,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3184,6 +3200,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mechasaurus_shigu_commentBegin:
 
 

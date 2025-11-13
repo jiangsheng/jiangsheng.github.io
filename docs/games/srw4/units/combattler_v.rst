@@ -30,7 +30,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -45,7 +45,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -73,7 +73,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`葵豹馬 <srw4_pilots_hyoma_aoi>`\ 
+            .. grid-item:: 地形参照  \ :ref:`葵豹馬 <srw4_pilot_hyoma_aoi>`\ 
                 :columns: auto
 
 
@@ -82,7 +82,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -143,7 +143,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -212,6 +212,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_battle_jet_commentBegin:
 
 武器ドスブレッシャー按理来说应该是格斗武器，不知为何设定为1格射击武器，面对地面和海中的敌人也可以用。
@@ -227,7 +228,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -242,7 +243,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -270,7 +271,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`浪花十三 <srw4_pilots_juzo_naniwa>`\ 
+            .. grid-item:: 地形参照  \ :ref:`浪花十三 <srw4_pilot_juzo_naniwa>`\ 
                 :columns: auto
 
 
@@ -279,7 +280,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -340,7 +341,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -409,6 +410,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_battle_crusher_commentBegin:
 
 
@@ -423,7 +425,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -438,7 +440,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -466,7 +468,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`西川大作 <srw4_pilots_daisaku_nishikawa>`\ 
+            .. grid-item:: 地形参照  \ :ref:`西川大作 <srw4_pilot_daisaku_nishikawa>`\ 
                 :columns: auto
 
 
@@ -475,7 +477,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -536,7 +538,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -579,6 +581,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_battle_tank_commentBegin:
 
 
@@ -593,7 +596,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -608,7 +611,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -636,7 +639,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`南原ちづる <srw4_pilots_chizuru_nanbara>`\ 
+            .. grid-item:: 地形参照  \ :ref:`南原ちづる <srw4_pilot_chizuru_nanbara>`\ 
                 :columns: auto
 
 
@@ -645,7 +648,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -706,7 +709,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -749,6 +752,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_battle_marine_commentBegin:
 
 
@@ -763,7 +767,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -778,7 +782,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -806,7 +810,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`北小介 <srw4_pilots_kosuke_kita>`\ 
+            .. grid-item:: 地形参照  \ :ref:`北小介 <srw4_pilot_kosuke_kita>`\ 
                 :columns: auto
 
 
@@ -815,7 +819,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -876,7 +880,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -906,6 +910,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_battle_craft_commentBegin:
 
 
@@ -920,7 +925,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -935,7 +940,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -963,7 +968,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`葵豹馬 <srw4_pilots_hyoma_aoi>`\ 
+            .. grid-item:: 地形参照  \ :ref:`葵豹馬 <srw4_pilot_hyoma_aoi>`\ 
                 :columns: auto
 
 
@@ -972,7 +977,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1033,7 +1038,7 @@
     .. grid-item:: 48
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1258,6 +1263,7 @@
     .. grid-item:: 130气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_combattler_v_commentBegin:
 
 孔巴特拉V武器多而不精，大部分武器没有什么改造价值，不过因为武器充足，可以随便浪费残弹在小兵身上。大招グランダッシャー居然是消耗130EN的，改满EN也不够放两次，所以需要EN恢复的芯片。超电磁自旋则只需110EN，无需补给也可以两连发。由于超电磁自旋初期即可使用，到グランダッシャー解锁时，应以改造数段，是否改造グランダッシャー存在疑问。
@@ -1285,7 +1291,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1300,7 +1306,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1330,7 +1336,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1391,7 +1397,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1434,6 +1440,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_magma_beast_galmus_commentBegin:
 
 
@@ -1448,7 +1455,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1463,7 +1470,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1491,7 +1498,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ガルーダ <srw4_pilots_garuda>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ガルーダ <srw4_pilot_garuda>`\ 
                 :columns: auto
 
 
@@ -1500,7 +1507,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1561,7 +1568,7 @@
     .. grid-item:: 54
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1617,6 +1624,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_graydon_commentBegin:
 
 
@@ -1631,7 +1639,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1646,7 +1654,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1676,7 +1684,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1737,7 +1745,7 @@
     .. grid-item:: 52
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1806,6 +1814,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_magma_beast_demon_commentBegin:
 
 
@@ -1820,7 +1829,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1835,7 +1844,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1863,7 +1872,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ガルーダ <srw4_pilots_garuda>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ガルーダ <srw4_pilot_garuda>`\ 
                 :columns: auto
 
 
@@ -1872,7 +1881,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1933,7 +1942,7 @@
     .. grid-item:: 61
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1989,6 +1998,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_big_garuda_commentBegin:
 
 

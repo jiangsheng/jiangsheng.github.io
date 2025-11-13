@@ -1,5 +1,5 @@
 .. meta::
-   :description: マジンガーZ机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。マジンガーZ, マジンガーZ（JS）, アフロダイA, ダイアナンA, ボスロボット, 機械獣ダブラスM2, 機械獣ガラダK７, ラインX1, 機械獣ジェノバM9, 機械獣スパルタンK5, 機械獣アブドラU6, グール, ブード 
+   :description: マジンガーZ机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。マジンガーZ, マジンガーZ（JS）, アフロダイA, ダイアナンA, ボスボロット, 機械獣ダブラスM2, 機械獣ガラダK７, ラインX1, 機械獣ジェノバM9, 機械獣スパルタンK5, 機械獣アブドラU6, グール, ブード 
 .. _srw4_units_mazinger_z:
 
 ====================
@@ -30,7 +30,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -45,7 +45,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -73,7 +73,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`兜甲児 <srw4_pilots_koji_kabuto>`\ 
+            .. grid-item:: 地形参照  \ :ref:`兜甲児 <srw4_pilot_koji_kabuto>`\ 
                 :columns: auto
 
 
@@ -82,7 +82,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -143,7 +143,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -238,6 +238,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mazinger_z_commentBegin:
 
 魔神Ｚ的优点是武器消耗低，甚至连导弹都有20发，而且不需要提升气力就可以使用。但是大招攻击力太低，跟真实系的浮游炮是一个等级，而且射程是1，不要指望对BOSS有用……反正驾驶员也没幸运，是吧？（等等）
@@ -259,7 +260,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -274,7 +275,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -302,7 +303,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`兜甲児 <srw4_pilots_koji_kabuto>`\ 
+            .. grid-item:: 地形参照  \ :ref:`兜甲児 <srw4_pilot_koji_kabuto>`\ 
                 :columns: auto
 
 
@@ -311,7 +312,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -372,7 +373,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -519,6 +520,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mazinger_z_js_commentBegin:
 
 魔神Ｚ的Jet Scramder或者叫红之翼装备的形态。增加了移动力、飞行能力和武器。\ :doc:`../walkthrough/14_mazinger_z_flying_in_the_sky`\ 开头有装备动画。
@@ -538,7 +540,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -553,7 +555,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -581,7 +583,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`弓さやか <srw4_pilots_sayaka_yumi>`\ 
+            .. grid-item:: 地形参照  \ :ref:`弓さやか <srw4_pilot_sayaka_yumi>`\ 
                 :columns: auto
 
 
@@ -590,7 +592,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -651,7 +653,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -707,6 +709,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_aphrodite_a_commentBegin:
 
 阿布罗迪号。早期修理机，装甲厚得跟超级机器人有得一拼，可以一用，但是没有空中移动能力是个缺点，中期就被维纳斯A取代了，改造段数继承。
@@ -714,7 +717,7 @@
 .. _srw4_unit_aphrodite_a_commentEnd:
 
 ^^^^^^^^^^^^
-ボスロボット
+ボスボロット
 ^^^^^^^^^^^^
 
 .. _srw4_unit_boss_borot:
@@ -722,7 +725,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -737,7 +740,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -765,7 +768,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ボス <srw4_pilots_boss>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ボス <srw4_pilot_boss>`\ 
                 :columns: auto
 
 
@@ -774,7 +777,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -835,7 +838,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -904,6 +907,7 @@
     .. grid-item:: 140气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_boss_borot_commentBegin:
 
 波士机器人。武器账面值优秀（和ダイモス的烈風正拳突き相当）但是命中补正居然是负的。加上ボス本来就不算强的命中能力，即使对于超级系敌人也存在打不中的问题，所以最适合的驾驶员是有必中和加速的剣鉄也……
@@ -924,7 +928,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -939,7 +943,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -967,7 +971,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`弓さやか <srw4_pilots_sayaka_yumi>`\ 
+            .. grid-item:: 地形参照  \ :ref:`弓さやか <srw4_pilot_sayaka_yumi>`\ 
                 :columns: auto
 
 
@@ -976,7 +980,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1037,7 +1041,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1106,6 +1110,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_diana_a_commentBegin:
 
 戴安娜A是阿布罗迪A的升级版，继承改造。增加了一个消耗EN的武器，战斗力仍然有限。第四次S中提升了装甲和攻击力。
@@ -1129,7 +1134,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1144,7 +1149,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1174,7 +1179,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1235,7 +1240,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1291,6 +1296,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mechanical_beast_doublas_m2_commentBegin:
 
 皮粗肉厚武器也不怎么差，不过最强武器不能对海，可以在水中攻击它。
@@ -1306,7 +1312,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1321,7 +1327,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1351,7 +1357,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1412,7 +1418,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1468,6 +1474,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mechanical_beast_garada_k7_commentBegin:
 
 皮粗肉厚武器也不怎么差，不过最强武器不能对空，可以用空飞的机体攻击。
@@ -1483,7 +1490,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1498,7 +1505,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1526,7 +1533,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`あしゅら男爵 <srw4_pilots_baron_ashura>`\ 
+            .. grid-item:: 地形参照  \ :ref:`あしゅら男爵 <srw4_pilot_baron_ashura>`\ 
                 :columns: auto
 
 
@@ -1535,7 +1542,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1596,7 +1603,7 @@
     .. grid-item:: 52
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1665,6 +1672,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_ghoul_commentBegin:
 
 这是敌人第一个战舰，除了HP太低之外，具有低运动性、低移动力、弹药充足、武器降命中、击落后钱多等战舰的通性。
@@ -1684,7 +1692,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1699,7 +1707,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1729,7 +1737,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1790,7 +1798,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1833,6 +1841,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mechanical_beast_genova_m9_commentBegin:
 
 皮粗肉厚，射程也不错，但是命中回避和攻击力都是问题。
@@ -1848,7 +1857,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1863,7 +1872,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1891,7 +1900,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`あしゅら男爵 <srw4_pilots_baron_ashura>`\ 
+            .. grid-item:: 地形参照  \ :ref:`あしゅら男爵 <srw4_pilot_baron_ashura>`\ 
                 :columns: auto
 
 
@@ -1900,7 +1909,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1961,7 +1970,7 @@
     .. grid-item:: 52
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2030,6 +2039,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_bood_commentBegin:
 
 装甲不错的战舰，但是最强的两个武器是对海专用，可以引到岸边再打。
@@ -2045,7 +2055,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2060,7 +2070,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2090,7 +2100,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2151,7 +2161,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2194,6 +2204,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mechanical_beast_spartan_k5_commentBegin:
 
 
@@ -2208,7 +2219,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2223,7 +2234,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2253,7 +2264,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2314,7 +2325,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2357,6 +2368,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mechanical_beast_abdullah_u6_commentBegin:
 
 破坏光线攻击力很高，而且能对空。幸好移动力和射程不是很好，很容易放风筝。
@@ -2372,7 +2384,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2387,7 +2399,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2417,7 +2429,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2478,7 +2490,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2521,6 +2533,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_rhine_x1_commentBegin:
 
 

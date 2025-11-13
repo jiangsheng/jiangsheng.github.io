@@ -31,7 +31,7 @@ Sガンダム
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -46,7 +46,7 @@ Sガンダム
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -80,7 +80,7 @@ Sガンダム
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -141,7 +141,7 @@ Sガンダム
     .. grid-item:: 51
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -236,6 +236,7 @@ Sガンダム
     .. grid-item:: 100气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_s_gundam_commentBegin:
 
 正式名称为「卓越高达（Superior Gundam）」，开发代号为「ι（伊奥塔）高达」。
@@ -261,7 +262,7 @@ Gクルーザー (S)
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -276,7 +277,7 @@ Gクルーザー (S)
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -310,7 +311,7 @@ Gクルーザー (S)
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -371,7 +372,7 @@ Gクルーザー (S)
     .. grid-item:: 51
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -414,6 +415,7 @@ Gクルーザー (S)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_g_cruiser_s_commentBegin:
 
 原作S高达无法变形，Ex化本质是为了实现变形功能而进行的改造，如果S高达原本就可以变形，那Ex化的目的到底是什么呢。
@@ -433,7 +435,7 @@ ExSガンダム
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -448,7 +450,7 @@ ExSガンダム
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -482,7 +484,7 @@ ExSガンダム
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -543,7 +545,7 @@ ExSガンダム
     .. grid-item:: 53
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -651,6 +653,7 @@ ExSガンダム
     .. grid-item:: 100气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_ex_s_gundam_commentBegin:
 
 名称读作"伊克塞斯高达"。正式名称为"Extrordinary-Superior GUNDAM（非凡卓越高达）"。在S高达上加装了后述用于变形为G巡洋舰的追加部件的机体。旨在解决S高达变形时的强度不足问题，并全面强化攻防能力。虽然机体因此大型化，但通过在关键部位追加装甲、增设推进剂与推进器（随之将背包替换为大功率推进单元）、搭载I力场发生器及反射式通信装置等措施，整体性能得到显著提升。因为Ex化是为了实现变形能力，所以MS形态是偶然产物。
@@ -672,7 +675,7 @@ Gクルーザー (EXS)
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -687,7 +690,7 @@ Gクルーザー (EXS)
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -721,7 +724,7 @@ Gクルーザー (EXS)
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -782,7 +785,7 @@ Gクルーザー (EXS)
     .. grid-item:: 53
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -838,6 +841,7 @@ Gクルーザー (EXS)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_g_cruiser_ex_s_commentBegin:
 
 原作中Ex-S是以G巡洋舰为主要形态，但是本作中G巡洋舰形态反而性能降低，主要用来跑路。对空适应是A，空A的机师可能用这个形态战力更强。

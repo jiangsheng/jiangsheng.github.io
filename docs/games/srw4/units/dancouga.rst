@@ -32,7 +32,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -47,7 +47,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -75,7 +75,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`藤原忍 <srw4_pilots_shinobu_fujiwara>`\ 
+            .. grid-item:: 地形参照  \ :ref:`藤原忍 <srw4_pilot_shinobu_fujiwara>`\ 
                 :columns: auto
 
 
@@ -84,7 +84,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -145,7 +145,7 @@
     .. grid-item:: 50
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -227,6 +227,7 @@
     .. grid-item:: 140气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_dancouga_commentBegin:
 
 断空我第四次后期名义上是援助奥古实际上是和コンバトラーV队二选一废弃的。第四次S可以用到最后。在第四次里和机师能力平均下来，没有任何一个地形的适应是A。而且还不能飞，以至于断空剑不加装ミノフスキークラフト就不能对空。
@@ -250,7 +251,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -265,7 +266,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -293,7 +294,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`藤原忍 <srw4_pilots_shinobu_fujiwara>`\ 
+            .. grid-item:: 地形参照  \ :ref:`藤原忍 <srw4_pilot_shinobu_fujiwara>`\ 
                 :columns: auto
 
 
@@ -302,7 +303,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -363,7 +364,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -419,6 +420,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_eagle_fighter_n_commentBegin:
 
 鹰战机的兽形态，和断空我共享机体属性改造段数所以如果不打算用コンバトラV的话，入手之后可以开始改造。第四次因为断空我不能飞，所以如果不是要看剧情的话，通常都是保留コンバトラーV而放弃断空我的。第四次S没有和コンバトラーV二选一的问题，断空我能飞了，武器也变强了，但是忍的加速换了魂，移动力又成了问题……
@@ -434,7 +436,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -449,7 +451,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -477,7 +479,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`藤原忍 <srw4_pilots_shinobu_fujiwara>`\ 
+            .. grid-item:: 地形参照  \ :ref:`藤原忍 <srw4_pilot_shinobu_fujiwara>`\ 
                 :columns: auto
 
 
@@ -486,7 +488,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -547,7 +549,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -616,6 +618,7 @@
     .. grid-item:: 120气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_eagle_fighter_a_commentBegin:
 
 变形成突击形态需要120气力。和イーグルファイターN比起来运动性、装甲、限界、移动力都有上升，并且增加了一个突击武器。移动力有10，可以作为探宝机。
@@ -631,7 +634,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -646,7 +649,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -674,7 +677,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`藤原忍 <srw4_pilots_shinobu_fujiwara>`\ 
+            .. grid-item:: 地形参照  \ :ref:`藤原忍 <srw4_pilot_shinobu_fujiwara>`\ 
                 :columns: auto
 
 
@@ -683,7 +686,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -744,7 +747,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -813,6 +816,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_eagle_fighter_h_commentBegin:
 
 鹰战机的人形态。和イーグルファイターN比起来运动性增加，但是移动力下降。飞行状态下爆雷用完了可以换这个形态，多了两门武器。
@@ -828,7 +832,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -843,7 +847,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -871,7 +875,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`結城沙羅 <srw4_pilots_sara_yuki>`\ 
+            .. grid-item:: 地形参照  \ :ref:`結城沙羅 <srw4_pilot_sara_yuki>`\ 
                 :columns: auto
 
 
@@ -880,7 +884,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -941,7 +945,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -984,6 +988,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_land_cougar_n_commentBegin:
 
 豹战车的兽形态。只有两个射击武器，攻击力和机动战士类似。不知道为什么射程比虎战车要短……
@@ -999,7 +1004,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1014,7 +1019,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1042,7 +1047,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`結城沙羅 <srw4_pilots_sara_yuki>`\ 
+            .. grid-item:: 地形参照  \ :ref:`結城沙羅 <srw4_pilot_sara_yuki>`\ 
                 :columns: auto
 
 
@@ -1051,7 +1056,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1112,7 +1117,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1168,6 +1173,7 @@
     .. grid-item:: 120气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_land_cougar_a_commentBegin:
 
 变形成突击形态需要120气力。和ランドクーガーH比起来，限界、移动力都有所上升。格斗武器有所加强。
@@ -1183,7 +1189,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1198,7 +1204,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1226,7 +1232,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`結城沙羅 <srw4_pilots_sara_yuki>`\ 
+            .. grid-item:: 地形参照  \ :ref:`結城沙羅 <srw4_pilot_sara_yuki>`\ 
                 :columns: auto
 
 
@@ -1235,7 +1241,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1296,7 +1302,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1352,6 +1358,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_land_cougar_h_commentBegin:
 
 豹战车的人形态，和ランドクーガーN比起来，运动性、限界和移动力有所上升，还多了门格斗武器，但是装甲有所减弱。
@@ -1367,7 +1374,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1382,7 +1389,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1410,7 +1417,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`式部雅人 <srw4_pilots_masato_shikibu>`\ 
+            .. grid-item:: 地形参照  \ :ref:`式部雅人 <srw4_pilot_masato_shikibu>`\ 
                 :columns: auto
 
 
@@ -1419,7 +1426,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1480,7 +1487,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1523,6 +1530,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_land_liger_n_commentBegin:
 
 虎豹战车的兽形态。基本上就是射程长一点的豹战车。
@@ -1538,7 +1546,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1553,7 +1561,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1581,7 +1589,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`式部雅人 <srw4_pilots_masato_shikibu>`\ 
+            .. grid-item:: 地形参照  \ :ref:`式部雅人 <srw4_pilot_masato_shikibu>`\ 
                 :columns: auto
 
 
@@ -1590,7 +1598,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1651,7 +1659,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1707,6 +1715,7 @@
     .. grid-item:: 120气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_land_liger_a_commentBegin:
 
 变形成突击形态需要120气力。基本上就是射程长一点的豹战车。
@@ -1722,7 +1731,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1737,7 +1746,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1765,7 +1774,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`式部雅人 <srw4_pilots_masato_shikibu>`\ 
+            .. grid-item:: 地形参照  \ :ref:`式部雅人 <srw4_pilot_masato_shikibu>`\ 
                 :columns: auto
 
 
@@ -1774,7 +1783,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1835,7 +1844,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1891,6 +1900,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_land_liger_h_commentBegin:
 
 虎豹战车的人形态。基本上就是射程长一点的豹战车。
@@ -1906,7 +1916,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1921,7 +1931,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1949,7 +1959,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`司馬亮 <srw4_pilots_ryo_shiba>`\ 
+            .. grid-item:: 地形参照  \ :ref:`司馬亮 <srw4_pilot_ryo_shiba>`\ 
                 :columns: auto
 
 
@@ -1958,7 +1968,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2019,7 +2029,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2088,6 +2098,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_big_moth_n_commentBegin:
 
 象战车的兽形态。很奇怪地所有武器都是远程。
@@ -2103,7 +2114,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2118,7 +2129,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2146,7 +2157,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`司馬亮 <srw4_pilots_ryo_shiba>`\ 
+            .. grid-item:: 地形参照  \ :ref:`司馬亮 <srw4_pilot_ryo_shiba>`\ 
                 :columns: auto
 
 
@@ -2155,7 +2166,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2216,7 +2227,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2298,6 +2309,7 @@
     .. grid-item:: 120气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_big_moth_a_commentBegin:
 
 变形成突击形态需要120气力。和ビッグモスH比起来，限界、移动力都有所上升。格斗武器有所加强。
@@ -2313,7 +2325,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2328,7 +2340,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2356,7 +2368,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`司馬亮 <srw4_pilots_ryo_shiba>`\ 
+            .. grid-item:: 地形参照  \ :ref:`司馬亮 <srw4_pilot_ryo_shiba>`\ 
                 :columns: auto
 
 
@@ -2365,7 +2377,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2426,7 +2438,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2508,6 +2520,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_big_moth_h_commentBegin:
 
 象战车的人形态。和ビッグモスN比起来，装甲有所下降，运动性、限界有所上升，还多了门格斗武器。

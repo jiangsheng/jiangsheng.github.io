@@ -30,7 +30,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -45,7 +45,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -73,7 +73,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`剣鉄也 <srw4_pilots_tetsuya_tsurugi>`\ 
+            .. grid-item:: 地形参照  \ :ref:`剣鉄也 <srw4_pilot_tetsuya_tsurugi>`\ 
                 :columns: auto
 
 
@@ -82,7 +82,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -143,7 +143,7 @@
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -316,6 +316,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_great_mazinger_commentBegin:
 
 原本陈列于博物馆，后被布罗肯伯爵夺走，由铁也夺回并加入朗德贝尔。在夺回的场景，也可以用维纳斯A把大魔神打爆，游戏为此单独设定了对话。
@@ -341,7 +342,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -356,7 +357,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -384,7 +385,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`炎ジュン <srw4_pilots_jun_hono>`\ 
+            .. grid-item:: 地形参照  \ :ref:`炎ジュン <srw4_pilot_jun_hono>`\ 
                 :columns: auto
 
 
@@ -393,7 +394,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -454,7 +455,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -536,6 +537,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_venus_a_commentBegin:
 
 维纳斯A能够飞，入手时即替代阿波罗迪A作为地面路线和B队的修理机。但是因为魔神系不能用地图炮刷机，修理能力远低于美塔斯。
@@ -559,7 +561,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -574,7 +576,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -602,7 +604,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`悪霊将軍ハーディアス <srw4_pilots_evil_spirit_general_hadias>`\ 
+            .. grid-item:: 地形参照  \ :ref:`悪霊将軍ハーディアス <srw4_pilot_evil_spirit_general_hadias>`\ 
                 :columns: auto
 
 
@@ -611,7 +613,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -672,7 +674,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -728,6 +730,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_hardias_commentBegin:
 
 惡靈將軍的最强武器不能对海但是利用机会不多。
@@ -743,7 +746,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -758,7 +761,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -788,7 +791,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -849,7 +852,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -918,6 +921,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_warrior_beast_gratonios_commentBegin:
 
 
@@ -932,7 +936,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -947,7 +951,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -977,7 +981,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1038,7 +1042,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1094,6 +1098,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_warrior_beast_obelius_commentBegin:
 
 
@@ -1108,7 +1113,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1123,7 +1128,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1151,7 +1156,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`妖爬虫将軍ドレイドウ <srw4_pilots_reptilian_general_draydou>`\ 
+            .. grid-item:: 地形参照  \ :ref:`妖爬虫将軍ドレイドウ <srw4_pilot_reptilian_general_draydou>`\ 
                 :columns: auto
 
 
@@ -1160,7 +1165,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1221,7 +1226,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1277,6 +1282,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_draydou_commentBegin:
 
 
@@ -1291,7 +1297,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1306,7 +1312,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1336,7 +1342,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1397,7 +1403,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1453,6 +1459,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_warrior_beast_zugar_commentBegin:
 
 
@@ -1467,7 +1474,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1482,7 +1489,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1510,7 +1517,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`暗黒大将軍 <srw4_pilots_great_general_of_darkness>`\ 
+            .. grid-item:: 地形参照  \ :ref:`暗黒大将軍 <srw4_pilot_great_general_of_darkness>`\ 
                 :columns: auto
 
 
@@ -1519,7 +1526,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1580,7 +1587,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1636,6 +1643,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_great_general_of_darkness_commentBegin:
 
 

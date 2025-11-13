@@ -30,7 +30,7 @@ F-91
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -45,7 +45,7 @@ F-91
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -73,7 +73,7 @@ F-91
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`シーブック・アノー <srw4_pilots_seabook_arno>`\ 
+            .. grid-item:: 地形参照  \ :ref:`シーブック・アノー <srw4_pilot_seabook_arno>`\ 
                 :columns: auto
 
 
@@ -86,7 +86,7 @@ F-91
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -147,7 +147,7 @@ F-91
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -229,6 +229,7 @@ F-91
     .. grid-item:: 110 气力 (100)
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_f_91_commentBegin:
 
 具有机动战士系除核弹之外的最高攻击。第四次中大招VSBR需要提升气力才能用，但是驾驶员居然不会気合而是会激励，还好第四次S中降低了气力要求。另外具有分身，也是一个需要提升气力才能用的技能。
@@ -251,7 +252,7 @@ F-91
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -266,7 +267,7 @@ F-91
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -294,7 +295,7 @@ F-91
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`セシリー・フェアチャイルド <srw4_pilots_cecily_fairchild>`\ 
+            .. grid-item:: 地形参照  \ :ref:`セシリー・フェアチャイルド <srw4_pilot_cecily_fairchild>`\ 
                 :columns: auto
 
 
@@ -307,7 +308,7 @@ F-91
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -368,7 +369,7 @@ F-91
     .. grid-item:: 48
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -424,6 +425,7 @@ F-91
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_vigna_ghina_commentBegin:
 
 需要クワトロ离队才能入手。移动力10、陆宇双A的优秀机体，不逊于Z高达。EN消耗比F91低，可能是燃油效率最高的高端武器，就是入手太晚。
@@ -450,7 +452,7 @@ F-91
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -465,7 +467,7 @@ F-91
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -499,7 +501,7 @@ F-91
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -560,7 +562,7 @@ F-91
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -616,6 +618,7 @@ F-91
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_berga_giros_commentBegin:
 
 
@@ -630,7 +633,7 @@ F-91
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -645,7 +648,7 @@ F-91
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -673,7 +676,7 @@ F-91
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`カロッゾ・ロナ <srw4_pilots_carrozzo_rona>`\ 
+            .. grid-item:: 地形参照  \ :ref:`カロッゾ・ロナ <srw4_pilot_carrozzo_rona>`\ 
                 :columns: auto
 
 
@@ -686,7 +689,7 @@ F-91
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -747,7 +750,7 @@ F-91
     .. grid-item:: 77
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -829,6 +832,7 @@ F-91
     .. grid-item:: 105气力ニュータイプ
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_rafflesia_commentBegin:
 
 
@@ -851,7 +855,7 @@ F-91
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -866,7 +870,7 @@ F-91
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -894,7 +898,7 @@ F-91
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`エギーユ・デラーズ <srw4_pilots_aiguille_delaz>`\ 
+            .. grid-item:: 地形参照  \ :ref:`エギーユ・デラーズ <srw4_pilot_aiguille_delaz>`\ 
                 :columns: auto
 
 
@@ -903,7 +907,7 @@ F-91
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -964,7 +968,7 @@ F-91
     .. grid-item:: 98
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1046,6 +1050,7 @@ F-91
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_zamouth_garr_commentBegin:
 
 

@@ -30,7 +30,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -45,7 +45,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -73,7 +73,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`神勝平 <srw4_pilots_kappei_jin>`\ 
+            .. grid-item:: 地形参照  \ :ref:`神勝平 <srw4_pilot_kappei_jin>`\ 
                 :columns: auto
 
 
@@ -82,7 +82,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -143,7 +143,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -199,6 +199,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_zambird_commentBegin:
 
 可以变形为ザンボエース，ザンボエース具有一个更强的武器，而且要收录到机器人大图鉴的话也得在战场上变形一次。也就就在登场当话开头有用，赞波特3登场之后就一直以合体状态作战了。
@@ -215,7 +216,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -230,7 +231,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -258,7 +259,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`神勝平 <srw4_pilots_kappei_jin>`\ 
+            .. grid-item:: 地形参照  \ :ref:`神勝平 <srw4_pilot_kappei_jin>`\ 
                 :columns: auto
 
 
@@ -267,7 +268,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -328,7 +329,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -397,6 +398,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_zambo_ace_commentBegin:
 
 走过场的机体，因为合体状态下经验值更多，所以赞波特3登场之后都是合体作战的。
@@ -412,7 +414,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -427,7 +429,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -455,7 +457,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`神江宇宙太 <srw4_pilots_uchuuta_kamie>`\ 
+            .. grid-item:: 地形参照  \ :ref:`神江宇宙太 <srw4_pilot_uchuuta_kamie>`\ 
                 :columns: auto
 
 
@@ -464,7 +466,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -525,7 +527,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -607,6 +609,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_zambull_commentBegin:
 
 
@@ -621,7 +624,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -636,7 +639,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -664,7 +667,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`神北恵子 <srw4_pilots_keiko_kamikita>`\ 
+            .. grid-item:: 地形参照  \ :ref:`神北恵子 <srw4_pilot_keiko_kamikita>`\ 
                 :columns: auto
 
 
@@ -673,7 +676,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -734,7 +737,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -790,6 +793,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_zambase_commentBegin:
 
 
@@ -804,7 +808,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -819,7 +823,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -847,7 +851,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`神勝平 <srw4_pilots_kappei_jin>`\ 
+            .. grid-item:: 地形参照  \ :ref:`神勝平 <srw4_pilot_kappei_jin>`\ 
                 :columns: auto
 
 
@@ -860,7 +864,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -921,7 +925,7 @@
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1042,6 +1046,7 @@
     .. grid-item:: 130气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_zambot_3_commentBegin:
 
 月轮攻击只要60EN，真是良心武器。当然比不上完全无消耗的赞波特斩，改造一下的话，奥拉系敌人可以来一个斩一个。这两个武器是重点改造对象。
@@ -1069,7 +1074,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1084,7 +1089,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1114,7 +1119,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1175,7 +1180,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1231,6 +1236,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mecha_boost_domira_commentBegin:
 
 机械加速多米拉属于赞波特系杂鱼，除了海适应是A外一无是处，问题是除了第四次S新增的开头接触这一话，它们出场的地图都是陆战……
@@ -1246,7 +1252,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1261,7 +1267,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1291,7 +1297,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1352,7 +1358,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1395,6 +1401,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mecha_boost_gabidan_land_commentBegin:
 
 机械加速器加比坦是比机械加速多米拉更差的杂鱼，虽然限界和HP高了一点，但是运动性更差了，作用大概是二次变身给我方增加两次气力。
@@ -1410,7 +1417,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1425,7 +1432,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1455,7 +1462,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1516,7 +1523,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1559,6 +1566,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mecha_boost_gabidan_sky_commentBegin:
 
 机械加速器加比坦的二次变身形态，比陆战版本强得有限，加强了射程但是攻击力还是太差，不过在空中我方有些武器打不着。
@@ -1574,7 +1582,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1589,7 +1597,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1617,7 +1625,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`キラー・ザ・ブッチャー <srw4_pilots_killer_the_butcher>`\ 
+            .. grid-item:: 地形参照  \ :ref:`キラー・ザ・ブッチャー <srw4_pilot_killer_the_butcher>`\ 
                 :columns: auto
 
 
@@ -1630,7 +1638,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1691,7 +1699,7 @@
     .. grid-item:: 77
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1734,6 +1742,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_bandok_commentBegin:
 
 在超级系敌人里攻击力算不错的，HP很高，经常蹲在可以回复HP的地形，不过大招很耗EN。第四次S追加的起始关“接触”里面有登场但是不会和玩家交战。另外I立场会消耗EN，所以更加耗油……
@@ -1749,7 +1758,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1764,7 +1773,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1794,7 +1803,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1855,7 +1864,7 @@
     .. grid-item:: 61
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1898,6 +1907,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_red_knight_deathcain_commentBegin:
 
 
@@ -1912,7 +1922,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1927,7 +1937,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1957,7 +1967,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2018,7 +2028,7 @@
     .. grid-item:: 61
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2061,6 +2071,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_blue_knight_helldyne_commentBegin:
 
 

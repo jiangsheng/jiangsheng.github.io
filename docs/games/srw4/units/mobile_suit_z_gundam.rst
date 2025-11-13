@@ -30,7 +30,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -45,7 +45,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -73,7 +73,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ファ・ユイリィ <srw4_pilots_fa_yuiry>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ファ・ユイリィ <srw4_pilot_fa_yuiry>`\ 
                 :columns: auto
 
 
@@ -86,7 +86,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -147,7 +147,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -203,6 +203,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_methuss_ms_commentBegin:
 
 美塔斯的攻击能力是摆好看的，机体太脆，而且很多敌人有光线护盾，没有用手加减把敌人HP降到10还是不要上去打了。
@@ -224,7 +225,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -239,7 +240,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -267,7 +268,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ファ・ユイリィ <srw4_pilots_fa_yuiry>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ファ・ユイリィ <srw4_pilot_fa_yuiry>`\ 
                 :columns: auto
 
 
@@ -276,7 +277,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -337,7 +338,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -380,6 +381,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_methuss_ma_commentBegin:
 
 飞机状态移动力有10，限界也比较高，是早期十分有用的探宝机，GP-01Fb经常有地形惩罚而无法充分发挥移动力。
@@ -395,7 +397,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -410,7 +412,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -438,7 +440,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`エマ・シーン <srw4_pilots_emma_sheen>`\ 
+            .. grid-item:: 地形参照  \ :ref:`エマ・シーン <srw4_pilot_emma_sheen>`\ 
                 :columns: auto
 
 
@@ -451,7 +453,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -512,7 +514,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -594,6 +596,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gundam_mk_ii_commentBegin:
 
 在初期机动战士中属于运动性强的，而且有重战机系无法防御的导弹武器。因为陆地适应为B，战力甚至弱于钢加农。不过因为可能入手G防卫号合体，所以如果有计划使用超级高达获得双份经验值，则可提前改造以更舒适地推进前期关卡。实用性远超毫无发展空间的高达和GP-01Fb。
@@ -611,7 +614,7 @@ Gディフェンサー
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -626,7 +629,7 @@ Gディフェンサー
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -654,7 +657,7 @@ Gディフェンサー
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`カツ・コバヤシ <srw4_pilots_katz_kobayashi>`\ 
+            .. grid-item:: 地形参照  \ :ref:`カツ・コバヤシ <srw4_pilot_katz_kobayashi>`\ 
                 :columns: auto
 
 
@@ -663,7 +666,7 @@ Gディフェンサー
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -724,7 +727,7 @@ Gディフェンサー
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -767,6 +770,7 @@ Gディフェンサー
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_g_defender_commentBegin:
 
 G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时，可形成强化Mk-II装甲、机动性与火力的"超级高达"形态。需要两机同时出击在战场上完成合体。因为超级高达的战斗力是看ガンダム Mk-II的机师，所以本机可以用来培养较弱的机师。
@@ -786,7 +790,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -801,7 +805,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -829,7 +833,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`エマ・シーン <srw4_pilots_emma_sheen>`\ 
+            .. grid-item:: 地形参照  \ :ref:`エマ・シーン <srw4_pilot_emma_sheen>`\ 
                 :columns: auto
 
 
@@ -842,7 +846,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -903,7 +907,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1011,6 +1015,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_super_gundam_commentBegin:
 
 超级高达，正式名称是高达Mk-II防卫号。需要Mk-II和G防卫号分别出击，在战场上合体才能出现。
@@ -1035,7 +1040,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1050,7 +1055,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1078,7 +1083,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ハサウェイ・ノア <srw4_pilots_hathaway_noah>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ハサウェイ・ノア <srw4_pilot_hathaway_noah>`\ 
                 :columns: auto
 
 
@@ -1091,7 +1096,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1152,7 +1157,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1208,6 +1213,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_nemo_commentBegin:
 
 虽然默认机师没有设定，但是这里采用同时加入的ハサウェイ（哈萨维）作为默认机师来计算地形补正。
@@ -1229,7 +1235,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1244,7 +1250,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1272,7 +1278,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ブライト・ノア <srw4_pilots_bright_noah>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ブライト・ノア <srw4_pilot_bright_noah>`\ 
                 :columns: auto
 
 
@@ -1281,7 +1287,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1342,7 +1348,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 77
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1424,6 +1430,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_argama_commentBegin:
 
 与トロイホース相比，增加了地图武器。如果ROM是出其版本，用自残方法练级的话，可以用地图武器攻击完自己人之后全员搭载到主舰，之后故意让主舰被击落来在一话之内让多个机师快速升级，否则高等级的机师有可能陷入无法被敌人击中而弹尽粮绝无法继续的境地。
@@ -1445,7 +1452,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1460,7 +1467,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1488,7 +1495,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`カミーユ・ビダン <srw4_pilots_kamille_bidan>`\ 
+            .. grid-item:: 地形参照  \ :ref:`カミーユ・ビダン <srw4_pilot_kamille_bidan>`\ 
                 :columns: auto
 
 
@@ -1501,7 +1508,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1562,7 +1569,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1657,6 +1664,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_z_gundam_commentBegin:
 
 奥古和阿纳海姆联合研发的可变性机动战士。地形适应空陆都是A，而且变形之后移动力也比较强，是可以用到最后的机体。大招消耗少，攻击力也不错，改造一下就可以打穿敌人的奥拉光线护盾，威力高过浮游炮。
@@ -1678,7 +1686,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1693,7 +1701,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1721,7 +1729,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`カミーユ・ビダン <srw4_pilots_kamille_bidan>`\ 
+            .. grid-item:: 地形参照  \ :ref:`カミーユ・ビダン <srw4_pilot_kamille_bidan>`\ 
                 :columns: auto
 
 
@@ -1730,7 +1738,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1791,7 +1799,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1847,6 +1855,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_wave_rider_commentBegin:
 
 
@@ -1861,7 +1870,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1876,7 +1885,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1904,7 +1913,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`サラ・ザビアロフ <srw4_pilots_sarah_zabiarov>`\ 
+            .. grid-item:: 地形参照  \ :ref:`サラ・ザビアロフ <srw4_pilot_sarah_zabiarov>`\ 
                 :columns: auto
 
 
@@ -1917,7 +1926,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1978,7 +1987,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2034,6 +2043,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gabthley_ms_commentBegin:
 
 作为DC、新DC和提坦斯的机体登场。射程虽远，但是不如第三次大战那样有威胁。对海能力差，可以在水中等其上门。用カツ说得サラ可以入手一台，地形适应是最差的一档，还好加入的时候已经3段改造，射程8的武器可以一用，但是前提是面对的敌人没有光线护盾。除了射程和飞行形态之外，相比至此应已改造数段的初期机并没有多少优势，如果不事先规划改造优先级，则前途堪疑。
@@ -2050,7 +2060,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2065,7 +2075,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2093,7 +2103,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`サラ・ザビアロフ <srw4_pilots_sarah_zabiarov>`\ 
+            .. grid-item:: 地形参照  \ :ref:`サラ・ザビアロフ <srw4_pilot_sarah_zabiarov>`\ 
                 :columns: auto
 
 
@@ -2102,7 +2112,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2163,7 +2173,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2210,6 +2220,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gabthley_ma_commentBegin:
 
 空中适应仅为B，更加打不穿敌人的光线护盾了。虽然具备近战能力，但是机体本身的移动类型和地形适应太差以至于不太实用。
@@ -2227,7 +2238,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2242,7 +2253,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2276,7 +2287,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2337,7 +2348,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2380,6 +2391,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_byarlant_commentBegin:
 
 拜阿兰主要作为提坦斯的机体登场，新DC也会少量使用。虽然火力较差，但是因为装甲过低，我军MS也会轻易被其击落。
@@ -2401,7 +2413,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2416,7 +2428,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2444,7 +2456,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`クワトロ・バジーナ <srw4_pilots_quattro_bajeena>`\ 
+            .. grid-item:: 地形参照  \ :ref:`クワトロ・バジーナ <srw4_pilot_quattro_bajeena>`\ 
                 :columns: auto
 
 
@@ -2457,7 +2469,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2518,7 +2530,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2600,6 +2612,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_hyaku_shiki_commentBegin:
 
 不知如何在后期成为A队和B队超时空传送的对象。A队的地图武器有\ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\ 、\ :ref:`エルガイム Mk-II <srw4_unit_l_gaim_mk_ii>`\ ）和\ :ref:`ZΖガンダム <srw4_unit_zz_gundam>`\ （第四次S追加\ :ref:`グランヴェール <srw4_unit_grannvale>`\ 和\ :ref:`ガッデス <srw4_unit_gaddeath>`\ ），而B队则只有\ :ref:`ザムジード <srw4_unit_zamzeed>`\ 。
@@ -2625,7 +2638,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2640,7 +2653,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2674,7 +2687,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2735,7 +2748,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2791,6 +2804,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_marasai_commentBegin:
 
 一般的机动战士系机体。最强武器不能对海。
@@ -2806,7 +2820,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2821,7 +2835,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2855,7 +2869,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2916,7 +2930,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2972,6 +2986,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_barzam_commentBegin:
 
 和マラサイ一样差的机体。作为副官来说，クランプ的待遇真差……后来老兵の挽歌里乘坐的R・ジャジャ也不怎么样。
@@ -2987,7 +3002,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3002,7 +3017,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3032,7 +3047,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3093,7 +3108,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3136,6 +3151,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_asshimar_ms_commentBegin:
 
 
@@ -3150,7 +3166,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3165,7 +3181,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3195,7 +3211,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3256,7 +3272,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3286,6 +3302,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_asshimar_ma_commentBegin:
 
 
@@ -3300,7 +3317,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3315,7 +3332,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3349,7 +3366,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3410,7 +3427,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3479,6 +3496,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_hambrabi_ms_commentBegin:
 
 一般的机动战士系机体。虽然名字叫做海蛇，但是对海适应是C，武器基本都不能对海中的敌人使用……
@@ -3494,7 +3512,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3509,7 +3527,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3539,7 +3557,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3600,7 +3618,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3643,6 +3661,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_hambrabi_ma_commentBegin:
 
 武器和运动性和人形态比起来差了很多，跑路用的形态电脑还用来交战……
@@ -3658,7 +3677,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3673,7 +3692,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3703,7 +3722,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3764,7 +3783,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 48
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3820,6 +3839,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_baund_doc_ms_commentBegin:
 
 
@@ -3834,7 +3854,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3849,7 +3869,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3879,7 +3899,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3940,7 +3960,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 48
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3987,6 +4007,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_baund_doc_ma_commentBegin:
 
 第四次S中クローアーム不知为何变成了射击武器，现在可以对陆地和海中的敌人使用了。
@@ -4002,7 +4023,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4017,7 +4038,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -4047,7 +4068,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4108,7 +4129,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4168,6 +4189,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_bigro_commentBegin:
 
 第四次S中クローアーム不知为何变成了射击武器，现在可以对陆地和海中的敌人使用了。
@@ -4183,7 +4205,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4198,7 +4220,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -4228,7 +4250,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4289,7 +4311,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4319,6 +4341,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 100气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_braw_bro_commentBegin:
 
 
@@ -4333,7 +4356,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4348,7 +4371,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -4376,7 +4399,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ベン・ウッダー <srw4_pilots_ben_wooder>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ベン・ウッダー <srw4_pilot_ben_wooder>`\ 
                 :columns: auto
 
 
@@ -4385,7 +4408,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4446,7 +4469,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 50
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4515,6 +4538,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_sudori_commentBegin:
 
 
@@ -4529,7 +4553,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4544,7 +4568,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -4572,7 +4596,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`フォウ・ムラサメ <srw4_pilots_four_murasame>`\ 
+            .. grid-item:: 地形参照  \ :ref:`フォウ・ムラサメ <srw4_pilot_four_murasame>`\ 
                 :columns: auto
 
 
@@ -4585,7 +4609,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4646,7 +4670,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 52
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4702,6 +4726,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_psycho_gundam_ms_commentBegin:
 
 
@@ -4716,7 +4741,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4731,7 +4756,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -4759,7 +4784,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`フォウ・ムラサメ <srw4_pilots_four_murasame>`\ 
+            .. grid-item:: 地形参照  \ :ref:`フォウ・ムラサメ <srw4_pilot_four_murasame>`\ 
                 :columns: auto
 
 
@@ -4772,7 +4797,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4833,7 +4858,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 52
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4889,6 +4914,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_psycho_gundam_ma_commentBegin:
 
 
@@ -4903,7 +4929,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4918,7 +4944,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -4946,7 +4972,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ロザミア・バダム <srw4_pilots_rosamia_badam>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ロザミア・バダム <srw4_pilot_rosamia_badam>`\ 
                 :columns: auto
 
 
@@ -4959,7 +4985,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5020,7 +5046,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 56
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5089,6 +5115,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: ニュータイプ
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_psycho_gundam_mk_ii_ms_commentBegin:
 
 
@@ -5103,7 +5130,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5118,7 +5145,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -5146,7 +5173,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ロザミア・バダム <srw4_pilots_rosamia_badam>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ロザミア・バダム <srw4_pilot_rosamia_badam>`\ 
                 :columns: auto
 
 
@@ -5159,7 +5186,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5220,7 +5247,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 56
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5276,6 +5303,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: ニュータイプ
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_psycho_gundam_mk_ii_ma_commentBegin:
 
 
@@ -5290,7 +5318,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5305,7 +5333,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -5333,7 +5361,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ハマーン・カーン <srw4_pilots_haman_karn>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ハマーン・カーン <srw4_pilot_haman_karn>`\ 
                 :columns: auto
 
 
@@ -5346,7 +5374,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5407,7 +5435,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 48
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5463,6 +5491,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 100气力ニュータイプ
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_qubeley_commentBegin:
 
 
@@ -5485,7 +5514,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5500,7 +5529,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -5527,7 +5556,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5588,7 +5617,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 69
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5657,6 +5686,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_alexandria_commentBegin:
 
 
@@ -5671,7 +5701,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5686,7 +5716,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -5713,7 +5743,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5774,7 +5804,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 61
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5843,6 +5873,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_irish_commentBegin:
 
 
@@ -5857,7 +5888,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5872,7 +5903,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -5899,7 +5930,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5960,7 +5991,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -6042,6 +6073,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_dogosse_giar_commentBegin:
 
 
@@ -6056,7 +6088,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -6071,7 +6103,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -6098,7 +6130,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -6159,7 +6191,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -6228,6 +6260,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_audhumla_commentBegin:
 
 

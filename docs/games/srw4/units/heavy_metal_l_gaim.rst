@@ -32,7 +32,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -47,7 +47,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -75,7 +75,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ダバ・マイロード <srw4_pilots_daba_myroad>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ダバ・マイロード <srw4_pilot_daba_myroad>`\ 
                 :columns: auto
 
 
@@ -88,7 +88,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -149,7 +149,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -218,6 +218,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_l_gaim_commentBegin:
 
 有光线防御，因为机师和技量高很容易出会心一击，武器攻击力比账面数字高，甚至具备移动后可对空的远程武器，早期很强力。机师集中出得慢，可以考虑装强化物品来增加回避能力。超级系走地上路线的话可以改造一下。真实系后期走宇宙路线要和加入时有两段改造以至于性能更好的カルバリーテンプル二选一。艾尔盖姆的优点是有移动后可攻击的武器，而灾厄神殿的优点则是入手的时候改造了两段，性能更好。
@@ -233,7 +234,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -248,7 +249,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -276,7 +277,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ファンネリア・アム <srw4_pilots_fanaria_amm>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ファンネリア・アム <srw4_pilot_fanaria_amm>`\ 
                 :columns: auto
 
 
@@ -289,7 +290,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -350,7 +351,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -419,6 +420,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_d_sserd_commentBegin:
 
 迪扎德后期会被废弃，不建议改造。生存能力靠强化部件和光线防御。陆A造成攻防能力比很多初期机动战士机体要强。
@@ -434,7 +436,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -449,7 +451,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -477,7 +479,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ガウ・ハ・レッシィ <srw4_pilots_gaw_ha_leccee>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ガウ・ハ・レッシィ <srw4_pilot_gaw_ha_leccee>`\ 
                 :columns: auto
 
 
@@ -490,7 +492,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -551,7 +553,7 @@
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -607,6 +609,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_calvary_temple_commentBegin:
 
 灾厄神殿走地上路线会被强制废弃，走宇宙路线会和能力差一点的エルガイム二选一。因为加入的时候有两段改造，所以走宇宙路线的话可以保留这台机体而废弃エルガイム，节省改造资金。不过最强武器残弹只有两发，不值得改造。缺乏移动后可使用的S地雷也是个缺点。
@@ -622,7 +625,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -637,7 +640,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -665,7 +668,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ダバ・マイロード <srw4_pilots_daba_myroad>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ダバ・マイロード <srw4_pilot_daba_myroad>`\ 
                 :columns: auto
 
 
@@ -678,7 +681,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -739,7 +742,7 @@
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -834,6 +837,7 @@
     .. grid-item:: 100气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_l_gaim_mk_ii_commentBegin:
 
 走马灯的机师，不变的妖精リリス。基本只用改地图炮和机体性能。地图武器和百式一样射程有12格，但是在二次行动之前较难瞄准敌人，需再动辅助。另外敌人一般会分批行动，如要最大化经验值和资金，应在开局使用激怒挑衅。
@@ -849,7 +853,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -864,7 +868,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -892,7 +896,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ダバ・マイロード <srw4_pilots_daba_myroad>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ダバ・マイロード <srw4_pilot_daba_myroad>`\ 
                 :columns: auto
 
 
@@ -905,7 +909,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -966,7 +970,7 @@
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1022,6 +1026,7 @@
     .. grid-item:: 100气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_prowler_commentBegin:
 
 飞行形态也可以放地图炮，在乞力马扎罗之风暴这一话比较有用——虽然在这关地形适应是看陆地，以至于攻击力大打折扣，但是比没有强。
@@ -1037,7 +1042,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1052,7 +1057,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1080,7 +1085,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ガウ・ハ・レッシィ <srw4_pilots_gaw_ha_leccee>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ガウ・ハ・レッシィ <srw4_pilot_gaw_ha_leccee>`\ 
                 :columns: auto
 
 
@@ -1093,7 +1098,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1154,7 +1159,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1210,6 +1215,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_novel_d_sserd_commentBegin:
 
 新迪扎德比迪扎德强了很多，但是同期有很多强力机体加入，所以仍旧属于二线集体。该机性能比起初期MS仍属优秀，兼具良好的地形适应行，武器仅需改造动力发射器与S地雷。
@@ -1225,7 +1231,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1240,7 +1246,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1268,7 +1274,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ギャブレット・ギャブレー <srw4_pilots_gavlet_gablae>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ギャブレット・ギャブレー <srw4_pilot_gavlet_gablae>`\ 
                 :columns: auto
 
 
@@ -1281,7 +1287,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1342,7 +1348,7 @@
     .. grid-item:: 48
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1437,6 +1443,7 @@
     .. grid-item:: 100气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_ashura_temple_commentBegin:
 
 阿修罗宫殿是加布雷的初期座机，后期则成为敌人的杂鱼机。走真实系路线可以入手。地图武器比エルガイム Mk-II的差了不少，但是第四次入手的时候已经改满，不打算再改造出一个类似的エルガイム Mk-II的话，可以让塔巴换机。
@@ -1463,7 +1470,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1478,7 +1485,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1506,7 +1513,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`クワサン・オリビー <srw4_pilots_quwasan_olibee>`\ 
+            .. grid-item:: 地形参照  \ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ 
                 :columns: auto
 
 
@@ -1519,7 +1526,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1580,7 +1587,7 @@
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1688,6 +1695,7 @@
     .. grid-item:: 100气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_bat_shu_commentBegin:
 
 不错的敌方机体，除了典型重战机系的盾防御、光线护盾和武器之外还有两个强力武器。地形适应能力也很强。在游戏中我方只能使用一话，就是在\ :doc:`../walkthrough/38_poseidal_s_ambition`\ 中说得クワサン＝オリビー之后。奥利比因为疗养的原因不会加入，这台机体也被废弃。
@@ -1704,7 +1712,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1719,7 +1727,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1753,7 +1761,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1814,7 +1822,7 @@
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1896,6 +1904,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_g_roon_commentBegin:
 
 远距离攻击能力不怎么样，但是近距离放电的攻击力比较强。幸好皮不厚。
@@ -1911,7 +1920,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1926,7 +1935,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1960,7 +1969,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2021,7 +2030,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2064,6 +2073,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_arorne_commentBegin:
 
 比グライア略强的重战机系杂兵机。有了光线护盾，地形适应也有所加强。
@@ -2079,7 +2089,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2094,7 +2104,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2122,7 +2132,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ハッシャ・モッシャ <srw4_pilots__hasha_moja>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ハッシャ・モッシャ <srw4_pilot__hasha_moja>`\ 
                 :columns: auto
 
 
@@ -2135,7 +2145,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2196,7 +2206,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2239,6 +2249,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_greia_commentBegin:
 
 
@@ -2253,7 +2264,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2268,7 +2279,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2296,7 +2307,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ネイ・モー・ハン <srw4_pilots_nei_mo_han>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ネイ・モー・ハン <srw4_pilot_nei_mo_han>`\ 
                 :columns: auto
 
 
@@ -2309,7 +2320,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2370,7 +2381,7 @@
     .. grid-item:: 50
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2439,6 +2450,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_auger_commentBegin:
 
 很奇怪的重战机系唯一陆地适应为B的机体，以致于在前期浪费了ネイ・モー・ハン的优秀能力，后期进入宇宙之后才完全发挥威力。
@@ -2454,7 +2466,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2469,7 +2481,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2503,7 +2515,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2564,7 +2576,7 @@
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2620,6 +2632,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_a_taul_commentBegin:
 
 
@@ -2634,7 +2647,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2649,7 +2662,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2677,7 +2690,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`アマンダラ・カマンダラ <srw4_pilots_amandara_kamandara>`\ 
+            .. grid-item:: 地形参照  \ :ref:`アマンダラ・カマンダラ <srw4_pilot_amandara_kamandara>`\ 
                 :columns: auto
 
 
@@ -2690,7 +2703,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2751,7 +2764,7 @@
     .. grid-item:: 66
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2846,6 +2859,7 @@
     .. grid-item:: 100气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_blood_temple_commentBegin:
 
 
@@ -2860,7 +2874,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2875,7 +2889,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2903,7 +2917,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`オルドナ・ポセイダル <srw4_pilots_oldna_poseidal>`\ 
+            .. grid-item:: 地形参照  \ :ref:`オルドナ・ポセイダル <srw4_pilot_oldna_poseidal>`\ 
                 :columns: auto
 
 
@@ -2916,7 +2930,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2977,7 +2991,7 @@
     .. grid-item:: 65
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3072,6 +3086,7 @@
     .. grid-item:: 100气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_auge_commentBegin:
 
 
@@ -3094,7 +3109,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3107,7 +3122,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3134,7 +3149,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3195,7 +3210,7 @@
     .. grid-item:: 61
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3251,6 +3266,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_a_taul_v_commentBegin:
 
 废弃数据，能力和\ :ref:`ゴッドネロス <srw4_units_goshogun>`\ 相同。
@@ -3268,7 +3284,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3281,7 +3297,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3312,7 +3328,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3373,7 +3389,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3468,6 +3484,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_salonz_commentBegin:
 
 
@@ -3482,7 +3499,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3495,7 +3512,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3526,7 +3543,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3587,7 +3604,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
     .. grid-item:: 48
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3630,6 +3647,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gayrahm_commentBegin:
 
 

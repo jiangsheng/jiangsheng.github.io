@@ -32,7 +32,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -47,7 +47,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -75,7 +75,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`チャック・キース <srw4_pilots_chuck_keith>`\ 
+            .. grid-item:: 地形参照  \ :ref:`チャック・キース <srw4_pilot_chuck_keith>`\ 
                 :columns: auto
 
 
@@ -84,7 +84,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -145,7 +145,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -201,6 +201,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gun_cannon_commentBegin:
 
 刚加农是初期机动战士系少有的不被强制废弃的机体。缺点是运动性太差，而且太脆，只能呆在敌方武器射程之外攻击，而且即使地形适应是A，武器攻击力也不高，好在本作敌人攻击会优先考虑地形不适应的。总体来说，阿姆罗可以换乘这台。
@@ -218,7 +219,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -233,7 +234,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -263,7 +264,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -324,7 +325,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -367,6 +368,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gun_tank_commentBegin:
 
 第一话结束入手，没有默认驾驶员。
@@ -388,7 +390,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -403,7 +405,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -431,7 +433,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`アムロ・レイ <srw4_pilots_amuro_ray>`\ 
+            .. grid-item:: 地形参照  \ :ref:`アムロ・レイ <srw4_pilot_amuro_ray>`\ 
                 :columns: auto
 
 
@@ -444,7 +446,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -505,7 +507,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -587,6 +589,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gundam_commentBegin:
 
 第一话由阿姆罗驾驶登场。武器比ネモ要强，但是还是不如GM III，还有陆B，限界也很低。对于阿姆罗来说，这真是个烂机体，可以换其他人上来坐，他去开ガンダムｍｋⅡ或者リ・ガズィ（BWS）。νガンダム入手时废弃而且没有资金返回，所以可以提前卖掉。
@@ -612,7 +615,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -627,7 +630,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -657,7 +660,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -718,7 +721,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -787,6 +790,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_dom_commentBegin:
 
 只比ザク略强一点……对它的驾驶员来说，这真是个悲伤的故事……
@@ -802,7 +806,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -817,7 +821,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -845,7 +849,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ガデム <srw4_pilots_gadem>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ガデム <srw4_pilot_gadem>`\ 
                 :columns: auto
 
 
@@ -854,7 +858,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -915,7 +919,7 @@
     .. grid-item:: 52
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -997,6 +1001,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gaw_commentBegin:
 
 
@@ -1011,7 +1016,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1026,7 +1031,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1054,7 +1059,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ジャマイカン・ダニンガン <srw4_pilots_jamaican_daninghan>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ジャマイカン・ダニンガン <srw4_pilot_jamaican_daninghan>`\ 
                 :columns: auto
 
 
@@ -1063,7 +1068,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1124,7 +1129,7 @@
     .. grid-item:: 69
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1206,6 +1211,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_dobday_commentBegin:
 
 
@@ -1220,7 +1226,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1235,7 +1241,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1263,7 +1269,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ガデム <srw4_pilots_gadem>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ガデム <srw4_pilot_gadem>`\ 
                 :columns: auto
 
 
@@ -1272,7 +1278,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1333,7 +1339,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1389,6 +1395,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_old_zaku_commentBegin:
 
 在连ランバ・ラル都换了两次机的年代，ガデム仍旧开这台出来，大概是老兵的倔强吧。
@@ -1404,7 +1411,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1419,7 +1426,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1449,7 +1456,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1510,7 +1517,7 @@
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1553,6 +1560,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_adzam_commentBegin:
 
 
@@ -1567,7 +1575,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1582,7 +1590,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1612,7 +1620,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1673,7 +1681,7 @@
     .. grid-item:: 56
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1729,6 +1737,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_zanzibar_commentBegin:
 
 
@@ -1743,7 +1752,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1758,7 +1767,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1788,7 +1797,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1849,7 +1858,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1892,6 +1901,7 @@
     .. grid-item:: 100气力ニュータイプ
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_elmeth_commentBegin:
 
 仅在第25话登场一次，但是因为驾驶员等级过低，以至于尚未习得强化人间，无法使用ビット，威胁不大。
@@ -1915,7 +1925,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1930,7 +1940,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1958,7 +1968,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`マチルダ・アジャン <srw4_pilots_matilda_ajan>`\ 
+            .. grid-item:: 地形参照  \ :ref:`マチルダ・アジャン <srw4_pilot_matilda_ajan>`\ 
                 :columns: auto
 
 
@@ -1971,7 +1981,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2032,7 +2042,7 @@
     .. grid-item:: 54
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2075,6 +2085,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_medea_commentBegin:
 
 修理机，战斗力基本没有，飞得还慢。在我方的话，需要不惜一切代价保护。在敌方的话记得用幸运干掉，这家伙有和HP不相称的收入。
@@ -2090,7 +2101,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2105,7 +2116,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2135,7 +2146,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2196,7 +2207,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2226,6 +2237,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_ball_commentBegin:
 
 由AEUG士兵驾驶在\ :doc:`../walkthrough/24a_encounter_with_the_aeug`\ 中作为NPC援军出场。你能碰到的最弱的机体。即使是在援军出现前通关，援军也会出现，所以不用为登录到机器人大图鉴中而等待。带领他们的ギリアム・イェーガー能力真的是强啊，这都带得动。
@@ -2249,7 +2261,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2264,7 +2276,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2291,7 +2303,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2352,7 +2364,7 @@
     .. grid-item:: 54
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2395,6 +2407,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_columbus_commentBegin:
 
 
@@ -2409,7 +2422,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2424,7 +2437,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2451,7 +2464,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2512,7 +2525,7 @@
     .. grid-item:: 54
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2542,6 +2555,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_pazock_commentBegin:
 
 

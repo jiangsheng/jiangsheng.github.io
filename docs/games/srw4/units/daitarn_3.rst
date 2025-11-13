@@ -31,7 +31,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -46,7 +46,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -74,7 +74,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`破嵐万丈 <srw4_pilots_banjo_haran>`\ 
+            .. grid-item:: 地形参照  \ :ref:`破嵐万丈 <srw4_pilot_banjo_haran>`\ 
                 :columns: auto
 
 
@@ -87,7 +87,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -148,7 +148,7 @@
     .. grid-item:: 50
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -269,6 +269,7 @@
     .. grid-item:: 130气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_daitarn_3_commentBegin:
 
 泰坦3和盖塔为我军最强机器人。由于机师SP充沛，更兼有魂，单座也不是什么问题。无消耗和低消耗的武器众多，有泰坦锤、泰坦斩和线激光可以选择作为主力改造对象。因机体装甲不错，也可以改造泰坦加农射程作为反击武器。太阳攻击为Boss杀手，应尽早改造。
@@ -284,7 +285,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -299,7 +300,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -327,7 +328,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`破嵐万丈 <srw4_pilots_banjo_haran>`\ 
+            .. grid-item:: 地形参照  \ :ref:`破嵐万丈 <srw4_pilot_banjo_haran>`\ 
                 :columns: auto
 
 
@@ -336,7 +337,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -397,7 +398,7 @@
     .. grid-item:: 50
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -466,6 +467,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_dai_fighter_commentBegin:
 
 
@@ -480,7 +482,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -495,7 +497,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -523,7 +525,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`破嵐万丈 <srw4_pilots_banjo_haran>`\ 
+            .. grid-item:: 地形参照  \ :ref:`破嵐万丈 <srw4_pilot_banjo_haran>`\ 
                 :columns: auto
 
 
@@ -532,7 +534,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -593,7 +595,7 @@
     .. grid-item:: 50
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -636,6 +638,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_dai_tank_commentBegin:
 
 

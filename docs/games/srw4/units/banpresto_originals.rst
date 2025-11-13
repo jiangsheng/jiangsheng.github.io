@@ -32,7 +32,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -47,7 +47,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -75,7 +75,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`真实系女主人公 <srw4_pilots_female_protagonist_real>`\ 
+            .. grid-item:: 地形参照  \ :ref:`真实系女主人公 <srw4_pilot_female_protagonist_real>`\ 
                 :columns: auto
 
 
@@ -88,7 +88,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -149,7 +149,7 @@
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -205,6 +205,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gespenst_real_commentBegin:
 
 中子射线居然不算光线武器，使得敌方重战机和奥拉系的光线防御无效，简直是作弊啊。具有光线防御，很适合和机动战士系以及重战机系敌人战斗。
@@ -224,7 +225,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -239,7 +240,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -267,7 +268,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`真实系男主人公 <srw4_pilots_male_protagonist_real>`\ 
+            .. grid-item:: 地形参照  \ :ref:`真实系男主人公 <srw4_pilot_male_protagonist_real>`\ 
                 :columns: auto
 
 
@@ -280,7 +281,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -341,7 +342,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 50
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -397,6 +398,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 100气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gespenst_super_commentBegin:
 
 粉碎光束仍旧不算光线武器，而且消耗小，堪比盖塔光线或者魔神光线，可以尽快改造。具有光线防御，很适合和机动战士系以及重战机系敌人战斗。
@@ -416,7 +418,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -431,7 +433,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -459,7 +461,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`真实系女主人公 <srw4_pilots_female_protagonist_real>`\ 
+            .. grid-item:: 地形参照  \ :ref:`真实系女主人公 <srw4_pilot_female_protagonist_real>`\ 
                 :columns: auto
 
 
@@ -472,7 +474,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -533,7 +535,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -641,6 +643,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 100气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_huckebein_commentBegin:
 
 凶鸟或者休克拜因在游戏中期入手，是主角老爸的生日礼物。外观是一部高达，虽然设计者是同一个人，但由于版权属于公司或其他原因，存在侵犯版权的情况，以至于在后续作品中消失了很长一段时间。
@@ -660,7 +663,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -675,7 +678,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -703,7 +706,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`真实系女主人公 <srw4_pilots_female_protagonist_real>`\ 
+            .. grid-item:: 地形参照  \ :ref:`真实系女主人公 <srw4_pilot_female_protagonist_real>`\ 
                 :columns: auto
 
 
@@ -716,7 +719,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -777,7 +780,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 49
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -872,6 +875,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 145气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_grungust_commentBegin:
 
 古伦加斯特在游戏中期入手，是主角老爸的生日礼物。加入时可自定义机体名字，グルンガストビーム的名字也随之更改。F完结篇中グルンガストビーム改名成ファイナルビーム，大概是因为加入了声优名字必须固定的原因。
@@ -893,7 +897,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -908,7 +912,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -936,7 +940,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`真实系女主人公 <srw4_pilots_female_protagonist_real>`\ 
+            .. grid-item:: 地形参照  \ :ref:`真实系女主人公 <srw4_pilot_female_protagonist_real>`\ 
                 :columns: auto
 
 
@@ -945,7 +949,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1006,7 +1010,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 49
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1066,6 +1070,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 105气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_wing_gust_commentBegin:
 
 翼加斯特虽然是移动用的形态但是也有对空和宇宙很实用的格斗武器，尤其是对空适应是A，攻击和防御力比机器人形态要强一些。虽然暗剑杀偶尔可以用来打Boss，但是日常和杂兵作战时建议用螺旋攻击。当然如期望其具备和凶鸟同级的作战力则不切实际。
@@ -1085,7 +1090,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1100,7 +1105,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1128,7 +1133,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`真实系女主人公 <srw4_pilots_female_protagonist_real>`\ 
+            .. grid-item:: 地形参照  \ :ref:`真实系女主人公 <srw4_pilot_female_protagonist_real>`\ 
                 :columns: auto
 
 
@@ -1137,7 +1142,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1198,7 +1203,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 49
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1254,6 +1259,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 105气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gust_lander_commentBegin:
 
 重战车形态，大招威力有不反应改造段数的问题。装甲比较厚的炮台，也不畏惧近身的敌人。但是本作并不缺乏真实系来当炮台，所以……
@@ -1269,7 +1275,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1284,7 +1290,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1312,7 +1318,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`マサキ・アンドー <srw4_pilots_masaki_andoh>`\ 
+            .. grid-item:: 地形参照  \ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ 
                 :columns: auto
 
 
@@ -1325,7 +1331,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1386,7 +1392,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 50
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1481,6 +1487,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 140气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_cybuster_commentBegin:
 
 范围很广的サイフラッシュ是消耗EN的，所以改满EN可以放三发。尽管数值很高，但是因为刷级容易，别的武器基本没有改造必要。在缺乏地图武器的B队，应该将其全改造。
@@ -1508,7 +1515,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1523,7 +1530,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1551,7 +1558,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`マサキ・アンドー <srw4_pilots_masaki_andoh>`\ 
+            .. grid-item:: 地形参照  \ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ 
                 :columns: auto
 
 
@@ -1560,7 +1567,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1621,7 +1628,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 50
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1677,6 +1684,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_cybird_commentBegin:
 
 飞行形态，移动力上升，装甲和运动型下降，另外少了很多武器。鉴于经常只有地图武器被改造，用这个模式战斗也无不可。但是碰见强大的敌人还是建议变成机器人形态然后降落到有利地形获得加成。
@@ -1692,7 +1700,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1707,7 +1715,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1735,7 +1743,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ミオ・サスガ <srw4_pilots_mio_sasuga>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ミオ・サスガ <srw4_pilot_mio_sasuga>`\ 
                 :columns: auto
 
 
@@ -1748,7 +1756,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1809,7 +1817,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1891,6 +1899,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_zamzeed_commentBegin:
 
 魔装机里加入比其他人早得多。数据不错的机体，甚至有罕见的HP回复（大），但是被驾驶员拖累了。
@@ -1912,7 +1921,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1927,7 +1936,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1955,7 +1964,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`リューネ・ゾルダーク <srw4_pilots_ryune_zoldark>`\ 
+            .. grid-item:: 地形参照  \ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ 
                 :columns: auto
 
 
@@ -1964,7 +1973,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2025,7 +2034,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 49
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2107,6 +2116,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_valsione_r_commentBegin:
 
 以敌方身份登场。可能被NPC击落，故需尽早由正树进行说得才能入手。第四次中若最终话前总回合数低于320则会脱队。第四次S则无此事件。加入时机体已完成三阶段改造，但是第四次S则武器无改造，
@@ -2124,7 +2134,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2139,7 +2149,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2167,7 +2177,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ホワン・ヤンロン <srw4_pilots_huang_yanglong>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ 
                 :columns: auto
 
 
@@ -2176,7 +2186,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2237,7 +2247,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 49
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2332,6 +2342,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 130气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_grannvale_commentBegin:
 
 古兰维尔登场太晚，在第四次中就算登场也不会立刻加入而是在AB两队的战斗中增援，一直到倒数第二话才可以开始改造，倒数第二话完了还可能离队而导致无改造机会。第四次S则早早加入A队，可以在关键的\ :ref:`栄光の落日 <srw4_walkthrough_36_glorious_sunset>`\ 中充当主力。
@@ -2351,7 +2362,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2366,7 +2377,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2394,7 +2405,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`テュッティ・ノールバック <srw4_pilots_tutty_norback>`\ 
+            .. grid-item:: 地形参照  \ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\ 
                 :columns: auto
 
 
@@ -2403,7 +2414,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2464,7 +2475,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2533,6 +2544,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 130 气力 (100)
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gaddeath_commentBegin:
 
 加蒂斯在第四次中和古兰维尔一样有加入太晚甚至可能离队而导致无法改造的问题。同样这个问题在第四次S中得到改善。地图武器是环形，比较难以使用。
@@ -2550,7 +2562,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2565,7 +2577,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2593,7 +2605,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`シュウ・シラカワ <srw4_pilots_shu_shirakawa>`\ 
+            .. grid-item:: 地形参照  \ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ 
                 :columns: auto
 
 
@@ -2606,7 +2618,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2667,7 +2679,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 50
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2736,6 +2748,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 130气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_granzon_commentBegin:
 
 古兰森是剧情中至关重要的角色。包括《EX》中的拉·吉亚斯事件在内，不可思议的偶然事件频发被揭示为源于其黑洞引擎"奇点"的作用。
@@ -2755,7 +2768,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2770,7 +2783,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2798,7 +2811,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`サフィーネ・グレイス <srw4_pilots_safine_grace>`\ 
+            .. grid-item:: 地形参照  \ :ref:`サフィーネ・グレイス <srw4_pilot_safine_grace>`\ 
                 :columns: auto
 
 
@@ -2807,7 +2820,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2868,7 +2881,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 48
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2924,6 +2937,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 120气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_weesol_kai_commentBegin:
 
 虽曾在战场中多次出现，但实际参战仅限于特定情况下的最终话。敌对时虽处于全改造+气力MAX的强化状态，但因同时登场的瓦尔西昂和新古兰森更具压倒性优势，结果反而显得不够强悍。
@@ -2943,7 +2957,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2958,7 +2972,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2986,7 +3000,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`モニカ・ビルセイア <srw4_pilots_monica_billseia>`\ 
+            .. grid-item:: 地形参照  \ :ref:`モニカ・ビルセイア <srw4_pilot_monica_billseia>`\ 
                 :columns: auto
 
 
@@ -2995,7 +3009,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3056,7 +3070,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3112,6 +3126,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 105气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_nors_ray_commentBegin:
 
 作为敌人时和白河愁一起登场。需注意莫妮卡等级为99，但因机体限界问题易被命中，且耐久力较低，可以作为优先攻击对象。因可使用维修装置，若放任不管可能导致敌机通过维修装置恢复状态。值得一提的是，在本作的重制版《F》及《F完结篇》中，却莫名缺席（仅存未使用的数据）。
@@ -3140,7 +3155,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3155,7 +3170,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3185,7 +3200,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3246,7 +3261,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 52
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3289,6 +3304,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_garoica_commentBegin:
 
 开局被DC大量使用，暗示了他们背后是ゲスト。尽管宇宙适应是A，但是在太空地图上看不到它。不知为何被エリカ在荒野の死闘开出来。
@@ -3306,7 +3322,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3321,7 +3337,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3351,7 +3367,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3412,7 +3428,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 52
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3494,6 +3510,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_kaleitsed_commentBegin:
 
 .. _srw4_unit_kaleitsed_commentEnd:
@@ -3507,7 +3524,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3522,7 +3539,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3552,7 +3569,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3613,7 +3630,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 52
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3682,6 +3699,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_rest_rail_commentBegin:
 
 .. _srw4_unit_rest_rail_commentEnd:
@@ -3695,7 +3713,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3710,7 +3728,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3740,7 +3758,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3801,7 +3819,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 52
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3857,6 +3875,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_grassidow_ryu_commentBegin:
 
 .. _srw4_unit_grassidow_ryu_commentEnd:
@@ -3870,7 +3889,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3885,7 +3904,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3913,7 +3932,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ゼブリーズ・フルシュワ <srw4_pilots_zebris_forschwa>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ゼブリーズ・フルシュワ <srw4_pilot_zebris_forschwa>`\ 
                 :columns: auto
 
 
@@ -3922,7 +3941,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3983,7 +4002,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 69
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4065,6 +4084,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_geios_glud_commentBegin:
 
 .. _srw4_unit_geios_glud_commentEnd:
@@ -4078,7 +4098,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4093,7 +4113,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -4121,7 +4141,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ゼブリーズ・フルシュワ <srw4_pilots_zebris_forschwa>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ゼブリーズ・フルシュワ <srw4_pilot_zebris_forschwa>`\ 
                 :columns: auto
 
 
@@ -4134,7 +4154,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4195,7 +4215,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 69
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4290,6 +4310,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_lige_geios_commentBegin:
 
 .. _srw4_unit_lige_geios_commentEnd:
@@ -4303,7 +4324,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4318,7 +4339,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -4348,7 +4369,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4409,7 +4430,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 52
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4491,6 +4512,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_rest_granshu_commentBegin:
 
 .. _srw4_unit_rest_granshu_commentEnd:
@@ -4504,7 +4526,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4519,7 +4541,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -4547,7 +4569,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`テイニクェット・ゼゼーナン <srw4_pilots_teniquette_zezernan>`\ 
+            .. grid-item:: 地形参照  \ :ref:`テイニクェット・ゼゼーナン <srw4_pilot_teniquette_zezernan>`\ 
                 :columns: auto
 
 
@@ -4560,7 +4582,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4621,7 +4643,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 98
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4690,6 +4712,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_baran_schnile_commentBegin:
 
 .. _srw4_unit_baran_schnile_commentEnd:
@@ -4703,7 +4726,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4718,7 +4741,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -4746,7 +4769,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ギワザ・ロワウ <srw4_pilots_giwaza_lowau>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ギワザ・ロワウ <srw4_pilot_giwaza_lowau>`\ 
                 :columns: auto
 
 
@@ -4755,7 +4778,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4816,7 +4839,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 94
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4885,6 +4908,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_zeranio_commentBegin:
 
 .. _srw4_unit_zeranio_commentEnd:
@@ -4898,7 +4922,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4913,7 +4937,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -4947,7 +4971,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5008,7 +5032,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5064,6 +5088,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mecha_gilgilgan_commentBegin:
 
 
@@ -5078,7 +5103,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5093,7 +5118,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -5121,7 +5146,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`シュウ・シラカワ <srw4_pilots_shu_shirakawa>`\ 
+            .. grid-item:: 地形参照  \ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ 
                 :columns: auto
 
 
@@ -5134,7 +5159,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5195,7 +5220,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 98
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5277,6 +5302,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 135 气力 (0)
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_neo_granzon_commentBegin:
 
 .. _srw4_unit_neo_granzon_commentEnd:
@@ -5290,7 +5316,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5305,7 +5331,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -5339,7 +5365,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5400,7 +5426,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 61
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5443,6 +5469,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_valsione_commentBegin:
 
 .. _srw4_unit_valsione_commentEnd:
@@ -5464,7 +5491,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5479,7 +5506,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -5507,7 +5534,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ギリアム・イェーガー <srw4_pilots_gilliam_yeager>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ギリアム・イェーガー <srw4_pilot_gilliam_yeager>`\ 
                 :columns: auto
 
 
@@ -5520,7 +5547,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5581,7 +5608,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 65
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5650,6 +5677,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gespenst_mk_ii_commentBegin:
 
 仅以真实系机体身份登场的亡灵Mk-II。该机体及其驾驶员基利亚姆均以NPC身份登场，不会加入我方阵营。
@@ -5677,7 +5705,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5692,7 +5720,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -5717,7 +5745,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`テリウス・ビルセイア <srw4_pilots_telius_bilseia>`\ 
+            .. grid-item:: 地形参照  \ :ref:`テリウス・ビルセイア <srw4_pilot_telius_bilseia>`\ 
                 :columns: auto
 
 
@@ -5730,7 +5758,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5791,7 +5819,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5873,6 +5901,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gadifal_commentBegin:
 
 .. _srw4_unit_gadifal_commentEnd:
@@ -5894,7 +5923,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5909,7 +5938,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -5940,7 +5969,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -6001,7 +6030,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 52
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -6070,6 +6099,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 120气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_fake_cybuster_commentBegin:
 
 

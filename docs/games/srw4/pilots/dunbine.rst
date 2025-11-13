@@ -471,7 +471,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_01.png
 
-    .. grid-item:: 登场/加入:第16话
+    .. grid-item:: 登场/加入:第13话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
     .. grid-item:: 编码 01

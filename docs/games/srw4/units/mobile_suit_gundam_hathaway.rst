@@ -31,7 +31,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -44,7 +44,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -71,7 +71,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -130,6 +130,7 @@
     .. grid-item:: 0
     .. grid-item:: 44
     .. grid-item:: 44
+
 .. _srw4_unit_xi_gundam_commentBegin:
 
 废弃数据，没有登场。

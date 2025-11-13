@@ -39,7 +39,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -54,7 +54,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -82,7 +82,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ショウ・ザマ <srw4_pilots_show_zama>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ 
                 :columns: auto
 
 
@@ -95,7 +95,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -156,7 +156,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -238,6 +238,7 @@
     .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_dunbine_commentBegin:
 
 由于比尔拜因正在维修，翔便驾驶了这架丹拜因出场。虽然终于得以作为主角机登场，但机体性能早已跟不上翔的能力，更糟的是无需等待比尔拜因，仅过几话就能获得隐藏机体塞拜因或兹瓦士，而且获取时还必须使用本机的灵能转换器导致其报废，可谓待遇堪忧。虽具备可用性能，但因前述因素往往很快便被弃用。若坚持使用到后期可改造，否则装备芯片直到换机就好。
@@ -255,7 +256,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -270,7 +271,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -298,7 +299,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ショウ・ザマ <srw4_pilots_show_zama>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ 
                 :columns: auto
 
 
@@ -311,7 +312,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -372,7 +373,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -480,6 +481,7 @@
     .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_bilvine_commentBegin:
 
 
@@ -502,7 +504,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -517,7 +519,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -545,7 +547,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ショウ・ザマ <srw4_pilots_show_zama>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ 
                 :columns: auto
 
 
@@ -558,7 +560,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -619,7 +621,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -662,6 +664,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_wing_caliber_commentBegin:
 
 用来赶路的飞行形态。因为本系机师更擅长格斗而本机只有射击武器，不建议在此形态下作战。第四次S改善了装甲。
@@ -677,7 +680,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -692,7 +695,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -720,7 +723,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ガラリア・ニャムヒー <srw4_pilots_garalia_nyamhee>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ 
                 :columns: auto
 
 
@@ -733,7 +736,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -794,7 +797,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -876,6 +879,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_bastole_commentBegin:
 
 巴斯托作为隐藏要素和加拉利亚一起加入。虽然性能较低，但若想将包括加拉利亚在内的三位圣战士全部作为主力使用，就需要对这台机体进行改造。虽说性能较低，但仅是和那些强得犯规的机体相比，于同期加入的波臣和丹拜因仍属优秀，所以此时反而更适合让能使用集中技能的翔或玛贝露驾驶。配合圣战士们的能力，作为全程作战机体完全不成问题。缺点在于宇宙适应为C，不过仅有两话需要在宇宙作战。亦大量作为敌方机体登场。
@@ -893,7 +897,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -908,7 +912,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -936,7 +940,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ニー・ギブン <srw4_pilots_nie_given>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ニー・ギブン <srw4_pilot_nie_given>`\ 
                 :columns: auto
 
 
@@ -949,7 +953,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1010,7 +1014,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1079,6 +1083,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_botune_commentBegin:
 
 波臣作为玛贝露、、尼、基恩的机体登场，但在获得比尔拜因时会强制废弃1架，若满足利姆鲁加入条件则需用莱尼克交换再强制废弃1架。若选择加拉利亚加入路线，则仅能获得玛贝露的1架机体，因此可在获取比尔拜因前自行废弃变现；但需注意若选择加拉利亚未加入路线，自行废弃会导致部分飞行员无机可用。
@@ -1098,7 +1103,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1113,7 +1118,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1141,7 +1146,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`マーベル・フローズン <srw4_pilots_marvel_frozen>`\ 
+            .. grid-item:: 地形参照  \ :ref:`マーベル・フローズン <srw4_pilot_marvel_frozen>`\ 
                 :columns: auto
 
 
@@ -1154,7 +1159,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1215,7 +1220,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 51
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1271,6 +1276,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_sirbine_commentBegin:
 
 在16话中，塞拜因和シルキー同时加入。和ズワウス、ダンバイン三选一。只能进行近战，但是威力强大。
@@ -1296,7 +1302,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1311,7 +1317,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1339,7 +1345,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`マーベル・フローズン <srw4_pilots_marvel_frozen>`\ 
+            .. grid-item:: 地形参照  \ :ref:`マーベル・フローズン <srw4_pilot_marvel_frozen>`\ 
                 :columns: auto
 
 
@@ -1352,7 +1358,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1413,7 +1419,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 52
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1469,6 +1475,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_zwuath_commentBegin:
 
 兹瓦士和シルキー同时加入。和塞拜因、丹拜因三选一。出于某种问题，オーラソード和クラフトドリル的工艺钻共享改造段数。
@@ -1488,7 +1495,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1503,7 +1510,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1531,7 +1538,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`シーラ・ラパーナ <srw4_pilots_ciela_lapana>`\ 
+            .. grid-item:: 地形参照  \ :ref:`シーラ・ラパーナ <srw4_pilot_ciela_lapana>`\ 
                 :columns: auto
 
 
@@ -1544,7 +1551,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1605,7 +1612,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 61
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1661,6 +1668,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_guran_garan_commentBegin:
 
 在加拉利亚没有加入的路线加入。相比ゴラオン，虽然少了两名可有可无的无圣战士能力的机师，但是多了两个妖精，在人员配置方面处于压倒性优势。有移动后可使用的远程武器，速通时可以改造。
@@ -1678,7 +1686,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1693,7 +1701,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1721,7 +1729,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`エレ・ハンム <srw4_pilots_elle_hunm>`\ 
+            .. grid-item:: 地形参照  \ :ref:`エレ・ハンム <srw4_pilot_elle_hunm>`\ 
                 :columns: auto
 
 
@@ -1734,7 +1742,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1795,7 +1803,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 65
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1851,6 +1859,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_goraon_commentBegin:
 
 在加拉利亚加入的路线加入。
@@ -1870,7 +1879,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1885,7 +1894,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1913,7 +1922,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`リムル・ルフト <srw4_pilots_riml_luft>`\ 
+            .. grid-item:: 地形参照  \ :ref:`リムル・ルフト <srw4_pilot_riml_luft>`\ 
                 :columns: auto
 
 
@@ -1926,7 +1935,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1987,7 +1996,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2082,6 +2091,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_wryneck_commentBegin:
 
 隐藏要素，33话中如果救援リムル・ルフト，则会加入我军。在第四次中会因此损失一部波臣，以至于奥拉系会有一个机师无机可开，第四次S没有这个问题。
@@ -2107,7 +2117,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2122,7 +2132,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2150,7 +2160,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`バイストンウェル兵 <srw4_pilots_byston_well_soldier>`\ 
+            .. grid-item:: 地形参照  \ :ref:`バイストンウェル兵 <srw4_pilot_byston_well_soldier>`\ 
                 :columns: auto
 
 
@@ -2163,7 +2173,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2224,7 +2234,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2267,6 +2277,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_drumlo_commentBegin:
 
 
@@ -2281,7 +2292,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2296,7 +2307,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2324,7 +2335,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`バーン・バニングス <srw4_pilots_bern_bunnings>`\ 
+            .. grid-item:: 地形参照  \ :ref:`バーン・バニングス <srw4_pilot_bern_bunnings>`\ 
                 :columns: auto
 
 
@@ -2337,7 +2348,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2398,7 +2409,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2467,6 +2478,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_vierres_commentBegin:
 
 
@@ -2481,7 +2493,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2496,7 +2508,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2524,7 +2536,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ビショット・ハッタ <srw4_pilots_bishot_hatta>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ビショット・ハッタ <srw4_pilot_bishot_hatta>`\ 
                 :columns: auto
 
 
@@ -2537,7 +2549,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2598,7 +2610,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 69
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2641,6 +2653,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gea_garing_commentBegin:
 
 
@@ -2655,7 +2668,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2670,7 +2683,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2698,7 +2711,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ジェリル・クチビ <srw4_pilots_jeril_coochibi>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ジェリル・クチビ <srw4_pilot_jeril_coochibi>`\ 
                 :columns: auto
 
 
@@ -2711,7 +2724,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2772,7 +2785,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2906,6 +2919,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_leprechaun_commentBegin:
 
 
@@ -2920,7 +2934,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2935,7 +2949,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2963,7 +2977,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ドレイク・ルフト <srw4_pilots_drake_luft>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ドレイク・ルフト <srw4_pilot_drake_luft>`\ 
                 :columns: auto
 
 
@@ -2976,7 +2990,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3037,7 +3051,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 69
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3080,6 +3094,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_will_wipps_commentBegin:
 
 
@@ -3094,7 +3109,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3109,7 +3124,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3137,7 +3152,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ジェリル・クチビ <srw4_pilots_jeril_coochibi>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ジェリル・クチビ <srw4_pilot_jeril_coochibi>`\ 
                 :columns: auto
 
 
@@ -3150,7 +3165,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3211,7 +3226,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3345,6 +3360,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_leprechaun_hyper_available_commentBegin:
 
 
@@ -3359,7 +3375,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3374,7 +3390,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3402,7 +3418,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ジェリル・クチビ <srw4_pilots_jeril_coochibi>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ジェリル・クチビ <srw4_pilot_jeril_coochibi>`\ 
                 :columns: auto
 
 
@@ -3415,7 +3431,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3476,7 +3492,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3610,6 +3626,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_hyper_leprechaun_commentBegin:
 
 
@@ -3624,7 +3641,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3639,7 +3656,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3667,7 +3684,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ミュージィ・ポー <srw4_pilots_muzzy_poe>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ミュージィ・ポー <srw4_pilot_muzzy_poe>`\ 
                 :columns: auto
 
 
@@ -3680,7 +3697,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3741,7 +3758,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3823,6 +3840,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_bubuly_commentBegin:
 
 
@@ -3837,7 +3855,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3852,7 +3870,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3880,7 +3898,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ショット・ウェポン <srw4_pilots_shot_weapon>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ショット・ウェポン <srw4_pilot_shot_weapon>`\ 
                 :columns: auto
 
 
@@ -3893,7 +3911,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3954,7 +3972,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 61
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3997,6 +4015,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_sprigan_commentBegin:
 
 
@@ -4011,7 +4030,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4026,7 +4045,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -4054,7 +4073,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`アレン・ブレディ <srw4_pilots_allen_brady>`\ 
+            .. grid-item:: 地形参照  \ :ref:`アレン・ブレディ <srw4_pilot_allen_brady>`\ 
                 :columns: auto
 
 
@@ -4067,7 +4086,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4128,7 +4147,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4210,6 +4229,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_zwarth_commentBegin:
 
 
@@ -4224,7 +4244,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4239,7 +4259,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -4267,7 +4287,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`黒騎士 <srw4_pilots_black_knight>`\ 
+            .. grid-item:: 地形参照  \ :ref:`黒騎士 <srw4_pilot_black_knight>`\ 
                 :columns: auto
 
 
@@ -4280,7 +4300,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4341,7 +4361,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4410,6 +4430,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gallaba_commentBegin:
 
 
@@ -4424,7 +4445,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4439,7 +4460,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -4467,7 +4488,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`トッド・ギネス <srw4_pilots_tod_guines>`\ 
+            .. grid-item:: 地形参照  \ :ref:`トッド・ギネス <srw4_pilot_tod_guines>`\ 
                 :columns: auto
 
 
@@ -4480,7 +4501,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4541,7 +4562,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4636,6 +4657,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_wryneck_hyper_available_commentBegin:
 
 
@@ -4650,7 +4672,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4665,7 +4687,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -4693,7 +4715,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`トッド・ギネス <srw4_pilots_tod_guines>`\ 
+            .. grid-item:: 地形参照  \ :ref:`トッド・ギネス <srw4_pilot_tod_guines>`\ 
                 :columns: auto
 
 
@@ -4706,7 +4728,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4767,7 +4789,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4862,6 +4884,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 140气力聖戦士
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_hyper_wryneck_commentBegin:
 
 第四次中巨大化之后反而丧失了分身能力，第四次S中修正。
@@ -4877,7 +4900,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4892,7 +4915,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -4920,7 +4943,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`黒騎士 <srw4_pilots_black_knight>`\ 
+            .. grid-item:: 地形参照  \ :ref:`黒騎士 <srw4_pilot_black_knight>`\ 
                 :columns: auto
 
 
@@ -4933,7 +4956,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -4994,7 +5017,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5063,6 +5086,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gallaba_hyper_available_commentBegin:
 
 
@@ -5077,7 +5101,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5092,7 +5116,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -5120,7 +5144,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`黒騎士 <srw4_pilots_black_knight>`\ 
+            .. grid-item:: 地形参照  \ :ref:`黒騎士 <srw4_pilot_black_knight>`\ 
                 :columns: auto
 
 
@@ -5133,7 +5157,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5194,7 +5218,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -5263,6 +5287,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_hyper_gallaba_commentBegin:
 
 第四次的废弃数据，第四次S中出场，和ハイパーレプラカーン以及ハイパーライネック比起来，バーン的ハイパーガラバ威力不够，因为没有任何气力提升的事件，而且没有奥拉斩。

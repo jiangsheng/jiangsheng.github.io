@@ -30,7 +30,7 @@ GM III
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -45,7 +45,7 @@ GM III
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -73,7 +73,7 @@ GM III
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`チャック・キース <srw4_pilots_chuck_keith>`\ 
+            .. grid-item:: 地形参照  \ :ref:`チャック・キース <srw4_pilot_chuck_keith>`\ 
                 :columns: auto
 
 
@@ -86,7 +86,7 @@ GM III
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -147,7 +147,7 @@ GM III
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -229,6 +229,7 @@ GM III
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gm_iii_commentBegin:
 
 默认机师没有设定，同时加入的ハサウェイ（哈萨维）、ケーラ（凯拉）和副主人公（如果选择没有恋人）作为默认机师差异又太大，所以没有计算地形补正。
@@ -250,7 +251,7 @@ ZΖガンダム
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -265,7 +266,7 @@ ZΖガンダム
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -293,7 +294,7 @@ ZΖガンダム
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ジュドー・アーシタ <srw4_pilots_judau_ashta>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ 
                 :columns: auto
 
 
@@ -306,7 +307,7 @@ ZΖガンダム
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -367,7 +368,7 @@ ZΖガンダム
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -462,6 +463,7 @@ ZΖガンダム
     .. grid-item:: 100气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_zz_gundam_commentBegin:
 
 机动战士系升级用机，应该优先改造。地图武器比第三次和EX的都要强，可以作为主力资金投入目标。虽然机师捷多缺乏幸运，但是用本机地图炮刷等级的太多，他本来就抢不到本机开，不是什么大问题。双光束步枪射程过短，极易被反击。移动后仅能使用巴尔干和光束剑。不过为了压级起见，本来这些常规武器都不应该被使用，所以不是什么缺点。
@@ -477,7 +479,7 @@ G-フォートレス
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -492,7 +494,7 @@ G-フォートレス
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -520,7 +522,7 @@ G-フォートレス
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ジュドー・アーシタ <srw4_pilots_judau_ashta>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ 
                 :columns: auto
 
 
@@ -529,7 +531,7 @@ G-フォートレス
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -590,7 +592,7 @@ G-フォートレス
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -646,6 +648,7 @@ G-フォートレス
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_g_fortress_commentBegin:
 
 
@@ -660,7 +663,7 @@ G-フォートレス
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -675,7 +678,7 @@ G-フォートレス
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -703,7 +706,7 @@ G-フォートレス
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ブライト・ノア <srw4_pilots_bright_noah>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ブライト・ノア <srw4_pilot_bright_noah>`\ 
                 :columns: auto
 
 
@@ -712,7 +715,7 @@ G-フォートレス
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -773,7 +776,7 @@ G-フォートレス
     .. grid-item:: 94
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -855,6 +858,7 @@ G-フォートレス
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_nahel_argama_commentBegin:
 
 
@@ -869,7 +873,7 @@ G-フォートレス
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -884,7 +888,7 @@ G-フォートレス
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -912,7 +916,7 @@ G-フォートレス
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`エルピー・プル <srw4_pilots_elpeo_ple>`\ 
+            .. grid-item:: 地形参照  \ :ref:`エルピー・プル <srw4_pilot_elpeo_ple>`\ 
                 :columns: auto
 
 
@@ -925,7 +929,7 @@ G-フォートレス
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -986,7 +990,7 @@ G-フォートレス
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1042,6 +1046,7 @@ G-フォートレス
     .. grid-item:: 100气力ニュータイプ
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_qubeley_mk_ii_commentBegin:
 
 真实系路线符合プル和プルツー加入条件可以获得两台。虽然加入时即具备四阶段改造，但因陆地地形适应只有B级及加入时机较晚，可能较少被使用。
@@ -1069,7 +1074,7 @@ G-フォートレス
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1084,7 +1089,7 @@ G-フォートレス
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1114,7 +1119,7 @@ G-フォートレス
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1175,7 +1180,7 @@ G-フォートレス
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1231,6 +1236,7 @@ G-フォートレス
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_galluss_j_commentBegin:
 
 除了陆地的适应性是A之外，其他的能力都不怎么样。
@@ -1246,7 +1252,7 @@ G-フォートレス
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1261,7 +1267,7 @@ G-フォートレス
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1295,7 +1301,7 @@ G-フォートレス
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1356,7 +1362,7 @@ G-フォートレス
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1399,6 +1405,7 @@ G-フォートレス
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_zssa_commentBegin:
 
 完全的杂鱼机。
@@ -1414,7 +1421,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1429,7 +1436,7 @@ R・ジャジャ
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1463,7 +1470,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1524,7 +1531,7 @@ R・ジャジャ
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1580,6 +1587,7 @@ R・ジャジャ
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_r_jarja_commentBegin:
 
 
@@ -1594,7 +1602,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1609,7 +1617,7 @@ R・ジャジャ
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1643,7 +1651,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1704,7 +1712,7 @@ R・ジャジャ
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1773,6 +1781,7 @@ R・ジャジャ
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_bawoo_ms_commentBegin:
 
 
@@ -1787,7 +1796,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1802,7 +1811,7 @@ R・ジャジャ
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1832,7 +1841,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1893,7 +1902,7 @@ R・ジャジャ
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1949,6 +1958,7 @@ R・ジャジャ
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_bawoo_ma_commentBegin:
 
 
@@ -1963,7 +1973,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1978,7 +1988,7 @@ R・ジャジャ
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2008,7 +2018,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2069,7 +2079,7 @@ R・ジャジャ
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2138,6 +2148,7 @@ R・ジャジャ
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_dreissen_commentBegin:
 
 
@@ -2152,7 +2163,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2167,7 +2178,7 @@ R・ジャジャ
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2201,7 +2212,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2262,7 +2273,7 @@ R・ジャジャ
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2396,6 +2407,7 @@ R・ジャジャ
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_doven_wolf_commentBegin:
 
 
@@ -2410,7 +2422,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2425,7 +2437,7 @@ R・ジャジャ
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2459,7 +2471,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2520,7 +2532,7 @@ R・ジャジャ
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2576,6 +2588,7 @@ R・ジャジャ
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_hamma_hamma_commentBegin:
 
 
@@ -2590,7 +2603,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2605,7 +2618,7 @@ R・ジャジャ
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2633,7 +2646,7 @@ R・ジャジャ
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ジャマイカン・ダニンガン <srw4_pilots_jamaican_daninghan>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ジャマイカン・ダニンガン <srw4_pilot_jamaican_daninghan>`\ 
                 :columns: auto
 
 
@@ -2642,7 +2655,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2703,7 +2716,7 @@ R・ジャジャ
     .. grid-item:: 65
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2772,6 +2785,7 @@ R・ジャジャ
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_endra_commentBegin:
 
 
@@ -2786,7 +2800,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2801,7 +2815,7 @@ R・ジャジャ
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2835,7 +2849,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2896,7 +2910,7 @@ R・ジャジャ
     .. grid-item:: 56
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2952,6 +2966,7 @@ R・ジャジャ
     .. grid-item:: 100气力ニュータイプ
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_quin_mantha_commentBegin:
 
 
@@ -2966,7 +2981,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2981,7 +2996,7 @@ R・ジャジャ
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3015,7 +3030,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3076,7 +3091,7 @@ R・ジャジャ
     .. grid-item:: 48
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3197,6 +3212,7 @@ R・ジャジャ
     .. grid-item:: 100气力ニュータイプ
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_geymalk_commentBegin:
 
 
@@ -3219,7 +3235,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3234,7 +3250,7 @@ R・ジャジャ
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -3262,7 +3278,7 @@ R・ジャジャ
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ハマーン・カーン <srw4_pilots_haman_karn>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ハマーン・カーン <srw4_pilot_haman_karn>`\ 
                 :columns: auto
 
 
@@ -3271,7 +3287,7 @@ R・ジャジャ
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3332,7 +3348,7 @@ R・ジャジャ
     .. grid-item:: 94
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -3414,6 +3430,7 @@ R・ジャジャ
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_sadalahn_commentBegin:
 
 

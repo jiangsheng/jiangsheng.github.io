@@ -30,7 +30,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -45,7 +45,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -73,7 +73,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`トーレス <srw4_pilots_torres>`\ 
+            .. grid-item:: 地形参照  \ :ref:`トーレス <srw4_pilot_torres>`\ 
                 :columns: auto
 
 
@@ -82,7 +82,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -143,7 +143,7 @@
     .. grid-item:: 59
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -212,6 +212,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_trojan_horse_commentBegin:
 
 特洛伊木马号是地球联邦军建造的天马级两栖攻击舰的第五艘。代替在上一次大战中已达到极限的白色基地作为朗德·贝尔的第一艘母舰。最初驾驶员是托雷斯，后来是布莱德。由于反复的艰苦战斗而没有适当的补给和维护，最终遭遇了与白色基地相同的命运。
@@ -235,7 +236,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -250,7 +251,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -278,7 +279,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`バーナード・ワイズマン <srw4_pilots_bernard_wiseman>`\ 
+            .. grid-item:: 地形参照  \ :ref:`バーナード・ワイズマン <srw4_pilot_bernard_wiseman>`\ 
                 :columns: auto
 
 
@@ -291,7 +292,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -352,7 +353,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -434,6 +435,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_zaku_kai_commentBegin:
 
 实际上作为隐藏出现，第一关过于简单以至于会被初玩者错过。
@@ -460,7 +462,7 @@ NT-1アレックス
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -475,7 +477,7 @@ NT-1アレックス
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -503,7 +505,7 @@ NT-1アレックス
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`クリスチーナ・マッケンジー <srw4_pilots_christina_mackenzie>`\ 
+            .. grid-item:: 地形参照  \ :ref:`クリスチーナ・マッケンジー <srw4_pilot_christina_mackenzie>`\ 
                 :columns: auto
 
 
@@ -516,7 +518,7 @@ NT-1アレックス
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -577,7 +579,7 @@ NT-1アレックス
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -646,6 +648,7 @@ NT-1アレックス
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_nt_1_alex_commentBegin:
 
 第四次里面会在\ :doc:`../walkthrough/36_glorious_sunset`\ 之后强制废弃。第四次S无此事件，但是战力还是很弱。
@@ -671,7 +674,7 @@ NT-1アレックス
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -686,7 +689,7 @@ NT-1アレックス
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -720,7 +723,7 @@ NT-1アレックス
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -781,7 +784,7 @@ NT-1アレックス
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -876,6 +879,7 @@ NT-1アレックス
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_kampfer_commentBegin:
 
 很奇怪地武器全体对海适应都是A，但是机体本身的海中适应是C，只适合在岸边对付海中的敌人。在\ :doc:`../walkthrough/06a_stampede`\ 这一话中会作为NPC援军登场。
@@ -891,7 +895,7 @@ NT-1アレックス
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -906,7 +910,7 @@ NT-1アレックス
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -936,7 +940,7 @@ NT-1アレックス
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -997,7 +1001,7 @@ NT-1アレックス
     .. grid-item:: 56
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1053,6 +1057,7 @@ NT-1アレックス
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_musai_kai_commentBegin:
 
 
@@ -1075,7 +1080,7 @@ NT-1アレックス
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1090,7 +1095,7 @@ NT-1アレックス
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1117,7 +1122,7 @@ NT-1アレックス
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1178,7 +1183,7 @@ NT-1アレックス
     .. grid-item:: 65
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1247,6 +1252,7 @@ NT-1アレックス
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_graf_zeppelin_commentBegin:
 
 

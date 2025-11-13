@@ -30,7 +30,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -45,7 +45,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -73,7 +73,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`竜崎一矢 <srw4_pilots_kazuya_ryuzaki>`\ 
+            .. grid-item:: 地形参照  \ :ref:`竜崎一矢 <srw4_pilot_kazuya_ryuzaki>`\ 
                 :columns: auto
 
 
@@ -82,7 +82,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -143,7 +143,7 @@
     .. grid-item:: 48
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -329,6 +329,7 @@
     .. grid-item:: 135气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_daimos_commentBegin:
 
 戴莫斯是开局之后加入部队的第一个超级机器人。当然也是最弱的一个。装甲比较差，所以虽然可以飞，但是只有在陆地上才能发挥最大能力（默认移动方式是飞行），所以开战之后还是陆行吧。
@@ -354,7 +355,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -369,7 +370,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -397,7 +398,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`桜野マリ <srw4_pilots_mari_sakurano>`\ 
+            .. grid-item:: 地形参照  \ :ref:`桜野マリ <srw4_pilot_mari_sakurano>`\ 
                 :columns: auto
 
 
@@ -406,7 +407,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -467,7 +468,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -523,6 +524,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_galva_fx_ii_commentBegin:
 
 基本没有战斗能力，敌方集火的目标，因为战斗机机师们也需要练级，所以还是要改造一下。地形适应优秀，攻击力可达初期MS级别。因为有补给装置，出场纪律比戴莫斯要高得多。
@@ -548,7 +550,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -563,7 +565,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -591,7 +593,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`バルバス将軍 <srw4_pilots_balbas>`\ 
+            .. grid-item:: 地形参照  \ :ref:`バルバス将軍 <srw4_pilot_balbas>`\ 
                 :columns: auto
 
 
@@ -600,7 +602,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -661,7 +663,7 @@
     .. grid-item:: 48
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -717,6 +719,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mecha_warrior_sonnekaiser_commentBegin:
 
 攻强守弱的突击队员。还是早点干掉比较好。一开始是バルバス将軍的座机，后期就成为了バーム軍的量产杂鱼机。
@@ -732,7 +735,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -747,7 +750,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -775,7 +778,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`リヒテル提督 <srw4_pilots_richter>`\ 
+            .. grid-item:: 地形参照  \ :ref:`リヒテル提督 <srw4_pilot_richter>`\ 
                 :columns: auto
 
 
@@ -784,7 +787,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -845,7 +848,7 @@
     .. grid-item:: 56
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -901,6 +904,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_guranrol_commentBegin:
 
 敌军里比较弱的战舰，大招对海能力略差。
@@ -916,7 +920,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -931,7 +935,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -959,7 +963,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`アイザム <srw4_pilots_aizam>`\ 
+            .. grid-item:: 地形参照  \ :ref:`アイザム <srw4_pilot_aizam>`\ 
                 :columns: auto
 
 
@@ -972,7 +976,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1033,7 +1037,7 @@
     .. grid-item:: 48
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1102,6 +1106,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mecha_warrior_gimeria_commentBegin:
 
 
@@ -1116,7 +1121,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1131,7 +1136,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1159,7 +1164,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`バルバス将軍 <srw4_pilots_balbas>`\ 
+            .. grid-item:: 地形参照  \ :ref:`バルバス将軍 <srw4_pilot_balbas>`\ 
                 :columns: auto
 
 
@@ -1168,7 +1173,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1229,7 +1234,7 @@
     .. grid-item:: 52
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1285,6 +1290,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mecha_warrior_goddoamon_commentBegin:
 
 

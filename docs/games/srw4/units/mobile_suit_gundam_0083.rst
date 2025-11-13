@@ -30,7 +30,7 @@ GP-01Fb
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -45,7 +45,7 @@ GP-01Fb
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -73,7 +73,7 @@ GP-01Fb
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`コウ・ウラキ <srw4_pilots_kou_uraki>`\ 
+            .. grid-item:: 地形参照  \ :ref:`コウ・ウラキ <srw4_pilot_kou_uraki>`\ 
                 :columns: auto
 
 
@@ -86,7 +86,7 @@ GP-01Fb
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -147,7 +147,7 @@ GP-01Fb
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -216,6 +216,7 @@ GP-01Fb
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gp_01fb_commentBegin:
 
 GP-01为宇宙战改造的高机动版本，但是在本作中宇宙战还没开始，GP-03ステイメン入手时就废弃了（可以提前卖掉换钱）。改造段数不被GP-03继承，所以不建议改造。
@@ -233,7 +234,7 @@ GP-03デンドロビウム
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -248,7 +249,7 @@ GP-03デンドロビウム
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -276,7 +277,7 @@ GP-03デンドロビウム
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`コウ・ウラキ <srw4_pilots_kou_uraki>`\ 
+            .. grid-item:: 地形参照  \ :ref:`コウ・ウラキ <srw4_pilot_kou_uraki>`\ 
                 :columns: auto
 
 
@@ -289,7 +290,7 @@ GP-03デンドロビウム
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -350,7 +351,7 @@ GP-03デンドロビウム
     .. grid-item:: 50
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -458,6 +459,7 @@ GP-03デンドロビウム
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gp_03_dendrobium_commentBegin:
 
 改造继承自GP-03デンドロビウム。希望你没有不小心改造了GP-03デンドロビウム。
@@ -480,7 +482,7 @@ GP-03ステイメン  (后期)
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -495,7 +497,7 @@ GP-03ステイメン  (后期)
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -523,7 +525,7 @@ GP-03ステイメン  (后期)
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`コウ・ウラキ <srw4_pilots_kou_uraki>`\ 
+            .. grid-item:: 地形参照  \ :ref:`コウ・ウラキ <srw4_pilot_kou_uraki>`\ 
                 :columns: auto
 
 
@@ -536,7 +538,7 @@ GP-03ステイメン  (后期)
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -597,7 +599,7 @@ GP-03ステイメン  (后期)
     .. grid-item:: 51
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -653,6 +655,7 @@ GP-03ステイメン  (后期)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gp_03_staymen_final_commentBegin:
 
 因为游戏的变身机制，在过关的时候本机会变回未分离的GP-03デンドロビウム，所以初期加入的是另外一台机体，只不过能力和图像完全相同，改造段数也继承，修理费变得很贵。
@@ -668,7 +671,7 @@ GP-03ステイメン (初期)
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -683,7 +686,7 @@ GP-03ステイメン (初期)
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -711,7 +714,7 @@ GP-03ステイメン (初期)
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`コウ・ウラキ <srw4_pilots_kou_uraki>`\ 
+            .. grid-item:: 地形参照  \ :ref:`コウ・ウラキ <srw4_pilot_kou_uraki>`\ 
                 :columns: auto
 
 
@@ -724,7 +727,7 @@ GP-03ステイメン (初期)
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -785,7 +788,7 @@ GP-03ステイメン (初期)
     .. grid-item:: 51
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -841,6 +844,7 @@ GP-03ステイメン (初期)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gp_03_staymen_first_commentBegin:
 
 不建议改造，因为最后会升级成非常不实用的GP-03デンドロビウム。仍然是可靠的探宝机。
@@ -860,7 +864,7 @@ GP-02A
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -875,7 +879,7 @@ GP-02A
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -903,7 +907,7 @@ GP-02A
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`アナベル・ガトー <srw4_pilots_anavel_gato>`\ 
+            .. grid-item:: 地形参照  \ :ref:`アナベル・ガトー <srw4_pilot_anavel_gato>`\ 
                 :columns: auto
 
 
@@ -916,7 +920,7 @@ GP-02A
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -977,7 +981,7 @@ GP-02A
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1046,6 +1050,7 @@ GP-02A
     .. grid-item:: 100气力
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gp_02a_commentBegin:
 
 
@@ -1076,7 +1081,7 @@ GP-02A
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1091,7 +1096,7 @@ GP-02A
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1119,7 +1124,7 @@ GP-02A
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`シーマ・ガラハウ <srw4_pilots_cima_garahau>`\ 
+            .. grid-item:: 地形参照  \ :ref:`シーマ・ガラハウ <srw4_pilot_cima_garahau>`\ 
                 :columns: auto
 
 
@@ -1132,7 +1137,7 @@ GP-02A
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1193,7 +1198,7 @@ GP-02A
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1249,6 +1254,7 @@ GP-02A
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_gerbera_tetra_commentBegin:
 
 移动力超高的机动战士，不过攻击力就不怎么样了。第四次里只在救援运输机的时候出战一话，第四次S里则在グレートマジンガー奪回有再次出场。
@@ -1264,7 +1270,7 @@ GP-02A
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1279,7 +1285,7 @@ GP-02A
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1307,7 +1313,7 @@ GP-02A
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ケリィ・レズナー <srw4_pilots_kelly_layzner>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ケリィ・レズナー <srw4_pilot_kelly_layzner>`\ 
                 :columns: auto
 
 
@@ -1316,7 +1322,7 @@ GP-02A
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1377,7 +1383,7 @@ GP-02A
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1459,6 +1465,7 @@ GP-02A
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_val_walo_commentBegin:
 
 
@@ -1473,7 +1480,7 @@ GP-02A
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1488,7 +1495,7 @@ GP-02A
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1516,7 +1523,7 @@ GP-02A
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`アナベル・ガトー <srw4_pilots_anavel_gato>`\ 
+            .. grid-item:: 地形参照  \ :ref:`アナベル・ガトー <srw4_pilot_anavel_gato>`\ 
                 :columns: auto
 
 
@@ -1529,7 +1536,7 @@ GP-02A
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1590,7 +1597,7 @@ GP-02A
     .. grid-item:: 49
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1685,6 +1692,7 @@ GP-02A
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_neue_ziel_commentBegin:
 
 攻强守弱的武器库，可能原先考虑过和F完结篇一样加入我军。

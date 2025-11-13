@@ -30,7 +30,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -45,7 +45,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -73,7 +73,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ルー・ルカ <srw4_pilots_roux_louka>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ルー・ルカ <srw4_pilot_roux_louka>`\ 
                 :columns: auto
 
 
@@ -86,7 +86,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -147,7 +147,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -229,6 +229,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_jegan_commentBegin:
 
 地球联邦军的主力量产机。在本作出现的吉姆系列（尼莫、GM III和杰刚）量产机器中，它的性能名列第一，但是还是不如灵格斯。
@@ -250,7 +251,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -265,7 +266,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -293,7 +294,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ルー・ルカ <srw4_pilots_roux_louka>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ルー・ルカ <srw4_pilot_roux_louka>`\ 
                 :columns: auto
 
 
@@ -302,7 +303,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -363,7 +364,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -419,6 +420,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_ri_gazi_ma_commentBegin:
 
 灵格斯在护卫3台ミデア成功的话会入手一台。虽然加入时没有默认机师，这里使用ルー・ルカ作为默认机师计算地形补正。
@@ -443,7 +445,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -458,7 +460,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -486,7 +488,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ルー・ルカ <srw4_pilots_roux_louka>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ルー・ルカ <srw4_pilot_roux_louka>`\ 
                 :columns: auto
 
 
@@ -499,7 +501,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -560,7 +562,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -642,6 +644,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_ri_gazi_ms_commentBegin:
 
 基本上类似改造了一段的杰刚。具有初期少见的移动后可攻击还能对空的远程武器，还具有射程为7的光束步枪，速通收白河愁的时候有用。因为和MA形态共享机体的改造段数的原因，生存力也比较高。因为运动性较高，游戏初期可以用来训练低级角色，G防卫者号入手之后就由超级高达继续这个任务。如果走第四次S中从陆B变成了陆A，战力更强了。
@@ -657,7 +660,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -672,7 +675,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -700,7 +703,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`アムロ・レイ <srw4_pilots_amuro_ray>`\ 
+            .. grid-item:: 地形参照  \ :ref:`アムロ・レイ <srw4_pilot_amuro_ray>`\ 
                 :columns: auto
 
 
@@ -713,7 +716,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -774,7 +777,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -882,6 +885,7 @@
     .. grid-item:: 100气力ニュータイプ
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_nu_gundam_commentBegin:
 
 游戏中期入手。虽然射程为9，但是游戏后半段敌人小兵的射程也达到了9，所以需要高性能雷达才可以从射程外攻击大多数敌人。加装两个的话，就只有最终BOSS射程能与之相比了。
@@ -901,7 +905,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -916,7 +920,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -944,7 +948,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`クェス・パラヤ <srw4_pilots_quess_paraya>`\ 
+            .. grid-item:: 地形参照  \ :ref:`クェス・パラヤ <srw4_pilot_quess_paraya>`\ 
                 :columns: auto
 
 
@@ -957,7 +961,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1018,7 +1022,7 @@
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1100,6 +1104,7 @@
     .. grid-item:: 100气力ニュータイプ
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_jagd_doga_red_commentBegin:
 
 作为真实系限定的隐藏要素，和柯丝一起加入。由于登场时敌人也有一些射程为9的机体而地形适应欠佳，需加装高性能雷达以避免被反击。无论如何，并不是一台很值得投入资金改造的机体。
@@ -1115,7 +1120,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1130,7 +1135,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1158,7 +1163,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ブライト・ノア <srw4_pilots_bright_noah>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ブライト・ノア <srw4_pilot_bright_noah>`\ 
                 :columns: auto
 
 
@@ -1167,7 +1172,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1228,7 +1233,7 @@
     .. grid-item:: 98
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1310,7 +1315,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-        
+
 .. _srw4_unit_ra_cailum_commentBegin:
 
 在\ :doc:`../walkthrough/36_glorious_sunset`\ 通关之后入手。继承ネェル・アーガマ的改造。因为会和奥拉系主舰分队的原因，基本总是强迫出击的对象。
@@ -1330,7 +1335,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1345,7 +1350,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1373,7 +1378,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`クワトロ・バジーナ <srw4_pilots_quattro_bajeena>`\ 
+            .. grid-item:: 地形参照  \ :ref:`クワトロ・バジーナ <srw4_pilot_quattro_bajeena>`\ 
                 :columns: auto
 
 
@@ -1386,7 +1391,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1447,7 +1452,7 @@
     .. grid-item:: 48
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1529,6 +1534,7 @@
     .. grid-item:: 100气力ニュータイプ
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_sazabi_commentBegin:
 
 作为隐藏集体，在クワトロ未离队的时候可以有条件入手。陆地适应达A级，属于顶级MS。如选择超级系主角，因为第42话会是最难的一个版本的云隐，应尽量争取入手本机。遗憾的是浮游炮仅为6发，不过用地图炮刷机批量制造有补给的机师可以弥补。
@@ -1552,7 +1558,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1567,7 +1573,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1601,7 +1607,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1662,7 +1668,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1731,6 +1737,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_geara_doga_green_commentBegin:
 
 
@@ -1745,7 +1752,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1760,7 +1767,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1794,7 +1801,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1855,7 +1862,7 @@
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1937,6 +1944,7 @@
     .. grid-item:: 100气力ニュータイプ
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_jagd_doga_blue_commentBegin:
 
 
@@ -1951,7 +1959,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1966,7 +1974,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2000,7 +2008,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2061,7 +2069,7 @@
     .. grid-item:: 54
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2130,6 +2138,7 @@
     .. grid-item:: 100气力ニュータイプ
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_alpha_azieru_commentBegin:
 
 
@@ -2144,7 +2153,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2159,7 +2168,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2187,7 +2196,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ジャマイカン・ダニンガン <srw4_pilots_jamaican_daninghan>`\ 
+            .. grid-item:: 地形参照  \ :ref:`ジャマイカン・ダニンガン <srw4_pilot_jamaican_daninghan>`\ 
                 :columns: auto
 
 
@@ -2196,7 +2205,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2257,7 +2266,7 @@
     .. grid-item:: 77
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2339,6 +2348,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_rewloola_commentBegin:
 
 
@@ -2361,7 +2371,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2376,7 +2386,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2403,7 +2413,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2464,7 +2474,7 @@
     .. grid-item:: 46
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2533,6 +2543,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_geara_doga_upgraded_commentBegin:
 
 
@@ -2547,7 +2558,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2560,7 +2571,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2587,7 +2598,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2646,6 +2657,7 @@
     .. grid-item:: 0
     .. grid-item:: 44
     .. grid-item:: 44
+
 .. _srw4_unit_nightingale_commentBegin:
 
 

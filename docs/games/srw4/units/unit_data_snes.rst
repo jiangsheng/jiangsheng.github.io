@@ -865,7 +865,7 @@
    * - 2B
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_2B_B.png
-     - \ :ref:`ボスボロット<srw4_unit_boss_borot>`\ 
+     - \ :ref:`ボスボロット <srw4_unit_boss_borot>`\ 
      - Boss Borot
      - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 2900
@@ -6138,6 +6138,7 @@
     <script>
       units_datatable_init('srw4-units-snes-table');
     </script>
+
 
 
 

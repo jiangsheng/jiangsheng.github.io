@@ -32,7 +32,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -47,7 +47,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -77,7 +77,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -138,7 +138,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -194,6 +194,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_marine_spacer_commentBegin:
 
 对海作战机体，武器虽然账面数值高，但是对于海洋之外的地形的敌人会比较弱。
@@ -216,7 +217,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -231,7 +232,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -259,7 +260,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`マリア・フリード <srw4_pilots_maria_fleed>`\ 
+            .. grid-item:: 地形参照  \ :ref:`マリア・フリード <srw4_pilot_maria_fleed>`\ 
                 :columns: auto
 
 
@@ -268,7 +269,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -329,7 +330,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -385,6 +386,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_drill_spider_commentBegin:
 
 钻头太空机在14话由玛丽亚驾驶登场。无消耗的大招很少见，后期分队之前应该让牧場ひかる切换到它上面，这样ダブルスペイザー可以在经常打到弹尽粮绝的オルドナ＝ポセイダル这一话中和グレートマジンガー起作为影响战局的消耗低的超级系机体。
@@ -406,7 +408,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -421,7 +423,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -449,7 +451,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`デューク・フリード <srw4_pilots_duke_fleed>`\ 
+            .. grid-item:: 地形参照  \ :ref:`デューク・フリード <srw4_pilot_duke_fleed>`\ 
                 :columns: auto
 
 
@@ -458,7 +460,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -519,7 +521,7 @@
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -614,6 +616,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_grendizer_commentBegin:
 
 弗里德星制造的超级机器人，可与支援的太空战斗机对接合体。但是原作设定是背部未配备飞行装置，靠跳跃能力对付空中敌人，而不是像本作一样可以自行浮空。如果罗莎米娅在抢夺机体事件时无可用机体，会炸毁本机和Z高达逃离。
@@ -639,7 +642,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -654,7 +657,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -682,7 +685,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`デューク・フリード <srw4_pilots_duke_fleed>`\ 
+            .. grid-item:: 地形参照  \ :ref:`デューク・フリード <srw4_pilot_duke_fleed>`\ 
                 :columns: auto
 
 
@@ -691,7 +694,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -752,7 +755,7 @@
     .. grid-item:: 47
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -873,6 +876,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_spacer_commentBegin:
 
 飞行形态，比机器人形态多了一些武器，移动力也有所增强。第四次S中对空适应提升到A，但是由于要合体练级，这个形态基本没有什么作用。
@@ -889,7 +893,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -904,7 +908,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -932,7 +936,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`牧場ひかる <srw4_pilots_hikaru_makiba>`\ 
+            .. grid-item:: 地形参照  \ :ref:`牧場ひかる <srw4_pilot_hikaru_makiba>`\ 
                 :columns: auto
 
 
@@ -941,7 +945,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1002,7 +1006,7 @@
     .. grid-item:: 45
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1058,6 +1062,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_double_spacer_commentBegin:
 
 双太空机24话和古连泰沙一起登场。其性能在三款太空机中最为出色。然而因为登场时已有古连泰沙，基本没有单独战斗机会。
@@ -1077,7 +1082,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1092,7 +1097,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1120,7 +1125,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`デューク・フリード <srw4_pilots_duke_fleed>`\ 
+            .. grid-item:: 地形参照  \ :ref:`デューク・フリード <srw4_pilot_duke_fleed>`\ 
                 :columns: auto
 
 
@@ -1129,7 +1134,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1190,7 +1195,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1324,6 +1329,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_grendizer_ws_commentBegin:
 
 和双太空机的合体形态。移动力较高，但是因为双太空机的本身武器残弹较少，仍旧有续航问题。
@@ -1339,7 +1345,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1354,7 +1360,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1382,7 +1388,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`デューク・フリード <srw4_pilots_duke_fleed>`\ 
+            .. grid-item:: 地形参照  \ :ref:`デューク・フリード <srw4_pilot_duke_fleed>`\ 
                 :columns: auto
 
 
@@ -1391,7 +1397,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1452,7 +1458,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1586,6 +1592,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_grendizer_ds_commentBegin:
 
 和钻头太空机的合体形态。无消耗的钻头攻击非常实用，大大改善续航，在EN消耗完之后也能继续战斗。这时候相当于一个升级了HP、装甲和地形适应的大号钻头太空机。
@@ -1601,7 +1608,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1616,7 +1623,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1644,7 +1651,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`デューク・フリード <srw4_pilots_duke_fleed>`\ 
+            .. grid-item:: 地形参照  \ :ref:`デューク・フリード <srw4_pilot_duke_fleed>`\ 
                 :columns: auto
 
 
@@ -1653,7 +1660,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1714,7 +1721,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1848,6 +1855,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_grendizer_ms_commentBegin:
 
 和海太空机的合体形态。本作海战太少，基本没有选择这个形态的意义。
@@ -1871,7 +1879,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1886,7 +1894,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -1916,7 +1924,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -1977,7 +1985,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2020,6 +2028,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_minifo_commentBegin:
 
 
@@ -2034,7 +2043,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2049,7 +2058,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2079,7 +2088,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2140,7 +2149,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2200,6 +2209,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_saucer_beast_girugiru_commentBegin:
 
 皮粗肉厚，不过默认移动类型是空，而空中适应是B，造成攻防能力要打个折扣。
@@ -2217,7 +2227,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2232,7 +2242,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2262,7 +2272,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2323,7 +2333,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2379,6 +2389,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_saucer_beast_dekideki_commentBegin:
 
 
@@ -2393,7 +2404,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2408,7 +2419,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2438,7 +2449,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2499,7 +2510,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2555,6 +2566,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_saucer_beast_gosgos_commentBegin:
 
 
@@ -2569,7 +2581,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2584,7 +2596,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2614,7 +2626,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2675,7 +2687,7 @@
     .. grid-item:: 44
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2718,6 +2730,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_vega_beast_king_gori_commentBegin:
 
 
@@ -2732,7 +2745,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2747,7 +2760,7 @@
         :columns: 9
 
         .. grid:: 
-            :gutter: 3
+            :gutter: 0
             :margin: 0
             :padding: 0
 
@@ -2777,7 +2790,7 @@
 
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2838,7 +2851,7 @@
     .. grid-item:: 52
 
 .. grid:: 
-    :gutter: 3
+    :gutter: 0
     :margin: 0
     :padding: 0
     :outline:
@@ -2894,6 +2907,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
+
 .. _srw4_unit_mother_burn_commentBegin:
 
 
