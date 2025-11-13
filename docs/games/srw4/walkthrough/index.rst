@@ -566,7 +566,7 @@
 
         .. image:: ../units/images/portrait/srw4_units_portrait_53.png 
         
-        | :doc:`グランゾンの謎 <27_granzon_s_enigma>`
+        | :ref:`グランゾンの謎 <srw4_walkthrough_27_granzon_s_enigma>`
         | SRW4S：加入机体：サイバスター
         | SRW4S：加入机师：マサキ
         | SRW4：离队：GMIII
