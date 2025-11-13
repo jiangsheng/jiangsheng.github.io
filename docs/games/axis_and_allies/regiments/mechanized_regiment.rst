@@ -17,7 +17,7 @@ Mechanized units (including those included mixed in infantry and tank regiments)
 -----------------------
 Halftrack Regiment
 -----------------------
-Halftracks are machine guns on wheels. Great to chase down routed infantries but useless against armor. Generally speaking you should use the halftracks that come with the anti-tank or artillery regiments as there will be less infantries from now on.
+Halftracks are machine guns on wheels. Great to chase down routed infantries but useless against armor. Generally speaking, you should use the halftracks that come with the anti-tank or artillery regiments as there will be less infantries from now on.
 
 ----------------------------------------------
 Anti-aircraft Halftrack Regiment
@@ -44,7 +44,7 @@ Rocket Truck Regiment
 ----------------------------------------------
 .. _axis_and_allies_regiment_mechanized_rocket_truck:
 
-USSR only, requires Artillery Brigade and Rocket Truck upgrade. It is also mix of infantry, halftracks and tank with a focus on rocket truck. However the rocket truck does large area in half of the artillery range with minimal damage, and has a long reloading cool down, making them unsuitable for defending a single enemy regiment. It is best used on offense as support.
+USSR only, requires Artillery Brigade and Rocket Truck upgrade. It is also mix of infantry, halftracks and tank with a focus on rocket truck. However, the rocket truck does large area in half of the artillery range with minimal damage, and has a long reloading cool down, making them unsuitable for defending a single enemy regiment. It is best used on offense as support.
 
 ----------------------------------------------
 Tankette Regiment

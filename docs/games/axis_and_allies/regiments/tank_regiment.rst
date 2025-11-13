@@ -6,7 +6,7 @@
 Tanks  (Axis and Allies)
 =================================
 
-Tanks are the most expensive regiments in the game, for good reasons. They have the best firepower and can take heavy damage. Generally speaking you should begin producing them as soon as possible.
+Tanks are the most expensive regiments in the game, for good reasons. They have the best firepower and can take heavy damage. Generally speaking, you should begin producing them as soon as possible.
 
 Each tank regiment has a commander tank. The tank units (including those mixed with mechanized regiments) have both Tank and Vehicle :ref:`attributes<axis_and_allies_attributes>`, which gives them 60% Gunfire and 40% Explosive resistance. 
 
@@ -18,12 +18,12 @@ The basic tank that does not require further structure or research. Good for ear
 --------------------
 Medium Tank Regiment
 --------------------
-Requires Motor pool. A balance of cost, armor, speed and firepower. generally preferred over other tanks as the backbone of your army. The Japanese variant has 4 tanks instead of the regular 3. For a very prolonged battle when you are facing heavy tanks and artillery you want to replace them with heavier tanks or artillery. Except the British whose the medium tanks are kinda weak without the tech upgrades and you may as well go without them. 
+Requires Motor pool. A balance of cost, armor, speed and firepower. generally preferred over other tanks as the backbone of your army. The Japanese variant has 4 tanks instead of the regular 3. For a very prolonged battle when you are facing heavy tanks and artillery you want to replace them with heavier tanks or artillery. Except the British, their medium tanks are kind of weak without the tech upgrades and you may as well go without them. 
 
 --------------------
 Heavy Tank Regiment
 --------------------
-Requires Motor pool and Heavy Tank upgrade. Available to all but JPN. Powerful but slow and expensive. Need to group with other tanks to not waste firepower on cannon fodders. Can survive a Nuke. Better with artillery or air support. Only USSR and German ones are good. The others are better off with with artillery.
+Requires Motor pool and Heavy Tank upgrade. Available to all but JPN. Powerful but slow and expensive. Need to group with other tanks to not waste firepower on cannon fodders. Can survive a Nuke. Better with artillery or air support. Only USSR and German ones are good. The others are better off with artillery.
 
 --------------------------------
 Anti-Aircraft Tank Regiment
@@ -33,14 +33,14 @@ Requires Engineer Brigade. Basically a Light Tank Regiment plus two anti-aircraf
 --------------------------------
 Artillery Tank Regiment
 --------------------------------
-Requires Artillery Brigade. Basically a Light Tank Regiment plus two self-propelled artillery, except for the Japanese where they have 3 Medium Tanks. Higher damage than their halftrack counterparts and larger AOE area. Too weak for close range, group them with other tank types for protection. And they have very high moral damage and larger damage area, good for attacking defensive formations. If enemies are supplied by a city, you can also bombard the city center to deny them supply. 
+Requires Artillery Brigade. Basically a Light Tank Regiment plus two self-propelled artilleries, except for the Japanese where they have 3 Medium Tanks. Higher damage than their halftrack counterparts and larger AOE area. Too weak for close range, group them with other tank types for protection. And they have very high moral damage and larger damage area, good for attacking defensive formations. If enemies are supplied by a city, you can also bombard the city center to deny them supply. 
 
 The default attack action would cause the regiment to bombard the front units, usually cannon fodders. Always use the bombard action to target high valuable units when you can. 
 
 --------------------------------
 Armored Tank Regiment
 --------------------------------
-USA Only. Requires Infantry, Mechanized and Armor HQs. Similar to a mechanized infantry regiment, but with more tanks instead of halftracks. Having the same speed disadvantage it is also only good for defense, but more successful against enemy armor.  
+USA Only. Requires Infantry, Mechanized and Armor HQs. Similar to a mechanized infantry regiment, but with more tanks instead of halftracks. Having the same speed disadvantage, it is also only good for defense, but more successful against enemy armor.  
 
 --------------------------------
 Flame Tank Regiment
