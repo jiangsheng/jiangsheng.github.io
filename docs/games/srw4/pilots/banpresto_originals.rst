@@ -1089,7 +1089,7 @@
 
 .. _srw4_pilot_ryune_zoldark_commentBegin:
 
-琉妮作为\ :ref:`隐藏要素 <srw4_missable_ryune>`\ 之一，在专用剧情《琉妮的狂想曲》（\ :ref:`ガトー版 <srw4_walkthrough_39a_ryune_capriccio_gato>`\ / \ :ref:`ギリアム版 <srw4_walkthrough_39b_ryune_capriccio_gilliam>`\ ）中驾驶自己改装的机器人\ :ref:`ヴァルシオーネR <srw4_unit_valsione_r>`\ 登场。因\ :ref:`プレシア・ゼノサキス <srw4_pilot_presia_xenosakis>`\ 被掳为人质而作为敌人攻击我军。可被\ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ 说得。因为硬件限制，在第四次中，如果\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ 等人加入，她会抗议并与\ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ 和\ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\ 人一起离开。强制出击次数很多，所以有选择的话，可能你想让别人也有点机会出场。
+琉妮作为\ :ref:`隐藏要素 <srw4_missable_ryune>`\ 之一，在专用剧情《琉妮的狂想曲》（\ :ref:`ガトー版 <srw4_walkthrough_39a_ryune_capriccio_gato>`\ / \ :ref:`ギリアム版 <srw4_walkthrough_39b_ryune_capriccio_gilliam>`\ ）中驾驶自己改装的机器人\ :ref:`ヴァルシオーネR <srw4_unit_valsione_r>`\ 登场。因\ :ref:`プレシア・ゼノサキス <srw4_pilot_presia_xenosakis>`\ 被掳为人质而作为敌人攻击我军。可被\ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ （安藤正树）说得。因为硬件限制，在第四次中，如果\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ 等人加入，她会抗议并与\ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ 和\ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\ 人一起离开。强制出击次数很多，所以有选择的话，可能你想让别人也有点机会出场。
 
 
 能力和正树不相上下，但是陆B造成利用地形优势的时候防御能力降低。本作魔装机神系角色普遍存在热血学得慢的缺陷，而琉妮更是以Lv54的极晚习得速度位居榜首，常规流程几乎无法习得该技能。
@@ -1223,7 +1223,7 @@
 
 .. _srw4_pilot_tutty_norback_commentBegin:
 
-迪蒂·诺尔巴克是水之魔装机神的\ :ref:`ガッデス <srw4_unit_gaddeath>`\ 的操纵者。追随安藤正树来到地面。在第四次中，因为同行的黄炎龙拒绝干涉地面的局势，直到游戏几乎结束才加入队伍。此外，如果\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ 等人加入，她会抗议并与\ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ 和\ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ 一起离开。强制出击次数很多，所以有选择的话，可能你想让别人也有点机会出场。
+迪蒂·诺尔巴克是水之魔装机神的\ :ref:`ガッデス <srw4_unit_gaddeath>`\ 的操纵者。追随\ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ （安藤正树）来到地面。在第四次中，因为同行的黄炎龙拒绝干涉地面的局势，直到游戏几乎结束才加入队伍。此外，如果\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ 等人加入，她会抗议并与\ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ 和\ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ 一起离开。强制出击次数很多，所以有选择的话，可能你想让别人也有点机会出场。
 
 能力方面，攻击能力低下，其他能力中等偏上。但是因为有地图武器，可以刷完等级之后作为激励要员。
 
@@ -3350,7 +3350,7 @@ DC兵士
 
 爱称。洛夫与\ :ref:`ゼブリーズ・フルシュワ <srw4_pilot_zebris_forschwa>`\ （セティ）本是父母定下的婚约对象，但因离家出走事件，婚约已处于破裂状态。
 
-第四次中在\ :ref:`第四十一话 アクシズに散る <srw4_walkthrough_41_scattered_on_axis>`\ 中断后而阵亡。第四次S中则在新增的开局关接触(\ :ref:`真实系 <srw4_walkthrough_00a_contact_real>`\ /\ :ref:`超级系 <srw4_walkthrough_00a_contact_super>`\ )中救助了主人公，之后也因此机缘得以在アクシズに散る有存活的机会，在最终话中会在\ :ref:`三将军事件 <srw4_missable_guest_generals>`\ 中得以生存。
+第四次中在\ :ref:`第四十一话 アクシズに散る <srw4_walkthrough_41_scattered_on_axis>`\ 中断后而阵亡。第四次S中则在新增的开局关接触(\ :ref:`真实系 <srw4_walkthrough_00a_contact_real>`\ /\ :ref:`超级系 <srw4_walkthrough_00b_contact_super>`\ )中救助了主人公，之后也因此机缘得以在アクシズに散る有存活的机会，在最终话中会在\ :ref:`三将军事件 <srw4_missable_guest_generals>`\ 中得以生存。
 
 本人相当于我军王牌水准，座驾也极为强悍，堪称强敌。不过性格是弱気，可以通过击落其他敌人来降低气力。
 
@@ -4680,7 +4680,11 @@ DC兵士
 
 .. _srw4_pilot_telius_bilseia_commentBegin:
 
-虽然没有出战机会，但是第四次S中仍然提升了他的远攻击。
+泰里乌斯·格兰·比尔塞亚是\ :ref:`モニカ・ビルセイア <srw4_pilot_monica_billseia>`\ 的异母弟。本为第四顺位继承人，因大公子白河愁放弃王位，成为第三顺位。在超级机器人大战EX中的愁之章成为同伴。
+
+本作中在\ :ref:`第三十五话 特異点崩壊 <srw4_walkthrough_35_singularity_collapse>`\ 中和愁同行，但是即使愁在最终战前加入，厌倦了战斗的他虽然和姐姐モニカ一起加入，也不会出战。
+
+能力在我军真实系中游。虽然没有出战机会，但是第四次S中仍然提升了他的远攻击。
 
 .. _srw4_pilot_telius_bilseia_commentEnd:
 
@@ -4798,6 +4802,13 @@ DC兵士
 
 .. _srw4_pilot_presia_xenosakis_commentBegin:
 
+普雷西亚·泽诺萨克斯是\ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ （安藤正树）之义妹。
+
+在本作中，当大神官伊本托\ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ （琉妮）带她前往地面时，两人被\ :ref:`カロッゾ・ロナ <srw4_pilot_carrozzo_rona>`\ （卡洛佐·罗纳）俘虏，以致于琉妮被迫与朗德·贝尔交战。后来在蒂\ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\ 、\ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ 和琉妮的营救下，她平安与正树重逢。
+
+第四次S中新增了正树和与琉妮夺回普蕾西亚的关卡\ :ref:`第三十九话Ｃ 救出 <srw4_walkthrough_39c_rescue>` \ 。\ :ref:`サフィーネ・グレイス <srw4_pilot_safine_grace>`\ (萨菲妮)在此作为客串登场，凭借她的法术成功救回了普蕾西亚。
+
+只是过场人物，能力和精神没有被设定。
 
 .. _srw4_pilot_presia_xenosakis_commentEnd:
 

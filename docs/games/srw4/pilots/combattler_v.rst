@@ -18,11 +18,11 @@
 --------
 .. _srw4_pilots_combattler_v_own_commentBegin:
 
-虽然一开始根据路线选择可以碰上，但是因为是提坦斯所属的原因，并不会立刻加入。
+郎德·贝尔在上一次大战中因地上人召唤事件导致大量成员无故缺席，以至于被惩缩编，孔巴特拉V小队被迫加入提坦斯沦为边缘角色。在选择没有恋人的路线的\ :ref:`救出!コンバトラV <srw4_walkthrough_06b_rescue_combattler_v>`\ 中虽然可以见面，但是并不会立刻加入我军，所以不要浪费经验值在本小队身上。在\ :ref:`第十五话 ミーアの決意 <srw4_walkthrough_15_mia_s_decision>`\ 中正式加入我军。第四次中在\ :ref:`第三十二话 ダカールの日 <srw4_walkthrough_33a_total_balance>`\ 之后，因为需要战力，可能被玩家派往奥古支援，不再返回。第四次S没有离队事件。
 
-不同于只能使用单一驾驶员精神的上作，本作コンバトラーV可以使用5人份的精神，无疑是巨大优势。大作和豹馬的精神有点重复，所以豹馬可以把SP省下来用覚醒。大作的激怒也是速通的好帮手。缺点是幸运学得比较慢。
+本作中新增的多座机器人机制代表，能够使用五人份精神，无疑是巨大优势。大作和豹馬的精神有点重复，所以豹馬可以把SP省下来用覚醒。大作的激怒也是速通的好帮手。缺点是南原ちづる的幸运学得比较慢。
 
-第四次中因为要和断空我二选一离队的原因，所以可能被束之高阁，第四次S无此事件。
+第四次中因为要和断空我二选一离队的原因，所以可能被束之高阁，第四次S容量问题解决后离队事件消失，是可以用到最后的Boss杀手。
 
 .. _srw4_pilots_combattler_v_own_commentEnd:
 
@@ -162,9 +162,13 @@
 
 .. _srw4_pilot_hyoma_aoi_commentBegin:
 
-能力值很差，两动等级很慢。但是机体很强大，小队精神也很多，命中回避低一点无关紧要，近攻击高就可以了，直到最后的攻击力都非常强。
+主驾驶员。本作中五座机器人精神溢出，可以把必中和気合的负担交给其他队员。
+
+能力值很差，两动等级很慢。但是机体很强大，五人小队的精神溢出，命中回避低一点无关紧要，近攻击高就可以了。因为近攻击成长高，直到最后的攻击力都非常强，即使是在没有习得二次行动的时候，也能作为终极战斗力。
 
 如果需要速通的话，大作负责激怒，他気合的负担就重一点。好在中后期可以批量用地图武器制造激励人员。
+
+战斗喷射机的磁能激光的配音不知为何在喊ドスブレッシャー。
 
 .. _srw4_pilot_hyoma_aoi_commentEnd:
 
@@ -304,8 +308,7 @@
 
 .. _srw4_pilot_juzo_naniwa_commentBegin:
 
-主要负责命中率的精神。弥补豹馬能力的不足。
-
+主要负责命中率的精神。弥补豹馬精神的不足。
 
 .. _srw4_pilot_juzo_naniwa_commentEnd:
 
@@ -445,12 +448,14 @@
 
 .. _srw4_pilot_daisaku_nishikawa_commentBegin:
 
+《电视大百科》的角色事典中记载着「在第4次中完全没有台词」，难道没人注意到吗？在第四次S的\ :ref:`救出!コンバトラV <srw4_walkthrough_06b_rescue_combattler_v>`\ 中增加了教授豹馬合体的台词。
+
 主要负责気合。速通的话，则负责激怒。
 
 .. _srw4_pilot_daisaku_nishikawa_commentEnd:
 
 ^^^^^^^^^^
-南原ちづる
+南原ちずる
 ^^^^^^^^^^
 
 .. _srw4_pilot_chizuru_nanbara:
@@ -574,7 +579,9 @@
 
 .. _srw4_pilot_chizuru_nanbara_commentBegin:
 
-幸运学得有点慢，最后可以学会补给。
+也被称为ちづる。小队的修理机驾驶员，精神也有一半是回复HP的。
+
+幸运学得有点慢，最后可以学会补给，在不再需要幸运的最终话很有用。
 
 .. _srw4_pilot_chizuru_nanbara_commentEnd:
 
@@ -703,7 +710,7 @@
 
 .. _srw4_pilot_kosuke_kita_commentBegin:
 
-主要负责加速和探索。由于精神力过剩，可以随便使用隠れ身。
+天才小学生，在小队中负责分析和侦察。本作中主要负责加速和探索。由于精神力过剩，可以随便使用隠れ身。
 
 .. _srw4_pilot_kosuke_kita_commentEnd:
 
@@ -840,7 +847,9 @@
 
 .. _srw4_pilot_garuda_commentBegin:
 
-第四次S中增加了近攻击、远攻击和回避。
+加鲁达在第三次超级机器人大战中战死，但被\ :ref:`オレアナ <srw4_pilot_oreana>`\ （奥蕾安娜）复活。座驾为\ :ref:`グレイドン <srw4_unit_graydon>`\ 和 \ :ref:`ビッグガルーダ <srw4_unit_big_garuda>`\ 。在专有剧情\ :ref:`"第十六话 大将軍ガルーダの悲劇 <srw4_walkthrough_16_great_general_garuda_s_tragedy>`\ 开始前的剧情中，击败了自称坎贝尔星人的奥蕾安娜，向孔巴特拉V发起最终决战，并让同样由本人配音演员市川治配音的 \ :ref:`リヒテル提督 <srw4_pilot_richter>`\ 见证。
+
+能力方面低于我军二线超级系机师。第四次S中虽然增加了近攻击、远攻击和回避，但是我军加得更多，所以更容易对付了。
 
 .. _srw4_pilot_garuda_commentEnd:
 
@@ -969,6 +978,10 @@
 
 .. _srw4_pilot_miia_commentBegin:
 
+\ :ref:`ガルーダ <srw4_pilot_garuda>`\ （加鲁达）的部下。本作中有专属剧情\ :ref:`第十五话 ミーアの決意 <srw4_walkthrough_15_mia_s_decision>`，为位置不保的加鲁达挑战コンバトラーV，最终丧命。
+
+精神方面很多辅助精神，很符合休整区指挥官的身份。
+
 第四次S中增加了回避。
 
 .. _srw4_pilot_miia_commentEnd:
@@ -1087,6 +1100,9 @@
 
 .. _srw4_pilot_oreana_commentBegin:
 
+奥蕾安娜制造了包括\ :ref:`ガルーダ <srw4_pilot_garuda>`\ （加鲁达）16号、\ :ref:`ミーア <srw4_pilot_miia>`\ （米娅）在内的仿生人。以亲生子女为名欺骗加鲁达，但在过场动画中，加鲁达16号发现15具原型机时精神崩溃，被轻描淡写地杀死了。
+
+仅在过场动画中出现，没有设定能力和精神。
 
 .. _srw4_pilot_oreana_commentEnd:
 
