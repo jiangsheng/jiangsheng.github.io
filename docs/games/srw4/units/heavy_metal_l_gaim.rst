@@ -3118,6 +3118,8 @@
     .. grid-item:: 
         :columns: 3
 
+        .. image:: ../units/images/portrait/srw4_units_portrait_51.png
+
     .. grid-item:: 
         :columns: 9
 

@@ -45,6 +45,8 @@
     .. grid-item:: 编码 0C
     .. grid-item:: 地址 B7463 (2AC5C)
     .. grid-item:: 精神地址 B7474(2AC6E)
+    .. grid-item:: 地形适应 空A陆A海C宇B
+
 
 .. grid:: 
     :gutter: 0
@@ -187,6 +189,8 @@
     .. grid-item:: 编码 0D
     .. grid-item:: 地址 B7484 (2AC7E)
     .. grid-item:: 精神地址 B7495(2AC90)
+    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+
 
 .. grid:: 
     :gutter: 0
@@ -314,6 +318,8 @@
     .. grid-item:: 编码 0E
     .. grid-item:: 地址 B74A3 (2AC9E)
     .. grid-item:: 精神地址 B74B4(2ACB0)
+    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+
 
 .. grid:: 
     :gutter: 0
@@ -449,6 +455,8 @@
     .. grid-item:: 编码 B1
     .. grid-item:: 地址 B87E5 (2C19A)
     .. grid-item:: 精神地址 B87F6(2C1AC)
+    .. grid-item:: 地形适应 空A陆B海C宇A
+
 
 .. grid:: 
     :gutter: 0
@@ -579,6 +587,8 @@
     .. grid-item:: 编码 B2
     .. grid-item:: 地址 B8804 (2C1BA)
     .. grid-item:: 精神地址 B8815(2C1CC)
+    .. grid-item:: 地形适应 空B陆A海A宇B
+
 
 .. grid:: 
     :gutter: 0
@@ -708,6 +718,8 @@
     .. grid-item:: 编码 B3
     .. grid-item:: 地址 B8823 (2C1DA)
     .. grid-item:: 精神地址 B8834(2C1EC)
+    .. grid-item:: 地形适应 空A陆A海C宇A
+
 
 .. grid:: 
     :gutter: 0

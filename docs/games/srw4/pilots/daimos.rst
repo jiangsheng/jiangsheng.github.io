@@ -45,6 +45,8 @@
     .. grid-item:: 编码 5F
     .. grid-item:: 地址 B7E44 (2B756)
     .. grid-item:: 精神地址 B7E55(2B768)
+    .. grid-item:: 地形适应 空A陆C海B宇B
+
 
 .. grid:: 
     :gutter: 0
@@ -185,6 +187,8 @@
     .. grid-item:: 编码 60
     .. grid-item:: 地址 B7E65 (2B778)
     .. grid-item:: 精神地址 B7E76(2B78A)
+    .. grid-item:: 地形适应 空A陆C海C宇B
+
 
 .. grid:: 
     :gutter: 0
@@ -312,6 +316,8 @@ SP高，精神也不错，十分适合开补给机，后面和京四郎二选一
     .. grid-item:: 编码 6B
     .. grid-item:: 地址 B7FBC (2B8E4)
     .. grid-item:: 精神地址 B7FCD(2B8F6)
+    .. grid-item:: 地形适应 空B陆A海C宇A
+
 
 .. grid:: 
     :gutter: 0
@@ -463,6 +469,8 @@ SP高，精神也不错，十分适合开补给机，后面和京四郎二选一
     .. grid-item:: 编码 AD
     .. grid-item:: 地址 B8769 (2C11A)
     .. grid-item:: 精神地址 B877A(2C12C)
+    .. grid-item:: 地形适应 空A陆B海A宇A
+
 
 .. grid:: 
     :gutter: 0
@@ -592,6 +600,8 @@ SP高，精神也不错，十分适合开补给机，后面和京四郎二选一
     .. grid-item:: 编码 AE
     .. grid-item:: 地址 B8788 (2C13A)
     .. grid-item:: 精神地址 B8799(2C14C)
+    .. grid-item:: 地形适应 空A陆A海A宇A
+
 
 .. grid:: 
     :gutter: 0
@@ -721,6 +731,8 @@ SP高，精神也不错，十分适合开补给机，后面和京四郎二选一
     .. grid-item:: 编码 AF
     .. grid-item:: 地址 B87A7 (2C15A)
     .. grid-item:: 精神地址 B87B8(2C16C)
+    .. grid-item:: 地形适应 空B陆A海A宇B
+
 
 .. grid:: 
     :gutter: 0
@@ -848,6 +860,8 @@ SP高，精神也不错，十分适合开补给机，后面和京四郎二选一
     .. grid-item:: 编码 B0
     .. grid-item:: 地址 B87C6 (2C17A)
     .. grid-item:: 精神地址 B87D7(2C18C)
+    .. grid-item:: 地形适应 空A陆A海A宇A
+
 
 .. grid:: 
     :gutter: 0
@@ -976,6 +990,8 @@ SP高，精神也不错，十分适合开补给机，后面和京四郎二选一
     .. grid-item:: 编码 EE
     .. grid-item:: 地址 B8ED0 (2C952)
     .. grid-item:: 精神地址 B8EE1(2C964)
+    .. grid-item:: 地形适应 空B陆A海D宇B
+
 
 .. grid:: 
     :gutter: 0

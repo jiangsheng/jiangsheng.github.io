@@ -47,6 +47,8 @@
     .. grid-item:: 编码 12
     .. grid-item:: 地址 B7521 (2AD20)
     .. grid-item:: 精神地址 B7532(2AD32)
+    .. grid-item:: 地形适应 空A陆B (A)海B宇B (A)
+
 
 .. grid:: 
     :gutter: 0
@@ -176,6 +178,8 @@
     .. grid-item:: 编码 13
     .. grid-item:: 地址 B7540 (2AD40)
     .. grid-item:: 精神地址 B7551(2AD52)
+    .. grid-item:: 地形适应 空B陆A海B宇B
+
 
 .. grid:: 
     :gutter: 0
@@ -306,6 +310,8 @@
     .. grid-item:: 编码 14
     .. grid-item:: 地址 B755F (2AD60)
     .. grid-item:: 精神地址 B7570(2AD72)
+    .. grid-item:: 地形适应 空B陆A海B宇B
+
 
 .. grid:: 
     :gutter: 0
@@ -433,6 +439,8 @@
     .. grid-item:: 编码 15
     .. grid-item:: 地址 B757E (2AD80)
     .. grid-item:: 精神地址 B758F(2AD92)
+    .. grid-item:: 地形适应 空B陆A海B宇B
+
 
 .. grid:: 
     :gutter: 0

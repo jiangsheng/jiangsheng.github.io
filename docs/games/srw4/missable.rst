@@ -525,6 +525,8 @@ GP-02A追加アトミックバズーカ
 -----------------------
 三将军事件
 -----------------------
+.. _srw4_missable_guest_generals:
+
 1. SRW4S限定
 2. \ :doc:`walkthrough/35_singularity_collapse`\ 中主人公和\ :ref:`グロフィス・ラクレイン <srw4_pilot_glofis_raclayne>`\ 交战
 3. \ :doc:`walkthrough/41_scattered_on_axis`\ 中\ :ref:`グロフィス・ラクレイン <srw4_pilot_glofis_raclayne>`\ 、\ :ref:`ゼブリーズ・フルシュワ <srw4_pilot_zebris_forschwa>`\ 和\ :ref:`ジュスティヌ・シャフラワース <srw4_pilot_justine_chafrois>`\ 在第六回合仍然生存并撤退。

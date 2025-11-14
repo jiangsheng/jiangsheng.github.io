@@ -21,6 +21,141 @@
 
 .. _srw4_pilots_dunbine_own_commentEnd:
 
+^^^^^^^^^^^^^^
+チャム・ファウ
+^^^^^^^^^^^^^^
+
+.. _srw4_pilot_chum_huau:
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_01.png
+
+    .. grid-item:: 登场/加入:第13话
+    .. grid-item:: 性格: 普通
+    .. grid-item:: SP: 50
+    .. grid-item:: 编码 01
+    .. grid-item:: 地址 B7312 (2AB00)
+    .. grid-item:: 精神地址 B7323(2AB12)
+    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 近攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 回避
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 直感
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        0→
+        52
+
+    .. grid-item:: -20 (-17)
+    .. grid-item:: 23 (14)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        0→
+        99
+
+    .. grid-item:: -34 (-17)
+    .. grid-item:: 21
+    .. grid-item:: 
+    .. grid-item:: 
+
+        0→
+        99
+
+    .. grid-item:: -132 (-127)
+    .. grid-item:: 19
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 远攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 命中
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 技量
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        0→
+        52
+
+    .. grid-item:: -46 (-49)
+    .. grid-item:: 21 (9)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        0→
+        99
+
+    .. grid-item:: -65
+    .. grid-item:: 20
+    .. grid-item:: 
+    .. grid-item:: 
+
+        0→
+        99
+
+    .. grid-item:: -25 (-23)
+    .. grid-item:: 21
+    .. grid-item:: 
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        気合 15,鉄壁 12,再動 20,奇跡 56,信頼 2,ひらめき 10
+
+.. _srw4_pilot_chum_huau_commentBegin:
+
+如果选择ゴラオン或者最终话和愁战斗可以学得奇迹。选择ゴラオン的话，加入的时候就需要压等级。这意味着不能让她不匹配到某个驾驶员，因为未分配的驾驶员会和第一个机师共享经验，参见\ :doc:`../mechanics/bug`\ 。
+
+因为和リリス・ファウ配音演员是一个人的原因，初见面有特殊剧情。
+
+共享经验的bug仍然存在，但是对象成为了主角，使得不需要ゴラオン也能压级之后用地图炮学得奇迹，前提是主角是真实系。
+
+第四次S中加入了语音，偶尔代替翔发言，与其他机师搭档时则无语音。
+
+.. _srw4_pilot_chum_huau_commentEnd:
+
 ^^^^^^^^^^^^
 ショウ・ザマ
 ^^^^^^^^^^^^
@@ -45,6 +180,8 @@
     .. grid-item:: 编码 1C
     .. grid-item:: 地址 B765F (2AE72)
     .. grid-item:: 精神地址 B7670(2AE84)
+    .. grid-item:: 地形适应 空A陆A海B宇B
+
 
 .. grid:: 
     :gutter: 0
@@ -191,6 +328,8 @@
     .. grid-item:: 编码 62
     .. grid-item:: 地址 B7EA5 (2B7BA)
     .. grid-item:: 精神地址 B7EB6(2B7CC)
+    .. grid-item:: 地形适应 空A陆A海B宇B
+
 
 .. grid:: 
     :gutter: 0
@@ -335,6 +474,8 @@
     .. grid-item:: 编码 C1
     .. grid-item:: 地址 B89EB (2C3CC)
     .. grid-item:: 精神地址 B89FC(2C3DE)
+    .. grid-item:: 地形适应 空A陆A海C宇C
+
 
 .. grid:: 
     :gutter: 0
@@ -454,139 +595,6 @@
 .. _srw4_pilot_garalia_nyamhee_commentEnd:
 
 ^^^^^^^^^^^^^^
-チャム・ファウ
-^^^^^^^^^^^^^^
-
-.. _srw4_pilot_chum_huau:
-
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item::
-        :columns: auto
-
-        .. image:: ../pilots/images/srw4_pilot_01.png
-
-    .. grid-item:: 登场/加入:第13话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: 编码 01
-    .. grid-item:: 地址 B7312 (2AB00)
-    .. grid-item:: 精神地址 B7323(2AB12)
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 近攻击
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 回避
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 直感
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 
-
-        0→
-        52
-
-    .. grid-item:: -20 (-17)
-    .. grid-item:: 23 (14)
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -34 (-17)
-    .. grid-item:: 21
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -132 (-127)
-    .. grid-item:: 19
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 远攻击
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 命中
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 技量
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 
-
-        0→
-        52
-
-    .. grid-item:: -46 (-49)
-    .. grid-item:: 21 (9)
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -65
-    .. grid-item:: 20
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -25 (-23)
-    .. grid-item:: 21
-    .. grid-item:: 
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item::
-        :columns: auto
-
-        気合 15,鉄壁 12,再動 20,奇跡 56,信頼 2,ひらめき 10
-
-.. _srw4_pilot_chum_huau_commentBegin:
-
-如果选择ゴラオン或者最终话和愁战斗可以学得奇迹。选择ゴラオン的话，加入的时候就需要压等级。这意味着不能让她不匹配到某个驾驶员，因为未分配的驾驶员会和第一个机师共享经验，参见\ :doc:`../mechanics/bug`\ 。
-
-因为和リリス・ファウ配音演员是一个人的原因，初见面有特殊剧情。
-
-共享经验的bug仍然存在，但是对象成为了主角，使得不需要ゴラオン也能压级之后用地图炮学得奇迹，前提是主角是真实系。
-
-第四次S中加入了语音，偶尔代替翔发言，与其他机师搭档时则无语音。
-
-.. _srw4_pilot_chum_huau_commentEnd:
-
-^^^^^^^^^^^^^^
 シルキー・マウ
 ^^^^^^^^^^^^^^
 
@@ -610,6 +618,8 @@
     .. grid-item:: 编码 05
     .. grid-item:: 地址 B738E (2AB80)
     .. grid-item:: 精神地址 B739F(2AB92)
+    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+
 
 .. grid:: 
     :gutter: 0
@@ -738,6 +748,8 @@
     .. grid-item:: 编码 02
     .. grid-item:: 地址 B7331 (2AB20)
     .. grid-item:: 精神地址 B7342(2AB32)
+    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+
 
 .. grid:: 
     :gutter: 0
@@ -868,6 +880,8 @@
     .. grid-item:: 编码 03
     .. grid-item:: 地址 B7350 (2AB40)
     .. grid-item:: 精神地址 B7361(2AB52)
+    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+
 
 .. grid:: 
     :gutter: 0
@@ -997,6 +1011,8 @@
     .. grid-item:: 编码 64
     .. grid-item:: 地址 B7EE9 (2B80A)
     .. grid-item:: 精神地址 B7EFA(2B81C)
+    .. grid-item:: 地形适应 空A陆A海C宇B
+
 
 .. grid:: 
     :gutter: 0
@@ -1126,6 +1142,8 @@
     .. grid-item:: 编码 65
     .. grid-item:: 地址 B7F08 (2B82A)
     .. grid-item:: 精神地址 B7F19(2B83C)
+    .. grid-item:: 地形适应 空A陆B海B宇B
+
 
 .. grid:: 
     :gutter: 0
@@ -1255,6 +1273,8 @@
     .. grid-item:: 编码 66
     .. grid-item:: 地址 B7F27 (2B84A)
     .. grid-item:: 精神地址 B7F38(2B85C)
+    .. grid-item:: 地形适应 空A陆C海C宇D
+
 
 .. grid:: 
     :gutter: 0
@@ -1384,6 +1404,8 @@
     .. grid-item:: 编码 67
     .. grid-item:: 地址 B7F46 (2B86A)
     .. grid-item:: 精神地址 B7F57(2B87C)
+    .. grid-item:: 地形适应 空A陆B海C宇D
+
 
 .. grid:: 
     :gutter: 0
@@ -1517,6 +1539,8 @@
     .. grid-item:: 编码 68
     .. grid-item:: 地址 B7F65 (2B88A)
     .. grid-item:: 精神地址 B7F76(2B89C)
+    .. grid-item:: 地形适应 空B陆B海D宇B
+
 
 .. grid:: 
     :gutter: 0
@@ -1658,6 +1682,8 @@
     .. grid-item:: 编码 B4
     .. grid-item:: 地址 B8842 (2C1FA)
     .. grid-item:: 精神地址 B8853(2C20C)
+    .. grid-item:: 地形适应 空A陆A海C宇A
+
 
 .. grid:: 
     :gutter: 0
@@ -1798,6 +1824,8 @@
     .. grid-item:: 编码 B5
     .. grid-item:: 地址 B8865 (2C222)
     .. grid-item:: 精神地址 B8876(2C234)
+    .. grid-item:: 地形适应 空A陆A海B宇B
+
 
 .. grid:: 
     :gutter: 0
@@ -1938,6 +1966,8 @@
     .. grid-item:: 编码 B9
     .. grid-item:: 地址 B88E9 (2C2B2)
     .. grid-item:: 精神地址 B88FA(2C2C4)
+    .. grid-item:: 地形适应 空A陆B海D宇D
+
 
 .. grid:: 
     :gutter: 0
@@ -2065,6 +2095,8 @@
     .. grid-item:: 编码 B7
     .. grid-item:: 地址 B88AB (2C272)
     .. grid-item:: 精神地址 B88BC(2C284)
+    .. grid-item:: 地形适应 空A陆B海D宇D
+
 
 .. grid:: 
     :gutter: 0
@@ -2192,6 +2224,8 @@
     .. grid-item:: 编码 C0
     .. grid-item:: 地址 B89C8 (2C3A4)
     .. grid-item:: 精神地址 B89D9(2C3B6)
+    .. grid-item:: 地形适应 空A陆A海B宇A
+
 
 .. grid:: 
     :gutter: 0
@@ -2330,6 +2364,8 @@
     .. grid-item:: 编码 BE
     .. grid-item:: 地址 B8982 (2C354)
     .. grid-item:: 精神地址 B8993(2C366)
+    .. grid-item:: 地形适应 空A陆A海C宇B
+
 
 .. grid:: 
     :gutter: 0
@@ -2470,6 +2506,8 @@
     .. grid-item:: 编码 BF
     .. grid-item:: 地址 B89A5 (2C37C)
     .. grid-item:: 精神地址 B89B6(2C38E)
+    .. grid-item:: 地形适应 空A陆A海C宇A
+
 
 .. grid:: 
     :gutter: 0
@@ -2608,6 +2646,8 @@
     .. grid-item:: 编码 B8
     .. grid-item:: 地址 B88CA (2C292)
     .. grid-item:: 精神地址 B88DB(2C2A4)
+    .. grid-item:: 地形适应 空A陆B海D宇C
+
 
 .. grid:: 
     :gutter: 0
@@ -2735,6 +2775,8 @@
     .. grid-item:: 编码 BB
     .. grid-item:: 地址 B891F (2C2EA)
     .. grid-item:: 精神地址 B8930(2C2FC)
+    .. grid-item:: 地形适应 空A陆B海C宇B
+
 
 .. grid:: 
     :gutter: 0
@@ -2873,6 +2915,8 @@
     .. grid-item:: 编码 B6
     .. grid-item:: 地址 B8888 (2C24A)
     .. grid-item:: 精神地址 B8899(2C25C)
+    .. grid-item:: 地形适应 空A陆A海B宇B
+
 
 .. grid:: 
     :gutter: 0
@@ -3013,6 +3057,8 @@
     .. grid-item:: 编码 BA
     .. grid-item:: 地址 B8908 (2C2D2)
     .. grid-item:: 精神地址 B8919(2C2E4)
+    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+
 
 .. grid:: 
     :gutter: 0
@@ -3128,6 +3174,8 @@
     .. grid-item:: 编码 C2
     .. grid-item:: 地址 B8A0E (2C3F4)
     .. grid-item:: 精神地址 B8A1F(2C406)
+    .. grid-item:: 地形适应 空A陆A海B宇C
+
 
 .. grid:: 
     :gutter: 0
@@ -3266,6 +3314,8 @@
     .. grid-item:: 编码 C3
     .. grid-item:: 地址 B8A29 (2C410)
     .. grid-item:: 精神地址 B8A3A(2C422)
+    .. grid-item:: 地形适应 空A陆A海B宇C
+
 
 .. grid:: 
     :gutter: 0
@@ -3404,6 +3454,8 @@
     .. grid-item:: 编码 C4
     .. grid-item:: 地址 B8A44 (2C42C)
     .. grid-item:: 精神地址 B8A55(2C43E)
+    .. grid-item:: 地形适应 空A陆A海B宇C
+
 
 .. grid:: 
     :gutter: 0
@@ -3550,6 +3602,8 @@
     .. grid-item:: 编码 69
     .. grid-item:: 地址 B7F84 (2B8AA)
     .. grid-item:: 精神地址 B7F95(2B8BC)
+    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+
 
 .. grid:: 
     :gutter: 0
@@ -3672,6 +3726,8 @@
     .. grid-item:: 编码 BC
     .. grid-item:: 地址 B8942 (2C312)
     .. grid-item:: 精神地址 B8953(2C324)
+    .. grid-item:: 地形适应 空A陆A海C宇B
+
 
 .. grid:: 
     :gutter: 0
@@ -3809,6 +3865,8 @@
     .. grid-item:: 编码 BD
     .. grid-item:: 地址 B8963 (2C334)
     .. grid-item:: 精神地址 B8974(2C346)
+    .. grid-item:: 地形适应 空A陆A海C宇B
+
 
 .. grid:: 
     :gutter: 0
