@@ -22,6 +22,368 @@
 .. _srw4_units_combattler_v_own_commentEnd:
 
 ^^^^^^^^^^^^^^
+コンバトラーV
+^^^^^^^^^^^^^^
+
+.. _srw4_unit_combattler_v:
+
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+
+    .. grid-item:: 
+        :columns: 3
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_32.png
+
+    .. grid-item:: 
+        :columns: 9
+
+        .. grid:: 
+            :gutter: 0
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 登场/加入:第15话
+                :columns: auto
+
+            .. grid-item:: 编码 32
+                :columns: auto
+
+            .. grid-item:: 地址 B9DE5 (26AD4)
+                :columns: auto
+
+            .. grid-item:: 武器首地址 B9E05 (26AF4)
+                :columns: auto
+
+            .. grid-item:: 移动类型 空陸
+                :columns: auto
+
+
+            .. grid-item:: 大小 L
+                :columns: auto
+
+            .. grid-item:: 地形适应 空A陆A海C宇B
+                :columns: auto
+
+
+            .. grid-item:: 地形参照  \ :ref:`葵豹馬 <srw4_pilot_hyoma_aoi>`\ 
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_16.png
+                :columns: auto
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 4600
+    .. grid-item:: 56
+    .. grid-item:: 47
+    .. grid-item:: EN
+    .. grid-item:: 220
+    .. grid-item:: 63 (62)
+    .. grid-item:: 58
+    .. grid-item:: 装甲
+    .. grid-item:: 400
+    .. grid-item:: 51
+    .. grid-item:: 50
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 32
+    .. grid-item:: 45
+    .. grid-item:: 47 (46)
+    .. grid-item:: 限界
+    .. grid-item:: 150
+    .. grid-item:: 39
+    .. grid-item:: 39
+    .. grid-item:: 移动力
+    .. grid-item:: 7
+    .. grid-item:: 42
+    .. grid-item:: 45
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 210
+    .. grid-item:: 62
+    .. grid-item:: 62
+    .. grid-item:: 价值
+    .. grid-item:: 3500
+    .. grid-item:: 50
+    .. grid-item:: 48
+    .. grid-item:: 修理费
+    .. grid-item:: 5000
+    .. grid-item:: 49
+    .. grid-item:: 48
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+    .. grid-item:: 攻击
+    .. grid-item:: 射程
+    .. grid-item:: 命中
+    .. grid-item:: 暴击
+    .. grid-item:: 地形空陆海宇
+        :columns: 3
+    .. grid-item:: 残弹/EN
+    .. grid-item:: 条件
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: ロックファイター⚔Ⓟ
+        :columns: 3
+    .. grid-item:: 700
+    .. grid-item:: 700
+    .. grid-item:: 1
+    .. grid-item:: +25
+    .. grid-item:: -10
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+    .. grid-item:: 残弹 4
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: バトルガレッガー🤛Ⓟ
+        :columns: 3
+    .. grid-item:: 860
+    .. grid-item:: 860
+    .. grid-item:: 1
+    .. grid-item:: +8
+    .. grid-item:: 0
+    .. grid-item:: 空A陆A海A→B宇A→B
+        :columns: 3
+    .. grid-item:: 
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 超電磁クレーン🤛Ⓟ
+        :columns: 3
+    .. grid-item:: 890
+    .. grid-item:: 890
+    .. grid-item:: 1
+    .. grid-item:: +2
+    .. grid-item:: 0
+    .. grid-item:: 空A陆A海A→B宇A→B
+        :columns: 3
+    .. grid-item:: 
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: ｱﾄﾐｯｸﾊﾞｰﾅｰⓅ
+        :columns: 3
+    .. grid-item:: 940
+    .. grid-item:: 940
+    .. grid-item:: 1
+    .. grid-item:: +10
+    .. grid-item:: -10
+    .. grid-item:: 空A陆A海🚫宇🚫
+        :columns: 3
+    .. grid-item:: EN 10
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: ｽﾌﾟﾘﾝｸﾞｸﾗｯｼｬｰ🤛Ⓟ
+        :columns: 3
+    .. grid-item:: 960
+    .. grid-item:: 960
+    .. grid-item:: 1
+    .. grid-item:: -5
+    .. grid-item:: +10
+    .. grid-item:: 空A陆A海A→B宇A→B
+        :columns: 3
+    .. grid-item:: 
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: バトルリターン⚔Ⓟ
+        :columns: 3
+    .. grid-item:: 1000
+    .. grid-item:: 1000
+    .. grid-item:: 1~2
+    .. grid-item:: 
+    .. grid-item:: +10
+    .. grid-item:: 空A陆A海B宇A
+        :columns: 3
+    .. grid-item:: 残弹 2
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: マグネクロー⚔Ⓟ
+        :columns: 3
+    .. grid-item:: 1170
+    .. grid-item:: 1170
+    .. grid-item:: 1
+    .. grid-item:: +15
+    .. grid-item:: +10
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+    .. grid-item:: 残弹 4
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: ツインランサー🤛Ⓟ
+        :columns: 3
+    .. grid-item:: 1210 (1300)
+    .. grid-item:: 1210 (1300)
+    .. grid-item:: 1
+    .. grid-item:: +20
+    .. grid-item:: +10
+    .. grid-item:: 空A陆A海A→B宇A→B
+        :columns: 3
+    .. grid-item:: 
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 超電磁スパーク
+        :columns: 3
+    .. grid-item:: 1500
+    .. grid-item:: 1500
+    .. grid-item:: 1~5
+    .. grid-item:: 
+    .. grid-item:: 
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+    .. grid-item:: EN 30
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: ビッグブラスト⚔
+        :columns: 3
+    .. grid-item:: 1600 (1800)
+    .. grid-item:: 1600 (1800)
+    .. grid-item:: 1~6
+    .. grid-item:: -10
+    .. grid-item:: 0
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+    .. grid-item:: 残弹 1
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 超電磁ヨーヨー🤛Ⓟ
+        :columns: 3
+    .. grid-item:: 1780 (2050)
+    .. grid-item:: 1780 (2050)
+    .. grid-item:: 1
+    .. grid-item:: +5
+    .. grid-item:: +30
+    .. grid-item:: 空A陆A海A→B宇A→B
+        :columns: 3
+    .. grid-item:: 残弹 2 (4)
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: ﾊﾞﾄﾙﾁｪｰﾝｿｰ⚔
+        :columns: 3
+    .. grid-item:: 1890 (1980)
+    .. grid-item:: 1890 (1980)
+    .. grid-item:: 1~5
+    .. grid-item:: 
+    .. grid-item:: +10
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+    .. grid-item:: 残弹 2
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: Bﾌﾞﾗｽﾄ･DV⚔
+        :columns: 3
+    .. grid-item:: 2050 (2150)
+    .. grid-item:: 2050 (2150)
+    .. grid-item:: 1~6
+    .. grid-item:: -5
+    .. grid-item:: -10
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+    .. grid-item:: 残弹 1
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: Ｖレーザー
+        :columns: 3
+    .. grid-item:: 2200 (2400)
+    .. grid-item:: 2200 (2400)
+    .. grid-item:: 1~5
+    .. grid-item:: -5
+    .. grid-item:: +10
+    .. grid-item:: 空A陆A海C宇A
+        :columns: 3
+    .. grid-item:: EN 40 (35)
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 超電磁スピン🤛Ⓟ
+        :columns: 3
+    .. grid-item:: 3840 (3900)
+    .. grid-item:: 3840 (3900)
+    .. grid-item:: 1
+    .. grid-item:: +25
+    .. grid-item:: +30
+    .. grid-item:: 空A陆A海A→B宇A→B
+        :columns: 3
+    .. grid-item:: EN 110 (100)
+    .. grid-item:: 120气力
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: グランダッシャー🤛Ⓟ
+        :columns: 3
+    .. grid-item:: 5100 (5800)
+    .. grid-item:: 5100 (5800)
+    .. grid-item:: 1
+    .. grid-item:: +5 (+15)
+    .. grid-item:: +30
+    .. grid-item:: 空A陆A海B→C宇A→B
+        :columns: 3
+    .. grid-item:: EN 130
+    .. grid-item:: 130气力
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_combattler_v_commentBegin:
+
+本作中合体状态会终止行动，且当友军出击单位超过一定数量时可能无法分离，因此战斗中的分离操作基本失去意义，例外是没有携带修理机的时候，把本机分离掉可以暂时拥有一个修理机，修理完了再合体。
+
+孔巴特拉V武器多而不精，大部分武器没有什么改造价值，不过因为武器充足，可以随便浪费残弹在小兵身上。大招グランダッシャー居然是消耗130EN的，改满EN也不够放两次，所以需要EN恢复的芯片。超电磁自旋则只需110EN，无需补给也可以两连发。由于超电磁自旋初期即可使用，到グランダッシャー解锁时，应已改造数段，而且我军战力因为有了地图炮可以刷机而逐渐宽裕，是否改造グランダッシャー存在疑问。
+
+受硬件容量限制，第四次中有支援奥古，和ダンクーガ二选一的事件。因为ダンクーガ悲催的地形适应问题，还有不能飞，所以经常胜出。
+
+第四次S没有二选一事件，而且大量武器增强，可以用到最后。
+
+
+
+.. _srw4_unit_combattler_v_commentEnd:
+
+^^^^^^^^^^^^^^
 バトルジェット
 ^^^^^^^^^^^^^^
 
@@ -639,7 +1001,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`南原ちづる <srw4_pilot_chizuru_nanbara>`\ 
+            .. grid-item:: 地形参照  \ :ref:`南原ちずる <srw4_pilot_chizuru_nanbara>`\ 
                 :columns: auto
 
 
@@ -915,368 +1277,6 @@
 
 
 .. _srw4_unit_battle_craft_commentEnd:
-
-^^^^^^^^^^^^^^
-コンバトラーV
-^^^^^^^^^^^^^^
-
-.. _srw4_unit_combattler_v:
-
-
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-
-    .. grid-item:: 
-        :columns: 3
-
-        .. image:: ../units/images/portrait/srw4_units_portrait_32.png
-
-    .. grid-item:: 
-        :columns: 9
-
-        .. grid:: 
-            :gutter: 0
-            :margin: 0
-            :padding: 0
-
-
-            .. grid-item:: 登场/加入:第15话
-                :columns: auto
-
-            .. grid-item:: 编码 32
-                :columns: auto
-
-            .. grid-item:: 地址 B9DE5 (26AD4)
-                :columns: auto
-
-            .. grid-item:: 武器首地址 B9E05 (26AF4)
-                :columns: auto
-
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海C宇B
-                :columns: auto
-
-
-            .. grid-item:: 地形参照  \ :ref:`葵豹馬 <srw4_pilot_hyoma_aoi>`\ 
-                :columns: auto
-
-
-            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_16.png
-                :columns: auto
-
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 属性
-    .. grid-item:: 值
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 属性
-    .. grid-item:: 值
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 属性
-    .. grid-item:: 值
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: HP
-    .. grid-item:: 4600
-    .. grid-item:: 56
-    .. grid-item:: 47
-    .. grid-item:: EN
-    .. grid-item:: 220
-    .. grid-item:: 63 (62)
-    .. grid-item:: 58
-    .. grid-item:: 装甲
-    .. grid-item:: 400
-    .. grid-item:: 51
-    .. grid-item:: 50
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 运动性
-    .. grid-item:: 32
-    .. grid-item:: 45
-    .. grid-item:: 47 (46)
-    .. grid-item:: 限界
-    .. grid-item:: 150
-    .. grid-item:: 39
-    .. grid-item:: 39
-    .. grid-item:: 移动力
-    .. grid-item:: 7
-    .. grid-item:: 42
-    .. grid-item:: 45
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 经验值
-    .. grid-item:: 210
-    .. grid-item:: 62
-    .. grid-item:: 62
-    .. grid-item:: 价值
-    .. grid-item:: 3500
-    .. grid-item:: 50
-    .. grid-item:: 48
-    .. grid-item:: 修理费
-    .. grid-item:: 5000
-    .. grid-item:: 49
-    .. grid-item:: 48
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 名字
-        :columns: 3
-    .. grid-item:: 攻击
-    .. grid-item:: 射程
-    .. grid-item:: 命中
-    .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
-        :columns: 3
-    .. grid-item:: 残弹/EN
-    .. grid-item:: 条件
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: ロックファイター⚔Ⓟ
-        :columns: 3
-    .. grid-item:: 700
-    .. grid-item:: 700
-    .. grid-item:: 1
-    .. grid-item:: +25
-    .. grid-item:: -10
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-    .. grid-item:: 残弹 4
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: バトルガレッガー🤛Ⓟ
-        :columns: 3
-    .. grid-item:: 860
-    .. grid-item:: 860
-    .. grid-item:: 1
-    .. grid-item:: +8
-    .. grid-item:: 0
-    .. grid-item:: 空A陆A海A→B宇A→B
-        :columns: 3
-    .. grid-item:: 
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 超電磁クレーン🤛Ⓟ
-        :columns: 3
-    .. grid-item:: 890
-    .. grid-item:: 890
-    .. grid-item:: 1
-    .. grid-item:: +2
-    .. grid-item:: 0
-    .. grid-item:: 空A陆A海A→B宇A→B
-        :columns: 3
-    .. grid-item:: 
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: ｱﾄﾐｯｸﾊﾞｰﾅｰⓅ
-        :columns: 3
-    .. grid-item:: 940
-    .. grid-item:: 940
-    .. grid-item:: 1
-    .. grid-item:: +10
-    .. grid-item:: -10
-    .. grid-item:: 空A陆A海🚫宇🚫
-        :columns: 3
-    .. grid-item:: EN 10
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: ｽﾌﾟﾘﾝｸﾞｸﾗｯｼｬｰ🤛Ⓟ
-        :columns: 3
-    .. grid-item:: 960
-    .. grid-item:: 960
-    .. grid-item:: 1
-    .. grid-item:: -5
-    .. grid-item:: +10
-    .. grid-item:: 空A陆A海A→B宇A→B
-        :columns: 3
-    .. grid-item:: 
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: バトルリターン⚔Ⓟ
-        :columns: 3
-    .. grid-item:: 1000
-    .. grid-item:: 1000
-    .. grid-item:: 1~2
-    .. grid-item:: 
-    .. grid-item:: +10
-    .. grid-item:: 空A陆A海B宇A
-        :columns: 3
-    .. grid-item:: 残弹 2
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: マグネクロー⚔Ⓟ
-        :columns: 3
-    .. grid-item:: 1170
-    .. grid-item:: 1170
-    .. grid-item:: 1
-    .. grid-item:: +15
-    .. grid-item:: +10
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-    .. grid-item:: 残弹 4
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: ツインランサー🤛Ⓟ
-        :columns: 3
-    .. grid-item:: 1210 (1300)
-    .. grid-item:: 1210 (1300)
-    .. grid-item:: 1
-    .. grid-item:: +20
-    .. grid-item:: +10
-    .. grid-item:: 空A陆A海A→B宇A→B
-        :columns: 3
-    .. grid-item:: 
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 超電磁スパーク
-        :columns: 3
-    .. grid-item:: 1500
-    .. grid-item:: 1500
-    .. grid-item:: 1~5
-    .. grid-item:: 
-    .. grid-item:: 
-    .. grid-item:: 空A陆A海🚫宇A
-        :columns: 3
-    .. grid-item:: EN 30
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: ビッグブラスト⚔
-        :columns: 3
-    .. grid-item:: 1600 (1800)
-    .. grid-item:: 1600 (1800)
-    .. grid-item:: 1~6
-    .. grid-item:: -10
-    .. grid-item:: 0
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-    .. grid-item:: 残弹 1
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 超電磁ヨーヨー🤛Ⓟ
-        :columns: 3
-    .. grid-item:: 1780 (2050)
-    .. grid-item:: 1780 (2050)
-    .. grid-item:: 1
-    .. grid-item:: +5
-    .. grid-item:: +30
-    .. grid-item:: 空A陆A海A→B宇A→B
-        :columns: 3
-    .. grid-item:: 残弹 2 (4)
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: ﾊﾞﾄﾙﾁｪｰﾝｿｰ⚔
-        :columns: 3
-    .. grid-item:: 1890 (1980)
-    .. grid-item:: 1890 (1980)
-    .. grid-item:: 1~5
-    .. grid-item:: 
-    .. grid-item:: +10
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-    .. grid-item:: 残弹 2
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: Bﾌﾞﾗｽﾄ･DV⚔
-        :columns: 3
-    .. grid-item:: 2050 (2150)
-    .. grid-item:: 2050 (2150)
-    .. grid-item:: 1~6
-    .. grid-item:: -5
-    .. grid-item:: -10
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-    .. grid-item:: 残弹 1
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: Ｖレーザー
-        :columns: 3
-    .. grid-item:: 2200 (2400)
-    .. grid-item:: 2200 (2400)
-    .. grid-item:: 1~5
-    .. grid-item:: -5
-    .. grid-item:: +10
-    .. grid-item:: 空A陆A海C宇A
-        :columns: 3
-    .. grid-item:: EN 40 (35)
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 超電磁スピン🤛Ⓟ
-        :columns: 3
-    .. grid-item:: 3840 (3900)
-    .. grid-item:: 3840 (3900)
-    .. grid-item:: 1
-    .. grid-item:: +25
-    .. grid-item:: +30
-    .. grid-item:: 空A陆A海A→B宇A→B
-        :columns: 3
-    .. grid-item:: EN 110 (100)
-    .. grid-item:: 120气力
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: グランダッシャー🤛Ⓟ
-        :columns: 3
-    .. grid-item:: 5100 (5800)
-    .. grid-item:: 5100 (5800)
-    .. grid-item:: 1
-    .. grid-item:: +5 (+15)
-    .. grid-item:: +30
-    .. grid-item:: 空A陆A海B→C宇A→B
-        :columns: 3
-    .. grid-item:: EN 130
-    .. grid-item:: 130气力
-    .. grid-item::
-        :class: flex-break
-
-.. _srw4_unit_combattler_v_commentBegin:
-
-本作中合体状态会终止行动，且当友军出击单位超过一定数量时可能无法分离，因此战斗中的分离操作基本失去意义，例外是没有携带修理机的时候，把本机分离掉可以暂时拥有一个修理机，修理完了再合体。
-
-孔巴特拉V武器多而不精，大部分武器没有什么改造价值，不过因为武器充足，可以随便浪费残弹在小兵身上。大招グランダッシャー居然是消耗130EN的，改满EN也不够放两次，所以需要EN恢复的芯片。超电磁自旋则只需110EN，无需补给也可以两连发。由于超电磁自旋初期即可使用，到グランダッシャー解锁时，应已改造数段，而且我军战力因为有了地图炮可以刷机而逐渐宽裕，是否改造グランダッシャー存在疑问。
-
-受硬件容量限制，第四次中有支援奥古，和ダンクーガ二选一的事件。因为ダンクーガ悲催的地形适应问题，还有不能飞，所以经常胜出。
-
-第四次S没有二选一事件，而且大量武器增强，可以用到最后。
-
-
-
-.. _srw4_unit_combattler_v_commentEnd:
 
 --------
 敌军机体
