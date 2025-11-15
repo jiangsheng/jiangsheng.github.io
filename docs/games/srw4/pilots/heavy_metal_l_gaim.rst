@@ -42,6 +42,7 @@
     .. grid-item:: 登场/加入:第2话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 0
     .. grid-item:: 编码 04
     .. grid-item:: 地址 B736F (2AB60)
     .. grid-item:: 精神地址 B7380(2AB72)
@@ -175,6 +176,7 @@
     .. grid-item:: 登场/加入:第2话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 75
+    .. grid-item:: EXP: 255
     .. grid-item:: 编码 D2
     .. grid-item:: 地址 B8B98 (2C58E)
     .. grid-item:: 精神地址 B8BA9(2C5A0)
@@ -317,6 +319,7 @@
     .. grid-item:: 登场/加入:第2话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 65 (85)
+    .. grid-item:: EXP: 191
     .. grid-item:: 编码 D5
     .. grid-item:: 地址 B8BF9 (2C618)
     .. grid-item:: 精神地址 B8C0A(2C62A)
@@ -460,6 +463,7 @@
     .. grid-item:: 登场/加入:第3话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 70
+    .. grid-item:: EXP: 246
     .. grid-item:: 编码 D3
     .. grid-item:: 地址 B8BB9 (2C5C2)
     .. grid-item:: 精神地址 B8BCA(2C5D4)
@@ -604,6 +608,7 @@
     .. grid-item:: 登场/加入:第4话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 75
+    .. grid-item:: EXP: 218
     .. grid-item:: 编码 D7
     .. grid-item:: 地址 B8C31 (2C664)
     .. grid-item:: 精神地址 B8C42(2C676)
@@ -750,6 +755,7 @@
     .. grid-item:: 登场/加入:第26话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 65
+    .. grid-item:: EXP: 200
     .. grid-item:: 编码 DD
     .. grid-item:: 地址 B8CE3 (2C730)
     .. grid-item:: 精神地址 B8CF4(2C742)
@@ -901,6 +907,7 @@
     .. grid-item:: 登场/加入:第4话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 65
+    .. grid-item:: EXP: 188
     .. grid-item:: 编码 D6
     .. grid-item:: 地址 B8C1A (2C64C)
     .. grid-item:: 精神地址 B8C2B(2C65E)
@@ -1032,6 +1039,7 @@
     .. grid-item:: 登场/加入:第8话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 65
+    .. grid-item:: EXP: 204
     .. grid-item:: 编码 DF
     .. grid-item:: 地址 B8D1F (2C776)
     .. grid-item:: 精神地址 B8D30(2C788)
@@ -1174,6 +1182,7 @@
     .. grid-item:: 登场/加入:第8话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 65
+    .. grid-item:: EXP: 205
     .. grid-item:: 编码 E0
     .. grid-item:: 地址 B8D3C (2C796)
     .. grid-item:: 精神地址 B8D4D(2C7A8)
@@ -1316,6 +1325,7 @@
     .. grid-item:: 登场/加入:第8话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 65
+    .. grid-item:: EXP: 228
     .. grid-item:: 编码 E2
     .. grid-item:: 地址 B8D7A (2C7DA)
     .. grid-item:: 精神地址 B8D8B(2C7EC)
@@ -1445,6 +1455,7 @@
     .. grid-item:: 登场/加入:第9话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 65
+    .. grid-item:: EXP: 238
     .. grid-item:: 编码 DA
     .. grid-item:: 地址 B8C8A (2C6D0)
     .. grid-item:: 精神地址 B8C9B(2C6E2)
@@ -1588,6 +1599,7 @@
     .. grid-item:: 登场/加入:第17话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 65
+    .. grid-item:: EXP: 217
     .. grid-item:: 编码 E3
     .. grid-item:: 地址 B8D97 (2C7F8)
     .. grid-item:: 精神地址 B8DA8(2C80A)
@@ -1717,6 +1729,7 @@
     .. grid-item:: 登场/加入:第17话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 65
+    .. grid-item:: EXP: 220
     .. grid-item:: 编码 E4
     .. grid-item:: 地址 B8DB2 (2C814)
     .. grid-item:: 精神地址 B8DC3(2C826)
@@ -1857,6 +1870,7 @@
     .. grid-item:: 登场/加入:第17话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 65
+    .. grid-item:: EXP: 221
     .. grid-item:: 编码 E5
     .. grid-item:: 地址 B8DD1 (2C838)
     .. grid-item:: 精神地址 B8DE2(2C84A)
@@ -1997,6 +2011,7 @@
     .. grid-item:: 登场/加入:第25话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 65
+    .. grid-item:: EXP: 246
     .. grid-item:: 编码 D8
     .. grid-item:: 地址 B8C52 (2C696)
     .. grid-item:: 精神地址 B8C63(2C6A8)
@@ -2125,6 +2140,7 @@
     .. grid-item:: 登场/加入:第26话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 65
+    .. grid-item:: EXP: 218
     .. grid-item:: 编码 DE
     .. grid-item:: 地址 B8D02 (2C756)
     .. grid-item:: 精神地址 B8D13(2C768)
@@ -2265,6 +2281,7 @@
     .. grid-item:: 登场/加入:第26话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 65
+    .. grid-item:: EXP: 224
     .. grid-item:: 编码 E1
     .. grid-item:: 地址 B8D5B (2C7B8)
     .. grid-item:: 精神地址 B8D6C(2C7CA)
@@ -2405,6 +2422,7 @@
     .. grid-item:: 登场/加入:第40话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 65
+    .. grid-item:: EXP: 236
     .. grid-item:: 编码 DB
     .. grid-item:: 地址 B8CA9 (2C6F2)
     .. grid-item:: 精神地址 B8CBA(2C704)
@@ -2534,6 +2552,7 @@
     .. grid-item:: 登场/加入:第40话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 65
+    .. grid-item:: EXP: 219
     .. grid-item:: 编码 E6
     .. grid-item:: 地址 B8DEE (2C858)
     .. grid-item:: 精神地址 B8DFF(2C86A)
@@ -2674,6 +2693,7 @@
     .. grid-item:: 登场/加入:第41话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 65
+    .. grid-item:: EXP: 224
     .. grid-item:: 编码 DC
     .. grid-item:: 地址 B8CC6 (2C710)
     .. grid-item:: 精神地址 B8CD7(2C722)
@@ -2814,6 +2834,7 @@
     .. grid-item:: 登场/加入:第42话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 65
+    .. grid-item:: EXP: 242
     .. grid-item:: 编码 D9
     .. grid-item:: 地址 B8C6F (2C6B4)
     .. grid-item:: 精神地址 B8C80(2C6C6)
@@ -2949,6 +2970,7 @@
 
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 70
+    .. grid-item:: EXP: 186
     .. grid-item:: 编码 D4
     .. grid-item:: 地址 B8BDA (2C5F8)
     .. grid-item:: 精神地址 B8BEB(2C60A)

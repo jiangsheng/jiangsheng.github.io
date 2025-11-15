@@ -47,7 +47,7 @@ Dancouga cannot be deployed in this stage in the SNES version but can in the pla
 * バウ（MA） ×3
 * パイアラン ×7
 * ハンブラビ（MA） ×3
-* アッシマー(MA)  ×3
+* \ :ref:`アッシマー (MA) <srw4_unit_asshimar_ma>`\  ×3
 
 ----------------
 敌方援军

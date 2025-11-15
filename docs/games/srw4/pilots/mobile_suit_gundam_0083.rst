@@ -42,6 +42,7 @@
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 170
     .. grid-item:: 编码 43
     .. grid-item:: 地址 B7AF2 (2B39C)
     .. grid-item:: 精神地址 B7B03(2B3AE)
@@ -175,6 +176,7 @@
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 70
+    .. grid-item:: EXP: 227
     .. grid-item:: 编码 54
     .. grid-item:: 地址 B7D1F (2B616)
     .. grid-item:: 精神地址 B7D30(2B628)
@@ -323,6 +325,7 @@
     .. grid-item:: 登场/加入:第39话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 255
     .. grid-item:: 编码 42
     .. grid-item:: 地址 B7AD1 (2B378)
     .. grid-item:: 精神地址 B7AE2(2B38A)
@@ -473,6 +476,7 @@
     .. grid-item:: 登场/加入:第4话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 234
     .. grid-item:: 编码 9F
     .. grid-item:: 地址 B85E8 (2BF8A)
     .. grid-item:: 精神地址 B85F9(2BF9C)
@@ -615,6 +619,7 @@
     .. grid-item:: 登场/加入:第25话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 195
     .. grid-item:: 编码 2E
     .. grid-item:: 地址 B7875 (2B0CA)
     .. grid-item:: 精神地址 B7886(2B0DC)
@@ -748,6 +753,7 @@
     .. grid-item:: 登场/加入:第37话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 60
+    .. grid-item:: EXP: 199
     .. grid-item:: 编码 D1
     .. grid-item:: 地址 B8B7F (2C574)
     .. grid-item:: 精神地址 B8B90(2C586)
@@ -885,6 +891,7 @@
     .. grid-item:: 登场/加入:第14话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
+    .. grid-item:: EXP: 0
     .. grid-item:: 编码 41
     .. grid-item:: 地址 B7ABA (2B360)
     .. grid-item:: 精神地址 B7ACB(2B372)
@@ -1009,6 +1016,7 @@
 
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 190
     .. grid-item:: 编码 44
     .. grid-item:: 地址 B7B11 (2B3BC)
     .. grid-item:: 精神地址 B7B22(2B3CE)
@@ -1147,6 +1155,7 @@
 
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 0
+    .. grid-item:: EXP: 0
     .. grid-item:: 编码 70
     .. grid-item:: 地址 B8045 (2B972)
     .. grid-item:: 精神地址 B8056(2B984)

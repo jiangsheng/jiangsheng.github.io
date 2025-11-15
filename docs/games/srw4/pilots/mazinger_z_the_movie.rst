@@ -41,6 +41,7 @@
     .. grid-item:: 登场/加入:第22话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 60
+    .. grid-item:: EXP: 180
     .. grid-item:: 编码 6F
     .. grid-item:: 地址 B802E (2B95A)
     .. grid-item:: 精神地址 B803F(2B96C)

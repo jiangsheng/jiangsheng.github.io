@@ -42,6 +42,7 @@
     .. grid-item:: 登场/加入:第10话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 190
     .. grid-item:: 编码 31
     .. grid-item:: 地址 B78CA (2B122)
     .. grid-item:: 精神地址 B78DB(2B134)
@@ -189,6 +190,7 @@
     .. grid-item:: 登场/加入:第24话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 75
+    .. grid-item:: EXP: 255
     .. grid-item:: 编码 52
     .. grid-item:: 地址 B7CD5 (2B5AA)
     .. grid-item:: 精神地址 B7CE6(2B5BC)
@@ -335,6 +337,7 @@
     .. grid-item:: 登场/加入:第40话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 240
     .. grid-item:: 编码 32
     .. grid-item:: 地址 B78EF (2B14C)
     .. grid-item:: 精神地址 B7900(2B15E)
@@ -482,6 +485,7 @@
     .. grid-item:: 登场/加入:第40话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 245
     .. grid-item:: 编码 33
     .. grid-item:: 地址 B7910 (2B172)
     .. grid-item:: 精神地址 B7921(2B184)
@@ -636,6 +640,7 @@
     .. grid-item:: 登场/加入:第24话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 236
     .. grid-item:: 编码 8F
     .. grid-item:: 地址 B83E6 (2BD5C)
     .. grid-item:: 精神地址 B83F7(2BD6E)
@@ -776,6 +781,7 @@
     .. grid-item:: 登场/加入:第24话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 185
     .. grid-item:: 编码 93
     .. grid-item:: 地址 B8468 (2BDEE)
     .. grid-item:: 精神地址 B8479(2BE00)
@@ -905,6 +911,7 @@
     .. grid-item:: 登场/加入:第24话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 218
     .. grid-item:: 编码 94
     .. grid-item:: 地址 B8487 (2BE0E)
     .. grid-item:: 精神地址 B8498(2BE20)
@@ -1045,6 +1052,7 @@
     .. grid-item:: 登场/加入:第24话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 218
     .. grid-item:: 编码 95
     .. grid-item:: 地址 B84A8 (2BE32)
     .. grid-item:: 精神地址 B84B9(2BE44)
@@ -1185,6 +1193,7 @@
     .. grid-item:: 登场/加入:第24话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 250
     .. grid-item:: 编码 96
     .. grid-item:: 地址 B84C9 (2BE56)
     .. grid-item:: 精神地址 B84DA(2BE68)
@@ -1314,6 +1323,7 @@
     .. grid-item:: 登场/加入:第25话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 228
     .. grid-item:: 编码 90
     .. grid-item:: 地址 B8407 (2BD84)
     .. grid-item:: 精神地址 B8418(2BD96)
@@ -1454,6 +1464,7 @@
     .. grid-item:: 登场/加入:第40话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 237
     .. grid-item:: 编码 91
     .. grid-item:: 地址 B8428 (2BDAA)
     .. grid-item:: 精神地址 B8439(2BDBC)
@@ -1591,6 +1602,7 @@
     .. grid-item:: 登场/加入:第38话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
+    .. grid-item:: EXP: 0
     .. grid-item:: 编码 39
     .. grid-item:: 地址 B79C4 (2B230)
     .. grid-item:: 精神地址 B79D5(2B242)
@@ -1708,6 +1720,7 @@
 
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
+    .. grid-item:: EXP: 0
     .. grid-item:: 编码 34
     .. grid-item:: 地址 B7931 (2B198)
     .. grid-item:: 精神地址 B7942(2B1AA)
@@ -1825,6 +1838,7 @@
 
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 135
     .. grid-item:: 编码 35
     .. grid-item:: 地址 B7948 (2B1B0)
     .. grid-item:: 精神地址 B7959(2B1C2)
@@ -1970,6 +1984,7 @@
 
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 120
     .. grid-item:: 编码 37
     .. grid-item:: 地址 B798A (2B1F4)
     .. grid-item:: 精神地址 B799B(2B206)
@@ -2123,6 +2138,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
 
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 115
     .. grid-item:: 编码 36
     .. grid-item:: 地址 B7969 (2B1D2)
     .. grid-item:: 精神地址 B797A(2B1E4)
@@ -2264,6 +2280,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
 
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
+    .. grid-item:: EXP: 0
     .. grid-item:: 编码 38
     .. grid-item:: 地址 B79AD (2B218)
     .. grid-item:: 精神地址 B79BE(2B22A)
@@ -2381,6 +2398,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
 
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 238
     .. grid-item:: 编码 92
     .. grid-item:: 地址 B8447 (2BDCA)
     .. grid-item:: 精神地址 B8458(2BDDC)

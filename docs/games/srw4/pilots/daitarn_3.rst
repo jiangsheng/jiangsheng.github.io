@@ -42,6 +42,7 @@
     .. grid-item:: 登场/加入:第18话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 110
+    .. grid-item:: EXP: 255
     .. grid-item:: 编码 6A
     .. grid-item:: 地址 B7F9B (2B8C2)
     .. grid-item:: 精神地址 B7FAC(2B8D4)
@@ -157,9 +158,13 @@
 
 .. _srw4_pilot_banjo_haran_commentBegin:
 
-开局SP之多让人瞠目。SP成长和超级系主人公一样是每级3点，是游戏中最高的，精神配置也十分均衡。地形适应也可以让机体的三个形态充分发挥威力。近攻击也是我方最高，在开局的话，比主角更像主角。
+上一次大战之后失踪。第18话（\ :ref:`南南西 <srw4_walkthrough_18a_intruder_south_south_west>`\ /\ :ref:`北西<srw4_walkthrough_18b_intruder_northwest>`\ ）首次登场，此后作为朗德·贝尔的金主负责后勤工作和分队司令官。因为配音和ブライト是同一个人，在充当分队司令官的时候有一段搞笑的对话。
 
-因为配音和ブライト是同一个人，在充当分队队长的时候有一段搞笑的对话。
+其近战攻击力堪称怪物，开局即比我军平均高三成，但因为成长率较低，在后期几乎被几个王牌赶上。技量也是数一数二级别，暴击率惊人。命中和直感虽然排我军中游，但在超级系中仍是一流。远程攻击力与技量媲美真实系王牌，机体变形成坦克形态也能当狙击手用，堪称无懈可击，比主角更像主角。
+
+精神值是每级增加三点，本游戏唯二地高，另一个是超级系主人公。在超级系中有罕见的魂，以至于虽然武器比其他王牌弱，攻击力并不差。
+
+第四次S增加了语音，但能力并未和其他机师一样提升。
 
 .. _srw4_pilot_banjo_haran_commentEnd:
 
@@ -184,6 +189,7 @@
     .. grid-item:: 登场/加入:第26话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 75
+    .. grid-item:: EXP: 210
     .. grid-item:: 编码 5A
     .. grid-item:: 地址 B7DBF (2B6CC)
     .. grid-item:: 精神地址 B7DD0(2B6DE)
@@ -325,6 +331,7 @@
     .. grid-item:: 登场/加入:第30话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 252
     .. grid-item:: 编码 AB
     .. grid-item:: 地址 B872B (2C0DA)
     .. grid-item:: 精神地址 B873C(2C0EC)
@@ -456,6 +463,7 @@ DC代首领，引入外星人军队重振DC，以至于引起传统派あしゅ�
     .. grid-item:: 登场/加入:第43话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
+    .. grid-item:: EXP: 251
     .. grid-item:: 编码 AC
     .. grid-item:: 地址 B874A (2C0FA)
     .. grid-item:: 精神地址 B875B(2C10C)
@@ -596,6 +604,7 @@ DC代首领，引入外星人军队重振DC，以至于引起传统派あしゅ�
     .. grid-item:: 登场/加入:第26话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
+    .. grid-item:: EXP: 0
     .. grid-item:: 编码 5B
     .. grid-item:: 地址 B7DDE (2B6EC)
     .. grid-item:: 精神地址 B7DEF(2B6FE)
@@ -714,6 +723,7 @@ DC代首领，引入外星人军队重振DC，以至于引起传统派あしゅ�
     .. grid-item:: 登场/加入:第26话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 0
+    .. grid-item:: EXP: 0
     .. grid-item:: 编码 5C
     .. grid-item:: 地址 B7DF5 (2B704)
     .. grid-item:: 精神地址 B7E06(2B716)
@@ -832,6 +842,7 @@ DC代首领，引入外星人军队重振DC，以至于引起传统派あしゅ�
     .. grid-item:: 登场/加入:第26话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
+    .. grid-item:: EXP: 0
     .. grid-item:: 编码 5D
     .. grid-item:: 地址 B7E0C (2B71C)
     .. grid-item:: 精神地址 B7E1D(2B72E)

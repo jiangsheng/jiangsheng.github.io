@@ -50,8 +50,8 @@ The plan is to have a small number of AEUG's troops seize the council hall while
 * ドライセン ×3
 * ガブスレイ（MS） ×2
 * パイアラン ×2
-* アッシマー(MS)
-* アッシマー(MA)
+* \ :ref:`アッシマー (MS) <srw4_unit_asshimar_ms>`\ 
+* \ :ref:`アッシマー (MA) <srw4_unit_asshimar_ma>`\ 
 
 -------------
 地图物品

@@ -29,8 +29,8 @@
 * ガルスJ ×2
 * ミデア
 * ズサ
-* アッシマー(MS)
-* アッシマー(MA)
+* \ :ref:`アッシマー (MS) <srw4_unit_asshimar_ms>`\ 
+* \ :ref:`アッシマー (MA) <srw4_unit_asshimar_ma>`\ 
 * 戦闘獣グラトニオス
 * 戦闘獣オベリウス
 

@@ -44,6 +44,7 @@
     .. grid-item:: 登场/加入:第5话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 40
+    .. grid-item:: EXP: 225
     .. grid-item:: 编码 12
     .. grid-item:: 地址 B7521 (2AD20)
     .. grid-item:: 精神地址 B7532(2AD32)
@@ -175,6 +176,7 @@
     .. grid-item:: 登场/加入:第5话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 40
+    .. grid-item:: EXP: 220
     .. grid-item:: 编码 13
     .. grid-item:: 地址 B7540 (2AD40)
     .. grid-item:: 精神地址 B7551(2AD52)
@@ -307,6 +309,7 @@
     .. grid-item:: 登场/加入:第5话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 40
+    .. grid-item:: EXP: 215
     .. grid-item:: 编码 14
     .. grid-item:: 地址 B755F (2AD60)
     .. grid-item:: 精神地址 B7570(2AD72)
@@ -436,6 +439,7 @@
     .. grid-item:: 登场/加入:第5话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 45
+    .. grid-item:: EXP: 230
     .. grid-item:: 编码 15
     .. grid-item:: 地址 B757E (2AD80)
     .. grid-item:: 精神地址 B758F(2AD92)
