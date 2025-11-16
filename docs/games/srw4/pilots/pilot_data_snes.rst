@@ -390,7 +390,7 @@
    * - 0E
      - 自
      - .. image:: ../pilots/images/srw4_pilot_0E.png
-     - \ :ref:`キリー=ギャグレー <srw4_pilot_killy_gagley>`\ 
+     - \ :ref:`キリー・ギャグレー <srw4_pilot_killy_gagley>`\ 
      - Killy Gagley
      - :ref:`ゴーショーグン <srw4_pilots_goshogun>`
      - 普通

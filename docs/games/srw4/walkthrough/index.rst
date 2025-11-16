@@ -339,7 +339,7 @@
         .. image:: ../units/images/portrait/srw4_units_portrait_1F.png
         
         | :doc:`空飛ぶマジンガーZ <14_mazinger_z_flying_in_the_sky>`
-        | 加入机体：ドリルスペイザー
+        | 加入机体：\ :ref:`ドリルスパイザー <srw4_unit_drill_spider>`\ （钻地斯陪沙）
         | 、GP-03ステイメン
         | 加入机师：マリア
         | 升级：マジンガーZ
@@ -525,7 +525,7 @@
         .. image:: ../units/images/portrait/srw4_units_portrait_20.png
 
         | :doc:`グレートマジンガー奪回 <23b_recapture_of_great_mazinger>`
-        | 加入机体：ビューナスA
+        | 加入机体：\ :ref:`ビューナスA <srw4_unit_venus_a>`\ （维纳斯A）
         | 、グレートマジンガー
         | 加入机师：ジュン
         | 、鉄也

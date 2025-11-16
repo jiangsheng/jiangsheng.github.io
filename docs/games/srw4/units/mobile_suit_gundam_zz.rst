@@ -50,6 +50,9 @@ GM III
             :padding: 0
 
 
+            .. grid-item:: 英文:GM III
+                :columns: auto
+
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
 
@@ -268,6 +271,9 @@ ZΖガンダム
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:ZZ Gundam
+                :columns: auto
 
             .. grid-item:: 登场/加入:第25话
                 :columns: auto
@@ -497,6 +503,9 @@ G-フォートレス
             :padding: 0
 
 
+            .. grid-item:: 英文:G-Fortress
+                :columns: auto
+
             .. grid-item:: 登场/加入:第25话
                 :columns: auto
 
@@ -680,6 +689,9 @@ G-フォートレス
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Nahel Argama
+                :columns: auto
 
             .. grid-item:: 登场/加入:第28话
                 :columns: auto
@@ -891,6 +903,9 @@ G-フォートレス
             :padding: 0
 
 
+            .. grid-item:: 英文:Qubeley Mk-II
+                :columns: auto
+
             .. grid-item:: 登场/加入:第40话
                 :columns: auto
 
@@ -1092,6 +1107,9 @@ G-フォートレス
             :padding: 0
 
 
+            .. grid-item:: 英文:Galluss-J
+                :columns: auto
+
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
 
@@ -1270,6 +1288,9 @@ G-フォートレス
             :padding: 0
 
 
+            .. grid-item:: 英文:Zssa
+                :columns: auto
+
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
 
@@ -1438,6 +1459,9 @@ R・ジャジャ
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:R-Jarja
+                :columns: auto
 
             .. grid-item:: 登场/加入:第16话
                 :columns: auto
@@ -1619,6 +1643,9 @@ R・ジャジャ
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Bawoo (MS)
+                :columns: auto
 
             .. grid-item:: 登场/加入:第20话
                 :columns: auto
@@ -1814,6 +1841,9 @@ R・ジャジャ
             :padding: 0
 
 
+            .. grid-item:: 英文:Bawoo (MA)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第24话
                 :columns: auto
 
@@ -1990,6 +2020,9 @@ R・ジャジャ
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Dreissen
+                :columns: auto
 
             .. grid-item:: 登场/加入:第20话
                 :columns: auto
@@ -2180,6 +2213,9 @@ R・ジャジャ
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Doven Wolf
+                :columns: auto
 
             .. grid-item:: 登场/加入:第20话
                 :columns: auto
@@ -2440,6 +2476,9 @@ R・ジャジャ
             :padding: 0
 
 
+            .. grid-item:: 英文:Hamma Hamma
+                :columns: auto
+
             .. grid-item:: 登场/加入:第21话
                 :columns: auto
 
@@ -2620,6 +2659,9 @@ R・ジャジャ
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Endra
+                :columns: auto
 
             .. grid-item:: 登场/加入:第24话
                 :columns: auto
@@ -2818,6 +2860,9 @@ R・ジャジャ
             :padding: 0
 
 
+            .. grid-item:: 英文:Quin Mantha
+                :columns: auto
+
             .. grid-item:: 登场/加入:第28话
                 :columns: auto
 
@@ -2998,6 +3043,9 @@ R・ジャジャ
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Geymalk
+                :columns: auto
 
             .. grid-item:: 登场/加入:第39话
                 :columns: auto
@@ -3252,6 +3300,9 @@ R・ジャジャ
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Sadalahn
+                :columns: auto
 
             .. grid-item:: 登场/加入:第28话
                 :columns: auto

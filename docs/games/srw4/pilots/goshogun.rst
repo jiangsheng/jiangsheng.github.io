@@ -1,5 +1,5 @@
 .. meta::
-   :description: ゴーショーグン}登场人物 北条真吾, レミー島田, キリー=ギャグレー, レオナルド・メディチ・ブンドル, スーグニ・カットナル, ヤッター・ラ・ケルナグール 
+   :description: ゴーショーグン}登场人物 北条真吾, レミー島田, キリー・ギャグレー, レオナルド・メディチ・ブンドル, スーグニ・カットナル, ヤッター・ラ・ケルナグール 
 .. _srw4_pilots_goshogun:
 
 ======================
@@ -18,6 +18,9 @@
 --------
 .. _srw4_pilots_goshogun_own_commentBegin:
 
+战国魔神队在\ :ref:`第十四话 空飛ぶマジンガーZ <srw4_walkthrough_14_mazinger_z_flying_in_the_sky>`\ 中登场。直至\ :ref:`第二十八话 ノイエＤＣ <srw4_walkthrough_28_new_dc>`\ 才会正式加入我军。
+
+第四次S中在新增的接触(\ :ref:`真实系 <srw4_walkthrough_00a_contact_real>`\ /\ :ref:`超级系 <srw4_walkthrough_00b_contact_super>`\ )也会出现救助主角。但是之后正式加入的时候似乎不记得这回事。
 
 .. _srw4_pilots_goshogun_own_commentEnd:
 
@@ -39,6 +42,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_0C.png
 
+    .. grid-item:: 英文:Shingo Hojo
     .. grid-item:: 登场/加入:第14话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 60
@@ -158,11 +162,11 @@
 
 .. _srw4_pilot_shingo_hojo_commentBegin:
 
-第四次中超级系中最后一个加入的，但是能力较强，技量在我方超级系中算比较高的。另外近攻击高，但是机体发挥不出这个性能。
+第四次中超级系中最后一个加入的，但是能力较强，技量在我方超级系中算比较高的。另外近攻击高，但是机体发挥不出这个性能。地形适应方面，虽然主题歌是宇宙太空Number One，但是仍被设定成超级系普遍的宇宙B级。
 
-承担了超级机器人的热血、必中和気合工作。考虑到精神是三人份的，重担压在他一个人身上实在太勉强了。ザンボット３队至少还有个人分担集中的工作，这里就连集中也是真吾的事情。另外大招是远程武器，但是真吾的远程攻击嘛……
+承担了超级机器人的热血、必中和気合工作。考虑到精神是三人份的，重担压在他一个人身上实在太勉强了。\ :ref:`ザンボット3 <srw4_unit_zambot_3>`\ （扎博特3）队至少还有个人分担集中的工作，这里就连集中也是真吾的事情。另外大招是远程武器，但是真吾的远程攻击嘛……
 
-第四次S开场会临时作为盟军，加入也比第四次早。加入了配音。
+第四次S的开场会临时作为盟军，正式加入也比第四次早——虽然中间会脱队几话。加入了配音。
 
 .. _srw4_pilot_shingo_hojo_commentEnd:
 
@@ -184,6 +188,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_0D.png
 
+    .. grid-item:: 英文:Remy Shimada
     .. grid-item:: 登场/加入:第14话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 60
@@ -297,7 +302,7 @@
 .. _srw4_pilot_remy_shimada_commentEnd:
 
 ^^^^^^^^^^^^^^^^^^
-キリー=ギャグレー
+キリー・ギャグレー
 ^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_killy_gagley:
@@ -314,6 +319,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_0E.png
 
+    .. grid-item:: 英文:Killy Gagley
     .. grid-item:: 登场/加入:第14话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 60
@@ -422,7 +428,7 @@
 
 .. _srw4_pilot_killy_gagley_commentBegin:
 
-基力34级会学得觉醒，45级会学得魂让小队战斗力升级，真吾终于负担不用那么重了。第四次S加入了配音。
+基力34级会学得觉醒，45级会学得魂让小队战斗力升级，真吾终于负担不用那么重了。第四次S加入了配音。声优田中秀幸同时兼任原创角色\ :ref:`ギリアム・イェーガー <srw4_pilot_gilliam_yeager>`\ （基利亚姆）的配音。
 
 .. _srw4_pilot_killy_gagley_commentEnd:
 
@@ -452,6 +458,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_B1.png
 
+    .. grid-item:: 英文:Leonardo Medici Bundle
     .. grid-item:: 登场/加入:第10话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -585,6 +592,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_B2.png
 
+    .. grid-item:: 英文:Suegni Cuttnal
     .. grid-item:: 登场/加入:第10话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
@@ -717,6 +725,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_B3.png
 
+    .. grid-item:: 英文:Yatta-la Kernagul
     .. grid-item:: 登场/加入:第10话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 50

@@ -50,6 +50,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Jegan
+                :columns: auto
+
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
 
@@ -271,6 +274,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Ri Gazi (MA)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
 
@@ -464,6 +470,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Ri Gazi (MS)
+                :columns: auto
 
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
@@ -679,6 +688,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Nu Gundam
+                :columns: auto
 
             .. grid-item:: 登场/加入:第27话
                 :columns: auto
@@ -925,6 +937,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Jagd Doga (red)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第29话
                 :columns: auto
 
@@ -1140,6 +1155,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Ra Cailum
+                :columns: auto
+
             .. grid-item:: 登场/加入:第36话
                 :columns: auto
 
@@ -1354,6 +1372,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Sazabi
+                :columns: auto
 
             .. grid-item:: 登场/加入:第39话
                 :columns: auto
@@ -1578,6 +1599,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Geara Doga (green)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第15话
                 :columns: auto
 
@@ -1771,6 +1795,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Jagd Doga (blue)
+                :columns: auto
 
             .. grid-item:: 登场/加入:第28话
                 :columns: auto
@@ -1979,6 +2006,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Alpha Azieru
+                :columns: auto
+
             .. grid-item:: 登场/加入:第37话
                 :columns: auto
 
@@ -2172,6 +2202,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Rewloola
+                :columns: auto
 
             .. grid-item:: 登场/加入:第37话
                 :columns: auto
@@ -2391,6 +2424,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Geara Doga (upgraded)
+                :columns: auto
+
             .. grid-item:: 编码 87
                 :columns: auto
 
@@ -2575,6 +2611,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Nightingale
+                :columns: auto
 
             .. grid-item:: 编码 10D
                 :columns: auto

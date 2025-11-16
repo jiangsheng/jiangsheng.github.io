@@ -39,6 +39,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_5F.png
 
+    .. grid-item:: 英文:Kyoshiro Yuzuki
     .. grid-item:: 登场/加入:第7话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 60
@@ -158,13 +159,13 @@
 
 .. _srw4_pilot_kyoshiro_yuzuki_commentBegin:
 
-本作中乘换属于战斗机系，不仅能驾驶\ :ref:`ガルバーFXⅡ <srw4_unit_galva_fx_ii>`\ ，也可以驾驶\ :ref:`ブルーガー <srw4_unit_bluegar>`\ 。加入时就会和\ :ref:`和泉ナナ <srw4_pilot_nana_izumi>`\ 抢机体，中期要和她二选一留队。即使在没有容量限制问题的第四次S中也是这样。
+本作中乘换属于战斗机系，不仅能驾驶\ :ref:`ガルバーFXⅡ <srw4_unit_galva_fx_ii>`\ （加拉巴FXⅡ），也可以驾驶\ :ref:`ブルーガー <srw4_unit_bluegar>`\ （布鲁加）。加入时就会和\ :ref:`和泉ナナ <srw4_pilot_nana_izumi>`\ （和泉奈奈）抢机体，中期要和她二选一留队。即使在没有容量限制问题的第四次S中也是这样。
 
 具有标准真实系战斗机师的精神和能力，远攻击甚至接近王牌，精神也出得早，可惜并不适合来开补给机，直感很低，二次行动慢。\ :ref:`神宮寺力 <srw4_pilot_riki_jinguuji>`\ 也有一样的问题。初期可以用加速来探宝，后期则在与和泉ナナ二选一时通常被选择离队。加拉巴不是一架双座飞机吗？
 
 宇宙飞船驾驶员，参与土星人物的他，本作宇宙适应却只有B，好在一般会被选择离队。
 
-第四次S中在\ :ref:`第三十二话 ダカールの日 <srw4_walkthrough_32_the_day_of_dakar>`\ 这一话中本系人物和三轮长官对战时都会有对话。由于已经和和泉ナナ二选一过了，所以要看全剧情的话，需要需要多次通关。
+第四次S中在\ :ref:`第三十二话 ダカールの日 <srw4_walkthrough_32_the_day_of_dakar>`\ 这一话中本系人物和三轮长官对战时都会有对话。由于已经和和泉奈奈二选一过了，所以要看全剧情的话，需要需要多次通关。
 
 .. _srw4_pilot_kyoshiro_yuzuki_commentEnd:
 
@@ -186,6 +187,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_60.png
 
+    .. grid-item:: 英文:Nana Izumi
     .. grid-item:: 登场/加入:第7话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 70
@@ -294,7 +296,7 @@
 
 .. _srw4_pilot_nana_izumi_commentBegin:
 
-本作中乘换属于战斗机系，不仅能驾驶\ :ref:`ガルバーFXⅡ <srw4_unit_galva_fx_ii>`\ ，也可以驾驶\ :ref:`ブルーガー <srw4_unit_bluegar>`\ 。加入时就会和\ :ref:`夕月京四郎 <srw4_pilot_kyoshiro_yuzuki>`\ 抢机体，中期要和他二选一留队。即使在没有容量限制问题的第四次S中也是这样。
+和泉奈奈在本作中乘换属于战斗机系，不仅能驾驶\ :ref:`ガルバーFXⅡ <srw4_unit_galva_fx_ii>`\ （加拉巴FXⅡ），也可以驾驶\ :ref:`ブルーガー <srw4_unit_bluegar>`\ （布鲁加）。加入时就会和\ :ref:`夕月京四郎 <srw4_pilot_kyoshiro_yuzuki>`\ 抢机体，中期要和他二选一留队。即使在没有容量限制问题的第四次S中也是这样。
 
 能力居于我军下游，但是因为辅助精神多，比较适合开补给机，反正也不指望补给机打伤害。
 
@@ -322,6 +324,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_6B.png
 
+    .. grid-item:: 英文:Kazuya Ryuzaki
     .. grid-item:: 登场/加入:第7话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 70
@@ -441,7 +444,7 @@
 
 .. _srw4_pilot_kazuya_ryuzaki_commentBegin:
 
-和エリカ的恋情是剧情发展主线之一。
+和エリカ（艾莉卡）的恋情是剧情发展主线之一。
 
 开局之后第一个加入的超级系，在超级系中能力可算顶尖，加上近身武器大多会加暴击率，即使热血很慢才学得，攻击力也不能算差。
 
@@ -456,7 +459,7 @@
 --------
 .. _srw4_pilots_daimos_enemy_commentBegin:
 
-リヒテル的妹妹和一矢的恋人エリカ虽说貌似在分别乘坐\ :ref:`ガロイカ <srw4_unit_garoica>`\ （？）和\ :ref:`メカ戦士ゴッドアーモン <srw4_unit_mecha_warrior_goddoamon>`\ 在\ :ref:`第四十三话 荒野の死闘 <srw4_walkthrough_43_wasteland_deathmatch>`\ 和\ :ref:`第四十四话Ａ 火星の決戦 (ゼゼーナン) <srw4_walkthrough_44a_final_battle_on_mars_zezeenan>` \  登场劝说哥哥，其机体驾驶员实为DC士兵，仅对话中头像不同，驾驶员数据中查无此人。
+\ :ref:`リヒテル <srw4_pilot_richter>`\ （里希特）的妹妹和\ :ref:`竜崎一矢 <srw4_pilot_kazuya_ryuzaki>`\ 的恋人エリカ（艾莉卡）虽说貌似在分别乘坐\ :ref:`ガロイカ <srw4_unit_garoica>`\ （加洛伊卡不是Guest军的么）和\ :ref:`メカ戦士ゴッドアーモン <srw4_unit_mecha_warrior_goddoamon>`\ （机甲战士神龙兽） 在\ :ref:`第四十三话 荒野の死闘 <srw4_walkthrough_43_wasteland_deathmatch>`\ 和\ :ref:`第四十四话Ａ 火星の決戦 (ゼゼーナン) <srw4_walkthrough_44a_final_battle_on_mars_zezeenan>` \  登场劝说哥哥，其机体驾驶员实为DC士兵，仅对话中头像不同，虽然登录人物目录，但是驾驶员数据中查无此人。
 
 .. _srw4_pilots_daimos_enemy_commentEnd:
 
@@ -478,6 +481,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_AD.png
 
+    .. grid-item:: 英文:Richter
     .. grid-item:: 登场/加入:第7话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -586,7 +590,7 @@
 
 .. _srw4_pilot_richter_commentBegin:
 
-里希特是小バーム星地球攻撃軍提督，エリカ的哥哥。在与DC联手对抗朗德·贝尔的剧情中，还与同由市川治配音的\ :ref:`ガルーダ <srw4_pilot_garuda>`\ （加鲁达）有互动。\ :ref:`第四十三话 荒野の死闘 <srw4_walkthrough_43_wasteland_deathmatch>`\ 中由妹妹告知其父之死的真像而撤退，说是要亲赴小バーム星斩杀罪魁祸首オルバン（奥尔班），下一话中就已经斩杀了奥尔班回来继续和朗德·贝尔作战（行动这么快的么）。
+里希特是小バーム（巴姆）星地球攻撃軍提督，エリカ（艾莉卡）的哥哥。在与DC联手对抗朗德·贝尔的剧情中，还与同由市川治配音的\ :ref:`ガルーダ <srw4_pilot_garuda>`\ （加鲁达）有互动。\ :ref:`第四十三话 荒野の死闘 <srw4_walkthrough_43_wasteland_deathmatch>`\ 中由妹妹告知其父之死的真像而撤退，说是要亲赴小巴姆星斩杀罪魁祸首オルバン（奥尔班），下一话中就已经斩杀了奥尔班回来继续和朗德·贝尔作战（行动这么快的么）。
 
 近攻击和技量很高的敌人。但是平时都会开攻击力不强的战舰出来，浪费了他的能力。
 
@@ -612,6 +616,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_AE.png
 
+    .. grid-item:: 英文:Balbas
     .. grid-item:: 登场/加入:第7话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
@@ -720,7 +725,7 @@
 
 .. _srw4_pilot_balbas_commentBegin:
 
-巴尔巴斯将军是\ :ref:`リヒテル提督 <srw4_pilot_richter>`\ （里希特）的部下。驾驶\ :ref:`メカ戦士ゾンネカイザー <srw4_unit_mecha_warrior_sonnekaiser>`\ 在多个场景出场。最后在\ :ref:`第四十三话 荒野の死闘 <srw4_walkthrough_43_wasteland_deathmatch>`\ 中被里希特带离战场前往小バーム星。后无音讯。
+巴尔巴斯将军是\ :ref:`リヒテル提督 <srw4_pilot_richter>`\ （里希特）的部下。驾驶\ :ref:`メカ戦士ゾンネカイザー <srw4_unit_mecha_warrior_sonnekaiser>`\ （机甲战士索恩凯撒） 在多个场景出场。最后在\ :ref:`第四十三话 荒野の死闘 <srw4_walkthrough_43_wasteland_deathmatch>`\ 中被里希特带离战场前往小バーム（巴姆）星。后无音讯。
 
 近攻击相当于我军王牌。其他能力相当我军三流。
 
@@ -746,6 +751,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_AF.png
 
+    .. grid-item:: 英文:Raiza
     .. grid-item:: 登场/加入:第12话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
@@ -856,7 +862,7 @@
 
 莱莎是\ :ref:`リヒテル提督 <srw4_pilot_richter>`\ （里希特）的部下。主要负责技术开发。
 
-驾驶\ :ref:`ガルンロール <srw4_unit_guranrol>`\ 出场两次，仅在\ :ref:`第十二话Ａ 愛の行方 <srw4_walkthrough_12a_love_s_whereabouts>`\ 中和我军交战，最后在\ :ref:`第四十三话 荒野の死闘 <srw4_walkthrough_43_wasteland_deathmatch>`\ 中被里希特带离战场前往小バーム星。后无音讯。
+驾驶\ :ref:`ガルンロール <srw4_unit_guranrol>`\ （加恩罗尔） 出场两次，仅在\ :ref:`第十二话Ａ 愛の行方 <srw4_walkthrough_12a_love_s_whereabouts>`\ 中和我军交战，最后在\ :ref:`第四十三话 荒野の死闘 <srw4_walkthrough_43_wasteland_deathmatch>`\ 中被里希特带离战场前往小バーム（巴姆）星。后无音讯。
 
 近攻击相当于我军二流。其他能力相当我军三流。
 
@@ -882,6 +888,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_B0.png
 
+    .. grid-item:: 英文:Aizam
     .. grid-item:: 登场/加入:第29话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
@@ -990,9 +997,9 @@
 
 .. _srw4_pilot_aizam_commentBegin:
 
-艾扎姆是小バーム星的天才科学家，\ :ref:`リヒテル提督 <srw4_pilot_richter>`\ （里希特）的挚友。奉奥尔班大元帅之命，以取代里希特的特使身份赴任海底城担任地球入侵司令官。在第25话结尾救下试图对戴摩斯发动特攻的里希特。
+艾扎姆是小バーム（巴姆）星的天才科学家，\ :ref:`リヒテル提督 <srw4_pilot_richter>`\ （里希特）的挚友。奉奥尔班大元帅之命，以取代里希特的特使身份赴任海底城担任地球入侵司令官。
 
-虽受奥尔班下令诛杀里希特，但对里希特的友情始终未动摇，遂协助其开发机械战士、艾萨隆粒子及反艾萨隆粒子等武器，彻底压制\ :ref:`ダイモス <srw4_unit_daimos>`\ （戴莫斯） 。然而在开发艾萨隆粒子时遭遇事故，生命所剩无几。最终他亲自驾驶毕生杰作\ :ref:`メカ戦士ギメリア <srw4_unit_mecha_warrior_gimeria>`\ 挑战戴莫斯，败北战死。
+虽受奥尔班下令诛杀里希特，但对里希特的友情始终未动摇，遂协助其开发机械战士、艾萨隆粒子及反艾萨隆粒子等武器，彻底压制\ :ref:`ダイモス <srw4_unit_daimos>`\ （戴莫斯） 。然而在开发艾萨隆粒子时遭遇事故，生命所剩无几。最终他亲自驾驶毕生杰作\ :ref:`メカ戦士ギメリア <srw4_unit_mecha_warrior_gimeria>`\ （机甲战士基梅利亚） 挑战戴莫斯，败北战死。
 
 近攻击和技量相当于我军二流。其他能力相当我军三流。
 
@@ -1018,6 +1025,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_EE.png
 
+    .. grid-item:: 英文:Sakamori Miwa
     .. grid-item:: 登场/加入:第32话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 30
@@ -1132,7 +1140,7 @@
 
 虽然精神设定方面十分符合其火爆脾气，但性格不知为何被设定为弱気。能力值和经验值偏低。
 
-第四次S中增加了除直感之外的能力。战死前和\ :ref:`竜崎一矢 <srw4_pilot_kazuya_ryuzaki>`\ 、\ :ref:`夕月京四郎 <srw4_pilot_kyoshiro_yuzuki>`\ 和\ :ref:`和泉ナナ <srw4_pilot_nana_izumi>`\ 交战时，将分别触发战前对话。
+第四次S中增加了除直感之外的能力。战死前和\ :ref:`竜崎一矢 <srw4_pilot_kazuya_ryuzaki>`\ 、\ :ref:`夕月京四郎 <srw4_pilot_kyoshiro_yuzuki>`\ 和\ :ref:`和泉ナナ <srw4_pilot_nana_izumi>`\ （和泉奈奈）交战时，将分别触发战前对话。
 
 .. _srw4_pilot_sakamori_miwa_commentEnd:
 

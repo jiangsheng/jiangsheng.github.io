@@ -40,6 +40,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_0F.png
 
+    .. grid-item:: 英文:Kappei Jin
     .. grid-item:: 登场/加入:第9话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 70
@@ -183,6 +184,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_10.png
 
+    .. grid-item:: 英文:Uchuuta Kamie
     .. grid-item:: 登场/加入:第9话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 60
@@ -313,6 +315,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_11.png
 
+    .. grid-item:: 英文:Keiko Kamikita
     .. grid-item:: 登场/加入:第9话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
@@ -455,6 +458,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_AA.png
 
+    .. grid-item:: 英文:Killer The Butcher
     .. grid-item:: 登场/加入:第9话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
@@ -597,6 +601,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_56.png
 
+    .. grid-item:: 英文:Heizaemon Kamikita
     .. grid-item:: 登场/加入:第9话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
@@ -718,6 +723,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_57.png
 
+    .. grid-item:: 英文:Umee Jin
     .. grid-item:: 登场/加入:第9话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
@@ -837,6 +843,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_58.png
 
+    .. grid-item:: 英文:Gengorou Jin
     .. grid-item:: 登场/加入:第9话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
@@ -957,6 +964,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_59.png
 
+    .. grid-item:: 英文:Ichitaro Jin
     .. grid-item:: 登场/加入:第9话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0

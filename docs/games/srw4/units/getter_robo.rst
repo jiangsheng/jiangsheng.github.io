@@ -18,7 +18,7 @@
 --------
 .. _srw4_units_getter_robo_own_commentBegin:
 
-盖塔小队的三个形态的改造段数中除了HP和EN之外都不共享，强化芯片也是独立的。
+盖塔小队的三个形态的改造段数中除了HP和EN之外都不共享，强化芯片也是独立的。对于装甲类芯片，效果不会影响到其他形态，但是消耗类芯片的效果会。你或许会考虑给不常使用的形态装备消耗类芯片。
 
 作为和泰坦3并列的最强超级机器人，不但在初期就能获得有助于培养的加速、热血、幸运、气合等精神，更是第一话就能加入队伍，实用性远超18话才入队的泰坦3。随着剧情推进，盖塔G和真盖塔会一次入手，无需吝惜资金。但是注意部分武器的改造段数不能继承到真盖塔。
 
@@ -55,6 +55,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Getter 1
+                :columns: auto
 
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
@@ -221,7 +224,7 @@
 
 .. _srw4_unit_getter_1_commentBegin:
 
-可以用到最终话而且改造也大多继承的强力机体，是重点培养和改造对象。注意不要改造ゲッターレザー，这个武器的改造不继承到真ゲッター。EN改造超过4级也将会是浪费资金。盖塔光线的消耗就威力来说非常小，如果要击落开局会逃窜的敌人，则应首先将其改造到5段以上再考虑其他机体的改造。
+可以用到最终话而且改造也大多继承的强力机体，是重点培养和改造对象。注意不要改造ゲッターレザー，这个武器的改造不继承到真ゲッター。EN改造超过4级或者限界超过2级也将会是浪费资金。盖塔光线的消耗就威力来说非常小，如果要击落开局会逃窜的敌人，则应首先将其改造到5段以上再考虑其他机体的改造。
 
 盖塔光线消耗EN虽然少但是也和后面增加的武器有点重复，但是不改造盖塔光线会损失一些资金（一些早期Boss会跑掉），除非有什么特别偏好，否则还是改造吧。
 
@@ -261,6 +264,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Getter 2
+                :columns: auto
 
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
@@ -468,6 +474,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Getter 3
+                :columns: auto
+
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
 
@@ -656,6 +665,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Getter Dragon
+                :columns: auto
 
             .. grid-item:: 登场/加入:第25话
                 :columns: auto
@@ -870,6 +882,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Getter Liger
+                :columns: auto
+
             .. grid-item:: 登场/加入:第25话
                 :columns: auto
 
@@ -1059,6 +1074,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Getter Poseidon
+                :columns: auto
 
             .. grid-item:: 登场/加入:第25话
                 :columns: auto
@@ -1257,6 +1275,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Shin Getter-1
+                :columns: auto
 
             .. grid-item:: 登场/加入:第35话
                 :columns: auto
@@ -1460,6 +1481,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Shin Getter-2
+                :columns: auto
+
             .. grid-item:: 登场/加入:第35话
                 :columns: auto
 
@@ -1662,6 +1686,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Shin Getter-3
+                :columns: auto
+
             .. grid-item:: 登场/加入:第35话
                 :columns: auto
 
@@ -1849,6 +1876,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Texas Mack
+                :columns: auto
 
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
@@ -2056,6 +2086,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Mechasaurus Bado
+                :columns: auto
+
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
 
@@ -2220,6 +2253,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Mechasaurus Saki
+                :columns: auto
 
             .. grid-item:: 登场/加入:第2话
                 :columns: auto
@@ -2386,6 +2422,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Mechasaurus Zai
+                :columns: auto
+
             .. grid-item:: 登场/加入:第3话
                 :columns: auto
 
@@ -2551,6 +2590,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Mechasaurus Zen II
+                :columns: auto
+
             .. grid-item:: 登场/加入:第3话
                 :columns: auto
 
@@ -2715,6 +2757,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Mechasaurus Zuu
+                :columns: auto
 
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
@@ -2894,6 +2939,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Mechasaurus Dai
+                :columns: auto
+
             .. grid-item:: 登场/加入:第15话
                 :columns: auto
 
@@ -3057,6 +3105,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Mechasaurus Shigu
+                :columns: auto
 
             .. grid-item:: 登场/加入:第15话
                 :columns: auto

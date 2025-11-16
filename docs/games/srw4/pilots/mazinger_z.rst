@@ -38,6 +38,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_45.png
 
+    .. grid-item:: 英文:Sayaka Yumi
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 80
@@ -174,6 +175,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_47.png
 
+    .. grid-item:: 英文:Boss
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 90
@@ -297,7 +299,7 @@
 
 地形适应方面也只有陆A能看，其他的不是D就是C。后期宇宙战甚至自己的默认机因为\ :ref:`地形 <srw4_terrain>`\ 原因都不能出场。
 
-10级就能习得激怒，真实系路线需要速通的时候很有用。第十二话愛の行方居然没有跟甲児一起走而是跑到本队去了估计就有要赶时间救人的考虑。25级就可以放两次激怒。気合也是可以帮助速通的，前提是把他换乘到マジンガーZ上面去。如果有人会复活的话，自爆也能让我方有地图武器的机体在同一回合满EN行动两次，。后面也可以用他开ドリルスペイザー，在地中来对敌人BOSS脱力。
+10级就能习得激怒，真实系路线需要速通的时候很有用。第十二话愛の行方居然没有跟甲児一起走而是跑到本队去了估计就有要赶时间救人的考虑。25级就可以放两次激怒。気合也是可以帮助速通的，前提是把他换乘到マジンガーZ上面去。如果有人会复活的话，自爆也能让我方有地图武器的机体在同一回合满EN行动两次，。后面也可以用他开ドリルスパイザー，在地中来对敌人BOSS脱力。
 
 
 .. _srw4_pilot_boss_commentEnd:
@@ -320,6 +322,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_55.png
 
+    .. grid-item:: 英文:Koji Kabuto
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 100
@@ -475,6 +478,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_A0.png
 
+    .. grid-item:: 英文:Baron Ashura
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 60
@@ -607,6 +611,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_A1.png
 
+    .. grid-item:: 英文:Count of Brocken
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 60
@@ -739,6 +744,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_A2.png
 
+    .. grid-item:: 英文:Dr Hell
     .. grid-item:: 登场/加入:第21话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 60

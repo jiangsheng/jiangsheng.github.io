@@ -50,6 +50,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Reideen
+                :columns: auto
+
             .. grid-item:: 登场/加入:第20话
                 :columns: auto
 
@@ -360,6 +363,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Bluegar
+                :columns: auto
+
             .. grid-item:: 登场/加入:第20话
                 :columns: auto
 
@@ -560,6 +566,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Drome
+                :columns: auto
+
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
 
@@ -712,6 +721,9 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Gante
+                :columns: auto
 
             .. grid-item:: 登场/加入:第20话
                 :columns: auto
@@ -902,6 +914,9 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
             :padding: 0
 
 
+            .. grid-item:: 英文:Fossil Beast Bastodon
+                :columns: auto
+
             .. grid-item:: 登场/加入:第20话
                 :columns: auto
 
@@ -1052,6 +1067,9 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Giant Sharkin
+                :columns: auto
 
             .. grid-item:: 登场/加入:第20话
                 :columns: auto
@@ -1237,6 +1255,9 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Fossil beast Girudeen
+                :columns: auto
 
             .. grid-item:: 登场/加入:第21话
                 :columns: auto

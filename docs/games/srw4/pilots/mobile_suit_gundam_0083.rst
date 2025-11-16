@@ -39,6 +39,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_43.png
 
+    .. grid-item:: 英文:Chuck Keith
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
@@ -173,6 +174,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_54.png
 
+    .. grid-item:: 英文:Kou Uraki
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 70
@@ -322,6 +324,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_42.png
 
+    .. grid-item:: 英文:Anavel Gato
     .. grid-item:: 登场/加入:第39话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
@@ -473,6 +476,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_9F.png
 
+    .. grid-item:: 英文:Cima Garahau
     .. grid-item:: 登场/加入:第4话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 50
@@ -616,6 +620,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_2E.png
 
+    .. grid-item:: 英文:Kelly Layzner
     .. grid-item:: 登场/加入:第25话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -750,6 +755,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_D1.png
 
+    .. grid-item:: 英文:Aiguille Delaz
     .. grid-item:: 登场/加入:第37话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 60
@@ -888,6 +894,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_41.png
 
+    .. grid-item:: 英文:Nina Purpleton
     .. grid-item:: 登场/加入:第14话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
@@ -1014,6 +1021,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_44.png
 
+    .. grid-item:: 英文:Bernard Monsha
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 50
     .. grid-item:: EXP: 190
@@ -1153,6 +1161,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_70.png
 
+    .. grid-item:: 英文:South Burning
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 0
     .. grid-item:: EXP: 0

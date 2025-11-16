@@ -51,6 +51,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Daitarn 3
+                :columns: auto
+
             .. grid-item:: 登场/加入:第18话
                 :columns: auto
 
@@ -305,6 +308,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Dai Fighter
+                :columns: auto
+
             .. grid-item:: 登场/加入:第18话
                 :columns: auto
 
@@ -501,6 +507,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Dai Tank
+                :columns: auto
 
             .. grid-item:: 登场/加入:第18话
                 :columns: auto

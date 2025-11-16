@@ -52,6 +52,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Marine Spacer
+                :columns: auto
+
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
 
@@ -197,7 +200,7 @@
 
 .. _srw4_unit_marine_spacer_commentBegin:
 
-对海作战机体，武器虽然账面数值高，但是对于海洋之外的地形的敌人会比较弱。
+潜水斯陪沙是对海作战机体，武器虽然账面数值高，但是对于海洋之外的地形的敌人会比较弱。
 
 如果选择承认恋人，那么第五话会比较活跃（不过也就甲児的海适应能看）。对空适应是B，在MS普遍陆地适应为B时具有同等竞争力。所以可以用沙也加或者波士开魔神，而甲児开本机来提高战力。
 
@@ -236,6 +239,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Drill Spider
+                :columns: auto
 
             .. grid-item:: 登场/加入:第14话
                 :columns: auto
@@ -389,7 +395,7 @@
 
 .. _srw4_unit_drill_spider_commentBegin:
 
-钻头太空机在14话由玛丽亚驾驶登场。无消耗的大招很少见，后期分队之前应该让牧場ひかる切换到它上面，这样ダブルスペイザー可以在经常打到弹尽粮绝的オルドナ＝ポセイダル这一话中和グレートマジンガー起作为影响战局的消耗低的超级系机体。
+钻地斯陪沙在14话由玛丽亚驾驶登场。无消耗的大招很少见，后期分队之前应该让牧場ひかる切换到它上面，这样ダブルスペイザー可以在经常打到弹尽粮绝的オルドナ＝ポセイダル这一话中和グレートマジンガー起作为影响战局的消耗低的超级系机体。
 
 虽然对空适应是B，但是武器威力强劲，可以打出灵格斯或者超级高达级别的伤害。考虑到后期ダブルスペイザー主要和本机合体，提前改造一下钻头攻击和火花轰炸，在中期之前独立作战亦为不可。
 
@@ -427,6 +433,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Grendizer
+                :columns: auto
 
             .. grid-item:: 登场/加入:第24话
                 :columns: auto
@@ -661,6 +670,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Spacer
+                :columns: auto
 
             .. grid-item:: 登场/加入:第24话
                 :columns: auto
@@ -913,6 +925,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Double Spacer
+                :columns: auto
+
             .. grid-item:: 登场/加入:第24话
                 :columns: auto
 
@@ -1065,9 +1080,9 @@
 
 .. _srw4_unit_double_spacer_commentBegin:
 
-双太空机24话和古连泰沙一起登场。其性能在三款太空机中最为出色。然而因为登场时已有古连泰沙，基本没有单独战斗机会。
+飞行斯陪沙在24话和古连泰沙一起登场。其性能在三款太空机中最为出色。然而因为登场时已有古连泰沙，基本没有单独战斗机会。
 
-合体形态的移动力最高。旋风光束很实用但是仍然是消耗EN的，而グレンダイザー的油耗本来就不好。在经常打到弹尽粮绝的オルドナ＝ポセイダル这一话中ドリルスペイザー更加有用，但是这需要在分队时提前和マリア交换机体。
+合体形态的移动力最高。旋风光束很实用但是仍然是消耗EN的，而グレンダイザー的油耗本来就不好。在经常打到弹尽粮绝的オルドナ＝ポセイダル这一话中ドリルスパイザー更加有用，但是这需要在分队时提前和マリア交换机体。
 
 因为其他武器的残弹过少，只有消耗EN的旋风光束值得改造。
 
@@ -1101,6 +1116,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Grendizer (WS)
+                :columns: auto
 
             .. grid-item:: 登场/加入:第24话
                 :columns: auto
@@ -1365,6 +1383,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Grendizer (DS)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第24话
                 :columns: auto
 
@@ -1627,6 +1648,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Grendizer (MS)
+                :columns: auto
 
             .. grid-item:: 登场/加入:第24话
                 :columns: auto
@@ -1899,6 +1923,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:MiniFO
+                :columns: auto
+
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
 
@@ -2062,6 +2089,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Saucer Beast Girugiru
+                :columns: auto
 
             .. grid-item:: 登场/加入:第7话
                 :columns: auto
@@ -2247,6 +2277,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Saucer Beast Dekideki
+                :columns: auto
+
             .. grid-item:: 登场/加入:第18话
                 :columns: auto
 
@@ -2423,6 +2456,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Saucer Beast Gosgos
+                :columns: auto
 
             .. grid-item:: 登场/加入:第19话
                 :columns: auto
@@ -2601,6 +2637,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Vega Beast King Gori
+                :columns: auto
+
             .. grid-item:: 登场/加入:第21话
                 :columns: auto
 
@@ -2764,6 +2803,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Mother Burn
+                :columns: auto
 
             .. grid-item:: 登场/加入:第22话
                 :columns: auto

@@ -38,6 +38,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_50.png
 
+    .. grid-item:: 英文:Amuro Ray
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 75
@@ -191,6 +192,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_21.png
 
+    .. grid-item:: 英文:Bright Noah
     .. grid-item:: 登场/加入:第5话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -337,6 +339,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_7A.png
 
+    .. grid-item:: 英文:Clamp
     .. grid-item:: 登场/加入:第4话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -469,6 +472,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_78.png
 
+    .. grid-item:: 英文:Lamba Ral
     .. grid-item:: 登场/加入:第5话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
@@ -583,7 +587,6 @@
 
 .. _srw4_pilot_lamba_ral_commentEnd:
 
-
 ^^^^^^
 ガイア
 ^^^^^^
@@ -602,6 +605,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_7B.png
 
+    .. grid-item:: 英文:Gaia
     .. grid-item:: 登场/加入:第10话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
@@ -714,7 +718,6 @@
 
 .. _srw4_pilot_gaia_commentEnd:
 
-
 ^^^^^^^^
 マッシュ
 ^^^^^^^^
@@ -733,6 +736,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_7C.png
 
+    .. grid-item:: 英文:Mash
     .. grid-item:: 登场/加入:第10话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -863,6 +867,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_7D.png
 
+    .. grid-item:: 英文:Ortega
     .. grid-item:: 登场/加入:第10话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -994,6 +999,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_77.png
 
+    .. grid-item:: 英文:Gadem
     .. grid-item:: 登场/加入:第20话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
@@ -1123,6 +1129,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_79.png
 
+    .. grid-item:: 英文:Claure Jamon
     .. grid-item:: 登场/加入:第20话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -1253,6 +1260,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_7E.png
 
+    .. grid-item:: 英文:Sharia Bull
     .. grid-item:: 登场/加入:第25话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -1402,6 +1410,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_24.png
 
+    .. grid-item:: 英文:Matilda Ajan
     .. grid-item:: 登场/加入:第5话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
@@ -1534,6 +1543,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_22.png
 
+    .. grid-item:: 英文:Hayato Kobayashi
     .. grid-item:: 登场/加入:第33话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
@@ -1662,6 +1672,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_25.png
 
+    .. grid-item:: 英文:Sayla Mass
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
     .. grid-item:: EXP: 0
@@ -1780,6 +1791,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_26.png
 
+    .. grid-item:: 英文:Wakkein
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 40
     .. grid-item:: EXP: 170
@@ -1909,6 +1921,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_27.png
 
+    .. grid-item:: 英文:Admiral Tianem
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 40
     .. grid-item:: EXP: 180
@@ -2038,6 +2051,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_7F.png
 
+    .. grid-item:: 英文:Lala Sun
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
     .. grid-item:: EXP: 250

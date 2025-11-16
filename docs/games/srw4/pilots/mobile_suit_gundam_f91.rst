@@ -38,6 +38,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_53.png
 
+    .. grid-item:: 英文:Seabook Arno
     .. grid-item:: 登场/加入:第24话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 70
@@ -181,6 +182,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_40.png
 
+    .. grid-item:: 英文:Cecily Fairchild
     .. grid-item:: 登场/加入:第39话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
@@ -336,6 +338,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_9A.png
 
+    .. grid-item:: 英文:Sabine Char
     .. grid-item:: 登场/加入:第38话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -477,6 +480,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_9B.png
 
+    .. grid-item:: 英文:Anna Marie Bruges
     .. grid-item:: 登场/加入:第38话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
@@ -618,6 +622,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_9C.png
 
+    .. grid-item:: 英文:Dorrell Rona
     .. grid-item:: 登场/加入:第38话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -759,6 +764,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_9D.png
 
+    .. grid-item:: 英文:Carrozzo Rona
     .. grid-item:: 登场/加入:第38话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50

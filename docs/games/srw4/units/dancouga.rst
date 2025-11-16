@@ -52,6 +52,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Dancouga
+                :columns: auto
+
             .. grid-item:: 登场/加入:第11话
                 :columns: auto
 
@@ -271,6 +274,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Eagle Fighter N
+                :columns: auto
+
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
 
@@ -455,6 +461,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Eagle Fighter A
+                :columns: auto
 
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
@@ -654,6 +663,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Eagle Fighter H
+                :columns: auto
+
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
 
@@ -852,6 +864,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Land Cougar N
+                :columns: auto
+
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
 
@@ -1023,6 +1038,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Land Cougar A
+                :columns: auto
 
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
@@ -1209,6 +1227,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Land Cougar H
+                :columns: auto
+
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
 
@@ -1394,6 +1415,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Land Liger N
+                :columns: auto
+
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
 
@@ -1565,6 +1589,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Land Liger A
+                :columns: auto
 
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
@@ -1751,6 +1778,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Land Liger H
+                :columns: auto
+
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
 
@@ -1935,6 +1965,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Big Moth N
+                :columns: auto
 
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
@@ -2133,6 +2166,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Big Moth A
+                :columns: auto
 
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
@@ -2344,6 +2380,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Big Moth H
+                :columns: auto
 
             .. grid-item:: 登场/加入:第4话
                 :columns: auto

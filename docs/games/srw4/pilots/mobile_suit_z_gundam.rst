@@ -38,6 +38,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_28.png
 
+    .. grid-item:: 英文:Emma Sheen
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -183,6 +184,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_29.png
 
+    .. grid-item:: 英文:Torres
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 40
@@ -319,6 +321,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_2A.png
 
+    .. grid-item:: 英文:Fa Yuiry
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 55
@@ -466,6 +469,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_3D.png
 
+    .. grid-item:: 英文:Hathaway Noah
     .. grid-item:: 登场/加入:第5话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
@@ -617,6 +621,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_2B.png
 
+    .. grid-item:: 英文:Katz Kobayashi
     .. grid-item:: 登场/加入:第10话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
@@ -767,6 +772,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_51.png
 
+    .. grid-item:: 英文:Kamille Bidan
     .. grid-item:: 登场/加入:第10话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 75
@@ -916,6 +922,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_82.png
 
+    .. grid-item:: 英文:Sarah Zabiarov
     .. grid-item:: 登场/加入:第20话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -1065,6 +1072,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_20.png
 
+    .. grid-item:: 英文:Quattro Bajeena
     .. grid-item:: 登场/加入:第24话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
@@ -1210,6 +1218,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_2C.png
 
+    .. grid-item:: 英文:Four Murasame
     .. grid-item:: 登场/加入:第31话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -1357,6 +1366,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_8E.png
 
+    .. grid-item:: 英文:Rosamia Badam
     .. grid-item:: 登场/加入:第33话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -1516,6 +1526,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_81.png
 
+    .. grid-item:: 英文:Kacricon Cacooler
     .. grid-item:: 登场/加入:第2话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -1646,6 +1657,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_84.png
 
+    .. grid-item:: 英文:Jerid Messa
     .. grid-item:: 登场/加入:第2话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 50
@@ -1789,6 +1801,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_8C.png
 
+    .. grid-item:: 英文:Lila Milla Rira
     .. grid-item:: 登场/加入:第2话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
@@ -1932,6 +1945,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_8D.png
 
+    .. grid-item:: 英文:Yazan Gable
     .. grid-item:: 登场/加入:第2话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 50
@@ -2075,6 +2089,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_86.png
 
+    .. grid-item:: 英文:Jamitov Hymem
     .. grid-item:: 登场/加入:第22话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
@@ -2193,6 +2208,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_46.png
 
+    .. grid-item:: 英文:Ramsus Hasa
     .. grid-item:: 登场/加入:第23话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -2338,6 +2354,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_4C.png
 
+    .. grid-item:: 英文:Dunkel Cooper
     .. grid-item:: 登场/加入:第23话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -2472,6 +2489,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_8A.png
 
+    .. grid-item:: 英文:Mouar Pharaoh
     .. grid-item:: 登场/加入:第23话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -2613,6 +2631,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_85.png
 
+    .. grid-item:: 英文:Jamaican Daninghan
     .. grid-item:: 登场/加入:第24话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
@@ -2743,6 +2762,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_87.png
 
+    .. grid-item:: 英文:Haman Karn
     .. grid-item:: 登场/加入:第28话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
@@ -2891,6 +2911,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_89.png
 
+    .. grid-item:: 英文:Ben Wooder
     .. grid-item:: 登场/加入:第31话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -3021,6 +3042,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_83.png
 
+    .. grid-item:: 英文:Gates Capa
     .. grid-item:: 登场/加入:第33话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -3162,6 +3184,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_80.png
 
+    .. grid-item:: 英文:Gadi Kinsey
     .. grid-item:: 登场/加入:第35话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -3292,6 +3315,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_88.png
 
+    .. grid-item:: 英文:Buran Blutarch
     .. grid-item:: 登场/加入:第36话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -3422,6 +3446,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_8B.png
 
+    .. grid-item:: 英文:Mineva Zabi
     .. grid-item:: 登场/加入:第40话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
@@ -3548,6 +3573,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_2F.png
 
+    .. grid-item:: 英文:Henken Bekkener
     .. grid-item:: 登场/加入:第10话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -3682,6 +3708,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_30.png
 
+    .. grid-item:: 英文:Blex Forer
     .. grid-item:: 登场/加入:第17话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
@@ -3805,6 +3832,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_23.png
 
+    .. grid-item:: 英文:Kai Shiden
     .. grid-item:: 登场/加入:第19话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
@@ -3923,6 +3951,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_2D.png
 
+    .. grid-item:: 英文:Beltorchika Irma
     .. grid-item:: 登场/加入:第32话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0

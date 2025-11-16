@@ -65,7 +65,7 @@ While Team B is preparing for space operations in Hong Kong, Team A receives a r
    * [仅SRW4]ガラバ（黒騎士）
    * ガラバ（\ :ref:`ガラミティ・マンガン <srw4_pilot_galamity_manganese>`\ ）
    * ガラバ（\ :ref:`ダー <srw4_pilot_dah>`\ ）
-   * ガラバ（ニェット）
+   * ガラバ（\ :ref:`ニェット <srw4_pilot_nyett>`\ ）
    * ライネック
    * ズワァース ×3
    * レプラカーン ×3

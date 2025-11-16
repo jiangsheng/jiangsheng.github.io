@@ -50,6 +50,9 @@ F-91
             :padding: 0
 
 
+            .. grid-item:: 英文:F-91
+                :columns: auto
+
             .. grid-item:: 登场/加入:第25话
                 :columns: auto
 
@@ -272,6 +275,9 @@ F-91
             :padding: 0
 
 
+            .. grid-item:: 英文:Vigna Ghina
+                :columns: auto
+
             .. grid-item:: 登场/加入:第39话
                 :columns: auto
 
@@ -472,6 +478,9 @@ F-91
             :padding: 0
 
 
+            .. grid-item:: 英文:Berga Giros
+                :columns: auto
+
             .. grid-item:: 登场/加入:第30话
                 :columns: auto
 
@@ -652,6 +661,9 @@ F-91
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Rafflesia
+                :columns: auto
 
             .. grid-item:: 登场/加入:第38话
                 :columns: auto
@@ -874,6 +886,9 @@ F-91
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Zamouth Garr
+                :columns: auto
 
             .. grid-item:: 登场/加入:第37话
                 :columns: auto

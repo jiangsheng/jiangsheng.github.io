@@ -52,6 +52,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Gespenst (Real)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
 
@@ -245,6 +248,9 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
             :padding: 0
 
 
+            .. grid-item:: 英文:Gespenst (Super)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
 
@@ -437,6 +443,9 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Huckebein
+                :columns: auto
 
             .. grid-item:: 登场/加入:第25话
                 :columns: auto
@@ -683,6 +692,9 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
             :padding: 0
 
 
+            .. grid-item:: 英文:Grungust
+                :columns: auto
+
             .. grid-item:: 登场/加入:第25话
                 :columns: auto
 
@@ -917,6 +929,9 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
             :padding: 0
 
 
+            .. grid-item:: 英文:Wing Gust
+                :columns: auto
+
             .. grid-item:: 登场/加入:第25话
                 :columns: auto
 
@@ -1110,6 +1125,9 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
             :padding: 0
 
 
+            .. grid-item:: 英文:Gust Lander
+                :columns: auto
+
             .. grid-item:: 登场/加入:第25话
                 :columns: auto
 
@@ -1294,6 +1312,9 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Cybuster
+                :columns: auto
 
             .. grid-item:: 登场/加入:第34话
                 :columns: auto
@@ -1535,6 +1556,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
+            .. grid-item:: 英文:Cybird
+                :columns: auto
+
             .. grid-item:: 登场/加入:第34话
                 :columns: auto
 
@@ -1719,6 +1743,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Zamzeed
+                :columns: auto
 
             .. grid-item:: 登场/加入:第35话
                 :columns: auto
@@ -1941,6 +1968,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
+            .. grid-item:: 英文:Valsione R
+                :columns: auto
+
             .. grid-item:: 登场/加入:第43话
                 :columns: auto
 
@@ -2153,6 +2183,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Grannvale
+                :columns: auto
 
             .. grid-item:: 登场/加入:第43话
                 :columns: auto
@@ -2382,6 +2415,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
+            .. grid-item:: 英文:Gaddeath
+                :columns: auto
+
             .. grid-item:: 登场/加入:第43话
                 :columns: auto
 
@@ -2581,6 +2617,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Granzon
+                :columns: auto
 
             .. grid-item:: 登场/加入:第44话
                 :columns: auto
@@ -2788,6 +2827,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
+            .. grid-item:: 英文:Weesol Kai
+                :columns: auto
+
             .. grid-item:: 登场/加入:第44话
                 :columns: auto
 
@@ -2976,6 +3018,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Nors Ray
+                :columns: auto
 
             .. grid-item:: 登场/加入:第44话
                 :columns: auto
@@ -3175,6 +3220,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
+            .. grid-item:: 英文:Garoica
+                :columns: auto
+
             .. grid-item:: 登场/加入:第10话
                 :columns: auto
 
@@ -3341,6 +3389,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Kaleitsed
+                :columns: auto
 
             .. grid-item:: 登场/加入:第18话
                 :columns: auto
@@ -3544,6 +3595,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
+            .. grid-item:: 英文:Rest Rail
+                :columns: auto
+
             .. grid-item:: 登场/加入:第29话
                 :columns: auto
 
@@ -3733,6 +3787,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
+            .. grid-item:: 英文:Grassidow Ryu
+                :columns: auto
+
             .. grid-item:: 登场/加入:第29话
                 :columns: auto
 
@@ -3908,6 +3965,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Geios Glud
+                :columns: auto
 
             .. grid-item:: 登场/加入:第29话
                 :columns: auto
@@ -4117,6 +4177,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Lige Geios
+                :columns: auto
 
             .. grid-item:: 登场/加入:第29话
                 :columns: auto
@@ -4344,6 +4407,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
+            .. grid-item:: 英文:Rest Granshu
+                :columns: auto
+
             .. grid-item:: 登场/加入:第35话
                 :columns: auto
 
@@ -4546,6 +4612,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
+            .. grid-item:: 英文:Baran Schnile
+                :columns: auto
+
             .. grid-item:: 登场/加入:第35话
                 :columns: auto
 
@@ -4746,6 +4815,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
+            .. grid-item:: 英文:Zeranio
+                :columns: auto
+
             .. grid-item:: 登场/加入:第37话
                 :columns: auto
 
@@ -4942,6 +5014,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
+            .. grid-item:: 英文:Mecha Gilgilgan
+                :columns: auto
+
             .. grid-item:: 登场/加入:第43话
                 :columns: auto
 
@@ -5122,6 +5197,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Neo Granzon
+                :columns: auto
 
             .. grid-item:: 登场/加入:第44话
                 :columns: auto
@@ -5336,6 +5414,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
+            .. grid-item:: 英文:Valsione
+                :columns: auto
+
             .. grid-item:: 登场/加入:第44话
                 :columns: auto
 
@@ -5510,6 +5591,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Gespenst Mk-II
+                :columns: auto
 
             .. grid-item:: 登场/加入:第14话
                 :columns: auto
@@ -5724,6 +5808,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Gadifal
+                :columns: auto
 
             .. grid-item:: 编码 5D
                 :columns: auto
@@ -5942,6 +6029,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Fake Cybuster
+                :columns: auto
 
             .. grid-item:: 编码 10C
                 :columns: auto

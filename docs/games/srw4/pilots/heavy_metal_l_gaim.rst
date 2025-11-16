@@ -39,6 +39,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_04.png
 
+    .. grid-item:: 英文:Lilith Fau
     .. grid-item:: 登场/加入:第2话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
@@ -173,6 +174,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_D2.png
 
+    .. grid-item:: 英文:Daba Myroad
     .. grid-item:: 登场/加入:第2话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 75
@@ -316,6 +318,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_D5.png
 
+    .. grid-item:: 英文:Fanaria Amm
     .. grid-item:: 登场/加入:第2话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 65 (85)
@@ -460,6 +463,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_D3.png
 
+    .. grid-item:: 英文:Gaw Ha Leccee
     .. grid-item:: 登场/加入:第3话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 70
@@ -605,6 +609,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_D7.png
 
+    .. grid-item:: 英文:Gavlet Gablae
     .. grid-item:: 登场/加入:第4话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 75
@@ -752,6 +757,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_DD.png
 
+    .. grid-item:: 英文:Quwasan Olibee
     .. grid-item:: 登场/加入:第26话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 65
@@ -904,6 +910,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_D6.png
 
+    .. grid-item:: 英文: Hasha Moja
     .. grid-item:: 登场/加入:第4话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 65
@@ -1036,6 +1043,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_DF.png
 
+    .. grid-item:: 英文:Anton Rando
     .. grid-item:: 登场/加入:第8话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 65
@@ -1179,6 +1187,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_E0.png
 
+    .. grid-item:: 英文:Heckler Mauser
     .. grid-item:: 登场/加入:第8话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 65
@@ -1322,6 +1331,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_E2.png
 
+    .. grid-item:: 英文:Chai Char
     .. grid-item:: 登场/加入:第8话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 65
@@ -1452,6 +1462,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_DA.png
 
+    .. grid-item:: 英文:Nei Mo Han
     .. grid-item:: 登场/加入:第9话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 65
@@ -1596,6 +1607,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_E3.png
 
+    .. grid-item:: 英文:Wassan Lune
     .. grid-item:: 登场/加入:第17话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 65
@@ -1726,6 +1738,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_E4.png
 
+    .. grid-item:: 英文:Maph McTomin
     .. grid-item:: 登场/加入:第17话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 65
@@ -1867,6 +1880,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_E5.png
 
+    .. grid-item:: 英文:Baan Gania Killas
     .. grid-item:: 登场/加入:第17话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 65
@@ -2008,6 +2022,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_D8.png
 
+    .. grid-item:: 英文:Amandara Kamandara
     .. grid-item:: 登场/加入:第25话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 65
@@ -2137,6 +2152,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_DE.png
 
+    .. grid-item:: 英文:Rockley Ron
     .. grid-item:: 登场/加入:第26话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 65
@@ -2278,6 +2294,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_E1.png
 
+    .. grid-item:: 英文:Lily Hasshi
     .. grid-item:: 登场/加入:第26话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 65
@@ -2419,6 +2436,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_DB.png
 
+    .. grid-item:: 英文:Giwaza Lowau
     .. grid-item:: 登场/加入:第40话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 65
@@ -2549,6 +2567,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_E6.png
 
+    .. grid-item:: 英文:Ted Devilas
     .. grid-item:: 登场/加入:第40话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 65
@@ -2690,6 +2709,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_DC.png
 
+    .. grid-item:: 英文:Full Flat
     .. grid-item:: 登场/加入:第41话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 65
@@ -2831,6 +2851,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_D9.png
 
+    .. grid-item:: 英文:Oldna Poseidal
     .. grid-item:: 登场/加入:第42话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 65
@@ -2968,6 +2989,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_D4.png
 
+    .. grid-item:: 英文:Mirawoo Kyao
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 70
     .. grid-item:: EXP: 186

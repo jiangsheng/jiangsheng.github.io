@@ -39,7 +39,7 @@ Gimeria can only be damaged by Deimos's "Special Reppu Seikentsuki Kai." It cons
 -----------------
 
 * ダイモス（竜崎一矢）
-* ガルバーFXII（和泉ナナ/夕月京四郎）
+* ガルバーFXII（\ :ref:`和泉ナナ <srw4_pilot_nana_izumi>`\ （和泉奈奈）/夕月京四郎）
 * 自选10机
 
 -----------------

@@ -38,6 +38,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_3E.png
 
+    .. grid-item:: 英文:Christina Mackenzie
     .. grid-item:: 登场/加入:第5话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
@@ -185,6 +186,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_3F.png
 
+    .. grid-item:: 英文:Bernard Wiseman
     .. grid-item:: 登场/加入:第5话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -343,6 +345,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_9E.png
 
+    .. grid-item:: 英文:Steiner
     .. grid-item:: 登场/加入:第25话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50

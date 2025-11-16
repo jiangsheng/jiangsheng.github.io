@@ -18,7 +18,9 @@
 --------
 .. _srw4_pilots_getter_robo_own_commentBegin:
 
-虽然盖塔小队精神不是很多，但是有三人份，而且不像断空我那么重复，还是够用的。ジャック＝キング小队7级精神居然就出全了，SP也很多，用加速去探宝然后用幸运赚钱大概是他们唯一的任务。
+盖塔小队开局驾驶\ :ref:`ゲッター <srw4_unit_getter_1>`\ 登场。中盘会换乘\ :ref:`ゲッターG <srw4_unit_getter_dragon>`\ ，终盘会换乘\ :ref:`真・ゲッター <srw4_unit_shin_getter_1>`\ 。
+
+虽然盖塔小队精神不是很多，但是有三人份，而且不像\ :ref:`ダンクーガ <srw4_unit_dancouga>`\ （断空我）那么重复，还是够用的。\ :ref:`ジャック・キング <srw4_pilot_jack_king>`\ 小队7级精神居然就出全了，SP也很多，用加速去探宝然后用幸运赚钱大概是他们唯二的任务。
 
 .. _srw4_pilots_getter_robo_own_commentEnd:
 
@@ -40,6 +42,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_09.png
 
+    .. grid-item:: 英文:Ryoma Nagare
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 70
@@ -159,11 +162,13 @@
 
 .. _srw4_pilot_ryoma_nagare_commentBegin:
 
-爱称リョウ.
+爱称リョウ，小队队长，同时也是鹰号（本作仅在合体动画中出场）和盖塔空中作战型的驾驶员。开局加入。
 
-近攻击非常高，但是远攻击和回避很低，适合给BOSS最后一击。有个底力技能，但是第四次里底力这技能有\ :doc:`../mechanics/bug`\ ，是完全没有效果的。
+近攻击非常高，但是远攻击、命中和回避很低，适合加好精神给BOSS最后一击。有个底力技能，但是第四次里底力这技能有\ :doc:`../mechanics/bug`\ ，是完全没有效果的。
 
-流竜馬有觉醒而且真盖塔攻击高，加上补给和再动的辅助之后很强。宇宙适应是B，后期一些宇宙地图中有点乏力。还好最后的战斗是在火星打。另外因为太阳光弹是近身攻击武器，注意目标是陆地的敌人的话，会有地形适应惩罚。
+流竜馬有觉醒而且真盖塔攻击高，加上补给和其他机师的觉醒+再动的辅助之后很强，甚至可以首回合通关最终Boss。宇宙适应是B，后期一些宇宙地图中有点乏力。还好最后的战斗是在火星打。另外因为对陆地适应是B，在使用\ :ref:`太阳光弹 <srw4_unit_getter_dragon>`\ 之类的近身格斗武器攻击陆上敌人时会有地形适应惩罚。
+
+第四次S中加入了语音。
 
 .. _srw4_pilot_ryoma_nagare_commentEnd:
 
@@ -185,6 +190,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_0A.png
 
+    .. grid-item:: 英文:Hayato Jin
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
@@ -293,9 +299,11 @@
 
 .. _srw4_pilot_hayato_jin_commentBegin:
 
-爱称ハヤト.
+爱称ハヤト。捷豹号（本作只在合体动画中出场）和盖塔的对地形态的驾驶员。和\ :ref:`早乙女ミチル <srw4_pilot_michiru_saotome>`\ （早乙女美智流）一起向\ :ref:`車弁慶 <srw4_pilot_benkei_kuruma>`\ 传授学自巴武藏的大雪山崩落。
 
-和机体形态对应地，神隼人也并不是个擅长作战的机师，精神都是辅助系的，最有用的还是幸运。攻击和回避能力都是摆好看的，要开始打的时候都是从地中钻出来变形成盖塔1用盖塔光束的。二次行动等级比流竜馬要早，可以在43~44级之间回合结束的时候用二号机形态结束回合。
+虽然除了近攻击之外其他能力都比流竜馬要强，但是机体太过于脆弱，所以能力都是摆好看的，要开始打的时候都是从地中钻出来变形成对空形态，除非能抢占有利地形。二次行动等级比\ :ref:`流竜馬 <srw4_pilot_ryoma_nagare>`\ 要早，可以在43~44级之间回合结束的时候用二号机形态结束回合。精神都是辅助系的，幸运、加速和集中都很有用。
+
+第四次S加入了声音。
 
 .. _srw4_pilot_hayato_jin_commentEnd:
 
@@ -317,6 +325,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_0B.png
 
+    .. grid-item:: 英文:Benkei Kuruma
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 70
@@ -436,9 +445,13 @@
 
 .. _srw4_pilot_benkei_kuruma_commentBegin:
 
-爱称ベンケイ。登场作品ゲッターロボG。
+爱称ベンケイ。登场作品ゲッターロボG。熊号（本作只在合体动画中登场）和盖塔的对海形态的驾驶员。
 
-在小队中负责气合。回避值在游戏里倒数第二而且海战形态装甲很薄。虽然武器是陆A但是机师是陆B，以至于对地面也比神隼人差，除非水战否则不会做主力。但是这游戏的水战还真不多……
+近攻击非常高。然而回避值在游戏里倒数第二而且海战形态装甲很薄。虽然武器是陆A但是机师是陆B，以至于对地面也比 \ :ref:`神隼人 <srw4_pilot_hayato_jin>`\ 差，除非水战否则不会做主力。但是这游戏的水战还真不多……
+
+在小队中负责必中和气合。探索居然要40级才能练得出来……
+
+第四次S中加入了声音。
 
 .. _srw4_pilot_benkei_kuruma_commentEnd:
 
@@ -460,6 +473,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_07.png
 
+    .. grid-item:: 英文:Jack King
     .. grid-item:: 登场/加入:第4话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 70
@@ -568,7 +582,9 @@
 
 .. _srw4_pilot_jack_king_commentBegin:
 
-直感我方最低，好在就出场这么一话，不会加入我军，没有两动的可能也没什么了。。
+杰克·金是\ :ref:`テキサスマック <srw4_unit_texas_mack>`\ （德克萨斯麦克）驾驶员。\ :ref:`メリー・キング <srw4_pilot_mary_king>`\ （玛丽·金）的哥哥。仅在\ :ref:`第四话Ａ 特訓！大雪山おろし (速) <srw4_walkthrough_04a_special_training_dai_setsu_zan_oroshi_fast>`\ 中参战一话，不会加入我军。
+
+直感我方最低，好在不会加入我军，没有两动的可能也没什么了。远攻击还不错。
 
 .. _srw4_pilot_jack_king_commentEnd:
 
@@ -590,6 +606,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_08.png
 
+    .. grid-item:: 英文:Mary King
     .. grid-item:: 登场/加入:第4话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 60
@@ -698,7 +715,7 @@
 
 .. _srw4_pilot_mary_king_commentBegin:
 
-ジャック＝キング的妹妹，有幸运，死要钱的可以拿来打爆ブード。很奇怪她在这一作中没有補給这个精神，除了本作之外从第二次到α都有的。
+\ :ref:`ジャック・キング <srw4_pilot_jack_king>`\ （杰克·金）的妹妹和副驾驶，仅在\ :ref:`第四话Ａ 特訓！大雪山おろし (速) <srw4_walkthrough_04a_special_training_dai_setsu_zan_oroshi_fast>`\ 中参战一话，不会加入我军。有幸运，死要钱的可以拿来打爆\ :ref:`ブード <srw4_unit_bood>`\ 。很奇怪她在这一作中没有補給这个精神，除了本作之外从第二次到α都有的。
 
 .. _srw4_pilot_mary_king_commentEnd:
 
@@ -728,6 +745,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_4B.png
 
+    .. grid-item:: 英文:Michiru Saotome
     .. grid-item:: 登场/加入:第3话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 80
@@ -836,7 +854,9 @@
 
 .. _srw4_pilot_michiru_saotome_commentBegin:
 
-非战斗人员，教导车弁庆如何使用大雪山おろし。
+和 \ :ref:`神隼人 <srw4_pilot_hayato_jin>`\ 一起教导车弁庆如何使用大雪山崩落。
+
+虽然是非战斗人员但是设定了能力值和精神，或许本来计划会作为战斗员。
 
 .. _srw4_pilot_michiru_saotome_commentEnd:
 

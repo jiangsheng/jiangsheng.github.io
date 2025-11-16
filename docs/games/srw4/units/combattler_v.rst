@@ -50,6 +50,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Combattler V
+                :columns: auto
+
             .. grid-item:: 登场/加入:第15话
                 :columns: auto
 
@@ -412,6 +415,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Battle Jet
+                :columns: auto
+
             .. grid-item:: 登场/加入:第15话
                 :columns: auto
 
@@ -610,6 +616,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Battle Crusher
+                :columns: auto
+
             .. grid-item:: 登场/加入:第15话
                 :columns: auto
 
@@ -807,6 +816,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Battle Tank
+                :columns: auto
+
             .. grid-item:: 登场/加入:第15话
                 :columns: auto
 
@@ -977,6 +989,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Battle Marine
+                :columns: auto
 
             .. grid-item:: 登场/加入:第15话
                 :columns: auto
@@ -1149,6 +1164,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Battle Craft
+                :columns: auto
+
             .. grid-item:: 登场/加入:第15话
                 :columns: auto
 
@@ -1315,6 +1333,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Magma beast Galmus
+                :columns: auto
+
             .. grid-item:: 登场/加入:第6话
                 :columns: auto
 
@@ -1478,6 +1499,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Graydon
+                :columns: auto
 
             .. grid-item:: 登场/加入:第6话
                 :columns: auto
@@ -1662,6 +1686,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Magma Beast Demon
+                :columns: auto
 
             .. grid-item:: 登场/加入:第15话
                 :columns: auto
@@ -1852,6 +1879,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Big Garuda
+                :columns: auto
 
             .. grid-item:: 登场/加入:第16话
                 :columns: auto

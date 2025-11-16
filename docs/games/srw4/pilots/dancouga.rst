@@ -18,7 +18,7 @@
 --------
 .. _srw4_pilots_dancouga_own_commentBegin:
 
-[第四次]虽然机师数值不错，但是陆地和宇宙适应都是B，造成断空我的能力最终是BBCB，在任何地形都不能完全发挥，经常在和コンバトラーV队二选一的时候被淘汰。
+[第四次]虽然机师数值不错，但是陆地和宇宙适应都是B，造成断空我的能力最终是BBCB，在任何地形都不能完全发挥，经常在和\ :ref:`コンバトラーV <srw4_unit_combattler_v>`\ 队二选一的时候被淘汰。
 
 [第四次S]现在不会和超电磁队二选一了，地形适应有所改善，加上整个小队都有气合和热血，有EN回复地形的话开场连烧三个気合放断空炮还是很恐怖的。
 
@@ -42,6 +42,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_12.png
 
+    .. grid-item:: 英文:Shinobu Fujiwara
     .. grid-item:: 登场/加入:第5话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 40
@@ -178,6 +179,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_13.png
 
+    .. grid-item:: 英文:Sara Yuki
     .. grid-item:: 登场/加入:第5话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 40
@@ -290,7 +292,7 @@
 
 具有独立战力，需要\ :ref:`赶时间收白河愁 <srw4_missable_shuu>`\ 的时候很有用，战场上分离出来可以省三个出击位。能力略差，地形适应也差，不过好在机体皮糙肉厚。
 
-后期出击机体多了就无法分离了。作为副机师来说，幸运比\ :ref:`南原ちずる <srw4_pilot_chizuru_nanbara>`\ 出得早，断空我队就靠她升级了。如果不是断空我油耗太高的话，靠她的铁壁也可以开无双。
+后期出击机体多了就无法分离了。作为副机师来说，幸运比\ :ref:`コンバトラーV <srw4_pilots_combattler_v>`\ 队的\ :ref:`南原ちずる <srw4_pilot_chizuru_nanbara>`\ 出得早，断空我队就靠她升级了。如果不是断空我油耗太高的话，靠她的铁壁也可以开无双。
 
 .. _srw4_pilot_sara_yuki_commentEnd:
 
@@ -312,6 +314,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_14.png
 
+    .. grid-item:: 英文:Masato Shikibu
     .. grid-item:: 登场/加入:第5话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 40
@@ -444,6 +447,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_15.png
 
+    .. grid-item:: 英文:Ryo Shiba
     .. grid-item:: 登场/加入:第5话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 45

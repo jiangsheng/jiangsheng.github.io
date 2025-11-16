@@ -71,7 +71,7 @@ In the SNES edition, because AEUG forces are insufficient to counter enemies in 
    * ライネック（トッド＝ギネス）
    * ライネック（\ :ref:`ガラミティ・マンガン <srw4_pilot_galamity_manganese>`\ ）
    * ライネック（\ :ref:`ダー <srw4_pilot_dah>`\ ）
-   * ライネック（ニェット）
+   * ライネック（\ :ref:`ニェット <srw4_pilot_nyett>`\ ）
    * ビアレス ×7
 
 #. 援军2 右下

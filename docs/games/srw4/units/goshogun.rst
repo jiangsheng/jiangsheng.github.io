@@ -50,6 +50,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Goshogun
+                :columns: auto
+
             .. grid-item:: 登场/加入:第28话
                 :columns: auto
 
@@ -295,6 +298,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Bundle ship
+                :columns: auto
+
             .. grid-item:: 登场/加入:第10话
                 :columns: auto
 
@@ -495,6 +501,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Cuttnal ship
+                :columns: auto
 
             .. grid-item:: 登场/加入:第10话
                 :columns: auto
@@ -697,6 +706,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Kernagul ship
+                :columns: auto
+
             .. grid-item:: 登场/加入:第10话
                 :columns: auto
 
@@ -898,6 +910,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Gonagurl
+                :columns: auto
+
             .. grid-item:: 登场/加入:第28话
                 :columns: auto
 
@@ -1061,6 +1076,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:God Neros
+                :columns: auto
 
             .. grid-item:: 编码 52
                 :columns: auto

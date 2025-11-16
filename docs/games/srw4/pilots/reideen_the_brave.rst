@@ -39,6 +39,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_4D.png
 
+    .. grid-item:: 英文:Riki Jinguuji
     .. grid-item:: 登场/加入:第20话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 60
@@ -173,6 +174,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_63.png
 
+    .. grid-item:: 英文:Akira Hibiki
     .. grid-item:: 登场/加入:第20话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 85
@@ -316,6 +318,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_4E.png
 
+    .. grid-item:: 英文:Rei Asuka
     .. grid-item:: 登场/加入:第21话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 65
@@ -448,6 +451,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_4F.png
 
+    .. grid-item:: 英文:Mari Sakurano
     .. grid-item:: 登场/加入:第21话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 70
@@ -589,6 +593,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_A3.png
 
+    .. grid-item:: 英文:Sharkin
     .. grid-item:: 登场/加入:第20话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 60
@@ -722,6 +727,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_A6.png
 
+    .. grid-item:: 英文:Barao
     .. grid-item:: 登场/加入:第20话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 70

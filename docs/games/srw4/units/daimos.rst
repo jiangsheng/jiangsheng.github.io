@@ -50,6 +50,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Daimos
+                :columns: auto
+
             .. grid-item:: 登场/加入:第7话
                 :columns: auto
 
@@ -375,6 +378,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Galva FX-II
+                :columns: auto
+
             .. grid-item:: 登场/加入:第7话
                 :columns: auto
 
@@ -570,6 +576,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Mecha Warrior Sonnekaiser
+                :columns: auto
+
             .. grid-item:: 登场/加入:第7话
                 :columns: auto
 
@@ -755,6 +764,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Guranrol
+                :columns: auto
+
             .. grid-item:: 登场/加入:第7话
                 :columns: auto
 
@@ -939,6 +951,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Mecha Warrior Gimeria
+                :columns: auto
 
             .. grid-item:: 登场/加入:第29话
                 :columns: auto
@@ -1140,6 +1155,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Mecha Warrior Goddoamon
+                :columns: auto
 
             .. grid-item:: 登场/加入:第43话
                 :columns: auto

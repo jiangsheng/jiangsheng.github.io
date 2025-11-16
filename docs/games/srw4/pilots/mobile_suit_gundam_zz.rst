@@ -39,6 +39,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_31.png
 
+    .. grid-item:: 英文:Roux Louka
     .. grid-item:: 登场/加入:第10话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
@@ -187,6 +188,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_52.png
 
+    .. grid-item:: 英文:Judau Ashta
     .. grid-item:: 登场/加入:第24话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 75
@@ -334,6 +336,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_32.png
 
+    .. grid-item:: 英文:Elpeo Ple
     .. grid-item:: 登场/加入:第40话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
@@ -482,6 +485,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_33.png
 
+    .. grid-item:: 英文:Ple Two
     .. grid-item:: 登场/加入:第40话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 50
@@ -637,6 +641,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_8F.png
 
+    .. grid-item:: 英文:Mashymre Cello
     .. grid-item:: 登场/加入:第24话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
@@ -778,6 +783,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_93.png
 
+    .. grid-item:: 英文:Gottn Goh
     .. grid-item:: 登场/加入:第24话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
@@ -908,6 +914,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_94.png
 
+    .. grid-item:: 英文:Ni Gilleen
     .. grid-item:: 登场/加入:第24话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -1049,6 +1056,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_95.png
 
+    .. grid-item:: 英文:Lance Gielen
     .. grid-item:: 登场/加入:第24话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -1190,6 +1198,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_96.png
 
+    .. grid-item:: 英文:Rakan Dahkaran
     .. grid-item:: 登场/加入:第24话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
@@ -1320,6 +1329,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_90.png
 
+    .. grid-item:: 英文:Ilia Pathom
     .. grid-item:: 登场/加入:第25话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -1461,6 +1471,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_91.png
 
+    .. grid-item:: 英文:Chara Soon
     .. grid-item:: 登场/加入:第40话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
@@ -1599,6 +1610,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_39.png
 
+    .. grid-item:: 英文:Emary Ounce
     .. grid-item:: 登场/加入:第38话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
@@ -1718,6 +1730,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_34.png
 
+    .. grid-item:: 英文:Leina Ashta
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
     .. grid-item:: EXP: 0
@@ -1836,6 +1849,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_35.png
 
+    .. grid-item:: 英文:Beecha Oleg
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
     .. grid-item:: EXP: 135
@@ -1982,6 +1996,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_37.png
 
+    .. grid-item:: 英文:Elle Viano
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
     .. grid-item:: EXP: 120
@@ -2136,6 +2151,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
 
         .. image:: ../pilots/images/srw4_pilot_36.png
 
+    .. grid-item:: 英文:Mondo Agake
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
     .. grid-item:: EXP: 115
@@ -2278,6 +2294,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
 
         .. image:: ../pilots/images/srw4_pilot_38.png
 
+    .. grid-item:: 英文:Iino Abbav
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
     .. grid-item:: EXP: 0
@@ -2396,6 +2413,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
 
         .. image:: ../pilots/images/srw4_pilot_92.png
 
+    .. grid-item:: 英文:Glemy Toto
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
     .. grid-item:: EXP: 238

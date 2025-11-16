@@ -50,6 +50,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Trojan Horse
+                :columns: auto
+
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
 
@@ -255,6 +258,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Zaku Kai
+                :columns: auto
 
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
@@ -482,6 +488,9 @@ NT-1アレックス
             :padding: 0
 
 
+            .. grid-item:: 英文:NT-1 Alex
+                :columns: auto
+
             .. grid-item:: 登场/加入:第5话
                 :columns: auto
 
@@ -693,6 +702,9 @@ NT-1アレックス
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Kampfer
+                :columns: auto
 
             .. grid-item:: 登场/加入:第6话
                 :columns: auto
@@ -915,6 +927,9 @@ NT-1アレックス
             :padding: 0
 
 
+            .. grid-item:: 英文:Musai Kai
+                :columns: auto
+
             .. grid-item:: 登场/加入:第25话
                 :columns: auto
 
@@ -1099,6 +1114,9 @@ NT-1アレックス
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Graf Zeppelin
+                :columns: auto
 
             .. grid-item:: 编码 D4
                 :columns: auto

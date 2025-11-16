@@ -17,7 +17,7 @@
 --------
 .. _srw4_pilots_banpresto_originals_own_commentBegin:
 
-除了主人公之外，其他人物加入较晚。然而机体均装备急需的地图武器，所以也并不是鸡肋。主人公在开局就加入部队。如果要速通的话，初期选择没有恋人，这样队友会介绍一个，增加一个有热血和幸运的战力。否则恋人到中期才会加入，加入虽然晚一点但是加入的时候可以拿到两段改造的\ :ref:`バイアラン <srw4_unit_byarlant>`\ 。
+除了主人公之外，其他人物加入较晚。然而机体均装备急需的地图武器，所以也并不是鸡肋。主人公在开局就加入部队。如果要速通的话，初期选择没有恋人，这样队友会介绍一个，增加一个有热血和幸运的战力。否则恋人到中期才会加入，加入虽然晚一点但是加入的时候可以拿到两段改造的\ :ref:`バイアラン <srw4_unit_byarlant>`\ （拜阿兰） 。
 
 主人公虽然初期能力不如我军平均，但末期能力会全面超过我军平均。另外，地形适应是少见的全A，主人公机又很强劲，所以综合实力可数一流。
 
@@ -33,13 +33,13 @@
 
 虽然起始时数值基本一样，随着等级提升，真实系和超级系的差异明显。真实系会会逐渐变得更擅长于远攻击、命中、回避、直感和技量，超级系则除了近攻击和SP之外全面落后。
 
-真实系的切り払い能力比较有用。有几率让格斗攻击和远程实弹兵器无效化，但是在第四次中等级低的时候比较没用，第四次S中可以习得更高的等级才有用。新人类（ニュータイプ ）能力是摆好看的，主人公的\ :ref:`初期机 <srw4_unit_gespenst_real>`\ 只能主人公和副主人公驾驶，\ :ref:`后期机 <srw4_unit_huckebein>`\ 只能主人公驾驶。在新人类中主人公并不算能力太出色的，而几大新人类都没有好机器开，所以有专属机体的主人公还是不要跟新人类们去抢了。超级系的底力能力因为\ :doc:`../mechanics/bug`\ 也是摆设。
+真实系的切り払い能力比较有用。有几率让格斗攻击和远程实弹兵器无效化，但是在第四次中等级低的时候比较没用，第四次S中可以习得更高的等级才有用。新人类（ニュータイプ ）能力是摆好看的，主人公的\ :ref:`初期机 <srw4_unit_gespenst_real>`\ （亡灵）只能主人公和副主人公驾驶，\ :ref:`后期机 <srw4_unit_huckebein>`\ （凶鸟和古伦加斯特）只能主人公驾驶。在新人类中主人公并不算能力太出色的，而几大新人类都没有好机器开，所以有专属机体的主人公还是不要跟新人类们去抢了。超级系的底力能力因为\ :doc:`../mechanics/bug`\ 也是摆设。
 
 性格方面，因为只有强气和超強気两个选项，己方被击落之后增加气力多少而已，对一般不会献祭队友的玩家来说没有多大区别。
 
 超级系主人公/副主人公的回避率算是比较不可靠的，好在超级系初级机体的HP和装甲可以弥补。
 
-副主人公精神和能力值同在作为主人公时的设定，但是生日不能自己选。副主人公的人选由主人公的性格和性别决定。副主人公基本全员都有热血、幸运和気合。第四次的リン＝マオ是主角中唯一一个会激怒的，所以要速通的话，应该选她的恋人イルムガルト＝カザハラ当主角。其他会激怒的常规机师在最后都会加入B队，以至于A队缺乏激怒。除了激怒之外，第四次的リン还有集中，速通的时候会比较容易打反击。
+副主人公精神和能力值同在作为主人公时的设定，但是生日不能自己选。副主人公的人选由主人公的性格和性别决定。副主人公基本全员都有热血、幸运和気合。第四次的リン＝マオ（毛琳）是主角中唯一一个会激怒的，所以要速通的话，应该选她的恋人イルムガルト＝カザハラ（伊鲁姆）当主角。其他会激怒的常规机师在最后都会加入B队，以至于A队缺乏激怒。除了激怒之外，第四次的毛琳还有集中，速通的时候会比较容易打反击。
 
 
 主人公和副主人公之间有\ :ref:`恋爱度 <srw4_mechanics_love_points>`\ 的设定。根据恋爱的不同，主人公和恋人的对话有少许差异。
@@ -65,6 +65,7 @@
 
         
 
+    .. grid-item:: 英文:Male Protagonist (real)
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 80
@@ -195,6 +196,7 @@
 
         
 
+    .. grid-item:: 英文:Male Protagonist (super)
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 100
@@ -325,6 +327,7 @@
 
         
 
+    .. grid-item:: 英文:Female Protagonist (real)
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 80
@@ -455,6 +458,7 @@
 
         
 
+    .. grid-item:: 英文:Female Protagonist (super)
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 100
@@ -585,6 +589,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_1D.png
 
+    .. grid-item:: 英文:Masaki Andoh
     .. grid-item:: 登场/加入:第27话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 60
@@ -693,7 +698,7 @@
 
 .. _srw4_pilot_masaki_andoh_commentBegin:
 
-安藤正树是风之魔装机神\ :ref:`サイバスター <srw4_unit_cybuster>`\ 的操纵者。第四次中在\ :ref:`第二十七话グランゾンの謎 <srw4_walkthrough_27_granzon_s_enigma>`\ 中短暂露脸，第三十四话\ :ref:`新しい力 <srw4_walkthrough_34a_new_strength>`\ 或者\ :ref:`人間爆弾の恐怖 <srw4_walkthrough_34b_terror_of_the_human_bomb>`\ 中正式加入。\ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ 加入的前提。
+安藤正树是风之魔装机神\ :ref:`サイバスター <srw4_unit_cybuster>`\ （塞巴斯塔） 的操纵者。第四次中在\ :ref:`第二十七话グランゾンの謎 <srw4_walkthrough_27_granzon_s_enigma>`\ 中短暂露脸，第三十四话\ :ref:`新しい力 <srw4_walkthrough_34a_new_strength>`\ 或者\ :ref:`人間爆弾の恐怖 <srw4_walkthrough_34b_terror_of_the_human_bomb>`\ 中正式加入。\ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\（琉妮）加入的前提。
 
 和其他魔装机神驾驶者一样，也有能力低于机体威力的问题。还好可以刷级。因为机体有识别敌我而且广范围的地图武器而很容易升级，所以缺乏幸运导致热血学得慢也不是问题。如果不用地图炮刷级，正常升级的话热血甚至通关时都可能不会习得。
 
@@ -721,6 +726,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_1F.png
 
+    .. grid-item:: 英文:Shu Shirakawa
     .. grid-item:: 登场/加入:第35话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 60
@@ -829,9 +835,9 @@
 
 .. _srw4_pilot_shu_shirakawa_commentBegin:
 
-作为\ :ref:`隐藏要素 <srw4_missable_shuu>`\ ，白河愁的加入条件需要压回合数，这可能导致需要放弃一些资金和经验值。如未加入则在\ :ref:`第四十四话Ｂ 火星の決戦 (シュウ) <srw4_walkthrough_44b_final_battle_on_mars_shu>`\ 中可作为最终Boss驾驶\ :ref:`ネオ·グランゾン <srw4_unit_neo_granzon>`\ 登场。
+作为\ :ref:`隐藏要素 <srw4_missable_shuu>`\ ，白河愁的加入条件需要压回合数，这可能导致需要放弃一些资金和经验值。如未加入则在\ :ref:`第四十四话Ｂ 火星の決戦 (シュウ) <srw4_walkthrough_44b_final_battle_on_mars_shu>`\ 中可作为最终Boss驾驶\ :ref:`ネオ·グランゾン <srw4_unit_neo_granzon>`\ （真・古兰森） 登场。
 
-作为同伴来说，精神多不适用，例如驾驶潜强力机体却持有隐身，在不需要资金和经验的最后一关却持有幸运等。和一般魔装机神驾驶员比起来，完全缺乏命中回避系的精神是个很大的缺点。另外座机\ :ref:`グランゾン <srw4_unit_granzon>`\ 加入时完全未改造。排除同期加入的 \ :ref:`サフィーネ・グレイス <srw4_pilot_safine_grace>`\ 和\ :ref:`モニカ・ビルセイア <srw4_pilot_monica_billseia>`\ 是急需的强力支援型精神类机师这一点不谈的话，在第四次中为他加入而放弃\ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ 、\ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\ 和 \ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ 是不划算的。
+作为同伴来说，精神多不适用，例如驾驶潜强力机体却持有隐身，在不需要资金和经验的最后一关却持有幸运等。和一般魔装机神驾驶员比起来，完全缺乏命中回避系的精神是个很大的缺点。另外座机\ :ref:`グランゾン <srw4_unit_granzon>`\ （古兰森）加入时完全未改造。排除同期加入的 \ :ref:`サフィーネ・グレイス <srw4_pilot_safine_grace>`\ （萨菲妮） 和\ :ref:`モニカ・ビルセイア <srw4_pilot_monica_billseia>`\ （莫妮卡） 是急需的强力支援型精神类机师这一点不谈的话，在第四次中为他加入而放弃\ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ （琉妮）、\ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\ （迪蒂）和 \ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ （黄炎龙）是不划算的。
 
 第四次S中因为剧情调整，加入的条件有所放宽，另外加入时不再触发其他魔装机系离队事件。作为最终Boss的时候，等级会降低，我方初始气力增加30，但是战场上会出现三个他的副本。
 
@@ -855,6 +861,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_73.png
 
+    .. grid-item:: 英文:Mio Sasuga
     .. grid-item:: 登场/加入:第35话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 65
@@ -963,7 +970,7 @@
 
 .. _srw4_pilot_mio_sasuga_commentBegin:
 
-贵家澪是土之魔装机神\ :ref:`ザムジード <srw4_unit_zamzeed>`\ 的操纵着。在\ :ref:`第三十五话 特異点崩壊 <srw4_walkthrough_35_singularity_collapse>`\ 之后加入B队。
+贵家澪是土之魔装机神\ :ref:`ザムジード <srw4_unit_zamzeed>`\ （扎姆基德）的操纵着。在\ :ref:`第三十五话 特異点崩壊 <srw4_walkthrough_35_singularity_collapse>`\ 之后加入B队。
 
 在Ex大显身手之后被重砍一刀，不仅机体的残弹数量被大大减少，甚至连机师的能力也砍到让人吃惊，不得不靠并不擅长的近战能力作战。但是热血还是学得很快（相对于一些通关了还有可能学不会的同系机师而言），觉醒+地图武器的组合使得等级很容易练得很高，这时候精神和机体的优点就体现出来了。最终BOSS就靠她的觉醒和脱力了。
 
@@ -989,6 +996,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_1E.png
 
+    .. grid-item:: 英文:Ryune Zoldark
     .. grid-item:: 登场/加入:第39话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 60
@@ -1097,12 +1105,12 @@
 
 .. _srw4_pilot_ryune_zoldark_commentBegin:
 
-琉妮作为\ :ref:`隐藏要素 <srw4_missable_ryune>`\ 之一，在专用剧情《琉妮的狂想曲》（\ :ref:`ガトー版 <srw4_walkthrough_39a_ryune_capriccio_gato>`\ / \ :ref:`ギリアム版 <srw4_walkthrough_39b_ryune_capriccio_gilliam>`\ ）中驾驶自己改装的机器人\ :ref:`ヴァルシオーネR <srw4_unit_valsione_r>`\ 登场。因\ :ref:`プレシア・ゼノサキス <srw4_pilot_presia_xenosakis>`\ 被掳为人质而作为敌人攻击我军。可被\ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ （安藤正树）说得。因为硬件限制，在第四次中，如果\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ 等人加入，她会抗议并与\ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ 和\ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\ 人一起离开。强制出击次数很多，所以有选择的话，可能你想让别人也有点机会出场。
+琉妮作为\ :ref:`隐藏要素 <srw4_missable_ryune>`\ 之一，在专用剧情《琉妮的狂想曲》（\ :ref:`ガトー版 <srw4_walkthrough_39a_ryune_capriccio_gato>`\ / \ :ref:`ギリアム版 <srw4_walkthrough_39b_ryune_capriccio_gilliam>`\ ）中驾驶自己改装的机器人\ :ref:`ヴァルシオーネR <srw4_unit_valsione_r>`\ （瓦尔西奥妮R） 登场。因\ :ref:`プレシア・ゼノサキス <srw4_pilot_presia_xenosakis>`\ （普雷西亚） 被掳为人质而作为敌人攻击我军。可被\ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ （安藤正树）说得。因为硬件限制，在第四次中，如果\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ （白河愁）等人加入，她会抗议并与\ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ （黄炎龙）和\ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\ （迪蒂）两人一起离开。强制出击次数很多，所以有选择的话，可能你想让别人也有点机会出场。
 
 
 能力和正树不相上下，但是陆B造成利用地形优势的时候防御能力降低。本作魔装机神系角色普遍存在热血学得慢的缺陷，而琉妮更是以Lv54的极晚习得速度位居榜首，常规流程几乎无法习得该技能。
 
-第四次S中增加了语音，另外新增了为救普蕾西亚（プレシア）而与卡洛佐（\ :ref:`カロッゾ・ロナ <srw4_pilot_carrozzo_rona>`\ ）交战的\ :ref:`专用剧情 <srw4_walkthrough_39c_rescue>` \ 。同时因容量问题解决，在白河愁加入队伍后将不再离队。能力方面，仅回避有所提升。
+第四次S中增加了语音，另外新增了为救普蕾西亚而与\ :ref:`カロッゾ・ロナ <srw4_pilot_carrozzo_rona>`\（卡洛佐）交战的\ :ref:`专用剧情 <srw4_walkthrough_39c_rescue>` \ 。同时因容量问题解决，在白河愁加入队伍后将不再离队。能力方面，仅回避有所提升。
 
 .. _srw4_pilot_ryune_zoldark_commentEnd:
 
@@ -1124,6 +1132,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_6E.png
 
+    .. grid-item:: 英文:Tutty Norback
     .. grid-item:: 登场/加入:第42话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 60
@@ -1232,7 +1241,7 @@
 
 .. _srw4_pilot_tutty_norback_commentBegin:
 
-迪蒂·诺尔巴克是水之魔装机神的\ :ref:`ガッデス <srw4_unit_gaddeath>`\ 的操纵者。追随\ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ （安藤正树）来到地面。在第四次中，因为同行的黄炎龙拒绝干涉地面的局势，直到游戏几乎结束才加入队伍。此外，如果\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ 等人加入，她会抗议并与\ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ 和\ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ 一起离开。强制出击次数很多，所以有选择的话，可能你想让别人也有点机会出场。
+迪蒂·诺尔巴克是水之魔装机神的\ :ref:`ガッデス <srw4_unit_gaddeath>`\ （加迪斯） 的操纵者。追随\ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ （安藤正树）来到地面。在第四次中，因为同行的\ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ （黄炎龙）拒绝干涉地面的局势，直到游戏几乎结束才加入队伍。此外，如果\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ （白河愁）等人加入，她会抗议并与\ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ （琉妮）和黄炎龙两人一起离开。强制出击次数很多，所以有选择的话，可能你想让别人也有点机会出场。
 
 能力方面，攻击能力低下，其他能力中等偏上。但是因为有地图武器，可以刷完等级之后作为激励要员。
 
@@ -1258,6 +1267,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_71.png
 
+    .. grid-item:: 英文:Huang Yanglong
     .. grid-item:: 登场/加入:第42话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 60
@@ -1366,7 +1376,7 @@
 
 .. _srw4_pilot_huang_yanglong_commentBegin:
 
-中文名黄炎龙。火之魔装机神\ :ref:`グランヴェール <srw4_unit_grannvale>`\ 操纵者。中国的体育教师，特别喜欢用成语。本作在登上地面之后开始追逐白河愁，但是因为\ :ref:`テイニクェット・ゼゼーナン <srw4_pilot_teniquette_zezernan>`\ 藐视地球的言论而加入我军。基于魔装机神操纵者应尽量避免干涉地面纷争的理由，他直到游戏几乎结束才加入。此外，如果\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ 等人加入，他会抗议并与\ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ 和\ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\ 一起离开。强制出击次数很多，所以有选择的话，可能你想让别人也有点机会出场。
+中文名黄炎龙。火之魔装机神\ :ref:`グランヴェール <srw4_unit_grannvale>`\ （格兰维尔）操纵者。中国的体育教师，特别喜欢用成语。本作在登上地面之后开始追逐\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ （白河愁），但是因为\ :ref:`テイニクェット・ゼゼーナン <srw4_pilot_teniquette_zezernan>`\ （泽泽南） 藐视地球的言论而加入我军。基于魔装机神操纵者应尽量避免干涉地面纷争的理由，他直到游戏几乎结束才加入。此外，如果白河愁等人加入，他会抗议并与\ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ （琉妮）和\ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\（迪蒂）两人一起离开。强制出击次数很多，所以有选择的话，可能你想让别人也有点机会出场。
 
 第四次S不再有离队事件，在地面碰到之后即加入队伍，大大降低了游戏难度。除了直感的能力也全面上升。
 
@@ -1390,6 +1400,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_75.png
 
+    .. grid-item:: 英文:Monica Billseia
     .. grid-item:: 登场/加入:第44话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 65
@@ -1498,7 +1509,7 @@
 
 .. _srw4_pilot_monica_billseia_commentBegin:
 
-莫妮卡是\ :ref:`ノルス・レイ <srw4_unit_nors_ray>`\ 的操纵者。总是和\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ 共同行动，无论是作为\ :ref:`隐藏要素 <srw4_missable_shuu>`\ 加入我军还是作为敌人。
+莫妮卡是\ :ref:`ノルス・レイ <srw4_unit_nors_ray>`\ （诺尔斯·雷）的操纵者。总是和\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ （白河愁） 共同行动，无论是作为\ :ref:`隐藏要素 <srw4_missable_shuu>`\ 加入我军还是作为敌人。
 
 虽不具备战斗力，但精神指令中的补给和再动颇具实用性。幸运指令在最终关卡则无用武之地。
 
@@ -1524,6 +1535,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_76.png
 
+    .. grid-item:: 英文:Safine Grace
     .. grid-item:: 登场/加入:第44话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 60
@@ -1632,11 +1644,11 @@
 
 .. _srw4_pilot_safine_grace_commentBegin:
 
-和超级机器人大战EX不同，本作中的名字是"萨菲妮·格雷斯"，驾驶机体也更换为\ :ref:`ウィーゾル改 <srw4_unit_weesol_kai>`\ 。作为\ :ref:`隐藏要素 <srw4_missable_shuu>`\ 之一，和\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ 一起加入。
+和超级机器人大战EX不同，本作中的名字是"萨菲妮·格雷斯"，驾驶机体也更换为\ :ref:`ウィーゾル改 <srw4_unit_weesol_kai>`\（维索尔改） 。作为\ :ref:`隐藏要素 <srw4_missable_shuu>`\ 之一，和\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ （白河愁）一起加入。
 
 实力并不突出，但激励与复活技能颇具实用性。虽拥有幸运属性，但仅限最终关卡使用故意义不大。
 
-第四次S中增加了语音，除了技量和直感之外的能力全面上升。。另外，在追加的剧情\ :ref:`救出 <srw4_walkthrough_39c_rescue>` \ 中作为暂时的友军参战。虽然因为战后立刻离队，经验值不保留而不值得用来作战，但是可在此使用一次复活技能。
+第四次S中增加了语音，除了技量和直感之外的能力全面上升。。另外，在追加的剧情\ :ref:`救出 <srw4_walkthrough_39c_rescue>` \ 中作为暂时的友军参战。虽然因为战后立刻离队，经验值不保留而不值得用来作战，但是可在此使用一次复活技能。后来即使加入，也不继承这里的改造段数。
 
 .. _srw4_pilot_safine_grace_commentEnd:
 
@@ -1667,6 +1679,7 @@ DC兵士
 
         
 
+    .. grid-item:: 英文:DC Soldier
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 30
@@ -1797,6 +1810,7 @@ DC兵士
 
         
 
+    .. grid-item:: 英文:AI
     .. grid-item:: 登场/加入:第1话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 0
@@ -1916,6 +1930,7 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_74.png
 
+    .. grid-item:: 英文:Titans Soldier
     .. grid-item:: 登场/加入:第2话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
@@ -2024,7 +2039,7 @@ DC兵士
 
 .. _srw4_pilot_titans_soldier_commentBegin:
 
-虽然不善近战，但是远攻击、命中、回避和技量都相当于我军中游，地形适应更是超越我军很多机师。稍微有点麻烦的对手。
+提坦斯的士兵虽然不善近战，但是远攻击、命中、回避和技量都相当于我军中游，地形适应更是超越我军很多机师。稍微有点麻烦的对手。
 
 .. _srw4_pilot_titans_soldier_commentEnd:
 
@@ -2046,6 +2061,7 @@ DC兵士
 
         
 
+    .. grid-item:: 英文:Poseidal soldier
     .. grid-item:: 登场/加入:第3话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 40
@@ -2176,6 +2192,7 @@ DC兵士
 
         
 
+    .. grid-item:: 英文:Elite Soldier
     .. grid-item:: 登场/加入:第5话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 40
@@ -2306,6 +2323,7 @@ DC兵士
 
         
 
+    .. grid-item:: 英文:Poseidal Imperial Guard
     .. grid-item:: 登场/加入:第8话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 40
@@ -2436,6 +2454,7 @@ DC兵士
 
         
 
+    .. grid-item:: 英文:AI Kai
     .. grid-item:: 登场/加入:第11话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 0
@@ -2555,6 +2574,7 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_6D.png
 
+    .. grid-item:: 英文:Byston Well Soldier
     .. grid-item:: 登场/加入:第13话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 40
@@ -2685,6 +2705,7 @@ DC兵士
 
         
 
+    .. grid-item:: 英文: Enhanced Soldier
     .. grid-item:: 登场/加入:第28话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 20
@@ -2828,6 +2849,7 @@ DC兵士
 
         
 
+    .. grid-item:: 英文:Guest soldier
     .. grid-item:: 登场/加入:第29话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 40
@@ -2938,7 +2960,7 @@ DC兵士
 
 作为后期杂鱼，能力略高于我军中游。
 
-在\ :ref:`第三十七话 ゲストとインスペクター <srw4_walkthrough_37_guest_and_inspector>`\ 中，如果\ :ref:`ゼブリーズ・フルシュワ <srw4_pilot_zebris_forschwa>`\ 在\ :ref:`メキボス <srw4_pilot_mekibos_bolverde>`\ 出现之前被击破，他出场时会提到没有司令官在场，无法更改生物机器人的指令，所以这些机师也属于人工智能。
+在\ :ref:`第三十七话 ゲストとインスペクター <srw4_walkthrough_37_guest_and_inspector>`\ 中，如果\ :ref:`ゼブリーズ・フルシュワ <srw4_pilot_zebris_forschwa>`\ （塞布）在\ :ref:`メキボス <srw4_pilot_mekibos_bolverde>`\ （梅基博斯）出现之前被击破，他出场时会提到没有司令官在场，无法更改生物机器人的指令，所以这些机师也属于人工智能。
 
 .. _srw4_pilot_guest_soldier_commentEnd:
 
@@ -2960,6 +2982,7 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_E8.png
 
+    .. grid-item:: 英文:Justine Chafrois
     .. grid-item:: 登场/加入:第29话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 70
@@ -3079,13 +3102,13 @@ DC兵士
 
 .. _srw4_pilot_justine_chafrois_commentBegin:
 
-爱称セティ。塞蒂是ゲスト的女性军官，ゲスト三将军之一。右眼佩戴着与计算机直接连接的视网膜投影式分析装置。与\ :ref:`グロフィス・ラクレイン <srw4_pilot_glofis_raclayne>`\ （ロフ）是父母指婚的青梅竹马，因ロフ离家出走婚约破裂。主要和\ :ref:`ゼブリーズ・フルシュワ <srw4_pilot_zebris_forschwa>`\ 一起行动，也因此在救援民间人时和ロフ重逢。
+爱称セティ。塞蒂是ゲスト的女性军官，ゲスト三将军之一。右眼佩戴着与计算机直接连接的视网膜投影式分析装置。与\ :ref:`グロフィス・ラクレイン <srw4_pilot_glofis_raclayne>`\ （洛夫）是父母指婚的青梅竹马，因洛夫离家出走婚约破裂。主要和\ :ref:`ゼブリーズ・フルシュワ <srw4_pilot_zebris_forschwa>`\ （塞布）一起行动，也因此在救援民间人时和洛夫重逢。
 
-游戏中后期登场。对\ :ref:`テイニクェット・ゼゼーナン <srw4_pilot_teniquette_zezernan>`\ 深感厌恶，仅仅为了ロフ报仇而参战。在第四次中，如果\ :ref:`バラン＝シュナイル <srw4_unit_baran_schnile>`\ 的HP低于一定程度，她会选择撤退。
+游戏中后期登场。对\ :ref:`テイニクェット・ゼゼーナン <srw4_pilot_teniquette_zezernan>`\ （泽泽南）深感厌恶，仅仅为了洛夫报仇而参战。在第四次中，如果\ :ref:`バラン＝シュナイル <srw4_unit_baran_schnile>`\ （巴兰・修奈尔）的HP低于一定程度，她会选择撤退。
 
 本人相当于我军王牌水准，座驾也极为强悍，堪称强敌。不过性格是弱気，可以通过击落其他敌人来降低气力。
 
-第四次S中新增了\ :ref:`三将军事件 <srw4_missable_guest_generals>`\ 虽然不会和F完结篇一样成为我方NPC，但是也可以避免和我军战斗。另外，远攻击大幅上升，命中略微上升。新增的切り払い有4级。
+第四次S中新增了\ :ref:`三将军事件 <srw4_missable_guest_generals>`\ ，虽然不会和F完结篇一样成为我方NPC，但是也可以避免和我军战斗。另外，远攻击大幅上升，命中略微上升。新增的切り払い有4级。
 
 .. _srw4_pilot_justine_chafrois_commentEnd:
 
@@ -3107,6 +3130,7 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_E9.png
 
+    .. grid-item:: 英文:Zebris Forschwa
     .. grid-item:: 登场/加入:第29话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 80
@@ -3226,9 +3250,9 @@ DC兵士
 
 .. _srw4_pilot_zebris_forschwa_commentBegin:
 
-塞布在三将军中出场次数最多。\ :ref:`ジュスティヌ・シャフラワース <srw4_pilot_justine_chafrois>`\ 的同僚，对她对\ :ref:`グロフィス・ラクレイン <srw4_pilot_glofis_raclayne>`\ （ロフ）的感情知情。
+爱称ゼブ。塞布在三将军中出场次数最多。\ :ref:`ジュスティヌ・シャフラワース <srw4_pilot_justine_chafrois>`\ （塞蒂）的同僚，对她对\ :ref:`グロフィス・ラクレイン <srw4_pilot_glofis_raclayne>`\ （洛夫）的感情知情。
 
-对\ :ref:`テイニクェット・ゼゼーナン <srw4_pilot_teniquette_zezernan>`\ 深感厌恶，仅仅为了给ロフ报仇而参战。在第四次中，如果\ :ref:`バラン＝シュナイル <srw4_unit_baran_schnile>`\ 的HP低于一定程度，他会选择撤退。第四次S中也有拒绝参战的\ :ref:`三将军事件 <srw4_missable_guest_generals>`\ 。
+对\ :ref:`テイニクェット・ゼゼーナン <srw4_pilot_teniquette_zezernan>`\ 深感厌恶，仅仅为了给洛夫报仇而参战。在第四次中，如果\ :ref:`バラン＝シュナイル <srw4_unit_baran_schnile>`\ （巴兰・修奈尔）的HP低于一定程度，他会选择撤退。第四次S中也有拒绝参战的\ :ref:`三将军事件 <srw4_missable_guest_generals>`\ 。
 
 本人相当于我军王牌水准，座驾也极为强悍，堪称强敌。不过性格是弱気，可以通过击落其他敌人来降低气力。
 
@@ -3254,6 +3278,7 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_E7.png
 
+    .. grid-item:: 英文:Glofis Raclayne
     .. grid-item:: 登场/加入:第34话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 70
@@ -3373,9 +3398,9 @@ DC兵士
 
 .. _srw4_pilot_glofis_raclayne_commentBegin:
 
-爱称。洛夫与\ :ref:`ゼブリーズ・フルシュワ <srw4_pilot_zebris_forschwa>`\ （セティ）本是父母定下的婚约对象，但因离家出走事件，婚约已处于破裂状态。
+爱称ロフ。洛夫与\ :ref:`ゼブリーズ・フルシュワ <srw4_pilot_zebris_forschwa>`\ （塞蒂）本是父母定下的婚约对象，但因离家出走事件，婚约已处于破裂状态。
 
-第四次中在\ :ref:`第四十一话 アクシズに散る <srw4_walkthrough_41_scattered_on_axis>`\ 中断后而阵亡。第四次S中则在新增的开局关接触(\ :ref:`真实系 <srw4_walkthrough_00a_contact_real>`\ /\ :ref:`超级系 <srw4_walkthrough_00b_contact_super>`\ )中救助了主人公，之后也因此机缘得以在アクシズに散る有存活的机会，在最终话中会在\ :ref:`三将军事件 <srw4_missable_guest_generals>`\ 中得以生存。
+第四次中在\ :ref:`第四十一话 アクシズに散る <srw4_walkthrough_41_scattered_on_axis>`\ 中因断后而阵亡。第四次S中则在新增的开局关接触(\ :ref:`真实系 <srw4_walkthrough_00a_contact_real>`\ /\ :ref:`超级系 <srw4_walkthrough_00b_contact_super>`\ )中救助了主人公，之后也因此机缘得以在アクシズに散る有存活的机会，在最终话中会在\ :ref:`三将军事件 <srw4_missable_guest_generals>`\ 中得以生存。
 
 本人相当于我军王牌水准，座驾也极为强悍，堪称强敌。不过性格是弱気，可以通过击落其他敌人来降低气力。
 
@@ -3401,6 +3426,7 @@ DC兵士
 
         
 
+    .. grid-item:: 英文:Guest Assault Soldier
     .. grid-item:: 登场/加入:第35话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 40
@@ -3531,6 +3557,7 @@ DC兵士
 
         
 
+    .. grid-item:: 英文:Guest Imperial Guard
     .. grid-item:: 登场/加入:第35话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 40
@@ -3650,7 +3677,7 @@ DC兵士
 
 .. _srw4_pilot_guest_imperial_guard_commentBegin:
 
-终盘登场，能力接近我军一线。最终驾驶Boss出击。因为性格是普通，反而比弱气的三将军更坚韧。因为机体强劲的原因，堪称强敌。
+终盘登场，能力接近我军一线。最终驾驶Boss机出击。因为性格是普通，反而比弱气的三将军更坚韧。因为机体强劲的原因，堪称强敌。
 
 不知为何具有強化人間能力，在驾驶本系机体时无法使用，只在驾驶机动战士系机体时候能够发动技能。
 
@@ -3674,6 +3701,7 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_EA.png
 
+    .. grid-item:: 英文:Teniquette Zezernan
     .. grid-item:: 登场/加入:第35话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 70
@@ -3782,7 +3810,7 @@ DC兵士
 
 .. _srw4_pilot_teniquette_zezernan_commentBegin:
 
-虽然是最终Boss，但是所犯之错仅仅是轻视地球人，最后不仅激起地球人的反抗，将部下作为消耗品的战术，连己方成员也对其厌恶和鄙夷。
+泽泽南虽然是最终Boss，但是所犯之错仅仅是轻视地球人，最后不仅激起地球人的反抗，将部下作为消耗品的战术，连己方成员也对其厌恶和鄙夷。
 
 作为指挥官和机师来说都称不上优秀。如果\ :ref:`白河愁没有加入 <srw4_missable_shuu>`\ ，在\ :ref:`第四十四话Ｂ 火星の決戦 (シュウ) <srw4_walkthrough_44b_final_battle_on_mars_shu>`\ 中根据玩家选择可能会被白河愁秒杀。
 
@@ -3808,6 +3836,7 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_EB.png
 
+    .. grid-item:: 英文:Mekibos Bolverde
     .. grid-item:: 登场/加入:第37话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 70
@@ -3916,9 +3945,9 @@ DC兵士
 
 .. _srw4_pilot_mekibos_bolverde_commentBegin:
 
-第三次被温德洛ウェンドロ路线成为正史，通过机器人化得以免死。本作在\ :ref:`第三十七话 ゲストとインスペクター <srw4_walkthrough_37_guest_and_inspector>`\ 中担任枢密院特使要求双方停战，期间向伦多贝尔小队说明"客人"势力的实际身份。若进入坏结局，他将对本可建立友谊的地球人感到失望。
+梅基博斯在第三次超级机器人大战中被ウェンドロ（温德洛）击败的路线成为正史，通过机器人化得以免死。本作在\ :ref:`第三十七话 ゲストとインスペクター <srw4_walkthrough_37_guest_and_inspector>`\ 中担任枢密院特使要求双方停战，期间向朗德·贝尔小队说明"客人"势力的实际身份。若进入坏结局，他将对本可建立友谊的地球人感到失望。
 
-虽然没有出战，能力也接近我军王牌，第四次S中也提升了近远攻击和命中。另外，在\ :ref:`第四十一话 アクシズに散る <srw4_walkthrough_41_scattered_on_axis>`\ 中，新增了说服三将军并使其撤退的剧情。
+虽然没有出战，能力也接近我军王牌，第四次S中也提升了近远攻击和命中。另外，在\ :ref:`第四十一话 アクシズに散る <srw4_walkthrough_41_scattered_on_axis>`\ 中，新增了\ :ref:`说服三将军并使其撤退<srw4_missable_guest_generals>`\ 的剧情。
 
 .. _srw4_pilot_mekibos_bolverde_commentEnd:
 
@@ -3940,6 +3969,7 @@ DC兵士
 
         
 
+    .. grid-item:: 英文:Super AI
     .. grid-item:: 登场/加入:第39话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 0
@@ -4069,6 +4099,7 @@ DC兵士
 
         
 
+    .. grid-item:: 英文:EFGF Infantry
     .. grid-item:: 登场/加入:第4话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 40
@@ -4199,6 +4230,7 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_A4.png
 
+    .. grid-item:: 英文:Federal Soldier
     .. grid-item:: 登场/加入:第4话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 40
@@ -4329,6 +4361,7 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_1B.png
 
+    .. grid-item:: 英文:Gilliam Yeager
     .. grid-item:: 登场/加入:第14话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 60
@@ -4448,13 +4481,13 @@ DC兵士
 
 .. _srw4_pilot_gilliam_yeager_commentBegin:
 
-反地球联邦组织奥古成员。驾驶\ :ref:`ゲシュペンスト Mk-II <srw4_unit_gespenst_mk_ii>`\ 登场。
+基利亚姆是反地球联邦组织奥古成员。驾驶\ :ref:`ゲシュペンスト Mk-II <srw4_unit_gespenst_mk_ii>`\ （亡灵 Mk-II） 登场。
 
 能力过强让队友都感到害怕，因为每次出现都是来抢钱抢经验的。还好第四次S中改成了有一话可以控制他。在最重要的殖民地内部战斗中仍然是NPC，这次成了被保护的目标，因为可以二次行动，经常自投罗网，以至于队友要当他的保姆，把他前面的敌人先干掉。
 
 第四次S里各项能力有所提升，切り払い也从1级升级到了6级。
 
-在第四次S中配音者是田中秀行，他也是\ :ref:`キリー=ギャグレー <srw4_pilot_killy_gagley>`\ 的声优。
+在第四次S中配音者是田中秀行，他也是\ :ref:`キリー・ギャグレー <srw4_pilot_killy_gagley>`\ （基力）的声优。
 
 
 .. _srw4_pilot_gilliam_yeager_commentEnd:
@@ -4477,6 +4510,7 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_A5.png
 
+    .. grid-item:: 英文:AEUG soldier
     .. grid-item:: 登场/加入:第24话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 40
@@ -4585,7 +4619,7 @@ DC兵士
 
 .. _srw4_pilot_aeug_soldier_commentBegin:
 
-ギリアム能带着一堆这种杂鱼和新DC打得有来有回，组织能力太强。
+\ :ref:`ギリアム・イェーガー <srw4_pilot_gilliam_yeager>`\ （基利亚姆）能带着一堆这种杂鱼和新DC打得有来有回，组织能力太强。
 
 .. _srw4_pilot_aeug_soldier_commentEnd:
 
@@ -4607,6 +4641,7 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_EC.png
 
+    .. grid-item:: 英文:Telius Bilseia
     .. grid-item:: 登场/加入:第35话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 60
@@ -4715,9 +4750,9 @@ DC兵士
 
 .. _srw4_pilot_telius_bilseia_commentBegin:
 
-泰里乌斯·格兰·比尔塞亚是\ :ref:`モニカ・ビルセイア <srw4_pilot_monica_billseia>`\ 的异母弟。本为第四顺位继承人，因大公子白河愁放弃王位，成为第三顺位。在超级机器人大战EX中的愁之章成为同伴。
+泰里乌斯·格兰·比尔塞亚是\ :ref:`モニカ・ビルセイア <srw4_pilot_monica_billseia>`\ （莫妮卡）的异母弟。本为第四顺位继承人，因大公子\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ （白河愁）放弃王位，成为第三顺位。在超级机器人大战EX中的愁之章成为同伴。
 
-本作中在\ :ref:`第三十五话 特異点崩壊 <srw4_walkthrough_35_singularity_collapse>`\ 中和愁同行，但是即使愁在最终战前加入，厌倦了战斗的他虽然和姐姐モニカ一起加入，也不会出战。
+本作中在\ :ref:`第三十五话 特異点崩壊 <srw4_walkthrough_35_singularity_collapse>`\ 中和愁同行，但是即使愁在最终战前加入，厌倦了战斗的他虽然和姐姐莫妮卡一起加入，也不会出战。
 
 能力在我军真实系中游。虽然没有出战机会，但是第四次S中仍然提升了他的远攻击。
 
@@ -4741,6 +4776,7 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_72.png
 
+    .. grid-item:: 英文:Presia Xenosakis
     .. grid-item:: 登场/加入:第39话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
@@ -4840,9 +4876,9 @@ DC兵士
 
 普雷西亚·泽诺萨克斯是\ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ （安藤正树）之义妹。
 
-在本作中，当大神官伊本托\ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ （琉妮）带她前往地面时，两人被\ :ref:`カロッゾ・ロナ <srw4_pilot_carrozzo_rona>`\ （卡洛佐·罗纳）俘虏，以致于琉妮被迫与朗德·贝尔交战。后来在蒂\ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\ 、\ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ 和琉妮的营救下，她平安与正树重逢。
+在本作中，当大神官伊本托\ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ （琉妮）带她前往地面时，两人被\ :ref:`カロッゾ・ロナ <srw4_pilot_carrozzo_rona>`\ （卡洛佐·罗纳）俘虏，以致于琉妮被迫与朗德·贝尔交战。后来在\ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\ （迪蒂）、\ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ （黄炎龙） 和琉妮的营救下，她平安与正树重逢。
 
-第四次S中新增了正树和与琉妮夺回普蕾西亚的关卡\ :ref:`第三十九话Ｃ 救出 <srw4_walkthrough_39c_rescue>` \ 。\ :ref:`サフィーネ・グレイス <srw4_pilot_safine_grace>`\ (萨菲妮)在此作为客串登场，凭借她的法术成功救回了普蕾西亚。
+第四次S中新增了正树与琉妮夺回普蕾西亚的关卡\ :ref:`第三十九话Ｃ 救出 <srw4_walkthrough_39c_rescue>` \ 。\ :ref:`サフィーネ・グレイス <srw4_pilot_safine_grace>`\ (萨菲妮)在此作为客串登场，凭借她的法术成功救回了普蕾西亚。
 
 只是过场人物，能力和精神没有被设定。
 

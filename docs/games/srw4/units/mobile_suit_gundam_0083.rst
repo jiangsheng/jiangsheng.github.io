@@ -50,6 +50,9 @@ GP-01Fb
             :padding: 0
 
 
+            .. grid-item:: 英文:GP-01Fb
+                :columns: auto
+
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
 
@@ -253,6 +256,9 @@ GP-03デンドロビウム
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:GP-03 Dendrobium
+                :columns: auto
 
             .. grid-item:: 登场/加入:第38话
                 :columns: auto
@@ -502,6 +508,9 @@ GP-03ステイメン  (后期)
             :padding: 0
 
 
+            .. grid-item:: 英文:GP-03 Staymen (final)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第38话
                 :columns: auto
 
@@ -690,6 +699,9 @@ GP-03ステイメン (初期)
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:GP-03 Staymen (first)
+                :columns: auto
 
             .. grid-item:: 登场/加入:第13话
                 :columns: auto
@@ -883,6 +895,9 @@ GP-02A
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:GP-02A
+                :columns: auto
 
             .. grid-item:: 登场/加入:第39话
                 :columns: auto
@@ -1101,6 +1116,9 @@ GP-02A
             :padding: 0
 
 
+            .. grid-item:: 英文:Gerbera Tetra
+                :columns: auto
+
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
 
@@ -1289,6 +1307,9 @@ GP-02A
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Val Walo
+                :columns: auto
 
             .. grid-item:: 登场/加入:第25话
                 :columns: auto
@@ -1499,6 +1520,9 @@ GP-02A
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Neue Ziel
+                :columns: auto
 
             .. grid-item:: 登场/加入:第25话
                 :columns: auto

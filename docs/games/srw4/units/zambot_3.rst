@@ -50,6 +50,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Zambird
+                :columns: auto
+
             .. grid-item:: 登场/加入:第9话
                 :columns: auto
 
@@ -235,6 +238,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Zambo Ace
+                :columns: auto
 
             .. grid-item:: 登场/加入:第9话
                 :columns: auto
@@ -433,6 +439,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Zambull
+                :columns: auto
 
             .. grid-item:: 登场/加入:第9话
                 :columns: auto
@@ -644,6 +653,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Zambase
+                :columns: auto
+
             .. grid-item:: 登场/加入:第9话
                 :columns: auto
 
@@ -827,6 +839,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Zambot 3
+                :columns: auto
 
             .. grid-item:: 登场/加入:第9话
                 :columns: auto
@@ -1094,6 +1109,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Mecha Boost Domira
+                :columns: auto
+
             .. grid-item:: 登场/加入:第9话
                 :columns: auto
 
@@ -1272,6 +1290,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Mecha Boost Gabidan (Land)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第9话
                 :columns: auto
 
@@ -1437,6 +1458,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Mecha Boost Gabidan (Sky)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第9话
                 :columns: auto
 
@@ -1601,6 +1625,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Bandok
+                :columns: auto
 
             .. grid-item:: 登场/加入:第9话
                 :columns: auto
@@ -1778,6 +1805,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Red Knight Deathcain
+                :columns: auto
+
             .. grid-item:: 登场/加入:第34话
                 :columns: auto
 
@@ -1941,6 +1971,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Blue Knight Helldyne
+                :columns: auto
 
             .. grid-item:: 登场/加入:第34话
                 :columns: auto

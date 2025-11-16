@@ -50,6 +50,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Mazinger Z
+                :columns: auto
+
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
 
@@ -279,6 +282,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Mazinger Z (JS)
+                :columns: auto
 
             .. grid-item:: 登场/加入:第14话
                 :columns: auto
@@ -560,6 +566,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Aphrodite A
+                :columns: auto
+
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
 
@@ -744,6 +753,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Boss Borot
+                :columns: auto
 
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
@@ -947,6 +959,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Diana A
+                :columns: auto
 
             .. grid-item:: 登场/加入:第14话
                 :columns: auto
@@ -1154,6 +1169,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Mechanical Beast Doublas M2
+                :columns: auto
+
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
 
@@ -1332,6 +1350,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Mechanical Beast Garada K7
+                :columns: auto
+
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
 
@@ -1509,6 +1530,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Ghoul
+                :columns: auto
 
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
@@ -1712,6 +1736,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Mechanical Beast Genova M9
+                :columns: auto
+
             .. grid-item:: 登场/加入:第3话
                 :columns: auto
 
@@ -1876,6 +1903,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Bood
+                :columns: auto
 
             .. grid-item:: 登场/加入:第3话
                 :columns: auto
@@ -2075,6 +2105,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Mechanical Beast Spartan K5
+                :columns: auto
+
             .. grid-item:: 登场/加入:第6话
                 :columns: auto
 
@@ -2238,6 +2271,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Mechanical Beast Abdullah U6
+                :columns: auto
 
             .. grid-item:: 登场/加入:第6话
                 :columns: auto
@@ -2403,6 +2439,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Rhine X1
+                :columns: auto
 
             .. grid-item:: 登场/加入:第14话
                 :columns: auto

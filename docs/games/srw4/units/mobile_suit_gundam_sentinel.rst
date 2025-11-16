@@ -51,6 +51,9 @@ Sガンダム
             :padding: 0
 
 
+            .. grid-item:: 英文:S Gundam
+                :columns: auto
+
             .. grid-item:: 登场/加入:第20话
                 :columns: auto
 
@@ -282,6 +285,9 @@ Gクルーザー (S)
             :padding: 0
 
 
+            .. grid-item:: 英文:G Cruiser (S)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第20话
                 :columns: auto
 
@@ -454,6 +460,9 @@ ExSガンダム
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Ex-S Gundam
+                :columns: auto
 
             .. grid-item:: 登场/加入:第33话
                 :columns: auto
@@ -694,6 +703,9 @@ Gクルーザー (EXS)
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:G Cruiser (EX-S)
+                :columns: auto
 
             .. grid-item:: 登场/加入:第33话
                 :columns: auto

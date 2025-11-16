@@ -50,6 +50,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Methuss (MS)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
 
@@ -245,6 +248,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Methuss (MA)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
 
@@ -416,6 +422,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Gundam Mk-II
+                :columns: auto
 
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
@@ -634,6 +643,9 @@ Gディフェンサー
             :padding: 0
 
 
+            .. grid-item:: 英文:G Defender
+                :columns: auto
+
             .. grid-item:: 登场/加入:第10话
                 :columns: auto
 
@@ -809,6 +821,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Super Gundam
+                :columns: auto
 
             .. grid-item:: 登场/加入:第10话
                 :columns: auto
@@ -1060,6 +1075,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
+            .. grid-item:: 英文:Nemo
+                :columns: auto
+
             .. grid-item:: 登场/加入:第5话
                 :columns: auto
 
@@ -1254,6 +1272,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Argama
+                :columns: auto
 
             .. grid-item:: 登场/加入:第6话
                 :columns: auto
@@ -1471,6 +1492,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Z Gundam
+                :columns: auto
 
             .. grid-item:: 登场/加入:第10话
                 :columns: auto
@@ -1706,6 +1730,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
+            .. grid-item:: 英文:Wave Rider
+                :columns: auto
+
             .. grid-item:: 登场/加入:第10话
                 :columns: auto
 
@@ -1889,6 +1916,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Gabthley (MS)
+                :columns: auto
 
             .. grid-item:: 登场/加入:第20话
                 :columns: auto
@@ -2080,6 +2110,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
+            .. grid-item:: 英文:Gabthley (MA)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第20话
                 :columns: auto
 
@@ -2258,6 +2291,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
+            .. grid-item:: 英文:Byarlant
+                :columns: auto
+
             .. grid-item:: 登场/加入:第23话
                 :columns: auto
 
@@ -2432,6 +2468,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Hyaku Shiki
+                :columns: auto
 
             .. grid-item:: 登场/加入:第24话
                 :columns: auto
@@ -2658,6 +2697,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
+            .. grid-item:: 英文:Marasai
+                :columns: auto
+
             .. grid-item:: 登场/加入:第2话
                 :columns: auto
 
@@ -2839,6 +2881,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Barzam
+                :columns: auto
 
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
@@ -3022,6 +3067,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
+            .. grid-item:: 英文:Asshimar (MS)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第18话
                 :columns: auto
 
@@ -3186,6 +3234,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
+            .. grid-item:: 英文:Asshimar (MA)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第19话
                 :columns: auto
 
@@ -3336,6 +3387,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Hambrabi (MS)
+                :columns: auto
 
             .. grid-item:: 登场/加入:第23话
                 :columns: auto
@@ -3532,6 +3586,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
+            .. grid-item:: 英文:Hambrabi (MA)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
 
@@ -3696,6 +3753,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Baund Doc (MS)
+                :columns: auto
 
             .. grid-item:: 登场/加入:第23话
                 :columns: auto
@@ -3874,6 +3934,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
+            .. grid-item:: 英文:Baund Doc (MA)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第37话
                 :columns: auto
 
@@ -4042,6 +4105,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Bigro
+                :columns: auto
 
             .. grid-item:: 登场/加入:第24话
                 :columns: auto
@@ -4225,6 +4291,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
+            .. grid-item:: 英文:Braw Bro
+                :columns: auto
+
             .. grid-item:: 登场/加入:第25话
                 :columns: auto
 
@@ -4375,6 +4444,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Sudori
+                :columns: auto
 
             .. grid-item:: 登场/加入:第31话
                 :columns: auto
@@ -4573,6 +4645,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
+            .. grid-item:: 英文:Psycho Gundam (MS)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第32话
                 :columns: auto
 
@@ -4761,6 +4836,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
+            .. grid-item:: 英文:Psycho Gundam (MA)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第31话
                 :columns: auto
 
@@ -4948,6 +5026,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Psycho Gundam Mk-II (MS)
+                :columns: auto
 
             .. grid-item:: 登场/加入:第36话
                 :columns: auto
@@ -5150,6 +5231,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
+            .. grid-item:: 英文:Psycho Gundam Mk-II (MA)
+                :columns: auto
+
             .. grid-item:: 登场/加入:第37话
                 :columns: auto
 
@@ -5337,6 +5421,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Qubeley
+                :columns: auto
 
             .. grid-item:: 登场/加入:第41话
                 :columns: auto
@@ -5534,6 +5621,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
+            .. grid-item:: 英文:Alexandria
+                :columns: auto
+
             .. grid-item:: 编码 D7
                 :columns: auto
 
@@ -5721,6 +5811,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
+            .. grid-item:: 英文:Irish
+                :columns: auto
+
             .. grid-item:: 编码 DA
                 :columns: auto
 
@@ -5907,6 +6000,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Dogosse Giar
+                :columns: auto
 
             .. grid-item:: 编码 120
                 :columns: auto
@@ -6107,6 +6203,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Audhumla
+                :columns: auto
 
             .. grid-item:: 编码 121
                 :columns: auto

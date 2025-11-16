@@ -50,6 +50,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Mechanical Beast Toros D7
+                :columns: auto
+
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
 
@@ -213,6 +216,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Dragonsaurus
+                :columns: auto
 
             .. grid-item:: 登场/加入:第6话
                 :columns: auto
@@ -396,6 +402,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Saucer Beast Jinjin
+                :columns: auto
+
             .. grid-item:: 登场/加入:第6话
                 :columns: auto
 
@@ -574,6 +583,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Warrior Beast Dante
+                :columns: auto
+
             .. grid-item:: 登场/加入:第18话
                 :columns: auto
 
@@ -737,6 +749,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:General Juuma
+                :columns: auto
 
             .. grid-item:: 登场/加入:第22话
                 :columns: auto
@@ -922,6 +937,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Pikadron
+                :columns: auto
+
             .. grid-item:: 登场/加入:第43话
                 :columns: auto
 
@@ -1072,6 +1090,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Gilgilgan
+                :columns: auto
 
             .. grid-item:: 登场/加入:第43话
                 :columns: auto

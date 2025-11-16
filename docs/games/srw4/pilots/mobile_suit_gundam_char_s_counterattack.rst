@@ -39,6 +39,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_3C.png
 
+    .. grid-item:: 英文:Kayra Su
     .. grid-item:: 登场/加入:第5话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -186,6 +187,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_3A.png
 
+    .. grid-item:: 英文:Quess Paraya
     .. grid-item:: 登场/加入:第29话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
@@ -343,6 +345,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_3B.png
 
+    .. grid-item:: 英文:Chan Agi
     .. grid-item:: 登场/加入:第26话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
@@ -470,6 +473,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_97.png
 
+    .. grid-item:: 英文:Günei Gas
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
     .. grid-item:: EXP: 249
@@ -610,6 +614,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_98.png
 
+    .. grid-item:: 英文:Nanai Miguel
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
     .. grid-item:: EXP: 200
@@ -739,6 +744,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_99.png
 
+    .. grid-item:: 英文:Rezun Schneider
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
     .. grid-item:: EXP: 237

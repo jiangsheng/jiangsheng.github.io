@@ -52,6 +52,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Gun Cannon
+                :columns: auto
+
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
 
@@ -239,6 +242,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Gun Tank
+                :columns: auto
+
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
 
@@ -409,6 +415,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Gundam
+                :columns: auto
 
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
@@ -635,6 +644,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Dom
+                :columns: auto
+
             .. grid-item:: 登场/加入:第1话
                 :columns: auto
 
@@ -825,6 +837,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Gaw
+                :columns: auto
 
             .. grid-item:: 登场/加入:第10话
                 :columns: auto
@@ -1036,6 +1051,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Dobday
+                :columns: auto
+
             .. grid-item:: 登场/加入:第20话
                 :columns: auto
 
@@ -1246,6 +1264,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Old Zaku
+                :columns: auto
+
             .. grid-item:: 登场/加入:第20话
                 :columns: auto
 
@@ -1431,6 +1452,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Adzam
+                :columns: auto
+
             .. grid-item:: 登场/加入:第21话
                 :columns: auto
 
@@ -1594,6 +1618,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Zanzibar
+                :columns: auto
 
             .. grid-item:: 登场/加入:第23话
                 :columns: auto
@@ -1772,6 +1799,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Elmeth
+                :columns: auto
+
             .. grid-item:: 登场/加入:第25话
                 :columns: auto
 
@@ -1944,6 +1974,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Medea
+                :columns: auto
 
             .. grid-item:: 登场/加入:第4话
                 :columns: auto
@@ -2121,6 +2154,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Ball
+                :columns: auto
+
             .. grid-item:: 登场/加入:第24话
                 :columns: auto
 
@@ -2280,6 +2316,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Columbus
+                :columns: auto
 
             .. grid-item:: 编码 CF
                 :columns: auto
@@ -2441,6 +2480,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Pazock
+                :columns: auto
 
             .. grid-item:: 编码 D0
                 :columns: auto

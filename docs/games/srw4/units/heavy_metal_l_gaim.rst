@@ -52,6 +52,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:L-Gaim
+                :columns: auto
+
             .. grid-item:: 登场/加入:第2话
                 :columns: auto
 
@@ -253,6 +256,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:D-Sserd
+                :columns: auto
 
             .. grid-item:: 登场/加入:第2话
                 :columns: auto
@@ -456,6 +462,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Calvary Temple
+                :columns: auto
+
             .. grid-item:: 登场/加入:第8话
                 :columns: auto
 
@@ -644,6 +653,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:L-Gaim Mk-II
+                :columns: auto
 
             .. grid-item:: 登场/加入:第25话
                 :columns: auto
@@ -873,6 +885,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Prowler
+                :columns: auto
+
             .. grid-item:: 登场/加入:第25话
                 :columns: auto
 
@@ -1062,6 +1077,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Novel D-Sserd
+                :columns: auto
+
             .. grid-item:: 登场/加入:第25话
                 :columns: auto
 
@@ -1250,6 +1268,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Ashura Temple
+                :columns: auto
 
             .. grid-item:: 登场/加入:第38话
                 :columns: auto
@@ -1489,6 +1510,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Bat-Shu
+                :columns: auto
 
             .. grid-item:: 登场/加入:第3话
                 :columns: auto
@@ -1732,6 +1756,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:G Roon
+                :columns: auto
+
             .. grid-item:: 登场/加入:第3话
                 :columns: auto
 
@@ -1940,6 +1967,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Arorne
+                :columns: auto
+
             .. grid-item:: 登场/加入:第3话
                 :columns: auto
 
@@ -2108,6 +2138,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Greia
+                :columns: auto
 
             .. grid-item:: 登场/加入:第3话
                 :columns: auto
@@ -2283,6 +2316,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Auger
+                :columns: auto
 
             .. grid-item:: 登场/加入:第8话
                 :columns: auto
@@ -2486,6 +2522,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:A Taul
+                :columns: auto
+
             .. grid-item:: 登场/加入:第8话
                 :columns: auto
 
@@ -2666,6 +2705,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Blood Temple
+                :columns: auto
 
             .. grid-item:: 登场/加入:第42话
                 :columns: auto
@@ -2893,6 +2935,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Auge
+                :columns: auto
 
             .. grid-item:: 登场/加入:第42话
                 :columns: auto
@@ -3129,6 +3174,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:A Taul V
+                :columns: auto
+
             .. grid-item:: 编码 51
                 :columns: auto
 
@@ -3303,6 +3351,9 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Salonz
+                :columns: auto
 
             .. grid-item:: 编码 F8
                 :columns: auto
@@ -3518,6 +3569,9 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Gayrahm
+                :columns: auto
 
             .. grid-item:: 编码 101
                 :columns: auto

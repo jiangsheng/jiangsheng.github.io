@@ -38,6 +38,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_6F.png
 
+    .. grid-item:: 英文:Beast Demon General
     .. grid-item:: 登场/加入:第22话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 60

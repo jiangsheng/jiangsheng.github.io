@@ -39,6 +39,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_6A.png
 
+    .. grid-item:: 英文:Banjo Haran
     .. grid-item:: 登场/加入:第18话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 110
@@ -158,7 +159,7 @@
 
 .. _srw4_pilot_banjo_haran_commentBegin:
 
-上一次大战之后失踪。第18话（\ :ref:`南南西 <srw4_walkthrough_18a_intruder_south_south_west>`\ /\ :ref:`北西<srw4_walkthrough_18b_intruder_northwest>`\ ）首次登场，此后作为朗德·贝尔的金主负责后勤工作和分队司令官。因为配音和ブライト是同一个人，在充当分队司令官的时候有一段搞笑的对话。
+上一次大战之后失踪。第18话（\ :ref:`南南西 <srw4_walkthrough_18a_intruder_south_south_west>`\ /\ :ref:`北西<srw4_walkthrough_18b_intruder_northwest>`\ ）首次登场，此后作为朗德·贝尔的金主负责后勤工作和分队司令官。因为配音和\ :ref:`ブライト・ノア <srw4_pilot_bright_noah>`\ （布莱德）是同一个人，在充当分队司令官的时候有一段搞笑的对话。
 
 其近战攻击力堪称怪物，开局即比我军平均高三成，但因为成长率较低，在后期几乎被几个王牌赶上。技量也是数一数二级别，暴击率惊人。命中和直感虽然排我军中游，但在超级系中仍是一流。远程攻击力与技量媲美真实系王牌，机体变形成坦克形态也能当狙击手用，堪称无懈可击，比主角更像主角。
 
@@ -186,6 +187,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_5A.png
 
+    .. grid-item:: 英文:Garrison Tokida
     .. grid-item:: 登场/加入:第26话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 75
@@ -294,11 +296,13 @@
 
 .. _srw4_pilot_garrison_tokida_commentBegin:
 
-原作中時田管家似乎是个万能的人物，在这里也是一样。在\ :ref:`第二十六话Ｂ 日輪は我にあり <srw4_walkthrough_26b_i_have_the_power_of_the_sun>`\ 中代替因吃鲭鱼腹泻的万丈，驾驶\ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\ 出战。
+原作中時田加里森管家似乎是个万能的人物，在这里也是一样。在\ :ref:`第二十六话Ｂ 日輪は我にあり <srw4_walkthrough_26b_i_have_the_power_of_the_sun>`\ 中代替因吃鲭鱼腹泻的\ :ref:`破嵐万丈 <srw4_pilot_banjo_haran>`\ ，驾驶\ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\ （泰坦3）出战。
 
 作为只出战一话的替补机师意外地胜任。远攻、命中回避和技量都在平均值以上，只是近攻击差了一点。精神配备上有熱血和気合。对于超级系来说足够用了。地形适应方面除了宇宙都是A，即使宇宙战，因为机体的宇宙适应是A的原因，综合下来也是B，并不吃力。
 
 不得不让他远离战场成为遗憾——即使没有他，敌人也很容易解决，而且他在通关后立刻离队，所以经验值还是让别人来抢比较好。
+
+本作没有加入语音，是个遗憾。
 
 .. _srw4_pilot_garrison_tokida_commentEnd:
 
@@ -328,6 +332,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_AB.png
 
+    .. grid-item:: 英文:Koros
     .. grid-item:: 登场/加入:第30话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -462,6 +467,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_AC.png
 
+    .. grid-item:: 英文:Don Zauser
     .. grid-item:: 登场/加入:第43话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -602,6 +608,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_5B.png
 
+    .. grid-item:: 英文:Beautiful Tachibana
     .. grid-item:: 登场/加入:第26话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
@@ -721,6 +728,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_5C.png
 
+    .. grid-item:: 英文:Reika Sanjo
     .. grid-item:: 登场/加入:第26话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 0
@@ -818,7 +826,7 @@
 
 .. _srw4_pilot_reika_sanjo_commentBegin:
 
-三条丽香是非战斗员。万丈的助手。不是很活跃。
+三条丽香是非战斗员。\ :ref:`破嵐万丈 <srw4_pilot_banjo_haran>`\ 的助手。不是很活跃。
 
 .. _srw4_pilot_reika_sanjo_commentEnd:
 
@@ -840,6 +848,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_5D.png
 
+    .. grid-item:: 英文:Totta Toda
     .. grid-item:: 登场/加入:第26话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
@@ -937,7 +946,7 @@
 
 .. _srw4_pilot_totta_toda_commentBegin:
 
-非战斗员。帮助ビューティフル制作鲭鱼，造成万丈食物中毒。结局中由于万丈的又一次失踪，他被\ :ref:`ビューティフル・タチバナ <srw4_pilot_beautiful_tachibana>`\ （立花美丽）收养。
+非战斗员。帮助\ :ref:`ビューティフル・タチバナ <srw4_pilot_beautiful_tachibana>`\ （立花美丽）制作鲭鱼，造成万丈食物中毒。结局中由于\ :ref:`破嵐万丈 <srw4_pilot_banjo_haran>`\ 的又一次失踪，他被立花美丽收养。
 
 .. _srw4_pilot_totta_toda_commentEnd:
 

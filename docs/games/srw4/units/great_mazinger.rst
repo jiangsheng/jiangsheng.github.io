@@ -50,6 +50,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Great Mazinger
+                :columns: auto
+
             .. grid-item:: 登场/加入:第23话
                 :columns: auto
 
@@ -362,6 +365,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Venus A
+                :columns: auto
+
             .. grid-item:: 登场/加入:第23话
                 :columns: auto
 
@@ -581,6 +587,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Hardias
+                :columns: auto
+
             .. grid-item:: 登场/加入:第2话
                 :columns: auto
 
@@ -765,6 +774,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Warrior Beast Gratonios
+                :columns: auto
 
             .. grid-item:: 登场/加入:第6话
                 :columns: auto
@@ -956,6 +968,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Warrior Beast Obelius
+                :columns: auto
+
             .. grid-item:: 登场/加入:第6话
                 :columns: auto
 
@@ -1132,6 +1147,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Draydou
+                :columns: auto
 
             .. grid-item:: 登场/加入:第6话
                 :columns: auto
@@ -1317,6 +1335,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Warrior Beast Zugar
+                :columns: auto
+
             .. grid-item:: 登场/加入:第18话
                 :columns: auto
 
@@ -1493,6 +1514,9 @@
             :margin: 0
             :padding: 0
 
+
+            .. grid-item:: 英文:Great General of Darkness
+                :columns: auto
 
             .. grid-item:: 登场/加入:第30话
                 :columns: auto

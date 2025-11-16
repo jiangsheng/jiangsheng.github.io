@@ -49,6 +49,9 @@
             :padding: 0
 
 
+            .. grid-item:: 英文:Xi Gundam
+                :columns: auto
+
             .. grid-item:: 编码 106
                 :columns: auto
 

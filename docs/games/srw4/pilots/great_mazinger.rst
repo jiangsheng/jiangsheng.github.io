@@ -17,6 +17,7 @@
 --------
 .. _srw4_pilots_great_mazinger_own_commentBegin:
 
+第四次S中增加了本系专用BGMおれはグレートマジンガー，但是卡拉OK模式里没有这首歌。
 
 .. _srw4_pilots_great_mazinger_own_commentEnd:
 
@@ -38,6 +39,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_48.png
 
+    .. grid-item:: 英文:Jun Hono
     .. grid-item:: 登场/加入:第23话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 70
@@ -146,11 +148,11 @@
 
 .. _srw4_pilot_jun_hono_commentBegin:
 
-作为修理机机师来说能力是正常地差。地形适应也和自己的机体不符合，维纳斯A是空B陆A，她是空A陆B，也不适合本系大把的空B陆A的机体，后期グレンダイザー会分在A队，而她会去B队，所以你大概会想让她提前去开ダブルスペイザー。
+炎纯作为修理机机师来说能力是正常地差。地形适应也和自己的机体不符合，\ :ref:`ビューナスA <srw4_unit_venus_a>`\ （维纳斯A）是空B陆A，她是空A陆B，也不适合本系大把的空B陆A的机体，后期\ :ref:`グレンダイザー <srw4_pilots_grendizer>`\ （古连泰沙）会分在A队，而玛丽亚会去B队，所以你大概会想让她提前去开\ :ref:`ダブルスペイザー <srw4_unit_double_spacer>`\ （Double Spacer）继续蹭等级。
 
-精神方面虽然比较偏战斗向，但是培养她也并无坏处，42级可以学会激励。因为SP充沛，是很早能使用3次激励的机师之一。不过シーブック（限第四次）和ファ也可以……
+精神方面虽然比较偏战斗向，但是培养她也并无坏处，42级可以学会激励。因为SP充沛，是很早能使用3次激励的机师之一。不过第四次的\ :ref:`シーブック・アノー <srw4_pilot_seabook_arno>`\ (西布克)和\ :ref:`ファ・ユイリィ <srw4_pilot_fa_yuiry>`\ （花园丽）也可以……
 
-没有幸运是个大问题，地面适应也是B，不适合同系大部分机体。作为空中A级热血拥有者，更适合战斗，但是本作用地图炮刷级之后可大批培养战斗要员，以至于辅助机师更为稀缺，以至于出场率低于弓沙也加。如果不想用地图炮刷级的话，因为SP充沛，可以每回合加热血，还是可以考虑让她作为战斗机师。
+没有幸运是个大问题，地面适应也是B，不适合同系大部分机体。作为空中A级热血拥有者，更适合战斗，但是本作用地图炮刷级之后可大批培养战斗要员，以至于辅助机师更为稀缺，出场率低于弓沙也加。如果不想用地图炮刷级的话，因为SP充沛，可以每回合加热血，还是可以考虑让她作为战斗机师。
 
 .. _srw4_pilot_jun_hono_commentEnd:
 
@@ -172,6 +174,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_5E.png
 
+    .. grid-item:: 英文:Tetsuya Tsurugi
     .. grid-item:: 登场/加入:第23话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 95
@@ -325,6 +328,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_C6.png
 
+    .. grid-item:: 英文:Evil Spirit General Hadias
     .. grid-item:: 登场/加入:第2话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 60
@@ -457,6 +461,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_C7.png
 
+    .. grid-item:: 英文:Reptilian General Draydou
     .. grid-item:: 登场/加入:第6话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 60
@@ -586,6 +591,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_C5.png
 
+    .. grid-item:: 英文:Great General of Darkness
     .. grid-item:: 登场/加入:第30话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 60

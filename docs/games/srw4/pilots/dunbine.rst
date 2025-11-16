@@ -40,6 +40,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_01.png
 
+    .. grid-item:: 英文:Chum Huau
     .. grid-item:: 登场/加入:第13话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 50
@@ -148,11 +149,11 @@
 
 .. _srw4_pilot_chum_huau_commentBegin:
 
-\ :ref:`第十三话 浮上 <srw4_walkthrough_13_surfacing>`\ 中和\ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ （座间翔） 一起到达地面。因为和リリス・ファウ配音演员是一个人的原因，初见面有特殊剧情。
+\ :ref:`第十三话 浮上 <srw4_walkthrough_13_surfacing>`\ 中和\ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ （座间翔） 一起到达地面。因为和\ :ref:`リリス・ファウ <srw4_pilot_lilith_fau>`\ （莉莉斯）的配音演员是一个人的原因，初见面有特殊剧情。
 
 本作启用妖精系统，使得本系机体上可以成为双座。再动和气合等精神指令极为使用，但是奇迹所需等级太高，常规游戏只有最终话和等级远高于我军的\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ （白河愁）战斗才可以正常学得奇迹。此外必须用地图炮刷级才可能习得。
 
-选择\ :ref:`ゴラオン <srw4_missable_goraon>`\ 来刷级的话，加入的时候就需要注意压等级。这意味着不能让她不匹配到某个驾驶员，因为未分配的驾驶员会和第一个机师共享经验，参见\ :doc:`../mechanics/bug`\ 。在第四次S中，同样的bug可以用来在ゴラオン没有加入时，用真实系主角和\ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\ 来刷级。这需要同样的压级手段。
+选择\ :ref:`ゴラオン <srw4_missable_goraon>`\ （哥拉奥）来刷级的话，加入的时候就需要注意压等级。这意味着不能让她不匹配到某个驾驶员，因为未分配的驾驶员会和第一个机师共享经验，参见\ :doc:`../mechanics/bug`\ 。在第四次S中，同样的bug可以用来在ゴラオン没有加入时，用真实系主角和\ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\ （凶鸟）来刷级。这需要同样的压级手段。
 
 第四次S中加入了语音，偶尔代替翔发言，与其他机师搭档时则无语音。
 
@@ -176,6 +177,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_1C.png
 
+    .. grid-item:: 英文:Show Zama
     .. grid-item:: 登场/加入:第13话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 50
@@ -295,13 +297,13 @@
 
 .. _srw4_pilot_show_zama_commentBegin:
 
-座间翔在\ :ref:`第十三话 浮上 <srw4_walkthrough_13_surfacing>`\ 中驾驶\ :ref:`ダンバイン <srw4_unit_dunbine>`\ 登场，在\ :ref:`第十九话 あしゅら男爵の最期 <srw4_walkthrough_19_baron_ashura_s_final_moment>`\ 中自动转乘到\ :ref:`サーバイン <srw4_unit_sirbine>`\ 或者\ :ref:`ズワウス <srw4_unit_zwuath>`\ ，最后在\ :ref:`第二十五话Ｂ ハイパージェリル <srw4_walkthrough_25b_hyper_jerill>`\ 中驾驶\ :ref:`ビルバイン <srw4_unit_bilvine>`\ 登场。
+座间翔在\ :ref:`第十三话 浮上 <srw4_walkthrough_13_surfacing>`\ 中驾驶\ :ref:`ダンバイン <srw4_unit_dunbine>`\ （丹拜因）登场，在\ :ref:`第十九话 あしゅら男爵の最期 <srw4_walkthrough_19_baron_ashura_s_final_moment>`\ 中自动转乘到\ :ref:`サーバイン <srw4_unit_sirbine>`\ （塞拜因）或者\ :ref:`ズワウス <srw4_unit_zwuath>`\ （兹瓦士），最后在\ :ref:`第二十五话Ｂ ハイパージェリル <srw4_walkthrough_25b_hyper_jerill>`\ 中驾驶\ :ref:`ビルバイン <srw4_unit_bilvine>`\ （比尔拜因）登场。
 
 绝对主力之一，考虑到机体大小補正只有0.8和分身能力的存在，座间翔是我方回避能力最高的机师。集中和圣战士能力也一开始就具备，在第四次中奥拉斩更是非消耗性的，加入后可以立刻单机无双。
 
-远程攻击也是奥拉战士中最高，甚至接近真实系王牌，因此与没有远程武器的サーバイン/ズワウス相比，他更适合ビルバイン。另一方面，难以闪避的\ :ref:`マーベル・フローズン <srw4_pilot_marvel_frozen>`\ 和有铁壁的\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ 更适合生存力超强的隐藏奥拉机体サーバイン/ズワウス。
+远程攻击也是奥拉战士中最高，甚至接近真实系王牌，因此与没有远程武器的塞拜因/兹瓦士相比，他更适合比尔拜因。另一方面，难以闪避的\ :ref:`マーベル・フローズン <srw4_pilot_marvel_frozen>`\ （玛贝露・弗洛森）和有铁壁的\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （嘉拉莉亚・纽姆希） 更适合生存力超强的隐藏奥拉机体塞拜因/兹瓦士。
 
-在\ :ref:`第三十二话 ダカールの日 <srw4_walkthrough_32_the_day_of_dakar>`\ 中，根据开战前的选择，可以与\ :ref:`チャム・ファウ <srw4_pilot_chum_huau>`\（查姆）一起成为\ :ref:`ブレックス・フォーラ <srw4_pilot_blex_forer>`\ （布雷克特准将）的护卫。如果主角是护送者，\ :ref:`布雷克斯准将可能会死 <srw4_missable_blex_death>`\ ，但如果ショウ是护送者，他就会表现出自己的武技。
+在\ :ref:`第三十二话 ダカールの日 <srw4_walkthrough_32_the_day_of_dakar>`\ 中，根据开战前的选择，可以与\ :ref:`チャム・ファウ <srw4_pilot_chum_huau>`\（查姆）一起成为\ :ref:`ブレックス・フォーラ <srw4_pilot_blex_forer>`\ （布雷克特准将）的护卫。如果主角是护送者，\ :ref:`布雷克斯准将可能会死 <srw4_missable_blex_death>`\ ，但如果翔是护送者，他就会表现出自己的武技。
 
 第四次S加入了声音，本就首屈一指的回避有所提升，切り払い也从5级升级到了8级，生存能力有所提升。
 
@@ -325,6 +327,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_62.png
 
+    .. grid-item:: 英文:Marvel Frozen
     .. grid-item:: 登场/加入:第13话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 40
@@ -444,9 +447,9 @@
 
 .. _srw4_pilot_marvel_frozen_commentBegin:
 
-玛贝露在\ :ref:`第十三话 浮上 <srw4_walkthrough_13_surfacing>`\ 中驾驶\ :ref:`ボチューン <srw4_unit_botune>`\ （波臣） 登场。在\ :ref:`第二十五话Ｂ ハイパージェリル <srw4_walkthrough_25b_hyper_jerill>`\ 开战前会失去这部波臣。本话\ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ （座间翔）也会转乘其他机体，所以可以在战斗开始之前换乘翔的机体，让翔暂时空闲。
+玛贝露・弗洛森在\ :ref:`第十三话 浮上 <srw4_walkthrough_13_surfacing>`\ 中驾驶\ :ref:`ボチューン <srw4_unit_botune>`\ 波臣） 登场。在\ :ref:`第二十五话Ｂ ハイパージェリル <srw4_walkthrough_25b_hyper_jerill>`\ 开战前会失去这部波臣。本话\ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ （座间翔）也会转乘其他机体，所以可以在战斗开始之前换乘翔的机体，让翔暂时空闲。
 
-近攻击和回避优秀。有集中，最终生存能力超越\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （加拉利亚）。远攻击高于加拉利亚，所以你可能更喜欢让有铁壁而缺乏集中的加拉利亚乘坐没有远程武器的\ :ref:`サーバイン <srw4_unit_sirbine>`\ 或者\ :ref:`ズワウス <srw4_unit_zwuath>`\ 。
+近攻击和回避优秀。有集中，最终生存能力超越\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （嘉拉莉亚・纽姆希）。远攻击高于嘉拉莉亚，所以你可能更喜欢让有铁壁而缺乏集中的嘉拉莉亚乘坐没有远程武器的\ :ref:`サーバイン <srw4_unit_sirbine>`\ （塞拜因）或者\ :ref:`ズワウス <srw4_unit_zwuath>`\ （兹瓦士）。
 
 学习觉醒的速度快。因为有觉醒，所以更适合和\ :ref:`チャム・ファウ <srw4_pilot_chum_huau>`\ （查姆）配对，23级就可以用觉醒+再动为地图武器机体调整开火角度，比\ :ref:`ザンボット3 <srw4_pilots_zambot_3>`\ （扎波特3）更早，在没有两次移动的时候，能够有角度调整能力至关重要。或者用奇迹+觉醒+奥拉斩在同一回合造成大量伤害。前提是你不像用奇迹+地图炮这种犯规战术。觉醒+脱力也是有用的战术，但是能够在地中脱力的\ :ref:`ミオ・サスガ <srw4_pilot_mio_sasuga>`\（贵家澪） 施放起来更加安全。
 
@@ -474,6 +477,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_C1.png
 
+    .. grid-item:: 英文:Garalia Nyamhee
     .. grid-item:: 登场/加入:第13话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 40
@@ -593,11 +597,11 @@
 
 .. _srw4_pilot_garalia_nyamhee_commentBegin:
 
-加拉利亚在\ :ref:`第十三话 浮上 <srw4_walkthrough_13_surfacing>`\ 中驾驶\ :ref:`バストール <srw4_unit_bastole>`\ （巴斯托） 登场。如果不攻击她，第三回合加入我军。
+嘉拉莉亚・纽姆希在\ :ref:`第十三话 浮上 <srw4_walkthrough_13_surfacing>`\ 中驾驶\ :ref:`バストール <srw4_unit_bastole>`\ （巴斯托） 登场。如果不攻击她，第三回合加入我军。
 
-她是否加入导致流程和加入机体的重大变化。参考:ref:`隐藏要素 <srw4_missable_garalia>`\ 。
+她是否加入导致流程和加入机体的重大变化。参考\ :ref:`隐藏要素 <srw4_missable_garalia>`\ 。
 
-我军第三个圣战士，但是没有个很好的机体。二次行动比\ :ref:`マーベル・フローズン <srw4_pilot_marvel_frozen>`\ 早。有圣战士中少见的加速，格斗能力更超越\ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ （座间翔），但是没有集中，射击能力差，具有铁壁，更匹配\ :ref:`サーバイン <srw4_unit_sirbine>`\ 或者\ :ref:`ズワウス <srw4_unit_zwuath>`\ 这种生存能力高但是没有远程武器的机体。因为资金可能不足改造第三个奥拉斩出来，是否使用她是个疑问。
+我军第三个圣战士，但是没有个很好的机体。二次行动比\ :ref:`マーベル・フローズン <srw4_pilot_marvel_frozen>`\ (玛贝露・弗洛森)早。有圣战士中少见的加速，格斗能力更超越\ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ （座间翔），但是没有集中，射击能力差，具有铁壁，更匹配\ :ref:`サーバイン <srw4_unit_sirbine>`\ （塞拜因）或者\ :ref:`ズワウス <srw4_unit_zwuath>`\ （兹瓦士） 这种生存能力高但是没有远程武器的机体。因为资金可能不足以改满第三个奥拉斩，是否使用她是个疑问。
 
 宇宙适应是本系垫底的C，不过只需要在宇宙中作战两话，然而其中一话是难度很大的\ :ref:`第四十一话 アクシズに散る <srw4_walkthrough_41_scattered_on_axis>`\ ，更凸显她缺乏集中导致的生存问题……
 
@@ -623,6 +627,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_05.png
 
+    .. grid-item:: 英文:Silky Mau
     .. grid-item:: 登场/加入:第16话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
@@ -731,11 +736,11 @@
 
 .. _srw4_pilot_silky_mau_commentBegin:
 
-希露姬是\ :ref:`隐藏角色 <srw4_missable_silky>`\ ，在\ :ref:`第十六话 大将軍ガルーダの悲劇 <srw4_walkthrough_16_great_general_garuda_s_tragedy>`\ 中，将\ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ 移动到特定位置的时候登场。因为会带来两部非常实用的机体\ :ref:`サーバイン <srw4_unit_sirbine>`\ 和\ :ref:`ズワウス <srw4_unit_zwuath>`\ ，所以是必须获得的角色。
+希露姬是\ :ref:`隐藏角色 <srw4_missable_silky>`\ ，在\ :ref:`第十六话 大将軍ガルーダの悲劇 <srw4_walkthrough_16_great_general_garuda_s_tragedy>`\ 中，将\ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ （座间翔）移动到特定位置的时候登场。因为会带来两部非常实用的机体\ :ref:`サーバイン <srw4_unit_sirbine>`\ （塞拜因）或者\ :ref:`ズワウス <srw4_unit_zwuath>`\ （兹瓦士），所以是必须获得的角色。
 
-气合和幸运都是很实用的精神，但是隐身则是个浪费，奥拉战士一般是用来吸引火力的。如果选择\ :ref:`ゴラオン路线 <srw4_missable_goraon>`\ 放弃\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ 的话，等级可以用地图炮练得很高，平时也可以用かく乱干扰敌人。
+气合和幸运都是很实用的精神，但是隐身则是个浪费，奥拉战士一般是用来吸引火力的。如果选择\ :ref:`ゴラオン路线 <srw4_missable_goraon>`\ 放弃\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （嘉拉莉亚・纽姆希）的话，等级可以用地图炮练得很高，平时也可以用かく乱干扰敌人。
 
-第四次S中共享经验的\ :ref:`bug <srw4_bugs>`\ 仍然存在，但是对象成为了主角，使得不需要ゴラオン也能用地图炮刷出很高的SP，前提是主角是真实系，以及预先压级。
+第四次S中共享经验的\ :ref:`bug <srw4_bugs>`\ 仍然存在，但是对象成为了主角，使得不需要ゴラオン（哥拉奥）也能用地图炮刷出很高的SP，前提是主角是真实系，以及预先压级。
 
 .. _srw4_pilot_silky_mau_commentEnd:
 
@@ -757,6 +762,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_02.png
 
+    .. grid-item:: 英文:Bell Earl
     .. grid-item:: 登场/加入:第17话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
@@ -865,13 +871,13 @@
 
 .. _srw4_pilot_bell_earl_commentBegin:
 
-如果选择了\ :ref:`グラン・ガラン路线 <srw4_missable_guran_garan>`\，说得\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ 的话，贝露在\ :ref:`第十七话Ｂ オーラマシン展開 (グラン·ガラン) <srw4_walkthrough_17b_expansion_of_the_aura_machine_gran_garan>`\ 之后和\ :ref:`エル・フィノ <srw4_pilot_el_fino>`\ （艾露）一起加入。
+如果选择了\ :ref:`グラン・ガラン路线 <srw4_missable_guran_garan>`\，说得\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （嘉拉莉亚・纽姆希）的话，贝露在\ :ref:`第十七话Ｂ オーラマシン展開 (グラン·ガラン) <srw4_walkthrough_17b_expansion_of_the_aura_machine_gran_garan>`\ 之后和\ :ref:`エル・フィノ <srw4_pilot_el_fino>`\ （艾露・菲诺）一起加入。
 
-虽然等级过低，在加入时没有任何精神，但是很快就可以学得幸运，和\ :ref:`シルキー・マウ <srw4_pilot_silky_mau>`\ 一起成为幸运二人组帮助圣战士们升级。。在后期会学得気合，因为和有地图炮的\  :ref:`ゴラオン， <srw4_unit_goraon>`\ 冲突，復活正常游戏很难习得。
+虽然等级过低，在加入时没有任何精神，但是很快就可以学得幸运，和\ :ref:`シルキー・マウ <srw4_pilot_silky_mau>`\ （希露姬）一起成为幸运二人组帮助圣战士们升级。在后期会学得気合，因为和有地图炮的\  :ref:`ゴラオン， <srw4_unit_goraon>`\ （哥拉奥）冲突，復活正常游戏很难习得。
 
 因为有幸运，所以她加入的路线资金积累和圣战士系机师培训都更有优势。
 
-第四次S中共享经验的\ :ref:`bug <srw4_bugs>`\ 仍然存在，但是对象成为了主角，使得不需要ゴラオン也能用地图炮很早练出復活，前提是主角是真实系，以及预先压级。
+第四次S中共享经验的\ :ref:`bug <srw4_bugs>`\ 仍然存在，但是对象成为了主角，使得不需要哥拉奥也能用地图炮很早练出復活，前提是主角是真实系，以及预先压级。
 
 
 .. _srw4_pilot_bell_earl_commentEnd:
@@ -894,6 +900,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_03.png
 
+    .. grid-item:: 英文:El Fino
     .. grid-item:: 登场/加入:第17话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 50
@@ -1002,11 +1009,11 @@
 
 .. _srw4_pilot_el_fino_commentBegin:
 
-艾露和\ :ref:`ベル・アール <srw4_pilot_bell_earl>`\ （贝露）一起加入。
+艾露・菲诺和\ :ref:`ベル・アール <srw4_pilot_bell_earl>`\ （贝露）一起加入。
 
-基本只有一个脱力有用，補給要50级才能练出来，但是没有幸运，基本没戏。可以和\ :ref:`マーベル・フローズン <srw4_pilot_marvel_frozen>`\ 搭配，用觉醒冲到敌人身边放脱力，避免敌人使用攻击力18000的缩退跑或者ハイパー化的敌人发动分身回避我方的攻击。由于其他妖精都有气合，基本上和不需要加气力的\ :ref:`シーラ・ラパーナ <srw4_pilot_ciela_lapana>`\ (希拉)成为固定搭档。
+基本只有一个脱力有用，補給要50级才能练出来，但是没有幸运，基本没戏。可以和\ :ref:`マーベル・フローズン <srw4_pilot_marvel_frozen>`\ （玛贝露・弗洛森）搭配，用觉醒冲到敌人身边放脱力，避免敌人使用攻击力18000的缩退跑或者ハイパー化的敌人发动分身回避我方的攻击。由于其他妖精都有气合，基本上和不需要加气力的\ :ref:`シーラ・ラパーナ <srw4_pilot_ciela_lapana>`\ (谢拉・拉帕纳)成为固定搭档。
 
-第四次S中共享经验的\ :ref:`bug <srw4_bugs>`\ 仍然存在，但是对象成为了主角，使得不需要\  :ref:`ゴラオン， <srw4_unit_goraon>`\ 也能用地图炮很早练出補給，前提是主角是真实系，以及预先压级。另外足かせ变成了信赖。
+第四次S中共享经验的\ :ref:`bug <srw4_bugs>`\ 仍然存在，但是对象成为了主角，使得不需要\  :ref:`ゴラオン， <srw4_unit_goraon>`\ （哥拉奥）也能用地图炮很早练出補給，前提是主角是真实系，以及预先压级。另外足かせ变成了信赖。
 
 .. _srw4_pilot_el_fino_commentEnd:
 
@@ -1028,6 +1035,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_64.png
 
+    .. grid-item:: 英文:Nie Given
     .. grid-item:: 登场/加入:第17话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 30 (40)
@@ -1136,9 +1144,9 @@
 
 .. _srw4_pilot_nie_given_commentBegin:
 
-尼仅在\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （加拉利亚）未加入时加入。本作是与\ :ref:`エレ・ハンム <srw4_pilot_elle_hunm>`\ （艾蕾)共同行动，最终仍将与 \ :ref:`キーン・キッス <srw4_pilot_keen_kiss>`\ (基恩)一同加入。
+尼仅在\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （嘉拉莉亚・纽姆希）未加入时加入。本作是与\ :ref:`エレ・ハンム <srw4_pilot_elle_hunm>`\ （艾蕾)共同行动，最终仍将与 \ :ref:`キーン・キッス <srw4_pilot_keen_kiss>`\ (基恩)一同加入。
 
-能力值尚可，但因缺乏圣战士技能，难逃二线命运。不过由于与\ :ref:`リムル・ルフト <srw4_pilot_riml_luft>`\ （莉姆露）和\ :ref:`ライネック <srw4_unit_wryneck>`\（莱内克）的\ :ref:`加入条件 <srw4_missable_riml_luft>`\ 相关，如果选择走尼加入的路线，仍需稍加培养。
+能力值尚可，但因缺乏圣战士技能，难逃二线命运。不过由于与\ :ref:`リムル・ルフト <srw4_pilot_riml_luft>`\ （莉姆露）和\ :ref:`ライネック <srw4_unit_wryneck>`\（莱内克）的\ :ref:`加入条件 <srw4_missable_riml_luft>`\ 相关，如果选择走尼加入和\ :ref:`フォウ・ムラサメ <srw4_pilot_four_murasame>`\ （村雨凤）战死的路线，仍需稍加培养。
 
 第四次S中远攻击（？）、命中和SP有所上升。
 
@@ -1162,6 +1170,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_65.png
 
+    .. grid-item:: 英文:Keen Kiss
     .. grid-item:: 登场/加入:第17话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 40 (45)
@@ -1270,7 +1279,7 @@
 
 .. _srw4_pilot_keen_kiss_commentBegin:
 
-基恩是\ :ref:`ニー・ギブン <srw4_pilot_nie_given>`\ （尼）的家臣。仅在\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （加拉利亚）未加入时和尼一起加入。
+基恩是\ :ref:`ニー・ギブン <srw4_pilot_nie_given>`\ （尼）的家臣。仅在\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （嘉拉莉亚・纽姆希）未加入时和尼一起加入。
 
 缺乏圣战士能力导致攻击力低下。但是远程能力属于我军同系\ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ （座间翔）以外最高。如果\ :ref:`ビルバイン <srw4_unit_bilvine>`\ （比尔拜因）闲置，可以让她驾驶。
 
@@ -1296,6 +1305,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_66.png
 
+    .. grid-item:: 英文:Ciela Lapana
     .. grid-item:: 登场/加入:第17话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 70
@@ -1404,7 +1414,7 @@
 
 .. _srw4_pilot_ciela_lapana_commentBegin:
 
-如果\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （加拉利亚）已经加入，希拉会和两个妖精\ :ref:`エル・フィノ <srw4_pilot_el_fino>`\ （艾露）与和\ :ref:`ベル・アール <srw4_pilot_bell_earl>`\ （贝露）之后加入。
+如果\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （嘉拉莉亚・纽姆希）已经加入，谢拉・拉帕纳会和两个妖精\ :ref:`エル・フィノ <srw4_pilot_el_fino>`\ （艾露・菲诺）与和\ :ref:`ベル・アール <srw4_pilot_bell_earl>`\ （贝露）之后加入。
 
 宇宙适应超低，只有D，和机体的B平均下来也只有C。
 
@@ -1430,6 +1440,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_67.png
 
+    .. grid-item:: 英文:Elle Hunm
     .. grid-item:: 登场/加入:第17话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 70
@@ -1538,9 +1549,9 @@
 
 .. _srw4_pilot_elle_hunm_commentBegin:
 
-艾蕾在\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （加拉利亚）没有加入的路线加入。同时获得满足\ :ref:`ニー・ギブン <srw4_pilot_nie_given>`\ （尼）和\（\ :ref:`キーン・キッス <srw4_pilot_keen_kiss>`\ （基恩），并满足条件后还能获得\ :ref:`リムル・ルフト <srw4_pilot_riml_luft>`\ （莉姆露）和\ :ref:`ライネック <srw4_unit_wryneck>`\（莱内克）。
+艾蕾在\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （嘉拉莉亚・纽姆希）没有加入的路线加入。在本作中是\ :ref:`ゴラオン <srw4_missable_goraon>`\（哥拉奥）号舰长。同时获得两个没有圣战士技能的机师\ :ref:`ニー・ギブン <srw4_pilot_nie_given>`\ （尼）和\（\ :ref:`キーン・キッス <srw4_pilot_keen_kiss>`\ （基恩），并满足条件后还能获得\ :ref:`リムル・ルフト <srw4_pilot_riml_luft>`\ （莉姆露）和\ :ref:`ライネック <srw4_unit_wryneck>`\（莱内克）。
 
-二次行动比较早但是对于可以使用地图炮的人来说并不是什么优势。精神配备比较差，只有再动一个还算有用。选择她的话要放弃圣战士\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （加拉利亚）然后获得三个不会圣战士技能的奥拉战士，而且获得的ライネック有点多余，因为我军只有两个圣战士机师。如果不需要培养出\ :ref:`チャム・ファウ <srw4_pilot_chum_huau>`\ （查姆）的奇迹的话我宁愿选择\ :ref:`シーラ・ラパーナ <srw4_pilot_ciela_lapana>`\ （希拉）。
+二次行动比较早但是对于可以使用地图炮的机师来说并不是什么优势。精神配备比较差，只有再动一个还算有用。选择她的话要放弃圣战士嘉拉莉亚然后获得三个不会圣战士技能的奥拉战士，而且获得的ライネック有点多余，因为我军只有两个圣战士机师。如果不需要培养出\ :ref:`チャム・ファウ <srw4_pilot_chum_huau>`\ （查姆）的奇迹的话我宁愿选择\ :ref:`シーラ・ラパーナ <srw4_pilot_ciela_lapana>`\ （谢拉・拉帕纳）。
 
 宇宙适应超低，只有D，和机体的B平均下来也只有C。
 
@@ -1566,6 +1577,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_68.png
 
+    .. grid-item:: 英文:Riml Luft
     .. grid-item:: 登场/加入:第33话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 30
@@ -1678,7 +1690,7 @@
 
 莉姆露在\ :ref:`第三十三话Ａ トータル·バランス <srw4_walkthrough_33a_total_balance>`\ 这一话中尼出击时，会驾驶从敌军强夺的\ :ref:`ライネック <srw4_unit_wryneck>`\（莱内克）作为NPC登场。根据情况变化，她可能作为驾驶员与莱内克一同加入，也可能仅以非战斗员身份单独成为同伴。
 
-作为驾驶员时，她既无圣战士技能又缺乏地形适应性，战力表现平平；作为激励角色时，其SP值偏低同样难以发挥作用。需注意的是，由于加入条件要求所以必须放弃\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （加拉利亚）、\ :ref:`シーラ・ラパーナ <srw4_pilot_ciela_lapana>`\ (希拉)及两名妖精角色。
+作为驾驶员时，她既无圣战士技能又缺乏地形适应性，战力表现平平；作为激励角色时，其SP值偏低同样难以发挥作用。需注意的是，由于加入条件要求所以必须放弃\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （嘉拉莉亚・纽姆希）、\ :ref:`シーラ・ラパーナ <srw4_pilot_ciela_lapana>`\ (谢拉・拉帕纳)及两名妖精角色。
 
 此外，结局后续剧情仅在非战斗员加入时触发。虽可视为某种意义上对原作的尊重，但让实力堪忧的尼出击后刻意击败她的本末倒置流程，导致众多玩家认为"莉姆露是因开发者疏忽而被遗忘后续角色的角色"。要达成此路线，可以直接在其靠近我军时直接用地图武器将其击落。
 
@@ -1713,6 +1725,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_B4.png
 
+    .. grid-item:: 英文:Tod Guines
     .. grid-item:: 登场/加入:第13话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 40
@@ -1836,7 +1849,7 @@
 
 回避和翔一样。攻击力略逊，是非常强力的机师。
 
-\ :ref:`フォウ・ムラサメ <srw4_pilot_four_murasame>`\ 战死的路线有专门的巨大化的剧情\ :ref:`第三十三话Ｂ ビヨン・ザ・トッド <srw4_walkthrough_33b_beyond_the_todd>`\ ，虽然不像\ :ref:`第三十六话 栄光の落日 <srw4_walkthrough_36_glorious_sunset>`\ 这种顶级关卡这么难，对付他也是颇有难度的。
+在\ :ref:`フォウ・ムラサメ <srw4_pilot_four_murasame>`\ （村雨凤）战死的路线有专门的巨大化的剧情\ :ref:`第三十三话Ｂ ビヨン・ザ・トッド <srw4_walkthrough_33b_beyond_the_todd>`\ ，虽然不像\ :ref:`第三十六话 栄光の落日 <srw4_walkthrough_36_glorious_sunset>`\ 这种顶级关卡这么难，对付他也是颇有难度的。
 
 第四次S中增加了命中和回避。切り払い从1级提升到6级。
 
@@ -1860,6 +1873,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_B5.png
 
+    .. grid-item:: 英文:Bern Bunnings
     .. grid-item:: 登场/加入:第13话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 40
@@ -2007,6 +2021,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_B9.png
 
+    .. grid-item:: 英文:Bishot Hatta
     .. grid-item:: 登场/加入:第13话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 40
@@ -2115,7 +2130,7 @@
 
 .. _srw4_pilot_bishot_hatta_commentBegin:
 
-比肖特·哈塔在\ :ref:`第十三话 浮上 <srw4_walkthrough_13_surfacing>`\ 中首次登场。\ :ref:`ドレイク・ルフト <srw4_pilot_drake_luft>`\ （德雷克·卢夫特）的同盟（或许是因为对他的老婆更感兴趣？）。
+比肖特·哈塔在\ :ref:`第十三话 浮上 <srw4_walkthrough_13_surfacing>`\ 中首次登场。\ :ref:`ドレイク・ルフト <srw4_pilot_drake_luft>`\ （德雷克·卢夫特）的同盟（或许是因为对他的老婆\ :ref:`ルーザ・ルフト <srw4_pilot_louser_luft>`\ （罗莎·卢夫特）更感兴趣？）。
 
 作为机师来说，算是平庸的奥拉战士。问题是他只会驾驶战舰\ :ref:`ゲア・ガリング <srw4_unit_gea_garing>`\ （盖尔·加林号）出战，远攻击又差，只能当肉盾。
 
@@ -2141,6 +2156,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_B7.png
 
+    .. grid-item:: 英文:Drake Luft
     .. grid-item:: 登场/加入:第17话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 40
@@ -2275,6 +2291,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_C0.png
 
+    .. grid-item:: 英文:Faye Chenka
     .. grid-item:: 登场/加入:第24话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 40
@@ -2420,6 +2437,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_BE.png
 
+    .. grid-item:: 英文:Jeril Coochibi
     .. grid-item:: 登场/加入:第25话
     .. grid-item:: 性格: 超強気
     .. grid-item:: SP: 40
@@ -2539,7 +2557,7 @@
 
 .. _srw4_pilot_jeril_coochibi_commentBegin:
 
-洁丽露仅在地上路线出现一次，在专有剧情\ :ref:`第二十五话Ｂ ハイパージェリル <srw4_walkthrough_25b_hyper_jerill>`\ 中巨大化后被击倒，战死。
+捷莉露仅在地上路线出现一次，在专有剧情\ :ref:`第二十五话Ｂ ハイパージェリル <srw4_walkthrough_25b_hyper_jerill>`\ 中巨大化后被击倒，战死。
 
 能力略逊于\ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ （座间翔），回避甚至超越翔，是强劲的敌人。
 
@@ -2565,6 +2583,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_BF.png
 
+    .. grid-item:: 英文:Allen Brady
     .. grid-item:: 登场/加入:第25话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 40
@@ -2684,7 +2703,9 @@
 
 .. _srw4_pilot_allen_brady_commentBegin:
 
-亚伦在\ :ref:`第二十四话Ｂ ティターンズ台頭 <srw4_walkthrough_24b_rise_of_the_titans>`\ 中驾驶着夺走的\ :ref:`ビルバイン <srw4_unit_bilvine>`\ （比尔拜因）登场。不过或许因为这台机体原本是调整为\ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ （座间翔）的操纵模式，亚伦操纵不便，所以正在修改成他本人的操纵模式中。在被我军夺回之后，翔不得不花时间调整回原有的操纵模式，以至于在下一话\ :ref:`第二十五话Ｂ ハイパージェリル <srw4_walkthrough_25b_hyper_jerill>`\ 中延迟登场。在以困难度著称的\ :ref:`第三十六话 栄光の落日 <srw4_walkthrough_36_glorious_sunset>`\ 中，他驾驶\ :ref:`ガラバ <srw4_unit_gallaba>`\ （加拉巴）与\ :ref:`フェイ・チェンカ <srw4_pilot_faye_chenka>`\ （费·陈卡），有时还会与\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （加拉利亚）三人联手发动突击。
+阿伦・布雷迪是和捷莉露、费一起被召唤的地上人，原来是美国空军的机师。
+
+在\ :ref:`第二十四话Ｂ ティターンズ台頭 <srw4_walkthrough_24b_rise_of_the_titans>`\ 中驾驶着夺走的\ :ref:`ビルバイン <srw4_unit_bilvine>`\ （比尔拜因）登场。不过或许因为这台机体原本是调整为\ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ （座间翔）的操纵模式，阿伦操纵不便，所以正在修改成他本人的操纵模式中。在被我军夺回之后，翔不得不花时间调整回原有的操纵模式，以至于在下一话\ :ref:`第二十五话Ｂ ハイパージェリル <srw4_walkthrough_25b_hyper_jerill>`\ 中延迟登场。在以困难度著称的\ :ref:`第三十六话 栄光の落日 <srw4_walkthrough_36_glorious_sunset>`\ 中，他驾驶\ :ref:`ガラバ <srw4_unit_gallaba>`\ （加拉巴）与\ :ref:`フェイ・チェンカ <srw4_pilot_faye_chenka>`\ （费·陈卡），有时还会与\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （嘉拉莉亚・纽姆希）三人联手发动突击。
 
 回避比翔还高，攻击力也不弱。因为本作一格射击是采用近攻击能力的原因，即使驾驶加拉巴也威胁颇大。
 
@@ -2711,6 +2732,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_B8.png
 
+    .. grid-item:: 英文:Shot Weapon
     .. grid-item:: 登场/加入:第31话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 40
@@ -2845,6 +2867,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_BB.png
 
+    .. grid-item:: 英文:Muzzy Poe
     .. grid-item:: 登场/加入:第31话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 40
@@ -2964,7 +2987,7 @@
 
 .. _srw4_pilot_muzzy_poe_commentBegin:
 
-波·穆姬是\ :ref:`ドレイク・ルフト <srw4_pilot_drake_luft>`\ （德雷克·卢夫特）的家臣，原本是其女儿\ :ref:`リムル・ルフト <srw4_pilot_riml_luft>`\ （莉姆露）的音乐教师。和\ :ref:`ショット・ウェポン <srw4_pilot_shot_weapon>`\ （秀特·威朋）相爱。经常和他一起登场。座机是\ :ref:`ブブリィ <srw4_unit_bubuly>`\ 。
+波·穆姬是\ :ref:`ドレイク・ルフト <srw4_pilot_drake_luft>`\ （德雷克·卢夫特）的家臣，原本是其女儿\ :ref:`リムル・ルフト <srw4_pilot_riml_luft>`\ （莉姆露）的音乐教师。和\ :ref:`ショット・ウェポン <srw4_pilot_shot_weapon>`\ （秀特·威朋）相爱。经常和他一起登场。座机是\ :ref:`ブブリィ <srw4_unit_bubuly>`\ （布布利）。
 
 虽然攻击高，回避能力欠佳，对付起来比较不费劲。然而第四次S中回避大提20点，一举成为比较难对付的敌人。因为和秀特·威朋的座机经常有受到伤害时双方撤退的设定，频繁成为热血和必中的受害者。
 
@@ -2990,6 +3013,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_B6.png
 
+    .. grid-item:: 英文:Black Knight
     .. grid-item:: 登场/加入:第33话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 40
@@ -3135,6 +3159,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_BA.png
 
+    .. grid-item:: 英文:Louser Luft
     .. grid-item:: 登场/加入:第33话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
@@ -3232,7 +3257,7 @@
 
 .. _srw4_pilot_louser_luft_commentBegin:
 
-\ :ref:`ドレイク・ルフト <srw4_pilot_drake_luft>`\ （德雷克·卢夫特）之妻。也和 \ :ref:`ビショット・ハッタ <srw4_pilot_bishot_hatta>`\ （比肖特）保持不正当关系，试图用他来实现自己的野心。对女儿\ :ref:`リムル・ルフト <srw4_pilot_riml_luft>`\ （莉姆露）无母爱可言。
+罗莎是\ :ref:`ドレイク・ルフト <srw4_pilot_drake_luft>`\ （德雷克·卢夫特）之妻。也和 \ :ref:`ビショット・ハッタ <srw4_pilot_bishot_hatta>`\ （比肖特）保持不正当关系，试图用他来实现自己的野心。对女儿\ :ref:`リムル・ルフト <srw4_pilot_riml_luft>`\ （莉姆露）无母爱可言。
 
 非战斗人员，与比肖特一同乘坐\ :ref:`ゲア・ガリング <srw4_unit_gea_garing>`\ （盖尔·加林号）。在\ :ref:`第三十三话Ｂ ビヨン・ザ・トッド <srw4_walkthrough_33b_beyond_the_todd>`\ 中与比肖特的对话场景是最后一次登场，此后下落不明，并未参与本系最终战\ :ref:`第三十六话 栄光の落日 <srw4_walkthrough_36_glorious_sunset>`\ 。
 
@@ -3257,6 +3282,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_C2.png
 
+    .. grid-item:: 英文:Galamity Manganese
     .. grid-item:: 登场/加入:第33话
     .. grid-item:: 性格: 強気
     .. grid-item:: SP: 40
@@ -3376,7 +3402,7 @@
 
 .. _srw4_pilot_galamity_manganese_commentBegin:
 
-加拉米蒂是库国红色三骑士之一，ダー（达）和ニェット（涅特）的指挥官。角色事典中断言其"怎么看都是\ :ref:`黑色三连星 <srw4_pilot_gaia>`\ 的转世"。
+加拉米蒂是库国红色三骑士之一，\ :ref:`ダー <srw4_pilot_dah>`\ （达）和\ :ref:`ニェット <srw4_pilot_nyett>`\ （涅特）的指挥官。角色事典中断言其"怎么看都是\ :ref:`黑色三连星 <srw4_pilot_gaia>`\ 的转世"。
 
 本作中驾驶\ :ref:`ライネック <srw4_unit_wryneck>`\（莱内克）与\ :ref:`ガラバ <srw4_unit_gallaba>`\ （加拉巴）登场，虽然没有圣战士技能，也是比较有威胁的敌人。
 
@@ -3402,6 +3428,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_C3.png
 
+    .. grid-item:: 英文:Dah
     .. grid-item:: 登场/加入:第33话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 40
@@ -3549,6 +3576,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_C4.png
 
+    .. grid-item:: 英文:Nyett
     .. grid-item:: 登场/加入:第33话
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 40
@@ -3704,6 +3732,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_69.png
 
+    .. grid-item:: 英文:Abe Tamari
     .. grid-item:: 登场/加入:第17话
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 0
@@ -3801,9 +3830,9 @@
 
 .. _srw4_pilot_abe_tamari_commentBegin:
 
-\ :ref:`ゴラオン <srw4_missable_goraon>`\ 的舰长。协助成为女王的\ :ref:`エレ・ハンム <srw4_pilot_elle_hunm>`\ （艾蕾)。
+艾布・塔马里是\ :ref:`ゴラオン <srw4_missable_goraon>`\（哥拉奥） 的舰长。协助成为女王的\ :ref:`エレ・ハンム <srw4_pilot_elle_hunm>`\ （艾蕾)。
 
-非战斗员。和原作一样在\ :ref:`第十七话Ａ オーラマシン展開 (ゴラオン) <srw4_walkthrough_17a_expansion_of_the_aura_machine_goraon>``\ 中驾驶ゴラオン进行自杀性攻击，但是被朗德·贝尔及时赶到阻止。
+非战斗员。和原作一样在\ :ref:`第十七话Ａ オーラマシン展開 (ゴラオン) <srw4_walkthrough_17a_expansion_of_the_aura_machine_goraon>`\ 中驾驶哥拉奥进行自杀性攻击，但是被朗德·贝尔及时赶到阻止。
 
 .. _srw4_pilot_abe_tamari_commentEnd:
 
@@ -3833,6 +3862,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_BC.png
 
+    .. grid-item:: 英文:Zet Light
     .. grid-item:: 性格: 普通
     .. grid-item:: SP: 40
     .. grid-item:: EXP: 210
@@ -3951,11 +3981,11 @@
 
 .. _srw4_pilot_zet_light_commentBegin:
 
-奥拉战士的开发主任，负责人机界面。因为被\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （加拉利亚）色诱，将\ :ref:`バストール <srw4_unit_bastole>`\ （巴斯托）拱手相让。
+奥拉战士的开发主任，负责人机界面。因为被\ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ （嘉拉莉亚・纽姆希）色诱，将\ :ref:`バストール <srw4_unit_bastole>`\ （巴斯托）拱手相让。
 
 作为机师的话，能力相比同系略差，但是第四次S中提升了能力之后也不容小视。
 
-虽然没有参战，但是第四次S中增加了命中和回避。
+虽然没有参战，但是第四次S中仍增加了命中和回避。
 
 .. _srw4_pilot_zet_light_commentEnd:
 
@@ -3977,6 +4007,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_BD.png
 
+    .. grid-item:: 英文:Tolstor Cheshilenko
     .. grid-item:: 性格: 弱気
     .. grid-item:: SP: 30
     .. grid-item:: EXP: 180
