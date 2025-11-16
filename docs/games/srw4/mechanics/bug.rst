@@ -17,11 +17,11 @@ Bug
   * \ :ref:`ダイモス <srw4_unit_daimos>`\ 的必殺烈風正拳突きⓅ
 * 根据其他机器人的加入顺序，\ :ref:`バトロウクラフト <srw4_unit_battle_craft>`\ 与\ :ref:`加斯兰德 <srw4_unit_gust_lander>`\ 等部分单位的武装改造可能无法生效。
 * 兽魔将军的驾驶员系统莫名被设定为艾尔盖姆系列。
-* 第4次S地图\ :ref:`第三十三话Ａ トータル·バランス <srw4_walkthrough_33a_total_balance>`\ 的敌方增援中存在黑骑士驾驶的\ :ref:`加拉巴 <srw4_unit_gallaba>`\ ，但在此地图遭遇时不会被收录至机器人图鉴。
+* 第4次S地图\ :ref:`第三十三话Ａ トータル·バランス <srw4_walkthrough_33a_total_balance>`\ 的敌方增援中存在黒騎士驾驶的\ :ref:`ガラバ <srw4_unit_gallaba>`\ （加拉巴），但在此地图遭遇时不会被收录至机器人图鉴。
 
 * 设定会加入的援军登场前敌全灭，会出各种各样的问题:
 * 
-  * 超级系第一话朗德·贝尔登场前敌全灭（主人公\ :ref:`选有加速的 <srw4_walkthrough_preclude>`），朗德·贝尔队就不会加入，后面特訓！大雪山おろし的时候缺少\ :ref:`ゲッター1 <srw4_unit_getter_1>`\ 
+  * 超级系第一话朗德·贝尔登场前敌全灭（主人公\ :ref:`选有加速的 <srw4_walkthrough_preclude>`\ ），朗德·贝尔队就不会加入，后面特訓！大雪山おろし的时候缺少\ :ref:`ゲッター1 <srw4_unit_getter_1>`\ 
      - Getter 1队，游戏进行不下去。
   * \ :ref:`断空我小队 <srw4_unit_dancouga>`\ 登场那一话在他们登场之前将敌全灭，断空我会以合体状态加入，然后之后忍会驾驶断空我而不是鹰战机登场，只占一个出击名额但是分离出来就有四部机体可以用，这是个有助于速通的bug。
   * \ :doc:`../walkthrough/34a_new_strength`\ 中\ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ （安藤正树）登场之前将敌全灭，他就不会加入，连带的琉妮相关的事件也不会发生。PS版修复。

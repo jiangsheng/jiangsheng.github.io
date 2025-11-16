@@ -94,7 +94,7 @@ Guest units have pretty high monetary award, even for Garoica. But they are high
 
 战斗之前，ダイモス增加武器。
 
-战斗之后，你认为ゲスト可能超出了你可以应付的范围——这里的ゲスト部队明显只是一个分队。而且，你知道了ポセイダル军是ゲスト带到地球上来的。如果考虑到マサキ＝アンドー的关于ＤＣ和ゲスト可能的联合，你所面对的军队可能是一个庞大的ＤＣ——ポセイダル——ゲスト统一阵线。结论是，ロンド・ベル现在面对四个主要敌人：ＤＣ/ポセイダル/ゲスト、ノイエＤＣ、ティターンズ/ドレイク＝ルフト和ガイゾック。因为ノイエＤＣ几乎只在宇宙中活动，而且ガイゾック现在不怎么活跃，所以现在直接的敌人只有两个……
+战斗之后，你认为ゲスト可能超出了你可以应付的范围——这里的ゲスト部队明显只是一个分队。而且，你知道了ポセイダル军是ゲスト带到地球上来的。如果考虑到マサキ＝アンドー的关于ＤＣ和ゲスト可能的联合，你所面对的军队可能是一个庞大的ＤＣ——ポセイダル——ゲスト统一阵线。结论是，ロンド・ベル现在面对四个主要敌人：ＤＣ/ポセイダル/ゲスト、ノイエＤＣ、ティターンズ/ドレイク・ルフト和ガイゾック。因为ノイエＤＣ几乎只在宇宙中活动，而且ガイゾック现在不怎么活跃，所以现在直接的敌人只有两个……
 
 After the battle, Bright decides that the Guest may be more than you can handle—the Guest force here is clearly just a recon team. Furthermore, the Poseidal Army was brought to Earth by the Guest. 
 

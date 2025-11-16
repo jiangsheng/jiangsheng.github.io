@@ -73,24 +73,24 @@
         103→
         160
 
-    .. grid-item:: 53 (51)
-    .. grid-item:: 48
+    .. grid-item:: 53 (52)→52 (51)
+    .. grid-item:: 48 (47)→49
     .. grid-item:: +5
     .. grid-item:: 
 
         130 (143)→
         239 (252)
 
-    .. grid-item:: 67 (64)
-    .. grid-item:: 59
+    .. grid-item:: 67 (69)→71 (72)
+    .. grid-item:: 59 (61)→61 (65)
     .. grid-item:: +10
     .. grid-item:: 
 
         97→
         196
 
-    .. grid-item:: 71 (68)
-    .. grid-item:: 58 (57)
+    .. grid-item:: 71→68
+    .. grid-item:: 58→57
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -113,24 +113,24 @@
         112 (116)→
         174 (178)
 
-    .. grid-item:: 59 (60)
-    .. grid-item:: 49 (51)
+    .. grid-item:: 59 (61)→63
+    .. grid-item:: 49→52 (53)
     .. grid-item:: +10
     .. grid-item:: 
 
         117 (119)→
         216 (218)
 
-    .. grid-item:: 70 (64)
-    .. grid-item:: 58 (56)
+    .. grid-item:: 70 (67)→69 (66)
+    .. grid-item:: 58 (57)→57 (58)
     .. grid-item:: 
     .. grid-item:: 
 
         118→
         217
 
-    .. grid-item:: 67 (63)
-    .. grid-item:: 59 (58)
+    .. grid-item:: 67 (65)→64 (63)
+    .. grid-item:: 59→58
     .. grid-item:: 
 
 .. grid:: 
@@ -226,23 +226,23 @@
         76→
         128
 
-    .. grid-item:: 34 (31)
-    .. grid-item:: 41 (38)
+    .. grid-item:: 34 (33)→32 (31)
+    .. grid-item:: 41→39
     .. grid-item:: 
     .. grid-item:: 
 
         105→
         204
 
-    .. grid-item:: 48 (44)
-    .. grid-item:: 51 (50)
+    .. grid-item:: 48 (46)→45 (44)
+    .. grid-item:: 51 (50)→51
     .. grid-item:: 
     .. grid-item:: 
 
         86→
         185
 
-    .. grid-item:: 48 (46)
+    .. grid-item:: 48→46
     .. grid-item:: 53
     .. grid-item:: 
     .. grid-item::
@@ -266,24 +266,24 @@
         110→
         162
 
-    .. grid-item:: 58 (49)
-    .. grid-item:: 48 (47)
+    .. grid-item:: 58 (56)→51 (49)
+    .. grid-item:: 48
     .. grid-item:: 
     .. grid-item:: 
 
         101→
         200
 
-    .. grid-item:: 51 (46)
-    .. grid-item:: 53 (51)
+    .. grid-item:: 51 (49)→48 (46)
+    .. grid-item:: 53 (51)→52
     .. grid-item:: 
     .. grid-item:: 
 
         100→
         199
 
-    .. grid-item:: 53 (50)
-    .. grid-item:: 53 (52)
+    .. grid-item:: 53 (52)→50
+    .. grid-item:: 53
     .. grid-item:: 
 
 .. grid:: 
@@ -372,23 +372,23 @@
         90→
         142
 
-    .. grid-item:: 44 (40)
-    .. grid-item:: 45 (42)
+    .. grid-item:: 44 (43)→41 (40)
+    .. grid-item:: 45 (44)→43
     .. grid-item:: 
     .. grid-item:: 
 
         108 (118)→
         207 (217)
 
-    .. grid-item:: 50 (46)
-    .. grid-item:: 52 (51)
+    .. grid-item:: 50 (54)→47 (51)
+    .. grid-item:: 52 (54)→52 (55)
     .. grid-item:: 
     .. grid-item:: 
 
         80→
         179
 
-    .. grid-item:: 35 (34)
+    .. grid-item:: 35→34
     .. grid-item:: 51
     .. grid-item:: 
     .. grid-item::
@@ -412,23 +412,23 @@
         107→
         159
 
-    .. grid-item:: 55 (46)
-    .. grid-item:: 48 (46)
+    .. grid-item:: 55 (53)→48 (46)
+    .. grid-item:: 48 (47)→47
     .. grid-item:: 
     .. grid-item:: 
 
         98 (108)→
         197 (207)
 
-    .. grid-item:: 48 (43)
-    .. grid-item:: 52 (50)
+    .. grid-item:: 48 (56)→45 (54)
+    .. grid-item:: 52 (53)→51 (54)
     .. grid-item:: 
     .. grid-item:: 
 
         85→
         184
 
-    .. grid-item:: 41 (39)
+    .. grid-item:: 41→39
     .. grid-item:: 48
     .. grid-item:: 
 
@@ -504,24 +504,24 @@
         100→
         152
 
-    .. grid-item:: 51 (46)
-    .. grid-item:: 47 (46)
+    .. grid-item:: 51 (50)→47 (46)
+    .. grid-item:: 47 (46)→46
     .. grid-item:: 
     .. grid-item:: 
 
         129 (135)→
         228 (234)
 
-    .. grid-item:: 66 (58)
-    .. grid-item:: 58 (56)
+    .. grid-item:: 66 (64)→63 (61)
+    .. grid-item:: 58→58 (59)
     .. grid-item:: 
     .. grid-item:: 
 
         82→
         181
 
-    .. grid-item:: 39 (38)
-    .. grid-item:: 52 (51)
+    .. grid-item:: 39→38
+    .. grid-item:: 52→51
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -544,24 +544,24 @@
         120→
         172
 
-    .. grid-item:: 67 (58)
-    .. grid-item:: 51 (50)
+    .. grid-item:: 67 (65)→61 (58)
+    .. grid-item:: 51 (50)→51
     .. grid-item:: 
     .. grid-item:: 
 
         114 (124)→
         213 (223)
 
-    .. grid-item:: 67 (61)
-    .. grid-item:: 57 (55)
+    .. grid-item:: 67 (72)→65 (72)
+    .. grid-item:: 57 (58)→56 (60)
     .. grid-item:: 
     .. grid-item:: 
 
         121→
         220
 
-    .. grid-item:: 69 (65)
-    .. grid-item:: 60 (59)
+    .. grid-item:: 69 (68)→66 (65)
+    .. grid-item:: 60→59
     .. grid-item:: 
 
 .. grid:: 
@@ -582,6 +582,138 @@
 第四次S中命中和回避上升。
 
 .. _srw4_pilot_lamba_ral_commentEnd:
+
+
+^^^^^^
+ガイア
+^^^^^^
+
+.. _srw4_pilot_gaia:
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        .. image:: ../pilots/images/srw4_pilot_7B.png
+
+    .. grid-item:: 登场/加入:第10话
+    .. grid-item:: 性格: 強気
+    .. grid-item:: SP: 50
+    .. grid-item:: EXP: 196
+    .. grid-item:: 编码 7B
+    .. grid-item:: 地址 B8176 (2BAAE)
+    .. grid-item:: 精神地址 B8187(2BAC0)
+    .. grid-item:: 地形适应 空C陆A海C宇A
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 近攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 回避
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 直感
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        102→
+        154
+
+    .. grid-item:: 53 (52)→48 (47)
+    .. grid-item:: 47
+    .. grid-item:: 
+    .. grid-item:: 
+
+        128 (132)→
+        227 (231)
+
+    .. grid-item:: 66 (62)→62 (59)
+    .. grid-item:: 58→57 (59)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        82→
+        181
+
+    .. grid-item:: 39→38
+    .. grid-item:: 52→51
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 远攻击
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 命中
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item:: 技量
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 成长率
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+
+        117→
+        169
+
+    .. grid-item:: 64 (62)→58 (55)
+    .. grid-item:: 50 (49)→50
+    .. grid-item:: 
+    .. grid-item:: 
+
+        112 (122)→
+        211 (221)
+
+    .. grid-item:: 64 (70)→62 (69)
+    .. grid-item:: 56 (58)→56 (59)
+    .. grid-item:: 
+    .. grid-item:: 
+
+        118→
+        217
+
+    .. grid-item:: 67 (65)→64 (63)
+    .. grid-item:: 59→58
+    .. grid-item:: 
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item::
+        :columns: auto
+
+        根性 1,ド根性 2,熱血 15,加速 5,威圧 14,ひらめき 11
+
+.. _srw4_pilot_gaia_commentBegin:
+
+第四次S中命中和回避上升。
+
+.. _srw4_pilot_gaia_commentEnd:
+
 
 ^^^^^^^^
 マッシュ
@@ -636,24 +768,24 @@
         100→
         152
 
-    .. grid-item:: 51 (46)
-    .. grid-item:: 47 (46)
+    .. grid-item:: 51 (50)→47 (46)
+    .. grid-item:: 47 (46)→46
     .. grid-item:: 
     .. grid-item:: 
 
         127 (131)→
         226 (230)
 
-    .. grid-item:: 65 (57)
-    .. grid-item:: 58 (56)
+    .. grid-item:: 65 (62)→61 (59)
+    .. grid-item:: 58 (57)→57 (58)
     .. grid-item:: 
     .. grid-item:: 
 
         82→
         181
 
-    .. grid-item:: 39 (38)
-    .. grid-item:: 52 (51)
+    .. grid-item:: 39→38
+    .. grid-item:: 52→51
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -676,23 +808,23 @@
         115→
         167
 
-    .. grid-item:: 62 (54)
-    .. grid-item:: 50 (49)
+    .. grid-item:: 62 (60)→56 (54)
+    .. grid-item:: 50 (49)→50
     .. grid-item:: 
     .. grid-item:: 
 
         112 (122)→
         211 (221)
 
-    .. grid-item:: 64 (58)
-    .. grid-item:: 56 (54)
+    .. grid-item:: 64 (70)→62 (69)
+    .. grid-item:: 56 (58)→56 (59)
     .. grid-item:: 
     .. grid-item:: 
 
         117→
         216
 
-    .. grid-item:: 66 (62)
+    .. grid-item:: 66 (65)→63 (62)
     .. grid-item:: 58
     .. grid-item:: 
 
@@ -766,24 +898,24 @@
         98→
         150
 
-    .. grid-item:: 50 (45)
-    .. grid-item:: 46 (45)
+    .. grid-item:: 50 (49)→46 (45)
+    .. grid-item:: 46
     .. grid-item:: 
     .. grid-item:: 
 
         127 (131)→
         226 (230)
 
-    .. grid-item:: 65 (57)
-    .. grid-item:: 58 (56)
+    .. grid-item:: 65 (62)→61 (59)
+    .. grid-item:: 58 (57)→57 (58)
     .. grid-item:: 
     .. grid-item:: 
 
         82→
         181
 
-    .. grid-item:: 39 (38)
-    .. grid-item:: 52 (51)
+    .. grid-item:: 39→38
+    .. grid-item:: 52→51
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -806,23 +938,23 @@
         116→
         168
 
-    .. grid-item:: 63 (54)
-    .. grid-item:: 50 (49)
+    .. grid-item:: 63 (61)→57 (54)
+    .. grid-item:: 50 (49)→50
     .. grid-item:: 
     .. grid-item:: 
 
         112 (122)→
         211 (221)
 
-    .. grid-item:: 64 (58)
-    .. grid-item:: 56 (54)
+    .. grid-item:: 64 (70)→62 (69)
+    .. grid-item:: 56 (58)→56 (59)
     .. grid-item:: 
     .. grid-item:: 
 
         117→
         216
 
-    .. grid-item:: 66 (62)
+    .. grid-item:: 66 (65)→63 (62)
     .. grid-item:: 58
     .. grid-item:: 
 
@@ -897,23 +1029,23 @@
         90→
         142
 
-    .. grid-item:: 44 (40)
-    .. grid-item:: 45 (42)
+    .. grid-item:: 44 (43)→41 (40)
+    .. grid-item:: 45 (44)→43
     .. grid-item:: 
     .. grid-item:: 
 
         105→
         204
 
-    .. grid-item:: 48 (44)
-    .. grid-item:: 51 (50)
+    .. grid-item:: 48 (46)→45 (44)
+    .. grid-item:: 51 (50)→51
     .. grid-item:: 
     .. grid-item:: 
 
         78→
         177
 
-    .. grid-item:: 31 (30)
+    .. grid-item:: 31→30
     .. grid-item:: 50
     .. grid-item:: 
     .. grid-item::
@@ -937,23 +1069,23 @@
         105→
         157
 
-    .. grid-item:: 53 (45)
-    .. grid-item:: 47 (45)
+    .. grid-item:: 53 (51)→46 (45)
+    .. grid-item:: 47 (46)→46
     .. grid-item:: 
     .. grid-item:: 
 
         108→
         207
 
-    .. grid-item:: 60 (54)
-    .. grid-item:: 55 (53)
+    .. grid-item:: 60 (56)→57 (54)
+    .. grid-item:: 55 (53)→54
     .. grid-item:: 
     .. grid-item:: 
 
         107→
         206
 
-    .. grid-item:: 58 (55)
+    .. grid-item:: 58 (57)→55
     .. grid-item:: 55
     .. grid-item:: 
 
@@ -1026,23 +1158,23 @@
         89→
         141
 
-    .. grid-item:: 43 (39)
-    .. grid-item:: 44 (42)
+    .. grid-item:: 43 (42)→40 (39)
+    .. grid-item:: 44→43
     .. grid-item:: 
     .. grid-item:: 
 
         107 (117)→
         206 (216)
 
-    .. grid-item:: 49 (45)
-    .. grid-item:: 52 (50)
+    .. grid-item:: 49 (53)→47 (51)
+    .. grid-item:: 52 (54)→51 (54)
     .. grid-item:: 
     .. grid-item:: 
 
         83→
         182
 
-    .. grid-item:: 41 (40)
+    .. grid-item:: 41→40
     .. grid-item:: 52
     .. grid-item:: 
     .. grid-item::
@@ -1066,23 +1198,23 @@
         90→
         142
 
-    .. grid-item:: 39 (31)
-    .. grid-item:: 43 (40)
+    .. grid-item:: 39 (37)→31
+    .. grid-item:: 43→41
     .. grid-item:: 
     .. grid-item:: 
 
         102→
         201
 
-    .. grid-item:: 53 (47)
-    .. grid-item:: 53 (51)
+    .. grid-item:: 53 (50)→50 (47)
+    .. grid-item:: 53 (52)→53
     .. grid-item:: 
     .. grid-item:: 
 
         76→
         175
 
-    .. grid-item:: 34 (32)
+    .. grid-item:: 34 (35)→32
     .. grid-item:: 45
     .. grid-item:: 
 
@@ -1102,136 +1234,6 @@
 第四次S中回避上升。
 
 .. _srw4_pilot_claure_jamon_commentEnd:
-
-^^^^^^
-ガイア
-^^^^^^
-
-.. _srw4_pilot_gaia:
-
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item::
-        :columns: auto
-
-        .. image:: ../pilots/images/srw4_pilot_7B.png
-
-    .. grid-item:: 登场/加入:第20话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 196
-    .. grid-item:: 编码 7B
-    .. grid-item:: 地址 B8176 (2BAAE)
-    .. grid-item:: 精神地址 B8187(2BAC0)
-    .. grid-item:: 地形适应 空C陆A海C宇A
-
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 近攻击
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 回避
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 直感
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 
-
-        102→
-        154
-
-    .. grid-item:: 53 (47)
-    .. grid-item:: 47 (46)
-    .. grid-item:: 
-    .. grid-item:: 
-
-        128 (132)→
-        227 (231)
-
-    .. grid-item:: 66 (57)
-    .. grid-item:: 58 (56)
-    .. grid-item:: 
-    .. grid-item:: 
-
-        82→
-        181
-
-    .. grid-item:: 39 (38)
-    .. grid-item:: 52 (51)
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 远攻击
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 命中
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 技量
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 
-
-        117→
-        169
-
-    .. grid-item:: 64 (55)
-    .. grid-item:: 50 (49)
-    .. grid-item:: 
-    .. grid-item:: 
-
-        112 (122)→
-        211 (221)
-
-    .. grid-item:: 64 (58)
-    .. grid-item:: 56 (54)
-    .. grid-item:: 
-    .. grid-item:: 
-
-        118→
-        217
-
-    .. grid-item:: 67 (63)
-    .. grid-item:: 59 (58)
-    .. grid-item:: 
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item::
-        :columns: auto
-
-        根性 1,ド根性 2,熱血 15,加速 5,威圧 14,ひらめき 11
-
-.. _srw4_pilot_gaia_commentBegin:
-
-第四次S中命中和回避上升。
-
-.. _srw4_pilot_gaia_commentEnd:
 
 ^^^^^^^^^^^^^^
 シャリア・ブル
@@ -1286,23 +1288,23 @@
         87→
         139
 
-    .. grid-item:: 42 (38)
-    .. grid-item:: 44 (42)
+    .. grid-item:: 42 (41)→39 (38)
+    .. grid-item:: 44 (43)→42
     .. grid-item:: 
     .. grid-item:: 
 
         125 (135)→
         224 (234)
 
-    .. grid-item:: 63 (55)
-    .. grid-item:: 57 (55)
+    .. grid-item:: 63 (64)→60 (61)
+    .. grid-item:: 57 (58)→57 (59)
     .. grid-item:: 
     .. grid-item:: 
 
         94→
         193
 
-    .. grid-item:: 64 (62)
+    .. grid-item:: 64→62
     .. grid-item:: 56
     .. grid-item:: 
     .. grid-item::
@@ -1326,24 +1328,24 @@
         114→
         166
 
-    .. grid-item:: 61 (53)
-    .. grid-item:: 49 (48)
+    .. grid-item:: 61 (59)→55 (53)
+    .. grid-item:: 49
     .. grid-item:: 
     .. grid-item:: 
 
         112 (122)→
         211 (221)
 
-    .. grid-item:: 64 (58)
-    .. grid-item:: 56 (54)
+    .. grid-item:: 64 (70)→62 (69)
+    .. grid-item:: 56 (58)→56 (59)
     .. grid-item:: 
     .. grid-item:: 
 
         116→
         215
 
-    .. grid-item:: 65 (61)
-    .. grid-item:: 58 (57)
+    .. grid-item:: 65 (64)→62 (61)
+    .. grid-item:: 58
     .. grid-item:: 
 
 .. grid:: 
@@ -1435,24 +1437,24 @@
         78→
         130
 
-    .. grid-item:: 36 (32)
-    .. grid-item:: 42 (39)
+    .. grid-item:: 36 (35)→33 (32)
+    .. grid-item:: 42 (41)→39
     .. grid-item:: 
     .. grid-item:: 
 
         104→
         203
 
-    .. grid-item:: 47 (43)
-    .. grid-item:: 51 (50)
+    .. grid-item:: 47 (45)→44 (43)
+    .. grid-item:: 51 (50)→51
     .. grid-item:: 
     .. grid-item:: 
 
         82→
         181
 
-    .. grid-item:: 39 (38)
-    .. grid-item:: 52 (51)
+    .. grid-item:: 39→38
+    .. grid-item:: 52→51
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -1475,24 +1477,24 @@
         82→
         134
 
-    .. grid-item:: 31 (24)
-    .. grid-item:: 41 (37)
+    .. grid-item:: 31 (30)→23 (24)
+    .. grid-item:: 41→38
     .. grid-item:: 
     .. grid-item:: 
 
         92→
         191
 
-    .. grid-item:: 41 (36)
-    .. grid-item:: 50 (48)
+    .. grid-item:: 41 (40)→37 (36)
+    .. grid-item:: 50 (49)→49
     .. grid-item:: 
     .. grid-item:: 
 
         80→
         179
 
-    .. grid-item:: 37 (35)
-    .. grid-item:: 47 (46)
+    .. grid-item:: 37→35
+    .. grid-item:: 47→46
     .. grid-item:: 
 
 .. grid:: 
@@ -1567,15 +1569,15 @@
         236→
         255
 
-    .. grid-item:: 149 (111)
-    .. grid-item:: 80 (78)
+    .. grid-item:: 149 (145)→114 (111)
+    .. grid-item:: 80→78
     .. grid-item:: 
     .. grid-item:: 
 
         0→
         99
 
-    .. grid-item:: -34 (-17)
+    .. grid-item:: -34 (-18)→-33 (-17)
     .. grid-item:: 21
     .. grid-item:: 
     .. grid-item:: 
@@ -1583,7 +1585,7 @@
         0→
         99
 
-    .. grid-item:: -132 (-127)
+    .. grid-item:: -132→-126 (-127)
     .. grid-item:: 19
     .. grid-item:: 
     .. grid-item::
@@ -1607,15 +1609,15 @@
         236→
         255
 
-    .. grid-item:: 176 (132)
-    .. grid-item:: 80 (79)
+    .. grid-item:: 176 (169)→142 (132)
+    .. grid-item:: 80→79
     .. grid-item:: 
     .. grid-item:: 
 
         0→
         99
 
-    .. grid-item:: -65
+    .. grid-item:: -65 (-51)→-80 (-65)
     .. grid-item:: 20
     .. grid-item:: 
     .. grid-item:: 
@@ -1623,7 +1625,7 @@
         0→
         99
 
-    .. grid-item:: -25 (-23)
+    .. grid-item:: -25 (-21)→-26 (-23)
     .. grid-item:: 21
     .. grid-item:: 
 
@@ -1694,15 +1696,15 @@
         236→
         255
 
-    .. grid-item:: 149 (111)
-    .. grid-item:: 80 (78)
+    .. grid-item:: 149 (145)→114 (111)
+    .. grid-item:: 80→78
     .. grid-item:: 
     .. grid-item:: 
 
         0→
         99
 
-    .. grid-item:: -34 (-17)
+    .. grid-item:: -34 (-18)→-33 (-17)
     .. grid-item:: 21
     .. grid-item:: 
     .. grid-item:: 
@@ -1710,7 +1712,7 @@
         0→
         99
 
-    .. grid-item:: -132 (-127)
+    .. grid-item:: -132→-126 (-127)
     .. grid-item:: 19
     .. grid-item:: 
     .. grid-item::
@@ -1734,15 +1736,15 @@
         236→
         255
 
-    .. grid-item:: 176 (132)
-    .. grid-item:: 80 (79)
+    .. grid-item:: 176 (169)→142 (132)
+    .. grid-item:: 80→79
     .. grid-item:: 
     .. grid-item:: 
 
         0→
         99
 
-    .. grid-item:: -65
+    .. grid-item:: -65 (-51)→-80 (-65)
     .. grid-item:: 20
     .. grid-item:: 
     .. grid-item:: 
@@ -1750,7 +1752,7 @@
         0→
         99
 
-    .. grid-item:: -25 (-23)
+    .. grid-item:: -25 (-21)→-26 (-23)
     .. grid-item:: 21
     .. grid-item:: 
 
@@ -1812,23 +1814,23 @@
         74→
         126
 
-    .. grid-item:: 33 (30)
-    .. grid-item:: 41 (37)
+    .. grid-item:: 33 (32)→30
+    .. grid-item:: 41 (40)→38
     .. grid-item:: 
     .. grid-item:: 
 
         105→
         204
 
-    .. grid-item:: 48 (44)
-    .. grid-item:: 51 (50)
+    .. grid-item:: 48 (46)→45 (44)
+    .. grid-item:: 51 (50)→51
     .. grid-item:: 
     .. grid-item:: 
 
         81→
         180
 
-    .. grid-item:: 37 (36)
+    .. grid-item:: 37→36
     .. grid-item:: 51
     .. grid-item:: 
     .. grid-item::
@@ -1852,24 +1854,24 @@
         107→
         159
 
-    .. grid-item:: 55 (46)
-    .. grid-item:: 48 (46)
+    .. grid-item:: 55 (53)→48 (46)
+    .. grid-item:: 48 (47)→47
     .. grid-item:: 
     .. grid-item:: 
 
         90→
         189
 
-    .. grid-item:: 39 (34)
-    .. grid-item:: 49 (48)
+    .. grid-item:: 39 (38)→34
+    .. grid-item:: 49 (48)→49
     .. grid-item:: 
     .. grid-item:: 
 
         80→
         179
 
-    .. grid-item:: 37 (35)
-    .. grid-item:: 47 (46)
+    .. grid-item:: 37→35
+    .. grid-item:: 47→46
     .. grid-item:: 
 
 .. grid:: 
@@ -1941,23 +1943,23 @@
         74→
         126
 
-    .. grid-item:: 33 (30)
-    .. grid-item:: 41 (37)
+    .. grid-item:: 33 (32)→30
+    .. grid-item:: 41 (40)→38
     .. grid-item:: 
     .. grid-item:: 
 
         105→
         204
 
-    .. grid-item:: 48 (44)
-    .. grid-item:: 51 (50)
+    .. grid-item:: 48 (46)→45 (44)
+    .. grid-item:: 51 (50)→51
     .. grid-item:: 
     .. grid-item:: 
 
         81→
         180
 
-    .. grid-item:: 37 (36)
+    .. grid-item:: 37→36
     .. grid-item:: 51
     .. grid-item:: 
     .. grid-item::
@@ -1981,24 +1983,24 @@
         108→
         160
 
-    .. grid-item:: 56 (47)
-    .. grid-item:: 48 (46)
+    .. grid-item:: 56 (54)→49 (47)
+    .. grid-item:: 48 (47)→47
     .. grid-item:: 
     .. grid-item:: 
 
         90→
         189
 
-    .. grid-item:: 39 (34)
-    .. grid-item:: 49 (48)
+    .. grid-item:: 39 (38)→34
+    .. grid-item:: 49 (48)→49
     .. grid-item:: 
     .. grid-item:: 
 
         80→
         179
 
-    .. grid-item:: 37 (35)
-    .. grid-item:: 47 (46)
+    .. grid-item:: 37→35
+    .. grid-item:: 47→46
     .. grid-item:: 
 
 .. grid:: 
@@ -2070,23 +2072,23 @@
         86→
         138
 
-    .. grid-item:: 41 (37)
-    .. grid-item:: 44 (41)
+    .. grid-item:: 41 (40)→38 (37)
+    .. grid-item:: 44 (43)→42
     .. grid-item:: 
     .. grid-item:: 
 
         126→
         225
 
-    .. grid-item:: 64 (56)
-    .. grid-item:: 57 (56)
+    .. grid-item:: 64 (59)→61 (56)
+    .. grid-item:: 57 (56)→57
     .. grid-item:: 
     .. grid-item:: 
 
         96→
         195
 
-    .. grid-item:: 69 (66)
+    .. grid-item:: 69→66
     .. grid-item:: 57
     .. grid-item:: 
     .. grid-item::
@@ -2110,24 +2112,24 @@
         110→
         162
 
-    .. grid-item:: 58 (49)
-    .. grid-item:: 48 (47)
+    .. grid-item:: 58 (56)→51 (49)
+    .. grid-item:: 48
     .. grid-item:: 
     .. grid-item:: 
 
         113 (121)→
         212 (220)
 
-    .. grid-item:: 65 (59)
-    .. grid-item:: 56 (55)
+    .. grid-item:: 65 (69)→64 (68)
+    .. grid-item:: 56 (57)→56 (59)
     .. grid-item:: 
     .. grid-item:: 
 
         102→
         201
 
-    .. grid-item:: 54 (51)
-    .. grid-item:: 54 (53)
+    .. grid-item:: 54→52 (51)
+    .. grid-item:: 54→53
     .. grid-item:: 
 
 .. grid:: 

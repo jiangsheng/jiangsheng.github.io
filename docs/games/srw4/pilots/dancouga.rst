@@ -18,7 +18,8 @@
 --------
 .. _srw4_pilots_dancouga_own_commentBegin:
 
-[第四次]虽然机师数值不错，但是陆地和宇宙适应都是B，造成断空我的能力最终是BBCB，在任何地形都不能完全发挥，经常在和コンバトラV队二选一的时候被淘汰。
+[第四次]虽然机师数值不错，但是陆地和宇宙适应都是B，造成断空我的能力最终是BBCB，在任何地形都不能完全发挥，经常在和コンバトラーV队二选一的时候被淘汰。
+
 [第四次S]现在不会和超电磁队二选一了，地形适应有所改善，加上整个小队都有气合和热血，有EN回复地形的话开场连烧三个気合放断空炮还是很恐怖的。
 
 .. _srw4_pilots_dancouga_own_commentEnd:
@@ -76,23 +77,23 @@
         105→
         172
 
-    .. grid-item:: 55 (59)
-    .. grid-item:: 48 (52)
+    .. grid-item:: 55 (54)→60 (59)
+    .. grid-item:: 48→53
     .. grid-item:: +15
     .. grid-item:: 
 
         104→
         208
 
-    .. grid-item:: 47 (46)
-    .. grid-item:: 51
+    .. grid-item:: 47 (45)→48 (46)
+    .. grid-item:: 51 (50)→52
     .. grid-item:: +5
     .. grid-item:: 
 
         85→
         184
 
-    .. grid-item:: 46 (44)
+    .. grid-item:: 46→44
     .. grid-item:: 53
     .. grid-item:: 
     .. grid-item::
@@ -116,24 +117,24 @@
         104→
         171
 
-    .. grid-item:: 52 (57)
-    .. grid-item:: 47 (50)
+    .. grid-item:: 52 (50)→60 (57)
+    .. grid-item:: 47 (46)→51
     .. grid-item:: +15
     .. grid-item:: 
 
         92→
         196
 
-    .. grid-item:: 41 (42)
-    .. grid-item:: 50
+    .. grid-item:: 41 (40)→43 (42)
+    .. grid-item:: 50 (49)→51
     .. grid-item:: +5
     .. grid-item:: 
 
         88→
         192
 
-    .. grid-item:: 43 (45)
-    .. grid-item:: 49 (50)
+    .. grid-item:: 43→45
+    .. grid-item:: 49→50
     .. grid-item:: +5
 
 .. grid:: 
@@ -149,9 +150,13 @@
 
 .. _srw4_pilot_shinobu_fujiwara_commentBegin:
 
-导致开局断空我无法合体的罪魁祸首。和机体一样，忍也是远近均衡的机师。命中率是个问题。技量低导致后期被小兵暴击问题更大，还好沙羅有铁壁。
+不守军纪，导致开局断空我无法合体的罪魁祸首。\ :ref:`イーグルファイターN <srw4_unit_eagle_fighter_n>`\ （鹰战机）和 \ :ref:`ダンクーガ <srw4_unit_dancouga>`\ （断空我）的驾驶员，似乎不会用敬语。
 
-有激怒，需要赶时间收白河愁的时候很有用，尽管大作是更好的平替，但是会去地上路线，走宇宙路线的话，会激怒的只有忍和主人公（可能）。加速的精神很有必要，不过第四次S里换成魂了。
+和机体一样，忍也是远近均衡的机师。命中率是个问题。技量低导致后期被小兵暴击问题更大，还好\ :ref:`結城沙羅 <srw4_pilot_sara_yuki>`\ 有铁壁。
+
+有\ :ref:`激怒 <srw4_mechanics_sprit_command>`\ ，需要\ :ref:`赶时间收白河愁 <srw4_missable_shuu>`\ 的时候很有用，尽管\ :ref:`西川大作 <srw4_pilot_daisaku_nishikawa>`\ 是更好的平替，但是会被分去地上路线，走宇宙路线的话，会激怒的只有忍和\ :ref:`主人公 <srw4_walkthrough_preclude>`\ （可能）。另外，因为驾驶的两个机体共享改造段数，分离作战时战力并不差，赶时间的时候分离作战也很有威力。
+
+第四次S中新增语音，陆地和宇宙适应都提升到了A，战斗力大大增加，也不再需要和\ :ref:`コンバトラーV <srw4_pilots_combattler_v>`\ 队二选一离队，所以可以放心培养。加速的精神很有必要，不过第四次S里换成魂了，现在可能需要加装\ :ref:`移动力芯片 <srw4_items>`\ 。
 
 .. _srw4_pilot_shinobu_fujiwara_commentEnd:
 
@@ -208,24 +213,24 @@
         98→
         165
 
-    .. grid-item:: 50 (54)
-    .. grid-item:: 46 (50)
+    .. grid-item:: 50 (49)→56 (54)
+    .. grid-item:: 46→50
     .. grid-item:: +15
     .. grid-item:: 
 
         103→
         207
 
-    .. grid-item:: 46
-    .. grid-item:: 51
+    .. grid-item:: 46 (45)→47 (46)
+    .. grid-item:: 51 (50)→52
     .. grid-item:: +5
     .. grid-item:: 
 
         87→
         186
 
-    .. grid-item:: 50 (48)
-    .. grid-item:: 54 (53)
+    .. grid-item:: 50→48
+    .. grid-item:: 54→53
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -248,24 +253,24 @@
         85→
         152
 
-    .. grid-item:: 34 (40)
-    .. grid-item:: 42 (44)
+    .. grid-item:: 34 (33)→41 (40)
+    .. grid-item:: 42 (41)→45
     .. grid-item:: +15
     .. grid-item:: 
 
         92→
         196
 
-    .. grid-item:: 41 (42)
-    .. grid-item:: 50
+    .. grid-item:: 41 (40)→43 (42)
+    .. grid-item:: 50 (49)→51
     .. grid-item:: +5
     .. grid-item:: 
 
         82→
         186
 
-    .. grid-item:: 39 (40)
-    .. grid-item:: 47 (48)
+    .. grid-item:: 39→40
+    .. grid-item:: 47→49
     .. grid-item:: +5
 
 .. grid:: 
@@ -281,10 +286,11 @@
 
 .. _srw4_pilot_sara_yuki_commentBegin:
 
+本作没有シャピロ(夏皮罗)所以她也没有什么存在感。合体之前整个小队都可以不用拿经验，合体之后可以拿四份经验值。
 
-本作没有シャピロ所以她也没有什么存在感。
+具有独立战力，需要\ :ref:`赶时间收白河愁 <srw4_missable_shuu>`\ 的时候很有用，战场上分离出来可以省三个出击位。能力略差，地形适应也差，不过好在机体皮糙肉厚。
 
-幸运比コンバトラV队出得早，断空我队就靠她升级了。合体之前整个小队都可以不用拿经验，合体之后可以拿四份经验值。如果不是断空我油耗太高的话，靠她的铁壁也可以开无双。
+后期出击机体多了就无法分离了。作为副机师来说，幸运比\ :ref:`南原ちずる <srw4_pilot_chizuru_nanbara>`\ 出得早，断空我队就靠她升级了。如果不是断空我油耗太高的话，靠她的铁壁也可以开无双。
 
 .. _srw4_pilot_sara_yuki_commentEnd:
 
@@ -341,23 +347,23 @@
         98→
         165
 
-    .. grid-item:: 50 (54)
-    .. grid-item:: 46 (50)
+    .. grid-item:: 50 (49)→56 (54)
+    .. grid-item:: 46→50
     .. grid-item:: +15
     .. grid-item:: 
 
         104→
         208
 
-    .. grid-item:: 47 (46)
-    .. grid-item:: 51
+    .. grid-item:: 47 (45)→48 (46)
+    .. grid-item:: 51 (50)→52
     .. grid-item:: +5
     .. grid-item:: 
 
         84→
         183
 
-    .. grid-item:: 44 (42)
+    .. grid-item:: 44 (43)→42
     .. grid-item:: 52
     .. grid-item:: 
     .. grid-item::
@@ -381,24 +387,24 @@
         86→
         153
 
-    .. grid-item:: 35 (41)
-    .. grid-item:: 42 (44)
+    .. grid-item:: 35 (34)→42 (41)
+    .. grid-item:: 42→45
     .. grid-item:: +15
     .. grid-item:: 
 
         90→
         194
 
-    .. grid-item:: 39 (40)
-    .. grid-item:: 49
+    .. grid-item:: 39 (38)→41 (40)
+    .. grid-item:: 49 (48)→50
     .. grid-item:: +5
     .. grid-item:: 
 
         80→
         184
 
-    .. grid-item:: 37 (39)
-    .. grid-item:: 47 (48)
+    .. grid-item:: 37→39
+    .. grid-item:: 47→48
     .. grid-item:: +5
 
 .. grid:: 
@@ -414,7 +420,9 @@
 
 .. _srw4_pilot_masato_shikibu_commentBegin:
 
-有激励，这个是比コンバトラV队强的地方，但是用地图炮刷级的话，大量创造激励机师更容易。因为精神比较没有用，他也负责本队的气合。
+机体具有独立战力，需要\ :ref:`赶时间收白河愁 <srw4_missable_shuu>`\ 的时候很有用，战场上分离出来可以省三个出击位。能力略差，地形适应也差，不过好在机体皮糙肉厚。
+
+有激励，这个是比\ :ref:`コンバトラーV <srw4_pilots_combattler_v>`\ 队强的地方，但是用地图炮刷级的话，大量创造激励机师更容易。因为精神比较重复，他也负责本队的气合。
 
 .. _srw4_pilot_masato_shikibu_commentEnd:
 
@@ -471,23 +479,23 @@
         105→
         172
 
-    .. grid-item:: 55 (59)
-    .. grid-item:: 48 (52)
+    .. grid-item:: 55 (54)→60 (59)
+    .. grid-item:: 48→53
     .. grid-item:: +15
     .. grid-item:: 
 
         102 (112)→
         206 (216)
 
-    .. grid-item:: 45
-    .. grid-item:: 50
+    .. grid-item:: 45 (50)→47 (51)
+    .. grid-item:: 50 (52)→51 (54)
     .. grid-item:: +5
     .. grid-item:: 
 
         86→
         185
 
-    .. grid-item:: 48 (46)
+    .. grid-item:: 48→46
     .. grid-item:: 53
     .. grid-item:: 
     .. grid-item::
@@ -511,24 +519,24 @@
         92→
         159
 
-    .. grid-item:: 41 (46)
-    .. grid-item:: 44 (46)
+    .. grid-item:: 41 (39)→48 (46)
+    .. grid-item:: 44 (43)→47
     .. grid-item:: +15
     .. grid-item:: 
 
         91→
         195
 
-    .. grid-item:: 40 (41)
-    .. grid-item:: 49
+    .. grid-item:: 40 (39)→42 (41)
+    .. grid-item:: 49 (48)→51
     .. grid-item:: +5
     .. grid-item:: 
 
         91→
         195
 
-    .. grid-item:: 46 (47)
-    .. grid-item:: 50 (51)
+    .. grid-item:: 46→47
+    .. grid-item:: 50→51
     .. grid-item:: +5
 
 .. grid:: 
@@ -544,9 +552,11 @@
 
 .. _srw4_pilot_ryo_shiba_commentBegin:
 
-てかげん这个精神是摆好看的，忍的技量值太低……这大概是在PS版中进一步上调了他的技量值的原因？笑~
+机体具有独立战力，需要\ :ref:`赶时间收白河愁 <srw4_missable_shuu>`\ 的时候很有用，战场上分离出来可以省三个出击位。能力略差，地形适应也差，不过好在机体皮糙肉厚。
 
-因为精神比较没有用，他也负责本队的气合，直到后期学会觉醒。
+作为副机师来说，てかげん这个精神是摆好看的，忍的技量值太低。因为精神比较没有用，他也负责本队的气合，直到后期学会觉醒。
+
+第四次S中增加了回避（然而后期分离失效，也就前期有用）
 
 .. _srw4_pilot_ryo_shiba_commentEnd:
 

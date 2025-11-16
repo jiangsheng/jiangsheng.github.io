@@ -37,12 +37,12 @@ While Team B is preparing for space operations in Hong Kong, Team A receives a r
 * ヤクト・ドーガ(量産型)（ゲーツ＝キャパ）
 * ハンマ・ハンマ（ライラ=ミラ=ライラ）
 * バウ（MS）（ベン＝ウッダー）
-* バウ（MS）パイアラン ×3
+* バウ（MS）
+* パイアラン ×3
 * ガブスレイ（MS）
-* ガブスレイ(MA)
-* ガブスレイ(MA)
+* ガブスレイ (MA) x2
 * ハンマ・ハンマ
-* ドライセン ×2
+* ドライセン ×2 (x1)
 * R・ジャジャ
 * ガルスJ
 
@@ -51,8 +51,8 @@ While Team B is preparing for space operations in Hong Kong, Team A receives a r
 --------------
 #. 援军1
 
-   * ウィル・ウィプス（ドレイク＝ルフト）
-   * ゲア・ガリング（ビショット＝ハッタ）
+   * ウィル・ウィプス（ドレイク・ルフト）
+   * ゲア・ガリング（ビショット・ハッタ）
    * ガラバ（ガラリア＝ニャムヒー） （如果没有加入）
    * ガラバ（アレン＝ブレディ）
    * ガラバ（フェイ＝チェンカ）
@@ -62,9 +62,9 @@ While Team B is preparing for space operations in Hong Kong, Team A receives a r
 #. 援军2
    * スプリガン（ショット＝ウェポン）
    * ブブリィ（ミュージィ＝ポー）
-   * ガラバ（黒騎士）
-   * ガラバ（ガラミティ＝マンガン）
-   * ガラバ（ダー）
+   * [仅SRW4]ガラバ（黒騎士）
+   * ガラバ（\ :ref:`ガラミティ・マンガン <srw4_pilot_galamity_manganese>`\ ）
+   * ガラバ（\ :ref:`ダー <srw4_pilot_dah>`\ ）
    * ガラバ（ニェット）
    * ライネック
    * ズワァース ×3
@@ -84,7 +84,7 @@ While Team B is preparing for space operations in Hong Kong, Team A receives a r
 事件
 -------------
 
-* 第三回合 ドレイク＝ルフト和ビショット＝ハッタ来试图挽救他们在地上世界唯一的盟军。
+* 第三回合 ドレイク・ルフト和ビショット・ハッタ来试图挽救他们在地上世界唯一的盟军。
 * 第四回合开始，如果在敌方回合开始时地方数量小于20，那么敌方援军2
 * 如果清关时主人公和副主人公都在战场上，那么\ :doc:`../mechanics/love_points`\ +1。否则恋爱度-1。
 
@@ -93,7 +93,7 @@ While Team B is preparing for space operations in Hong Kong, Team A receives a r
 其他
 -------------
 
-战斗之后，チャック＝キース和モーラ＝バシット进入基地搜索，发现了被ハマーン＝カーン刺杀的ジャミトフ・ハイマン中将。虽然消灭了ティターンズ和ドレイク＝ルフト军是好事，但是这也意味着和ノイエＤＣ的互不侵犯条约过期。
+战斗之后，チャック＝キース和モーラ＝バシット进入基地搜索，发现了被ハマーン＝カーン刺杀的ジャミトフ・ハイマン中将。虽然消灭了ティターンズ和ドレイク・ルフト军是好事，但是这也意味着和ノイエＤＣ的互不侵犯条约过期。
 
 After the battle, Chuck Keith and Mora Boscht entered the base to search and found that Lieutenant General Jamitov Hymem had been assassinated by Haman Karn. Although it was good to eliminate the Titans and Drake Luft armies, it also meant that the non-aggression pact with New DC had expired.
 

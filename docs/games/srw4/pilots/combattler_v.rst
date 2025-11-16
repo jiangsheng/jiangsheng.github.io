@@ -18,7 +18,7 @@
 --------
 .. _srw4_pilots_combattler_v_own_commentBegin:
 
-朗德·贝尔在上一次大战中因地上人召唤事件导致大量成员无故缺席，以至于被惩缩编，孔巴特拉V小队被迫加入提坦斯沦为边缘角色。在选择没有恋人的路线的\ :ref:`救出!コンバトラV <srw4_walkthrough_06b_rescue_combattler_v>`\ 中虽然可以见面，但是并不会立刻加入我军，所以不要浪费经验值在本小队身上。在\ :ref:`第十五话 ミーアの決意 <srw4_walkthrough_15_mia_s_decision>`\ 中正式加入我军。第四次中在\ :ref:`第三十二话 ダカールの日 <srw4_walkthrough_33a_total_balance>`\ 之后，因为需要战力，可能被玩家派往奥古支援，不再返回。第四次S没有离队事件。
+朗德·贝尔在上一次大战中因地上人召唤事件导致大量成员无故缺席，以至于被惩缩编，孔巴特拉V小队被迫加入提坦斯沦为边缘角色。在选择没有恋人的路线的\ :ref:`救出!コンバトラーV <srw4_walkthrough_06b_rescue_combattler_v>`\ 中虽然可以见面，但是并不会立刻加入我军，所以不要浪费经验值在本小队身上。在\ :ref:`第十五话 ミーアの決意 <srw4_walkthrough_15_mia_s_decision>`\ 中正式加入我军。第四次中在\ :ref:`第三十二话 ダカールの日 <srw4_walkthrough_33a_total_balance>`\ 之后，因为需要战力，可能被玩家派往奥古支援，不再返回。第四次S没有离队事件。
 
 本作中新增的多座机器人机制代表，能够使用五人份精神，无疑是巨大优势。大作和豹馬的精神有点重复，所以豹馬可以把SP省下来用覚醒。大作的激怒也是速通的好帮手。缺点是南原ちづる的幸运学得比较慢。
 
@@ -79,23 +79,23 @@
         112→
         179
 
-    .. grid-item:: 60 (63)
-    .. grid-item:: 50 (54)
+    .. grid-item:: 60 (59)→65 (63)
+    .. grid-item:: 50 (49)→55
     .. grid-item:: +15
     .. grid-item:: 
 
         90→
         194
 
-    .. grid-item:: 36 (38)
-    .. grid-item:: 47
+    .. grid-item:: 36 (37)→38
+    .. grid-item:: 47 (46)→48
     .. grid-item:: +5
     .. grid-item:: 
 
         83→
         182
 
-    .. grid-item:: 41 (40)
+    .. grid-item:: 41→40
     .. grid-item:: 52
     .. grid-item:: 
     .. grid-item::
@@ -119,24 +119,24 @@
         92→
         149
 
-    .. grid-item:: 41 (37)
-    .. grid-item:: 44 (43)
+    .. grid-item:: 41 (39)→38 (37)
+    .. grid-item:: 44 (43)→44
     .. grid-item:: +5
     .. grid-item:: 
 
         90→
         194
 
-    .. grid-item:: 39 (40)
-    .. grid-item:: 49
+    .. grid-item:: 39 (38)→41 (40)
+    .. grid-item:: 49 (48)→50
     .. grid-item:: +5
     .. grid-item:: 
 
         84→
         188
 
-    .. grid-item:: 40 (42)
-    .. grid-item:: 48 (49)
+    .. grid-item:: 40→42
+    .. grid-item:: 48→49
     .. grid-item:: +5
 
 .. grid:: 
@@ -226,24 +226,24 @@
         90→
         152
 
-    .. grid-item:: 44 (46)
-    .. grid-item:: 45 (46)
+    .. grid-item:: 44 (43)→47 (46)
+    .. grid-item:: 45 (44)→46
     .. grid-item:: +10
     .. grid-item:: 
 
         84→
         188
 
-    .. grid-item:: 31 (35)
-    .. grid-item:: 45
+    .. grid-item:: 31 (33)→33 (35)
+    .. grid-item:: 45 (44)→46
     .. grid-item:: +5
     .. grid-item:: 
 
         82→
         181
 
-    .. grid-item:: 39 (38)
-    .. grid-item:: 52 (51)
+    .. grid-item:: 39→38
+    .. grid-item:: 52→51
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -266,24 +266,24 @@
         95→
         162
 
-    .. grid-item:: 43 (49)
-    .. grid-item:: 45 (47)
+    .. grid-item:: 43 (42)→51 (49)
+    .. grid-item:: 45 (44)→48
     .. grid-item:: +15
     .. grid-item:: 
 
         95→
         199
 
-    .. grid-item:: 45
-    .. grid-item:: 51
+    .. grid-item:: 45 (43)→47 (45)
+    .. grid-item:: 51 (49)→52
     .. grid-item:: +5
     .. grid-item:: 
 
         80→
         189
 
-    .. grid-item:: 37 (42)
-    .. grid-item:: 47 (49)
+    .. grid-item:: 37→43 (42)
+    .. grid-item:: 47→49
     .. grid-item:: +10
 
 .. grid:: 
@@ -367,23 +367,23 @@
         116→
         178
 
-    .. grid-item:: 63
-    .. grid-item:: 51 (54)
+    .. grid-item:: 63 (61)→64 (63)
+    .. grid-item:: 51 (50)→54
     .. grid-item:: +10
     .. grid-item:: 
 
         80→
         184
 
-    .. grid-item:: 28 (32)
-    .. grid-item:: 44
+    .. grid-item:: 28 (31)→30 (32)
+    .. grid-item:: 44 (43)→45
     .. grid-item:: +5
     .. grid-item:: 
 
         78→
         177
 
-    .. grid-item:: 31 (30)
+    .. grid-item:: 31→30
     .. grid-item:: 50
     .. grid-item:: 
     .. grid-item::
@@ -407,24 +407,24 @@
         75→
         127
 
-    .. grid-item:: 25 (18)
-    .. grid-item:: 40 (35)
+    .. grid-item:: 25 (24)→16 (18)
+    .. grid-item:: 40 (39)→36
     .. grid-item:: 
     .. grid-item:: 
 
         87→
         186
 
-    .. grid-item:: 35 (31)
-    .. grid-item:: 48 (47)
+    .. grid-item:: 35→31
+    .. grid-item:: 48 (47)→48
     .. grid-item:: 
     .. grid-item:: 
 
         77→
         176
 
-    .. grid-item:: 35 (33)
-    .. grid-item:: 46 (45)
+    .. grid-item:: 35→33
+    .. grid-item:: 46→45
     .. grid-item:: 
 
 .. grid:: 
@@ -451,7 +451,7 @@
 
 .. _srw4_pilot_daisaku_nishikawa_commentBegin:
 
-《电视大百科》的角色事典中记载着「在第4次中完全没有台词」，难道没人注意到吗？在第四次S的\ :ref:`救出!コンバトラV <srw4_walkthrough_06b_rescue_combattler_v>`\ 中增加了教授豹馬合体的台词。
+《电视大百科》的角色事典中记载着「在第4次中完全没有台词」，难道没人注意到吗？在第四次S的\ :ref:`救出!コンバトラーV <srw4_walkthrough_06b_rescue_combattler_v>`\ 中增加了教授豹馬合体的台词。
 
 主要负责気合。速通的话，则负责激怒。
 
@@ -510,23 +510,23 @@
         85→
         147
 
-    .. grid-item:: 41 (43)
-    .. grid-item:: 43 (44)
+    .. grid-item:: 41 (40)→44 (43)
+    .. grid-item:: 43→45
     .. grid-item:: +10
     .. grid-item:: 
 
         93→
         197
 
-    .. grid-item:: 38 (40)
-    .. grid-item:: 48
+    .. grid-item:: 38→40
+    .. grid-item:: 48 (47)→49
     .. grid-item:: +5
     .. grid-item:: 
 
         83→
         182
 
-    .. grid-item:: 41 (40)
+    .. grid-item:: 41→40
     .. grid-item:: 52
     .. grid-item:: 
     .. grid-item::
@@ -550,23 +550,23 @@
         88→
         140
 
-    .. grid-item:: 37 (29)
-    .. grid-item:: 43 (39)
+    .. grid-item:: 37 (36)→29
+    .. grid-item:: 43 (42)→41
     .. grid-item:: 
     .. grid-item:: 
 
         88→
         187
 
-    .. grid-item:: 36 (32)
-    .. grid-item:: 48 (47)
+    .. grid-item:: 36→32
+    .. grid-item:: 48 (47)→48
     .. grid-item:: 
     .. grid-item:: 
 
         75→
         174
 
-    .. grid-item:: 33 (32)
+    .. grid-item:: 33 (34)→31 (32)
     .. grid-item:: 45
     .. grid-item:: 
 
@@ -642,23 +642,23 @@
         70→
         137
 
-    .. grid-item:: 30 (37)
-    .. grid-item:: 40 (41)
+    .. grid-item:: 30 (29)→37
+    .. grid-item:: 40 (39)→42
     .. grid-item:: +15
     .. grid-item:: 
 
         90→
         194
 
-    .. grid-item:: 36 (38)
-    .. grid-item:: 47
+    .. grid-item:: 36 (37)→38
+    .. grid-item:: 47 (46)→48
     .. grid-item:: +5
     .. grid-item:: 
 
         80→
         179
 
-    .. grid-item:: 35 (34)
+    .. grid-item:: 35→34
     .. grid-item:: 51
     .. grid-item:: 
     .. grid-item::
@@ -682,24 +682,24 @@
         85→
         137
 
-    .. grid-item:: 34 (27)
-    .. grid-item:: 42 (38)
+    .. grid-item:: 34 (33)→26 (27)
+    .. grid-item:: 42 (41)→40
     .. grid-item:: 
     .. grid-item:: 
 
         86→
         185
 
-    .. grid-item:: 34 (30)
-    .. grid-item:: 48 (46)
+    .. grid-item:: 34→29 (30)
+    .. grid-item:: 48 (47)→47
     .. grid-item:: 
     .. grid-item:: 
 
         74→
         173
 
-    .. grid-item:: 32 (31)
-    .. grid-item:: 45 (44)
+    .. grid-item:: 32 (33)→30 (31)
+    .. grid-item:: 45→44
     .. grid-item:: 
 
 .. grid:: 
@@ -780,23 +780,23 @@
         100 (106)→
         152 (158)
 
-    .. grid-item:: 51 (46)
-    .. grid-item:: 47 (46)
+    .. grid-item:: 51 (54)→47 (50)
+    .. grid-item:: 47 (48)→46 (48)
     .. grid-item:: 
     .. grid-item:: 
 
         92→
         191
 
-    .. grid-item:: 38 (36)
-    .. grid-item:: 48 (46)
+    .. grid-item:: 38→35 (36)
+    .. grid-item:: 48 (47)→47
     .. grid-item:: 
     .. grid-item:: 
 
         83→
         182
 
-    .. grid-item:: 41 (40)
+    .. grid-item:: 41→40
     .. grid-item:: 52
     .. grid-item:: 
     .. grid-item::
@@ -820,23 +820,23 @@
         100 (102)→
         152 (154)
 
-    .. grid-item:: 48 (40)
-    .. grid-item:: 46 (44)
+    .. grid-item:: 48→41 (42)
+    .. grid-item:: 46→45
     .. grid-item:: 
     .. grid-item:: 
 
         97 (107)→
         196 (206)
 
-    .. grid-item:: 47 (42)
-    .. grid-item:: 51 (50)
+    .. grid-item:: 47 (55)→43 (53)
+    .. grid-item:: 51 (53)→51 (54)
     .. grid-item:: 
     .. grid-item:: 
 
         91→
         190
 
-    .. grid-item:: 46 (43)
+    .. grid-item:: 46→43
     .. grid-item:: 50
     .. grid-item:: 
 
@@ -912,23 +912,23 @@
         89→
         141
 
-    .. grid-item:: 43 (39)
-    .. grid-item:: 44 (42)
+    .. grid-item:: 43 (42)→40 (39)
+    .. grid-item:: 44→43
     .. grid-item:: 
     .. grid-item:: 
 
         94→
         193
 
-    .. grid-item:: 39 (37)
-    .. grid-item:: 48 (47)
+    .. grid-item:: 39→37
+    .. grid-item:: 48 (47)→48
     .. grid-item:: 
     .. grid-item:: 
 
         85→
         184
 
-    .. grid-item:: 46 (44)
+    .. grid-item:: 46→44
     .. grid-item:: 53
     .. grid-item:: 
     .. grid-item::
@@ -952,24 +952,24 @@
         95→
         147
 
-    .. grid-item:: 43 (36)
-    .. grid-item:: 45 (42)
+    .. grid-item:: 43 (42)→36
+    .. grid-item:: 45 (44)→43
     .. grid-item:: 
     .. grid-item:: 
 
         97 (102)→
         196 (201)
 
-    .. grid-item:: 47 (42)
-    .. grid-item:: 51 (50)
+    .. grid-item:: 47 (50)→43 (47)
+    .. grid-item:: 51 (52)→51 (53)
     .. grid-item:: 
     .. grid-item:: 
 
         87→
         186
 
-    .. grid-item:: 43 (40)
-    .. grid-item:: 49 (48)
+    .. grid-item:: 43→40
+    .. grid-item:: 49
     .. grid-item:: 
 
 .. grid:: 
@@ -1046,15 +1046,15 @@
         236→
         255
 
-    .. grid-item:: 149 (111)
-    .. grid-item:: 80 (78)
+    .. grid-item:: 149 (145)→114 (111)
+    .. grid-item:: 80→78
     .. grid-item:: 
     .. grid-item:: 
 
         0→
         99
 
-    .. grid-item:: -34 (-17)
+    .. grid-item:: -34 (-18)→-33 (-17)
     .. grid-item:: 21
     .. grid-item:: 
     .. grid-item:: 
@@ -1062,7 +1062,7 @@
         0→
         99
 
-    .. grid-item:: -132 (-127)
+    .. grid-item:: -132→-126 (-127)
     .. grid-item:: 19
     .. grid-item:: 
     .. grid-item::
@@ -1086,15 +1086,15 @@
         236→
         255
 
-    .. grid-item:: 176 (132)
-    .. grid-item:: 80 (79)
+    .. grid-item:: 176 (169)→142 (132)
+    .. grid-item:: 80→79
     .. grid-item:: 
     .. grid-item:: 
 
         0→
         99
 
-    .. grid-item:: -65
+    .. grid-item:: -65 (-51)→-80 (-65)
     .. grid-item:: 20
     .. grid-item:: 
     .. grid-item:: 
@@ -1102,7 +1102,7 @@
         0→
         99
 
-    .. grid-item:: -25 (-23)
+    .. grid-item:: -25 (-21)→-26 (-23)
     .. grid-item:: 21
     .. grid-item:: 
 
