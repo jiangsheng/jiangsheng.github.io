@@ -1468,6 +1468,7 @@
 
 .. _srw4_unit_magma_beast_galmus_commentBegin:
 
+加鲁姆在原作和机器人大图鉴中是奴兽，本系列误标为岩浆兽。仅在选择没有恋人的路线出现。
 
 .. _srw4_unit_magma_beast_galmus_commentEnd:
 

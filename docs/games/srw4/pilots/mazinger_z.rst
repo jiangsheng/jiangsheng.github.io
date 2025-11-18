@@ -9,6 +9,14 @@
 
 .. _srw4_pilots_mazinger_z_commentBegin:
 
+人物事典还登录了以下人物：
+
+光子力研究所的研究人员：
+
+* 弓教授
+* 忙碌博士
+* 悠闲博士
+* 拼命博士
 
 .. _srw4_pilots_mazinger_z_commentEnd:
 
@@ -16,6 +24,7 @@
 我军人物
 --------
 .. _srw4_pilots_mazinger_z_own_commentBegin:
+
 
 
 .. _srw4_pilots_mazinger_z_own_commentEnd:

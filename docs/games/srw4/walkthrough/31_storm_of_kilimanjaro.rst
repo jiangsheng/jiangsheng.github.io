@@ -62,7 +62,7 @@ Dancouga cannot be deployed in this stage in the SNES version but can in the pla
 
 #. 援军2 右上
 
-   * スプリガン（ショット＝ウェポン）
+   * スプリガン（ショット・ウェポン）
    * ブブリィ（ミュージィ＝ポー）
    * ライネック ×3
    * レプラカーン ×3
@@ -82,7 +82,7 @@ Dancouga cannot be deployed in this stage in the SNES version but can in the pla
 * [SRW4S]第四回合 敌方援军2
 * Drake's forces arrive at turn 4. Apparently they allied with the Titans after DC got destroyed on Earth. That's quick.
 * They are still hesitate to get into the battle between two former enemies though.
-* ショット＝ウェポン或者ミュージィ＝ポー受到伤害ショット＝ウェポン、ミュージィ＝ポー离开
+* ショット・ウェポン或者ミュージィ＝ポー受到伤害ショット・ウェポン、ミュージィ＝ポー离开
 * If Shot takes damage, both him and Muzzy Poe retreats, so settle with defeating Muzzy's Bubuly.
 
 .. rst-class::center
@@ -135,7 +135,7 @@ If she did not join then you can persuade Rosamia Badam. The other missable on t
 Once Four is persuaded, she starts to remember things, and Ben Wooder thinks the experiment failed and orders her to retreat. Four follows orders and left Kamille appealing for her return.
 
 
-过了一会，一些オーラバトラー系敌人出现，但是他们不会立刻加入战斗。注意ショット＝ウェポン和ミュージィ被击中就会闪人，所以建议用强力武器一次性击破ミュージィ＝ポー的ブブリィ（スプリガン的HP太多了，除非将他脱力到50，然后用73级的超级系主角+魂/奇迹或者93级的クワトロ+F91+魂，否则没办法一次击落……）。
+过了一会，一些オーラバトラー系敌人出现，但是他们不会立刻加入战斗。注意ショット・ウェポン和ミュージィ被击中就会闪人，所以建议用强力武器一次性击破ミュージィ＝ポー的ブブリィ（スプリガン的HP太多了，除非将他脱力到50，然后用73级的超级系主角+魂/奇迹或者93级的クワトロ+F91+魂，否则没办法一次击落……）。
 
 :doc:`../mechanics/bug`\ 本话虽然是空战，但是地形适应是陆，不要派出只擅长空战而不擅长陆战的机体，例如リ・ガズィ，因为剧情需要而派出的ウェイブライダー在这里也非常弱。另外，可用ZZガンダム装上ミノフスキークラフト出战。敌人的空军也有同样的问题，但是敌人中数量最多的バイアラン不怎么受影响。空B陆A的我方超级系反而能在这里有很好的发挥，例如ダイモス、マジンガーZ（JS）和グレートマジンガー。
 

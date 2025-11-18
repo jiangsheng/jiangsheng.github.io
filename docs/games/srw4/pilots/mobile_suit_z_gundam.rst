@@ -17,6 +17,10 @@
 --------
 .. _srw4_pilots_mobile_suit_z_gundam_own_commentBegin:
 
+人物事典还登录了以下人物：
+
+* 布莱德舰机械师队首领アストナージ・メドッソ（阿斯特纳吉·梅多佐）
+* 亚加玛的随军医生ハサン（哈桑）
 
 .. _srw4_pilots_mobile_suit_z_gundam_own_commentEnd:
 

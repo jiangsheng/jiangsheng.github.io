@@ -296,7 +296,7 @@
 
 .. _srw4_pilot_garrison_tokida_commentBegin:
 
-原作中時田加里森管家似乎是个万能的人物，在这里也是一样。在\ :ref:`第二十六话Ｂ 日輪は我にあり <srw4_walkthrough_26b_i_have_the_power_of_the_sun>`\ 中代替因吃鲭鱼腹泻的\ :ref:`破嵐万丈 <srw4_pilot_banjo_haran>`\ ，驾驶\ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\ （泰坦3）出战。
+原作中时田加里森管家似乎是个万能的人物，在这里也是一样。在\ :ref:`第二十六话Ｂ 日輪は我にあり <srw4_walkthrough_26b_i_have_the_power_of_the_sun>`\ 中代替因吃鲭鱼腹泻的\ :ref:`破嵐万丈 <srw4_pilot_banjo_haran>`\ ，驾驶\ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\ （泰坦3）出战。
 
 作为只出战一话的替补机师意外地胜任。远攻、命中回避和技量都在平均值以上，只是近攻击差了一点。精神配备上有熱血和気合。对于超级系来说足够用了。地形适应方面除了宇宙都是A，即使宇宙战，因为机体的宇宙适应是A的原因，综合下来也是B，并不吃力。
 
@@ -441,7 +441,7 @@
 
 .. _srw4_pilot_koros_commentBegin:
 
-克洛丝是DC代首领，因为\ :ref:`ドン・ザウサー <srw4_pilot_don_zauser>`\ （顿·佐萨）长期沉睡而成为实质性首领。引入外星人军队重振DC，以至于引起传统派\ :ref:`あしゅら男爵 <srw4_pilot_baron_ashura>`\ （阿修拉男爵）的不满。
+克洛丝是DC代首领，因为\ :ref:`ドン・ザウサー <srw4_pilot_don_zauser>`\ （顿·扎乌萨）长期沉睡而成为实质性首领。引入外星人军队重振DC，以至于引起传统派\ :ref:`あしゅら男爵 <srw4_pilot_baron_ashura>`\ （阿修拉男爵）的不满。
 
 能力方面，仅命中独树一帜，其他能力相当于我军中游。
 
@@ -576,7 +576,7 @@
 
 .. _srw4_pilot_don_zauser_commentBegin:
 
-顿·佐萨不知为何成为了DC首领，不过开始的时候和原作一样处于沉睡状态，由\ :ref:`コロス <srw4_pilot_koros>`\ （克洛丝）暂代。最终战场选在火星就是因为他在火星沉睡的原因。
+顿·扎乌萨不知为何成为了DC首领，不过开始的时候和原作一样处于沉睡状态，由\ :ref:`コロス <srw4_pilot_koros>`\ （克洛丝）暂代。最终战场选在火星就是因为他在火星沉睡的原因。
 
 第四次中能力和克洛丝相同。第四次S中全面增加了除了直感之外的能力，能力比克洛丝略高。
 
@@ -706,7 +706,7 @@
 
 .. _srw4_pilot_beautiful_tachibana_commentBegin:
 
-立花美丽是非战斗员。女富豪，钱多到能够和破嵐财阀一起在朗德·贝尔脱离联邦政府之后支持军需。不过厨艺让 \ :ref:`破嵐万丈 <srw4_pilot_banjo_haran>`\ 拉肚子和\ :ref:`ギャリソン時田 <srw4_pilot_garrison_tokida>`\ 管家不得不出战……
+桔美丽是非战斗员。女富豪，钱多到能够和破嵐财阀一起在朗德·贝尔脱离联邦政府之后支持军需。不过厨艺让 \ :ref:`破嵐万丈 <srw4_pilot_banjo_haran>`\ 拉肚子和\ :ref:`ギャリソン時田 <srw4_pilot_garrison_tokida>`\ （时田加里森）管家不得不出战……
 
 .. _srw4_pilot_beautiful_tachibana_commentEnd:
 
@@ -946,7 +946,7 @@
 
 .. _srw4_pilot_totta_toda_commentBegin:
 
-非战斗员。帮助\ :ref:`ビューティフル・タチバナ <srw4_pilot_beautiful_tachibana>`\ （立花美丽）制作鲭鱼，造成万丈食物中毒。结局中由于\ :ref:`破嵐万丈 <srw4_pilot_banjo_haran>`\ 的又一次失踪，他被立花美丽收养。
+非战斗员。帮助\ :ref:`ビューティフル・タチバナ <srw4_pilot_beautiful_tachibana>`\ （桔美丽）制作鲭鱼，造成万丈食物中毒。结局中由于\ :ref:`破嵐万丈 <srw4_pilot_banjo_haran>`\ 的又一次失踪，他被桔美丽收养。
 
 .. _srw4_pilot_totta_toda_commentEnd:
 

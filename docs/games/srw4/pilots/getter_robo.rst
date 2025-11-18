@@ -11,6 +11,10 @@
 
 本作盖塔敌方人物没有出场，只有机体被各种人工智能开出来和我军作战。
 
+人物事典还登录了以下人物：
+
+* 早乙女博士 盖塔光线的研究者
+
 .. _srw4_pilots_getter_robo_commentEnd:
 
 --------
@@ -20,7 +24,7 @@
 
 盖塔小队开局驾驶\ :ref:`ゲッター <srw4_unit_getter_1>`\ 登场。中盘会换乘\ :ref:`ゲッターG <srw4_unit_getter_dragon>`\ ，终盘会换乘\ :ref:`真・ゲッター <srw4_unit_shin_getter_1>`\ 。
 
-虽然盖塔小队精神不是很多，但是有三人份，而且不像\ :ref:`ダンクーガ <srw4_unit_dancouga>`\ （断空我）那么重复，还是够用的。\ :ref:`ジャック・キング <srw4_pilot_jack_king>`\ 小队7级精神居然就出全了，SP也很多，用加速去探宝然后用幸运赚钱大概是他们唯二的任务。
+虽然盖塔小队精神不是很多，但是有三人份，而且不像\ :ref:`ダンクーガ <srw4_unit_dancouga>`\ （断空我）那么重复，还是够用的。\ :ref:`ジャック・キング <srw4_pilot_jack_king>`\ （德州牛仔）小队7级精神居然就出全了，SP也很多，用加速去探宝然后用幸运赚钱大概是他们唯二的任务。
 
 .. _srw4_pilots_getter_robo_own_commentEnd:
 
@@ -299,7 +303,7 @@
 
 .. _srw4_pilot_hayato_jin_commentBegin:
 
-爱称ハヤト。捷豹号（本作只在合体动画中出场）和盖塔的对地形态的驾驶员。和\ :ref:`早乙女ミチル <srw4_pilot_michiru_saotome>`\ （早乙女美智流）一起向\ :ref:`車弁慶 <srw4_pilot_benkei_kuruma>`\ 传授学自巴武藏的大雪山崩落。
+爱称ハヤト。捷豹号（本作只在合体动画中出场）和盖塔的对地形态的驾驶员。和\ :ref:`早乙女ミチル <srw4_pilot_michiru_saotome>`\ （早乙女美智琉）一起向\ :ref:`車弁慶 <srw4_pilot_benkei_kuruma>`\ 传授学自巴武藏的大雪山崩落。
 
 虽然除了近攻击之外其他能力都比流竜馬要强，但是机体太过于脆弱，所以能力都是摆好看的，要开始打的时候都是从地中钻出来变形成对空形态，除非能抢占有利地形。二次行动等级比\ :ref:`流竜馬 <srw4_pilot_ryoma_nagare>`\ 要早，可以在43~44级之间回合结束的时候用二号机形态结束回合。精神都是辅助系的，幸运、加速和集中都很有用。
 
@@ -447,7 +451,7 @@
 
 爱称ベンケイ。登场作品ゲッターロボG。熊号（本作只在合体动画中登场）和盖塔的对海形态的驾驶员。
 
-近攻击非常高。然而回避值在游戏里倒数第二而且海战形态装甲很薄。虽然武器是陆A但是机师是陆B，以至于对地面也比 \ :ref:`神隼人 <srw4_pilot_hayato_jin>`\ 差，除非水战否则不会做主力。但是这游戏的水战还真不多……
+近攻击非常高。然而回避值在游戏里倒数第二而且海战形态装甲很薄。虽然武器是陆A但是机师是陆B，以至于对地面也比\ :ref:`神隼人 <srw4_pilot_hayato_jin>`\ 差，除非水战否则不会做主力。但是这游戏的水战还真不多……
 
 在小队中负责必中和气合。探索居然要40级才能练得出来……
 
@@ -582,7 +586,7 @@
 
 .. _srw4_pilot_jack_king_commentBegin:
 
-杰克·金是\ :ref:`テキサスマック <srw4_unit_texas_mack>`\ （德克萨斯麦克）驾驶员。\ :ref:`メリー・キング <srw4_pilot_mary_king>`\ （玛丽·金）的哥哥。仅在\ :ref:`第四话Ａ 特訓！大雪山おろし (速) <srw4_walkthrough_04a_special_training_dai_setsu_zan_oroshi_fast>`\ 中参战一话，不会加入我军。
+杰克是\ :ref:`テキサスマック <srw4_unit_texas_mack>`\ （德克萨斯牛仔）驾驶员。\ :ref:`メリー・キング <srw4_pilot_mary_king>`\ （梅莉）的哥哥。仅在\ :ref:`第四话Ａ 特訓！大雪山おろし (速) <srw4_walkthrough_04a_special_training_dai_setsu_zan_oroshi_fast>`\ 中参战一话，不会加入我军。
 
 直感我方最低，好在不会加入我军，没有两动的可能也没什么了。远攻击还不错。
 
@@ -715,7 +719,7 @@
 
 .. _srw4_pilot_mary_king_commentBegin:
 
-\ :ref:`ジャック・キング <srw4_pilot_jack_king>`\ （杰克·金）的妹妹和副驾驶，仅在\ :ref:`第四话Ａ 特訓！大雪山おろし (速) <srw4_walkthrough_04a_special_training_dai_setsu_zan_oroshi_fast>`\ 中参战一话，不会加入我军。有幸运，死要钱的可以拿来打爆\ :ref:`ブード <srw4_unit_bood>`\ 。很奇怪她在这一作中没有補給这个精神，除了本作之外从第二次到α都有的。
+\ :ref:`ジャック・キング <srw4_pilot_jack_king>`\ （杰克）的妹妹和副驾驶，仅在\ :ref:`第四话Ａ 特訓！大雪山おろし (速) <srw4_walkthrough_04a_special_training_dai_setsu_zan_oroshi_fast>`\ 中参战一话，不会加入我军。有幸运，死要钱的可以拿来打爆\ :ref:`ブード <srw4_unit_bood>`\ (水下要塞布德)。很奇怪她在这一作中没有補給这个精神，除了本作之外从第二次到α都有的。
 
 .. _srw4_pilot_mary_king_commentEnd:
 
@@ -854,7 +858,7 @@
 
 .. _srw4_pilot_michiru_saotome_commentBegin:
 
-和 \ :ref:`神隼人 <srw4_pilot_hayato_jin>`\ 一起教导车弁庆如何使用大雪山崩落。
+和\ :ref:`神隼人 <srw4_pilot_hayato_jin>`\ 一起教导车弁庆如何使用大雪山崩落。
 
 虽然是非战斗人员但是设定了能力值和精神，或许本来计划会作为战斗员。
 

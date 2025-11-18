@@ -9,6 +9,10 @@
 
 .. _srw4_pilots_mobile_suit_gundam_0083_commentBegin:
 
+人物事典还登录了以下人物：
+
+* 我方庇护者ジョン・コウェン（约翰·柯文）中将。虽然在原作未死，但是本作中被提坦斯和德雷克军暗杀。
+* 布莱德舰机械师モーラ・バシットル（莫拉·巴西特）。
 
 .. _srw4_pilots_mobile_suit_gundam_0083_commentEnd:
 
@@ -16,8 +20,6 @@
 我军人物
 --------
 .. _srw4_pilots_mobile_suit_gundam_0083_own_commentBegin:
-
-我方庇护者ジョン・コウェン虽然剧情很多，但是并非机师，只在对话中出现，没有设定数据。虽然在原作未死，但是本作中被提坦斯合德雷克军暗杀。
 
 .. _srw4_pilots_mobile_suit_gundam_0083_own_commentEnd:
 

@@ -44,6 +44,14 @@
 
 主人公和副主人公之间有\ :ref:`恋爱度 <srw4_mechanics_love_points>`\ 的设定。根据恋爱的不同，主人公和恋人的对话有少许差异。
 
+人物事典还登录了以下人物：
+
+* \ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ （安藤正树）的使魔小黑和小白
+* \ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ （黄炎龙）的使魔郎夏奥
+* \ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\ 的格里和弗雷克。
+* \ :ref:`ミオ・サスガ <srw4_pilot_mio_sasuga>`\（贵家澪）的乔恩、乔萨克和乔治。名字来自日本喜剧三人组レツゴー三匹。DS版魔装機神改名悟空、八戒、悟净（女孩子担任三藏法师的设定毫无违和感）。
+* \ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ （白河愁）的奇卡
+
 
 .. _srw4_pilots_banpresto_originals_own_commentEnd:
 
@@ -1110,7 +1118,7 @@
 
 能力和正树不相上下，但是陆B造成利用地形优势的时候防御能力降低。本作魔装机神系角色普遍存在热血学得慢的缺陷，而琉妮更是以Lv54的极晚习得速度位居榜首，常规流程几乎无法习得该技能。
 
-第四次S中增加了语音，另外新增了为救普蕾西亚而与\ :ref:`カロッゾ・ロナ <srw4_pilot_carrozzo_rona>`\（卡洛佐）交战的\ :ref:`专用剧情 <srw4_walkthrough_39c_rescue>` \ 。同时因容量问题解决，在白河愁加入队伍后将不再离队。能力方面，仅回避有所提升。
+第四次S中增加了语音，另外新增了为救普蕾西亚而与\ :ref:`カロッゾ・ロナ <srw4_pilot_carrozzo_rona>`\（卡洛佐）交战的专用剧情\ :ref:`第三十九话Ｃ 救出 <srw4_walkthrough_39c_rescue>` \ 。同时因容量问题解决，在白河愁加入队伍后将不再离队。能力方面，仅回避有所提升。
 
 .. _srw4_pilot_ryune_zoldark_commentEnd:
 
@@ -1376,7 +1384,7 @@
 
 .. _srw4_pilot_huang_yanglong_commentBegin:
 
-中文名黄炎龙。火之魔装机神\ :ref:`グランヴェール <srw4_unit_grannvale>`\ （格兰维尔）操纵者。中国的体育教师，特别喜欢用成语。本作在登上地面之后开始追逐\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ （白河愁），但是因为\ :ref:`テイニクェット・ゼゼーナン <srw4_pilot_teniquette_zezernan>`\ （泽泽南） 藐视地球的言论而加入我军。基于魔装机神操纵者应尽量避免干涉地面纷争的理由，他直到游戏几乎结束才加入。此外，如果白河愁等人加入，他会抗议并与\ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ （琉妮）和\ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\（迪蒂）两人一起离开。强制出击次数很多，所以有选择的话，可能你想让别人也有点机会出场。
+中文名黄炎龙。火之魔装机神\ :ref:`グランヴェール <srw4_unit_grannvale>`\ （格兰维尔）操纵者。中国的体育教师，特别喜欢用成语。本作在登上地面之后开始追逐\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ （白河愁），但是因为\ :ref:`テイニクェット・ゼゼーナン <srw4_pilot_teniquette_zezernan>`\ (泰尼库特·杰杰南) 藐视地球的言论而加入我军。基于魔装机神操纵者应尽量避免干涉地面纷争的理由，他直到游戏几乎结束才加入。此外，如果白河愁等人加入，他会抗议并与\ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ （琉妮）和\ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\（迪蒂）两人一起离开。强制出击次数很多，所以有选择的话，可能你想让别人也有点机会出场。
 
 第四次S不再有离队事件，在地面碰到之后即加入队伍，大大降低了游戏难度。除了直感的能力也全面上升。
 
@@ -1509,7 +1517,7 @@
 
 .. _srw4_pilot_monica_billseia_commentBegin:
 
-莫妮卡是\ :ref:`ノルス・レイ <srw4_unit_nors_ray>`\ （诺尔斯·雷）的操纵者。总是和\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ （白河愁） 共同行动，无论是作为\ :ref:`隐藏要素 <srw4_missable_shuu>`\ 加入我军还是作为敌人。
+莫妮卡是\ :ref:`ノルス・レイ <srw4_unit_nors_ray>`\ （诺尔斯·改）的操纵者，拉古兰王国第二顺序继承者。总是和\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ （白河愁） 共同行动，无论是作为\ :ref:`隐藏要素 <srw4_missable_shuu>`\ 加入我军还是作为敌人。
 
 虽不具备战斗力，但精神指令中的补给和再动颇具实用性。幸运指令在最终关卡则无用武之地。
 
@@ -1644,11 +1652,11 @@
 
 .. _srw4_pilot_safine_grace_commentBegin:
 
-和超级机器人大战EX不同，本作中的名字是"萨菲妮·格雷斯"，驾驶机体也更换为\ :ref:`ウィーゾル改 <srw4_unit_weesol_kai>`\（维索尔改） 。作为\ :ref:`隐藏要素 <srw4_missable_shuu>`\ 之一，和\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ （白河愁）一起加入。
+和超级机器人大战EX不同，本作中的名字是"萨菲妮·格雷斯"，驾驶机体也更换为\ :ref:`ウィーゾル改 <srw4_unit_weesol_kai>`\ (维佐尔·改)。作为\ :ref:`隐藏要素 <srw4_missable_shuu>`\ 之一，和\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ （白河愁）一起加入。
 
 实力并不突出，但激励与复活技能颇具实用性。虽拥有幸运属性，但仅限最终关卡使用故意义不大。
 
-第四次S中增加了语音，除了技量和直感之外的能力全面上升。。另外，在追加的剧情\ :ref:`救出 <srw4_walkthrough_39c_rescue>` \ 中作为暂时的友军参战。虽然因为战后立刻离队，经验值不保留而不值得用来作战，但是可在此使用一次复活技能。后来即使加入，也不继承这里的改造段数。
+第四次S中增加了语音，除了技量和直感之外的能力全面上升。。另外，在追加的剧情\ :ref:`第三十九话Ｃ 救出 <srw4_walkthrough_39c_rescue>` \ 中作为暂时的友军参战。虽然因为战后立刻离队，经验值不保留而不值得用来作战，但是可在此使用一次复活技能。后来即使正式加入，也不继承这里的改造段数。
 
 .. _srw4_pilot_safine_grace_commentEnd:
 
@@ -2960,7 +2968,7 @@ DC兵士
 
 作为后期杂鱼，能力略高于我军中游。
 
-在\ :ref:`第三十七话 ゲストとインスペクター <srw4_walkthrough_37_guest_and_inspector>`\ 中，如果\ :ref:`ゼブリーズ・フルシュワ <srw4_pilot_zebris_forschwa>`\ （塞布）在\ :ref:`メキボス <srw4_pilot_mekibos_bolverde>`\ （梅基博斯）出现之前被击破，他出场时会提到没有司令官在场，无法更改生物机器人的指令，所以这些机师也属于人工智能。
+在\ :ref:`第三十七话 ゲストとインスペクター <srw4_walkthrough_37_guest_and_inspector>`\ 中，如果\ :ref:`ゼブリーズ・フルシュワ <srw4_pilot_zebris_forschwa>`\ （杰布）在\ :ref:`メキボス <srw4_pilot_mekibos_bolverde>`\ （梅基波斯）出现之前被击破，他出场时会提到没有司令官在场，无法更改生物机器人的指令，所以这些机师也属于人工智能。
 
 .. _srw4_pilot_guest_soldier_commentEnd:
 
@@ -3102,9 +3110,9 @@ DC兵士
 
 .. _srw4_pilot_justine_chafrois_commentBegin:
 
-爱称セティ。塞蒂是ゲスト的女性军官，ゲスト三将军之一。右眼佩戴着与计算机直接连接的视网膜投影式分析装置。与\ :ref:`グロフィス・ラクレイン <srw4_pilot_glofis_raclayne>`\ （洛夫）是父母指婚的青梅竹马，因洛夫离家出走婚约破裂。主要和\ :ref:`ゼブリーズ・フルシュワ <srw4_pilot_zebris_forschwa>`\ （塞布）一起行动，也因此在救援民间人时和洛夫重逢。
+爱称セティ（塞蒂）。塞蒂是盖斯特（ゲスト）的女性军官，盖斯特三将军之一。右眼佩戴着与计算机直接连接的视网膜投影式分析装置。与\ :ref:`グロフィス・ラクレイン <srw4_pilot_glofis_raclayne>`\ （洛夫）是父母指婚的青梅竹马，因洛夫离家出走婚约破裂。主要和\ :ref:`ゼブリーズ・フルシュワ <srw4_pilot_zebris_forschwa>`\ （杰布）一起行动，也因此在救援民间人时和洛夫重逢。
 
-游戏中后期登场。对\ :ref:`テイニクェット・ゼゼーナン <srw4_pilot_teniquette_zezernan>`\ （泽泽南）深感厌恶，仅仅为了洛夫报仇而参战。在第四次中，如果\ :ref:`バラン＝シュナイル <srw4_unit_baran_schnile>`\ （巴兰・修奈尔）的HP低于一定程度，她会选择撤退。
+游戏中后期登场。对\ :ref:`テイニクェット・ゼゼーナン <srw4_pilot_teniquette_zezernan>`\ (泰尼库特·杰杰南) 深感厌恶，仅仅为了洛夫报仇而参战。在第四次中，如果\ :ref:`バラン＝シュナイル <srw4_unit_baran_schnile>`\ （巴兰・修奈尔）的HP低于一定程度，她会选择撤退。
 
 本人相当于我军王牌水准，座驾也极为强悍，堪称强敌。不过性格是弱気，可以通过击落其他敌人来降低气力。
 
@@ -3250,9 +3258,9 @@ DC兵士
 
 .. _srw4_pilot_zebris_forschwa_commentBegin:
 
-爱称ゼブ。塞布在三将军中出场次数最多。\ :ref:`ジュスティヌ・シャフラワース <srw4_pilot_justine_chafrois>`\ （塞蒂）的同僚，对她对\ :ref:`グロフィス・ラクレイン <srw4_pilot_glofis_raclayne>`\ （洛夫）的感情知情。
+爱称ゼブ（杰布）。杰布在三将军中出场次数最多。\ :ref:`ジュスティヌ・シャフラワース <srw4_pilot_justine_chafrois>`\ （塞蒂）的同僚，对她对\ :ref:`グロフィス・ラクレイン <srw4_pilot_glofis_raclayne>`\ （洛夫）的感情知情。
 
-对\ :ref:`テイニクェット・ゼゼーナン <srw4_pilot_teniquette_zezernan>`\ 深感厌恶，仅仅为了给洛夫报仇而参战。在第四次中，如果\ :ref:`バラン＝シュナイル <srw4_unit_baran_schnile>`\ （巴兰・修奈尔）的HP低于一定程度，他会选择撤退。第四次S中也有拒绝参战的\ :ref:`三将军事件 <srw4_missable_guest_generals>`\ 。
+对\ :ref:`テイニクェット・ゼゼーナン <srw4_pilot_teniquette_zezernan>`\ (泰尼库特·杰杰南)  深感厌恶，仅仅为了给洛夫报仇而参战。在第四次中，如果\ :ref:`バラン＝シュナイル <srw4_unit_baran_schnile>`\ （巴兰・修奈尔）的HP低于一定程度，他会选择撤退。第四次S中也有拒绝参战的\ :ref:`三将军事件 <srw4_missable_guest_generals>`\ 。
 
 本人相当于我军王牌水准，座驾也极为强悍，堪称强敌。不过性格是弱気，可以通过击落其他敌人来降低气力。
 
@@ -3810,7 +3818,7 @@ DC兵士
 
 .. _srw4_pilot_teniquette_zezernan_commentBegin:
 
-泽泽南虽然是最终Boss，但是所犯之错仅仅是轻视地球人，最后不仅激起地球人的反抗，将部下作为消耗品的战术，连己方成员也对其厌恶和鄙夷。
+泰尼库特·杰杰南虽然是最终Boss，但是所犯之错仅仅是轻视地球人，最后不仅激起地球人的反抗，因为将部下作为消耗品的战术，连己方成员也对其厌恶和鄙夷。
 
 作为指挥官和机师来说都称不上优秀。如果\ :ref:`白河愁没有加入 <srw4_missable_shuu>`\ ，在\ :ref:`第四十四话Ｂ 火星の決戦 (シュウ) <srw4_walkthrough_44b_final_battle_on_mars_shu>`\ 中根据玩家选择可能会被白河愁秒杀。
 
@@ -3945,7 +3953,7 @@ DC兵士
 
 .. _srw4_pilot_mekibos_bolverde_commentBegin:
 
-梅基博斯在第三次超级机器人大战中被ウェンドロ（温德洛）击败的路线成为正史，通过机器人化得以免死。本作在\ :ref:`第三十七话 ゲストとインスペクター <srw4_walkthrough_37_guest_and_inspector>`\ 中担任枢密院特使要求双方停战，期间向朗德·贝尔小队说明"客人"势力的实际身份。若进入坏结局，他将对本可建立友谊的地球人感到失望。
+梅基波斯在第三次超级机器人大战中被ウェンドロ（温德洛）击败的路线成为正史，通过机器人化得以免死。本作在\ :ref:`第三十七话 ゲストとインスペクター <srw4_walkthrough_37_guest_and_inspector>`\ 中担任枢密院特使要求双方停战，期间向朗德·贝尔小队说明盖斯特势力的实际身份。若进入坏结局，他将对本可建立友谊的地球人感到失望。
 
 虽然没有出战，能力也接近我军王牌，第四次S中也提升了近远攻击和命中。另外，在\ :ref:`第四十一话 アクシズに散る <srw4_walkthrough_41_scattered_on_axis>`\ 中，新增了\ :ref:`说服三将军并使其撤退<srw4_missable_guest_generals>`\ 的剧情。
 
@@ -4067,7 +4075,7 @@ DC兵士
 
 .. _srw4_pilot_super_ai_commentBegin:
 
-人工知能的升级版本，地形适应上升。能力和我军二硫超级系类似，除了命中非常高和直感非常差之外。
+人工知能的升级版本，地形适应上升。能力和我军二流超级系类似，除了命中非常高和直感非常差之外。
 
 第四次S中近远攻击上升。
 
@@ -4339,7 +4347,7 @@ DC兵士
 
 .. _srw4_pilot_federal_soldier_commentBegin:
 
-和連邦軍士兵只有名字上的不同。
+和連邦軍士兵只有名字上的不同，甚至连数据地址都是一样的，没有单独的副本。
 
 .. _srw4_pilot_federal_soldier_commentEnd:
 
@@ -4487,7 +4495,7 @@ DC兵士
 
 第四次S里各项能力有所提升，切り払い也从1级升级到了6级。
 
-在第四次S中配音者是田中秀行，他也是\ :ref:`キリー・ギャグレー <srw4_pilot_killy_gagley>`\ （基力）的声优。
+在第四次S中配音者是田中秀行，他也是\ :ref:`キリー・ギャグレー <srw4_pilot_killy_gagley>`\ (基利·加古雷) 的声优。
 
 
 .. _srw4_pilot_gilliam_yeager_commentEnd:
@@ -4750,9 +4758,9 @@ DC兵士
 
 .. _srw4_pilot_telius_bilseia_commentBegin:
 
-泰里乌斯·格兰·比尔塞亚是\ :ref:`モニカ・ビルセイア <srw4_pilot_monica_billseia>`\ （莫妮卡）的异母弟。本为第四顺位继承人，因大公子\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ （白河愁）放弃王位，成为第三顺位。在超级机器人大战EX中的愁之章成为同伴。
+特里乌斯·格兰·比尔塞亚是\ :ref:`モニカ・ビルセイア <srw4_pilot_monica_billseia>`\ （莫妮卡）的异母弟。本为第四顺位继承人，因大公子\ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ （白河愁）放弃王位，成为第三顺位。在超级机器人大战EX中的愁之章成为同伴。
 
-本作中在\ :ref:`第三十五话 特異点崩壊 <srw4_walkthrough_35_singularity_collapse>`\ 中和愁同行，但是即使愁在最终战前加入，厌倦了战斗的他虽然和姐姐莫妮卡一起加入，也不会出战。
+本作中在\ :ref:`第三十五话 特異点崩壊 <srw4_walkthrough_35_singularity_collapse>`\ 中和愁同行，但是即使愁在最终战前加入，厌倦了战斗的他在和姐姐莫妮卡一起加入后也不会出战。
 
 能力在我军真实系中游。虽然没有出战机会，但是第四次S中仍然提升了他的远攻击。
 
@@ -4874,7 +4882,7 @@ DC兵士
 
 .. _srw4_pilot_presia_xenosakis_commentBegin:
 
-普雷西亚·泽诺萨克斯是\ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ （安藤正树）之义妹。
+普蕾西亚·谢诺萨基斯是\ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ （安藤正树）之义妹。
 
 在本作中，当大神官伊本托\ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ （琉妮）带她前往地面时，两人被\ :ref:`カロッゾ・ロナ <srw4_pilot_carrozzo_rona>`\ （卡洛佐·罗纳）俘虏，以致于琉妮被迫与朗德·贝尔交战。后来在\ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\ （迪蒂）、\ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ （黄炎龙） 和琉妮的营救下，她平安与正树重逢。
 

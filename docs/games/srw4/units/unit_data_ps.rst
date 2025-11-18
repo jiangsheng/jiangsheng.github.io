@@ -67,7 +67,7 @@
    * - 01
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_01_B.png
-     - \ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\ 
+     - \ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\ (凶鸟)
      - Huckebein
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3000
@@ -88,7 +88,7 @@
    * - 02
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_02_B.png
-     - \ :ref:`グルンガスト <srw4_unit_grungust>`\ 
+     - \ :ref:`グルンガスト <srw4_unit_grungust>`\ (古伦加斯特)
      - Grungust
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3900
@@ -109,7 +109,7 @@
    * - 03
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_03_B.png
-     - \ :ref:`ウイングガスト <srw4_unit_wing_gust>`\ 
+     - \ :ref:`ウイングガスト <srw4_unit_wing_gust>`\ (飞翼加斯特)
      - Wing Gust
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3900
@@ -130,7 +130,7 @@
    * - 04
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_04_B.png
-     - \ :ref:`ガストランダー <srw4_unit_gust_lander>`\ 
+     - \ :ref:`ガストランダー <srw4_unit_gust_lander>`\ (加斯特战车)
      - Gust Lander
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3900
@@ -151,7 +151,7 @@
    * - 09
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_09_B.png
-     - \ :ref:`νガンダム <srw4_unit_nu_gundam>`\ 
+     - \ :ref:`νガンダム <srw4_unit_nu_gundam>`\ (ν高达)
      - Nu Gundam
      - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 2800
@@ -193,7 +193,7 @@
    * - 0B
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_0B_B.png
-     - \ :ref:`NT-1アレックス <srw4_unit_nt_1_alex>`\ 
+     - \ :ref:`NT-1アレックス <srw4_unit_nt_1_alex>`\ (NT-1阿历克斯)
      - NT-1 Alex
      - :ref:`ガンダム0080 <srw4_units_mobile_suit_gundam_0080>`
      - 1800
@@ -256,7 +256,7 @@
    * - 0E
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_0E_B.png
-     - \ :ref:`GP-03デンドロビウム <srw4_unit_gp_03_dendrobium>`\ 
+     - \ :ref:`GP-03デンドロビウム <srw4_unit_gp_03_dendrobium>`\ (GP-03 D)
      - GP-03 Dendrobium
      - :ref:`ガンダム0083 <srw4_units_mobile_suit_gundam_0083>`
      - 5200
@@ -277,7 +277,7 @@
    * - 0F
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_0F_B.png
-     - \ :ref:`GP-03ステイメン  (后期) <srw4_unit_gp_03_staymen_final>`\ 
+     - \ :ref:`GP-03ステイメン  (后期) <srw4_unit_gp_03_staymen_final>`\ (GP-03 S)
      - GP-03 Staymen (final)
      - :ref:`ガンダム0083 <srw4_units_mobile_suit_gundam_0083>`
      - 1900
@@ -298,7 +298,7 @@
    * - 10
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_10_B.png
-     - \ :ref:`ガンキャノン <srw4_unit_gun_cannon>`\ 
+     - \ :ref:`ガンキャノン <srw4_unit_gun_cannon>`\ (钢加农)
      - Gun Cannon
      - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 2000
@@ -319,7 +319,7 @@
    * - 11
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_11_B.png
-     - \ :ref:`ガンタンク <srw4_unit_gun_tank>`\ 
+     - \ :ref:`ガンタンク <srw4_unit_gun_tank>`\ (钢坦克)
      - Gun Tank
      - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 2000
@@ -340,7 +340,7 @@
    * - 12
      - 盟
      - .. image:: ../units/images/icon/srw4_units_icon_12_B.png
-     - \ :ref:`ボール <srw4_unit_ball>`\ 
+     - \ :ref:`ボール <srw4_unit_ball>`\ (铁球)
      - Ball
      - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 1200
@@ -361,7 +361,7 @@
    * - 13
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_13_B.png
-     - \ :ref:`ネモ <srw4_unit_nemo>`\ 
+     - \ :ref:`ネモ <srw4_unit_nemo>`\ (尼莫)
      - Nemo
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1900
@@ -382,7 +382,7 @@
    * - 14
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_14_B.png
-     - \ :ref:`GM III <srw4_unit_gm_iii>`\ 
+     - \ :ref:`GM III <srw4_unit_gm_iii>`\ (吉姆Ⅲ)
      - GM III
      - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 2100
@@ -403,7 +403,7 @@
    * - 15
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_15_B.png
-     - \ :ref:`ジェガン <srw4_unit_jegan>`\ 
+     - \ :ref:`ジェガン <srw4_unit_jegan>`\ (杰刚)
      - Jegan
      - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 2200
@@ -424,7 +424,7 @@
    * - 16
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_16_B.png
-     - \ :ref:`リ・ガズィ (MA) <srw4_unit_ri_gazi_ma>`\ 
+     - \ :ref:`リ·ガズィ (MA) <srw4_unit_ri_gazi_ma>`\ (灵格斯BWS着装型)
      - Ri Gazi (MA)
      - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 2500
@@ -445,7 +445,7 @@
    * - 17
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_17_B.png
-     - \ :ref:`リ・ガズィ (MS) <srw4_unit_ri_gazi_ms>`\ 
+     - \ :ref:`リ·ガズィ (MS) <srw4_unit_ri_gazi_ms>`\ (灵格斯)
      - Ri Gazi (MS)
      - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 2400
@@ -466,7 +466,7 @@
    * - 18
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_18_B.png
-     - \ :ref:`ゲッター1 <srw4_unit_getter_1>`\ 
+     - \ :ref:`ゲッター1 <srw4_unit_getter_1>`\ (盖塔1)
      - Getter 1
      - :ref:`ゲッター <srw4_units_getter_robo>`
      - 2800
@@ -487,7 +487,7 @@
    * - 19
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_19_B.png
-     - \ :ref:`ゲッター2 <srw4_unit_getter_2>`\ 
+     - \ :ref:`ゲッター2 <srw4_unit_getter_2>`\ (盖塔2)
      - Getter 2
      - :ref:`ゲッター <srw4_units_getter_robo>`
      - 2800
@@ -508,7 +508,7 @@
    * - 1A
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1A_B.png
-     - \ :ref:`ゲッター3 <srw4_unit_getter_3>`\ 
+     - \ :ref:`ゲッター3 <srw4_unit_getter_3>`\ (盖塔3)
      - Getter 3
      - :ref:`ゲッター <srw4_units_getter_robo>`
      - 2800
@@ -529,7 +529,7 @@
    * - 1B
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1B_B.png
-     - \ :ref:`ゲッタードラゴン <srw4_unit_getter_dragon>`\ 
+     - \ :ref:`ゲッタードラゴン <srw4_unit_getter_dragon>`\ (盖塔龙)
      - Getter Dragon
      - :ref:`ゲッター <srw4_units_getter_robo>`
      - 3500
@@ -550,7 +550,7 @@
    * - 1C
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1C_B.png
-     - \ :ref:`ゲッターライガー <srw4_unit_getter_liger>`\ 
+     - \ :ref:`ゲッターライガー <srw4_unit_getter_liger>`\ (盖塔狮虎)
      - Getter Liger
      - :ref:`ゲッター <srw4_units_getter_robo>`
      - 3500
@@ -571,7 +571,7 @@
    * - 1D
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1D_B.png
-     - \ :ref:`ゲッターポセイドン <srw4_unit_getter_poseidon>`\ 
+     - \ :ref:`ゲッターポセイドン <srw4_unit_getter_poseidon>`\ (盖塔海皇)
      - Getter Poseidon
      - :ref:`ゲッター <srw4_units_getter_robo>`
      - 3500
@@ -592,7 +592,7 @@
    * - 1E
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1E_B.png
-     - \ :ref:`マジンガーZ <srw4_unit_mazinger_z>`\ 
+     - \ :ref:`マジンガーZ <srw4_unit_mazinger_z>`\ (魔神Z)
      - Mazinger Z
      - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 3200
@@ -613,7 +613,7 @@
    * - 1F
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_1F_B.png
-     - \ :ref:`マジンガーZ（JS） <srw4_unit_mazinger_z_js>`\ 
+     - \ :ref:`マジンガーZ（JS） <srw4_unit_mazinger_z_js>`\ (飞翼魔神Z)
      - Mazinger Z (JS)
      - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 3500
@@ -634,7 +634,7 @@
    * - 20
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_20_B.png
-     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\ 
+     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\ (大魔神)
      - Great Mazinger
      - :ref:`グレートマジンガー <srw4_units_great_mazinger>`
      - 3800
@@ -655,7 +655,7 @@
    * - 21
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_21_B.png
-     - \ :ref:`グレンダイザー <srw4_unit_grendizer>`\ 
+     - \ :ref:`グレンダイザー <srw4_unit_grendizer>`\ (古连泰沙)
      - Grendizer
      - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 3800
@@ -676,7 +676,7 @@
    * - 22
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_22_B.png
-     - \ :ref:`スペイザー <srw4_unit_spacer>`\ 
+     - \ :ref:`スペイザー <srw4_unit_spacer>`\ (斯陪沙)
      - Spacer
      - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 3800
@@ -697,7 +697,7 @@
    * - 23
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_23_B.png
-     - \ :ref:`ダブルスペイザー <srw4_unit_double_spacer>`\ 
+     - \ :ref:`ダブルスペイザー <srw4_unit_double_spacer>`\ (飞行斯陪沙)
      - Double Spacer
      - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 2800
@@ -718,7 +718,7 @@
    * - 24
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_24_B.png
-     - \ :ref:`ドリルスパイザー <srw4_unit_drill_spider>`\ 
+     - \ :ref:`ドリルスパイザー <srw4_unit_drill_spider>`\ (钻地斯陪沙)
      - Drill Spider
      - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 2900
@@ -739,7 +739,7 @@
    * - 25
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_25_B.png
-     - \ :ref:`マリンスペイザー <srw4_unit_marine_spacer>`\ 
+     - \ :ref:`マリンスペイザー <srw4_unit_marine_spacer>`\ (潜水斯陪沙)
      - Marine Spacer
      - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 2700
@@ -760,7 +760,7 @@
    * - 26
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_26_B.png
-     - \ :ref:`グレンダイザー (WS) <srw4_unit_grendizer_ws>`\ 
+     - \ :ref:`グレンダイザー (WS) <srw4_unit_grendizer_ws>`\ (飞行古连泰沙)
      - Grendizer (WS)
      - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 3800
@@ -781,7 +781,7 @@
    * - 27
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_27_B.png
-     - \ :ref:`グレンダイザー (DS) <srw4_unit_grendizer_ds>`\ 
+     - \ :ref:`グレンダイザー (DS) <srw4_unit_grendizer_ds>`\ (钻地古连泰沙)
      - Grendizer (DS)
      - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 3800
@@ -802,7 +802,7 @@
    * - 28
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_28_B.png
-     - \ :ref:`グレンダイザー (MS) <srw4_unit_grendizer_ms>`\ 
+     - \ :ref:`グレンダイザー (MS) <srw4_unit_grendizer_ms>`\ (潜水古连泰沙)
      - Grendizer (MS)
      - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 3800
@@ -823,7 +823,7 @@
    * - 29
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_29_B.png
-     - \ :ref:`アフロダイA <srw4_unit_aphrodite_a>`\ 
+     - \ :ref:`アフロダイA <srw4_unit_aphrodite_a>`\ (阿弗洛蒂A)
      - Aphrodite A
      - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 2800
@@ -844,7 +844,7 @@
    * - 2A
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_2A_B.png
-     - \ :ref:`ダイアナンA <srw4_unit_diana_a>`\ 
+     - \ :ref:`ダイアナンA <srw4_unit_diana_a>`\ (戴安娜A)
      - Diana A
      - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 3100
@@ -865,7 +865,7 @@
    * - 2B
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_2B_B.png
-     - \ :ref:`ボスボロット <srw4_unit_boss_borot>`\ 
+     - \ :ref:`ボスボロット <srw4_unit_boss_borot>`\ (波士机器人)
      - Boss Borot
      - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 2900
@@ -886,7 +886,7 @@
    * - 2C
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_2C_B.png
-     - \ :ref:`ビューナスA <srw4_unit_venus_a>`\ 
+     - \ :ref:`ビューナスA <srw4_unit_venus_a>`\ (维纳斯A)
      - Venus A
      - :ref:`グレートマジンガー <srw4_units_great_mazinger>`
      - 3400
@@ -907,7 +907,7 @@
    * - 2D
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_2D_B.png
-     - \ :ref:`バトルジェット <srw4_unit_battle_jet>`\ 
+     - \ :ref:`バトルジェット <srw4_unit_battle_jet>`\ (战斗喷气机)
      - Battle Jet
      - :ref:`コンバトラーV <srw4_units_combattler_v>`
      - 1600
@@ -928,7 +928,7 @@
    * - 2E
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_2E_B.png
-     - \ :ref:`バトルクラッシャー <srw4_unit_battle_crusher>`\ 
+     - \ :ref:`バトルクラッシャー <srw4_unit_battle_crusher>`\ (战斗轰炸机)
      - Battle Crusher
      - :ref:`コンバトラーV <srw4_units_combattler_v>`
      - 1800
@@ -949,7 +949,7 @@
    * - 2F
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_2F_B.png
-     - \ :ref:`バトルタンク <srw4_unit_battle_tank>`\ 
+     - \ :ref:`バトルタンク <srw4_unit_battle_tank>`\ (战斗坦克)
      - Battle Tank
      - :ref:`コンバトラーV <srw4_units_combattler_v>`
      - 2000
@@ -970,7 +970,7 @@
    * - 30
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_30_B.png
-     - \ :ref:`バトルマリン <srw4_unit_battle_marine>`\ 
+     - \ :ref:`バトルマリン <srw4_unit_battle_marine>`\ (战斗潜艇)
      - Battle Marine
      - :ref:`コンバトラーV <srw4_units_combattler_v>`
      - 1500
@@ -991,7 +991,7 @@
    * - 31
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_31_B.png
-     - \ :ref:`バトロウクラフト <srw4_unit_battle_craft>`\ 
+     - \ :ref:`バトロウクラフト <srw4_unit_battle_craft>`\ (战斗飞艇)
      - Battle Craft
      - :ref:`コンバトラーV <srw4_units_combattler_v>`
      - 1300
@@ -1012,7 +1012,7 @@
    * - 32
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_32_B.png
-     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\ 
+     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\ (孔巴特拉V)
      - Combattler V
      - :ref:`コンバトラーV <srw4_units_combattler_v>`
      - 4600
@@ -1033,7 +1033,7 @@
    * - 33
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_33_B.png
-     - \ :ref:`ライディーン <srw4_unit_reideen>`\ 
+     - \ :ref:`ライディーン <srw4_unit_reideen>`\ (莱汀)
      - Reideen
      - :ref:`ライディーン <srw4_units_reideen_the_brave>`
      - 3800
@@ -1054,7 +1054,7 @@
    * - 34
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_34_B.png
-     - \ :ref:`ブルーガー <srw4_unit_bluegar>`\ 
+     - \ :ref:`ブルーガー <srw4_unit_bluegar>`\ (布尔加)
      - Bluegar
      - :ref:`ライディーン <srw4_units_reideen_the_brave>`
      - 1200
@@ -1075,7 +1075,7 @@
    * - 35
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_35_B.png
-     - \ :ref:`ダイモス <srw4_unit_daimos>`\ 
+     - \ :ref:`ダイモス <srw4_unit_daimos>`\ (戴莫斯)
      - Daimos
      - :ref:`ダイモス <srw4_units_daimos>`
      - 4000
@@ -1096,7 +1096,7 @@
    * - 36
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_36_B.png
-     - \ :ref:`ガルバーFXⅡ <srw4_unit_galva_fx_ii>`\ 
+     - \ :ref:`ガルバーFXⅡ <srw4_unit_galva_fx_ii>`\ (加尔巴FXⅡ)
      - Galva FX-II
      - :ref:`ダイモス <srw4_units_daimos>`
      - 1300
@@ -1117,7 +1117,7 @@
    * - 37
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_37_B.png
-     - \ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\ 
+     - \ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\ (泰坦3)
      - Daitarn 3
      - :ref:`ダイターン3 <srw4_units_daitarn_3>`
      - 4700
@@ -1138,7 +1138,7 @@
    * - 38
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_38_B.png
-     - \ :ref:`ダイファイター <srw4_unit_dai_fighter>`\ 
+     - \ :ref:`ダイファイター <srw4_unit_dai_fighter>`\ (泰坦战机)
      - Dai Fighter
      - :ref:`ダイターン3 <srw4_units_daitarn_3>`
      - 4700
@@ -1159,7 +1159,7 @@
    * - 39
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_39_B.png
-     - \ :ref:`ダイタンク <srw4_unit_dai_tank>`\ 
+     - \ :ref:`ダイタンク <srw4_unit_dai_tank>`\ (泰坦战车)
      - Dai Tank
      - :ref:`ダイターン3 <srw4_units_daitarn_3>`
      - 4700
@@ -1180,7 +1180,7 @@
    * - 3A
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_3A_B.png
-     - \ :ref:`ザンバード <srw4_unit_zambird>`\ 
+     - \ :ref:`ザンバード <srw4_unit_zambird>`\ (赞波鸟)
      - Zambird
      - :ref:`ザンボット3 <srw4_units_zambot_3>`
      - 2600
@@ -1201,7 +1201,7 @@
    * - 3B
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_3B_B.png
-     - \ :ref:`ザンボエース <srw4_unit_zambo_ace>`\ 
+     - \ :ref:`ザンボエース <srw4_unit_zambo_ace>`\ (赞波A)
      - Zambo Ace
      - :ref:`ザンボット3 <srw4_units_zambot_3>`
      - 2600
@@ -1222,7 +1222,7 @@
    * - 3C
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_3C_B.png
-     - \ :ref:`ザンブル <srw4_unit_zambull>`\ 
+     - \ :ref:`ザンブル <srw4_unit_zambull>`\ (赞波牛)
      - Zambull
      - :ref:`ザンボット3 <srw4_units_zambot_3>`
      - 2700
@@ -1243,7 +1243,7 @@
    * - 3D
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_3D_B.png
-     - \ :ref:`ザンベース <srw4_unit_zambase>`\ 
+     - \ :ref:`ザンベース <srw4_unit_zambase>`\ (赞波B)
      - Zambase
      - :ref:`ザンボット3 <srw4_units_zambot_3>`
      - 2500
@@ -1264,7 +1264,7 @@
    * - 3E
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_3E_B.png
-     - \ :ref:`ザンボット3 <srw4_unit_zambot_3>`\ 
+     - \ :ref:`ザンボット3 <srw4_unit_zambot_3>`\ (赞波特3)
      - Zambot 3
      - :ref:`ザンボット3 <srw4_units_zambot_3>`
      - 3400
@@ -1285,7 +1285,7 @@
    * - 3F
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_3F_B.png
-     - \ :ref:`ダンバイン <srw4_unit_dunbine>`\ 
+     - \ :ref:`ダンバイン <srw4_unit_dunbine>`\ (丹拜因)
      - Dunbine
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 1400
@@ -1306,7 +1306,7 @@
    * - 40
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_40_B.png
-     - \ :ref:`ビルバイン <srw4_unit_bilvine>`\ 
+     - \ :ref:`ビルバイン <srw4_unit_bilvine>`\ (比尔拜因)
      - Bilvine
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 2000
@@ -1327,7 +1327,7 @@
    * - 41
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_41_B.png
-     - \ :ref:`ウイングキャリバー <srw4_unit_wing_caliber>`\ 
+     - \ :ref:`ウイングキャリバー <srw4_unit_wing_caliber>`\ (翼比尔拜因)
      - Wing Caliber
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 2000
@@ -1348,7 +1348,7 @@
    * - 42
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_42_B.png
-     - \ :ref:`ゴーショーグン <srw4_unit_goshogun>`\ 
+     - \ :ref:`ゴーショーグン <srw4_unit_goshogun>`\ (战国魔神)
      - Goshogun
      - :ref:`ゴーショーグン <srw4_units_goshogun>`
      - 4000
@@ -1369,7 +1369,7 @@
    * - 43
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_43_B.png
-     - \ :ref:`ダンクーガ <srw4_unit_dancouga>`\ 
+     - \ :ref:`ダンクーガ <srw4_unit_dancouga>`\ (断空我)
      - Dancouga
      - :ref:`ダンクーガ <srw4_units_dancouga>`
      - 4300
@@ -1390,7 +1390,7 @@
    * - 44
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_44_B.png
-     - \ :ref:`イーグルファイターN <srw4_unit_eagle_fighter_n>`\ 
+     - \ :ref:`イーグルファイターN <srw4_unit_eagle_fighter_n>`\ (鹰战机)
      - Eagle Fighter N
      - :ref:`ダンクーガ <srw4_units_dancouga>`
      - 2200
@@ -1411,7 +1411,7 @@
    * - 45
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_45_B.png
-     - \ :ref:`イーグルファイターA <srw4_unit_eagle_fighter_a>`\ 
+     - \ :ref:`イーグルファイターA <srw4_unit_eagle_fighter_a>`\ (鹰战机A)
      - Eagle Fighter A
      - :ref:`ダンクーガ <srw4_units_dancouga>`
      - 2200
@@ -1432,7 +1432,7 @@
    * - 46
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_46_B.png
-     - \ :ref:`イーグルファイターH <srw4_unit_eagle_fighter_h>`\ 
+     - \ :ref:`イーグルファイターH <srw4_unit_eagle_fighter_h>`\ (鹰战机H)
      - Eagle Fighter H
      - :ref:`ダンクーガ <srw4_units_dancouga>`
      - 2200
@@ -1453,7 +1453,7 @@
    * - 47
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_47_B.png
-     - \ :ref:`ランドクーガーN <srw4_unit_land_cougar_n>`\ 
+     - \ :ref:`ランドクーガーN <srw4_unit_land_cougar_n>`\ (猎豹N)
      - Land Cougar N
      - :ref:`ダンクーガ <srw4_units_dancouga>`
      - 2600
@@ -1474,7 +1474,7 @@
    * - 48
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_48_B.png
-     - \ :ref:`ランドクーガーA <srw4_unit_land_cougar_a>`\ 
+     - \ :ref:`ランドクーガーA <srw4_unit_land_cougar_a>`\ (猎豹A)
      - Land Cougar A
      - :ref:`ダンクーガ <srw4_units_dancouga>`
      - 2600
@@ -1495,7 +1495,7 @@
    * - 49
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_49_B.png
-     - \ :ref:`ランドクーガーH <srw4_unit_land_cougar_h>`\ 
+     - \ :ref:`ランドクーガーH <srw4_unit_land_cougar_h>`\ (猎豹H)
      - Land Cougar H
      - :ref:`ダンクーガ <srw4_units_dancouga>`
      - 2600
@@ -1516,7 +1516,7 @@
    * - 4A
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_4A_B.png
-     - \ :ref:`ランドライガーN <srw4_unit_land_liger_n>`\ 
+     - \ :ref:`ランドライガーN <srw4_unit_land_liger_n>`\ (美洲虎N)
      - Land Liger N
      - :ref:`ダンクーガ <srw4_units_dancouga>`
      - 2600
@@ -1537,7 +1537,7 @@
    * - 4B
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_4B_B.png
-     - \ :ref:`ランドライガーA <srw4_unit_land_liger_a>`\ 
+     - \ :ref:`ランドライガーA <srw4_unit_land_liger_a>`\ (美洲虎A)
      - Land Liger A
      - :ref:`ダンクーガ <srw4_units_dancouga>`
      - 2600
@@ -1558,7 +1558,7 @@
    * - 4C
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_4C_B.png
-     - \ :ref:`ランドライガーH <srw4_unit_land_liger_h>`\ 
+     - \ :ref:`ランドライガーH <srw4_unit_land_liger_h>`\ (美洲虎H)
      - Land Liger H
      - :ref:`ダンクーガ <srw4_units_dancouga>`
      - 2600
@@ -1579,7 +1579,7 @@
    * - 4D
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_4D_B.png
-     - \ :ref:`ビッグモスN <srw4_unit_big_moth_n>`\ 
+     - \ :ref:`ビッグモスN <srw4_unit_big_moth_n>`\ (巨象N)
      - Big Moth N
      - :ref:`ダンクーガ <srw4_units_dancouga>`
      - 3300
@@ -1600,7 +1600,7 @@
    * - 4E
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_4E_B.png
-     - \ :ref:`ビッグモスA <srw4_unit_big_moth_a>`\ 
+     - \ :ref:`ビッグモスA <srw4_unit_big_moth_a>`\ (巨象A)
      - Big Moth A
      - :ref:`ダンクーガ <srw4_units_dancouga>`
      - 3300
@@ -1621,7 +1621,7 @@
    * - 4F
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_4F_B.png
-     - \ :ref:`ビッグモスH <srw4_unit_big_moth_h>`\ 
+     - \ :ref:`ビッグモスH <srw4_unit_big_moth_h>`\ (巨象H)
      - Big Moth H
      - :ref:`ダンクーガ <srw4_units_dancouga>`
      - 3300
@@ -1642,7 +1642,7 @@
    * - 50
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_50_B.png
-     - \ :ref:`ブラッドテンプル <srw4_unit_blood_temple>`\ 
+     - \ :ref:`ブラッドテンプル <srw4_unit_blood_temple>`\ (血光神殿)
      - Blood Temple
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 53300
@@ -1663,7 +1663,7 @@
    * - 51
      - 没
      - 
-     - \ :ref:`アトールV <srw4_unit_a_taul_v>`\ 
+     - \ :ref:`アトールV <srw4_unit_a_taul_v>`\ (亚托鲁V)
      - A Taul V
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 25000
@@ -1684,7 +1684,7 @@
    * - 52
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_52_B.png
-     - \ :ref:`ゴッドネロス <srw4_unit_god_neros>`\ 
+     - \ :ref:`ゴッドネロス <srw4_unit_god_neros>`\ (暗黑神)
      - God Neros
      - :ref:`ゴーショーグン <srw4_units_goshogun>`
      - 25000
@@ -1705,7 +1705,7 @@
    * - 53
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_53_B.png
-     - \ :ref:`サイバスター <srw4_unit_cybuster>`\ 
+     - \ :ref:`サイバスター <srw4_unit_cybuster>`\ (塞巴斯塔)
      - Cybuster
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3200
@@ -1726,7 +1726,7 @@
    * - 54
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_54_B.png
-     - \ :ref:`サイバード <srw4_unit_cybird>`\ 
+     - \ :ref:`サイバード <srw4_unit_cybird>`\ (赛巴特)
      - Cybird
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3200
@@ -1747,7 +1747,7 @@
    * - 55
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_55_B.png
-     - \ :ref:`グランゾン <srw4_unit_granzon>`\ 
+     - \ :ref:`グランゾン <srw4_unit_granzon>`\ (古兰森)
      - Granzon
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 4800
@@ -1768,7 +1768,7 @@
    * - 56
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_56_B.png
-     - \ :ref:`ネオ·グランゾン <srw4_unit_neo_granzon>`\ 
+     - \ :ref:`ネオ·グランゾン <srw4_unit_neo_granzon>`\ (真·古兰森)
      - Neo Granzon
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 65000
@@ -1789,7 +1789,7 @@
    * - 57
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_57_B.png
-     - \ :ref:`ヴァルシオーネR <srw4_unit_valsione_r>`\ 
+     - \ :ref:`ヴァルシオーネR <srw4_unit_valsione_r>`\ (瓦尔西奥妮R)
      - Valsione R
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3500
@@ -1810,7 +1810,7 @@
    * - 58
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_58_B.png
-     - \ :ref:`ザムジード <srw4_unit_zamzeed>`\ 
+     - \ :ref:`ザムジード <srw4_unit_zamzeed>`\ (扎姆基德)
      - Zamzeed
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 4300
@@ -1831,7 +1831,7 @@
    * - 59
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_59_B.png
-     - \ :ref:`グランヴェール <srw4_unit_grannvale>`\ 
+     - \ :ref:`グランヴェール <srw4_unit_grannvale>`\ (古兰威尔)
      - Grannvale
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3500
@@ -1852,7 +1852,7 @@
    * - 5A
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_5A_B.png
-     - \ :ref:`ガッデス <srw4_unit_gaddeath>`\ 
+     - \ :ref:`ガッデス <srw4_unit_gaddeath>`\ (加迪斯)
      - Gaddeath
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3600
@@ -1873,7 +1873,7 @@
    * - 5B
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_5B_B.png
-     - \ :ref:`ウィーゾル改 <srw4_unit_weesol_kai>`\ 
+     - \ :ref:`ウィーゾル改 <srw4_unit_weesol_kai>`\ (维佐尔·改)
      - Weesol Kai
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3400
@@ -1894,7 +1894,7 @@
    * - 5C
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_5C_B.png
-     - \ :ref:`ノルス・レイ <srw4_unit_nors_ray>`\ 
+     - \ :ref:`ノルス·レイ <srw4_unit_nors_ray>`\ (诺鲁斯·改)
      - Nors Ray
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3200
@@ -1915,7 +1915,7 @@
    * - 5D
      - 中
      - .. image:: ../units/images/icon/srw4_units_icon_5D_B.png
-     - \ :ref:`ガディフォール <srw4_unit_gadifal>`\ 
+     - \ :ref:`ガディフォール <srw4_unit_gadifal>`\ (加迪弗尔)
      - Gadifal
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3200
@@ -1936,7 +1936,7 @@
    * - 5E
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_5E_B.png
-     - \ :ref:`ゲシュペンスト（リアル） <srw4_unit_gespenst_real>`\ 
+     - \ :ref:`ゲシュペンスト（リアル） <srw4_unit_gespenst_real>`\ (R型亡灵)
      - Gespenst (Real)
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 2300
@@ -1957,7 +1957,7 @@
    * - 5F
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_5F_B.png
-     - \ :ref:`ザク改 <srw4_unit_zaku_kai>`\ 
+     - \ :ref:`ザク改 <srw4_unit_zaku_kai>`\ (扎古改)
      - Zaku Kai
      - :ref:`ガンダム0080 <srw4_units_mobile_suit_gundam_0080>`
      - 1400
@@ -1978,7 +1978,7 @@
    * - 60
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_60_B.png
-     - \ :ref:`ドム <srw4_unit_dom>`\ 
+     - \ :ref:`ドム <srw4_unit_dom>`\ (MS-09 大魔)
      - Dom
      - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 1500
@@ -1999,7 +1999,7 @@
    * - 61
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_61_B.png
-     - \ :ref:`エルメス <srw4_unit_elmeth>`\ 
+     - \ :ref:`エルメス <srw4_unit_elmeth>`\ (艾尔梅斯)
      - Elmeth
      - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 3000
@@ -2020,7 +2020,7 @@
    * - 62
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_62_B.png
-     - \ :ref:`マラサイ <srw4_unit_marasai>`\ 
+     - \ :ref:`マラサイ <srw4_unit_marasai>`\ (玛拉塞)
      - Marasai
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1900
@@ -2041,7 +2041,7 @@
    * - 63
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_63_B.png
-     - \ :ref:`バーザム <srw4_unit_barzam>`\ 
+     - \ :ref:`バーザム <srw4_unit_barzam>`\ (巴扎姆)
      - Barzam
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1800
@@ -2062,7 +2062,7 @@
    * - 64
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_64_B.png
-     - \ :ref:`ハンブラビ (MS) <srw4_unit_hambrabi_ms>`\ 
+     - \ :ref:`ハンブラビ (MS) <srw4_unit_hambrabi_ms>`\ (MS型汉布拉比)
      - Hambrabi (MS)
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1900
@@ -2083,7 +2083,7 @@
    * - 65
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_65_B.png
-     - \ :ref:`ハンブラビ (MA) <srw4_unit_hambrabi_ma>`\ 
+     - \ :ref:`ハンブラビ (MA) <srw4_unit_hambrabi_ma>`\ (MA型汉布拉比)
      - Hambrabi (MA)
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1900
@@ -2104,7 +2104,7 @@
    * - 66
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_66_B.png
-     - \ :ref:`アッシマー (MS) <srw4_unit_asshimar_ms>`\ 
+     - \ :ref:`アッシマー (MS) <srw4_unit_asshimar_ms>`\ (MS型阿希玛)
      - Asshimar (MS)
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 2400
@@ -2125,7 +2125,7 @@
    * - 67
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_67_B.png
-     - \ :ref:`アッシマー (MA) <srw4_unit_asshimar_ma>`\ 
+     - \ :ref:`アッシマー (MA) <srw4_unit_asshimar_ma>`\ (MA型阿希玛)
      - Asshimar (MA)
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 2400
@@ -2146,7 +2146,7 @@
    * - 68
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_68_B.png
-     - \ :ref:`サイコガンダム (MS) <srw4_unit_psycho_gundam_ms>`\ 
+     - \ :ref:`サイコガンダム (MS) <srw4_unit_psycho_gundam_ms>`\ (MS型精神力高达)
      - Psycho Gundam (MS)
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 14500
@@ -2167,7 +2167,7 @@
    * - 69
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_69_B.png
-     - \ :ref:`サイコガンダム (MA) <srw4_unit_psycho_gundam_ma>`\ 
+     - \ :ref:`サイコガンダム (MA) <srw4_unit_psycho_gundam_ma>`\ (MA型精神力高达)
      - Psycho Gundam (MA)
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 14500
@@ -2188,7 +2188,7 @@
    * - 6A
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_6A_B.png
-     - \ :ref:`バイアラン <srw4_unit_byarlant>`\ 
+     - \ :ref:`バイアラン <srw4_unit_byarlant>`\ (拜亚兰)
      - Byarlant
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 2000
@@ -2209,7 +2209,7 @@
    * - 6B
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_6B_B.png
-     - \ :ref:`ガブスレイ (MS) <srw4_unit_gabthley_ms>`\ 
+     - \ :ref:`ガブスレイ (MS) <srw4_unit_gabthley_ms>`\ (MS型卡普司利)
      - Gabthley (MS)
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1900
@@ -2230,7 +2230,7 @@
    * - 6C
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_6C_B.png
-     - \ :ref:`ガブスレイ (MA) <srw4_unit_gabthley_ma>`\ 
+     - \ :ref:`ガブスレイ (MA) <srw4_unit_gabthley_ma>`\ (MA型卡普司利)
      - Gabthley (MA)
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1900
@@ -2251,7 +2251,7 @@
    * - 6D
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_6D_B.png
-     - \ :ref:`バウンド・ドック (MS) <srw4_unit_baund_doc_ms>`\ 
+     - \ :ref:`バウンド·ドック (MS) <srw4_unit_baund_doc_ms>`\ (MS型猎犬)
      - Baund Doc (MS)
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 5500
@@ -2272,7 +2272,7 @@
    * - 6E
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_6E_B.png
-     - \ :ref:`バウンド・ドック (MA) <srw4_unit_baund_doc_ma>`\ 
+     - \ :ref:`バウンド·ドック (MA) <srw4_unit_baund_doc_ma>`\ (MA型猎犬)
      - Baund Doc (MA)
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 5500
@@ -2293,7 +2293,7 @@
    * - 6F
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_6F_B.png
-     - \ :ref:`サイコガンダム Mk-II (MS) <srw4_unit_psycho_gundam_mk_ii_ms>`\ 
+     - \ :ref:`サイコガンダム Mk-II (MS) <srw4_unit_psycho_gundam_mk_ii_ms>`\ (MS型精神力高达 Mk-II)
      - Psycho Gundam Mk-II (MS)
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 25000
@@ -2314,7 +2314,7 @@
    * - 70
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_70_B.png
-     - \ :ref:`サイコガンダム Mk-II (MA) <srw4_unit_psycho_gundam_mk_ii_ma>`\ 
+     - \ :ref:`サイコガンダム Mk-II (MA) <srw4_unit_psycho_gundam_mk_ii_ma>`\ (MA型精神力高达 Mk-II)
      - Psycho Gundam Mk-II (MA)
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 25000
@@ -2356,7 +2356,7 @@
    * - 72
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_72_B.png
-     - \ :ref:`メタス (MS) <srw4_unit_methuss_ms>`\ 
+     - \ :ref:`メタス (MS) <srw4_unit_methuss_ms>`\ (MS型梅塔斯)
      - Methuss (MS)
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1800
@@ -2377,7 +2377,7 @@
    * - 73
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_73_B.png
-     - \ :ref:`メタス (MA) <srw4_unit_methuss_ma>`\ 
+     - \ :ref:`メタス (MA) <srw4_unit_methuss_ma>`\ (MA型梅塔斯)
      - Methuss (MA)
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1800
@@ -2398,7 +2398,7 @@
    * - 74
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_74_B.png
-     - \ :ref:`ブラウ・ブロ <srw4_unit_braw_bro>`\ 
+     - \ :ref:`ブラウ·ブロ <srw4_unit_braw_bro>`\ (布劳·布罗)
      - Braw Bro
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 14000
@@ -2419,7 +2419,7 @@
    * - 75
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_75_B.png
-     - \ :ref:`ビグロ <srw4_unit_bigro>`\ 
+     - \ :ref:`ビグロ <srw4_unit_bigro>`\ (比古罗)
      - Bigro
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 7700
@@ -2440,7 +2440,7 @@
    * - 76
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_76_B.png
-     - \ :ref:`ケンプファー <srw4_unit_kampfer>`\ 
+     - \ :ref:`ケンプファー <srw4_unit_kampfer>`\ (MS-18 斗士)
      - Kampfer
      - :ref:`ガンダム0080 <srw4_units_mobile_suit_gundam_0080>`
      - 1800
@@ -2461,7 +2461,7 @@
    * - 77
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_77_B.png
-     - \ :ref:`ヴァル・ヴァロ <srw4_unit_val_walo>`\ 
+     - \ :ref:`ヴァル·ヴァロ <srw4_unit_val_walo>`\ (瓦尔·瓦罗)
      - Val Walo
      - :ref:`ガンダム0083 <srw4_units_mobile_suit_gundam_0083>`
      - 6600
@@ -2482,7 +2482,7 @@
    * - 78
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_78_B.png
-     - \ :ref:`ガーベラ・テトラ <srw4_unit_gerbera_tetra>`\ 
+     - \ :ref:`ガーベラ·テトラ <srw4_unit_gerbera_tetra>`\ (红色角马)
      - Gerbera Tetra
      - :ref:`ガンダム0083 <srw4_units_mobile_suit_gundam_0083>`
      - 1800
@@ -2503,7 +2503,7 @@
    * - 79
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_79_B.png
-     - \ :ref:`ノイエ・ジール <srw4_unit_neue_ziel>`\ 
+     - \ :ref:`ノイエ·ジール <srw4_unit_neue_ziel>`\ (诺维·捷鲁)
      - Neue Ziel
      - :ref:`ガンダム0083 <srw4_units_mobile_suit_gundam_0083>`
      - 5000
@@ -2524,7 +2524,7 @@
    * - 7A
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_7A_B.png
-     - \ :ref:`キュベレイ <srw4_unit_qubeley>`\ 
+     - \ :ref:`キュベレイ <srw4_unit_qubeley>`\ (卡碧尼)
      - Qubeley
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 40000
@@ -2545,7 +2545,7 @@
    * - 7B
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_7B_B.png
-     - \ :ref:`キュベレイ Mk-II <srw4_unit_qubeley_mk_ii>`\ 
+     - \ :ref:`キュベレイ Mk-II <srw4_unit_qubeley_mk_ii>`\ (卡碧尼 Mk-II)
      - Qubeley Mk-II
      - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 2100
@@ -2566,7 +2566,7 @@
    * - 7C
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_7C_B.png
-     - \ :ref:`ガルスJ <srw4_unit_galluss_j>`\ 
+     - \ :ref:`ガルスJ <srw4_unit_galluss_j>`\ (卡尔斯J)
      - Galluss-J
      - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 1900
@@ -2587,7 +2587,7 @@
    * - 7D
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_7D_B.png
-     - \ :ref:`ズサ <srw4_unit_zssa>`\ 
+     - \ :ref:`ズサ <srw4_unit_zssa>`\ (兹萨)
      - Zssa
      - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 2000
@@ -2608,7 +2608,7 @@
    * - 7E
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_7E_B.png
-     - \ :ref:`ハンマ・ハンマ <srw4_unit_hamma_hamma>`\ 
+     - \ :ref:`ハンマ·ハンマ <srw4_unit_hamma_hamma>`\ (哈玛·哈玛)
      - Hamma Hamma
      - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 2000
@@ -2629,7 +2629,7 @@
    * - 7F
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_7F_B.png
-     - \ :ref:`R・ジャジャ <srw4_unit_r_jarja>`\ 
+     - \ :ref:`R·ジャジャ <srw4_unit_r_jarja>`\ (R·贾贾)
      - R-Jarja
      - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 2000
@@ -2650,7 +2650,7 @@
    * - 80
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_80_B.png
-     - \ :ref:`バウ (MS) <srw4_unit_bawoo_ms>`\ 
+     - \ :ref:`バウ (MS) <srw4_unit_bawoo_ms>`\ (MS型龙飞)
      - Bawoo (MS)
      - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 2200
@@ -2671,7 +2671,7 @@
    * - 81
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_81_B.png
-     - \ :ref:`バウ (MA) <srw4_unit_bawoo_ma>`\ 
+     - \ :ref:`バウ (MA) <srw4_unit_bawoo_ma>`\ (MA型龙飞)
      - Bawoo (MA)
      - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 2200
@@ -2692,7 +2692,7 @@
    * - 82
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_82_B.png
-     - \ :ref:`ドライセン <srw4_unit_dreissen>`\ 
+     - \ :ref:`ドライセン <srw4_unit_dreissen>`\ (德莱森)
      - Dreissen
      - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 2200
@@ -2713,7 +2713,7 @@
    * - 83
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_83_B.png
-     - \ :ref:`クイン・マンサ <srw4_unit_quin_mantha>`\ 
+     - \ :ref:`クイン·マンサ <srw4_unit_quin_mantha>`\ (昆·曼沙)
      - Quin Mantha
      - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 28200
@@ -2734,7 +2734,7 @@
    * - 84
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_84_B.png
-     - \ :ref:`ドーベンウルフ <srw4_unit_doven_wolf>`\ 
+     - \ :ref:`ドーベンウルフ <srw4_unit_doven_wolf>`\ (飙狼)
      - Doven Wolf
      - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 4000
@@ -2755,7 +2755,7 @@
    * - 85
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_85_B.png
-     - \ :ref:`ゲーマルク <srw4_unit_geymalk>`\ 
+     - \ :ref:`ゲーマルク <srw4_unit_geymalk>`\ (盖马克)
      - Geymalk
      - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 5200
@@ -2776,7 +2776,7 @@
    * - 86
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_86_B.png
-     - \ :ref:`ギラ・ドーガ（绿） <srw4_unit_geara_doga_green>`\ 
+     - \ :ref:`ギラ·ドーガ（绿） <srw4_unit_geara_doga_green>`\ (基拉·多加)
      - Geara Doga (green)
      - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 2300
@@ -2797,7 +2797,7 @@
    * - 87
      - 没
      - .. image:: ../units/images/icon/srw4_units_icon_87_B.png
-     - \ :ref:`ギラ・ドーガ（强化） <srw4_unit_geara_doga_upgraded>`\ 
+     - \ :ref:`ギラ·ドーガ（强化） <srw4_unit_geara_doga_upgraded>`\ (强化型基拉·多加)
      - Geara Doga (upgraded)
      - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 2500
@@ -2818,7 +2818,7 @@
    * - 88
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_88_B.png
-     - \ :ref:`ヤクト・ドーガ（青） <srw4_unit_jagd_doga_blue>`\ 
+     - \ :ref:`ヤクト·ドーガ（青） <srw4_unit_jagd_doga_blue>`\ (量产型亚克·多加)
      - Jagd Doga (blue)
      - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 3500
@@ -2839,7 +2839,7 @@
    * - 89
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_89_B.png
-     - \ :ref:`ヤクト・ドーガ（赤） <srw4_unit_jagd_doga_red>`\ 
+     - \ :ref:`ヤクト·ドーガ（赤） <srw4_unit_jagd_doga_red>`\ (亚克·多加柯丝号)
      - Jagd Doga (red)
      - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 3500
@@ -2860,7 +2860,7 @@
    * - 8A
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_8A_B.png
-     - \ :ref:`サザビー <srw4_unit_sazabi>`\ 
+     - \ :ref:`サザビー <srw4_unit_sazabi>`\ (沙扎比)
      - Sazabi
      - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 4300
@@ -2881,7 +2881,7 @@
    * - 8B
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_8B_B.png
-     - \ :ref:`α・アジール <srw4_unit_alpha_azieru>`\ 
+     - \ :ref:`α·アジール <srw4_unit_alpha_azieru>`\ (α·亚基鲁)
      - Alpha Azieru
      - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 35000
@@ -2902,7 +2902,7 @@
    * - 8C
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_8C_B.png
-     - \ :ref:`ビギナ・ギナ <srw4_unit_vigna_ghina>`\ 
+     - \ :ref:`ビギナ·ギナ <srw4_unit_vigna_ghina>`\ (比基纳·基纳)
      - Vigna Ghina
      - :ref:`ガンダムF91 <srw4_units_mobile_suit_gundam_f91>`
      - 2600
@@ -2923,7 +2923,7 @@
    * - 8D
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_8D_B.png
-     - \ :ref:`ベルガ・ギロス <srw4_unit_berga_giros>`\ 
+     - \ :ref:`ベルガ·ギロス <srw4_unit_berga_giros>`\ (贝尔加·基罗斯)
      - Berga Giros
      - :ref:`ガンダムF91 <srw4_units_mobile_suit_gundam_f91>`
      - 2600
@@ -2944,7 +2944,7 @@
    * - 8E
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_8E_B.png
-     - \ :ref:`ラフレシア <srw4_unit_rafflesia>`\ 
+     - \ :ref:`ラフレシア <srw4_unit_rafflesia>`\ (大王花)
      - Rafflesia
      - :ref:`ガンダムF91 <srw4_units_mobile_suit_gundam_f91>`
      - 34000
@@ -2965,7 +2965,7 @@
    * - 8F
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_8F_B.png
-     - \ :ref:`メカザウルス・サキ <srw4_unit_mechasaurus_saki>`\ 
+     - \ :ref:`メカザウルス·サキ <srw4_unit_mechasaurus_saki>`\ (机械恐龙·萨基)
      - Mechasaurus Saki
      - :ref:`ゲッター <srw4_units_getter_robo>`
      - 3000
@@ -2986,7 +2986,7 @@
    * - 90
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_90_B.png
-     - \ :ref:`メカザウルス・バド <srw4_unit_mechasaurus_bado>`\ 
+     - \ :ref:`メカザウルス·バド <srw4_unit_mechasaurus_bado>`\ (机械恐龙·巴德)
      - Mechasaurus Bado
      - :ref:`ゲッター <srw4_units_getter_robo>`
      - 1800
@@ -3007,7 +3007,7 @@
    * - 91
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_91_B.png
-     - \ :ref:`メカザウルス・ザイ <srw4_unit_mechasaurus_zai>`\ 
+     - \ :ref:`メカザウルス·ザイ <srw4_unit_mechasaurus_zai>`\ (机械恐龙·扎伊)
      - Mechasaurus Zai
      - :ref:`ゲッター <srw4_units_getter_robo>`
      - 2500
@@ -3028,7 +3028,7 @@
    * - 92
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_92_B.png
-     - \ :ref:`メカザウルス・ゼンII <srw4_unit_mechasaurus_zen_ii>`\ 
+     - \ :ref:`メカザウルス·ゼンII <srw4_unit_mechasaurus_zen_ii>`\ (机械恐龙·曾II)
      - Mechasaurus Zen II
      - :ref:`ゲッター <srw4_units_getter_robo>`
      - 3300
@@ -3049,7 +3049,7 @@
    * - 93
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_93_B.png
-     - \ :ref:`メカザウルス・ダイ <srw4_unit_mechasaurus_dai>`\ 
+     - \ :ref:`メカザウルス·ダイ <srw4_unit_mechasaurus_dai>`\ (机械恐龙·达伊)
      - Mechasaurus Dai
      - :ref:`ゲッター <srw4_units_getter_robo>`
      - 20000
@@ -3070,7 +3070,7 @@
    * - 94
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_94_B.png
-     - \ :ref:`メカザウルス・シグ <srw4_unit_mechasaurus_shigu>`\ 
+     - \ :ref:`メカザウルス·シグ <srw4_unit_mechasaurus_shigu>`\ (机械恐龙·西格)
      - Mechasaurus Shigu
      - :ref:`ゲッター <srw4_units_getter_robo>`
      - 7200
@@ -3091,7 +3091,7 @@
    * - 95
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_95_B.png
-     - \ :ref:`機械獣ダブラスM2 <srw4_unit_mechanical_beast_doublas_m2>`\ 
+     - \ :ref:`機械獣ダブラスM2 <srw4_unit_mechanical_beast_doublas_m2>`\ (机械兽双头龙M2)
      - Mechanical Beast Doublas M2
      - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 3000
@@ -3112,7 +3112,7 @@
    * - 96
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_96_B.png
-     - \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\ 
+     - \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\ (机械兽镰刀兽K7)
      - Mechanical Beast Garada K7
      - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 3000
@@ -3133,7 +3133,7 @@
    * - 97
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_97_B.png
-     - \ :ref:`機械獣トロスD7 <srw4_unit_mechanical_beast_toros_d7>`\ 
+     - \ :ref:`機械獣トロスD7 <srw4_unit_mechanical_beast_toros_d7>`\ (机械兽托罗斯D7)
      - Mechanical Beast Toros D7
      - :ref:`劇場版マジンガーZ <srw4_units_mazinger_z_the_movie>`
      - 3200
@@ -3154,7 +3154,7 @@
    * - 98
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_98_B.png
-     - \ :ref:`ラインX1 <srw4_unit_rhine_x1>`\ 
+     - \ :ref:`ラインX1 <srw4_unit_rhine_x1>`\ (莱茵X1)
      - Rhine X1
      - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 7000
@@ -3175,7 +3175,7 @@
    * - 99
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_99_B.png
-     - \ :ref:`機械獣ジェノバM9 <srw4_unit_mechanical_beast_genova_m9>`\ 
+     - \ :ref:`機械獣ジェノバM9 <srw4_unit_mechanical_beast_genova_m9>`\ (机械兽热亚那M9)
      - Mechanical Beast Genova M9
      - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 3200
@@ -3196,7 +3196,7 @@
    * - 9A
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_9A_B.png
-     - \ :ref:`機械獣スパルタンK5 <srw4_unit_mechanical_beast_spartan_k5>`\ 
+     - \ :ref:`機械獣スパルタンK5 <srw4_unit_mechanical_beast_spartan_k5>`\ (机械兽斯巴达人K5)
      - Mechanical Beast Spartan K5
      - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 6000
@@ -3217,7 +3217,7 @@
    * - 9B
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_9B_B.png
-     - \ :ref:`機械獣アブドラU6 <srw4_unit_mechanical_beast_abdullah_u6>`\ 
+     - \ :ref:`機械獣アブドラU6 <srw4_unit_mechanical_beast_abdullah_u6>`\ (机械兽阿卜杜拉U6)
      - Mechanical Beast Abdullah U6
      - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 3300
@@ -3238,7 +3238,7 @@
    * - 9C
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_9C_B.png
-     - \ :ref:`グール <srw4_unit_ghoul>`\ 
+     - \ :ref:`グール <srw4_unit_ghoul>`\ (飞行要塞古鲁)
      - Ghoul
      - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 13000
@@ -3259,7 +3259,7 @@
    * - 9D
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_9D_B.png
-     - \ :ref:`ブード <srw4_unit_bood>`\ 
+     - \ :ref:`ブード <srw4_unit_bood>`\ (水下要塞布德)
      - Bood
      - :ref:`マジンガーZ <srw4_units_mazinger_z>`
      - 18000
@@ -3280,7 +3280,7 @@
    * - 9E
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_9E_B.png
-     - \ :ref:`戦闘獣グラトニオス <srw4_unit_warrior_beast_gratonios>`\ 
+     - \ :ref:`戦闘獣グラトニオス <srw4_unit_warrior_beast_gratonios>`\ (战斗兽古拉特尼奥斯)
      - Warrior Beast Gratonios
      - :ref:`グレートマジンガー <srw4_units_great_mazinger>`
      - 6500
@@ -3301,7 +3301,7 @@
    * - 9F
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_9F_B.png
-     - \ :ref:`戦闘獣オベリウス <srw4_unit_warrior_beast_obelius>`\ 
+     - \ :ref:`戦闘獣オベリウス <srw4_unit_warrior_beast_obelius>`\ (战斗兽贝利乌斯)
      - Warrior Beast Obelius
      - :ref:`グレートマジンガー <srw4_units_great_mazinger>`
      - 6700
@@ -3322,7 +3322,7 @@
    * - A0
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A0_B.png
-     - \ :ref:`ミニフォー <srw4_unit_minifo>`\ 
+     - \ :ref:`ミニフォー <srw4_unit_minifo>`\ (飞盘)
      - MiniFO
      - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 1000
@@ -3343,7 +3343,7 @@
    * - A1
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A1_B.png
-     - \ :ref:`マザーバーン <srw4_unit_mother_burn>`\ 
+     - \ :ref:`マザーバーン <srw4_unit_mother_burn>`\ (圆盘母舰)
      - Mother Burn
      - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 30000
@@ -3364,7 +3364,7 @@
    * - A2
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A2_B.png
-     - \ :ref:`円盤獣ギルギル <srw4_unit_saucer_beast_girugiru>`\ 
+     - \ :ref:`円盤獣ギルギル <srw4_unit_saucer_beast_girugiru>`\ (圆盘兽基鲁基鲁)
      - Saucer Beast Girugiru
      - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 6000
@@ -3385,7 +3385,7 @@
    * - A3
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A3_B.png
-     - \ :ref:`円盤獣ゴスゴス <srw4_unit_saucer_beast_gosgos>`\ 
+     - \ :ref:`円盤獣ゴスゴス <srw4_unit_saucer_beast_gosgos>`\ (圆盘兽格斯格斯)
      - Saucer Beast Gosgos
      - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 6500
@@ -3406,7 +3406,7 @@
    * - A4
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A4_B.png
-     - \ :ref:`ベガ獣キングゴリ <srw4_unit_vega_beast_king_gori>`\ 
+     - \ :ref:`ベガ獣キングゴリ <srw4_unit_vega_beast_king_gori>`\ (维加兽巨人王)
      - Vega Beast King Gori
      - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 8000
@@ -3427,7 +3427,7 @@
    * - A5
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A5_B.png
-     - \ :ref:`ピクドロン <srw4_unit_pikadron>`\ 
+     - \ :ref:`ピクドロン <srw4_unit_pikadron>`\ (皮克多隆)
      - Pikadron
      - :ref:`劇場版マジンガーZ <srw4_units_mazinger_z_the_movie>`
      - 20000
@@ -3448,7 +3448,7 @@
    * - A6
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A6_B.png
-     - \ :ref:`ギルギルガン <srw4_unit_gilgilgan>`\ 
+     - \ :ref:`ギルギルガン <srw4_unit_gilgilgan>`\ (基鲁基鲁刚)
      - Gilgilgan
      - :ref:`劇場版マジンガーZ <srw4_units_mazinger_z_the_movie>`
      - 22000
@@ -3469,7 +3469,7 @@
    * - A7
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A7_B.png
-     - \ :ref:`メカギルギルガン <srw4_unit_mecha_gilgilgan>`\ 
+     - \ :ref:`メカギルギルガン <srw4_unit_mecha_gilgilgan>`\ (机械基鲁基鲁刚)
      - Mecha Gilgilgan
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 35000
@@ -3490,7 +3490,7 @@
    * - A8
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A8_B.png
-     - \ :ref:`ドラゴノザウルス <srw4_unit_dragonsaurus>`\ 
+     - \ :ref:`ドラゴノザウルス <srw4_unit_dragonsaurus>`\ (大恐龙)
      - Dragonsaurus
      - :ref:`劇場版マジンガーZ <srw4_units_mazinger_z_the_movie>`
      - 40000
@@ -3511,7 +3511,7 @@
    * - A9
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_A9_B.png
-     - \ :ref:`ヴァルシオン <srw4_unit_valsione>`\ 
+     - \ :ref:`ヴァルシオン <srw4_unit_valsione>`\ (瓦尔西昂)
      - Valsione
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 39000
@@ -3532,7 +3532,7 @@
    * - AA
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_AA_B.png
-     - \ :ref:`ドラムロ <srw4_unit_drumlo>`\ 
+     - \ :ref:`ドラムロ <srw4_unit_drumlo>`\ (德拉姆罗)
      - Drumlo
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 1600
@@ -3553,7 +3553,7 @@
    * - AB
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_AB_B.png
-     - \ :ref:`レプラカーン <srw4_unit_leprechaun>`\ 
+     - \ :ref:`レプラカーン <srw4_unit_leprechaun>`\ (雷普拉刚)
      - Leprechaun
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 2100
@@ -3574,7 +3574,7 @@
    * - AC
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_AC_B.png
-     - \ :ref:`ズワァース <srw4_unit_zwarth>`\ 
+     - \ :ref:`ズワァース <srw4_unit_zwarth>`\ (兹华士)
      - Zwarth
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 3300
@@ -3595,7 +3595,7 @@
    * - AD
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_AD_B.png
-     - \ :ref:`ビアレス <srw4_unit_vierres>`\ 
+     - \ :ref:`ビアレス <srw4_unit_vierres>`\ (比亚雷丝)
      - Vierres
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 2300
@@ -3616,7 +3616,7 @@
    * - AE
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_AE_B.png
-     - \ :ref:`ライネック <srw4_unit_wryneck>`\ 
+     - \ :ref:`ライネック <srw4_unit_wryneck>`\ (莱内克)
      - Wryneck
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 2800
@@ -3637,7 +3637,7 @@
    * - AF
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_AF_B.png
-     - \ :ref:`バストール <srw4_unit_bastole>`\ 
+     - \ :ref:`バストール <srw4_unit_bastole>`\ (巴斯托尔)
      - Bastole
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 1500
@@ -3658,7 +3658,7 @@
    * - B0
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_B0_B.png
-     - \ :ref:`ブブリィ <srw4_unit_bubuly>`\ 
+     - \ :ref:`ブブリィ <srw4_unit_bubuly>`\ (布布利)
      - Bubuly
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 4800
@@ -3679,7 +3679,7 @@
    * - B1
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_B1_B.png
-     - \ :ref:`ガラバ <srw4_unit_gallaba>`\ 
+     - \ :ref:`ガラバ <srw4_unit_gallaba>`\ (加拉巴)
      - Gallaba
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 5700
@@ -3700,7 +3700,7 @@
    * - B2
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_B2_B.png
-     - \ :ref:`ゲシュペンスト（スーパー） <srw4_unit_gespenst_super>`\ 
+     - \ :ref:`ゲシュペンスト（スーパー） <srw4_unit_gespenst_super>`\ (S型亡灵)
      - Gespenst (Super)
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3100
@@ -3721,7 +3721,7 @@
    * - B3
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_B3_B.png
-     - \ :ref:`グラン・ガラン <srw4_unit_guran_garan>`\ 
+     - \ :ref:`グラン·ガラン <srw4_unit_guran_garan>`\ (古兰·加兰)
      - Guran Garan
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 22000
@@ -3742,7 +3742,7 @@
    * - B4
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_B4_B.png
-     - \ :ref:`ゴラオン <srw4_unit_goraon>`\ 
+     - \ :ref:`ゴラオン <srw4_unit_goraon>`\ (哥拉奥)
      - Goraon
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 20000
@@ -3763,7 +3763,7 @@
    * - B5
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_B5_B.png
-     - \ :ref:`ウィル・ウィプス <srw4_unit_will_wipps>`\ 
+     - \ :ref:`ウィル·ウィプス <srw4_unit_will_wipps>`\ (威尔·威普斯)
      - Will Wipps
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 48000
@@ -3784,7 +3784,7 @@
    * - B6
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_B6_B.png
-     - \ :ref:`ゲア・ガリング <srw4_unit_gea_garing>`\ 
+     - \ :ref:`ゲア·ガリング <srw4_unit_gea_garing>`\ (盖亚·加林格)
      - Gea Garing
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 44000
@@ -3805,7 +3805,7 @@
    * - B7
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_B7_B.png
-     - \ :ref:`スプリガン <srw4_unit_sprigan>`\ 
+     - \ :ref:`スプリガン <srw4_unit_sprigan>`\ (斯普利刚)
      - Sprigan
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 32000
@@ -3826,7 +3826,7 @@
    * - B8
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_B8_B.png
-     - \ :ref:`ドローメ <srw4_unit_drome>`\ 
+     - \ :ref:`ドローメ <srw4_unit_drome>`\ (水母)
      - Drome
      - :ref:`ライディーン <srw4_units_reideen_the_brave>`
      - 800
@@ -3847,7 +3847,7 @@
    * - B9
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_B9_B.png
-     - \ :ref:`ガンテ <srw4_unit_gante>`\ 
+     - \ :ref:`ガンテ <srw4_unit_gante>`\ (岩手)
      - Gante
      - :ref:`ライディーン <srw4_units_reideen_the_brave>`
      - 17000
@@ -3868,7 +3868,7 @@
    * - BA
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_BA_B.png
-     - \ :ref:`化石獣バストドン <srw4_unit_fossil_beast_bastodon>`\ 
+     - \ :ref:`化石獣バストドン <srw4_unit_fossil_beast_bastodon>`\ (化石兽巴斯托顿)
      - Fossil Beast Bastodon
      - :ref:`ライディーン <srw4_units_reideen_the_brave>`
      - 2800
@@ -3889,8 +3889,8 @@
    * - BB
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_BB_B.png
-     - \ :ref:`化石獣ギルディーン <srw4_unit_fossil_beast_girudeen>`\ 
-     - Fossil beast Girudeen
+     - \ :ref:`化石獣ギルディーン <srw4_unit_fossil_beast_girudeen>`\ (化石兽基鲁汀)
+     - Fossil Beast Girudeen
      - :ref:`ライディーン <srw4_units_reideen_the_brave>`
      - 3700
      - 200
@@ -3910,7 +3910,7 @@
    * - BC
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_BC_B.png
-     - \ :ref:`巨大シャーキン <srw4_unit_giant_sharkin>`\ 
+     - \ :ref:`巨大シャーキン <srw4_unit_giant_sharkin>`\ (巨大夏金)
      - Giant Sharkin
      - :ref:`ライディーン <srw4_units_reideen_the_brave>`
      - 15000
@@ -3931,7 +3931,7 @@
    * - BD
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_BD_B.png
-     - \ :ref:`メカブースト・ドミラ <srw4_unit_mecha_boost_domira>`\ 
+     - \ :ref:`メカブースト·ドミラ <srw4_unit_mecha_boost_domira>`\ (机械怪兽·德梅拉)
      - Mecha Boost Domira
      - :ref:`ザンボット3 <srw4_units_zambot_3>`
      - 2900
@@ -3952,7 +3952,7 @@
    * - BE
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_BE_B.png
-     - \ :ref:`メカブースト・ガビタン（陸） <srw4_unit_mecha_boost_gabidan_land>`\ 
+     - \ :ref:`メカブースト·ガビタン（陸） <srw4_unit_mecha_boost_gabidan_land>`\ (陆型机械怪兽·加比坦)
      - Mecha Boost Gabidan (Land)
      - :ref:`ザンボット3 <srw4_units_zambot_3>`
      - 3100
@@ -3973,7 +3973,7 @@
    * - BF
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_BF_B.png
-     - \ :ref:`メカブースト・ガビタン（空） <srw4_unit_mecha_boost_gabidan_sky>`\ 
+     - \ :ref:`メカブースト·ガビタン（空） <srw4_unit_mecha_boost_gabidan_sky>`\ (空型机械怪兽·加比坦)
      - Mecha Boost Gabidan (Sky)
      - :ref:`ザンボット3 <srw4_units_zambot_3>`
      - 3300
@@ -3994,7 +3994,7 @@
    * - C0
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C0_B.png
-     - \ :ref:`赤騎士デスカイン <srw4_unit_red_knight_deathcain>`\ 
+     - \ :ref:`赤騎士デスカイン <srw4_unit_red_knight_deathcain>`\ (赤骑士死神凯恩)
      - Red Knight Deathcain
      - :ref:`ザンボット3 <srw4_units_zambot_3>`
      - 13000
@@ -4015,7 +4015,7 @@
    * - C1
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C1_B.png
-     - \ :ref:`青騎士ヘルダイン <srw4_unit_blue_knight_helldyne>`\ 
+     - \ :ref:`青騎士ヘルダイン <srw4_unit_blue_knight_helldyne>`\ (青骑士地狱丹恩)
      - Blue Knight Helldyne
      - :ref:`ザンボット3 <srw4_units_zambot_3>`
      - 13000
@@ -4036,7 +4036,7 @@
    * - C2
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C2_B.png
-     - \ :ref:`バンドック <srw4_unit_bandok>`\ 
+     - \ :ref:`バンドック <srw4_unit_bandok>`\ (班多克)
      - Bandok
      - :ref:`ザンボット3 <srw4_units_zambot_3>`
      - 48000
@@ -4057,7 +4057,7 @@
    * - C3
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C3_B.png
-     - \ :ref:`メカ戦士ゾンネカイザー <srw4_unit_mecha_warrior_sonnekaiser>`\ 
+     - \ :ref:`メカ戦士ゾンネカイザー <srw4_unit_mecha_warrior_sonnekaiser>`\ (机械战士尊尼凯撒)
      - Mecha Warrior Sonnekaiser
      - :ref:`ダイモス <srw4_units_daimos>`
      - 5800
@@ -4078,7 +4078,7 @@
    * - C4
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C4_B.png
-     - \ :ref:`メカ戦士ギメリア <srw4_unit_mecha_warrior_gimeria>`\ 
+     - \ :ref:`メカ戦士ギメリア <srw4_unit_mecha_warrior_gimeria>`\ (机械战士基梅利亚)
      - Mecha Warrior Gimeria
      - :ref:`ダイモス <srw4_units_daimos>`
      - 6000
@@ -4099,7 +4099,7 @@
    * - C5
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C5_B.png
-     - \ :ref:`メカ戦士ゴッドアーモン <srw4_unit_mecha_warrior_goddoamon>`\ 
+     - \ :ref:`メカ戦士ゴッドアーモン <srw4_unit_mecha_warrior_goddoamon>`\ (机械战士阿蒙神)
      - Mecha Warrior Goddoamon
      - :ref:`ダイモス <srw4_units_daimos>`
      - 17000
@@ -4120,7 +4120,7 @@
    * - C6
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C6_B.png
-     - \ :ref:`マグマ獣ガルムス <srw4_unit_magma_beast_galmus>`\ 
+     - \ :ref:`マグマ獣ガルムス <srw4_unit_magma_beast_galmus>`\ (岩浆兽加鲁姆)
      - Magma beast Galmus
      - :ref:`コンバトラーV <srw4_units_combattler_v>`
      - 3800
@@ -4141,7 +4141,7 @@
    * - C7
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C7_B.png
-     - \ :ref:`マグマ獣デモン <srw4_unit_magma_beast_demon>`\ 
+     - \ :ref:`マグマ獣デモン <srw4_unit_magma_beast_demon>`\ (岩浆兽·恶魔)
      - Magma Beast Demon
      - :ref:`コンバトラーV <srw4_units_combattler_v>`
      - 9800
@@ -4162,7 +4162,7 @@
    * - C8
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C8_B.png
-     - \ :ref:`ビッグガルーダ <srw4_unit_big_garuda>`\ 
+     - \ :ref:`ビッグガルーダ <srw4_unit_big_garuda>`\ (大嘉鲁达)
      - Big Garuda
      - :ref:`コンバトラーV <srw4_units_combattler_v>`
      - 17000
@@ -4183,7 +4183,7 @@
    * - C9
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_C9_B.png
-     - \ :ref:`ブンドル艦 <srw4_unit_bundle_ship>`\ 
+     - \ :ref:`ブンドル艦 <srw4_unit_bundle_ship>`\ (本都舰)
      - Bundle ship
      - :ref:`ゴーショーグン <srw4_units_goshogun>`
      - 28000
@@ -4204,7 +4204,7 @@
    * - CA
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_CA_B.png
-     - \ :ref:`カットナル艦 <srw4_unit_cuttnal_ship>`\ 
+     - \ :ref:`カットナル艦 <srw4_unit_cuttnal_ship>`\ (卡特纳尔舰)
      - Cuttnal ship
      - :ref:`ゴーショーグン <srw4_units_goshogun>`
      - 32000
@@ -4225,7 +4225,7 @@
    * - CB
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_CB_B.png
-     - \ :ref:`ケルナグール艦 <srw4_unit_kernagul_ship>`\ 
+     - \ :ref:`ケルナグール艦 <srw4_unit_kernagul_ship>`\ (克鲁纳古鲁舰)
      - Kernagul ship
      - :ref:`ゴーショーグン <srw4_units_goshogun>`
      - 34000
@@ -4246,7 +4246,7 @@
    * - CC
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_CC_B.png
-     - \ :ref:`ゴーナグール <srw4_unit_gonagurl>`\ 
+     - \ :ref:`ゴーナグール <srw4_unit_gonagurl>`\ (哥纳古鲁)
      - Gonagurl
      - :ref:`ゴーショーグン <srw4_units_goshogun>`
      - 5800
@@ -4267,7 +4267,7 @@
    * - CD
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_CD_B.png
-     - \ :ref:`ザンジバル <srw4_unit_zanzibar>`\ 
+     - \ :ref:`ザンジバル <srw4_unit_zanzibar>`\ (桑给巴尔)
      - Zanzibar
      - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 5000
@@ -4288,7 +4288,7 @@
    * - CE
      - 盟
      - .. image:: ../units/images/icon/srw4_units_icon_CE_B.png
-     - \ :ref:`ミデア <srw4_unit_medea>`\ 
+     - \ :ref:`ミデア <srw4_unit_medea>`\ (米迪亚)
      - Medea
      - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 2500
@@ -4309,7 +4309,7 @@
    * - CF
      - 没
      - .. image:: ../units/images/icon/srw4_units_icon_CF_B.png
-     - \ :ref:`コロンブス <srw4_unit_columbus>`\ 
+     - \ :ref:`コロンブス <srw4_unit_columbus>`\ (哥伦布级补给舰)
      - Columbus
      - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 3700
@@ -4330,7 +4330,7 @@
    * - D0
      - 没
      - .. image:: ../units/images/icon/srw4_units_icon_D0_B.png
-     - \ :ref:`パゾグ <srw4_unit_pazock>`\ 
+     - \ :ref:`パゾグ <srw4_unit_pazock>`\ (帕佐克级运输舰)
      - Pazock
      - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 3400
@@ -4351,7 +4351,7 @@
    * - D1
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_D1_B.png
-     - \ :ref:`ガウ <srw4_unit_gaw>`\ 
+     - \ :ref:`ガウ <srw4_unit_gaw>`\ (加乌)
      - Gaw
      - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 4800
@@ -4372,7 +4372,7 @@
    * - D2
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_D2_B.png
-     - \ :ref:`ダブデ <srw4_unit_dobday>`\ 
+     - \ :ref:`ダブデ <srw4_unit_dobday>`\ (达布德)
      - Dobday
      - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 20000
@@ -4393,7 +4393,7 @@
    * - D3
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_D3_B.png
-     - \ :ref:`トロイホース <srw4_unit_trojan_horse>`\ 
+     - \ :ref:`トロイホース <srw4_unit_trojan_horse>`\ (特洛伊木马)
      - Trojan Horse
      - :ref:`ガンダム0080 <srw4_units_mobile_suit_gundam_0080>`
      - 4000
@@ -4414,7 +4414,7 @@
    * - D4
      - 没
      - .. image:: ../units/images/icon/srw4_units_icon_D4_B.png
-     - \ :ref:`グラーフ・ツェッペリン <srw4_unit_graf_zeppelin>`\ 
+     - \ :ref:`グラーフ·ツェッペリン <srw4_unit_graf_zeppelin>`\ (齐柏林伯爵号宇宙巡洋舰)
      - Graf Zeppelin
      - :ref:`ガンダム0080 <srw4_units_mobile_suit_gundam_0080>`
      - 13000
@@ -4435,7 +4435,7 @@
    * - D5
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_D5_B.png
-     - \ :ref:`Sガンダム <srw4_unit_s_gundam>`\ 
+     - \ :ref:`Sガンダム <srw4_unit_s_gundam>`\ (S高达)
      - S Gundam
      - :ref:`ガンダムセンチネル <srw4_units_mobile_suit_gundam_sentinel>`
      - 3000
@@ -4456,7 +4456,7 @@
    * - D6
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_D6_B.png
-     - \ :ref:`Gクルーザー (S) <srw4_unit_g_cruiser_s>`\ 
+     - \ :ref:`Gクルーザー (S) <srw4_unit_g_cruiser_s>`\ (S号G-巡航机)
      - G Cruiser (S)
      - :ref:`ガンダムセンチネル <srw4_units_mobile_suit_gundam_sentinel>`
      - 3000
@@ -4477,7 +4477,7 @@
    * - D7
      - 没
      - .. image:: ../units/images/icon/srw4_units_icon_D7_B.png
-     - \ :ref:`アレキサンドリア <srw4_unit_alexandria>`\ 
+     - \ :ref:`アレキサンドリア <srw4_unit_alexandria>`\ (亚历山大级重巡洋舰)
      - Alexandria
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 8000
@@ -4498,7 +4498,7 @@
    * - D8
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_D8_B.png
-     - \ :ref:`ムサイ改 <srw4_unit_musai_kai>`\ 
+     - \ :ref:`ムサイ改 <srw4_unit_musai_kai>`\ (姆塞改)
      - Musai Kai
      - :ref:`ガンダム0080 <srw4_units_mobile_suit_gundam_0080>`
      - 4000
@@ -4519,7 +4519,7 @@
    * - D9
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_D9_B.png
-     - \ :ref:`アーガマ <srw4_unit_argama>`\ 
+     - \ :ref:`アーガマ <srw4_unit_argama>`\ (亚加玛)
      - Argama
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 5500
@@ -4540,7 +4540,7 @@
    * - DA
      - 没
      - .. image:: ../units/images/icon/srw4_units_icon_DA_B.png
-     - \ :ref:`アイリッシュ <srw4_unit_irish>`\ 
+     - \ :ref:`アイリッシュ <srw4_unit_irish>`\ (爱尔兰级宇宙战舰)
      - Irish
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 5000
@@ -4561,7 +4561,7 @@
    * - DB
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_DB_B.png
-     - \ :ref:`ExSガンダム <srw4_unit_ex_s_gundam>`\ 
+     - \ :ref:`ExSガンダム <srw4_unit_ex_s_gundam>`\ (ExS高达)
      - Ex-S Gundam
      - :ref:`ガンダムセンチネル <srw4_units_mobile_suit_gundam_sentinel>`
      - 3800
@@ -4582,7 +4582,7 @@
    * - DC
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_DC_B.png
-     - \ :ref:`Gクルーザー (EXS) <srw4_unit_g_cruiser_ex_s>`\ 
+     - \ :ref:`Gクルーザー (EXS) <srw4_unit_g_cruiser_ex_s>`\ (EX-S号G-巡航机)
      - G Cruiser (EX-S)
      - :ref:`ガンダムセンチネル <srw4_units_mobile_suit_gundam_sentinel>`
      - 3800
@@ -4603,7 +4603,7 @@
    * - DD
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_DD_B.png
-     - \ :ref:`ネェル・アーガマ <srw4_unit_nahel_argama>`\ 
+     - \ :ref:`ネェル·アーガマ <srw4_unit_nahel_argama>`\ (拟·亚加玛)
      - Nahel Argama
      - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 6000
@@ -4624,7 +4624,7 @@
    * - DE
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_DE_B.png
-     - \ :ref:`エンドラ <srw4_unit_endra>`\ 
+     - \ :ref:`エンドラ <srw4_unit_endra>`\ (恩多拉)
      - Endra
      - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 5500
@@ -4645,7 +4645,7 @@
    * - DF
      - 中
      - .. image:: ../units/images/icon/srw4_units_icon_DF_B.png
-     - \ :ref:`サダラーン <srw4_unit_sadalahn>`\ 
+     - \ :ref:`サダラーン <srw4_unit_sadalahn>`\ (萨德兰)
      - Sadalahn
      - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 38000
@@ -4666,7 +4666,7 @@
    * - E0
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_E0_B.png
-     - \ :ref:`レウルーラ <srw4_unit_rewloola>`\ 
+     - \ :ref:`レウルーラ <srw4_unit_rewloola>`\ (雷乌鲁拉)
      - Rewloola
      - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 17000
@@ -4687,7 +4687,7 @@
    * - E1
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_E1_B.png
-     - \ :ref:`ラー・カイラム <srw4_unit_ra_cailum>`\ 
+     - \ :ref:`ラー·カイラム <srw4_unit_ra_cailum>`\ (拉·凯拉姆)
      - Ra Cailum
      - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 7000
@@ -4708,7 +4708,7 @@
    * - E2
      - 盟
      - .. image:: ../units/images/icon/srw4_units_icon_E2_B.png
-     - \ :ref:`ザムス・ガル <srw4_unit_zamouth_garr>`\ 
+     - \ :ref:`ザムス·ガル <srw4_unit_zamouth_garr>`\ (扎姆斯·加尔)
      - Zamouth Garr
      - :ref:`ガンダムF91 <srw4_units_mobile_suit_gundam_f91>`
      - 40000
@@ -4729,7 +4729,7 @@
    * - E3
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_E3_B.png
-     - \ :ref:`ガロイカ <srw4_unit_garoica>`\ 
+     - \ :ref:`ガロイカ <srw4_unit_garoica>`\ (加罗依卡)
      - Garoica
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3000
@@ -4750,7 +4750,7 @@
    * - E4
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_E4_B.png
-     - \ :ref:`カレイツェド <srw4_unit_kaleitsed>`\ 
+     - \ :ref:`カレイツェド <srw4_unit_kaleitsed>`\ (卡雷赛德)
      - Kaleitsed
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3400
@@ -4771,7 +4771,7 @@
    * - E5
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_E5_B.png
-     - \ :ref:`レストレイル <srw4_unit_rest_rail>`\ 
+     - \ :ref:`レストレイル <srw4_unit_rest_rail>`\ (雷斯托雷尔)
      - Rest Rail
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 4500
@@ -4792,7 +4792,7 @@
    * - E6
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_E6_B.png
-     - \ :ref:`グラシドゥ＝リュ <srw4_unit_grassidow_ryu>`\ 
+     - \ :ref:`グラシドゥ＝リュ <srw4_unit_grassidow_ryu>`\ (古拉西德·琉)
      - Grassidow Ryu
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 5000
@@ -4813,7 +4813,7 @@
    * - E7
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_E7_B.png
-     - \ :ref:`レストグランシュ <srw4_unit_rest_granshu>`\ 
+     - \ :ref:`レストグランシュ <srw4_unit_rest_granshu>`\ (雷斯特格兰修)
      - Rest Granshu
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 7000
@@ -4834,7 +4834,7 @@
    * - E8
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_E8_B.png
-     - \ :ref:`ゼラニオ <srw4_unit_zeranio>`\ 
+     - \ :ref:`ゼラニオ <srw4_unit_zeranio>`\ (塞拉尼奥)
      - Zeranio
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 34000
@@ -4855,7 +4855,7 @@
    * - E9
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_E9_B.png
-     - \ :ref:`ゲイオス＝グルード <srw4_unit_geios_glud>`\ 
+     - \ :ref:`ゲイオス＝グルード <srw4_unit_geios_glud>`\ (盖奥斯·古鲁德)
      - Geios Glud
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 32000
@@ -4876,7 +4876,7 @@
    * - EA
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_EA_B.png
-     - \ :ref:`ライグ＝ゲイオス <srw4_unit_lige_geios>`\ 
+     - \ :ref:`ライグ＝ゲイオス <srw4_unit_lige_geios>`\ (莱格·盖奥斯)
      - Lige Geios
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 48000
@@ -4897,7 +4897,7 @@
    * - EB
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_EB_B.png
-     - \ :ref:`バラン＝シュナイル <srw4_unit_baran_schnile>`\ 
+     - \ :ref:`バラン＝シュナイル <srw4_unit_baran_schnile>`\ (巴兰·修奈尔)
      - Baran Schnile
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 65000
@@ -4918,7 +4918,7 @@
    * - EC
      - 盟
      - .. image:: ../units/images/icon/srw4_units_icon_EC_B.png
-     - \ :ref:`ゲシュペンスト Mk-II <srw4_unit_gespenst_mk_ii>`\ 
+     - \ :ref:`ゲシュペンスト Mk-II <srw4_unit_gespenst_mk_ii>`\ (亡灵 Mk-II)
      - Gespenst Mk-II
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3800
@@ -4939,7 +4939,7 @@
    * - ED
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_ED_B.png
-     - \ :ref:`エルガイム <srw4_unit_l_gaim>`\ 
+     - \ :ref:`エルガイム <srw4_unit_l_gaim>`\ (艾尔盖姆)
      - L-Gaim
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 2000
@@ -4960,7 +4960,7 @@
    * - EE
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_EE_B.png
-     - \ :ref:`エルガイム Mk-II <srw4_unit_l_gaim_mk_ii>`\ 
+     - \ :ref:`エルガイム Mk-II <srw4_unit_l_gaim_mk_ii>`\ (艾尔盖姆 Mk-II)
      - L-Gaim Mk-II
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 3100
@@ -4981,7 +4981,7 @@
    * - EF
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_EF_B.png
-     - \ :ref:`プローラー <srw4_unit_prowler>`\ 
+     - \ :ref:`プローラー <srw4_unit_prowler>`\ (普罗拉)
      - Prowler
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 3100
@@ -5002,7 +5002,7 @@
    * - F0
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_F0_B.png
-     - \ :ref:`ディザード <srw4_unit_d_sserd>`\ 
+     - \ :ref:`ディザード <srw4_unit_d_sserd>`\ (迪扎德)
      - D-Sserd
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 1800
@@ -5023,7 +5023,7 @@
    * - F1
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_F1_B.png
-     - \ :ref:`オージェ <srw4_unit_auger>`\ 
+     - \ :ref:`オージェ <srw4_unit_auger>`\ (奥杰)
      - Auger
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 2900
@@ -5044,7 +5044,7 @@
    * - F2
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_F2_B.png
-     - \ :ref:`オージ <srw4_unit_auge>`\ 
+     - \ :ref:`オージ <srw4_unit_auge>`\ (奥津)
      - Auge
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 38000
@@ -5065,7 +5065,7 @@
    * - F3
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_F3_B.png
-     - \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\ 
+     - \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\ (阿修罗神殿)
      - Ashura Temple
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 2800
@@ -5086,7 +5086,7 @@
    * - F4
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_F4_B.png
-     - \ :ref:`カルバリーテンプル <srw4_unit_calvary_temple>`\ 
+     - \ :ref:`カルバリーテンプル <srw4_unit_calvary_temple>`\ (灾厄神殿)
      - Calvary Temple
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 2700
@@ -5107,7 +5107,7 @@
    * - F5
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_F5_B.png
-     - \ :ref:`バッシュ <srw4_unit_bat_shu>`\ 
+     - \ :ref:`バッシュ <srw4_unit_bat_shu>`\ (巴修)
      - Bat-Shu
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 2700
@@ -5128,7 +5128,7 @@
    * - F6
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_F6_B.png
-     - \ :ref:`アトール <srw4_unit_a_taul>`\ 
+     - \ :ref:`アトール <srw4_unit_a_taul>`\ (亚托鲁)
      - A Taul
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 2600
@@ -5149,7 +5149,7 @@
    * - F7
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_F7_B.png
-     - \ :ref:`グルーン <srw4_unit_g_roon>`\ 
+     - \ :ref:`グルーン <srw4_unit_g_roon>`\ (古伦)
      - G Roon
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 2200
@@ -5170,7 +5170,7 @@
    * - F8
      - 没
      - 
-     - \ :ref:`サロンズ <srw4_unit_salonz>`\ 
+     - \ :ref:`サロンズ <srw4_unit_salonz>`\ (沙龙兹)
      - Salonz
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 8000
@@ -5191,7 +5191,7 @@
    * - FB
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_FB_B.png
-     - \ :ref:`アローン <srw4_unit_arorne>`\ 
+     - \ :ref:`アローン <srw4_unit_arorne>`\ (亚隆)
      - Arorne
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 1700
@@ -5212,7 +5212,7 @@
    * - FC
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_FC_B.png
-     - \ :ref:`真・ゲッター1 <srw4_unit_shin_getter_1>`\ 
+     - \ :ref:`真·ゲッター1 <srw4_unit_shin_getter_1>`\ (真·盖塔1)
      - Shin Getter-1
      - :ref:`ゲッター <srw4_units_getter_robo>`
      - 4100
@@ -5233,7 +5233,7 @@
    * - FD
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_FD_B.png
-     - \ :ref:`真・ゲッター2 <srw4_unit_shin_getter_2>`\ 
+     - \ :ref:`真·ゲッター2 <srw4_unit_shin_getter_2>`\ (真·盖塔2)
      - Shin Getter-2
      - :ref:`ゲッター <srw4_units_getter_robo>`
      - 4100
@@ -5254,7 +5254,7 @@
    * - FE
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_FE_B.png
-     - \ :ref:`真・ゲッター3 <srw4_unit_shin_getter_3>`\ 
+     - \ :ref:`真·ゲッター3 <srw4_unit_shin_getter_3>`\ (真·盖塔3)
      - Shin Getter-3
      - :ref:`ゲッター <srw4_units_getter_robo>`
      - 4100
@@ -5275,7 +5275,7 @@
    * - 101
      - 没
      - 
-     - \ :ref:`ガイラム <srw4_unit_gayrahm>`\ 
+     - \ :ref:`ガイラム <srw4_unit_gayrahm>`\ (盖拉姆)
      - Gayrahm
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 2800
@@ -5296,7 +5296,7 @@
    * - 102
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_102_B.png
-     - \ :ref:`ガンダム <srw4_unit_gundam>`\ 
+     - \ :ref:`ガンダム <srw4_unit_gundam>`\ (高达)
      - Gundam
      - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 1800
@@ -5317,7 +5317,7 @@
    * - 103
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_103_B.png
-     - \ :ref:`ガンダム Mk-II <srw4_unit_gundam_mk_ii>`\ 
+     - \ :ref:`ガンダム Mk-II <srw4_unit_gundam_mk_ii>`\ (高达 Mk-II)
      - Gundam Mk-II
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 2000
@@ -5338,7 +5338,7 @@
    * - 104
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_104_B.png
-     - \ :ref:`Gディフェンサー <srw4_unit_g_defender>`\ 
+     - \ :ref:`Gディフェンサー <srw4_unit_g_defender>`\ (G-防卫号)
      - G Defender
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 1600
@@ -5359,7 +5359,7 @@
    * - 105
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_105_B.png
-     - \ :ref:`スーパーガンダム <srw4_unit_super_gundam>`\ 
+     - \ :ref:`スーパーガンダム <srw4_unit_super_gundam>`\ (超级高达)
      - Super Gundam
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 2300
@@ -5380,7 +5380,7 @@
    * - 106
      - 没
      - 
-     - \ :ref:`Ξガンダム <srw4_unit_xi_gundam>`\ 
+     - \ :ref:`Ξガンダム <srw4_unit_xi_gundam>`\ (柯西高达)
      - Xi Gundam
      - :ref:`閃光のハサウェイ <srw4_units_mobile_suit_gundam_hathaway>`
      - 8000
@@ -5401,7 +5401,7 @@
    * - 107
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_107_B.png
-     - \ :ref:`旧ザク <srw4_unit_old_zaku>`\ 
+     - \ :ref:`旧ザク <srw4_unit_old_zaku>`\ (旧扎古)
      - Old Zaku
      - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 1300
@@ -5422,7 +5422,7 @@
    * - 108
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_108_B.png
-     - \ :ref:`サーバイン <srw4_unit_sirbine>`\ 
+     - \ :ref:`サーバイン <srw4_unit_sirbine>`\ (雪拜因)
      - Sirbine
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 3000
@@ -5443,7 +5443,7 @@
    * - 109
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_109_B.png
-     - \ :ref:`ズワウス <srw4_unit_zwuath>`\ 
+     - \ :ref:`ズワウス <srw4_unit_zwuath>`\ (兹瓦乌斯)
      - Zwuath
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 3500
@@ -5464,7 +5464,7 @@
    * - 10A
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_10A_B.png
-     - \ :ref:`テキサスマック <srw4_unit_texas_mack>`\ 
+     - \ :ref:`テキサスマック <srw4_unit_texas_mack>`\ (德州牛仔)
      - Texas Mack
      - :ref:`ゲッター <srw4_units_getter_robo>`
      - 2800
@@ -5485,7 +5485,7 @@
    * - 10B
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_10B_B.png
-     - \ :ref:`アッザム <srw4_unit_adzam>`\ 
+     - \ :ref:`アッザム <srw4_unit_adzam>`\ (阿扎姆)
      - Adzam
      - :ref:`ガンダム0079 <srw4_units_mobile_suit_gundam>`
      - 2400
@@ -5506,7 +5506,7 @@
    * - 10C
      - 没
      - .. image:: ../units/images/icon/srw4_units_icon_10C_B.png
-     - \ :ref:`ニセサイバスター <srw4_unit_fake_cybuster>`\ 
+     - \ :ref:`ニセサイバスター <srw4_unit_fake_cybuster>`\ (伪塞巴斯塔)
      - Fake Cybuster
      - :ref:`オリジナル <srw4_units_banpresto_originals>`
      - 3200
@@ -5527,7 +5527,7 @@
    * - 10D
      - 没
      - 
-     - \ :ref:`ナイチンゲール <srw4_unit_nightingale>`\ 
+     - \ :ref:`ナイチンゲール <srw4_unit_nightingale>`\ (夜莺)
      - Nightingale
      - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 8000
@@ -5548,7 +5548,7 @@
    * - 10E
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_10E_B.png
-     - \ :ref:`ヌーベルディザード <srw4_unit_novel_d_sserd>`\ 
+     - \ :ref:`ヌーベルディザード <srw4_unit_novel_d_sserd>`\ (新迪扎德)
      - Novel D-Sserd
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 2600
@@ -5590,7 +5590,7 @@
    * - 110
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_110_B.png
-     - \ :ref:`ハーディアス <srw4_unit_hardias>`\ 
+     - \ :ref:`ハーディアス <srw4_unit_hardias>`\ (哈迪斯)
      - Hardias
      - :ref:`グレートマジンガー <srw4_units_great_mazinger>`
      - 16000
@@ -5611,7 +5611,7 @@
    * - 111
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_111_B.png
-     - \ :ref:`ドレイドウ <srw4_unit_draydou>`\ 
+     - \ :ref:`ドレイドウ <srw4_unit_draydou>`\ (德雷多乌)
      - Draydou
      - :ref:`グレートマジンガー <srw4_units_great_mazinger>`
      - 16000
@@ -5632,7 +5632,7 @@
    * - 112
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_112_B.png
-     - \ :ref:`Ζガンダム <srw4_unit_z_gundam>`\ 
+     - \ :ref:`Ζガンダム <srw4_unit_z_gundam>`\ (Z高达)
      - Z Gundam
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 2600
@@ -5653,7 +5653,7 @@
    * - 113
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_113_B.png
-     - \ :ref:`ウェイブライダー <srw4_unit_wave_rider>`\ 
+     - \ :ref:`ウェイブライダー <srw4_unit_wave_rider>`\ (冲浪者)
      - Wave Rider
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 2600
@@ -5674,7 +5674,7 @@
    * - 114
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_114_B.png
-     - \ :ref:`ZΖガンダム <srw4_unit_zz_gundam>`\ 
+     - \ :ref:`ZΖガンダム <srw4_unit_zz_gundam>`\ (ZZ高达)
      - ZZ Gundam
      - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 3100
@@ -5695,7 +5695,7 @@
    * - 115
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_115_B.png
-     - \ :ref:`G-フォートレス <srw4_unit_g_fortress>`\ 
+     - \ :ref:`G-フォートレス <srw4_unit_g_fortress>`\ (G-要塞)
      - G-Fortress
      - :ref:`ガンダムΖΖ <srw4_units_mobile_suit_gundam_zz>`
      - 3100
@@ -5716,7 +5716,7 @@
    * - 116
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_116_B.png
-     - \ :ref:`円盤獣ジンジン <srw4_unit_saucer_beast_jinjin>`\ 
+     - \ :ref:`円盤獣ジンジン <srw4_unit_saucer_beast_jinjin>`\ (圆盘兽金金)
      - Saucer Beast Jinjin
      - :ref:`劇場版マジンガーZ <srw4_units_mazinger_z_the_movie>`
      - 6500
@@ -5737,7 +5737,7 @@
    * - 117
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_117_B.png
-     - \ :ref:`円盤獣デキデキ <srw4_unit_saucer_beast_dekideki>`\ 
+     - \ :ref:`円盤獣デキデキ <srw4_unit_saucer_beast_dekideki>`\ (圆盘兽德基德基)
      - Saucer Beast Dekideki
      - :ref:`グレンダイザー <srw4_units_grendizer>`
      - 6600
@@ -5758,7 +5758,7 @@
    * - 118
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_118_B.png
-     - \ :ref:`戦闘獣ダンテ <srw4_unit_warrior_beast_dante>`\ 
+     - \ :ref:`戦闘獣ダンテ <srw4_unit_warrior_beast_dante>`\ (战斗兽但丁)
      - Warrior Beast Dante
      - :ref:`劇場版マジンガーZ <srw4_units_mazinger_z_the_movie>`
      - 6800
@@ -5779,7 +5779,7 @@
    * - 119
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_119_B.png
-     - \ :ref:`戦闘獣ズガール <srw4_unit_warrior_beast_zugar>`\ 
+     - \ :ref:`戦闘獣ズガール <srw4_unit_warrior_beast_zugar>`\ (战斗兽兹加鲁)
      - Warrior Beast Zugar
      - :ref:`グレートマジンガー <srw4_units_great_mazinger>`
      - 7000
@@ -5821,7 +5821,7 @@
    * - 11B
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_11B_B.png
-     - \ :ref:`グレイドン <srw4_unit_graydon>`\ 
+     - \ :ref:`グレイドン <srw4_unit_graydon>`\ (格雷顿)
      - Graydon
      - :ref:`コンバトラーV <srw4_units_combattler_v>`
      - 20000
@@ -5842,7 +5842,7 @@
    * - 11C
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_11C_B.png
-     - \ :ref:`ガルンロール <srw4_unit_guranrol>`\ 
+     - \ :ref:`ガルンロール <srw4_unit_guranrol>`\ (加仑罗尔)
      - Guranrol
      - :ref:`ダイモス <srw4_units_daimos>`
      - 23000
@@ -5863,7 +5863,7 @@
    * - 11D
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_11D_B.png
-     - \ :ref:`グライア <srw4_unit_greia>`\ 
+     - \ :ref:`グライア <srw4_unit_greia>`\ (格莱亚)
      - Greia
      - :ref:`エルガイム <srw4_units_heavy_metal_l_gaim>`
      - 1800
@@ -5884,7 +5884,7 @@
    * - 11E
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_11E_B.png
-     - \ :ref:`メカザウルス・ズー <srw4_unit_mechasaurus_zuu>`\ 
+     - \ :ref:`メカザウルス·ズー <srw4_unit_mechasaurus_zuu>`\ (机械恐龙·兹)
      - Mechasaurus Zuu
      - :ref:`ゲッター <srw4_units_getter_robo>`
      - 3000
@@ -5905,7 +5905,7 @@
    * - 11F
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_11F_B.png
-     - \ :ref:`ボチューン <srw4_unit_botune>`\ 
+     - \ :ref:`ボチューン <srw4_unit_botune>`\ (波臣)
      - Botune
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 1400
@@ -5926,7 +5926,7 @@
    * - 120
      - 没
      - .. image:: ../units/images/icon/srw4_units_icon_120_B.png
-     - \ :ref:`ドゴス・ギア <srw4_unit_dogosse_giar>`\ 
+     - \ :ref:`ドゴス·ギア <srw4_unit_dogosse_giar>`\ (多戈斯·基亚级宇宙战舰)
      - Dogosse Giar
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 8000
@@ -5947,7 +5947,7 @@
    * - 121
      - 没
      - .. image:: ../units/images/icon/srw4_units_icon_121_B.png
-     - \ :ref:`アウドムラ <srw4_unit_audhumla>`\ 
+     - \ :ref:`アウドムラ <srw4_unit_audhumla>`\ (奥多姆拉号运输航母)
      - Audhumla
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 8000
@@ -5968,7 +5968,7 @@
    * - 122
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_122_B.png
-     - \ :ref:`スードリ <srw4_unit_sudori>`\ 
+     - \ :ref:`スードリ <srw4_unit_sudori>`\ (苏德里)
      - Sudori
      - :ref:`Zガンダム <srw4_units_mobile_suit_z_gundam>`
      - 28000
@@ -5989,7 +5989,7 @@
    * - 123
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_123_B.png
-     - \ :ref:`GP-03ステイメン (初期) <srw4_unit_gp_03_staymen_first>`\ 
+     - \ :ref:`GP-03ステイメン (初期) <srw4_unit_gp_03_staymen_first>`\ (GP-03 S)
      - GP-03 Staymen (first)
      - :ref:`ガンダム0083 <srw4_units_mobile_suit_gundam_0083>`
      - 1900
@@ -6010,7 +6010,7 @@
    * - 124
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_124_B.png
-     - \ :ref:`レプラカーン(ハイパー可) <srw4_unit_leprechaun_hyper_available>`\ 
+     - \ :ref:`レプラカーン(ハイパー可) <srw4_unit_leprechaun_hyper_available>`\ (可巨化雷普拉刚)
      - Leprechaun (Hyper Available)
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 1700
@@ -6031,7 +6031,7 @@
    * - 125
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_125_B.png
-     - \ :ref:`ハイパーレプラカーン <srw4_unit_hyper_leprechaun>`\ 
+     - \ :ref:`ハイパーレプラカーン <srw4_unit_hyper_leprechaun>`\ (巨雷普拉刚)
      - Hyper Leprechaun
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 37000
@@ -6052,7 +6052,7 @@
    * - 126
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_126_B.png
-     - \ :ref:`ライネック(ハイパー可) <srw4_unit_wryneck_hyper_available>`\ 
+     - \ :ref:`ライネック(ハイパー可) <srw4_unit_wryneck_hyper_available>`\ (可巨化莱内克)
      - Wryneck (Hyper Available)
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 2200
@@ -6073,7 +6073,7 @@
    * - 127
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_127_B.png
-     - \ :ref:`ハイパーライネック <srw4_unit_hyper_wryneck>`\ 
+     - \ :ref:`ハイパーライネック <srw4_unit_hyper_wryneck>`\ (巨莱内克)
      - Hyper Wryneck
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 42000
@@ -6094,7 +6094,7 @@
    * - 128
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_128_B.png
-     - \ :ref:`ガラバ(ハイパー可) <srw4_unit_gallaba_hyper_available>`\ 
+     - \ :ref:`ガラバ(ハイパー可) <srw4_unit_gallaba_hyper_available>`\ (可巨化加拉巴)
      - Gallaba (Hyper Available)
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 2700
@@ -6115,7 +6115,7 @@
    * - 129
      - 敌
      - .. image:: ../units/images/icon/srw4_units_icon_129_B.png
-     - \ :ref:`ハイパーガラバ <srw4_unit_hyper_gallaba>`\ 
+     - \ :ref:`ハイパーガラバ <srw4_unit_hyper_gallaba>`\ (巨加拉巴)
      - Hyper Gallaba
      - :ref:`ダンバイン <srw4_units_dunbine>`
      - 47000
@@ -6138,6 +6138,7 @@
     <script>
       units_datatable_init('srw4-units-playstation-table');
     </script>
+
 
 
 

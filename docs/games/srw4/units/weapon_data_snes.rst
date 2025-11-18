@@ -43,7 +43,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガンダム <srw4_unit_gundam>`\ 
+     - \ :ref:`ガンダム <srw4_unit_gundam>`\  (高达)
 
    * - 02
      - ビームサーベル
@@ -58,7 +58,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`NT-1アレックス <srw4_unit_nt_1_alex>`\ 
+     - \ :ref:`NT-1アレックス <srw4_unit_nt_1_alex>`\  (NT-1阿历克斯)
 
    * - 03
      - ビームサーベル
@@ -88,7 +88,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`GM III <srw4_unit_gm_iii>`\ 
+     - \ :ref:`GM III <srw4_unit_gm_iii>`\  (吉姆Ⅲ)
 
    * - 05
      - ビームサーベル
@@ -103,7 +103,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ジェガン <srw4_unit_jegan>`\ 
+     - \ :ref:`ジェガン <srw4_unit_jegan>`\  (杰刚)
 
    * - 06
      - ビームサーベル
@@ -118,7 +118,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`リ・ガズィ (MS) <srw4_unit_ri_gazi_ms>`\ 
+     - \ :ref:`リ·ガズィ (MS) <srw4_unit_ri_gazi_ms>`\  (灵格斯)
 
    * - 07
      - ビームサーベル
@@ -133,7 +133,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`νガンダム <srw4_unit_nu_gundam>`\ 
+     - \ :ref:`νガンダム <srw4_unit_nu_gundam>`\  (ν高达)
 
    * - 08
      - ビームサーベル
@@ -163,7 +163,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガンキャノン <srw4_unit_gun_cannon>`\ 
+     - \ :ref:`ガンキャノン <srw4_unit_gun_cannon>`\  (钢加农)
 
    * - 0A
      - ビームライフル
@@ -178,7 +178,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`NT-1アレックス <srw4_unit_nt_1_alex>`\ 
+     - \ :ref:`NT-1アレックス <srw4_unit_nt_1_alex>`\  (NT-1阿历克斯)
 
    * - 0B
      - ビームライフル
@@ -208,7 +208,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`GM III <srw4_unit_gm_iii>`\ 
+     - \ :ref:`GM III <srw4_unit_gm_iii>`\  (吉姆Ⅲ)
 
    * - 0D
      - ビームライフル
@@ -223,7 +223,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ジェガン <srw4_unit_jegan>`\ 
+     - \ :ref:`ジェガン <srw4_unit_jegan>`\  (杰刚)
 
    * - 0E
      - ビームライフル
@@ -238,7 +238,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`νガンダム <srw4_unit_nu_gundam>`\ 
+     - \ :ref:`νガンダム <srw4_unit_nu_gundam>`\  (ν高达)
 
    * - 0F
      - ビームライフル
@@ -268,7 +268,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`ガンキャノン <srw4_unit_gun_cannon>`\ 
+     - \ :ref:`ガンキャノン <srw4_unit_gun_cannon>`\  (钢加农)
 
    * - 11
      - バルカン
@@ -283,7 +283,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`NT-1アレックス <srw4_unit_nt_1_alex>`\ 
+     - \ :ref:`NT-1アレックス <srw4_unit_nt_1_alex>`\  (NT-1阿历克斯)
 
    * - 12
      - バルカン
@@ -313,7 +313,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`ジェガン <srw4_unit_jegan>`\ 
+     - \ :ref:`ジェガン <srw4_unit_jegan>`\  (杰刚)
 
    * - 14
      - バルカン
@@ -328,7 +328,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`νガンダム <srw4_unit_nu_gundam>`\ 
+     - \ :ref:`νガンダム <srw4_unit_nu_gundam>`\  (ν高达)
 
    * - 15
      - バルカン
@@ -358,7 +358,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガンダム <srw4_unit_gundam>`\ 
+     - \ :ref:`ガンダム <srw4_unit_gundam>`\  (高达)
 
    * - 17
      - ハイパーバズーカ
@@ -373,7 +373,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`νガンダム <srw4_unit_nu_gundam>`\ 
+     - \ :ref:`νガンダム <srw4_unit_nu_gundam>`\  (ν高达)
 
    * - 18
      - ハイパーハンマー
@@ -388,7 +388,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガンダム <srw4_unit_gundam>`\ 
+     - \ :ref:`ガンダム <srw4_unit_gundam>`\  (高达)
 
    * - 19
      - ﾐｻｲﾙﾗﾝﾁｬｰ
@@ -403,7 +403,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`νガンダム <srw4_unit_nu_gundam>`\ 
+     - \ :ref:`νガンダム <srw4_unit_nu_gundam>`\  (ν高达)
 
    * - 1A
      - ロングライフル
@@ -418,7 +418,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`Gディフェンサー <srw4_unit_g_defender>`\ 
+     - \ :ref:`Gディフェンサー <srw4_unit_g_defender>`\  (G-防卫号)
 
    * - 1B
      - ﾛﾝｸﾞﾋﾞｰﾑｻｰﾍﾞﾙ
@@ -433,7 +433,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`Ζガンダム <srw4_unit_z_gundam>`\ 
+     - \ :ref:`Ζガンダム <srw4_unit_z_gundam>`\  (Z高达)
 
    * - 1C
      - ｸﾞﾚﾈｰﾄﾞﾗﾝﾁｬｰ
@@ -448,7 +448,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`Ζガンダム <srw4_unit_z_gundam>`\ 
+     - \ :ref:`Ζガンダム <srw4_unit_z_gundam>`\  (Z高达)
 
    * - 1D
      - ｸﾞﾚﾈｰﾄﾞﾗﾝﾁｬｰ
@@ -463,7 +463,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ジェガン <srw4_unit_jegan>`\ 
+     - \ :ref:`ジェガン <srw4_unit_jegan>`\  (杰刚)
 
    * - 1E
      - ｸﾞﾚﾈｰﾄﾞﾗﾝﾁｬｰ
@@ -478,7 +478,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ザンボエース <srw4_unit_zambo_ace>`\ 
+     - \ :ref:`ザンボエース <srw4_unit_zambo_ace>`\  (赞波A)
 
    * - 1F
      - ﾊｲﾊﾟｰﾒｶﾞﾗﾝﾁｬｰ
@@ -493,7 +493,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`Ζガンダム <srw4_unit_z_gundam>`\ 
+     - \ :ref:`Ζガンダム <srw4_unit_z_gundam>`\  (Z高达)
 
    * - 20
      - ビームガン
@@ -523,7 +523,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ハンブラビ (MS) <srw4_unit_hambrabi_ms>`\ 
+     - \ :ref:`ハンブラビ (MS) <srw4_unit_hambrabi_ms>`\  (MS型汉布拉比)
 
    * - 22
      - ビームガン
@@ -538,7 +538,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`キュベレイ <srw4_unit_qubeley>`\ 
+     - \ :ref:`キュベレイ <srw4_unit_qubeley>`\  (卡碧尼)
 
    * - 23
      - スマッシュビーム
@@ -553,7 +553,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲシュペンスト（スーパー） <srw4_unit_gespenst_super>`\ 
+     - \ :ref:`ゲシュペンスト（スーパー） <srw4_unit_gespenst_super>`\  (S型亡灵)
 
    * - 24
      - ダブルバルカン
@@ -568,7 +568,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`ZΖガンダム <srw4_unit_zz_gundam>`\ 
+     - \ :ref:`ZΖガンダム <srw4_unit_zz_gundam>`\  (ZZ高达)
 
    * - 25
      - ﾀﾞﾌﾞﾙﾋﾞｰﾑﾗｲﾌﾙ
@@ -583,7 +583,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ZΖガンダム <srw4_unit_zz_gundam>`\ 
+     - \ :ref:`ZΖガンダム <srw4_unit_zz_gundam>`\  (ZZ高达)
 
    * - 26
      - ダブルキャノン
@@ -598,7 +598,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ZΖガンダム <srw4_unit_zz_gundam>`\ 
+     - \ :ref:`ZΖガンダム <srw4_unit_zz_gundam>`\  (ZZ高达)
 
    * - 27
      - ﾊｲﾊﾟｰﾋﾞｰﾑｻｰﾍﾞﾙ
@@ -613,7 +613,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ZΖガンダム <srw4_unit_zz_gundam>`\ 
+     - \ :ref:`ZΖガンダム <srw4_unit_zz_gundam>`\  (ZZ高达)
 
    * - 28
      - ミサイル
@@ -643,7 +643,7 @@
      - 
      - 1
      - 0
-     - \ :ref:`ZΖガンダム <srw4_unit_zz_gundam>`\ 
+     - \ :ref:`ZΖガンダム <srw4_unit_zz_gundam>`\  (ZZ高达)
 
    * - 2A
      - ビームキャノン
@@ -658,7 +658,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`νガンダム <srw4_unit_nu_gundam>`\ 
+     - \ :ref:`νガンダム <srw4_unit_nu_gundam>`\  (ν高达)
 
    * - 2B
      - フィンファンネル
@@ -673,7 +673,7 @@
      - ニュータイプ
      - 7
      - 2
-     - \ :ref:`νガンダム <srw4_unit_nu_gundam>`\ 
+     - \ :ref:`νガンダム <srw4_unit_nu_gundam>`\  (ν高达)
 
    * - 2C
      - ﾒｶﾞﾏｼﾝｷｬﾉﾝ
@@ -718,7 +718,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`NT-1アレックス <srw4_unit_nt_1_alex>`\ 
+     - \ :ref:`NT-1アレックス <srw4_unit_nt_1_alex>`\  (NT-1阿历克斯)
 
    * - 2F
      - ｱﾄﾐｯｸﾊﾞｽﾞｰｶ
@@ -748,7 +748,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`GP-03デンドロビウム <srw4_unit_gp_03_dendrobium>`\ 
+     - \ :ref:`GP-03デンドロビウム <srw4_unit_gp_03_dendrobium>`\  (GP-03 D)
 
    * - 31
      - 大型ﾋﾞｰﾑｻｰﾍﾞﾙ
@@ -763,7 +763,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`GP-03デンドロビウム <srw4_unit_gp_03_dendrobium>`\ 
+     - \ :ref:`GP-03デンドロビウム <srw4_unit_gp_03_dendrobium>`\  (GP-03 D)
 
    * - 32
      - ﾌｫｰﾙﾃﾞｨﾝｸﾞﾊﾞｽﾞｰｶ
@@ -778,7 +778,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`GP-03デンドロビウム <srw4_unit_gp_03_dendrobium>`\ 
+     - \ :ref:`GP-03デンドロビウム <srw4_unit_gp_03_dendrobium>`\  (GP-03 D)
 
    * - 33
      - 爆導索
@@ -793,7 +793,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`GP-03デンドロビウム <srw4_unit_gp_03_dendrobium>`\ 
+     - \ :ref:`GP-03デンドロビウム <srw4_unit_gp_03_dendrobium>`\  (GP-03 D)
 
    * - 34
      - 集中ミサイル
@@ -808,7 +808,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`GP-03デンドロビウム <srw4_unit_gp_03_dendrobium>`\ 
+     - \ :ref:`GP-03デンドロビウム <srw4_unit_gp_03_dendrobium>`\  (GP-03 D)
 
    * - 35
      - マイクロミサイル
@@ -823,7 +823,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\ 
+     - \ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\  (凶鸟)
 
    * - 36
      - 240ミリキャノン
@@ -838,7 +838,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガンキャノン <srw4_unit_gun_cannon>`\ 
+     - \ :ref:`ガンキャノン <srw4_unit_gun_cannon>`\  (钢加农)
 
    * - 37
      - 120ミリキャノン
@@ -853,7 +853,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガンタンク <srw4_unit_gun_tank>`\ 
+     - \ :ref:`ガンタンク <srw4_unit_gun_tank>`\  (钢坦克)
 
    * - 38
      - ボップミサイル
@@ -868,7 +868,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガンタンク <srw4_unit_gun_tank>`\ 
+     - \ :ref:`ガンタンク <srw4_unit_gun_tank>`\  (钢坦克)
 
    * - 39
      - 小型ミサイル
@@ -883,7 +883,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`GM III <srw4_unit_gm_iii>`\ 
+     - \ :ref:`GM III <srw4_unit_gm_iii>`\  (吉姆Ⅲ)
 
    * - 3A
      - 破壊光線
@@ -898,7 +898,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドレイドウ <srw4_unit_draydou>`\ 
+     - \ :ref:`ドレイドウ <srw4_unit_draydou>`\  (德雷多乌)
 
    * - 3B
      - ベガトロンビーム
@@ -913,7 +913,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`円盤獣ジンジン <srw4_unit_saucer_beast_jinjin>`\ 
+     - \ :ref:`円盤獣ジンジン <srw4_unit_saucer_beast_jinjin>`\  (圆盘兽金金)
 
    * - 3C
      - ハンドグレネイド
@@ -928,7 +928,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`リ・ガズィ (MS) <srw4_unit_ri_gazi_ms>`\ 
+     - \ :ref:`リ·ガズィ (MS) <srw4_unit_ri_gazi_ms>`\  (灵格斯)
 
    * - 3D
      - ローズカッター
@@ -943,7 +943,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ウィーゾル改 <srw4_unit_weesol_kai>`\ 
+     - \ :ref:`ウィーゾル改 <srw4_unit_weesol_kai>`\  (维佐尔·改)
 
    * - 3E
      - ゲッターレザー
@@ -958,7 +958,7 @@
      - 
      - 7
      - 8
-     - \ :ref:`ゲッター1 <srw4_unit_getter_1>`\ 
+     - \ :ref:`ゲッター1 <srw4_unit_getter_1>`\  (盖塔1)
 
    * - 3F
      - ｹﾞｯﾀｰﾄﾏﾎｰｸ
@@ -973,7 +973,7 @@
      - 
      - 7
      - 5
-     - \ :ref:`ゲッター1 <srw4_unit_getter_1>`\ 
+     - \ :ref:`ゲッター1 <srw4_unit_getter_1>`\  (盖塔1)
 
    * - 40
      - ﾄﾏﾎｰｸﾌﾞｰﾒﾗﾝ
@@ -988,7 +988,7 @@
      - 
      - 7
      - 6
-     - \ :ref:`ゲッター1 <srw4_unit_getter_1>`\ 
+     - \ :ref:`ゲッター1 <srw4_unit_getter_1>`\  (盖塔1)
 
    * - 41
      - ゲッタービーム
@@ -1003,7 +1003,7 @@
      - 
      - 7
      - 3
-     - \ :ref:`ゲッター1 <srw4_unit_getter_1>`\ 
+     - \ :ref:`ゲッター1 <srw4_unit_getter_1>`\  (盖塔1)
 
    * - 42
      - ゲッタービーム
@@ -1018,7 +1018,7 @@
      - 
      - 7
      - 3
-     - \ :ref:`ゲッタードラゴン <srw4_unit_getter_dragon>`\ 
+     - \ :ref:`ゲッタードラゴン <srw4_unit_getter_dragon>`\  (盖塔龙)
 
    * - 43
      - ゲッターアーム
@@ -1033,7 +1033,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲッター2 <srw4_unit_getter_2>`\ 
+     - \ :ref:`ゲッター2 <srw4_unit_getter_2>`\  (盖塔2)
 
    * - 44
      - ゲッタードリル
@@ -1048,7 +1048,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲッター2 <srw4_unit_getter_2>`\ 
+     - \ :ref:`ゲッター2 <srw4_unit_getter_2>`\  (盖塔2)
 
    * - 45
      - ドリルストーム
@@ -1063,7 +1063,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲッター2 <srw4_unit_getter_2>`\ 
+     - \ :ref:`ゲッター2 <srw4_unit_getter_2>`\  (盖塔2)
 
    * - 46
      - ドリルパンチ
@@ -1078,7 +1078,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲッター2 <srw4_unit_getter_2>`\ 
+     - \ :ref:`ゲッター2 <srw4_unit_getter_2>`\  (盖塔2)
 
    * - 47
      - 格闘
@@ -1093,7 +1093,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ゲッター3 <srw4_unit_getter_3>`\ 
+     - \ :ref:`ゲッター3 <srw4_unit_getter_3>`\  (盖塔3)
 
    * - 48
      - 格闘
@@ -1108,7 +1108,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ゲッターポセイドン <srw4_unit_getter_poseidon>`\ 
+     - \ :ref:`ゲッターポセイドン <srw4_unit_getter_poseidon>`\  (盖塔海皇)
 
    * - 49
      - 格闘
@@ -1123,7 +1123,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`アフロダイA <srw4_unit_aphrodite_a>`\ 
+     - \ :ref:`アフロダイA <srw4_unit_aphrodite_a>`\  (阿弗洛蒂A)
 
    * - 4A
      - 格闘
@@ -1138,7 +1138,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ビューナスA <srw4_unit_venus_a>`\ 
+     - \ :ref:`ビューナスA <srw4_unit_venus_a>`\  (维纳斯A)
 
    * - 4B
      - 格闘
@@ -1153,7 +1153,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザンボエース <srw4_unit_zambo_ace>`\ 
+     - \ :ref:`ザンボエース <srw4_unit_zambo_ace>`\  (赞波A)
 
    * - 4C
      - 格闘
@@ -1168,7 +1168,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`イーグルファイターH <srw4_unit_eagle_fighter_h>`\ 
+     - \ :ref:`イーグルファイターH <srw4_unit_eagle_fighter_h>`\  (鹰战机H)
 
    * - 4D
      - 格闘
@@ -1183,7 +1183,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ビッグモスH <srw4_unit_big_moth_h>`\ 
+     - \ :ref:`ビッグモスH <srw4_unit_big_moth_h>`\  (巨象H)
 
    * - 4E
      - 格闘
@@ -1198,7 +1198,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バウンド・ドック (MS) <srw4_unit_baund_doc_ms>`\ 
+     - \ :ref:`バウンド·ドック (MS) <srw4_unit_baund_doc_ms>`\  (MS型猎犬)
 
    * - 4F
      - 格闘
@@ -1213,7 +1213,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`機械獣アブドラU6 <srw4_unit_mechanical_beast_abdullah_u6>`\ 
+     - \ :ref:`機械獣アブドラU6 <srw4_unit_mechanical_beast_abdullah_u6>`\  (机械兽阿卜杜拉U6)
 
    * - 50
      - ゲッターミサイル
@@ -1228,7 +1228,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲッター3 <srw4_unit_getter_3>`\ 
+     - \ :ref:`ゲッター3 <srw4_unit_getter_3>`\  (盖塔3)
 
    * - 51
      - スピンカッター
@@ -1243,7 +1243,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲッタードラゴン <srw4_unit_getter_dragon>`\ 
+     - \ :ref:`ゲッタードラゴン <srw4_unit_getter_dragon>`\  (盖塔龙)
 
    * - 52
      - ダブルトマホーク
@@ -1258,7 +1258,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ゲッタードラゴン <srw4_unit_getter_dragon>`\ 
+     - \ :ref:`ゲッタードラゴン <srw4_unit_getter_dragon>`\  (盖塔龙)
 
    * - 53
      - ﾀﾞﾌﾞﾙﾄﾏﾎｰｸﾌﾞｰﾒﾗﾝ
@@ -1273,7 +1273,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ゲッタードラゴン <srw4_unit_getter_dragon>`\ 
+     - \ :ref:`ゲッタードラゴン <srw4_unit_getter_dragon>`\  (盖塔龙)
 
    * - 54
      - シャインスパーク
@@ -1288,7 +1288,7 @@
      - 
      - 7
      - 4
-     - \ :ref:`ゲッタードラゴン <srw4_unit_getter_dragon>`\ 
+     - \ :ref:`ゲッタードラゴン <srw4_unit_getter_dragon>`\  (盖塔龙)
 
    * - 55
      - ドリルアーム
@@ -1303,7 +1303,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲッターライガー <srw4_unit_getter_liger>`\ 
+     - \ :ref:`ゲッターライガー <srw4_unit_getter_liger>`\  (盖塔狮虎)
 
    * - 56
      - ライガーミサイル
@@ -1318,7 +1318,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲッターライガー <srw4_unit_getter_liger>`\ 
+     - \ :ref:`ゲッターライガー <srw4_unit_getter_liger>`\  (盖塔狮虎)
 
    * - 57
      - チェーンアタック
@@ -1333,7 +1333,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲッターライガー <srw4_unit_getter_liger>`\ 
+     - \ :ref:`ゲッターライガー <srw4_unit_getter_liger>`\  (盖塔狮虎)
 
    * - 58
      - ゲッターサイクロン
@@ -1348,7 +1348,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲッターポセイドン <srw4_unit_getter_poseidon>`\ 
+     - \ :ref:`ゲッターポセイドン <srw4_unit_getter_poseidon>`\  (盖塔海皇)
 
    * - 59
      - ｽﾄﾛﾝｸﾞﾐｻｲﾙ
@@ -1363,7 +1363,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲッターポセイドン <srw4_unit_getter_poseidon>`\ 
+     - \ :ref:`ゲッターポセイドン <srw4_unit_getter_poseidon>`\  (盖塔海皇)
 
    * - 5A
      - 冷凍ビーム
@@ -1378,7 +1378,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`マジンガーZ <srw4_unit_mazinger_z>`\ 
+     - \ :ref:`マジンガーZ <srw4_unit_mazinger_z>`\  (魔神Z)
 
    * - 5B
      - 光子力ビーム
@@ -1393,7 +1393,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`マジンガーZ <srw4_unit_mazinger_z>`\ 
+     - \ :ref:`マジンガーZ <srw4_unit_mazinger_z>`\  (魔神Z)
 
    * - 5C
      - ロケットパンチ
@@ -1408,7 +1408,7 @@
      - 
      - 7
      - 3
-     - \ :ref:`マジンガーZ <srw4_unit_mazinger_z>`\ 
+     - \ :ref:`マジンガーZ <srw4_unit_mazinger_z>`\  (魔神Z)
 
    * - 5D
      - アイアンカッター
@@ -1423,7 +1423,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`マジンガーZ（JS） <srw4_unit_mazinger_z_js>`\ 
+     - \ :ref:`マジンガーZ（JS） <srw4_unit_mazinger_z_js>`\  (飞翼魔神Z)
 
    * - 5E
      - ミサイル
@@ -1438,7 +1438,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`マジンガーZ <srw4_unit_mazinger_z>`\ 
+     - \ :ref:`マジンガーZ <srw4_unit_mazinger_z>`\  (魔神Z)
 
    * - 5F
      - ダブルミサイル
@@ -1453,7 +1453,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ダブルスペイザー <srw4_unit_double_spacer>`\ 
+     - \ :ref:`ダブルスペイザー <srw4_unit_double_spacer>`\  (飞行斯陪沙)
 
    * - 60
      - ｱﾌﾛﾀﾞｲﾐｻｲﾙ
@@ -1468,7 +1468,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`アフロダイA <srw4_unit_aphrodite_a>`\ 
+     - \ :ref:`アフロダイA <srw4_unit_aphrodite_a>`\  (阿弗洛蒂A)
 
    * - 61
      - ミサイル
@@ -1483,7 +1483,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ブルーガー <srw4_unit_bluegar>`\ 
+     - \ :ref:`ブルーガー <srw4_unit_bluegar>`\  (布尔加)
 
    * - 62
      - ミサイル
@@ -1498,7 +1498,7 @@
      - 
      - 7
      - C
-     - \ :ref:`ダイモス <srw4_unit_daimos>`\ 
+     - \ :ref:`ダイモス <srw4_unit_daimos>`\  (戴莫斯)
 
    * - 63
      - ドリルミサイル
@@ -1513,7 +1513,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`マジンガーZ（JS） <srw4_unit_mazinger_z_js>`\ 
+     - \ :ref:`マジンガーZ（JS） <srw4_unit_mazinger_z_js>`\  (飞翼魔神Z)
 
    * - 64
      - ドリルミサイル
@@ -1528,7 +1528,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドリルスパイザー <srw4_unit_drill_spider>`\ 
+     - \ :ref:`ドリルスパイザー <srw4_unit_drill_spider>`\  (钻地斯陪沙)
 
    * - 65
      - ルストハリケーン
@@ -1543,7 +1543,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`マジンガーZ <srw4_unit_mazinger_z>`\ 
+     - \ :ref:`マジンガーZ <srw4_unit_mazinger_z>`\  (魔神Z)
 
    * - 66
      - ﾌﾞﾚｽﾄﾌｧｲﾔｰ
@@ -1558,7 +1558,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`マジンガーZ <srw4_unit_mazinger_z>`\ 
+     - \ :ref:`マジンガーZ <srw4_unit_mazinger_z>`\  (魔神Z)
 
    * - 67
      - ｽｸﾗﾝﾀﾞｰｶｯﾀｰ
@@ -1573,7 +1573,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`マジンガーZ（JS） <srw4_unit_mazinger_z_js>`\ 
+     - \ :ref:`マジンガーZ（JS） <srw4_unit_mazinger_z_js>`\  (飞翼魔神Z)
 
    * - 68
      - ｻｻﾞﾝｸﾛｽﾅｲﾌ
@@ -1588,7 +1588,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`マジンガーZ（JS） <srw4_unit_mazinger_z_js>`\ 
+     - \ :ref:`マジンガーZ（JS） <srw4_unit_mazinger_z_js>`\  (飞翼魔神Z)
 
    * - 69
      - ﾆｰｲﾝﾊﾟﾙｽｷｯｸ
@@ -1603,7 +1603,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\ 
+     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\  (大魔神)
 
    * - 6A
      - ﾊﾞｯｸｽﾋﾟﾝｷｯｸ
@@ -1618,7 +1618,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\ 
+     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\  (大魔神)
 
    * - 6B
      - ﾏｼﾞﾝｶﾞｰﾌﾞﾚｰﾄﾞ
@@ -1633,7 +1633,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\ 
+     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\  (大魔神)
 
    * - 6C
      - スクランブルカッター
@@ -1648,7 +1648,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\ 
+     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\  (大魔神)
 
    * - 6D
      - ネーブルミサイル
@@ -1663,7 +1663,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\ 
+     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\  (大魔神)
 
    * - 6E
      - ｸﾞﾚｰﾄﾀｲﾌｰﾝ
@@ -1678,7 +1678,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\ 
+     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\  (大魔神)
 
    * - 6F
      - ｸﾞﾚｰﾄﾌﾞｰﾒﾗﾝ
@@ -1693,7 +1693,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\ 
+     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\  (大魔神)
 
    * - 70
      - アトミックパンチ
@@ -1708,7 +1708,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\ 
+     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\  (大魔神)
 
    * - 71
      - ﾄﾞﾘﾙﾌﾟﾚｯｼｬｰﾊﾟﾝﾁ
@@ -1723,7 +1723,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\ 
+     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\  (大魔神)
 
    * - 72
      - ブレストバーン
@@ -1738,7 +1738,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\ 
+     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\  (大魔神)
 
    * - 73
      - サンダーブレーク
@@ -1753,7 +1753,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\ 
+     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\  (大魔神)
 
    * - 74
      - ハンドビーム
@@ -1768,7 +1768,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グレンダイザー <srw4_unit_grendizer>`\ 
+     - \ :ref:`グレンダイザー <srw4_unit_grendizer>`\  (古连泰沙)
 
    * - 75
      - ｼｮﾙﾀﾞｰﾌﾞｰﾒﾗﾝ
@@ -1783,7 +1783,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グレンダイザー <srw4_unit_grendizer>`\ 
+     - \ :ref:`グレンダイザー <srw4_unit_grendizer>`\  (古连泰沙)
 
    * - 76
      - 反重力ストーム
@@ -1798,7 +1798,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グレンダイザー <srw4_unit_grendizer>`\ 
+     - \ :ref:`グレンダイザー <srw4_unit_grendizer>`\  (古连泰沙)
 
    * - 77
      - ダブルハーケン
@@ -1813,7 +1813,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グレンダイザー <srw4_unit_grendizer>`\ 
+     - \ :ref:`グレンダイザー <srw4_unit_grendizer>`\  (古连泰沙)
 
    * - 78
      - ｽｸﾘｭｰｸﾗｯｼｬｰﾊﾟﾝﾁ
@@ -1828,7 +1828,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`スペイザー <srw4_unit_spacer>`\ 
+     - \ :ref:`スペイザー <srw4_unit_spacer>`\  (斯陪沙)
 
    * - 79
      - スペースサンダー
@@ -1843,7 +1843,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グレンダイザー <srw4_unit_grendizer>`\ 
+     - \ :ref:`グレンダイザー <srw4_unit_grendizer>`\  (古连泰沙)
 
    * - 7A
      - スピンソーサー
@@ -1858,7 +1858,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`スペイザー <srw4_unit_spacer>`\ 
+     - \ :ref:`スペイザー <srw4_unit_spacer>`\  (斯陪沙)
 
    * - 7B
      - スピンドリル
@@ -1873,7 +1873,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`スペイザー <srw4_unit_spacer>`\ 
+     - \ :ref:`スペイザー <srw4_unit_spacer>`\  (斯陪沙)
 
    * - 7C
      - メルトシャワー
@@ -1888,7 +1888,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`スペイザー <srw4_unit_spacer>`\ 
+     - \ :ref:`スペイザー <srw4_unit_spacer>`\  (斯陪沙)
 
    * - 7D
      - サイクロンビーム
@@ -1903,7 +1903,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ダブルスペイザー <srw4_unit_double_spacer>`\ 
+     - \ :ref:`ダブルスペイザー <srw4_unit_double_spacer>`\  (飞行斯陪沙)
 
    * - 7E
      - ダブルカッター
@@ -1918,7 +1918,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ダブルスペイザー <srw4_unit_double_spacer>`\ 
+     - \ :ref:`ダブルスペイザー <srw4_unit_double_spacer>`\  (飞行斯陪沙)
 
    * - 7F
      - スパークボンバー
@@ -1933,7 +1933,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドリルスパイザー <srw4_unit_drill_spider>`\ 
+     - \ :ref:`ドリルスパイザー <srw4_unit_drill_spider>`\  (钻地斯陪沙)
 
    * - 80
      - ドリルアタック
@@ -1948,7 +1948,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドリルスパイザー <srw4_unit_drill_spider>`\ 
+     - \ :ref:`ドリルスパイザー <srw4_unit_drill_spider>`\  (钻地斯陪沙)
 
    * - 81
      - マリンミサイル
@@ -1963,7 +1963,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`マリンスペイザー <srw4_unit_marine_spacer>`\ 
+     - \ :ref:`マリンスペイザー <srw4_unit_marine_spacer>`\  (潜水斯陪沙)
 
    * - 82
      - マリンカッター
@@ -1978,7 +1978,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`マリンスペイザー <srw4_unit_marine_spacer>`\ 
+     - \ :ref:`マリンスペイザー <srw4_unit_marine_spacer>`\  (潜水斯陪沙)
 
    * - 83
      - ﾀﾞｲｱﾅﾝﾐｻｲﾙ
@@ -1993,7 +1993,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ダイアナンA <srw4_unit_diana_a>`\ 
+     - \ :ref:`ダイアナンA <srw4_unit_diana_a>`\  (戴安娜A)
 
    * - 84
      - ｽｶｰﾚｯﾄﾋﾞｰﾑ
@@ -2008,7 +2008,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ダイアナンA <srw4_unit_diana_a>`\ 
+     - \ :ref:`ダイアナンA <srw4_unit_diana_a>`\  (戴安娜A)
 
    * - 85
      - ボロットパンチ
@@ -2023,7 +2023,7 @@
      - 
      - 7
      - 4
-     - \ :ref:`ボスボロット <srw4_unit_boss_borot>`\ 
+     - \ :ref:`ボスボロット <srw4_unit_boss_borot>`\  (波士机器人)
 
    * - 86
      - ｽﾍﾟｼｬﾙﾎﾞﾛｯﾄﾊﾟﾝﾁ
@@ -2038,7 +2038,7 @@
      - 
      - 7
      - 5
-     - \ :ref:`ボスボロット <srw4_unit_boss_borot>`\ 
+     - \ :ref:`ボスボロット <srw4_unit_boss_borot>`\  (波士机器人)
 
    * - 87
      - SPDXﾎﾞﾛｯﾄﾊﾟﾝﾁ
@@ -2053,7 +2053,7 @@
      - 
      - 7
      - 6
-     - \ :ref:`ボスボロット <srw4_unit_boss_borot>`\ 
+     - \ :ref:`ボスボロット <srw4_unit_boss_borot>`\  (波士机器人)
 
    * - 88
      - 光子力ミサイル
@@ -2068,7 +2068,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ビューナスA <srw4_unit_venus_a>`\ 
+     - \ :ref:`ビューナスA <srw4_unit_venus_a>`\  (维纳斯A)
 
    * - 89
      - ﾌｨﾝｶﾞｰﾐｻｲﾙ
@@ -2083,7 +2083,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ビューナスA <srw4_unit_venus_a>`\ 
+     - \ :ref:`ビューナスA <srw4_unit_venus_a>`\  (维纳斯A)
 
    * - 8A
      - 30ミリマシンガン
@@ -2098,7 +2098,7 @@
      - 
      - 0
      - 2
-     - \ :ref:`バトルジェット <srw4_unit_battle_jet>`\ 
+     - \ :ref:`バトルジェット <srw4_unit_battle_jet>`\  (战斗喷气机)
 
    * - 8B
      - スカイリッパー
@@ -2113,7 +2113,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バトルジェット <srw4_unit_battle_jet>`\ 
+     - \ :ref:`バトルジェット <srw4_unit_battle_jet>`\  (战斗喷气机)
 
    * - 8C
      - ドスブレッシャー
@@ -2128,7 +2128,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バトルジェット <srw4_unit_battle_jet>`\ 
+     - \ :ref:`バトルジェット <srw4_unit_battle_jet>`\  (战斗喷气机)
 
    * - 8D
      - マグネレーザー
@@ -2143,7 +2143,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バトルジェット <srw4_unit_battle_jet>`\ 
+     - \ :ref:`バトルジェット <srw4_unit_battle_jet>`\  (战斗喷气机)
 
    * - 8E
      - ロックファイター
@@ -2173,7 +2173,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バトルクラッシャー <srw4_unit_battle_crusher>`\ 
+     - \ :ref:`バトルクラッシャー <srw4_unit_battle_crusher>`\  (战斗轰炸机)
 
    * - 90
      - マグネクロー
@@ -2218,7 +2218,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バトルタンク <srw4_unit_battle_tank>`\ 
+     - \ :ref:`バトルタンク <srw4_unit_battle_tank>`\  (战斗坦克)
 
    * - 93
      - 380ミリ戦車砲
@@ -2233,7 +2233,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`バトルタンク <srw4_unit_battle_tank>`\ 
+     - \ :ref:`バトルタンク <srw4_unit_battle_tank>`\  (战斗坦克)
 
    * - 94
      - 修理装置
@@ -2248,7 +2248,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バトルマリン <srw4_unit_battle_marine>`\ 
+     - \ :ref:`バトルマリン <srw4_unit_battle_marine>`\  (战斗潜艇)
 
    * - 95
      - 爆雷
@@ -2263,7 +2263,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バトルマリン <srw4_unit_battle_marine>`\ 
+     - \ :ref:`バトルマリン <srw4_unit_battle_marine>`\  (战斗潜艇)
 
    * - 96
      - クラフトドリル
@@ -2278,7 +2278,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バトロウクラフト <srw4_unit_battle_craft>`\ 
+     - \ :ref:`バトロウクラフト <srw4_unit_battle_craft>`\  (战斗飞艇)
 
    * - 97
      - バトルリターン
@@ -2293,7 +2293,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\ 
+     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\  (孔巴特拉V)
 
    * - 98
      - ロックファイター
@@ -2308,7 +2308,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バトルクラッシャー <srw4_unit_battle_crusher>`\ 
+     - \ :ref:`バトルクラッシャー <srw4_unit_battle_crusher>`\  (战斗轰炸机)
 
    * - 99
      - マグネクロー
@@ -2323,7 +2323,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バトルクラッシャー <srw4_unit_battle_crusher>`\ 
+     - \ :ref:`バトルクラッシャー <srw4_unit_battle_crusher>`\  (战斗轰炸机)
 
    * - 9A
      - ｱﾄﾐｯｸﾊﾞｰﾅｰ
@@ -2338,7 +2338,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バトルクラッシャー <srw4_unit_battle_crusher>`\ 
+     - \ :ref:`バトルクラッシャー <srw4_unit_battle_crusher>`\  (战斗轰炸机)
 
    * - 9B
      - バトルガレッガー
@@ -2353,7 +2353,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\ 
+     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\  (孔巴特拉V)
 
    * - 9C
      - 超電磁クレーン
@@ -2368,7 +2368,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\ 
+     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\  (孔巴特拉V)
 
    * - 9D
      - ｽﾌﾟﾘﾝｸﾞｸﾗｯｼｬｰ
@@ -2383,7 +2383,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\ 
+     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\  (孔巴特拉V)
 
    * - 9E
      - ミサイル
@@ -2398,7 +2398,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`マザーバーン <srw4_unit_mother_burn>`\ 
+     - \ :ref:`マザーバーン <srw4_unit_mother_burn>`\  (圆盘母舰)
 
    * - 9F
      - 超電磁ヨーヨー
@@ -2413,7 +2413,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\ 
+     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\  (孔巴特拉V)
 
    * - A0
      - ツインランサー
@@ -2428,7 +2428,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\ 
+     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\  (孔巴特拉V)
 
    * - A1
      - Ｖレーザー
@@ -2443,7 +2443,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\ 
+     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\  (孔巴特拉V)
 
    * - A2
      - ﾊﾞﾄﾙﾁｪｰﾝｿｰ
@@ -2458,7 +2458,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\ 
+     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\  (孔巴特拉V)
 
    * - A3
      - ビッグブラスト
@@ -2473,7 +2473,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\ 
+     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\  (孔巴特拉V)
 
    * - A4
      - Bﾌﾞﾗｽﾄ･DV
@@ -2488,7 +2488,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\ 
+     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\  (孔巴特拉V)
 
    * - A5
      - 超電磁スパーク
@@ -2503,7 +2503,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\ 
+     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\  (孔巴特拉V)
 
    * - A6
      - 超電磁スピン
@@ -2518,7 +2518,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\ 
+     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\  (孔巴特拉V)
 
    * - A7
      - ゴッドブレイカー
@@ -2533,7 +2533,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ライディーン <srw4_unit_reideen>`\ 
+     - \ :ref:`ライディーン <srw4_unit_reideen>`\  (莱汀)
 
    * - A8
      - ゴッドミサイル
@@ -2548,7 +2548,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ライディーン <srw4_unit_reideen>`\ 
+     - \ :ref:`ライディーン <srw4_unit_reideen>`\  (莱汀)
 
    * - A9
      - ゴッドブーメラン
@@ -2563,7 +2563,7 @@
      - 
      - 7
      - 3
-     - \ :ref:`ライディーン <srw4_unit_reideen>`\ 
+     - \ :ref:`ライディーン <srw4_unit_reideen>`\  (莱汀)
 
    * - AA
      - ゴッドサンダー
@@ -2578,7 +2578,7 @@
      - 
      - 7
      - 4
-     - \ :ref:`ライディーン <srw4_unit_reideen>`\ 
+     - \ :ref:`ライディーン <srw4_unit_reideen>`\  (莱汀)
 
    * - AB
      - ゴッドアロー
@@ -2593,7 +2593,7 @@
      - 
      - 7
      - 5
-     - \ :ref:`ライディーン <srw4_unit_reideen>`\ 
+     - \ :ref:`ライディーン <srw4_unit_reideen>`\  (莱汀)
 
    * - AC
      - ゴッドゴーガン
@@ -2608,7 +2608,7 @@
      - 
      - 7
      - 6
-     - \ :ref:`ライディーン <srw4_unit_reideen>`\ 
+     - \ :ref:`ライディーン <srw4_unit_reideen>`\  (莱汀)
 
    * - AD
      - ゴッドプレッシャー
@@ -2623,7 +2623,7 @@
      - 
      - 7
      - 7
-     - \ :ref:`ライディーン <srw4_unit_reideen>`\ 
+     - \ :ref:`ライディーン <srw4_unit_reideen>`\  (莱汀)
 
    * - AE
      - ゴーガンソード
@@ -2638,7 +2638,7 @@
      - 
      - 7
      - 8
-     - \ :ref:`ライディーン <srw4_unit_reideen>`\ 
+     - \ :ref:`ライディーン <srw4_unit_reideen>`\  (莱汀)
 
    * - AF
      - ｴﾈﾙｷﾞｰｶｯﾀｰ
@@ -2653,7 +2653,7 @@
      - 
      - 7
      - 9
-     - \ :ref:`ライディーン <srw4_unit_reideen>`\ 
+     - \ :ref:`ライディーン <srw4_unit_reideen>`\  (莱汀)
 
    * - B0
      - ゴッドアルファ
@@ -2668,7 +2668,7 @@
      - 
      - 7
      - A
-     - \ :ref:`ライディーン <srw4_unit_reideen>`\ 
+     - \ :ref:`ライディーン <srw4_unit_reideen>`\  (莱汀)
 
    * - B1
      - ゴッドバード
@@ -2683,7 +2683,7 @@
      - 
      - 7
      - B
-     - \ :ref:`ライディーン <srw4_unit_reideen>`\ 
+     - \ :ref:`ライディーン <srw4_unit_reideen>`\  (莱汀)
 
    * - B2
      - ゴッドボイス
@@ -2698,7 +2698,7 @@
      - 
      - 7
      - C
-     - \ :ref:`ライディーン <srw4_unit_reideen>`\ 
+     - \ :ref:`ライディーン <srw4_unit_reideen>`\  (莱汀)
 
    * - B3
      - 20ミリバルカン
@@ -2713,7 +2713,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`ブルーガー <srw4_unit_bluegar>`\ 
+     - \ :ref:`ブルーガー <srw4_unit_bluegar>`\  (布尔加)
 
    * - B4
      - フットカッター
@@ -2728,7 +2728,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ダイモス <srw4_unit_daimos>`\ 
+     - \ :ref:`ダイモス <srw4_unit_daimos>`\  (戴莫斯)
 
    * - B5
      - 爆雷
@@ -2743,7 +2743,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ブルーガー <srw4_unit_bluegar>`\ 
+     - \ :ref:`ブルーガー <srw4_unit_bluegar>`\  (布尔加)
 
    * - B6
      - 真空回し蹴り
@@ -2758,7 +2758,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ダイモス <srw4_unit_daimos>`\ 
+     - \ :ref:`ダイモス <srw4_unit_daimos>`\  (戴莫斯)
 
    * - B7
      - スネークロック
@@ -2773,7 +2773,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ダイモス <srw4_unit_daimos>`\ 
+     - \ :ref:`ダイモス <srw4_unit_daimos>`\  (戴莫斯)
 
    * - B8
      - ﾌｧｲﾌﾞｼｭｰﾀｰ
@@ -2788,7 +2788,7 @@
      - 
      - 7
      - 3
-     - \ :ref:`ダイモス <srw4_unit_daimos>`\ 
+     - \ :ref:`ダイモス <srw4_unit_daimos>`\  (戴莫斯)
 
    * - B9
      - クロスブーメラン
@@ -2803,7 +2803,7 @@
      - 
      - 7
      - 4
-     - \ :ref:`ダイモス <srw4_unit_daimos>`\ 
+     - \ :ref:`ダイモス <srw4_unit_daimos>`\  (戴莫斯)
 
    * - BA
      - ダイモガン
@@ -2818,7 +2818,7 @@
      - 
      - 7
      - 5
-     - \ :ref:`ダイモス <srw4_unit_daimos>`\ 
+     - \ :ref:`ダイモス <srw4_unit_daimos>`\  (戴莫斯)
 
    * - BB
      - ダイモシャフト
@@ -2833,7 +2833,7 @@
      - 
      - 7
      - 6
-     - \ :ref:`ダイモス <srw4_unit_daimos>`\ 
+     - \ :ref:`ダイモス <srw4_unit_daimos>`\  (戴莫斯)
 
    * - BC
      - ドリルアンカー
@@ -2848,7 +2848,7 @@
      - 
      - 7
      - 7
-     - \ :ref:`ダイモス <srw4_unit_daimos>`\ 
+     - \ :ref:`ダイモス <srw4_unit_daimos>`\  (戴莫斯)
 
    * - BD
      - 三竜棍
@@ -2863,7 +2863,7 @@
      - 
      - 7
      - 8
-     - \ :ref:`ダイモス <srw4_unit_daimos>`\ 
+     - \ :ref:`ダイモス <srw4_unit_daimos>`\  (戴莫斯)
 
    * - BE
      - 双竜剣
@@ -2878,7 +2878,7 @@
      - 
      - 7
      - 9
-     - \ :ref:`ダイモス <srw4_unit_daimos>`\ 
+     - \ :ref:`ダイモス <srw4_unit_daimos>`\  (戴莫斯)
 
    * - BF
      - 必殺烈風正拳突き
@@ -2893,7 +2893,7 @@
      - 
      - 7
      - A
-     - \ :ref:`ダイモス <srw4_unit_daimos>`\ 
+     - \ :ref:`ダイモス <srw4_unit_daimos>`\  (戴莫斯)
 
    * - C0
      - ﾀﾞｲﾀｰﾝｻﾞﾝﾊﾞｰ
@@ -2908,7 +2908,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\ 
+     - \ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\  (泰坦3)
 
    * - C1
      - ﾀﾞｲﾀｰﾝﾊﾝﾏｰ
@@ -2923,7 +2923,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\ 
+     - \ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\  (泰坦3)
 
    * - C2
      - ﾀﾞｲﾀｰﾝｳｪｯﾌﾞ
@@ -2938,7 +2938,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\ 
+     - \ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\  (泰坦3)
 
    * - C3
      - ビッグウェッブ
@@ -2953,7 +2953,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\ 
+     - \ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\  (泰坦3)
 
    * - C4
      - ﾀﾞｲﾀｰﾝﾐｻｲﾙ
@@ -2968,7 +2968,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\ 
+     - \ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\  (泰坦3)
 
    * - C5
      - ﾀﾞｲﾀｰﾝｷｬﾉﾝ
@@ -2983,7 +2983,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\ 
+     - \ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\  (泰坦3)
 
    * - C6
      - サンレーザー
@@ -2998,7 +2998,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\ 
+     - \ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\  (泰坦3)
 
    * - C7
      - サンアタック
@@ -3013,7 +3013,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\ 
+     - \ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\  (泰坦3)
 
    * - C8
      - ロケット砲
@@ -3028,7 +3028,7 @@
      - 
      - 7
      - 4
-     - \ :ref:`ダイファイター <srw4_unit_dai_fighter>`\ 
+     - \ :ref:`ダイファイター <srw4_unit_dai_fighter>`\  (泰坦战机)
 
    * - C9
      - ﾀﾞｲﾀｰﾝﾐｻｲﾙ
@@ -3058,7 +3058,7 @@
      - 
      - 7
      - 3
-     - \ :ref:`ダイファイター <srw4_unit_dai_fighter>`\ 
+     - \ :ref:`ダイファイター <srw4_unit_dai_fighter>`\  (泰坦战机)
 
    * - CB
      - バードガン
@@ -3073,7 +3073,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`ザンバード <srw4_unit_zambird>`\ 
+     - \ :ref:`ザンバード <srw4_unit_zambird>`\  (赞波鸟)
 
    * - CC
      - 大型ミサイル
@@ -3088,7 +3088,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ザンバード <srw4_unit_zambird>`\ 
+     - \ :ref:`ザンバード <srw4_unit_zambird>`\  (赞波鸟)
 
    * - CD
      - トレンブルホーン
@@ -3103,7 +3103,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザンバード <srw4_unit_zambird>`\ 
+     - \ :ref:`ザンバード <srw4_unit_zambird>`\  (赞波鸟)
 
    * - CE
      - ザンボマグナム
@@ -3118,7 +3118,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザンボエース <srw4_unit_zambo_ace>`\ 
+     - \ :ref:`ザンボエース <srw4_unit_zambo_ace>`\  (赞波A)
 
    * - CF
      - ザンボライフル
@@ -3133,7 +3133,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ザンボエース <srw4_unit_zambo_ace>`\ 
+     - \ :ref:`ザンボエース <srw4_unit_zambo_ace>`\  (赞波A)
 
    * - D0
      - ｸﾗｯｼｬｰﾄﾞﾘﾙ
@@ -3148,7 +3148,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザンブル <srw4_unit_zambull>`\ 
+     - \ :ref:`ザンブル <srw4_unit_zambull>`\  (赞波牛)
 
    * - D1
      - アームパンチ
@@ -3163,7 +3163,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザンブル <srw4_unit_zambull>`\ 
+     - \ :ref:`ザンブル <srw4_unit_zambull>`\  (赞波牛)
 
    * - D2
      - ビッグキャノン
@@ -3178,7 +3178,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザンブル <srw4_unit_zambull>`\ 
+     - \ :ref:`ザンブル <srw4_unit_zambull>`\  (赞波牛)
 
    * - D3
      - ブルミサイル
@@ -3193,7 +3193,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザンブル <srw4_unit_zambull>`\ 
+     - \ :ref:`ザンブル <srw4_unit_zambull>`\  (赞波牛)
 
    * - D4
      - ビッグミサイル
@@ -3208,7 +3208,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザンブル <srw4_unit_zambull>`\ 
+     - \ :ref:`ザンブル <srw4_unit_zambull>`\  (赞波牛)
 
    * - D5
      - ベースレーザー
@@ -3223,7 +3223,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザンベース <srw4_unit_zambase>`\ 
+     - \ :ref:`ザンベース <srw4_unit_zambase>`\  (赞波B)
 
    * - D6
      - 熱戦砲
@@ -3238,7 +3238,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ザンベース <srw4_unit_zambase>`\ 
+     - \ :ref:`ザンベース <srw4_unit_zambase>`\  (赞波B)
 
    * - D7
      - ベースミサイル
@@ -3253,7 +3253,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザンベース <srw4_unit_zambase>`\ 
+     - \ :ref:`ザンベース <srw4_unit_zambase>`\  (赞波B)
 
    * - D8
      - ｻﾞﾝﾎﾞｯﾄｸﾞﾗｯﾌﾟ
@@ -3268,7 +3268,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザンボット3 <srw4_unit_zambot_3>`\ 
+     - \ :ref:`ザンボット3 <srw4_unit_zambot_3>`\  (赞波特3)
 
    * - D9
      - ザンボットブロー
@@ -3283,7 +3283,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザンボット3 <srw4_unit_zambot_3>`\ 
+     - \ :ref:`ザンボット3 <srw4_unit_zambot_3>`\  (赞波特3)
 
    * - DA
      - ｻﾞﾝﾎﾞｯﾄﾊﾞｽﾀｰ
@@ -3298,7 +3298,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザンボット3 <srw4_unit_zambot_3>`\ 
+     - \ :ref:`ザンボット3 <srw4_unit_zambot_3>`\  (赞波特3)
 
    * - DB
      - ｻﾞﾝﾎﾞｯﾄｶｯﾀｰ
@@ -3313,7 +3313,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザンボット3 <srw4_unit_zambot_3>`\ 
+     - \ :ref:`ザンボット3 <srw4_unit_zambot_3>`\  (赞波特3)
 
    * - DC
      - バスターミサイル
@@ -3328,7 +3328,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザンボット3 <srw4_unit_zambot_3>`\ 
+     - \ :ref:`ザンボット3 <srw4_unit_zambot_3>`\  (赞波特3)
 
    * - DD
      - ムーンアタック
@@ -3343,7 +3343,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ザンボット3 <srw4_unit_zambot_3>`\ 
+     - \ :ref:`ザンボット3 <srw4_unit_zambot_3>`\  (赞波特3)
 
    * - DE
      - イオン砲
@@ -3358,7 +3358,7 @@
      - 
      - 7
      - 3
-     - \ :ref:`ザンボット3 <srw4_unit_zambot_3>`\ 
+     - \ :ref:`ザンボット3 <srw4_unit_zambot_3>`\  (赞波特3)
 
    * - DF
      - ワイヤークロー
@@ -3373,7 +3373,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ダンバイン <srw4_unit_dunbine>`\ 
+     - \ :ref:`ダンバイン <srw4_unit_dunbine>`\  (丹拜因)
 
    * - E0
      - ワイヤークロー
@@ -3388,7 +3388,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`レプラカーン <srw4_unit_leprechaun>`\ 
+     - \ :ref:`レプラカーン <srw4_unit_leprechaun>`\  (雷普拉刚)
 
    * - E1
      - ﾄﾞﾗｲｼｭﾄﾗｰﾙ
@@ -3403,7 +3403,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ウィーゾル改 <srw4_unit_weesol_kai>`\ 
+     - \ :ref:`ウィーゾル改 <srw4_unit_weesol_kai>`\  (维佐尔·改)
 
    * - E2
      - ｴﾚﾒﾝﾀﾙﾌｭｰｼﾞｮﾝ
@@ -3418,7 +3418,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ウィーゾル改 <srw4_unit_weesol_kai>`\ 
+     - \ :ref:`ウィーゾル改 <srw4_unit_weesol_kai>`\  (维佐尔·改)
 
    * - E3
      - ワイヤークロー
@@ -3433,7 +3433,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ビルバイン <srw4_unit_bilvine>`\ 
+     - \ :ref:`ビルバイン <srw4_unit_bilvine>`\  (比尔拜因)
 
    * - E4
      - オーラソード
@@ -3448,7 +3448,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ダンバイン <srw4_unit_dunbine>`\ 
+     - \ :ref:`ダンバイン <srw4_unit_dunbine>`\  (丹拜因)
 
    * - E5
      - オーラソード
@@ -3463,7 +3463,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`レプラカーン <srw4_unit_leprechaun>`\ 
+     - \ :ref:`レプラカーン <srw4_unit_leprechaun>`\  (雷普拉刚)
 
    * - E6
      - ブラスナックル
@@ -3478,7 +3478,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ノルス・レイ <srw4_unit_nors_ray>`\ 
+     - \ :ref:`ノルス·レイ <srw4_unit_nors_ray>`\  (诺鲁斯·改)
 
    * - E7
      - オーラソード
@@ -3493,7 +3493,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ビルバイン <srw4_unit_bilvine>`\ 
+     - \ :ref:`ビルバイン <srw4_unit_bilvine>`\  (比尔拜因)
 
    * - E8
      - ソーラショット
@@ -3508,7 +3508,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ダンバイン <srw4_unit_dunbine>`\ 
+     - \ :ref:`ダンバイン <srw4_unit_dunbine>`\  (丹拜因)
 
    * - E9
      - イビルアイ
@@ -3523,7 +3523,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ノルス・レイ <srw4_unit_nors_ray>`\ 
+     - \ :ref:`ノルス·レイ <srw4_unit_nors_ray>`\  (诺鲁斯·改)
 
    * - EA
      - オーラショット
@@ -3538,7 +3538,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`レプラカーン <srw4_unit_leprechaun>`\ 
+     - \ :ref:`レプラカーン <srw4_unit_leprechaun>`\  (雷普拉刚)
 
    * - EB
      - ミサイル
@@ -3553,7 +3553,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ラインX1 <srw4_unit_rhine_x1>`\ 
+     - \ :ref:`ラインX1 <srw4_unit_rhine_x1>`\  (莱茵X1)
 
    * - EC
      - オーラ斬り
@@ -3568,7 +3568,7 @@
      - 聖戦士
      - 1
      - 0
-     - \ :ref:`ダンバイン <srw4_unit_dunbine>`\ 
+     - \ :ref:`ダンバイン <srw4_unit_dunbine>`\  (丹拜因)
 
    * - ED
      - ﾊｲﾊﾟｰｵｰﾗ斬り
@@ -3583,7 +3583,7 @@
      - 聖戦士
      - 1
      - 2
-     - \ :ref:`ダンバイン <srw4_unit_dunbine>`\ 
+     - \ :ref:`ダンバイン <srw4_unit_dunbine>`\  (丹拜因)
 
    * - EE
      - オーラキャノン
@@ -3598,7 +3598,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`グラン・ガラン <srw4_unit_guran_garan>`\ 
+     - \ :ref:`グラン·ガラン <srw4_unit_guran_garan>`\  (古兰·加兰)
 
    * - EF
      - 散弾バズーカ
@@ -3613,7 +3613,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガンダム Mk-II <srw4_unit_gundam_mk_ii>`\ 
+     - \ :ref:`ガンダム Mk-II <srw4_unit_gundam_mk_ii>`\  (高达 Mk-II)
 
    * - F0
      - ミサイル
@@ -3628,7 +3628,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`機械獣トロスD7 <srw4_unit_mechanical_beast_toros_d7>`\ 
+     - \ :ref:`機械獣トロスD7 <srw4_unit_mechanical_beast_toros_d7>`\  (机械兽托罗斯D7)
 
    * - F1
      - オーラキャノン
@@ -3643,7 +3643,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`レプラカーン <srw4_unit_leprechaun>`\ 
+     - \ :ref:`レプラカーン <srw4_unit_leprechaun>`\  (雷普拉刚)
 
    * - F2
      - オーラキャノン
@@ -3658,7 +3658,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ビルバイン <srw4_unit_bilvine>`\ 
+     - \ :ref:`ビルバイン <srw4_unit_bilvine>`\  (比尔拜因)
 
    * - F3
      - ｵｰﾗﾋﾞｰﾑｿｰﾄﾞ
@@ -3673,7 +3673,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ビルバイン <srw4_unit_bilvine>`\ 
+     - \ :ref:`ビルバイン <srw4_unit_bilvine>`\  (比尔拜因)
 
    * - F4
      - ｵｰﾗｿｰﾄﾞﾗｲﾌﾙ
@@ -3688,7 +3688,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ビルバイン <srw4_unit_bilvine>`\ 
+     - \ :ref:`ビルバイン <srw4_unit_bilvine>`\  (比尔拜因)
 
    * - F5
      - コスモビーム
@@ -3703,7 +3703,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゴーショーグン <srw4_unit_goshogun>`\ 
+     - \ :ref:`ゴーショーグン <srw4_unit_goshogun>`\  (战国魔神)
 
    * - F6
      - ﾈｵ･ﾌﾟﾗｽﾞﾏｶｯﾀｰ
@@ -3718,7 +3718,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲシュペンスト Mk-II <srw4_unit_gespenst_mk_ii>`\ 
+     - \ :ref:`ゲシュペンスト Mk-II <srw4_unit_gespenst_mk_ii>`\  (亡灵 Mk-II)
 
    * - F7
      - ﾚｯﾄﾞｲﾝﾊﾟﾙｻｰ
@@ -3733,7 +3733,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゴーショーグン <srw4_unit_goshogun>`\ 
+     - \ :ref:`ゴーショーグン <srw4_unit_goshogun>`\  (战国魔神)
 
    * - F8
      - ホルスタービーム
@@ -3748,7 +3748,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゴーショーグン <srw4_unit_goshogun>`\ 
+     - \ :ref:`ゴーショーグン <srw4_unit_goshogun>`\  (战国魔神)
 
    * - F9
      - ﾒｶﾞﾋﾞｰﾑﾗｲﾌﾙ
@@ -3763,7 +3763,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲシュペンスト Mk-II <srw4_unit_gespenst_mk_ii>`\ 
+     - \ :ref:`ゲシュペンスト Mk-II <srw4_unit_gespenst_mk_ii>`\  (亡灵 Mk-II)
 
    * - FA
      - ｽﾗｯｼｭﾘｯﾊﾟｰ
@@ -3778,7 +3778,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲシュペンスト Mk-II <srw4_unit_gespenst_mk_ii>`\ 
+     - \ :ref:`ゲシュペンスト Mk-II <srw4_unit_gespenst_mk_ii>`\  (亡灵 Mk-II)
 
    * - FB
      - ゴーサーベル
@@ -3793,7 +3793,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゴーショーグン <srw4_unit_goshogun>`\ 
+     - \ :ref:`ゴーショーグン <srw4_unit_goshogun>`\  (战国魔神)
 
    * - FC
      - ゴーステイック
@@ -3808,7 +3808,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゴーショーグン <srw4_unit_goshogun>`\ 
+     - \ :ref:`ゴーショーグン <srw4_unit_goshogun>`\  (战国魔神)
 
    * - FD
      - スペースバズーカ
@@ -3823,7 +3823,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゴーショーグン <srw4_unit_goshogun>`\ 
+     - \ :ref:`ゴーショーグン <srw4_unit_goshogun>`\  (战国魔神)
 
    * - FE
      - ゴーフラッシャー
@@ -3838,7 +3838,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゴーショーグン <srw4_unit_goshogun>`\ 
+     - \ :ref:`ゴーショーグン <srw4_unit_goshogun>`\  (战国魔神)
 
    * - 101
      - パルスレーザー
@@ -3853,7 +3853,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ダンクーガ <srw4_unit_dancouga>`\ 
+     - \ :ref:`ダンクーガ <srw4_unit_dancouga>`\  (断空我)
 
    * - 102
      - ビームランチャー
@@ -3868,7 +3868,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ダンクーガ <srw4_unit_dancouga>`\ 
+     - \ :ref:`ダンクーガ <srw4_unit_dancouga>`\  (断空我)
 
    * - 103
      - 連装キャノン砲
@@ -3883,7 +3883,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ダンクーガ <srw4_unit_dancouga>`\ 
+     - \ :ref:`ダンクーガ <srw4_unit_dancouga>`\  (断空我)
 
    * - 104
      - 断空砲
@@ -3898,7 +3898,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ダンクーガ <srw4_unit_dancouga>`\ 
+     - \ :ref:`ダンクーガ <srw4_unit_dancouga>`\  (断空我)
 
    * - 105
      - 断空剣
@@ -3913,7 +3913,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ダンクーガ <srw4_unit_dancouga>`\ 
+     - \ :ref:`ダンクーガ <srw4_unit_dancouga>`\  (断空我)
 
    * - 106
      - 27ミリ機関砲
@@ -3928,7 +3928,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`イーグルファイターN <srw4_unit_eagle_fighter_n>`\ 
+     - \ :ref:`イーグルファイターN <srw4_unit_eagle_fighter_n>`\  (鹰战机)
 
    * - 107
      - ４連ミサイル
@@ -3943,7 +3943,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`イーグルファイターN <srw4_unit_eagle_fighter_n>`\ 
+     - \ :ref:`イーグルファイターN <srw4_unit_eagle_fighter_n>`\  (鹰战机)
 
    * - 108
      - 突撃
@@ -3958,7 +3958,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`イーグルファイターA <srw4_unit_eagle_fighter_a>`\ 
+     - \ :ref:`イーグルファイターA <srw4_unit_eagle_fighter_a>`\  (鹰战机A)
 
    * - 109
      - キャノン砲
@@ -3973,7 +3973,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`イーグルファイターH <srw4_unit_eagle_fighter_h>`\ 
+     - \ :ref:`イーグルファイターH <srw4_unit_eagle_fighter_h>`\  (鹰战机H)
 
    * - 10A
      - 高収束ﾋﾞｰﾑ連射砲
@@ -3988,7 +3988,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ランドクーガーN <srw4_unit_land_cougar_n>`\ 
+     - \ :ref:`ランドクーガーN <srw4_unit_land_cougar_n>`\  (猎豹N)
 
    * - 10B
      - ５連ﾐｻｲﾙﾗﾝﾁｬｰ
@@ -4003,7 +4003,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ランドクーガーN <srw4_unit_land_cougar_n>`\ 
+     - \ :ref:`ランドクーガーN <srw4_unit_land_cougar_n>`\  (猎豹N)
 
    * - 10C
      - かみつき
@@ -4018,7 +4018,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ランドクーガーA <srw4_unit_land_cougar_a>`\ 
+     - \ :ref:`ランドクーガーA <srw4_unit_land_cougar_a>`\  (猎豹A)
 
    * - 10D
      - 105ﾐﾘライフル砲
@@ -4033,7 +4033,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ランドライガーN <srw4_unit_land_liger_n>`\ 
+     - \ :ref:`ランドライガーN <srw4_unit_land_liger_n>`\  (美洲虎N)
 
    * - 10E
      - かみつき
@@ -4048,7 +4048,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ランドライガーA <srw4_unit_land_liger_a>`\ 
+     - \ :ref:`ランドライガーA <srw4_unit_land_liger_a>`\  (美洲虎A)
 
    * - 10F
      - 200ミリ榴弾砲
@@ -4063,7 +4063,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ビッグモスN <srw4_unit_big_moth_n>`\ 
+     - \ :ref:`ビッグモスN <srw4_unit_big_moth_n>`\  (巨象N)
 
    * - 110
      - ４連大口径砲
@@ -4078,7 +4078,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ビッグモスN <srw4_unit_big_moth_n>`\ 
+     - \ :ref:`ビッグモスN <srw4_unit_big_moth_n>`\  (巨象N)
 
    * - 111
      - 4連対空ﾊﾟﾙｽﾚｰｻﾞ-
@@ -4093,7 +4093,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ビッグモスN <srw4_unit_big_moth_n>`\ 
+     - \ :ref:`ビッグモスN <srw4_unit_big_moth_n>`\  (巨象N)
 
    * - 112
      - ﾛｹｯﾄﾗﾝﾁｬｰ
@@ -4108,7 +4108,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ビッグモスN <srw4_unit_big_moth_n>`\ 
+     - \ :ref:`ビッグモスN <srw4_unit_big_moth_n>`\  (巨象N)
 
    * - 113
      - 牙
@@ -4123,7 +4123,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ビッグモスA <srw4_unit_big_moth_a>`\ 
+     - \ :ref:`ビッグモスA <srw4_unit_big_moth_a>`\  (巨象A)
 
    * - 114
      - ギガソートカノン
@@ -4138,7 +4138,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガディフォール <srw4_unit_gadifal>`\ 
+     - \ :ref:`ガディフォール <srw4_unit_gadifal>`\  (加迪弗尔)
 
    * - 115
      - ビームキャノン
@@ -4153,7 +4153,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガディフォール <srw4_unit_gadifal>`\ 
+     - \ :ref:`ガディフォール <srw4_unit_gadifal>`\  (加迪弗尔)
 
    * - 116
      - ﾒｶﾞﾋﾞｰﾑｷｬﾉﾝ
@@ -4168,7 +4168,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガディフォール <srw4_unit_gadifal>`\ 
+     - \ :ref:`ガディフォール <srw4_unit_gadifal>`\  (加迪弗尔)
 
    * - 117
      - リニアレールガン
@@ -4183,7 +4183,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガディフォール <srw4_unit_gadifal>`\ 
+     - \ :ref:`ガディフォール <srw4_unit_gadifal>`\  (加迪弗尔)
 
    * - 118
      - ディスカッター
@@ -4198,7 +4198,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`サイバスター <srw4_unit_cybuster>`\ 
+     - \ :ref:`サイバスター <srw4_unit_cybuster>`\  (塞巴斯塔)
 
    * - 119
      - ｶﾛﾘｯｸﾐｻｲﾙ
@@ -4213,7 +4213,7 @@
      - 
      - 7
      - 4
-     - \ :ref:`サイバスター <srw4_unit_cybuster>`\ 
+     - \ :ref:`サイバスター <srw4_unit_cybuster>`\  (塞巴斯塔)
 
    * - 11A
      - サイフラッシュ
@@ -4228,7 +4228,7 @@
      - 
      - 1
      - 0
-     - \ :ref:`サイバスター <srw4_unit_cybuster>`\ 
+     - \ :ref:`サイバスター <srw4_unit_cybuster>`\  (塞巴斯塔)
 
    * - 11B
      - ハイファミリア
@@ -4243,7 +4243,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`サイバスター <srw4_unit_cybuster>`\ 
+     - \ :ref:`サイバスター <srw4_unit_cybuster>`\  (塞巴斯塔)
 
    * - 11C
      - ｱｶｼｯｸﾊﾞｽﾀｰ
@@ -4258,7 +4258,7 @@
      - 
      - 7
      - 3
-     - \ :ref:`サイバスター <srw4_unit_cybuster>`\ 
+     - \ :ref:`サイバスター <srw4_unit_cybuster>`\  (塞巴斯塔)
 
    * - 11D
      - コスモノヴァ
@@ -4273,7 +4273,7 @@
      - 
      - 7
      - 4
-     - \ :ref:`サイバスター <srw4_unit_cybuster>`\ 
+     - \ :ref:`サイバスター <srw4_unit_cybuster>`\  (塞巴斯塔)
 
    * - 11E
      - ｸﾞﾗﾝﾜｰﾑｿｰﾄﾞ
@@ -4288,7 +4288,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グランゾン <srw4_unit_granzon>`\ 
+     - \ :ref:`グランゾン <srw4_unit_granzon>`\  (古兰森)
 
    * - 11F
      - ｸﾞﾗﾋﾞﾄﾛﾝｶﾉﾝ
@@ -4303,7 +4303,7 @@
      - 
      - 1
      - 1
-     - \ :ref:`グランゾン <srw4_unit_granzon>`\ 
+     - \ :ref:`グランゾン <srw4_unit_granzon>`\  (古兰森)
 
    * - 120
      - ﾜｰﾑｽﾏｯｼｬｰ
@@ -4318,7 +4318,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グランゾン <srw4_unit_granzon>`\ 
+     - \ :ref:`グランゾン <srw4_unit_granzon>`\  (古兰森)
 
    * - 121
      - ﾌﾞﾗｯｸﾎｰﾙｸﾗｽﾀｰ
@@ -4333,7 +4333,7 @@
      - 
      - 7
      - 3
-     - \ :ref:`グランゾン <srw4_unit_granzon>`\ 
+     - \ :ref:`グランゾン <srw4_unit_granzon>`\  (古兰森)
 
    * - 122
      - 縮退砲
@@ -4348,7 +4348,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ネオ·グランゾン <srw4_unit_neo_granzon>`\ 
+     - \ :ref:`ネオ·グランゾン <srw4_unit_neo_granzon>`\  (真·古兰森)
 
    * - 123
      - ディバインアーム
@@ -4363,7 +4363,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ヴァルシオーネR <srw4_unit_valsione_r>`\ 
+     - \ :ref:`ヴァルシオーネR <srw4_unit_valsione_r>`\  (瓦尔西奥妮R)
 
    * - 124
      - サイコブラスター
@@ -4378,7 +4378,7 @@
      - 
      - 1
      - 0
-     - \ :ref:`ヴァルシオーネR <srw4_unit_valsione_r>`\ 
+     - \ :ref:`ヴァルシオーネR <srw4_unit_valsione_r>`\  (瓦尔西奥妮R)
 
    * - 125
      - クロスソーサー
@@ -4393,7 +4393,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ヴァルシオーネR <srw4_unit_valsione_r>`\ 
+     - \ :ref:`ヴァルシオーネR <srw4_unit_valsione_r>`\  (瓦尔西奥妮R)
 
    * - 126
      - ﾊｲﾊﾟｰﾋﾞｰﾑｷｬﾉﾝ
@@ -4408,7 +4408,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ヴァルシオーネR <srw4_unit_valsione_r>`\ 
+     - \ :ref:`ヴァルシオーネR <srw4_unit_valsione_r>`\  (瓦尔西奥妮R)
 
    * - 127
      - クロスマッシャー
@@ -4423,7 +4423,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ヴァルシオーネR <srw4_unit_valsione_r>`\ 
+     - \ :ref:`ヴァルシオーネR <srw4_unit_valsione_r>`\  (瓦尔西奥妮R)
 
    * - 128
      - 超振動拳
@@ -4438,7 +4438,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザムジード <srw4_unit_zamzeed>`\ 
+     - \ :ref:`ザムジード <srw4_unit_zamzeed>`\  (扎姆基德)
 
    * - 129
      - リニアレールガン
@@ -4453,7 +4453,7 @@
      - 
      - 2
      - 0
-     - \ :ref:`ザムジード <srw4_unit_zamzeed>`\ 
+     - \ :ref:`ザムジード <srw4_unit_zamzeed>`\  (扎姆基德)
 
    * - 12A
      - 対空ミサイル
@@ -4468,7 +4468,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザムジード <srw4_unit_zamzeed>`\ 
+     - \ :ref:`ザムジード <srw4_unit_zamzeed>`\  (扎姆基德)
 
    * - 12B
      - ハイファミリア
@@ -4483,7 +4483,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ザムジード <srw4_unit_zamzeed>`\ 
+     - \ :ref:`ザムジード <srw4_unit_zamzeed>`\  (扎姆基德)
 
    * - 12C
      - ﾚｿﾞﾅﾝｽｸｴｲｸ
@@ -4498,7 +4498,7 @@
      - 
      - 1
      - 0
-     - \ :ref:`ザムジード <srw4_unit_zamzeed>`\ 
+     - \ :ref:`ザムジード <srw4_unit_zamzeed>`\  (扎姆基德)
 
    * - 12D
      - フレイムカッター
@@ -4513,7 +4513,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グランヴェール <srw4_unit_grannvale>`\ 
+     - \ :ref:`グランヴェール <srw4_unit_grannvale>`\  (古兰威尔)
 
    * - 12E
      - パルスレーザー
@@ -4528,7 +4528,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グランヴェール <srw4_unit_grannvale>`\ 
+     - \ :ref:`グランヴェール <srw4_unit_grannvale>`\  (古兰威尔)
 
    * - 12F
      - 中性子レーザー
@@ -4543,7 +4543,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グランヴェール <srw4_unit_grannvale>`\ 
+     - \ :ref:`グランヴェール <srw4_unit_grannvale>`\  (古兰威尔)
 
    * - 130
      - ｶﾛﾘｯｸｽﾏｯｼｭ
@@ -4558,7 +4558,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グランヴェール <srw4_unit_grannvale>`\ 
+     - \ :ref:`グランヴェール <srw4_unit_grannvale>`\  (古兰威尔)
 
    * - 131
      - ハイファミリア
@@ -4573,7 +4573,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`グランヴェール <srw4_unit_grannvale>`\ 
+     - \ :ref:`グランヴェール <srw4_unit_grannvale>`\  (古兰威尔)
 
    * - 132
      - メギドフレイム
@@ -4588,7 +4588,7 @@
      - 
      - 1
      - 0
-     - \ :ref:`グランヴェール <srw4_unit_grannvale>`\ 
+     - \ :ref:`グランヴェール <srw4_unit_grannvale>`\  (古兰威尔)
 
    * - 133
      - グングニール
@@ -4603,7 +4603,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガッデス <srw4_unit_gaddeath>`\ 
+     - \ :ref:`ガッデス <srw4_unit_gaddeath>`\  (加迪斯)
 
    * - 134
      - ハイファミリア
@@ -4618,7 +4618,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ガッデス <srw4_unit_gaddeath>`\ 
+     - \ :ref:`ガッデス <srw4_unit_gaddeath>`\  (加迪斯)
 
    * - 135
      - ﾊｲﾄﾞﾛﾌﾟﾚｯｼｬｰ
@@ -4633,7 +4633,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガッデス <srw4_unit_gaddeath>`\ 
+     - \ :ref:`ガッデス <srw4_unit_gaddeath>`\  (加迪斯)
 
    * - 136
      - ｹﾙｳﾞｨﾝﾌﾞﾘｻﾞｰﾄﾞ
@@ -4648,7 +4648,7 @@
      - 
      - 1
      - 0
-     - \ :ref:`ガッデス <srw4_unit_gaddeath>`\ 
+     - \ :ref:`ガッデス <srw4_unit_gaddeath>`\  (加迪斯)
 
    * - 137
      - プラズマカッター
@@ -4663,7 +4663,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲシュペンスト（リアル） <srw4_unit_gespenst_real>`\ 
+     - \ :ref:`ゲシュペンスト（リアル） <srw4_unit_gespenst_real>`\  (R型亡灵)
 
    * - 138
      - スプリットミサイル
@@ -4678,7 +4678,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲシュペンスト（リアル） <srw4_unit_gespenst_real>`\ 
+     - \ :ref:`ゲシュペンスト（リアル） <srw4_unit_gespenst_real>`\  (R型亡灵)
 
    * - 139
      - ニュートロンビーム
@@ -4693,7 +4693,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲシュペンスト（リアル） <srw4_unit_gespenst_real>`\ 
+     - \ :ref:`ゲシュペンスト（リアル） <srw4_unit_gespenst_real>`\  (R型亡灵)
 
    * - 13A
      - ﾌﾞﾗｯｸﾎｰﾙｸﾗｽﾀｰ
@@ -4708,7 +4708,7 @@
      - 
      - 7
      - 3
-     - \ :ref:`ネオ·グランゾン <srw4_unit_neo_granzon>`\ 
+     - \ :ref:`ネオ·グランゾン <srw4_unit_neo_granzon>`\  (真·古兰森)
 
    * - 13B
      - 反重力ストーム
@@ -4723,7 +4723,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`スペイザー <srw4_unit_spacer>`\ 
+     - \ :ref:`スペイザー <srw4_unit_spacer>`\  (斯陪沙)
 
    * - 13C
      - ヒートホーク
@@ -4738,7 +4738,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`ザク改 <srw4_unit_zaku_kai>`\ 
+     - \ :ref:`ザク改 <srw4_unit_zaku_kai>`\  (扎古改)
 
    * - 13D
      - ザクバズーカ
@@ -4753,7 +4753,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザク改 <srw4_unit_zaku_kai>`\ 
+     - \ :ref:`ザク改 <srw4_unit_zaku_kai>`\  (扎古改)
 
    * - 13E
      - 120mmマシンガン
@@ -4768,7 +4768,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`ザク改 <srw4_unit_zaku_kai>`\ 
+     - \ :ref:`ザク改 <srw4_unit_zaku_kai>`\  (扎古改)
 
    * - 13F
      - ハンドグレネイド
@@ -4783,7 +4783,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザク改 <srw4_unit_zaku_kai>`\ 
+     - \ :ref:`ザク改 <srw4_unit_zaku_kai>`\  (扎古改)
 
    * - 140
      - ｼｭﾂﾙﾑﾌｧｳｽﾄ
@@ -4798,7 +4798,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ザク改 <srw4_unit_zaku_kai>`\ 
+     - \ :ref:`ザク改 <srw4_unit_zaku_kai>`\  (扎古改)
 
    * - 141
      - ヒートサーベル
@@ -4813,7 +4813,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドム <srw4_unit_dom>`\ 
+     - \ :ref:`ドム <srw4_unit_dom>`\  (MS-09 大魔)
 
    * - 142
      - 拡散ビーム砲
@@ -4828,7 +4828,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドム <srw4_unit_dom>`\ 
+     - \ :ref:`ドム <srw4_unit_dom>`\  (MS-09 大魔)
 
    * - 143
      - ｼﾞｬｱｲｱﾝﾄﾊﾞｽﾞ
@@ -4843,7 +4843,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドム <srw4_unit_dom>`\ 
+     - \ :ref:`ドム <srw4_unit_dom>`\  (MS-09 大魔)
 
    * - 144
      - ｼｭﾂﾙﾑﾌｧｳｽﾄ
@@ -4858,7 +4858,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドム <srw4_unit_dom>`\ 
+     - \ :ref:`ドム <srw4_unit_dom>`\  (MS-09 大魔)
 
    * - 145
      - メガ粒子砲
@@ -4873,7 +4873,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`エルメス <srw4_unit_elmeth>`\ 
+     - \ :ref:`エルメス <srw4_unit_elmeth>`\  (艾尔梅斯)
 
    * - 146
      - メガ粒子砲
@@ -4888,7 +4888,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バイアラン <srw4_unit_byarlant>`\ 
+     - \ :ref:`バイアラン <srw4_unit_byarlant>`\  (拜亚兰)
 
    * - 147
      - メガ粒子砲
@@ -4903,7 +4903,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ノイエ・ジール <srw4_unit_neue_ziel>`\ 
+     - \ :ref:`ノイエ·ジール <srw4_unit_neue_ziel>`\  (诺维·捷鲁)
 
    * - 148
      - メガ粒子砲
@@ -4918,7 +4918,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ハンマ・ハンマ <srw4_unit_hamma_hamma>`\ 
+     - \ :ref:`ハンマ·ハンマ <srw4_unit_hamma_hamma>`\  (哈玛·哈玛)
 
    * - 149
      - メガ粒子砲
@@ -4933,7 +4933,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`クイン・マンサ <srw4_unit_quin_mantha>`\ 
+     - \ :ref:`クイン·マンサ <srw4_unit_quin_mantha>`\  (昆·曼沙)
 
    * - 14A
      - ビット
@@ -4948,7 +4948,7 @@
      - ニュータイプ
      - 7
      - 0
-     - \ :ref:`エルメス <srw4_unit_elmeth>`\ 
+     - \ :ref:`エルメス <srw4_unit_elmeth>`\  (艾尔梅斯)
 
    * - 14B
      - 海ヘビ
@@ -4963,7 +4963,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ハンブラビ (MS) <srw4_unit_hambrabi_ms>`\ 
+     - \ :ref:`ハンブラビ (MS) <srw4_unit_hambrabi_ms>`\  (MS型汉布拉比)
 
    * - 14C
      - 大型ﾋﾞｰﾑﾗｲﾌﾙ
@@ -4978,7 +4978,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`アッシマー (MS) <srw4_unit_asshimar_ms>`\ 
+     - \ :ref:`アッシマー (MS) <srw4_unit_asshimar_ms>`\  (MS型阿希玛)
 
    * - 14D
      - ビーム砲
@@ -4993,7 +4993,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`サイコガンダム (MS) <srw4_unit_psycho_gundam_ms>`\ 
+     - \ :ref:`サイコガンダム (MS) <srw4_unit_psycho_gundam_ms>`\  (MS型精神力高达)
 
    * - 14E
      - ｺﾞｯﾄﾞﾈﾛｽﾊﾟﾝﾁ
@@ -5008,7 +5008,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`アトールV <srw4_unit_a_taul_v>`\ 
+     - \ :ref:`アトールV <srw4_unit_a_taul_v>`\  (亚托鲁V)
 
    * - 14F
      - ミサイル
@@ -5023,7 +5023,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ブード <srw4_unit_bood>`\ 
+     - \ :ref:`ブード <srw4_unit_bood>`\  (水下要塞布德)
 
    * - 150
      - 小型メガビーム砲
@@ -5038,7 +5038,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`サイコガンダム (MS) <srw4_unit_psycho_gundam_ms>`\ 
+     - \ :ref:`サイコガンダム (MS) <srw4_unit_psycho_gundam_ms>`\  (MS型精神力高达)
 
    * - 151
      - 拡散メガ粒子砲
@@ -5053,7 +5053,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`サイコガンダム (MS) <srw4_unit_psycho_gundam_ms>`\ 
+     - \ :ref:`サイコガンダム (MS) <srw4_unit_psycho_gundam_ms>`\  (MS型精神力高达)
 
    * - 152
      - 拡散メガ粒子砲
@@ -5068,7 +5068,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バウンド・ドック (MS) <srw4_unit_baund_doc_ms>`\ 
+     - \ :ref:`バウンド·ドック (MS) <srw4_unit_baund_doc_ms>`\  (MS型猎犬)
 
    * - 153
      - ミサイル
@@ -5083,7 +5083,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカブースト・ドミラ <srw4_unit_mecha_boost_domira>`\ 
+     - \ :ref:`メカブースト·ドミラ <srw4_unit_mecha_boost_domira>`\  (机械怪兽·德梅拉)
 
    * - 154
      - 光子力ビーム
@@ -5098,7 +5098,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ビューナスA <srw4_unit_venus_a>`\ 
+     - \ :ref:`ビューナスA <srw4_unit_venus_a>`\  (维纳斯A)
 
    * - 155
      - ﾌｪﾀﾞｰｲﾝﾗｲﾌﾙ
@@ -5113,7 +5113,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガブスレイ (MS) <srw4_unit_gabthley_ms>`\ 
+     - \ :ref:`ガブスレイ (MS) <srw4_unit_gabthley_ms>`\  (MS型卡普司利)
 
    * - 156
      - クローアーム
@@ -5128,7 +5128,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガブスレイ (MA) <srw4_unit_gabthley_ma>`\ 
+     - \ :ref:`ガブスレイ (MA) <srw4_unit_gabthley_ma>`\  (MA型卡普司利)
 
    * - 157
      - ﾚﾌﾚｸﾀｰﾋﾞｯﾄ
@@ -5143,7 +5143,7 @@
      - ニュータイプ
      - 7
      - 0
-     - \ :ref:`サイコガンダム Mk-II (MS) <srw4_unit_psycho_gundam_mk_ii_ms>`\ 
+     - \ :ref:`サイコガンダム Mk-II (MS) <srw4_unit_psycho_gundam_mk_ii_ms>`\  (MS型精神力高达 Mk-II)
 
    * - 158
      - ｻｲｺﾐｭ式ﾋﾞｰﾑｿｰﾄﾞ
@@ -5158,7 +5158,7 @@
      - ニュータイプ
      - 7
      - 0
-     - \ :ref:`サイコガンダム Mk-II (MS) <srw4_unit_psycho_gundam_mk_ii_ms>`\ 
+     - \ :ref:`サイコガンダム Mk-II (MS) <srw4_unit_psycho_gundam_mk_ii_ms>`\  (MS型精神力高达 Mk-II)
 
    * - 159
      - クレイバズーカ
@@ -5203,7 +5203,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メタス (MS) <srw4_unit_methuss_ms>`\ 
+     - \ :ref:`メタス (MS) <srw4_unit_methuss_ms>`\  (MS型梅塔斯)
 
    * - 15C
      - 修理装置
@@ -5218,7 +5218,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`アフロダイA <srw4_unit_aphrodite_a>`\ 
+     - \ :ref:`アフロダイA <srw4_unit_aphrodite_a>`\  (阿弗洛蒂A)
 
    * - 15D
      - ショットガン
@@ -5233,7 +5233,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ケンプファー <srw4_unit_kampfer>`\ 
+     - \ :ref:`ケンプファー <srw4_unit_kampfer>`\  (MS-18 斗士)
 
    * - 15E
      - ジャイアントバズ
@@ -5248,7 +5248,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ケンプファー <srw4_unit_kampfer>`\ 
+     - \ :ref:`ケンプファー <srw4_unit_kampfer>`\  (MS-18 斗士)
 
    * - 15F
      - 60ミリ機関砲
@@ -5263,7 +5263,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ケンプファー <srw4_unit_kampfer>`\ 
+     - \ :ref:`ケンプファー <srw4_unit_kampfer>`\  (MS-18 斗士)
 
    * - 160
      - ﾊﾟﾝﾂｧｰﾌｧｳｽﾄ
@@ -5278,7 +5278,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ケンプファー <srw4_unit_kampfer>`\ 
+     - \ :ref:`ケンプファー <srw4_unit_kampfer>`\  (MS-18 斗士)
 
    * - 161
      - 100ミリバルカン
@@ -5293,7 +5293,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`ヴァル・ヴァロ <srw4_unit_val_walo>`\ 
+     - \ :ref:`ヴァル·ヴァロ <srw4_unit_val_walo>`\  (瓦尔·瓦罗)
 
    * - 162
      - ミサイルポッド
@@ -5308,7 +5308,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ヴァル・ヴァロ <srw4_unit_val_walo>`\ 
+     - \ :ref:`ヴァル·ヴァロ <srw4_unit_val_walo>`\  (瓦尔·瓦罗)
 
    * - 163
      - 大型メガ粒子砲
@@ -5323,7 +5323,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ヴァル・ヴァロ <srw4_unit_val_walo>`\ 
+     - \ :ref:`ヴァル·ヴァロ <srw4_unit_val_walo>`\  (瓦尔·瓦罗)
 
    * - 164
      - プラズマリーダー
@@ -5338,7 +5338,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ヴァル・ヴァロ <srw4_unit_val_walo>`\ 
+     - \ :ref:`ヴァル·ヴァロ <srw4_unit_val_walo>`\  (瓦尔·瓦罗)
 
    * - 165
      - ｻｲｺﾐｭ式ﾒｶﾞ粒子砲
@@ -5353,7 +5353,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ブラウ・ブロ <srw4_unit_braw_bro>`\ 
+     - \ :ref:`ブラウ·ブロ <srw4_unit_braw_bro>`\  (布劳·布罗)
 
    * - 166
      - 110ミリ機関砲
@@ -5368,7 +5368,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガーベラ・テトラ <srw4_unit_gerbera_tetra>`\ 
+     - \ :ref:`ガーベラ·テトラ <srw4_unit_gerbera_tetra>`\  (红色角马)
 
    * - 167
      - 偏向メガ粒子砲
@@ -5383,7 +5383,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ノイエ・ジール <srw4_unit_neue_ziel>`\ 
+     - \ :ref:`ノイエ·ジール <srw4_unit_neue_ziel>`\  (诺维·捷鲁)
 
    * - 168
      - 有線クローアーム
@@ -5398,7 +5398,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ノイエ・ジール <srw4_unit_neue_ziel>`\ 
+     - \ :ref:`ノイエ·ジール <srw4_unit_neue_ziel>`\  (诺维·捷鲁)
 
    * - 169
      - 大型ﾐｻｲﾙﾗﾝﾁｬｰ
@@ -5413,7 +5413,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ノイエ・ジール <srw4_unit_neue_ziel>`\ 
+     - \ :ref:`ノイエ·ジール <srw4_unit_neue_ziel>`\  (诺维·捷鲁)
 
    * - 16A
      - 小型ﾐｻｲﾙﾗﾝﾁｬｰ
@@ -5428,7 +5428,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ノイエ・ジール <srw4_unit_neue_ziel>`\ 
+     - \ :ref:`ノイエ·ジール <srw4_unit_neue_ziel>`\  (诺维·捷鲁)
 
    * - 16B
      - メガカノン砲
@@ -5443,7 +5443,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ノイエ・ジール <srw4_unit_neue_ziel>`\ 
+     - \ :ref:`ノイエ·ジール <srw4_unit_neue_ziel>`\  (诺维·捷鲁)
 
    * - 16C
      - ファンネル
@@ -5458,7 +5458,7 @@
      - ニュータイプ
      - 7
      - 2
-     - \ :ref:`キュベレイ <srw4_unit_qubeley>`\ 
+     - \ :ref:`キュベレイ <srw4_unit_qubeley>`\  (卡碧尼)
 
    * - 16D
      - ファンネル
@@ -5473,7 +5473,7 @@
      - ニュータイプ
      - 7
      - 2
-     - \ :ref:`キュベレイ Mk-II <srw4_unit_qubeley_mk_ii>`\ 
+     - \ :ref:`キュベレイ Mk-II <srw4_unit_qubeley_mk_ii>`\  (卡碧尼 Mk-II)
 
    * - 16E
      - ファンネル
@@ -5488,7 +5488,7 @@
      - ニュータイプ
      - 7
      - 2
-     - \ :ref:`クイン・マンサ <srw4_unit_quin_mantha>`\ 
+     - \ :ref:`クイン·マンサ <srw4_unit_quin_mantha>`\  (昆·曼沙)
 
    * - 16F
      - ファンネル
@@ -5503,7 +5503,7 @@
      - ニュータイプ
      - 7
      - 2
-     - \ :ref:`ゲーマルク <srw4_unit_geymalk>`\ 
+     - \ :ref:`ゲーマルク <srw4_unit_geymalk>`\  (盖马克)
 
    * - 170
      - ミサイルポッド
@@ -5518,7 +5518,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガルスJ <srw4_unit_galluss_j>`\ 
+     - \ :ref:`ガルスJ <srw4_unit_galluss_j>`\  (卡尔斯J)
 
    * - 171
      - ﾌｨﾝｶﾞｰﾗﾝﾁｬｰ
@@ -5533,7 +5533,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガルスJ <srw4_unit_galluss_j>`\ 
+     - \ :ref:`ガルスJ <srw4_unit_galluss_j>`\  (卡尔斯J)
 
    * - 172
      - エネルギーガン
@@ -5548,7 +5548,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガルスJ <srw4_unit_galluss_j>`\ 
+     - \ :ref:`ガルスJ <srw4_unit_galluss_j>`\  (卡尔斯J)
 
    * - 173
      - ミサイルポッド
@@ -5563,7 +5563,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ズサ <srw4_unit_zssa>`\ 
+     - \ :ref:`ズサ <srw4_unit_zssa>`\  (兹萨)
 
    * - 174
      - 有線式ビーム砲
@@ -5578,7 +5578,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ハンマ・ハンマ <srw4_unit_hamma_hamma>`\ 
+     - \ :ref:`ハンマ·ハンマ <srw4_unit_hamma_hamma>`\  (哈玛·哈玛)
 
    * - 175
      - ミサイルポッド
@@ -5593,7 +5593,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`R・ジャジャ <srw4_unit_r_jarja>`\ 
+     - \ :ref:`R·ジャジャ <srw4_unit_r_jarja>`\  (R·贾贾)
 
    * - 176
      - ビームトマホーク
@@ -5608,7 +5608,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドライセン <srw4_unit_dreissen>`\ 
+     - \ :ref:`ドライセン <srw4_unit_dreissen>`\  (德莱森)
 
    * - 177
      - ハンドガン
@@ -5623,7 +5623,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドライセン <srw4_unit_dreissen>`\ 
+     - \ :ref:`ドライセン <srw4_unit_dreissen>`\  (德莱森)
 
    * - 178
      - トライブレード
@@ -5638,7 +5638,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドライセン <srw4_unit_dreissen>`\ 
+     - \ :ref:`ドライセン <srw4_unit_dreissen>`\  (德莱森)
 
    * - 179
      - ビームキャノン
@@ -5653,7 +5653,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドライセン <srw4_unit_dreissen>`\ 
+     - \ :ref:`ドライセン <srw4_unit_dreissen>`\  (德莱森)
 
    * - 17A
      - ビームカノン
@@ -5668,7 +5668,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドーベンウルフ <srw4_unit_doven_wolf>`\ 
+     - \ :ref:`ドーベンウルフ <srw4_unit_doven_wolf>`\  (飙狼)
 
    * - 17B
      - 対艦ミサイル
@@ -5683,7 +5683,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドーベンウルフ <srw4_unit_doven_wolf>`\ 
+     - \ :ref:`ドーベンウルフ <srw4_unit_doven_wolf>`\  (飙狼)
 
    * - 17C
      - インコム
@@ -5698,7 +5698,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドーベンウルフ <srw4_unit_doven_wolf>`\ 
+     - \ :ref:`ドーベンウルフ <srw4_unit_doven_wolf>`\  (飙狼)
 
    * - 17D
      - メガランチャー
@@ -5713,7 +5713,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドーベンウルフ <srw4_unit_doven_wolf>`\ 
+     - \ :ref:`ドーベンウルフ <srw4_unit_doven_wolf>`\  (飙狼)
 
    * - 17E
      - メガビームカノン
@@ -5728,7 +5728,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲーマルク <srw4_unit_geymalk>`\ 
+     - \ :ref:`ゲーマルク <srw4_unit_geymalk>`\  (盖马克)
 
    * - 17F
      - ﾊｲﾊﾟｰﾒｶﾞ粒子砲
@@ -5743,7 +5743,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲーマルク <srw4_unit_geymalk>`\ 
+     - \ :ref:`ゲーマルク <srw4_unit_geymalk>`\  (盖马克)
 
    * - 180
      - ﾋﾞｰﾑｿｰﾄﾞｱｯｸｽ
@@ -5758,7 +5758,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ギラ・ドーガ（绿） <srw4_unit_geara_doga_green>`\ 
+     - \ :ref:`ギラ·ドーガ（绿） <srw4_unit_geara_doga_green>`\  (基拉·多加)
 
    * - 181
      - ﾋﾞｰﾑﾏｼﾝｶﾞﾝ
@@ -5773,7 +5773,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ギラ・ドーガ（绿） <srw4_unit_geara_doga_green>`\ 
+     - \ :ref:`ギラ·ドーガ（绿） <srw4_unit_geara_doga_green>`\  (基拉·多加)
 
    * - 182
      - ｼｭﾂﾙﾑﾌｧｳｽﾄ
@@ -5788,7 +5788,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ギラ・ドーガ（绿） <srw4_unit_geara_doga_green>`\ 
+     - \ :ref:`ギラ·ドーガ（绿） <srw4_unit_geara_doga_green>`\  (基拉·多加)
 
    * - 183
      - ﾒｶﾞｶﾞﾄﾘﾝｸﾞｶﾞﾝ
@@ -5803,7 +5803,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ヤクト・ドーガ（赤） <srw4_unit_jagd_doga_red>`\ 
+     - \ :ref:`ヤクト·ドーガ（赤） <srw4_unit_jagd_doga_red>`\  (亚克·多加柯丝号)
 
    * - 184
      - ﾋﾞｰﾑｱｻﾙﾄﾗｲﾌﾙ
@@ -5818,7 +5818,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ヤクト・ドーガ（青） <srw4_unit_jagd_doga_blue>`\ 
+     - \ :ref:`ヤクト·ドーガ（青） <srw4_unit_jagd_doga_blue>`\  (量产型亚克·多加)
 
    * - 185
      - ビームトマホーク
@@ -5833,7 +5833,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`サザビー <srw4_unit_sazabi>`\ 
+     - \ :ref:`サザビー <srw4_unit_sazabi>`\  (沙扎比)
 
    * - 186
      - ﾋﾞｰﾑｼｮｯﾄﾗｲﾌﾙ
@@ -5848,7 +5848,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`サザビー <srw4_unit_sazabi>`\ 
+     - \ :ref:`サザビー <srw4_unit_sazabi>`\  (沙扎比)
 
    * - 187
      - 有線式ﾒｶﾞｱｰﾑ砲
@@ -5863,7 +5863,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`α・アジール <srw4_unit_alpha_azieru>`\ 
+     - \ :ref:`α·アジール <srw4_unit_alpha_azieru>`\  (α·亚基鲁)
 
    * - 188
      - ショットランサー
@@ -5878,7 +5878,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ベルガ・ギロス <srw4_unit_berga_giros>`\ 
+     - \ :ref:`ベルガ·ギロス <srw4_unit_berga_giros>`\  (贝尔加·基罗斯)
 
    * - 189
      - ﾃﾝﾀｸﾗｰﾛｯﾄﾞ
@@ -5893,7 +5893,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ラフレシア <srw4_unit_rafflesia>`\ 
+     - \ :ref:`ラフレシア <srw4_unit_rafflesia>`\  (大王花)
 
    * - 18A
      - ﾒｶﾞﾋﾞｰﾑｷｬﾉﾝ
@@ -5908,7 +5908,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ラフレシア <srw4_unit_rafflesia>`\ 
+     - \ :ref:`ラフレシア <srw4_unit_rafflesia>`\  (大王花)
 
    * - 18B
      - バグ
@@ -5923,7 +5923,7 @@
      - ニュータイプ
      - 7
      - 0
-     - \ :ref:`ラフレシア <srw4_unit_rafflesia>`\ 
+     - \ :ref:`ラフレシア <srw4_unit_rafflesia>`\  (大王花)
 
    * - 18C
      - クロー
@@ -5938,7 +5938,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカザウルス・サキ <srw4_unit_mechasaurus_saki>`\ 
+     - \ :ref:`メカザウルス·サキ <srw4_unit_mechasaurus_saki>`\  (机械恐龙·萨基)
 
    * - 18D
      - ミニミサイル
@@ -5953,7 +5953,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカザウルス・サキ <srw4_unit_mechasaurus_saki>`\ 
+     - \ :ref:`メカザウルス·サキ <srw4_unit_mechasaurus_saki>`\  (机械恐龙·萨基)
 
    * - 18E
      - マグマ弾
@@ -5968,7 +5968,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカザウルス・バド <srw4_unit_mechasaurus_bado>`\ 
+     - \ :ref:`メカザウルス·バド <srw4_unit_mechasaurus_bado>`\  (机械恐龙·巴德)
 
    * - 18F
      - 体当たり
@@ -5983,7 +5983,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカザウルス・ザイ <srw4_unit_mechasaurus_zai>`\ 
+     - \ :ref:`メカザウルス·ザイ <srw4_unit_mechasaurus_zai>`\  (机械恐龙·扎伊)
 
    * - 190
      - ハンドソルド
@@ -5998,7 +5998,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカザウルス・ゼンII <srw4_unit_mechasaurus_zen_ii>`\ 
+     - \ :ref:`メカザウルス·ゼンII <srw4_unit_mechasaurus_zen_ii>`\  (机械恐龙·曾II)
 
    * - 191
      - ロケット弾
@@ -6013,7 +6013,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカザウルス・ゼンII <srw4_unit_mechasaurus_zen_ii>`\ 
+     - \ :ref:`メカザウルス·ゼンII <srw4_unit_mechasaurus_zen_ii>`\  (机械恐龙·曾II)
 
    * - 192
      - 大砲
@@ -6028,7 +6028,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカザウルス・ダイ <srw4_unit_mechasaurus_dai>`\ 
+     - \ :ref:`メカザウルス·ダイ <srw4_unit_mechasaurus_dai>`\  (机械恐龙·达伊)
 
    * - 193
      - クロー
@@ -6043,7 +6043,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカザウルス・シグ <srw4_unit_mechasaurus_shigu>`\ 
+     - \ :ref:`メカザウルス·シグ <srw4_unit_mechasaurus_shigu>`\  (机械恐龙·西格)
 
    * - 194
      - レーザー
@@ -6058,7 +6058,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカザウルス・シグ <srw4_unit_mechasaurus_shigu>`\ 
+     - \ :ref:`メカザウルス·シグ <srw4_unit_mechasaurus_shigu>`\  (机械恐龙·西格)
 
    * - 195
      - 破壊光線
@@ -6073,7 +6073,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカザウルス・シグ <srw4_unit_mechasaurus_shigu>`\ 
+     - \ :ref:`メカザウルス·シグ <srw4_unit_mechasaurus_shigu>`\  (机械恐龙·西格)
 
    * - 196
      - かま
@@ -6088,7 +6088,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\ 
+     - \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\  (机械兽镰刀兽K7)
 
    * - 197
      - ブーメラン
@@ -6103,7 +6103,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\ 
+     - \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\  (机械兽镰刀兽K7)
 
    * - 198
      - ムチ
@@ -6118,7 +6118,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ラインX1 <srw4_unit_rhine_x1>`\ 
+     - \ :ref:`ラインX1 <srw4_unit_rhine_x1>`\  (莱茵X1)
 
    * - 199
      - ピストル
@@ -6133,7 +6133,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`機械獣ジェノバM9 <srw4_unit_mechanical_beast_genova_m9>`\ 
+     - \ :ref:`機械獣ジェノバM9 <srw4_unit_mechanical_beast_genova_m9>`\  (机械兽热亚那M9)
 
    * - 19A
      - ライフル
@@ -6148,7 +6148,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`機械獣ジェノバM9 <srw4_unit_mechanical_beast_genova_m9>`\ 
+     - \ :ref:`機械獣ジェノバM9 <srw4_unit_mechanical_beast_genova_m9>`\  (机械兽热亚那M9)
 
    * - 19B
      - スピア
@@ -6163,7 +6163,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`機械獣スパルタンK5 <srw4_unit_mechanical_beast_spartan_k5>`\ 
+     - \ :ref:`機械獣スパルタンK5 <srw4_unit_mechanical_beast_spartan_k5>`\  (机械兽斯巴达人K5)
 
    * - 19C
      - ハリケーン
@@ -6178,7 +6178,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`機械獣スパルタンK5 <srw4_unit_mechanical_beast_spartan_k5>`\ 
+     - \ :ref:`機械獣スパルタンK5 <srw4_unit_mechanical_beast_spartan_k5>`\  (机械兽斯巴达人K5)
 
    * - 19D
      - 磁力光線
@@ -6193,7 +6193,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グール <srw4_unit_ghoul>`\ 
+     - \ :ref:`グール <srw4_unit_ghoul>`\  (飞行要塞古鲁)
 
    * - 19E
      - ショックビーム
@@ -6208,7 +6208,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グール <srw4_unit_ghoul>`\ 
+     - \ :ref:`グール <srw4_unit_ghoul>`\  (飞行要塞古鲁)
 
    * - 19F
      - うずまき
@@ -6223,7 +6223,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ブード <srw4_unit_bood>`\ 
+     - \ :ref:`ブード <srw4_unit_bood>`\  (水下要塞布德)
 
    * - 1A0
      - リング光線
@@ -6238,7 +6238,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ブード <srw4_unit_bood>`\ 
+     - \ :ref:`ブード <srw4_unit_bood>`\  (水下要塞布德)
 
    * - 1A1
      - 魚雷
@@ -6253,7 +6253,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ブード <srw4_unit_bood>`\ 
+     - \ :ref:`ブード <srw4_unit_bood>`\  (水下要塞布德)
 
    * - 1A2
      - ドリル
@@ -6268,7 +6268,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`戦闘獣グラトニオス <srw4_unit_warrior_beast_gratonios>`\ 
+     - \ :ref:`戦闘獣グラトニオス <srw4_unit_warrior_beast_gratonios>`\  (战斗兽古拉特尼奥斯)
 
    * - 1A3
      - 振動波
@@ -6283,7 +6283,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`戦闘獣グラトニオス <srw4_unit_warrior_beast_gratonios>`\ 
+     - \ :ref:`戦闘獣グラトニオス <srw4_unit_warrior_beast_gratonios>`\  (战斗兽古拉特尼奥斯)
 
    * - 1A4
      - くちばし
@@ -6298,7 +6298,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`戦闘獣オベリウス <srw4_unit_warrior_beast_obelius>`\ 
+     - \ :ref:`戦闘獣オベリウス <srw4_unit_warrior_beast_obelius>`\  (战斗兽贝利乌斯)
 
    * - 1A5
      - ﾍﾞｶﾞﾄﾛﾝﾋﾞｰﾑ砲
@@ -6313,7 +6313,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ミニフォー <srw4_unit_minifo>`\ 
+     - \ :ref:`ミニフォー <srw4_unit_minifo>`\  (飞盘)
 
    * - 1A6
      - ビームバルカン
@@ -6328,7 +6328,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ミニフォー <srw4_unit_minifo>`\ 
+     - \ :ref:`ミニフォー <srw4_unit_minifo>`\  (飞盘)
 
    * - 1A7
      - 巨大ﾍﾞｶﾞﾄﾛﾝﾋﾞｰﾑ砲
@@ -6343,7 +6343,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`マザーバーン <srw4_unit_mother_burn>`\ 
+     - \ :ref:`マザーバーン <srw4_unit_mother_burn>`\  (圆盘母舰)
 
    * - 1A8
      - スピンアタック
@@ -6358,7 +6358,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`円盤獣ギルギル <srw4_unit_saucer_beast_girugiru>`\ 
+     - \ :ref:`円盤獣ギルギル <srw4_unit_saucer_beast_girugiru>`\  (圆盘兽基鲁基鲁)
 
    * - 1A9
      - レーザー
@@ -6373,7 +6373,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`円盤獣ギルギル <srw4_unit_saucer_beast_girugiru>`\ 
+     - \ :ref:`円盤獣ギルギル <srw4_unit_saucer_beast_girugiru>`\  (圆盘兽基鲁基鲁)
 
    * - 1AA
      - 火炎
@@ -6388,7 +6388,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`円盤獣ギルギル <srw4_unit_saucer_beast_girugiru>`\ 
+     - \ :ref:`円盤獣ギルギル <srw4_unit_saucer_beast_girugiru>`\  (圆盘兽基鲁基鲁)
 
    * - 1AB
      - 電磁もり
@@ -6403,7 +6403,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`円盤獣ゴスゴス <srw4_unit_saucer_beast_gosgos>`\ 
+     - \ :ref:`円盤獣ゴスゴス <srw4_unit_saucer_beast_gosgos>`\  (圆盘兽格斯格斯)
 
    * - 1AC
      - 冷凍光線
@@ -6418,7 +6418,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`円盤獣ゴスゴス <srw4_unit_saucer_beast_gosgos>`\ 
+     - \ :ref:`円盤獣ゴスゴス <srw4_unit_saucer_beast_gosgos>`\  (圆盘兽格斯格斯)
 
    * - 1AD
      - 大型ミサイル
@@ -6433,7 +6433,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`円盤獣ゴスゴス <srw4_unit_saucer_beast_gosgos>`\ 
+     - \ :ref:`円盤獣ゴスゴス <srw4_unit_saucer_beast_gosgos>`\  (圆盘兽格斯格斯)
 
    * - 1AE
      - ﾍﾞｶﾞﾄﾛﾝﾋﾞｰﾑ砲
@@ -6448,7 +6448,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ベガ獣キングゴリ <srw4_unit_vega_beast_king_gori>`\ 
+     - \ :ref:`ベガ獣キングゴリ <srw4_unit_vega_beast_king_gori>`\  (维加兽巨人王)
 
    * - 1AF
      - ﾗｲﾄﾆﾝｸﾞｱﾛｰ
@@ -6463,7 +6463,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ピクドロン <srw4_unit_pikadron>`\ 
+     - \ :ref:`ピクドロン <srw4_unit_pikadron>`\  (皮克多隆)
 
    * - 1B0
      - アイアンクロー
@@ -6478,7 +6478,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ギルギルガン <srw4_unit_gilgilgan>`\ 
+     - \ :ref:`ギルギルガン <srw4_unit_gilgilgan>`\  (基鲁基鲁刚)
 
    * - 1B1
      - アイアンクロー
@@ -6493,7 +6493,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカギルギルガン <srw4_unit_mecha_gilgilgan>`\ 
+     - \ :ref:`メカギルギルガン <srw4_unit_mecha_gilgilgan>`\  (机械基鲁基鲁刚)
 
    * - 1B2
      - ｸﾞﾗﾋﾞﾄﾝｳｪｰﾌﾞ
@@ -6508,7 +6508,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`アトールV <srw4_unit_a_taul_v>`\ 
+     - \ :ref:`アトールV <srw4_unit_a_taul_v>`\  (亚托鲁V)
 
    * - 1B3
      - 超破壊光線
@@ -6523,7 +6523,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカギルギルガン <srw4_unit_mecha_gilgilgan>`\ 
+     - \ :ref:`メカギルギルガン <srw4_unit_mecha_gilgilgan>`\  (机械基鲁基鲁刚)
 
    * - 1B4
      - ﾒｶﾞｸﾞﾗﾋﾞﾄﾝｳｪｰﾌﾞ
@@ -6538,7 +6538,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカギルギルガン <srw4_unit_mecha_gilgilgan>`\ 
+     - \ :ref:`メカギルギルガン <srw4_unit_mecha_gilgilgan>`\  (机械基鲁基鲁刚)
 
    * - 1B5
      - 触手
@@ -6553,7 +6553,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドラゴノザウルス <srw4_unit_dragonsaurus>`\ 
+     - \ :ref:`ドラゴノザウルス <srw4_unit_dragonsaurus>`\  (大恐龙)
 
    * - 1B6
      - 超音波
@@ -6568,7 +6568,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドラゴノザウルス <srw4_unit_dragonsaurus>`\ 
+     - \ :ref:`ドラゴノザウルス <srw4_unit_dragonsaurus>`\  (大恐龙)
 
    * - 1B7
      - ﾏﾘﾝｳﾞｫﾙﾃｯｸｽ
@@ -6583,7 +6583,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドラゴノザウルス <srw4_unit_dragonsaurus>`\ 
+     - \ :ref:`ドラゴノザウルス <srw4_unit_dragonsaurus>`\  (大恐龙)
 
    * - 1B8
      - ﾃﾞｨﾊﾞｲﾝｱｰﾑ
@@ -6598,7 +6598,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ヴァルシオン <srw4_unit_valsione>`\ 
+     - \ :ref:`ヴァルシオン <srw4_unit_valsione>`\  (瓦尔西昂)
 
    * - 1B9
      - ｸﾛｽﾏｯｼｬｰ
@@ -6613,7 +6613,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ヴァルシオン <srw4_unit_valsione>`\ 
+     - \ :ref:`ヴァルシオン <srw4_unit_valsione>`\  (瓦尔西昂)
 
    * - 1BA
      - フレイボム
@@ -6628,7 +6628,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドラムロ <srw4_unit_drumlo>`\ 
+     - \ :ref:`ドラムロ <srw4_unit_drumlo>`\  (德拉姆罗)
 
    * - 1BB
      - フレイボム
@@ -6643,7 +6643,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グラン・ガラン <srw4_unit_guran_garan>`\ 
+     - \ :ref:`グラン·ガラン <srw4_unit_guran_garan>`\  (古兰·加兰)
 
    * - 1BC
      - フレイボム
@@ -6658,7 +6658,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`レプラカーン <srw4_unit_leprechaun>`\ 
+     - \ :ref:`レプラカーン <srw4_unit_leprechaun>`\  (雷普拉刚)
 
    * - 1BD
      - ﾊﾝﾄﾞｸﾞﾚﾈｲﾄﾞ
@@ -6673,7 +6673,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`レプラカーン <srw4_unit_leprechaun>`\ 
+     - \ :ref:`レプラカーン <srw4_unit_leprechaun>`\  (雷普拉刚)
 
    * - 1BE
      - ｵｰﾗｼｮｯﾄｱｰﾑ
@@ -6688,7 +6688,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ブブリィ <srw4_unit_bubuly>`\ 
+     - \ :ref:`ブブリィ <srw4_unit_bubuly>`\  (布布利)
 
    * - 1BF
      - バグる
@@ -6718,7 +6718,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゴラオン <srw4_unit_goraon>`\ 
+     - \ :ref:`ゴラオン <srw4_unit_goraon>`\  (哥拉奥)
 
    * - 1C1
      - ガンテミサイル
@@ -6733,7 +6733,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガンテ <srw4_unit_gante>`\ 
+     - \ :ref:`ガンテ <srw4_unit_gante>`\  (岩手)
 
    * - 1C2
      - セラミックソード
@@ -6748,7 +6748,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`化石獣バストドン <srw4_unit_fossil_beast_bastodon>`\ 
+     - \ :ref:`化石獣バストドン <srw4_unit_fossil_beast_bastodon>`\  (化石兽巴斯托顿)
 
    * - 1C3
      - ギルソード
@@ -6763,7 +6763,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`化石獣ギルディーン <srw4_unit_fossil_beast_girudeen>`\ 
+     - \ :ref:`化石獣ギルディーン <srw4_unit_fossil_beast_girudeen>`\  (化石兽基鲁汀)
 
    * - 1C4
      - ギルアロー
@@ -6778,7 +6778,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`化石獣ギルディーン <srw4_unit_fossil_beast_girudeen>`\ 
+     - \ :ref:`化石獣ギルディーン <srw4_unit_fossil_beast_girudeen>`\  (化石兽基鲁汀)
 
    * - 1C5
      - 妖魔サーベル
@@ -6793,7 +6793,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`巨大シャーキン <srw4_unit_giant_sharkin>`\ 
+     - \ :ref:`巨大シャーキン <srw4_unit_giant_sharkin>`\  (巨大夏金)
 
    * - 1C6
      - 触手
@@ -6808,7 +6808,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカブースト・ドミラ <srw4_unit_mecha_boost_domira>`\ 
+     - \ :ref:`メカブースト·ドミラ <srw4_unit_mecha_boost_domira>`\  (机械怪兽·德梅拉)
 
    * - 1C7
      - 熱線
@@ -6823,7 +6823,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカブースト・ドミラ <srw4_unit_mecha_boost_domira>`\ 
+     - \ :ref:`メカブースト·ドミラ <srw4_unit_mecha_boost_domira>`\  (机械怪兽·德梅拉)
 
    * - 1C8
      - 冷凍ガス
@@ -6838,7 +6838,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカブースト・ガビタン（陸） <srw4_unit_mecha_boost_gabidan_land>`\ 
+     - \ :ref:`メカブースト·ガビタン（陸） <srw4_unit_mecha_boost_gabidan_land>`\  (陆型机械怪兽·加比坦)
 
    * - 1C9
      - かぎづめ
@@ -6853,7 +6853,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカブースト・ガビタン（空） <srw4_unit_mecha_boost_gabidan_sky>`\ 
+     - \ :ref:`メカブースト·ガビタン（空） <srw4_unit_mecha_boost_gabidan_sky>`\  (空型机械怪兽·加比坦)
 
    * - 1CA
      - シミター
@@ -6868,7 +6868,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`赤騎士デスカイン <srw4_unit_red_knight_deathcain>`\ 
+     - \ :ref:`赤騎士デスカイン <srw4_unit_red_knight_deathcain>`\  (赤骑士死神凯恩)
 
    * - 1CB
      - シールドビーム
@@ -6883,7 +6883,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`赤騎士デスカイン <srw4_unit_red_knight_deathcain>`\ 
+     - \ :ref:`赤騎士デスカイン <srw4_unit_red_knight_deathcain>`\  (赤骑士死神凯恩)
 
    * - 1CC
      - ランサー
@@ -6898,7 +6898,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`青騎士ヘルダイン <srw4_unit_blue_knight_helldyne>`\ 
+     - \ :ref:`青騎士ヘルダイン <srw4_unit_blue_knight_helldyne>`\  (青骑士地狱丹恩)
 
    * - 1CD
      - スペースミサイル
@@ -6913,7 +6913,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バンドック <srw4_unit_bandok>`\ 
+     - \ :ref:`バンドック <srw4_unit_bandok>`\  (班多克)
 
    * - 1CE
      - バンドック砲
@@ -6928,7 +6928,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バンドック <srw4_unit_bandok>`\ 
+     - \ :ref:`バンドック <srw4_unit_bandok>`\  (班多克)
 
    * - 1CF
      - ウイングソード
@@ -6943,7 +6943,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ビッグガルーダ <srw4_unit_big_garuda>`\ 
+     - \ :ref:`ビッグガルーダ <srw4_unit_big_garuda>`\  (大嘉鲁达)
 
    * - 1D0
      - ビッグボウ
@@ -6958,7 +6958,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ビッグガルーダ <srw4_unit_big_garuda>`\ 
+     - \ :ref:`ビッグガルーダ <srw4_unit_big_garuda>`\  (大嘉鲁达)
 
    * - 1D1
      - ﾎｰﾐﾝｸﾞﾐｻｲﾙ
@@ -6973,7 +6973,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ブンドル艦 <srw4_unit_bundle_ship>`\ 
+     - \ :ref:`ブンドル艦 <srw4_unit_bundle_ship>`\  (本都舰)
 
    * - 1D2
      - ビームキャノン
@@ -6988,7 +6988,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ブンドル艦 <srw4_unit_bundle_ship>`\ 
+     - \ :ref:`ブンドル艦 <srw4_unit_bundle_ship>`\  (本都舰)
 
    * - 1D3
      - ﾌﾗｯｼｬｰﾋﾞｰﾑ
@@ -7003,7 +7003,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`アトールV <srw4_unit_a_taul_v>`\ 
+     - \ :ref:`アトールV <srw4_unit_a_taul_v>`\  (亚托鲁V)
 
    * - 1D4
      - ラム
@@ -7018,7 +7018,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ケルナグール艦 <srw4_unit_kernagul_ship>`\ 
+     - \ :ref:`ケルナグール艦 <srw4_unit_kernagul_ship>`\  (克鲁纳古鲁舰)
 
    * - 1D5
      - サーベル
@@ -7033,7 +7033,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゴーナグール <srw4_unit_gonagurl>`\ 
+     - \ :ref:`ゴーナグール <srw4_unit_gonagurl>`\  (哥纳古鲁)
 
    * - 1D6
      - バズーカ
@@ -7048,7 +7048,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゴーナグール <srw4_unit_gonagurl>`\ 
+     - \ :ref:`ゴーナグール <srw4_unit_gonagurl>`\  (哥纳古鲁)
 
    * - 1D7
      - ミサイル
@@ -7063,7 +7063,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカ戦士ゴッドアーモン <srw4_unit_mecha_warrior_goddoamon>`\ 
+     - \ :ref:`メカ戦士ゴッドアーモン <srw4_unit_mecha_warrior_goddoamon>`\  (机械战士阿蒙神)
 
    * - 1D8
      - 反ｱｲｻﾞﾛﾝ粒子砲
@@ -7078,7 +7078,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカ戦士ギメリア <srw4_unit_mecha_warrior_gimeria>`\ 
+     - \ :ref:`メカ戦士ギメリア <srw4_unit_mecha_warrior_gimeria>`\  (机械战士基梅利亚)
 
    * - 1D9
      - ハイメガ粒子砲
@@ -7093,7 +7093,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ドゴス・ギア <srw4_unit_dogosse_giar>`\ 
+     - \ :ref:`ドゴス·ギア <srw4_unit_dogosse_giar>`\  (多戈斯·基亚级宇宙战舰)
 
    * - 1DA
      - ﾊｲﾊﾟｰﾒｶﾞ粒子砲
@@ -7108,7 +7108,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`アーガマ <srw4_unit_argama>`\ 
+     - \ :ref:`アーガマ <srw4_unit_argama>`\  (亚加玛)
 
    * - 1DB
      - セイバー
@@ -7123,7 +7123,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ディザード <srw4_unit_d_sserd>`\ 
+     - \ :ref:`ディザード <srw4_unit_d_sserd>`\  (迪扎德)
 
    * - 1DC
      - セイバー
@@ -7138,7 +7138,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`エルガイム <srw4_unit_l_gaim>`\ 
+     - \ :ref:`エルガイム <srw4_unit_l_gaim>`\  (艾尔盖姆)
 
    * - 1DD
      - セイバー
@@ -7153,7 +7153,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\ 
+     - \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\  (阿修罗神殿)
 
    * - 1DE
      - セイバー
@@ -7168,7 +7168,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ブラッドテンプル <srw4_unit_blood_temple>`\ 
+     - \ :ref:`ブラッドテンプル <srw4_unit_blood_temple>`\  (血光神殿)
 
    * - 1DF
      - ランサー
@@ -7183,7 +7183,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ディザード <srw4_unit_d_sserd>`\ 
+     - \ :ref:`ディザード <srw4_unit_d_sserd>`\  (迪扎德)
 
    * - 1E0
      - ランサー
@@ -7198,7 +7198,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`エルガイム <srw4_unit_l_gaim>`\ 
+     - \ :ref:`エルガイム <srw4_unit_l_gaim>`\  (艾尔盖姆)
 
    * - 1E1
      - ランサー
@@ -7213,7 +7213,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ブラッドテンプル <srw4_unit_blood_temple>`\ 
+     - \ :ref:`ブラッドテンプル <srw4_unit_blood_temple>`\  (血光神殿)
 
    * - 1E2
      - Ｓマイン
@@ -7228,7 +7228,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`エルガイム <srw4_unit_l_gaim>`\ 
+     - \ :ref:`エルガイム <srw4_unit_l_gaim>`\  (艾尔盖姆)
 
    * - 1E3
      - Ｓマイン
@@ -7243,7 +7243,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ブラッドテンプル <srw4_unit_blood_temple>`\ 
+     - \ :ref:`ブラッドテンプル <srw4_unit_blood_temple>`\  (血光神殿)
 
    * - 1E4
      - パワーランチャー
@@ -7258,7 +7258,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ディザード <srw4_unit_d_sserd>`\ 
+     - \ :ref:`ディザード <srw4_unit_d_sserd>`\  (迪扎德)
 
    * - 1E5
      - パワーランチャー
@@ -7273,7 +7273,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`エルガイム <srw4_unit_l_gaim>`\ 
+     - \ :ref:`エルガイム <srw4_unit_l_gaim>`\  (艾尔盖姆)
 
    * - 1E6
      - パワーランチャー
@@ -7288,7 +7288,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\ 
+     - \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\  (阿修罗神殿)
 
    * - 1E7
      - パワーランチャー
@@ -7303,7 +7303,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ブラッドテンプル <srw4_unit_blood_temple>`\ 
+     - \ :ref:`ブラッドテンプル <srw4_unit_blood_temple>`\  (血光神殿)
 
    * - 1E8
      - ﾊﾞｽﾀｰﾗﾝﾁｬｰ
@@ -7318,7 +7318,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ブラッドテンプル <srw4_unit_blood_temple>`\ 
+     - \ :ref:`ブラッドテンプル <srw4_unit_blood_temple>`\  (血光神殿)
 
    * - 1E9
      - ﾊﾞｽﾀｰﾗﾝﾁｬｰ
@@ -7333,7 +7333,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\ 
+     - \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\  (阿修罗神殿)
 
    * - 1EA
      - スロウランサー
@@ -7348,7 +7348,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`オージェ <srw4_unit_auger>`\ 
+     - \ :ref:`オージェ <srw4_unit_auger>`\  (奥杰)
 
    * - 1EB
      - サイズ
@@ -7363,7 +7363,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`オージ <srw4_unit_auge>`\ 
+     - \ :ref:`オージ <srw4_unit_auge>`\  (奥津)
 
    * - 1EC
      - ハンドランチャー
@@ -7378,7 +7378,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`エルガイム Mk-II <srw4_unit_l_gaim_mk_ii>`\ 
+     - \ :ref:`エルガイム Mk-II <srw4_unit_l_gaim_mk_ii>`\  (艾尔盖姆 Mk-II)
 
    * - 1ED
      - リバースボマー
@@ -7393,7 +7393,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\ 
+     - \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\  (阿修罗神殿)
 
    * - 1EE
      - ｴﾈﾙｷﾞｰﾎﾞﾝﾊﾞｰ
@@ -7408,7 +7408,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\ 
+     - \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\  (阿修罗神殿)
 
    * - 1EF
      - サッシュ
@@ -7423,7 +7423,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`カルバリーテンプル <srw4_unit_calvary_temple>`\ 
+     - \ :ref:`カルバリーテンプル <srw4_unit_calvary_temple>`\  (灾厄神殿)
 
    * - 1F0
      - フロッガー
@@ -7438,7 +7438,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`アトール <srw4_unit_a_taul>`\ 
+     - \ :ref:`アトール <srw4_unit_a_taul>`\  (亚托鲁)
 
    * - 1F1
      - ロングスピア
@@ -7453,7 +7453,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グルーン <srw4_unit_g_roon>`\ 
+     - \ :ref:`グルーン <srw4_unit_g_roon>`\  (古伦)
 
    * - 1F2
      - 放電
@@ -7468,7 +7468,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グルーン <srw4_unit_g_roon>`\ 
+     - \ :ref:`グルーン <srw4_unit_g_roon>`\  (古伦)
 
    * - 1F3
      - ハンマー
@@ -7483,7 +7483,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`サロンズ <srw4_unit_salonz>`\ 
+     - \ :ref:`サロンズ <srw4_unit_salonz>`\  (沙龙兹)
 
    * - 1F4
      - ビームランス
@@ -7498,7 +7498,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカ戦士ゾンネカイザー <srw4_unit_mecha_warrior_sonnekaiser>`\ 
+     - \ :ref:`メカ戦士ゾンネカイザー <srw4_unit_mecha_warrior_sonnekaiser>`\  (机械战士尊尼凯撒)
 
    * - 1F5
      - ランスミサイル
@@ -7513,7 +7513,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカ戦士ゾンネカイザー <srw4_unit_mecha_warrior_sonnekaiser>`\ 
+     - \ :ref:`メカ戦士ゾンネカイザー <srw4_unit_mecha_warrior_sonnekaiser>`\  (机械战士尊尼凯撒)
 
    * - 1F6
      - バトルスピア
@@ -7528,7 +7528,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガイラム <srw4_unit_gayrahm>`\ 
+     - \ :ref:`ガイラム <srw4_unit_gayrahm>`\  (盖拉姆)
 
    * - 1F7
      - ﾒｶﾞﾋﾞｰﾑｷｬﾉﾝ
@@ -7543,7 +7543,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`リ・ガズィ (MA) <srw4_unit_ri_gazi_ma>`\ 
+     - \ :ref:`リ·ガズィ (MA) <srw4_unit_ri_gazi_ma>`\  (灵格斯BWS着装型)
 
    * - 1F8
      - 大雪山おろし
@@ -7558,7 +7558,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲッター3 <srw4_unit_getter_3>`\ 
+     - \ :ref:`ゲッター3 <srw4_unit_getter_3>`\  (盖塔3)
 
    * - 1F9
      - 補給装置
@@ -7573,7 +7573,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ボスボロット <srw4_unit_boss_borot>`\ 
+     - \ :ref:`ボスボロット <srw4_unit_boss_borot>`\  (波士机器人)
 
    * - 1FA
      - グランダッシャー
@@ -7588,7 +7588,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\ 
+     - \ :ref:`コンバトラーV <srw4_unit_combattler_v>`\  (孔巴特拉V)
 
    * - 1FB
      - 必殺烈風正拳突き改
@@ -7603,7 +7603,7 @@
      - 
      - 7
      - B
-     - \ :ref:`ダイモス <srw4_unit_daimos>`\ 
+     - \ :ref:`ダイモス <srw4_unit_daimos>`\  (戴莫斯)
 
    * - 1FC
      - 爆雷
@@ -7618,7 +7618,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`イーグルファイターN <srw4_unit_eagle_fighter_n>`\ 
+     - \ :ref:`イーグルファイターN <srw4_unit_eagle_fighter_n>`\  (鹰战机)
 
    * - 1FD
      - ﾒｶﾞ拡散ﾋﾞｰﾑ砲
@@ -7633,7 +7633,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`サイコガンダム Mk-II (MS) <srw4_unit_psycho_gundam_mk_ii_ms>`\ 
+     - \ :ref:`サイコガンダム Mk-II (MS) <srw4_unit_psycho_gundam_mk_ii_ms>`\  (MS型精神力高达 Mk-II)
 
    * - 1FE
      - メガビーム砲
@@ -7648,7 +7648,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`サイコガンダム Mk-II (MS) <srw4_unit_psycho_gundam_mk_ii_ms>`\ 
+     - \ :ref:`サイコガンダム Mk-II (MS) <srw4_unit_psycho_gundam_mk_ii_ms>`\  (MS型精神力高达 Mk-II)
 
    * - 201
      - ミサイル
@@ -7663,7 +7663,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガーベラ・テトラ <srw4_unit_gerbera_tetra>`\ 
+     - \ :ref:`ガーベラ·テトラ <srw4_unit_gerbera_tetra>`\  (红色角马)
 
    * - 202
      - ハンドビーム
@@ -7678,7 +7678,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バウ (MS) <srw4_unit_bawoo_ms>`\ 
+     - \ :ref:`バウ (MS) <srw4_unit_bawoo_ms>`\  (MS型龙飞)
 
    * - 203
      - ハンドビーム
@@ -7693,7 +7693,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドーベンウルフ <srw4_unit_doven_wolf>`\ 
+     - \ :ref:`ドーベンウルフ <srw4_unit_doven_wolf>`\  (飙狼)
 
    * - 204
      - ビームランチャー
@@ -7708,7 +7708,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゲーマルク <srw4_unit_geymalk>`\ 
+     - \ :ref:`ゲーマルク <srw4_unit_geymalk>`\  (盖马克)
 
    * - 205
      - ファンネル
@@ -7723,7 +7723,7 @@
      - ニュータイプ
      - 7
      - 2
-     - \ :ref:`ヤクト・ドーガ（青） <srw4_unit_jagd_doga_blue>`\ 
+     - \ :ref:`ヤクト·ドーガ（青） <srw4_unit_jagd_doga_blue>`\  (量产型亚克·多加)
 
    * - 206
      - ファンネル
@@ -7738,7 +7738,7 @@
      - ニュータイプ
      - 7
      - 2
-     - \ :ref:`サザビー <srw4_unit_sazabi>`\ 
+     - \ :ref:`サザビー <srw4_unit_sazabi>`\  (沙扎比)
 
    * - 207
      - ファンネル
@@ -7753,7 +7753,7 @@
      - ニュータイプ
      - 7
      - 2
-     - \ :ref:`α・アジール <srw4_unit_alpha_azieru>`\ 
+     - \ :ref:`α·アジール <srw4_unit_alpha_azieru>`\  (α·亚基鲁)
 
    * - 208
      - ﾒｶﾞﾋﾞｰﾑﾗﾝﾁｬｰ
@@ -7768,7 +7768,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ビギナ・ギナ <srw4_unit_vigna_ghina>`\ 
+     - \ :ref:`ビギナ·ギナ <srw4_unit_vigna_ghina>`\  (比基纳·基纳)
 
    * - 209
      - ミサイル
@@ -7783,7 +7783,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカザウルス・バド <srw4_unit_mechasaurus_bado>`\ 
+     - \ :ref:`メカザウルス·バド <srw4_unit_mechasaurus_bado>`\  (机械恐龙·巴德)
 
    * - 20A
      - レーザー
@@ -7798,7 +7798,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`機械獣ダブラスM2 <srw4_unit_mechanical_beast_doublas_m2>`\ 
+     - \ :ref:`機械獣ダブラスM2 <srw4_unit_mechanical_beast_doublas_m2>`\  (机械兽双头龙M2)
 
    * - 20B
      - ミサイル
@@ -7813,7 +7813,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`機械獣ダブラスM2 <srw4_unit_mechanical_beast_doublas_m2>`\ 
+     - \ :ref:`機械獣ダブラスM2 <srw4_unit_mechanical_beast_doublas_m2>`\  (机械兽双头龙M2)
 
    * - 20C
      - 爆弾
@@ -7828,7 +7828,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グール <srw4_unit_ghoul>`\ 
+     - \ :ref:`グール <srw4_unit_ghoul>`\  (飞行要塞古鲁)
 
    * - 20D
      - ムチ
@@ -7843,7 +7843,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`戦闘獣グラトニオス <srw4_unit_warrior_beast_gratonios>`\ 
+     - \ :ref:`戦闘獣グラトニオス <srw4_unit_warrior_beast_gratonios>`\  (战斗兽古拉特尼奥斯)
 
    * - 20E
      - ミサイル
@@ -7858,7 +7858,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ビッグガルーダ <srw4_unit_big_garuda>`\ 
+     - \ :ref:`ビッグガルーダ <srw4_unit_big_garuda>`\  (大嘉鲁达)
 
    * - 20F
      - マリンビーム
@@ -7873,7 +7873,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`マリンスペイザー <srw4_unit_marine_spacer>`\ 
+     - \ :ref:`マリンスペイザー <srw4_unit_marine_spacer>`\  (潜水斯陪沙)
 
    * - 210
      - オーラバルカン
@@ -7888,7 +7888,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`レプラカーン <srw4_unit_leprechaun>`\ 
+     - \ :ref:`レプラカーン <srw4_unit_leprechaun>`\  (雷普拉刚)
 
    * - 211
      - オーラバルカン
@@ -7903,7 +7903,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`グラン・ガラン <srw4_unit_guran_garan>`\ 
+     - \ :ref:`グラン·ガラン <srw4_unit_guran_garan>`\  (古兰·加兰)
 
    * - 212
      - オーラバルカン
@@ -7918,7 +7918,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`ズワァース <srw4_unit_zwarth>`\ 
+     - \ :ref:`ズワァース <srw4_unit_zwarth>`\  (兹华士)
 
    * - 213
      - オーラバルカン
@@ -7933,7 +7933,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`ブブリィ <srw4_unit_bubuly>`\ 
+     - \ :ref:`ブブリィ <srw4_unit_bubuly>`\  (布布利)
 
    * - 214
      - ミサイルポッド
@@ -7948,7 +7948,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ライネック <srw4_unit_wryneck>`\ 
+     - \ :ref:`ライネック <srw4_unit_wryneck>`\  (莱内克)
 
    * - 215
      - ﾐｻｲﾙﾗﾝﾁｬｰ
@@ -7963,7 +7963,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`バストール <srw4_unit_bastole>`\ 
+     - \ :ref:`バストール <srw4_unit_bastole>`\  (巴斯托尔)
 
    * - 216
      - ヘアミサイル
@@ -7978,7 +7978,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`巨大シャーキン <srw4_unit_giant_sharkin>`\ 
+     - \ :ref:`巨大シャーキン <srw4_unit_giant_sharkin>`\  (巨大夏金)
 
    * - 217
      - 妖魔光線
@@ -7993,7 +7993,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`巨大シャーキン <srw4_unit_giant_sharkin>`\ 
+     - \ :ref:`巨大シャーキン <srw4_unit_giant_sharkin>`\  (巨大夏金)
 
    * - 218
      - マグマ弾
@@ -8008,7 +8008,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカブースト・ガビタン（空） <srw4_unit_mecha_boost_gabidan_sky>`\ 
+     - \ :ref:`メカブースト·ガビタン（空） <srw4_unit_mecha_boost_gabidan_sky>`\  (空型机械怪兽·加比坦)
 
    * - 219
      - 60ミリ機銃
@@ -8023,7 +8023,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ブンドル艦 <srw4_unit_bundle_ship>`\ 
+     - \ :ref:`ブンドル艦 <srw4_unit_bundle_ship>`\  (本都舰)
 
    * - 21A
      - ﾒｲﾝﾒｶﾞ粒子砲
@@ -8038,7 +8038,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ザンジバル <srw4_unit_zanzibar>`\ 
+     - \ :ref:`ザンジバル <srw4_unit_zanzibar>`\  (桑给巴尔)
 
    * - 21B
      - ｻﾌﾞﾒｶﾞ粒子砲
@@ -8053,7 +8053,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ザンジバル <srw4_unit_zanzibar>`\ 
+     - \ :ref:`ザンジバル <srw4_unit_zanzibar>`\  (桑给巴尔)
 
    * - 21C
      - 120ミリ機関砲
@@ -8068,7 +8068,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`ザンジバル <srw4_unit_zanzibar>`\ 
+     - \ :ref:`ザンジバル <srw4_unit_zanzibar>`\  (桑给巴尔)
 
    * - 21D
      - 30ミリ機銃
@@ -8083,7 +8083,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`ミデア <srw4_unit_medea>`\ 
+     - \ :ref:`ミデア <srw4_unit_medea>`\  (米迪亚)
 
    * - 21E
      - 対空機関砲
@@ -8098,7 +8098,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`ガウ <srw4_unit_gaw>`\ 
+     - \ :ref:`ガウ <srw4_unit_gaw>`\  (加乌)
 
    * - 21F
      - 12連装ﾐｻｲﾙﾗﾝﾁｬｰ
@@ -8113,7 +8113,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`ガウ <srw4_unit_gaw>`\ 
+     - \ :ref:`ガウ <srw4_unit_gaw>`\  (加乌)
 
    * - 220
      - 15連装ﾐｻｲﾙﾗﾝﾁｬｰ
@@ -8128,7 +8128,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`トロイホース <srw4_unit_trojan_horse>`\ 
+     - \ :ref:`トロイホース <srw4_unit_trojan_horse>`\  (特洛伊木马)
 
    * - 221
      - 90ミリ機関砲
@@ -8143,7 +8143,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グラーフ・ツェッペリン <srw4_unit_graf_zeppelin>`\ 
+     - \ :ref:`グラーフ·ツェッペリン <srw4_unit_graf_zeppelin>`\  (齐柏林伯爵号宇宙巡洋舰)
 
    * - 222
      - 計都羅睺剣
@@ -8158,7 +8158,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グルンガスト <srw4_unit_grungust>`\ 
+     - \ :ref:`グルンガスト <srw4_unit_grungust>`\  (古伦加斯特)
 
    * - 223
      - 140ミリ機関砲
@@ -8173,7 +8173,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`ドゴス・ギア <srw4_unit_dogosse_giar>`\ 
+     - \ :ref:`ドゴス·ギア <srw4_unit_dogosse_giar>`\  (多戈斯·基亚级宇宙战舰)
 
    * - 224
      - 160ミリ機関砲
@@ -8188,7 +8188,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`アーガマ <srw4_unit_argama>`\ 
+     - \ :ref:`アーガマ <srw4_unit_argama>`\  (亚加玛)
 
    * - 225
      - 180ミリ機関砲
@@ -8203,7 +8203,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`ネェル・アーガマ <srw4_unit_nahel_argama>`\ 
+     - \ :ref:`ネェル·アーガマ <srw4_unit_nahel_argama>`\  (拟·亚加玛)
 
    * - 226
      - 20連装ﾐｻｲﾙﾗﾝﾁｬｰ
@@ -8218,7 +8218,7 @@
      - 
      - 7
      - 2
-     - \ :ref:`アレキサンドリア <srw4_unit_alexandria>`\ 
+     - \ :ref:`アレキサンドリア <srw4_unit_alexandria>`\  (亚历山大级重巡洋舰)
 
    * - 227
      - メインメガ粒子砲
@@ -8233,7 +8233,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`トロイホース <srw4_unit_trojan_horse>`\ 
+     - \ :ref:`トロイホース <srw4_unit_trojan_horse>`\  (特洛伊木马)
 
    * - 228
      - サブメガ粒子砲
@@ -8248,7 +8248,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`トロイホース <srw4_unit_trojan_horse>`\ 
+     - \ :ref:`トロイホース <srw4_unit_trojan_horse>`\  (特洛伊木马)
 
    * - 229
      - メインメガ粒子砲
@@ -8263,7 +8263,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`アーガマ <srw4_unit_argama>`\ 
+     - \ :ref:`アーガマ <srw4_unit_argama>`\  (亚加玛)
 
    * - 22A
      - メインメガ粒子砲
@@ -8278,7 +8278,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ネェル・アーガマ <srw4_unit_nahel_argama>`\ 
+     - \ :ref:`ネェル·アーガマ <srw4_unit_nahel_argama>`\  (拟·亚加玛)
 
    * - 22B
      - メインメガ粒子砲
@@ -8293,7 +8293,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ラー・カイラム <srw4_unit_ra_cailum>`\ 
+     - \ :ref:`ラー·カイラム <srw4_unit_ra_cailum>`\  (拉·凯拉姆)
 
    * - 22C
      - サブメガ粒子砲
@@ -8308,7 +8308,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`アーガマ <srw4_unit_argama>`\ 
+     - \ :ref:`アーガマ <srw4_unit_argama>`\  (亚加玛)
 
    * - 22D
      - サブメガ粒子砲
@@ -8323,7 +8323,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ネェル・アーガマ <srw4_unit_nahel_argama>`\ 
+     - \ :ref:`ネェル·アーガマ <srw4_unit_nahel_argama>`\  (拟·亚加玛)
 
    * - 22E
      - サブメガ粒子砲
@@ -8338,7 +8338,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ラー・カイラム <srw4_unit_ra_cailum>`\ 
+     - \ :ref:`ラー·カイラム <srw4_unit_ra_cailum>`\  (拉·凯拉姆)
 
    * - 22F
      - ミサイル
@@ -8353,7 +8353,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バッシュ <srw4_unit_bat_shu>`\ 
+     - \ :ref:`バッシュ <srw4_unit_bat_shu>`\  (巴修)
 
    * - 230
      - 格闘
@@ -8383,7 +8383,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\ 
+     - \ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\  (大魔神)
 
    * - 232
      - チェーンマイン
@@ -8398,7 +8398,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ケンプファー <srw4_unit_kampfer>`\ 
+     - \ :ref:`ケンプファー <srw4_unit_kampfer>`\  (MS-18 斗士)
 
    * - 233
      - ﾊｲﾊﾟｰｵｰﾗｷｬﾉﾝ
@@ -8443,7 +8443,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガロイカ <srw4_unit_garoica>`\ 
+     - \ :ref:`ガロイカ <srw4_unit_garoica>`\  (加罗依卡)
 
    * - 236
      - レーザーバルカン
@@ -8458,7 +8458,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`レストグランシュ <srw4_unit_rest_granshu>`\ 
+     - \ :ref:`レストグランシュ <srw4_unit_rest_granshu>`\  (雷斯特格兰修)
 
    * - 237
      - ガトリングビーム
@@ -8473,7 +8473,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガロイカ <srw4_unit_garoica>`\ 
+     - \ :ref:`ガロイカ <srw4_unit_garoica>`\  (加罗依卡)
 
    * - 238
      - レーザーソード
@@ -8488,7 +8488,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`カレイツェド <srw4_unit_kaleitsed>`\ 
+     - \ :ref:`カレイツェド <srw4_unit_kaleitsed>`\  (卡雷赛德)
 
    * - 239
      - ｽﾌﾟﾚｯﾄﾞﾐｻｲﾙ
@@ -8503,7 +8503,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`カレイツェド <srw4_unit_kaleitsed>`\ 
+     - \ :ref:`カレイツェド <srw4_unit_kaleitsed>`\  (卡雷赛德)
 
    * - 23A
      - ﾒｶﾞﾋﾞｰﾑﾗﾝﾁｬｰ
@@ -8518,7 +8518,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`カレイツェド <srw4_unit_kaleitsed>`\ 
+     - \ :ref:`カレイツェド <srw4_unit_kaleitsed>`\  (卡雷赛德)
 
    * - 23B
      - 大口径ビーム砲
@@ -8533,7 +8533,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`カレイツェド <srw4_unit_kaleitsed>`\ 
+     - \ :ref:`カレイツェド <srw4_unit_kaleitsed>`\  (卡雷赛德)
 
    * - 23C
      - ﾃﾞｭｱﾙﾚｰｻﾞｰｿｰﾄﾞ
@@ -8548,7 +8548,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`レストレイル <srw4_unit_rest_rail>`\ 
+     - \ :ref:`レストレイル <srw4_unit_rest_rail>`\  (雷斯托雷尔)
 
    * - 23D
      - レーザーガン
@@ -8563,7 +8563,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`レストレイル <srw4_unit_rest_rail>`\ 
+     - \ :ref:`レストレイル <srw4_unit_rest_rail>`\  (雷斯托雷尔)
 
    * - 23E
      - ダブルキャノン
@@ -8578,7 +8578,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`レストレイル <srw4_unit_rest_rail>`\ 
+     - \ :ref:`レストレイル <srw4_unit_rest_rail>`\  (雷斯托雷尔)
 
    * - 23F
      - ダブルバルカン
@@ -8593,7 +8593,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`グラシドゥ＝リュ <srw4_unit_grassidow_ryu>`\ 
+     - \ :ref:`グラシドゥ＝リュ <srw4_unit_grassidow_ryu>`\  (古拉西德·琉)
 
    * - 240
      - ｲｵﾝﾋﾞｰﾑ砲
@@ -8608,7 +8608,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グラシドゥ＝リュ <srw4_unit_grassidow_ryu>`\ 
+     - \ :ref:`グラシドゥ＝リュ <srw4_unit_grassidow_ryu>`\  (古拉西德·琉)
 
    * - 241
      - ﾏｽﾄﾞﾗｲﾊﾞｰｷｬﾉﾝ
@@ -8623,7 +8623,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グラシドゥ＝リュ <srw4_unit_grassidow_ryu>`\ 
+     - \ :ref:`グラシドゥ＝リュ <srw4_unit_grassidow_ryu>`\  (古拉西德·琉)
 
    * - 242
      - ﾂｲﾝﾚｰｻﾞｰｿｰﾄﾞ
@@ -8638,7 +8638,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`レストグランシュ <srw4_unit_rest_granshu>`\ 
+     - \ :ref:`レストグランシュ <srw4_unit_rest_granshu>`\  (雷斯特格兰修)
 
    * - 243
      - ﾗﾝﾁｬｰﾐｻｲﾙ
@@ -8653,7 +8653,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`レストグランシュ <srw4_unit_rest_granshu>`\ 
+     - \ :ref:`レストグランシュ <srw4_unit_rest_granshu>`\  (雷斯特格兰修)
 
    * - 244
      - ﾚｰｻﾞｰｷｬﾉﾝ
@@ -8668,7 +8668,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`レストグランシュ <srw4_unit_rest_granshu>`\ 
+     - \ :ref:`レストグランシュ <srw4_unit_rest_granshu>`\  (雷斯特格兰修)
 
    * - 245
      - ﾄﾞﾗｲﾊﾞｰｷｬﾉﾝ
@@ -8683,7 +8683,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`レストグランシュ <srw4_unit_rest_granshu>`\ 
+     - \ :ref:`レストグランシュ <srw4_unit_rest_granshu>`\  (雷斯特格兰修)
 
    * - 246
      - 小型ミサイル
@@ -8698,7 +8698,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゼラニオ <srw4_unit_zeranio>`\ 
+     - \ :ref:`ゼラニオ <srw4_unit_zeranio>`\  (塞拉尼奥)
 
    * - 247
      - 大型ミサイル
@@ -8713,7 +8713,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゼラニオ <srw4_unit_zeranio>`\ 
+     - \ :ref:`ゼラニオ <srw4_unit_zeranio>`\  (塞拉尼奥)
 
    * - 248
      - 荷電粒子ﾋﾞｰﾑ
@@ -8728,7 +8728,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ゼラニオ <srw4_unit_zeranio>`\ 
+     - \ :ref:`ゼラニオ <srw4_unit_zeranio>`\  (塞拉尼奥)
 
    * - 249
      - 60ﾐﾘﾊﾞﾙｶﾝ
@@ -8743,7 +8743,7 @@
      - 
      - 0
      - 0
-     - \ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\ 
+     - \ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\  (凶鸟)
 
    * - 24A
      - ﾌﾟﾗｽﾞﾏｿｰﾄﾞ
@@ -8758,7 +8758,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\ 
+     - \ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\  (凶鸟)
 
    * - 24B
      - 4連ﾐｻｲﾙﾗﾝﾁｬｰ
@@ -8773,7 +8773,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\ 
+     - \ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\  (凶鸟)
 
    * - 24C
      - ロシュセイバー
@@ -8788,7 +8788,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\ 
+     - \ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\  (凶鸟)
 
    * - 24D
      - リープスラッシャー
@@ -8803,7 +8803,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\ 
+     - \ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\  (凶鸟)
 
    * - 24E
      - ブラックホールキャノン
@@ -8818,7 +8818,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\ 
+     - \ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\  (凶鸟)
 
    * - 24F
      - ブーストナックル
@@ -8833,7 +8833,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グルンガスト <srw4_unit_grungust>`\ 
+     - \ :ref:`グルンガスト <srw4_unit_grungust>`\  (古伦加斯特)
 
    * - 250
      - オメガレーザー
@@ -8848,7 +8848,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グルンガスト <srw4_unit_grungust>`\ 
+     - \ :ref:`グルンガスト <srw4_unit_grungust>`\  (古伦加斯特)
 
    * - 251
      - ブレイククロス
@@ -8863,7 +8863,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グルンガスト <srw4_unit_grungust>`\ 
+     - \ :ref:`グルンガスト <srw4_unit_grungust>`\  (古伦加斯特)
 
    * - 252
      - レーザースピア
@@ -8893,7 +8893,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グルンガスト <srw4_unit_grungust>`\ 
+     - \ :ref:`グルンガスト <srw4_unit_grungust>`\  (古伦加斯特)
 
    * - 254
      - 計都羅睺剣・暗剣殺
@@ -8908,7 +8908,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`グルンガスト <srw4_unit_grungust>`\ 
+     - \ :ref:`グルンガスト <srw4_unit_grungust>`\  (古伦加斯特)
 
    * - 255
      - ﾀﾞﾌﾞﾙｵﾒｶﾞﾚｰｻﾞｰ
@@ -8923,7 +8923,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ウイングガスト <srw4_unit_wing_gust>`\ 
+     - \ :ref:`ウイングガスト <srw4_unit_wing_gust>`\  (飞翼加斯特)
 
    * - 256
      - ビッグミサイル
@@ -8938,7 +8938,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ウイングガスト <srw4_unit_wing_gust>`\ 
+     - \ :ref:`ウイングガスト <srw4_unit_wing_gust>`\  (飞翼加斯特)
 
    * - 257
      - スパイラルアタック
@@ -8953,7 +8953,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ウイングガスト <srw4_unit_wing_gust>`\ 
+     - \ :ref:`ウイングガスト <srw4_unit_wing_gust>`\  (飞翼加斯特)
 
    * - 258
      - オメガキャノン
@@ -8968,7 +8968,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガストランダー <srw4_unit_gust_lander>`\ 
+     - \ :ref:`ガストランダー <srw4_unit_gust_lander>`\  (加斯特战车)
 
    * - 259
      - ドリルアタック
@@ -8983,7 +8983,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ガストランダー <srw4_unit_gust_lander>`\ 
+     - \ :ref:`ガストランダー <srw4_unit_gust_lander>`\  (加斯特战车)
 
    * - 25A
      - テキサスソード
@@ -8998,7 +8998,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`テキサスマック <srw4_unit_texas_mack>`\ 
+     - \ :ref:`テキサスマック <srw4_unit_texas_mack>`\  (德州牛仔)
 
    * - 25B
      - マックリボルバー
@@ -9013,7 +9013,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`テキサスマック <srw4_unit_texas_mack>`\ 
+     - \ :ref:`テキサスマック <srw4_unit_texas_mack>`\  (德州牛仔)
 
    * - 25C
      - マックライアット
@@ -9028,7 +9028,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`テキサスマック <srw4_unit_texas_mack>`\ 
+     - \ :ref:`テキサスマック <srw4_unit_texas_mack>`\  (德州牛仔)
 
    * - 25D
      - マックライフル
@@ -9043,7 +9043,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`テキサスマック <srw4_unit_texas_mack>`\ 
+     - \ :ref:`テキサスマック <srw4_unit_texas_mack>`\  (德州牛仔)
 
    * - 25E
      - 2連装メガ粒子砲
@@ -9058,7 +9058,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`アッザム <srw4_unit_adzam>`\ 
+     - \ :ref:`アッザム <srw4_unit_adzam>`\  (阿扎姆)
 
    * - 25F
      - アッザムリーダー
@@ -9073,7 +9073,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`アッザム <srw4_unit_adzam>`\ 
+     - \ :ref:`アッザム <srw4_unit_adzam>`\  (阿扎姆)
 
    * - 260
      - ﾀﾞｰｸｻｰﾍﾞﾙ
@@ -9088,7 +9088,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカ戦士ゴッドアーモン <srw4_unit_mecha_warrior_goddoamon>`\ 
+     - \ :ref:`メカ戦士ゴッドアーモン <srw4_unit_mecha_warrior_goddoamon>`\  (机械战士阿蒙神)
 
    * - 261
      - ハリケーン
@@ -9118,7 +9118,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ハーディアス <srw4_unit_hardias>`\ 
+     - \ :ref:`ハーディアス <srw4_unit_hardias>`\  (哈迪斯)
 
    * - 263
      - ﾍﾙﾌｧｲﾔｰ
@@ -9133,7 +9133,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ハーディアス <srw4_unit_hardias>`\ 
+     - \ :ref:`ハーディアス <srw4_unit_hardias>`\  (哈迪斯)
 
    * - 264
      - カーズ
@@ -9148,7 +9148,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ハーディアス <srw4_unit_hardias>`\ 
+     - \ :ref:`ハーディアス <srw4_unit_hardias>`\  (哈迪斯)
 
    * - 265
      - ファイヤーブレス
@@ -9163,7 +9163,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ドレイドウ <srw4_unit_draydou>`\ 
+     - \ :ref:`ドレイドウ <srw4_unit_draydou>`\  (德雷多乌)
 
    * - 266
      - ｽﾗｲｽｼｰﾙﾄﾞ
@@ -9178,7 +9178,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`円盤獣デキデキ <srw4_unit_saucer_beast_dekideki>`\ 
+     - \ :ref:`円盤獣デキデキ <srw4_unit_saucer_beast_dekideki>`\  (圆盘兽德基德基)
 
    * - 267
      - ｼｰﾙﾄﾞﾌﾞｰﾒﾗﾝ
@@ -9193,7 +9193,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`円盤獣デキデキ <srw4_unit_saucer_beast_dekideki>`\ 
+     - \ :ref:`円盤獣デキデキ <srw4_unit_saucer_beast_dekideki>`\  (圆盘兽德基德基)
 
    * - 268
      - ｲﾋﾞﾙﾘﾝｸﾞ
@@ -9208,7 +9208,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`戦闘獣ダンテ <srw4_unit_warrior_beast_dante>`\ 
+     - \ :ref:`戦闘獣ダンテ <srw4_unit_warrior_beast_dante>`\  (战斗兽但丁)
 
    * - 269
      - 怪光線
@@ -9223,7 +9223,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`戦闘獣ダンテ <srw4_unit_warrior_beast_dante>`\ 
+     - \ :ref:`戦闘獣ダンテ <srw4_unit_warrior_beast_dante>`\  (战斗兽但丁)
 
    * - 26A
      - した
@@ -9238,7 +9238,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`戦闘獣ズガール <srw4_unit_warrior_beast_zugar>`\ 
+     - \ :ref:`戦闘獣ズガール <srw4_unit_warrior_beast_zugar>`\  (战斗兽兹加鲁)
 
    * - 26B
      - 大火炎
@@ -9298,7 +9298,7 @@
      - 
      - 7
      - 5
-     - \ :ref:`真・ゲッター1 <srw4_unit_shin_getter_1>`\ 
+     - \ :ref:`真·ゲッター1 <srw4_unit_shin_getter_1>`\  (真·盖塔1)
 
    * - 26F
      - ﾄﾏﾎｰｸﾌﾞｰﾒﾗﾝ
@@ -9313,7 +9313,7 @@
      - 
      - 7
      - 6
-     - \ :ref:`真・ゲッター1 <srw4_unit_shin_getter_1>`\ 
+     - \ :ref:`真·ゲッター1 <srw4_unit_shin_getter_1>`\  (真·盖塔1)
 
    * - 270
      - ゲッタービーム
@@ -9328,7 +9328,7 @@
      - 
      - 7
      - 3
-     - \ :ref:`真・ゲッター1 <srw4_unit_shin_getter_1>`\ 
+     - \ :ref:`真·ゲッター1 <srw4_unit_shin_getter_1>`\  (真·盖塔1)
 
    * - 271
      - ｽﾄﾅｰｻﾝｼｬｲﾝ
@@ -9343,7 +9343,7 @@
      - 
      - 7
      - 7
-     - \ :ref:`真・ゲッター1 <srw4_unit_shin_getter_1>`\ 
+     - \ :ref:`真·ゲッター1 <srw4_unit_shin_getter_1>`\  (真·盖塔1)
 
    * - 272
      - ゲッタードリル
@@ -9358,7 +9358,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`真・ゲッター2 <srw4_unit_shin_getter_2>`\ 
+     - \ :ref:`真·ゲッター2 <srw4_unit_shin_getter_2>`\  (真·盖塔2)
 
    * - 273
      - ｹﾞｯﾀｰﾐｻｲﾙ
@@ -9373,7 +9373,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`真・ゲッター2 <srw4_unit_shin_getter_2>`\ 
+     - \ :ref:`真·ゲッター2 <srw4_unit_shin_getter_2>`\  (真·盖塔2)
 
    * - 274
      - ﾐﾗｰｼﾞｭﾄﾞﾘﾙ
@@ -9388,7 +9388,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`真・ゲッター2 <srw4_unit_shin_getter_2>`\ 
+     - \ :ref:`真·ゲッター2 <srw4_unit_shin_getter_2>`\  (真·盖塔2)
 
    * - 275
      - ﾄﾞﾘﾙﾃﾝﾍﾟｽﾄ
@@ -9403,7 +9403,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`真・ゲッター2 <srw4_unit_shin_getter_2>`\ 
+     - \ :ref:`真·ゲッター2 <srw4_unit_shin_getter_2>`\  (真·盖塔2)
 
    * - 276
      - ハンマーパンチ
@@ -9418,7 +9418,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`真・ゲッター3 <srw4_unit_shin_getter_3>`\ 
+     - \ :ref:`真·ゲッター3 <srw4_unit_shin_getter_3>`\  (真·盖塔3)
 
    * - 277
      - ｹﾞｯﾀｰﾐｻｲﾙ
@@ -9433,7 +9433,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`真・ゲッター3 <srw4_unit_shin_getter_3>`\ 
+     - \ :ref:`真·ゲッター3 <srw4_unit_shin_getter_3>`\  (真·盖塔3)
 
    * - 278
      - 大雪山おろし二段返し
@@ -9448,7 +9448,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`真・ゲッター3 <srw4_unit_shin_getter_3>`\ 
+     - \ :ref:`真·ゲッター3 <srw4_unit_shin_getter_3>`\  (真·盖塔3)
 
    * - 279
      - しっぽ
@@ -9463,7 +9463,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカザウルス・ズー <srw4_unit_mechasaurus_zuu>`\ 
+     - \ :ref:`メカザウルス·ズー <srw4_unit_mechasaurus_zuu>`\  (机械恐龙·兹)
 
    * - 27A
      - 火炎
@@ -9478,7 +9478,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`メカザウルス・ズー <srw4_unit_mechasaurus_zuu>`\ 
+     - \ :ref:`メカザウルス·ズー <srw4_unit_mechasaurus_zuu>`\  (机械恐龙·兹)
 
    * - 27B
      - ドリルブレスト
@@ -9493,7 +9493,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`マグマ獣デモン <srw4_unit_magma_beast_demon>`\ 
+     - \ :ref:`マグマ獣デモン <srw4_unit_magma_beast_demon>`\  (岩浆兽·恶魔)
 
    * - 27C
      - コロナバリア
@@ -9508,7 +9508,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`マグマ獣デモン <srw4_unit_magma_beast_demon>`\ 
+     - \ :ref:`マグマ獣デモン <srw4_unit_magma_beast_demon>`\  (岩浆兽·恶魔)
 
    * - 27D
      - ロングレーザーソード
@@ -9523,7 +9523,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ライグ＝ゲイオス <srw4_unit_lige_geios>`\ 
+     - \ :ref:`ライグ＝ゲイオス <srw4_unit_lige_geios>`\  (莱格·盖奥斯)
 
    * - 27E
      - ギガブラスター
@@ -9538,7 +9538,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ブラッドテンプル <srw4_unit_blood_temple>`\ 
+     - \ :ref:`ブラッドテンプル <srw4_unit_blood_temple>`\  (血光神殿)
 
    * - 27F
      - ｷﾞｶﾞﾄﾞﾗｲﾊﾞｰｷｬﾉﾝ
@@ -9553,7 +9553,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バラン＝シュナイル <srw4_unit_baran_schnile>`\ 
+     - \ :ref:`バラン＝シュナイル <srw4_unit_baran_schnile>`\  (巴兰·修奈尔)
 
    * - 280
      - ﾋﾞｯｸﾞﾊﾞﾝｳｪｰﾌﾞ
@@ -9568,7 +9568,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`バラン＝シュナイル <srw4_unit_baran_schnile>`\ 
+     - \ :ref:`バラン＝シュナイル <srw4_unit_baran_schnile>`\  (巴兰·修奈尔)
 
    * - 281
      - ﾋﾞｰﾑｽﾏｰﾄｶﾞﾝ
@@ -9583,7 +9583,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`Sガンダム <srw4_unit_s_gundam>`\ 
+     - \ :ref:`Sガンダム <srw4_unit_s_gundam>`\  (S高达)
 
    * - 282
      - ビームカノン
@@ -9598,7 +9598,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`Sガンダム <srw4_unit_s_gundam>`\ 
+     - \ :ref:`Sガンダム <srw4_unit_s_gundam>`\  (S高达)
 
    * - 283
      - インコム
@@ -9613,7 +9613,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`Sガンダム <srw4_unit_s_gundam>`\ 
+     - \ :ref:`Sガンダム <srw4_unit_s_gundam>`\  (S高达)
 
    * - 284
      - ミサイル
@@ -9628,7 +9628,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`Sガンダム <srw4_unit_s_gundam>`\ 
+     - \ :ref:`Sガンダム <srw4_unit_s_gundam>`\  (S高达)
 
    * - 285
      - ﾋﾞｰﾑｽﾏｰﾄｶﾞﾝ
@@ -9643,7 +9643,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ExSガンダム <srw4_unit_ex_s_gundam>`\ 
+     - \ :ref:`ExSガンダム <srw4_unit_ex_s_gundam>`\  (ExS高达)
 
    * - 286
      - ビームカノン
@@ -9658,7 +9658,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ExSガンダム <srw4_unit_ex_s_gundam>`\ 
+     - \ :ref:`ExSガンダム <srw4_unit_ex_s_gundam>`\  (ExS高达)
 
    * - 287
      - インコム
@@ -9673,7 +9673,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ExSガンダム <srw4_unit_ex_s_gundam>`\ 
+     - \ :ref:`ExSガンダム <srw4_unit_ex_s_gundam>`\  (ExS高达)
 
    * - 288
      - ﾘﾌﾚｸﾀｰｲﾝｺﾑ
@@ -9688,7 +9688,7 @@
      - 
      - 7
      - 0
-     - \ :ref:`ExSガンダム <srw4_unit_ex_s_gundam>`\ 
+     - \ :ref:`ExSガンダム <srw4_unit_ex_s_gundam>`\  (ExS高达)
 
    * - 289
      - オーラキャノン
@@ -9703,7 +9703,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ハイパーレプラカーン <srw4_unit_hyper_leprechaun>`\ 
+     - \ :ref:`ハイパーレプラカーン <srw4_unit_hyper_leprechaun>`\  (巨雷普拉刚)
 
    * - 28A
      - オーラキャノン
@@ -9718,7 +9718,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ハイパーガラバ <srw4_unit_hyper_gallaba>`\ 
+     - \ :ref:`ハイパーガラバ <srw4_unit_hyper_gallaba>`\  (巨加拉巴)
 
    * - 28B
      - オーラショット
@@ -9733,7 +9733,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`ハイパーレプラカーン <srw4_unit_hyper_leprechaun>`\ 
+     - \ :ref:`ハイパーレプラカーン <srw4_unit_hyper_leprechaun>`\  (巨雷普拉刚)
 
    * - 28C
      - ｽｸﾘｭｰｸﾗｯｼｬｰ
@@ -9748,12 +9748,13 @@
      - 
      - 7
      - 0
-     - \ :ref:`グレンダイザー <srw4_unit_grendizer>`\ 
+     - \ :ref:`グレンダイザー <srw4_unit_grendizer>`\  (古连泰沙)
 
 .. raw:: html
 
     <script>
       weapons_datatable_init('srw4-weapons-snes-table');
     </script>
+
 
 

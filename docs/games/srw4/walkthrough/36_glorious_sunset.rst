@@ -60,7 +60,7 @@ While Team B is preparing for space operations in Hong Kong, Team A receives a r
    * レプラカーン ×4
 
 #. 援军2
-   * スプリガン（ショット＝ウェポン）
+   * スプリガン（ショット・ウェポン）
    * ブブリィ（ミュージィ＝ポー）
    * [仅SRW4]ガラバ（黒騎士）
    * ガラバ（\ :ref:`ガラミティ・マンガン <srw4_pilot_galamity_manganese>`\ ）

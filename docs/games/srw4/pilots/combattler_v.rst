@@ -9,7 +9,12 @@
 
 .. _srw4_pilots_combattler_v_commentBegin:
 
-剧情虽然不多，但是\ :ref:`ガルーダ <srw4_pilot_garuda>`\ （加鲁达）的结局让人印象深刻。
+剧情虽然不多，但是\ :ref:`ガルーダ <srw4_pilot_garuda>`\ （嘉鲁达）的结局让人印象深刻。
+
+人物事典还登录了以下人物：
+
+* コンバトラーV的设计者四谷博士
+* 合体用脑波测量机器人ロペット（罗陪特）
 
 .. _srw4_pilots_combattler_v_commentEnd:
 
@@ -861,7 +866,7 @@
 
 .. _srw4_pilot_garuda_commentBegin:
 
-加鲁达在第三次超级机器人大战中战死，但被\ :ref:`オレアナ <srw4_pilot_oreana>`\ （奥蕾安娜）复活。座驾为\ :ref:`グレイドン <srw4_unit_graydon>`\ （格雷顿）和 \ :ref:`ビッグガルーダ <srw4_unit_big_garuda>`\ （大加鲁达） 。在专有剧情\ :ref:`"第十六话 大将軍ガルーダの悲劇 <srw4_walkthrough_16_great_general_garuda_s_tragedy>`\ 开始前的剧情中，击败了自称坎贝尔星人的奥蕾安娜，向孔巴特拉V发起最终决战，并让同样由本人配音演员市川治配音的 \ :ref:`リヒテル提督 <srw4_pilot_richter>`\ （里希特）见证。
+嘉鲁达在第三次超级机器人大战中战死，但被\ :ref:`オレアナ <srw4_pilot_oreana>`\ （奥雷亚娜）复活。座驾为\ :ref:`グレイドン <srw4_unit_graydon>`\ （格雷顿）和 \ :ref:`ビッグガルーダ <srw4_unit_big_garuda>`\ （大嘉鲁达） 。在专有剧情\ :ref:`"第十六话 大将軍ガルーダの悲劇 <srw4_walkthrough_16_great_general_garuda_s_tragedy>`\ 开始前的剧情中，击败了自称坎贝尔星人的奥雷亚娜，向孔巴特拉V发起最终决战，并让同样由本人配音演员市川治配音的 \ :ref:`リヒテル提督 <srw4_pilot_richter>`\ （里希迪鲁）见证。
 
 能力方面低于我军二线超级系机师。第四次S中虽然增加了近攻击、远攻击和回避，但是我军加得更多，所以更容易对付了。
 
@@ -994,7 +999,7 @@
 
 .. _srw4_pilot_miia_commentBegin:
 
-米娅是\ :ref:`ガルーダ <srw4_pilot_garuda>`\ （加鲁达）的部下。本作中有专属剧情\ :ref:`第十五话 ミーアの決意 <srw4_walkthrough_15_mia_s_decision>`，为位置不保的加鲁达挑战コンバトラーV，最终丧命。
+米娅是\ :ref:`ガルーダ <srw4_pilot_garuda>`\ （嘉鲁达）的部下。本作中有专属剧情\ :ref:`第十五话 ミーアの決意 <srw4_walkthrough_15_mia_s_decision>`，为战败而位置不保的嘉鲁达挑战コンバトラーV，最终丧命。
 
 精神方面很多辅助精神，很符合休整区指挥官的身份。
 
@@ -1118,7 +1123,7 @@
 
 .. _srw4_pilot_oreana_commentBegin:
 
-奥蕾安娜制造了包括\ :ref:`ガルーダ <srw4_pilot_garuda>`\ （加鲁达）16号、\ :ref:`ミーア <srw4_pilot_miia>`\ （米娅）在内的仿生人。以亲生子女为名欺骗加鲁达，但在过场动画中，加鲁达16号发现其他15具原型机时精神崩溃，被轻描淡写地杀死了。
+奥雷亚娜制造了包括\ :ref:`ガルーダ <srw4_pilot_garuda>`\ （嘉鲁达）16号、\ :ref:`ミーア <srw4_pilot_miia>`\ （米娅）在内的仿生人。以亲生子女为名欺骗嘉鲁达，但在过场动画中，嘉鲁达16号发现其他15具原型机时精神崩溃，被轻描淡写地杀死了。
 
 仅在过场动画中出现，没有设定能力和精神。
 
