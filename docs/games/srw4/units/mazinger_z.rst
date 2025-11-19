@@ -8,6 +8,12 @@
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_units_mazinger_z_commentBegin:
 
 
@@ -21,9 +27,9 @@
 
 .. _srw4_units_mazinger_z_own_commentEnd:
 
-^^^^^^^^^^^^
-マジンガーZ
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+マジンガーZ(魔神Z)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mazinger_z:
 
@@ -50,33 +56,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mazinger Z
+            .. grid-item:: 英文:Mazinger Z。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 1E
+            .. grid-item:: 编码:1E。
                 :columns: auto
 
-            .. grid-item:: 地址 B99FC (266EB)
+            .. grid-item:: 地址 B99FC (266EB)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9A1C (2670B)
+            .. grid-item:: 武器首地址:B9A1C (2670B)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→C陆A海C宇B
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`兜甲児 <srw4_pilot_koji_kabuto>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→C陆A海C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`兜甲児 <srw4_pilot_koji_kabuto>`\ 。
                 :columns: auto
 
 
@@ -157,7 +163,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -254,9 +260,9 @@
 
 .. _srw4_unit_mazinger_z_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-マジンガーZ（JS）
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+マジンガーZ（JS）(飞翼魔神Z)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mazinger_z_js:
 
@@ -283,33 +289,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mazinger Z (JS)
+            .. grid-item:: 英文:Mazinger Z (JS)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第14话
+            .. grid-item:: 登场/加入:第14话。
                 :columns: auto
 
-            .. grid-item:: 编码 1F
+            .. grid-item:: 编码:1F。
                 :columns: auto
 
-            .. grid-item:: 地址 B9A30 (2671F)
+            .. grid-item:: 地址 B9A30 (2671F)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9A50 (2673F)
+            .. grid-item:: 武器首地址:B9A50 (2673F)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B (A)陆A海B宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`兜甲児 <srw4_pilot_koji_kabuto>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B (A)陆A海B宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`兜甲児 <srw4_pilot_koji_kabuto>`\ 。
                 :columns: auto
 
 
@@ -390,7 +396,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -537,9 +543,9 @@
 
 .. _srw4_unit_mazinger_z_js_commentEnd:
 
-^^^^^^^^^^^^
-アフロダイA
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+アフロダイA(阿弗洛蒂A)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_aphrodite_a:
 
@@ -566,33 +572,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Aphrodite A
+            .. grid-item:: 英文:Aphrodite A。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 29
+            .. grid-item:: 编码:29。
                 :columns: auto
 
-            .. grid-item:: 地址 B9C5C (2694B)
+            .. grid-item:: 地址 B9C5C (2694B)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9C7C (2696B)
+            .. grid-item:: 武器首地址:B9C7C (2696B)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海C宇B
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`弓さやか <srw4_pilot_sayaka_yumi>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`弓さやか <srw4_pilot_sayaka_yumi>`\ 。
                 :columns: auto
 
 
@@ -673,7 +679,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -725,9 +731,9 @@
 
 .. _srw4_unit_aphrodite_a_commentEnd:
 
-^^^^^^^^^^^^
-ボスボロット
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ボスボロット(波士机器人)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_boss_borot:
 
@@ -754,33 +760,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Boss Borot
+            .. grid-item:: 英文:Boss Borot。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 2B
+            .. grid-item:: 编码:2B。
                 :columns: auto
 
-            .. grid-item:: 地址 B9CB5 (269A4)
+            .. grid-item:: 地址 B9CB5 (269A4)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9CD5 (269C4)
+            .. grid-item:: 武器首地址:B9CD5 (269C4)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫陆A海D宇🚫→D
+            .. grid-item:: 移动类型:陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ボス <srw4_pilot_boss>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫陆A海D宇🚫→D。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ボス <srw4_pilot_boss>`\ 。
                 :columns: auto
 
 
@@ -861,7 +867,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -931,9 +937,9 @@
 
 .. _srw4_unit_boss_borot_commentEnd:
 
-^^^^^^^^^^^^
-ダイアナンA
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
+ダイアナンA(戴安娜A)
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_diana_a:
 
@@ -960,33 +966,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Diana A
+            .. grid-item:: 英文:Diana A。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第14话
+            .. grid-item:: 登场/加入:第14话。
                 :columns: auto
 
-            .. grid-item:: 编码 2A
+            .. grid-item:: 编码:2A。
                 :columns: auto
 
-            .. grid-item:: 地址 B9C87 (26976)
+            .. grid-item:: 地址 B9C87 (26976)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9CA7 (26996)
+            .. grid-item:: 武器首地址:B9CA7 (26996)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海B→C宇B
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`弓さやか <srw4_pilot_sayaka_yumi>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海B→C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`弓さやか <srw4_pilot_sayaka_yumi>`\ 。
                 :columns: auto
 
 
@@ -1067,7 +1073,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1140,9 +1146,9 @@
 
 .. _srw4_units_mazinger_z_enemy_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-機械獣ダブラスM2
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+機械獣ダブラスM2(机械兽双头龙M2)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mechanical_beast_doublas_m2:
 
@@ -1169,29 +1175,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mechanical Beast Doublas M2
+            .. grid-item:: 英文:Mechanical Beast Doublas M2。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 95
+            .. grid-item:: 编码:95。
                 :columns: auto
 
-            .. grid-item:: 地址 BAF9C (27C8B)
+            .. grid-item:: 地址 BAF9C (27C8B)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAFBC (27CAB)
+            .. grid-item:: 武器首地址:BAFBC (27CAB)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆A海B宇C
+            .. grid-item:: 地形适应:空🚫陆A海B宇C。
                 :columns: auto
 
 
@@ -1269,7 +1275,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1321,9 +1327,9 @@
 
 .. _srw4_unit_mechanical_beast_doublas_m2_commentEnd:
 
-^^^^^^^^^^^^^^^^
-機械獣ガラダK７
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+機械獣ガラダK７(机械兽镰刀兽K7)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mechanical_beast_garada_k7:
 
@@ -1350,29 +1356,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mechanical Beast Garada K7
+            .. grid-item:: 英文:Mechanical Beast Garada K7。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 96
+            .. grid-item:: 编码:96。
                 :columns: auto
 
-            .. grid-item:: 地址 BAFC7 (27CB6)
+            .. grid-item:: 地址 BAFC7 (27CB6)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAFE7 (27CD6)
+            .. grid-item:: 武器首地址:BAFE7 (27CD6)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆A海C宇C
+            .. grid-item:: 地形适应:空🚫陆A海C宇C。
                 :columns: auto
 
 
@@ -1450,7 +1456,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1502,9 +1508,9 @@
 
 .. _srw4_unit_mechanical_beast_garada_k7_commentEnd:
 
-^^^^^^
-グール
-^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+グール(飞行要塞古鲁)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_ghoul:
 
@@ -1531,33 +1537,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Ghoul
+            .. grid-item:: 英文:Ghoul。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 9C
+            .. grid-item:: 编码:9C。
                 :columns: auto
 
-            .. grid-item:: 地址 BB0BA (27DA9)
+            .. grid-item:: 地址 BB0BA (27DA9)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB0DA (27DC9)
+            .. grid-item:: 武器首地址:BB0DA (27DC9)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→D海🚫→C宇🚫→D
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`あしゅら男爵 <srw4_pilot_baron_ashura>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→D海🚫→C宇🚫→D。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`あしゅら男爵 <srw4_pilot_baron_ashura>`\ 。
                 :columns: auto
 
 
@@ -1638,7 +1644,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1707,9 +1713,9 @@
 
 .. _srw4_unit_ghoul_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-機械獣ジェノバM9
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+機械獣ジェノバM9(机械兽热亚那M9)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mechanical_beast_genova_m9:
 
@@ -1736,29 +1742,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mechanical Beast Genova M9
+            .. grid-item:: 英文:Mechanical Beast Genova M9。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第3话
+            .. grid-item:: 登场/加入:第3话。
                 :columns: auto
 
-            .. grid-item:: 编码 99
+            .. grid-item:: 编码:99。
                 :columns: auto
 
-            .. grid-item:: 地址 BB042 (27D31)
+            .. grid-item:: 地址 BB042 (27D31)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB062 (27D51)
+            .. grid-item:: 武器首地址:BB062 (27D51)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆A海C宇B
+            .. grid-item:: 地形适应:空🚫陆A海C宇B。
                 :columns: auto
 
 
@@ -1836,7 +1842,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1875,9 +1881,9 @@
 
 .. _srw4_unit_mechanical_beast_genova_m9_commentEnd:
 
-^^^^^^
-ブード
-^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+ブード(水下要塞布德)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_bood:
 
@@ -1904,33 +1910,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Bood
+            .. grid-item:: 英文:Bood。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第3话
+            .. grid-item:: 登场/加入:第3话。
                 :columns: auto
 
-            .. grid-item:: 编码 9D
+            .. grid-item:: 编码:9D。
                 :columns: auto
 
-            .. grid-item:: 地址 BB0E8 (27DD7)
+            .. grid-item:: 地址 BB0E8 (27DD7)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB108 (27DF7)
+            .. grid-item:: 武器首地址:BB108 (27DF7)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 海
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→C陆🚫→D海A宇🚫→D
+            .. grid-item:: 移动类型:海。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`あしゅら男爵 <srw4_pilot_baron_ashura>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→C陆🚫→D海A宇🚫→D。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`あしゅら男爵 <srw4_pilot_baron_ashura>`\ 。
                 :columns: auto
 
 
@@ -2011,7 +2017,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2076,9 +2082,9 @@
 
 .. _srw4_unit_bood_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-機械獣スパルタンK5
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+機械獣スパルタンK5(机械兽斯巴达人K5)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mechanical_beast_spartan_k5:
 
@@ -2105,29 +2111,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mechanical Beast Spartan K5
+            .. grid-item:: 英文:Mechanical Beast Spartan K5。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第6话
+            .. grid-item:: 登场/加入:第6话。
                 :columns: auto
 
-            .. grid-item:: 编码 9A
+            .. grid-item:: 编码:9A。
                 :columns: auto
 
-            .. grid-item:: 地址 BB06A (27D59)
+            .. grid-item:: 地址 BB06A (27D59)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB08A (27D79)
+            .. grid-item:: 武器首地址:BB08A (27D79)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆A海B宇B
+            .. grid-item:: 地形适应:空🚫陆A海B宇B。
                 :columns: auto
 
 
@@ -2205,7 +2211,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2243,9 +2249,9 @@
 
 .. _srw4_unit_mechanical_beast_spartan_k5_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-機械獣アブドラU6
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+機械獣アブドラU6(机械兽阿卜杜拉U6)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mechanical_beast_abdullah_u6:
 
@@ -2272,29 +2278,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mechanical Beast Abdullah U6
+            .. grid-item:: 英文:Mechanical Beast Abdullah U6。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第6话
+            .. grid-item:: 登场/加入:第6话。
                 :columns: auto
 
-            .. grid-item:: 编码 9B
+            .. grid-item:: 编码:9B。
                 :columns: auto
 
-            .. grid-item:: 地址 BB092 (27D81)
+            .. grid-item:: 地址 BB092 (27D81)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB0B2 (27DA1)
+            .. grid-item:: 武器首地址:BB0B2 (27DA1)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆A海B宇B
+            .. grid-item:: 地形适应:空🚫陆A海B宇B。
                 :columns: auto
 
 
@@ -2372,7 +2378,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2411,9 +2417,9 @@
 
 .. _srw4_unit_mechanical_beast_abdullah_u6_commentEnd:
 
-^^^^^^^^^^
-ラインX1
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+ラインX1(莱茵X1)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_rhine_x1:
 
@@ -2440,29 +2446,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Rhine X1
+            .. grid-item:: 英文:Rhine X1。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第14话
+            .. grid-item:: 登场/加入:第14话。
                 :columns: auto
 
-            .. grid-item:: 编码 98
+            .. grid-item:: 编码:98。
                 :columns: auto
 
-            .. grid-item:: 地址 BB01A (27D09)
+            .. grid-item:: 地址 BB01A (27D09)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB03A (27D29)
+            .. grid-item:: 武器首地址:BB03A (27D29)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆A海A宇B
+            .. grid-item:: 地形适应:空🚫陆A海A宇B。
                 :columns: auto
 
 
@@ -2540,7 +2546,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

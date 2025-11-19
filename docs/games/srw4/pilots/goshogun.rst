@@ -7,6 +7,12 @@
 ======================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_pilots_goshogun_commentBegin:
 
 虽有出场但剧情几乎没有。
@@ -42,15 +48,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_0C.png
 
-    .. grid-item:: 英文:Shingo Hojo
-    .. grid-item:: 登场/加入:第14话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 220
-    .. grid-item:: 编码 0C
-    .. grid-item:: 地址 B7463 (2AC5C)
-    .. grid-item:: 精神地址 B7474(2AC6E)
-    .. grid-item:: 地形适应 空A陆A海C宇B
+    .. grid-item:: 英文:Shingo Hojo。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第14话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:220。
+        :columns: auto
+
+
+    .. grid-item:: 编码:0C。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7463 (2AC5C)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7474(2AC6E)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海C宇B。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ゴーショーグン <srw4_unit_goshogun>`\ (战国魔神)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -170,9 +206,9 @@
 
 .. _srw4_pilot_shingo_hojo_commentEnd:
 
-^^^^^^^^^^
-レミー島田
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+レミー島田(岛田里美)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_remy_shimada:
 
@@ -188,15 +224,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_0D.png
 
-    .. grid-item:: 英文:Remy Shimada
-    .. grid-item:: 登场/加入:第14话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 0D
-    .. grid-item:: 地址 B7484 (2AC7E)
-    .. grid-item:: 精神地址 B7495(2AC90)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Remy Shimada。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第14话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:0D。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7484 (2AC7E)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7495(2AC90)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -301,9 +363,9 @@
 
 .. _srw4_pilot_remy_shimada_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-キリー・ギャグレー
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+キリー・ギャグレー(基利·加古雷)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_killy_gagley:
 
@@ -319,15 +381,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_0E.png
 
-    .. grid-item:: 英文:Killy Gagley
-    .. grid-item:: 登场/加入:第14话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 0E
-    .. grid-item:: 地址 B74A3 (2AC9E)
-    .. grid-item:: 精神地址 B74B4(2ACB0)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Killy Gagley。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第14话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:0E。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B74A3 (2AC9E)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B74B4(2ACB0)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -440,9 +528,9 @@
 
 .. _srw4_pilots_goshogun_enemy_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-レオナルド・メディチ・ブンドル
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+レオナルド・メディチ・ブンドル(里奥纳多·蒙迪奇·本都)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_leonardo_medici_bundle:
 
@@ -458,15 +546,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_B1.png
 
-    .. grid-item:: 英文:Leonardo Medici Bundle
-    .. grid-item:: 登场/加入:第10话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 237
-    .. grid-item:: 编码 B1
-    .. grid-item:: 地址 B87E5 (2C19A)
-    .. grid-item:: 精神地址 B87F6(2C1AC)
-    .. grid-item:: 地形适应 空A陆B海C宇A
+    .. grid-item:: 英文:Leonardo Medici Bundle。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第10话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:237。
+        :columns: auto
+
+
+    .. grid-item:: 编码:B1。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B87E5 (2C19A)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B87F6(2C1AC)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆B海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -574,9 +688,9 @@
 
 .. _srw4_pilot_leonardo_medici_bundle_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-スーグニ・カットナル
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+スーグニ・カットナル(斯格尼·卡特纳尔)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_suegni_cuttnal:
 
@@ -592,15 +706,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_B2.png
 
-    .. grid-item:: 英文:Suegni Cuttnal
-    .. grid-item:: 登场/加入:第10话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 228
-    .. grid-item:: 编码 B2
-    .. grid-item:: 地址 B8804 (2C1BA)
-    .. grid-item:: 精神地址 B8815(2C1CC)
-    .. grid-item:: 地形适应 空B陆A海A宇B
+    .. grid-item:: 英文:Suegni Cuttnal。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第10话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:228。
+        :columns: auto
+
+
+    .. grid-item:: 编码:B2。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8804 (2C1BA)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8815(2C1CC)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海A宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -707,9 +847,9 @@
 
 .. _srw4_pilot_suegni_cuttnal_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-ヤッター・ラ・ケルナグール
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ヤッター・ラ・ケルナグール(雅塔·LA·凯纳古尔)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_yatta_la_kernagul:
 
@@ -725,15 +865,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_B3.png
 
-    .. grid-item:: 英文:Yatta-la Kernagul
-    .. grid-item:: 登场/加入:第10话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 230
-    .. grid-item:: 编码 B3
-    .. grid-item:: 地址 B8823 (2C1DA)
-    .. grid-item:: 精神地址 B8834(2C1EC)
-    .. grid-item:: 地形适应 空A陆A海C宇A
+    .. grid-item:: 英文:Yatta-la Kernagul。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第10话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:230。
+        :columns: auto
+
+
+    .. grid-item:: 编码:B3。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8823 (2C1DA)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8834(2C1EC)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 

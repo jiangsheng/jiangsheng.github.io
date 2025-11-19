@@ -8,6 +8,12 @@
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_units_goshogun_commentBegin:
 
 
@@ -21,9 +27,9 @@
 
 .. _srw4_units_goshogun_own_commentEnd:
 
-^^^^^^^^^^^^^^
-ゴーショーグン
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ゴーショーグン(战国魔神)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_goshogun:
 
@@ -50,33 +56,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Goshogun
+            .. grid-item:: 英文:Goshogun。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第28话
+            .. grid-item:: 登场/加入:第28话。
                 :columns: auto
 
-            .. grid-item:: 编码 42
+            .. grid-item:: 编码:42。
                 :columns: auto
 
-            .. grid-item:: 地址 BA13A (26E29)
+            .. grid-item:: 地址 BA13A (26E29)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA15A (26E49)
+            .. grid-item:: 武器首地址:BA15A (26E49)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆B海D宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`北条真吾 <srw4_pilot_shingo_hojo>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆B海D宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`北条真吾 <srw4_pilot_shingo_hojo>`\ 。
                 :columns: auto
 
 
@@ -157,7 +163,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -269,9 +275,9 @@
 
 .. _srw4_units_goshogun_enemy_commentEnd:
 
-^^^^^^^^^^
-ブンドル艦
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+ブンドル艦(本都舰)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_bundle_ship:
 
@@ -298,40 +304,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Bundle ship
+            .. grid-item:: 英文:Bundle ship。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第10话
+            .. grid-item:: 登场/加入:第10话。
                 :columns: auto
 
-            .. grid-item:: 编码 C9
+            .. grid-item:: 编码:C9。
                 :columns: auto
 
-            .. grid-item:: 地址 BB850 (2853F)
+            .. grid-item:: 地址 BB850 (2853F)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB870 (2855F)
+            .. grid-item:: 武器首地址:BB870 (2855F)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→D海🚫→D宇B
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`レオナルド・メディチ・ブンドル <srw4_pilot_leonardo_medici_bundle>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→D海🚫→D宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`レオナルド・メディチ・ブンドル <srw4_pilot_leonardo_medici_bundle>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B1.png
                 :columns: auto
 
-            .. grid-item:: Iフィールド
+            .. grid-item:: 技能: Iフィールド。
                 :columns: auto
 
 
@@ -409,7 +415,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -473,9 +479,9 @@
 
 .. _srw4_unit_bundle_ship_commentEnd:
 
-^^^^^^^^^^^^
-カットナル艦
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+カットナル艦(卡特纳尔舰)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_cuttnal_ship:
 
@@ -502,40 +508,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Cuttnal ship
+            .. grid-item:: 英文:Cuttnal ship。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第10话
+            .. grid-item:: 登场/加入:第10话。
                 :columns: auto
 
-            .. grid-item:: 编码 CA
+            .. grid-item:: 编码:CA。
                 :columns: auto
 
-            .. grid-item:: 地址 BB87E (2856D)
+            .. grid-item:: 地址 BB87E (2856D)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB89E (2858D)
+            .. grid-item:: 武器首地址:BB89E (2858D)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A→B陆🚫→C海🚫→C宇B
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`スーグニ・カットナル <srw4_pilot_suegni_cuttnal>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A→B陆🚫→C海🚫→C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`スーグニ・カットナル <srw4_pilot_suegni_cuttnal>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B2.png
                 :columns: auto
 
-            .. grid-item:: Iフィールド
+            .. grid-item:: 技能: Iフィールド。
                 :columns: auto
 
 
@@ -613,7 +619,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -677,9 +683,9 @@
 
 .. _srw4_unit_cuttnal_ship_commentEnd:
 
-^^^^^^^^^^^^^^
-ケルナグール艦
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ケルナグール艦(克鲁纳古鲁舰)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_kernagul_ship:
 
@@ -706,40 +712,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Kernagul ship
+            .. grid-item:: 英文:Kernagul ship。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第10话
+            .. grid-item:: 登场/加入:第10话。
                 :columns: auto
 
-            .. grid-item:: 编码 CB
+            .. grid-item:: 编码:CB。
                 :columns: auto
 
-            .. grid-item:: 地址 BB8AC (2859B)
+            .. grid-item:: 地址 BB8AC (2859B)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB8CC (285BB)
+            .. grid-item:: 武器首地址:BB8CC (285BB)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→C海🚫→D宇B
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ヤッター・ラ・ケルナグール <srw4_pilot_yatta_la_kernagul>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→C海🚫→D宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ヤッター・ラ・ケルナグール <srw4_pilot_yatta_la_kernagul>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B3.png
                 :columns: auto
 
-            .. grid-item:: Iフィールド
+            .. grid-item:: 技能: Iフィールド。
                 :columns: auto
 
 
@@ -817,7 +823,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -881,9 +887,9 @@
 
 .. _srw4_unit_kernagul_ship_commentEnd:
 
-^^^^^^^^^^^^
-ゴーナグール
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
+ゴーナグール(哥纳古鲁)
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_gonagurl:
 
@@ -910,29 +916,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Gonagurl
+            .. grid-item:: 英文:Gonagurl。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第28话
+            .. grid-item:: 登场/加入:第28话。
                 :columns: auto
 
-            .. grid-item:: 编码 CC
+            .. grid-item:: 编码:CC。
                 :columns: auto
 
-            .. grid-item:: 地址 BB8DA (285C9)
+            .. grid-item:: 地址 BB8DA (285C9)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB8FA (285E9)
+            .. grid-item:: 武器首地址:BB8FA (285E9)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆A海C宇B
+            .. grid-item:: 地形适应:空A陆A海C宇B。
                 :columns: auto
 
 
@@ -1010,7 +1016,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1048,9 +1054,9 @@
 
 .. _srw4_unit_gonagurl_commentEnd:
 
-^^^^^^^^^^^^
-ゴッドネロス
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+ゴッドネロス(暗黑神)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_god_neros:
 
@@ -1077,26 +1083,26 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:God Neros
+            .. grid-item:: 英文:God Neros。
                 :columns: auto
 
-            .. grid-item:: 编码 52
+            .. grid-item:: 编码:52。
                 :columns: auto
 
-            .. grid-item:: 地址 BA3E9 (270D8)
+            .. grid-item:: 地址 BA3E9 (270D8)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA409 (270F8)
+            .. grid-item:: 武器首地址:BA409 (270F8)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 LL
+            .. grid-item:: 大小 LL。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆A海D宇B
+            .. grid-item:: 地形适应:空🚫陆A海D宇B。
                 :columns: auto
 
 
@@ -1174,7 +1180,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

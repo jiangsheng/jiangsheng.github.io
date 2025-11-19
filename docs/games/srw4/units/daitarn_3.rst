@@ -8,6 +8,12 @@
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_units_daitarn_3_commentBegin:
 
 
@@ -22,9 +28,9 @@
 
 .. _srw4_units_daitarn_3_own_commentEnd:
 
-^^^^^^^^^^^^
-ダイターン3
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+ダイターン3(泰坦3)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_daitarn_3:
 
@@ -51,40 +57,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Daitarn 3
+            .. grid-item:: 英文:Daitarn 3。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第18话
+            .. grid-item:: 登场/加入:第18话。
                 :columns: auto
 
-            .. grid-item:: 编码 37
+            .. grid-item:: 编码:37。
                 :columns: auto
 
-            .. grid-item:: 地址 B9F2A (26C19)
+            .. grid-item:: 地址 B9F2A (26C19)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9F4A (26C39)
+            .. grid-item:: 武器首地址:B9F4A (26C39)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海C→B宇A
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`破嵐万丈 <srw4_pilot_banjo_haran>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海C→B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`破嵐万丈 <srw4_pilot_banjo_haran>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_6A.png
                 :columns: auto
 
-            .. grid-item:: 剣装備
+            .. grid-item:: 技能: 剣装備。
                 :columns: auto
 
 
@@ -162,7 +168,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -279,9 +285,9 @@
 
 .. _srw4_unit_daitarn_3_commentEnd:
 
-^^^^^^^^^^^^^^
-ダイファイター
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ダイファイター(泰坦战机)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_dai_fighter:
 
@@ -308,33 +314,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Dai Fighter
+            .. grid-item:: 英文:Dai Fighter。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第18话
+            .. grid-item:: 登场/加入:第18话。
                 :columns: auto
 
-            .. grid-item:: 编码 38
+            .. grid-item:: 编码:38。
                 :columns: auto
 
-            .. grid-item:: 地址 B9F64 (26C53)
+            .. grid-item:: 地址 B9F64 (26C53)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9F84 (26C73)
+            .. grid-item:: 武器首地址:B9F84 (26C73)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→C海🚫→C宇A
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`破嵐万丈 <srw4_pilot_banjo_haran>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→C海🚫→C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`破嵐万丈 <srw4_pilot_banjo_haran>`\ 。
                 :columns: auto
 
 
@@ -415,7 +421,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -479,9 +485,9 @@
 
 .. _srw4_unit_dai_fighter_commentEnd:
 
-^^^^^^^^^^
-ダイタンク
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+ダイタンク(泰坦战车)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_dai_tank:
 
@@ -508,33 +514,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Dai Tank
+            .. grid-item:: 英文:Dai Tank。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第18话
+            .. grid-item:: 登场/加入:第18话。
                 :columns: auto
 
-            .. grid-item:: 编码 39
+            .. grid-item:: 编码:39。
                 :columns: auto
 
-            .. grid-item:: 地址 B9F92 (26C81)
+            .. grid-item:: 地址 B9F92 (26C81)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9FB2 (26CA1)
+            .. grid-item:: 武器首地址:B9FB2 (26CA1)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 水陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→C陆A海A宇C→B
+            .. grid-item:: 移动类型:水陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`破嵐万丈 <srw4_pilot_banjo_haran>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→C陆A海A宇C→B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`破嵐万丈 <srw4_pilot_banjo_haran>`\ 。
                 :columns: auto
 
 
@@ -615,7 +621,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

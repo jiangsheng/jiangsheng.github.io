@@ -8,6 +8,12 @@
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_units_heavy_metal_l_gaim_commentBegin:
 
 和优秀的人物对应的，重战机系机体通常比较弱。ビームコート只在初期比较让人困扰。后期有了地图武器那更加不是问题。但是地形适应优秀，又有光线防御，后期潜力相当可观。
@@ -23,9 +29,9 @@
 
 .. _srw4_units_heavy_metal_l_gaim_own_commentEnd:
 
-^^^^^^^^^^
-エルガイム
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+エルガイム(艾尔盖姆)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_l_gaim:
 
@@ -52,40 +58,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:L-Gaim
+            .. grid-item:: 英文:L-Gaim。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第2话
+            .. grid-item:: 登场/加入:第2话。
                 :columns: auto
 
-            .. grid-item:: 编码 ED
+            .. grid-item:: 编码:ED。
                 :columns: auto
 
-            .. grid-item:: 地址 BBECB (28BBA)
+            .. grid-item:: 地址 BBECB (28BBA)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBEEB (28BDA)
+            .. grid-item:: 武器首地址:BBEEB (28BDA)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海D→C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ダバ・マイロード <srw4_pilot_daba_myroad>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海D→C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ダバ・マイロード <srw4_pilot_daba_myroad>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D2.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備, ビームコート
+            .. grid-item:: 技能: 盾装備、剣装備、ビームコート。
                 :columns: auto
 
 
@@ -163,7 +169,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -228,9 +234,9 @@
 
 .. _srw4_unit_l_gaim_commentEnd:
 
-^^^^^^^^^^
-ディザード
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+ディザード(迪扎德)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_d_sserd:
 
@@ -257,40 +263,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:D-Sserd
+            .. grid-item:: 英文:D-Sserd。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第2话
+            .. grid-item:: 登场/加入:第2话。
                 :columns: auto
 
-            .. grid-item:: 编码 F0
+            .. grid-item:: 编码:F0。
                 :columns: auto
 
-            .. grid-item:: 地址 BBF58 (28C47)
+            .. grid-item:: 地址 BBF58 (28C47)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBF78 (28C67)
+            .. grid-item:: 武器首地址:BBF78 (28C67)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海D→D (C)宇B
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ファンネリア・アム <srw4_pilot_fanaria_amm>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海D→D (C)宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ファンネリア・アム <srw4_pilot_fanaria_amm>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D5.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備, ビームコート
+            .. grid-item:: 技能: 盾装備、剣装備、ビームコート。
                 :columns: auto
 
 
@@ -368,7 +374,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -433,9 +439,9 @@
 
 .. _srw4_unit_d_sserd_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-カルバリーテンプル
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+カルバリーテンプル(灾厄神殿)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_calvary_temple:
 
@@ -462,40 +468,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Calvary Temple
+            .. grid-item:: 英文:Calvary Temple。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第8话
+            .. grid-item:: 登场/加入:第8话。
                 :columns: auto
 
-            .. grid-item:: 编码 F4
+            .. grid-item:: 编码:F4。
                 :columns: auto
 
-            .. grid-item:: 地址 BC01C (28D0B)
+            .. grid-item:: 地址 BC01C (28D0B)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC03C (28D2B)
+            .. grid-item:: 武器首地址:BC03C (28D2B)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海D→C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ガウ・ハ・レッシィ <srw4_pilot_gaw_ha_leccee>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海D→C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ガウ・ハ・レッシィ <srw4_pilot_gaw_ha_leccee>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D3.png
                 :columns: auto
 
-            .. grid-item:: 剣装備, ビームコート
+            .. grid-item:: 技能: 剣装備、ビームコート。
                 :columns: auto
 
 
@@ -573,7 +579,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -625,9 +631,9 @@
 
 .. _srw4_unit_calvary_temple_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^
-エルガイム Mk-II
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+エルガイム Mk-II(艾尔盖姆 Mk-II)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_l_gaim_mk_ii:
 
@@ -654,40 +660,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:L-Gaim Mk-II
+            .. grid-item:: 英文:L-Gaim Mk-II。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第25话
+            .. grid-item:: 登场/加入:第25话。
                 :columns: auto
 
-            .. grid-item:: 编码 EE
+            .. grid-item:: 编码:EE。
                 :columns: auto
 
-            .. grid-item:: 地址 BBEF9 (28BE8)
+            .. grid-item:: 地址 BBEF9 (28BE8)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBF19 (28C08)
+            .. grid-item:: 武器首地址:BBF19 (28C08)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海C→B宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ダバ・マイロード <srw4_pilot_daba_myroad>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海C→B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ダバ・マイロード <srw4_pilot_daba_myroad>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D2.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備, ビームコート
+            .. grid-item:: 技能: 盾装備、剣装備、ビームコート。
                 :columns: auto
 
 
@@ -765,7 +771,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -856,9 +862,9 @@
 
 .. _srw4_unit_l_gaim_mk_ii_commentEnd:
 
-^^^^^^^^^^
-プローラー
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+プローラー(普罗拉)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_prowler:
 
@@ -885,40 +891,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Prowler
+            .. grid-item:: 英文:Prowler。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第25话
+            .. grid-item:: 登场/加入:第25话。
                 :columns: auto
 
-            .. grid-item:: 编码 EF
+            .. grid-item:: 编码:EF。
                 :columns: auto
 
-            .. grid-item:: 地址 BBF2D (28C1C)
+            .. grid-item:: 地址 BBF2D (28C1C)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBF4D (28C3C)
+            .. grid-item:: 武器首地址:BBF4D (28C3C)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A→B陆🚫→C海🚫→C宇A
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ダバ・マイロード <srw4_pilot_daba_myroad>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A→B陆🚫→C海🚫→C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ダバ・マイロード <srw4_pilot_daba_myroad>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D2.png
                 :columns: auto
 
-            .. grid-item:: ビームコート
+            .. grid-item:: 技能: ビームコート。
                 :columns: auto
 
 
@@ -996,7 +1002,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1048,9 +1054,9 @@
 
 .. _srw4_unit_prowler_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-ヌーベルディザード
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ヌーベルディザード(新迪扎德)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_novel_d_sserd:
 
@@ -1077,40 +1083,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Novel D-Sserd
+            .. grid-item:: 英文:Novel D-Sserd。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第25话
+            .. grid-item:: 登场/加入:第25话。
                 :columns: auto
 
-            .. grid-item:: 编码 10E
+            .. grid-item:: 编码:10E。
                 :columns: auto
 
-            .. grid-item:: 地址 BC423 (2910F)
+            .. grid-item:: 地址 BC423 (2910F)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC443 (2912F)
+            .. grid-item:: 武器首地址:BC443 (2912F)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海C→B宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ガウ・ハ・レッシィ <srw4_pilot_gaw_ha_leccee>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海C→B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ガウ・ハ・レッシィ <srw4_pilot_gaw_ha_leccee>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D3.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備, ビームコート
+            .. grid-item:: 技能: 盾装備、剣装備、ビームコート。
                 :columns: auto
 
 
@@ -1188,7 +1194,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1240,9 +1246,9 @@
 
 .. _srw4_unit_novel_d_sserd_commentEnd:
 
-^^^^^^^^^^^^^^^^
-アシュラテンプル
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+アシュラテンプル(阿修罗神殿)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_ashura_temple:
 
@@ -1269,40 +1275,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Ashura Temple
+            .. grid-item:: 英文:Ashura Temple。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第38话
+            .. grid-item:: 登场/加入:第38话。
                 :columns: auto
 
-            .. grid-item:: 编码 F3
+            .. grid-item:: 编码:F3。
                 :columns: auto
 
-            .. grid-item:: 地址 BBFE8 (28CD7)
+            .. grid-item:: 地址 BBFE8 (28CD7)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC008 (28CF7)
+            .. grid-item:: 武器首地址:BC008 (28CF7)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ギャブレット・ギャブレー <srw4_pilot_gavlet_gablae>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ギャブレット・ギャブレー <srw4_pilot_gavlet_gablae>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D7.png
                 :columns: auto
 
-            .. grid-item:: 剣装備, ビームコート
+            .. grid-item:: 技能: 剣装備、ビームコート。
                 :columns: auto
 
 
@@ -1380,7 +1386,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1482,9 +1488,9 @@
 
 .. _srw4_units_heavy_metal_l_gaim_enemy_commentEnd:
 
-^^^^^^^^
-バッシュ
-^^^^^^^^
+^^^^^^^^^^^^^^^^
+バッシュ(巴修)
+^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_bat_shu:
 
@@ -1511,40 +1517,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Bat-Shu
+            .. grid-item:: 英文:Bat-Shu。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第3话
+            .. grid-item:: 登场/加入:第3话。
                 :columns: auto
 
-            .. grid-item:: 编码 F5
+            .. grid-item:: 编码:F5。
                 :columns: auto
 
-            .. grid-item:: 地址 BC047 (28D36)
+            .. grid-item:: 地址 BC047 (28D36)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC067 (28D56)
+            .. grid-item:: 武器首地址:BC067 (28D56)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海D宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_DD.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備, ビームコート
+            .. grid-item:: 技能: 盾装備、剣装備、ビームコート。
                 :columns: auto
 
 
@@ -1622,7 +1628,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1727,9 +1733,9 @@
 
 .. _srw4_unit_bat_shu_commentEnd:
 
-^^^^^^^^
-グルーン
-^^^^^^^^
+^^^^^^^^^^^^^^^^
+グルーン(古伦)
+^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_g_roon:
 
@@ -1756,33 +1762,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:G Roon
+            .. grid-item:: 英文:G Roon。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第3话
+            .. grid-item:: 登场/加入:第3话。
                 :columns: auto
 
-            .. grid-item:: 编码 F7
+            .. grid-item:: 编码:F7。
                 :columns: auto
 
-            .. grid-item:: 地址 BC0A9 (28D98)
+            .. grid-item:: 地址 BC0A9 (28D98)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC0C9 (28DB8)
+            .. grid-item:: 武器首地址:BC0C9 (28DB8)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫陆A海D宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 剣装備, ビームコート
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫陆A海D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 技能: 剣装備、ビームコート。
                 :columns: auto
 
 
@@ -1860,7 +1866,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1938,9 +1944,9 @@
 
 .. _srw4_unit_g_roon_commentEnd:
 
-^^^^^^^^
-アローン
-^^^^^^^^
+^^^^^^^^^^^^^^^^
+アローン(亚隆)
+^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_arorne:
 
@@ -1967,33 +1973,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Arorne
+            .. grid-item:: 英文:Arorne。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第3话
+            .. grid-item:: 登场/加入:第3话。
                 :columns: auto
 
-            .. grid-item:: 编码 FB
+            .. grid-item:: 编码:FB。
                 :columns: auto
 
-            .. grid-item:: 地址 BC13C (28E2B)
+            .. grid-item:: 地址 BC13C (28E2B)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC15C (28E4B)
+            .. grid-item:: 武器首地址:BC15C (28E4B)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫陆A海D宇C
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 盾装備, 剣装備, ビームコート
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫陆A海D宇C。
+                :columns: auto
+
+
+            .. grid-item:: 技能: 盾装備、剣装備、ビームコート。
                 :columns: auto
 
 
@@ -2071,7 +2077,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2110,9 +2116,9 @@
 
 .. _srw4_unit_arorne_commentEnd:
 
-^^^^^^^^
-グライア
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+グライア(格莱亚)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_greia:
 
@@ -2139,40 +2145,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Greia
+            .. grid-item:: 英文:Greia。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第3话
+            .. grid-item:: 登场/加入:第3话。
                 :columns: auto
 
-            .. grid-item:: 编码 11D
+            .. grid-item:: 编码:11D。
                 :columns: auto
 
-            .. grid-item:: 地址 BC6B7 (293A3)
+            .. grid-item:: 地址 BC6B7 (293A3)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC6D7 (293C3)
+            .. grid-item:: 武器首地址:BC6D7 (293C3)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆B海D→C宇C
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ハッシャ・モッシャ <srw4_pilot__hasha_moja>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆B海D→C宇C。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ハッシャ・モッシャ <srw4_pilot__hasha_moja>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D6.png
                 :columns: auto
 
-            .. grid-item:: 剣装備
+            .. grid-item:: 技能: 剣装備。
                 :columns: auto
 
 
@@ -2250,7 +2256,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2288,9 +2294,9 @@
 
 .. _srw4_unit_greia_commentEnd:
 
-^^^^^^^^
-オージェ
-^^^^^^^^
+^^^^^^^^^^^^^^^^
+オージェ(奥杰)
+^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_auger:
 
@@ -2317,40 +2323,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Auger
+            .. grid-item:: 英文:Auger。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第8话
+            .. grid-item:: 登场/加入:第8话。
                 :columns: auto
 
-            .. grid-item:: 编码 F1
+            .. grid-item:: 编码:F1。
                 :columns: auto
 
-            .. grid-item:: 地址 BBF86 (28C75)
+            .. grid-item:: 地址 BBF86 (28C75)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBFA6 (28C95)
+            .. grid-item:: 武器首地址:BBFA6 (28C95)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→C陆B海D宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ネイ・モー・ハン <srw4_pilot_nei_mo_han>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→C陆B海D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ネイ・モー・ハン <srw4_pilot_nei_mo_han>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_DA.png
                 :columns: auto
 
-            .. grid-item:: 剣装備, ビームコート
+            .. grid-item:: 技能: 剣装備、ビームコート。
                 :columns: auto
 
 
@@ -2428,7 +2434,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2493,9 +2499,9 @@
 
 .. _srw4_unit_auger_commentEnd:
 
-^^^^^^^^
-アトール
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+アトール(亚托鲁)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_a_taul:
 
@@ -2522,33 +2528,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:A Taul
+            .. grid-item:: 英文:A Taul。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第8话
+            .. grid-item:: 登场/加入:第8话。
                 :columns: auto
 
-            .. grid-item:: 编码 F6
+            .. grid-item:: 编码:F6。
                 :columns: auto
 
-            .. grid-item:: 地址 BC07E (28D6D)
+            .. grid-item:: 地址 BC07E (28D6D)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC09E (28D8D)
+            .. grid-item:: 武器首地址:BC09E (28D8D)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫陆A海D宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 盾装備, 剣装備, ビームコート
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫陆A海D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 技能: 盾装備、剣装備、ビームコート。
                 :columns: auto
 
 
@@ -2626,7 +2632,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2677,9 +2683,9 @@
 
 .. _srw4_unit_a_taul_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ブラッドテンプル
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ブラッドテンプル(血光神殿)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_blood_temple:
 
@@ -2706,40 +2712,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Blood Temple
+            .. grid-item:: 英文:Blood Temple。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第42话
+            .. grid-item:: 登场/加入:第42话。
                 :columns: auto
 
-            .. grid-item:: 编码 50
+            .. grid-item:: 编码:50。
                 :columns: auto
 
-            .. grid-item:: 地址 BA3B5 (270A4)
+            .. grid-item:: 地址 BA3B5 (270A4)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA3D5 (270C4)
+            .. grid-item:: 武器首地址:BA3D5 (270C4)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→C陆A海C→B宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`アマンダラ・カマンダラ <srw4_pilot_amandara_kamandara>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→C陆A海C→B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`アマンダラ・カマンダラ <srw4_pilot_amandara_kamandara>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D8.png
                 :columns: auto
 
-            .. grid-item:: 剣装備, EN恢復, HP恢復(大), ビームコート
+            .. grid-item:: 技能: 剣装備、EN恢復、HP恢復(大)、ビームコート。
                 :columns: auto
 
 
@@ -2817,7 +2823,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2907,9 +2913,9 @@
 
 .. _srw4_unit_blood_temple_commentEnd:
 
-^^^^^^
-オージ
-^^^^^^
+^^^^^^^^^^^^^^
+オージ(奥津)
+^^^^^^^^^^^^^^
 
 .. _srw4_unit_auge:
 
@@ -2936,40 +2942,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Auge
+            .. grid-item:: 英文:Auge。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第42话
+            .. grid-item:: 登场/加入:第42话。
                 :columns: auto
 
-            .. grid-item:: 编码 F2
+            .. grid-item:: 编码:F2。
                 :columns: auto
 
-            .. grid-item:: 地址 BBFB4 (28CA3)
+            .. grid-item:: 地址 BBFB4 (28CA3)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBFD4 (28CC3)
+            .. grid-item:: 武器首地址:BBFD4 (28CC3)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→C陆A海C→B宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`オルドナ・ポセイダル <srw4_pilot_oldna_poseidal>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→C陆A海C→B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`オルドナ・ポセイダル <srw4_pilot_oldna_poseidal>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D9.png
                 :columns: auto
 
-            .. grid-item:: 剣装備, HP恢復(小), 激怒/自爆/てかげん無効, ビームコート
+            .. grid-item:: 技能: 剣装備、HP恢復(小)、激怒/自爆/てかげん無効、ビームコート。
                 :columns: auto
 
 
@@ -3047,7 +3053,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -3145,9 +3151,9 @@
 
 .. _srw4_units_heavy_metal_l_gaim_dead_data_commentEnd:
 
-^^^^^^^^^^
-アトールV
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+アトールV(亚托鲁V)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_a_taul_v:
 
@@ -3174,26 +3180,26 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:A Taul V
+            .. grid-item:: 英文:A Taul V。
                 :columns: auto
 
-            .. grid-item:: 编码 51
+            .. grid-item:: 编码:51。
                 :columns: auto
 
-            .. grid-item:: 地址 BA3E9 (270D8)
+            .. grid-item:: 地址 BA3E9 (270D8)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA409 (270F8)
+            .. grid-item:: 武器首地址:BA409 (270F8)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 LL
+            .. grid-item:: 大小 LL。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆A海D宇B
+            .. grid-item:: 地形适应:空🚫陆A海D宇B。
                 :columns: auto
 
 
@@ -3271,7 +3277,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -3325,9 +3331,9 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
 
 .. _srw4_unit_a_taul_v_commentEnd:
 
-^^^^^^^^
-サロンズ
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+サロンズ(沙龙兹)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_salonz:
 
@@ -3352,30 +3358,30 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
             :padding: 0
 
 
-            .. grid-item:: 英文:Salonz
+            .. grid-item:: 英文:Salonz。
                 :columns: auto
 
-            .. grid-item:: 编码 F8
+            .. grid-item:: 编码:F8。
                 :columns: auto
 
-            .. grid-item:: 地址 BC0DA (28DC9)
+            .. grid-item:: 地址 BC0DA (28DC9)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC0FA (28DE9)
+            .. grid-item:: 武器首地址:BC0FA (28DE9)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫陆A (🚫)海🚫宇🚫
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: ビームコート
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫陆A (🚫)海🚫宇🚫。
+                :columns: auto
+
+
+            .. grid-item:: 技能: ビームコート。
                 :columns: auto
 
 
@@ -3453,7 +3459,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -3543,9 +3549,9 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
 
 .. _srw4_unit_salonz_commentEnd:
 
-^^^^^^^^
-ガイラム
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+ガイラム(盖拉姆)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_gayrahm:
 
@@ -3570,30 +3576,30 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
             :padding: 0
 
 
-            .. grid-item:: 英文:Gayrahm
+            .. grid-item:: 英文:Gayrahm。
                 :columns: auto
 
-            .. grid-item:: 编码 101
+            .. grid-item:: 编码:101。
                 :columns: auto
 
-            .. grid-item:: 地址 BC1EB (28ED7)
+            .. grid-item:: 地址 BC1EB (28ED7)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC20B (28EF7)
+            .. grid-item:: 武器首地址:BC20B (28EF7)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫陆A海C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: ビームコート
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫陆A海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 技能: ビームコート。
                 :columns: auto
 
 
@@ -3671,7 +3677,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

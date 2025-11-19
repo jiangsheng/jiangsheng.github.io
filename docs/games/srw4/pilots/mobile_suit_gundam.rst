@@ -1,11 +1,17 @@
 .. meta::
-   :description: 機動戦士ガンダム}登场人物 ブライト・ノア, アムロ・レイ, ハヤト・コバヤシ, マチルダ・アジャン, セイラ・マス(没), ワッケイン(没), ティアンム提督(没), ララァ・スン, ガデム, ランバ・ラル, クラウレ・ハモン, クランプ, ガイア, マッシュ, オルテガ, シャリア・ブル 
+   :description: 機動戦士ガンダム}登场人物 ブライト・ノア, アムロ・レイ, ハヤト・コバヤシ, マチルダ・アジャン, セイラ・マス, ワッケイン, ティアンム提督, ララァ・スン, ガデム, ランバ・ラル, クラウレ・ハモン, クランプ, ガイア, マッシュ, オルテガ, シャリア・ブル 
 .. _srw4_pilots_mobile_suit_gundam:
 
 ========================
 機動戦士ガンダム登场人物
 ========================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
+
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
 
 .. _srw4_pilots_mobile_suit_gundam_commentBegin:
 
@@ -20,9 +26,9 @@
 
 .. _srw4_pilots_mobile_suit_gundam_own_commentEnd:
 
-^^^^^^^^^^^^
-アムロ・レイ
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+アムロ・レイ(阿姆罗·雷)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_amuro_ray:
 
@@ -38,15 +44,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_50.png
 
-    .. grid-item:: 英文:Amuro Ray
-    .. grid-item:: 登场/加入:第1话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 75
-    .. grid-item:: EXP: 255
-    .. grid-item:: 编码 50
-    .. grid-item:: 地址 B7C8B (2B542)
-    .. grid-item:: 精神地址 B7C9C(2B554)
-    .. grid-item:: 地形适应 空B陆A海B宇A
+    .. grid-item:: 英文:Amuro Ray。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第1话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:75。
+        :columns: auto
+
+
+    .. grid-item:: EXP:255。
+        :columns: auto
+
+
+    .. grid-item:: 编码:50。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7C8B (2B542)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7C9C(2B554)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -174,9 +206,9 @@
 
 .. _srw4_pilot_amuro_ray_commentEnd:
 
-^^^^^^^^^^^^^^
-ブライト・ノア
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ブライト・ノア(布莱德·诺亚)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_bright_noah:
 
@@ -192,15 +224,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_21.png
 
-    .. grid-item:: 英文:Bright Noah
-    .. grid-item:: 登场/加入:第5话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 220
-    .. grid-item:: 编码 21
-    .. grid-item:: 地址 B7704 (2AF30)
-    .. grid-item:: 精神地址 B7715(2AF42)
-    .. grid-item:: 地形适应 空A陆C海C宇A
+    .. grid-item:: 英文:Bright Noah。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第5话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:220。
+        :columns: auto
+
+
+    .. grid-item:: 编码:21。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7704 (2AF30)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7715(2AF42)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆C海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -321,9 +379,9 @@
 
 .. _srw4_pilots_mobile_suit_gundam_enemy_commentEnd:
 
-^^^^^^^^
-クランプ
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+クランプ(克兰普)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_clamp:
 
@@ -339,15 +397,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_7A.png
 
-    .. grid-item:: 英文:Clamp
-    .. grid-item:: 登场/加入:第4话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 176
-    .. grid-item:: 编码 7A
-    .. grid-item:: 地址 B815B (2BA92)
-    .. grid-item:: 精神地址 B816C(2BAA4)
-    .. grid-item:: 地形适应 空D陆B海B宇A
+    .. grid-item:: 英文:Clamp。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第4话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:176。
+        :columns: auto
+
+
+    .. grid-item:: 编码:7A。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B815B (2BA92)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B816C(2BAA4)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空D陆B海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -454,9 +538,9 @@
 
 .. _srw4_pilot_clamp_commentEnd:
 
-^^^^^^^^^^^^
-ランバ・ラル
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ランバ・ラル(兰巴·拉尔)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_lamba_ral:
 
@@ -472,15 +556,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_78.png
 
-    .. grid-item:: 英文:Lamba Ral
-    .. grid-item:: 登场/加入:第5话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 238
-    .. grid-item:: 编码 78
-    .. grid-item:: 地址 B8121 (2BA56)
-    .. grid-item:: 精神地址 B8132(2BA68)
-    .. grid-item:: 地形适应 空B陆A海B宇A
+    .. grid-item:: 英文:Lamba Ral。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第5话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:238。
+        :columns: auto
+
+
+    .. grid-item:: 编码:78。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8121 (2BA56)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8132(2BA68)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -587,9 +697,9 @@
 
 .. _srw4_pilot_lamba_ral_commentEnd:
 
-^^^^^^
-ガイア
-^^^^^^
+^^^^^^^^^^^^^^
+ガイア(盖亚)
+^^^^^^^^^^^^^^
 
 .. _srw4_pilot_gaia:
 
@@ -605,15 +715,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_7B.png
 
-    .. grid-item:: 英文:Gaia
-    .. grid-item:: 登场/加入:第10话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 196
-    .. grid-item:: 编码 7B
-    .. grid-item:: 地址 B8176 (2BAAE)
-    .. grid-item:: 精神地址 B8187(2BAC0)
-    .. grid-item:: 地形适应 空C陆A海C宇A
+    .. grid-item:: 英文:Gaia。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第10话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:196。
+        :columns: auto
+
+
+    .. grid-item:: 编码:7B。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8176 (2BAAE)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8187(2BAC0)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆A海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -718,9 +854,9 @@
 
 .. _srw4_pilot_gaia_commentEnd:
 
-^^^^^^^^
-マッシュ
-^^^^^^^^
+^^^^^^^^^^^^^^^^
+マッシュ(马修)
+^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_mash:
 
@@ -736,15 +872,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_7C.png
 
-    .. grid-item:: 英文:Mash
-    .. grid-item:: 登场/加入:第10话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 194
-    .. grid-item:: 编码 7C
-    .. grid-item:: 地址 B8195 (2BACE)
-    .. grid-item:: 精神地址 B81A6(2BAE0)
-    .. grid-item:: 地形适应 空C陆A海C宇A
+    .. grid-item:: 英文:Mash。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第10话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:194。
+        :columns: auto
+
+
+    .. grid-item:: 编码:7C。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8195 (2BACE)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B81A6(2BAE0)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆A海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -849,9 +1011,9 @@
 
 .. _srw4_pilot_mash_commentEnd:
 
-^^^^^^^^
-オルテガ
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+オルテガ(奥特加)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_ortega:
 
@@ -867,15 +1029,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_7D.png
 
-    .. grid-item:: 英文:Ortega
-    .. grid-item:: 登场/加入:第10话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 194
-    .. grid-item:: 编码 7D
-    .. grid-item:: 地址 B81B4 (2BAEE)
-    .. grid-item:: 精神地址 B81C5(2BB00)
-    .. grid-item:: 地形适应 空C陆A海C宇A
+    .. grid-item:: 英文:Ortega。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第10话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:194。
+        :columns: auto
+
+
+    .. grid-item:: 编码:7D。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B81B4 (2BAEE)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B81C5(2BB00)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆A海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -981,9 +1169,9 @@
 
 .. _srw4_pilot_ortega_commentEnd:
 
-^^^^^^
-ガデム
-^^^^^^
+^^^^^^^^^^^^^^^^
+ガデム(加德姆)
+^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_gadem:
 
@@ -999,15 +1187,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_77.png
 
-    .. grid-item:: 英文:Gadem
-    .. grid-item:: 登场/加入:第20话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 194
-    .. grid-item:: 编码 77
-    .. grid-item:: 地址 B8106 (2BA3A)
-    .. grid-item:: 精神地址 B8117(2BA4C)
-    .. grid-item:: 地形适应 空C陆A海B宇B
+    .. grid-item:: 英文:Gadem。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第20话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:194。
+        :columns: auto
+
+
+    .. grid-item:: 编码:77。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8106 (2BA3A)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8117(2BA4C)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆A海B宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1111,9 +1325,9 @@
 
 .. _srw4_pilot_gadem_commentEnd:
 
-^^^^^^^^^^^^^^^^
-クラウレ・ハモン
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+クラウレ・ハモン(克劳蕾·哈蒙)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_claure_jamon:
 
@@ -1129,15 +1343,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_79.png
 
-    .. grid-item:: 英文:Claure Jamon
-    .. grid-item:: 登场/加入:第20话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 187
-    .. grid-item:: 编码 79
-    .. grid-item:: 地址 B8140 (2BA76)
-    .. grid-item:: 精神地址 B8151(2BA88)
-    .. grid-item:: 地形适应 空C陆A海C宇B
+    .. grid-item:: 英文:Claure Jamon。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第20话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:187。
+        :columns: auto
+
+
+    .. grid-item:: 编码:79。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8140 (2BA76)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8151(2BA88)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆A海C宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1242,9 +1482,9 @@
 
 .. _srw4_pilot_claure_jamon_commentEnd:
 
-^^^^^^^^^^^^^^
-シャリア・ブル
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+シャリア・ブル(夏利亚·布尔)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_sharia_bull:
 
@@ -1260,15 +1500,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_7E.png
 
-    .. grid-item:: 英文:Sharia Bull
-    .. grid-item:: 登场/加入:第25话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 212
-    .. grid-item:: 编码 7E
-    .. grid-item:: 地址 B81D3 (2BB0E)
-    .. grid-item:: 精神地址 B81E4(2BB20)
-    .. grid-item:: 地形适应 空B陆B海C宇A
+    .. grid-item:: 英文:Sharia Bull。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第25话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:212。
+        :columns: auto
+
+
+    .. grid-item:: 编码:7E。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B81D3 (2BB0E)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B81E4(2BB20)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆B海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1392,9 +1658,9 @@
 
 .. _srw4_pilots_mobile_suit_gundam_ally_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-マチルダ・アジャン
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+マチルダ・アジャン(玛蒂尔达·阿根)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_matilda_ajan:
 
@@ -1410,15 +1676,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_24.png
 
-    .. grid-item:: 英文:Matilda Ajan
-    .. grid-item:: 登场/加入:第5话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 160
-    .. grid-item:: 编码 24
-    .. grid-item:: 地址 B7751 (2AF80)
-    .. grid-item:: 精神地址 B7762(2AF92)
-    .. grid-item:: 地形适应 空A陆C海C宇C
+    .. grid-item:: 英文:Matilda Ajan。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第5话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:160。
+        :columns: auto
+
+
+    .. grid-item:: 编码:24。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7751 (2AF80)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7762(2AF92)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆C海C宇C。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1525,9 +1817,9 @@
 
 .. _srw4_pilot_matilda_ajan_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ハヤト・コバヤシ
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ハヤト・コバヤシ(小林隼人)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_hayato_kobayashi:
 
@@ -1543,15 +1835,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_22.png
 
-    .. grid-item:: 英文:Hayato Kobayashi
-    .. grid-item:: 登场/加入:第33话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 22
-    .. grid-item:: 地址 B7723 (2AF50)
-    .. grid-item:: 精神地址 B7734(2AF62)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Hayato Kobayashi。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第33话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:22。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7723 (2AF50)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7734(2AF62)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1654,9 +1972,9 @@
 
 .. _srw4_pilots_mobile_suit_gundam_dead_data_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-セイラ・マス(没)
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+セイラ・マス(莎拉·玛斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_sayla_mass:
 
@@ -1672,14 +1990,37 @@
 
         .. image:: ../pilots/images/srw4_pilot_25.png
 
-    .. grid-item:: 英文:Sayla Mass
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 25
-    .. grid-item:: 地址 B7770 (2AFA0)
-    .. grid-item:: 精神地址 B7781(2AFB2)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Sayla Mass。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:25。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7770 (2AFA0)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7781(2AFB2)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1773,9 +2114,9 @@
 
 .. _srw4_pilot_sayla_mass_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ワッケイン(没)
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+ワッケイン(华肯)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_wakkein:
 
@@ -1791,14 +2132,37 @@
 
         .. image:: ../pilots/images/srw4_pilot_26.png
 
-    .. grid-item:: 英文:Wakkein
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 40
-    .. grid-item:: EXP: 170
-    .. grid-item:: 编码 26
-    .. grid-item:: 地址 B7787 (2AFB8)
-    .. grid-item:: 精神地址 B7798(2AFCA)
-    .. grid-item:: 地形适应 空B陆C海C宇B
+    .. grid-item:: 英文:Wakkein。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:40。
+        :columns: auto
+
+
+    .. grid-item:: EXP:170。
+        :columns: auto
+
+
+    .. grid-item:: 编码:26。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7787 (2AFB8)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7798(2AFCA)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆C海C宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1903,9 +2267,9 @@
 
 .. _srw4_pilot_wakkein_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-ティアンム提督(没)
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ティアンム提督(提安姆提督)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_admiral_tianem:
 
@@ -1921,14 +2285,37 @@
 
         .. image:: ../pilots/images/srw4_pilot_27.png
 
-    .. grid-item:: 英文:Admiral Tianem
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 40
-    .. grid-item:: EXP: 180
-    .. grid-item:: 编码 27
-    .. grid-item:: 地址 B77A0 (2AFD2)
-    .. grid-item:: 精神地址 B77B1(2AFE4)
-    .. grid-item:: 地形适应 空B陆B海C宇B
+    .. grid-item:: 英文:Admiral Tianem。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:40。
+        :columns: auto
+
+
+    .. grid-item:: EXP:180。
+        :columns: auto
+
+
+    .. grid-item:: 编码:27。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B77A0 (2AFD2)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B77B1(2AFE4)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆B海C宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2033,9 +2420,9 @@
 
 .. _srw4_pilot_admiral_tianem_commentEnd:
 
-^^^^^^^^^^^^
-ララァ・スン
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
+ララァ・スン(拉拉·辛)
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_lala_sun:
 
@@ -2051,14 +2438,37 @@
 
         .. image:: ../pilots/images/srw4_pilot_7F.png
 
-    .. grid-item:: 英文:Lala Sun
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 250
-    .. grid-item:: 编码 7F
-    .. grid-item:: 地址 B81F4 (2BB30)
-    .. grid-item:: 精神地址 B8205(2BB42)
-    .. grid-item:: 地形适应 空B陆B海C宇A
+    .. grid-item:: 英文:Lala Sun。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:250。
+        :columns: auto
+
+
+    .. grid-item:: 编码:7F。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B81F4 (2BB30)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8205(2BB42)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆B海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 

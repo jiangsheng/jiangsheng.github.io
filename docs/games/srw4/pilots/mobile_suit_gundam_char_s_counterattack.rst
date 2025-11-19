@@ -7,6 +7,12 @@
 ====================================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_pilots_mobile_suit_gundam_char_s_counterattack_commentBegin:
 
 本作中夏亚还在用化名，故无独立剧情。续作F完结篇中有夏亚的废弃数据，应考虑过加入相关剧情，但是后来放弃了。
@@ -21,9 +27,9 @@
 
 .. _srw4_pilots_mobile_suit_gundam_char_s_counterattack_own_commentEnd:
 
-^^^^^^^^^^^^
-ケーラ・スゥ
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
+ケーラ・スゥ(凯拉·苏)
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_kayra_su:
 
@@ -39,15 +45,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_3C.png
 
-    .. grid-item:: 英文:Kayra Su
-    .. grid-item:: 登场/加入:第5话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 190
-    .. grid-item:: 编码 3C
-    .. grid-item:: 地址 B7A13 (2B290)
-    .. grid-item:: 精神地址 B7A24(2B2A2)
-    .. grid-item:: 地形适应 空B陆A海C宇A
+    .. grid-item:: 英文:Kayra Su。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第5话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:190。
+        :columns: auto
+
+
+    .. grid-item:: 编码:3C。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7A13 (2B290)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7A24(2B2A2)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -169,9 +201,9 @@
 
 .. _srw4_pilot_kayra_su_commentEnd:
 
-^^^^^^^^^^^^^^
-クェス・パラヤ
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+クェス・パラヤ(柯丝·帕拉杨)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_quess_paraya:
 
@@ -187,15 +219,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_3A.png
 
-    .. grid-item:: 英文:Quess Paraya
-    .. grid-item:: 登场/加入:第29话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 240
-    .. grid-item:: 编码 3A
-    .. grid-item:: 地址 B79DB (2B248)
-    .. grid-item:: 精神地址 B79EC(2B25A)
-    .. grid-item:: 地形适应 空B陆B海C宇A
+    .. grid-item:: 英文:Quess Paraya。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第29话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:240。
+        :columns: auto
+
+
+    .. grid-item:: 编码:3A。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B79DB (2B248)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B79EC(2B25A)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆B海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -327,9 +385,9 @@
 
 .. _srw4_pilots_mobile_suit_gundam_char_s_counterattack_ally_commentEnd:
 
-^^^^^^^^^^^^^^
-チェーン・アギ
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+チェーン・アギ(珍·亚齐)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_chan_agi:
 
@@ -345,15 +403,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_3B.png
 
-    .. grid-item:: 英文:Chan Agi
-    .. grid-item:: 登场/加入:第26话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 3B
-    .. grid-item:: 地址 B79FC (2B278)
-    .. grid-item:: 精神地址 B7A0D(2B28A)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Chan Agi。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第26话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:3B。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B79FC (2B278)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7A0D(2B28A)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -455,9 +539,9 @@
 
 .. _srw4_pilots_mobile_suit_gundam_char_s_counterattack_dead_data_commentEnd:
 
-^^^^^^^^^^^^^^
-ギュネイ・ガス
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ギュネイ・ガス(邱尼·盖斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_günei_gas:
 
@@ -473,14 +557,37 @@
 
         .. image:: ../pilots/images/srw4_pilot_97.png
 
-    .. grid-item:: 英文:Günei Gas
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 249
-    .. grid-item:: 编码 97
-    .. grid-item:: 地址 B84E8 (2BE76)
-    .. grid-item:: 精神地址 B84F9(2BE88)
-    .. grid-item:: 地形适应 空B陆B海D宇A
+    .. grid-item:: 英文:Günei Gas。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:249。
+        :columns: auto
+
+
+    .. grid-item:: 编码:97。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B84E8 (2BE76)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B84F9(2BE88)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆B海D宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -596,9 +703,9 @@
 
 .. _srw4_pilot_günei_gas_commentEnd:
 
-^^^^^^^^^^^^^^
-ナナイ・ミゲル
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ナナイ・ミゲル(娜娜伊·米格尔)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_nanai_miguel:
 
@@ -614,14 +721,37 @@
 
         .. image:: ../pilots/images/srw4_pilot_98.png
 
-    .. grid-item:: 英文:Nanai Miguel
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 200
-    .. grid-item:: 编码 98
-    .. grid-item:: 地址 B8509 (2BE9C)
-    .. grid-item:: 精神地址 B851A(2BEAE)
-    .. grid-item:: 地形适应 空A陆C海C宇A
+    .. grid-item:: 英文:Nanai Miguel。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:200。
+        :columns: auto
+
+
+    .. grid-item:: 编码:98。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8509 (2BE9C)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B851A(2BEAE)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆C海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -726,9 +856,9 @@
 
 .. _srw4_pilot_nanai_miguel_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-レズン・シュナイダー
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+レズン・シュナイダー(列珍·施耐德)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_rezun_schneider:
 
@@ -744,14 +874,37 @@
 
         .. image:: ../pilots/images/srw4_pilot_99.png
 
-    .. grid-item:: 英文:Rezun Schneider
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 237
-    .. grid-item:: 编码 99
-    .. grid-item:: 地址 B8528 (2BEBC)
-    .. grid-item:: 精神地址 B8539(2BECE)
-    .. grid-item:: 地形适应 空B陆A海C宇A
+    .. grid-item:: 英文:Rezun Schneider。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:237。
+        :columns: auto
+
+
+    .. grid-item:: 编码:99。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8528 (2BEBC)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8539(2BECE)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 

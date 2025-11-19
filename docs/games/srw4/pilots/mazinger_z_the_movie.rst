@@ -7,6 +7,12 @@
 ==========================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_pilots_mazinger_z_the_movie_commentBegin:
 
 
@@ -38,15 +44,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_6F.png
 
-    .. grid-item:: 英文:Beast Demon General
-    .. grid-item:: 登场/加入:第22话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 180
-    .. grid-item:: 编码 6F
-    .. grid-item:: 地址 B802E (2B95A)
-    .. grid-item:: 精神地址 B803F(2B96C)
-    .. grid-item:: 地形适应 空A陆A海C宇C
+    .. grid-item:: 英文:Beast Demon General。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第22话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:180。
+        :columns: auto
+
+
+    .. grid-item:: 编码:6F。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B802E (2B95A)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B803F(2B96C)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海C宇C。
+        :columns: auto
+
 
 
 .. grid:: 

@@ -7,6 +7,12 @@
 ====================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_pilots_reideen_the_brave_commentBegin:
 
 第三次中阵亡的夏金，本次被复活之后再次挑战雷登，然而只出战两话，基本毫无存在感。
@@ -44,15 +50,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_4D.png
 
-    .. grid-item:: 英文:Riki Jinguuji
-    .. grid-item:: 登场/加入:第20话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 220
-    .. grid-item:: 编码 4D
-    .. grid-item:: 地址 B7C2E (2B4E2)
-    .. grid-item:: 精神地址 B7C3F(2B4F4)
-    .. grid-item:: 地形适应 空A陆B海B宇A
+    .. grid-item:: 英文:Riki Jinguuji。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第20话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:220。
+        :columns: auto
+
+
+    .. grid-item:: 编码:4D。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7C2E (2B4E2)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7C3F(2B4F4)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆B海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -161,9 +193,9 @@
 
 .. _srw4_pilot_riki_jinguuji_commentEnd:
 
-^^^^^^^^
-ひびき洸
-^^^^^^^^
+^^^^^^^^^^^^^^^^
+ひびき洸(响洸)
+^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_akira_hibiki:
 
@@ -179,15 +211,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_63.png
 
-    .. grid-item:: 英文:Akira Hibiki
-    .. grid-item:: 登场/加入:第20话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 85
-    .. grid-item:: EXP: 230
-    .. grid-item:: 编码 63
-    .. grid-item:: 地址 B7EC6 (2B7DC)
-    .. grid-item:: 精神地址 B7ED7(2B7EE)
-    .. grid-item:: 地形适应 空A陆A海A宇B
+    .. grid-item:: 英文:Akira Hibiki。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第20话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:85。
+        :columns: auto
+
+
+    .. grid-item:: EXP:230。
+        :columns: auto
+
+
+    .. grid-item:: 编码:63。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7EC6 (2B7DC)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7ED7(2B7EE)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇B。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ライディーン <srw4_unit_reideen>`\ (莱汀)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -323,15 +385,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_4E.png
 
-    .. grid-item:: 英文:Rei Asuka
-    .. grid-item:: 登场/加入:第21话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 65
-    .. grid-item:: EXP: 200
-    .. grid-item:: 编码 4E
-    .. grid-item:: 地址 B7C4D (2B502)
-    .. grid-item:: 精神地址 B7C5E(2B514)
-    .. grid-item:: 地形适应 空A陆B海C宇B
+    .. grid-item:: 英文:Rei Asuka。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第21话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:65。
+        :columns: auto
+
+
+    .. grid-item:: EXP:200。
+        :columns: auto
+
+
+    .. grid-item:: 编码:4E。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7C4D (2B502)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7C5E(2B514)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆B海C宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -438,9 +526,9 @@
 
 .. _srw4_pilot_rei_asuka_commentEnd:
 
-^^^^^^^^
-桜野マリ
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+桜野マリ(樱野玛丽)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_mari_sakurano:
 
@@ -456,15 +544,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_4F.png
 
-    .. grid-item:: 英文:Mari Sakurano
-    .. grid-item:: 登场/加入:第21话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 70
-    .. grid-item:: EXP: 160
-    .. grid-item:: 编码 4F
-    .. grid-item:: 地址 B7C6C (2B522)
-    .. grid-item:: 精神地址 B7C7D(2B534)
-    .. grid-item:: 地形适应 空A陆C海C宇B
+    .. grid-item:: 英文:Mari Sakurano。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第21话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:70。
+        :columns: auto
+
+
+    .. grid-item:: EXP:160。
+        :columns: auto
+
+
+    .. grid-item:: 编码:4F。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7C6C (2B522)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7C7D(2B534)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆C海C宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -580,9 +694,9 @@
 
 .. _srw4_pilots_reideen_the_brave_enemy_commentEnd:
 
-^^^^^^^^^^
-シャーキン
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+シャーキン(夏金)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_sharkin:
 
@@ -598,15 +712,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_A3.png
 
-    .. grid-item:: 英文:Sharkin
-    .. grid-item:: 登场/加入:第20话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 232
-    .. grid-item:: 编码 A3
-    .. grid-item:: 地址 B8666 (2C00E)
-    .. grid-item:: 精神地址 B8677(2C020)
-    .. grid-item:: 地形适应 空A陆A海B宇C
+    .. grid-item:: 英文:Sharkin。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第20话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:232。
+        :columns: auto
+
+
+    .. grid-item:: 编码:A3。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8666 (2C00E)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8677(2C020)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇C。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -714,9 +854,9 @@
 
 .. _srw4_pilot_sharkin_commentEnd:
 
-^^^^^^
-バラオ
-^^^^^^
+^^^^^^^^^^^^^^^^
+バラオ(巴拉奥)
+^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_barao:
 
@@ -732,15 +872,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_A6.png
 
-    .. grid-item:: 英文:Barao
-    .. grid-item:: 登场/加入:第20话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 70
-    .. grid-item:: EXP: 254
-    .. grid-item:: 编码 A6
-    .. grid-item:: 地址 B869E (2C048)
-    .. grid-item:: 精神地址 B86AF(2C05A)
-    .. grid-item:: 地形适应 空A陆A海A宇C
+    .. grid-item:: 英文:Barao。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第20话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:70。
+        :columns: auto
+
+
+    .. grid-item:: EXP:254。
+        :columns: auto
+
+
+    .. grid-item:: 编码:A6。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B869E (2C048)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B86AF(2C05A)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇C。
+        :columns: auto
+
 
 
 .. grid:: 

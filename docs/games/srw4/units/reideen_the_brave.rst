@@ -8,6 +8,12 @@
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_units_reideen_the_brave_commentBegin:
 
 
@@ -21,9 +27,9 @@
 
 .. _srw4_units_reideen_the_brave_own_commentEnd:
 
-^^^^^^^^^^^^
-ライディーン
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+ライディーン(莱汀)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_reideen:
 
@@ -50,40 +56,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Reideen
+            .. grid-item:: 英文:Reideen。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第20话
+            .. grid-item:: 登场/加入:第20话。
                 :columns: auto
 
-            .. grid-item:: 编码 33
+            .. grid-item:: 编码:33。
                 :columns: auto
 
-            .. grid-item:: 地址 B9E3C (26B2B)
+            .. grid-item:: 地址 B9E3C (26B2B)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9E5C (26B4B)
+            .. grid-item:: 武器首地址:B9E5C (26B4B)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海B宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ひびき洸 <srw4_pilot_akira_hibiki>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ひびき洸 <srw4_pilot_akira_hibiki>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_63.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備
+            .. grid-item:: 技能: 盾装備、剣装備。
                 :columns: auto
 
 
@@ -161,7 +167,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -334,9 +340,9 @@
 
 .. _srw4_unit_reideen_commentEnd:
 
-^^^^^^^^^^
-ブルーガー
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+ブルーガー(布尔加)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_bluegar:
 
@@ -363,29 +369,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Bluegar
+            .. grid-item:: 英文:Bluegar。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第20话
+            .. grid-item:: 登场/加入:第20话。
                 :columns: auto
 
-            .. grid-item:: 编码 34
+            .. grid-item:: 编码:34。
                 :columns: auto
 
-            .. grid-item:: 地址 B9E85 (26B74)
+            .. grid-item:: 地址 B9E85 (26B74)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9EA5 (26B94)
+            .. grid-item:: 武器首地址:B9EA5 (26B94)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 大小 S
+            .. grid-item:: 大小 S。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆🚫海🚫宇B
+            .. grid-item:: 地形适应:空A陆🚫海🚫宇B。
                 :columns: auto
 
 
@@ -463,7 +469,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -537,9 +543,9 @@
 
 .. _srw4_units_reideen_the_brave_enemy_commentEnd:
 
-^^^^^^^^
-ドローメ
-^^^^^^^^
+^^^^^^^^^^^^^^^^
+ドローメ(水母)
+^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_drome:
 
@@ -566,29 +572,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Drome
+            .. grid-item:: 英文:Drome。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 B8
+            .. grid-item:: 编码:B8。
                 :columns: auto
 
-            .. grid-item:: 地址 BB58F (2827E)
+            .. grid-item:: 地址 BB58F (2827E)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB5AF (2829E)
+            .. grid-item:: 武器首地址:BB5AF (2829E)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 大小 M
+            .. grid-item:: 大小 M。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆🚫海🚫宇🚫
+            .. grid-item:: 地形适应:空A陆🚫海🚫宇🚫。
                 :columns: auto
 
 
@@ -666,7 +672,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -693,9 +699,9 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
 
 .. _srw4_unit_drome_commentEnd:
 
-^^^^^^
-ガンテ
-^^^^^^
+^^^^^^^^^^^^^^
+ガンテ(岩手)
+^^^^^^^^^^^^^^
 
 .. _srw4_unit_gante:
 
@@ -722,33 +728,33 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
             :padding: 0
 
 
-            .. grid-item:: 英文:Gante
+            .. grid-item:: 英文:Gante。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第20话
+            .. grid-item:: 登场/加入:第20话。
                 :columns: auto
 
-            .. grid-item:: 编码 B9
+            .. grid-item:: 编码:B9。
                 :columns: auto
 
-            .. grid-item:: 地址 BB5B4 (282A3)
+            .. grid-item:: 地址 BB5B4 (282A3)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB5D4 (282C3)
+            .. grid-item:: 武器首地址:BB5D4 (282C3)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→C海🚫→D宇🚫→D
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`シャーキン <srw4_pilot_sharkin>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→C海🚫→D宇🚫→D。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`シャーキン <srw4_pilot_sharkin>`\ 。
                 :columns: auto
 
 
@@ -829,7 +835,7 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -885,9 +891,9 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
 
 .. _srw4_unit_gante_commentEnd:
 
-^^^^^^^^^^^^^^^^
-化石獣バストドン
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+化石獣バストドン(化石兽巴斯托顿)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_fossil_beast_bastodon:
 
@@ -914,29 +920,29 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
             :padding: 0
 
 
-            .. grid-item:: 英文:Fossil Beast Bastodon
+            .. grid-item:: 英文:Fossil Beast Bastodon。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第20话
+            .. grid-item:: 登场/加入:第20话。
                 :columns: auto
 
-            .. grid-item:: 编码 BA
+            .. grid-item:: 编码:BA。
                 :columns: auto
 
-            .. grid-item:: 地址 BB5DF (282CE)
+            .. grid-item:: 地址 BB5DF (282CE)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB5FF (282EE)
+            .. grid-item:: 武器首地址:BB5FF (282EE)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆A海B宇🚫
+            .. grid-item:: 地形适应:空A陆A海B宇🚫。
                 :columns: auto
 
 
@@ -1014,7 +1020,7 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1039,9 +1045,9 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
 
 .. _srw4_unit_fossil_beast_bastodon_commentEnd:
 
-^^^^^^^^^^^^^^
-巨大シャーキン
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+巨大シャーキン(巨大夏金)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_giant_sharkin:
 
@@ -1068,33 +1074,33 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
             :padding: 0
 
 
-            .. grid-item:: 英文:Giant Sharkin
+            .. grid-item:: 英文:Giant Sharkin。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第20话
+            .. grid-item:: 登场/加入:第20话。
                 :columns: auto
 
-            .. grid-item:: 编码 BC
+            .. grid-item:: 编码:BC。
                 :columns: auto
 
-            .. grid-item:: 地址 BB62C (2831B)
+            .. grid-item:: 地址 BB62C (2831B)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB64C (2833B)
+            .. grid-item:: 武器首地址:BB64C (2833B)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海B宇🚫→D
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`シャーキン <srw4_pilot_sharkin>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B宇🚫→D。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`シャーキン <srw4_pilot_sharkin>`\ 。
                 :columns: auto
 
 
@@ -1175,7 +1181,7 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1227,9 +1233,9 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
 
 .. _srw4_unit_giant_sharkin_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-化石獣ギルディーン
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+化石獣ギルディーン(化石兽基鲁汀)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_fossil_beast_girudeen:
 
@@ -1256,29 +1262,29 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
             :padding: 0
 
 
-            .. grid-item:: 英文:Fossil beast Girudeen
+            .. grid-item:: 英文:Fossil Beast Girudeen。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第21话
+            .. grid-item:: 登场/加入:第21话。
                 :columns: auto
 
-            .. grid-item:: 编码 BB
+            .. grid-item:: 编码:BB。
                 :columns: auto
 
-            .. grid-item:: 地址 BB604 (282F3)
+            .. grid-item:: 地址 BB604 (282F3)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB624 (28313)
+            .. grid-item:: 武器首地址:BB624 (28313)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆A海B宇🚫
+            .. grid-item:: 地形适应:空A陆A海B宇🚫。
                 :columns: auto
 
 
@@ -1356,7 +1362,7 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

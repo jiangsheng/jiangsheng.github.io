@@ -7,6 +7,12 @@
 ======================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_pilots_combattler_v_commentBegin:
 
 剧情虽然不多，但是\ :ref:`ガルーダ <srw4_pilot_garuda>`\ （嘉鲁达）的结局让人印象深刻。
@@ -49,15 +55,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_16.png
 
-    .. grid-item:: 英文:Hyoma Aoi
-    .. grid-item:: 登场/加入:第15话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 225
-    .. grid-item:: 编码 16
-    .. grid-item:: 地址 B759D (2ADA0)
-    .. grid-item:: 精神地址 B75AE(2ADB2)
-    .. grid-item:: 地形适应 空A陆A海B宇B
+    .. grid-item:: 英文:Hyoma Aoi。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第15话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:225。
+        :columns: auto
+
+
+    .. grid-item:: 编码:16。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B759D (2ADA0)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B75AE(2ADB2)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇B。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`バトルジェット <srw4_unit_battle_jet>`\ (战斗喷气机)、\ :ref:`コンバトラーV <srw4_unit_combattler_v>`\ (孔巴特拉V)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -199,15 +235,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_17.png
 
-    .. grid-item:: 英文:Juzo Naniwa
-    .. grid-item:: 登场/加入:第15话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 40
-    .. grid-item:: EXP: 220
-    .. grid-item:: 编码 17
-    .. grid-item:: 地址 B75BE (2ADC2)
-    .. grid-item:: 精神地址 B75CF(2ADD4)
-    .. grid-item:: 地形适应 空A陆A海B宇B
+    .. grid-item:: 英文:Juzo Naniwa。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第15话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:40。
+        :columns: auto
+
+
+    .. grid-item:: EXP:220。
+        :columns: auto
+
+
+    .. grid-item:: 编码:17。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B75BE (2ADC2)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B75CF(2ADD4)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇B。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`バトルクラッシャー <srw4_unit_battle_crusher>`\ (战斗轰炸机)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -341,15 +407,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_18.png
 
-    .. grid-item:: 英文:Daisaku Nishikawa
-    .. grid-item:: 登场/加入:第15话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 40
-    .. grid-item:: EXP: 210
-    .. grid-item:: 编码 18
-    .. grid-item:: 地址 B75DF (2ADE4)
-    .. grid-item:: 精神地址 B75F0(2ADF6)
-    .. grid-item:: 地形适应 空C陆A海A宇C
+    .. grid-item:: 英文:Daisaku Nishikawa。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第15话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:40。
+        :columns: auto
+
+
+    .. grid-item:: EXP:210。
+        :columns: auto
+
+
+    .. grid-item:: 编码:18。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B75DF (2ADE4)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B75F0(2ADF6)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆A海A宇C。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`バトルタンク <srw4_unit_battle_tank>`\ (战斗坦克)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -467,9 +563,9 @@
 
 .. _srw4_pilot_daisaku_nishikawa_commentEnd:
 
-^^^^^^^^^^
-南原ちずる
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+南原ちずる(南原千鹤)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_chizuru_nanbara:
 
@@ -485,15 +581,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_19.png
 
-    .. grid-item:: 英文:Chizuru Nanbara
-    .. grid-item:: 登场/加入:第15话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 30
-    .. grid-item:: EXP: 210
-    .. grid-item:: 编码 19
-    .. grid-item:: 地址 B7600 (2AE06)
-    .. grid-item:: 精神地址 B7611(2AE18)
-    .. grid-item:: 地形适应 空A陆B海A宇B
+    .. grid-item:: 英文:Chizuru Nanbara。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第15话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:30。
+        :columns: auto
+
+
+    .. grid-item:: EXP:210。
+        :columns: auto
+
+
+    .. grid-item:: 编码:19。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7600 (2AE06)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7611(2AE18)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆B海A宇B。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`バトルマリン <srw4_unit_battle_marine>`\ (战斗潜艇)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -618,15 +744,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_1A.png
 
-    .. grid-item:: 英文:Kosuke Kita
-    .. grid-item:: 登场/加入:第15话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 30
-    .. grid-item:: EXP: 200
-    .. grid-item:: 编码 1A
-    .. grid-item:: 地址 B761F (2AE26)
-    .. grid-item:: 精神地址 B7630(2AE38)
-    .. grid-item:: 地形适应 空A陆A海A宇B
+    .. grid-item:: 英文:Kosuke Kita。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第15话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:30。
+        :columns: auto
+
+
+    .. grid-item:: EXP:200。
+        :columns: auto
+
+
+    .. grid-item:: 编码:1A。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B761F (2AE26)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7630(2AE38)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇B。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`バトロウクラフト <srw4_unit_battle_craft>`\ (战斗飞艇)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -739,9 +895,9 @@
 
 .. _srw4_pilots_combattler_v_enemy_commentEnd:
 
-^^^^^^^^
-ガルーダ
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+ガルーダ(嘉鲁达)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_garuda:
 
@@ -757,15 +913,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_A7.png
 
-    .. grid-item:: 英文:Garuda
-    .. grid-item:: 登场/加入:第15话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 70
-    .. grid-item:: EXP: 238
-    .. grid-item:: 编码 A7
-    .. grid-item:: 地址 B86B7 (2C062)
-    .. grid-item:: 精神地址 B86C8(2C074)
-    .. grid-item:: 地形适应 空A陆A海A宇C
+    .. grid-item:: 英文:Garuda。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第15话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:70。
+        :columns: auto
+
+
+    .. grid-item:: EXP:238。
+        :columns: auto
+
+
+    .. grid-item:: 编码:A7。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B86B7 (2C062)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B86C8(2C074)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇C。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -872,9 +1054,9 @@
 
 .. _srw4_pilot_garuda_commentEnd:
 
-^^^^^^
-ミーア
-^^^^^^
+^^^^^^^^^^^^^^
+ミーア(米娅)
+^^^^^^^^^^^^^^
 
 .. _srw4_pilot_miia:
 
@@ -890,15 +1072,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_A8.png
 
-    .. grid-item:: 英文:Miia
-    .. grid-item:: 登场/加入:第15话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 167
-    .. grid-item:: 编码 A8
-    .. grid-item:: 地址 B86D6 (2C082)
-    .. grid-item:: 精神地址 B86E7(2C094)
-    .. grid-item:: 地形适应 空A陆A海B宇C
+    .. grid-item:: 英文:Miia。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第15话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:167。
+        :columns: auto
+
+
+    .. grid-item:: 编码:A8。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B86D6 (2C082)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B86E7(2C094)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇C。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1007,9 +1215,9 @@
 
 .. _srw4_pilot_miia_commentEnd:
 
-^^^^^^^^
-オレアナ
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+オレアナ(奥雷亚娜)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_oreana:
 
@@ -1025,15 +1233,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_A9.png
 
-    .. grid-item:: 英文:Oreana
-    .. grid-item:: 登场/加入:第15话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 A9
-    .. grid-item:: 地址 B86F5 (2C0A2)
-    .. grid-item:: 精神地址 B8706(2C0B4)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Oreana。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第15话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:A9。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B86F5 (2C0A2)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8706(2C0B4)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 

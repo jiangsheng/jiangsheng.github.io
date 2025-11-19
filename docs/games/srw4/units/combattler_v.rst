@@ -8,6 +8,12 @@
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_units_combattler_v_commentBegin:
 
 
@@ -21,9 +27,9 @@
 
 .. _srw4_units_combattler_v_own_commentEnd:
 
-^^^^^^^^^^^^^^
-コンバトラーV
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+コンバトラーV(孔巴特拉V)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_combattler_v:
 
@@ -50,33 +56,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Combattler V
+            .. grid-item:: 英文:Combattler V。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第15话
+            .. grid-item:: 登场/加入:第15话。
                 :columns: auto
 
-            .. grid-item:: 编码 32
+            .. grid-item:: 编码:32。
                 :columns: auto
 
-            .. grid-item:: 地址 B9DE5 (26AD4)
+            .. grid-item:: 地址 B9DE5 (26AD4)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9E05 (26AF4)
+            .. grid-item:: 武器首地址:B9E05 (26AF4)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海C宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`葵豹馬 <srw4_pilot_hyoma_aoi>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`葵豹馬 <srw4_pilot_hyoma_aoi>`\ 。
                 :columns: auto
 
 
@@ -157,7 +163,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -386,9 +392,9 @@
 
 .. _srw4_unit_combattler_v_commentEnd:
 
-^^^^^^^^^^^^^^
-バトルジェット
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+バトルジェット(战斗喷气机)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_battle_jet:
 
@@ -415,33 +421,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Battle Jet
+            .. grid-item:: 英文:Battle Jet。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第15话
+            .. grid-item:: 登场/加入:第15话。
                 :columns: auto
 
-            .. grid-item:: 编码 2D
+            .. grid-item:: 编码:2D。
                 :columns: auto
 
-            .. grid-item:: 地址 B9D14 (26A03)
+            .. grid-item:: 地址 B9D14 (26A03)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9D34 (26A23)
+            .. grid-item:: 武器首地址:B9D34 (26A23)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→C海🚫→D宇C
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`葵豹馬 <srw4_pilot_hyoma_aoi>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→C海🚫→D宇C。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`葵豹馬 <srw4_pilot_hyoma_aoi>`\ 。
                 :columns: auto
 
 
@@ -522,7 +528,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -587,9 +593,9 @@
 
 .. _srw4_unit_battle_jet_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-バトルクラッシャー
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+バトルクラッシャー(战斗轰炸机)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_battle_crusher:
 
@@ -616,33 +622,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Battle Crusher
+            .. grid-item:: 英文:Battle Crusher。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第15话
+            .. grid-item:: 登场/加入:第15话。
                 :columns: auto
 
-            .. grid-item:: 编码 2E
+            .. grid-item:: 编码:2E。
                 :columns: auto
 
-            .. grid-item:: 地址 B9D42 (26A31)
+            .. grid-item:: 地址 B9D42 (26A31)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9D62 (26A51)
+            .. grid-item:: 武器首地址:B9D62 (26A51)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→C海🚫→D宇C
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`浪花十三 <srw4_pilot_juzo_naniwa>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→C海🚫→D宇C。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`浪花十三 <srw4_pilot_juzo_naniwa>`\ 。
                 :columns: auto
 
 
@@ -723,7 +729,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -787,9 +793,9 @@
 
 .. _srw4_unit_battle_crusher_commentEnd:
 
-^^^^^^^^^^^^
-バトルタンク
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
+バトルタンク(战斗坦克)
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_battle_tank:
 
@@ -816,33 +822,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Battle Tank
+            .. grid-item:: 英文:Battle Tank。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第15话
+            .. grid-item:: 登场/加入:第15话。
                 :columns: auto
 
-            .. grid-item:: 编码 2F
+            .. grid-item:: 编码:2F。
                 :columns: auto
 
-            .. grid-item:: 地址 B9D70 (26A5F)
+            .. grid-item:: 地址 B9D70 (26A5F)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9D90 (26A7F)
+            .. grid-item:: 武器首地址:B9D90 (26A7F)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海B宇C
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`西川大作 <srw4_pilot_daisaku_nishikawa>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海B宇C。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`西川大作 <srw4_pilot_daisaku_nishikawa>`\ 。
                 :columns: auto
 
 
@@ -923,7 +929,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -961,9 +967,9 @@
 
 .. _srw4_unit_battle_tank_commentEnd:
 
-^^^^^^^^^^^^
-バトルマリン
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
+バトルマリン(战斗潜艇)
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_battle_marine:
 
@@ -990,33 +996,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Battle Marine
+            .. grid-item:: 英文:Battle Marine。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第15话
+            .. grid-item:: 登场/加入:第15话。
                 :columns: auto
 
-            .. grid-item:: 编码 30
+            .. grid-item:: 编码:30。
                 :columns: auto
 
-            .. grid-item:: 地址 B9D98 (26A87)
+            .. grid-item:: 地址 B9D98 (26A87)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9DB8 (26AA7)
+            .. grid-item:: 武器首地址:B9DB8 (26AA7)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空海
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→D海A宇C
+            .. grid-item:: 移动类型:空海。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`南原ちずる <srw4_pilot_chizuru_nanbara>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→D海A宇C。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`南原ちずる <srw4_pilot_chizuru_nanbara>`\ 。
                 :columns: auto
 
 
@@ -1097,7 +1103,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1135,9 +1141,9 @@
 
 .. _srw4_unit_battle_marine_commentEnd:
 
-^^^^^^^^^^^^^^^^
-バトロウクラフト
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+バトロウクラフト(战斗飞艇)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_battle_craft:
 
@@ -1164,33 +1170,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Battle Craft
+            .. grid-item:: 英文:Battle Craft。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第15话
+            .. grid-item:: 登场/加入:第15话。
                 :columns: auto
 
-            .. grid-item:: 编码 31
+            .. grid-item:: 编码:31。
                 :columns: auto
 
-            .. grid-item:: 地址 B9DC0 (26AAF)
+            .. grid-item:: 地址 B9DC0 (26AAF)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9DE0 (26ACF)
+            .. grid-item:: 武器首地址:B9DE0 (26ACF)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸空地中
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B陆B海B宇B
+            .. grid-item:: 移动类型:陸空地中。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`北小介 <srw4_pilot_kosuke_kita>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B陆B海B宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`北小介 <srw4_pilot_kosuke_kita>`\ 。
                 :columns: auto
 
 
@@ -1271,7 +1277,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1304,9 +1310,9 @@
 
 .. _srw4_units_combattler_v_enemy_commentEnd:
 
-^^^^^^^^^^^^^^^^
-マグマ獣ガルムス
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+マグマ獣ガルムス(岩浆兽加鲁姆)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_magma_beast_galmus:
 
@@ -1333,29 +1339,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Magma beast Galmus
+            .. grid-item:: 英文:Magma beast Galmus。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第6话
+            .. grid-item:: 登场/加入:第6话。
                 :columns: auto
 
-            .. grid-item:: 编码 C6
+            .. grid-item:: 编码:C6。
                 :columns: auto
 
-            .. grid-item:: 地址 BB7CF (284BE)
+            .. grid-item:: 地址 BB7CF (284BE)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB7EF (284DE)
+            .. grid-item:: 武器首地址:BB7EF (284DE)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空B陆A海D宇B
+            .. grid-item:: 地形适应:空B陆A海D宇B。
                 :columns: auto
 
 
@@ -1433,7 +1439,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1472,9 +1478,9 @@
 
 .. _srw4_unit_magma_beast_galmus_commentEnd:
 
-^^^^^^^^^^
-グレイドン
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+グレイドン(格雷顿)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_graydon:
 
@@ -1501,33 +1507,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Graydon
+            .. grid-item:: 英文:Graydon。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第6话
+            .. grid-item:: 登场/加入:第6话。
                 :columns: auto
 
-            .. grid-item:: 编码 11B
+            .. grid-item:: 编码:11B。
                 :columns: auto
 
-            .. grid-item:: 地址 BC661 (2934D)
+            .. grid-item:: 地址 BC661 (2934D)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC681 (2936D)
+            .. grid-item:: 武器首地址:BC681 (2936D)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→C海🚫→C宇B→C
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ガルーダ <srw4_pilot_garuda>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→C海🚫→C宇B→C。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ガルーダ <srw4_pilot_garuda>`\ 。
                 :columns: auto
 
 
@@ -1608,7 +1614,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1659,9 +1665,9 @@
 
 .. _srw4_unit_graydon_commentEnd:
 
-^^^^^^^^^^^^^^
-マグマ獣デモン
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+マグマ獣デモン(岩浆兽·恶魔)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_magma_beast_demon:
 
@@ -1688,29 +1694,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Magma Beast Demon
+            .. grid-item:: 英文:Magma Beast Demon。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第15话
+            .. grid-item:: 登场/加入:第15话。
                 :columns: auto
 
-            .. grid-item:: 编码 C7
+            .. grid-item:: 编码:C7。
                 :columns: auto
 
-            .. grid-item:: 地址 BB7F7 (284E6)
+            .. grid-item:: 地址 BB7F7 (284E6)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB817 (28506)
+            .. grid-item:: 武器首地址:BB817 (28506)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆A海C宇B
+            .. grid-item:: 地形适应:空A陆A海C宇B。
                 :columns: auto
 
 
@@ -1788,7 +1794,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1852,9 +1858,9 @@
 
 .. _srw4_unit_magma_beast_demon_commentEnd:
 
-^^^^^^^^^^^^^^
-ビッグガルーダ
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ビッグガルーダ(大嘉鲁达)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_big_garuda:
 
@@ -1881,33 +1887,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Big Garuda
+            .. grid-item:: 英文:Big Garuda。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第16话
+            .. grid-item:: 登场/加入:第16话。
                 :columns: auto
 
-            .. grid-item:: 编码 C8
+            .. grid-item:: 编码:C8。
                 :columns: auto
 
-            .. grid-item:: 地址 BB825 (28514)
+            .. grid-item:: 地址 BB825 (28514)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB845 (28534)
+            .. grid-item:: 武器首地址:BB845 (28534)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海C→B宇B→C
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ガルーダ <srw4_pilot_garuda>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海C→B宇B→C。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ガルーダ <srw4_pilot_garuda>`\ 。
                 :columns: auto
 
 
@@ -1988,7 +1994,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

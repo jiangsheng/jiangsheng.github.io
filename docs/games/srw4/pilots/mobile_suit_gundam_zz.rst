@@ -1,11 +1,17 @@
 .. meta::
-   :description: 機動戦士ガンダムΖΖ}登场人物 ルー・ルカ, エルピー・プル, プルツー, ジュドー・アーシタ, リィナ・アーシタ, ビーチャ・オレーグ, エル・ビアンノ, エマリー・オンス, モンド・アガケ(没), イーノ・アッバーブ(没), グレミー・トト, マシュマー・セロ, イリア・パゾム, キャラ・スーン, ゴットン・ゴー, ニー・ギーレン, ランス・ギーレン, ラカン・ダカラン 
+   :description: 機動戦士ガンダムΖΖ}登场人物 ルー・ルカ, エルピー・プル, プルツー, ジュドー・アーシタ, リィナ・アーシタ, ビーチャ・オレーグ, エル・ビアンノ, エマリー・オンス, モンド・アガケ, イーノ・アッバーブ, グレミー・トト, マシュマー・セロ, イリア・パゾム, キャラ・スーン, ゴットン・ゴー, ニー・ギーレン, ランス・ギーレン, ラカン・ダカラン 
 .. _srw4_pilots_mobile_suit_gundam_zz:
 
 ============================
 機動戦士ガンダムΖΖ登场人物
 ============================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
+
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
 
 .. _srw4_pilots_mobile_suit_gundam_zz_commentBegin:
 
@@ -21,9 +27,9 @@
 
 .. _srw4_pilots_mobile_suit_gundam_zz_own_commentEnd:
 
-^^^^^^^^^^
-ルー・ルカ
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+ルー・ルカ(露·鲁卡)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_roux_louka:
 
@@ -39,15 +45,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_31.png
 
-    .. grid-item:: 英文:Roux Louka
-    .. grid-item:: 登场/加入:第10话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 190
-    .. grid-item:: 编码 31
-    .. grid-item:: 地址 B78CA (2B122)
-    .. grid-item:: 精神地址 B78DB(2B134)
-    .. grid-item:: 地形适应 空B陆B海A宇A
+    .. grid-item:: 英文:Roux Louka。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第10话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:190。
+        :columns: auto
+
+
+    .. grid-item:: 编码:31。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B78CA (2B122)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B78DB(2B134)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆B海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -170,9 +202,9 @@
 
 .. _srw4_pilot_roux_louka_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-ジュドー・アーシタ
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ジュドー・アーシタ(捷多·亚西塔)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_judau_ashta:
 
@@ -188,15 +220,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_52.png
 
-    .. grid-item:: 英文:Judau Ashta
-    .. grid-item:: 登场/加入:第24话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 75
-    .. grid-item:: EXP: 255
-    .. grid-item:: 编码 52
-    .. grid-item:: 地址 B7CD5 (2B5AA)
-    .. grid-item:: 精神地址 B7CE6(2B5BC)
-    .. grid-item:: 地形适应 空B (A)陆A海B宇A
+    .. grid-item:: 英文:Judau Ashta。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第24话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:75。
+        :columns: auto
+
+
+    .. grid-item:: EXP:255。
+        :columns: auto
+
+
+    .. grid-item:: 编码:52。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7CD5 (2B5AA)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7CE6(2B5BC)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B (A)陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -318,9 +376,9 @@
 
 .. _srw4_pilot_judau_ashta_commentEnd:
 
-^^^^^^^^^^^^^^
-エルピー・プル
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+エルピー・プル(艾露比·璞露)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_elpeo_ple:
 
@@ -336,15 +394,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_32.png
 
-    .. grid-item:: 英文:Elpeo Ple
-    .. grid-item:: 登场/加入:第40话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 240
-    .. grid-item:: 编码 32
-    .. grid-item:: 地址 B78EF (2B14C)
-    .. grid-item:: 精神地址 B7900(2B15E)
-    .. grid-item:: 地形适应 空B陆A海C宇A
+    .. grid-item:: 英文:Elpeo Ple。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第40话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:240。
+        :columns: auto
+
+
+    .. grid-item:: 编码:32。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B78EF (2B14C)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7900(2B15E)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -467,9 +551,9 @@
 
 .. _srw4_pilot_elpeo_ple_commentEnd:
 
-^^^^^^^^
-プルツー
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+プルツー(璞露兹)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_ple_two:
 
@@ -485,15 +569,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_33.png
 
-    .. grid-item:: 英文:Ple Two
-    .. grid-item:: 登场/加入:第40话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 245
-    .. grid-item:: 编码 33
-    .. grid-item:: 地址 B7910 (2B172)
-    .. grid-item:: 精神地址 B7921(2B184)
-    .. grid-item:: 地形适应 空B陆A海C宇A
+    .. grid-item:: 英文:Ple Two。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第40话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:245。
+        :columns: auto
+
+
+    .. grid-item:: 编码:33。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7910 (2B172)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7921(2B184)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -623,9 +733,9 @@
 
 .. _srw4_pilots_mobile_suit_gundam_zz_enemy_commentEnd:
 
-^^^^^^^^^^^^^^^^
-マシュマー・セロ
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+マシュマー・セロ(马修曼·塞罗)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_mashymre_cello:
 
@@ -641,15 +751,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_8F.png
 
-    .. grid-item:: 英文:Mashymre Cello
-    .. grid-item:: 登场/加入:第24话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 236
-    .. grid-item:: 编码 8F
-    .. grid-item:: 地址 B83E6 (2BD5C)
-    .. grid-item:: 精神地址 B83F7(2BD6E)
-    .. grid-item:: 地形适应 空B陆A海B宇A
+    .. grid-item:: 英文:Mashymre Cello。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第24话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:236。
+        :columns: auto
+
+
+    .. grid-item:: 编码:8F。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B83E6 (2BD5C)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B83F7(2BD6E)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -765,9 +901,9 @@
 
 .. _srw4_pilot_mashymre_cello_commentEnd:
 
-^^^^^^^^^^^^^^
-ゴットン・ゴー
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ゴットン・ゴー(哥顿·高)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_gottn_goh:
 
@@ -783,15 +919,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_93.png
 
-    .. grid-item:: 英文:Gottn Goh
-    .. grid-item:: 登场/加入:第24话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 185
-    .. grid-item:: 编码 93
-    .. grid-item:: 地址 B8468 (2BDEE)
-    .. grid-item:: 精神地址 B8479(2BE00)
-    .. grid-item:: 地形适应 空C陆B海C宇A
+    .. grid-item:: 英文:Gottn Goh。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第24话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:185。
+        :columns: auto
+
+
+    .. grid-item:: 编码:93。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8468 (2BDEE)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8479(2BE00)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆B海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -896,9 +1058,9 @@
 
 .. _srw4_pilot_gottn_goh_commentEnd:
 
-^^^^^^^^^^^^^^
-ニー・ギーレン
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ニー・ギーレン(尼尔·基伦)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_ni_gilleen:
 
@@ -914,15 +1076,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_94.png
 
-    .. grid-item:: 英文:Ni Gilleen
-    .. grid-item:: 登场/加入:第24话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 218
-    .. grid-item:: 编码 94
-    .. grid-item:: 地址 B8487 (2BE0E)
-    .. grid-item:: 精神地址 B8498(2BE20)
-    .. grid-item:: 地形适应 空B陆B海D宇A
+    .. grid-item:: 英文:Ni Gilleen。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第24话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:218。
+        :columns: auto
+
+
+    .. grid-item:: 编码:94。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8487 (2BE0E)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8498(2BE20)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆B海D宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1038,9 +1226,9 @@
 
 .. _srw4_pilot_ni_gilleen_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ランス・ギーレン
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ランス・ギーレン(兰斯·基伦)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_lance_gielen:
 
@@ -1056,15 +1244,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_95.png
 
-    .. grid-item:: 英文:Lance Gielen
-    .. grid-item:: 登场/加入:第24话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 218
-    .. grid-item:: 编码 95
-    .. grid-item:: 地址 B84A8 (2BE32)
-    .. grid-item:: 精神地址 B84B9(2BE44)
-    .. grid-item:: 地形适应 空B陆B海D宇A
+    .. grid-item:: 英文:Lance Gielen。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第24话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:218。
+        :columns: auto
+
+
+    .. grid-item:: 编码:95。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B84A8 (2BE32)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B84B9(2BE44)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆B海D宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1180,9 +1394,9 @@
 
 .. _srw4_pilot_lance_gielen_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ラカン・ダカラン
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ラカン・ダカラン(拉坎·塔卡兰)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_rakan_dahkaran:
 
@@ -1198,15 +1412,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_96.png
 
-    .. grid-item:: 英文:Rakan Dahkaran
-    .. grid-item:: 登场/加入:第24话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 250
-    .. grid-item:: 编码 96
-    .. grid-item:: 地址 B84C9 (2BE56)
-    .. grid-item:: 精神地址 B84DA(2BE68)
-    .. grid-item:: 地形适应 空A陆A海B宇A
+    .. grid-item:: 英文:Rakan Dahkaran。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第24话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:250。
+        :columns: auto
+
+
+    .. grid-item:: 编码:96。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B84C9 (2BE56)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B84DA(2BE68)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1311,9 +1551,9 @@
 
 .. _srw4_pilot_rakan_dahkaran_commentEnd:
 
-^^^^^^^^^^^^^^
-イリア・パゾム
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+イリア・パゾム(伊莉娅·帕索姆)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_ilia_pathom:
 
@@ -1329,15 +1569,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_90.png
 
-    .. grid-item:: 英文:Ilia Pathom
-    .. grid-item:: 登场/加入:第25话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 228
-    .. grid-item:: 编码 90
-    .. grid-item:: 地址 B8407 (2BD84)
-    .. grid-item:: 精神地址 B8418(2BD96)
-    .. grid-item:: 地形适应 空B陆B海D宇A
+    .. grid-item:: 英文:Ilia Pathom。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第25话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:228。
+        :columns: auto
+
+
+    .. grid-item:: 编码:90。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8407 (2BD84)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8418(2BD96)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆B海D宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1453,9 +1719,9 @@
 
 .. _srw4_pilot_ilia_pathom_commentEnd:
 
-^^^^^^^^^^^^^^
-キャラ・スーン
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+キャラ・スーン(姬拉·森)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_chara_soon:
 
@@ -1471,15 +1737,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_91.png
 
-    .. grid-item:: 英文:Chara Soon
-    .. grid-item:: 登场/加入:第40话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 237
-    .. grid-item:: 编码 91
-    .. grid-item:: 地址 B8428 (2BDAA)
-    .. grid-item:: 精神地址 B8439(2BDBC)
-    .. grid-item:: 地形适应 空A陆B海D宇A
+    .. grid-item:: 英文:Chara Soon。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第40话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:237。
+        :columns: auto
+
+
+    .. grid-item:: 编码:91。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8428 (2BDAA)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8439(2BDBC)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆B海D宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1592,9 +1884,9 @@
 
 .. _srw4_pilots_mobile_suit_gundam_zz_ally_commentEnd:
 
-^^^^^^^^^^^^^^^^
-エマリー・オンス
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+エマリー・オンス(艾玛丽·昂斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_emary_ounce:
 
@@ -1610,15 +1902,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_39.png
 
-    .. grid-item:: 英文:Emary Ounce
-    .. grid-item:: 登场/加入:第38话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 39
-    .. grid-item:: 地址 B79C4 (2B230)
-    .. grid-item:: 精神地址 B79D5(2B242)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Emary Ounce。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第38话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:39。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B79C4 (2B230)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B79D5(2B242)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1712,9 +2030,9 @@
 
 .. _srw4_pilot_emary_ounce_commentEnd:
 
-^^^^^^^^^^^^^^^^
-リィナ・アーシタ
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+リィナ・アーシタ(莉娜·亚西塔)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_leina_ashta:
 
@@ -1730,14 +2048,37 @@
 
         .. image:: ../pilots/images/srw4_pilot_34.png
 
-    .. grid-item:: 英文:Leina Ashta
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 34
-    .. grid-item:: 地址 B7931 (2B198)
-    .. grid-item:: 精神地址 B7942(2B1AA)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Leina Ashta。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:34。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7931 (2B198)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7942(2B1AA)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1831,9 +2172,9 @@
 
 .. _srw4_pilot_leina_ashta_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-ビーチャ・オレーグ
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ビーチャ・オレーグ(比查·奥利格)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_beecha_oleg:
 
@@ -1849,14 +2190,37 @@
 
         .. image:: ../pilots/images/srw4_pilot_35.png
 
-    .. grid-item:: 英文:Beecha Oleg
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 135
-    .. grid-item:: 编码 35
-    .. grid-item:: 地址 B7948 (2B1B0)
-    .. grid-item:: 精神地址 B7959(2B1C2)
-    .. grid-item:: 地形适应 空A陆B海C宇A
+    .. grid-item:: 英文:Beecha Oleg。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:135。
+        :columns: auto
+
+
+    .. grid-item:: 编码:35。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7948 (2B1B0)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7959(2B1C2)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆B海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1978,9 +2342,9 @@
 
 .. _srw4_pilot_beecha_oleg_commentEnd:
 
-^^^^^^^^^^^^^^
-エル・ビアンノ
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+エル・ビアンノ(艾露·比安诺)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_elle_viano:
 
@@ -1996,14 +2360,37 @@
 
         .. image:: ../pilots/images/srw4_pilot_37.png
 
-    .. grid-item:: 英文:Elle Viano
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 120
-    .. grid-item:: 编码 37
-    .. grid-item:: 地址 B798A (2B1F4)
-    .. grid-item:: 精神地址 B799B(2B206)
-    .. grid-item:: 地形适应 空C陆B海A宇A
+    .. grid-item:: 英文:Elle Viano。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:120。
+        :columns: auto
+
+
+    .. grid-item:: 编码:37。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B798A (2B1F4)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B799B(2B206)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆B海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2133,9 +2520,9 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
 
 .. _srw4_pilots_mobile_suit_gundam_zz_dead_data_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-モンド・アガケ(没)
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+モンド・アガケ(蒙多·雅加凯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_mondo_agake:
 
@@ -2151,14 +2538,37 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
 
         .. image:: ../pilots/images/srw4_pilot_36.png
 
-    .. grid-item:: 英文:Mondo Agake
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 115
-    .. grid-item:: 编码 36
-    .. grid-item:: 地址 B7969 (2B1D2)
-    .. grid-item:: 精神地址 B797A(2B1E4)
-    .. grid-item:: 地形适应 空C陆B海C宇B
+    .. grid-item:: 英文:Mondo Agake。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:115。
+        :columns: auto
+
+
+    .. grid-item:: 编码:36。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7969 (2B1D2)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B797A(2B1E4)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆B海C宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2276,9 +2686,9 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
 
 .. _srw4_pilot_mondo_agake_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^
-イーノ・アッバーブ(没)
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+イーノ・アッバーブ(伊诺·阿帕夫)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_iino_abbav:
 
@@ -2294,14 +2704,37 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
 
         .. image:: ../pilots/images/srw4_pilot_38.png
 
-    .. grid-item:: 英文:Iino Abbav
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 38
-    .. grid-item:: 地址 B79AD (2B218)
-    .. grid-item:: 精神地址 B79BE(2B22A)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Iino Abbav。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:38。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B79AD (2B218)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B79BE(2B22A)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2395,9 +2828,9 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
 
 .. _srw4_pilot_iino_abbav_commentEnd:
 
-^^^^^^^^^^^^^^
-グレミー・トト
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+グレミー・トト(古利明·托托)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_glemy_toto:
 
@@ -2413,14 +2846,37 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
 
         .. image:: ../pilots/images/srw4_pilot_92.png
 
-    .. grid-item:: 英文:Glemy Toto
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 238
-    .. grid-item:: 编码 92
-    .. grid-item:: 地址 B8447 (2BDCA)
-    .. grid-item:: 精神地址 B8458(2BDDC)
-    .. grid-item:: 地形适应 空A陆B海C宇A
+    .. grid-item:: 英文:Glemy Toto。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:238。
+        :columns: auto
+
+
+    .. grid-item:: 编码:92。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8447 (2BDCA)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8458(2BDDC)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆B海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 

@@ -8,6 +8,12 @@
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_units_mobile_suit_gundam_sentinel_commentBegin:
 
 本作中只有机体登场，本作之后再无出场。传言是由于版权纠纷，但如果此事属实，则在PS重制版中应删除才对。
@@ -22,9 +28,9 @@
 
 .. _srw4_units_mobile_suit_gundam_sentinel_own_commentEnd:
 
-^^^^^^^^^^
-Sガンダム
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+Sガンダム(S高达)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_s_gundam:
 
@@ -51,33 +57,33 @@ Sガンダム
             :padding: 0
 
 
-            .. grid-item:: 英文:S Gundam
+            .. grid-item:: 英文:S Gundam。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第20话
+            .. grid-item:: 登场/加入:第20话。
                 :columns: auto
 
-            .. grid-item:: 编码 D5
+            .. grid-item:: 编码:D5。
                 :columns: auto
 
-            .. grid-item:: 地址 BBA60 (2874F)
+            .. grid-item:: 地址 BBA60 (2874F)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBA80 (2876F)
+            .. grid-item:: 武器首地址:BBA80 (2876F)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫陆B海D宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 剣装備, ビームコート
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫陆B海D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 技能: 剣装備、ビームコート。
                 :columns: auto
 
 
@@ -155,7 +161,7 @@ Sガンダム
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -256,9 +262,9 @@ MS形态下与科配合默契，但考虑到G巡洋舰的适应更佳，也可�
 
 .. _srw4_unit_s_gundam_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-Gクルーザー (S)
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Gクルーザー (S)(S号G-巡航机)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_g_cruiser_s:
 
@@ -285,33 +291,33 @@ Gクルーザー (S)
             :padding: 0
 
 
-            .. grid-item:: 英文:G Cruiser (S)
+            .. grid-item:: 英文:G Cruiser (S)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第20话
+            .. grid-item:: 登场/加入:第20话。
                 :columns: auto
 
-            .. grid-item:: 编码 D6
+            .. grid-item:: 编码:D6。
                 :columns: auto
 
-            .. grid-item:: 地址 BBA94 (28783)
+            .. grid-item:: 地址 BBA94 (28783)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBAB4 (287A3)
+            .. grid-item:: 武器首地址:BBAB4 (287A3)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫海🚫宇A
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: ビームコート
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫海🚫宇A。
+                :columns: auto
+
+
+            .. grid-item:: 技能: ビームコート。
                 :columns: auto
 
 
@@ -389,7 +395,7 @@ Gクルーザー (S)
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -432,9 +438,9 @@ G巡洋舰需在地图上变形一次或在通关画面变形检查单位性能�
 
 .. _srw4_unit_g_cruiser_s_commentEnd:
 
-^^^^^^^^^^^^^^
-ExSガンダム
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ExSガンダム(ExS高达)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_ex_s_gundam:
 
@@ -461,33 +467,33 @@ ExSガンダム
             :padding: 0
 
 
-            .. grid-item:: 英文:Ex-S Gundam
+            .. grid-item:: 英文:Ex-S Gundam。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第33话
+            .. grid-item:: 登场/加入:第33话。
                 :columns: auto
 
-            .. grid-item:: 编码 DB
+            .. grid-item:: 编码:DB。
                 :columns: auto
 
-            .. grid-item:: 地址 BBB74 (28863)
+            .. grid-item:: 地址 BBB74 (28863)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBB94 (28883)
+            .. grid-item:: 武器首地址:BBB94 (28883)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫陆B海D宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 剣装備, Iフィールド
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫陆B海D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 技能: 剣装備、Iフィールド。
                 :columns: auto
 
 
@@ -565,7 +571,7 @@ ExSガンダム
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -675,9 +681,9 @@ ExSガンダム
 
 .. _srw4_unit_ex_s_gundam_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^
-Gクルーザー (EXS)
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Gクルーザー (EXS)(EX-S号G-巡航机)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_g_cruiser_ex_s:
 
@@ -704,33 +710,33 @@ Gクルーザー (EXS)
             :padding: 0
 
 
-            .. grid-item:: 英文:G Cruiser (EX-S)
+            .. grid-item:: 英文:G Cruiser (EX-S)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第33话
+            .. grid-item:: 登场/加入:第33话。
                 :columns: auto
 
-            .. grid-item:: 编码 DC
+            .. grid-item:: 编码:DC。
                 :columns: auto
 
-            .. grid-item:: 地址 BBBAB (2889A)
+            .. grid-item:: 地址 BBBAB (2889A)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBBCB (288BA)
+            .. grid-item:: 武器首地址:BBBCB (288BA)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫海🚫宇A
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: Iフィールド
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫海🚫宇A。
+                :columns: auto
+
+
+            .. grid-item:: 技能: Iフィールド。
                 :columns: auto
 
 
@@ -808,7 +814,7 @@ Gクルーザー (EXS)
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

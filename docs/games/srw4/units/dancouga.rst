@@ -8,6 +8,12 @@
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_units_dancouga_commentBegin:
 
 不像F和F完结篇，本作中断空我系列只有我方机体和人物出场。
@@ -23,9 +29,9 @@
 
 .. _srw4_units_dancouga_own_commentEnd:
 
-^^^^^^^^^^
-ダンクーガ
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+ダンクーガ(断空我)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_dancouga:
 
@@ -52,33 +58,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Dancouga
+            .. grid-item:: 英文:Dancouga。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第11话
+            .. grid-item:: 登场/加入:第11话。
                 :columns: auto
 
-            .. grid-item:: 编码 43
+            .. grid-item:: 编码:43。
                 :columns: auto
 
-            .. grid-item:: 地址 BA171 (26E60)
+            .. grid-item:: 地址 BA171 (26E60)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA191 (26E80)
+            .. grid-item:: 武器首地址:BA191 (26E80)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇 (空陸)
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A→B (A)海C宇B (A)
+            .. grid-item:: 移动类型:陸宇 (空陸)。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`藤原忍 <srw4_pilot_shinobu_fujiwara>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A→B (A)海C宇B (A)。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`藤原忍 <srw4_pilot_shinobu_fujiwara>`\ 。
                 :columns: auto
 
 
@@ -159,7 +165,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -245,9 +251,9 @@
 
 .. _srw4_unit_dancouga_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-イーグルファイターN
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+イーグルファイターN(鹰战机)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_eagle_fighter_n:
 
@@ -274,33 +280,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Eagle Fighter N
+            .. grid-item:: 英文:Eagle Fighter N。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 44
+            .. grid-item:: 编码:44。
                 :columns: auto
 
-            .. grid-item:: 地址 BA1A2 (26E91)
+            .. grid-item:: 地址 BA1A2 (26E91)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA1C2 (26EB1)
+            .. grid-item:: 武器首地址:BA1C2 (26EB1)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→D (C)海🚫→D宇B
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`藤原忍 <srw4_pilot_shinobu_fujiwara>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→D (C)海🚫→D宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`藤原忍 <srw4_pilot_shinobu_fujiwara>`\ 。
                 :columns: auto
 
 
@@ -381,7 +387,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -433,9 +439,9 @@
 
 .. _srw4_unit_eagle_fighter_n_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-イーグルファイターA
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+イーグルファイターA(鹰战机A)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_eagle_fighter_a:
 
@@ -462,33 +468,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Eagle Fighter A
+            .. grid-item:: 英文:Eagle Fighter A。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 45
+            .. grid-item:: 编码:45。
                 :columns: auto
 
-            .. grid-item:: 地址 BA1CD (26EBC)
+            .. grid-item:: 地址 BA1CD (26EBC)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA1ED (26EDC)
+            .. grid-item:: 武器首地址:BA1ED (26EDC)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→D (C)海🚫→D宇B
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`藤原忍 <srw4_pilot_shinobu_fujiwara>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→D (C)海🚫→D宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`藤原忍 <srw4_pilot_shinobu_fujiwara>`\ 。
                 :columns: auto
 
 
@@ -569,7 +575,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -634,9 +640,9 @@
 
 .. _srw4_unit_eagle_fighter_a_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-イーグルファイターH
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+イーグルファイターH(鹰战机H)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_eagle_fighter_h:
 
@@ -663,33 +669,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Eagle Fighter H
+            .. grid-item:: 英文:Eagle Fighter H。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 46
+            .. grid-item:: 编码:46。
                 :columns: auto
 
-            .. grid-item:: 地址 BA1FB (26EEA)
+            .. grid-item:: 地址 BA1FB (26EEA)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA21B (26F0A)
+            .. grid-item:: 武器首地址:BA21B (26F0A)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→C陆A→B (A)海D→C宇B
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`藤原忍 <srw4_pilot_shinobu_fujiwara>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→C陆A→B (A)海D→C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`藤原忍 <srw4_pilot_shinobu_fujiwara>`\ 。
                 :columns: auto
 
 
@@ -770,7 +776,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -835,9 +841,9 @@
 
 .. _srw4_unit_eagle_fighter_h_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ランドクーガーN
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ランドクーガーN(猎豹N)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_land_cougar_n:
 
@@ -864,33 +870,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Land Cougar N
+            .. grid-item:: 英文:Land Cougar N。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 47
+            .. grid-item:: 编码:47。
                 :columns: auto
 
-            .. grid-item:: 地址 BA229 (26F18)
+            .. grid-item:: 地址 BA229 (26F18)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA249 (26F38)
+            .. grid-item:: 武器首地址:BA249 (26F38)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海C宇C
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`結城沙羅 <srw4_pilot_sara_yuki>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海C宇C。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`結城沙羅 <srw4_pilot_sara_yuki>`\ 。
                 :columns: auto
 
 
@@ -971,7 +977,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1010,9 +1016,9 @@
 
 .. _srw4_unit_land_cougar_n_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ランドクーガーA
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ランドクーガーA(猎豹A)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_land_cougar_a:
 
@@ -1039,33 +1045,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Land Cougar A
+            .. grid-item:: 英文:Land Cougar A。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 48
+            .. grid-item:: 编码:48。
                 :columns: auto
 
-            .. grid-item:: 地址 BA251 (26F40)
+            .. grid-item:: 地址 BA251 (26F40)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA271 (26F60)
+            .. grid-item:: 武器首地址:BA271 (26F60)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海C宇C
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`結城沙羅 <srw4_pilot_sara_yuki>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海C宇C。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`結城沙羅 <srw4_pilot_sara_yuki>`\ 。
                 :columns: auto
 
 
@@ -1146,7 +1152,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1198,9 +1204,9 @@
 
 .. _srw4_unit_land_cougar_a_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ランドクーガーH
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ランドクーガーH(猎豹H)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_land_cougar_h:
 
@@ -1227,33 +1233,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Land Cougar H
+            .. grid-item:: 英文:Land Cougar H。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 49
+            .. grid-item:: 编码:49。
                 :columns: auto
 
-            .. grid-item:: 地址 BA27C (26F6B)
+            .. grid-item:: 地址 BA27C (26F6B)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA29C (26F8B)
+            .. grid-item:: 武器首地址:BA29C (26F8B)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海C宇B
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`結城沙羅 <srw4_pilot_sara_yuki>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`結城沙羅 <srw4_pilot_sara_yuki>`\ 。
                 :columns: auto
 
 
@@ -1334,7 +1340,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1386,9 +1392,9 @@
 
 .. _srw4_unit_land_cougar_h_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ランドライガーN
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ランドライガーN(美洲虎N)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_land_liger_n:
 
@@ -1415,33 +1421,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Land Liger N
+            .. grid-item:: 英文:Land Liger N。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 4A
+            .. grid-item:: 编码:4A。
                 :columns: auto
 
-            .. grid-item:: 地址 BA2A7 (26F96)
+            .. grid-item:: 地址 BA2A7 (26F96)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA2C7 (26FB6)
+            .. grid-item:: 武器首地址:BA2C7 (26FB6)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海C宇C
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`式部雅人 <srw4_pilot_masato_shikibu>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海C宇C。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`式部雅人 <srw4_pilot_masato_shikibu>`\ 。
                 :columns: auto
 
 
@@ -1522,7 +1528,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1561,9 +1567,9 @@
 
 .. _srw4_unit_land_liger_n_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ランドライガーA
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ランドライガーA(美洲虎A)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_land_liger_a:
 
@@ -1590,33 +1596,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Land Liger A
+            .. grid-item:: 英文:Land Liger A。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 4B
+            .. grid-item:: 编码:4B。
                 :columns: auto
 
-            .. grid-item:: 地址 BA2CF (26FBE)
+            .. grid-item:: 地址 BA2CF (26FBE)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA2EF (26FDE)
+            .. grid-item:: 武器首地址:BA2EF (26FDE)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海C宇C
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`式部雅人 <srw4_pilot_masato_shikibu>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海C宇C。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`式部雅人 <srw4_pilot_masato_shikibu>`\ 。
                 :columns: auto
 
 
@@ -1697,7 +1703,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1749,9 +1755,9 @@
 
 .. _srw4_unit_land_liger_a_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ランドライガーH
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ランドライガーH(美洲虎H)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_land_liger_h:
 
@@ -1778,33 +1784,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Land Liger H
+            .. grid-item:: 英文:Land Liger H。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 4C
+            .. grid-item:: 编码:4C。
                 :columns: auto
 
-            .. grid-item:: 地址 BA2FA (26FE9)
+            .. grid-item:: 地址 BA2FA (26FE9)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA31A (27009)
+            .. grid-item:: 武器首地址:BA31A (27009)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海C宇B
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`式部雅人 <srw4_pilot_masato_shikibu>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`式部雅人 <srw4_pilot_masato_shikibu>`\ 。
                 :columns: auto
 
 
@@ -1885,7 +1891,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1937,9 +1943,9 @@
 
 .. _srw4_unit_land_liger_h_commentEnd:
 
-^^^^^^^^^^^^
-ビッグモスN
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+ビッグモスN(巨象N)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_big_moth_n:
 
@@ -1966,33 +1972,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Big Moth N
+            .. grid-item:: 英文:Big Moth N。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 4D
+            .. grid-item:: 编码:4D。
                 :columns: auto
 
-            .. grid-item:: 地址 BA325 (27014)
+            .. grid-item:: 地址 BA325 (27014)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA345 (27034)
+            .. grid-item:: 武器首地址:BA345 (27034)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海C宇C
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`司馬亮 <srw4_pilot_ryo_shiba>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海C宇C。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`司馬亮 <srw4_pilot_ryo_shiba>`\ 。
                 :columns: auto
 
 
@@ -2073,7 +2079,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2138,9 +2144,9 @@
 
 .. _srw4_unit_big_moth_n_commentEnd:
 
-^^^^^^^^^^^^
-ビッグモスA
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+ビッグモスA(巨象A)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_big_moth_a:
 
@@ -2167,33 +2173,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Big Moth A
+            .. grid-item:: 英文:Big Moth A。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 4E
+            .. grid-item:: 编码:4E。
                 :columns: auto
 
-            .. grid-item:: 地址 BA353 (27042)
+            .. grid-item:: 地址 BA353 (27042)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA373 (27062)
+            .. grid-item:: 武器首地址:BA373 (27062)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海C宇C
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`司馬亮 <srw4_pilot_ryo_shiba>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海C宇C。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`司馬亮 <srw4_pilot_ryo_shiba>`\ 。
                 :columns: auto
 
 
@@ -2274,7 +2280,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2352,9 +2358,9 @@
 
 .. _srw4_unit_big_moth_a_commentEnd:
 
-^^^^^^^^^^^^
-ビッグモスH
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+ビッグモスH(巨象H)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_big_moth_h:
 
@@ -2381,33 +2387,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Big Moth H
+            .. grid-item:: 英文:Big Moth H。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 4F
+            .. grid-item:: 编码:4F。
                 :columns: auto
 
-            .. grid-item:: 地址 BA384 (27073)
+            .. grid-item:: 地址 BA384 (27073)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA3A4 (27093)
+            .. grid-item:: 武器首地址:BA3A4 (27093)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海C宇B
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`司馬亮 <srw4_pilot_ryo_shiba>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`司馬亮 <srw4_pilot_ryo_shiba>`\ 。
                 :columns: auto
 
 
@@ -2488,7 +2494,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

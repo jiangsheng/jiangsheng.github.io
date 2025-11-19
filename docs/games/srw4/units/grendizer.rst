@@ -8,6 +8,12 @@
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_units_grendizer_commentBegin:
 
 无剧情，仅机械怪兽登场。
@@ -23,9 +29,9 @@
 
 .. _srw4_units_grendizer_own_commentEnd:
 
-^^^^^^^^^^^^^^^^
-マリンスペイザー
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+マリンスペイザー(潜水斯陪沙)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_marine_spacer:
 
@@ -52,29 +58,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Marine Spacer
+            .. grid-item:: 英文:Marine Spacer。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 25
+            .. grid-item:: 编码:25。
                 :columns: auto
 
-            .. grid-item:: 地址 B9B7A (26869)
+            .. grid-item:: 地址 B9B7A (26869)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9B9A (26889)
+            .. grid-item:: 武器首地址:B9B9A (26889)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空海
+            .. grid-item:: 移动类型:空海。
                 :columns: auto
 
 
-            .. grid-item:: 大小 M
+            .. grid-item:: 大小 M。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空B陆🚫海A宇B
+            .. grid-item:: 地形适应:空B陆🚫海A宇B。
                 :columns: auto
 
 
@@ -152,7 +158,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -211,9 +217,9 @@
 
 .. _srw4_unit_marine_spacer_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ドリルスパイザー
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ドリルスパイザー(钻地斯陪沙)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_drill_spider:
 
@@ -240,33 +246,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Drill Spider
+            .. grid-item:: 英文:Drill Spider。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第14话
+            .. grid-item:: 登场/加入:第14话。
                 :columns: auto
 
-            .. grid-item:: 编码 24
+            .. grid-item:: 编码:24。
                 :columns: auto
 
-            .. grid-item:: 地址 B9B4F (2683E)
+            .. grid-item:: 地址 B9B4F (2683E)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9B6F (2685E)
+            .. grid-item:: 武器首地址:B9B6F (2685E)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空地中
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B (A)→B陆🚫→C海🚫→D宇B (A)
+            .. grid-item:: 移动类型:空地中。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`マリア・フリード <srw4_pilot_maria_fleed>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B (A)→B陆🚫→C海🚫→D宇B (A)。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`マリア・フリード <srw4_pilot_maria_fleed>`\ 。
                 :columns: auto
 
 
@@ -347,7 +353,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -405,9 +411,9 @@
 
 .. _srw4_unit_drill_spider_commentEnd:
 
-^^^^^^^^^^^^^^
-グレンダイザー
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+グレンダイザー(古连泰沙)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_grendizer:
 
@@ -434,33 +440,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Grendizer
+            .. grid-item:: 英文:Grendizer。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第24话
+            .. grid-item:: 登场/加入:第24话。
                 :columns: auto
 
-            .. grid-item:: 编码 21
+            .. grid-item:: 编码:21。
                 :columns: auto
 
-            .. grid-item:: 地址 B9AB6 (267A5)
+            .. grid-item:: 地址 B9AB6 (267A5)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9AD6 (267C5)
+            .. grid-item:: 武器首地址:B9AD6 (267C5)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B (A)陆A→B (A)海D (B)宇A
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`デューク・フリード <srw4_pilot_duke_fleed>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B (A)陆A→B (A)海D (B)宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`デューク・フリード <srw4_pilot_duke_fleed>`\ 。
                 :columns: auto
 
 
@@ -541,7 +547,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -642,9 +648,9 @@
 
 .. _srw4_unit_grendizer_commentEnd:
 
-^^^^^^^^^^
-スペイザー
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+スペイザー(斯陪沙)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_spacer:
 
@@ -671,33 +677,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Spacer
+            .. grid-item:: 英文:Spacer。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第24话
+            .. grid-item:: 登场/加入:第24话。
                 :columns: auto
 
-            .. grid-item:: 编码 22
+            .. grid-item:: 编码:22。
                 :columns: auto
 
-            .. grid-item:: 地址 B9AEA (267D9)
+            .. grid-item:: 地址 B9AEA (267D9)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9B0A (267F9)
+            .. grid-item:: 武器首地址:B9B0A (267F9)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B (A)陆🚫→D (C)海🚫→D (C)宇A
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`デューク・フリード <srw4_pilot_duke_fleed>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B (A)陆🚫→D (C)海🚫→D (C)宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`デューク・フリード <srw4_pilot_duke_fleed>`\ 。
                 :columns: auto
 
 
@@ -778,7 +784,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -896,9 +902,9 @@
 
 .. _srw4_unit_spacer_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ダブルスペイザー
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ダブルスペイザー(飞行斯陪沙)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_double_spacer:
 
@@ -925,33 +931,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Double Spacer
+            .. grid-item:: 英文:Double Spacer。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第24话
+            .. grid-item:: 登场/加入:第24话。
                 :columns: auto
 
-            .. grid-item:: 编码 23
+            .. grid-item:: 编码:23。
                 :columns: auto
 
-            .. grid-item:: 地址 B9B24 (26813)
+            .. grid-item:: 地址 B9B24 (26813)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9B44 (26833)
+            .. grid-item:: 武器首地址:B9B44 (26833)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→D海🚫→C宇B (A)→B
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`牧場ひかる <srw4_pilot_hikaru_makiba>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→D海🚫→C宇B (A)→B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`牧場ひかる <srw4_pilot_hikaru_makiba>`\ 。
                 :columns: auto
 
 
@@ -1032,7 +1038,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1088,9 +1094,9 @@
 
 .. _srw4_unit_double_spacer_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^
-グレンダイザー (WS)
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+グレンダイザー (WS)(飞行古连泰沙)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_grendizer_ws:
 
@@ -1117,33 +1123,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Grendizer (WS)
+            .. grid-item:: 英文:Grendizer (WS)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第24话
+            .. grid-item:: 登场/加入:第24话。
                 :columns: auto
 
-            .. grid-item:: 编码 26
+            .. grid-item:: 编码:26。
                 :columns: auto
 
-            .. grid-item:: 地址 B9BA5 (26894)
+            .. grid-item:: 地址 B9BA5 (26894)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9BC5 (268B4)
+            .. grid-item:: 武器首地址:B9BC5 (268B4)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A→B (A)海D (C)→D (B)宇A
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`デューク・フリード <srw4_pilot_duke_fleed>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A→B (A)海D (C)→D (B)宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`デューク・フリード <srw4_pilot_duke_fleed>`\ 。
                 :columns: auto
 
 
@@ -1224,7 +1230,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1354,9 +1360,9 @@
 
 .. _srw4_unit_grendizer_ws_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^
-グレンダイザー (DS)
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+グレンダイザー (DS)(钻地古连泰沙)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_grendizer_ds:
 
@@ -1383,33 +1389,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Grendizer (DS)
+            .. grid-item:: 英文:Grendizer (DS)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第24话
+            .. grid-item:: 登场/加入:第24话。
                 :columns: auto
 
-            .. grid-item:: 编码 27
+            .. grid-item:: 编码:27。
                 :columns: auto
 
-            .. grid-item:: 地址 B9BE2 (268D1)
+            .. grid-item:: 地址 B9BE2 (268D1)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9C02 (268F1)
+            .. grid-item:: 武器首地址:B9C02 (268F1)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸空地中
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A→B (A)海D (C)→D (B)宇A
+            .. grid-item:: 移动类型:陸空地中。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`デューク・フリード <srw4_pilot_duke_fleed>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A→B (A)海D (C)→D (B)宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`デューク・フリード <srw4_pilot_duke_fleed>`\ 。
                 :columns: auto
 
 
@@ -1490,7 +1496,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1620,9 +1626,9 @@
 
 .. _srw4_unit_grendizer_ds_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^
-グレンダイザー (MS)
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+グレンダイザー (MS)(潜水古连泰沙)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_grendizer_ms:
 
@@ -1649,33 +1655,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Grendizer (MS)
+            .. grid-item:: 英文:Grendizer (MS)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第24话
+            .. grid-item:: 登场/加入:第24话。
                 :columns: auto
 
-            .. grid-item:: 编码 28
+            .. grid-item:: 编码:28。
                 :columns: auto
 
-            .. grid-item:: 地址 B9C1F (2690E)
+            .. grid-item:: 地址 B9C1F (2690E)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9C3F (2692E)
+            .. grid-item:: 武器首地址:B9C3F (2692E)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 水陸空
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆D (C)→C (B)海A→B (A)宇A
+            .. grid-item:: 移动类型:水陸空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`デューク・フリード <srw4_pilot_duke_fleed>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆D (C)→C (B)海A→B (A)宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`デューク・フリード <srw4_pilot_duke_fleed>`\ 。
                 :columns: auto
 
 
@@ -1756,7 +1762,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1894,9 +1900,9 @@
 
 .. _srw4_units_grendizer_enemy_commentEnd:
 
-^^^^^^^^^^
-ミニフォー
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+ミニフォー(飞盘)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_minifo:
 
@@ -1923,29 +1929,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:MiniFO
+            .. grid-item:: 英文:MiniFO。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 A0
+            .. grid-item:: 编码:A0。
                 :columns: auto
 
-            .. grid-item:: 地址 BB16F (27E5E)
+            .. grid-item:: 地址 BB16F (27E5E)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB18F (27E7E)
+            .. grid-item:: 武器首地址:BB18F (27E7E)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 大小 M
+            .. grid-item:: 大小 M。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆🚫海🚫宇A
+            .. grid-item:: 地形适应:空A陆🚫海🚫宇A。
                 :columns: auto
 
 
@@ -2023,7 +2029,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2061,9 +2067,9 @@
 
 .. _srw4_unit_minifo_commentEnd:
 
-^^^^^^^^^^^^^^
-円盤獣ギルギル
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+円盤獣ギルギル(圆盘兽基鲁基鲁)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_saucer_beast_girugiru:
 
@@ -2090,29 +2096,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Saucer Beast Girugiru
+            .. grid-item:: 英文:Saucer Beast Girugiru。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第7话
+            .. grid-item:: 登场/加入:第7话。
                 :columns: auto
 
-            .. grid-item:: 编码 A2
+            .. grid-item:: 编码:A2。
                 :columns: auto
 
-            .. grid-item:: 地址 BB1C2 (27EB1)
+            .. grid-item:: 地址 BB1C2 (27EB1)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB1E2 (27ED1)
+            .. grid-item:: 武器首地址:BB1E2 (27ED1)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空B陆B海C宇A
+            .. grid-item:: 地形适应:空B陆B海C宇A。
                 :columns: auto
 
 
@@ -2190,7 +2196,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2248,9 +2254,9 @@
 
 .. _srw4_unit_saucer_beast_girugiru_commentEnd:
 
-^^^^^^^^^^^^^^
-円盤獣デキデキ
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+円盤獣デキデキ(圆盘兽德基德基)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_saucer_beast_dekideki:
 
@@ -2277,29 +2283,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Saucer Beast Dekideki
+            .. grid-item:: 英文:Saucer Beast Dekideki。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第18话
+            .. grid-item:: 登场/加入:第18话。
                 :columns: auto
 
-            .. grid-item:: 编码 117
+            .. grid-item:: 编码:117。
                 :columns: auto
 
-            .. grid-item:: 地址 BC5B8 (292A4)
+            .. grid-item:: 地址 BC5B8 (292A4)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC5D8 (292C4)
+            .. grid-item:: 武器首地址:BC5D8 (292C4)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆A海D宇A
+            .. grid-item:: 地形适应:空A陆A海D宇A。
                 :columns: auto
 
 
@@ -2377,7 +2383,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2428,9 +2434,9 @@
 
 .. _srw4_unit_saucer_beast_dekideki_commentEnd:
 
-^^^^^^^^^^^^^^
-円盤獣ゴスゴス
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+円盤獣ゴスゴス(圆盘兽格斯格斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_saucer_beast_gosgos:
 
@@ -2457,29 +2463,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Saucer Beast Gosgos
+            .. grid-item:: 英文:Saucer Beast Gosgos。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第19话
+            .. grid-item:: 登场/加入:第19话。
                 :columns: auto
 
-            .. grid-item:: 编码 A3
+            .. grid-item:: 编码:A3。
                 :columns: auto
 
-            .. grid-item:: 地址 BB1ED (27EDC)
+            .. grid-item:: 地址 BB1ED (27EDC)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB20D (27EFC)
+            .. grid-item:: 武器首地址:BB20D (27EFC)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空B陆B海C宇A
+            .. grid-item:: 地形适应:空B陆B海C宇A。
                 :columns: auto
 
 
@@ -2557,7 +2563,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2608,9 +2614,9 @@
 
 .. _srw4_unit_saucer_beast_gosgos_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ベガ獣キングゴリ
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ベガ獣キングゴリ(维加兽巨人王)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_vega_beast_king_gori:
 
@@ -2637,29 +2643,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Vega Beast King Gori
+            .. grid-item:: 英文:Vega Beast King Gori。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第21话
+            .. grid-item:: 登场/加入:第21话。
                 :columns: auto
 
-            .. grid-item:: 编码 A4
+            .. grid-item:: 编码:A4。
                 :columns: auto
 
-            .. grid-item:: 地址 BB218 (27F07)
+            .. grid-item:: 地址 BB218 (27F07)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB238 (27F27)
+            .. grid-item:: 武器首地址:BB238 (27F27)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆A海C宇B
+            .. grid-item:: 地形适应:空🚫陆A海C宇B。
                 :columns: auto
 
 
@@ -2737,7 +2743,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2775,9 +2781,9 @@
 
 .. _srw4_unit_vega_beast_king_gori_commentEnd:
 
-^^^^^^^^^^^^
-マザーバーン
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
+マザーバーン(圆盘母舰)
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mother_burn:
 
@@ -2804,29 +2810,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mother Burn
+            .. grid-item:: 英文:Mother Burn。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第22话
+            .. grid-item:: 登场/加入:第22话。
                 :columns: auto
 
-            .. grid-item:: 编码 A1
+            .. grid-item:: 编码:A1。
                 :columns: auto
 
-            .. grid-item:: 地址 BB197 (27E86)
+            .. grid-item:: 地址 BB197 (27E86)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB1B7 (27EA6)
+            .. grid-item:: 武器首地址:BB1B7 (27EA6)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 大小 LL
+            .. grid-item:: 大小 LL。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆🚫海🚫宇A
+            .. grid-item:: 地形适应:空A陆🚫海🚫宇A。
                 :columns: auto
 
 
@@ -2904,7 +2910,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

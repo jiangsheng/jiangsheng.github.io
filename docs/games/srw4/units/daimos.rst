@@ -8,6 +8,12 @@
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_units_daimos_commentBegin:
 
 
@@ -21,9 +27,9 @@
 
 .. _srw4_units_daimos_own_commentEnd:
 
-^^^^^^^^
-ダイモス
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+ダイモス(戴莫斯)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_daimos:
 
@@ -50,33 +56,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Daimos
+            .. grid-item:: 英文:Daimos。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第7话
+            .. grid-item:: 登场/加入:第7话。
                 :columns: auto
 
-            .. grid-item:: 编码 35
+            .. grid-item:: 编码:35。
                 :columns: auto
 
-            .. grid-item:: 地址 B9EB3 (26BA2)
+            .. grid-item:: 地址 B9EB3 (26BA2)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9ED3 (26BC2)
+            .. grid-item:: 武器首地址:B9ED3 (26BC2)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B (A)→B陆A海D (C)宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`竜崎一矢 <srw4_pilot_kazuya_ryuzaki>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B (A)→B陆A海D (C)宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`竜崎一矢 <srw4_pilot_kazuya_ryuzaki>`\ 。
                 :columns: auto
 
 
@@ -157,7 +163,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -349,9 +355,9 @@
 
 .. _srw4_unit_daimos_commentEnd:
 
-^^^^^^^^^^^^^^
-ガルバーFXⅡ
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ガルバーFXⅡ(加尔巴FXⅡ)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_galva_fx_ii:
 
@@ -378,33 +384,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Galva FX-II
+            .. grid-item:: 英文:Galva FX-II。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第7话
+            .. grid-item:: 登场/加入:第7话。
                 :columns: auto
 
-            .. grid-item:: 编码 36
+            .. grid-item:: 编码:36。
                 :columns: auto
 
-            .. grid-item:: 地址 B9EFF (26BEE)
+            .. grid-item:: 地址 B9EFF (26BEE)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9F1F (26C0E)
+            .. grid-item:: 武器首地址:B9F1F (26C0E)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→D海🚫→D宇B
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`桜野マリ <srw4_pilot_mari_sakurano>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→D海🚫→D宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`桜野マリ <srw4_pilot_mari_sakurano>`\ 。
                 :columns: auto
 
 
@@ -485,7 +491,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -547,9 +553,9 @@
 
 .. _srw4_units_daimos_enemy_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^
-メカ戦士ゾンネカイザー
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+メカ戦士ゾンネカイザー(机械战士尊尼凯撒)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mecha_warrior_sonnekaiser:
 
@@ -576,33 +582,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mecha Warrior Sonnekaiser
+            .. grid-item:: 英文:Mecha Warrior Sonnekaiser。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第7话
+            .. grid-item:: 登场/加入:第7话。
                 :columns: auto
 
-            .. grid-item:: 编码 C3
+            .. grid-item:: 编码:C3。
                 :columns: auto
 
-            .. grid-item:: 地址 BB74A (28439)
+            .. grid-item:: 地址 BB74A (28439)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB76A (28459)
+            .. grid-item:: 武器首地址:BB76A (28459)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海A宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`バルバス将軍 <srw4_pilot_balbas>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海A宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`バルバス将軍 <srw4_pilot_balbas>`\ 。
                 :columns: auto
 
 
@@ -683,7 +689,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -735,9 +741,9 @@
 
 .. _srw4_unit_mecha_warrior_sonnekaiser_commentEnd:
 
-^^^^^^^^^^^^
-ガルンロール
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
+ガルンロール(加仑罗尔)
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_guranrol:
 
@@ -764,33 +770,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Guranrol
+            .. grid-item:: 英文:Guranrol。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第7话
+            .. grid-item:: 登场/加入:第7话。
                 :columns: auto
 
-            .. grid-item:: 编码 11C
+            .. grid-item:: 编码:11C。
                 :columns: auto
 
-            .. grid-item:: 地址 BC68C (29378)
+            .. grid-item:: 地址 BC68C (29378)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC6AC (29398)
+            .. grid-item:: 武器首地址:BC6AC (29398)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→D海🚫→C宇A
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`リヒテル提督 <srw4_pilot_richter>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→D海🚫→C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`リヒテル提督 <srw4_pilot_richter>`\ 。
                 :columns: auto
 
 
@@ -871,7 +877,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -923,9 +929,9 @@
 
 .. _srw4_unit_guranrol_commentEnd:
 
-^^^^^^^^^^^^^^^^
-メカ戦士ギメリア
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+メカ戦士ギメリア(机械战士基梅利亚)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mecha_warrior_gimeria:
 
@@ -952,40 +958,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mecha Warrior Gimeria
+            .. grid-item:: 英文:Mecha Warrior Gimeria。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第29话
+            .. grid-item:: 登场/加入:第29话。
                 :columns: auto
 
-            .. grid-item:: 编码 C4
+            .. grid-item:: 编码:C4。
                 :columns: auto
 
-            .. grid-item:: 地址 BB775 (28464)
+            .. grid-item:: 地址 BB775 (28464)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB795 (28484)
+            .. grid-item:: 武器首地址:BB795 (28484)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海A宇A
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`アイザム <srw4_pilot_aizam>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海A宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`アイザム <srw4_pilot_aizam>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B0.png
                 :columns: auto
 
-            .. grid-item:: 激怒/自爆/てかげん無効
+            .. grid-item:: 技能: 激怒/自爆/てかげん無効。
                 :columns: auto
 
 
@@ -1063,7 +1069,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1127,9 +1133,9 @@
 
 .. _srw4_unit_mecha_warrior_gimeria_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^
-メカ戦士ゴッドアーモン
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+メカ戦士ゴッドアーモン(机械战士阿蒙神)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mecha_warrior_goddoamon:
 
@@ -1156,33 +1162,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mecha Warrior Goddoamon
+            .. grid-item:: 英文:Mecha Warrior Goddoamon。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第43话
+            .. grid-item:: 登场/加入:第43话。
                 :columns: auto
 
-            .. grid-item:: 编码 C5
+            .. grid-item:: 编码:C5。
                 :columns: auto
 
-            .. grid-item:: 地址 BB7A4 (28493)
+            .. grid-item:: 地址 BB7A4 (28493)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB7C4 (284B3)
+            .. grid-item:: 武器首地址:BB7C4 (284B3)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海B宇A
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`バルバス将軍 <srw4_pilot_balbas>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`バルバス将軍 <srw4_pilot_balbas>`\ 。
                 :columns: auto
 
 
@@ -1263,7 +1269,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

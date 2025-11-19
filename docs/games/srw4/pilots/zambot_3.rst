@@ -7,6 +7,12 @@
 ====================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_pilots_zambot_3_commentBegin:
 
 部分还原了原作剧情，例如人间炸弹的恐怖场景。不过最终Boss一笔带过，以至于杀手给人留下更深的印象。
@@ -47,15 +53,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_0F.png
 
-    .. grid-item:: 英文:Kappei Jin
-    .. grid-item:: 登场/加入:第9话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 70
-    .. grid-item:: EXP: 220
-    .. grid-item:: 编码 0F
-    .. grid-item:: 地址 B74C2 (2ACBE)
-    .. grid-item:: 精神地址 B74D3(2ACD0)
-    .. grid-item:: 地形适应 空A陆A海C宇A
+    .. grid-item:: 英文:Kappei Jin。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第9话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:70。
+        :columns: auto
+
+
+    .. grid-item:: EXP:220。
+        :columns: auto
+
+
+    .. grid-item:: 编码:0F。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B74C2 (2ACBE)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B74D3(2ACD0)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海C宇A。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ザンバード <srw4_unit_zambird>`\ (赞波鸟)、\ :ref:`ザンボエース <srw4_unit_zambo_ace>`\ (赞波A)、\ :ref:`ザンボット3 <srw4_unit_zambot_3>`\ (赞波特3)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -191,15 +227,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_10.png
 
-    .. grid-item:: 英文:Uchuuta Kamie
-    .. grid-item:: 登场/加入:第9话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 218
-    .. grid-item:: 编码 10
-    .. grid-item:: 地址 B74E3 (2ACE0)
-    .. grid-item:: 精神地址 B74F4(2ACF2)
-    .. grid-item:: 地形适应 空C陆A海B宇A
+    .. grid-item:: 英文:Uchuuta Kamie。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第9话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:218。
+        :columns: auto
+
+
+    .. grid-item:: 编码:10。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B74E3 (2ACE0)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B74F4(2ACF2)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆A海B宇A。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ザンブル <srw4_unit_zambull>`\ (赞波牛)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -322,15 +388,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_11.png
 
-    .. grid-item:: 英文:Keiko Kamikita
-    .. grid-item:: 登场/加入:第9话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 215
-    .. grid-item:: 编码 11
-    .. grid-item:: 地址 B7502 (2AD00)
-    .. grid-item:: 精神地址 B7513(2AD12)
-    .. grid-item:: 地形适应 空A陆C海A宇A
+    .. grid-item:: 英文:Keiko Kamikita。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第9话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:215。
+        :columns: auto
+
+
+    .. grid-item:: 编码:11。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7502 (2AD00)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7513(2AD12)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆C海A宇A。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ザンベース <srw4_unit_zambase>`\ (赞波B)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -448,9 +544,9 @@
 
 .. _srw4_pilots_zambot_3_enemy_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^
-キラー・ザ・ブッチャー
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+キラー・ザ・ブッチャー(基拉·Z·布切)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_killer_the_butcher:
 
@@ -466,15 +562,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_AA.png
 
-    .. grid-item:: 英文:Killer The Butcher
-    .. grid-item:: 登场/加入:第9话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 231
-    .. grid-item:: 编码 AA
-    .. grid-item:: 地址 B870C (2C0BA)
-    .. grid-item:: 精神地址 B871D(2C0CC)
-    .. grid-item:: 地形适应 空A陆A海A宇A
+    .. grid-item:: 英文:Killer The Butcher。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第9话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:231。
+        :columns: auto
+
+
+    .. grid-item:: 编码:AA。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B870C (2C0BA)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B871D(2C0CC)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -609,15 +731,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_56.png
 
-    .. grid-item:: 英文:Heizaemon Kamikita
-    .. grid-item:: 登场/加入:第9话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 56
-    .. grid-item:: 地址 B7D63 (2B66C)
-    .. grid-item:: 精神地址 B7D74(2B67E)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Heizaemon Kamikita。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第9话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:56。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7D63 (2B66C)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7D74(2B67E)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -731,15 +879,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_57.png
 
-    .. grid-item:: 英文:Umee Jin
-    .. grid-item:: 登场/加入:第9话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 57
-    .. grid-item:: 地址 B7D7A (2B684)
-    .. grid-item:: 精神地址 B7D8B(2B696)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Umee Jin。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第9话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:57。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7D7A (2B684)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7D8B(2B696)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -851,15 +1025,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_58.png
 
-    .. grid-item:: 英文:Gengorou Jin
-    .. grid-item:: 登场/加入:第9话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 58
-    .. grid-item:: 地址 B7D91 (2B69C)
-    .. grid-item:: 精神地址 B7DA2(2B6AE)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Gengorou Jin。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第9话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:58。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7D91 (2B69C)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7DA2(2B6AE)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -972,15 +1172,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_59.png
 
-    .. grid-item:: 英文:Ichitaro Jin
-    .. grid-item:: 登场/加入:第9话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 59
-    .. grid-item:: 地址 B7DA8 (2B6B4)
-    .. grid-item:: 精神地址 B7DB9(2B6C6)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Ichitaro Jin。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第9话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:59。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7DA8 (2B6B4)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7DB9(2B6C6)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 

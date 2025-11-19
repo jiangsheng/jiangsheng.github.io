@@ -1,5 +1,5 @@
 .. meta::
-   :description: ザンボット3机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。ザンバード, ザンボエース, ザンブル, ザンベース, ザンボット3, メカブースト・ドミラ, メカブースト・ガビタン（陸）, メカブースト・ガビタン（空）, 赤騎士デスカイン, 青騎士ヘルダイン, バンドック 
+   :description: ザンボット3机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。ザンバード, ザンボエース, ザンブル, ザンベース, ザンボット3, メカブースト·ドミラ, メカブースト·ガビタン（陸）, メカブースト·ガビタン（空）, 赤騎士デスカイン, 青騎士ヘルダイン, バンドック 
 .. _srw4_units_zambot_3:
 
 ====================
@@ -7,6 +7,12 @@
 ====================
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
+
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
 
 .. _srw4_units_zambot_3_commentBegin:
 
@@ -21,9 +27,9 @@
 
 .. _srw4_units_zambot_3_own_commentEnd:
 
-^^^^^^^^^^
-ザンバード
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+ザンバード(赞波鸟)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_zambird:
 
@@ -50,33 +56,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Zambird
+            .. grid-item:: 英文:Zambird。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第9话
+            .. grid-item:: 登场/加入:第9话。
                 :columns: auto
 
-            .. grid-item:: 编码 3A
+            .. grid-item:: 编码:3A。
                 :columns: auto
 
-            .. grid-item:: 地址 B9FBA (26CA9)
+            .. grid-item:: 地址 B9FBA (26CA9)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9FDA (26CC9)
+            .. grid-item:: 武器首地址:B9FDA (26CC9)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→C海🚫→D宇B
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`神勝平 <srw4_pilot_kappei_jin>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→C海🚫→D宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`神勝平 <srw4_pilot_kappei_jin>`\ 。
                 :columns: auto
 
 
@@ -157,7 +163,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -210,9 +216,9 @@
 
 .. _srw4_unit_zambird_commentEnd:
 
-^^^^^^^^^^^^
-ザンボエース
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+ザンボエース(赞波A)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_zambo_ace:
 
@@ -239,33 +245,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Zambo Ace
+            .. grid-item:: 英文:Zambo Ace。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第9话
+            .. grid-item:: 登场/加入:第9话。
                 :columns: auto
 
-            .. grid-item:: 编码 3B
+            .. grid-item:: 编码:3B。
                 :columns: auto
 
-            .. grid-item:: 地址 B9FE5 (26CD4)
+            .. grid-item:: 地址 B9FE5 (26CD4)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA005 (26CF4)
+            .. grid-item:: 武器首地址:BA005 (26CF4)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→C陆A海C宇B
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`神勝平 <srw4_pilot_kappei_jin>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→C陆A海C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`神勝平 <srw4_pilot_kappei_jin>`\ 。
                 :columns: auto
 
 
@@ -346,7 +352,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -411,9 +417,9 @@
 
 .. _srw4_unit_zambo_ace_commentEnd:
 
-^^^^^^^^
-ザンブル
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+ザンブル(赞波牛)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_zambull:
 
@@ -440,33 +446,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Zambull
+            .. grid-item:: 英文:Zambull。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第9话
+            .. grid-item:: 登场/加入:第9话。
                 :columns: auto
 
-            .. grid-item:: 编码 3C
+            .. grid-item:: 编码:3C。
                 :columns: auto
 
-            .. grid-item:: 地址 BA013 (26D02)
+            .. grid-item:: 地址 BA013 (26D02)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA033 (26D22)
+            .. grid-item:: 武器首地址:BA033 (26D22)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海A→B宇B
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`神江宇宙太 <srw4_pilot_uchuuta_kamie>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海A→B宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`神江宇宙太 <srw4_pilot_uchuuta_kamie>`\ 。
                 :columns: auto
 
 
@@ -547,7 +553,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -624,9 +630,9 @@
 
 .. _srw4_unit_zambull_commentEnd:
 
-^^^^^^^^^^
-ザンベース
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+ザンベース(赞波B)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_zambase:
 
@@ -653,33 +659,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Zambase
+            .. grid-item:: 英文:Zambase。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第9话
+            .. grid-item:: 登场/加入:第9话。
                 :columns: auto
 
-            .. grid-item:: 编码 3D
+            .. grid-item:: 编码:3D。
                 :columns: auto
 
-            .. grid-item:: 地址 BA044 (26D33)
+            .. grid-item:: 地址 BA044 (26D33)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA064 (26D53)
+            .. grid-item:: 武器首地址:BA064 (26D53)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空海
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→D海A宇B
+            .. grid-item:: 移动类型:空海。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`神北恵子 <srw4_pilot_keiko_kamikita>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→D海A宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`神北恵子 <srw4_pilot_keiko_kamikita>`\ 。
                 :columns: auto
 
 
@@ -760,7 +766,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -811,9 +817,9 @@
 
 .. _srw4_unit_zambase_commentEnd:
 
-^^^^^^^^^^^^
-ザンボット3
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
+ザンボット3(赞波特3)
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_zambot_3:
 
@@ -840,40 +846,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Zambot 3
+            .. grid-item:: 英文:Zambot 3。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第9话
+            .. grid-item:: 登场/加入:第9话。
                 :columns: auto
 
-            .. grid-item:: 编码 3E
+            .. grid-item:: 编码:3E。
                 :columns: auto
 
-            .. grid-item:: 地址 BA06F (26D5E)
+            .. grid-item:: 地址 BA06F (26D5E)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA08F (26D7E)
+            .. grid-item:: 武器首地址:BA08F (26D7E)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆B海C宇A
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`神勝平 <srw4_pilot_kappei_jin>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆B海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`神勝平 <srw4_pilot_kappei_jin>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_0F.png
                 :columns: auto
 
-            .. grid-item:: 剣装備
+            .. grid-item:: 技能: 剣装備。
                 :columns: auto
 
 
@@ -951,7 +957,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1080,9 +1086,9 @@
 
 .. _srw4_units_zambot_3_enemy_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-メカブースト・ドミラ
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+メカブースト·ドミラ(机械怪兽·德梅拉)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mecha_boost_domira:
 
@@ -1109,29 +1115,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mecha Boost Domira
+            .. grid-item:: 英文:Mecha Boost Domira。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第9话
+            .. grid-item:: 登场/加入:第9话。
                 :columns: auto
 
-            .. grid-item:: 编码 BD
+            .. grid-item:: 编码:BD。
                 :columns: auto
 
-            .. grid-item:: 地址 BB657 (28346)
+            .. grid-item:: 地址 BB657 (28346)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB677 (28366)
+            .. grid-item:: 武器首地址:BB677 (28366)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 水陸
+            .. grid-item:: 移动类型:水陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆A海A宇A
+            .. grid-item:: 地形适应:空🚫陆A海A宇A。
                 :columns: auto
 
 
@@ -1209,7 +1215,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1261,9 +1267,9 @@
 
 .. _srw4_unit_mecha_boost_domira_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-メカブースト・ガビタン（陸）
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+メカブースト·ガビタン（陸）(陆型机械怪兽·加比坦)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mecha_boost_gabidan_land:
 
@@ -1290,29 +1296,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mecha Boost Gabidan (Land)
+            .. grid-item:: 英文:Mecha Boost Gabidan (Land)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第9话
+            .. grid-item:: 登场/加入:第9话。
                 :columns: auto
 
-            .. grid-item:: 编码 BE
+            .. grid-item:: 编码:BE。
                 :columns: auto
 
-            .. grid-item:: 地址 BB682 (28371)
+            .. grid-item:: 地址 BB682 (28371)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB6A2 (28391)
+            .. grid-item:: 武器首地址:BB6A2 (28391)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空B陆A海B宇B
+            .. grid-item:: 地形适应:空B陆A海B宇B。
                 :columns: auto
 
 
@@ -1390,7 +1396,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1429,9 +1435,9 @@
 
 .. _srw4_unit_mecha_boost_gabidan_land_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-メカブースト・ガビタン（空）
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+メカブースト·ガビタン（空）(空型机械怪兽·加比坦)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mecha_boost_gabidan_sky:
 
@@ -1458,29 +1464,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mecha Boost Gabidan (Sky)
+            .. grid-item:: 英文:Mecha Boost Gabidan (Sky)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第9话
+            .. grid-item:: 登场/加入:第9话。
                 :columns: auto
 
-            .. grid-item:: 编码 BF
+            .. grid-item:: 编码:BF。
                 :columns: auto
 
-            .. grid-item:: 地址 BB6AA (28399)
+            .. grid-item:: 地址 BB6AA (28399)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB6CA (283B9)
+            .. grid-item:: 武器首地址:BB6CA (283B9)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆🚫海🚫宇A
+            .. grid-item:: 地形适应:空A陆🚫海🚫宇A。
                 :columns: auto
 
 
@@ -1558,7 +1564,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1597,9 +1603,9 @@
 
 .. _srw4_unit_mecha_boost_gabidan_sky_commentEnd:
 
-^^^^^^^^^^
-バンドック
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+バンドック(班多克)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_bandok:
 
@@ -1626,40 +1632,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Bandok
+            .. grid-item:: 英文:Bandok。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第9话
+            .. grid-item:: 登场/加入:第9话。
                 :columns: auto
 
-            .. grid-item:: 编码 C2
+            .. grid-item:: 编码:C2。
                 :columns: auto
 
-            .. grid-item:: 地址 BB722 (28411)
+            .. grid-item:: 地址 BB722 (28411)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB742 (28431)
+            .. grid-item:: 武器首地址:BB742 (28431)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 水陸空
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海A宇A
+            .. grid-item:: 移动类型:水陸空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`キラー・ザ・ブッチャー <srw4_pilot_killer_the_butcher>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海A宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`キラー・ザ・ブッチャー <srw4_pilot_killer_the_butcher>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_AA.png
                 :columns: auto
 
-            .. grid-item:: Iフィールド
+            .. grid-item:: 技能: Iフィールド。
                 :columns: auto
 
 
@@ -1737,7 +1743,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1776,9 +1782,9 @@
 
 .. _srw4_unit_bandok_commentEnd:
 
-^^^^^^^^^^^^^^^^
-赤騎士デスカイン
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+赤騎士デスカイン(赤骑士死神凯恩)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_red_knight_deathcain:
 
@@ -1805,29 +1811,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Red Knight Deathcain
+            .. grid-item:: 英文:Red Knight Deathcain。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第34话
+            .. grid-item:: 登场/加入:第34话。
                 :columns: auto
 
-            .. grid-item:: 编码 C0
+            .. grid-item:: 编码:C0。
                 :columns: auto
 
-            .. grid-item:: 地址 BB6D2 (283C1)
+            .. grid-item:: 地址 BB6D2 (283C1)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB6F2 (283E1)
+            .. grid-item:: 武器首地址:BB6F2 (283E1)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆A海B宇A
+            .. grid-item:: 地形适应:空A陆A海B宇A。
                 :columns: auto
 
 
@@ -1905,7 +1911,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1943,9 +1949,9 @@
 
 .. _srw4_unit_red_knight_deathcain_commentEnd:
 
-^^^^^^^^^^^^^^^^
-青騎士ヘルダイン
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+青騎士ヘルダイン(青骑士地狱丹恩)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_blue_knight_helldyne:
 
@@ -1972,29 +1978,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Blue Knight Helldyne
+            .. grid-item:: 英文:Blue Knight Helldyne。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第34话
+            .. grid-item:: 登场/加入:第34话。
                 :columns: auto
 
-            .. grid-item:: 编码 C1
+            .. grid-item:: 编码:C1。
                 :columns: auto
 
-            .. grid-item:: 地址 BB6FA (283E9)
+            .. grid-item:: 地址 BB6FA (283E9)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB71A (28409)
+            .. grid-item:: 武器首地址:BB71A (28409)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆A海B宇A
+            .. grid-item:: 地形适应:空A陆A海B宇A。
                 :columns: auto
 
 
@@ -2072,7 +2078,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

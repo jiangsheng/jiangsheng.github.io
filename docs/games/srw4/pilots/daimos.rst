@@ -7,6 +7,12 @@
 ================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_pilots_daimos_commentBegin:
 
 虽然和原作有众多差异，例如但在本作的各大超级机器人中属于剧情比较多的作品。
@@ -47,15 +53,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_5F.png
 
-    .. grid-item:: 英文:Kyoshiro Yuzuki
-    .. grid-item:: 登场/加入:第7话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 195
-    .. grid-item:: 编码 5F
-    .. grid-item:: 地址 B7E44 (2B756)
-    .. grid-item:: 精神地址 B7E55(2B768)
-    .. grid-item:: 地形适应 空A陆C海B宇B
+    .. grid-item:: 英文:Kyoshiro Yuzuki。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第7话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:195。
+        :columns: auto
+
+
+    .. grid-item:: 编码:5F。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7E44 (2B756)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7E55(2B768)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆C海B宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -177,9 +209,9 @@
 
 .. _srw4_pilot_kyoshiro_yuzuki_commentEnd:
 
-^^^^^^^^
-和泉ナナ
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+和泉ナナ(和泉奈奈)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_nana_izumi:
 
@@ -195,15 +227,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_60.png
 
-    .. grid-item:: 英文:Nana Izumi
-    .. grid-item:: 登场/加入:第7话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 70
-    .. grid-item:: EXP: 170
-    .. grid-item:: 编码 60
-    .. grid-item:: 地址 B7E65 (2B778)
-    .. grid-item:: 精神地址 B7E76(2B78A)
-    .. grid-item:: 地形适应 空A陆C海C宇B
+    .. grid-item:: 英文:Nana Izumi。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第7话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:70。
+        :columns: auto
+
+
+    .. grid-item:: EXP:170。
+        :columns: auto
+
+
+    .. grid-item:: 编码:60。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7E65 (2B778)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7E76(2B78A)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆C海C宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -332,15 +390,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_6B.png
 
-    .. grid-item:: 英文:Kazuya Ryuzaki
-    .. grid-item:: 登场/加入:第7话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 70
-    .. grid-item:: EXP: 230
-    .. grid-item:: 编码 6B
-    .. grid-item:: 地址 B7FBC (2B8E4)
-    .. grid-item:: 精神地址 B7FCD(2B8F6)
-    .. grid-item:: 地形适应 空B陆A海C宇A
+    .. grid-item:: 英文:Kazuya Ryuzaki。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第7话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:70。
+        :columns: auto
+
+
+    .. grid-item:: EXP:230。
+        :columns: auto
+
+
+    .. grid-item:: 编码:6B。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7FBC (2B8E4)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7FCD(2B8F6)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海C宇A。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ダイモス <srw4_unit_daimos>`\ (戴莫斯)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -470,9 +558,9 @@
 
 .. _srw4_pilots_daimos_enemy_commentEnd:
 
-^^^^^^^^^^^^
-リヒテル提督
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
+リヒテル提督(里希迪鲁)
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_richter:
 
@@ -488,15 +576,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_AD.png
 
-    .. grid-item:: 英文:Richter
-    .. grid-item:: 登场/加入:第7话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 243
-    .. grid-item:: 编码 AD
-    .. grid-item:: 地址 B8769 (2C11A)
-    .. grid-item:: 精神地址 B877A(2C12C)
-    .. grid-item:: 地形适应 空A陆B海A宇A
+    .. grid-item:: 英文:Richter。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第7话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:243。
+        :columns: auto
+
+
+    .. grid-item:: 编码:AD。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8769 (2C11A)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B877A(2C12C)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆B海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -605,9 +719,9 @@
 
 .. _srw4_pilot_richter_commentEnd:
 
-^^^^^^^^^^^^
-バルバス将軍
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
+バルバス将軍(巴鲁巴斯)
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_balbas:
 
@@ -623,15 +737,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_AE.png
 
-    .. grid-item:: 英文:Balbas
-    .. grid-item:: 登场/加入:第7话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 212
-    .. grid-item:: 编码 AE
-    .. grid-item:: 地址 B8788 (2C13A)
-    .. grid-item:: 精神地址 B8799(2C14C)
-    .. grid-item:: 地形适应 空A陆A海A宇A
+    .. grid-item:: 英文:Balbas。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第7话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:212。
+        :columns: auto
+
+
+    .. grid-item:: 编码:AE。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8788 (2C13A)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8799(2C14C)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -740,9 +880,9 @@
 
 .. _srw4_pilot_balbas_commentEnd:
 
-^^^^^^
-ライザ
-^^^^^^
+^^^^^^^^^^^^^^
+ライザ(莱莎)
+^^^^^^^^^^^^^^
 
 .. _srw4_pilot_raiza:
 
@@ -758,15 +898,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_AF.png
 
-    .. grid-item:: 英文:Raiza
-    .. grid-item:: 登场/加入:第12话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 204
-    .. grid-item:: 编码 AF
-    .. grid-item:: 地址 B87A7 (2C15A)
-    .. grid-item:: 精神地址 B87B8(2C16C)
-    .. grid-item:: 地形适应 空B陆A海A宇B
+    .. grid-item:: 英文:Raiza。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第12话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:204。
+        :columns: auto
+
+
+    .. grid-item:: 编码:AF。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B87A7 (2C15A)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B87B8(2C16C)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海A宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -877,9 +1043,9 @@
 
 .. _srw4_pilot_raiza_commentEnd:
 
-^^^^^^^^
-アイザム
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+アイザム(艾扎姆)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_aizam:
 
@@ -895,15 +1061,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_B0.png
 
-    .. grid-item:: 英文:Aizam
-    .. grid-item:: 登场/加入:第29话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 238
-    .. grid-item:: 编码 B0
-    .. grid-item:: 地址 B87C6 (2C17A)
-    .. grid-item:: 精神地址 B87D7(2C18C)
-    .. grid-item:: 地形适应 空A陆A海A宇A
+    .. grid-item:: 英文:Aizam。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第29话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:238。
+        :columns: auto
+
+
+    .. grid-item:: 编码:B0。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B87C6 (2C17A)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B87D7(2C18C)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1032,15 +1224,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_EE.png
 
-    .. grid-item:: 英文:Sakamori Miwa
-    .. grid-item:: 登场/加入:第32话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 30
-    .. grid-item:: EXP: 120
-    .. grid-item:: 编码 EE
-    .. grid-item:: 地址 B8ED0 (2C952)
-    .. grid-item:: 精神地址 B8EE1(2C964)
-    .. grid-item:: 地形适应 空B陆A海D宇B
+    .. grid-item:: 英文:Sakamori Miwa。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第32话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:30。
+        :columns: auto
+
+
+    .. grid-item:: EXP:120。
+        :columns: auto
+
+
+    .. grid-item:: 编码:EE。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8ED0 (2C952)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8EE1(2C964)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海D宇B。
+        :columns: auto
+
 
 
 .. grid:: 

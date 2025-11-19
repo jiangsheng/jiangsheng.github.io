@@ -7,13 +7,17 @@
 ==================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
-人物事典还登录了以下人物：
 
-* 兽战机队的研发者叶月考太郎。
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
 
 .. _srw4_pilots_dancouga_commentBegin:
 
-无剧情设定。
+无剧情设定。人物事典还登录了以下人物：
+
+* 兽战机队的研发者叶月考太郎。
 
 .. _srw4_pilots_dancouga_commentEnd:
 
@@ -46,15 +50,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_12.png
 
-    .. grid-item:: 英文:Shinobu Fujiwara
-    .. grid-item:: 登场/加入:第5话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 40
-    .. grid-item:: EXP: 225
-    .. grid-item:: 编码 12
-    .. grid-item:: 地址 B7521 (2AD20)
-    .. grid-item:: 精神地址 B7532(2AD32)
-    .. grid-item:: 地形适应 空A陆B (A)海B宇B (A)
+    .. grid-item:: 英文:Shinobu Fujiwara。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第5话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:40。
+        :columns: auto
+
+
+    .. grid-item:: EXP:225。
+        :columns: auto
+
+
+    .. grid-item:: 编码:12。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7521 (2AD20)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7532(2AD32)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆B (A)海B宇B (A)。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ダンクーガ <srw4_unit_dancouga>`\ (断空我)、\ :ref:`イーグルファイターN <srw4_unit_eagle_fighter_n>`\ (鹰战机)、\ :ref:`イーグルファイターA <srw4_unit_eagle_fighter_a>`\ (鹰战机A)、\ :ref:`イーグルファイターH <srw4_unit_eagle_fighter_h>`\ (鹰战机H)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -183,15 +217,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_13.png
 
-    .. grid-item:: 英文:Sara Yuki
-    .. grid-item:: 登场/加入:第5话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 40
-    .. grid-item:: EXP: 220
-    .. grid-item:: 编码 13
-    .. grid-item:: 地址 B7540 (2AD40)
-    .. grid-item:: 精神地址 B7551(2AD52)
-    .. grid-item:: 地形适应 空B陆A海B宇B
+    .. grid-item:: 英文:Sara Yuki。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第5话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:40。
+        :columns: auto
+
+
+    .. grid-item:: EXP:220。
+        :columns: auto
+
+
+    .. grid-item:: 编码:13。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7540 (2AD40)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7551(2AD52)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海B宇B。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ランドクーガーN <srw4_unit_land_cougar_n>`\ (猎豹N)、\ :ref:`ランドクーガーA <srw4_unit_land_cougar_a>`\ (猎豹A)、\ :ref:`ランドクーガーH <srw4_unit_land_cougar_h>`\ (猎豹H)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -318,15 +382,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_14.png
 
-    .. grid-item:: 英文:Masato Shikibu
-    .. grid-item:: 登场/加入:第5话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 40
-    .. grid-item:: EXP: 215
-    .. grid-item:: 编码 14
-    .. grid-item:: 地址 B755F (2AD60)
-    .. grid-item:: 精神地址 B7570(2AD72)
-    .. grid-item:: 地形适应 空B陆A海B宇B
+    .. grid-item:: 英文:Masato Shikibu。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第5话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:40。
+        :columns: auto
+
+
+    .. grid-item:: EXP:215。
+        :columns: auto
+
+
+    .. grid-item:: 编码:14。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B755F (2AD60)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7570(2AD72)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海B宇B。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ランドライガーN <srw4_unit_land_liger_n>`\ (美洲虎N)、\ :ref:`ランドライガーA <srw4_unit_land_liger_a>`\ (美洲虎A)、\ :ref:`ランドライガーH <srw4_unit_land_liger_h>`\ (美洲虎H)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -451,15 +545,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_15.png
 
-    .. grid-item:: 英文:Ryo Shiba
-    .. grid-item:: 登场/加入:第5话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 45
-    .. grid-item:: EXP: 230
-    .. grid-item:: 编码 15
-    .. grid-item:: 地址 B757E (2AD80)
-    .. grid-item:: 精神地址 B758F(2AD92)
-    .. grid-item:: 地形适应 空B陆A海B宇B
+    .. grid-item:: 英文:Ryo Shiba。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第5话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:45。
+        :columns: auto
+
+
+    .. grid-item:: EXP:230。
+        :columns: auto
+
+
+    .. grid-item:: 编码:15。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B757E (2AD80)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B758F(2AD92)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海B宇B。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ビッグモスN <srw4_unit_big_moth_n>`\ (巨象N)、\ :ref:`ビッグモスA <srw4_unit_big_moth_a>`\ (巨象A)、\ :ref:`ビッグモスH <srw4_unit_big_moth_h>`\ (巨象H)。
+        :columns: auto
+
 
 
 .. grid:: 

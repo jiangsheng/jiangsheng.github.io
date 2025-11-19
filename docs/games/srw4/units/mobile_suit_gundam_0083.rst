@@ -1,5 +1,5 @@
 .. meta::
-   :description: 機動戦士ガンダム0083机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。GP-01Fb, GP-02A, GP-03デンドロビウム, GP-03ステイメン  (后期), GP-03ステイメン (初期), ヴァル・ヴァロ, ガーベラ・テトラ, ノイエ・ジール 
+   :description: 機動戦士ガンダム0083机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。GP-01Fb, GP-02A, GP-03デンドロビウム, GP-03ステイメン  (后期), GP-03ステイメン (初期), ヴァル·ヴァロ, ガーベラ·テトラ, ノイエ·ジール 
 .. _srw4_units_mobile_suit_gundam_0083:
 
 ================================
@@ -7,6 +7,12 @@
 ================================
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
+
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
 
 .. _srw4_units_mobile_suit_gundam_0083_commentBegin:
 
@@ -50,40 +56,40 @@ GP-01Fb
             :padding: 0
 
 
-            .. grid-item:: 英文:GP-01Fb
+            .. grid-item:: 英文:GP-01Fb。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 0C
+            .. grid-item:: 编码:0C。
                 :columns: auto
 
-            .. grid-item:: 地址 B96CA (263B9)
+            .. grid-item:: 地址 B96CA (263B9)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B96EA (263D9)
+            .. grid-item:: 武器首地址:B96EA (263D9)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆B (A)海D→C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`コウ・ウラキ <srw4_pilot_kou_uraki>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆B (A)海D→C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`コウ・ウラキ <srw4_pilot_kou_uraki>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_54.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備
+            .. grid-item:: 技能: 盾装備、剣装備。
                 :columns: auto
 
 
@@ -161,7 +167,7 @@ GP-01Fb
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -228,9 +234,9 @@ GP-01为宇宙战改造的高机动版本，但是在本作中宇宙战还没开
 
 .. _srw4_unit_gp_01fb_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^
-GP-03デンドロビウム
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+GP-03デンドロビウム(GP-03 D)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_gp_03_dendrobium:
 
@@ -257,40 +263,40 @@ GP-03デンドロビウム
             :padding: 0
 
 
-            .. grid-item:: 英文:GP-03 Dendrobium
+            .. grid-item:: 英文:GP-03 Dendrobium。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第38话
+            .. grid-item:: 登场/加入:第38话。
                 :columns: auto
 
-            .. grid-item:: 编码 0E
+            .. grid-item:: 编码:0E。
                 :columns: auto
 
-            .. grid-item:: 地址 B9727 (26416)
+            .. grid-item:: 地址 B9727 (26416)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9747 (26436)
+            .. grid-item:: 武器首地址:B9747 (26436)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 宇宙
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A (🚫)→B (D)陆A (🚫)→A (C)海🚫→D宇A
+            .. grid-item:: 移动类型:宇宙。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`コウ・ウラキ <srw4_pilot_kou_uraki>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A (🚫)→B (D)陆A (🚫)→A (C)海🚫→D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`コウ・ウラキ <srw4_pilot_kou_uraki>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_54.png
                 :columns: auto
 
-            .. grid-item:: 剣装備, Iフィールド
+            .. grid-item:: 技能: 剣装備、Iフィールド。
                 :columns: auto
 
 
@@ -368,7 +374,7 @@ GP-03デンドロビウム
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -479,9 +485,9 @@ GP-03デンドロビウム
 
 .. _srw4_unit_gp_03_dendrobium_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-GP-03ステイメン  (后期)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+GP-03ステイメン  (后期)(GP-03 S)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_gp_03_staymen_final:
 
@@ -508,40 +514,40 @@ GP-03ステイメン  (后期)
             :padding: 0
 
 
-            .. grid-item:: 英文:GP-03 Staymen (final)
+            .. grid-item:: 英文:GP-03 Staymen (final)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第38话
+            .. grid-item:: 登场/加入:第38话。
                 :columns: auto
 
-            .. grid-item:: 编码 0F
+            .. grid-item:: 编码:0F。
                 :columns: auto
 
-            .. grid-item:: 地址 B975E (2644D)
+            .. grid-item:: 地址 B975E (2644D)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B977E (2646D)
+            .. grid-item:: 武器首地址:B977E (2646D)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`コウ・ウラキ <srw4_pilot_kou_uraki>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`コウ・ウラキ <srw4_pilot_kou_uraki>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_54.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備
+            .. grid-item:: 技能: 盾装備、剣装備。
                 :columns: auto
 
 
@@ -619,7 +625,7 @@ GP-03ステイメン  (后期)
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -671,9 +677,9 @@ GP-03ステイメン  (后期)
 
 .. _srw4_unit_gp_03_staymen_final_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-GP-03ステイメン (初期)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+GP-03ステイメン (初期)(GP-03 S)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_gp_03_staymen_first:
 
@@ -700,40 +706,40 @@ GP-03ステイメン (初期)
             :padding: 0
 
 
-            .. grid-item:: 英文:GP-03 Staymen (first)
+            .. grid-item:: 英文:GP-03 Staymen (first)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第13话
+            .. grid-item:: 登场/加入:第13话。
                 :columns: auto
 
-            .. grid-item:: 编码 123
+            .. grid-item:: 编码:123。
                 :columns: auto
 
-            .. grid-item:: 地址 BC7C5 (294B1)
+            .. grid-item:: 地址 BC7C5 (294B1)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC7E5 (294D1)
+            .. grid-item:: 武器首地址:BC7E5 (294D1)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`コウ・ウラキ <srw4_pilot_kou_uraki>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`コウ・ウラキ <srw4_pilot_kou_uraki>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_54.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備
+            .. grid-item:: 技能: 盾装備、剣装備。
                 :columns: auto
 
 
@@ -811,7 +817,7 @@ GP-03ステイメン (初期)
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -896,40 +902,40 @@ GP-02A
             :padding: 0
 
 
-            .. grid-item:: 英文:GP-02A
+            .. grid-item:: 英文:GP-02A。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第39话
+            .. grid-item:: 登场/加入:第39话。
                 :columns: auto
 
-            .. grid-item:: 编码 0D
+            .. grid-item:: 编码:0D。
                 :columns: auto
 
-            .. grid-item:: 地址 B96F8 (263E7)
+            .. grid-item:: 地址 B96F8 (263E7)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9718 (26407)
+            .. grid-item:: 武器首地址:B9718 (26407)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海D→C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`アナベル・ガトー <srw4_pilot_anavel_gato>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海D→C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`アナベル・ガトー <srw4_pilot_anavel_gato>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_42.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備
+            .. grid-item:: 技能: 盾装備、剣装備。
                 :columns: auto
 
 
@@ -1007,7 +1013,7 @@ GP-02A
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1087,9 +1093,9 @@ GP-02A
 
 .. _srw4_units_mobile_suit_gundam_0083_enemy_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ガーベラ・テトラ
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ガーベラ·テトラ(红色角马)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_gerbera_tetra:
 
@@ -1116,40 +1122,40 @@ GP-02A
             :padding: 0
 
 
-            .. grid-item:: 英文:Gerbera Tetra
+            .. grid-item:: 英文:Gerbera Tetra。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 78
+            .. grid-item:: 编码:78。
                 :columns: auto
 
-            .. grid-item:: 地址 BAA7E (2776D)
+            .. grid-item:: 地址 BAA7E (2776D)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAA9E (2778D)
+            .. grid-item:: 武器首地址:BAA9E (2778D)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆B海C→B宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`シーマ・ガラハウ <srw4_pilot_cima_garahau>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆B海C→B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`シーマ・ガラハウ <srw4_pilot_cima_garahau>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_9F.png
                 :columns: auto
 
-            .. grid-item:: 剣装備
+            .. grid-item:: 技能: 剣装備。
                 :columns: auto
 
 
@@ -1227,7 +1233,7 @@ GP-02A
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1279,9 +1285,9 @@ GP-02A
 
 .. _srw4_unit_gerbera_tetra_commentEnd:
 
-^^^^^^^^^^^^^^
-ヴァル・ヴァロ
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ヴァル·ヴァロ(瓦尔·瓦罗)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_val_walo:
 
@@ -1308,33 +1314,33 @@ GP-02A
             :padding: 0
 
 
-            .. grid-item:: 英文:Val Walo
+            .. grid-item:: 英文:Val Walo。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第25话
+            .. grid-item:: 登场/加入:第25话。
                 :columns: auto
 
-            .. grid-item:: 编码 77
+            .. grid-item:: 编码:77。
                 :columns: auto
 
-            .. grid-item:: 地址 BAA4D (2773C)
+            .. grid-item:: 地址 BAA4D (2773C)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAA6D (2775C)
+            .. grid-item:: 武器首地址:BAA6D (2775C)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 宇宙
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A (🚫)→A (C)陆🚫→D海🚫→D宇A
+            .. grid-item:: 移动类型:宇宙。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ケリィ・レズナー <srw4_pilot_kelly_layzner>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A (🚫)→A (C)陆🚫→D海🚫→D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ケリィ・レズナー <srw4_pilot_kelly_layzner>`\ 。
                 :columns: auto
 
 
@@ -1415,7 +1421,7 @@ GP-02A
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1492,9 +1498,9 @@ GP-02A
 
 .. _srw4_unit_val_walo_commentEnd:
 
-^^^^^^^^^^^^^^
-ノイエ・ジール
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ノイエ·ジール(诺维·捷鲁)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_neue_ziel:
 
@@ -1521,40 +1527,40 @@ GP-02A
             :padding: 0
 
 
-            .. grid-item:: 英文:Neue Ziel
+            .. grid-item:: 英文:Neue Ziel。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第25话
+            .. grid-item:: 登场/加入:第25话。
                 :columns: auto
 
-            .. grid-item:: 编码 79
+            .. grid-item:: 编码:79。
                 :columns: auto
 
-            .. grid-item:: 地址 BAAA9 (27798)
+            .. grid-item:: 地址 BAAA9 (27798)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAAC9 (277B8)
+            .. grid-item:: 武器首地址:BAAC9 (277B8)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 宇宙
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A (🚫)→B (D)陆A (🚫)→A (C)海🚫→D宇A
+            .. grid-item:: 移动类型:宇宙。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`アナベル・ガトー <srw4_pilot_anavel_gato>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A (🚫)→B (D)陆A (🚫)→A (C)海🚫→D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`アナベル・ガトー <srw4_pilot_anavel_gato>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_42.png
                 :columns: auto
 
-            .. grid-item:: Iフィールド
+            .. grid-item:: 技能: Iフィールド。
                 :columns: auto
 
 
@@ -1632,7 +1638,7 @@ GP-02A
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

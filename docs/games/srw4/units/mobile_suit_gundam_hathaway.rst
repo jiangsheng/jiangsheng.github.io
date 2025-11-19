@@ -8,6 +8,12 @@
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_units_mobile_suit_gundam_hathaway_commentBegin:
 
 本作只有一个机体存在于游戏数据中，没有正式登场。
@@ -22,9 +28,9 @@
 
 .. _srw4_units_mobile_suit_gundam_hathaway_dead_data_commentEnd:
 
-^^^^^^^^^^
-Ξガンダム
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+Ξガンダム(柯西高达)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_xi_gundam:
 
@@ -49,26 +55,26 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Xi Gundam
+            .. grid-item:: 英文:Xi Gundam。
                 :columns: auto
 
-            .. grid-item:: 编码 106
+            .. grid-item:: 编码:106。
                 :columns: auto
 
-            .. grid-item:: 地址 BC2D4 (28FC0)
+            .. grid-item:: 地址 BC2D4 (28FC0)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC2F4 (28FE0)
+            .. grid-item:: 武器首地址:BC2F4 (28FE0)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 M
+            .. grid-item:: 大小 M。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+            .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
                 :columns: auto
 
 

@@ -7,6 +7,12 @@
 ==============================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_pilots_banpresto_originals_commentBegin:
 
 
@@ -46,11 +52,11 @@
 
 人物事典还登录了以下人物：
 
-* \ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ （安藤正树）的使魔小黑和小白
-* \ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ （黄炎龙）的使魔郎夏奥
-* \ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\ 的格里和弗雷克。
-* \ :ref:`ミオ・サスガ <srw4_pilot_mio_sasuga>`\（贵家澪）的乔恩、乔萨克和乔治。名字来自日本喜剧三人组レツゴー三匹。DS版魔装機神改名悟空、八戒、悟净（女孩子担任三藏法师的设定毫无违和感）。
-* \ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ （白河愁）的奇卡
+* \ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ （安藤正树）的使魔シロ（小白）和クロ（小黑）
+* \ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ （黄炎龙）的使魔ランシャオ（郎夏奥）
+* \ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\ 的フレキ（弗雷克）和ゲリ（格里）。
+* \ :ref:`ミオ・サスガ <srw4_pilot_mio_sasuga>`\（贵家澪）的ジュン（乔恩）、チョーサク （乔萨克）和ショージ（乔治）。名字来自日本喜剧三人组レツゴー三匹。DS版魔装機神改名悟空、八戒、悟净（女孩子担任三藏法师的设定毫无违和感）。
+* \ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ （白河愁）的チカ（奇卡）
 
 
 .. _srw4_pilots_banpresto_originals_own_commentEnd:
@@ -73,15 +79,45 @@
 
         
 
-    .. grid-item:: 英文:Male Protagonist (real)
-    .. grid-item:: 登场/加入:第1话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 80
-    .. grid-item:: EXP: 255
-    .. grid-item:: 编码 F8
-    .. grid-item:: 地址 B8F17 (2C99C)
-    .. grid-item:: 精神地址 B8F28(2C9AE)
-    .. grid-item:: 地形适应 空A陆A海A宇A
+    .. grid-item:: 英文:Male Protagonist (real)。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第1话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:80。
+        :columns: auto
+
+
+    .. grid-item:: EXP:255。
+        :columns: auto
+
+
+    .. grid-item:: 编码:F8。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8F17 (2C99C)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8F28(2C9AE)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇A。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ゲシュペンスト（スーパー） <srw4_unit_gespenst_super>`\ (S型亡灵)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -204,15 +240,41 @@
 
         
 
-    .. grid-item:: 英文:Male Protagonist (super)
-    .. grid-item:: 登场/加入:第1话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 100
-    .. grid-item:: EXP: 255
-    .. grid-item:: 编码 F9
-    .. grid-item:: 地址 B8F34 (2C9C2)
-    .. grid-item:: 精神地址 B8F45(2C9D4)
-    .. grid-item:: 地形适应 空A陆A海A宇A
+    .. grid-item:: 英文:Male Protagonist (super)。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第1话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:100。
+        :columns: auto
+
+
+    .. grid-item:: EXP:255。
+        :columns: auto
+
+
+    .. grid-item:: 编码:F9。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8F34 (2C9C2)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8F45(2C9D4)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -335,15 +397,45 @@
 
         
 
-    .. grid-item:: 英文:Female Protagonist (real)
-    .. grid-item:: 登场/加入:第1话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 80
-    .. grid-item:: EXP: 255
-    .. grid-item:: 编码 FA
-    .. grid-item:: 地址 B8F51 (2C9E0)
-    .. grid-item:: 精神地址 B8F62(2C9F2)
-    .. grid-item:: 地形适应 空A陆A海A宇A
+    .. grid-item:: 英文:Female Protagonist (real)。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第1话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:80。
+        :columns: auto
+
+
+    .. grid-item:: EXP:255。
+        :columns: auto
+
+
+    .. grid-item:: 编码:FA。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8F51 (2C9E0)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8F62(2C9F2)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇A。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\ (凶鸟)、\ :ref:`グルンガスト <srw4_unit_grungust>`\ (古伦加斯特)、\ :ref:`ウイングガスト <srw4_unit_wing_gust>`\ (飞翼加斯特)、\ :ref:`ガストランダー <srw4_unit_gust_lander>`\ (加斯特战车)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -466,15 +558,41 @@
 
         
 
-    .. grid-item:: 英文:Female Protagonist (super)
-    .. grid-item:: 登场/加入:第1话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 100
-    .. grid-item:: EXP: 255
-    .. grid-item:: 编码 FB
-    .. grid-item:: 地址 B8F6E (2CA06)
-    .. grid-item:: 精神地址 B8F7F(2CA18)
-    .. grid-item:: 地形适应 空A陆A海A宇A
+    .. grid-item:: 英文:Female Protagonist (super)。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第1话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:100。
+        :columns: auto
+
+
+    .. grid-item:: EXP:255。
+        :columns: auto
+
+
+    .. grid-item:: 编码:FB。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8F6E (2CA06)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8F7F(2CA18)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -579,9 +697,9 @@
 
 .. _srw4_pilot_female_protagonist_super_commentEnd:
 
-^^^^^^^^^^^^^^^^
-マサキ・アンドー
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+マサキ・アンドー(安藤正树)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_masaki_andoh:
 
@@ -597,15 +715,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_1D.png
 
-    .. grid-item:: 英文:Masaki Andoh
-    .. grid-item:: 登场/加入:第27话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 255
-    .. grid-item:: 编码 1D
-    .. grid-item:: 地址 B7684 (2AE9E)
-    .. grid-item:: 精神地址 B7695(2AEB0)
-    .. grid-item:: 地形适应 空A陆A海C宇A
+    .. grid-item:: 英文:Masaki Andoh。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第27话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:255。
+        :columns: auto
+
+
+    .. grid-item:: 编码:1D。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7684 (2AE9E)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7695(2AEB0)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海C宇A。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`サイバスター <srw4_unit_cybuster>`\ (塞巴斯塔)、\ :ref:`サイバード <srw4_unit_cybird>`\ (赛巴特)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -716,9 +864,9 @@
 
 .. _srw4_pilot_masaki_andoh_commentEnd:
 
-^^^^^^^^^^^^^^^^
-シュウ・シラカワ
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+シュウ・シラカワ(白河愁)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_shu_shirakawa:
 
@@ -734,15 +882,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_1F.png
 
-    .. grid-item:: 英文:Shu Shirakawa
-    .. grid-item:: 登场/加入:第35话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 255
-    .. grid-item:: 编码 1F
-    .. grid-item:: 地址 B76C2 (2AEDE)
-    .. grid-item:: 精神地址 B76D3(2AEF0)
-    .. grid-item:: 地形适应 空A陆A海B宇A
+    .. grid-item:: 英文:Shu Shirakawa。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第35话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:255。
+        :columns: auto
+
+
+    .. grid-item:: 编码:1F。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B76C2 (2AEDE)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B76D3(2AEF0)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇A。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`グランゾン <srw4_unit_granzon>`\ (古兰森)、\ :ref:`ネオ·グランゾン <srw4_unit_neo_granzon>`\ (真·古兰森)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -851,9 +1029,9 @@
 
 .. _srw4_pilot_shu_shirakawa_commentEnd:
 
-^^^^^^^^^^^^
-ミオ・サスガ
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+ミオ・サスガ(贵家澪)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_mio_sasuga:
 
@@ -869,15 +1047,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_73.png
 
-    .. grid-item:: 英文:Mio Sasuga
-    .. grid-item:: 登场/加入:第35话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 65
-    .. grid-item:: EXP: 248
-    .. grid-item:: 编码 73
-    .. grid-item:: 地址 B8092 (2B9C2)
-    .. grid-item:: 精神地址 B80A3(2B9D4)
-    .. grid-item:: 地形适应 空B (A)陆A海B宇A
+    .. grid-item:: 英文:Mio Sasuga。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第35话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:65。
+        :columns: auto
+
+
+    .. grid-item:: EXP:248。
+        :columns: auto
+
+
+    .. grid-item:: 编码:73。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8092 (2B9C2)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B80A3(2B9D4)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B (A)陆A海B宇A。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ザムジード <srw4_unit_zamzeed>`\ (扎姆基德)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -986,9 +1194,9 @@
 
 .. _srw4_pilot_mio_sasuga_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-リューネ・ゾルダーク
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+リューネ・ゾルダーク(琉妮·佐尔达克)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_ryune_zoldark:
 
@@ -1004,15 +1212,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_1E.png
 
-    .. grid-item:: 英文:Ryune Zoldark
-    .. grid-item:: 登场/加入:第39话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 250
-    .. grid-item:: 编码 1E
-    .. grid-item:: 地址 B76A3 (2AEBE)
-    .. grid-item:: 精神地址 B76B4(2AED0)
-    .. grid-item:: 地形适应 空A陆B海C宇A
+    .. grid-item:: 英文:Ryune Zoldark。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第39话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:250。
+        :columns: auto
+
+
+    .. grid-item:: 编码:1E。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B76A3 (2AEBE)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B76B4(2AED0)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆B海C宇A。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ヴァルシオーネR <srw4_unit_valsione_r>`\ (瓦尔西奥妮R)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1122,9 +1360,9 @@
 
 .. _srw4_pilot_ryune_zoldark_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^
-テュッティ・ノールバック
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+テュッティ・ノールバック(迪蒂·诺尔巴克)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_tutty_norback:
 
@@ -1140,15 +1378,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_6E.png
 
-    .. grid-item:: 英文:Tutty Norback
-    .. grid-item:: 登场/加入:第42话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 246
-    .. grid-item:: 编码 6E
-    .. grid-item:: 地址 B800F (2B93A)
-    .. grid-item:: 精神地址 B8020(2B94C)
-    .. grid-item:: 地形适应 空B陆A海A宇B
+    .. grid-item:: 英文:Tutty Norback。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第42话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:246。
+        :columns: auto
+
+
+    .. grid-item:: 编码:6E。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B800F (2B93A)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8020(2B94C)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海A宇B。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ガッデス <srw4_unit_gaddeath>`\ (加迪斯)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1257,9 +1525,9 @@
 
 .. _srw4_pilot_tutty_norback_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ホワン・ヤンロン
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ホワン・ヤンロン(黄炎龙)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_huang_yanglong:
 
@@ -1275,15 +1543,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_71.png
 
-    .. grid-item:: 英文:Huang Yanglong
-    .. grid-item:: 登场/加入:第42话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 250
-    .. grid-item:: 编码 71
-    .. grid-item:: 地址 B805C (2B98A)
-    .. grid-item:: 精神地址 B806D(2B99C)
-    .. grid-item:: 地形适应 空A陆A海C宇B
+    .. grid-item:: 英文:Huang Yanglong。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第42话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:250。
+        :columns: auto
+
+
+    .. grid-item:: 编码:71。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B805C (2B98A)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B806D(2B99C)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海C宇B。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`グランヴェール <srw4_unit_grannvale>`\ (古兰威尔)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1390,9 +1688,9 @@
 
 .. _srw4_pilot_huang_yanglong_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-モニカ・ビルセイア
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+モニカ・ビルセイア(莫妮卡·比尔塞亚)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_monica_billseia:
 
@@ -1408,15 +1706,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_75.png
 
-    .. grid-item:: 英文:Monica Billseia
-    .. grid-item:: 登场/加入:第44话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 65
-    .. grid-item:: EXP: 210
-    .. grid-item:: 编码 75
-    .. grid-item:: 地址 B80C8 (2B9FA)
-    .. grid-item:: 精神地址 B80D9(2BA0C)
-    .. grid-item:: 地形适应 空B陆A海A宇B
+    .. grid-item:: 英文:Monica Billseia。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第44话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:65。
+        :columns: auto
+
+
+    .. grid-item:: EXP:210。
+        :columns: auto
+
+
+    .. grid-item:: 编码:75。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B80C8 (2B9FA)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B80D9(2BA0C)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海A宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1525,9 +1849,9 @@
 
 .. _srw4_pilot_monica_billseia_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-サフィーネ・グレイス
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+サフィーネ・グレイス(萨菲妮·格雷斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_safine_grace:
 
@@ -1543,15 +1867,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_76.png
 
-    .. grid-item:: 英文:Safine Grace
-    .. grid-item:: 登场/加入:第44话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 237
-    .. grid-item:: 编码 76
-    .. grid-item:: 地址 B80E7 (2BA1A)
-    .. grid-item:: 精神地址 B80F8(2BA2C)
-    .. grid-item:: 地形适应 空A陆A海C宇B
+    .. grid-item:: 英文:Safine Grace。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第44话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:237。
+        :columns: auto
+
+
+    .. grid-item:: 编码:76。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B80E7 (2BA1A)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B80F8(2BA2C)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海C宇B。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ウィーゾル改 <srw4_unit_weesol_kai>`\ (维佐尔·改)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1687,15 +2041,41 @@ DC兵士
 
         
 
-    .. grid-item:: 英文:DC Soldier
-    .. grid-item:: 登场/加入:第1话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 30
-    .. grid-item:: EXP: 100
-    .. grid-item:: 编码 C8
-    .. grid-item:: 地址 B8AAA (2C496)
-    .. grid-item:: 精神地址 B8ABB(2C4A8)
-    .. grid-item:: 地形适应 空B陆B海B宇B
+    .. grid-item:: 英文:DC Soldier。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第1话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:30。
+        :columns: auto
+
+
+    .. grid-item:: EXP:100。
+        :columns: auto
+
+
+    .. grid-item:: 编码:C8。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8AAA (2C496)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8ABB(2C4A8)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆B海B宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1818,15 +2198,41 @@ DC兵士
 
         
 
-    .. grid-item:: 英文:AI
-    .. grid-item:: 登场/加入:第1话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 80
-    .. grid-item:: 编码 CA
-    .. grid-item:: 地址 B8ADA (2C4C8)
-    .. grid-item:: 精神地址 B8AEB(2C4DA)
-    .. grid-item:: 地形适应 空B陆B海B宇B
+    .. grid-item:: 英文:AI。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第1话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:80。
+        :columns: auto
+
+
+    .. grid-item:: 编码:CA。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8ADA (2C4C8)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8AEB(2C4DA)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆B海B宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1920,9 +2326,9 @@ DC兵士
 
 .. _srw4_pilot_ai_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ティターンズ兵士
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ティターンズ兵士(提坦斯士兵)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_titans_soldier:
 
@@ -1938,15 +2344,41 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_74.png
 
-    .. grid-item:: 英文:Titans Soldier
-    .. grid-item:: 登场/加入:第2话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 180
-    .. grid-item:: 编码 74
-    .. grid-item:: 地址 B80B1 (2B9E2)
-    .. grid-item:: 精神地址 B80C2(2B9F4)
-    .. grid-item:: 地形适应 空A陆A海B宇B
+    .. grid-item:: 英文:Titans Soldier。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第2话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:180。
+        :columns: auto
+
+
+    .. grid-item:: 编码:74。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B80B1 (2B9E2)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B80C2(2B9F4)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2051,9 +2483,9 @@ DC兵士
 
 .. _srw4_pilot_titans_soldier_commentEnd:
 
-^^^^^^^^^^^^
-ポセイダル兵
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ポセイダル兵(波赛达尔兵)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_poseidal_soldier:
 
@@ -2069,15 +2501,41 @@ DC兵士
 
         
 
-    .. grid-item:: 英文:Poseidal soldier
-    .. grid-item:: 登场/加入:第3话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 40
-    .. grid-item:: EXP: 162
-    .. grid-item:: 编码 CF
-    .. grid-item:: 地址 B8B4D (2C540)
-    .. grid-item:: 精神地址 B8B5E(2C552)
-    .. grid-item:: 地形适应 空A陆A海B宇A
+    .. grid-item:: 英文:Poseidal soldier。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第3话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:40。
+        :columns: auto
+
+
+    .. grid-item:: EXP:162。
+        :columns: auto
+
+
+    .. grid-item:: 编码:CF。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8B4D (2C540)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8B5E(2C552)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2182,9 +2640,9 @@ DC兵士
 
 .. _srw4_pilot_poseidal_soldier_commentEnd:
 
-^^^^^^^^^^
-エリート兵
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+エリート兵(精英兵)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_elite_soldier:
 
@@ -2200,15 +2658,41 @@ DC兵士
 
         
 
-    .. grid-item:: 英文:Elite Soldier
-    .. grid-item:: 登场/加入:第5话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 40
-    .. grid-item:: EXP: 170
-    .. grid-item:: 编码 C9
-    .. grid-item:: 地址 B8AC1 (2C4AE)
-    .. grid-item:: 精神地址 B8AD2(2C4C0)
-    .. grid-item:: 地形适应 空A陆A海A宇A
+    .. grid-item:: 英文:Elite Soldier。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第5话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:40。
+        :columns: auto
+
+
+    .. grid-item:: EXP:170。
+        :columns: auto
+
+
+    .. grid-item:: 编码:C9。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8AC1 (2C4AE)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8AD2(2C4C0)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2313,9 +2797,9 @@ DC兵士
 
 .. _srw4_pilot_elite_soldier_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-ポセイダル親衛隊兵
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ポセイダル親衛隊兵(波赛达尔亲卫队兵)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_poseidal_imperial_guard:
 
@@ -2331,15 +2815,41 @@ DC兵士
 
         
 
-    .. grid-item:: 英文:Poseidal Imperial Guard
-    .. grid-item:: 登场/加入:第8话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 40
-    .. grid-item:: EXP: 198
-    .. grid-item:: 编码 D0
-    .. grid-item:: 地址 B8B66 (2C55A)
-    .. grid-item:: 精神地址 B8B77(2C56C)
-    .. grid-item:: 地形适应 空A陆A海B宇A
+    .. grid-item:: 英文:Poseidal Imperial Guard。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第8话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:40。
+        :columns: auto
+
+
+    .. grid-item:: EXP:198。
+        :columns: auto
+
+
+    .. grid-item:: 编码:D0。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8B66 (2C55A)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8B77(2C56C)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2462,15 +2972,41 @@ DC兵士
 
         
 
-    .. grid-item:: 英文:AI Kai
-    .. grid-item:: 登场/加入:第11话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 158
-    .. grid-item:: 编码 CB
-    .. grid-item:: 地址 B8AED (2C4DC)
-    .. grid-item:: 精神地址 B8AFE(2C4EE)
-    .. grid-item:: 地形适应 空A陆A海B宇A
+    .. grid-item:: 英文:AI Kai。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第11话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:158。
+        :columns: auto
+
+
+    .. grid-item:: 编码:CB。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8AED (2C4DC)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8AFE(2C4EE)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2564,9 +3100,9 @@ DC兵士
 
 .. _srw4_pilot_ai_kai_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-バイストンウェル兵
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+バイストンウェル兵(拜斯顿·威尔兵)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_byston_well_soldier:
 
@@ -2582,15 +3118,41 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_6D.png
 
-    .. grid-item:: 英文:Byston Well Soldier
-    .. grid-item:: 登场/加入:第13话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 40
-    .. grid-item:: EXP: 160
-    .. grid-item:: 编码 6D
-    .. grid-item:: 地址 B7FF6 (2B920)
-    .. grid-item:: 精神地址 B8007(2B932)
-    .. grid-item:: 地形适应 空B陆A海B宇C
+    .. grid-item:: 英文:Byston Well Soldier。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第13话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:40。
+        :columns: auto
+
+
+    .. grid-item:: EXP:160。
+        :columns: auto
+
+
+    .. grid-item:: 编码:6D。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7FF6 (2B920)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8007(2B932)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海B宇C。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2713,15 +3275,41 @@ DC兵士
 
         
 
-    .. grid-item:: 英文: Enhanced Soldier
-    .. grid-item:: 登场/加入:第28话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 20
-    .. grid-item:: EXP: 180
-    .. grid-item:: 编码 ED
-    .. grid-item:: 地址 B8EB5 (2C936)
-    .. grid-item:: 精神地址 B8EC6(2C948)
-    .. grid-item:: 地形适应 空A陆A海B宇A
+    .. grid-item:: 英文: Enhanced Soldier。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第28话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:20。
+        :columns: auto
+
+
+    .. grid-item:: EXP:180。
+        :columns: auto
+
+
+    .. grid-item:: 编码:ED。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8EB5 (2C936)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8EC6(2C948)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2839,9 +3427,9 @@ DC兵士
 
 .. _srw4_pilot__enhanced_soldier_commentEnd:
 
-^^^^^^^^^^
-ゲスト兵士
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+ゲスト兵士(盖斯特兵)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_guest_soldier:
 
@@ -2857,15 +3445,41 @@ DC兵士
 
         
 
-    .. grid-item:: 英文:Guest soldier
-    .. grid-item:: 登场/加入:第29话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 40
-    .. grid-item:: EXP: 140
-    .. grid-item:: 编码 CC
-    .. grid-item:: 地址 B8B00 (2C4F0)
-    .. grid-item:: 精神地址 B8B11(2C502)
-    .. grid-item:: 地形适应 空A陆A海A宇A
+    .. grid-item:: 英文:Guest soldier。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第29话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:40。
+        :columns: auto
+
+
+    .. grid-item:: EXP:140。
+        :columns: auto
+
+
+    .. grid-item:: 编码:CC。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8B00 (2C4F0)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8B11(2C502)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2972,9 +3586,9 @@ DC兵士
 
 .. _srw4_pilot_guest_soldier_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-ジュスティヌ・シャフラワース
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ジュスティヌ・シャフラワース(贾斯汀·沙弗劳斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_justine_chafrois:
 
@@ -2990,15 +3604,41 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_E8.png
 
-    .. grid-item:: 英文:Justine Chafrois
-    .. grid-item:: 登场/加入:第29话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 70
-    .. grid-item:: EXP: 240
-    .. grid-item:: 编码 E8
-    .. grid-item:: 地址 B8E2A (2C89E)
-    .. grid-item:: 精神地址 B8E3B(2C8B0)
-    .. grid-item:: 地形适应 空A陆A海B宇A
+    .. grid-item:: 英文:Justine Chafrois。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第29话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:70。
+        :columns: auto
+
+
+    .. grid-item:: EXP:240。
+        :columns: auto
+
+
+    .. grid-item:: 编码:E8。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8E2A (2C89E)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8E3B(2C8B0)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -3120,9 +3760,9 @@ DC兵士
 
 .. _srw4_pilot_justine_chafrois_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^
-ゼブリーズ・フルシュワ
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ゼブリーズ・フルシュワ(杰布里斯·弗尔西瓦)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_zebris_forschwa:
 
@@ -3138,15 +3778,41 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_E9.png
 
-    .. grid-item:: 英文:Zebris Forschwa
-    .. grid-item:: 登场/加入:第29话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 80
-    .. grid-item:: EXP: 241
-    .. grid-item:: 编码 E9
-    .. grid-item:: 地址 B8E49 (2C8C0)
-    .. grid-item:: 精神地址 B8E5A(2C8D2)
-    .. grid-item:: 地形适应 空A陆A海B宇A
+    .. grid-item:: 英文:Zebris Forschwa。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第29话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:80。
+        :columns: auto
+
+
+    .. grid-item:: EXP:241。
+        :columns: auto
+
+
+    .. grid-item:: 编码:E9。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8E49 (2C8C0)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8E5A(2C8D2)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -3268,9 +3934,9 @@ DC兵士
 
 .. _srw4_pilot_zebris_forschwa_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^
-グロフィス・ラクレイン
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+グロフィス・ラクレイン(格洛菲斯·拉克雷恩)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_glofis_raclayne:
 
@@ -3286,15 +3952,41 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_E7.png
 
-    .. grid-item:: 英文:Glofis Raclayne
-    .. grid-item:: 登场/加入:第34话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 70
-    .. grid-item:: EXP: 245
-    .. grid-item:: 编码 E7
-    .. grid-item:: 地址 B8E0B (2C878)
-    .. grid-item:: 精神地址 B8E1C(2C88A)
-    .. grid-item:: 地形适应 空A陆A海B宇A
+    .. grid-item:: 英文:Glofis Raclayne。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第34话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:70。
+        :columns: auto
+
+
+    .. grid-item:: EXP:245。
+        :columns: auto
+
+
+    .. grid-item:: 编码:E7。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8E0B (2C878)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8E1C(2C88A)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -3416,9 +4108,9 @@ DC兵士
 
 .. _srw4_pilot_glofis_raclayne_commentEnd:
 
-^^^^^^^^^^^^
-ゲスト突撃兵
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ゲスト突撃兵(盖斯特突击兵)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_guest_assault_soldier:
 
@@ -3434,15 +4126,41 @@ DC兵士
 
         
 
-    .. grid-item:: 英文:Guest Assault Soldier
-    .. grid-item:: 登场/加入:第35话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 40
-    .. grid-item:: EXP: 172
-    .. grid-item:: 编码 CD
-    .. grid-item:: 地址 B8B19 (2C50A)
-    .. grid-item:: 精神地址 B8B2A(2C51C)
-    .. grid-item:: 地形适应 空A陆A海A宇A
+    .. grid-item:: 英文:Guest Assault Soldier。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第35话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:40。
+        :columns: auto
+
+
+    .. grid-item:: EXP:172。
+        :columns: auto
+
+
+    .. grid-item:: 编码:CD。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8B19 (2C50A)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8B2A(2C51C)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -3547,9 +4265,9 @@ DC兵士
 
 .. _srw4_pilot_guest_assault_soldier_commentEnd:
 
-^^^^^^^^^^^^^^
-ゲスト親衛隊兵
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ゲスト親衛隊兵(盖斯特亲卫队兵)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_guest_imperial_guard:
 
@@ -3565,15 +4283,41 @@ DC兵士
 
         
 
-    .. grid-item:: 英文:Guest Imperial Guard
-    .. grid-item:: 登场/加入:第35话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 40
-    .. grid-item:: EXP: 196
-    .. grid-item:: 编码 CE
-    .. grid-item:: 地址 B8B32 (2C524)
-    .. grid-item:: 精神地址 B8B43(2C536)
-    .. grid-item:: 地形适应 空A陆A海A宇A
+    .. grid-item:: 英文:Guest Imperial Guard。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第35话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:40。
+        :columns: auto
+
+
+    .. grid-item:: EXP:196。
+        :columns: auto
+
+
+    .. grid-item:: 编码:CE。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8B32 (2C524)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8B43(2C536)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -3691,9 +4435,9 @@ DC兵士
 
 .. _srw4_pilot_guest_imperial_guard_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-テイニクェット・ゼゼーナン
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+テイニクェット・ゼゼーナン(泰尼库特·杰杰南)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_teniquette_zezernan:
 
@@ -3709,15 +4453,41 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_EA.png
 
-    .. grid-item:: 英文:Teniquette Zezernan
-    .. grid-item:: 登场/加入:第35话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 70
-    .. grid-item:: EXP: 200
-    .. grid-item:: 编码 EA
-    .. grid-item:: 地址 B8E68 (2C8E6)
-    .. grid-item:: 精神地址 B8E79(2C8F8)
-    .. grid-item:: 地形适应 空A陆A海C宇A
+    .. grid-item:: 英文:Teniquette Zezernan。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第35话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:70。
+        :columns: auto
+
+
+    .. grid-item:: EXP:200。
+        :columns: auto
+
+
+    .. grid-item:: 编码:EA。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8E68 (2C8E6)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8E79(2C8F8)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -3826,9 +4596,9 @@ DC兵士
 
 .. _srw4_pilot_teniquette_zezernan_commentEnd:
 
-^^^^^^^^
-メキボス
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+メキボス(梅基波斯)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_mekibos_bolverde:
 
@@ -3844,15 +4614,41 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_EB.png
 
-    .. grid-item:: 英文:Mekibos Bolverde
-    .. grid-item:: 登场/加入:第37话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 70
-    .. grid-item:: EXP: 244
-    .. grid-item:: 编码 EB
-    .. grid-item:: 地址 B8E87 (2C906)
-    .. grid-item:: 精神地址 B8E98(2C918)
-    .. grid-item:: 地形适应 空A陆A海A宇A
+    .. grid-item:: 英文:Mekibos Bolverde。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第37话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:70。
+        :columns: auto
+
+
+    .. grid-item:: EXP:244。
+        :columns: auto
+
+
+    .. grid-item:: 编码:EB。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8E87 (2C906)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8E98(2C918)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -3977,15 +4773,41 @@ DC兵士
 
         
 
-    .. grid-item:: 英文:Super AI
-    .. grid-item:: 登场/加入:第39话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 188
-    .. grid-item:: 编码 EF
-    .. grid-item:: 地址 B8EED (2C970)
-    .. grid-item:: 精神地址 B8EFE(2C982)
-    .. grid-item:: 地形适应 空A陆A海A宇A
+    .. grid-item:: 英文:Super AI。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第39话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:188。
+        :columns: auto
+
+
+    .. grid-item:: 编码:EF。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8EED (2C970)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8EFE(2C982)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -4107,15 +4929,41 @@ DC兵士
 
         
 
-    .. grid-item:: 英文:EFGF Infantry
-    .. grid-item:: 登场/加入:第4话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 40
-    .. grid-item:: EXP: 160
-    .. grid-item:: 编码 6C
-    .. grid-item:: 地址 B7FDD (2B906)
-    .. grid-item:: 精神地址 B7FEE(2B918)
-    .. grid-item:: 地形适应 空B陆B海B宇B
+    .. grid-item:: 英文:EFGF Infantry。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第4话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:40。
+        :columns: auto
+
+
+    .. grid-item:: EXP:160。
+        :columns: auto
+
+
+    .. grid-item:: 编码:6C。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7FDD (2B906)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7FEE(2B918)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆B海B宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -4238,15 +5086,41 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_A4.png
 
-    .. grid-item:: 英文:Federal Soldier
-    .. grid-item:: 登场/加入:第4话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 40
-    .. grid-item:: EXP: 160
-    .. grid-item:: 编码 A4
-    .. grid-item:: 地址 B7FDD (2B906)
-    .. grid-item:: 精神地址 B7FEE(2B918)
-    .. grid-item:: 地形适应 空B陆B海B宇B
+    .. grid-item:: 英文:Federal Soldier。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第4话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:40。
+        :columns: auto
+
+
+    .. grid-item:: EXP:160。
+        :columns: auto
+
+
+    .. grid-item:: 编码:A4。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7FDD (2B906)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7FEE(2B918)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆B海B宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -4351,9 +5225,9 @@ DC兵士
 
 .. _srw4_pilot_federal_soldier_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-ギリアム・イェーガー
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ギリアム・イェーガー(基利亚姆)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_gilliam_yeager:
 
@@ -4369,15 +5243,41 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_1B.png
 
-    .. grid-item:: 英文:Gilliam Yeager
-    .. grid-item:: 登场/加入:第14话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 240
-    .. grid-item:: 编码 1B
-    .. grid-item:: 地址 B763E (2AE46)
-    .. grid-item:: 精神地址 B764F(2AE58)
-    .. grid-item:: 地形适应 空A陆A海B宇A
+    .. grid-item:: 英文:Gilliam Yeager。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第14话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:240。
+        :columns: auto
+
+
+    .. grid-item:: 编码:1B。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B763E (2AE46)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B764F(2AE58)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -4500,9 +5400,9 @@ DC兵士
 
 .. _srw4_pilot_gilliam_yeager_commentEnd:
 
-^^^^^^^^^^
-エゥーゴ兵
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+エゥーゴ兵(奥古兵)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_aeug_soldier:
 
@@ -4518,15 +5418,41 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_A5.png
 
-    .. grid-item:: 英文:AEUG soldier
-    .. grid-item:: 登场/加入:第24话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 40
-    .. grid-item:: EXP: 170
-    .. grid-item:: 编码 A5
-    .. grid-item:: 地址 B8685 (2C02E)
-    .. grid-item:: 精神地址 B8696(2C040)
-    .. grid-item:: 地形适应 空A陆A海A宇A
+    .. grid-item:: 英文:AEUG soldier。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第24话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:40。
+        :columns: auto
+
+
+    .. grid-item:: EXP:170。
+        :columns: auto
+
+
+    .. grid-item:: 编码:A5。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8685 (2C02E)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8696(2C040)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -4631,9 +5557,9 @@ DC兵士
 
 .. _srw4_pilot_aeug_soldier_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-テリウス・ビルセイア
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+テリウス・ビルセイア(特里乌斯·比尔塞亚)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_telius_bilseia:
 
@@ -4649,15 +5575,41 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_EC.png
 
-    .. grid-item:: 英文:Telius Bilseia
-    .. grid-item:: 登场/加入:第35话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 198
-    .. grid-item:: 编码 EC
-    .. grid-item:: 地址 B8E9E (2C91E)
-    .. grid-item:: 精神地址 B8EAF(2C930)
-    .. grid-item:: 地形适应 空A陆A海C宇B
+    .. grid-item:: 英文:Telius Bilseia。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第35话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:198。
+        :columns: auto
+
+
+    .. grid-item:: 编码:EC。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8E9E (2C91E)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8EAF(2C930)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海C宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -4766,9 +5718,9 @@ DC兵士
 
 .. _srw4_pilot_telius_bilseia_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-プレシア・ゼノサキス
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+プレシア・ゼノサキス(普蕾西亚·谢诺萨基斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_presia_xenosakis:
 
@@ -4784,15 +5736,41 @@ DC兵士
 
         .. image:: ../pilots/images/srw4_pilot_72.png
 
-    .. grid-item:: 英文:Presia Xenosakis
-    .. grid-item:: 登场/加入:第39话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 72
-    .. grid-item:: 地址 B807B (2B9AA)
-    .. grid-item:: 精神地址 B808C(2B9BC)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Presia Xenosakis。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第39话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:72。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B807B (2B9AA)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B808C(2B9BC)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 

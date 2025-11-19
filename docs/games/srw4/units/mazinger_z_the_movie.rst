@@ -8,6 +8,12 @@
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_units_mazinger_z_the_movie_commentBegin:
 
 
@@ -21,9 +27,9 @@
 
 .. _srw4_units_mazinger_z_the_movie_enemy_commentEnd:
 
-^^^^^^^^^^^^^^^^
-機械獣トロスD7
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+機械獣トロスD7(机械兽托罗斯D7)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mechanical_beast_toros_d7:
 
@@ -50,29 +56,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mechanical Beast Toros D7
+            .. grid-item:: 英文:Mechanical Beast Toros D7。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 97
+            .. grid-item:: 编码:97。
                 :columns: auto
 
-            .. grid-item:: 地址 BAFF2 (27CE1)
+            .. grid-item:: 地址 BAFF2 (27CE1)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB012 (27D01)
+            .. grid-item:: 武器首地址:BB012 (27D01)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆A海B宇C
+            .. grid-item:: 地形适应:空🚫陆A海B宇C。
                 :columns: auto
 
 
@@ -150,7 +156,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -188,9 +194,9 @@
 
 .. _srw4_unit_mechanical_beast_toros_d7_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ドラゴノザウルス
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ドラゴノザウルス(大恐龙)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_dragonsaurus:
 
@@ -217,33 +223,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Dragonsaurus
+            .. grid-item:: 英文:Dragonsaurus。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第6话
+            .. grid-item:: 登场/加入:第6话。
                 :columns: auto
 
-            .. grid-item:: 编码 A8
+            .. grid-item:: 编码:A8。
                 :columns: auto
 
-            .. grid-item:: 地址 BB2BB (27FAA)
+            .. grid-item:: 地址 BB2BB (27FAA)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB2DB (27FCA)
+            .. grid-item:: 武器首地址:BB2DB (27FCA)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 水陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫陆🚫海A宇🚫
+            .. grid-item:: 移动类型:水陸。
                 :columns: auto
 
 
-            .. grid-item:: HP恢復(小)
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫陆🚫海A宇🚫。
+                :columns: auto
+
+
+            .. grid-item:: 技能: HP恢復(小)。
                 :columns: auto
 
 
@@ -321,7 +327,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -373,9 +379,9 @@
 
 .. _srw4_unit_dragonsaurus_commentEnd:
 
-^^^^^^^^^^^^^^
-円盤獣ジンジン
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+円盤獣ジンジン(圆盘兽金金)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_saucer_beast_jinjin:
 
@@ -402,29 +408,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Saucer Beast Jinjin
+            .. grid-item:: 英文:Saucer Beast Jinjin。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第6话
+            .. grid-item:: 登场/加入:第6话。
                 :columns: auto
 
-            .. grid-item:: 编码 116
+            .. grid-item:: 编码:116。
                 :columns: auto
 
-            .. grid-item:: 地址 BC58D (29279)
+            .. grid-item:: 地址 BC58D (29279)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC5AD (29299)
+            .. grid-item:: 武器首地址:BC5AD (29299)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆A海D宇A
+            .. grid-item:: 地形适应:空A陆A海D宇A。
                 :columns: auto
 
 
@@ -502,7 +508,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -554,9 +560,9 @@
 
 .. _srw4_unit_saucer_beast_jinjin_commentEnd:
 
-^^^^^^^^^^^^
-戦闘獣ダンテ
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+戦闘獣ダンテ(战斗兽但丁)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_warrior_beast_dante:
 
@@ -583,29 +589,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Warrior Beast Dante
+            .. grid-item:: 英文:Warrior Beast Dante。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第18话
+            .. grid-item:: 登场/加入:第18话。
                 :columns: auto
 
-            .. grid-item:: 编码 118
+            .. grid-item:: 编码:118。
                 :columns: auto
 
-            .. grid-item:: 地址 BC5E3 (292CF)
+            .. grid-item:: 地址 BC5E3 (292CF)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC603 (292EF)
+            .. grid-item:: 武器首地址:BC603 (292EF)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆B海D宇🚫
+            .. grid-item:: 地形适应:空A陆B海D宇🚫。
                 :columns: auto
 
 
@@ -683,7 +689,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -750,33 +756,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:General Juuma
+            .. grid-item:: 英文:General Juuma。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第22话
+            .. grid-item:: 登场/加入:第22话。
                 :columns: auto
 
-            .. grid-item:: 编码 11A
+            .. grid-item:: 编码:11A。
                 :columns: auto
 
-            .. grid-item:: 地址 BC636 (29322)
+            .. grid-item:: 地址 BC636 (29322)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC656 (29342)
+            .. grid-item:: 武器首地址:BC656 (29342)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B陆A海D宇🚫→D
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`獣魔将軍 <srw4_pilot_beast_demon_general>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B陆A海D宇🚫→D。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`獣魔将軍 <srw4_pilot_beast_demon_general>`\ 。
                 :columns: auto
 
 
@@ -857,7 +863,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -908,9 +914,9 @@
 
 .. _srw4_unit_general_juuma_commentEnd:
 
-^^^^^^^^^^
-ピクドロン
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+ピクドロン(皮克多隆)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_pikadron:
 
@@ -937,29 +943,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Pikadron
+            .. grid-item:: 英文:Pikadron。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第43话
+            .. grid-item:: 登场/加入:第43话。
                 :columns: auto
 
-            .. grid-item:: 编码 A5
+            .. grid-item:: 编码:A5。
                 :columns: auto
 
-            .. grid-item:: 地址 BB240 (27F2F)
+            .. grid-item:: 地址 BB240 (27F2F)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB260 (27F4F)
+            .. grid-item:: 武器首地址:BB260 (27F4F)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆B海D宇B
+            .. grid-item:: 地形适应:空A陆B海D宇B。
                 :columns: auto
 
 
@@ -1037,7 +1043,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1062,9 +1068,9 @@
 
 .. _srw4_unit_pikadron_commentEnd:
 
-^^^^^^^^^^^^
-ギルギルガン
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ギルギルガン(基鲁基鲁刚)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_gilgilgan:
 
@@ -1091,29 +1097,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Gilgilgan
+            .. grid-item:: 英文:Gilgilgan。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第43话
+            .. grid-item:: 登场/加入:第43话。
                 :columns: auto
 
-            .. grid-item:: 编码 A6
+            .. grid-item:: 编码:A6。
                 :columns: auto
 
-            .. grid-item:: 地址 BB265 (27F54)
+            .. grid-item:: 地址 BB265 (27F54)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB285 (27F74)
+            .. grid-item:: 武器首地址:BB285 (27F74)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 水陸空
+            .. grid-item:: 移动类型:水陸空。
                 :columns: auto
 
 
-            .. grid-item:: 大小 LL
+            .. grid-item:: 大小 LL。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆A海A宇A
+            .. grid-item:: 地形适应:空A陆A海A宇A。
                 :columns: auto
 
 
@@ -1191,7 +1197,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

@@ -7,6 +7,12 @@
 ==================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_pilots_heavy_metal_l_gaim_commentBegin:
 
 不论敌我，机师能力都相当出色，具有很高的回避和很好的精神。登场人物众多，在剧情中占据相当篇幅。
@@ -21,9 +27,9 @@
 
 .. _srw4_pilots_heavy_metal_l_gaim_own_commentEnd:
 
-^^^^^^^^^^^^^^
-リリス・ファウ
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+リリス・ファウ(莉莉丝·法乌)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_lilith_fau:
 
@@ -39,15 +45,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_04.png
 
-    .. grid-item:: 英文:Lilith Fau
-    .. grid-item:: 登场/加入:第2话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 04
-    .. grid-item:: 地址 B736F (2AB60)
-    .. grid-item:: 精神地址 B7380(2AB72)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Lilith Fau。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第2话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:04。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B736F (2AB60)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7380(2AB72)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -156,9 +188,9 @@
 
 .. _srw4_pilot_lilith_fau_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ダバ・マイロード
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ダバ・マイロード(达巴·麦罗德)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_daba_myroad:
 
@@ -174,15 +206,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_D2.png
 
-    .. grid-item:: 英文:Daba Myroad
-    .. grid-item:: 登场/加入:第2话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 75
-    .. grid-item:: EXP: 255
-    .. grid-item:: 编码 D2
-    .. grid-item:: 地址 B8B98 (2C58E)
-    .. grid-item:: 精神地址 B8BA9(2C5A0)
-    .. grid-item:: 地形适应 空B陆A海A宇A
+    .. grid-item:: 英文:Daba Myroad。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第2话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:75。
+        :columns: auto
+
+
+    .. grid-item:: EXP:255。
+        :columns: auto
+
+
+    .. grid-item:: 编码:D2。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8B98 (2C58E)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8BA9(2C5A0)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -300,9 +358,9 @@
 
 .. _srw4_pilot_daba_myroad_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-ファンネリア・アム
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ファンネリア・アム(范妮莉亚·阿姆)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_fanaria_amm:
 
@@ -318,15 +376,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_D5.png
 
-    .. grid-item:: 英文:Fanaria Amm
-    .. grid-item:: 登场/加入:第2话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 65 (85)
-    .. grid-item:: EXP: 191
-    .. grid-item:: 编码 D5
-    .. grid-item:: 地址 B8BF9 (2C618)
-    .. grid-item:: 精神地址 B8C0A(2C62A)
-    .. grid-item:: 地形适应 空C (B)陆A海C (A)宇B
+    .. grid-item:: 英文:Fanaria Amm。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第2话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:65 (85)。
+        :columns: auto
+
+
+    .. grid-item:: EXP:191。
+        :columns: auto
+
+
+    .. grid-item:: 编码:D5。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8BF9 (2C618)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8C0A(2C62A)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C (B)陆A海C (A)宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -445,9 +529,9 @@
 
 .. _srw4_pilot_fanaria_amm_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-ガウ・ハ・レッシィ
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ガウ・ハ・レッシィ(加瓦·H·蕾西)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_gaw_ha_leccee:
 
@@ -463,15 +547,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_D3.png
 
-    .. grid-item:: 英文:Gaw Ha Leccee
-    .. grid-item:: 登场/加入:第3话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 70
-    .. grid-item:: EXP: 246
-    .. grid-item:: 编码 D3
-    .. grid-item:: 地址 B8BB9 (2C5C2)
-    .. grid-item:: 精神地址 B8BCA(2C5D4)
-    .. grid-item:: 地形适应 空B陆A海A宇A
+    .. grid-item:: 英文:Gaw Ha Leccee。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第3话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:70。
+        :columns: auto
+
+
+    .. grid-item:: EXP:246。
+        :columns: auto
+
+
+    .. grid-item:: 编码:D3。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8BB9 (2C5C2)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8BCA(2C5D4)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -591,9 +701,9 @@
 
 .. _srw4_pilot_gaw_ha_leccee_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^
-ギャブレット・ギャブレー
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ギャブレット・ギャブレー(加布雷特·加布雷)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_gavlet_gablae:
 
@@ -609,15 +719,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_D7.png
 
-    .. grid-item:: 英文:Gavlet Gablae
-    .. grid-item:: 登场/加入:第4话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 75
-    .. grid-item:: EXP: 218
-    .. grid-item:: 编码 D7
-    .. grid-item:: 地址 B8C31 (2C664)
-    .. grid-item:: 精神地址 B8C42(2C676)
-    .. grid-item:: 地形适应 空B陆A海B宇A
+    .. grid-item:: 英文:Gavlet Gablae。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第4话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:75。
+        :columns: auto
+
+
+    .. grid-item:: EXP:218。
+        :columns: auto
+
+
+    .. grid-item:: 编码:D7。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8C31 (2C664)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8C42(2C676)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -739,9 +875,9 @@
 
 .. _srw4_pilot_gavlet_gablae_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-クワサン・オリビー
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+クワサン・オリビー(柯瓦桑·奥利比)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_quwasan_olibee:
 
@@ -757,15 +893,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_DD.png
 
-    .. grid-item:: 英文:Quwasan Olibee
-    .. grid-item:: 登场/加入:第26话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 65
-    .. grid-item:: EXP: 200
-    .. grid-item:: 编码 DD
-    .. grid-item:: 地址 B8CE3 (2C730)
-    .. grid-item:: 精神地址 B8CF4(2C742)
-    .. grid-item:: 地形适应 空B陆A海C宇A
+    .. grid-item:: 英文:Quwasan Olibee。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第26话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:65。
+        :columns: auto
+
+
+    .. grid-item:: EXP:200。
+        :columns: auto
+
+
+    .. grid-item:: 编码:DD。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8CE3 (2C730)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8CF4(2C742)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -892,9 +1054,9 @@
 
 .. _srw4_pilots_heavy_metal_l_gaim_enemy_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-ハッシャ・モッシャ
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ハッシャ・モッシャ(哈夏·莫西亚)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot__hasha_moja:
 
@@ -910,15 +1072,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_D6.png
 
-    .. grid-item:: 英文: Hasha Moja
-    .. grid-item:: 登场/加入:第4话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 65
-    .. grid-item:: EXP: 188
-    .. grid-item:: 编码 D6
-    .. grid-item:: 地址 B8C1A (2C64C)
-    .. grid-item:: 精神地址 B8C2B(2C65E)
-    .. grid-item:: 地形适应 空C陆A海B宇B
+    .. grid-item:: 英文: Hasha Moja。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第4话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:65。
+        :columns: auto
+
+
+    .. grid-item:: EXP:188。
+        :columns: auto
+
+
+    .. grid-item:: 编码:D6。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8C1A (2C64C)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8C2B(2C65E)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆A海B宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1025,9 +1213,9 @@
 
 .. _srw4_pilot__hasha_moja_commentEnd:
 
-^^^^^^^^^^^^^^^^
-アントン・ランド
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+アントン・ランド(安东·兰德)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_anton_rando:
 
@@ -1043,15 +1231,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_DF.png
 
-    .. grid-item:: 英文:Anton Rando
-    .. grid-item:: 登场/加入:第8话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 65
-    .. grid-item:: EXP: 204
-    .. grid-item:: 编码 DF
-    .. grid-item:: 地址 B8D1F (2C776)
-    .. grid-item:: 精神地址 B8D30(2C788)
-    .. grid-item:: 地形适应 空A陆A海B宇A
+    .. grid-item:: 英文:Anton Rando。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第8话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:65。
+        :columns: auto
+
+
+    .. grid-item:: EXP:204。
+        :columns: auto
+
+
+    .. grid-item:: 编码:DF。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8D1F (2C776)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8D30(2C788)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1169,9 +1383,9 @@
 
 .. _srw4_pilot_anton_rando_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-ヘッケラー・マウザー
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ヘッケラー・マウザー(汉克拉·毛瑟)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_heckler_mauser:
 
@@ -1187,15 +1401,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_E0.png
 
-    .. grid-item:: 英文:Heckler Mauser
-    .. grid-item:: 登场/加入:第8话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 65
-    .. grid-item:: EXP: 205
-    .. grid-item:: 编码 E0
-    .. grid-item:: 地址 B8D3C (2C796)
-    .. grid-item:: 精神地址 B8D4D(2C7A8)
-    .. grid-item:: 地形适应 空A陆A海B宇A
+    .. grid-item:: 英文:Heckler Mauser。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第8话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:65。
+        :columns: auto
+
+
+    .. grid-item:: EXP:205。
+        :columns: auto
+
+
+    .. grid-item:: 编码:E0。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8D3C (2C796)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8D4D(2C7A8)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1313,9 +1553,9 @@
 
 .. _srw4_pilot_heckler_mauser_commentEnd:
 
-^^^^^^^^^^^^^^
-チャイ・チャー
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+チャイ・チャー(查伊·查尔)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_chai_char:
 
@@ -1331,15 +1571,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_E2.png
 
-    .. grid-item:: 英文:Chai Char
-    .. grid-item:: 登场/加入:第8话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 65
-    .. grid-item:: EXP: 228
-    .. grid-item:: 编码 E2
-    .. grid-item:: 地址 B8D7A (2C7DA)
-    .. grid-item:: 精神地址 B8D8B(2C7EC)
-    .. grid-item:: 地形适应 空B陆A海C宇A
+    .. grid-item:: 英文:Chai Char。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第8话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:65。
+        :columns: auto
+
+
+    .. grid-item:: EXP:228。
+        :columns: auto
+
+
+    .. grid-item:: 编码:E2。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8D7A (2C7DA)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8D8B(2C7EC)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1444,9 +1710,9 @@
 
 .. _srw4_pilot_chai_char_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ネイ・モー・ハン
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ネイ・モー・ハン(内伊·莫·汉)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_nei_mo_han:
 
@@ -1462,15 +1728,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_DA.png
 
-    .. grid-item:: 英文:Nei Mo Han
-    .. grid-item:: 登场/加入:第9话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 65
-    .. grid-item:: EXP: 238
-    .. grid-item:: 编码 DA
-    .. grid-item:: 地址 B8C8A (2C6D0)
-    .. grid-item:: 精神地址 B8C9B(2C6E2)
-    .. grid-item:: 地形适应 空A陆A海C宇A
+    .. grid-item:: 英文:Nei Mo Han。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第9话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:65。
+        :columns: auto
+
+
+    .. grid-item:: EXP:238。
+        :columns: auto
+
+
+    .. grid-item:: 编码:DA。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8C8A (2C6D0)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8C9B(2C6E2)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1589,9 +1881,9 @@
 
 .. _srw4_pilot_nei_mo_han_commentEnd:
 
-^^^^^^^^^^^^^^
-ワザン・ルーン
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ワザン・ルーン(瓦桑·露恩)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_wassan_lune:
 
@@ -1607,15 +1899,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_E3.png
 
-    .. grid-item:: 英文:Wassan Lune
-    .. grid-item:: 登场/加入:第17话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 65
-    .. grid-item:: EXP: 217
-    .. grid-item:: 编码 E3
-    .. grid-item:: 地址 B8D97 (2C7F8)
-    .. grid-item:: 精神地址 B8DA8(2C80A)
-    .. grid-item:: 地形适应 空B陆A海A宇A
+    .. grid-item:: 英文:Wassan Lune。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第17话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:65。
+        :columns: auto
+
+
+    .. grid-item:: EXP:217。
+        :columns: auto
+
+
+    .. grid-item:: 编码:E3。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8D97 (2C7F8)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8DA8(2C80A)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1720,9 +2038,9 @@
 
 .. _srw4_pilot_wassan_lune_commentEnd:
 
-^^^^^^^^^^^^^^^^
-マフ・マクトミン
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+マフ・マクトミン(玛弗·马克托明)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_maph_mctomin:
 
@@ -1738,15 +2056,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_E4.png
 
-    .. grid-item:: 英文:Maph McTomin
-    .. grid-item:: 登场/加入:第17话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 65
-    .. grid-item:: EXP: 220
-    .. grid-item:: 编码 E4
-    .. grid-item:: 地址 B8DB2 (2C814)
-    .. grid-item:: 精神地址 B8DC3(2C826)
-    .. grid-item:: 地形适应 空A陆A海B宇A
+    .. grid-item:: 英文:Maph McTomin。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第17话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:65。
+        :columns: auto
+
+
+    .. grid-item:: EXP:220。
+        :columns: auto
+
+
+    .. grid-item:: 编码:E4。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8DB2 (2C814)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8DC3(2C826)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1862,9 +2206,9 @@
 
 .. _srw4_pilot_maph_mctomin_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^
-バーン・ガニア・キラーズ
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+バーン・ガニア・キラーズ(巴恩·加尼亚·基拉斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_baan_gania_killas:
 
@@ -1880,15 +2224,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_E5.png
 
-    .. grid-item:: 英文:Baan Gania Killas
-    .. grid-item:: 登场/加入:第17话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 65
-    .. grid-item:: EXP: 221
-    .. grid-item:: 编码 E5
-    .. grid-item:: 地址 B8DD1 (2C838)
-    .. grid-item:: 精神地址 B8DE2(2C84A)
-    .. grid-item:: 地形适应 空A陆A海B宇A
+    .. grid-item:: 英文:Baan Gania Killas。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第17话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:65。
+        :columns: auto
+
+
+    .. grid-item:: EXP:221。
+        :columns: auto
+
+
+    .. grid-item:: 编码:E5。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8DD1 (2C838)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8DE2(2C84A)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2004,9 +2374,9 @@
 
 .. _srw4_pilot_baan_gania_killas_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^
-アマンダラ・カマンダラ
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+アマンダラ・カマンダラ(阿曼达拉·卡曼达拉)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_amandara_kamandara:
 
@@ -2022,15 +2392,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_D8.png
 
-    .. grid-item:: 英文:Amandara Kamandara
-    .. grid-item:: 登场/加入:第25话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 65
-    .. grid-item:: EXP: 246
-    .. grid-item:: 编码 D8
-    .. grid-item:: 地址 B8C52 (2C696)
-    .. grid-item:: 精神地址 B8C63(2C6A8)
-    .. grid-item:: 地形适应 空A陆A海A宇A
+    .. grid-item:: 英文:Amandara Kamandara。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第25话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:65。
+        :columns: auto
+
+
+    .. grid-item:: EXP:246。
+        :columns: auto
+
+
+    .. grid-item:: 编码:D8。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8C52 (2C696)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8C63(2C6A8)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2134,9 +2530,9 @@
 
 .. _srw4_pilot_amandara_kamandara_commentEnd:
 
-^^^^^^^^^^^^^^^^
-リョクレイ・ロン
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+リョクレイ・ロン(流克莱·罗恩)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_rockley_ron:
 
@@ -2152,15 +2548,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_DE.png
 
-    .. grid-item:: 英文:Rockley Ron
-    .. grid-item:: 登场/加入:第26话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 65
-    .. grid-item:: EXP: 218
-    .. grid-item:: 编码 DE
-    .. grid-item:: 地址 B8D02 (2C756)
-    .. grid-item:: 精神地址 B8D13(2C768)
-    .. grid-item:: 地形适应 空B陆A海D宇A
+    .. grid-item:: 英文:Rockley Ron。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第26话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:65。
+        :columns: auto
+
+
+    .. grid-item:: EXP:218。
+        :columns: auto
+
+
+    .. grid-item:: 编码:DE。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8D02 (2C756)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8D13(2C768)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海D宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2276,9 +2698,9 @@
 
 .. _srw4_pilot_rockley_ron_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-リィリィ・ハッシー
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+リィリィ・ハッシー(莉莉·哈希)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_lily_hasshi:
 
@@ -2294,15 +2716,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_E1.png
 
-    .. grid-item:: 英文:Lily Hasshi
-    .. grid-item:: 登场/加入:第26话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 65
-    .. grid-item:: EXP: 224
-    .. grid-item:: 编码 E1
-    .. grid-item:: 地址 B8D5B (2C7B8)
-    .. grid-item:: 精神地址 B8D6C(2C7CA)
-    .. grid-item:: 地形适应 空B陆A海C宇A
+    .. grid-item:: 英文:Lily Hasshi。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第26话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:65。
+        :columns: auto
+
+
+    .. grid-item:: EXP:224。
+        :columns: auto
+
+
+    .. grid-item:: 编码:E1。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8D5B (2C7B8)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8D6C(2C7CA)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2418,9 +2866,9 @@
 
 .. _srw4_pilot_lily_hasshi_commentEnd:
 
-^^^^^^^^^^^^^^
-ギワザ・ロワウ
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ギワザ・ロワウ(基瓦扎·洛瓦乌)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_giwaza_lowau:
 
@@ -2436,15 +2884,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_DB.png
 
-    .. grid-item:: 英文:Giwaza Lowau
-    .. grid-item:: 登场/加入:第40话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 65
-    .. grid-item:: EXP: 236
-    .. grid-item:: 编码 DB
-    .. grid-item:: 地址 B8CA9 (2C6F2)
-    .. grid-item:: 精神地址 B8CBA(2C704)
-    .. grid-item:: 地形适应 空A陆B海D宇A
+    .. grid-item:: 英文:Giwaza Lowau。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第40话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:65。
+        :columns: auto
+
+
+    .. grid-item:: EXP:236。
+        :columns: auto
+
+
+    .. grid-item:: 编码:DB。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8CA9 (2C6F2)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8CBA(2C704)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆B海D宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2549,9 +3023,9 @@
 
 .. _srw4_pilot_giwaza_lowau_commentEnd:
 
-^^^^^^^^^^^^^^^^
-テッド・デビラス
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+テッド・デビラス(托德·迪比亚斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_ted_devilas:
 
@@ -2567,15 +3041,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_E6.png
 
-    .. grid-item:: 英文:Ted Devilas
-    .. grid-item:: 登场/加入:第40话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 65
-    .. grid-item:: EXP: 219
-    .. grid-item:: 编码 E6
-    .. grid-item:: 地址 B8DEE (2C858)
-    .. grid-item:: 精神地址 B8DFF(2C86A)
-    .. grid-item:: 地形适应 空A陆A海B宇A
+    .. grid-item:: 英文:Ted Devilas。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第40话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:65。
+        :columns: auto
+
+
+    .. grid-item:: EXP:219。
+        :columns: auto
+
+
+    .. grid-item:: 编码:E6。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8DEE (2C858)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8DFF(2C86A)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2691,9 +3191,9 @@
 
 .. _srw4_pilot_ted_devilas_commentEnd:
 
-^^^^^^^^^^^^^^
-フル・フラット
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+フル・フラット(芙露·弗拉特)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_full_flat:
 
@@ -2709,15 +3209,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_DC.png
 
-    .. grid-item:: 英文:Full Flat
-    .. grid-item:: 登场/加入:第41话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 65
-    .. grid-item:: EXP: 224
-    .. grid-item:: 编码 DC
-    .. grid-item:: 地址 B8CC6 (2C710)
-    .. grid-item:: 精神地址 B8CD7(2C722)
-    .. grid-item:: 地形适应 空A陆A海B宇A
+    .. grid-item:: 英文:Full Flat。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第41话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:65。
+        :columns: auto
+
+
+    .. grid-item:: EXP:224。
+        :columns: auto
+
+
+    .. grid-item:: 编码:DC。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8CC6 (2C710)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8CD7(2C722)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2833,9 +3359,9 @@
 
 .. _srw4_pilot_full_flat_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-オルドナ・ポセイダル
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+オルドナ・ポセイダル(奥尔多纳·波赛达尔)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_oldna_poseidal:
 
@@ -2851,15 +3377,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_D9.png
 
-    .. grid-item:: 英文:Oldna Poseidal
-    .. grid-item:: 登场/加入:第42话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 65
-    .. grid-item:: EXP: 242
-    .. grid-item:: 编码 D9
-    .. grid-item:: 地址 B8C6F (2C6B4)
-    .. grid-item:: 精神地址 B8C80(2C6C6)
-    .. grid-item:: 地形适应 空A陆A海A宇A
+    .. grid-item:: 英文:Oldna Poseidal。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第42话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:65。
+        :columns: auto
+
+
+    .. grid-item:: EXP:242。
+        :columns: auto
+
+
+    .. grid-item:: 编码:D9。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8C6F (2C6B4)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8C80(2C6C6)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -2971,9 +3523,9 @@
 
 .. _srw4_pilots_heavy_metal_l_gaim_ally_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ミラウー・キャオ
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ミラウー・キャオ(米劳·凯欧)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_mirawoo_kyao:
 
@@ -2989,14 +3541,37 @@
 
         .. image:: ../pilots/images/srw4_pilot_D4.png
 
-    .. grid-item:: 英文:Mirawoo Kyao
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 70
-    .. grid-item:: EXP: 186
-    .. grid-item:: 编码 D4
-    .. grid-item:: 地址 B8BDA (2C5F8)
-    .. grid-item:: 精神地址 B8BEB(2C60A)
-    .. grid-item:: 地形适应 空C陆A海C宇B
+    .. grid-item:: 英文:Mirawoo Kyao。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:70。
+        :columns: auto
+
+
+    .. grid-item:: EXP:186。
+        :columns: auto
+
+
+    .. grid-item:: 编码:D4。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8BDA (2C5F8)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8BEB(2C60A)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆A海C宇B。
+        :columns: auto
+
 
 
 .. grid:: 

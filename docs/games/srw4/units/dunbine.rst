@@ -1,5 +1,5 @@
 .. meta::
-   :description: ダンバイン/ダンバインOVA机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。ダンバイン, ビルバイン, ウイングキャリバー, ライネック, バストール, グラン・ガラン, ゴラオン, サーバイン, ズワウス, ボチューン, ドラムロ, レプラカーン, ズワァース, ビアレス, ブブリィ, ガラバ, ウィル・ウィプス, ゲア・ガリング, スプリガン, レプラカーン(ハイパー可), ハイパーレプラカーン, ライネック(ハイパー可), ハイパーライネック, ガラバ(ハイパー可), ハイパーガラバ 
+   :description: ダンバイン/ダンバインOVA机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。ダンバイン, ビルバイン, ウイングキャリバー, ライネック, バストール, グラン·ガラン, ゴラオン, サーバイン, ズワウス, ボチューン, ドラムロ, レプラカーン, ズワァース, ビアレス, ブブリィ, ガラバ, ウィル·ウィプス, ゲア·ガリング, スプリガン, レプラカーン(ハイパー可), ハイパーレプラカーン, ライネック(ハイパー可), ハイパーライネック, ガラバ(ハイパー可), ハイパーガラバ 
 .. _srw4_units_dunbine:
 
 ====================================
@@ -7,6 +7,12 @@
 ====================================
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
+
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
 
 .. _srw4_units_dunbine_commentBegin:
 
@@ -30,9 +36,9 @@
 
 .. _srw4_units_dunbine_own_commentEnd:
 
-^^^^^^^^^^
-ダンバイン
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+ダンバイン(丹拜因)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_dunbine:
 
@@ -59,40 +65,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Dunbine
+            .. grid-item:: 英文:Dunbine。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第13话
+            .. grid-item:: 登场/加入:第13话。
                 :columns: auto
 
-            .. grid-item:: 编码 3F
+            .. grid-item:: 编码:3F。
                 :columns: auto
 
-            .. grid-item:: 地址 BA0AA (26D99)
+            .. grid-item:: 地址 BA0AA (26D99)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA0CA (26DB9)
+            .. grid-item:: 武器首地址:BA0CA (26DB9)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海B宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1C.png
                 :columns: auto
 
-            .. grid-item:: 分身, 剣装備, オーラバリア
+            .. grid-item:: 技能: 分身、剣装備、オーラバリア。
                 :columns: auto
 
 
@@ -170,7 +176,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -250,9 +256,9 @@
 
 .. _srw4_unit_dunbine_commentEnd:
 
-^^^^^^^^^^
-ビルバイン
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+ビルバイン(比尔拜因)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_bilvine:
 
@@ -279,40 +285,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Bilvine
+            .. grid-item:: 英文:Bilvine。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第25话
+            .. grid-item:: 登场/加入:第25话。
                 :columns: auto
 
-            .. grid-item:: 编码 40
+            .. grid-item:: 编码:40。
                 :columns: auto
 
-            .. grid-item:: 地址 BA0DB (26DCA)
+            .. grid-item:: 地址 BA0DB (26DCA)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA0FB (26DEA)
+            .. grid-item:: 武器首地址:BA0FB (26DEA)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海B宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1C.png
                 :columns: auto
 
-            .. grid-item:: 分身, 剣装備, オーラバリア
+            .. grid-item:: 技能: 分身、剣装備、オーラバリア。
                 :columns: auto
 
 
@@ -390,7 +396,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -501,9 +507,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_bilvine_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-ウイングキャリバー
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ウイングキャリバー(翼比尔拜因)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_wing_caliber:
 
@@ -530,40 +536,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Wing Caliber
+            .. grid-item:: 英文:Wing Caliber。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第25话
+            .. grid-item:: 登场/加入:第25话。
                 :columns: auto
 
-            .. grid-item:: 编码 41
+            .. grid-item:: 编码:41。
                 :columns: auto
 
-            .. grid-item:: 地址 BA112 (26E01)
+            .. grid-item:: 地址 BA112 (26E01)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA132 (26E21)
+            .. grid-item:: 武器首地址:BA132 (26E21)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→C海🚫→D宇B
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→C海🚫→D宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ショウ・ザマ <srw4_pilot_show_zama>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1C.png
                 :columns: auto
 
-            .. grid-item:: 分身, オーラバリア
+            .. grid-item:: 技能: 分身、オーラバリア。
                 :columns: auto
 
 
@@ -641,7 +647,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -680,9 +686,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_wing_caliber_commentEnd:
 
-^^^^^^^^^^
-バストール
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+バストール(巴斯托尔)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_bastole:
 
@@ -709,40 +715,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Bastole
+            .. grid-item:: 英文:Bastole。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第13话
+            .. grid-item:: 登场/加入:第13话。
                 :columns: auto
 
-            .. grid-item:: 编码 AF
+            .. grid-item:: 编码:AF。
                 :columns: auto
 
-            .. grid-item:: 地址 BB406 (280F5)
+            .. grid-item:: 地址 BB406 (280F5)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB426 (28115)
+            .. grid-item:: 武器首地址:BB426 (28115)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海B→C宇B→C
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B→C宇B→C。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ガラリア・ニャムヒー <srw4_pilot_garalia_nyamhee>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_C1.png
                 :columns: auto
 
-            .. grid-item:: 分身, 剣装備, オーラバリア
+            .. grid-item:: 技能: 分身、剣装備、オーラバリア。
                 :columns: auto
 
 
@@ -820,7 +826,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -900,9 +906,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_bastole_commentEnd:
 
-^^^^^^^^^^
-ボチューン
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+ボチューン(波臣)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_botune:
 
@@ -929,40 +935,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Botune
+            .. grid-item:: 英文:Botune。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第13话
+            .. grid-item:: 登场/加入:第13话。
                 :columns: auto
 
-            .. grid-item:: 编码 11F
+            .. grid-item:: 编码:11F。
                 :columns: auto
 
-            .. grid-item:: 地址 BC70A (293F6)
+            .. grid-item:: 地址 BC70A (293F6)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC72A (29416)
+            .. grid-item:: 武器首地址:BC72A (29416)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海B→C宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ニー・ギブン <srw4_pilot_nie_given>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B→C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ニー・ギブン <srw4_pilot_nie_given>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_64.png
                 :columns: auto
 
-            .. grid-item:: 分身, 剣装備, オーラバリア
+            .. grid-item:: 技能: 分身、剣装備、オーラバリア。
                 :columns: auto
 
 
@@ -1040,7 +1046,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1109,9 +1115,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_botune_commentEnd:
 
-^^^^^^^^^^
-サーバイン
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+サーバイン(雪拜因)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_sirbine:
 
@@ -1138,40 +1144,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Sirbine
+            .. grid-item:: 英文:Sirbine。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第16话
+            .. grid-item:: 登场/加入:第16话。
                 :columns: auto
 
-            .. grid-item:: 编码 108
+            .. grid-item:: 编码:108。
                 :columns: auto
 
-            .. grid-item:: 地址 BC324 (29010)
+            .. grid-item:: 地址 BC324 (29010)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC344 (29030)
+            .. grid-item:: 武器首地址:BC344 (29030)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海B宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`マーベル・フローズン <srw4_pilot_marvel_frozen>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`マーベル・フローズン <srw4_pilot_marvel_frozen>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_62.png
                 :columns: auto
 
-            .. grid-item:: 分身, 剣装備, HP恢復(小), オーラバリア
+            .. grid-item:: 技能: 分身、剣装備、HP恢復(小)、オーラバリア。
                 :columns: auto
 
 
@@ -1249,7 +1255,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1311,9 +1317,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_sirbine_commentEnd:
 
-^^^^^^^^
-ズワウス
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+ズワウス(兹瓦乌斯)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_zwuath:
 
@@ -1340,40 +1346,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Zwuath
+            .. grid-item:: 英文:Zwuath。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第16话
+            .. grid-item:: 登场/加入:第16话。
                 :columns: auto
 
-            .. grid-item:: 编码 109
+            .. grid-item:: 编码:109。
                 :columns: auto
 
-            .. grid-item:: 地址 BC34F (2903B)
+            .. grid-item:: 地址 BC34F (2903B)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC36F (2905B)
+            .. grid-item:: 武器首地址:BC36F (2905B)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海B宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`マーベル・フローズン <srw4_pilot_marvel_frozen>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`マーベル・フローズン <srw4_pilot_marvel_frozen>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_62.png
                 :columns: auto
 
-            .. grid-item:: 分身, 剣装備, HP恢復(小), オーラバリア
+            .. grid-item:: 技能: 分身、剣装備、HP恢復(小)、オーラバリア。
                 :columns: auto
 
 
@@ -1451,7 +1457,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1507,9 +1513,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_zwuath_commentEnd:
 
-^^^^^^^^^^^^^^
-グラン・ガラン
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+グラン·ガラン(古兰·加兰)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_guran_garan:
 
@@ -1536,40 +1542,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Guran Garan
+            .. grid-item:: 英文:Guran Garan。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第17话
+            .. grid-item:: 登场/加入:第17话。
                 :columns: auto
 
-            .. grid-item:: 编码 B3
+            .. grid-item:: 编码:B3。
                 :columns: auto
 
-            .. grid-item:: 地址 BB4C1 (281B0)
+            .. grid-item:: 地址 BB4C1 (281B0)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB4E1 (281D0)
+            .. grid-item:: 武器首地址:BB4E1 (281D0)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→D海🚫→D宇B→C
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`シーラ・ラパーナ <srw4_pilot_ciela_lapana>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→D海🚫→D宇B→C。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`シーラ・ラパーナ <srw4_pilot_ciela_lapana>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_66.png
                 :columns: auto
 
-            .. grid-item:: オーラバリア
+            .. grid-item:: 技能: オーラバリア。
                 :columns: auto
 
 
@@ -1647,7 +1653,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1701,9 +1707,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_guran_garan_commentEnd:
 
-^^^^^^^^
-ゴラオン
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+ゴラオン(哥拉奥)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_goraon:
 
@@ -1730,40 +1736,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Goraon
+            .. grid-item:: 英文:Goraon。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第17话
+            .. grid-item:: 登场/加入:第17话。
                 :columns: auto
 
-            .. grid-item:: 编码 B4
+            .. grid-item:: 编码:B4。
                 :columns: auto
 
-            .. grid-item:: 地址 BB4EC (281DB)
+            .. grid-item:: 地址 BB4EC (281DB)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB50C (281FB)
+            .. grid-item:: 武器首地址:BB50C (281FB)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→D海🚫→D宇B→C
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`エレ・ハンム <srw4_pilot_elle_hunm>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→D海🚫→D宇B→C。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`エレ・ハンム <srw4_pilot_elle_hunm>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_67.png
                 :columns: auto
 
-            .. grid-item:: オーラバリア
+            .. grid-item:: 技能: オーラバリア。
                 :columns: auto
 
 
@@ -1841,7 +1847,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1897,9 +1903,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_goraon_commentEnd:
 
-^^^^^^^^^^
-ライネック
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+ライネック(莱内克)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_wryneck:
 
@@ -1926,40 +1932,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Wryneck
+            .. grid-item:: 英文:Wryneck。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第33话
+            .. grid-item:: 登场/加入:第33话。
                 :columns: auto
 
-            .. grid-item:: 编码 AE
+            .. grid-item:: 编码:AE。
                 :columns: auto
 
-            .. grid-item:: 地址 BB3D2 (280C1)
+            .. grid-item:: 地址 BB3D2 (280C1)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB3F2 (280E1)
+            .. grid-item:: 武器首地址:BB3F2 (280E1)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A→B陆A→B海B→C宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`リムル・ルフト <srw4_pilot_riml_luft>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A→B陆A→B海B→C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`リムル・ルフト <srw4_pilot_riml_luft>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_68.png
                 :columns: auto
 
-            .. grid-item:: 分身, 剣装備, オーラバリア
+            .. grid-item:: 技能: 分身、剣装備、オーラバリア。
                 :columns: auto
 
 
@@ -2037,7 +2043,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2138,9 +2144,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_units_dunbine_enemy_commentEnd:
 
-^^^^^^^^
-ドラムロ
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+ドラムロ(德拉姆罗)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_drumlo:
 
@@ -2167,40 +2173,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Drumlo
+            .. grid-item:: 英文:Drumlo。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第13话
+            .. grid-item:: 登场/加入:第13话。
                 :columns: auto
 
-            .. grid-item:: 编码 AA
+            .. grid-item:: 编码:AA。
                 :columns: auto
 
-            .. grid-item:: 地址 BB30E (27FFD)
+            .. grid-item:: 地址 BB30E (27FFD)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB32E (2801D)
+            .. grid-item:: 武器首地址:BB32E (2801D)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A→B陆A海B宇B→C
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`バイストンウェル兵 <srw4_pilot_byston_well_soldier>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A→B陆A海B宇B→C。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`バイストンウェル兵 <srw4_pilot_byston_well_soldier>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_6D.png
                 :columns: auto
 
-            .. grid-item:: 分身, オーラバリア
+            .. grid-item:: 技能: 分身、オーラバリア。
                 :columns: auto
 
 
@@ -2278,7 +2284,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2316,9 +2322,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_drumlo_commentEnd:
 
-^^^^^^^^
-ビアレス
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+ビアレス(比亚雷丝)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_vierres:
 
@@ -2345,40 +2351,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Vierres
+            .. grid-item:: 英文:Vierres。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第13话
+            .. grid-item:: 登场/加入:第13话。
                 :columns: auto
 
-            .. grid-item:: 编码 AD
+            .. grid-item:: 编码:AD。
                 :columns: auto
 
-            .. grid-item:: 地址 BB3A4 (28093)
+            .. grid-item:: 地址 BB3A4 (28093)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB3C4 (280B3)
+            .. grid-item:: 武器首地址:BB3C4 (280B3)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海B宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`バーン・バニングス <srw4_pilot_bern_bunnings>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`バーン・バニングス <srw4_pilot_bern_bunnings>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B5.png
                 :columns: auto
 
-            .. grid-item:: 分身, 剣装備, オーラバリア
+            .. grid-item:: 技能: 分身、剣装備、オーラバリア。
                 :columns: auto
 
 
@@ -2456,7 +2462,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2520,9 +2526,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_vierres_commentEnd:
 
-^^^^^^^^^^^^^^
-ゲア・ガリング
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ゲア·ガリング(盖亚·加林格)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_gea_garing:
 
@@ -2549,40 +2555,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Gea Garing
+            .. grid-item:: 英文:Gea Garing。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第13话
+            .. grid-item:: 登场/加入:第13话。
                 :columns: auto
 
-            .. grid-item:: 编码 B6
+            .. grid-item:: 编码:B6。
                 :columns: auto
 
-            .. grid-item:: 地址 BB53F (2822E)
+            .. grid-item:: 地址 BB53F (2822E)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB55F (2824E)
+            .. grid-item:: 武器首地址:BB55F (2824E)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→D海🚫宇🚫
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ビショット・ハッタ <srw4_pilot_bishot_hatta>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→D海🚫宇🚫。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ビショット・ハッタ <srw4_pilot_bishot_hatta>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B9.png
                 :columns: auto
 
-            .. grid-item:: オーラバリア
+            .. grid-item:: 技能: オーラバリア。
                 :columns: auto
 
 
@@ -2660,7 +2666,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2698,9 +2704,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_gea_garing_commentEnd:
 
-^^^^^^^^^^^^
-レプラカーン
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
+レプラカーン(雷普拉刚)
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_leprechaun:
 
@@ -2727,40 +2733,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Leprechaun
+            .. grid-item:: 英文:Leprechaun。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第17话
+            .. grid-item:: 登场/加入:第17话。
                 :columns: auto
 
-            .. grid-item:: 编码 AB
+            .. grid-item:: 编码:AB。
                 :columns: auto
 
-            .. grid-item:: 地址 BB336 (28025)
+            .. grid-item:: 地址 BB336 (28025)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB356 (28045)
+            .. grid-item:: 武器首地址:BB356 (28045)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海B→C宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ジェリル・クチビ <srw4_pilot_jeril_coochibi>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B→C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ジェリル・クチビ <srw4_pilot_jeril_coochibi>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_BE.png
                 :columns: auto
 
-            .. grid-item:: 分身, 剣装備, オーラバリア
+            .. grid-item:: 技能: 分身、剣装備、オーラバリア。
                 :columns: auto
 
 
@@ -2838,7 +2844,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2967,9 +2973,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_leprechaun_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ウィル・ウィプス
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ウィル·ウィプス(威尔·威普斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_will_wipps:
 
@@ -2996,40 +3002,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Will Wipps
+            .. grid-item:: 英文:Will Wipps。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第17话
+            .. grid-item:: 登场/加入:第17话。
                 :columns: auto
 
-            .. grid-item:: 编码 B5
+            .. grid-item:: 编码:B5。
                 :columns: auto
 
-            .. grid-item:: 地址 BB517 (28206)
+            .. grid-item:: 地址 BB517 (28206)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB537 (28226)
+            .. grid-item:: 武器首地址:BB537 (28226)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→D海🚫宇🚫
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ドレイク・ルフト <srw4_pilot_drake_luft>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→D海🚫宇🚫。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ドレイク・ルフト <srw4_pilot_drake_luft>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B7.png
                 :columns: auto
 
-            .. grid-item:: オーラバリア
+            .. grid-item:: 技能: オーラバリア。
                 :columns: auto
 
 
@@ -3107,7 +3113,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -3145,9 +3151,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_will_wipps_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-レプラカーン(ハイパー可)
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+レプラカーン(ハイパー可)(可巨化雷普拉刚)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_leprechaun_hyper_available:
 
@@ -3174,40 +3180,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Leprechaun (Hyper Available)
+            .. grid-item:: 英文:Leprechaun (Hyper Available)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第25话
+            .. grid-item:: 登场/加入:第25话。
                 :columns: auto
 
-            .. grid-item:: 编码 124
+            .. grid-item:: 编码:124。
                 :columns: auto
 
-            .. grid-item:: 地址 BC7F0 (294DC)
+            .. grid-item:: 地址 BC7F0 (294DC)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC810 (294FC)
+            .. grid-item:: 武器首地址:BC810 (294FC)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海B→C宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ジェリル・クチビ <srw4_pilot_jeril_coochibi>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B→C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ジェリル・クチビ <srw4_pilot_jeril_coochibi>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_BE.png
                 :columns: auto
 
-            .. grid-item:: 分身, 剣装備, オーラバリア
+            .. grid-item:: 技能: 分身、剣装備、オーラバリア。
                 :columns: auto
 
 
@@ -3285,7 +3291,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -3414,9 +3420,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_leprechaun_hyper_available_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-ハイパーレプラカーン
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ハイパーレプラカーン(巨雷普拉刚)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_hyper_leprechaun:
 
@@ -3443,40 +3449,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Hyper Leprechaun
+            .. grid-item:: 英文:Hyper Leprechaun。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第25话
+            .. grid-item:: 登场/加入:第25话。
                 :columns: auto
 
-            .. grid-item:: 编码 125
+            .. grid-item:: 编码:125。
                 :columns: auto
 
-            .. grid-item:: 地址 BC82D (29519)
+            .. grid-item:: 地址 BC82D (29519)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC84D (29539)
+            .. grid-item:: 武器首地址:BC84D (29539)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海B→C宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ジェリル・クチビ <srw4_pilot_jeril_coochibi>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B→C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ジェリル・クチビ <srw4_pilot_jeril_coochibi>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_BE.png
                 :columns: auto
 
-            .. grid-item:: 分身, 剣装備, オーラバリア
+            .. grid-item:: 技能: 分身、剣装備、オーラバリア。
                 :columns: auto
 
 
@@ -3554,7 +3560,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -3683,9 +3689,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_hyper_leprechaun_commentEnd:
 
-^^^^^^^^
-ブブリィ
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+ブブリィ(布布利)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_bubuly:
 
@@ -3712,40 +3718,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Bubuly
+            .. grid-item:: 英文:Bubuly。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第31话
+            .. grid-item:: 登场/加入:第31话。
                 :columns: auto
 
-            .. grid-item:: 编码 B0
+            .. grid-item:: 编码:B0。
                 :columns: auto
 
-            .. grid-item:: 地址 BB437 (28126)
+            .. grid-item:: 地址 BB437 (28126)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB457 (28146)
+            .. grid-item:: 武器首地址:BB457 (28146)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→D海🚫→D宇B
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ミュージィ・ポー <srw4_pilot_muzzy_poe>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→D海🚫→D宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ミュージィ・ポー <srw4_pilot_muzzy_poe>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_BB.png
                 :columns: auto
 
-            .. grid-item:: 分身, オーラバリア
+            .. grid-item:: 技能: 分身、オーラバリア。
                 :columns: auto
 
 
@@ -3823,7 +3829,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -3900,9 +3906,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_bubuly_commentEnd:
 
-^^^^^^^^^^
-スプリガン
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+スプリガン(斯普利刚)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_sprigan:
 
@@ -3929,40 +3935,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Sprigan
+            .. grid-item:: 英文:Sprigan。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第31话
+            .. grid-item:: 登场/加入:第31话。
                 :columns: auto
 
-            .. grid-item:: 编码 B7
+            .. grid-item:: 编码:B7。
                 :columns: auto
 
-            .. grid-item:: 地址 BB567 (28256)
+            .. grid-item:: 地址 BB567 (28256)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB587 (28276)
+            .. grid-item:: 武器首地址:BB587 (28276)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→D海🚫宇🚫→D
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ショット・ウェポン <srw4_pilot_shot_weapon>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→D海🚫宇🚫→D。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ショット・ウェポン <srw4_pilot_shot_weapon>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B8.png
                 :columns: auto
 
-            .. grid-item:: オーラバリア
+            .. grid-item:: 技能: オーラバリア。
                 :columns: auto
 
 
@@ -4040,7 +4046,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -4078,9 +4084,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_sprigan_commentEnd:
 
-^^^^^^^^^^
-ズワァース
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+ズワァース(兹华士)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_zwarth:
 
@@ -4107,40 +4113,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Zwarth
+            .. grid-item:: 英文:Zwarth。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第33话
+            .. grid-item:: 登场/加入:第33话。
                 :columns: auto
 
-            .. grid-item:: 编码 AC
+            .. grid-item:: 编码:AC。
                 :columns: auto
 
-            .. grid-item:: 地址 BB373 (28062)
+            .. grid-item:: 地址 BB373 (28062)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB393 (28082)
+            .. grid-item:: 武器首地址:BB393 (28082)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海B→C宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`アレン・ブレディ <srw4_pilot_allen_brady>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B→C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`アレン・ブレディ <srw4_pilot_allen_brady>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_BF.png
                 :columns: auto
 
-            .. grid-item:: 分身, 剣装備, オーラバリア
+            .. grid-item:: 技能: 分身、剣装備、オーラバリア。
                 :columns: auto
 
 
@@ -4218,7 +4224,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -4295,9 +4301,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_zwarth_commentEnd:
 
-^^^^^^
-ガラバ
-^^^^^^
+^^^^^^^^^^^^^^^^
+ガラバ(加拉巴)
+^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_gallaba:
 
@@ -4324,40 +4330,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Gallaba
+            .. grid-item:: 英文:Gallaba。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第33话
+            .. grid-item:: 登场/加入:第33话。
                 :columns: auto
 
-            .. grid-item:: 编码 B1
+            .. grid-item:: 编码:B1。
                 :columns: auto
 
-            .. grid-item:: 地址 BB468 (28157)
+            .. grid-item:: 地址 BB468 (28157)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB488 (28177)
+            .. grid-item:: 武器首地址:BB488 (28177)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→C海🚫→D宇B
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`黒騎士 <srw4_pilot_black_knight>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→C海🚫→D宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`黒騎士 <srw4_pilot_black_knight>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B6.png
                 :columns: auto
 
-            .. grid-item:: 分身, オーラバリア
+            .. grid-item:: 技能: 分身、オーラバリア。
                 :columns: auto
 
 
@@ -4435,7 +4441,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -4499,9 +4505,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_gallaba_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^
-ライネック(ハイパー可)
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ライネック(ハイパー可)(可巨化莱内克)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_wryneck_hyper_available:
 
@@ -4528,40 +4534,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Wryneck (Hyper Available)
+            .. grid-item:: 英文:Wryneck (Hyper Available)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第33话
+            .. grid-item:: 登场/加入:第33话。
                 :columns: auto
 
-            .. grid-item:: 编码 126
+            .. grid-item:: 编码:126。
                 :columns: auto
 
-            .. grid-item:: 地址 BC86A (29556)
+            .. grid-item:: 地址 BC86A (29556)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC88A (29576)
+            .. grid-item:: 武器首地址:BC88A (29576)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海B→C宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`トッド・ギネス <srw4_pilot_tod_guines>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B→C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`トッド・ギネス <srw4_pilot_tod_guines>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B4.png
                 :columns: auto
 
-            .. grid-item:: 分身, 剣装備, オーラバリア
+            .. grid-item:: 技能: 分身、剣装備、オーラバリア。
                 :columns: auto
 
 
@@ -4639,7 +4645,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -4729,9 +4735,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_wryneck_hyper_available_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-ハイパーライネック
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ハイパーライネック(巨莱内克)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_hyper_wryneck:
 
@@ -4758,40 +4764,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Hyper Wryneck
+            .. grid-item:: 英文:Hyper Wryneck。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第33话
+            .. grid-item:: 登场/加入:第33话。
                 :columns: auto
 
-            .. grid-item:: 编码 127
+            .. grid-item:: 编码:127。
                 :columns: auto
 
-            .. grid-item:: 地址 BC89E (2958A)
+            .. grid-item:: 地址 BC89E (2958A)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC8BE (295AA)
+            .. grid-item:: 武器首地址:BC8BE (295AA)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海B→C宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`トッド・ギネス <srw4_pilot_tod_guines>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B→C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`トッド・ギネス <srw4_pilot_tod_guines>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B4.png
                 :columns: auto
 
-            .. grid-item:: 分身 (仅PlayStation), 剣装備, オーラバリア
+            .. grid-item:: 技能: 分身 (仅PlayStation)、剣装備、オーラバリア。
                 :columns: auto
 
 
@@ -4869,7 +4875,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -4960,9 +4966,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_hyper_wryneck_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-ガラバ(ハイパー可)
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ガラバ(ハイパー可)(可巨化加拉巴)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_gallaba_hyper_available:
 
@@ -4989,40 +4995,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Gallaba (Hyper Available)
+            .. grid-item:: 英文:Gallaba (Hyper Available)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第33话
+            .. grid-item:: 登场/加入:第33话。
                 :columns: auto
 
-            .. grid-item:: 编码 128
+            .. grid-item:: 编码:128。
                 :columns: auto
 
-            .. grid-item:: 地址 BC8D2 (295BE)
+            .. grid-item:: 地址 BC8D2 (295BE)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC8F2 (295DE)
+            .. grid-item:: 武器首地址:BC8F2 (295DE)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→C海🚫→D宇B
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`黒騎士 <srw4_pilot_black_knight>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→C海🚫→D宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`黒騎士 <srw4_pilot_black_knight>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B6.png
                 :columns: auto
 
-            .. grid-item:: 分身, オーラバリア
+            .. grid-item:: 技能: 分身、オーラバリア。
                 :columns: auto
 
 
@@ -5100,7 +5106,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -5164,9 +5170,9 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
 
 .. _srw4_unit_gallaba_hyper_available_commentEnd:
 
-^^^^^^^^^^^^^^
-ハイパーガラバ
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ハイパーガラバ(巨加拉巴)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_hyper_gallaba:
 
@@ -5193,40 +5199,40 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             :padding: 0
 
 
-            .. grid-item:: 英文:Hyper Gallaba
+            .. grid-item:: 英文:Hyper Gallaba。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第33话
+            .. grid-item:: 登场/加入:第33话。
                 :columns: auto
 
-            .. grid-item:: 编码 129
+            .. grid-item:: 编码:129。
                 :columns: auto
 
-            .. grid-item:: 地址 BC900 (295EC)
+            .. grid-item:: 地址 BC900 (295EC)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC920 (2960C)
+            .. grid-item:: 武器首地址:BC920 (2960C)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→C海🚫→D宇B
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`黒騎士 <srw4_pilot_black_knight>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→C海🚫→D宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`黒騎士 <srw4_pilot_black_knight>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B6.png
                 :columns: auto
 
-            .. grid-item:: 分身, オーラバリア
+            .. grid-item:: 技能: 分身、オーラバリア。
                 :columns: auto
 
 
@@ -5304,7 +5310,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

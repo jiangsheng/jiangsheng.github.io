@@ -8,6 +8,12 @@
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_units_great_mazinger_commentBegin:
 
 
@@ -21,9 +27,9 @@
 
 .. _srw4_units_great_mazinger_own_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-グレートマジンガー
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+グレートマジンガー(大魔神)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_great_mazinger:
 
@@ -50,33 +56,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Great Mazinger
+            .. grid-item:: 英文:Great Mazinger。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第23话
+            .. grid-item:: 登场/加入:第23话。
                 :columns: auto
 
-            .. grid-item:: 编码 20
+            .. grid-item:: 编码:20。
                 :columns: auto
 
-            .. grid-item:: 地址 B9A70 (2675F)
+            .. grid-item:: 地址 B9A70 (2675F)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9A90 (2677F)
+            .. grid-item:: 武器首地址:B9A90 (2677F)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B (A)陆A海B宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`剣鉄也 <srw4_pilot_tetsuya_tsurugi>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B (A)陆A海B宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`剣鉄也 <srw4_pilot_tetsuya_tsurugi>`\ 。
                 :columns: auto
 
 
@@ -157,7 +163,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -336,9 +342,9 @@
 
 .. _srw4_unit_great_mazinger_commentEnd:
 
-^^^^^^^^^^^^
-ビューナスA
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
+ビューナスA(维纳斯A)
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_venus_a:
 
@@ -365,33 +371,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Venus A
+            .. grid-item:: 英文:Venus A。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第23话
+            .. grid-item:: 登场/加入:第23话。
                 :columns: auto
 
-            .. grid-item:: 编码 2C
+            .. grid-item:: 编码:2C。
                 :columns: auto
 
-            .. grid-item:: 地址 B9CE3 (269D2)
+            .. grid-item:: 地址 B9CE3 (269D2)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9D03 (269F2)
+            .. grid-item:: 武器首地址:B9D03 (269F2)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B (A)陆A→B海C宇B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`炎ジュン <srw4_pilot_jun_hono>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B (A)陆A→B海C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`炎ジュン <srw4_pilot_jun_hono>`\ 。
                 :columns: auto
 
 
@@ -472,7 +478,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -558,9 +564,9 @@
 
 .. _srw4_units_great_mazinger_enemy_commentEnd:
 
-^^^^^^^^^^^^
-ハーディアス
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+ハーディアス(哈迪斯)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_hardias:
 
@@ -587,33 +593,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Hardias
+            .. grid-item:: 英文:Hardias。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第2话
+            .. grid-item:: 登场/加入:第2话。
                 :columns: auto
 
-            .. grid-item:: 编码 110
+            .. grid-item:: 编码:110。
                 :columns: auto
 
-            .. grid-item:: 地址 BC479 (29165)
+            .. grid-item:: 地址 BC479 (29165)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC499 (29185)
+            .. grid-item:: 武器首地址:BC499 (29185)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海B→C宇🚫
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`悪霊将軍ハーディアス <srw4_pilot_evil_spirit_general_hadias>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B→C宇🚫。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`悪霊将軍ハーディアス <srw4_pilot_evil_spirit_general_hadias>`\ 。
                 :columns: auto
 
 
@@ -694,7 +700,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -746,9 +752,9 @@
 
 .. _srw4_unit_hardias_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-戦闘獣グラトニオス
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+戦闘獣グラトニオス(战斗兽古拉特尼奥斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_warrior_beast_gratonios:
 
@@ -775,29 +781,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Warrior Beast Gratonios
+            .. grid-item:: 英文:Warrior Beast Gratonios。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第6话
+            .. grid-item:: 登场/加入:第6话。
                 :columns: auto
 
-            .. grid-item:: 编码 9E
+            .. grid-item:: 编码:9E。
                 :columns: auto
 
-            .. grid-item:: 地址 BB116 (27E05)
+            .. grid-item:: 地址 BB116 (27E05)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB136 (27E25)
+            .. grid-item:: 武器首地址:BB136 (27E25)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 水陸空
+            .. grid-item:: 移动类型:水陸空。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆A海A宇B
+            .. grid-item:: 地形适应:空A陆A海A宇B。
                 :columns: auto
 
 
@@ -875,7 +881,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -939,9 +945,9 @@
 
 .. _srw4_unit_warrior_beast_gratonios_commentEnd:
 
-^^^^^^^^^^^^^^^^
-戦闘獣オベリウス
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+戦闘獣オベリウス(战斗兽贝利乌斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_warrior_beast_obelius:
 
@@ -968,29 +974,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Warrior Beast Obelius
+            .. grid-item:: 英文:Warrior Beast Obelius。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第6话
+            .. grid-item:: 登场/加入:第6话。
                 :columns: auto
 
-            .. grid-item:: 编码 9F
+            .. grid-item:: 编码:9F。
                 :columns: auto
 
-            .. grid-item:: 地址 BB144 (27E33)
+            .. grid-item:: 地址 BB144 (27E33)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB164 (27E53)
+            .. grid-item:: 武器首地址:BB164 (27E53)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆🚫海🚫宇🚫
+            .. grid-item:: 地形适应:空A陆🚫海🚫宇🚫。
                 :columns: auto
 
 
@@ -1068,7 +1074,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1119,9 +1125,9 @@
 
 .. _srw4_unit_warrior_beast_obelius_commentEnd:
 
-^^^^^^^^^^
-ドレイドウ
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+ドレイドウ(德雷多乌)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_draydou:
 
@@ -1148,33 +1154,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Draydou
+            .. grid-item:: 英文:Draydou。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第6话
+            .. grid-item:: 登场/加入:第6话。
                 :columns: auto
 
-            .. grid-item:: 编码 111
+            .. grid-item:: 编码:111。
                 :columns: auto
 
-            .. grid-item:: 地址 BC4A4 (29190)
+            .. grid-item:: 地址 BC4A4 (29190)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC4C4 (291B0)
+            .. grid-item:: 武器首地址:BC4C4 (291B0)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B (A)陆A海B宇🚫→D
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`妖爬虫将軍ドレイドウ <srw4_pilot_reptilian_general_draydou>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B (A)陆A海B宇🚫→D。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`妖爬虫将軍ドレイドウ <srw4_pilot_reptilian_general_draydou>`\ 。
                 :columns: auto
 
 
@@ -1255,7 +1261,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1306,9 +1312,9 @@
 
 .. _srw4_unit_draydou_commentEnd:
 
-^^^^^^^^^^^^^^
-戦闘獣ズガール
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+戦闘獣ズガール(战斗兽兹加鲁)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_warrior_beast_zugar:
 
@@ -1335,29 +1341,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Warrior Beast Zugar
+            .. grid-item:: 英文:Warrior Beast Zugar。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第18话
+            .. grid-item:: 登场/加入:第18话。
                 :columns: auto
 
-            .. grid-item:: 编码 119
+            .. grid-item:: 编码:119。
                 :columns: auto
 
-            .. grid-item:: 地址 BC60B (292F7)
+            .. grid-item:: 地址 BC60B (292F7)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC62B (29317)
+            .. grid-item:: 武器首地址:BC62B (29317)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆B海D宇🚫
+            .. grid-item:: 地形适应:空A陆B海D宇🚫。
                 :columns: auto
 
 
@@ -1435,7 +1441,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1515,33 +1521,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Great General of Darkness
+            .. grid-item:: 英文:Great General of Darkness。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第30话
+            .. grid-item:: 登场/加入:第30话。
                 :columns: auto
 
-            .. grid-item:: 编码 10F
+            .. grid-item:: 编码:10F。
                 :columns: auto
 
-            .. grid-item:: 地址 BC44E (2913A)
+            .. grid-item:: 地址 BC44E (2913A)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC46E (2915A)
+            .. grid-item:: 武器首地址:BC46E (2915A)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B (A)陆A海B (A)→B宇🚫→D
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`暗黒大将軍 <srw4_pilot_great_general_of_darkness>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B (A)陆A海B (A)→B宇🚫→D。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`暗黒大将軍 <srw4_pilot_great_general_of_darkness>`\ 。
                 :columns: auto
 
 
@@ -1622,7 +1628,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

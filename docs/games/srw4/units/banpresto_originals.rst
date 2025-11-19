@@ -1,5 +1,5 @@
 .. meta::
-   :description: バンプレストオリジナル机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。ヒュッケバイン, グルンガスト, ウイングガスト, ガストランダー, サイバスター, サイバード, グランゾン, ヴァルシオーネR, ザムジード, グランヴェール, ガッデス, ウィーゾル改, ノルス・レイ, ゲシュペンスト（リアル）, ゲシュペンスト（スーパー）, ゲシュペンスト Mk-II, ニセサイバスター, ネオ·グランゾン, メカギルギルガン, ヴァルシオン, ガロイカ, カレイツェド, レストレイル, グラシドゥ＝リュ, レストグランシュ, ゼラニオ, ゲイオス＝グルード, ライグ＝ゲイオス, バラン＝シュナイル, ガディフォール 
+   :description: バンプレストオリジナル机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。ヒュッケバイン, グルンガスト, ウイングガスト, ガストランダー, サイバスター, サイバード, グランゾン, ヴァルシオーネR, ザムジード, グランヴェール, ガッデス, ウィーゾル改, ノルス·レイ, ゲシュペンスト（リアル）, ゲシュペンスト（スーパー）, ゲシュペンスト Mk-II, ニセサイバスター, ネオ·グランゾン, メカギルギルガン, ヴァルシオン, ガロイカ, カレイツェド, レストレイル, グラシドゥ＝リュ, レストグランシュ, ゼラニオ, ゲイオス＝グルード, ライグ＝ゲイオス, バラン＝シュナイル, ガディフォール 
 .. _srw4_units_banpresto_originals:
 
 ==============================
@@ -7,6 +7,12 @@
 ==============================
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
+
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
 
 .. _srw4_units_banpresto_originals_commentBegin:
 
@@ -23,9 +29,9 @@
 
 .. _srw4_units_banpresto_originals_own_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^
-ゲシュペンスト（リアル）
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ゲシュペンスト（リアル）(R型亡灵)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_gespenst_real:
 
@@ -52,40 +58,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Gespenst (Real)
+            .. grid-item:: 英文:Gespenst (Real)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 5E
+            .. grid-item:: 编码:5E。
                 :columns: auto
 
-            .. grid-item:: 地址 BA61D (2730C)
+            .. grid-item:: 地址 BA61D (2730C)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA63D (2732C)
+            .. grid-item:: 武器首地址:BA63D (2732C)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空C (B)→B陆A海B宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`真实系女主人公 <srw4_pilot_female_protagonist_real>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空C (B)→B陆A海B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`真实系女主人公 <srw4_pilot_female_protagonist_real>`\ 。
                 :columns: auto
 
 
             .. grid-item:: 
                 :columns: auto
 
-            .. grid-item:: 剣装備, ビームコート
+            .. grid-item:: 技能: 剣装備、ビームコート。
                 :columns: auto
 
 
@@ -163,7 +169,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -219,9 +225,9 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 .. _srw4_unit_gespenst_real_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-ゲシュペンスト（スーパー）
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ゲシュペンスト（スーパー）(S型亡灵)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_gespenst_super:
 
@@ -248,40 +254,40 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
             :padding: 0
 
 
-            .. grid-item:: 英文:Gespenst (Super)
+            .. grid-item:: 英文:Gespenst (Super)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 B2
+            .. grid-item:: 编码:B2。
                 :columns: auto
 
-            .. grid-item:: 地址 BB496 (28185)
+            .. grid-item:: 地址 BB496 (28185)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB4B6 (281A5)
+            .. grid-item:: 武器首地址:BB4B6 (281A5)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空C→B陆A海B宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`真实系男主人公 <srw4_pilot_male_protagonist_real>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空C→B陆A海B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`真实系男主人公 <srw4_pilot_male_protagonist_real>`\ 。
                 :columns: auto
 
 
             .. grid-item:: 
                 :columns: auto
 
-            .. grid-item:: 剣装備, ビームコート
+            .. grid-item:: 技能: 剣装備、ビームコート。
                 :columns: auto
 
 
@@ -359,7 +365,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -415,9 +421,9 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 .. _srw4_unit_gespenst_super_commentEnd:
 
-^^^^^^^^^^^^^^
-ヒュッケバイン
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+ヒュッケバイン(凶鸟)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_huckebein:
 
@@ -444,40 +450,40 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
             :padding: 0
 
 
-            .. grid-item:: 英文:Huckebein
+            .. grid-item:: 英文:Huckebein。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第25话
+            .. grid-item:: 登场/加入:第25话。
                 :columns: auto
 
-            .. grid-item:: 编码 01
+            .. grid-item:: 编码:01。
                 :columns: auto
 
-            .. grid-item:: 地址 B9571 (26260)
+            .. grid-item:: 地址 B9571 (26260)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9591 (26280)
+            .. grid-item:: 武器首地址:B9591 (26280)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B陆A海C→B宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`真实系女主人公 <srw4_pilot_female_protagonist_real>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B陆A海C→B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`真实系女主人公 <srw4_pilot_female_protagonist_real>`\ 。
                 :columns: auto
 
 
             .. grid-item:: 
                 :columns: auto
 
-            .. grid-item:: 分身, 剣装備, Iフィールド
+            .. grid-item:: 技能: 分身、剣装備、Iフィールド。
                 :columns: auto
 
 
@@ -555,7 +561,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -663,9 +669,9 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 .. _srw4_unit_huckebein_commentEnd:
 
-^^^^^^^^^^^^
-グルンガスト
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+グルンガスト(古伦加斯特)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_grungust:
 
@@ -692,40 +698,40 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
             :padding: 0
 
 
-            .. grid-item:: 英文:Grungust
+            .. grid-item:: 英文:Grungust。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第25话
+            .. grid-item:: 登场/加入:第25话。
                 :columns: auto
 
-            .. grid-item:: 编码 02
+            .. grid-item:: 编码:02。
                 :columns: auto
 
-            .. grid-item:: 地址 B95A9 (26298)
+            .. grid-item:: 地址 B95A9 (26298)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B95C9 (262B8)
+            .. grid-item:: 武器首地址:B95C9 (262B8)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B陆B海C→B宇A
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`真实系女主人公 <srw4_pilot_female_protagonist_real>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B陆B海C→B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`真实系女主人公 <srw4_pilot_female_protagonist_real>`\ 。
                 :columns: auto
 
 
             .. grid-item:: 
                 :columns: auto
 
-            .. grid-item:: 剣装備
+            .. grid-item:: 技能: 剣装備。
                 :columns: auto
 
 
@@ -803,7 +809,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -900,9 +906,9 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 .. _srw4_unit_grungust_commentEnd:
 
-^^^^^^^^^^^^^^
-ウイングガスト
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ウイングガスト(飞翼加斯特)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_wing_gust:
 
@@ -929,33 +935,33 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
             :padding: 0
 
 
-            .. grid-item:: 英文:Wing Gust
+            .. grid-item:: 英文:Wing Gust。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第25话
+            .. grid-item:: 登场/加入:第25话。
                 :columns: auto
 
-            .. grid-item:: 编码 03
+            .. grid-item:: 编码:03。
                 :columns: auto
 
-            .. grid-item:: 地址 B95DE (262CD)
+            .. grid-item:: 地址 B95DE (262CD)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B95FE (262ED)
+            .. grid-item:: 武器首地址:B95FE (262ED)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→C海🚫→C宇B
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`真实系女主人公 <srw4_pilot_female_protagonist_real>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→C海🚫→C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`真实系女主人公 <srw4_pilot_female_protagonist_real>`\ 。
                 :columns: auto
 
 
@@ -1036,7 +1042,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1096,9 +1102,9 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 .. _srw4_unit_wing_gust_commentEnd:
 
-^^^^^^^^^^^^^^
-ガストランダー
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ガストランダー(加斯特战车)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_gust_lander:
 
@@ -1125,33 +1131,33 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
             :padding: 0
 
 
-            .. grid-item:: 英文:Gust Lander
+            .. grid-item:: 英文:Gust Lander。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第25话
+            .. grid-item:: 登场/加入:第25话。
                 :columns: auto
 
-            .. grid-item:: 编码 04
+            .. grid-item:: 编码:04。
                 :columns: auto
 
-            .. grid-item:: 地址 B9609 (262F8)
+            .. grid-item:: 地址 B9609 (262F8)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9629 (26318)
+            .. grid-item:: 武器首地址:B9629 (26318)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→C陆A海A宇B
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`真实系女主人公 <srw4_pilot_female_protagonist_real>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→C陆A海A宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`真实系女主人公 <srw4_pilot_female_protagonist_real>`\ 。
                 :columns: auto
 
 
@@ -1232,7 +1238,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1284,9 +1290,9 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
 .. _srw4_unit_gust_lander_commentEnd:
 
-^^^^^^^^^^^^
-サイバスター
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
+サイバスター(塞巴斯塔)
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_cybuster:
 
@@ -1313,40 +1319,40 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
             :padding: 0
 
 
-            .. grid-item:: 英文:Cybuster
+            .. grid-item:: 英文:Cybuster。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第34话
+            .. grid-item:: 登场/加入:第34话。
                 :columns: auto
 
-            .. grid-item:: 编码 53
+            .. grid-item:: 编码:53。
                 :columns: auto
 
-            .. grid-item:: 地址 BA414 (27103)
+            .. grid-item:: 地址 BA414 (27103)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA434 (27123)
+            .. grid-item:: 武器首地址:BA434 (27123)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海C宇A
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1D.png
                 :columns: auto
 
-            .. grid-item:: 剣装備
+            .. grid-item:: 技能: 剣装備。
                 :columns: auto
 
 
@@ -1424,7 +1430,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1527,9 +1533,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_cybuster_commentEnd:
 
-^^^^^^^^^^
-サイバード
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+サイバード(赛巴特)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_cybird:
 
@@ -1556,33 +1562,33 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Cybird
+            .. grid-item:: 英文:Cybird。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第34话
+            .. grid-item:: 登场/加入:第34话。
                 :columns: auto
 
-            .. grid-item:: 编码 54
+            .. grid-item:: 编码:54。
                 :columns: auto
 
-            .. grid-item:: 地址 BA448 (27137)
+            .. grid-item:: 地址 BA448 (27137)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA468 (27157)
+            .. grid-item:: 武器首地址:BA468 (27157)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→C海🚫→D宇A
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→C海🚫→D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ 。
                 :columns: auto
 
 
@@ -1663,7 +1669,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1715,9 +1721,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_cybird_commentEnd:
 
-^^^^^^^^^^
-ザムジード
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+ザムジード(扎姆基德)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_zamzeed:
 
@@ -1744,40 +1750,40 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Zamzeed
+            .. grid-item:: 英文:Zamzeed。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第35话
+            .. grid-item:: 登场/加入:第35话。
                 :columns: auto
 
-            .. grid-item:: 编码 58
+            .. grid-item:: 编码:58。
                 :columns: auto
 
-            .. grid-item:: 地址 BA503 (271F2)
+            .. grid-item:: 地址 BA503 (271F2)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA523 (27212)
+            .. grid-item:: 武器首地址:BA523 (27212)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸空地中
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B (A)陆A海B宇B (A)
+            .. grid-item:: 移动类型:陸空地中。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ミオ・サスガ <srw4_pilot_mio_sasuga>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B (A)陆A海B宇B (A)。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ミオ・サスガ <srw4_pilot_mio_sasuga>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_73.png
                 :columns: auto
 
-            .. grid-item:: HP恢復(大)
+            .. grid-item:: 技能: HP恢復(大)。
                 :columns: auto
 
 
@@ -1855,7 +1861,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1939,9 +1945,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_zamzeed_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ヴァルシオーネR
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ヴァルシオーネR(瓦尔西奥妮R)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_valsione_r:
 
@@ -1968,33 +1974,33 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Valsione R
+            .. grid-item:: 英文:Valsione R。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第43话
+            .. grid-item:: 登场/加入:第43话。
                 :columns: auto
 
-            .. grid-item:: 编码 57
+            .. grid-item:: 编码:57。
                 :columns: auto
 
-            .. grid-item:: 地址 BA4D2 (271C1)
+            .. grid-item:: 地址 BA4D2 (271C1)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA4F2 (271E1)
+            .. grid-item:: 武器首地址:BA4F2 (271E1)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B陆B海B→C宇A
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B陆B海B→C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ 。
                 :columns: auto
 
 
@@ -2075,7 +2081,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2155,9 +2161,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_valsione_r_commentEnd:
 
-^^^^^^^^^^^^^^
-グランヴェール
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+グランヴェール(古兰威尔)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_grannvale:
 
@@ -2184,33 +2190,33 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Grannvale
+            .. grid-item:: 英文:Grannvale。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第43话
+            .. grid-item:: 登场/加入:第43话。
                 :columns: auto
 
-            .. grid-item:: 编码 59
+            .. grid-item:: 编码:59。
                 :columns: auto
 
-            .. grid-item:: 地址 BA534 (27223)
+            .. grid-item:: 地址 BA534 (27223)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA554 (27243)
+            .. grid-item:: 武器首地址:BA554 (27243)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海C宇B (A)→B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海C宇B (A)→B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ホワン・ヤンロン <srw4_pilot_huang_yanglong>`\ 。
                 :columns: auto
 
 
@@ -2291,7 +2297,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2386,9 +2392,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_grannvale_commentEnd:
 
-^^^^^^^^
-ガッデス
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+ガッデス(加迪斯)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_gaddeath:
 
@@ -2415,33 +2421,33 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Gaddeath
+            .. grid-item:: 英文:Gaddeath。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第43话
+            .. grid-item:: 登场/加入:第43话。
                 :columns: auto
 
-            .. grid-item:: 编码 5A
+            .. grid-item:: 编码:5A。
                 :columns: auto
 
-            .. grid-item:: 地址 BA568 (27257)
+            .. grid-item:: 地址 BA568 (27257)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA588 (27277)
+            .. grid-item:: 武器首地址:BA588 (27277)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 水陸空
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A→B陆A海A宇A→B
+            .. grid-item:: 移动类型:水陸空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A→B陆A海A宇A→B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`テュッティ・ノールバック <srw4_pilot_tutty_norback>`\ 。
                 :columns: auto
 
 
@@ -2522,7 +2528,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2589,9 +2595,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_gaddeath_commentEnd:
 
-^^^^^^^^^^
-グランゾン
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+グランゾン(古兰森)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_granzon:
 
@@ -2618,40 +2624,40 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Granzon
+            .. grid-item:: 英文:Granzon。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第44话
+            .. grid-item:: 登场/加入:第44话。
                 :columns: auto
 
-            .. grid-item:: 编码 55
+            .. grid-item:: 编码:55。
                 :columns: auto
 
-            .. grid-item:: 地址 BA473 (27162)
+            .. grid-item:: 地址 BA473 (27162)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA493 (27182)
+            .. grid-item:: 武器首地址:BA493 (27182)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海B宇A
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1F.png
                 :columns: auto
 
-            .. grid-item:: 剣装備
+            .. grid-item:: 技能: 剣装備。
                 :columns: auto
 
 
@@ -2729,7 +2735,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2798,9 +2804,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_granzon_commentEnd:
 
-^^^^^^^^^^^^
-ウィーゾル改
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ウィーゾル改(维佐尔·改)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_weesol_kai:
 
@@ -2827,33 +2833,33 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Weesol Kai
+            .. grid-item:: 英文:Weesol Kai。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第44话
+            .. grid-item:: 登场/加入:第44话。
                 :columns: auto
 
-            .. grid-item:: 编码 5B
+            .. grid-item:: 编码:5B。
                 :columns: auto
 
-            .. grid-item:: 地址 BA596 (27285)
+            .. grid-item:: 地址 BA596 (27285)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA5B6 (272A5)
+            .. grid-item:: 武器首地址:BA5B6 (272A5)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆B (A)海C宇B (A)→B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`サフィーネ・グレイス <srw4_pilot_safine_grace>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆B (A)海C宇B (A)→B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`サフィーネ・グレイス <srw4_pilot_safine_grace>`\ 。
                 :columns: auto
 
 
@@ -2934,7 +2940,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2990,9 +2996,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_weesol_kai_commentEnd:
 
-^^^^^^^^^^^^
-ノルス・レイ
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ノルス·レイ(诺鲁斯·改)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_nors_ray:
 
@@ -3019,33 +3025,33 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Nors Ray
+            .. grid-item:: 英文:Nors Ray。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第44话
+            .. grid-item:: 登场/加入:第44话。
                 :columns: auto
 
-            .. grid-item:: 编码 5C
+            .. grid-item:: 编码:5C。
                 :columns: auto
 
-            .. grid-item:: 地址 BA5C1 (272B0)
+            .. grid-item:: 地址 BA5C1 (272B0)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA5E1 (272D0)
+            .. grid-item:: 武器首地址:BA5E1 (272D0)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B (A)→B陆B (A)海D→C宇B (A)→B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`モニカ・ビルセイア <srw4_pilot_monica_billseia>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B (A)→B陆B (A)海D→C宇B (A)→B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`モニカ・ビルセイア <srw4_pilot_monica_billseia>`\ 。
                 :columns: auto
 
 
@@ -3126,7 +3132,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -3191,9 +3197,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_units_banpresto_originals_enemy_commentEnd:
 
-^^^^^^^^
-ガロイカ
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+ガロイカ(加罗依卡)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_garoica:
 
@@ -3220,29 +3226,29 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Garoica
+            .. grid-item:: 英文:Garoica。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第10话
+            .. grid-item:: 登场/加入:第10话。
                 :columns: auto
 
-            .. grid-item:: 编码 E3
+            .. grid-item:: 编码:E3。
                 :columns: auto
 
-            .. grid-item:: 地址 BBCF9 (289E8)
+            .. grid-item:: 地址 BBCF9 (289E8)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBD19 (28A08)
+            .. grid-item:: 武器首地址:BBD19 (28A08)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 大小 M
+            .. grid-item:: 大小 M。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆🚫海🚫宇A
+            .. grid-item:: 地形适应:空A陆🚫海🚫宇A。
                 :columns: auto
 
 
@@ -3320,7 +3326,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -3361,9 +3367,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_garoica_commentEnd:
 
-^^^^^^^^^^^^
-カレイツェド
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
+カレイツェド(卡雷赛德)
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_kaleitsed:
 
@@ -3390,29 +3396,29 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Kaleitsed
+            .. grid-item:: 英文:Kaleitsed。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第18话
+            .. grid-item:: 登场/加入:第18话。
                 :columns: auto
 
-            .. grid-item:: 编码 E4
+            .. grid-item:: 编码:E4。
                 :columns: auto
 
-            .. grid-item:: 地址 BBD21 (28A10)
+            .. grid-item:: 地址 BBD21 (28A10)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBD41 (28A30)
+            .. grid-item:: 武器首地址:BBD41 (28A30)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 M
+            .. grid-item:: 大小 M。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆A海B宇A
+            .. grid-item:: 地形适应:空A陆A海B宇A。
                 :columns: auto
 
 
@@ -3490,7 +3496,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -3566,9 +3572,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_kaleitsed_commentEnd:
 
-^^^^^^^^^^^^
-レストレイル
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+レストレイル(雷斯托雷尔)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_rest_rail:
 
@@ -3595,29 +3601,29 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Rest Rail
+            .. grid-item:: 英文:Rest Rail。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第29话
+            .. grid-item:: 登场/加入:第29话。
                 :columns: auto
 
-            .. grid-item:: 编码 E5
+            .. grid-item:: 编码:E5。
                 :columns: auto
 
-            .. grid-item:: 地址 BBD52 (28A41)
+            .. grid-item:: 地址 BBD52 (28A41)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBD72 (28A61)
+            .. grid-item:: 武器首地址:BBD72 (28A61)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 M
+            .. grid-item:: 大小 M。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆A海B宇A
+            .. grid-item:: 地形适应:空A陆A海B宇A。
                 :columns: auto
 
 
@@ -3695,7 +3701,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -3758,9 +3764,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_rest_rail_commentEnd:
 
-^^^^^^^^^^^^^^^^
-グラシドゥ＝リュ
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+グラシドゥ＝リュ(古拉西德·琉)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_grassidow_ryu:
 
@@ -3787,29 +3793,29 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Grassidow Ryu
+            .. grid-item:: 英文:Grassidow Ryu。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第29话
+            .. grid-item:: 登场/加入:第29话。
                 :columns: auto
 
-            .. grid-item:: 编码 E6
+            .. grid-item:: 编码:E6。
                 :columns: auto
 
-            .. grid-item:: 地址 BBD80 (28A6F)
+            .. grid-item:: 地址 BBD80 (28A6F)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBDA0 (28A8F)
+            .. grid-item:: 武器首地址:BBDA0 (28A8F)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 M
+            .. grid-item:: 大小 M。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆A海B宇A
+            .. grid-item:: 地形适应:空A陆A海B宇A。
                 :columns: auto
 
 
@@ -3887,7 +3893,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -3937,9 +3943,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_grassidow_ryu_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-ゲイオス＝グルード
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ゲイオス＝グルード(盖奥斯·古鲁德)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_geios_glud:
 
@@ -3966,33 +3972,33 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Geios Glud
+            .. grid-item:: 英文:Geios Glud。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第29话
+            .. grid-item:: 登场/加入:第29话。
                 :columns: auto
 
-            .. grid-item:: 编码 E9
+            .. grid-item:: 编码:E9。
                 :columns: auto
 
-            .. grid-item:: 地址 BBE0A (28AF9)
+            .. grid-item:: 地址 BBE0A (28AF9)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBE2A (28B19)
+            .. grid-item:: 武器首地址:BBE2A (28B19)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海A→B宇A
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ゼブリーズ・フルシュワ <srw4_pilot_zebris_forschwa>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海A→B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ゼブリーズ・フルシュワ <srw4_pilot_zebris_forschwa>`\ 。
                 :columns: auto
 
 
@@ -4073,7 +4079,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -4149,9 +4155,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_geios_glud_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ライグ＝ゲイオス
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ライグ＝ゲイオス(莱格·盖奥斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_lige_geios:
 
@@ -4178,40 +4184,40 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Lige Geios
+            .. grid-item:: 英文:Lige Geios。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第29话
+            .. grid-item:: 登场/加入:第29话。
                 :columns: auto
 
-            .. grid-item:: 编码 EA
+            .. grid-item:: 编码:EA。
                 :columns: auto
 
-            .. grid-item:: 地址 BBE3B (28B2A)
+            .. grid-item:: 地址 BBE3B (28B2A)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBE5B (28B4A)
+            .. grid-item:: 武器首地址:BBE5B (28B4A)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海A→B宇A
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ゼブリーズ・フルシュワ <srw4_pilot_zebris_forschwa>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海A→B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ゼブリーズ・フルシュワ <srw4_pilot_zebris_forschwa>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_E9.png
                 :columns: auto
 
-            .. grid-item:: EN恢復
+            .. grid-item:: 技能: EN恢復。
                 :columns: auto
 
 
@@ -4289,7 +4295,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -4378,9 +4384,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_lige_geios_commentEnd:
 
-^^^^^^^^^^^^^^^^
-レストグランシュ
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+レストグランシュ(雷斯特格兰修)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_rest_granshu:
 
@@ -4407,29 +4413,29 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Rest Granshu
+            .. grid-item:: 英文:Rest Granshu。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第35话
+            .. grid-item:: 登场/加入:第35话。
                 :columns: auto
 
-            .. grid-item:: 编码 E7
+            .. grid-item:: 编码:E7。
                 :columns: auto
 
-            .. grid-item:: 地址 BBDAB (28A9A)
+            .. grid-item:: 地址 BBDAB (28A9A)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBDCB (28ABA)
+            .. grid-item:: 武器首地址:BBDCB (28ABA)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆A海A宇A
+            .. grid-item:: 地形适应:空A陆A海A宇A。
                 :columns: auto
 
 
@@ -4507,7 +4513,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -4583,9 +4589,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_rest_granshu_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-バラン＝シュナイル
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+バラン＝シュナイル(巴兰·修奈尔)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_baran_schnile:
 
@@ -4612,40 +4618,40 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Baran Schnile
+            .. grid-item:: 英文:Baran Schnile。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第35话
+            .. grid-item:: 登场/加入:第35话。
                 :columns: auto
 
-            .. grid-item:: 编码 EB
+            .. grid-item:: 编码:EB。
                 :columns: auto
 
-            .. grid-item:: 地址 BBE6F (28B5E)
+            .. grid-item:: 地址 BBE6F (28B5E)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBE8F (28B7E)
+            .. grid-item:: 武器首地址:BBE8F (28B7E)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海A→B宇A
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`テイニクェット・ゼゼーナン <srw4_pilot_teniquette_zezernan>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海A→B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`テイニクェット・ゼゼーナン <srw4_pilot_teniquette_zezernan>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_EA.png
                 :columns: auto
 
-            .. grid-item:: EN恢復, 激怒/自爆/てかげん無効
+            .. grid-item:: 技能: EN恢復、激怒/自爆/てかげん無効。
                 :columns: auto
 
 
@@ -4723,7 +4729,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -4786,9 +4792,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_baran_schnile_commentEnd:
 
-^^^^^^^^
-ゼラニオ
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+ゼラニオ(塞拉尼奥)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_zeranio:
 
@@ -4815,33 +4821,33 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Zeranio
+            .. grid-item:: 英文:Zeranio。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第37话
+            .. grid-item:: 登场/加入:第37话。
                 :columns: auto
 
-            .. grid-item:: 编码 E8
+            .. grid-item:: 编码:E8。
                 :columns: auto
 
-            .. grid-item:: 地址 BBDDC (28ACB)
+            .. grid-item:: 地址 BBDDC (28ACB)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBDFC (28AEB)
+            .. grid-item:: 武器首地址:BBDFC (28AEB)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 宇宙
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A (🚫)→A (C)陆🚫→D海🚫宇A
+            .. grid-item:: 移动类型:宇宙。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ギワザ・ロワウ <srw4_pilot_giwaza_lowau>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A (🚫)→A (C)陆🚫→D海🚫宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ギワザ・ロワウ <srw4_pilot_giwaza_lowau>`\ 。
                 :columns: auto
 
 
@@ -4922,7 +4928,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -4985,9 +4991,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_zeranio_commentEnd:
 
-^^^^^^^^^^^^^^^^
-メカギルギルガン
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+メカギルギルガン(机械基鲁基鲁刚)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mecha_gilgilgan:
 
@@ -5014,33 +5020,33 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Mecha Gilgilgan
+            .. grid-item:: 英文:Mecha Gilgilgan。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第43话
+            .. grid-item:: 登场/加入:第43话。
                 :columns: auto
 
-            .. grid-item:: 编码 A7
+            .. grid-item:: 编码:A7。
                 :columns: auto
 
-            .. grid-item:: 地址 BB290 (27F7F)
+            .. grid-item:: 地址 BB290 (27F7F)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB2B0 (27F9F)
+            .. grid-item:: 武器首地址:BB2B0 (27F9F)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 水陸空
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海A宇A
+            .. grid-item:: 移动类型:水陸空。
                 :columns: auto
 
 
-            .. grid-item:: Iフィールド
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海A宇A。
+                :columns: auto
+
+
+            .. grid-item:: 技能: Iフィールド。
                 :columns: auto
 
 
@@ -5118,7 +5124,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -5169,9 +5175,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_mecha_gilgilgan_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ネオ·グランゾン
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ネオ·グランゾン(真·古兰森)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_neo_granzon:
 
@@ -5198,40 +5204,40 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Neo Granzon
+            .. grid-item:: 英文:Neo Granzon。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第44话
+            .. grid-item:: 登场/加入:第44话。
                 :columns: auto
 
-            .. grid-item:: 编码 56
+            .. grid-item:: 编码:56。
                 :columns: auto
 
-            .. grid-item:: 地址 BA4A1 (27190)
+            .. grid-item:: 地址 BA4A1 (27190)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA4C1 (271B0)
+            .. grid-item:: 武器首地址:BA4C1 (271B0)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海A→B宇A
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海A→B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1F.png
                 :columns: auto
 
-            .. grid-item:: 剣装備, EN恢復, HP恢復(大), 激怒/自爆/てかげん無効, Iフィールド
+            .. grid-item:: 技能: 剣装備、EN恢復、HP恢復(大)、激怒/自爆/てかげん無効、Iフィールド。
                 :columns: auto
 
 
@@ -5309,7 +5315,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -5385,9 +5391,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_neo_granzon_commentEnd:
 
-^^^^^^^^^^^^
-ヴァルシオン
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
+ヴァルシオン(瓦尔西昂)
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_valsione:
 
@@ -5414,33 +5420,33 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Valsione
+            .. grid-item:: 英文:Valsione。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第44话
+            .. grid-item:: 登场/加入:第44话。
                 :columns: auto
 
-            .. grid-item:: 编码 A9
+            .. grid-item:: 编码:A9。
                 :columns: auto
 
-            .. grid-item:: 地址 BB2E6 (27FD5)
+            .. grid-item:: 地址 BB2E6 (27FD5)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BB306 (27FF5)
+            .. grid-item:: 武器首地址:BB306 (27FF5)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海B宇A
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: Iフィールド
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 技能: Iフィールド。
                 :columns: auto
 
 
@@ -5518,7 +5524,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -5563,9 +5569,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_units_banpresto_originals_ally_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-ゲシュペンスト Mk-II
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ゲシュペンスト Mk-II(亡灵 Mk-II)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_gespenst_mk_ii:
 
@@ -5592,40 +5598,40 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Gespenst Mk-II
+            .. grid-item:: 英文:Gespenst Mk-II。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第14话
+            .. grid-item:: 登场/加入:第14话。
                 :columns: auto
 
-            .. grid-item:: 编码 EC
+            .. grid-item:: 编码:EC。
                 :columns: auto
 
-            .. grid-item:: 地址 BBE9D (28B8C)
+            .. grid-item:: 地址 BBE9D (28B8C)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBEBD (28BAC)
+            .. grid-item:: 武器首地址:BBEBD (28BAC)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A (🚫)→A (C)陆A海B宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ギリアム・イェーガー <srw4_pilot_gilliam_yeager>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A (🚫)→A (C)陆A海B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ギリアム・イェーガー <srw4_pilot_gilliam_yeager>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1B.png
                 :columns: auto
 
-            .. grid-item:: 剣装備, EN恢復, ビームコート
+            .. grid-item:: 技能: 剣装備、EN恢復、ビームコート。
                 :columns: auto
 
 
@@ -5703,7 +5709,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -5780,9 +5786,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_units_banpresto_originals_neutral_commentEnd:
 
-^^^^^^^^^^^^^^
-ガディフォール
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ガディフォール(加迪弗尔)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_gadifal:
 
@@ -5809,37 +5815,37 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Gadifal
+            .. grid-item:: 英文:Gadifal。
                 :columns: auto
 
-            .. grid-item:: 编码 5D
+            .. grid-item:: 编码:5D。
                 :columns: auto
 
-            .. grid-item:: 地址 BA5EC (272DB)
+            .. grid-item:: 地址 BA5EC (272DB)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA60C (272FB)
+            .. grid-item:: 武器首地址:BA60C (272FB)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆B (A)海C宇B (A)→B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`テリウス・ビルセイア <srw4_pilot_telius_bilseia>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆B (A)海C宇B (A)→B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`テリウス・ビルセイア <srw4_pilot_telius_bilseia>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_EC.png
                 :columns: auto
 
-            .. grid-item:: 剣装備
+            .. grid-item:: 技能: 剣装備。
                 :columns: auto
 
 
@@ -5917,7 +5923,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -6001,9 +6007,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_units_banpresto_originals_dead_data_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ニセサイバスター
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ニセサイバスター(伪塞巴斯塔)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_fake_cybuster:
 
@@ -6030,30 +6036,30 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             :padding: 0
 
 
-            .. grid-item:: 英文:Fake Cybuster
+            .. grid-item:: 英文:Fake Cybuster。
                 :columns: auto
 
-            .. grid-item:: 编码 10C
+            .. grid-item:: 编码:10C。
                 :columns: auto
 
-            .. grid-item:: 地址 BC3D0 (290BC)
+            .. grid-item:: 地址 BC3D0 (290BC)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC3F0 (290DC)
+            .. grid-item:: 武器首地址:BC3F0 (290DC)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海D宇A
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 剣装備
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 技能: 剣装備。
                 :columns: auto
 
 
@@ -6131,7 +6137,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

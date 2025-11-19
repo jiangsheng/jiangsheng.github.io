@@ -1,5 +1,5 @@
 .. meta::
-   :description: 機動戦士ガンダムF91机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。F-91, ビギナ・ギナ, ザムス・ガル, ベルガ・ギロス, ラフレシア 
+   :description: 機動戦士ガンダムF91机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。F-91, ビギナ·ギナ, ザムス·ガル, ベルガ·ギロス, ラフレシア 
 .. _srw4_units_mobile_suit_gundam_f91:
 
 ==============================
@@ -7,6 +7,12 @@
 ==============================
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
+
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
 
 .. _srw4_units_mobile_suit_gundam_f91_commentBegin:
 
@@ -50,40 +56,40 @@ F-91
             :padding: 0
 
 
-            .. grid-item:: 英文:F-91
+            .. grid-item:: 英文:F-91。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第25话
+            .. grid-item:: 登场/加入:第25话。
                 :columns: auto
 
-            .. grid-item:: 编码 0A
+            .. grid-item:: 编码:0A。
                 :columns: auto
 
-            .. grid-item:: 地址 B966B (2635A)
+            .. grid-item:: 地址 B966B (2635A)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B968B (2637A)
+            .. grid-item:: 武器首地址:B968B (2637A)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→C陆B (A)海C (B)→C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`シーブック・アノー <srw4_pilot_seabook_arno>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→C陆B (A)海C (B)→C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`シーブック・アノー <srw4_pilot_seabook_arno>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_53.png
                 :columns: auto
 
-            .. grid-item:: 分身, 盾装備, 剣装備
+            .. grid-item:: 技能: 分身、盾装備、剣装備。
                 :columns: auto
 
 
@@ -161,7 +167,7 @@ F-91
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -246,9 +252,9 @@ F-91
 
 .. _srw4_unit_f_91_commentEnd:
 
-^^^^^^^^^^^^
-ビギナ・ギナ
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ビギナ·ギナ(比基纳·基纳)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_vigna_ghina:
 
@@ -275,40 +281,40 @@ F-91
             :padding: 0
 
 
-            .. grid-item:: 英文:Vigna Ghina
+            .. grid-item:: 英文:Vigna Ghina。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第39话
+            .. grid-item:: 登场/加入:第39话。
                 :columns: auto
 
-            .. grid-item:: 编码 8C
+            .. grid-item:: 编码:8C。
                 :columns: auto
 
-            .. grid-item:: 地址 BAE22 (27B11)
+            .. grid-item:: 地址 BAE22 (27B11)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAE42 (27B31)
+            .. grid-item:: 武器首地址:BAE42 (27B31)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`セシリー・フェアチャイルド <srw4_pilot_cecily_fairchild>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`セシリー・フェアチャイルド <srw4_pilot_cecily_fairchild>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_40.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備
+            .. grid-item:: 技能: 盾装備、剣装備。
                 :columns: auto
 
 
@@ -386,7 +392,7 @@ F-91
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -449,9 +455,9 @@ F-91
 
 .. _srw4_units_mobile_suit_gundam_f91_enemy_commentEnd:
 
-^^^^^^^^^^^^^^
-ベルガ・ギロス
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ベルガ·ギロス(贝尔加·基罗斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_berga_giros:
 
@@ -478,33 +484,33 @@ F-91
             :padding: 0
 
 
-            .. grid-item:: 英文:Berga Giros
+            .. grid-item:: 英文:Berga Giros。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第30话
+            .. grid-item:: 登场/加入:第30话。
                 :columns: auto
 
-            .. grid-item:: 编码 8D
+            .. grid-item:: 编码:8D。
                 :columns: auto
 
-            .. grid-item:: 地址 BAE4D (27B3C)
+            .. grid-item:: 地址 BAE4D (27B3C)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAE6D (27B5C)
+            .. grid-item:: 武器首地址:BAE6D (27B5C)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫陆B海C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 盾装備, 剣装備
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫陆B海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 技能: 盾装備、剣装備。
                 :columns: auto
 
 
@@ -582,7 +588,7 @@ F-91
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -633,9 +639,9 @@ F-91
 
 .. _srw4_unit_berga_giros_commentEnd:
 
-^^^^^^^^^^
-ラフレシア
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+ラフレシア(大王花)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_rafflesia:
 
@@ -662,40 +668,40 @@ F-91
             :padding: 0
 
 
-            .. grid-item:: 英文:Rafflesia
+            .. grid-item:: 英文:Rafflesia。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第38话
+            .. grid-item:: 登场/加入:第38话。
                 :columns: auto
 
-            .. grid-item:: 编码 8E
+            .. grid-item:: 编码:8E。
                 :columns: auto
 
-            .. grid-item:: 地址 BAE78 (27B67)
+            .. grid-item:: 地址 BAE78 (27B67)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAE98 (27B87)
+            .. grid-item:: 武器首地址:BAE98 (27B87)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 宇宙
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A (🚫)→A (C)陆A (🚫)→B (D)海🚫宇A
+            .. grid-item:: 移动类型:宇宙。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`カロッゾ・ロナ <srw4_pilot_carrozzo_rona>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A (🚫)→A (C)陆A (🚫)→B (D)海🚫宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`カロッゾ・ロナ <srw4_pilot_carrozzo_rona>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_9D.png
                 :columns: auto
 
-            .. grid-item:: Iフィールド
+            .. grid-item:: 技能: Iフィールド。
                 :columns: auto
 
 
@@ -773,7 +779,7 @@ F-91
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -858,9 +864,9 @@ F-91
 
 .. _srw4_units_mobile_suit_gundam_f91_ally_commentEnd:
 
-^^^^^^^^^^^^
-ザムス・ガル
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ザムス·ガル(扎姆斯·加尔)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_zamouth_garr:
 
@@ -887,33 +893,33 @@ F-91
             :padding: 0
 
 
-            .. grid-item:: 英文:Zamouth Garr
+            .. grid-item:: 英文:Zamouth Garr。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第37话
+            .. grid-item:: 登场/加入:第37话。
                 :columns: auto
 
-            .. grid-item:: 编码 E2
+            .. grid-item:: 编码:E2。
                 :columns: auto
 
-            .. grid-item:: 地址 BBCC8 (289B7)
+            .. grid-item:: 地址 BBCC8 (289B7)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBCE8 (289D7)
+            .. grid-item:: 武器首地址:BBCE8 (289D7)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 宇宙
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆🚫→C海🚫→D宇A
+            .. grid-item:: 移动类型:宇宙。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`エギーユ・デラーズ <srw4_pilot_aiguille_delaz>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆🚫→C海🚫→D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`エギーユ・デラーズ <srw4_pilot_aiguille_delaz>`\ 。
                 :columns: auto
 
 
@@ -994,7 +1000,7 @@ F-91
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

@@ -7,16 +7,22 @@
 ====================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_pilots_mazinger_z_commentBegin:
 
 人物事典还登录了以下人物：
 
 光子力研究所的研究人员：
 
-* 弓教授
-* 忙碌博士
-* 悠闲博士
-* 拼命博士
+* 弓弦之助教授
+* せわし博士（忙碌博士）
+* のっそり博士（悠闲博士）
+* もりもり博士（拼命博士）
 
 .. _srw4_pilots_mazinger_z_commentEnd:
 
@@ -29,9 +35,9 @@
 
 .. _srw4_pilots_mazinger_z_own_commentEnd:
 
-^^^^^^^^
-弓さやか
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+弓さやか(弓沙也加)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_sayaka_yumi:
 
@@ -47,15 +53,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_45.png
 
-    .. grid-item:: 英文:Sayaka Yumi
-    .. grid-item:: 登场/加入:第1话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 80
-    .. grid-item:: EXP: 180
-    .. grid-item:: 编码 45
-    .. grid-item:: 地址 B7B32 (2B3DE)
-    .. grid-item:: 精神地址 B7B43(2B3F0)
-    .. grid-item:: 地形适应 空C陆A海C宇B
+    .. grid-item:: 英文:Sayaka Yumi。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第1话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:80。
+        :columns: auto
+
+
+    .. grid-item:: EXP:180。
+        :columns: auto
+
+
+    .. grid-item:: 编码:45。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7B32 (2B3DE)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7B43(2B3F0)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆A海C宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -166,9 +198,9 @@
 
 .. _srw4_pilot_sayaka_yumi_commentEnd:
 
-^^^^
-ボス
-^^^^
+^^^^^^^^^^^^
+ボス(波士)
+^^^^^^^^^^^^
 
 .. _srw4_pilot_boss:
 
@@ -184,15 +216,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_47.png
 
-    .. grid-item:: 英文:Boss
-    .. grid-item:: 登场/加入:第1话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 90
-    .. grid-item:: EXP: 90
-    .. grid-item:: 编码 47
-    .. grid-item:: 地址 B7B72 (2B420)
-    .. grid-item:: 精神地址 B7B83(2B432)
-    .. grid-item:: 地形适应 空D陆A海D宇C
+    .. grid-item:: 英文:Boss。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第1话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:90。
+        :columns: auto
+
+
+    .. grid-item:: EXP:90。
+        :columns: auto
+
+
+    .. grid-item:: 编码:47。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7B72 (2B420)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7B83(2B432)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空D陆A海D宇C。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -331,15 +389,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_55.png
 
-    .. grid-item:: 英文:Koji Kabuto
-    .. grid-item:: 登场/加入:第1话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 100
-    .. grid-item:: EXP: 229
-    .. grid-item:: 编码 55
-    .. grid-item:: 地址 B7D42 (2B64A)
-    .. grid-item:: 精神地址 B7D53(2B65C)
-    .. grid-item:: 地形适应 空A陆A海B宇B
+    .. grid-item:: 英文:Koji Kabuto。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第1话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:100。
+        :columns: auto
+
+
+    .. grid-item:: EXP:229。
+        :columns: auto
+
+
+    .. grid-item:: 编码:55。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7D42 (2B64A)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7D53(2B65C)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -469,9 +553,9 @@
 
 .. _srw4_pilots_mazinger_z_enemy_commentEnd:
 
-^^^^^^^^^^^^
-あしゅら男爵
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+あしゅら男爵(阿修罗男爵)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_baron_ashura:
 
@@ -487,15 +571,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_A0.png
 
-    .. grid-item:: 英文:Baron Ashura
-    .. grid-item:: 登场/加入:第1话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 195
-    .. grid-item:: 编码 A0
-    .. grid-item:: 地址 B8609 (2BFAE)
-    .. grid-item:: 精神地址 B861A(2BFC0)
-    .. grid-item:: 地形适应 空A陆B海A宇B
+    .. grid-item:: 英文:Baron Ashura。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第1话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:195。
+        :columns: auto
+
+
+    .. grid-item:: 编码:A0。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8609 (2BFAE)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B861A(2BFC0)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆B海A宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -602,9 +712,9 @@
 
 .. _srw4_pilot_baron_ashura_commentEnd:
 
-^^^^^^^^^^^^^^
-ブロッケン伯爵
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ブロッケン伯爵(布罗肯伯爵)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_count_of_brocken:
 
@@ -620,15 +730,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_A1.png
 
-    .. grid-item:: 英文:Count of Brocken
-    .. grid-item:: 登场/加入:第1话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 198
-    .. grid-item:: 编码 A1
-    .. grid-item:: 地址 B8628 (2BFCE)
-    .. grid-item:: 精神地址 B8639(2BFE0)
-    .. grid-item:: 地形适应 空A陆A海B宇B
+    .. grid-item:: 英文:Count of Brocken。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第1话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:198。
+        :columns: auto
+
+
+    .. grid-item:: 编码:A1。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8628 (2BFCE)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8639(2BFE0)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -735,9 +871,9 @@
 
 .. _srw4_pilot_count_of_brocken_commentEnd:
 
-^^^^^^^^
-Ｄｒヘル
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+Ｄｒヘル(地狱博士)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_dr_hell:
 
@@ -753,15 +889,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_A2.png
 
-    .. grid-item:: 英文:Dr Hell
-    .. grid-item:: 登场/加入:第21话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 220
-    .. grid-item:: 编码 A2
-    .. grid-item:: 地址 B8647 (2BFEE)
-    .. grid-item:: 精神地址 B8658(2C000)
-    .. grid-item:: 地形适应 空B陆A海B宇B
+    .. grid-item:: 英文:Dr Hell。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第21话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:220。
+        :columns: auto
+
+
+    .. grid-item:: 编码:A2。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8647 (2BFEE)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8658(2C000)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海B宇B。
+        :columns: auto
+
 
 
 .. grid:: 

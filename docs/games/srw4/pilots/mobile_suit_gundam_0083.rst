@@ -7,12 +7,18 @@
 ================================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_pilots_mobile_suit_gundam_0083_commentBegin:
 
 人物事典还登录了以下人物：
 
-* 我方庇护者ジョン・コウェン（约翰·柯文）中将。虽然在原作未死，但是本作中被提坦斯和德雷克军暗杀。
-* 布莱德舰机械师モーラ・バシットル（莫拉·巴西特）。
+* 我方庇护者ジョン・コーウェン（约翰·柯文）中将。虽然在原作未死，但是本作中被提坦斯和德雷克军暗杀。颜码E3。
+* 布莱德舰机械师モーラ・バシットル（莫拉·巴西特）。颜码DF。
 
 .. _srw4_pilots_mobile_suit_gundam_0083_commentEnd:
 
@@ -23,9 +29,9 @@
 
 .. _srw4_pilots_mobile_suit_gundam_0083_own_commentEnd:
 
-^^^^^^^^^^^^^^^^
-チャック・キース
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+チャック・キース(查克·基斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_chuck_keith:
 
@@ -41,15 +47,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_43.png
 
-    .. grid-item:: 英文:Chuck Keith
-    .. grid-item:: 登场/加入:第1话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 170
-    .. grid-item:: 编码 43
-    .. grid-item:: 地址 B7AF2 (2B39C)
-    .. grid-item:: 精神地址 B7B03(2B3AE)
-    .. grid-item:: 地形适应 空C陆A海C宇B
+    .. grid-item:: 英文:Chuck Keith。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第1话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:170。
+        :columns: auto
+
+
+    .. grid-item:: 编码:43。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7AF2 (2B39C)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7B03(2B3AE)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆A海C宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -158,9 +190,9 @@
 
 .. _srw4_pilot_chuck_keith_commentEnd:
 
-^^^^^^^^^^^^
-コウ・ウラキ
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+コウ・ウラキ(浦木宏)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_kou_uraki:
 
@@ -176,15 +208,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_54.png
 
-    .. grid-item:: 英文:Kou Uraki
-    .. grid-item:: 登场/加入:第1话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 70
-    .. grid-item:: EXP: 227
-    .. grid-item:: 编码 54
-    .. grid-item:: 地址 B7D1F (2B616)
-    .. grid-item:: 精神地址 B7D30(2B628)
-    .. grid-item:: 地形适应 空C陆A海B宇A
+    .. grid-item:: 英文:Kou Uraki。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第1话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:70。
+        :columns: auto
+
+
+    .. grid-item:: EXP:227。
+        :columns: auto
+
+
+    .. grid-item:: 编码:54。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7D1F (2B616)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7D30(2B628)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -308,9 +366,9 @@
 
 .. _srw4_pilot_kou_uraki_commentEnd:
 
-^^^^^^^^^^^^^^^^
-アナベル・ガトー
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+アナベル・ガトー(阿纳贝尔·卡多)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_anavel_gato:
 
@@ -326,15 +384,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_42.png
 
-    .. grid-item:: 英文:Anavel Gato
-    .. grid-item:: 登场/加入:第39话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 255
-    .. grid-item:: 编码 42
-    .. grid-item:: 地址 B7AD1 (2B378)
-    .. grid-item:: 精神地址 B7AE2(2B38A)
-    .. grid-item:: 地形适应 空B陆A海B宇A
+    .. grid-item:: 英文:Anavel Gato。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第39话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:255。
+        :columns: auto
+
+
+    .. grid-item:: 编码:42。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7AD1 (2B378)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7AE2(2B38A)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -460,9 +544,9 @@
 
 .. _srw4_pilots_mobile_suit_gundam_0083_enemy_commentEnd:
 
-^^^^^^^^^^^^^^^^
-シーマ・ガラハウ
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+シーマ・ガラハウ(西玛·加拉豪)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_cima_garahau:
 
@@ -478,15 +562,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_9F.png
 
-    .. grid-item:: 英文:Cima Garahau
-    .. grid-item:: 登场/加入:第4话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 234
-    .. grid-item:: 编码 9F
-    .. grid-item:: 地址 B85E8 (2BF8A)
-    .. grid-item:: 精神地址 B85F9(2BF9C)
-    .. grid-item:: 地形适应 空C陆A海A宇A
+    .. grid-item:: 英文:Cima Garahau。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第4话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:234。
+        :columns: auto
+
+
+    .. grid-item:: 编码:9F。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B85E8 (2BF8A)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B85F9(2BF9C)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -604,9 +714,9 @@
 
 .. _srw4_pilot_cima_garahau_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ケリィ・レズナー
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ケリィ・レズナー(凯莉·雷兹纳)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_kelly_layzner:
 
@@ -622,15 +732,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_2E.png
 
-    .. grid-item:: 英文:Kelly Layzner
-    .. grid-item:: 登场/加入:第25话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 195
-    .. grid-item:: 编码 2E
-    .. grid-item:: 地址 B7875 (2B0CA)
-    .. grid-item:: 精神地址 B7886(2B0DC)
-    .. grid-item:: 地形适应 空A陆B海B宇A
+    .. grid-item:: 英文:Kelly Layzner。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第25话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:195。
+        :columns: auto
+
+
+    .. grid-item:: 编码:2E。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7875 (2B0CA)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7886(2B0DC)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆B海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -739,9 +875,9 @@
 
 .. _srw4_pilot_kelly_layzner_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-エギーユ・デラーズ
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+エギーユ・デラーズ(艾基尤·迪拉兹)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_aiguille_delaz:
 
@@ -757,15 +893,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_D1.png
 
-    .. grid-item:: 英文:Aiguille Delaz
-    .. grid-item:: 登场/加入:第37话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 199
-    .. grid-item:: 编码 D1
-    .. grid-item:: 地址 B8B7F (2C574)
-    .. grid-item:: 精神地址 B8B90(2C586)
-    .. grid-item:: 地形适应 空B陆A海C宇A
+    .. grid-item:: 英文:Aiguille Delaz。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第37话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:199。
+        :columns: auto
+
+
+    .. grid-item:: 编码:D1。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8B7F (2C574)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8B90(2C586)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -878,9 +1040,9 @@
 
 .. _srw4_pilots_mobile_suit_gundam_0083_ally_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-ニナ・パープルトン
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ニナ・パープルトン(妮娜·帕普顿)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_nina_purpleton:
 
@@ -896,15 +1058,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_41.png
 
-    .. grid-item:: 英文:Nina Purpleton
-    .. grid-item:: 登场/加入:第14话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 41
-    .. grid-item:: 地址 B7ABA (2B360)
-    .. grid-item:: 精神地址 B7ACB(2B372)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Nina Purpleton。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第14话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:41。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7ABA (2B360)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7ACB(2B372)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1005,9 +1193,9 @@
 
 .. _srw4_pilots_mobile_suit_gundam_0083_dead_data_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-ベルナルド・モンシア
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ベルナルド・モンシア(巴纳德·蒙夏)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_bernard_monsha:
 
@@ -1023,14 +1211,37 @@
 
         .. image:: ../pilots/images/srw4_pilot_44.png
 
-    .. grid-item:: 英文:Bernard Monsha
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 190
-    .. grid-item:: 编码 44
-    .. grid-item:: 地址 B7B11 (2B3BC)
-    .. grid-item:: 精神地址 B7B22(2B3CE)
-    .. grid-item:: 地形适应 空B陆A海B宇B
+    .. grid-item:: 英文:Bernard Monsha。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:190。
+        :columns: auto
+
+
+    .. grid-item:: 编码:44。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7B11 (2B3BC)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7B22(2B3CE)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海B宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -1145,9 +1356,9 @@
 
 .. _srw4_pilot_bernard_monsha_commentEnd:
 
-^^^^^^^^^^^^^^^^
-サウス・バニング
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+サウス・バニング(绍斯·巴宁格)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_south_burning:
 
@@ -1163,14 +1374,37 @@
 
         .. image:: ../pilots/images/srw4_pilot_70.png
 
-    .. grid-item:: 英文:South Burning
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 70
-    .. grid-item:: 地址 B8045 (2B972)
-    .. grid-item:: 精神地址 B8056(2B984)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:South Burning。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:70。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8045 (2B972)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8056(2B984)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 

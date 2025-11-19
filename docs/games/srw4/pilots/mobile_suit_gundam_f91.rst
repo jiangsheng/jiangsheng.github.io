@@ -7,6 +7,12 @@
 ==============================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_pilots_mobile_suit_gundam_f91_commentBegin:
 
 
@@ -20,9 +26,9 @@
 
 .. _srw4_pilots_mobile_suit_gundam_f91_own_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-シーブック・アノー
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+シーブック・アノー(西布克·阿诺)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_seabook_arno:
 
@@ -38,15 +44,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_53.png
 
-    .. grid-item:: 英文:Seabook Arno
-    .. grid-item:: 登场/加入:第24话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 70
-    .. grid-item:: EXP: 248
-    .. grid-item:: 编码 53
-    .. grid-item:: 地址 B7CFA (2B5DE)
-    .. grid-item:: 精神地址 B7D0B(2B5F0)
-    .. grid-item:: 地形适应 空A陆A海C宇A
+    .. grid-item:: 英文:Seabook Arno。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第24话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:70。
+        :columns: auto
+
+
+    .. grid-item:: EXP:248。
+        :columns: auto
+
+
+    .. grid-item:: 编码:53。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7CFA (2B5DE)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7D0B(2B5F0)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -164,9 +196,9 @@
 
 .. _srw4_pilot_seabook_arno_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-セシリー・フェアチャイルド
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+セシリー・フェアチャイルド(塞西莉·费尔柴尔德)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_cecily_fairchild:
 
@@ -182,15 +214,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_40.png
 
-    .. grid-item:: 英文:Cecily Fairchild
-    .. grid-item:: 登场/加入:第39话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 220
-    .. grid-item:: 编码 40
-    .. grid-item:: 地址 B7A97 (2B338)
-    .. grid-item:: 精神地址 B7AA8(2B34A)
-    .. grid-item:: 地形适应 空B陆A海C宇A
+    .. grid-item:: 英文:Cecily Fairchild。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第39话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:220。
+        :columns: auto
+
+
+    .. grid-item:: 编码:40。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7A97 (2B338)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7AA8(2B34A)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -320,9 +378,9 @@
 
 .. _srw4_pilots_mobile_suit_gundam_f91_enemy_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ザビーネ・シャル
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ザビーネ・シャル(扎比尼·夏尔)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_sabine_char:
 
@@ -338,15 +396,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_9A.png
 
-    .. grid-item:: 英文:Sabine Char
-    .. grid-item:: 登场/加入:第38话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 248
-    .. grid-item:: 编码 9A
-    .. grid-item:: 地址 B8547 (2BEDC)
-    .. grid-item:: 精神地址 B8558(2BEEE)
-    .. grid-item:: 地形适应 空A陆A海B宇A
+    .. grid-item:: 英文:Sabine Char。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第38话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:248。
+        :columns: auto
+
+
+    .. grid-item:: 编码:9A。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8547 (2BEDC)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8558(2BEEE)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -462,9 +546,9 @@
 
 .. _srw4_pilot_sabine_char_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^
-アンナマリー・ブルージュ
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+アンナマリー・ブルージュ(安娜玛丽·布鲁日)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_anna_marie_bruges:
 
@@ -480,15 +564,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_9B.png
 
-    .. grid-item:: 英文:Anna Marie Bruges
-    .. grid-item:: 登场/加入:第38话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 198
-    .. grid-item:: 编码 9B
-    .. grid-item:: 地址 B856A (2BF00)
-    .. grid-item:: 精神地址 B857B(2BF12)
-    .. grid-item:: 地形适应 空B (A)陆B (A)海C宇A
+    .. grid-item:: 英文:Anna Marie Bruges。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第38话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:198。
+        :columns: auto
+
+
+    .. grid-item:: 编码:9B。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B856A (2BF00)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B857B(2BF12)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B (A)陆B (A)海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -604,9 +714,9 @@
 
 .. _srw4_pilot_anna_marie_bruges_commentEnd:
 
-^^^^^^^^^^^^
-ドレル・ロナ
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ドレル・ロナ(多雷尔·罗纳)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_dorrell_rona:
 
@@ -622,15 +732,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_9C.png
 
-    .. grid-item:: 英文:Dorrell Rona
-    .. grid-item:: 登场/加入:第38话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 201
-    .. grid-item:: 编码 9C
-    .. grid-item:: 地址 B8589 (2BF24)
-    .. grid-item:: 精神地址 B859A(2BF36)
-    .. grid-item:: 地形适应 空B (A)陆B (A)海B宇A
+    .. grid-item:: 英文:Dorrell Rona。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第38话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:201。
+        :columns: auto
+
+
+    .. grid-item:: 编码:9C。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8589 (2BF24)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B859A(2BF36)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B (A)陆B (A)海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -746,9 +882,9 @@
 
 .. _srw4_pilot_dorrell_rona_commentEnd:
 
-^^^^^^^^^^^^^^
-カロッゾ・ロナ
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+カロッゾ・ロナ(卡罗佐·罗纳)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_carrozzo_rona:
 
@@ -764,15 +900,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_9D.png
 
-    .. grid-item:: 英文:Carrozzo Rona
-    .. grid-item:: 登场/加入:第38话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 252
-    .. grid-item:: 编码 9D
-    .. grid-item:: 地址 B85A8 (2BF48)
-    .. grid-item:: 精神地址 B85B9(2BF5A)
-    .. grid-item:: 地形适应 空A陆C海D宇A
+    .. grid-item:: 英文:Carrozzo Rona。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第38话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:252。
+        :columns: auto
+
+
+    .. grid-item:: 编码:9D。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B85A8 (2BF48)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B85B9(2BF5A)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆C海D宇A。
+        :columns: auto
+
 
 
 .. grid:: 

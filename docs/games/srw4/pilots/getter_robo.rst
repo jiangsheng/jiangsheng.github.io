@@ -7,6 +7,12 @@
 ====================================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_pilots_getter_robo_commentBegin:
 
 本作盖塔敌方人物没有出场，只有机体被各种人工智能开出来和我军作战。
@@ -46,15 +52,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_09.png
 
-    .. grid-item:: 英文:Ryoma Nagare
-    .. grid-item:: 登场/加入:第1话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 70
-    .. grid-item:: EXP: 220
-    .. grid-item:: 编码 09
-    .. grid-item:: 地址 B7402 (2ABF8)
-    .. grid-item:: 精神地址 B7413(2AC0A)
-    .. grid-item:: 地形适应 空A陆B海C宇B
+    .. grid-item:: 英文:Ryoma Nagare。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第1话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:70。
+        :columns: auto
+
+
+    .. grid-item:: EXP:220。
+        :columns: auto
+
+
+    .. grid-item:: 编码:09。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7402 (2ABF8)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7413(2AC0A)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆B海C宇B。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ゲッター1 <srw4_unit_getter_1>`\ (盖塔1)、\ :ref:`ゲッタードラゴン <srw4_unit_getter_dragon>`\ (盖塔龙)、\ :ref:`真·ゲッター1 <srw4_unit_shin_getter_1>`\ (真·盖塔1)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -194,15 +230,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_0A.png
 
-    .. grid-item:: 英文:Hayato Jin
-    .. grid-item:: 登场/加入:第1话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 222
-    .. grid-item:: 编码 0A
-    .. grid-item:: 地址 B7423 (2AC1A)
-    .. grid-item:: 精神地址 B7434(2AC2C)
-    .. grid-item:: 地形适应 空C陆A海B宇B
+    .. grid-item:: 英文:Hayato Jin。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第1话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:222。
+        :columns: auto
+
+
+    .. grid-item:: 编码:0A。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7423 (2AC1A)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7434(2AC2C)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆A海B宇B。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ゲッター2 <srw4_unit_getter_2>`\ (盖塔2)、\ :ref:`ゲッターライガー <srw4_unit_getter_liger>`\ (盖塔狮虎)、\ :ref:`真·ゲッター2 <srw4_unit_shin_getter_2>`\ (真·盖塔2)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -329,15 +395,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_0B.png
 
-    .. grid-item:: 英文:Benkei Kuruma
-    .. grid-item:: 登场/加入:第1话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 70
-    .. grid-item:: EXP: 215
-    .. grid-item:: 编码 0B
-    .. grid-item:: 地址 B7442 (2AC3A)
-    .. grid-item:: 精神地址 B7453(2AC4C)
-    .. grid-item:: 地形适应 空C陆B海A宇B
+    .. grid-item:: 英文:Benkei Kuruma。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第1话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:70。
+        :columns: auto
+
+
+    .. grid-item:: EXP:215。
+        :columns: auto
+
+
+    .. grid-item:: 编码:0B。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7442 (2AC3A)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7453(2AC4C)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆B海A宇B。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ゲッター3 <srw4_unit_getter_3>`\ (盖塔3)、\ :ref:`ゲッターポセイドン <srw4_unit_getter_poseidon>`\ (盖塔海皇)、\ :ref:`真·ゲッター3 <srw4_unit_shin_getter_3>`\ (真·盖塔3)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -459,9 +555,9 @@
 
 .. _srw4_pilot_benkei_kuruma_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ジャック・キング
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ジャック・キング(杰克·王)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_jack_king:
 
@@ -477,15 +573,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_07.png
 
-    .. grid-item:: 英文:Jack King
-    .. grid-item:: 登场/加入:第4话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 70
-    .. grid-item:: EXP: 130
-    .. grid-item:: 编码 07
-    .. grid-item:: 地址 B73C4 (2ABB8)
-    .. grid-item:: 精神地址 B73D5(2ABCA)
-    .. grid-item:: 地形适应 空A陆A海A宇C
+    .. grid-item:: 英文:Jack King。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第4话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:70。
+        :columns: auto
+
+
+    .. grid-item:: EXP:130。
+        :columns: auto
+
+
+    .. grid-item:: 编码:07。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B73C4 (2ABB8)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B73D5(2ABCA)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇C。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -592,9 +714,9 @@
 
 .. _srw4_pilot_jack_king_commentEnd:
 
-^^^^^^^^^^^^^^
-メリー・キング
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+メリー・キング(梅莉·王)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_mary_king:
 
@@ -610,15 +732,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_08.png
 
-    .. grid-item:: 英文:Mary King
-    .. grid-item:: 登场/加入:第4话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 08
-    .. grid-item:: 地址 B73E3 (2ABD8)
-    .. grid-item:: 精神地址 B73F4(2ABEA)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Mary King。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第4话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:08。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B73E3 (2ABD8)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B73F4(2ABEA)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -731,9 +879,9 @@
 
 .. _srw4_pilots_getter_robo_ally_commentEnd:
 
-^^^^^^^^^^^^
-早乙女ミチル
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+早乙女ミチル(早乙女美智琉)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_michiru_saotome:
 
@@ -749,15 +897,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_4B.png
 
-    .. grid-item:: 英文:Michiru Saotome
-    .. grid-item:: 登场/加入:第3话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 80
-    .. grid-item:: EXP: 160
-    .. grid-item:: 编码 4B
-    .. grid-item:: 地址 B7BF0 (2B4A2)
-    .. grid-item:: 精神地址 B7C01(2B4B4)
-    .. grid-item:: 地形适应 空C陆B海C宇B
+    .. grid-item:: 英文:Michiru Saotome。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第3话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:80。
+        :columns: auto
+
+
+    .. grid-item:: EXP:160。
+        :columns: auto
+
+
+    .. grid-item:: 编码:4B。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7BF0 (2B4A2)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7C01(2B4B4)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆B海C宇B。
+        :columns: auto
+
 
 
 .. grid:: 

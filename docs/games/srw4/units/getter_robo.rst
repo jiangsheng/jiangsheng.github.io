@@ -1,5 +1,5 @@
 .. meta::
-   :description: ゲッターロボ/ゲッターロボG机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。ゲッター1, ゲッター2, ゲッター3, ゲッタードラゴン, ゲッターライガー, ゲッターポセイドン, 真・ゲッター1, 真・ゲッター2, 真・ゲッター3, テキサスマック, メカザウルス・サキ, メカザウルス・バド, メカザウルス・ザイ, メカザウルス・ゼンII, メカザウルス・ダイ, メカザウルス・シグ, メカザウルス・ズー 
+   :description: ゲッターロボ/ゲッターロボG机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。ゲッター1, ゲッター2, ゲッター3, ゲッタードラゴン, ゲッターライガー, ゲッターポセイドン, 真·ゲッター1, 真·ゲッター2, 真·ゲッター3, テキサスマック, メカザウルス·サキ, メカザウルス·バド, メカザウルス·ザイ, メカザウルス·ゼンII, メカザウルス·ダイ, メカザウルス·シグ, メカザウルス·ズー 
 .. _srw4_units_getter_robo:
 
 ====================================
@@ -7,6 +7,12 @@
 ====================================
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
+
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
 
 .. _srw4_units_getter_robo_commentBegin:
 
@@ -27,9 +33,9 @@
 
 .. _srw4_units_getter_robo_own_commentEnd:
 
-^^^^^^^^^^
-ゲッター1
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+ゲッター1(盖塔1)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_getter_1:
 
@@ -56,33 +62,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Getter 1
+            .. grid-item:: 英文:Getter 1。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 18
+            .. grid-item:: 编码:18。
                 :columns: auto
 
-            .. grid-item:: 地址 B98EA (265D9)
+            .. grid-item:: 地址 B98EA (265D9)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B990A (265F9)
+            .. grid-item:: 武器首地址:B990A (265F9)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆B海D宇A→B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`流竜馬 <srw4_pilot_ryoma_nagare>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆B海D宇A→B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`流竜馬 <srw4_pilot_ryoma_nagare>`\ 。
                 :columns: auto
 
 
@@ -163,7 +169,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -236,9 +242,9 @@
 
 .. _srw4_unit_getter_1_commentEnd:
 
-^^^^^^^^^^
-ゲッター2
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+ゲッター2(盖塔2)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_getter_2:
 
@@ -265,40 +271,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Getter 2
+            .. grid-item:: 英文:Getter 2。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 19
+            .. grid-item:: 编码:19。
                 :columns: auto
 
-            .. grid-item:: 地址 B9918 (26607)
+            .. grid-item:: 地址 B9918 (26607)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9938 (26627)
+            .. grid-item:: 武器首地址:B9938 (26627)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸地中
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海C宇B
+            .. grid-item:: 移动类型:陸地中。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`神隼人 <srw4_pilot_hayato_jin>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`神隼人 <srw4_pilot_hayato_jin>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_0A.png
                 :columns: auto
 
-            .. grid-item:: 分身
+            .. grid-item:: 技能: 分身。
                 :columns: auto
 
 
@@ -376,7 +382,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -445,9 +451,9 @@
 
 .. _srw4_unit_getter_2_commentEnd:
 
-^^^^^^^^^^
-ゲッター3
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+ゲッター3(盖塔3)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_getter_3:
 
@@ -474,33 +480,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Getter 3
+            .. grid-item:: 英文:Getter 3。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 1A
+            .. grid-item:: 编码:1A。
                 :columns: auto
 
-            .. grid-item:: 地址 B9946 (26635)
+            .. grid-item:: 地址 B9946 (26635)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9966 (26655)
+            .. grid-item:: 武器首地址:B9966 (26655)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 水陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A→B海A宇B
+            .. grid-item:: 移动类型:水陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`車弁慶 <srw4_pilot_benkei_kuruma>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A→B海A宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`車弁慶 <srw4_pilot_benkei_kuruma>`\ 。
                 :columns: auto
 
 
@@ -581,7 +587,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -637,9 +643,9 @@
 
 .. _srw4_unit_getter_3_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ゲッタードラゴン
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ゲッタードラゴン(盖塔龙)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_getter_dragon:
 
@@ -666,33 +672,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Getter Dragon
+            .. grid-item:: 英文:Getter Dragon。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第25话
+            .. grid-item:: 登场/加入:第25话。
                 :columns: auto
 
-            .. grid-item:: 编码 1B
+            .. grid-item:: 编码:1B。
                 :columns: auto
 
-            .. grid-item:: 地址 B9972 (26661)
+            .. grid-item:: 地址 B9972 (26661)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9992 (26681)
+            .. grid-item:: 武器首地址:B9992 (26681)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆B海D宇A→B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`流竜馬 <srw4_pilot_ryoma_nagare>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆B海D宇A→B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`流竜馬 <srw4_pilot_ryoma_nagare>`\ 。
                 :columns: auto
 
 
@@ -773,7 +779,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -853,9 +859,9 @@
 
 .. _srw4_unit_getter_dragon_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ゲッターライガー
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ゲッターライガー(盖塔狮虎)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_getter_liger:
 
@@ -882,40 +888,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Getter Liger
+            .. grid-item:: 英文:Getter Liger。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第25话
+            .. grid-item:: 登场/加入:第25话。
                 :columns: auto
 
-            .. grid-item:: 编码 1C
+            .. grid-item:: 编码:1C。
                 :columns: auto
 
-            .. grid-item:: 地址 B99A3 (26692)
+            .. grid-item:: 地址 B99A3 (26692)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B99C3 (266B2)
+            .. grid-item:: 武器首地址:B99C3 (266B2)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸地中
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海B宇B
+            .. grid-item:: 移动类型:陸地中。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`神隼人 <srw4_pilot_hayato_jin>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海B宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`神隼人 <srw4_pilot_hayato_jin>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_0A.png
                 :columns: auto
 
-            .. grid-item:: 分身
+            .. grid-item:: 技能: 分身。
                 :columns: auto
 
 
@@ -993,7 +999,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1046,9 +1052,9 @@
 
 .. _srw4_unit_getter_liger_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-ゲッターポセイドン
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ゲッターポセイドン(盖塔海皇)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_getter_poseidon:
 
@@ -1075,33 +1081,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Getter Poseidon
+            .. grid-item:: 英文:Getter Poseidon。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第25话
+            .. grid-item:: 登场/加入:第25话。
                 :columns: auto
 
-            .. grid-item:: 编码 1D
+            .. grid-item:: 编码:1D。
                 :columns: auto
 
-            .. grid-item:: 地址 B99CE (266BD)
+            .. grid-item:: 地址 B99CE (266BD)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B99EE (266DD)
+            .. grid-item:: 武器首地址:B99EE (266DD)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 水陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A→B海A宇B
+            .. grid-item:: 移动类型:水陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`車弁慶 <srw4_pilot_benkei_kuruma>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A→B海A宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`車弁慶 <srw4_pilot_benkei_kuruma>`\ 。
                 :columns: auto
 
 
@@ -1182,7 +1188,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1247,9 +1253,9 @@
 
 .. _srw4_unit_getter_poseidon_commentEnd:
 
-^^^^^^^^^^^^^^
-真・ゲッター1
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+真·ゲッター1(真·盖塔1)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_shin_getter_1:
 
@@ -1276,40 +1282,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Shin Getter-1
+            .. grid-item:: 英文:Shin Getter-1。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第35话
+            .. grid-item:: 登场/加入:第35话。
                 :columns: auto
 
-            .. grid-item:: 编码 FC
+            .. grid-item:: 编码:FC。
                 :columns: auto
 
-            .. grid-item:: 地址 BC164 (28E53)
+            .. grid-item:: 地址 BC164 (28E53)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC184 (28E73)
+            .. grid-item:: 武器首地址:BC184 (28E73)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A→B海D宇A→B
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`流竜馬 <srw4_pilot_ryoma_nagare>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A→B海D宇A→B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`流竜馬 <srw4_pilot_ryoma_nagare>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_09.png
                 :columns: auto
 
-            .. grid-item:: HP恢復(小)
+            .. grid-item:: 技能: HP恢復(小)。
                 :columns: auto
 
 
@@ -1387,7 +1393,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1452,9 +1458,9 @@
 
 .. _srw4_unit_shin_getter_1_commentEnd:
 
-^^^^^^^^^^^^^^
-真・ゲッター2
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+真·ゲッター2(真·盖塔2)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_shin_getter_2:
 
@@ -1481,40 +1487,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Shin Getter-2
+            .. grid-item:: 英文:Shin Getter-2。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第35话
+            .. grid-item:: 登场/加入:第35话。
                 :columns: auto
 
-            .. grid-item:: 编码 FD
+            .. grid-item:: 编码:FD。
                 :columns: auto
 
-            .. grid-item:: 地址 BC192 (28E81)
+            .. grid-item:: 地址 BC192 (28E81)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC1B2 (28EA1)
+            .. grid-item:: 武器首地址:BC1B2 (28EA1)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸地中
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海B宇A→B
+            .. grid-item:: 移动类型:陸地中。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`神隼人 <srw4_pilot_hayato_jin>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海B宇A→B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`神隼人 <srw4_pilot_hayato_jin>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_0A.png
                 :columns: auto
 
-            .. grid-item:: 分身, HP恢復(小)
+            .. grid-item:: 技能: 分身、HP恢復(小)。
                 :columns: auto
 
 
@@ -1592,7 +1598,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1657,9 +1663,9 @@
 
 .. _srw4_unit_shin_getter_2_commentEnd:
 
-^^^^^^^^^^^^^^
-真・ゲッター3
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+真·ゲッター3(真·盖塔3)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_shin_getter_3:
 
@@ -1686,40 +1692,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Shin Getter-3
+            .. grid-item:: 英文:Shin Getter-3。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第35话
+            .. grid-item:: 登场/加入:第35话。
                 :columns: auto
 
-            .. grid-item:: 编码 FE
+            .. grid-item:: 编码:FE。
                 :columns: auto
 
-            .. grid-item:: 地址 BC1C0 (28EAC)
+            .. grid-item:: 地址 BC1C0 (28EAC)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC1E0 (28ECC)
+            .. grid-item:: 武器首地址:BC1E0 (28ECC)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 水陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A→B海A宇B
+            .. grid-item:: 移动类型:水陸。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`車弁慶 <srw4_pilot_benkei_kuruma>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A→B海A宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`車弁慶 <srw4_pilot_benkei_kuruma>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_0B.png
                 :columns: auto
 
-            .. grid-item:: HP恢復(小)
+            .. grid-item:: 技能: HP恢復(小)。
                 :columns: auto
 
 
@@ -1797,7 +1803,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1848,9 +1854,9 @@
 
 .. _srw4_unit_shin_getter_3_commentEnd:
 
-^^^^^^^^^^^^^^
-テキサスマック
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+テキサスマック(德州牛仔)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_texas_mack:
 
@@ -1877,33 +1883,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Texas Mack
+            .. grid-item:: 英文:Texas Mack。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 10A
+            .. grid-item:: 编码:10A。
                 :columns: auto
 
-            .. grid-item:: 地址 BC37A (29066)
+            .. grid-item:: 地址 BC37A (29066)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC39A (29086)
+            .. grid-item:: 武器首地址:BC39A (29086)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 水陸空
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆A海A宇B→C
+            .. grid-item:: 移动类型:水陸空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ジャック・キング <srw4_pilot_jack_king>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海A宇B→C。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ジャック・キング <srw4_pilot_jack_king>`\ 。
                 :columns: auto
 
 
@@ -1984,7 +1990,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2057,9 +2063,9 @@
 
 .. _srw4_units_getter_robo_enemy_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-メカザウルス・バド
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+メカザウルス·バド(机械恐龙·巴德)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mechasaurus_bado:
 
@@ -2086,29 +2092,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mechasaurus Bado
+            .. grid-item:: 英文:Mechasaurus Bado。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 90
+            .. grid-item:: 编码:90。
                 :columns: auto
 
-            .. grid-item:: 地址 BAED1 (27BC0)
+            .. grid-item:: 地址 BAED1 (27BC0)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAEF1 (27BE0)
+            .. grid-item:: 武器首地址:BAEF1 (27BE0)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆🚫海🚫宇🚫
+            .. grid-item:: 地形适应:空A陆🚫海🚫宇🚫。
                 :columns: auto
 
 
@@ -2186,7 +2192,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2225,9 +2231,9 @@
 
 .. _srw4_unit_mechasaurus_bado_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-メカザウルス・サキ
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+メカザウルス·サキ(机械恐龙·萨基)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mechasaurus_saki:
 
@@ -2254,29 +2260,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mechasaurus Saki
+            .. grid-item:: 英文:Mechasaurus Saki。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第2话
+            .. grid-item:: 登场/加入:第2话。
                 :columns: auto
 
-            .. grid-item:: 编码 8F
+            .. grid-item:: 编码:8F。
                 :columns: auto
 
-            .. grid-item:: 地址 BAEA9 (27B98)
+            .. grid-item:: 地址 BAEA9 (27B98)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAEC9 (27BB8)
+            .. grid-item:: 武器首地址:BAEC9 (27BB8)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸
+            .. grid-item:: 移动类型:陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆A海B宇🚫
+            .. grid-item:: 地形适应:空🚫陆A海B宇🚫。
                 :columns: auto
 
 
@@ -2354,7 +2360,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2393,9 +2399,9 @@
 
 .. _srw4_unit_mechasaurus_saki_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-メカザウルス・ザイ
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+メカザウルス·ザイ(机械恐龙·扎伊)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mechasaurus_zai:
 
@@ -2422,29 +2428,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mechasaurus Zai
+            .. grid-item:: 英文:Mechasaurus Zai。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第3话
+            .. grid-item:: 登场/加入:第3话。
                 :columns: auto
 
-            .. grid-item:: 编码 91
+            .. grid-item:: 编码:91。
                 :columns: auto
 
-            .. grid-item:: 地址 BAEF9 (27BE8)
+            .. grid-item:: 地址 BAEF9 (27BE8)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAF19 (27C08)
+            .. grid-item:: 武器首地址:BAF19 (27C08)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸
+            .. grid-item:: 移动类型:陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆A海B宇🚫
+            .. grid-item:: 地形适应:空🚫陆A海B宇🚫。
                 :columns: auto
 
 
@@ -2522,7 +2528,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2561,9 +2567,9 @@
 
 .. _srw4_unit_mechasaurus_zai_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^
-メカザウルス・ゼンII
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+メカザウルス·ゼンII(机械恐龙·曾II)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mechasaurus_zen_ii:
 
@@ -2590,29 +2596,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mechasaurus Zen II
+            .. grid-item:: 英文:Mechasaurus Zen II。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第3话
+            .. grid-item:: 登场/加入:第3话。
                 :columns: auto
 
-            .. grid-item:: 编码 92
+            .. grid-item:: 编码:92。
                 :columns: auto
 
-            .. grid-item:: 地址 BAF21 (27C10)
+            .. grid-item:: 地址 BAF21 (27C10)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAF41 (27C30)
+            .. grid-item:: 武器首地址:BAF41 (27C30)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸
+            .. grid-item:: 移动类型:陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆A海B宇🚫
+            .. grid-item:: 地形适应:空🚫陆A海B宇🚫。
                 :columns: auto
 
 
@@ -2690,7 +2696,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2729,9 +2735,9 @@
 
 .. _srw4_unit_mechasaurus_zen_ii_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-メカザウルス・ズー
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+メカザウルス·ズー(机械恐龙·兹)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mechasaurus_zuu:
 
@@ -2758,29 +2764,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mechasaurus Zuu
+            .. grid-item:: 英文:Mechasaurus Zuu。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 11E
+            .. grid-item:: 编码:11E。
                 :columns: auto
 
-            .. grid-item:: 地址 BC6DF (293CB)
+            .. grid-item:: 地址 BC6DF (293CB)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC6FF (293EB)
+            .. grid-item:: 武器首地址:BC6FF (293EB)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 水陸
+            .. grid-item:: 移动类型:水陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 M
+            .. grid-item:: 大小 M。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆B海A宇🚫
+            .. grid-item:: 地形适应:空🚫陆B海A宇🚫。
                 :columns: auto
 
 
@@ -2858,7 +2864,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2910,9 +2916,9 @@
 
 .. _srw4_unit_mechasaurus_zuu_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-メカザウルス・ダイ
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+メカザウルス·ダイ(机械恐龙·达伊)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mechasaurus_dai:
 
@@ -2939,29 +2945,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mechasaurus Dai
+            .. grid-item:: 英文:Mechasaurus Dai。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第15话
+            .. grid-item:: 登场/加入:第15话。
                 :columns: auto
 
-            .. grid-item:: 编码 93
+            .. grid-item:: 编码:93。
                 :columns: auto
 
-            .. grid-item:: 地址 BAF49 (27C38)
+            .. grid-item:: 地址 BAF49 (27C38)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAF69 (27C58)
+            .. grid-item:: 武器首地址:BAF69 (27C58)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 水陸
+            .. grid-item:: 移动类型:水陸。
                 :columns: auto
 
 
-            .. grid-item:: 大小 LL
+            .. grid-item:: 大小 LL。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆A海A宇🚫
+            .. grid-item:: 地形适应:空🚫陆A海A宇🚫。
                 :columns: auto
 
 
@@ -3039,7 +3045,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -3077,9 +3083,9 @@
 
 .. _srw4_unit_mechasaurus_dai_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-メカザウルス・シグ
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+メカザウルス·シグ(机械恐龙·西格)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_mechasaurus_shigu:
 
@@ -3106,29 +3112,29 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Mechasaurus Shigu
+            .. grid-item:: 英文:Mechasaurus Shigu。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第15话
+            .. grid-item:: 登场/加入:第15话。
                 :columns: auto
 
-            .. grid-item:: 编码 94
+            .. grid-item:: 编码:94。
                 :columns: auto
 
-            .. grid-item:: 地址 BAF71 (27C60)
+            .. grid-item:: 地址 BAF71 (27C60)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAF91 (27C80)
+            .. grid-item:: 武器首地址:BAF91 (27C80)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 水陸空
+            .. grid-item:: 移动类型:水陸空。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆A海A宇🚫
+            .. grid-item:: 地形适应:空A陆A海A宇🚫。
                 :columns: auto
 
 
@@ -3206,7 +3212,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

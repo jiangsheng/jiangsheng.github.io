@@ -1,5 +1,5 @@
 .. meta::
-   :description: 機動戦士Zガンダム机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。ネモ, バイアラン, ガブスレイ (MS), ガブスレイ (MA), 百式, メタス (MS), メタス (MA), アーガマ, ガンダム Mk-II, Gディフェンサー, スーパーガンダム, Ζガンダム, ウェイブライダー, アレキサンドリア, アイリッシュ, ドゴス・ギア, アウドムラ, マラサイ, バーザム, ハンブラビ (MS), ハンブラビ (MA), アッシマー (MS), アッシマー (MA), サイコガンダム (MS), サイコガンダム (MA), バウンド・ドック (MS), バウンド・ドック (MA), サイコガンダム Mk-II (MS), サイコガンダム Mk-II (MA), ブラウ・ブロ, ビグロ, キュベレイ, スードリ 
+   :description: 機動戦士Zガンダム机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。ネモ, バイアラン, ガブスレイ (MS), ガブスレイ (MA), 百式, メタス (MS), メタス (MA), アーガマ, ガンダム Mk-II, Gディフェンサー, スーパーガンダム, Ζガンダム, ウェイブライダー, アレキサンドリア, アイリッシュ, ドゴス·ギア, アウドムラ, マラサイ, バーザム, ハンブラビ (MS), ハンブラビ (MA), アッシマー (MS), アッシマー (MA), サイコガンダム (MS), サイコガンダム (MA), バウンド·ドック (MS), バウンド·ドック (MA), サイコガンダム Mk-II (MS), サイコガンダム Mk-II (MA), ブラウ·ブロ, ビグロ, キュベレイ, スードリ 
 .. _srw4_units_mobile_suit_z_gundam:
 
 ==========================
@@ -7,6 +7,12 @@
 ==========================
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
+
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
 
 .. _srw4_units_mobile_suit_z_gundam_commentBegin:
 
@@ -21,9 +27,9 @@
 
 .. _srw4_units_mobile_suit_z_gundam_own_commentEnd:
 
-^^^^^^^^^^^^^^^^
-メタス (MS)
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+メタス (MS)(MS型梅塔斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_methuss_ms:
 
@@ -50,40 +56,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Methuss (MS)
+            .. grid-item:: 英文:Methuss (MS)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 72
+            .. grid-item:: 编码:72。
                 :columns: auto
 
-            .. grid-item:: 地址 BA976 (27665)
+            .. grid-item:: 地址 BA976 (27665)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA996 (27685)
+            .. grid-item:: 武器首地址:BA996 (27685)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→C陆B海C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ファ・ユイリィ <srw4_pilot_fa_yuiry>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→C陆B海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ファ・ユイリィ <srw4_pilot_fa_yuiry>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_2A.png
                 :columns: auto
 
-            .. grid-item:: 剣装備
+            .. grid-item:: 技能: 剣装備。
                 :columns: auto
 
 
@@ -161,7 +167,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -219,9 +225,9 @@
 
 .. _srw4_unit_methuss_ms_commentEnd:
 
-^^^^^^^^^^^^^^^^
-メタス (MA)
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+メタス (MA)(MA型梅塔斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_methuss_ma:
 
@@ -248,33 +254,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Methuss (MA)
+            .. grid-item:: 英文:Methuss (MA)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 73
+            .. grid-item:: 编码:73。
                 :columns: auto
 
-            .. grid-item:: 地址 BA9A1 (27690)
+            .. grid-item:: 地址 BA9A1 (27690)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA9C1 (276B0)
+            .. grid-item:: 武器首地址:BA9C1 (276B0)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B陆🚫→D海🚫→D宇A
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ファ・ユイリィ <srw4_pilot_fa_yuiry>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B陆🚫→D海🚫→D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ファ・ユイリィ <srw4_pilot_fa_yuiry>`\ 。
                 :columns: auto
 
 
@@ -355,7 +361,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -394,9 +400,9 @@
 
 .. _srw4_unit_methuss_ma_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-ガンダム Mk-II
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ガンダム Mk-II(高达 Mk-II)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_gundam_mk_ii:
 
@@ -423,40 +429,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Gundam Mk-II
+            .. grid-item:: 英文:Gundam Mk-II。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 103
+            .. grid-item:: 编码:103。
                 :columns: auto
 
-            .. grid-item:: 地址 BC244 (28F30)
+            .. grid-item:: 地址 BC244 (28F30)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC264 (28F50)
+            .. grid-item:: 武器首地址:BC264 (28F50)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B (🚫)→B (D)陆B海C宇A→B
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`エマ・シーン <srw4_pilot_emma_sheen>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B (🚫)→B (D)陆B海C宇A→B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`エマ・シーン <srw4_pilot_emma_sheen>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_28.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備
+            .. grid-item:: 技能: 盾装備、剣装備。
                 :columns: auto
 
 
@@ -534,7 +540,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -614,9 +620,9 @@
 
 .. _srw4_unit_gundam_mk_ii_commentEnd:
 
-^^^^^^^^^^^^^^^^
-Gディフェンサー
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Gディフェンサー(G-防卫号)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_g_defender:
 
@@ -643,33 +649,33 @@ Gディフェンサー
             :padding: 0
 
 
-            .. grid-item:: 英文:G Defender
+            .. grid-item:: 英文:G Defender。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第10话
+            .. grid-item:: 登场/加入:第10话。
                 :columns: auto
 
-            .. grid-item:: 编码 104
+            .. grid-item:: 编码:104。
                 :columns: auto
 
-            .. grid-item:: 地址 BC275 (28F61)
+            .. grid-item:: 地址 BC275 (28F61)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC295 (28F81)
+            .. grid-item:: 武器首地址:BC295 (28F81)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 S
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→D海🚫→D宇A
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`カツ・コバヤシ <srw4_pilot_katz_kobayashi>`\ 
+            .. grid-item:: 大小 S。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→D海🚫→D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`カツ・コバヤシ <srw4_pilot_katz_kobayashi>`\ 。
                 :columns: auto
 
 
@@ -750,7 +756,7 @@ Gディフェンサー
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -793,9 +799,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_g_defender_commentEnd:
 
-^^^^^^^^^^^^^^^^
-スーパーガンダム
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+スーパーガンダム(超级高达)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_super_gundam:
 
@@ -822,40 +828,40 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Super Gundam
+            .. grid-item:: 英文:Super Gundam。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第10话
+            .. grid-item:: 登场/加入:第10话。
                 :columns: auto
 
-            .. grid-item:: 编码 105
+            .. grid-item:: 编码:105。
                 :columns: auto
 
-            .. grid-item:: 地址 BC29D (28F89)
+            .. grid-item:: 地址 BC29D (28F89)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC2BD (28FA9)
+            .. grid-item:: 武器首地址:BC2BD (28FA9)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸 (陸宇)
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B (🚫)→B (D)陆A海C宇A→B
+            .. grid-item:: 移动类型:空陸 (陸宇)。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`エマ・シーン <srw4_pilot_emma_sheen>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B (🚫)→B (D)陆A海C宇A→B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`エマ・シーン <srw4_pilot_emma_sheen>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_28.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備
+            .. grid-item:: 技能: 盾装備、剣装備。
                 :columns: auto
 
 
@@ -933,7 +939,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1046,9 +1052,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_super_gundam_commentEnd:
 
-^^^^
-ネモ
-^^^^
+^^^^^^^^^^^^
+ネモ(尼莫)
+^^^^^^^^^^^^
 
 .. _srw4_unit_nemo:
 
@@ -1075,40 +1081,40 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Nemo
+            .. grid-item:: 英文:Nemo。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第5话
+            .. grid-item:: 登场/加入:第5话。
                 :columns: auto
 
-            .. grid-item:: 编码 13
+            .. grid-item:: 编码:13。
                 :columns: auto
 
-            .. grid-item:: 地址 B9801 (264F0)
+            .. grid-item:: 地址 B9801 (264F0)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9821 (26510)
+            .. grid-item:: 武器首地址:B9821 (26510)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆B (A)海C宇A→B
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ハサウェイ・ノア <srw4_pilot_hathaway_noah>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆B (A)海C宇A→B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ハサウェイ・ノア <srw4_pilot_hathaway_noah>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_3D.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備
+            .. grid-item:: 技能: 盾装備、剣装備。
                 :columns: auto
 
 
@@ -1186,7 +1192,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1244,9 +1250,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_nemo_commentEnd:
 
-^^^^^^^^
-アーガマ
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+アーガマ(亚加玛)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_argama:
 
@@ -1273,33 +1279,33 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Argama
+            .. grid-item:: 英文:Argama。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第6话
+            .. grid-item:: 登场/加入:第6话。
                 :columns: auto
 
-            .. grid-item:: 编码 D9
+            .. grid-item:: 编码:D9。
                 :columns: auto
 
-            .. grid-item:: 地址 BBB15 (28804)
+            .. grid-item:: 地址 BBB15 (28804)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBB35 (28824)
+            .. grid-item:: 武器首地址:BBB35 (28824)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B陆🚫→D海🚫→D宇A
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ブライト・ノア <srw4_pilot_bright_noah>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B陆🚫→D海🚫→D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ブライト・ノア <srw4_pilot_bright_noah>`\ 。
                 :columns: auto
 
 
@@ -1380,7 +1386,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1464,9 +1470,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_argama_commentEnd:
 
-^^^^^^^^^^
-Ζガンダム
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+Ζガンダム(Z高达)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_z_gundam:
 
@@ -1493,40 +1499,40 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Z Gundam
+            .. grid-item:: 英文:Z Gundam。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第10话
+            .. grid-item:: 登场/加入:第10话。
                 :columns: auto
 
-            .. grid-item:: 编码 112
+            .. grid-item:: 编码:112。
                 :columns: auto
 
-            .. grid-item:: 地址 BC4CF (291BB)
+            .. grid-item:: 地址 BC4CF (291BB)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC4EF (291DB)
+            .. grid-item:: 武器首地址:BC4EF (291DB)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→C陆A海C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`カミーユ・ビダン <srw4_pilot_kamille_bidan>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→C陆A海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`カミーユ・ビダン <srw4_pilot_kamille_bidan>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_51.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備
+            .. grid-item:: 技能: 盾装備、剣装備。
                 :columns: auto
 
 
@@ -1604,7 +1610,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1701,9 +1707,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_z_gundam_commentEnd:
 
-^^^^^^^^^^^^^^^^
-ウェイブライダー
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ウェイブライダー(冲浪者)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_wave_rider:
 
@@ -1730,33 +1736,33 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Wave Rider
+            .. grid-item:: 英文:Wave Rider。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第10话
+            .. grid-item:: 登场/加入:第10话。
                 :columns: auto
 
-            .. grid-item:: 编码 113
+            .. grid-item:: 编码:113。
                 :columns: auto
 
-            .. grid-item:: 地址 BC503 (291EF)
+            .. grid-item:: 地址 BC503 (291EF)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC523 (2920F)
+            .. grid-item:: 武器首地址:BC523 (2920F)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→C海🚫→D宇A
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`カミーユ・ビダン <srw4_pilot_kamille_bidan>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→C海🚫→D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`カミーユ・ビダン <srw4_pilot_kamille_bidan>`\ 。
                 :columns: auto
 
 
@@ -1837,7 +1843,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1888,9 +1894,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_wave_rider_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-ガブスレイ (MS)
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ガブスレイ (MS)(MS型卡普司利)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_gabthley_ms:
 
@@ -1917,40 +1923,40 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Gabthley (MS)
+            .. grid-item:: 英文:Gabthley (MS)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第20话
+            .. grid-item:: 登场/加入:第20话。
                 :columns: auto
 
-            .. grid-item:: 编码 6B
+            .. grid-item:: 编码:6B。
                 :columns: auto
 
-            .. grid-item:: 地址 BA846 (27535)
+            .. grid-item:: 地址 BA846 (27535)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA866 (27555)
+            .. grid-item:: 武器首地址:BA866 (27555)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆B海C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`サラ・ザビアロフ <srw4_pilot_sarah_zabiarov>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆B海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`サラ・ザビアロフ <srw4_pilot_sarah_zabiarov>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_82.png
                 :columns: auto
 
-            .. grid-item:: 剣装備
+            .. grid-item:: 技能: 剣装備。
                 :columns: auto
 
 
@@ -2028,7 +2034,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2081,9 +2087,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_gabthley_ms_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-ガブスレイ (MA)
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ガブスレイ (MA)(MA型卡普司利)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_gabthley_ma:
 
@@ -2110,33 +2116,33 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Gabthley (MA)
+            .. grid-item:: 英文:Gabthley (MA)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第20话
+            .. grid-item:: 登场/加入:第20话。
                 :columns: auto
 
-            .. grid-item:: 编码 6C
+            .. grid-item:: 编码:6C。
                 :columns: auto
 
-            .. grid-item:: 地址 BA871 (27560)
+            .. grid-item:: 地址 BA871 (27560)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA891 (27580)
+            .. grid-item:: 武器首地址:BA891 (27580)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B→C陆🚫→C海🚫→D宇A
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`サラ・ザビアロフ <srw4_pilot_sarah_zabiarov>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B→C陆🚫→C海🚫→D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`サラ・ザビアロフ <srw4_pilot_sarah_zabiarov>`\ 。
                 :columns: auto
 
 
@@ -2217,7 +2223,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2262,9 +2268,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_gabthley_ma_commentEnd:
 
-^^^^^^^^^^
-バイアラン
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+バイアラン(拜亚兰)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_byarlant:
 
@@ -2291,33 +2297,33 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Byarlant
+            .. grid-item:: 英文:Byarlant。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第23话
+            .. grid-item:: 登场/加入:第23话。
                 :columns: auto
 
-            .. grid-item:: 编码 6A
+            .. grid-item:: 编码:6A。
                 :columns: auto
 
-            .. grid-item:: 地址 BA81E (2750D)
+            .. grid-item:: 地址 BA81E (2750D)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA83E (2752D)
+            .. grid-item:: 武器首地址:BA83E (2752D)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空陸
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆B海D宇A
+            .. grid-item:: 移动类型:空陸。
                 :columns: auto
 
 
-            .. grid-item:: 剣装備
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆B海D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 技能: 剣装備。
                 :columns: auto
 
 
@@ -2395,7 +2401,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2469,40 +2475,40 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Hyaku Shiki
+            .. grid-item:: 英文:Hyaku Shiki。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第24话
+            .. grid-item:: 登场/加入:第24话。
                 :columns: auto
 
-            .. grid-item:: 编码 71
+            .. grid-item:: 编码:71。
                 :columns: auto
 
-            .. grid-item:: 地址 BA945 (27634)
+            .. grid-item:: 地址 BA945 (27634)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA965 (27654)
+            .. grid-item:: 武器首地址:BA965 (27654)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫 (B)→D (B)陆B (A)海C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`クワトロ・バジーナ <srw4_pilot_quattro_bajeena>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫 (B)→D (B)陆B (A)海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`クワトロ・バジーナ <srw4_pilot_quattro_bajeena>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_20.png
                 :columns: auto
 
-            .. grid-item:: 剣装備
+            .. grid-item:: 技能: 剣装備。
                 :columns: auto
 
 
@@ -2580,7 +2586,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2668,9 +2674,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_units_mobile_suit_z_gundam_enemy_commentEnd:
 
-^^^^^^^^
-マラサイ
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+マラサイ(玛拉塞)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_marasai:
 
@@ -2697,33 +2703,33 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Marasai
+            .. grid-item:: 英文:Marasai。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第2话
+            .. grid-item:: 登场/加入:第2话。
                 :columns: auto
 
-            .. grid-item:: 编码 62
+            .. grid-item:: 编码:62。
                 :columns: auto
 
-            .. grid-item:: 地址 BA6CF (273BE)
+            .. grid-item:: 地址 BA6CF (273BE)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA6EF (273DE)
+            .. grid-item:: 武器首地址:BA6EF (273DE)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫陆B海D宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 盾装備, 剣装備
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫陆B海D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 技能: 盾装備、剣装備。
                 :columns: auto
 
 
@@ -2801,7 +2807,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2853,9 +2859,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_marasai_commentEnd:
 
-^^^^^^^^
-バーザム
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+バーザム(巴扎姆)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_barzam:
 
@@ -2882,33 +2888,33 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Barzam
+            .. grid-item:: 英文:Barzam。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 63
+            .. grid-item:: 编码:63。
                 :columns: auto
 
-            .. grid-item:: 地址 BA6FA (273E9)
+            .. grid-item:: 地址 BA6FA (273E9)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA71A (27409)
+            .. grid-item:: 武器首地址:BA71A (27409)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫陆B海C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 剣装備
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫陆B海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 技能: 剣装備。
                 :columns: auto
 
 
@@ -2986,7 +2992,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -3038,9 +3044,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_barzam_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-アッシマー (MS)
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+アッシマー (MS)(MS型阿希玛)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_asshimar_ms:
 
@@ -3067,29 +3073,29 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Asshimar (MS)
+            .. grid-item:: 英文:Asshimar (MS)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第18话
+            .. grid-item:: 登场/加入:第18话。
                 :columns: auto
 
-            .. grid-item:: 编码 66
+            .. grid-item:: 编码:66。
                 :columns: auto
 
-            .. grid-item:: 地址 BA77B (2746A)
+            .. grid-item:: 地址 BA77B (2746A)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA79B (2748A)
+            .. grid-item:: 武器首地址:BA79B (2748A)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 大小 M
+            .. grid-item:: 大小 M。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆A海B宇🚫
+            .. grid-item:: 地形适应:空🚫陆A海B宇🚫。
                 :columns: auto
 
 
@@ -3167,7 +3173,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -3205,9 +3211,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_asshimar_ms_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-アッシマー (MA)
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+アッシマー (MA)(MA型阿希玛)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_asshimar_ma:
 
@@ -3234,29 +3240,29 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Asshimar (MA)
+            .. grid-item:: 英文:Asshimar (MA)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第19话
+            .. grid-item:: 登场/加入:第19话。
                 :columns: auto
 
-            .. grid-item:: 编码 67
+            .. grid-item:: 编码:67。
                 :columns: auto
 
-            .. grid-item:: 地址 BA7A3 (27492)
+            .. grid-item:: 地址 BA7A3 (27492)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA7C3 (274B2)
+            .. grid-item:: 武器首地址:BA7C3 (274B2)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 大小 M
+            .. grid-item:: 大小 M。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆🚫海🚫宇🚫
+            .. grid-item:: 地形适应:空A陆🚫海🚫宇🚫。
                 :columns: auto
 
 
@@ -3334,7 +3340,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -3359,9 +3365,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_asshimar_ma_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-ハンブラビ (MS)
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ハンブラビ (MS)(MS型汉布拉比)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_hambrabi_ms:
 
@@ -3388,33 +3394,33 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Hambrabi (MS)
+            .. grid-item:: 英文:Hambrabi (MS)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第23话
+            .. grid-item:: 登场/加入:第23话。
                 :columns: auto
 
-            .. grid-item:: 编码 64
+            .. grid-item:: 编码:64。
                 :columns: auto
 
-            .. grid-item:: 地址 BA725 (27414)
+            .. grid-item:: 地址 BA725 (27414)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA745 (27434)
+            .. grid-item:: 武器首地址:BA745 (27434)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫陆B海C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 剣装備
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫陆B海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 技能: 剣装備。
                 :columns: auto
 
 
@@ -3492,7 +3498,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -3557,9 +3563,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_hambrabi_ms_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-ハンブラビ (MA)
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ハンブラビ (MA)(MA型汉布拉比)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_hambrabi_ma:
 
@@ -3586,29 +3592,29 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Hambrabi (MA)
+            .. grid-item:: 英文:Hambrabi (MA)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 65
+            .. grid-item:: 编码:65。
                 :columns: auto
 
-            .. grid-item:: 地址 BA753 (27442)
+            .. grid-item:: 地址 BA753 (27442)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA773 (27462)
+            .. grid-item:: 武器首地址:BA773 (27462)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 大小 M
+            .. grid-item:: 大小 M。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A陆🚫海🚫宇A
+            .. grid-item:: 地形适应:空A陆🚫海🚫宇A。
                 :columns: auto
 
 
@@ -3686,7 +3692,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -3725,9 +3731,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_hambrabi_ma_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-バウンド・ドック (MS)
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+バウンド·ドック (MS)(MS型猎犬)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_baund_doc_ms:
 
@@ -3754,29 +3760,29 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Baund Doc (MS)
+            .. grid-item:: 英文:Baund Doc (MS)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第23话
+            .. grid-item:: 登场/加入:第23话。
                 :columns: auto
 
-            .. grid-item:: 编码 6D
+            .. grid-item:: 编码:6D。
                 :columns: auto
 
-            .. grid-item:: 地址 BA899 (27588)
+            .. grid-item:: 地址 BA899 (27588)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA8B9 (275A8)
+            .. grid-item:: 武器首地址:BA8B9 (275A8)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 大小 M
+            .. grid-item:: 大小 M。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆B海C宇A
+            .. grid-item:: 地形适应:空🚫陆B海C宇A。
                 :columns: auto
 
 
@@ -3854,7 +3860,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -3905,9 +3911,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_baund_doc_ms_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-バウンド・ドック (MA)
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+バウンド·ドック (MA)(MA型猎犬)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_baund_doc_ma:
 
@@ -3934,29 +3940,29 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Baund Doc (MA)
+            .. grid-item:: 英文:Baund Doc (MA)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第37话
+            .. grid-item:: 登场/加入:第37话。
                 :columns: auto
 
-            .. grid-item:: 编码 6E
+            .. grid-item:: 编码:6E。
                 :columns: auto
 
-            .. grid-item:: 地址 BA8C4 (275B3)
+            .. grid-item:: 地址 BA8C4 (275B3)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA8E4 (275D3)
+            .. grid-item:: 武器首地址:BA8E4 (275D3)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 大小 M
+            .. grid-item:: 大小 M。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空B陆🚫海🚫宇A
+            .. grid-item:: 地形适应:空B陆🚫海🚫宇A。
                 :columns: auto
 
 
@@ -4034,7 +4040,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -4077,9 +4083,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_baund_doc_ma_commentEnd:
 
-^^^^^^
-ビグロ
-^^^^^^
+^^^^^^^^^^^^^^^^
+ビグロ(比古罗)
+^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_bigro:
 
@@ -4106,29 +4112,29 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Bigro
+            .. grid-item:: 英文:Bigro。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第24话
+            .. grid-item:: 登场/加入:第24话。
                 :columns: auto
 
-            .. grid-item:: 编码 75
+            .. grid-item:: 编码:75。
                 :columns: auto
 
-            .. grid-item:: 地址 BA9EE (276DD)
+            .. grid-item:: 地址 BA9EE (276DD)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAA0E (276FD)
+            .. grid-item:: 武器首地址:BAA0E (276FD)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 宇宙
+            .. grid-item:: 移动类型:宇宙。
                 :columns: auto
 
 
-            .. grid-item:: 大小 M
+            .. grid-item:: 大小 M。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A (🚫)陆🚫海🚫宇A
+            .. grid-item:: 地形适应:空A (🚫)陆🚫海🚫宇A。
                 :columns: auto
 
 
@@ -4206,7 +4212,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -4262,9 +4268,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_bigro_commentEnd:
 
-^^^^^^^^^^^^
-ブラウ・ブロ
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ブラウ·ブロ(布劳·布罗)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_braw_bro:
 
@@ -4291,29 +4297,29 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Braw Bro
+            .. grid-item:: 英文:Braw Bro。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第25话
+            .. grid-item:: 登场/加入:第25话。
                 :columns: auto
 
-            .. grid-item:: 编码 74
+            .. grid-item:: 编码:74。
                 :columns: auto
 
-            .. grid-item:: 地址 BA9C9 (276B8)
+            .. grid-item:: 地址 BA9C9 (276B8)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA9E9 (276D8)
+            .. grid-item:: 武器首地址:BA9E9 (276D8)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 宇宙
+            .. grid-item:: 移动类型:宇宙。
                 :columns: auto
 
 
-            .. grid-item:: 大小 L
+            .. grid-item:: 大小 L。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空A (🚫)陆🚫海🚫宇A
+            .. grid-item:: 地形适应:空A (🚫)陆🚫海🚫宇A。
                 :columns: auto
 
 
@@ -4391,7 +4397,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -4416,9 +4422,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_braw_bro_commentEnd:
 
-^^^^^^^^
-スードリ
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+スードリ(苏德里)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_sudori:
 
@@ -4445,33 +4451,33 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Sudori
+            .. grid-item:: 英文:Sudori。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第31话
+            .. grid-item:: 登场/加入:第31话。
                 :columns: auto
 
-            .. grid-item:: 编码 122
+            .. grid-item:: 编码:122。
                 :columns: auto
 
-            .. grid-item:: 地址 BC797 (29483)
+            .. grid-item:: 地址 BC797 (29483)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC7B7 (294A3)
+            .. grid-item:: 武器首地址:BC7B7 (294A3)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空（陸可）
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→D海🚫→D宇🚫→D
+            .. grid-item:: 移动类型:空（陸可）。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ベン・ウッダー <srw4_pilot_ben_wooder>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→D海🚫→D宇🚫→D。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ベン・ウッダー <srw4_pilot_ben_wooder>`\ 。
                 :columns: auto
 
 
@@ -4552,7 +4558,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -4616,9 +4622,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_sudori_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^
-サイコガンダム (MS)
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+サイコガンダム (MS)(MS型精神力高达)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_psycho_gundam_ms:
 
@@ -4645,40 +4651,40 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Psycho Gundam (MS)
+            .. grid-item:: 英文:Psycho Gundam (MS)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第32话
+            .. grid-item:: 登场/加入:第32话。
                 :columns: auto
 
-            .. grid-item:: 编码 68
+            .. grid-item:: 编码:68。
                 :columns: auto
 
-            .. grid-item:: 地址 BA7C8 (274B7)
+            .. grid-item:: 地址 BA7C8 (274B7)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA7E8 (274D7)
+            .. grid-item:: 武器首地址:BA7E8 (274D7)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→C陆A→B海D宇B
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`フォウ・ムラサメ <srw4_pilot_four_murasame>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→C陆A→B海D宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`フォウ・ムラサメ <srw4_pilot_four_murasame>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_2C.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, Iフィールド
+            .. grid-item:: 技能: 盾装備、Iフィールド。
                 :columns: auto
 
 
@@ -4756,7 +4762,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -4807,9 +4813,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_psycho_gundam_ms_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^
-サイコガンダム (MA)
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+サイコガンダム (MA)(MA型精神力高达)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_psycho_gundam_ma:
 
@@ -4836,40 +4842,40 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Psycho Gundam (MA)
+            .. grid-item:: 英文:Psycho Gundam (MA)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第31话
+            .. grid-item:: 登场/加入:第31话。
                 :columns: auto
 
-            .. grid-item:: 编码 69
+            .. grid-item:: 编码:69。
                 :columns: auto
 
-            .. grid-item:: 地址 BA7F3 (274E2)
+            .. grid-item:: 地址 BA7F3 (274E2)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA813 (27502)
+            .. grid-item:: 武器首地址:BA813 (27502)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→D海🚫→D宇B
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`フォウ・ムラサメ <srw4_pilot_four_murasame>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→D海🚫→D宇B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`フォウ・ムラサメ <srw4_pilot_four_murasame>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_2C.png
                 :columns: auto
 
-            .. grid-item:: Iフィールド
+            .. grid-item:: 技能: Iフィールド。
                 :columns: auto
 
 
@@ -4947,7 +4953,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -4998,9 +5004,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_psycho_gundam_ma_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-サイコガンダム Mk-II (MS)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+サイコガンダム Mk-II (MS)(MS型精神力高达 Mk-II)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_psycho_gundam_mk_ii_ms:
 
@@ -5027,40 +5033,40 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Psycho Gundam Mk-II (MS)
+            .. grid-item:: 英文:Psycho Gundam Mk-II (MS)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第36话
+            .. grid-item:: 登场/加入:第36话。
                 :columns: auto
 
-            .. grid-item:: 编码 6F
+            .. grid-item:: 编码:6F。
                 :columns: auto
 
-            .. grid-item:: 地址 BA8EC (275DB)
+            .. grid-item:: 地址 BA8EC (275DB)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA90C (275FB)
+            .. grid-item:: 武器首地址:BA90C (275FB)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆A海D→C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ロザミア・バダム <srw4_pilot_rosamia_badam>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆A海D→C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ロザミア・バダム <srw4_pilot_rosamia_badam>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_8E.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, Iフィールド
+            .. grid-item:: 技能: 盾装備、Iフィールド。
                 :columns: auto
 
 
@@ -5138,7 +5144,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -5202,9 +5208,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_psycho_gundam_mk_ii_ms_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-サイコガンダム Mk-II (MA)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+サイコガンダム Mk-II (MA)(MA型精神力高达 Mk-II)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_psycho_gundam_mk_ii_ma:
 
@@ -5231,40 +5237,40 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Psycho Gundam Mk-II (MA)
+            .. grid-item:: 英文:Psycho Gundam Mk-II (MA)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第37话
+            .. grid-item:: 登场/加入:第37话。
                 :columns: auto
 
-            .. grid-item:: 编码 70
+            .. grid-item:: 编码:70。
                 :columns: auto
 
-            .. grid-item:: 地址 BA91A (27609)
+            .. grid-item:: 地址 BA91A (27609)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA93A (27629)
+            .. grid-item:: 武器首地址:BA93A (27629)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 L
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B陆🚫→C海🚫→D宇A
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ロザミア・バダム <srw4_pilot_rosamia_badam>`\ 
+            .. grid-item:: 大小 L。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B陆🚫→C海🚫→D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ロザミア・バダム <srw4_pilot_rosamia_badam>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_8E.png
                 :columns: auto
 
-            .. grid-item:: Iフィールド
+            .. grid-item:: 技能: Iフィールド。
                 :columns: auto
 
 
@@ -5342,7 +5348,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -5393,9 +5399,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_psycho_gundam_mk_ii_ma_commentEnd:
 
-^^^^^^^^^^
-キュベレイ
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+キュベレイ(卡碧尼)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_qubeley:
 
@@ -5422,40 +5428,40 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Qubeley
+            .. grid-item:: 英文:Qubeley。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第41话
+            .. grid-item:: 登场/加入:第41话。
                 :columns: auto
 
-            .. grid-item:: 编码 7A
+            .. grid-item:: 编码:7A。
                 :columns: auto
 
-            .. grid-item:: 地址 BAADD (277CC)
+            .. grid-item:: 地址 BAADD (277CC)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAAFD (277EC)
+            .. grid-item:: 武器首地址:BAAFD (277EC)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→C陆B海D宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ハマーン・カーン <srw4_pilot_haman_karn>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→C陆B海D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ハマーン・カーン <srw4_pilot_haman_karn>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_87.png
                 :columns: auto
 
-            .. grid-item:: 剣装備, ビームコート
+            .. grid-item:: 技能: 剣装備、ビームコート。
                 :columns: auto
 
 
@@ -5533,7 +5539,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -5592,9 +5598,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_units_mobile_suit_z_gundam_dead_data_commentEnd:
 
-^^^^^^^^^^^^^^^^
-アレキサンドリア
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+アレキサンドリア(亚历山大级重巡洋舰)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_alexandria:
 
@@ -5621,26 +5627,26 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Alexandria
+            .. grid-item:: 英文:Alexandria。
                 :columns: auto
 
-            .. grid-item:: 编码 D7
+            .. grid-item:: 编码:D7。
                 :columns: auto
 
-            .. grid-item:: 地址 BBABC (287AB)
+            .. grid-item:: 地址 BBABC (287AB)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBADC (287CB)
+            .. grid-item:: 武器首地址:BBADC (287CB)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 宇宙
+            .. grid-item:: 移动类型:宇宙。
                 :columns: auto
 
 
-            .. grid-item:: 大小 LL
+            .. grid-item:: 大小 LL。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆🚫海🚫宇A
+            .. grid-item:: 地形适应:空🚫陆🚫海🚫宇A。
                 :columns: auto
 
 
@@ -5718,7 +5724,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -5782,9 +5788,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_alexandria_commentEnd:
 
-^^^^^^^^^^^^
-アイリッシュ
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+アイリッシュ(爱尔兰级宇宙战舰)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_irish:
 
@@ -5811,26 +5817,26 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Irish
+            .. grid-item:: 英文:Irish。
                 :columns: auto
 
-            .. grid-item:: 编码 DA
+            .. grid-item:: 编码:DA。
                 :columns: auto
 
-            .. grid-item:: 地址 BBB46 (28835)
+            .. grid-item:: 地址 BBB46 (28835)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBB66 (28855)
+            .. grid-item:: 武器首地址:BBB66 (28855)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 宇宙
+            .. grid-item:: 移动类型:宇宙。
                 :columns: auto
 
 
-            .. grid-item:: 大小 LL
+            .. grid-item:: 大小 LL。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆🚫海🚫宇A
+            .. grid-item:: 地形适应:空🚫陆🚫海🚫宇A。
                 :columns: auto
 
 
@@ -5908,7 +5914,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -5972,9 +5978,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_irish_commentEnd:
 
-^^^^^^^^^^^^
-ドゴス・ギア
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ドゴス·ギア(多戈斯·基亚级宇宙战舰)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_dogosse_giar:
 
@@ -6001,26 +6007,26 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Dogosse Giar
+            .. grid-item:: 英文:Dogosse Giar。
                 :columns: auto
 
-            .. grid-item:: 编码 120
+            .. grid-item:: 编码:120。
                 :columns: auto
 
-            .. grid-item:: 地址 BC738 (29424)
+            .. grid-item:: 地址 BC738 (29424)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC758 (29444)
+            .. grid-item:: 武器首地址:BC758 (29444)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 宇宙
+            .. grid-item:: 移动类型:宇宙。
                 :columns: auto
 
 
-            .. grid-item:: 大小 LL
+            .. grid-item:: 大小 LL。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+            .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
                 :columns: auto
 
 
@@ -6098,7 +6104,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -6175,9 +6181,9 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
 
 .. _srw4_unit_dogosse_giar_commentEnd:
 
-^^^^^^^^^^
-アウドムラ
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+アウドムラ(奥多姆拉号运输航母)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_audhumla:
 
@@ -6204,26 +6210,26 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
             :padding: 0
 
 
-            .. grid-item:: 英文:Audhumla
+            .. grid-item:: 英文:Audhumla。
                 :columns: auto
 
-            .. grid-item:: 编码 121
+            .. grid-item:: 编码:121。
                 :columns: auto
 
-            .. grid-item:: 地址 BC769 (29455)
+            .. grid-item:: 地址 BC769 (29455)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC789 (29475)
+            .. grid-item:: 武器首地址:BC789 (29475)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空（陸可）
+            .. grid-item:: 移动类型:空（陸可）。
                 :columns: auto
 
 
-            .. grid-item:: 大小 LL
+            .. grid-item:: 大小 LL。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+            .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
                 :columns: auto
 
 
@@ -6301,7 +6307,7 @@ G防卫号是为强化高达Mk-II而开发的支援战斗机。与Mk-II合体时
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

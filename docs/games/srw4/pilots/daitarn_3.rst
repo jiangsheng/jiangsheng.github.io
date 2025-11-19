@@ -7,6 +7,12 @@
 ====================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_pilots_daitarn_3_commentBegin:
 
 顿和克洛丝以剧情中举足轻重的DC司令官身份登场，不知为何最终决战中并未变身成机械改造人。
@@ -39,15 +45,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_6A.png
 
-    .. grid-item:: 英文:Banjo Haran
-    .. grid-item:: 登场/加入:第18话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 110
-    .. grid-item:: EXP: 255
-    .. grid-item:: 编码 6A
-    .. grid-item:: 地址 B7F9B (2B8C2)
-    .. grid-item:: 精神地址 B7FAC(2B8D4)
-    .. grid-item:: 地形适应 空A陆A海A宇A
+    .. grid-item:: 英文:Banjo Haran。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第18话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:110。
+        :columns: auto
+
+
+    .. grid-item:: EXP:255。
+        :columns: auto
+
+
+    .. grid-item:: 编码:6A。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7F9B (2B8C2)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7FAC(2B8D4)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇A。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\ (泰坦3)、\ :ref:`ダイファイター <srw4_unit_dai_fighter>`\ (泰坦战机)、\ :ref:`ダイタンク <srw4_unit_dai_tank>`\ (泰坦战车)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -169,9 +205,9 @@
 
 .. _srw4_pilot_banjo_haran_commentEnd:
 
-^^^^^^^^^^^^^^
-ギャリソン時田
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ギャリソン時田(时田加里森)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_garrison_tokida:
 
@@ -187,15 +223,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_5A.png
 
-    .. grid-item:: 英文:Garrison Tokida
-    .. grid-item:: 登场/加入:第26话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 75
-    .. grid-item:: EXP: 210
-    .. grid-item:: 编码 5A
-    .. grid-item:: 地址 B7DBF (2B6CC)
-    .. grid-item:: 精神地址 B7DD0(2B6DE)
-    .. grid-item:: 地形适应 空A陆A海A宇C
+    .. grid-item:: 英文:Garrison Tokida。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第26话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:75。
+        :columns: auto
+
+
+    .. grid-item:: EXP:210。
+        :columns: auto
+
+
+    .. grid-item:: 编码:5A。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7DBF (2B6CC)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7DD0(2B6DE)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇C。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -314,9 +376,9 @@
 
 .. _srw4_pilots_daitarn_3_enemy_commentEnd:
 
-^^^^^^
-コロス
-^^^^^^
+^^^^^^^^^^^^^^^^
+コロス(克洛丝)
+^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_koros:
 
@@ -332,15 +394,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_AB.png
 
-    .. grid-item:: 英文:Koros
-    .. grid-item:: 登场/加入:第30话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 252
-    .. grid-item:: 编码 AB
-    .. grid-item:: 地址 B872B (2C0DA)
-    .. grid-item:: 精神地址 B873C(2C0EC)
-    .. grid-item:: 地形适应 空A陆A海A宇A
+    .. grid-item:: 英文:Koros。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第30话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:252。
+        :columns: auto
+
+
+    .. grid-item:: 编码:AB。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B872B (2C0DA)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B873C(2C0EC)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -449,9 +537,9 @@
 
 .. _srw4_pilot_koros_commentEnd:
 
-^^^^^^^^^^^^^^
-ドン・ザウサー
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ドン・ザウサー(顿·扎乌萨)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_don_zauser:
 
@@ -467,15 +555,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_AC.png
 
-    .. grid-item:: 英文:Don Zauser
-    .. grid-item:: 登场/加入:第43话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 251
-    .. grid-item:: 编码 AC
-    .. grid-item:: 地址 B874A (2C0FA)
-    .. grid-item:: 精神地址 B875B(2C10C)
-    .. grid-item:: 地形适应 空A陆A海A宇A
+    .. grid-item:: 英文:Don Zauser。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第43话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:251。
+        :columns: auto
+
+
+    .. grid-item:: 编码:AC。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B874A (2C0FA)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B875B(2C10C)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海A宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -590,9 +704,9 @@
 
 .. _srw4_pilots_daitarn_3_ally_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^
-ビューティフル・タチバナ
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ビューティフル・タチバナ(桔美丽)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_beautiful_tachibana:
 
@@ -608,15 +722,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_5B.png
 
-    .. grid-item:: 英文:Beautiful Tachibana
-    .. grid-item:: 登场/加入:第26话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 5B
-    .. grid-item:: 地址 B7DDE (2B6EC)
-    .. grid-item:: 精神地址 B7DEF(2B6FE)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Beautiful Tachibana。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第26话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:5B。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7DDE (2B6EC)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7DEF(2B6FE)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -710,9 +850,9 @@
 
 .. _srw4_pilot_beautiful_tachibana_commentEnd:
 
-^^^^^^^^^^
-三条レイカ
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+三条レイカ(三条丽香)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_reika_sanjo:
 
@@ -728,15 +868,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_5C.png
 
-    .. grid-item:: 英文:Reika Sanjo
-    .. grid-item:: 登场/加入:第26话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 5C
-    .. grid-item:: 地址 B7DF5 (2B704)
-    .. grid-item:: 精神地址 B7E06(2B716)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Reika Sanjo。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第26话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:5C。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7DF5 (2B704)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7E06(2B716)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -848,15 +1014,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_5D.png
 
-    .. grid-item:: 英文:Totta Toda
-    .. grid-item:: 登场/加入:第26话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 0
-    .. grid-item:: EXP: 0
-    .. grid-item:: 编码 5D
-    .. grid-item:: 地址 B7E0C (2B71C)
-    .. grid-item:: 精神地址 B7E1D(2B72E)
-    .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+    .. grid-item:: 英文:Totta Toda。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第26话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:0。
+        :columns: auto
+
+
+    .. grid-item:: EXP:0。
+        :columns: auto
+
+
+    .. grid-item:: 编码:5D。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7E0C (2B71C)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7E1D(2B72E)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+        :columns: auto
+
 
 
 .. grid:: 

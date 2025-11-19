@@ -7,6 +7,12 @@
 ================================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_pilots_mobile_suit_gundam_0080_commentBegin:
 
 
@@ -20,9 +26,9 @@
 
 .. _srw4_pilots_mobile_suit_gundam_0080_own_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-クリスチーナ・マッケンジー
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+クリスチーナ・マッケンジー(克莉丝蒂娜·马坎基)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_christina_mackenzie:
 
@@ -38,15 +44,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_3E.png
 
-    .. grid-item:: 英文:Christina Mackenzie
-    .. grid-item:: 登场/加入:第5话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 160
-    .. grid-item:: 编码 3E
-    .. grid-item:: 地址 B7A55 (2B2E6)
-    .. grid-item:: 精神地址 B7A66(2B2F8)
-    .. grid-item:: 地形适应 空C陆A海C宇B
+    .. grid-item:: 英文:Christina Mackenzie。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第5话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:160。
+        :columns: auto
+
+
+    .. grid-item:: 编码:3E。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7A55 (2B2E6)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7A66(2B2F8)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆A海C宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -168,9 +200,9 @@
 
 .. _srw4_pilot_christina_mackenzie_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^
-バーナード・ワイズマン
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+バーナード・ワイズマン(巴纳德·威斯曼)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_bernard_wiseman:
 
@@ -186,15 +218,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_3F.png
 
-    .. grid-item:: 英文:Bernard Wiseman
-    .. grid-item:: 登场/加入:第5话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 140
-    .. grid-item:: 编码 3F
-    .. grid-item:: 地址 B7A76 (2B310)
-    .. grid-item:: 精神地址 B7A87(2B322)
-    .. grid-item:: 地形适应 空C陆A海B宇B
+    .. grid-item:: 英文:Bernard Wiseman。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第5话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:140。
+        :columns: auto
+
+
+    .. grid-item:: 编码:3F。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7A76 (2B310)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7A87(2B322)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆A海B宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -327,9 +385,9 @@
 
 .. _srw4_pilots_mobile_suit_gundam_0080_enemy_commentEnd:
 
-^^^^^^^^^^^^
-シュタイナー
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+シュタイナー(斯坦纳·哈迪)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_steiner:
 
@@ -345,15 +403,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_9E.png
 
-    .. grid-item:: 英文:Steiner
-    .. grid-item:: 登场/加入:第25话
-    .. grid-item:: 性格: 強気
-    .. grid-item:: SP: 50
-    .. grid-item:: EXP: 237
-    .. grid-item:: 编码 9E
-    .. grid-item:: 地址 B85C9 (2BF6A)
-    .. grid-item:: 精神地址 B85DA(2BF7C)
-    .. grid-item:: 地形适应 空C陆A海B宇A
+    .. grid-item:: 英文:Steiner。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第25话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:50。
+        :columns: auto
+
+
+    .. grid-item:: EXP:237。
+        :columns: auto
+
+
+    .. grid-item:: 编码:9E。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B85C9 (2BF6A)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B85DA(2BF7C)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空C陆A海B宇A。
+        :columns: auto
+
 
 
 .. grid:: 

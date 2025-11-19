@@ -1,5 +1,5 @@
 .. meta::
-   :description: 機動戦士ガンダム0080机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。NT-1アレックス, ザク改, トロイホース, グラーフ・ツェッペリン, ケンプファー, ムサイ改 
+   :description: 機動戦士ガンダム0080机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。NT-1アレックス, ザク改, トロイホース, グラーフ·ツェッペリン, ケンプファー, ムサイ改 
 .. _srw4_units_mobile_suit_gundam_0080:
 
 ================================
@@ -7,6 +7,12 @@
 ================================
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
+
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
 
 .. _srw4_units_mobile_suit_gundam_0080_commentBegin:
 
@@ -21,9 +27,9 @@
 
 .. _srw4_units_mobile_suit_gundam_0080_own_commentEnd:
 
-^^^^^^^^^^^^
-トロイホース
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+トロイホース(特洛伊木马)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_trojan_horse:
 
@@ -50,33 +56,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Trojan Horse
+            .. grid-item:: 英文:Trojan Horse。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第1话
+            .. grid-item:: 登场/加入:第1话。
                 :columns: auto
 
-            .. grid-item:: 编码 D3
+            .. grid-item:: 编码:D3。
                 :columns: auto
 
-            .. grid-item:: 地址 BBA04 (286F3)
+            .. grid-item:: 地址 BBA04 (286F3)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBA24 (28713)
+            .. grid-item:: 武器首地址:BBA24 (28713)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B陆🚫→D海🚫→D宇A→B
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`トーレス <srw4_pilot_torres>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B陆🚫→D海🚫→D宇A→B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`トーレス <srw4_pilot_torres>`\ 。
                 :columns: auto
 
 
@@ -157,7 +163,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -230,9 +236,9 @@
 
 .. _srw4_unit_trojan_horse_commentEnd:
 
-^^^^^^
-ザク改
-^^^^^^
+^^^^^^^^^^^^^^^^
+ザク改(扎古改)
+^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_zaku_kai:
 
@@ -259,40 +265,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Zaku Kai
+            .. grid-item:: 英文:Zaku Kai。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 5F
+            .. grid-item:: 编码:5F。
                 :columns: auto
 
-            .. grid-item:: 地址 BA648 (27337)
+            .. grid-item:: 地址 BA648 (27337)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BA668 (27357)
+            .. grid-item:: 武器首地址:BA668 (27357)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆B海D→C宇A→B
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`バーナード・ワイズマン <srw4_pilot_bernard_wiseman>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆B海D→C宇A→B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`バーナード・ワイズマン <srw4_pilot_bernard_wiseman>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_3F.png
                 :columns: auto
 
-            .. grid-item:: 盾装備
+            .. grid-item:: 技能: 盾装備。
                 :columns: auto
 
 
@@ -370,7 +376,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -459,9 +465,9 @@
 
 .. _srw4_unit_zaku_kai_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-NT-1アレックス
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NT-1アレックス(NT-1阿历克斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_nt_1_alex:
 
@@ -488,40 +494,40 @@ NT-1アレックス
             :padding: 0
 
 
-            .. grid-item:: 英文:NT-1 Alex
+            .. grid-item:: 英文:NT-1 Alex。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第5话
+            .. grid-item:: 登场/加入:第5话。
                 :columns: auto
 
-            .. grid-item:: 编码 0B
+            .. grid-item:: 编码:0B。
                 :columns: auto
 
-            .. grid-item:: 地址 B969C (2638B)
+            .. grid-item:: 地址 B969C (2638B)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B96BC (263AB)
+            .. grid-item:: 武器首地址:B96BC (263AB)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆B (A)海C (B)→C宇A→B
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`クリスチーナ・マッケンジー <srw4_pilot_christina_mackenzie>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆B (A)海C (B)→C宇A→B。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`クリスチーナ・マッケンジー <srw4_pilot_christina_mackenzie>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_3E.png
                 :columns: auto
 
-            .. grid-item:: 剣装備
+            .. grid-item:: 技能: 剣装備。
                 :columns: auto
 
 
@@ -599,7 +605,7 @@ NT-1アレックス
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -674,9 +680,9 @@ NT-1アレックス
 
 .. _srw4_units_mobile_suit_gundam_0080_enemy_commentEnd:
 
-^^^^^^^^^^^^
-ケンプファー
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ケンプファー(MS-18 斗士)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_kampfer:
 
@@ -703,33 +709,33 @@ NT-1アレックス
             :padding: 0
 
 
-            .. grid-item:: 英文:Kampfer
+            .. grid-item:: 英文:Kampfer。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第6话
+            .. grid-item:: 登场/加入:第6话。
                 :columns: auto
 
-            .. grid-item:: 编码 76
+            .. grid-item:: 编码:76。
                 :columns: auto
 
-            .. grid-item:: 地址 BAA19 (27708)
+            .. grid-item:: 地址 BAA19 (27708)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAA39 (27728)
+            .. grid-item:: 武器首地址:BAA39 (27728)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫陆A海C宇B
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 剣装備
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫陆A海C宇B。
+                :columns: auto
+
+
+            .. grid-item:: 技能: 剣装備。
                 :columns: auto
 
 
@@ -807,7 +813,7 @@ NT-1アレックス
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -898,9 +904,9 @@ NT-1アレックス
 
 .. _srw4_unit_kampfer_commentEnd:
 
-^^^^^^^^
-ムサイ改
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+ムサイ改(姆塞改)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_musai_kai:
 
@@ -927,29 +933,29 @@ NT-1アレックス
             :padding: 0
 
 
-            .. grid-item:: 英文:Musai Kai
+            .. grid-item:: 英文:Musai Kai。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第25话
+            .. grid-item:: 登场/加入:第25话。
                 :columns: auto
 
-            .. grid-item:: 编码 D8
+            .. grid-item:: 编码:D8。
                 :columns: auto
 
-            .. grid-item:: 地址 BBAEA (287D9)
+            .. grid-item:: 地址 BBAEA (287D9)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBB0A (287F9)
+            .. grid-item:: 武器首地址:BBB0A (287F9)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 宇宙
+            .. grid-item:: 移动类型:宇宙。
                 :columns: auto
 
 
-            .. grid-item:: 大小 LL
+            .. grid-item:: 大小 LL。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆🚫海🚫宇A
+            .. grid-item:: 地形适应:空🚫陆🚫海🚫宇A。
                 :columns: auto
 
 
@@ -1027,7 +1033,7 @@ NT-1アレックス
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1086,9 +1092,9 @@ NT-1アレックス
 
 .. _srw4_units_mobile_suit_gundam_0080_dead_data_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^
-グラーフ・ツェッペリン
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+グラーフ·ツェッペリン(齐柏林伯爵号宇宙巡洋舰)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_graf_zeppelin:
 
@@ -1115,26 +1121,26 @@ NT-1アレックス
             :padding: 0
 
 
-            .. grid-item:: 英文:Graf Zeppelin
+            .. grid-item:: 英文:Graf Zeppelin。
                 :columns: auto
 
-            .. grid-item:: 编码 D4
+            .. grid-item:: 编码:D4。
                 :columns: auto
 
-            .. grid-item:: 地址 BBA32 (28721)
+            .. grid-item:: 地址 BBA32 (28721)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBA52 (28741)
+            .. grid-item:: 武器首地址:BBA52 (28741)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 宇宙
+            .. grid-item:: 移动类型:宇宙。
                 :columns: auto
 
 
-            .. grid-item:: 大小 LL
+            .. grid-item:: 大小 LL。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆🚫海🚫宇A
+            .. grid-item:: 地形适应:空🚫陆🚫海🚫宇A。
                 :columns: auto
 
 
@@ -1212,7 +1218,7 @@ NT-1アレックス
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件

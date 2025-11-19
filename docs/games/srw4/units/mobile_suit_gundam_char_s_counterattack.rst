@@ -1,5 +1,5 @@
 .. meta::
-   :description: 機動戦士ガンダム逆襲のシャア机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。νガンダム, ジェガン, リ・ガズィ (MA), リ・ガズィ (MS), ヤクト・ドーガ（赤）, サザビー, ラー・カイラム, ギラ・ドーガ（强化）, ナイチンゲール, ギラ・ドーガ（绿）, ヤクト・ドーガ（青）, α・アジール, レウルーラ 
+   :description: 機動戦士ガンダム逆襲のシャア机体：括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。νガンダム, ジェガン, リ·ガズィ (MA), リ·ガズィ (MS), ヤクト·ドーガ（赤）, サザビー, ラー·カイラム, ギラ·ドーガ（强化）, ナイチンゲール, ギラ·ドーガ（绿）, ヤクト·ドーガ（青）, α·アジール, レウルーラ 
 .. _srw4_units_mobile_suit_gundam_char_s_counterattack:
 
 ====================================
@@ -7,6 +7,12 @@
 ====================================
 
 括号内为PS版变动。地形补正(→)为用默认驾驶员的地形适应和机体的移动类型修正之后的数据。偏差值表示排名位置，均值为50。
+
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
 
 .. _srw4_units_mobile_suit_gundam_char_s_counterattack_commentBegin:
 
@@ -21,9 +27,9 @@
 
 .. _srw4_units_mobile_suit_gundam_char_s_counterattack_own_commentEnd:
 
-^^^^^^^^
-ジェガン
-^^^^^^^^
+^^^^^^^^^^^^^^^^
+ジェガン(杰刚)
+^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_jegan:
 
@@ -50,40 +56,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Jegan
+            .. grid-item:: 英文:Jegan。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 15
+            .. grid-item:: 编码:15。
                 :columns: auto
 
-            .. grid-item:: 地址 B985D (2654C)
+            .. grid-item:: 地址 B985D (2654C)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B987D (2656C)
+            .. grid-item:: 武器首地址:B987D (2656C)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆B (A)→B海C→B宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ルー・ルカ <srw4_pilot_roux_louka>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆B (A)→B海C→B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ルー・ルカ <srw4_pilot_roux_louka>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_31.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備
+            .. grid-item:: 技能: 盾装備、剣装備。
                 :columns: auto
 
 
@@ -161,7 +167,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -245,9 +251,9 @@
 
 .. _srw4_unit_jegan_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-リ・ガズィ (MA)
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+リ·ガズィ (MA)(灵格斯BWS着装型)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_ri_gazi_ma:
 
@@ -274,33 +280,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Ri Gazi (MA)
+            .. grid-item:: 英文:Ri Gazi (MA)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 16
+            .. grid-item:: 编码:16。
                 :columns: auto
 
-            .. grid-item:: 地址 B988E (2657D)
+            .. grid-item:: 地址 B988E (2657D)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B98AE (2659D)
+            .. grid-item:: 武器首地址:B98AE (2659D)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空B (A)→B陆🚫→D海🚫→C宇A
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ルー・ルカ <srw4_pilot_roux_louka>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B (A)→B陆🚫→D海🚫→C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ルー・ルカ <srw4_pilot_roux_louka>`\ 。
                 :columns: auto
 
 
@@ -381,7 +387,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -442,9 +448,9 @@
 
 .. _srw4_unit_ri_gazi_ma_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-リ・ガズィ (MS)
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+リ·ガズィ (MS)(灵格斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_ri_gazi_ms:
 
@@ -471,40 +477,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Ri Gazi (MS)
+            .. grid-item:: 英文:Ri Gazi (MS)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第4话
+            .. grid-item:: 登场/加入:第4话。
                 :columns: auto
 
-            .. grid-item:: 编码 17
+            .. grid-item:: 编码:17。
                 :columns: auto
 
-            .. grid-item:: 地址 B98B9 (265A8)
+            .. grid-item:: 地址 B98B9 (265A8)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B98D9 (265C8)
+            .. grid-item:: 武器首地址:B98D9 (265C8)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆B (A)→B海C→B宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ルー・ルカ <srw4_pilot_roux_louka>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆B (A)→B海C→B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ルー・ルカ <srw4_pilot_roux_louka>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_31.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備
+            .. grid-item:: 技能: 盾装備、剣装備。
                 :columns: auto
 
 
@@ -582,7 +588,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -660,9 +666,9 @@
 
 .. _srw4_unit_ri_gazi_ms_commentEnd:
 
-^^^^^^^^^^
-νガンダム
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+νガンダム(ν高达)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_nu_gundam:
 
@@ -689,40 +695,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Nu Gundam
+            .. grid-item:: 英文:Nu Gundam。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第27话
+            .. grid-item:: 登场/加入:第27话。
                 :columns: auto
 
-            .. grid-item:: 编码 09
+            .. grid-item:: 编码:09。
                 :columns: auto
 
-            .. grid-item:: 地址 B9634 (26323)
+            .. grid-item:: 地址 B9634 (26323)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 B9654 (26343)
+            .. grid-item:: 武器首地址:B9654 (26343)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆B (A)海C (B)宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`アムロ・レイ <srw4_pilot_amuro_ray>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆B (A)海C (B)宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`アムロ・レイ <srw4_pilot_amuro_ray>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_50.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備, Iフィールド
+            .. grid-item:: 技能: 盾装備、剣装備、Iフィールド。
                 :columns: auto
 
 
@@ -800,7 +806,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -908,9 +914,9 @@
 
 .. _srw4_unit_nu_gundam_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-ヤクト・ドーガ（赤）
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ヤクト·ドーガ（赤）(亚克·多加柯丝号)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_jagd_doga_red:
 
@@ -937,40 +943,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Jagd Doga (red)
+            .. grid-item:: 英文:Jagd Doga (red)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第29话
+            .. grid-item:: 登场/加入:第29话。
                 :columns: auto
 
-            .. grid-item:: 编码 89
+            .. grid-item:: 编码:89。
                 :columns: auto
 
-            .. grid-item:: 地址 BAD92 (27A81)
+            .. grid-item:: 地址 BAD92 (27A81)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BADB2 (27AA1)
+            .. grid-item:: 武器首地址:BADB2 (27AA1)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆B海C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`クェス・パラヤ <srw4_pilot_quess_paraya>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆B海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`クェス・パラヤ <srw4_pilot_quess_paraya>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_3A.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備
+            .. grid-item:: 技能: 盾装備、剣装備。
                 :columns: auto
 
 
@@ -1048,7 +1054,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1126,9 +1132,9 @@
 
 .. _srw4_unit_jagd_doga_red_commentEnd:
 
-^^^^^^^^^^^^^^
-ラー・カイラム
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ラー·カイラム(拉·凯拉姆)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_ra_cailum:
 
@@ -1155,33 +1161,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Ra Cailum
+            .. grid-item:: 英文:Ra Cailum。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第36话
+            .. grid-item:: 登场/加入:第36话。
                 :columns: auto
 
-            .. grid-item:: 编码 E1
+            .. grid-item:: 编码:E1。
                 :columns: auto
 
-            .. grid-item:: 地址 BBC97 (28986)
+            .. grid-item:: 地址 BBC97 (28986)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBCB7 (289A6)
+            .. grid-item:: 武器首地址:BBCB7 (289A6)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 空
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A陆🚫→D海🚫→D宇A
+            .. grid-item:: 移动类型:空。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ブライト・ノア <srw4_pilot_bright_noah>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆🚫→D海🚫→D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ブライト・ノア <srw4_pilot_bright_noah>`\ 。
                 :columns: auto
 
 
@@ -1262,7 +1268,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1344,9 +1350,9 @@
 
 .. _srw4_unit_ra_cailum_commentEnd:
 
-^^^^^^^^
-サザビー
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+サザビー(沙扎比)
+^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_sazabi:
 
@@ -1373,40 +1379,40 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Sazabi
+            .. grid-item:: 英文:Sazabi。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第39话
+            .. grid-item:: 登场/加入:第39话。
                 :columns: auto
 
-            .. grid-item:: 编码 8A
+            .. grid-item:: 编码:8A。
                 :columns: auto
 
-            .. grid-item:: 地址 BADC3 (27AB2)
+            .. grid-item:: 地址 BADC3 (27AB2)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BADE3 (27AD2)
+            .. grid-item:: 武器首地址:BADE3 (27AD2)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫 (B)→D (B)陆A海C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`クワトロ・バジーナ <srw4_pilot_quattro_bajeena>`\ 
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫 (B)→D (B)陆A海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`クワトロ・バジーナ <srw4_pilot_quattro_bajeena>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_20.png
                 :columns: auto
 
-            .. grid-item:: 盾装備, 剣装備
+            .. grid-item:: 技能: 盾装備、剣装備。
                 :columns: auto
 
 
@@ -1484,7 +1490,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1570,9 +1576,9 @@
 
 .. _srw4_units_mobile_suit_gundam_char_s_counterattack_enemy_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-ギラ・ドーガ（绿）
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ギラ·ドーガ（绿）(基拉·多加)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_geara_doga_green:
 
@@ -1599,33 +1605,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Geara Doga (green)
+            .. grid-item:: 英文:Geara Doga (green)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第15话
+            .. grid-item:: 登场/加入:第15话。
                 :columns: auto
 
-            .. grid-item:: 编码 86
+            .. grid-item:: 编码:86。
                 :columns: auto
 
-            .. grid-item:: 地址 BAD05 (279F4)
+            .. grid-item:: 地址 BAD05 (279F4)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAD25 (27A14)
+            .. grid-item:: 武器首地址:BAD25 (27A14)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫陆A海C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 剣装備
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫陆A海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 技能: 剣装備。
                 :columns: auto
 
 
@@ -1703,7 +1709,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1767,9 +1773,9 @@
 
 .. _srw4_unit_geara_doga_green_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-ヤクト・ドーガ（青）
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ヤクト·ドーガ（青）(量产型亚克·多加)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_jagd_doga_blue:
 
@@ -1796,33 +1802,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Jagd Doga (blue)
+            .. grid-item:: 英文:Jagd Doga (blue)。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第28话
+            .. grid-item:: 登场/加入:第28话。
                 :columns: auto
 
-            .. grid-item:: 编码 88
+            .. grid-item:: 编码:88。
                 :columns: auto
 
-            .. grid-item:: 地址 BAD61 (27A50)
+            .. grid-item:: 地址 BAD61 (27A50)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAD81 (27A70)
+            .. grid-item:: 武器首地址:BAD81 (27A70)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
-                :columns: auto
-
-
-            .. grid-item:: 大小 M
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫陆B海C宇A
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 盾装備, 剣装備
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫陆B海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 技能: 盾装備、剣装備。
                 :columns: auto
 
 
@@ -1900,7 +1906,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -1977,9 +1983,9 @@
 
 .. _srw4_unit_jagd_doga_blue_commentEnd:
 
-^^^^^^^^^^^^
-α・アジール
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+α·アジール(α·亚基鲁)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_alpha_azieru:
 
@@ -2006,33 +2012,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Alpha Azieru
+            .. grid-item:: 英文:Alpha Azieru。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第37话
+            .. grid-item:: 登场/加入:第37话。
                 :columns: auto
 
-            .. grid-item:: 编码 8B
+            .. grid-item:: 编码:8B。
                 :columns: auto
 
-            .. grid-item:: 地址 BADF4 (27AE3)
+            .. grid-item:: 地址 BADF4 (27AE3)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAE14 (27B03)
+            .. grid-item:: 武器首地址:BAE14 (27B03)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 宇宙
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空A (🚫)陆A (🚫)海🚫宇A
+            .. grid-item:: 移动类型:宇宙。
                 :columns: auto
 
 
-            .. grid-item:: Iフィールド
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A (🚫)陆A (🚫)海🚫宇A。
+                :columns: auto
+
+
+            .. grid-item:: 技能: Iフィールド。
                 :columns: auto
 
 
@@ -2110,7 +2116,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2174,9 +2180,9 @@
 
 .. _srw4_unit_alpha_azieru_commentEnd:
 
-^^^^^^^^^^
-レウルーラ
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+レウルーラ(雷乌鲁拉)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_rewloola:
 
@@ -2203,33 +2209,33 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Rewloola
+            .. grid-item:: 英文:Rewloola。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第37话
+            .. grid-item:: 登场/加入:第37话。
                 :columns: auto
 
-            .. grid-item:: 编码 E0
+            .. grid-item:: 编码:E0。
                 :columns: auto
 
-            .. grid-item:: 地址 BBC66 (28955)
+            .. grid-item:: 地址 BBC66 (28955)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BBC86 (28975)
+            .. grid-item:: 武器首地址:BBC86 (28975)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 宇宙
-                :columns: auto
-
-
-            .. grid-item:: 大小 LL
-                :columns: auto
-
-            .. grid-item:: 地形适应 空🚫→D陆🚫→C海🚫→D宇A
+            .. grid-item:: 移动类型:宇宙。
                 :columns: auto
 
 
-            .. grid-item:: 地形参照  \ :ref:`ジャマイカン・ダニンガン <srw4_pilot_jamaican_daninghan>`\ 
+            .. grid-item:: 大小 LL。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆🚫→C海🚫→D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`ジャマイカン・ダニンガン <srw4_pilot_jamaican_daninghan>`\ 。
                 :columns: auto
 
 
@@ -2310,7 +2316,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2395,9 +2401,9 @@
 
 .. _srw4_units_mobile_suit_gundam_char_s_counterattack_dead_data_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-ギラ・ドーガ（强化）
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ギラ·ドーガ（强化）(强化型基拉·多加)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_geara_doga_upgraded:
 
@@ -2424,26 +2430,26 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Geara Doga (upgraded)
+            .. grid-item:: 英文:Geara Doga (upgraded)。
                 :columns: auto
 
-            .. grid-item:: 编码 87
+            .. grid-item:: 编码:87。
                 :columns: auto
 
-            .. grid-item:: 地址 BAD33 (27A22)
+            .. grid-item:: 地址 BAD33 (27A22)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BAD53 (27A42)
+            .. grid-item:: 武器首地址:BAD53 (27A42)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 大小 M
+            .. grid-item:: 大小 M。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆A海C宇A
+            .. grid-item:: 地形适应:空🚫陆A海C宇A。
                 :columns: auto
 
 
@@ -2521,7 +2527,7 @@
     .. grid-item:: 射程
     .. grid-item:: 命中
     .. grid-item:: 暴击
-    .. grid-item:: 地形空陆海宇
+    .. grid-item:: 地形
         :columns: 3
     .. grid-item:: 残弹/EN
     .. grid-item:: 条件
@@ -2585,9 +2591,9 @@
 
 .. _srw4_unit_geara_doga_upgraded_commentEnd:
 
-^^^^^^^^^^^^^^
-ナイチンゲール
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+ナイチンゲール(夜莺)
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_unit_nightingale:
 
@@ -2612,26 +2618,26 @@
             :padding: 0
 
 
-            .. grid-item:: 英文:Nightingale
+            .. grid-item:: 英文:Nightingale。
                 :columns: auto
 
-            .. grid-item:: 编码 10D
+            .. grid-item:: 编码:10D。
                 :columns: auto
 
-            .. grid-item:: 地址 BC3FE (290EA)
+            .. grid-item:: 地址 BC3FE (290EA)。
                 :columns: auto
 
-            .. grid-item:: 武器首地址 BC41E (2910A)
+            .. grid-item:: 武器首地址:BC41E (2910A)。
                 :columns: auto
 
-            .. grid-item:: 移动类型 陸宇
+            .. grid-item:: 移动类型:陸宇。
                 :columns: auto
 
 
-            .. grid-item:: 大小 M
+            .. grid-item:: 大小 M。
                 :columns: auto
 
-            .. grid-item:: 地形适应 空🚫陆🚫海🚫宇🚫
+            .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
                 :columns: auto
 
 

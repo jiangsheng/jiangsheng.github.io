@@ -7,6 +7,12 @@
 ==========================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_pilots_great_mazinger_commentBegin:
 
 
@@ -21,9 +27,9 @@
 
 .. _srw4_pilots_great_mazinger_own_commentEnd:
 
-^^^^^^^^
-炎ジュン
-^^^^^^^^
+^^^^^^^^^^^^^^^^
+炎ジュン(炎纯)
+^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_jun_hono:
 
@@ -39,15 +45,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_48.png
 
-    .. grid-item:: 英文:Jun Hono
-    .. grid-item:: 登场/加入:第23话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 70
-    .. grid-item:: EXP: 180
-    .. grid-item:: 编码 48
-    .. grid-item:: 地址 B7B93 (2B442)
-    .. grid-item:: 精神地址 B7BA4(2B454)
-    .. grid-item:: 地形适应 空A陆B海C宇B
+    .. grid-item:: 英文:Jun Hono。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第23话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:70。
+        :columns: auto
+
+
+    .. grid-item:: EXP:180。
+        :columns: auto
+
+
+    .. grid-item:: 编码:48。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7B93 (2B442)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7BA4(2B454)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆B海C宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -174,15 +206,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_5E.png
 
-    .. grid-item:: 英文:Tetsuya Tsurugi
-    .. grid-item:: 登场/加入:第23话
-    .. grid-item:: 性格: 普通
-    .. grid-item:: SP: 95
-    .. grid-item:: EXP: 228
-    .. grid-item:: 编码 5E
-    .. grid-item:: 地址 B7E23 (2B734)
-    .. grid-item:: 精神地址 B7E34(2B746)
-    .. grid-item:: 地形适应 空A陆A海B宇B
+    .. grid-item:: 英文:Tetsuya Tsurugi。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第23话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:普通。
+        :columns: auto
+
+
+    .. grid-item:: SP:95。
+        :columns: auto
+
+
+    .. grid-item:: EXP:228。
+        :columns: auto
+
+
+    .. grid-item:: 编码:5E。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7E23 (2B734)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7E34(2B746)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇B。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -310,9 +368,9 @@
 
 .. _srw4_pilots_great_mazinger_enemy_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-悪霊将軍ハーディアス
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+悪霊将軍ハーディアス(恶灵将军哈迪斯)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_evil_spirit_general_hadias:
 
@@ -328,15 +386,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_C6.png
 
-    .. grid-item:: 英文:Evil Spirit General Hadias
-    .. grid-item:: 登场/加入:第2话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 200
-    .. grid-item:: 编码 C6
-    .. grid-item:: 地址 B8A78 (2C462)
-    .. grid-item:: 精神地址 B8A89(2C474)
-    .. grid-item:: 地形适应 空A陆A海C宇D
+    .. grid-item:: 英文:Evil Spirit General Hadias。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第2话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:200。
+        :columns: auto
+
+
+    .. grid-item:: 编码:C6。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8A78 (2C462)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8A89(2C474)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海C宇D。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -443,9 +527,9 @@
 
 .. _srw4_pilot_evil_spirit_general_hadias_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-妖爬虫将軍ドレイドウ
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+妖爬虫将軍ドレイドウ(妖爬虫将军德雷多乌)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_reptilian_general_draydou:
 
@@ -461,15 +545,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_C7.png
 
-    .. grid-item:: 英文:Reptilian General Draydou
-    .. grid-item:: 登场/加入:第6话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 200
-    .. grid-item:: 编码 C7
-    .. grid-item:: 地址 B8A91 (2C47C)
-    .. grid-item:: 精神地址 B8AA2(2C48E)
-    .. grid-item:: 地形适应 空A陆A海B宇C
+    .. grid-item:: 英文:Reptilian General Draydou。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第6话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:200。
+        :columns: auto
+
+
+    .. grid-item:: 编码:C7。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8A91 (2C47C)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8AA2(2C48E)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇C。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -594,15 +704,41 @@ DC的干部。\ :doc:`../walkthrough/18a_intruder_south_south_west`\ 和\ :doc:`
 
         .. image:: ../pilots/images/srw4_pilot_C5.png
 
-    .. grid-item:: 英文:Great General of Darkness
-    .. grid-item:: 登场/加入:第30话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 60
-    .. grid-item:: EXP: 210
-    .. grid-item:: 编码 C5
-    .. grid-item:: 地址 B8A5F (2C448)
-    .. grid-item:: 精神地址 B8A70(2C45A)
-    .. grid-item:: 地形适应 空A陆A海B宇B
+    .. grid-item:: 英文:Great General of Darkness。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第30话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:60。
+        :columns: auto
+
+
+    .. grid-item:: EXP:210。
+        :columns: auto
+
+
+    .. grid-item:: 编码:C5。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B8A5F (2C448)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B8A70(2C45A)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆A海B宇B。
+        :columns: auto
+
 
 
 .. grid:: 

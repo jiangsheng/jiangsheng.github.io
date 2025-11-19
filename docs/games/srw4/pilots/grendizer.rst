@@ -7,6 +7,12 @@
 ======================
 括号内为PS版变动。A→B中的A和B分别是0级和99级的数据。偏差值表示排名位置，均值为50。
 
+
+.. contents:: 
+   :depth: 2
+   :local:
+   :backlinks: none
+
 .. _srw4_pilots_grendizer_commentBegin:
 
 
@@ -20,9 +26,9 @@
 
 .. _srw4_pilots_grendizer_own_commentEnd:
 
-^^^^^^^^^^^^^^^^
-マリア・フリード
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+マリア・フリード(玛丽亚·弗里德)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_maria_fleed:
 
@@ -38,15 +44,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_49.png
 
-    .. grid-item:: 英文:Maria Fleed
-    .. grid-item:: 登场/加入:第14话
-    .. grid-item:: 性格: 超強気
-    .. grid-item:: SP: 80
-    .. grid-item:: EXP: 180
-    .. grid-item:: 编码 49
-    .. grid-item:: 地址 B7BB2 (2B462)
-    .. grid-item:: 精神地址 B7BC3(2B474)
-    .. grid-item:: 地形适应 空B陆A海C宇A
+    .. grid-item:: 英文:Maria Fleed。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第14话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:超強気。
+        :columns: auto
+
+
+    .. grid-item:: SP:80。
+        :columns: auto
+
+
+    .. grid-item:: EXP:180。
+        :columns: auto
+
+
+    .. grid-item:: 编码:49。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7BB2 (2B462)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7BC3(2B474)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空B陆A海C宇A。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -160,9 +192,9 @@
 
 .. _srw4_pilot_maria_fleed_commentEnd:
 
-^^^^^^^^^^^^^^^^^^
-デューク・フリード
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+デューク・フリード(杜克·弗里德)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_duke_fleed:
 
@@ -178,15 +210,45 @@
 
         .. image:: ../pilots/images/srw4_pilot_61.png
 
-    .. grid-item:: 英文:Duke Fleed
-    .. grid-item:: 登场/加入:第23话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 80
-    .. grid-item:: EXP: 229
-    .. grid-item:: 编码 61
-    .. grid-item:: 地址 B7E84 (2B798)
-    .. grid-item:: 精神地址 B7E95(2B7AA)
-    .. grid-item:: 地形适应 空A陆B (A)海C (A)宇A
+    .. grid-item:: 英文:Duke Fleed。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第23话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:80。
+        :columns: auto
+
+
+    .. grid-item:: EXP:229。
+        :columns: auto
+
+
+    .. grid-item:: 编码:61。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7E84 (2B798)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7E95(2B7AA)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆B (A)海C (A)宇A。
+        :columns: auto
+
+
+    .. grid-item:: 搭乘机体:\ :ref:`グレンダイザー <srw4_unit_grendizer>`\ (古连泰沙)、\ :ref:`スペイザー <srw4_unit_spacer>`\ (斯陪沙)、\ :ref:`グレンダイザー (WS) <srw4_unit_grendizer_ws>`\ (飞行古连泰沙)、\ :ref:`グレンダイザー (DS) <srw4_unit_grendizer_ds>`\ (钻地古连泰沙)、\ :ref:`グレンダイザー (MS) <srw4_unit_grendizer_ms>`\ (潜水古连泰沙)。
+        :columns: auto
+
 
 
 .. grid:: 
@@ -306,9 +368,9 @@
 
 .. _srw4_pilot_duke_fleed_commentEnd:
 
-^^^^^^^^^^
-牧場ひかる
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+牧場ひかる(牧场光)
+^^^^^^^^^^^^^^^^^^^^
 
 .. _srw4_pilot_hikaru_makiba:
 
@@ -324,15 +386,41 @@
 
         .. image:: ../pilots/images/srw4_pilot_4A.png
 
-    .. grid-item:: 英文:Hikaru Makiba
-    .. grid-item:: 登场/加入:第24话
-    .. grid-item:: 性格: 弱気
-    .. grid-item:: SP: 80
-    .. grid-item:: EXP: 170
-    .. grid-item:: 编码 4A
-    .. grid-item:: 地址 B7BD1 (2B482)
-    .. grid-item:: 精神地址 B7BE2(2B494)
-    .. grid-item:: 地形适应 空A陆C海A宇B
+    .. grid-item:: 英文:Hikaru Makiba。
+        :columns: auto
+
+
+    .. grid-item:: 登场/加入:第24话。
+        :columns: auto
+
+
+    .. grid-item:: 性格:弱気。
+        :columns: auto
+
+
+    .. grid-item:: SP:80。
+        :columns: auto
+
+
+    .. grid-item:: EXP:170。
+        :columns: auto
+
+
+    .. grid-item:: 编码:4A。
+        :columns: auto
+
+
+    .. grid-item:: 地址:B7BD1 (2B482)。
+        :columns: auto
+
+
+    .. grid-item:: 精神地址:B7BE2(2B494)。
+        :columns: auto
+
+
+    .. grid-item:: 地形适应:空A陆C海A宇B。
+        :columns: auto
+
 
 
 .. grid:: 
