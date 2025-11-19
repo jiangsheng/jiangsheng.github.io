@@ -858,7 +858,7 @@
    * - 20
      - 自
      - .. image:: ../pilots/images/srw4_pilot_20.png
-     - \ :ref:`クワトロ・バジーナ <srw4_pilot_quattro_bajeena>`\ (库瓦特罗··巴吉纳) 
+     - \ :ref:`クワトロ・バジーナ <srw4_pilot_quattro_bajeena>`\ (库瓦特罗·巴吉纳) 
      - Quattro Bajeena
      - :ref:`Zガンダム <srw4_pilots_mobile_suit_z_gundam>`
      - 強気

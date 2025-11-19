@@ -14,7 +14,7 @@
 
 :doc:`../mechanics/bug`\ :虽然地图是在云层，也只有可以飞的机体能出击（可以变形之后飞的机体会变成飞行形态），但是地形判定为陆，不要派出陆战不佳的机体。例如Z高达会变形成为逐浪者，理论上应适用其A级的对空适应，但是实际上适用的是其C级的对地适应。因此本话应尽量部署空陆两栖单位（多见于超级系），而不是仅仅变形成为空战而陆战乏力的MA形态。
 
-另外，移动类型为水陆空和空陆地中的古连泰沙的两个合体形态，组合成功之后就是移动不了或者直接死机，要装ミノフスキークラフト才能正常行动，但是ミノフスキークラフト这一话用在这家伙身上太浪费了。
+另外，移动类型为水陆空和空陆地中的\ :ref:`グレンダイザー (MS) <srw4_unit_grendizer_ms>`\ (潜水古连泰沙)和\ :ref:`グレンダイザー (DS) <srw4_unit_grendizer_ds>`\ (钻地古连泰沙)，组合成功之后就是移动不了或者直接死机，要装ミノフスキークラフト才能正常行动，但是ミノフスキークラフト这一话用在这家伙身上太浪费了。
 
 Jamitov Hymem has declared indefinite martial law due to an alien attack on Earth. However, considering the Earth Federation Congress will begin constitutional reform in two days, this could be this ploy to seize power in the name of reform. If Brigadier General Blex Forer were to give a speech immediately after the reform vote, Jamitov Hymem's conspiracy would be exposed, and he would undoubtedly be overthrown.
 

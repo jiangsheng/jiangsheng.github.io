@@ -352,9 +352,9 @@
 
 .. _srw4_pilot_tetsuya_tsurugi_commentBegin:
 
-开局第一话，甲児就说很担心铁也，因为他失踪了，后面发现他的机体\ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\ (大魔神)都被抢走了，还好随着剧情发展，他被证实安然无恙。
+开局第一话，\ :ref:`兜甲児 <srw4_pilot_koji_kabuto>`\ 就说很担心铁也，因为他失踪了，后面发现他的机体\ :ref:`グレートマジンガー <srw4_unit_great_mazinger>`\ (大魔神)都被抢走了，还好随着剧情发展，他被证实安然无恙。
 
-魔神系唯一会加速的。由于\ :ref:`ボスボロット <srw4_unit_boss_borot>`\ (波士机器人)的机动力和射程问题，大概是这个机体的最佳驾驶员。没有ひらめき，后期打BOSS比较乏力。但是魔神系本来就是用来清理小兵的坦克单位，此缺陷并不致命。因为:ref:`ダンバイン <srw4_pilots_dunbine>`\ (丹拜因)系会分去B队，后期会在经历游戏最难的几话的A队中和\ :ref:`デューク・フリード <srw4_pilot_duke_fleed>`\ (杜克·弗里德) 一起作为防御中坚。
+魔神系唯一会加速的。由于\ :ref:`ボスボロット <srw4_unit_boss_borot>`\ (波士机器人)的机动力和射程问题，大概是这个机体的最佳驾驶员。没有ひらめき，后期打BOSS比较乏力。但是魔神系本来就是用来清理小兵的坦克单位，此缺陷并不致命。因为\ :ref:`ダンバイン <srw4_pilots_dunbine>`\ (丹拜因)系会分去B队，后期会在经历游戏最难的几话的A队中和\ :ref:`デューク・フリード <srw4_pilot_duke_fleed>`\ (杜克·弗里德) 一起作为防御中坚。
 
 如果你想听点不同的台词，那可以在第四次S中让铁也和甲児交换机体。
 
@@ -521,7 +521,9 @@
 
 .. _srw4_pilot_evil_spirit_general_hadias_commentBegin:
 
-在第二话謎の訪問者(\ :ref:`速 <srw4_walkthrough_02a_enigmatic_visitors_fast>`\ /\ :ref:`缓 <srw4_walkthrough_02a_enigmatic_visitors_slow>`\ 路线)中丢下部下逃跑。如果上一话迅速完成的话，有可能消灭他获得更多的钱，但是难度相当高。\ :doc:`../walkthrough/18a_intruder_south_south_west`\ 和\ :doc:`../walkthrough/27_granzon_s_enigma`\ 中出场。最后一次出场是第三十九话リューネ・カプリッチオ。[第四次S]在\ :doc:`../walkthrough/30_koros_and_don_zauser`\ 中也出场了。
+在第二话謎の訪問者(\ :ref:`速 <srw4_walkthrough_02a_enigmatic_visitors_fast>`\ /\ :ref:`缓 <srw4_walkthrough_02a_enigmatic_visitors_slow>`\ 路线)中丢下部下逃跑。如果上一话迅速完成的话，有可能消灭他获得更多的钱，但是难度相当高。\ :doc:`../walkthrough/18a_intruder_south_south_west`\ 和\ :doc:`../walkthrough/27_granzon_s_enigma`\ 中出场。最后一次出场是第三十九话リューネ・カプリッチオ。
+
+[第四次S]在\ :doc:`../walkthrough/30_koros_and_don_zauser`\ 中也出场了。
 
 纸面上的攻击力尚可。其他能力较差。因为性格问题，战斗时往往处于气力值低下的状态，以至于攻击力连杂兵都不如。
 
@@ -680,7 +682,9 @@
 
 .. _srw4_pilot_reptilian_general_draydou_commentBegin:
 
-DC的干部。\ :doc:`../walkthrough/18a_intruder_south_south_west`\ 和\ :doc:`../walkthrough/27_granzon_s_enigma`\ 中出场。最后一次出场是第三十九话リューネ・カプリッチオ。[第四次S]在\ :doc:`../walkthrough/30_koros_and_don_zauser`\ 中也出场了。
+DC的干部。\ :doc:`../walkthrough/18a_intruder_south_south_west`\ 和\ :doc:`../walkthrough/27_granzon_s_enigma`\ 中出场。最后一次出场是第三十九话リューネ・カプリッチオ。
+
+[第四次S]在\ :doc:`../walkthrough/30_koros_and_don_zauser`\ 中也出场了。
 
 能力和\ :ref:`悪霊将軍ハーディアス <srw4_pilot_evil_spirit_general_hadias>`\ (恶灵将军哈迪斯) 完全相同，除了地形适应略强之外。因为性格问题，战斗时往往处于气力值低下的状态，以至于攻击力连杂兵都不如。
 
