@@ -115,7 +115,7 @@ In the SNES version, after the battle, Huang Yanglong and Tutty Norback refused 
 
 Mio offered to help, but Masaki considered her too soft and unfit for combat. To prove herself, Mio proudly summons her newly created familiar. Masaki is clearly unimpressed, but she did create a familiar and hopes to stop Zezenan's ambitions, so she joined Londo Bell.
 
-为了更好地处理以后的战斗，ロンド・ベル队又分为了两队。 主人公、副主人公、アムロ＝レイ、コウ＝ウラキ、チャック＝キース、ジュドー＝アーシタ、 エマ＝シーン、ファ＝ユイリィ、ザンボット队、剣鉄也、炎ジュン、ダバ＝マイロード、ファンネリア＝アム、ガウ＝ハ＝レッシィ、ひびき洸、战斗机队、デューク＝フリード、牧場ひかる、ハサウェイ＝ノア、ケーラ＝スゥ、クワトロ＝バジーナ、クリスチーナ＝マッケンジー、バーナード＝ワイズマン、カツ＝コバヤシ、サラ＝ザビアロフ、ルー＝ルカ为A队，参谋为クワトロ＝バジーナ，而其余归B队，由破嵐万丈指挥。两个分队的最終目的地都是火星的ＤＣ总部。
+为了更好地处理以后的战斗，ロンド・ベル队又分为了两队。 主人公、副主人公、アムロ＝レイ、コウ＝ウラキ、チャック＝キース、\ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ (捷多·亚西塔) 、 エマ＝シーン、ファ＝ユイリィ、ザンボット队、剣鉄也、炎ジュン、ダバ＝マイロード、ファンネリア＝アム、ガウ＝ハ＝レッシィ、ひびき洸、战斗机队、デューク＝フリード、牧場ひかる、ハサウェイ＝ノア、ケーラ＝スゥ、クワトロ＝バジーナ、クリスチーナ＝マッケンジー、バーナード＝ワイズマン、カツ＝コバヤシ、サラ＝ザビアロフ、ルー＝ルカ为A队，参谋为クワトロ＝バジーナ，而其余归B队，由破嵐万丈指挥。两个分队的最終目的地都是火星的ＤＣ总部。
 
 In order to better handle future battles, Londo Bell was divided into two teams. The protagonist and his/her  lover, Amuro, Kou, Chuck, Judau, Emma, Fa, Zambot team, Tetsuya, Jun, Daba, Amm, Leccee, Team Reideen Duke, Hikaru, Hathaway, Kayra, Quattro, Chris, Bernie, Katz, Sarah and Roux were assigned to Team A with Bright as the leader and Quattro as the strategist. The rest were assigned to Team B under Banjo Haran's command. Both teams' final destination was DC headquarters on Mars.
 
@@ -123,7 +123,7 @@ In order to better handle future battles, Londo Bell was divided into two teams.
 
 Note that starting from this episode, the units and pilots on the intermission screen are for the next episode. Therefore, you might find yourself collecting suits or characters after defeating Team A, only to see Team B when you clear the game, preventing you from immediately modifying or configuring them. Furthermore, you should prepare chips for specific enemies two or three episodes in advance.
 
-建议在这里让ひかる把\ :ref:`ドリルスパイザー <srw4_unit_drill_spider>`\ （钻地斯陪沙）开去A队，本作最难的两话都是A队在打，无消耗的ドリルアタック在グレンダイザー的EN用完的时候很有用。另外B队的地图武器只有サイフラッシュ（可能还有宇宙适应C的主舰奥拉新星炮），可以考虑把百式用シーブック带过去（F91留在A队更有用）。ZZ在第36话开始的时候一定要留在A队， B队缺乏能够善用ZZ的幸运驾驶员。之后可以用强制换乘(例如\ :doc:`40a_the_backside_of_the_moon`\ 的ZZ)在A队和B队之间迅速交换机体。GP-03デンドロビウム可以这么换3次。
+建议在这里让ひかる把\ :ref:`ドリルスパイザー <srw4_unit_drill_spider>`\ （钻地斯陪沙）开去A队，本作最难的两话都是A队在打，无消耗的ドリルアタック在グレンダイザー的EN用完的时候很有用。另外B队的地图武器只有サイフラッシュ（可能还有宇宙适应C的主舰奥拉新星炮），可以考虑把\ :ref:`百式 <srw4_unit_hyaku_shiki>`\ 用シーブック带过去（F91留在A队更有用）。ZZ在第36话开始的时候一定要留在A队， B队缺乏能够善用ZZ的幸运驾驶员。之后可以用强制换乘(例如\ :doc:`40a_the_backside_of_the_moon`\ 的ZZ)在A队和B队之间迅速交换机体。GP-03デンドロビウム可以这么换3次。
 
 It's recommended to have Hikari take the Drill Spacer to Team A. Team A plays the two most difficult episodes of the game, and the cost-free Drill Attack is very useful when the Grendizer runs out of EN. Team A also has too many map weapons while Team B only has the Cyflash (and possibly the Aura Nova Cannon from a Space Adaptation C battleship), so consider transfer Seabook to the Hyaku Shiki and leave F91 with Team A, whose stages are harder). ZZ should definitely stay with Team A from the start of Episode 36 as Team B lacks Lucky pilots that can use it. Afterwards, you can use a forced transfer to quickly swap units between Team A and Team B. The GP-03 Dendrobium can be swapped three times this way.
 

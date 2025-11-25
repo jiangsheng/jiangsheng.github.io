@@ -15,7 +15,7 @@
 
 .. _srw4_pilots_goshogun_commentBegin:
 
-虽有出场但剧情几乎没有。
+虽有出场但剧情几乎没有。因为是时空穿梭者的原因，会预知很多事情，比如在第四次S中加入时说：“没关系，我会陪你五六关。”
 
 .. _srw4_pilots_goshogun_commentEnd:
 

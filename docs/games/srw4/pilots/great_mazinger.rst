@@ -521,7 +521,7 @@
 
 .. _srw4_pilot_evil_spirit_general_hadias_commentBegin:
 
-在第二话謎の訪問者(\ :ref:`速 <srw4_walkthrough_02a_enigmatic_visitors_fast>`\ /\ :ref:`缓 <srw4_walkthrough_02a_enigmatic_visitors_slow>`\ 路线)中丢下部下逃跑。如果上一话迅速完成的话，有可能消灭他获得更多的钱，但是难度相当高。\ :doc:`../walkthrough/18a_intruder_south_south_west`\ 和\ :doc:`../walkthrough/27_granzon_s_enigma`\ 中出场。最后一次出场是第三十九话リューネ・カプリッチオ。
+在第二话謎の訪問者(\ :ref:`速 <srw4_walkthrough_02a_enigmatic_visitors_fast>`\ /\ :ref:`缓 <srw4_walkthrough_02a_enigmatic_visitors_slow>`\ 路线)中因畏惧提坦斯丢下部下逃跑。如果上一话迅速完成的话，有可能消灭他获得更多的钱，但是难度相当高。\ :doc:`../walkthrough/18a_intruder_south_south_west`\ 和\ :doc:`../walkthrough/27_granzon_s_enigma`\ 中出场。最后一次出场是第三十九话リューネ・カプリッチオ。
 
 [第四次S]在\ :doc:`../walkthrough/30_koros_and_don_zauser`\ 中也出场了。
 
@@ -686,7 +686,7 @@ DC的干部。\ :doc:`../walkthrough/18a_intruder_south_south_west`\ 和\ :doc:`
 
 [第四次S]在\ :doc:`../walkthrough/30_koros_and_don_zauser`\ 中也出场了。
 
-能力和\ :ref:`悪霊将軍ハーディアス <srw4_pilot_evil_spirit_general_hadias>`\ (恶灵将军哈迪斯) 完全相同，除了地形适应略强之外。因为性格问题，战斗时往往处于气力值低下的状态，以至于攻击力连杂兵都不如。
+能力和\ :ref:`悪霊将軍ハーディアス <srw4_pilot_evil_spirit_general_hadias>`\ (恶灵将军哈迪斯) 完全相同，除了地形适应略强之外。因为性格问题，战斗时往往处于气力值低下的状态，以至于攻击力连杂兵都不如。、
 
 .. _srw4_pilot_reptilian_general_draydou_commentEnd:
 
@@ -845,7 +845,7 @@ DC的干部。\ :doc:`../walkthrough/18a_intruder_south_south_west`\ 和\ :doc:`
 
 DC的干部。在\ :doc:`../walkthrough/30_koros_and_don_zauser`\ 中首次登场。最后一次出场是第三十九话リューネ・カプリッチオ。
 
-纸面上的能力远超其部下的将军们，甚至接近我军一线。其他能力较差。因为性格问题，战斗时往往处于气力值低下的状态，以至于攻击力连杂兵都不如。
+纸面上的能力远超其部下的将军们，甚至接近我军一线。其他能力较差。因为性格问题，战斗时往往处于气力值低下的状态，以至于攻击力连杂兵都不如，拖累了单位\ :ref:`暗黒大将軍 <srw4_unit_great_general_of_darkness>`\ 的不错性能。
 
 第四次S中全面增加了除了远攻击和直感之外的能力。
 

@@ -66,7 +66,7 @@ Spaceship Tana is badly damaged on entry. Daba and the rest of team are trying t
 * 機械獣ガラダK７
 * メカザウルス・バド ×2
 * ミニフォー ×3
-* マラサイ ×2
+* \ :ref:`マラサイ <srw4_unit_marasai>`\ (玛拉塞) ×2
 
 -------------
 地图物品

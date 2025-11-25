@@ -34,7 +34,7 @@ You are a top student graduated from the Naimahn Military Academy and an assista
 右上
 
 * バンドック（キラー＝ザ＝ブッチャー）
-* メガブーストドミラ ×6
+* \ :ref:`メカブースト·ドミラ <srw4_unit_mecha_boost_domira>`\  (机械怪兽·德梅拉) ×6
 
 -------------
 我方援军
@@ -63,7 +63,7 @@ You are a top student graduated from the Naimahn Military Academy and an assista
 
 * 初期敌人全灭之后 敌方援军， バンドック（キラー＝ザ＝ブッチャー ）旋即撤退 我方援军 第三方援军
 
-ロフ是来抢钱的。地图大部分是海，主人公机又不能飞，所以派真吾去探宝，主人公去抢钱。虽然攻击第三方可以拿到不少经验值，但是本作敌人等级固定，\ :ref:`我方等级越高获得经验值越少 <srw4_exp>`\ ，，早升几级好处并不大，还是抢钱要紧。
+ロフ是来抢钱的。地图大部分是海，主人公机又不能飞，所以派真吾去探宝，主人公去抢钱。虽然攻击第三方可以拿到不少经验值，但是本作敌人等级固定，\ :ref:`我方等级越高获得经验值越少 <srw4_exp>`\ ，早升几级好处并不大，还是抢钱要紧。\ :ref:`メカブースト·ドミラ <srw4_unit_mecha_boost_domira>`\  (机械怪兽·德梅拉) 价值比较高，是优先击破对象。
 
 .. include:: 00_contact_common.rst
 

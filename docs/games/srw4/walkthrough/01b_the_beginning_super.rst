@@ -46,7 +46,7 @@ Looks like you are not along, DC and Titans are also coming to the crash site.
 * ＧＰ－０１Ｆｂ（コウ＝ウラキ）
 * ゲッター１（流竜馬）
 * ガンダムｍｋⅡ（エマ＝シ－ン）
-* メタス（MS）（ファ＝ユイリィ）
+* \ :ref:`メタス (MS) <srw4_unit_methuss_ms>`\ (MS型梅塔斯)（ファ＝ユイリィ）
 * ガンキャノン（チャック＝キ－ス）
 
 -------------

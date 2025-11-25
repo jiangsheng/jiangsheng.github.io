@@ -589,6 +589,8 @@
 
 .. _srw4_unit_battle_jet_commentBegin:
 
+尽管可以分离出来作战，但性能太低，即使和\ :ref:`コンバトラーV <srw4_unit_combattler_v>`\ (孔巴特拉V)共享改造段数，也无法作为有效战力。
+
 武器ドスブレッシャー按理来说应该是格斗武器，不知为何设定为1格射击武器，面对地面和海中的敌人也可以用。
 
 .. _srw4_unit_battle_jet_commentEnd:
@@ -790,6 +792,7 @@
 
 .. _srw4_unit_battle_crusher_commentBegin:
 
+性能乏善可陈。除了电击飞镖之外，所有武器都可以和和\ :ref:`コンバトラーV <srw4_unit_combattler_v>`\ (孔巴特拉V)共享，然而武器的改造段数是分开的……
 
 .. _srw4_unit_battle_crusher_commentEnd:
 
@@ -964,6 +967,7 @@
 
 .. _srw4_unit_battle_tank_commentBegin:
 
+性能略优于其他四台战斗机体，但仍然缺乏作为作战单位的能力。
 
 .. _srw4_unit_battle_tank_commentEnd:
 
@@ -1138,7 +1142,7 @@
 
 .. _srw4_unit_battle_marine_commentBegin:
 
-
+只有这台战斗潜艇有分离的价值。它拥有维修技能。然而性能较低，有被击落的风险。此外，游戏容量有限，如果单位过多，可能会出现无法正确分离的故障，因此最安全的做法或许是单独派一架修理机出场……
 .. _srw4_unit_battle_marine_commentEnd:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1299,6 +1303,7 @@
 
 .. _srw4_unit_battle_craft_commentBegin:
 
+各项属性都很差，地形更是全B（为什么宇宙适应比同队其他机体高呢？）。碰见敌人的唯一对策大概是钻地逃跑吧。
 
 .. _srw4_unit_battle_craft_commentEnd:
 
@@ -1474,7 +1479,7 @@
 
 .. _srw4_unit_magma_beast_galmus_commentBegin:
 
-加鲁姆在原作和机器人大图鉴中是奴兽，本系列误标为岩浆兽。仅在选择没有恋人的路线出现。
+加鲁姆在原作和机器人大图鉴中是奴兽，本系列作品中从未采用奴兽的设定，本作和F中误标为岩浆兽。仅在选择没有恋人的路线出现。
 
 .. _srw4_unit_magma_beast_galmus_commentEnd:
 
@@ -1662,6 +1667,7 @@
 
 .. _srw4_unit_graydon_commentBegin:
 
+只会出现两次，一次立刻撤退，另一次在第五回合撤退，因此如果你想要击落的资金的话，只能用战斗小队。还好只拥有最弱级别的破坏光线。
 
 .. _srw4_unit_graydon_commentEnd:
 
@@ -1855,6 +1861,7 @@
 
 .. _srw4_unit_magma_beast_demon_commentBegin:
 
+原作中为奴隶獣，机器人大战中从未采用此设定。本作和F中标记为岩浆兽。实际上是最强的奴隶兽。
 
 .. _srw4_unit_magma_beast_demon_commentEnd:
 

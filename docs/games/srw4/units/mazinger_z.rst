@@ -727,7 +727,7 @@
 
 .. _srw4_unit_aphrodite_a_commentBegin:
 
-阿布罗迪号。早期修理机，装甲厚得跟超级机器人有得一拼，可以一用，但是没有空中移动能力是个缺点，中期就被维纳斯A取代了，改造段数继承。
+阿布罗迪号。早期修理机，装甲厚得跟超级机器人有得一拼，可以一用，但是没有空中移动能力是个缺点，中期就被维纳斯A取代了，改造段数继承——然而你会改造这台吗？
 
 .. _srw4_unit_aphrodite_a_commentEnd:
 
@@ -928,9 +928,9 @@
 
 .. _srw4_unit_boss_borot_commentBegin:
 
-波士机器人。武器账面值优秀（和ダイモス的烈風正拳突き相当）但是命中补正居然是负的。加上ボス本来就不算强的命中能力，即使对于超级系敌人也存在打不中的问题，所以最适合的驾驶员是有必中和加速的剣鉄也……
+波士机器人。武器账面值优秀（和ダイモス的烈風正拳突き相当）但是命中补正居然是负的。加上ボス本来就不算强的命中能力，即使对于超级系敌人也存在打不中的问题，所以最适合的驾驶员是有必中和加速的剣鉄也……移动力低下，是使用铁也的另一个有利因素。
 
-没有远程或对空武器在敌方回合经常成为被集火对象。修理费只有10元是个优点——如果你想用自爆+复活让地图武器机体可以满EN发射两次的话。这源自其用废铁制造的设定。
+没有远程或对空武器在敌方回合经常成为被集火对象。强大一点的武器需要气力值但是因为命中问题，经常在使用最弱的武器。修理费只有10元是个优点——如果你想用自爆+复活让地图武器机体可以满EN发射两次的话。这源自其用废铁制造的设定。
 
 在宇宙空间地图不能出战并没有什么影响，后期ボス要练级也是上マリンスペイザー跟グレンダイザー合体的。
 
@@ -1134,7 +1134,7 @@
 
 .. _srw4_unit_diana_a_commentBegin:
 
-戴安娜A是阿布罗迪A的升级版，继承改造。增加了一个消耗EN的武器，战斗力仍然有限。第四次S中提升了装甲和攻击力。
+戴安娜A是阿布罗迪A的升级版，继承改造。增加了一个消耗EN的武器，战斗力仍然有限。能飞的维纳斯A是更好的平替。第四次S中提升了装甲和攻击力。
 
 .. _srw4_unit_diana_a_commentEnd:
 
@@ -1323,7 +1323,7 @@
 
 .. _srw4_unit_mechanical_beast_doublas_m2_commentBegin:
 
-皮粗肉厚武器也不怎么差，不过最强武器不能对海，可以在水中攻击它。
+皮粗肉厚武器也不怎么差，武器威力和射程都低于普通MS，不过最强武器不能对海，可以在水中攻击它。
 
 .. _srw4_unit_mechanical_beast_doublas_m2_commentEnd:
 
@@ -1504,7 +1504,7 @@
 
 .. _srw4_unit_mechanical_beast_garada_k7_commentBegin:
 
-皮粗肉厚武器也不怎么差，不过最强武器不能对空，可以用空飞的机体攻击。
+皮粗肉厚武器也不怎么差，射程高达6格，不过最强武器不能对空，可以用空飞的机体攻击。
 
 .. _srw4_unit_mechanical_beast_garada_k7_commentEnd:
 
@@ -1877,7 +1877,7 @@
 
 .. _srw4_unit_mechanical_beast_genova_m9_commentBegin:
 
-皮粗肉厚，射程也不错，但是命中回避和攻击力都是问题。
+皮粗肉厚，射程也不错，但是命中回避和攻击力都是问题。射程2处存在盲区。
 
 .. _srw4_unit_mechanical_beast_genova_m9_commentEnd:
 
@@ -2078,6 +2078,8 @@
 
 .. _srw4_unit_bood_commentBegin:
 
+在初期的速路线中的\ :ref:`第四话Ａ 特訓！大雪山おろし (速) <srw4_walkthrough_04a_special_training_dai_setsu_zan_oroshi_fast>`\ 和有恋人的路线\ :ref:`第六话Ａ スタンピド <srw4_walkthrough_06a_stampede>`\ 出场。
+
 装甲不错的战舰，但是最强的两个武器是对海专用，可以引到岸边再打。
 
 .. _srw4_unit_bood_commentEnd:
@@ -2246,6 +2248,7 @@
 
 .. _srw4_unit_mechanical_beast_spartan_k5_commentBegin:
 
+HP很高，但是射程仅有1，而且没有对空武器。
 
 .. _srw4_unit_mechanical_beast_spartan_k5_commentEnd:
 
@@ -2581,6 +2584,7 @@
 
 .. _srw4_unit_rhine_x1_commentBegin:
 
+实际上并非机械兽，但具有类似的命名，而且总是和机械兽一起出战。HP很高，但是其鞭状武器无法触及空中目标，因此飞行单位相对安全。
 
 .. _srw4_unit_rhine_x1_commentEnd:
 

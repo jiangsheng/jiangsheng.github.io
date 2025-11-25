@@ -46,7 +46,7 @@ When DC invaded Londenion, Gilliam Yeager also entered the battlefield.
    
    * ブンドル艦（レオナルド＝レディチ＝ブンドル）
    * ケルナグール艦（ヤッター＝ラ＝ケルナグール ）
-   * カットナル艦（スーグニ＝カットナル）
+   * \ :ref:`カットナル艦 <srw4_unit_cuttnal_ship>`\ (卡特纳尔舰)（スーグニ＝カットナル）
    * ゴッドネロス
    * ゲーマルク
    * クイン・マンサ
@@ -134,7 +134,7 @@ When DC invaded Londenion, Gilliam Yeager also entered the battlefield.
 
 第四回合的敌人援军也不是很强，注意他们可以行动两次。总体来说敌人的等级和命中率都不高，只是HP比较多而已。无消耗的ゲッター3的大雪山おろし二段返再不用就没机会用了。
 
-本话清关时是第42话之前整备A队的最后机会。建议给ヒュッケバイン、νガンダム和ザンボット３装高性能雷达制造三个射程11的机体，可以免掉オージ和ブラッドテンプル的反击。另外尽可能多地制造移动力10的超级系。如果后面会去スウィートウォーター殖民地，那么C队的レッシィ或者アム也可以在这里转乘アシュラテンプル。
+本话清关时是第42话之前整备A队的最后机会。建议给ヒュッケバイン、νガンダム和ザンボット３装高性能雷达制造三个射程11的机体，可以免掉オージ和ブラッドテンプル的反击。另外尽可能多地制造移动力10的超级系。如果后面会去スウィートウォーター殖民地，那么C队的レッシィ或者アム也可以在这里转乘\ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\  (阿修罗神殿)。
 
 After the battle, Ryune reappeared. Masaki asked Ryune why she was attacking friends. She replied that she followed Masaki to the surface with Precia, but ended up lost Precia in the process. Precia was held hostage by Carozzo and forced her to attack Londo Bell.
 

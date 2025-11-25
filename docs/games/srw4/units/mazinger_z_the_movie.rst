@@ -191,6 +191,7 @@
 
 .. _srw4_unit_mechanical_beast_toros_d7_commentBegin:
 
+靠冲撞吃饭的机械兽，可以用飞空的机体对付。
 
 .. _srw4_unit_mechanical_beast_toros_d7_commentEnd:
 
@@ -375,7 +376,9 @@
 
 .. _srw4_unit_dragonsaurus_commentBegin:
 
-开始的时候只有一半HP,20000，加上每回合的10%HP回复，在海里比较难打。ドラゴノザウルス的主要弱点是对空武器超声波的存量太少，几回合后就会用完，所以空中部队可以自由攻击它。
+笔直冲向名古屋，优先考虑移动而非攻击。
+
+开始的时候只有一半HP,20000，加上每回合的10%HP回复，在海里比较难打。ドラゴノザウルス的主要弱点是对空武器超声波的存量太少，几回合后就会用完，所以空中部队可以自由攻击它。原作中可以飞的，如果真的实现这一点的话，这一话不知道怎么打。
 
 .. _srw4_unit_dragonsaurus_commentEnd:
 
@@ -556,7 +559,7 @@
 
 .. _srw4_unit_saucer_beast_jinjin_commentBegin:
 
-敌军很不错的肉盾。
+敌军很不错的肉盾。射程、威力、弹数这三项指标作为杂兵单位的武器都相当出色。缺点是运动型差，命中回避都成问题。
 
 .. _srw4_unit_saucer_beast_jinjin_commentEnd:
 
@@ -724,6 +727,7 @@
 
 .. _srw4_unit_warrior_beast_dante_commentBegin:
 
+HP高一点，但是战斗力偏弱。
 
 .. _srw4_unit_warrior_beast_dante_commentEnd:
 
@@ -1065,6 +1069,7 @@
 
 .. _srw4_unit_pikadron_commentBegin:
 
+射程很远，威力也不错，但是作为Boss单位来说只能说一般。移动后无法攻击，因此只需要引诱过来围殴就行。
 
 .. _srw4_unit_pikadron_commentEnd:
 
@@ -1244,6 +1249,10 @@
         :class: flex-break
 
 .. _srw4_unit_gilgilgan_commentBegin:
+
+击破后变身\ :ref:`メカギルギルガン <srw4_unit_mecha_gilgilgan>`\  (机械基鲁基鲁刚)。
+
+虽然性能相当不错，但考虑到它在最终决战前夕的出现，还是显得有些弱。
 
 
 .. _srw4_unit_gilgilgan_commentEnd:

@@ -241,11 +241,13 @@ GM III(吉姆Ⅲ)
 
 .. _srw4_unit_gm_iii_commentBegin:
 
+代码RGM-86R。
+
 性能和杰刚相差不多。因为敌人很多有光束护盾，有导弹攻击的GMIII算是初期机动战士机体里比较强的一个。不过机器人大图鉴中还是建议作为支援机体。
 
 第四次里有强制废弃事件，不好改造。在废弃的时候会获得3000资金，所以不要提前卖掉。
 
-第四次S里陆地适应加强到了A，比ガンダム Mk-II要强。虽然不会有第四次S那样的强制废弃，但是也可能被罗莎米娅开走离队。
+第四次S里陆地适应加强到了A，比\ :ref:`ガンダム Mk-II <srw4_unit_gundam_mk_ii>`\  (高达 Mk-II)要强。虽然不会有第四次S那样的强制废弃，但是也可能被罗莎米娅开走离队。
 
 .. _srw4_unit_gm_iii_commentEnd:
 
@@ -304,7 +306,7 @@ ZΖガンダム(ZZ高达)
                 :columns: auto
 
 
-            .. grid-item:: 地形参照： \ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ 。
+            .. grid-item:: 地形参照： \ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ (捷多·亚西塔)  。
                 :columns: auto
 
 
@@ -476,6 +478,8 @@ ZΖガンダム(ZZ高达)
 
 .. _srw4_unit_zz_gundam_commentBegin:
 
+代码MSZ-010。
+
 机动战士系升级用机，应该优先改造。地图武器比第三次和EX的都要强，可以作为主力资金投入目标。虽然机师捷多缺乏幸运，但是用本机地图炮刷等级的太多，他本来就抢不到本机开，不是什么大问题。双光束步枪射程过短，极易被反击。移动后仅能使用巴尔干和光束剑。不过为了压级起见，本来这些常规武器都不应该被使用，所以不是什么缺点。
 
 .. _srw4_unit_zz_gundam_commentEnd:
@@ -535,7 +539,7 @@ G-フォートレス(G-要塞)
                 :columns: auto
 
 
-            .. grid-item:: 地形参照： \ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ 。
+            .. grid-item:: 地形参照：\ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ (捷多·亚西塔) 。
                 :columns: auto
 
 
@@ -1068,9 +1072,11 @@ G-フォートレス(G-要塞)
 
 .. _srw4_unit_qubeley_mk_ii_commentBegin:
 
+代码AMX-107-2。
+
 真实系路线符合プル和プルツー加入条件可以获得两台。虽然加入时即具备四阶段改造，但因陆地地形适应只有B级及加入时机较晚，可能较少被使用。
 
-在开场战斗演示中，她们驾驶机体与卡缪的Z高达交战，虽以飞弹发动攻击却全数被击落——此处正是展现飞弹动画效果及本作新增特殊技能"切防御"效果的戏份。
+在开场战斗演示中，她们驾驶机体与卡缪的\ :ref:`Ζガンダム <srw4_unit_z_gundam>`\ (Z高达)交战，虽以飞弹发动攻击却全数被击落——此处正是展现飞弹动画效果及本作新增特殊技能"切防御"效果的戏份。
 
 与其他单位相同，其浮游炮威力在第四次S中得到提升。因其地形适应性仍维持陆地B级，加之武器改造初始化、加入时机较晚，以及其他MS的性能提升，仍难以作为主力投入战斗。
 
@@ -1261,7 +1267,7 @@ G-フォートレス(G-要塞)
 
 .. _srw4_unit_galluss_j_commentBegin:
 
-除了陆地的适应性是A之外，其他的能力都不怎么样。
+代码AMX-101。除了陆地的适应性是A之外，其他的能力都不怎么样。
 
 .. _srw4_unit_galluss_j_commentEnd:
 
@@ -1433,7 +1439,7 @@ G-フォートレス(G-要塞)
 
 .. _srw4_unit_zssa_commentBegin:
 
-完全的杂鱼机。
+代码AMX-102。完全的杂鱼机。
 
 .. _srw4_unit_zssa_commentEnd:
 
@@ -1618,6 +1624,7 @@ R·ジャジャ(R·贾贾)
 
 .. _srw4_unit_r_jarja_commentBegin:
 
+代码AMX-104。
 
 .. _srw4_unit_r_jarja_commentEnd:
 
@@ -1815,6 +1822,7 @@ R·ジャジャ(R·贾贾)
 
 .. _srw4_unit_bawoo_ms_commentBegin:
 
+代码AMX-107。
 
 .. _srw4_unit_bawoo_ms_commentEnd:
 
@@ -2188,6 +2196,7 @@ R·ジャジャ(R·贾贾)
 
 .. _srw4_unit_dreissen_commentBegin:
 
+代码AMX-009。
 
 .. _srw4_unit_dreissen_commentEnd:
 
@@ -2450,6 +2459,7 @@ R·ジャジャ(R·贾贾)
 
 .. _srw4_unit_doven_wolf_commentBegin:
 
+代码AMX-014。行走的武器库。
 
 .. _srw4_unit_doven_wolf_commentEnd:
 
@@ -2634,6 +2644,7 @@ R·ジャジャ(R·贾贾)
 
 .. _srw4_unit_hamma_hamma_commentBegin:
 
+代码AMX-103。
 
 .. _srw4_unit_hamma_hamma_commentEnd:
 
@@ -3018,6 +3029,7 @@ R·ジャジャ(R·贾贾)
 
 .. _srw4_unit_quin_mantha_commentBegin:
 
+代码NZ-000。有强力版的浮游炮，残弹有12发。
 
 .. _srw4_unit_quin_mantha_commentEnd:
 
@@ -3267,6 +3279,7 @@ R·ジャジャ(R·贾贾)
 
 .. _srw4_unit_geymalk_commentBegin:
 
+代码AMX-015。有射程高达10的浮游炮变种。可惜地面适应是C。
 
 .. _srw4_unit_geymalk_commentEnd:
 

@@ -122,7 +122,7 @@
        .. admonition:: 是
           :class: attention
 
-          在\ :doc:`40a_the_backside_of_the_moon`\ 战斗结束时选择是否和ジュドー＝アーシタ一起去シャングリラ殖民地
+          在\ :doc:`40a_the_backside_of_the_moon`\ 战斗结束时选择是否和\ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ (捷多·亚西塔) 起去シャングリラ殖民地
 
      - :rspan:`3`
 

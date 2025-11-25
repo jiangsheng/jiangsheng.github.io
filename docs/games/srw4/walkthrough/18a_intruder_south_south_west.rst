@@ -40,7 +40,7 @@
 
 #. 援军2 右上
 
-   * バイアラン
+   * \ :ref:`バイアラン <srw4_unit_byarlant>`\ (拜亚兰)
    * \ :ref:`アッシマー (MA) <srw4_unit_asshimar_ma>`\  ×2
    * カレイツェド
    * ガロイカ

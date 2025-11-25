@@ -134,7 +134,7 @@
         | 加入机体：\ :ref:`トロイホース <srw4_unit_trojan_horse>`\ 、
         | マジンガーZ、アフロダイA
         | 、ボスボロット、ガンダム、
-        | ガンダム Mk-II、GP-01Fb、
+        | \ :ref:`ガンダム Mk-II <srw4_unit_gundam_mk_ii>`\  (高达 Mk-II)、\ :ref:`GP-01Fb <srw4_unit_gp_01fb>`\ 、
         | メタス、ガンキャノン、
         | ゲッターロボ、
         | ゲシュペンスト、
@@ -346,7 +346,7 @@
         | → マジンガーZ（J）
         | アフロダイA
         | → ダイアナンA
-        | 废弃：GP-01Fb
+        | 废弃：\ :ref:`GP-01Fb <srw4_unit_gp_01fb>`\ 
 
     .. grid-item-card:: 第十五话
         :columns: auto
@@ -468,7 +468,7 @@
         .. image:: ../units/images/portrait/srw4_units_portrait_D9.png
 
         | :doc:`宇宙へ <23a_into_space>`
-        | 加入机体：（バイアラン）
+        | 加入机体：（\ :ref:`バイアラン <srw4_unit_byarlant>`\ (拜亚兰)）
         | 加入机师：（副主人公）
 
     .. grid-item-card:: 第二十四话（宇宙）
@@ -477,7 +477,7 @@
         .. image:: ../units/images/portrait/srw4_units_portrait_71.png
 
         | :doc:`エゥーゴとの接触 <24a_encounter_with_the_aeug>`
-        | 加入机体：百式、
+        | 加入机体：\ :ref:`百式 <srw4_unit_hyaku_shiki>`\ 、
         | グレンダイザー、
         | ダブルスペイザー
         | 加入机师：クワトロ、
@@ -493,7 +493,7 @@
         | 加入机体：ZZガンダム、
         | F91、エルガイム Mk-II、
         | ヌーベルディザード
-        | 加入机师：ジュドー、
+        | 加入机师：\ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ (捷多·亚西塔) 、
         | シーブック
         | 离队：ディザード、
         | カルバリーテンプル
@@ -536,7 +536,7 @@
         .. image:: ../units/images/portrait/srw4_units_portrait_B5.png
 
         | :doc:`ティターンズ台頭 <24b_rise_of_the_titans>`
-        | 加入机体：（バイアラン）
+        | 加入机体：（\ :ref:`バイアラン <srw4_unit_byarlant>`\ (拜亚兰)）
         | 加入机师：（副主人公）  
         | 升级：ゲッターロボ
         | → ゲッターロボG
@@ -701,7 +701,7 @@
 
         | A队成员：ブライト、主人公
         | 、副主人公、アムロ、
-        | ジュドー、クワトロ、コウ、
+        | \ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ (捷多·亚西塔) 、クワトロ、コウ、
         | エマ、ファ、キース、
         | ハサウェイ、ケーラ、クリス
         | 、バーニィ、ルー、カツ、
@@ -740,7 +740,7 @@
         
         | :doc:`ポセイダルの野心 <38_poseidal_s_ambition>`\ 
         | 加入机体：
-        | （アシュラテンプル）
+        | （\ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\  (阿修罗神殿)）
         | 加入机师：（ギャブレー）
         | 升级：GP-03ステイメン
         | → GP-03デンドロビウム
@@ -777,10 +777,10 @@
         .. image:: ../units/images/portrait/srw4_units_portrait_7B.png
 
         | :doc:`月の裏側 <40a_the_backside_of_the_moon>`\ (A)
-        | 加入机体：(キュベレイmkII×2)
+        | 加入机体：(\ :ref:`キュベレイ Mk-II <srw4_unit_qubeley_mk_ii>`\  (卡碧尼 Mk-II)×2)
         | 加入机师：プル、プルツー
         | (スウィートウォーターへ行く:
-        | C队：主人公、ジュドー、プル
+        | C队：主人公、\ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ (捷多·亚西塔) 、プル
         | 、プルツー、エルガイム队)
 
     .. grid-item-card:: 第四十话（无ギャブレー）

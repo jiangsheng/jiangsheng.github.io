@@ -21,7 +21,7 @@
 
 * \ :ref:`リヒテル提督 <srw4_pilot_richter>`\ (里希迪鲁)的妹妹和\ :ref:`竜崎一矢 <srw4_pilot_kazuya_ryuzaki>`\ 的恋人エリカ（艾莉卡）虽说貌似在分别乘坐\ :ref:`ガロイカ <srw4_unit_garoica>`\ （加罗依卡不是盖斯特军的么）和\ :ref:`メカ戦士ゴッドアーモン <srw4_unit_mecha_warrior_goddoamon>`\ （机甲战士阿蒙神） 在\ :ref:`第四十三话 荒野の死闘 <srw4_walkthrough_43_wasteland_deathmatch>`\ 和\ :ref:`第四十四话Ａ 火星の決戦 (ゼゼーナン) <srw4_walkthrough_44a_final_battle_on_mars_zezeenan>` \  登场劝说哥哥后撤退，其机体驾驶员实为DC士兵，仅在对话中更换了头像Id。
 
-* 艾莉卡的侍女玛格丽特。
+* 艾莉卡的侍女マルガレーテ（玛格丽特）。向我军通报击败的方法。查明了里昂大元帅之死的真像并告知艾莉卡。
 * 研发戴莫斯的和泉博士。
 
 .. _srw4_pilots_daimos_commentEnd:

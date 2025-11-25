@@ -179,6 +179,11 @@
 
 .. _srw4_pilot_beast_demon_general_commentBegin:
 
+\ :ref:`暗黒大将軍 <srw4_pilot_great_general_of_darkness>`\ 的副官，原本应该在下属大将军排第一，不知为何能力如此低下，连\ :ref:`悪霊将軍ハーディアス <srw4_pilot_evil_spirit_general_hadias>`\ (恶灵将军哈迪斯) 和\ :ref:`妖爬虫将軍ドレイドウ <srw4_pilot_reptilian_general_draydou>`\ (妖爬虫将军德雷多乌) 都不如，到底怎么成为剧场版的Boss的……
+
+因为性格问题，战斗时往往处于气力值低下的状态，以至于攻击力连杂兵都不如。
+
+不知为何，机体\ :ref:`獣魔将軍 <srw4_unit_general_juuma>`\ 的乘换是机动战士系，本人却是\ :ref:`エルガイム <srw4_pilots_heavy_metal_l_gaim>`\ 系。显然是设定问题。
 
 .. _srw4_pilot_beast_demon_general_commentEnd:
 

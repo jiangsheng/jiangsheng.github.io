@@ -328,7 +328,7 @@
 
 .. _srw4_unit_great_mazinger_commentBegin:
 
-原本陈列于博物馆，后被布罗肯伯爵夺走，由铁也夺回并加入朗德·贝尔。在夺回的场景，也可以用维纳斯A把大魔神打爆，游戏为此单独设定了对话。
+原本陈列于博物馆，后被布罗肯伯爵夺走，在\ :ref:`第二十三话Ｂ グレートマジンガー奪回 <srw4_walkthrough_23b_recapture_of_great_mazinger>`\ 中由铁也夺回并加入朗德·贝尔。因为AI被设定为不积极行动，所以只需用维纳斯A近邻即可。也可以用维纳斯A把大魔神打爆，游戏为此单独设定了对话。
 
 虽然地形适应仍然只有一个陆A（第四次S增加空A），大魔神机体属性和マジンガーZ比起来全面提升，但是武器方面导弹数量少了一些，サンダーブレーク油耗也更高，所以持久能力比マジンガーZ差。火力虽超越\ :ref:`グレンダイザー <srw4_unit_grendizer>`\ (古连泰沙)，但是由于后者是双座，可以使用两份精神，还能获得两份经验值，所以在出场选坦克的时候经常是竞争不过丹拜因系列和古连泰沙的。
 
@@ -552,7 +552,7 @@
 
 .. _srw4_unit_venus_a_commentBegin:
 
-维纳斯A能够飞，入手时即替代阿波罗迪A作为地面路线和B队的修理机。但是因为魔神系不能用地图炮刷机，修理能力远低于美塔斯。
+维纳斯A能够飞，入手时即替代阿波罗迪A作为地面路线和B队的修理机。但是因为魔神系不能用地图炮刷机，修理能力远低于美塔斯。残弹太少，比较依赖格斗战，问题机师通常是偏远程的……
 
 .. _srw4_unit_venus_a_commentEnd:
 
@@ -748,7 +748,7 @@
 
 .. _srw4_unit_hardias_commentBegin:
 
-惡靈將軍的最强武器不能对海但是利用机会不多。
+虽然攻击力平平，但是武器卡兹的战斗动画意外地出色。最强武器不能对海但是利用机会不多。
 
 .. _srw4_unit_hardias_commentEnd:
 
@@ -942,6 +942,7 @@
 
 .. _srw4_unit_warrior_beast_gratonios_commentBegin:
 
+装备了破坏光线的都是颇有威力的杂鱼，而本机还装备了钻头（虽然和鞭子貌似有点重复）。应该尽快消灭。
 
 .. _srw4_unit_warrior_beast_gratonios_commentEnd:
 
@@ -1122,6 +1123,9 @@
 
 .. _srw4_unit_warrior_beast_obelius_commentBegin:
 
+装有破坏光线和格斗武器，算是比较棘手的类型，最好能迅速解决掉。
+
+因为不具备陆地移动能力，因此无法将喙部用于陆地或海洋攻击。算是一个小小的弱点，但因为破坏光线残弹太多，也不是很严重。
 
 .. _srw4_unit_warrior_beast_obelius_commentEnd:
 
@@ -1309,6 +1313,7 @@
 
 .. _srw4_unit_draydou_commentBegin:
 
+拥有连小兵都不如的杂鱼级破坏光线。唯一有点只是皮糙肉厚。
 
 .. _srw4_unit_draydou_commentEnd:
 
@@ -1489,6 +1494,9 @@
 
 .. _srw4_unit_warrior_beast_zugar_commentBegin:
 
+只有头就能飞的原理是什么？
+
+虽无破坏光线，但怪光线是弱化平替。格斗较其他战斗兽强一点。
 
 .. _srw4_unit_warrior_beast_zugar_commentEnd:
 
@@ -1676,6 +1684,9 @@
 
 .. _srw4_unit_great_general_of_darkness_commentBegin:
 
+米凯内七大战斗兽军团的总指挥官。本作中米凯内阵营最强的单位。不愧是暗黑大将军，其单位性能与武器性能均高于其他将军，尤其武器强度在某种程度上还原了超越战斗兽的威力。不过命中率不高，倒也不至于称得上强力。
+
+旧系列中超级系敌方单位普遍受到冷遇，但他的实力应该算强吧。顺带一提，他与德雷多、哈迪亚斯腹部的面孔才是本体，并非由他人操控。
 
 .. _srw4_unit_great_general_of_darkness_commentEnd:
 

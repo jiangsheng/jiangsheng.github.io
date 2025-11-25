@@ -4,7 +4,7 @@
 第三十话 コロスとドン・サウザー
 ======================================
 
-.. _srw4_walkthrough_30_marts_connection:
+.. _srw4_walkthrough_30_koros_and_don_zauser:
 
 :doc:`29a_mars_connection`\ 或者下一话进入\ :doc:`29b2_richter_and_aizam`\ 之后进入本话。
 

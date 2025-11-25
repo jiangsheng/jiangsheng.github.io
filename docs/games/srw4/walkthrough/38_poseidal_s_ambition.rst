@@ -40,10 +40,10 @@ After the destruction of Titans, Londo Bell found the forgotten Orchis on the La
 右下
 
 * アトール（リョクレイ＝ロン）
-* アシュラテンプル（ギャブレット＝ギャブレー）
-* アシュラテンプル（ハッシャ＝モッシャ）
-* バッシュ（クワサン＝オリビー）
-* バッシュ ×3
+* \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\  (阿修罗神殿)（ギャブレット＝ギャブレー）
+* \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\  (阿修罗神殿)（ハッシャ＝モッシャ）
+* \ :ref:`バッシュ <srw4_unit_bat_shu>`\ (巴修)（\ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ (柯瓦桑·奥利比) ）
+* \ :ref:`バッシュ <srw4_unit_bat_shu>`\ (巴修) ×3
 * グルーン ×3
 
 -------------
@@ -59,29 +59,29 @@ After the destruction of Titans, Londo Bell found the forgotten Orchis on the La
 事件
 -------------
 * 如果主人公和副主人公共同出击，那么\ :doc:`../mechanics/love_points`\ +1
-* 第三回合 来自ポセイダル的傭兵部隊到达。ギャブレット＝ギャブレー和クワサン＝オリビー也在其中。
-* 如果你在之前说得过クワサン＝オリビー，那么可以再次说得她 ，恢复她的自由意志。说得她之后，可以说得和她形影不离的ギャブレット＝ギャブレー，并且ハッシャ＝モッシャ因为不愿意和ファンネリア＝アム作战而撤退 。
+* 第三回合 来自ポセイダル的傭兵部隊到达。ギャブレット＝ギャブレー和\ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ (柯瓦桑·奥利比) 也在其中。
+* 如果你在之前说得过\ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ (柯瓦桑·奥利比) ，那么可以再次说得她 ，恢复她的自由意志。说得她之后，可以说得和她形影不离的ギャブレット＝ギャブレー，并且ハッシャ＝モッシャ因为不愿意和ファンネリア＝アム作战而撤退 。
 * 如果清关时主人公和副主人公都在战场上，那么恋爱度 +1。否则恋爱度-1。
 
 .. rst-class::center
 .. flat-table::   
    :class: text-center, align-items-center, align-self-center
 
-   * - :cspan:`2` \ :ref:`隐藏要素 <srw4_missable>` \：クワサン   * 
+   * - :cspan:`2` \ :ref:`隐藏要素 <srw4_missable>` \：\ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ (柯瓦桑·奥利比) * 
    * - :cspan:`2` 
 
-       .. admonition:: ダバ＝マイロード说得クワサン＝オリビー
+       .. admonition:: ダバ＝マイロード说得\ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ (柯瓦桑·奥利比) 
           :class: attention
 
-          クワサン 4/4
+          \ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ (柯瓦桑·奥利比)  4/4
 
-          アシュラテンプル（ギャブレー）4/5
+          \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\  (阿修罗神殿)（ギャブレー）4/5
 
-          キュベレイMk-IIx2（プル和プルツー）4/6
+          \ :ref:`キュベレイ Mk-II <srw4_unit_qubeley_mk_ii>`\  (卡碧尼 Mk-II)x2（プル和プルツー）4/6
           
           GP-02A追加アトミックバズーカ 6/9
 
-   * - :cspan:`2` \ :ref:`隐藏要素 <srw4_missable>` \：アシュラテンプル（ギャブレー）
+   * - :cspan:`2` \ :ref:`隐藏要素 <srw4_missable>` \：\ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\  (阿修罗神殿)（ギャブレー）
   
    * - :cspan:`1`
   
@@ -90,9 +90,9 @@ After the destruction of Titans, Londo Bell found the forgotten Orchis on the La
 
           第40话进入\ :doc:`40a_the_backside_of_the_moon`\ 。
           
-          アシュラテンプル（ギャブレー）5/5
+          \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\  (阿修罗神殿)（ギャブレー）5/5
 
-          キュベレイMk-IIx2（プル和プルツー）5/6
+          \ :ref:`キュベレイ Mk-II <srw4_unit_qubeley_mk_ii>`\  (卡碧尼 Mk-II)x2（プル和プルツー）5/6
           
           GP-02A追加アトミックバズーカ 7/9
 
@@ -122,7 +122,7 @@ After the destruction of Titans, Londo Bell found the forgotten Orchis on the La
 其他
 -------------
 
-战斗之后，虽然已经知道了ゲスト和インスペクター的关系，但是ロンド・ベル在前往火星之前决定先对付ポセイダル军。ギャブレット＝ギャブレー和他的满改アシュラテンプル加入部队，但是恢复自由意志的クワサン＝オリビー不再适合驾驶机体，所以她的バッシュ被拆解以获得备用部件。
+战斗之后，虽然已经知道了ゲスト和インスペクター的关系，但是ロンド・ベル在前往火星之前决定先对付ポセイダル军。ギャブレット＝ギャブレー和他的满改\ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\  (阿修罗神殿)加入部队，但是恢复自由意志的\ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ (柯瓦桑·奥利比) 不再适合驾驶机体，所以她的バッシュ被拆解以获得备用部件。
 
 If Quwasan was persuaded, She was unfit to pilot a Heavy Metal anymore and her Calvary Temple (sic, should be Bash) was broken for parts. If not, Daba was saddened by failing to save her. 
 

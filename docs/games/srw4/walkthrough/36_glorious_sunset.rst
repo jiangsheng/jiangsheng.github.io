@@ -44,7 +44,7 @@ While Team B is preparing for space operations in Hong Kong, Team A receives a r
 * ハンマ・ハンマ
 * ドライセン ×2 (x1)
 * R・ジャジャ
-* ガルスJ
+* \ :ref:`ガルスJ <srw4_unit_galluss_j>`\  (卡尔斯J)
 
 --------------
 敌方援军

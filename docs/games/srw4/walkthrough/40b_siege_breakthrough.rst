@@ -30,12 +30,12 @@ A previous conversation between Gavlet and Lecci revealed that the Poseidal Army
 * ゼラニオ（ギワザ＝ロワウ）
 * オージェ（ネイ＝モー＝ハン）
 * アトール（マフ＝マクミトン）
-* アシュラテンプル（バーン＝ガニア＝キラーズ）
-* アシュラテンプル（テッド＝デビラス）
+* \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\  (阿修罗神殿)（バーン＝ガニア＝キラーズ）
+* \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\  (阿修罗神殿)（テッド＝デビラス）
 * グルーン（アントン＝ランド）
 * グルーン（ヘッケラー＝マウザー）
 * グルーン
-* バッシュ
+* \ :ref:`バッシュ <srw4_unit_bat_shu>`\ (巴修)
 * アトール ×4
 
 -----------------

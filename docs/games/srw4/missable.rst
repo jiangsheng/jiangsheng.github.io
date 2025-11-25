@@ -124,13 +124,13 @@
    .. grid-item-card:: 宇宙路线26話 
       :columns: auto
 
-      | 路线A : \ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\  和\ :ref:`ダバ <srw4_pilots_heavy_metal_l_gaim>`\ 战斗
+      | 路线A : \ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ (柯瓦桑·奥利比)   和\ :ref:`ダバ <srw4_pilots_heavy_metal_l_gaim>`\ 战斗
       | 路线C : 同A
 
    .. grid-item-card:: 真实系29話 
       :columns: auto
 
-      | 路线A : \ :ref:`ダバ <srw4_pilots_heavy_metal_l_gaim>`\ 说得\ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\  
+      | 路线A : \ :ref:`ダバ <srw4_pilots_heavy_metal_l_gaim>`\ 说得\ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ (柯瓦桑·奥利比) 
       | 移动阿姆罗到特定位置
       | 路线C : 同A
 
@@ -204,7 +204,7 @@
       :columns: auto
 
       | 路线A: \ :ref:`ダバ <srw4_pilots_heavy_metal_l_gaim>`\ 说得
-      | \ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\  和\ :ref:`ギャブレット・ギャブレー <srw4_pilot_gavlet_gablae>`\ 
+      | \ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ (柯瓦桑·奥利比)   和\ :ref:`ギャブレット・ギャブレー <srw4_pilot_gavlet_gablae>`\ 
       | 路线C: 同A
 
    .. grid-item-card:: 真实系38话
@@ -212,7 +212,7 @@
 
       | 路线A: 不攻击
       | \ :ref:`エルピー・プル <srw4_pilot_elpeo_ple>`\ 和\ :ref:`プルツー <srw4_pilot_ple_two>`\ 
-      | 用\ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ 说得
+      | 用\ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ (捷多·亚西塔) 说得
       | 路线C: 同A
 
    .. grid-item-card:: 39话
@@ -250,7 +250,7 @@
 主人公的系别选择
 ----------------------
 1. 主人公的初期和后期机体取决于在\ :ref:`序幕 <srw4_walkthrough_preclude>`\ 中主角的系别选择。如果选择了真实系是\ :ref:`ゲシュペンスト（リアル）<srw4_unit_gespenst_real>`\ 和\ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\ ，选择了超级系是\ :ref:`ゲシュペンスト（スーパー） <srw4_unit_gespenst_super>`\ 和\ :ref:`グルンガスト <srw4_unit_grungust>`\ 。后期机体在\ :doc:`walkthrough/25b_hyper_jerill`\ 战斗之前，或者\ :doc:`walkthrough/26a_londenion`\ 战斗之后获得。可以自定义机体的名称和颜色。ゲシュペンスト可以换成主角恋人驾驶。 
-3. 真实系限定\ ::ref:`ガブスレイ <srw4_unit_gabthley_ms>`\ （\ :ref:`サラ・ザビアロフ <srw4_pilot_sarah_zabiarov>`\ ）、\  :ref:`Sガンダム <srw4_unit_s_gundam>`\ 和\ :ref:`ExSガンダム <srw4_unit_ex_s_gundam>`\ 、\ :ref:`ヤクト・ドーガ（赤） <srw4_unit_jagd_doga_red>`\  (\ :ref:`クェス・パラヤ <srw4_pilot_quess_paraya>`\ )、 \ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\  、\ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\ （\ :ref:`ギャブレット・ギャブレー <srw4_pilot_gavlet_gablae>`\ ）、\ :ref:`キュベレイ Mk-IIx2 <srw4_unit_qubeley_mk_ii>`\ （\ :ref:`エルピー・プル <srw4_pilot_elpeo_ple>`\ 和\ :ref:`プルツー <srw4_pilot_ple_two>`\ ）、\ :ref:`GP-02A <srw4_unit_gp_02a>`\ 追加アトミックバズーカ
+3. 真实系限定\ ::ref:`ガブスレイ <srw4_unit_gabthley_ms>`\ （\ :ref:`サラ・ザビアロフ <srw4_pilot_sarah_zabiarov>`\ ）、\  :ref:`Sガンダム <srw4_unit_s_gundam>`\ 和\ :ref:`ExSガンダム <srw4_unit_ex_s_gundam>`\ 、\ :ref:`ヤクト・ドーガ（赤） <srw4_unit_jagd_doga_red>`\  (\ :ref:`クェス・パラヤ <srw4_pilot_quess_paraya>`\ )、 \ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ (柯瓦桑·奥利比)  、\ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\ （\ :ref:`ギャブレット・ギャブレー <srw4_pilot_gavlet_gablae>`\ ）、\ :ref:`キュベレイ Mk-IIx2 <srw4_unit_qubeley_mk_ii>`\ （\ :ref:`エルピー・プル <srw4_pilot_elpeo_ple>`\ 和\ :ref:`プルツー <srw4_pilot_ple_two>`\ ）、\ :ref:`GP-02A <srw4_unit_gp_02a>`\ 追加アトミックバズーカ
 4. 超级系限定：\ :ref:`ダイモス <srw4_units_daimos>`\ 追加武器
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -412,9 +412,9 @@
 4. 过关后选择是获得ヤクト・ドーガ还是保留ジェガン。 
 5. 根据ジェガン获得的数量，可能和\ :ref:`ExSガンダム <srw4_unit_ex_s_gundam>`\ 和\ :ref:`ロザミア・バダム <srw4_pilot_rosamia_badam>`\ 冲突。
  
---------------------------------------------------------------------
-\ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ 
---------------------------------------------------------------------
+------------------------------------------------------------------------------------
+\ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ (柯瓦桑·奥利比) 
+------------------------------------------------------------------------------------
 1. 真实系限定。
 2. 宇宙路线\ :doc:`walkthrough/26a_londenion`\ 这一话中，和 :ref:`ダバ <srw4_pilots_heavy_metal_l_gaim>`\战斗。地上路线无需此条件（虽然如此，但是剧情党大概会想看加入之前的一系列事件）。 
 3. :doc:`walkthrough/29a_mars_connection`\ 这一话中作为敌方援军登场。用ダバ说得。
@@ -424,14 +424,16 @@
 ------------------------------------------------------------------------------------------------------------------------
 \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\ （\ :ref:`ギャブレット・ギャブレー <srw4_pilot_gavlet_gablae>`\ ）
 ------------------------------------------------------------------------------------------------------------------------
-1. 说得\ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ 之后，在同一话中用ダバ说得ギャブレー。
+.. _srw4_missable_ashura_temple:
+
+1. 说得\ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ (柯瓦桑·奥利比) 之后，在同一话中用ダバ说得ギャブレー。
 2. \ :ref:`キュベレイ Mk-IIx2 <srw4_unit_qubeley_mk_ii>`\ （\ :ref:`エルピー・プル <srw4_pilot_elpeo_ple>`\ 和\ :ref:`プルツー <srw4_pilot_ple_two>`\ ）加入和\ :ref:`GP-02A <srw4_unit_gp_02a>`\ 追加アトミックバズーカ的前提条件。
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 \ :ref:`キュベレイMk-IIx2 <srw4_unit_qubeley_mk_ii>`\（\ :ref:`エルピー・プル <srw4_pilot_elpeo_ple>`\ 和\ :ref:`プルツー <srw4_pilot_ple_two>`\ ）
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. ギャブレー已经加入。 
-2. \ :doc:`walkthrough/40a_the_backside_of_the_moon`\ 这一话中作为敌方援军登场。不攻击他们的情况下可以用ジュドー说得。
+2. \ :doc:`walkthrough/40a_the_backside_of_the_moon`\ 这一话中作为敌方援军登场。不攻击他们的情况下可以用\ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ (捷多·亚西塔) 说得。
 3. \ :ref:`GP-02A <srw4_unit_gp_02a>`\ 追加アトミックバズーカ的前提条件。
 
 --------------------------------------------------------------------
@@ -460,6 +462,9 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 \ :ref:`GP-02A <srw4_unit_gp_02a>`\ （\ :ref:`アナベル・ガトー <srw4_pilot_anavel_gato>`\ ）和\ :ref:`ビギナ・ギナ <srw4_unit_vigna_ghina>`\ （\ :ref:`セシリー・フェアチャイルド <srw4_pilot_cecily_fairchild>`\ ）
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+.. _srw4_missable_gp_02a:
+
 1. \ :ref:`クワトロ・バジーナ <srw4_pilot_quattro_bajeena>`\ 离队 。 
 2. \ :doc:`walkthrough/39a_ryune_capriccio_gato`\ 中作为援军登场。セシリー当场加入，ガトー作为NPC登场，生存到战斗结束才会加入。
 3. GP-02A追加アトミックバズーカ的前提条件。
@@ -469,7 +474,7 @@ GP-02A追加アトミックバズーカ
 ----------------------------------
 1. \ :ref:`エルピー・プル <srw4_pilot_elpeo_ple>`\ 和\ :ref:`プルツー <srw4_pilot_ple_two>`\ 已经加入。 
 2. \ :doc:`walkthrough/40a_the_backside_of_the_moon`\ 这一话之后选择スウィートウォーターへ行く。 
-3. ハマーンの黒い影中用\ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ 说得\ :ref:`ハマーン・カーン <srw4_pilot_haman_karn>`\ 。 
+3. ハマーンの黒い影中用\ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ (捷多·亚西塔) 说得\ :ref:`ハマーン・カーン <srw4_pilot_haman_karn>`\ 。 
 
 ------------------------------------------------------------------------------------------------------
 \ :ref:`サザビー <srw4_unit_sazabi>`\ 

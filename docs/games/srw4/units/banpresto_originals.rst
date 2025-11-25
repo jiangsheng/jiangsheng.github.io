@@ -4587,6 +4587,8 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_rest_granshu_commentBegin:
 
+盖斯特的量产机，HP高达7000，有9格的射程和高达2000的攻击力。由于登场时多已经可以二次行动了，是颇有威胁的强敌，应尽快用地图武器清除。
+
 .. _srw4_unit_rest_granshu_commentEnd:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -4989,6 +4991,10 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_zeranio_commentBegin:
 
+宇宙专用大型战舰，基本由\ :ref:`ゲスト親衛隊兵 <srw4_pilot_guest_imperial_guard>`\ (盖斯特亲卫队兵) 驾驶，也被\ :ref:`ギワザ・ロワウ <srw4_pilot_giwaza_lowau>`\ (基瓦扎·洛瓦乌) 开出来过。
+
+机体背景音乐是瓦尔西昂。
+
 .. _srw4_unit_zeranio_commentEnd:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -5171,6 +5177,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
 
 .. _srw4_unit_mecha_gilgilgan_commentBegin:
+
+\ :ref:`ギルギルガン <srw4_unit_gilgilgan>`\ (基鲁基鲁刚)击破之后变身出来的原创单位。战斗力不差，不过出现的时机太晚了，显得泯然众人矣。
+
 
 
 .. _srw4_unit_mecha_gilgilgan_commentEnd:

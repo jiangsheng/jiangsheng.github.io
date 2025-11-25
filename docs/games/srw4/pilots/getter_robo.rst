@@ -867,7 +867,7 @@
 
 .. _srw4_pilot_mary_king_commentBegin:
 
-\ :ref:`ジャック・キング <srw4_pilot_jack_king>`\ （杰克）的妹妹和副驾驶，仅在\ :ref:`第四话Ａ 特訓！大雪山おろし (速) <srw4_walkthrough_04a_special_training_dai_setsu_zan_oroshi_fast>`\ 中参战一话，不会加入我军。有幸运，死要钱的可以拿来打爆\ :ref:`ブード <srw4_unit_bood>`\ (水下要塞布德)。很奇怪她在这一作中没有補給这个精神，除了本作之外从第二次到α都有的。
+\ :ref:`ジャック・キング <srw4_pilot_jack_king>`\ （杰克）的妹妹和副驾驶，仅在\ :ref:`第四话Ａ 特訓！大雪山おろし (速) <srw4_walkthrough_04a_special_training_dai_setsu_zan_oroshi_fast>`\ 中参战一话，不会加入我军。有幸运，死要钱的可以拿来打爆\ :ref:`ブード <srw4_unit_bood>`\ (水下要塞布德)。不过之前还是用探索探宝先。很奇怪她在这一作中没有補給这个精神，除了本作之外从第二次到α都有的。
 
 .. _srw4_pilot_mary_king_commentEnd:
 
@@ -1034,7 +1034,7 @@
 
 和\ :ref:`神隼人 <srw4_pilot_hayato_jin>`\ 一起教导车弁庆如何使用大雪山崩落。
 
-虽然是非战斗人员但是设定了能力值和精神，或许本来计划会作为战斗员。
+虽然是非战斗人员但是设定了能力值和精神，或许本来计划会作为战斗员。但成长率很低，精神指令配置也弱得令人发指。
 
 .. _srw4_pilot_michiru_saotome_commentEnd:
 
