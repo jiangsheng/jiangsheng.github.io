@@ -91,7 +91,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D2.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備、ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備、ビームコート。
                 :columns: auto
 
 
@@ -178,7 +178,6 @@
     .. grid-item:: セイバー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1000
-    .. grid-item:: 1000
     .. grid-item:: 1
     .. grid-item:: +22
     .. grid-item:: +20
@@ -190,7 +189,6 @@
         :class: flex-break
     .. grid-item:: パワーランチャーⒷ
         :columns: 3
-    .. grid-item:: 1030 (1500)
     .. grid-item:: 1030 (1500)
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -204,7 +202,6 @@
     .. grid-item:: ランサー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1070
-    .. grid-item:: 1070
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: +20
@@ -216,7 +213,6 @@
         :class: flex-break
     .. grid-item:: Ｓマイン⚔Ⓟ
         :columns: 3
-    .. grid-item:: 1070 (1270)
     .. grid-item:: 1070 (1270)
     .. grid-item:: 1~2
     .. grid-item:: -5
@@ -302,7 +298,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D5.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備、ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備、ビームコート。
                 :columns: auto
 
 
@@ -389,7 +385,6 @@
     .. grid-item:: セイバー🤛Ⓟ
         :columns: 3
     .. grid-item:: 870
-    .. grid-item:: 870
     .. grid-item:: 1
     .. grid-item:: +22
     .. grid-item:: +20
@@ -401,7 +396,6 @@
         :class: flex-break
     .. grid-item:: ランサー🤛Ⓟ
         :columns: 3
-    .. grid-item:: 940
     .. grid-item:: 940
     .. grid-item:: 1
     .. grid-item:: +5
@@ -415,7 +409,6 @@
     .. grid-item:: パワーランチャーⒷ
         :columns: 3
     .. grid-item:: 940 (1300)
-    .. grid-item:: 940 (1300)
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -427,7 +420,6 @@
         :class: flex-break
     .. grid-item:: Ｓマイン⚔Ⓟ
         :columns: 3
-    .. grid-item:: 1070 (1270)
     .. grid-item:: 1070 (1270)
     .. grid-item:: 1~2
     .. grid-item:: -5
@@ -513,7 +505,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D3.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備、ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、ビームコート。
                 :columns: auto
 
 
@@ -600,7 +592,6 @@
     .. grid-item:: パワーランチャーⒷ
         :columns: 3
     .. grid-item:: 1060 (1600)
-    .. grid-item:: 1060 (1600)
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -613,7 +604,6 @@
     .. grid-item:: セイバー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1080
-    .. grid-item:: 1080
     .. grid-item:: 1
     .. grid-item:: +22
     .. grid-item:: +20
@@ -625,7 +615,6 @@
         :class: flex-break
     .. grid-item:: サッシュ
         :columns: 3
-    .. grid-item:: 1250 (1350)
     .. grid-item:: 1250 (1350)
     .. grid-item:: 1~5
     .. grid-item:: -5
@@ -707,7 +696,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D2.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備、ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備、ビームコート、变形(\ :ref:`プローラー <srw4_unit_prowler>`\ (普罗拉))。
                 :columns: auto
 
 
@@ -794,7 +783,6 @@
     .. grid-item:: ハンドランチャーⒷ
         :columns: 3
     .. grid-item:: 1070 (1050)
-    .. grid-item:: 1070 (1050)
     .. grid-item:: 1~6
     .. grid-item:: +5
     .. grid-item:: +10
@@ -806,7 +794,6 @@
         :class: flex-break
     .. grid-item:: Ｓマイン⚔Ⓟ
         :columns: 3
-    .. grid-item:: 1110 (1350)
     .. grid-item:: 1110 (1350)
     .. grid-item:: 1~2
     .. grid-item:: -5
@@ -820,7 +807,6 @@
     .. grid-item:: パワーランチャーⒷ
         :columns: 3
     .. grid-item:: 1120 (1700)
-    .. grid-item:: 1120 (1700)
     .. grid-item:: 1~7
     .. grid-item:: 
     .. grid-item:: +10
@@ -832,7 +818,6 @@
         :class: flex-break
     .. grid-item:: セイバー🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1150
     .. grid-item:: 1150
     .. grid-item:: 1
     .. grid-item:: +22
@@ -846,7 +831,6 @@
     .. grid-item:: ランサー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1220
-    .. grid-item:: 1220
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: +20
@@ -858,7 +842,6 @@
         :class: flex-break
     .. grid-item:: ﾊﾞｽﾀｰﾗﾝﾁｬｰⒷ🗺️
         :columns: 3
-    .. grid-item:: 2800
     .. grid-item:: 2800
     .. grid-item:: 1~12
     .. grid-item:: -5
@@ -940,7 +923,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D2.png
                 :columns: auto
 
-            .. grid-item:: 技能: ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : ビームコート、变形(\ :ref:`エルガイム Mk-II <srw4_unit_l_gaim_mk_ii>`\ (艾尔盖姆 Mk-II))。
                 :columns: auto
 
 
@@ -1027,7 +1010,6 @@
     .. grid-item:: Ｓマイン⚔Ⓟ
         :columns: 3
     .. grid-item:: 1110 (1350)
-    .. grid-item:: 1110 (1350)
     .. grid-item:: 1~2
     .. grid-item:: -5
     .. grid-item:: -10
@@ -1040,7 +1022,6 @@
     .. grid-item:: パワーランチャーⒷ
         :columns: 3
     .. grid-item:: 1120 (1700)
-    .. grid-item:: 1120 (1700)
     .. grid-item:: 1~7
     .. grid-item:: 
     .. grid-item:: +10
@@ -1052,7 +1033,6 @@
         :class: flex-break
     .. grid-item:: ﾊﾞｽﾀｰﾗﾝﾁｬｰⒷ🗺️
         :columns: 3
-    .. grid-item:: 2800
     .. grid-item:: 2800
     .. grid-item:: 1~12
     .. grid-item:: -5
@@ -1134,7 +1114,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D3.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備、ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備、ビームコート。
                 :columns: auto
 
 
@@ -1221,7 +1201,6 @@
     .. grid-item:: パワーランチャーⒷ
         :columns: 3
     .. grid-item:: 1060 (1600)
-    .. grid-item:: 1060 (1600)
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -1234,7 +1213,6 @@
     .. grid-item:: セイバー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1080
-    .. grid-item:: 1080
     .. grid-item:: 1
     .. grid-item:: +22
     .. grid-item:: +20
@@ -1246,7 +1224,6 @@
         :class: flex-break
     .. grid-item:: Ｓマイン⚔Ⓟ
         :columns: 3
-    .. grid-item:: 1110 (1350)
     .. grid-item:: 1110 (1350)
     .. grid-item:: 1~2
     .. grid-item:: -5
@@ -1328,7 +1305,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D7.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備、ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、ビームコート。
                 :columns: auto
 
 
@@ -1415,7 +1392,6 @@
     .. grid-item:: パワーランチャーⒷ
         :columns: 3
     .. grid-item:: 1060 (1600)
-    .. grid-item:: 1060 (1600)
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -1427,7 +1403,6 @@
         :class: flex-break
     .. grid-item:: ランサー🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1070
     .. grid-item:: 1070
     .. grid-item:: 1
     .. grid-item:: +5
@@ -1441,7 +1416,6 @@
     .. grid-item:: セイバー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1080
-    .. grid-item:: 1080
     .. grid-item:: 1
     .. grid-item:: +22
     .. grid-item:: +20
@@ -1453,7 +1427,6 @@
         :class: flex-break
     .. grid-item:: リバースボマー
         :columns: 3
-    .. grid-item:: 1150 (1450)
     .. grid-item:: 1150 (1450)
     .. grid-item:: 1~4
     .. grid-item:: +28
@@ -1467,7 +1440,6 @@
     .. grid-item:: ｴﾈﾙｷﾞｰﾎﾞﾝﾊﾞｰ
         :columns: 3
     .. grid-item:: 1360 (1480)
-    .. grid-item:: 1360 (1480)
     .. grid-item:: 1~5
     .. grid-item:: -5
     .. grid-item:: 0
@@ -1479,7 +1451,6 @@
         :class: flex-break
     .. grid-item:: ﾊﾞｽﾀｰﾗﾝﾁｬｰⒷ🗺️
         :columns: 3
-    .. grid-item:: 2200 (2400)
     .. grid-item:: 2200 (2400)
     .. grid-item:: 1~12
     .. grid-item:: -10
@@ -1565,14 +1536,14 @@
                 :columns: auto
 
 
-            .. grid-item:: 地形参照： \ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ (柯瓦桑·奥利比) 。
+            .. grid-item:: 地形参照： \ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_DD.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備、ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備、ビームコート。
                 :columns: auto
 
 
@@ -1659,7 +1630,6 @@
     .. grid-item:: ミサイル⚔
         :columns: 3
     .. grid-item:: 720
-    .. grid-item:: 720
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: -10
@@ -1671,7 +1641,6 @@
         :class: flex-break
     .. grid-item:: スロウランサー⚔Ⓟ
         :columns: 3
-    .. grid-item:: 960 (1160)
     .. grid-item:: 960 (1160)
     .. grid-item:: 1~2
     .. grid-item:: -5
@@ -1685,7 +1654,6 @@
     .. grid-item:: セイバー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1000
-    .. grid-item:: 1000
     .. grid-item:: 1
     .. grid-item:: +22
     .. grid-item:: +20
@@ -1697,7 +1665,6 @@
         :class: flex-break
     .. grid-item:: パワーランチャーⒷ
         :columns: 3
-    .. grid-item:: 1030 (1500)
     .. grid-item:: 1030 (1500)
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -1711,7 +1678,6 @@
     .. grid-item:: Ｓマイン⚔Ⓟ
         :columns: 3
     .. grid-item:: 1070 (1270)
-    .. grid-item:: 1070 (1270)
     .. grid-item:: 1~2
     .. grid-item:: -5
     .. grid-item:: -10
@@ -1724,7 +1690,6 @@
     .. grid-item:: ｴﾈﾙｷﾞｰﾎﾞﾝﾊﾞｰ
         :columns: 3
     .. grid-item:: 1360 (1480)
-    .. grid-item:: 1360 (1480)
     .. grid-item:: 1~5
     .. grid-item:: -5
     .. grid-item:: 0
@@ -1736,7 +1701,6 @@
         :class: flex-break
     .. grid-item:: ﾊﾞｽﾀｰﾗﾝﾁｬｰⒷ🗺️
         :columns: 3
-    .. grid-item:: 2200 (2400)
     .. grid-item:: 2200 (2400)
     .. grid-item:: 1~12
     .. grid-item:: -10
@@ -1816,7 +1780,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 技能: 剣装備、ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、ビームコート。
                 :columns: auto
 
 
@@ -1903,7 +1867,6 @@
     .. grid-item:: セイバー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1000
-    .. grid-item:: 1000
     .. grid-item:: 1
     .. grid-item:: +22
     .. grid-item:: +20
@@ -1915,7 +1878,6 @@
         :class: flex-break
     .. grid-item:: パワーランチャーⒷ
         :columns: 3
-    .. grid-item:: 1030 (1500)
     .. grid-item:: 1030 (1500)
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -1929,7 +1891,6 @@
     .. grid-item:: ランサー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1070
-    .. grid-item:: 1070
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: +20
@@ -1942,7 +1903,6 @@
     .. grid-item:: ロングスピア🤛Ⓟ
         :columns: 3
     .. grid-item:: 1210 (1280)
-    .. grid-item:: 1210 (1280)
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: +20
@@ -1954,7 +1914,6 @@
         :class: flex-break
     .. grid-item:: 放電Ⓟ
         :columns: 3
-    .. grid-item:: 1310 (1450)
     .. grid-item:: 1310 (1450)
     .. grid-item:: 1
     .. grid-item:: +5
@@ -2029,7 +1988,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 技能: 盾装備、剣装備、ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備、ビームコート。
                 :columns: auto
 
 
@@ -2116,7 +2075,6 @@
     .. grid-item:: セイバー🤛Ⓟ
         :columns: 3
     .. grid-item:: 870
-    .. grid-item:: 870
     .. grid-item:: 1
     .. grid-item:: +22
     .. grid-item:: +20
@@ -2128,7 +2086,6 @@
         :class: flex-break
     .. grid-item:: パワーランチャーⒷ
         :columns: 3
-    .. grid-item:: 940 (1300)
     .. grid-item:: 940 (1300)
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -2212,7 +2169,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D6.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
                 :columns: auto
 
 
@@ -2299,7 +2256,6 @@
     .. grid-item:: セイバー🤛Ⓟ
         :columns: 3
     .. grid-item:: 870
-    .. grid-item:: 870
     .. grid-item:: 1
     .. grid-item:: +22
     .. grid-item:: +20
@@ -2311,7 +2267,6 @@
         :class: flex-break
     .. grid-item:: パワーランチャーⒷ
         :columns: 3
-    .. grid-item:: 940 (1300)
     .. grid-item:: 940 (1300)
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -2395,7 +2350,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_DA.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備、ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、ビームコート。
                 :columns: auto
 
 
@@ -2482,7 +2437,6 @@
     .. grid-item:: スロウランサー⚔Ⓟ
         :columns: 3
     .. grid-item:: 960 (1160)
-    .. grid-item:: 960 (1160)
     .. grid-item:: 1~2
     .. grid-item:: -5
     .. grid-item:: +20
@@ -2494,7 +2448,6 @@
         :class: flex-break
     .. grid-item:: パワーランチャーⒷ
         :columns: 3
-    .. grid-item:: 1120 (1700)
     .. grid-item:: 1120 (1700)
     .. grid-item:: 1~7
     .. grid-item:: 
@@ -2508,7 +2461,6 @@
     .. grid-item:: セイバー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1150
-    .. grid-item:: 1150
     .. grid-item:: 1
     .. grid-item:: +22
     .. grid-item:: +20
@@ -2520,7 +2472,6 @@
         :class: flex-break
     .. grid-item:: ランサー🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1220
     .. grid-item:: 1220
     .. grid-item:: 1
     .. grid-item:: +5
@@ -2597,7 +2548,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 技能: 盾装備、剣装備、ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備、ビームコート。
                 :columns: auto
 
 
@@ -2684,7 +2635,6 @@
     .. grid-item:: セイバー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1000
-    .. grid-item:: 1000
     .. grid-item:: 1
     .. grid-item:: +22
     .. grid-item:: +20
@@ -2697,7 +2647,6 @@
     .. grid-item:: パワーランチャーⒷ
         :columns: 3
     .. grid-item:: 1030 (1500)
-    .. grid-item:: 1030 (1500)
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -2709,7 +2658,6 @@
         :class: flex-break
     .. grid-item:: フロッガー🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1170 (1270)
     .. grid-item:: 1170 (1270)
     .. grid-item:: 1
     .. grid-item:: +2
@@ -2791,7 +2739,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D8.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備、EN恢復、HP恢復(大)、ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、EN恢復、HP恢復(大)、ビームコート。
                 :columns: auto
 
 
@@ -2878,7 +2826,6 @@
     .. grid-item:: Ｓマイン⚔Ⓟ
         :columns: 3
     .. grid-item:: 1110 (1350)
-    .. grid-item:: 1110 (1350)
     .. grid-item:: 1~2
     .. grid-item:: -5
     .. grid-item:: -10
@@ -2890,7 +2837,6 @@
         :class: flex-break
     .. grid-item:: パワーランチャーⒷ
         :columns: 3
-    .. grid-item:: 1120 (1700)
     .. grid-item:: 1120 (1700)
     .. grid-item:: 1~7
     .. grid-item:: 
@@ -2904,7 +2850,6 @@
     .. grid-item:: セイバー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1150
-    .. grid-item:: 1150
     .. grid-item:: 1
     .. grid-item:: +22
     .. grid-item:: +20
@@ -2916,7 +2861,6 @@
         :class: flex-break
     .. grid-item:: ランサー🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1220
     .. grid-item:: 1220
     .. grid-item:: 1
     .. grid-item:: +5
@@ -2930,7 +2874,6 @@
     .. grid-item:: ギガブラスター
         :columns: 3
     .. grid-item:: 1780
-    .. grid-item:: 1780
     .. grid-item:: 2~10
     .. grid-item:: 
     .. grid-item:: +10
@@ -2942,7 +2885,6 @@
         :class: flex-break
     .. grid-item:: ﾊﾞｽﾀｰﾗﾝﾁｬｰⒷ🗺️
         :columns: 3
-    .. grid-item:: 2800
     .. grid-item:: 2800
     .. grid-item:: 1~12
     .. grid-item:: -5
@@ -3026,7 +2968,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_D9.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備、HP恢復(小)、激怒/自爆/てかげん無効、ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、HP恢復(小)、激怒/自爆/てかげん無効、ビームコート。
                 :columns: auto
 
 
@@ -3113,7 +3055,6 @@
     .. grid-item:: ハンドランチャーⒷ
         :columns: 3
     .. grid-item:: 1070 (1050)
-    .. grid-item:: 1070 (1050)
     .. grid-item:: 1~6
     .. grid-item:: +5
     .. grid-item:: +10
@@ -3125,7 +3066,6 @@
         :class: flex-break
     .. grid-item:: パワーランチャーⒷ
         :columns: 3
-    .. grid-item:: 1120 (1700)
     .. grid-item:: 1120 (1700)
     .. grid-item:: 1~7
     .. grid-item:: 
@@ -3139,7 +3079,6 @@
     .. grid-item:: セイバー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1150
-    .. grid-item:: 1150
     .. grid-item:: 1
     .. grid-item:: +22
     .. grid-item:: +20
@@ -3151,7 +3090,6 @@
         :class: flex-break
     .. grid-item:: ギガブラスター
         :columns: 3
-    .. grid-item:: 1780
     .. grid-item:: 1780
     .. grid-item:: 2~10
     .. grid-item:: 
@@ -3165,7 +3103,6 @@
     .. grid-item:: サイズ🤛Ⓟ
         :columns: 3
     .. grid-item:: 2050 (2100)
-    .. grid-item:: 2050 (2100)
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: +20
@@ -3177,7 +3114,6 @@
         :class: flex-break
     .. grid-item:: ﾊﾞｽﾀｰﾗﾝﾁｬｰⒷ🗺️
         :columns: 3
-    .. grid-item:: 2800
     .. grid-item:: 2800
     .. grid-item:: 1~12
     .. grid-item:: -5
@@ -3340,7 +3276,6 @@
     .. grid-item:: ﾌﾗｯｼｬｰﾋﾞｰﾑⒷ
         :columns: 3
     .. grid-item:: 1480
-    .. grid-item:: 1480
     .. grid-item:: 1~7
     .. grid-item:: -10
     .. grid-item:: +10
@@ -3353,7 +3288,6 @@
     .. grid-item:: ｺﾞｯﾄﾞﾈﾛｽﾊﾟﾝﾁ🤛Ⓟ
         :columns: 3
     .. grid-item:: 1500
-    .. grid-item:: 1500
     .. grid-item:: 1
     .. grid-item:: +10
     .. grid-item:: 0
@@ -3365,7 +3299,6 @@
         :class: flex-break
     .. grid-item:: ｸﾞﾗﾋﾞﾄﾝｳｪｰﾌﾞ
         :columns: 3
-    .. grid-item:: 1780
     .. grid-item:: 1780
     .. grid-item:: 1~7
     .. grid-item:: -12
@@ -3437,7 +3370,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
                 :columns: auto
 
 
-            .. grid-item:: 技能: ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : ビームコート。
                 :columns: auto
 
 
@@ -3524,7 +3457,6 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
     .. grid-item:: セイバー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1000
-    .. grid-item:: 1000
     .. grid-item:: 1
     .. grid-item:: +22
     .. grid-item:: +20
@@ -3536,7 +3468,6 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
         :class: flex-break
     .. grid-item:: パワーランチャーⒷ
         :columns: 3
-    .. grid-item:: 1060 (1600)
     .. grid-item:: 1060 (1600)
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -3550,7 +3481,6 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
     .. grid-item:: ランサー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1070
-    .. grid-item:: 1070
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: +20
@@ -3562,7 +3492,6 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
         :class: flex-break
     .. grid-item:: ロングスピア🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1210 (1280)
     .. grid-item:: 1210 (1280)
     .. grid-item:: 1
     .. grid-item:: +5
@@ -3576,7 +3505,6 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
     .. grid-item:: ハンマー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1250
-    .. grid-item:: 1250
     .. grid-item:: 1
     .. grid-item:: -10
     .. grid-item:: 0
@@ -3588,7 +3516,6 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
         :class: flex-break
     .. grid-item:: 放電Ⓟ
         :columns: 3
-    .. grid-item:: 1310 (1450)
     .. grid-item:: 1310 (1450)
     .. grid-item:: 1
     .. grid-item:: +5
@@ -3655,7 +3582,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
                 :columns: auto
 
 
-            .. grid-item:: 技能: ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : ビームコート。
                 :columns: auto
 
 
@@ -3742,7 +3669,6 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
     .. grid-item:: バトルスピア🤛Ⓟ
         :columns: 3
     .. grid-item:: 840
-    .. grid-item:: 840
     .. grid-item:: 1
     .. grid-item:: +4
     .. grid-item:: +20
@@ -3754,7 +3680,6 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
         :class: flex-break
     .. grid-item:: パワーランチャーⒷ
         :columns: 3
-    .. grid-item:: 1030 (1500)
     .. grid-item:: 1030 (1500)
     .. grid-item:: 1~6
     .. grid-item:: 

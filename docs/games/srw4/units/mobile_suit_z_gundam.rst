@@ -89,7 +89,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_2A.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、变形(\ :ref:`メタス (MA) <srw4_unit_methuss_ma>`\ (MA型梅塔斯))。
                 :columns: auto
 
 
@@ -176,7 +176,6 @@
     .. grid-item:: 修理装置Ⓟ🔧
         :columns: 3
     .. grid-item:: 0
-    .. grid-item:: 0
     .. grid-item:: 1
     .. grid-item:: 
     .. grid-item:: 
@@ -189,7 +188,6 @@
     .. grid-item:: アームビームガン⚔Ⓑ
         :columns: 3
     .. grid-item:: 840
-    .. grid-item:: 840
     .. grid-item:: 1~6
     .. grid-item:: +5
     .. grid-item:: +10
@@ -201,7 +199,6 @@
         :class: flex-break
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
-    .. grid-item:: 920
     .. grid-item:: 920
     .. grid-item:: 1
     .. grid-item:: +20
@@ -289,6 +286,10 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_2A.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`メタス (MS) <srw4_unit_methuss_ms>`\ (MS型梅塔斯))。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -372,7 +373,6 @@
     .. grid-item:: 修理装置Ⓟ🔧
         :columns: 3
     .. grid-item:: 0
-    .. grid-item:: 0
     .. grid-item:: 1
     .. grid-item:: 
     .. grid-item:: 
@@ -384,7 +384,6 @@
         :class: flex-break
     .. grid-item:: アームビームガン⚔Ⓑ
         :columns: 3
-    .. grid-item:: 840
     .. grid-item:: 840
     .. grid-item:: 1~6
     .. grid-item:: +5
@@ -466,7 +465,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_28.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備、合体。
                 :columns: auto
 
 
@@ -553,7 +552,6 @@
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 330
-    .. grid-item:: 330
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -565,7 +563,6 @@
         :class: flex-break
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
-    .. grid-item:: 920
     .. grid-item:: 920
     .. grid-item:: 1
     .. grid-item:: +20
@@ -579,7 +576,6 @@
     .. grid-item:: ビームライフルⒷ
         :columns: 3
     .. grid-item:: 1020
-    .. grid-item:: 1020
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -592,7 +588,6 @@
     .. grid-item:: ハイパーバズーカ⚔
         :columns: 3
     .. grid-item:: 1200
-    .. grid-item:: 1200
     .. grid-item:: 2~5
     .. grid-item:: -5
     .. grid-item:: 0
@@ -604,7 +599,6 @@
         :class: flex-break
     .. grid-item:: 散弾バズーカ
         :columns: 3
-    .. grid-item:: 1250
     .. grid-item:: 1250
     .. grid-item:: 2~5
     .. grid-item:: +14
@@ -687,6 +681,10 @@ Gディフェンサー(G-防卫号)
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_2B.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -771,7 +769,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 880
-    .. grid-item:: 880
     .. grid-item:: 1~5
     .. grid-item:: +5
     .. grid-item:: 0
@@ -783,7 +780,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ロングライフルⒷ
         :columns: 3
-    .. grid-item:: 1100
     .. grid-item:: 1100
     .. grid-item:: 1~7
     .. grid-item:: 
@@ -867,7 +863,7 @@ Gディフェンサー(G-防卫号)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_28.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備、分离。
                 :columns: auto
 
 
@@ -954,7 +950,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 330
-    .. grid-item:: 330
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -966,7 +961,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
-    .. grid-item:: 880
     .. grid-item:: 880
     .. grid-item:: 1~5
     .. grid-item:: +5
@@ -980,7 +974,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 920
-    .. grid-item:: 920
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -992,7 +985,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ビームライフルⒷ
         :columns: 3
-    .. grid-item:: 1020
     .. grid-item:: 1020
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -1006,7 +998,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ロングライフルⒷ
         :columns: 3
     .. grid-item:: 1100
-    .. grid-item:: 1100
     .. grid-item:: 1~7
     .. grid-item:: 
     .. grid-item:: +10
@@ -1019,7 +1010,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ハイパーバズーカ⚔
         :columns: 3
     .. grid-item:: 1200
-    .. grid-item:: 1200
     .. grid-item:: 2~5
     .. grid-item:: -5
     .. grid-item:: 0
@@ -1031,7 +1021,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: 散弾バズーカ
         :columns: 3
-    .. grid-item:: 1250
     .. grid-item:: 1250
     .. grid-item:: 2~5
     .. grid-item:: +14
@@ -1120,7 +1109,7 @@ Gディフェンサー(G-防卫号)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_3D.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備。
                 :columns: auto
 
 
@@ -1207,7 +1196,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 330
-    .. grid-item:: 330
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -1220,7 +1208,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 920
-    .. grid-item:: 920
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -1232,7 +1219,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ビームライフルⒷ
         :columns: 3
-    .. grid-item:: 1020
     .. grid-item:: 1020
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -1254,7 +1240,7 @@ Gディフェンサー(G-防卫号)
 
 因为\ :doc:`../walkthrough/28_new_dc`\ 之后会被废弃的原因不建议改造。废弃也不会返还资金所以还是提前主动废弃好一点。
  
-陆A比高达要强，但是空B的阿姆罗还是去开同时加入的リ・ガズィ(MS)好一点。
+陆A比高达要强，但是空B的阿姆罗还是去开同时加入的\ :ref:`リ·ガズィ (MA) <srw4_unit_ri_gazi_ma>`\ (灵格斯BWS着装型)好一点。
 
 .. _srw4_unit_nemo_commentEnd:
 
@@ -1403,7 +1389,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 160ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 450
-    .. grid-item:: 450
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: 0
@@ -1415,7 +1400,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: サブメガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 900
     .. grid-item:: 900
     .. grid-item:: 1~6
     .. grid-item:: -15
@@ -1429,7 +1413,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 20連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 1100
-    .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: -30
     .. grid-item:: -10
@@ -1442,7 +1425,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: メインメガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 1280
-    .. grid-item:: 1280
     .. grid-item:: 2~8
     .. grid-item:: -20
     .. grid-item:: 0
@@ -1454,7 +1436,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ﾊｲﾊﾟｰﾒｶﾞ粒子砲Ⓑ🗺️
         :columns: 3
-    .. grid-item:: 2000
     .. grid-item:: 2000
     .. grid-item:: 1~9
     .. grid-item:: -18
@@ -1540,7 +1521,7 @@ Gディフェンサー(G-防卫号)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_51.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備、变形(\ :ref:`ウェイブライダー <srw4_unit_wave_rider>`\ (冲浪者))。
                 :columns: auto
 
 
@@ -1627,7 +1608,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 360
-    .. grid-item:: 360
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -1639,7 +1619,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
-    .. grid-item:: 940
     .. grid-item:: 940
     .. grid-item:: 1
     .. grid-item:: +20
@@ -1653,7 +1632,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ﾛﾝｸﾞﾋﾞｰﾑｻｰﾍﾞﾙ🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1040
-    .. grid-item:: 1040
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -1665,7 +1643,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ビームライフルⒷ
         :columns: 3
-    .. grid-item:: 1100
     .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -1679,7 +1656,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ｸﾞﾚﾈｰﾄﾞﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 1110
-    .. grid-item:: 1110
     .. grid-item:: 1~5
     .. grid-item:: -8
     .. grid-item:: 0
@@ -1691,7 +1667,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ﾊｲﾊﾟｰﾒｶﾞﾗﾝﾁｬｰⒷ
         :columns: 3
-    .. grid-item:: 2400 (2700)
     .. grid-item:: 2400 (2700)
     .. grid-item:: 1~8
     .. grid-item:: -5
@@ -1777,6 +1752,10 @@ Gディフェンサー(G-防卫号)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_51.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`Ζガンダム <srw4_unit_z_gundam>`\ (Z高达))。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -1860,7 +1839,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ビームガンⒷ
         :columns: 3
     .. grid-item:: 1080
-    .. grid-item:: 1080
     .. grid-item:: 1~6
     .. grid-item:: +5
     .. grid-item:: 0
@@ -1873,7 +1851,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ビームライフルⒷ
         :columns: 3
     .. grid-item:: 1100
-    .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -1885,7 +1862,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ﾊｲﾊﾟｰﾒｶﾞﾗﾝﾁｬｰⒷ
         :columns: 3
-    .. grid-item:: 2400 (2700)
     .. grid-item:: 2400 (2700)
     .. grid-item:: 1~8
     .. grid-item:: -5
@@ -1964,7 +1940,7 @@ Gディフェンサー(G-防卫号)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_82.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、变形(\ :ref:`ガブスレイ (MA) <srw4_unit_gabthley_ma>`\ (MA型卡普司利))。
                 :columns: auto
 
 
@@ -2051,7 +2027,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 360
-    .. grid-item:: 360
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -2064,7 +2039,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 940
-    .. grid-item:: 940
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -2076,7 +2050,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ﾌｪﾀﾞｰｲﾝﾗｲﾌﾙⒷ
         :columns: 3
-    .. grid-item:: 940
     .. grid-item:: 940
     .. grid-item:: 1~8
     .. grid-item:: -5
@@ -2158,6 +2131,10 @@ Gディフェンサー(G-防卫号)
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_82.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`ガブスレイ (MS) <srw4_unit_gabthley_ms>`\ (MS型卡普司利))。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -2242,7 +2219,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ﾌｪﾀﾞｰｲﾝﾗｲﾌﾙⒷ
         :columns: 3
     .. grid-item:: 940
-    .. grid-item:: 940
     .. grid-item:: 1~8
     .. grid-item:: -5
     .. grid-item:: +10
@@ -2258,7 +2234,6 @@ Gディフェンサー(G-防卫号)
         | クローアーム🤛Ⓟ (Snes)
         | クローアームⓅ (PlayStation)
 
-    .. grid-item:: 990
     .. grid-item:: 990
     .. grid-item:: 1
     .. grid-item:: +25
@@ -2333,7 +2308,7 @@ Gディフェンサー(G-防卫号)
                 :columns: auto
 
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
                 :columns: auto
 
 
@@ -2420,7 +2395,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: メガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 940
-    .. grid-item:: 940
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -2432,7 +2406,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
-    .. grid-item:: 980
     .. grid-item:: 980
     .. grid-item:: 1
     .. grid-item:: +20
@@ -2518,7 +2491,7 @@ Gディフェンサー(G-防卫号)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_20.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
                 :columns: auto
 
 
@@ -2605,7 +2578,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 360
-    .. grid-item:: 360
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -2617,7 +2589,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
-    .. grid-item:: 940
     .. grid-item:: 940
     .. grid-item:: 1
     .. grid-item:: +20
@@ -2631,7 +2602,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ビームライフルⒷ
         :columns: 3
     .. grid-item:: 1100
-    .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -2644,7 +2614,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: クレイバズーカ⚔
         :columns: 3
     .. grid-item:: 1120
-    .. grid-item:: 1120
     .. grid-item:: 2~6
     .. grid-item:: -8
     .. grid-item:: -10
@@ -2656,7 +2625,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ﾒｶﾞﾊﾞｽﾞｰｶﾗﾝﾁｬｰⒷ🗺️
         :columns: 3
-    .. grid-item:: 2600
     .. grid-item:: 2600
     .. grid-item:: 1~12
     .. grid-item:: -15
@@ -2741,7 +2709,7 @@ Gディフェンサー(G-防卫号)
                 :columns: auto
 
 
-            .. grid-item:: 技能: 盾装備、剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備。
                 :columns: auto
 
 
@@ -2828,7 +2796,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 330
-    .. grid-item:: 330
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -2841,7 +2808,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 920
-    .. grid-item:: 920
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -2853,7 +2819,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ビームライフルⒷ
         :columns: 3
-    .. grid-item:: 1020
     .. grid-item:: 1020
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -2926,7 +2891,7 @@ Gディフェンサー(G-防卫号)
                 :columns: auto
 
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
                 :columns: auto
 
 
@@ -3013,7 +2978,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 330
-    .. grid-item:: 330
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -3026,7 +2990,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 920
-    .. grid-item:: 920
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -3038,7 +3001,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ビームライフルⒷ
         :columns: 3
-    .. grid-item:: 1020
     .. grid-item:: 1020
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -3108,6 +3070,10 @@ Gディフェンサー(G-防卫号)
                 :columns: auto
 
             .. grid-item:: 地形适应:空🚫陆A海B宇🚫。
+                :columns: auto
+
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`アッシマー (MA) <srw4_unit_asshimar_ma>`\ (MA型阿希玛))。
                 :columns: auto
 
 
@@ -3194,7 +3160,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 980
-    .. grid-item:: 980
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -3206,7 +3171,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: 大型ﾋﾞｰﾑﾗｲﾌﾙⒷ
         :columns: 3
-    .. grid-item:: 980
     .. grid-item:: 980
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -3275,6 +3239,10 @@ Gディフェンサー(G-防卫号)
                 :columns: auto
 
             .. grid-item:: 地形适应:空A陆🚫海🚫宇🚫。
+                :columns: auto
+
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`アッシマー (MS) <srw4_unit_asshimar_ms>`\ (MS型阿希玛))。
                 :columns: auto
 
 
@@ -3361,7 +3329,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 大型ﾋﾞｰﾑﾗｲﾌﾙⒷ
         :columns: 3
     .. grid-item:: 980
-    .. grid-item:: 980
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -3433,7 +3400,7 @@ Gディフェンサー(G-防卫号)
                 :columns: auto
 
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、变形(\ :ref:`ハンブラビ (MA) <srw4_unit_hambrabi_ma>`\ (MA型汉布拉比))。
                 :columns: auto
 
 
@@ -3520,7 +3487,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 940
-    .. grid-item:: 940
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -3532,7 +3498,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ビームライフルⒷ
         :columns: 3
-    .. grid-item:: 1050
     .. grid-item:: 1050
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -3546,7 +3511,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ビームガンⒷ
         :columns: 3
     .. grid-item:: 1080
-    .. grid-item:: 1080
     .. grid-item:: 1~6
     .. grid-item:: +5
     .. grid-item:: 0
@@ -3558,7 +3522,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: 海ヘビ🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1200 (1400)
     .. grid-item:: 1200 (1400)
     .. grid-item:: 1
     .. grid-item:: +5
@@ -3628,6 +3591,10 @@ Gディフェンサー(G-防卫号)
                 :columns: auto
 
             .. grid-item:: 地形适应:空A陆🚫海🚫宇A。
+                :columns: auto
+
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`ハンブラビ (MS) <srw4_unit_hambrabi_ms>`\ (MS型汉布拉比))。
                 :columns: auto
 
 
@@ -3714,7 +3681,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ビームライフルⒷ
         :columns: 3
     .. grid-item:: 1050
-    .. grid-item:: 1050
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -3726,7 +3692,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ビームガンⒷ
         :columns: 3
-    .. grid-item:: 1080
     .. grid-item:: 1080
     .. grid-item:: 1~6
     .. grid-item:: +5
@@ -3796,6 +3761,10 @@ Gディフェンサー(G-防卫号)
                 :columns: auto
 
             .. grid-item:: 地形适应:空🚫陆B海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`バウンド·ドック (MA) <srw4_unit_baund_doc_ma>`\ (MA型猎犬))。
                 :columns: auto
 
 
@@ -3882,7 +3851,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 格闘🤛Ⓟ
         :columns: 3
     .. grid-item:: 770
-    .. grid-item:: 770
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: 0
@@ -3895,7 +3863,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 拡散メガ粒子砲ⒷⓅ
         :columns: 3
     .. grid-item:: 840
-    .. grid-item:: 840
     .. grid-item:: 1
     .. grid-item:: +24
     .. grid-item:: -10
@@ -3907,7 +3874,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ビームライフルⒷ
         :columns: 3
-    .. grid-item:: 1100
     .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -3977,6 +3943,10 @@ Gディフェンサー(G-防卫号)
                 :columns: auto
 
             .. grid-item:: 地形适应:空B陆🚫海🚫宇A。
+                :columns: auto
+
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`バウンド·ドック (MS) <srw4_unit_baund_doc_ms>`\ (MS型猎犬))。
                 :columns: auto
 
 
@@ -4063,7 +4033,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 拡散メガ粒子砲ⒷⓅ
         :columns: 3
     .. grid-item:: 840
-    .. grid-item:: 840
     .. grid-item:: 1
     .. grid-item:: +24
     .. grid-item:: -10
@@ -4079,7 +4048,6 @@ Gディフェンサー(G-防卫号)
         | クローアーム🤛Ⓟ (Snes)
         | クローアームⓅ (PlayStation)
 
-    .. grid-item:: 990
     .. grid-item:: 990
     .. grid-item:: 1
     .. grid-item:: +25
@@ -4237,7 +4205,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 880
-    .. grid-item:: 880
     .. grid-item:: 1~5
     .. grid-item:: +5
     .. grid-item:: 0
@@ -4249,7 +4216,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: メガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 880
     .. grid-item:: 880
     .. grid-item:: 1~6
     .. grid-item:: -5
@@ -4266,7 +4232,6 @@ Gディフェンサー(G-防卫号)
         | クローアーム🤛Ⓟ (Snes)
         | クローアームⓅ (PlayStation)
 
-    .. grid-item:: 990
     .. grid-item:: 990
     .. grid-item:: 1
     .. grid-item:: +25
@@ -4423,7 +4388,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ｻｲｺﾐｭ式ﾒｶﾞ粒子砲
         :columns: 3
-    .. grid-item:: 1240
     .. grid-item:: 1240
     .. grid-item:: 1~7
     .. grid-item:: +14
@@ -4586,7 +4550,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 120ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
-    .. grid-item:: 350
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: 0
@@ -4598,7 +4561,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: 対空機関砲Ⓟ
         :columns: 3
-    .. grid-item:: 450
     .. grid-item:: 450
     .. grid-item:: 1
     .. grid-item:: +25
@@ -4612,7 +4574,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: メガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 880
-    .. grid-item:: 880
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: +10
@@ -4624,7 +4585,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: 12連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
-    .. grid-item:: 980
     .. grid-item:: 980
     .. grid-item:: 1~6
     .. grid-item:: -30
@@ -4703,7 +4663,7 @@ Gディフェンサー(G-防卫号)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_2C.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、Iフィールド。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、Iフィールド、变形(\ :ref:`サイコガンダム (MA) <srw4_unit_psycho_gundam_ma>`\ (MA型精神力高达))。
                 :columns: auto
 
 
@@ -4790,7 +4750,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 拡散メガ粒子砲ⒷⓅ
         :columns: 3
     .. grid-item:: 890
-    .. grid-item:: 890
     .. grid-item:: 1
     .. grid-item:: +28
     .. grid-item:: -10
@@ -4803,7 +4762,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 小型メガビーム砲Ⓑ
         :columns: 3
     .. grid-item:: 950
-    .. grid-item:: 950
     .. grid-item:: 1~6
     .. grid-item:: +2
     .. grid-item:: +10
@@ -4815,7 +4773,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ビーム砲Ⓑ
         :columns: 3
-    .. grid-item:: 1250
     .. grid-item:: 1250
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -4895,7 +4852,7 @@ Gディフェンサー(G-防卫号)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_2C.png
                 :columns: auto
 
-            .. grid-item:: 技能: Iフィールド。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : Iフィールド、变形(\ :ref:`サイコガンダム (MS) <srw4_unit_psycho_gundam_ms>`\ (MS型精神力高达))。
                 :columns: auto
 
 
@@ -4982,7 +4939,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 拡散メガ粒子砲ⒷⓅ
         :columns: 3
     .. grid-item:: 890
-    .. grid-item:: 890
     .. grid-item:: 1
     .. grid-item:: +28
     .. grid-item:: -10
@@ -4995,7 +4951,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 小型メガビーム砲Ⓑ
         :columns: 3
     .. grid-item:: 950
-    .. grid-item:: 950
     .. grid-item:: 1~6
     .. grid-item:: +2
     .. grid-item:: +10
@@ -5007,7 +4962,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ビーム砲Ⓑ
         :columns: 3
-    .. grid-item:: 1250
     .. grid-item:: 1250
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -5087,7 +5041,7 @@ Gディフェンサー(G-防卫号)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_8E.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、Iフィールド。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、Iフィールド、变形(\ :ref:`サイコガンダム Mk-II (MA) <srw4_unit_psycho_gundam_mk_ii_ma>`\ (MA型精神力高达 Mk-II))。
                 :columns: auto
 
 
@@ -5174,7 +5128,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ﾒｶﾞ拡散ﾋﾞｰﾑ砲ⒷⓅ
         :columns: 3
     .. grid-item:: 880
-    .. grid-item:: 880
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: -10
@@ -5186,7 +5139,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: メガビーム砲Ⓑ
         :columns: 3
-    .. grid-item:: 1230
     .. grid-item:: 1230
     .. grid-item:: 1~7
     .. grid-item:: 
@@ -5200,7 +5152,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ｻｲｺﾐｭ式ﾋﾞｰﾑｿｰﾄﾞ⚔Ⓟ
         :columns: 3
     .. grid-item:: 1650
-    .. grid-item:: 1650
     .. grid-item:: 1
     .. grid-item:: +13
     .. grid-item:: +20
@@ -5212,7 +5163,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ﾚﾌﾚｸﾀｰﾋﾞｯﾄ⚔
         :columns: 3
-    .. grid-item:: 1960
     .. grid-item:: 1960
     .. grid-item:: 1~7
     .. grid-item:: +10
@@ -5292,7 +5242,7 @@ Gディフェンサー(G-防卫号)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_8E.png
                 :columns: auto
 
-            .. grid-item:: 技能: Iフィールド。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : Iフィールド、变形(\ :ref:`サイコガンダム Mk-II (MS) <srw4_unit_psycho_gundam_mk_ii_ms>`\ (MS型精神力高达 Mk-II))。
                 :columns: auto
 
 
@@ -5379,7 +5329,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ﾒｶﾞ拡散ﾋﾞｰﾑ砲ⒷⓅ
         :columns: 3
     .. grid-item:: 880
-    .. grid-item:: 880
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: -10
@@ -5392,7 +5341,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: メガビーム砲Ⓑ
         :columns: 3
     .. grid-item:: 1230
-    .. grid-item:: 1230
     .. grid-item:: 1~7
     .. grid-item:: 
     .. grid-item:: +10
@@ -5404,7 +5352,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ﾚﾌﾚｸﾀｰﾋﾞｯﾄ⚔
         :columns: 3
-    .. grid-item:: 1960
     .. grid-item:: 1960
     .. grid-item:: 1~7
     .. grid-item:: +10
@@ -5484,7 +5431,7 @@ Gディフェンサー(G-防卫号)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_87.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備、ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、ビームコート。
                 :columns: auto
 
 
@@ -5571,7 +5518,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1020
-    .. grid-item:: 1020
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -5584,7 +5530,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: ビームガンⒷ
         :columns: 3
     .. grid-item:: 1200
-    .. grid-item:: 1200
     .. grid-item:: 1~7
     .. grid-item:: 
     .. grid-item:: +10
@@ -5596,7 +5541,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ファンネル⚔
         :columns: 3
-    .. grid-item:: 2000 (2600)
     .. grid-item:: 2000 (2600)
     .. grid-item:: 1~9
     .. grid-item:: +27
@@ -5759,7 +5703,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 120ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
-    .. grid-item:: 350
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: 0
@@ -5771,7 +5714,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: サブメガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 800
     .. grid-item:: 800
     .. grid-item:: 1~6
     .. grid-item:: -15
@@ -5785,7 +5727,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 20連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 1100
-    .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: -30
     .. grid-item:: -10
@@ -5797,7 +5738,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: メインメガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 1150
     .. grid-item:: 1150
     .. grid-item:: 2~8
     .. grid-item:: -20
@@ -5949,7 +5889,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 120ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
-    .. grid-item:: 350
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: 0
@@ -5961,7 +5900,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: サブメガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 900
     .. grid-item:: 900
     .. grid-item:: 1~6
     .. grid-item:: -15
@@ -5975,7 +5913,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 20連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 1100
-    .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: -30
     .. grid-item:: -10
@@ -5987,7 +5924,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: メインメガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 1280
     .. grid-item:: 1280
     .. grid-item:: 2~8
     .. grid-item:: -20
@@ -6139,7 +6075,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 140ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 400
-    .. grid-item:: 400
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: 0
@@ -6151,7 +6086,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: サブメガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 800
     .. grid-item:: 800
     .. grid-item:: 1~6
     .. grid-item:: -15
@@ -6165,7 +6099,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 20連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 1100
-    .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: -30
     .. grid-item:: -10
@@ -6178,7 +6111,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: メインメガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 1150
-    .. grid-item:: 1150
     .. grid-item:: 2~8
     .. grid-item:: -20
     .. grid-item:: 0
@@ -6190,7 +6122,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: ハイメガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 2150
     .. grid-item:: 2150
     .. grid-item:: 2~8
     .. grid-item:: -17
@@ -6342,7 +6273,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 120ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
-    .. grid-item:: 350
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: 0
@@ -6354,7 +6284,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: 対空機関砲Ⓟ
         :columns: 3
-    .. grid-item:: 450
     .. grid-item:: 450
     .. grid-item:: 1
     .. grid-item:: +25
@@ -6368,7 +6297,6 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: メガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 880
-    .. grid-item:: 880
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: +10
@@ -6380,7 +6308,6 @@ Gディフェンサー(G-防卫号)
         :class: flex-break
     .. grid-item:: 12連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
-    .. grid-item:: 980
     .. grid-item:: 980
     .. grid-item:: 1~6
     .. grid-item:: -30

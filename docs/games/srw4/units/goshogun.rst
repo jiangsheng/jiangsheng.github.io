@@ -172,7 +172,6 @@
     .. grid-item:: コスモビームⒷⓅ
         :columns: 3
     .. grid-item:: 680
-    .. grid-item:: 680
     .. grid-item:: 1
     .. grid-item:: +2
     .. grid-item:: 0
@@ -184,7 +183,6 @@
         :class: flex-break
     .. grid-item:: ホルスタービームⒷⓅ
         :columns: 3
-    .. grid-item:: 800
     .. grid-item:: 800
     .. grid-item:: 1
     .. grid-item:: +18
@@ -198,7 +196,6 @@
     .. grid-item:: ゴーステイック⚔Ⓟ
         :columns: 3
     .. grid-item:: 1000 (1100)
-    .. grid-item:: 1000 (1100)
     .. grid-item:: 1~3
     .. grid-item:: -10
     .. grid-item:: +10
@@ -210,7 +207,6 @@
         :class: flex-break
     .. grid-item:: ゴーサーベル🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1140 (1240)
     .. grid-item:: 1140 (1240)
     .. grid-item:: 1
     .. grid-item:: +12
@@ -224,7 +220,6 @@
     .. grid-item:: ﾚｯﾄﾞｲﾝﾊﾟﾙｻｰⓅ
         :columns: 3
     .. grid-item:: 1380
-    .. grid-item:: 1380
     .. grid-item:: 1
     .. grid-item:: +7
     .. grid-item:: +10
@@ -237,7 +232,6 @@
     .. grid-item:: スペースバズーカ⚔
         :columns: 3
     .. grid-item:: 2110 (2250)
-    .. grid-item:: 2110 (2250)
     .. grid-item:: 2~8
     .. grid-item:: -15
     .. grid-item:: 0
@@ -249,7 +243,6 @@
         :class: flex-break
     .. grid-item:: ゴーフラッシャー
         :columns: 3
-    .. grid-item:: 3500 (3600)
     .. grid-item:: 3500 (3600)
     .. grid-item:: 1~8
     .. grid-item:: +20
@@ -337,7 +330,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B1.png
                 :columns: auto
 
-            .. grid-item:: 技能: Iフィールド。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : Iフィールド。
                 :columns: auto
 
 
@@ -424,7 +417,6 @@
     .. grid-item:: 60ミリ機銃Ⓟ
         :columns: 3
     .. grid-item:: 620
-    .. grid-item:: 620
     .. grid-item:: 1
     .. grid-item:: +17
     .. grid-item:: -10
@@ -436,7 +428,6 @@
         :class: flex-break
     .. grid-item:: ﾎｰﾐﾝｸﾞﾐｻｲﾙⓅ
         :columns: 3
-    .. grid-item:: 980
     .. grid-item:: 980
     .. grid-item:: 1~7
     .. grid-item:: +8
@@ -450,7 +441,6 @@
     .. grid-item:: ビームキャノンⒷ
         :columns: 3
     .. grid-item:: 1150
-    .. grid-item:: 1150
     .. grid-item:: 1~6
     .. grid-item:: -2
     .. grid-item:: 0
@@ -462,7 +452,6 @@
         :class: flex-break
     .. grid-item:: ﾌﾗｯｼｬｰﾋﾞｰﾑⒷ
         :columns: 3
-    .. grid-item:: 1480
     .. grid-item:: 1480
     .. grid-item:: 1~7
     .. grid-item:: -10
@@ -544,7 +533,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B2.png
                 :columns: auto
 
-            .. grid-item:: 技能: Iフィールド。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : Iフィールド。
                 :columns: auto
 
 
@@ -631,7 +620,6 @@
     .. grid-item:: 60ミリ機銃Ⓟ
         :columns: 3
     .. grid-item:: 620
-    .. grid-item:: 620
     .. grid-item:: 1
     .. grid-item:: +17
     .. grid-item:: -10
@@ -643,7 +631,6 @@
         :class: flex-break
     .. grid-item:: ﾎｰﾐﾝｸﾞﾐｻｲﾙⓅ
         :columns: 3
-    .. grid-item:: 980
     .. grid-item:: 980
     .. grid-item:: 1~7
     .. grid-item:: +8
@@ -657,7 +644,6 @@
     .. grid-item:: ビームキャノンⒷ
         :columns: 3
     .. grid-item:: 1150
-    .. grid-item:: 1150
     .. grid-item:: 1~6
     .. grid-item:: -2
     .. grid-item:: 0
@@ -669,7 +655,6 @@
         :class: flex-break
     .. grid-item:: ﾌﾗｯｼｬｰﾋﾞｰﾑⒷ
         :columns: 3
-    .. grid-item:: 1480
     .. grid-item:: 1480
     .. grid-item:: 1~7
     .. grid-item:: -10
@@ -749,7 +734,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B3.png
                 :columns: auto
 
-            .. grid-item:: 技能: Iフィールド。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : Iフィールド。
                 :columns: auto
 
 
@@ -836,7 +821,6 @@
     .. grid-item:: 60ミリ機銃Ⓟ
         :columns: 3
     .. grid-item:: 620
-    .. grid-item:: 620
     .. grid-item:: 1
     .. grid-item:: +17
     .. grid-item:: -10
@@ -848,7 +832,6 @@
         :class: flex-break
     .. grid-item:: ﾎｰﾐﾝｸﾞﾐｻｲﾙⓅ
         :columns: 3
-    .. grid-item:: 980
     .. grid-item:: 980
     .. grid-item:: 1~7
     .. grid-item:: +8
@@ -862,7 +845,6 @@
     .. grid-item:: ビームキャノンⒷ
         :columns: 3
     .. grid-item:: 1150
-    .. grid-item:: 1150
     .. grid-item:: 1~6
     .. grid-item:: -2
     .. grid-item:: 0
@@ -874,7 +856,6 @@
         :class: flex-break
     .. grid-item:: ラム🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1260
     .. grid-item:: 1260
     .. grid-item:: 1
     .. grid-item:: +2
@@ -1030,7 +1011,6 @@
     .. grid-item:: サーベル🤛Ⓟ
         :columns: 3
     .. grid-item:: 980
-    .. grid-item:: 980
     .. grid-item:: 1
     .. grid-item:: +6
     .. grid-item:: 0
@@ -1042,7 +1022,6 @@
         :class: flex-break
     .. grid-item:: バズーカ⚔
         :columns: 3
-    .. grid-item:: 1250
     .. grid-item:: 1250
     .. grid-item:: 1~6
     .. grid-item:: -12
@@ -1197,7 +1176,6 @@
     .. grid-item:: ﾌﾗｯｼｬｰﾋﾞｰﾑⒷ
         :columns: 3
     .. grid-item:: 1480
-    .. grid-item:: 1480
     .. grid-item:: 1~7
     .. grid-item:: -10
     .. grid-item:: +10
@@ -1210,7 +1188,6 @@
     .. grid-item:: ｺﾞｯﾄﾞﾈﾛｽﾊﾟﾝﾁ🤛Ⓟ
         :columns: 3
     .. grid-item:: 1500
-    .. grid-item:: 1500
     .. grid-item:: 1
     .. grid-item:: +10
     .. grid-item:: 0
@@ -1222,7 +1199,6 @@
         :class: flex-break
     .. grid-item:: ｸﾞﾗﾋﾞﾄﾝｳｪｰﾌﾞ
         :columns: 3
-    .. grid-item:: 1780
     .. grid-item:: 1780
     .. grid-item:: 1~7
     .. grid-item:: -12

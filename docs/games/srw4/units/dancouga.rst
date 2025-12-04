@@ -91,6 +91,10 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_12.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 分离。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -174,7 +178,6 @@
     .. grid-item:: ビームランチャーⒷ
         :columns: 3
     .. grid-item:: 750
-    .. grid-item:: 750
     .. grid-item:: 1~6
     .. grid-item:: +12
     .. grid-item:: +10
@@ -186,7 +189,6 @@
         :class: flex-break
     .. grid-item:: パルスレーザーⓅ
         :columns: 3
-    .. grid-item:: 880
     .. grid-item:: 880
     .. grid-item:: 1
     .. grid-item:: +25
@@ -200,7 +202,6 @@
     .. grid-item:: 連装キャノン砲
         :columns: 3
     .. grid-item:: 1020
-    .. grid-item:: 1020
     .. grid-item:: 1~6
     .. grid-item:: +4
     .. grid-item:: +10
@@ -213,7 +214,6 @@
     .. grid-item:: 断空剣🤛Ⓟ
         :columns: 3
     .. grid-item:: 1750 (2150)
-    .. grid-item:: 1750 (2150)
     .. grid-item:: 1
     .. grid-item:: +5 (+15)
     .. grid-item:: +20
@@ -225,7 +225,6 @@
         :class: flex-break
     .. grid-item:: 断空砲
         :columns: 3
-    .. grid-item:: 3040 (3600)
     .. grid-item:: 3040 (3600)
     .. grid-item:: 2~8
     .. grid-item:: -15
@@ -313,6 +312,10 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_12.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体，变形(\ :ref:`イーグルファイターA <srw4_unit_eagle_fighter_a>`\ (鹰战机A)、\ :ref:`イーグルファイターH <srw4_unit_eagle_fighter_h>`\ (鹰战机H))。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -396,7 +399,6 @@
     .. grid-item:: 27ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 800
-    .. grid-item:: 800
     .. grid-item:: 1
     .. grid-item:: +21
     .. grid-item:: 0
@@ -409,7 +411,6 @@
     .. grid-item:: ４連ミサイル⚔
         :columns: 3
     .. grid-item:: 970
-    .. grid-item:: 970
     .. grid-item:: 1~6
     .. grid-item:: -8
     .. grid-item:: -10
@@ -421,7 +422,6 @@
         :class: flex-break
     .. grid-item:: 爆雷⚔Ⓟ
         :columns: 3
-    .. grid-item:: 1200
     .. grid-item:: 1200
     .. grid-item:: 1
     .. grid-item:: +19
@@ -500,6 +500,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_12.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体，变形(\ :ref:`イーグルファイターN <srw4_unit_eagle_fighter_n>`\ (鹰战机)、\ :ref:`イーグルファイターH <srw4_unit_eagle_fighter_h>`\ (鹰战机H))。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -584,7 +588,6 @@
     .. grid-item:: 27ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 800
-    .. grid-item:: 800
     .. grid-item:: 1
     .. grid-item:: +21
     .. grid-item:: 0
@@ -596,7 +599,6 @@
         :class: flex-break
     .. grid-item:: ４連ミサイル⚔
         :columns: 3
-    .. grid-item:: 970
     .. grid-item:: 970
     .. grid-item:: 1~6
     .. grid-item:: -8
@@ -610,7 +612,6 @@
     .. grid-item:: 爆雷⚔Ⓟ
         :columns: 3
     .. grid-item:: 1200
-    .. grid-item:: 1200
     .. grid-item:: 1
     .. grid-item:: +19
     .. grid-item:: -10
@@ -622,7 +623,6 @@
         :class: flex-break
     .. grid-item:: 突撃Ⓟ
         :columns: 3
-    .. grid-item:: 1540
     .. grid-item:: 1540
     .. grid-item:: 1
     .. grid-item:: +12
@@ -701,6 +701,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_12.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体，变形(\ :ref:`イーグルファイターN <srw4_unit_eagle_fighter_n>`\ (鹰战机)、\ :ref:`イーグルファイターA <srw4_unit_eagle_fighter_a>`\ (鹰战机A))。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -785,7 +789,6 @@
     .. grid-item:: 格闘🤛Ⓟ
         :columns: 3
     .. grid-item:: 720
-    .. grid-item:: 720
     .. grid-item:: 1
     .. grid-item:: +15
     .. grid-item:: -10
@@ -797,7 +800,6 @@
         :class: flex-break
     .. grid-item:: 27ミリ機関砲Ⓟ
         :columns: 3
-    .. grid-item:: 800
     .. grid-item:: 800
     .. grid-item:: 1
     .. grid-item:: +21
@@ -811,7 +813,6 @@
     .. grid-item:: ４連ミサイル⚔
         :columns: 3
     .. grid-item:: 970
-    .. grid-item:: 970
     .. grid-item:: 1~6
     .. grid-item:: -8
     .. grid-item:: -10
@@ -823,7 +824,6 @@
         :class: flex-break
     .. grid-item:: キャノン砲
         :columns: 3
-    .. grid-item:: 1100
     .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -903,6 +903,10 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_13.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体，变形(\ :ref:`ランドクーガーA <srw4_unit_land_cougar_a>`\ (猎豹A)、\ :ref:`ランドクーガーH <srw4_unit_land_cougar_h>`\ (猎豹H))。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -986,7 +990,6 @@
     .. grid-item:: ５連ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 990
-    .. grid-item:: 990
     .. grid-item:: 1~6
     .. grid-item:: -7
     .. grid-item:: -10
@@ -998,7 +1001,6 @@
         :class: flex-break
     .. grid-item:: 高収束ﾋﾞｰﾑ連射砲Ⓑ
         :columns: 3
-    .. grid-item:: 1020
     .. grid-item:: 1020
     .. grid-item:: 1~5
     .. grid-item:: +2
@@ -1078,6 +1080,10 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_13.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体，变形(\ :ref:`ランドクーガーN <srw4_unit_land_cougar_n>`\ (猎豹N)、\ :ref:`ランドクーガーH <srw4_unit_land_cougar_h>`\ (猎豹H))。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -1161,7 +1167,6 @@
     .. grid-item:: ５連ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 990
-    .. grid-item:: 990
     .. grid-item:: 1~6
     .. grid-item:: -7
     .. grid-item:: -10
@@ -1174,7 +1179,6 @@
     .. grid-item:: 高収束ﾋﾞｰﾑ連射砲Ⓑ
         :columns: 3
     .. grid-item:: 1020
-    .. grid-item:: 1020
     .. grid-item:: 1~5
     .. grid-item:: +2
     .. grid-item:: +10
@@ -1186,7 +1190,6 @@
         :class: flex-break
     .. grid-item:: かみつき🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1500
     .. grid-item:: 1500
     .. grid-item:: 1
     .. grid-item:: +10
@@ -1265,6 +1268,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_13.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体，变形(\ :ref:`ランドクーガーN <srw4_unit_land_cougar_n>`\ (猎豹N)、\ :ref:`ランドクーガーA <srw4_unit_land_cougar_a>`\ (猎豹A))。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -1349,7 +1356,6 @@
     .. grid-item:: 格闘🤛Ⓟ
         :columns: 3
     .. grid-item:: 720
-    .. grid-item:: 720
     .. grid-item:: 1
     .. grid-item:: +15
     .. grid-item:: -10
@@ -1362,7 +1368,6 @@
     .. grid-item:: ５連ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 990
-    .. grid-item:: 990
     .. grid-item:: 1~6
     .. grid-item:: -7
     .. grid-item:: -10
@@ -1374,7 +1379,6 @@
         :class: flex-break
     .. grid-item:: 高収束ﾋﾞｰﾑ連射砲Ⓑ
         :columns: 3
-    .. grid-item:: 1020
     .. grid-item:: 1020
     .. grid-item:: 1~5
     .. grid-item:: +2
@@ -1453,6 +1457,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_14.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体，变形(\ :ref:`ランドライガーA <srw4_unit_land_liger_a>`\ (美洲虎A)、\ :ref:`ランドライガーH <srw4_unit_land_liger_h>`\ (美洲虎H))。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -1537,7 +1545,6 @@
     .. grid-item:: ４連ミサイル⚔
         :columns: 3
     .. grid-item:: 970
-    .. grid-item:: 970
     .. grid-item:: 1~6
     .. grid-item:: -8
     .. grid-item:: -10
@@ -1549,7 +1556,6 @@
         :class: flex-break
     .. grid-item:: 105ﾐﾘライフル砲
         :columns: 3
-    .. grid-item:: 1070
     .. grid-item:: 1070
     .. grid-item:: 1~7
     .. grid-item:: 
@@ -1628,6 +1634,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_14.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体，变形(\ :ref:`ランドライガーN <srw4_unit_land_liger_n>`\ (美洲虎N)、\ :ref:`ランドライガーH <srw4_unit_land_liger_h>`\ (美洲虎H))。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -1712,7 +1722,6 @@
     .. grid-item:: ４連ミサイル⚔
         :columns: 3
     .. grid-item:: 970
-    .. grid-item:: 970
     .. grid-item:: 1~6
     .. grid-item:: -8
     .. grid-item:: -10
@@ -1725,7 +1734,6 @@
     .. grid-item:: 105ﾐﾘライフル砲
         :columns: 3
     .. grid-item:: 1070
-    .. grid-item:: 1070
     .. grid-item:: 1~7
     .. grid-item:: 
     .. grid-item:: 
@@ -1737,7 +1745,6 @@
         :class: flex-break
     .. grid-item:: かみつき🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1500
     .. grid-item:: 1500
     .. grid-item:: 1
     .. grid-item:: +10
@@ -1816,6 +1823,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_14.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体，变形(\ :ref:`ランドライガーN <srw4_unit_land_liger_n>`\ (美洲虎N)、\ :ref:`ランドライガーA <srw4_unit_land_liger_a>`\ (美洲虎A))。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -1900,7 +1911,6 @@
     .. grid-item:: 格闘🤛Ⓟ
         :columns: 3
     .. grid-item:: 720
-    .. grid-item:: 720
     .. grid-item:: 1
     .. grid-item:: +15
     .. grid-item:: -10
@@ -1913,7 +1923,6 @@
     .. grid-item:: ４連ミサイル⚔
         :columns: 3
     .. grid-item:: 970
-    .. grid-item:: 970
     .. grid-item:: 1~6
     .. grid-item:: -8
     .. grid-item:: -10
@@ -1925,7 +1934,6 @@
         :class: flex-break
     .. grid-item:: 105ﾐﾘライフル砲
         :columns: 3
-    .. grid-item:: 1070
     .. grid-item:: 1070
     .. grid-item:: 1~7
     .. grid-item:: 
@@ -2004,6 +2012,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_15.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体，变形(\ :ref:`ビッグモスA <srw4_unit_big_moth_a>`\ (巨象A)、\ :ref:`ビッグモスH <srw4_unit_big_moth_h>`\ (巨象H))。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -2088,7 +2100,6 @@
     .. grid-item:: ﾛｹｯﾄﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 980
-    .. grid-item:: 980
     .. grid-item:: 1~5
     .. grid-item:: -10
     .. grid-item:: 0
@@ -2100,7 +2111,6 @@
         :class: flex-break
     .. grid-item:: 4連対空ﾊﾟﾙｽﾚｰｻﾞ-
         :columns: 3
-    .. grid-item:: 1200
     .. grid-item:: 1200
     .. grid-item:: 1~5
     .. grid-item:: -7
@@ -2114,7 +2124,6 @@
     .. grid-item:: 200ミリ榴弾砲
         :columns: 3
     .. grid-item:: 1300
-    .. grid-item:: 1300
     .. grid-item:: 2~7
     .. grid-item:: -18
     .. grid-item:: -10
@@ -2126,7 +2135,6 @@
         :class: flex-break
     .. grid-item:: ４連大口径砲
         :columns: 3
-    .. grid-item:: 1320
     .. grid-item:: 1320
     .. grid-item:: 1~6
     .. grid-item:: -12
@@ -2205,6 +2213,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_15.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体，变形(\ :ref:`ビッグモスN <srw4_unit_big_moth_n>`\ (巨象N)、\ :ref:`ビッグモスH <srw4_unit_big_moth_h>`\ (巨象H))。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -2289,7 +2301,6 @@
     .. grid-item:: ﾛｹｯﾄﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 980
-    .. grid-item:: 980
     .. grid-item:: 1~5
     .. grid-item:: -10
     .. grid-item:: 0
@@ -2301,7 +2312,6 @@
         :class: flex-break
     .. grid-item:: 4連対空ﾊﾟﾙｽﾚｰｻﾞ-
         :columns: 3
-    .. grid-item:: 1200
     .. grid-item:: 1200
     .. grid-item:: 1~5
     .. grid-item:: -7
@@ -2315,7 +2325,6 @@
     .. grid-item:: 200ミリ榴弾砲
         :columns: 3
     .. grid-item:: 1300
-    .. grid-item:: 1300
     .. grid-item:: 2~7
     .. grid-item:: -18
     .. grid-item:: -10
@@ -2328,7 +2337,6 @@
     .. grid-item:: ４連大口径砲
         :columns: 3
     .. grid-item:: 1320
-    .. grid-item:: 1320
     .. grid-item:: 1~6
     .. grid-item:: -12
     .. grid-item:: +10
@@ -2340,7 +2348,6 @@
         :class: flex-break
     .. grid-item:: 牙🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1520
     .. grid-item:: 1520
     .. grid-item:: 1
     .. grid-item:: +8
@@ -2419,6 +2426,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_15.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体，变形(\ :ref:`ビッグモスN <srw4_unit_big_moth_n>`\ (巨象N)、\ :ref:`ビッグモスA <srw4_unit_big_moth_a>`\ (巨象A))。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -2503,7 +2514,6 @@
     .. grid-item:: 格闘🤛Ⓟ
         :columns: 3
     .. grid-item:: 760
-    .. grid-item:: 760
     .. grid-item:: 1
     .. grid-item:: +15
     .. grid-item:: -10
@@ -2515,7 +2525,6 @@
         :class: flex-break
     .. grid-item:: ﾛｹｯﾄﾗﾝﾁｬｰ⚔
         :columns: 3
-    .. grid-item:: 980
     .. grid-item:: 980
     .. grid-item:: 1~5
     .. grid-item:: -10
@@ -2529,7 +2538,6 @@
     .. grid-item:: 4連対空ﾊﾟﾙｽﾚｰｻﾞ-
         :columns: 3
     .. grid-item:: 1200
-    .. grid-item:: 1200
     .. grid-item:: 1~5
     .. grid-item:: -7
     .. grid-item:: +10
@@ -2542,7 +2550,6 @@
     .. grid-item:: 200ミリ榴弾砲
         :columns: 3
     .. grid-item:: 1300
-    .. grid-item:: 1300
     .. grid-item:: 2~7
     .. grid-item:: -18
     .. grid-item:: -10
@@ -2554,7 +2561,6 @@
         :class: flex-break
     .. grid-item:: ４連大口径砲
         :columns: 3
-    .. grid-item:: 1320
     .. grid-item:: 1320
     .. grid-item:: 1~6
     .. grid-item:: -12

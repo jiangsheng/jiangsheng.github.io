@@ -174,7 +174,6 @@
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 300
-    .. grid-item:: 300
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -187,7 +186,6 @@
     .. grid-item:: 240ミリキャノン
         :columns: 3
     .. grid-item:: 880
-    .. grid-item:: 880
     .. grid-item:: 2~7
     .. grid-item:: +4
     .. grid-item:: 0
@@ -199,7 +197,6 @@
         :class: flex-break
     .. grid-item:: ビームライフルⒷ
         :columns: 3
-    .. grid-item:: 1000
     .. grid-item:: 1000
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -359,7 +356,6 @@
     .. grid-item:: ボップミサイル⚔
         :columns: 3
     .. grid-item:: 350
-    .. grid-item:: 350
     .. grid-item:: 1
     .. grid-item:: +23
     .. grid-item:: -10
@@ -371,7 +367,6 @@
         :class: flex-break
     .. grid-item:: 120ミリキャノン
         :columns: 3
-    .. grid-item:: 970
     .. grid-item:: 970
     .. grid-item:: 2~8
     .. grid-item:: -15
@@ -457,7 +452,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_50.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備。
                 :columns: auto
 
 
@@ -544,7 +539,6 @@
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 300
-    .. grid-item:: 300
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -556,7 +550,6 @@
         :class: flex-break
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
-    .. grid-item:: 890
     .. grid-item:: 890
     .. grid-item:: 1
     .. grid-item:: +20
@@ -570,7 +563,6 @@
     .. grid-item:: ビームライフルⒷ
         :columns: 3
     .. grid-item:: 1000
-    .. grid-item:: 1000
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -583,7 +575,6 @@
     .. grid-item:: ハイパーハンマー🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1030 (1060)
-    .. grid-item:: 1030 (1060)
     .. grid-item:: 1
     .. grid-item:: -5
     .. grid-item:: +10
@@ -595,7 +586,6 @@
         :class: flex-break
     .. grid-item:: ハイパーバズーカ⚔
         :columns: 3
-    .. grid-item:: 1200
     .. grid-item:: 1200
     .. grid-item:: 2~5
     .. grid-item:: -5
@@ -611,7 +601,7 @@
 
 代号RX-78-2。
 
-第一话由阿姆罗驾驶登场。武器比ネモ要强，但是还是不如GM III，还有陆B，限界也很低。对于阿姆罗来说，这真是个烂机体，可以换其他人上来坐，他去开ガンダムｍｋⅡ或者リ・ガズィ（BWS）。νガンダム入手时被毫无征兆地废弃而且没有资金返回，所以可以提前卖掉。
+第一话由阿姆罗驾驶登场。武器比ネモ要强，但是还是不如GM III，还有陆B，限界也很低。对于阿姆罗来说，这真是个烂机体，可以换其他人上来坐，他去开ガンダムｍｋⅡ或者\ :ref:`リ·ガズィ (MA) <srw4_unit_ri_gazi_ma>`\ (灵格斯BWS着装型)。νガンダム入手时被毫无征兆地废弃而且没有资金返回，所以可以提前卖掉。
 
 受制于容量限制，本作中友军单位或者机师经常会毫无征兆地离队。高达不过是又一个牺牲品罢了。但是没有这个限制了的PS版中，仍旧将此机报废处理，而性能更差的NT-1アレックス却安然无恙，可能是因为没有合适的驾驶员吧。
 
@@ -763,7 +753,6 @@
     .. grid-item:: 拡散ビーム砲ⒷⓅ
         :columns: 3
     .. grid-item:: 350
-    .. grid-item:: 350
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -775,7 +764,6 @@
         :class: flex-break
     .. grid-item:: ヒートサーベル🤛Ⓟ
         :columns: 3
-    .. grid-item:: 710
     .. grid-item:: 710
     .. grid-item:: 1
     .. grid-item:: +20
@@ -789,7 +777,6 @@
     .. grid-item:: ｼﾞｬｱｲｱﾝﾄﾊﾞｽﾞ⚔
         :columns: 3
     .. grid-item:: 850
-    .. grid-item:: 850
     .. grid-item:: 2~5
     .. grid-item:: -5
     .. grid-item:: 0
@@ -801,7 +788,6 @@
         :class: flex-break
     .. grid-item:: ｼｭﾂﾙﾑﾌｧｳｽﾄ⚔
         :columns: 3
-    .. grid-item:: 900
     .. grid-item:: 900
     .. grid-item:: 1~4
     .. grid-item:: -5
@@ -966,7 +952,6 @@
     .. grid-item:: 120ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
-    .. grid-item:: 350
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: 0
@@ -978,7 +963,6 @@
         :class: flex-break
     .. grid-item:: 対空機関砲Ⓟ
         :columns: 3
-    .. grid-item:: 450
     .. grid-item:: 450
     .. grid-item:: 1
     .. grid-item:: +25
@@ -992,7 +976,6 @@
     .. grid-item:: メガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 880
-    .. grid-item:: 880
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: +10
@@ -1005,7 +988,6 @@
     .. grid-item:: 12連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 980
-    .. grid-item:: 980
     .. grid-item:: 1~6
     .. grid-item:: -30
     .. grid-item:: -10
@@ -1017,7 +999,6 @@
         :class: flex-break
     .. grid-item:: 爆弾Ⓟ
         :columns: 3
-    .. grid-item:: 1120
     .. grid-item:: 1120
     .. grid-item:: 1
     .. grid-item:: +10
@@ -1180,7 +1161,6 @@
     .. grid-item:: 120ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
-    .. grid-item:: 350
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: 0
@@ -1192,7 +1172,6 @@
         :class: flex-break
     .. grid-item:: 対空機関砲Ⓟ
         :columns: 3
-    .. grid-item:: 450
     .. grid-item:: 450
     .. grid-item:: 1
     .. grid-item:: +25
@@ -1206,7 +1185,6 @@
     .. grid-item:: ｻﾌﾞﾒｶﾞ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 750
-    .. grid-item:: 750
     .. grid-item:: 1~6
     .. grid-item:: -15
     .. grid-item:: 0
@@ -1219,7 +1197,6 @@
     .. grid-item:: 12連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 980
-    .. grid-item:: 980
     .. grid-item:: 1~6
     .. grid-item:: -30
     .. grid-item:: -10
@@ -1231,7 +1208,6 @@
         :class: flex-break
     .. grid-item:: ﾒｲﾝﾒｶﾞ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 1100
     .. grid-item:: 1100
     .. grid-item:: 2~8
     .. grid-item:: -20
@@ -1394,7 +1370,6 @@
     .. grid-item:: ヒートホーク🤛Ⓟ
         :columns: 3
     .. grid-item:: 600
-    .. grid-item:: 600
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -1407,7 +1382,6 @@
     .. grid-item:: 120mmマシンガン
         :columns: 3
     .. grid-item:: 600
-    .. grid-item:: 600
     .. grid-item:: 1~5
     .. grid-item:: 
     .. grid-item:: +10
@@ -1419,7 +1393,6 @@
         :class: flex-break
     .. grid-item:: ザクバズーカ⚔
         :columns: 3
-    .. grid-item:: 800
     .. grid-item:: 800
     .. grid-item:: 2~5
     .. grid-item:: -5
@@ -1575,7 +1548,6 @@
     .. grid-item:: 2連装メガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 900
-    .. grid-item:: 900
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: +10
@@ -1587,7 +1559,6 @@
         :class: flex-break
     .. grid-item:: アッザムリーダー🗺️
         :columns: 3
-    .. grid-item:: 1010 (1200)
     .. grid-item:: 1010 (1200)
     .. grid-item:: 2~6
     .. grid-item:: 
@@ -1746,7 +1717,6 @@
     .. grid-item:: 120ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
-    .. grid-item:: 350
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: 0
@@ -1759,7 +1729,6 @@
     .. grid-item:: ｻﾌﾞﾒｶﾞ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 750
-    .. grid-item:: 750
     .. grid-item:: 1~6
     .. grid-item:: -15
     .. grid-item:: 0
@@ -1771,7 +1740,6 @@
         :class: flex-break
     .. grid-item:: ﾒｲﾝﾒｶﾞ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 1100
     .. grid-item:: 1100
     .. grid-item:: 2~8
     .. grid-item:: -20
@@ -1929,7 +1897,6 @@
     .. grid-item:: メガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 880
-    .. grid-item:: 880
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: +10
@@ -1941,7 +1908,6 @@
         :class: flex-break
     .. grid-item:: ビット⚔
         :columns: 3
-    .. grid-item:: 1150
     .. grid-item:: 1150
     .. grid-item:: 1~8
     .. grid-item:: +20
@@ -2031,7 +1997,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_24.png
                 :columns: auto
 
-            .. grid-item:: 技能: EN恢復。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : EN恢復。
                 :columns: auto
 
 
@@ -2118,7 +2084,6 @@
     .. grid-item:: 修理装置Ⓟ🔧
         :columns: 3
     .. grid-item:: 0
-    .. grid-item:: 0
     .. grid-item:: 1
     .. grid-item:: 
     .. grid-item:: 
@@ -2130,7 +2095,6 @@
         :class: flex-break
     .. grid-item:: 30ミリ機銃Ⓟ
         :columns: 3
-    .. grid-item:: 340
     .. grid-item:: 340
     .. grid-item:: 1
     .. grid-item:: +20
@@ -2289,7 +2253,6 @@
         :class: flex-break
     .. grid-item:: 120ミリキャノン
         :columns: 3
-    .. grid-item:: 970
     .. grid-item:: 970
     .. grid-item:: 2~8
     .. grid-item:: -15
@@ -2450,7 +2413,6 @@
     .. grid-item:: 120ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
-    .. grid-item:: 350
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: 0
@@ -2462,7 +2424,6 @@
         :class: flex-break
     .. grid-item:: メガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 880
     .. grid-item:: 880
     .. grid-item:: 1~6
     .. grid-item:: -5
@@ -2613,7 +2574,6 @@
         :class: flex-break
     .. grid-item:: 120ミリ機関砲Ⓟ
         :columns: 3
-    .. grid-item:: 350
     .. grid-item:: 350
     .. grid-item:: 1
     .. grid-item:: +20

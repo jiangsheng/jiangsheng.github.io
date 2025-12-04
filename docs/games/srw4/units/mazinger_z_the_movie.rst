@@ -165,7 +165,6 @@
     .. grid-item:: ミサイル⚔
         :columns: 3
     .. grid-item:: 800
-    .. grid-item:: 800
     .. grid-item:: 1~4
     .. grid-item:: -5
     .. grid-item:: -10
@@ -177,7 +176,6 @@
         :class: flex-break
     .. grid-item:: 体当たり🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1650
     .. grid-item:: 1650
     .. grid-item:: 1
     .. grid-item:: +5
@@ -250,7 +248,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 技能: HP恢復(小)。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : HP恢復(小)。
                 :columns: auto
 
 
@@ -337,7 +335,6 @@
     .. grid-item:: 超音波
         :columns: 3
     .. grid-item:: 1200
-    .. grid-item:: 1200
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: -10
@@ -350,7 +347,6 @@
     .. grid-item:: ﾏﾘﾝｳﾞｫﾙﾃｯｸｽ
         :columns: 3
     .. grid-item:: 1320
-    .. grid-item:: 1320
     .. grid-item:: 1~4
     .. grid-item:: -7
     .. grid-item:: -10
@@ -362,7 +358,6 @@
         :class: flex-break
     .. grid-item:: 触手🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1800
     .. grid-item:: 1800
     .. grid-item:: 1
     .. grid-item:: +5
@@ -520,7 +515,6 @@
     .. grid-item:: ミサイル⚔
         :columns: 3
     .. grid-item:: 800
-    .. grid-item:: 800
     .. grid-item:: 1~5
     .. grid-item:: -5
     .. grid-item:: -10
@@ -533,7 +527,6 @@
     .. grid-item:: ベガトロンビーム⚔
         :columns: 3
     .. grid-item:: 1060
-    .. grid-item:: 1060
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: 0
@@ -545,7 +538,6 @@
         :class: flex-break
     .. grid-item:: クロー🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1200
     .. grid-item:: 1200
     .. grid-item:: 1
     .. grid-item:: +5
@@ -701,7 +693,6 @@
     .. grid-item:: 怪光線
         :columns: 3
     .. grid-item:: 1200
-    .. grid-item:: 1200
     .. grid-item:: 1~6
     .. grid-item:: -2
     .. grid-item:: -10
@@ -713,7 +704,6 @@
         :class: flex-break
     .. grid-item:: ｲﾋﾞﾙﾘﾝｸﾞ⚔
         :columns: 3
-    .. grid-item:: 1230
     .. grid-item:: 1230
     .. grid-item:: 1~5
     .. grid-item:: -4
@@ -876,7 +866,6 @@ HP高一点，但是战斗力偏弱。
     .. grid-item:: 大火炎🤛Ⓟ
         :columns: 3
     .. grid-item:: 1080
-    .. grid-item:: 1080
     .. grid-item:: 1
     .. grid-item:: -5
     .. grid-item:: -10
@@ -889,7 +878,6 @@ HP高一点，但是战斗力偏弱。
     .. grid-item:: かみつき🤛Ⓟ
         :columns: 3
     .. grid-item:: 1280
-    .. grid-item:: 1280
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: +10
@@ -901,7 +889,6 @@ HP高一点，但是战斗力偏弱。
         :class: flex-break
     .. grid-item:: 怪光線
         :columns: 3
-    .. grid-item:: 1400
     .. grid-item:: 1400
     .. grid-item:: 1~7
     .. grid-item:: -10
@@ -1055,7 +1042,6 @@ HP高一点，但是战斗力偏弱。
         :class: flex-break
     .. grid-item:: ﾗｲﾄﾆﾝｸﾞｱﾛｰ
         :columns: 3
-    .. grid-item:: 1600
     .. grid-item:: 1600
     .. grid-item:: 1~7
     .. grid-item:: -18
@@ -1211,7 +1197,6 @@ HP高一点，但是战斗力偏弱。
     .. grid-item:: アイアンクロー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1500
-    .. grid-item:: 1500
     .. grid-item:: 1
     .. grid-item:: +10
     .. grid-item:: 0
@@ -1224,7 +1209,6 @@ HP高一点，但是战斗力偏弱。
     .. grid-item:: ｸﾞﾗﾋﾞﾄﾝｳｪｰﾌﾞ
         :columns: 3
     .. grid-item:: 1780
-    .. grid-item:: 1780
     .. grid-item:: 1~7
     .. grid-item:: -12
     .. grid-item:: 0
@@ -1236,7 +1220,6 @@ HP高一点，但是战斗力偏弱。
         :class: flex-break
     .. grid-item:: 破壊光線
         :columns: 3
-    .. grid-item:: 2100
     .. grid-item:: 2100
     .. grid-item:: 1~6
     .. grid-item:: -20

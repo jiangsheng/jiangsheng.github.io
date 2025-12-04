@@ -172,7 +172,6 @@
     .. grid-item:: ﾆｰｲﾝﾊﾟﾙｽｷｯｸ🤛Ⓟ
         :columns: 3
     .. grid-item:: 650 (750)
-    .. grid-item:: 650 (750)
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: +10
@@ -184,7 +183,6 @@
         :class: flex-break
     .. grid-item:: ﾊﾞｯｸｽﾋﾟﾝｷｯｸ🤛Ⓟ
         :columns: 3
-    .. grid-item:: 720 (820)
     .. grid-item:: 720 (820)
     .. grid-item:: 1
     .. grid-item:: +30
@@ -198,7 +196,6 @@
     .. grid-item:: ネーブルミサイル⚔
         :columns: 3
     .. grid-item:: 1000
-    .. grid-item:: 1000
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: -10
@@ -210,7 +207,6 @@
         :class: flex-break
     .. grid-item:: ﾏｼﾞﾝｶﾞｰﾌﾞﾚｰﾄﾞ🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1300 (1400)
     .. grid-item:: 1300 (1400)
     .. grid-item:: 1
     .. grid-item:: +5
@@ -224,7 +220,6 @@
     .. grid-item:: ｸﾞﾚｰﾄﾌﾞｰﾒﾗﾝ⚔
         :columns: 3
     .. grid-item:: 1300 (1600)
-    .. grid-item:: 1300 (1600)
     .. grid-item:: 1~5
     .. grid-item:: -5
     .. grid-item:: 0
@@ -236,7 +231,6 @@
         :class: flex-break
     .. grid-item:: スクランブルカッター🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1350 (1500)
     .. grid-item:: 1350 (1500)
     .. grid-item:: 1
     .. grid-item:: 0 (-5)
@@ -250,7 +244,6 @@
     .. grid-item:: ｸﾞﾚｰﾄﾀｲﾌｰﾝⓅ
         :columns: 3
     .. grid-item:: 1500 (1600)
-    .. grid-item:: 1500 (1600)
     .. grid-item:: 1
     .. grid-item:: +10
     .. grid-item:: -10
@@ -262,7 +255,6 @@
         :class: flex-break
     .. grid-item:: アトミックパンチ⚔Ⓟ
         :columns: 3
-    .. grid-item:: 1600 (1900)
     .. grid-item:: 1600 (1900)
     .. grid-item:: 1~3
     .. grid-item:: -5
@@ -276,7 +268,6 @@
     .. grid-item:: ﾄﾞﾘﾙﾌﾟﾚｯｼｬｰﾊﾟﾝﾁ⚔Ⓟ
         :columns: 3
     .. grid-item:: 1800 (2300)
-    .. grid-item:: 1800 (2300)
     .. grid-item:: 1~3
     .. grid-item:: -5
     .. grid-item:: +30
@@ -288,7 +279,6 @@
         :class: flex-break
     .. grid-item:: ブレストバーンⓅ
         :columns: 3
-    .. grid-item:: 2180 (2900)
     .. grid-item:: 2180 (2900)
     .. grid-item:: 1
     .. grid-item:: +12
@@ -302,7 +292,6 @@
     .. grid-item:: サンダーブレークⓅ
         :columns: 3
     .. grid-item:: 2900 (3200)
-    .. grid-item:: 2900 (3200)
     .. grid-item:: 1
     .. grid-item:: +15
     .. grid-item:: -10
@@ -314,7 +303,6 @@
         :class: flex-break
     .. grid-item:: グレートブースターⓅ
         :columns: 3
-    .. grid-item:: 3850
     .. grid-item:: 3850
     .. grid-item:: 1
     .. grid-item:: +5
@@ -487,7 +475,6 @@
     .. grid-item:: 修理装置Ⓟ🔧
         :columns: 3
     .. grid-item:: 0
-    .. grid-item:: 0
     .. grid-item:: 1
     .. grid-item:: 
     .. grid-item:: 
@@ -499,7 +486,6 @@
         :class: flex-break
     .. grid-item:: 格闘🤛Ⓟ
         :columns: 3
-    .. grid-item:: 750
     .. grid-item:: 750
     .. grid-item:: 1
     .. grid-item:: +20
@@ -513,7 +499,6 @@
     .. grid-item:: ﾌｨﾝｶﾞｰﾐｻｲﾙ⚔Ⓟ
         :columns: 3
     .. grid-item:: 780 (850)
-    .. grid-item:: 780 (850)
     .. grid-item:: 1~2
     .. grid-item:: +12
     .. grid-item:: -10
@@ -526,7 +511,6 @@
     .. grid-item:: 光子力ビームⒷⓅ
         :columns: 3
     .. grid-item:: 1000 (1200)
-    .. grid-item:: 1000 (1200)
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: 0
@@ -538,7 +522,6 @@
         :class: flex-break
     .. grid-item:: 光子力ミサイル⚔
         :columns: 3
-    .. grid-item:: 1100 (1200)
     .. grid-item:: 1100 (1200)
     .. grid-item:: 1~6
     .. grid-item:: -5
@@ -709,7 +692,6 @@
     .. grid-item:: ｲﾋﾞﾙｻｲｽﾞ🤛Ⓟ
         :columns: 3
     .. grid-item:: 980
-    .. grid-item:: 980
     .. grid-item:: 1
     .. grid-item:: +15
     .. grid-item:: +20
@@ -722,7 +704,6 @@
     .. grid-item:: カーズ
         :columns: 3
     .. grid-item:: 1370
-    .. grid-item:: 1370
     .. grid-item:: 1~6
     .. grid-item:: +5
     .. grid-item:: +10
@@ -734,7 +715,6 @@
         :class: flex-break
     .. grid-item:: ﾍﾙﾌｧｲﾔｰ🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1630
     .. grid-item:: 1630
     .. grid-item:: 1
     .. grid-item:: +10
@@ -890,7 +870,6 @@
     .. grid-item:: 振動波
         :columns: 3
     .. grid-item:: 800
-    .. grid-item:: 800
     .. grid-item:: 1~6
     .. grid-item:: -10
     .. grid-item:: -10
@@ -902,7 +881,6 @@
         :class: flex-break
     .. grid-item:: ムチ🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1220
     .. grid-item:: 1220
     .. grid-item:: 1
     .. grid-item:: 
@@ -916,7 +894,6 @@
     .. grid-item:: ドリル🤛Ⓟ
         :columns: 3
     .. grid-item:: 1380
-    .. grid-item:: 1380
     .. grid-item:: 1
     .. grid-item:: +4
     .. grid-item:: +10
@@ -928,7 +905,6 @@
         :class: flex-break
     .. grid-item:: 破壊光線
         :columns: 3
-    .. grid-item:: 2100
     .. grid-item:: 2100
     .. grid-item:: 1~6
     .. grid-item:: -20
@@ -1084,7 +1060,6 @@
     .. grid-item:: ミサイル⚔
         :columns: 3
     .. grid-item:: 800
-    .. grid-item:: 800
     .. grid-item:: 1~5
     .. grid-item:: -5
     .. grid-item:: -10
@@ -1097,7 +1072,6 @@
     .. grid-item:: くちばし🤛Ⓟ
         :columns: 3
     .. grid-item:: 1100
-    .. grid-item:: 1100
     .. grid-item:: 1
     .. grid-item:: +8
     .. grid-item:: +10
@@ -1109,7 +1083,6 @@
         :class: flex-break
     .. grid-item:: 破壊光線
         :columns: 3
-    .. grid-item:: 2100
     .. grid-item:: 2100
     .. grid-item:: 1~6
     .. grid-item:: -20
@@ -1274,7 +1247,6 @@
     .. grid-item:: ファイヤーブレスⓅ
         :columns: 3
     .. grid-item:: 1000
-    .. grid-item:: 1000
     .. grid-item:: 1
     .. grid-item:: 
     .. grid-item:: +30
@@ -1287,7 +1259,6 @@
     .. grid-item:: 破壊光線⚔
         :columns: 3
     .. grid-item:: 1180
-    .. grid-item:: 1180
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: 0
@@ -1299,7 +1270,6 @@
         :class: flex-break
     .. grid-item:: アイアンクロー🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1500
     .. grid-item:: 1500
     .. grid-item:: 1
     .. grid-item:: +10
@@ -1455,7 +1425,6 @@
     .. grid-item:: 怪光線
         :columns: 3
     .. grid-item:: 1200
-    .. grid-item:: 1200
     .. grid-item:: 1~6
     .. grid-item:: -2
     .. grid-item:: -10
@@ -1468,7 +1437,6 @@
     .. grid-item:: した🤛Ⓟ
         :columns: 3
     .. grid-item:: 1220
-    .. grid-item:: 1220
     .. grid-item:: 1
     .. grid-item:: +11
     .. grid-item:: 0
@@ -1480,7 +1448,6 @@
         :class: flex-break
     .. grid-item:: ﾍﾙﾌｧｲﾔｰ🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1630
     .. grid-item:: 1630
     .. grid-item:: 1
     .. grid-item:: +10
@@ -1645,7 +1612,6 @@
     .. grid-item:: ﾀﾞｰｸｻｰﾍﾞﾙ🤛Ⓟ
         :columns: 3
     .. grid-item:: 1200 (1400)
-    .. grid-item:: 1200 (1400)
     .. grid-item:: 1
     .. grid-item:: +10
     .. grid-item:: +20
@@ -1658,7 +1624,6 @@
     .. grid-item:: ハリケーン
         :columns: 3
     .. grid-item:: 1580
-    .. grid-item:: 1580
     .. grid-item:: 1~3
     .. grid-item:: -12
     .. grid-item:: -10
@@ -1670,7 +1635,6 @@
         :class: flex-break
     .. grid-item:: 超破壊光線
         :columns: 3
-    .. grid-item:: 2200
     .. grid-item:: 2200
     .. grid-item:: 1~8
     .. grid-item:: -10

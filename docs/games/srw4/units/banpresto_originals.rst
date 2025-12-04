@@ -91,7 +91,7 @@
             .. grid-item:: 
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備、ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、ビームコート。
                 :columns: auto
 
 
@@ -178,7 +178,6 @@
     .. grid-item:: スプリットミサイル⚔
         :columns: 3
     .. grid-item:: 750
-    .. grid-item:: 750
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: -10
@@ -191,7 +190,6 @@
     .. grid-item:: プラズマカッター🤛Ⓟ
         :columns: 3
     .. grid-item:: 970
-    .. grid-item:: 970
     .. grid-item:: 1
     .. grid-item:: +25
     .. grid-item:: +10
@@ -203,7 +201,6 @@
         :class: flex-break
     .. grid-item:: ニュートロンビーム
         :columns: 3
-    .. grid-item:: 1600
     .. grid-item:: 1600
     .. grid-item:: 1~7
     .. grid-item:: +5
@@ -287,7 +284,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
             .. grid-item:: 
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備、ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、ビームコート。
                 :columns: auto
 
 
@@ -374,7 +371,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: スプリットミサイル⚔
         :columns: 3
     .. grid-item:: 750
-    .. grid-item:: 750
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: -10
@@ -387,7 +383,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: プラズマカッター🤛Ⓟ
         :columns: 3
     .. grid-item:: 970
-    .. grid-item:: 970
     .. grid-item:: 1
     .. grid-item:: +25
     .. grid-item:: +10
@@ -399,7 +394,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         :class: flex-break
     .. grid-item:: スマッシュビームⓅ
         :columns: 3
-    .. grid-item:: 2150
     .. grid-item:: 2150
     .. grid-item:: 1
     .. grid-item:: +10
@@ -483,7 +477,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
             .. grid-item:: 
                 :columns: auto
 
-            .. grid-item:: 技能: 分身、剣装備、Iフィールド。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 分身、剣装備、Iフィールド。
                 :columns: auto
 
 
@@ -570,7 +564,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 60ﾐﾘﾊﾞﾙｶﾝⓅ
         :columns: 3
     .. grid-item:: 480
-    .. grid-item:: 480
     .. grid-item:: 1
     .. grid-item:: +25
     .. grid-item:: -10
@@ -582,7 +575,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         :class: flex-break
     .. grid-item:: 4連ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
-    .. grid-item:: 970
     .. grid-item:: 970
     .. grid-item:: 1~6
     .. grid-item:: -10
@@ -596,7 +588,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: ﾌﾟﾗｽﾞﾏｿｰﾄﾞ🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1220
-    .. grid-item:: 1220
     .. grid-item:: 1
     .. grid-item:: +14
     .. grid-item:: +20
@@ -608,7 +599,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         :class: flex-break
     .. grid-item:: マイクロミサイル⚔🗺️
         :columns: 3
-    .. grid-item:: 1400
     .. grid-item:: 1400
     .. grid-item:: 1~8
     .. grid-item:: +10
@@ -622,7 +612,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: ロシュセイバー🤛Ⓟ
         :columns: 3
     .. grid-item:: 2100 (2200)
-    .. grid-item:: 2100 (2200)
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: +30
@@ -635,7 +624,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: リープスラッシャー⚔
         :columns: 3
     .. grid-item:: 2800
-    .. grid-item:: 2800
     .. grid-item:: 2~8
     .. grid-item:: -7
     .. grid-item:: +20
@@ -647,7 +635,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         :class: flex-break
     .. grid-item:: ブラックホールキャノン
         :columns: 3
-    .. grid-item:: 3200
     .. grid-item:: 3200
     .. grid-item:: 3~10
     .. grid-item:: -12
@@ -731,7 +718,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
             .. grid-item:: 
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、变形(\ :ref:`ウイングガスト <srw4_unit_wing_gust>`\ (飞翼加斯特)、\ :ref:`ガストランダー <srw4_unit_gust_lander>`\ (加斯特战车))。
                 :columns: auto
 
 
@@ -818,7 +805,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: ブレイククロス⚔Ⓟ
         :columns: 3
     .. grid-item:: 1040 (1240)
-    .. grid-item:: 1040 (1240)
     .. grid-item:: 1~3
     .. grid-item:: -8
     .. grid-item:: +10
@@ -830,7 +816,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         :class: flex-break
     .. grid-item:: オメガレーザー
         :columns: 3
-    .. grid-item:: 1150 (1850)
     .. grid-item:: 1150 (1850)
     .. grid-item:: 1~6
     .. grid-item:: -10
@@ -844,7 +829,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 計都羅睺剣🤛Ⓟ
         :columns: 3
     .. grid-item:: 1180 (1450)
-    .. grid-item:: 1180 (1450)
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -856,7 +840,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         :class: flex-break
     .. grid-item:: ブーストナックル⚔Ⓟ
         :columns: 3
-    .. grid-item:: 1200 (1500)
     .. grid-item:: 1200 (1500)
     .. grid-item:: 1~4
     .. grid-item:: -13
@@ -870,7 +853,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: ｸﾞﾙﾝｶﾞｽﾄﾋﾞｰﾑⓅ
         :columns: 3
     .. grid-item:: 4720 (4800)
-    .. grid-item:: 4720 (4800)
     .. grid-item:: 1
     .. grid-item:: 
     .. grid-item:: +20
@@ -882,7 +864,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         :class: flex-break
     .. grid-item:: 計都羅睺剣・暗剣殺🤛Ⓟ
         :columns: 3
-    .. grid-item:: 6900
     .. grid-item:: 6900
     .. grid-item:: 1
     .. grid-item:: -14 (+20)
@@ -968,6 +949,10 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
             .. grid-item:: 
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`グルンガスト <srw4_unit_grungust>`\ (古伦加斯特)、\ :ref:`ガストランダー <srw4_unit_gust_lander>`\ (加斯特战车))。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -1051,7 +1036,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: ﾀﾞﾌﾞﾙｵﾒｶﾞﾚｰｻﾞｰ
         :columns: 3
     .. grid-item:: 1520
-    .. grid-item:: 1520
     .. grid-item:: 1~7
     .. grid-item:: -4
     .. grid-item:: +10
@@ -1063,7 +1047,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         :class: flex-break
     .. grid-item:: ビッグミサイル⚔
         :columns: 3
-    .. grid-item:: 2100
     .. grid-item:: 2100
     .. grid-item:: 1~6
     .. grid-item:: -20
@@ -1080,7 +1063,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         | スパイラルアタック🤛Ⓟ (Snes)
         | スパイラルアタックⓅ (PlayStation)
 
-    .. grid-item:: 2970
     .. grid-item:: 2970
     .. grid-item:: 1
     .. grid-item:: +10
@@ -1163,6 +1145,10 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
 
             .. grid-item:: 
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`グルンガスト <srw4_unit_grungust>`\ (古伦加斯特)、\ :ref:`ウイングガスト <srw4_unit_wing_gust>`\ (飞翼加斯特))。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -1247,7 +1233,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: オメガキャノン⚔
         :columns: 3
     .. grid-item:: 1460
-    .. grid-item:: 1460
     .. grid-item:: 3~8
     .. grid-item:: -17
     .. grid-item:: 0
@@ -1260,7 +1245,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: ビッグミサイル⚔
         :columns: 3
     .. grid-item:: 2100
-    .. grid-item:: 2100
     .. grid-item:: 1~6
     .. grid-item:: -20
     .. grid-item:: -10
@@ -1272,7 +1256,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         :class: flex-break
     .. grid-item:: ドリルアタック🤛Ⓟ
         :columns: 3
-    .. grid-item:: 2500
     .. grid-item:: 2500
     .. grid-item:: 1
     .. grid-item:: +5
@@ -1352,7 +1335,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1D.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、变形(\ :ref:`サイバード <srw4_unit_cybird>`\ (赛巴特))。
                 :columns: auto
 
 
@@ -1439,7 +1422,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: ｶﾛﾘｯｸﾐｻｲﾙ⚔
         :columns: 3
     .. grid-item:: 980
-    .. grid-item:: 980
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: -10
@@ -1451,7 +1433,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         :class: flex-break
     .. grid-item:: ディスカッター🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1150
     .. grid-item:: 1150
     .. grid-item:: 1
     .. grid-item:: +20
@@ -1465,7 +1446,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: サイフラッシュⓅ🗺️
         :columns: 3
     .. grid-item:: 1700 (1900)
-    .. grid-item:: 1700 (1900)
     .. grid-item:: 1~6
     .. grid-item:: +18
     .. grid-item:: -10
@@ -1477,7 +1457,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         :class: flex-break
     .. grid-item:: ハイファミリア⚔
         :columns: 3
-    .. grid-item:: 2000
     .. grid-item:: 2000
     .. grid-item:: 1~9
     .. grid-item:: +18
@@ -1491,7 +1470,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: ｱｶｼｯｸﾊﾞｽﾀｰ
         :columns: 3
     .. grid-item:: 3100 (3400)
-    .. grid-item:: 3100 (3400)
     .. grid-item:: 1~8
     .. grid-item:: +9
     .. grid-item:: +10
@@ -1503,7 +1481,6 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
         :class: flex-break
     .. grid-item:: コスモノヴァ
         :columns: 3
-    .. grid-item:: 4280 (4800)
     .. grid-item:: 4280 (4800)
     .. grid-item:: 2~9
     .. grid-item:: -4
@@ -1595,6 +1572,10 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1D.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`サイバスター <srw4_unit_cybuster>`\ (塞巴斯塔))。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -1678,7 +1659,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ｶﾛﾘｯｸﾐｻｲﾙ⚔
         :columns: 3
     .. grid-item:: 980
-    .. grid-item:: 980
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: -10
@@ -1691,7 +1671,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: サイフラッシュⓅ🗺️
         :columns: 3
     .. grid-item:: 1700 (1900)
-    .. grid-item:: 1700 (1900)
     .. grid-item:: 1~6
     .. grid-item:: +18
     .. grid-item:: -10
@@ -1703,7 +1682,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ハイファミリア⚔
         :columns: 3
-    .. grid-item:: 2000
     .. grid-item:: 2000
     .. grid-item:: 1~9
     .. grid-item:: +18
@@ -1783,7 +1761,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_73.png
                 :columns: auto
 
-            .. grid-item:: 技能: HP恢復(大)。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : HP恢復(大)。
                 :columns: auto
 
 
@@ -1870,7 +1848,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ﾚｿﾞﾅﾝｽｸｴｲｸ🗺️
         :columns: 3
     .. grid-item:: 1540 (2100)
-    .. grid-item:: 1540 (2100)
     .. grid-item:: 1~6
     .. grid-item:: +8
     .. grid-item:: -10
@@ -1882,7 +1859,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ハイファミリア⚔
         :columns: 3
-    .. grid-item:: 2000
     .. grid-item:: 2000
     .. grid-item:: 1~8
     .. grid-item:: +18
@@ -1896,7 +1872,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: リニアレールガン
         :columns: 3
     .. grid-item:: 2200 (2600)
-    .. grid-item:: 2200 (2600)
     .. grid-item:: 3~9
     .. grid-item:: -5
     .. grid-item:: +10
@@ -1909,7 +1884,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 超振動拳🤛Ⓟ
         :columns: 3
     .. grid-item:: 2580
-    .. grid-item:: 2580
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -1921,7 +1895,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: 対空ミサイル⚔
         :columns: 3
-    .. grid-item:: 3800
     .. grid-item:: 3800
     .. grid-item:: 1~7
     .. grid-item:: -10
@@ -2090,7 +2063,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ディバインアーム🤛Ⓟ
         :columns: 3
     .. grid-item:: 970
-    .. grid-item:: 970
     .. grid-item:: 1
     .. grid-item:: +23
     .. grid-item:: +10
@@ -2102,7 +2074,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: サイコブラスターⓅ🗺️
         :columns: 3
-    .. grid-item:: 1480 (1780)
     .. grid-item:: 1480 (1780)
     .. grid-item:: 1~6
     .. grid-item:: +15
@@ -2116,7 +2087,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: クロスソーサー⚔
         :columns: 3
     .. grid-item:: 1620 (1850)
-    .. grid-item:: 1620 (1850)
     .. grid-item:: 2~9
     .. grid-item:: +10
     .. grid-item:: +30
@@ -2129,7 +2099,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ﾊｲﾊﾟｰﾋﾞｰﾑｷｬﾉﾝⒷ
         :columns: 3
     .. grid-item:: 1870 (2100)
-    .. grid-item:: 1870 (2100)
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: 0
@@ -2141,7 +2110,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: クロスマッシャー
         :columns: 3
-    .. grid-item:: 2390 (2530)
     .. grid-item:: 2390 (2530)
     .. grid-item:: 1~7
     .. grid-item:: 
@@ -2306,7 +2274,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: フレイムカッター🤛Ⓟ
         :columns: 3
     .. grid-item:: 1090
-    .. grid-item:: 1090
     .. grid-item:: 1
     .. grid-item:: +18
     .. grid-item:: +20
@@ -2318,7 +2285,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: パルスレーザー
         :columns: 3
-    .. grid-item:: 1250
     .. grid-item:: 1250
     .. grid-item:: 1~6
     .. grid-item:: -9
@@ -2332,7 +2298,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ハイファミリア⚔
         :columns: 3
     .. grid-item:: 2000
-    .. grid-item:: 2000
     .. grid-item:: 1~8
     .. grid-item:: +18
     .. grid-item:: +20
@@ -2344,7 +2309,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: メギドフレイムⓅ🗺️
         :columns: 3
-    .. grid-item:: 2100 (2500)
     .. grid-item:: 2100 (2500)
     .. grid-item:: 1~10
     .. grid-item:: +4
@@ -2358,7 +2322,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 中性子レーザー
         :columns: 3
     .. grid-item:: 2200
-    .. grid-item:: 2200
     .. grid-item:: 1~9
     .. grid-item:: -9
     .. grid-item:: +10
@@ -2370,7 +2333,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ｶﾛﾘｯｸｽﾏｯｼｭ
         :columns: 3
-    .. grid-item:: 3720 (3920)
     .. grid-item:: 3720 (3920)
     .. grid-item:: 1~7
     .. grid-item:: -7
@@ -2537,7 +2499,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: グングニール🤛Ⓟ
         :columns: 3
     .. grid-item:: 1200
-    .. grid-item:: 1200
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -2549,7 +2510,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ｹﾙｳﾞｨﾝﾌﾞﾘｻﾞｰﾄﾞ🗺️
         :columns: 3
-    .. grid-item:: 1900 (2900)
     .. grid-item:: 1900 (2900)
     .. grid-item:: 3~8
     .. grid-item:: +5 (+15)
@@ -2563,7 +2523,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ハイファミリア
         :columns: 3
     .. grid-item:: 2000
-    .. grid-item:: 2000
     .. grid-item:: 1~8
     .. grid-item:: +18
     .. grid-item:: +20
@@ -2575,7 +2534,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ﾊｲﾄﾞﾛﾌﾟﾚｯｼｬｰ
         :columns: 3
-    .. grid-item:: 3800
     .. grid-item:: 3800
     .. grid-item:: 1~8
     .. grid-item:: -5 (+5)
@@ -2657,7 +2615,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1F.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
                 :columns: auto
 
 
@@ -2744,7 +2702,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ｸﾞﾗﾝﾜｰﾑｿｰﾄﾞ🤛Ⓟ
         :columns: 3
     .. grid-item:: 1260
-    .. grid-item:: 1260
     .. grid-item:: 1
     .. grid-item:: +17
     .. grid-item:: +20
@@ -2756,7 +2713,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ｸﾞﾗﾋﾞﾄﾛﾝｶﾉﾝ🗺️
         :columns: 3
-    .. grid-item:: 1540 (2500)
     .. grid-item:: 1540 (2500)
     .. grid-item:: 1~7
     .. grid-item:: +15
@@ -2770,7 +2726,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ﾜｰﾑｽﾏｯｼｬｰ
         :columns: 3
     .. grid-item:: 2100
-    .. grid-item:: 2100
     .. grid-item:: 1~9
     .. grid-item:: -5
     .. grid-item:: +10
@@ -2782,7 +2737,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ﾌﾞﾗｯｸﾎｰﾙｸﾗｽﾀｰ
         :columns: 3
-    .. grid-item:: 4200 (4600)
     .. grid-item:: 4200 (4600)
     .. grid-item:: 1~9
     .. grid-item:: +2
@@ -2949,7 +2903,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ローズカッター🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 920
-    .. grid-item:: 920
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: +20
@@ -2962,7 +2915,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ﾄﾞﾗｲｼｭﾄﾗｰﾙ
         :columns: 3
     .. grid-item:: 1720 (1750)
-    .. grid-item:: 1720 (1750)
     .. grid-item:: 1~8
     .. grid-item:: +5
     .. grid-item:: +10
@@ -2974,7 +2926,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ｴﾚﾒﾝﾀﾙﾌｭｰｼﾞｮﾝ
         :columns: 3
-    .. grid-item:: 2900 (3900)
     .. grid-item:: 2900 (3900)
     .. grid-item:: 1~8
     .. grid-item:: +15
@@ -3141,7 +3092,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 修理装置Ⓟ🔧
         :columns: 3
     .. grid-item:: 0
-    .. grid-item:: 0
     .. grid-item:: 1
     .. grid-item:: 
     .. grid-item:: 
@@ -3154,7 +3104,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ブラスナックル⚔Ⓟ
         :columns: 3
     .. grid-item:: 870 (1500)
-    .. grid-item:: 870 (1500)
     .. grid-item:: 1~3
     .. grid-item:: -5
     .. grid-item:: +10
@@ -3166,7 +3115,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: イビルアイ
         :columns: 3
-    .. grid-item:: 1200 (1800)
     .. grid-item:: 1200 (1800)
     .. grid-item:: 1~6
     .. grid-item:: +5
@@ -3335,7 +3283,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: レーザーバルカンⓅ
         :columns: 3
     .. grid-item:: 970
-    .. grid-item:: 970
     .. grid-item:: 1
     .. grid-item:: +12
     .. grid-item:: -10
@@ -3347,7 +3294,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ガトリングビームⒷ
         :columns: 3
-    .. grid-item:: 1270
     .. grid-item:: 1270
     .. grid-item:: 1~7
     .. grid-item:: -4
@@ -3505,7 +3451,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: レーザーバルカンⓅ
         :columns: 3
     .. grid-item:: 970
-    .. grid-item:: 970
     .. grid-item:: 1
     .. grid-item:: +12
     .. grid-item:: -10
@@ -3517,7 +3462,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ｽﾌﾟﾚｯﾄﾞﾐｻｲﾙ⚔
         :columns: 3
-    .. grid-item:: 1070
     .. grid-item:: 1070
     .. grid-item:: 1~5
     .. grid-item:: -15
@@ -3531,7 +3475,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: レーザーソード🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1100
-    .. grid-item:: 1100
     .. grid-item:: 1
     .. grid-item:: +12
     .. grid-item:: +20
@@ -3544,7 +3487,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ﾒｶﾞﾋﾞｰﾑﾗﾝﾁｬｰⒷ
         :columns: 3
     .. grid-item:: 1410
-    .. grid-item:: 1410
     .. grid-item:: 1~7
     .. grid-item:: -5
     .. grid-item:: +10
@@ -3556,7 +3498,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: 大口径ビーム砲Ⓑ
         :columns: 3
-    .. grid-item:: 2600
     .. grid-item:: 2600
     .. grid-item:: 3~8
     .. grid-item:: -15
@@ -3710,7 +3651,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: レーザーバルカンⓅ
         :columns: 3
     .. grid-item:: 970
-    .. grid-item:: 970
     .. grid-item:: 1
     .. grid-item:: +12
     .. grid-item:: -10
@@ -3722,7 +3662,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ﾃﾞｭｱﾙﾚｰｻﾞｰｿｰﾄﾞ🤛⚔Ⓟ
         :columns: 3
-    .. grid-item:: 1420
     .. grid-item:: 1420
     .. grid-item:: 1
     .. grid-item:: +18
@@ -3736,7 +3675,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: レーザーガン
         :columns: 3
     .. grid-item:: 1520
-    .. grid-item:: 1520
     .. grid-item:: 1~7
     .. grid-item:: 
     .. grid-item:: +10
@@ -3748,7 +3686,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ダブルキャノン
         :columns: 3
-    .. grid-item:: 1700
     .. grid-item:: 1700
     .. grid-item:: 1~7
     .. grid-item:: 
@@ -3902,7 +3839,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ダブルバルカンⓅ
         :columns: 3
     .. grid-item:: 850
-    .. grid-item:: 850
     .. grid-item:: 1
     .. grid-item:: +15
     .. grid-item:: -10
@@ -3915,7 +3851,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ﾏｽﾄﾞﾗｲﾊﾞｰｷｬﾉﾝ
         :columns: 3
     .. grid-item:: 1750
-    .. grid-item:: 1750
     .. grid-item:: 2~9
     .. grid-item:: -5
     .. grid-item:: 0
@@ -3927,7 +3862,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ｲｵﾝﾋﾞｰﾑ砲Ⓑ
         :columns: 3
-    .. grid-item:: 2540
     .. grid-item:: 2540
     .. grid-item:: 2~8
     .. grid-item:: -17
@@ -4088,7 +4022,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ﾗﾝﾁｬｰﾐｻｲﾙ⚔
         :columns: 3
     .. grid-item:: 1150
-    .. grid-item:: 1150
     .. grid-item:: 1~6
     .. grid-item:: -12
     .. grid-item:: -10
@@ -4100,7 +4033,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ﾃﾞｭｱﾙﾚｰｻﾞｰｿｰﾄﾞ🤛⚔Ⓟ
         :columns: 3
-    .. grid-item:: 1420
     .. grid-item:: 1420
     .. grid-item:: 1
     .. grid-item:: +18
@@ -4114,7 +4046,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ダブルキャノン
         :columns: 3
     .. grid-item:: 1700
-    .. grid-item:: 1700
     .. grid-item:: 1~7
     .. grid-item:: 
     .. grid-item:: +10
@@ -4127,7 +4058,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ﾄﾞﾗｲﾊﾞｰｷｬﾉﾝ
         :columns: 3
     .. grid-item:: 2020
-    .. grid-item:: 2020
     .. grid-item:: 2~9
     .. grid-item:: -5
     .. grid-item:: 0
@@ -4139,7 +4069,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: 大口径ビーム砲Ⓑ
         :columns: 3
-    .. grid-item:: 2600
     .. grid-item:: 2600
     .. grid-item:: 3~8
     .. grid-item:: -15
@@ -4217,7 +4146,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_E9.png
                 :columns: auto
 
-            .. grid-item:: 技能: EN恢復。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : EN恢復。
                 :columns: auto
 
 
@@ -4304,7 +4233,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ﾗﾝﾁｬｰﾐｻｲﾙ⚔
         :columns: 3
     .. grid-item:: 1150
-    .. grid-item:: 1150
     .. grid-item:: 1~6
     .. grid-item:: -12
     .. grid-item:: -10
@@ -4316,7 +4244,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ﾒｶﾞﾋﾞｰﾑﾗﾝﾁｬｰⒷ
         :columns: 3
-    .. grid-item:: 1410
     .. grid-item:: 1410
     .. grid-item:: 1~7
     .. grid-item:: -5
@@ -4330,7 +4257,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ギガブラスター
         :columns: 3
     .. grid-item:: 1780
-    .. grid-item:: 1780
     .. grid-item:: 2~10
     .. grid-item:: 
     .. grid-item:: +10
@@ -4342,7 +4268,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ロングレーザーソード🤛⚔Ⓟ
         :columns: 3
-    .. grid-item:: 1800
     .. grid-item:: 1800
     .. grid-item:: 1
     .. grid-item:: +14
@@ -4356,7 +4281,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ﾄﾞﾗｲﾊﾞｰｷｬﾉﾝ
         :columns: 3
     .. grid-item:: 2020
-    .. grid-item:: 2020
     .. grid-item:: 2~9
     .. grid-item:: -5
     .. grid-item:: 0
@@ -4368,7 +4292,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: 大口径ビーム砲Ⓑ
         :columns: 3
-    .. grid-item:: 2600
     .. grid-item:: 2600
     .. grid-item:: 3~8
     .. grid-item:: -15
@@ -4522,7 +4445,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: レーザーバルカンⓅ
         :columns: 3
     .. grid-item:: 1040
-    .. grid-item:: 1040
     .. grid-item:: 1
     .. grid-item:: +13
     .. grid-item:: -10
@@ -4534,7 +4456,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ﾗﾝﾁｬｰﾐｻｲﾙ⚔
         :columns: 3
-    .. grid-item:: 1150
     .. grid-item:: 1150
     .. grid-item:: 1~6
     .. grid-item:: -12
@@ -4548,7 +4469,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ﾚｰｻﾞｰｷｬﾉﾝ
         :columns: 3
     .. grid-item:: 1480
-    .. grid-item:: 1480
     .. grid-item:: 1~8
     .. grid-item:: -2
     .. grid-item:: +10
@@ -4561,7 +4481,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ﾂｲﾝﾚｰｻﾞｰｿｰﾄﾞ🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1600
-    .. grid-item:: 1600
     .. grid-item:: 1
     .. grid-item:: +15
     .. grid-item:: +20
@@ -4573,7 +4492,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ﾄﾞﾗｲﾊﾞｰｷｬﾉﾝ
         :columns: 3
-    .. grid-item:: 2020
     .. grid-item:: 2020
     .. grid-item:: 2~9
     .. grid-item:: -5
@@ -4653,7 +4571,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_EA.png
                 :columns: auto
 
-            .. grid-item:: 技能: EN恢復、激怒/自爆/てかげん無効。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : EN恢復、激怒/自爆/てかげん無効。
                 :columns: auto
 
 
@@ -4740,7 +4658,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ロングレーザーソード🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1800
-    .. grid-item:: 1800
     .. grid-item:: 1
     .. grid-item:: +14
     .. grid-item:: +20
@@ -4752,7 +4669,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ﾋﾞｯｸﾞﾊﾞﾝｳｪｰﾌﾞ🗺️
         :columns: 3
-    .. grid-item:: 2000
     .. grid-item:: 2000
     .. grid-item:: 1~7
     .. grid-item:: -10
@@ -4766,7 +4682,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ﾒｶﾞｸﾞﾗﾋﾞﾄﾝｳｪｰﾌﾞ
         :columns: 3
     .. grid-item:: 2320
-    .. grid-item:: 2320
     .. grid-item:: 1~8
     .. grid-item:: -10
     .. grid-item:: +10
@@ -4778,7 +4693,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ｷﾞｶﾞﾄﾞﾗｲﾊﾞｰｷｬﾉﾝ
         :columns: 3
-    .. grid-item:: 2400
     .. grid-item:: 2400
     .. grid-item:: 2~11
     .. grid-item:: +2
@@ -4939,7 +4853,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: レーザーバルカンⓅ
         :columns: 3
     .. grid-item:: 1040
-    .. grid-item:: 1040
     .. grid-item:: 1
     .. grid-item:: +13
     .. grid-item:: -10
@@ -4951,7 +4864,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: 小型ミサイル⚔
         :columns: 3
-    .. grid-item:: 1100
     .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: -15
@@ -4965,7 +4877,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 大型ミサイル⚔
         :columns: 3
     .. grid-item:: 1720
-    .. grid-item:: 1720
     .. grid-item:: 2~7
     .. grid-item:: -20
     .. grid-item:: -10
@@ -4977,7 +4888,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: 荷電粒子ﾋﾞｰﾑⒷ
         :columns: 3
-    .. grid-item:: 2100
     .. grid-item:: 2100
     .. grid-item:: 2~7
     .. grid-item:: -20
@@ -5052,7 +4962,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
                 :columns: auto
 
 
-            .. grid-item:: 技能: Iフィールド。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : Iフィールド。
                 :columns: auto
 
 
@@ -5139,7 +5049,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: アイアンクロー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1800
-    .. grid-item:: 1800
     .. grid-item:: 1
     .. grid-item:: +15
     .. grid-item:: 0
@@ -5152,7 +5061,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 超破壊光線
         :columns: 3
     .. grid-item:: 2200
-    .. grid-item:: 2200
     .. grid-item:: 1~8
     .. grid-item:: -10
     .. grid-item:: +10
@@ -5164,7 +5072,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ﾒｶﾞｸﾞﾗﾋﾞﾄﾝｳｪｰﾌﾞ
         :columns: 3
-    .. grid-item:: 2320
     .. grid-item:: 2320
     .. grid-item:: 1~8
     .. grid-item:: -10
@@ -5246,7 +5153,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1F.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備、EN恢復、HP恢復(大)、激怒/自爆/てかげん無効、Iフィールド。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、EN恢復、HP恢復(大)、激怒/自爆/てかげん無効、Iフィールド。
                 :columns: auto
 
 
@@ -5333,7 +5240,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ｸﾞﾗﾝﾜｰﾑｿｰﾄﾞ🤛Ⓟ
         :columns: 3
     .. grid-item:: 1260
-    .. grid-item:: 1260
     .. grid-item:: 1
     .. grid-item:: +17
     .. grid-item:: +20
@@ -5345,7 +5251,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ｸﾞﾗﾋﾞﾄﾛﾝｶﾉﾝ🗺️
         :columns: 3
-    .. grid-item:: 1540 (2500)
     .. grid-item:: 1540 (2500)
     .. grid-item:: 1~7
     .. grid-item:: +15
@@ -5359,7 +5264,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ﾜｰﾑｽﾏｯｼｬｰ
         :columns: 3
     .. grid-item:: 2100
-    .. grid-item:: 2100
     .. grid-item:: 1~9
     .. grid-item:: -5
     .. grid-item:: +10
@@ -5372,7 +5276,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ﾌﾞﾗｯｸﾎｰﾙｸﾗｽﾀｰ
         :columns: 3
     .. grid-item:: 4200 (4600)
-    .. grid-item:: 4200 (4600)
     .. grid-item:: 1~9
     .. grid-item:: +2
     .. grid-item:: +20
@@ -5384,7 +5287,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: 縮退砲
         :columns: 3
-    .. grid-item:: 18000
     .. grid-item:: 18000
     .. grid-item:: 1~12
     .. grid-item:: +10 (+15)
@@ -5455,7 +5357,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
                 :columns: auto
 
 
-            .. grid-item:: 技能: Iフィールド。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : Iフィールド。
                 :columns: auto
 
 
@@ -5542,7 +5444,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ﾃﾞｨﾊﾞｲﾝｱｰﾑ🤛Ⓟ
         :columns: 3
     .. grid-item:: 1470
-    .. grid-item:: 1470
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: +20
@@ -5554,7 +5455,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ｸﾛｽﾏｯｼｬｰ
         :columns: 3
-    .. grid-item:: 1980 (2180)
     .. grid-item:: 1980 (2180)
     .. grid-item:: 1~7
     .. grid-item:: -4
@@ -5640,7 +5540,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1B.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備、EN恢復、ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、EN恢復、ビームコート。
                 :columns: auto
 
 
@@ -5727,7 +5627,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: スプリットミサイル⚔
         :columns: 3
     .. grid-item:: 750
-    .. grid-item:: 750
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: -10
@@ -5739,7 +5638,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ﾈｵ･ﾌﾟﾗｽﾞﾏｶｯﾀｰ🤛Ⓟ
         :columns: 3
-    .. grid-item:: 970
     .. grid-item:: 970
     .. grid-item:: 1
     .. grid-item:: +18
@@ -5753,7 +5651,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ﾒｶﾞﾋﾞｰﾑﾗｲﾌﾙⒷ
         :columns: 3
     .. grid-item:: 1480
-    .. grid-item:: 1480
     .. grid-item:: 1~7
     .. grid-item:: 
     .. grid-item:: +10
@@ -5765,7 +5662,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ｽﾗｯｼｭﾘｯﾊﾟｰ⚔
         :columns: 3
-    .. grid-item:: 1830 (2350)
     .. grid-item:: 1830 (2350)
     .. grid-item:: 2~8
     .. grid-item:: -10
@@ -5854,7 +5750,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_EC.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
                 :columns: auto
 
 
@@ -5941,7 +5837,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ギガソートカノンⓅ
         :columns: 3
     .. grid-item:: 880
-    .. grid-item:: 880
     .. grid-item:: 1
     .. grid-item:: +15
     .. grid-item:: +10
@@ -5953,7 +5848,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ビームキャノンⒷ
         :columns: 3
-    .. grid-item:: 1010
     .. grid-item:: 1010
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -5967,7 +5861,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ディスカッター🤛Ⓟ
         :columns: 3
     .. grid-item:: 1150
-    .. grid-item:: 1150
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -5980,7 +5873,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ﾒｶﾞﾋﾞｰﾑｷｬﾉﾝⒷ
         :columns: 3
     .. grid-item:: 1230
-    .. grid-item:: 1230
     .. grid-item:: 1~7
     .. grid-item:: -5
     .. grid-item:: +10
@@ -5992,7 +5884,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: リニアレールガン
         :columns: 3
-    .. grid-item:: 1300
     .. grid-item:: 1300
     .. grid-item:: 2~8
     .. grid-item:: -12
@@ -6068,7 +5959,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
                 :columns: auto
 
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
                 :columns: auto
 
 
@@ -6155,7 +6046,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ｶﾛﾘｯｸﾐｻｲﾙ⚔
         :columns: 3
     .. grid-item:: 980
-    .. grid-item:: 980
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: -10
@@ -6167,7 +6057,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ディスカッター🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1150
     .. grid-item:: 1150
     .. grid-item:: 1
     .. grid-item:: +20
@@ -6181,7 +6070,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: ハイファミリア⚔
         :columns: 3
     .. grid-item:: 2000
-    .. grid-item:: 2000
     .. grid-item:: 1~9
     .. grid-item:: +18
     .. grid-item:: +20
@@ -6193,7 +6081,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
         :class: flex-break
     .. grid-item:: ｱｶｼｯｸﾊﾞｽﾀｰ
         :columns: 3
-    .. grid-item:: 3100 (3400)
     .. grid-item:: 3100 (3400)
     .. grid-item:: 1~8
     .. grid-item:: +9

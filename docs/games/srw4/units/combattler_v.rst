@@ -89,6 +89,10 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_16.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 分离。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -172,7 +176,6 @@
     .. grid-item:: ロックファイター⚔Ⓟ
         :columns: 3
     .. grid-item:: 700
-    .. grid-item:: 700
     .. grid-item:: 1
     .. grid-item:: +25
     .. grid-item:: -10
@@ -184,7 +187,6 @@
         :class: flex-break
     .. grid-item:: バトルガレッガー🤛Ⓟ
         :columns: 3
-    .. grid-item:: 860
     .. grid-item:: 860
     .. grid-item:: 1
     .. grid-item:: +8
@@ -198,7 +200,6 @@
     .. grid-item:: 超電磁クレーン🤛Ⓟ
         :columns: 3
     .. grid-item:: 890
-    .. grid-item:: 890
     .. grid-item:: 1
     .. grid-item:: +2
     .. grid-item:: 0
@@ -210,7 +211,6 @@
         :class: flex-break
     .. grid-item:: ｱﾄﾐｯｸﾊﾞｰﾅｰⓅ
         :columns: 3
-    .. grid-item:: 940
     .. grid-item:: 940
     .. grid-item:: 1
     .. grid-item:: +10
@@ -224,7 +224,6 @@
     .. grid-item:: ｽﾌﾟﾘﾝｸﾞｸﾗｯｼｬｰ🤛Ⓟ
         :columns: 3
     .. grid-item:: 960
-    .. grid-item:: 960
     .. grid-item:: 1
     .. grid-item:: -5
     .. grid-item:: +10
@@ -236,7 +235,6 @@
         :class: flex-break
     .. grid-item:: バトルリターン⚔Ⓟ
         :columns: 3
-    .. grid-item:: 1000
     .. grid-item:: 1000
     .. grid-item:: 1~2
     .. grid-item:: 
@@ -250,7 +248,6 @@
     .. grid-item:: マグネクロー⚔Ⓟ
         :columns: 3
     .. grid-item:: 1170
-    .. grid-item:: 1170
     .. grid-item:: 1
     .. grid-item:: +15
     .. grid-item:: +10
@@ -262,7 +259,6 @@
         :class: flex-break
     .. grid-item:: ツインランサー🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1210 (1300)
     .. grid-item:: 1210 (1300)
     .. grid-item:: 1
     .. grid-item:: +20
@@ -276,7 +272,6 @@
     .. grid-item:: 超電磁スパーク
         :columns: 3
     .. grid-item:: 1500
-    .. grid-item:: 1500
     .. grid-item:: 1~5
     .. grid-item:: 
     .. grid-item:: 
@@ -288,7 +283,6 @@
         :class: flex-break
     .. grid-item:: ビッグブラスト⚔
         :columns: 3
-    .. grid-item:: 1600 (1800)
     .. grid-item:: 1600 (1800)
     .. grid-item:: 1~6
     .. grid-item:: -10
@@ -302,7 +296,6 @@
     .. grid-item:: 超電磁ヨーヨー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1780 (2050)
-    .. grid-item:: 1780 (2050)
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: +30
@@ -314,7 +307,6 @@
         :class: flex-break
     .. grid-item:: ﾊﾞﾄﾙﾁｪｰﾝｿｰ⚔
         :columns: 3
-    .. grid-item:: 1890 (1980)
     .. grid-item:: 1890 (1980)
     .. grid-item:: 1~5
     .. grid-item:: 
@@ -328,7 +320,6 @@
     .. grid-item:: Bﾌﾞﾗｽﾄ･DV⚔
         :columns: 3
     .. grid-item:: 2050 (2150)
-    .. grid-item:: 2050 (2150)
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: -10
@@ -340,7 +331,6 @@
         :class: flex-break
     .. grid-item:: Ｖレーザー
         :columns: 3
-    .. grid-item:: 2200 (2400)
     .. grid-item:: 2200 (2400)
     .. grid-item:: 1~5
     .. grid-item:: -5
@@ -354,7 +344,6 @@
     .. grid-item:: 超電磁スピン🤛Ⓟ
         :columns: 3
     .. grid-item:: 3840 (3900)
-    .. grid-item:: 3840 (3900)
     .. grid-item:: 1
     .. grid-item:: +25
     .. grid-item:: +30
@@ -366,7 +355,6 @@
         :class: flex-break
     .. grid-item:: グランダッシャー🤛Ⓟ
         :columns: 3
-    .. grid-item:: 5100 (5800)
     .. grid-item:: 5100 (5800)
     .. grid-item:: 1
     .. grid-item:: +5 (+15)
@@ -454,6 +442,10 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_16.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -537,7 +529,6 @@
     .. grid-item:: 30ミリマシンガンⓅ
         :columns: 3
     .. grid-item:: 450
-    .. grid-item:: 450
     .. grid-item:: 1
     .. grid-item:: +10
     .. grid-item:: -10
@@ -549,7 +540,6 @@
         :class: flex-break
     .. grid-item:: スカイリッパー⚔Ⓟ
         :columns: 3
-    .. grid-item:: 590
     .. grid-item:: 590
     .. grid-item:: 1~3
     .. grid-item:: +2
@@ -563,7 +553,6 @@
     .. grid-item:: ドスブレッシャーⓅ
         :columns: 3
     .. grid-item:: 750
-    .. grid-item:: 750
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: +20
@@ -575,7 +564,6 @@
         :class: flex-break
     .. grid-item:: マグネレーザー
         :columns: 3
-    .. grid-item:: 760
     .. grid-item:: 760
     .. grid-item:: 1~4
     .. grid-item:: 
@@ -656,6 +644,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_17.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -740,7 +732,6 @@
     .. grid-item:: エレクトロダート⚔
         :columns: 3
     .. grid-item:: 640
-    .. grid-item:: 640
     .. grid-item:: 1~4
     .. grid-item:: +17
     .. grid-item:: +10
@@ -752,7 +743,6 @@
         :class: flex-break
     .. grid-item:: ロックファイター⚔Ⓟ
         :columns: 3
-    .. grid-item:: 700
     .. grid-item:: 700
     .. grid-item:: 1
     .. grid-item:: +25
@@ -766,7 +756,6 @@
     .. grid-item:: ｱﾄﾐｯｸﾊﾞｰﾅｰⓅ
         :columns: 3
     .. grid-item:: 940
-    .. grid-item:: 940
     .. grid-item:: 1
     .. grid-item:: +10
     .. grid-item:: -10
@@ -778,7 +767,6 @@
         :class: flex-break
     .. grid-item:: マグネクロー⚔Ⓟ
         :columns: 3
-    .. grid-item:: 1170
     .. grid-item:: 1170
     .. grid-item:: 1
     .. grid-item:: +15
@@ -857,6 +845,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_18.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -941,7 +933,6 @@
     .. grid-item:: アンカーナックル🤛Ⓟ
         :columns: 3
     .. grid-item:: 800
-    .. grid-item:: 800
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: +10
@@ -953,7 +944,6 @@
         :class: flex-break
     .. grid-item:: 380ミリ戦車砲
         :columns: 3
-    .. grid-item:: 980
     .. grid-item:: 980
     .. grid-item:: 1~6
     .. grid-item:: -10
@@ -1032,6 +1022,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_19.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -1116,7 +1110,6 @@
     .. grid-item:: 修理装置Ⓟ🔧
         :columns: 3
     .. grid-item:: 0
-    .. grid-item:: 0
     .. grid-item:: 1
     .. grid-item:: 
     .. grid-item:: 
@@ -1128,7 +1121,6 @@
         :class: flex-break
     .. grid-item:: 爆雷⚔Ⓟ
         :columns: 3
-    .. grid-item:: 780
     .. grid-item:: 780
     .. grid-item:: 1
     .. grid-item:: +10
@@ -1206,6 +1198,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1A.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -1289,7 +1285,6 @@
         :class: flex-break
     .. grid-item:: クラフトドリル🤛Ⓟ
         :columns: 3
-    .. grid-item:: 650
     .. grid-item:: 650
     .. grid-item:: 1
     .. grid-item:: +10
@@ -1453,7 +1448,6 @@
     .. grid-item:: 格闘🤛Ⓟ
         :columns: 3
     .. grid-item:: 750
-    .. grid-item:: 750
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: -10
@@ -1465,7 +1459,6 @@
         :class: flex-break
     .. grid-item:: ミサイル⚔
         :columns: 3
-    .. grid-item:: 930
     .. grid-item:: 930
     .. grid-item:: 1~5
     .. grid-item:: -5
@@ -1628,7 +1621,6 @@
     .. grid-item:: ショックビームⓅ
         :columns: 3
     .. grid-item:: 1000
-    .. grid-item:: 1000
     .. grid-item:: 1
     .. grid-item:: -5
     .. grid-item:: -10
@@ -1641,7 +1633,6 @@
     .. grid-item:: ミサイル⚔
         :columns: 3
     .. grid-item:: 1070
-    .. grid-item:: 1070
     .. grid-item:: 1~6
     .. grid-item:: -15
     .. grid-item:: -10
@@ -1653,7 +1644,6 @@
         :class: flex-break
     .. grid-item:: 破壊光線⚔
         :columns: 3
-    .. grid-item:: 1180
     .. grid-item:: 1180
     .. grid-item:: 1~6
     .. grid-item:: -5
@@ -1809,7 +1799,6 @@
     .. grid-item:: ミニミサイル⚔
         :columns: 3
     .. grid-item:: 680
-    .. grid-item:: 680
     .. grid-item:: 1~5
     .. grid-item:: -10
     .. grid-item:: -10
@@ -1821,7 +1810,6 @@
         :class: flex-break
     .. grid-item:: コロナバリア🤛Ⓟ
         :columns: 3
-    .. grid-item:: 980
     .. grid-item:: 980
     .. grid-item:: 1
     .. grid-item:: -2
@@ -1835,7 +1823,6 @@
     .. grid-item:: ドリルブレスト⚔
         :columns: 3
     .. grid-item:: 1350
-    .. grid-item:: 1350
     .. grid-item:: 1~5
     .. grid-item:: -7
     .. grid-item:: +10
@@ -1847,7 +1834,6 @@
         :class: flex-break
     .. grid-item:: シミター🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1820
     .. grid-item:: 1820
     .. grid-item:: 1
     .. grid-item:: +4
@@ -2010,7 +1996,6 @@
     .. grid-item:: ミサイル⚔
         :columns: 3
     .. grid-item:: 1010
-    .. grid-item:: 1010
     .. grid-item:: 1~6
     .. grid-item:: -12
     .. grid-item:: -10
@@ -2023,7 +2008,6 @@
     .. grid-item:: ウイングソード🤛Ⓟ
         :columns: 3
     .. grid-item:: 1400
-    .. grid-item:: 1400
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: +10
@@ -2035,7 +2019,6 @@
         :class: flex-break
     .. grid-item:: ビッグボウ⚔
         :columns: 3
-    .. grid-item:: 1680
     .. grid-item:: 1680
     .. grid-item:: 1~7
     .. grid-item:: -5

@@ -89,7 +89,7 @@ GM III(吉姆Ⅲ)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_43.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備。
                 :columns: auto
 
 
@@ -176,7 +176,6 @@ GM III(吉姆Ⅲ)
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 360
-    .. grid-item:: 360
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -188,7 +187,6 @@ GM III(吉姆Ⅲ)
         :class: flex-break
     .. grid-item:: 小型ミサイル⚔
         :columns: 3
-    .. grid-item:: 720
     .. grid-item:: 720
     .. grid-item:: 1~4
     .. grid-item:: +5
@@ -202,7 +200,6 @@ GM III(吉姆Ⅲ)
     .. grid-item:: ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 880
-    .. grid-item:: 880
     .. grid-item:: 1~5
     .. grid-item:: +5
     .. grid-item:: 0
@@ -215,7 +212,6 @@ GM III(吉姆Ⅲ)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 980
-    .. grid-item:: 980
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -227,7 +223,6 @@ GM III(吉姆Ⅲ)
         :class: flex-break
     .. grid-item:: ビームライフルⒷ
         :columns: 3
-    .. grid-item:: 1100
     .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -306,14 +301,14 @@ ZΖガンダム(ZZ高达)
                 :columns: auto
 
 
-            .. grid-item:: 地形参照： \ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ (捷多·亚西塔)  。
+            .. grid-item:: 地形参照： \ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_52.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備、ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備、ビームコート、变形(\ :ref:`G-フォートレス <srw4_unit_g_fortress>`\ (G-要塞))。
                 :columns: auto
 
 
@@ -400,7 +395,6 @@ ZΖガンダム(ZZ高达)
     .. grid-item:: ダブルバルカンⓅ
         :columns: 3
     .. grid-item:: 440
-    .. grid-item:: 440
     .. grid-item:: 1
     .. grid-item:: +40
     .. grid-item:: -10
@@ -412,7 +406,6 @@ ZΖガンダム(ZZ高达)
         :class: flex-break
     .. grid-item:: ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
-    .. grid-item:: 880
     .. grid-item:: 880
     .. grid-item:: 1~5
     .. grid-item:: +5
@@ -426,7 +419,6 @@ ZΖガンダム(ZZ高达)
     .. grid-item:: ﾊｲﾊﾟｰﾋﾞｰﾑｻｰﾍﾞﾙ🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1080 (1150)
-    .. grid-item:: 1080 (1150)
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -438,7 +430,6 @@ ZΖガンダム(ZZ高达)
         :class: flex-break
     .. grid-item:: ダブルキャノンⒷ
         :columns: 3
-    .. grid-item:: 1100
     .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: +5
@@ -452,7 +443,6 @@ ZΖガンダム(ZZ高达)
     .. grid-item:: ﾀﾞﾌﾞﾙﾋﾞｰﾑﾗｲﾌﾙⒷ
         :columns: 3
     .. grid-item:: 1200 (1300)
-    .. grid-item:: 1200 (1300)
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -464,7 +454,6 @@ ZΖガンダム(ZZ高达)
         :class: flex-break
     .. grid-item:: ﾊｲﾒｶﾞｷｬﾉﾝⒷ🗺️
         :columns: 3
-    .. grid-item:: 2000
     .. grid-item:: 2000
     .. grid-item:: 1~10
     .. grid-item:: +7
@@ -539,12 +528,16 @@ G-フォートレス(G-要塞)
                 :columns: auto
 
 
-            .. grid-item:: 地形参照：\ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ (捷多·亚西塔) 。
+            .. grid-item:: 地形参照： \ :ref:`ジュドー・アーシタ <srw4_pilot_judau_ashta>`\ 。
                 :columns: auto
 
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_52.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`ZΖガンダム <srw4_unit_zz_gundam>`\ (ZZ高达))。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -629,7 +622,6 @@ G-フォートレス(G-要塞)
     .. grid-item:: ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 880
-    .. grid-item:: 880
     .. grid-item:: 1~5
     .. grid-item:: +5
     .. grid-item:: 0
@@ -642,7 +634,6 @@ G-フォートレス(G-要塞)
     .. grid-item:: ダブルキャノンⒷ
         :columns: 3
     .. grid-item:: 1100
-    .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: +5
     .. grid-item:: 0
@@ -654,7 +645,6 @@ G-フォートレス(G-要塞)
         :class: flex-break
     .. grid-item:: ﾀﾞﾌﾞﾙﾋﾞｰﾑﾗｲﾌﾙⒷ
         :columns: 3
-    .. grid-item:: 1200 (1300)
     .. grid-item:: 1200 (1300)
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -816,7 +806,6 @@ G-フォートレス(G-要塞)
     .. grid-item:: 180ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 500
-    .. grid-item:: 500
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: 0
@@ -828,7 +817,6 @@ G-フォートレス(G-要塞)
         :class: flex-break
     .. grid-item:: サブメガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 1000
     .. grid-item:: 1000
     .. grid-item:: 1~6
     .. grid-item:: -15
@@ -842,7 +830,6 @@ G-フォートレス(G-要塞)
     .. grid-item:: 20連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 1100
-    .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: -30
     .. grid-item:: -10
@@ -855,7 +842,6 @@ G-フォートレス(G-要塞)
     .. grid-item:: メインメガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 1390
-    .. grid-item:: 1390
     .. grid-item:: 2~8
     .. grid-item:: -20
     .. grid-item:: 0
@@ -867,7 +853,6 @@ G-フォートレス(G-要塞)
         :class: flex-break
     .. grid-item:: ﾊｲﾊﾟｰﾒｶﾞ粒子砲Ⓑ🗺️
         :columns: 3
-    .. grid-item:: 2000
     .. grid-item:: 2000
     .. grid-item:: 1~9
     .. grid-item:: -18
@@ -946,7 +931,7 @@ G-フォートレス(G-要塞)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_32.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
                 :columns: auto
 
 
@@ -1033,7 +1018,6 @@ G-フォートレス(G-要塞)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1000
-    .. grid-item:: 1000
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -1046,7 +1030,6 @@ G-フォートレス(G-要塞)
     .. grid-item:: ビームガンⒷ
         :columns: 3
     .. grid-item:: 1080
-    .. grid-item:: 1080
     .. grid-item:: 1~6
     .. grid-item:: +5
     .. grid-item:: 0
@@ -1058,7 +1041,6 @@ G-フォートレス(G-要塞)
         :class: flex-break
     .. grid-item:: ファンネル⚔
         :columns: 3
-    .. grid-item:: 1800 (2300)
     .. grid-item:: 1800 (2300)
     .. grid-item:: 1~8
     .. grid-item:: +20
@@ -1228,7 +1210,6 @@ G-フォートレス(G-要塞)
     .. grid-item:: ﾌｨﾝｶﾞｰﾗﾝﾁｬｰⓅ
         :columns: 3
     .. grid-item:: 580
-    .. grid-item:: 580
     .. grid-item:: 1
     .. grid-item:: +25
     .. grid-item:: -10
@@ -1241,7 +1222,6 @@ G-フォートレス(G-要塞)
     .. grid-item:: ミサイルポッド⚔
         :columns: 3
     .. grid-item:: 820
-    .. grid-item:: 820
     .. grid-item:: 1~5
     .. grid-item:: -5
     .. grid-item:: -10
@@ -1253,7 +1233,6 @@ G-フォートレス(G-要塞)
         :class: flex-break
     .. grid-item:: エネルギーガンⒷ
         :columns: 3
-    .. grid-item:: 950
     .. grid-item:: 950
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -1326,7 +1305,7 @@ G-フォートレス(G-要塞)
                 :columns: auto
 
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
                 :columns: auto
 
 
@@ -1413,7 +1392,6 @@ G-フォートレス(G-要塞)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 980
-    .. grid-item:: 980
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -1425,7 +1403,6 @@ G-フォートレス(G-要塞)
         :class: flex-break
     .. grid-item:: ミサイルポッド⚔
         :columns: 3
-    .. grid-item:: 980
     .. grid-item:: 980
     .. grid-item:: 1~5
     .. grid-item:: 
@@ -1498,7 +1475,7 @@ R·ジャジャ(R·贾贾)
                 :columns: auto
 
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
                 :columns: auto
 
 
@@ -1585,7 +1562,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: ミサイルポッド⚔
         :columns: 3
     .. grid-item:: 980
-    .. grid-item:: 980
     .. grid-item:: 1~5
     .. grid-item:: -5
     .. grid-item:: -10
@@ -1598,7 +1574,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1020
-    .. grid-item:: 1020
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -1610,7 +1585,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: ビームライフルⒷ
         :columns: 3
-    .. grid-item:: 1140
     .. grid-item:: 1140
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -1683,7 +1657,7 @@ R·ジャジャ(R·贾贾)
                 :columns: auto
 
 
-            .. grid-item:: 技能: 盾装備、剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備、变形(\ :ref:`バウ (MA) <srw4_unit_bawoo_ma>`\ (MA型龙飞))。
                 :columns: auto
 
 
@@ -1770,7 +1744,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: ハンドビーム⚔
         :columns: 3
     .. grid-item:: 870
-    .. grid-item:: 870
     .. grid-item:: 1~6
     .. grid-item:: -7
     .. grid-item:: -10
@@ -1782,7 +1755,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
-    .. grid-item:: 1020
     .. grid-item:: 1020
     .. grid-item:: 1
     .. grid-item:: +20
@@ -1796,7 +1768,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: メガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 1030
-    .. grid-item:: 1030
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -1808,7 +1779,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: ビームライフルⒷ
         :columns: 3
-    .. grid-item:: 1140
     .. grid-item:: 1140
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -1878,6 +1848,10 @@ R·ジャジャ(R·贾贾)
                 :columns: auto
 
             .. grid-item:: 地形适应:空B陆🚫海🚫宇A。
+                :columns: auto
+
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`バウ (MS) <srw4_unit_bawoo_ms>`\ (MS型龙飞))。
                 :columns: auto
 
 
@@ -1964,7 +1938,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: ハンドビーム⚔
         :columns: 3
     .. grid-item:: 870
-    .. grid-item:: 870
     .. grid-item:: 1~6
     .. grid-item:: -7
     .. grid-item:: -10
@@ -1977,7 +1950,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: メガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 1030
-    .. grid-item:: 1030
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -1989,7 +1961,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: ビームライフルⒷ
         :columns: 3
-    .. grid-item:: 1140
     .. grid-item:: 1140
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -2144,7 +2115,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: ハンドガンⓅ
         :columns: 3
     .. grid-item:: 740
-    .. grid-item:: 740
     .. grid-item:: 1~2
     .. grid-item:: +5
     .. grid-item:: 0
@@ -2156,7 +2126,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: トライブレード⚔Ⓟ
         :columns: 3
-    .. grid-item:: 1000
     .. grid-item:: 1000
     .. grid-item:: 1~3
     .. grid-item:: -10
@@ -2170,7 +2139,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: ビームトマホーク🤛Ⓟ
         :columns: 3
     .. grid-item:: 1020
-    .. grid-item:: 1020
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -2182,7 +2150,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: ビームキャノンⒷ
         :columns: 3
-    .. grid-item:: 1150
     .. grid-item:: 1150
     .. grid-item:: 1~7
     .. grid-item:: -5
@@ -2255,7 +2222,7 @@ R·ジャジャ(R·贾贾)
                 :columns: auto
 
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
                 :columns: auto
 
 
@@ -2342,7 +2309,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 390
-    .. grid-item:: 390
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -2354,7 +2320,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: ハンドビームⒷⓅ
         :columns: 3
-    .. grid-item:: 850
     .. grid-item:: 850
     .. grid-item:: 1~2
     .. grid-item:: +14
@@ -2368,7 +2333,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 880
-    .. grid-item:: 880
     .. grid-item:: 1~5
     .. grid-item:: +5
     .. grid-item:: 0
@@ -2380,7 +2344,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
-    .. grid-item:: 1020
     .. grid-item:: 1020
     .. grid-item:: 1
     .. grid-item:: +20
@@ -2394,7 +2357,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: メガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 1030
-    .. grid-item:: 1030
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -2406,7 +2368,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: ビームカノンⒷ
         :columns: 3
-    .. grid-item:: 1100
     .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: -5
@@ -2420,7 +2381,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: メガランチャーⒷ
         :columns: 3
     .. grid-item:: 1450
-    .. grid-item:: 1450
     .. grid-item:: 1~7
     .. grid-item:: -15
     .. grid-item:: +10
@@ -2433,7 +2393,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: 対艦ミサイル⚔
         :columns: 3
     .. grid-item:: 1700
-    .. grid-item:: 1700
     .. grid-item:: 1~7
     .. grid-item:: -25
     .. grid-item:: -10
@@ -2445,7 +2404,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: インコム⚔
         :columns: 3
-    .. grid-item:: 1790
     .. grid-item:: 1790
     .. grid-item:: 1~7
     .. grid-item:: +13
@@ -2518,7 +2476,7 @@ R·ジャジャ(R·贾贾)
                 :columns: auto
 
 
-            .. grid-item:: 技能: 盾装備、剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備。
                 :columns: auto
 
 
@@ -2605,7 +2563,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1000
-    .. grid-item:: 1000
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -2618,7 +2575,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: 有線式ビーム砲
         :columns: 3
     .. grid-item:: 1020
-    .. grid-item:: 1020
     .. grid-item:: 1~5
     .. grid-item:: +17
     .. grid-item:: +10
@@ -2630,7 +2586,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: メガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 1030
     .. grid-item:: 1030
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -2793,7 +2748,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: 160ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 450
-    .. grid-item:: 450
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: 0
@@ -2805,7 +2759,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: サブメガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 800
     .. grid-item:: 800
     .. grid-item:: 1~6
     .. grid-item:: -15
@@ -2819,7 +2772,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: 20連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 1100
-    .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: -30
     .. grid-item:: -10
@@ -2831,7 +2783,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: メインメガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 1150
     .. grid-item:: 1150
     .. grid-item:: 2~8
     .. grid-item:: -20
@@ -2903,7 +2854,7 @@ R·ジャジャ(R·贾贾)
                 :columns: auto
 
 
-            .. grid-item:: 技能: 剣装備、Iフィールド。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、Iフィールド。
                 :columns: auto
 
 
@@ -2990,7 +2941,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1100
-    .. grid-item:: 1100
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -3003,7 +2953,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: メガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 1250 (1450)
-    .. grid-item:: 1250 (1450)
     .. grid-item:: 1~7
     .. grid-item:: 
     .. grid-item:: +10
@@ -3015,7 +2964,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: ファンネル⚔
         :columns: 3
-    .. grid-item:: 2000 (2500)
     .. grid-item:: 2000 (2500)
     .. grid-item:: 1~9
     .. grid-item:: +25
@@ -3088,7 +3036,7 @@ R·ジャジャ(R·贾贾)
                 :columns: auto
 
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
                 :columns: auto
 
 
@@ -3175,7 +3123,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: メガビームカノンⒷ
         :columns: 3
     .. grid-item:: 1000
-    .. grid-item:: 1000
     .. grid-item:: 1~7
     .. grid-item:: 
     .. grid-item:: +10
@@ -3187,7 +3134,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
-    .. grid-item:: 1020
     .. grid-item:: 1020
     .. grid-item:: 1
     .. grid-item:: +20
@@ -3201,7 +3147,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: メガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 1030
-    .. grid-item:: 1030
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -3213,7 +3158,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: ビームライフルⒷ
         :columns: 3
-    .. grid-item:: 1140
     .. grid-item:: 1140
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -3227,7 +3171,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: ｸﾞﾚﾈｰﾄﾞﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 1140
-    .. grid-item:: 1140
     .. grid-item:: 1~5
     .. grid-item:: -8
     .. grid-item:: 0
@@ -3239,7 +3182,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: ビームランチャーⒷ
         :columns: 3
-    .. grid-item:: 1180
     .. grid-item:: 1180
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -3253,7 +3195,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: ﾊｲﾊﾟｰﾒｶﾞ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 1520 (1620)
-    .. grid-item:: 1520 (1620)
     .. grid-item:: 1~7
     .. grid-item:: -20
     .. grid-item:: +10
@@ -3265,7 +3206,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: ファンネル⚔
         :columns: 3
-    .. grid-item:: 1920 (2400)
     .. grid-item:: 1920 (2400)
     .. grid-item:: 1~10
     .. grid-item:: +22
@@ -3436,7 +3376,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: 180ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 500
-    .. grid-item:: 500
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: 0
@@ -3448,7 +3387,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: サブメガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 1000
     .. grid-item:: 1000
     .. grid-item:: 1~6
     .. grid-item:: -15
@@ -3462,7 +3400,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: 20連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 1100
-    .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: -30
     .. grid-item:: -10
@@ -3475,7 +3412,6 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: メインメガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 1390
-    .. grid-item:: 1390
     .. grid-item:: 2~8
     .. grid-item:: -20
     .. grid-item:: 0
@@ -3487,7 +3423,6 @@ R·ジャジャ(R·贾贾)
         :class: flex-break
     .. grid-item:: ﾊｲﾊﾟｰﾒｶﾞ粒子砲Ⓑ🗺️
         :columns: 3
-    .. grid-item:: 2000
     .. grid-item:: 2000
     .. grid-item:: 1~9
     .. grid-item:: -18

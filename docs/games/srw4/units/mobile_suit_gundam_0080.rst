@@ -172,7 +172,6 @@
     .. grid-item:: 120ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
-    .. grid-item:: 350
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: 0
@@ -184,7 +183,6 @@
         :class: flex-break
     .. grid-item:: サブメガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 800
     .. grid-item:: 800
     .. grid-item:: 1~6
     .. grid-item:: -15
@@ -198,7 +196,6 @@
     .. grid-item:: 15連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 1050
-    .. grid-item:: 1050
     .. grid-item:: 1~6
     .. grid-item:: -30
     .. grid-item:: -10
@@ -210,7 +207,6 @@
         :class: flex-break
     .. grid-item:: メインメガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 1150
     .. grid-item:: 1150
     .. grid-item:: 2~8
     .. grid-item:: -20
@@ -300,7 +296,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_3F.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備。
                 :columns: auto
 
 
@@ -387,7 +383,6 @@
     .. grid-item:: ヒートホーク🤛Ⓟ
         :columns: 3
     .. grid-item:: 600
-    .. grid-item:: 600
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -399,7 +394,6 @@
         :class: flex-break
     .. grid-item:: 120mmマシンガン
         :columns: 3
-    .. grid-item:: 600
     .. grid-item:: 600
     .. grid-item:: 1~5
     .. grid-item:: 
@@ -413,7 +407,6 @@
     .. grid-item:: ザクバズーカ⚔
         :columns: 3
     .. grid-item:: 800
-    .. grid-item:: 800
     .. grid-item:: 2~5
     .. grid-item:: -5
     .. grid-item:: 0
@@ -426,7 +419,6 @@
     .. grid-item:: ハンドグレネイド⚔Ⓟ
         :columns: 3
     .. grid-item:: 820
-    .. grid-item:: 820
     .. grid-item:: 1~2
     .. grid-item:: -10
     .. grid-item:: -10
@@ -438,7 +430,6 @@
         :class: flex-break
     .. grid-item:: ｼｭﾂﾙﾑﾌｧｳｽﾄ⚔
         :columns: 3
-    .. grid-item:: 870
     .. grid-item:: 870
     .. grid-item:: 1~4
     .. grid-item:: -5
@@ -531,7 +522,7 @@ NT-1アレックス(NT-1阿历克斯)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_3E.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
                 :columns: auto
 
 
@@ -618,7 +609,6 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 330
-    .. grid-item:: 330
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -630,7 +620,6 @@ NT-1アレックス(NT-1阿历克斯)
         :class: flex-break
     .. grid-item:: ガトリングガンⓅ
         :columns: 3
-    .. grid-item:: 510
     .. grid-item:: 510
     .. grid-item:: 1
     .. grid-item:: +28
@@ -644,7 +633,6 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 920
-    .. grid-item:: 920
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -656,7 +644,6 @@ NT-1アレックス(NT-1阿历克斯)
         :class: flex-break
     .. grid-item:: ビームライフルⒷ
         :columns: 3
-    .. grid-item:: 1020
     .. grid-item:: 1020
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -741,7 +728,7 @@ NT-1アレックス(NT-1阿历克斯)
                 :columns: auto
 
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
                 :columns: auto
 
 
@@ -828,7 +815,6 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: 60ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 640
-    .. grid-item:: 640
     .. grid-item:: 1
     .. grid-item:: +9
     .. grid-item:: -10
@@ -840,7 +826,6 @@ NT-1アレックス(NT-1阿历克斯)
         :class: flex-break
     .. grid-item:: ショットガン
         :columns: 3
-    .. grid-item:: 830
     .. grid-item:: 830
     .. grid-item:: 1~6
     .. grid-item:: +17
@@ -854,7 +839,6 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 920
-    .. grid-item:: 920
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -866,7 +850,6 @@ NT-1アレックス(NT-1阿历克斯)
         :class: flex-break
     .. grid-item:: ジャイアントバズ⚔
         :columns: 3
-    .. grid-item:: 980
     .. grid-item:: 980
     .. grid-item:: 2~6
     .. grid-item:: -8
@@ -880,7 +863,6 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: ﾊﾟﾝﾂｧｰﾌｧｳｽﾄ⚔Ⓟ
         :columns: 3
     .. grid-item:: 1010
-    .. grid-item:: 1010
     .. grid-item:: 1~3
     .. grid-item:: -7
     .. grid-item:: -10
@@ -892,7 +874,6 @@ NT-1アレックス(NT-1阿历克斯)
         :class: flex-break
     .. grid-item:: チェーンマイン🤛
         :columns: 3
-    .. grid-item:: 1200
     .. grid-item:: 1200
     .. grid-item:: 1
     .. grid-item:: +3
@@ -1050,7 +1031,6 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: 120ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
-    .. grid-item:: 350
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: 0
@@ -1063,7 +1043,6 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: メガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 880
-    .. grid-item:: 880
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: +10
@@ -1075,7 +1054,6 @@ NT-1アレックス(NT-1阿历克斯)
         :class: flex-break
     .. grid-item:: 12連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
-    .. grid-item:: 980
     .. grid-item:: 980
     .. grid-item:: 1~6
     .. grid-item:: -30
@@ -1235,7 +1213,6 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: 90ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 320
-    .. grid-item:: 320
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: 0
@@ -1247,7 +1224,6 @@ NT-1アレックス(NT-1阿历克斯)
         :class: flex-break
     .. grid-item:: サブメガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 800
     .. grid-item:: 800
     .. grid-item:: 1~6
     .. grid-item:: -15
@@ -1261,7 +1237,6 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: 15連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 1050
-    .. grid-item:: 1050
     .. grid-item:: 1~6
     .. grid-item:: -30
     .. grid-item:: -10
@@ -1273,7 +1248,6 @@ NT-1アレックス(NT-1阿历克斯)
         :class: flex-break
     .. grid-item:: メインメガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 1150
     .. grid-item:: 1150
     .. grid-item:: 2~8
     .. grid-item:: -20

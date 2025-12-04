@@ -89,6 +89,10 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_0F.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体，变形(\ :ref:`ザンボエース <srw4_unit_zambo_ace>`\ (赞波A))。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -172,7 +176,6 @@
     .. grid-item:: バードガンⓅ
         :columns: 3
     .. grid-item:: 680
-    .. grid-item:: 680
     .. grid-item:: 1
     .. grid-item:: +25
     .. grid-item:: 0
@@ -185,7 +188,6 @@
     .. grid-item:: トレンブルホーンⓅ
         :columns: 3
     .. grid-item:: 840
-    .. grid-item:: 840
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: -10
@@ -197,7 +199,6 @@
         :class: flex-break
     .. grid-item:: 大型ミサイル⚔
         :columns: 3
-    .. grid-item:: 970
     .. grid-item:: 970
     .. grid-item:: 1~6
     .. grid-item:: -10
@@ -278,6 +279,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_0F.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体，变形(\ :ref:`ザンバード <srw4_unit_zambird>`\ (赞波鸟))。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -362,7 +367,6 @@
     .. grid-item:: 格闘🤛Ⓟ
         :columns: 3
     .. grid-item:: 740
-    .. grid-item:: 740
     .. grid-item:: 1
     .. grid-item:: +15
     .. grid-item:: -10
@@ -374,7 +378,6 @@
         :class: flex-break
     .. grid-item:: ザンボマグナムⓅ
         :columns: 3
-    .. grid-item:: 750
     .. grid-item:: 750
     .. grid-item:: 1
     .. grid-item:: +18
@@ -388,7 +391,6 @@
     .. grid-item:: ザンボライフル
         :columns: 3
     .. grid-item:: 880
-    .. grid-item:: 880
     .. grid-item:: 1~7
     .. grid-item:: +2
     .. grid-item:: +10
@@ -400,7 +402,6 @@
         :class: flex-break
     .. grid-item:: ｸﾞﾚﾈｰﾄﾞﾗﾝﾁｬｰ⚔
         :columns: 3
-    .. grid-item:: 1400
     .. grid-item:: 1400
     .. grid-item:: 1~5
     .. grid-item:: +5
@@ -479,6 +480,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_10.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -563,7 +568,6 @@
     .. grid-item:: ｸﾗｯｼｬｰﾄﾞﾘﾙ🤛Ⓟ
         :columns: 3
     .. grid-item:: 810
-    .. grid-item:: 810
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +10
@@ -575,7 +579,6 @@
         :class: flex-break
     .. grid-item:: アームパンチ⚔Ⓟ
         :columns: 3
-    .. grid-item:: 840
     .. grid-item:: 840
     .. grid-item:: 1~3
     .. grid-item:: +5
@@ -589,7 +592,6 @@
     .. grid-item:: ブルミサイル⚔
         :columns: 3
     .. grid-item:: 900
-    .. grid-item:: 900
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: -10
@@ -602,7 +604,6 @@
     .. grid-item:: ビッグキャノン
         :columns: 3
     .. grid-item:: 950
-    .. grid-item:: 950
     .. grid-item:: 1~7
     .. grid-item:: -5
     .. grid-item:: 0
@@ -614,7 +615,6 @@
         :class: flex-break
     .. grid-item:: ビッグミサイル⚔
         :columns: 3
-    .. grid-item:: 1240
     .. grid-item:: 1240
     .. grid-item:: 1~7
     .. grid-item:: -15
@@ -693,6 +693,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_11.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -777,7 +781,6 @@
     .. grid-item:: 熱戦砲Ⓟ
         :columns: 3
     .. grid-item:: 840
-    .. grid-item:: 840
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: +10
@@ -789,7 +792,6 @@
         :class: flex-break
     .. grid-item:: ベースミサイル⚔
         :columns: 3
-    .. grid-item:: 880
     .. grid-item:: 880
     .. grid-item:: 1~6
     .. grid-item:: -5
@@ -803,7 +805,6 @@
     .. grid-item:: ベースレーザー
         :columns: 3
     .. grid-item:: 920
-    .. grid-item:: 920
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -816,7 +817,7 @@
 
 .. _srw4_unit_zambase_commentBegin:
 
-这架机体是三个分离体中性能最差的，而且驾驶员惠子没有适合战斗的精神指令，所以嗯，还是不要分离出来战斗了。
+这架机体是三个分离体中性能最差的，而且驾驶员惠子没有适合战斗的精神指令，所以还是不要分离出来战斗了。
 
 .. _srw4_unit_zambase_commentEnd:
 
@@ -882,7 +883,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_0F.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、分离。
                 :columns: auto
 
 
@@ -969,7 +970,6 @@
     .. grid-item:: アームパンチ⚔Ⓟ
         :columns: 3
     .. grid-item:: 840
-    .. grid-item:: 840
     .. grid-item:: 1~3
     .. grid-item:: +5
     .. grid-item:: 0
@@ -981,7 +981,6 @@
         :class: flex-break
     .. grid-item:: バスターミサイル⚔
         :columns: 3
-    .. grid-item:: 920
     .. grid-item:: 920
     .. grid-item:: 1~6
     .. grid-item:: -5
@@ -995,7 +994,6 @@
     .. grid-item:: ｻﾞﾝﾎﾞｯﾄﾊﾞｽﾀｰ⚔Ⓟ
         :columns: 3
     .. grid-item:: 1120
-    .. grid-item:: 1120
     .. grid-item:: 1~3
     .. grid-item:: -5
     .. grid-item:: +10
@@ -1007,7 +1005,6 @@
         :class: flex-break
     .. grid-item:: ｻﾞﾝﾎﾞｯﾄｸﾞﾗｯﾌﾟ🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1200
     .. grid-item:: 1200
     .. grid-item:: 1
     .. grid-item:: +22
@@ -1021,7 +1018,6 @@
     .. grid-item:: ザンボットブロー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1380
-    .. grid-item:: 1380
     .. grid-item:: 1
     .. grid-item:: +15
     .. grid-item:: +30
@@ -1033,7 +1029,6 @@
         :class: flex-break
     .. grid-item:: ｻﾞﾝﾎﾞｯﾄｶｯﾀｰ🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1640
     .. grid-item:: 1640
     .. grid-item:: 1
     .. grid-item:: +5
@@ -1047,7 +1042,6 @@
     .. grid-item:: ムーンアタックⓅ
         :columns: 3
     .. grid-item:: 3000 (3200)
-    .. grid-item:: 3000 (3200)
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +30
@@ -1059,7 +1053,6 @@
         :class: flex-break
     .. grid-item:: イオン砲
         :columns: 3
-    .. grid-item:: 3500 (3700)
     .. grid-item:: 3500 (3700)
     .. grid-item:: 1~10
     .. grid-item:: -5
@@ -1073,11 +1066,11 @@
 
 .. _srw4_unit_zambot_3_commentBegin:
 
-月轮攻击只要60EN，真是良心武器。当然比不上完全无消耗而且高暴击的赞波特斩，改造一下的话，奥拉系敌人可以来一个斩一个。这两个武器是重点改造对象。
+月轮攻击只要60EN，真是良心武器。当然比不上完全无消耗而且高暴击的赞波特斩，改造一下的话，奥拉系敌人可以来一个斩一个。这两个武器是重点改造对象，如果速通的话，无消耗的赞波特斩是必须改的。
 
 移动速度有8，在敌人攻击力差的时候（装甲还是薄了点，又没有铁壁）可以加加速和集中冲到敌人中去开无双。但并不适合做Boss杀手，没有幸运，会损失金钱。后期会分去缺乏Boss杀手的A队，所以月轮攻击需要在那时改造得很好。
 
-因为机师神勝平是个射击苦手，即使不算足足五成的暴击率劣势，粒子炮的实际攻击力也是低于月轮攻击的，所以没有什么改造价值。但是机师的精神比较好，有觉醒和再动可以帮助地图武器机体调整角度，另外宇宙适应也有A，和其他作品中弱势的情况不同，在本作中是个值得用到最后的机体。
+因为机师神勝平是个射击苦手，即使不算足足五成的暴击率劣势，粒子炮的实际攻击力也是低于月轮攻击的，所以没有什么改造价值。但是机师的精神比较好，有觉醒和再动可以帮助地图武器和真盖塔等机体调整角度，另外宇宙适应也有A，和其他作品中弱势的情况不同，在本作中是个值得用到最后的机体。
 
 .. _srw4_unit_zambot_3_commentEnd:
 
@@ -1227,7 +1220,6 @@
     .. grid-item:: 熱線
         :columns: 3
     .. grid-item:: 600
-    .. grid-item:: 600
     .. grid-item:: 1~5
     .. grid-item:: -12
     .. grid-item:: -10
@@ -1240,7 +1232,6 @@
     .. grid-item:: 触手🤛Ⓟ
         :columns: 3
     .. grid-item:: 750
-    .. grid-item:: 750
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: 0
@@ -1252,7 +1243,6 @@
         :class: flex-break
     .. grid-item:: ミサイル⚔
         :columns: 3
-    .. grid-item:: 930
     .. grid-item:: 930
     .. grid-item:: 1~5
     .. grid-item:: -5
@@ -1408,7 +1398,6 @@
     .. grid-item:: 格闘🤛Ⓟ
         :columns: 3
     .. grid-item:: 750
-    .. grid-item:: 750
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: -10
@@ -1420,7 +1409,6 @@
         :class: flex-break
     .. grid-item:: 冷凍ガス
         :columns: 3
-    .. grid-item:: 990
     .. grid-item:: 990
     .. grid-item:: 1~5
     .. grid-item:: -8
@@ -1576,7 +1564,6 @@
     .. grid-item:: かぎづめ🤛Ⓟ
         :columns: 3
     .. grid-item:: 1070
-    .. grid-item:: 1070
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: +10
@@ -1588,7 +1575,6 @@
         :class: flex-break
     .. grid-item:: マグマ弾⚔
         :columns: 3
-    .. grid-item:: 1170
     .. grid-item:: 1170
     .. grid-item:: 1~7
     .. grid-item:: -11
@@ -1668,7 +1654,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_AA.png
                 :columns: auto
 
-            .. grid-item:: 技能: Iフィールド。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : Iフィールド。
                 :columns: auto
 
 
@@ -1755,7 +1741,6 @@
     .. grid-item:: スペースミサイル⚔
         :columns: 3
     .. grid-item:: 1780
-    .. grid-item:: 1780
     .. grid-item:: 1~7
     .. grid-item:: -10
     .. grid-item:: -10
@@ -1767,7 +1752,6 @@
         :class: flex-break
     .. grid-item:: バンドック砲
         :columns: 3
-    .. grid-item:: 2300
     .. grid-item:: 2300
     .. grid-item:: 2~9
     .. grid-item:: -10
@@ -1925,7 +1909,6 @@
     .. grid-item:: シールドビームⒷ
         :columns: 3
     .. grid-item:: 1450
-    .. grid-item:: 1450
     .. grid-item:: 1~7
     .. grid-item:: -5
     .. grid-item:: 0
@@ -1937,7 +1920,6 @@
         :class: flex-break
     .. grid-item:: シミター🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1820
     .. grid-item:: 1820
     .. grid-item:: 1
     .. grid-item:: +4
@@ -2095,7 +2077,6 @@
     .. grid-item:: シールドビームⒷ
         :columns: 3
     .. grid-item:: 1450
-    .. grid-item:: 1450
     .. grid-item:: 1~7
     .. grid-item:: -5
     .. grid-item:: 0
@@ -2107,7 +2088,6 @@
         :class: flex-break
     .. grid-item:: ランサー🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1850
     .. grid-item:: 1850
     .. grid-item:: 1
     .. grid-item:: +1

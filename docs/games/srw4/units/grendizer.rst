@@ -167,7 +167,6 @@
     .. grid-item:: マリンビームⒷ
         :columns: 3
     .. grid-item:: 1650
-    .. grid-item:: 1650
     .. grid-item:: 1~6
     .. grid-item:: -7
     .. grid-item:: +10
@@ -180,7 +179,6 @@
     .. grid-item:: マリンカッター⚔
         :columns: 3
     .. grid-item:: 1760
-    .. grid-item:: 1760
     .. grid-item:: 1~5
     .. grid-item:: -5
     .. grid-item:: +20
@@ -192,7 +190,6 @@
         :class: flex-break
     .. grid-item:: マリンミサイル⚔
         :columns: 3
-    .. grid-item:: 1900
     .. grid-item:: 1900
     .. grid-item:: 1~5
     .. grid-item:: -5
@@ -281,6 +278,10 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_49.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -364,7 +365,6 @@
     .. grid-item:: ドリルミサイル⚔
         :columns: 3
     .. grid-item:: 1260
-    .. grid-item:: 1260
     .. grid-item:: 1~6
     .. grid-item:: +8
     .. grid-item:: +10
@@ -377,7 +377,6 @@
     .. grid-item:: スパークボンバーⒷ
         :columns: 3
     .. grid-item:: 1570 (1670)
-    .. grid-item:: 1570 (1670)
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: 
@@ -389,7 +388,6 @@
         :class: flex-break
     .. grid-item:: ドリルアタックⓅ
         :columns: 3
-    .. grid-item:: 1800
     .. grid-item:: 1800
     .. grid-item:: 1
     .. grid-item:: +10
@@ -475,6 +473,10 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_61.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体，变形(\ :ref:`スペイザー <srw4_unit_spacer>`\ (斯陪沙))。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -558,7 +560,6 @@
     .. grid-item:: ハンドビームⒷⓅ
         :columns: 3
     .. grid-item:: 800
-    .. grid-item:: 800
     .. grid-item:: 1
     .. grid-item:: +18
     .. grid-item:: 0
@@ -570,7 +571,6 @@
         :class: flex-break
     .. grid-item:: ｼｮﾙﾀﾞｰﾌﾞｰﾒﾗﾝ⚔
         :columns: 3
-    .. grid-item:: 1400 (1600)
     .. grid-item:: 1400 (1600)
     .. grid-item:: 1~6
     .. grid-item:: -5
@@ -584,7 +584,6 @@
     .. grid-item:: ダブルハーケンⓅ
         :columns: 3
     .. grid-item:: 1400 (1800)
-    .. grid-item:: 1400 (1800)
     .. grid-item:: 1
     .. grid-item:: +10
     .. grid-item:: +20
@@ -596,7 +595,6 @@
         :class: flex-break
     .. grid-item:: 反重力ストームⓅ
         :columns: 3
-    .. grid-item:: 1580 (2000)
     .. grid-item:: 1580 (2000)
     .. grid-item:: 1
     .. grid-item:: +15
@@ -610,7 +608,6 @@
     .. grid-item:: ｽｸﾘｭｰｸﾗｯｼｬｰ⚔Ⓟ
         :columns: 3
     .. grid-item:: 1800
-    .. grid-item:: 1800
     .. grid-item:: 1~3
     .. grid-item:: -5
     .. grid-item:: +20
@@ -622,7 +619,6 @@
         :class: flex-break
     .. grid-item:: スペースサンダーⓅ
         :columns: 3
-    .. grid-item:: 2800 (3200)
     .. grid-item:: 2800 (3200)
     .. grid-item:: 1
     .. grid-item:: +20
@@ -712,6 +708,10 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_61.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`グレンダイザー <srw4_unit_grendizer>`\ (古连泰沙))。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -795,7 +795,6 @@
     .. grid-item:: ハンドビームⒷⓅ
         :columns: 3
     .. grid-item:: 800
-    .. grid-item:: 800
     .. grid-item:: 1
     .. grid-item:: +18
     .. grid-item:: 0
@@ -807,7 +806,6 @@
         :class: flex-break
     .. grid-item:: ｼｮﾙﾀﾞｰﾌﾞｰﾒﾗﾝ⚔
         :columns: 3
-    .. grid-item:: 1400 (1600)
     .. grid-item:: 1400 (1600)
     .. grid-item:: 1~6
     .. grid-item:: -5
@@ -821,7 +819,6 @@
     .. grid-item:: メルトシャワーⓅ
         :columns: 3
     .. grid-item:: 1400
-    .. grid-item:: 1400
     .. grid-item:: 1
     .. grid-item:: 
     .. grid-item:: -10
@@ -833,7 +830,6 @@
         :class: flex-break
     .. grid-item:: スピンソーサー⚔
         :columns: 3
-    .. grid-item:: 1500
     .. grid-item:: 1500
     .. grid-item:: 1~4
     .. grid-item:: +18
@@ -847,7 +843,6 @@
     .. grid-item:: スピンドリル⚔
         :columns: 3
     .. grid-item:: 1500
-    .. grid-item:: 1500
     .. grid-item:: 1~5
     .. grid-item:: +10
     .. grid-item:: +20
@@ -859,7 +854,6 @@
         :class: flex-break
     .. grid-item:: 反重力ストームⓅ
         :columns: 3
-    .. grid-item:: 1580 (2000)
     .. grid-item:: 1580 (2000)
     .. grid-item:: 1
     .. grid-item:: +15
@@ -873,7 +867,6 @@
     .. grid-item:: ｽｸﾘｭｰｸﾗｯｼｬｰﾊﾟﾝﾁ⚔Ⓟ
         :columns: 3
     .. grid-item:: 1800 (2400)
-    .. grid-item:: 1800 (2400)
     .. grid-item:: 1~3
     .. grid-item:: -5
     .. grid-item:: +20
@@ -885,7 +878,6 @@
         :class: flex-break
     .. grid-item:: スペースサンダーⓅ
         :columns: 3
-    .. grid-item:: 2800 (3200)
     .. grid-item:: 2800 (3200)
     .. grid-item:: 1
     .. grid-item:: +20
@@ -965,6 +957,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_4A.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 合体。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -1049,7 +1045,6 @@
     .. grid-item:: ダブルミサイル⚔
         :columns: 3
     .. grid-item:: 1300
-    .. grid-item:: 1300
     .. grid-item:: 1~6
     .. grid-item:: +10
     .. grid-item:: -10
@@ -1062,7 +1057,6 @@
     .. grid-item:: サイクロンビームⒷ
         :columns: 3
     .. grid-item:: 1600 (1700)
-    .. grid-item:: 1600 (1700)
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: 
@@ -1074,7 +1068,6 @@
         :class: flex-break
     .. grid-item:: ダブルカッター⚔
         :columns: 3
-    .. grid-item:: 1850 (1950)
     .. grid-item:: 1850 (1950)
     .. grid-item:: 1~5
     .. grid-item:: -5
@@ -1160,6 +1153,10 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_61.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 分离。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -1243,7 +1240,6 @@
     .. grid-item:: ハンドビームⒷⓅ
         :columns: 3
     .. grid-item:: 800
-    .. grid-item:: 800
     .. grid-item:: 1
     .. grid-item:: +18
     .. grid-item:: 0
@@ -1255,7 +1251,6 @@
         :class: flex-break
     .. grid-item:: ダブルミサイル⚔
         :columns: 3
-    .. grid-item:: 1300
     .. grid-item:: 1300
     .. grid-item:: 1~6
     .. grid-item:: +10
@@ -1269,7 +1264,6 @@
     .. grid-item:: ｼｮﾙﾀﾞｰﾌﾞｰﾒﾗﾝ⚔
         :columns: 3
     .. grid-item:: 1400 (1600)
-    .. grid-item:: 1400 (1600)
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: +10
@@ -1281,7 +1275,6 @@
         :class: flex-break
     .. grid-item:: ダブルハーケンⓅ
         :columns: 3
-    .. grid-item:: 1400 (1800)
     .. grid-item:: 1400 (1800)
     .. grid-item:: 1
     .. grid-item:: +10
@@ -1295,7 +1288,6 @@
     .. grid-item:: 反重力ストームⓅ
         :columns: 3
     .. grid-item:: 1580 (2000)
-    .. grid-item:: 1580 (2000)
     .. grid-item:: 1
     .. grid-item:: +15
     .. grid-item:: -10
@@ -1307,7 +1299,6 @@
         :class: flex-break
     .. grid-item:: サイクロンビームⒷ
         :columns: 3
-    .. grid-item:: 1600 (1700)
     .. grid-item:: 1600 (1700)
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -1321,7 +1312,6 @@
     .. grid-item:: ｽｸﾘｭｰｸﾗｯｼｬｰﾊﾟﾝﾁ⚔Ⓟ
         :columns: 3
     .. grid-item:: 1800 (2400)
-    .. grid-item:: 1800 (2400)
     .. grid-item:: 1~3
     .. grid-item:: -5
     .. grid-item:: +20
@@ -1334,7 +1324,6 @@
     .. grid-item:: ダブルカッター⚔
         :columns: 3
     .. grid-item:: 1850 (1950)
-    .. grid-item:: 1850 (1950)
     .. grid-item:: 1~5
     .. grid-item:: -5
     .. grid-item:: +20
@@ -1346,7 +1335,6 @@
         :class: flex-break
     .. grid-item:: スペースサンダーⓅ
         :columns: 3
-    .. grid-item:: 2800 (3200)
     .. grid-item:: 2800 (3200)
     .. grid-item:: 1
     .. grid-item:: +20
@@ -1426,6 +1414,10 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_61.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 分离。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -1509,7 +1501,6 @@
     .. grid-item:: ハンドビームⒷⓅ
         :columns: 3
     .. grid-item:: 800
-    .. grid-item:: 800
     .. grid-item:: 1
     .. grid-item:: +18
     .. grid-item:: 0
@@ -1521,7 +1512,6 @@
         :class: flex-break
     .. grid-item:: ドリルミサイル⚔
         :columns: 3
-    .. grid-item:: 1260
     .. grid-item:: 1260
     .. grid-item:: 1~6
     .. grid-item:: +8
@@ -1535,7 +1525,6 @@
     .. grid-item:: ｼｮﾙﾀﾞｰﾌﾞｰﾒﾗﾝ⚔
         :columns: 3
     .. grid-item:: 1400 (1600)
-    .. grid-item:: 1400 (1600)
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: +10
@@ -1547,7 +1536,6 @@
         :class: flex-break
     .. grid-item:: ダブルハーケンⓅ
         :columns: 3
-    .. grid-item:: 1400 (1800)
     .. grid-item:: 1400 (1800)
     .. grid-item:: 1
     .. grid-item:: +10
@@ -1561,7 +1549,6 @@
     .. grid-item:: スパークボンバーⒷ
         :columns: 3
     .. grid-item:: 1570 (1670)
-    .. grid-item:: 1570 (1670)
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: 
@@ -1573,7 +1560,6 @@
         :class: flex-break
     .. grid-item:: 反重力ストームⓅ
         :columns: 3
-    .. grid-item:: 1580 (2000)
     .. grid-item:: 1580 (2000)
     .. grid-item:: 1
     .. grid-item:: +15
@@ -1587,7 +1573,6 @@
     .. grid-item:: ｽｸﾘｭｰｸﾗｯｼｬｰﾊﾟﾝﾁ⚔Ⓟ
         :columns: 3
     .. grid-item:: 1800 (2400)
-    .. grid-item:: 1800 (2400)
     .. grid-item:: 1~3
     .. grid-item:: -5
     .. grid-item:: +20
@@ -1600,7 +1585,6 @@
     .. grid-item:: ドリルアタックⓅ
         :columns: 3
     .. grid-item:: 1800
-    .. grid-item:: 1800
     .. grid-item:: 1
     .. grid-item:: +10
     .. grid-item:: +20
@@ -1612,7 +1596,6 @@
         :class: flex-break
     .. grid-item:: スペースサンダーⓅ
         :columns: 3
-    .. grid-item:: 2800 (3200)
     .. grid-item:: 2800 (3200)
     .. grid-item:: 1
     .. grid-item:: +20
@@ -1692,6 +1675,10 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_61.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 分离。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -1775,7 +1762,6 @@
     .. grid-item:: ハンドビームⒷⓅ
         :columns: 3
     .. grid-item:: 800
-    .. grid-item:: 800
     .. grid-item:: 1
     .. grid-item:: +18
     .. grid-item:: 0
@@ -1787,7 +1773,6 @@
         :class: flex-break
     .. grid-item:: ｼｮﾙﾀﾞｰﾌﾞｰﾒﾗﾝ⚔
         :columns: 3
-    .. grid-item:: 1400 (1600)
     .. grid-item:: 1400 (1600)
     .. grid-item:: 1~6
     .. grid-item:: -5
@@ -1801,7 +1786,6 @@
     .. grid-item:: ダブルハーケンⓅ
         :columns: 3
     .. grid-item:: 1400 (1800)
-    .. grid-item:: 1400 (1800)
     .. grid-item:: 1
     .. grid-item:: +10
     .. grid-item:: +20
@@ -1813,7 +1797,6 @@
         :class: flex-break
     .. grid-item:: 反重力ストームⓅ
         :columns: 3
-    .. grid-item:: 1580 (2000)
     .. grid-item:: 1580 (2000)
     .. grid-item:: 1
     .. grid-item:: +15
@@ -1827,7 +1810,6 @@
     .. grid-item:: マリンビームⒷ
         :columns: 3
     .. grid-item:: 1650
-    .. grid-item:: 1650
     .. grid-item:: 1~6
     .. grid-item:: -7
     .. grid-item:: +10
@@ -1839,7 +1821,6 @@
         :class: flex-break
     .. grid-item:: マリンカッター⚔
         :columns: 3
-    .. grid-item:: 1760
     .. grid-item:: 1760
     .. grid-item:: 1~5
     .. grid-item:: -5
@@ -1853,7 +1834,6 @@
     .. grid-item:: ｽｸﾘｭｰｸﾗｯｼｬｰﾊﾟﾝﾁ⚔Ⓟ
         :columns: 3
     .. grid-item:: 1800 (2400)
-    .. grid-item:: 1800 (2400)
     .. grid-item:: 1~3
     .. grid-item:: -5
     .. grid-item:: +20
@@ -1866,7 +1846,6 @@
     .. grid-item:: マリンミサイル⚔
         :columns: 3
     .. grid-item:: 1900
-    .. grid-item:: 1900
     .. grid-item:: 1~5
     .. grid-item:: -5
     .. grid-item:: -10
@@ -1878,7 +1857,6 @@
         :class: flex-break
     .. grid-item:: スペースサンダーⓅ
         :columns: 3
-    .. grid-item:: 2800 (3200)
     .. grid-item:: 2800 (3200)
     .. grid-item:: 1
     .. grid-item:: +20
@@ -2042,7 +2020,6 @@
     .. grid-item:: ビームバルカンⒷⓅ
         :columns: 3
     .. grid-item:: 350
-    .. grid-item:: 350
     .. grid-item:: 1
     .. grid-item:: +15
     .. grid-item:: -10
@@ -2054,7 +2031,6 @@
         :class: flex-break
     .. grid-item:: ﾍﾞｶﾞﾄﾛﾝﾋﾞｰﾑ砲
         :columns: 3
-    .. grid-item:: 500
     .. grid-item:: 500
     .. grid-item:: 1~4
     .. grid-item:: 
@@ -2212,7 +2188,6 @@
     .. grid-item:: レーザー
         :columns: 3
     .. grid-item:: 700
-    .. grid-item:: 700
     .. grid-item:: 1~6
     .. grid-item:: -12
     .. grid-item:: 0
@@ -2229,7 +2204,6 @@
         | 火炎Ⓟ (PlayStation)
 
     .. grid-item:: 1100
-    .. grid-item:: 1100
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: -10
@@ -2241,7 +2215,6 @@
         :class: flex-break
     .. grid-item:: スピンアタック🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1210
     .. grid-item:: 1210
     .. grid-item:: 1
     .. grid-item:: +5
@@ -2399,7 +2372,6 @@
     .. grid-item:: ベガトロンビーム⚔
         :columns: 3
     .. grid-item:: 1060
-    .. grid-item:: 1060
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: 0
@@ -2412,7 +2384,6 @@
     .. grid-item:: ｼｰﾙﾄﾞﾌﾞｰﾒﾗﾝ⚔
         :columns: 3
     .. grid-item:: 1080
-    .. grid-item:: 1080
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: 0
@@ -2424,7 +2395,6 @@
         :class: flex-break
     .. grid-item:: ｽﾗｲｽｼｰﾙﾄﾞ🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1200
     .. grid-item:: 1200
     .. grid-item:: 1
     .. grid-item:: +5
@@ -2582,7 +2552,6 @@
     .. grid-item:: 冷凍光線
         :columns: 3
     .. grid-item:: 760
-    .. grid-item:: 760
     .. grid-item:: 1~6
     .. grid-item:: -3
     .. grid-item:: 0
@@ -2595,7 +2564,6 @@
     .. grid-item:: 電磁もり🤛Ⓟ
         :columns: 3
     .. grid-item:: 1300
-    .. grid-item:: 1300
     .. grid-item:: 1
     .. grid-item:: +6
     .. grid-item:: +10
@@ -2607,7 +2575,6 @@
         :class: flex-break
     .. grid-item:: 大型ミサイル⚔
         :columns: 3
-    .. grid-item:: 1620
     .. grid-item:: 1620
     .. grid-item:: 1~6
     .. grid-item:: -22
@@ -2763,7 +2730,6 @@
     .. grid-item:: 格闘🤛Ⓟ
         :columns: 3
     .. grid-item:: 890
-    .. grid-item:: 890
     .. grid-item:: 1
     .. grid-item:: +25
     .. grid-item:: -10
@@ -2775,7 +2741,6 @@
         :class: flex-break
     .. grid-item:: ﾍﾞｶﾞﾄﾛﾝﾋﾞｰﾑ砲
         :columns: 3
-    .. grid-item:: 980
     .. grid-item:: 980
     .. grid-item:: 2~6
     .. grid-item:: -18
@@ -2931,7 +2896,6 @@
     .. grid-item:: ビームバルカンⒷⓅ
         :columns: 3
     .. grid-item:: 350
-    .. grid-item:: 350
     .. grid-item:: 1
     .. grid-item:: +15
     .. grid-item:: -10
@@ -2944,7 +2908,6 @@
     .. grid-item:: 巨大ﾍﾞｶﾞﾄﾛﾝﾋﾞｰﾑ砲
         :columns: 3
     .. grid-item:: 1040
-    .. grid-item:: 1040
     .. grid-item:: 1~7
     .. grid-item:: -20
     .. grid-item:: -10
@@ -2956,7 +2919,6 @@
         :class: flex-break
     .. grid-item:: ミサイル⚔
         :columns: 3
-    .. grid-item:: 1050
     .. grid-item:: 1050
     .. grid-item:: 1~6
     .. grid-item:: -10

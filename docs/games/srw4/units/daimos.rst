@@ -172,7 +172,6 @@
     .. grid-item:: スネークロック⚔Ⓟ
         :columns: 3
     .. grid-item:: 800
-    .. grid-item:: 800
     .. grid-item:: 1~2
     .. grid-item:: +12
     .. grid-item:: 0
@@ -184,7 +183,6 @@
         :class: flex-break
     .. grid-item:: ミサイル⚔
         :columns: 3
-    .. grid-item:: 840
     .. grid-item:: 840
     .. grid-item:: 1~5
     .. grid-item:: 
@@ -198,7 +196,6 @@
     .. grid-item:: ダイモガン
         :columns: 3
     .. grid-item:: 870 (970)
-    .. grid-item:: 870 (970)
     .. grid-item:: 1~4
     .. grid-item:: -5
     .. grid-item:: -10
@@ -210,7 +207,6 @@
         :class: flex-break
     .. grid-item:: ﾌｧｲﾌﾞｼｭｰﾀｰ⚔Ⓟ
         :columns: 3
-    .. grid-item:: 910 (1010)
     .. grid-item:: 910 (1010)
     .. grid-item:: 1~3
     .. grid-item:: +14
@@ -224,7 +220,6 @@
     .. grid-item:: フットカッター🤛Ⓟ
         :columns: 3
     .. grid-item:: 950
-    .. grid-item:: 950
     .. grid-item:: 1
     .. grid-item:: +10
     .. grid-item:: +20
@@ -236,7 +231,6 @@
         :class: flex-break
     .. grid-item:: クロスブーメラン⚔Ⓟ
         :columns: 3
-    .. grid-item:: 970 (1070)
     .. grid-item:: 970 (1070)
     .. grid-item:: 1~3
     .. grid-item:: +5
@@ -250,7 +244,6 @@
     .. grid-item:: 真空回し蹴り🤛Ⓟ
         :columns: 3
     .. grid-item:: 1100
-    .. grid-item:: 1100
     .. grid-item:: 1
     .. grid-item:: 
     .. grid-item:: +20
@@ -262,7 +255,6 @@
         :class: flex-break
     .. grid-item:: 双竜剣🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1270 (1370)
     .. grid-item:: 1270 (1370)
     .. grid-item:: 1
     .. grid-item:: +16
@@ -276,7 +268,6 @@
     .. grid-item:: ドリルアンカー⚔
         :columns: 3
     .. grid-item:: 1350 (1450)
-    .. grid-item:: 1350 (1450)
     .. grid-item:: 1~5
     .. grid-item:: -5
     .. grid-item:: +20
@@ -288,7 +279,6 @@
         :class: flex-break
     .. grid-item:: 三竜棍🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1450 (1550)
     .. grid-item:: 1450 (1550)
     .. grid-item:: 1
     .. grid-item:: +8
@@ -302,7 +292,6 @@
     .. grid-item:: ダイモシャフト🤛Ⓟ
         :columns: 3
     .. grid-item:: 1680
-    .. grid-item:: 1680
     .. grid-item:: 1
     .. grid-item:: +10
     .. grid-item:: +20
@@ -315,7 +304,6 @@
     .. grid-item:: 必殺烈風正拳突きⓅ
         :columns: 3
     .. grid-item:: 2900 (3200)
-    .. grid-item:: 2900 (3200)
     .. grid-item:: 1
     .. grid-item:: +18 (+25)
     .. grid-item:: +30
@@ -327,7 +315,6 @@
         :class: flex-break
     .. grid-item:: 必殺烈風正拳突き改🤛Ⓟ
         :columns: 3
-    .. grid-item:: 3700 (4000)
     .. grid-item:: 3700 (4000)
     .. grid-item:: 1
     .. grid-item:: +25
@@ -500,7 +487,6 @@
     .. grid-item:: 補給装置🔄
         :columns: 3
     .. grid-item:: 0
-    .. grid-item:: 0
     .. grid-item:: 1~3
     .. grid-item:: 
     .. grid-item:: 
@@ -513,7 +499,6 @@
     .. grid-item:: 20ミリバルカンⓅ
         :columns: 3
     .. grid-item:: 300
-    .. grid-item:: 300
     .. grid-item:: 1
     .. grid-item:: +30
     .. grid-item:: -10
@@ -525,7 +510,6 @@
         :class: flex-break
     .. grid-item:: ミサイル⚔
         :columns: 3
-    .. grid-item:: 830
     .. grid-item:: 830
     .. grid-item:: 1~5
     .. grid-item:: 
@@ -698,7 +682,6 @@
     .. grid-item:: ランスミサイル⚔
         :columns: 3
     .. grid-item:: 920
-    .. grid-item:: 920
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: -10
@@ -711,7 +694,6 @@
     .. grid-item:: ビームランス🤛Ⓟ
         :columns: 3
     .. grid-item:: 1280
-    .. grid-item:: 1280
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: +10
@@ -723,7 +705,6 @@
         :class: flex-break
     .. grid-item:: 大型ミサイル⚔
         :columns: 3
-    .. grid-item:: 1620
     .. grid-item:: 1620
     .. grid-item:: 1~6
     .. grid-item:: -22
@@ -886,7 +867,6 @@
     .. grid-item:: ショックビームⓅ
         :columns: 3
     .. grid-item:: 1000
-    .. grid-item:: 1000
     .. grid-item:: 1
     .. grid-item:: -5
     .. grid-item:: -10
@@ -899,7 +879,6 @@
     .. grid-item:: ミサイル⚔
         :columns: 3
     .. grid-item:: 1070
-    .. grid-item:: 1070
     .. grid-item:: 1~6
     .. grid-item:: -15
     .. grid-item:: -10
@@ -911,7 +890,6 @@
         :class: flex-break
     .. grid-item:: 破壊光線⚔
         :columns: 3
-    .. grid-item:: 1180
     .. grid-item:: 1180
     .. grid-item:: 1~6
     .. grid-item:: -5
@@ -991,7 +969,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B0.png
                 :columns: auto
 
-            .. grid-item:: 技能: 激怒/自爆/てかげん無効。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 激怒/自爆/てかげん無効。
                 :columns: auto
 
 
@@ -1078,7 +1056,6 @@
     .. grid-item:: ランスミサイル⚔
         :columns: 3
     .. grid-item:: 920
-    .. grid-item:: 920
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: -10
@@ -1090,7 +1067,6 @@
         :class: flex-break
     .. grid-item:: ムチ🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1220
     .. grid-item:: 1220
     .. grid-item:: 1
     .. grid-item:: 
@@ -1104,7 +1080,6 @@
     .. grid-item:: 破壊光線
         :columns: 3
     .. grid-item:: 2100
-    .. grid-item:: 2100
     .. grid-item:: 1~6
     .. grid-item:: -20
     .. grid-item:: 0
@@ -1116,7 +1091,6 @@
         :class: flex-break
     .. grid-item:: 反ｱｲｻﾞﾛﾝ粒子砲Ⓟ
         :columns: 3
-    .. grid-item:: 2970
     .. grid-item:: 2970
     .. grid-item:: 1
     .. grid-item:: -8
@@ -1278,7 +1252,6 @@
     .. grid-item:: ミサイル⚔
         :columns: 3
     .. grid-item:: 1070
-    .. grid-item:: 1070
     .. grid-item:: 1~6
     .. grid-item:: -15
     .. grid-item:: -10
@@ -1291,7 +1264,6 @@
     .. grid-item:: ﾀﾞｰｸｻｰﾍﾞﾙ🤛Ⓟ
         :columns: 3
     .. grid-item:: 1200 (1400)
-    .. grid-item:: 1200 (1400)
     .. grid-item:: 1
     .. grid-item:: +10
     .. grid-item:: +20
@@ -1303,7 +1275,6 @@
         :class: flex-break
     .. grid-item:: 超破壊光線
         :columns: 3
-    .. grid-item:: 2200
     .. grid-item:: 2200
     .. grid-item:: 1~8
     .. grid-item:: -10

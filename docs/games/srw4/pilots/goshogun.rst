@@ -516,7 +516,9 @@
 
 .. _srw4_pilot_killy_gagley_commentBegin:
 
-34级会学得觉醒，45级会学得魂让小队战斗力升级，\ :ref:`北条真吾 <srw4_pilot_shingo_hojo>`\ 终于负担不用那么重了。第四次S加入了配音。声优田中秀幸同时兼任原创角色\ :ref:`ギリアム・イェーガー <srw4_pilot_gilliam_yeager>`\ （基利亚姆）的配音。
+34级会学得觉醒，45级会学得魂让小队战斗力升级，\ :ref:`北条真吾 <srw4_pilot_shingo_hojo>`\ 终于负担不用那么重了。速通的话，可能还是得要真吾的热血，魂和觉醒有冲突。
+
+第四次S加入了配音。声优田中秀幸同时兼任原创角色\ :ref:`ギリアム・イェーガー <srw4_pilot_gilliam_yeager>`\ （基利亚姆）的配音。
 
 .. _srw4_pilot_killy_gagley_commentEnd:
 

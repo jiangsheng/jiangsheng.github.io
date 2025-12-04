@@ -89,7 +89,7 @@ GP-01Fb
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_54.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備。
                 :columns: auto
 
 
@@ -176,7 +176,6 @@ GP-01Fb
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 330
-    .. grid-item:: 330
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -188,7 +187,6 @@ GP-01Fb
         :class: flex-break
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
-    .. grid-item:: 920
     .. grid-item:: 920
     .. grid-item:: 1
     .. grid-item:: +20
@@ -202,7 +200,6 @@ GP-01Fb
     .. grid-item:: ビームガンⒷ
         :columns: 3
     .. grid-item:: 1000
-    .. grid-item:: 1000
     .. grid-item:: 1~6
     .. grid-item:: +5
     .. grid-item:: 0
@@ -214,7 +211,6 @@ GP-01Fb
         :class: flex-break
     .. grid-item:: ビームライフルⒷ
         :columns: 3
-    .. grid-item:: 1020
     .. grid-item:: 1020
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -298,7 +294,7 @@ GP-03デンドロビウム(GP-03 D)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_54.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備、Iフィールド。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、Iフィールド。
                 :columns: auto
 
 
@@ -385,7 +381,6 @@ GP-03デンドロビウム(GP-03 D)
     .. grid-item:: 集中ミサイル⚔
         :columns: 3
     .. grid-item:: 940
-    .. grid-item:: 940
     .. grid-item:: 1~6
     .. grid-item:: +5
     .. grid-item:: 0
@@ -397,7 +392,6 @@ GP-03デンドロビウム(GP-03 D)
         :class: flex-break
     .. grid-item:: ビームライフルⒷ
         :columns: 3
-    .. grid-item:: 1050
     .. grid-item:: 1050
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -411,7 +405,6 @@ GP-03デンドロビウム(GP-03 D)
     .. grid-item:: ﾌｫｰﾙﾃﾞｨﾝｸﾞﾊﾞｽﾞｰｶ⚔
         :columns: 3
     .. grid-item:: 1250 (1350)
-    .. grid-item:: 1250 (1350)
     .. grid-item:: 2~6
     .. grid-item:: -5
     .. grid-item:: 0
@@ -423,7 +416,6 @@ GP-03デンドロビウム(GP-03 D)
         :class: flex-break
     .. grid-item:: マイクロミサイル⚔🗺️
         :columns: 3
-    .. grid-item:: 1400
     .. grid-item:: 1400
     .. grid-item:: 1~8
     .. grid-item:: +10
@@ -437,7 +429,6 @@ GP-03デンドロビウム(GP-03 D)
     .. grid-item:: 大型ﾋﾞｰﾑｻｰﾍﾞﾙ🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1700 (2400)
-    .. grid-item:: 1700 (2400)
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +10
@@ -449,7 +440,6 @@ GP-03デンドロビウム(GP-03 D)
         :class: flex-break
     .. grid-item:: 爆導索🗺️
         :columns: 3
-    .. grid-item:: 2100
     .. grid-item:: 2100
     .. grid-item:: 1~10
     .. grid-item:: -5
@@ -463,7 +453,6 @@ GP-03デンドロビウム(GP-03 D)
     .. grid-item:: メガビーム砲Ⓑ
         :columns: 3
     .. grid-item:: 2200 (2800)
-    .. grid-item:: 2200 (2800)
     .. grid-item:: 1~9
     .. grid-item:: 
     .. grid-item:: +10
@@ -476,7 +465,7 @@ GP-03デンドロビウム(GP-03 D)
 
 .. _srw4_unit_gp_03_dendrobium_commentBegin:
 
-改造继承自\ :ref:`GP-03ステイメン (初期) <srw4_unit_gp_03_staymen_first>`\ (GP-03 S)。希望你没有不小心改造了GP-03 S。
+改造继承自\ :ref:`GP-03ステイメン (初期) <srw4_unit_gp_03_staymen_first>`\ (GP-03S)。希望你没有不小心改造了GP-03S。
 
 武器的地形适应都是摆好看的，因为移动类型是宇宙专用，而宇宙地图又非常少。即使装了ミノフスキークラフト之后能够在其他地图出击，攻防也大打折扣。如果确实要装ミノフスキークラフト在地上出击，要确保随时落地，因为和驾驶员加起来，对空适应是D，而陆地适应是C。
 
@@ -549,7 +538,7 @@ GP-03ステイメン  (后期)(GP-03 S)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_54.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備。
                 :columns: auto
 
 
@@ -636,7 +625,6 @@ GP-03ステイメン  (后期)(GP-03 S)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 940
-    .. grid-item:: 940
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -649,7 +637,6 @@ GP-03ステイメン  (后期)(GP-03 S)
     .. grid-item:: ビームライフルⒷ
         :columns: 3
     .. grid-item:: 1050
-    .. grid-item:: 1050
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -661,7 +648,6 @@ GP-03ステイメン  (后期)(GP-03 S)
         :class: flex-break
     .. grid-item:: ﾌｫｰﾙﾃﾞｨﾝｸﾞﾊﾞｽﾞｰｶ⚔
         :columns: 3
-    .. grid-item:: 1250 (1350)
     .. grid-item:: 1250 (1350)
     .. grid-item:: 2~6
     .. grid-item:: -5
@@ -743,7 +729,7 @@ GP-03ステイメン (初期)(GP-03 S)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_54.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備。
                 :columns: auto
 
 
@@ -830,7 +816,6 @@ GP-03ステイメン (初期)(GP-03 S)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 940
-    .. grid-item:: 940
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -843,7 +828,6 @@ GP-03ステイメン (初期)(GP-03 S)
     .. grid-item:: ビームライフルⒷ
         :columns: 3
     .. grid-item:: 1050
-    .. grid-item:: 1050
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -855,7 +839,6 @@ GP-03ステイメン (初期)(GP-03 S)
         :class: flex-break
     .. grid-item:: ﾌｫｰﾙﾃﾞｨﾝｸﾞﾊﾞｽﾞｰｶ⚔
         :columns: 3
-    .. grid-item:: 1250 (1350)
     .. grid-item:: 1250 (1350)
     .. grid-item:: 2~6
     .. grid-item:: -5
@@ -875,7 +858,7 @@ GP-03ステイメン (初期)(GP-03 S)
 
 第四次中\ :ref:`GP-01Fb <srw4_unit_gp_01fb>`\ 的陆地适应是B，换机之后升级到了A，攻防有所上升。
 
-GP-03 D入手的时候被替换成\ :ref:`GP-03ステイメン  (后期) <srw4_unit_gp_03_staymen_final>`\ (GP-03 S)，改造继承。和分离的对象相比，除了能被分离出来这个能力和维修费之外，并无不同。
+GP-03D入手的时候被替换成\ :ref:`GP-03ステイメン  (后期) <srw4_unit_gp_03_staymen_final>`\ (GP-03 S)，改造继承。和分离的对象相比，除了能被分离出来这个能力和维修费之外，并无不同。
 
 .. _srw4_unit_gp_03_staymen_first_commentEnd:
 
@@ -941,7 +924,7 @@ GP-02A
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_42.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備。
                 :columns: auto
 
 
@@ -1028,7 +1011,6 @@ GP-02A
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 360
-    .. grid-item:: 360
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -1040,7 +1022,6 @@ GP-02A
         :class: flex-break
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
-    .. grid-item:: 940
     .. grid-item:: 940
     .. grid-item:: 1
     .. grid-item:: +20
@@ -1054,7 +1035,6 @@ GP-02A
     .. grid-item:: ビームライフルⒷ
         :columns: 3
     .. grid-item:: 1050
-    .. grid-item:: 1050
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -1066,7 +1046,6 @@ GP-02A
         :class: flex-break
     .. grid-item:: ｱﾄﾐｯｸﾊﾞｽﾞｰｶ🗺️
         :columns: 3
-    .. grid-item:: 8000
     .. grid-item:: 8000
     .. grid-item:: 3~10
     .. grid-item:: +20
@@ -1162,7 +1141,7 @@ GP-02A
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_9F.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
                 :columns: auto
 
 
@@ -1249,7 +1228,6 @@ GP-02A
     .. grid-item:: ミサイルⒷ
         :columns: 3
     .. grid-item:: 900
-    .. grid-item:: 900
     .. grid-item:: 1~6
     .. grid-item:: +3
     .. grid-item:: +10
@@ -1262,7 +1240,6 @@ GP-02A
     .. grid-item:: 110ミリ機関砲
         :columns: 3
     .. grid-item:: 920
-    .. grid-item:: 920
     .. grid-item:: 1~6
     .. grid-item:: +4
     .. grid-item:: +10
@@ -1274,7 +1251,6 @@ GP-02A
         :class: flex-break
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
-    .. grid-item:: 940
     .. grid-item:: 940
     .. grid-item:: 1
     .. grid-item:: +20
@@ -1439,7 +1415,6 @@ GP-02A
     .. grid-item:: 100ミリバルカンⓅ
         :columns: 3
     .. grid-item:: 330
-    .. grid-item:: 330
     .. grid-item:: 1
     .. grid-item:: +30
     .. grid-item:: -10
@@ -1451,7 +1426,6 @@ GP-02A
         :class: flex-break
     .. grid-item:: ミサイルポッド
         :columns: 3
-    .. grid-item:: 850
     .. grid-item:: 850
     .. grid-item:: 1~6
     .. grid-item:: -10
@@ -1465,7 +1439,6 @@ GP-02A
     .. grid-item:: 大型メガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 920
-    .. grid-item:: 920
     .. grid-item:: 1~7
     .. grid-item:: -4
     .. grid-item:: +10
@@ -1478,7 +1451,6 @@ GP-02A
     .. grid-item:: ビームガンⒷ
         :columns: 3
     .. grid-item:: 1080
-    .. grid-item:: 1080
     .. grid-item:: 1~6
     .. grid-item:: +5
     .. grid-item:: 0
@@ -1490,7 +1462,6 @@ GP-02A
         :class: flex-break
     .. grid-item:: プラズマリーダー🗺️
         :columns: 3
-    .. grid-item:: 1460 (1650)
     .. grid-item:: 1460 (1650)
     .. grid-item:: 2~6
     .. grid-item:: +3
@@ -1574,7 +1545,7 @@ GP-02A
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_42.png
                 :columns: auto
 
-            .. grid-item:: 技能: Iフィールド。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : Iフィールド。
                 :columns: auto
 
 
@@ -1661,7 +1632,6 @@ GP-02A
     .. grid-item:: 小型ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 880
-    .. grid-item:: 880
     .. grid-item:: 1~7
     .. grid-item:: -10
     .. grid-item:: -10
@@ -1673,7 +1643,6 @@ GP-02A
         :class: flex-break
     .. grid-item:: メガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 910 (1200)
     .. grid-item:: 910 (1200)
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -1687,7 +1656,6 @@ GP-02A
     .. grid-item:: 有線クローアームⓅ
         :columns: 3
     .. grid-item:: 970
-    .. grid-item:: 970
     .. grid-item:: 1~3
     .. grid-item:: +7
     .. grid-item:: +10
@@ -1699,7 +1667,6 @@ GP-02A
         :class: flex-break
     .. grid-item:: 大型ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
-    .. grid-item:: 1100
     .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: -15
@@ -1713,7 +1680,6 @@ GP-02A
     .. grid-item:: 偏向メガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 2200
-    .. grid-item:: 2200
     .. grid-item:: 1~8
     .. grid-item:: -6
     .. grid-item:: +10
@@ -1725,7 +1691,6 @@ GP-02A
         :class: flex-break
     .. grid-item:: メガカノン砲Ⓑ
         :columns: 3
-    .. grid-item:: 2450 (2650)
     .. grid-item:: 2450 (2650)
     .. grid-item:: 1~9
     .. grid-item:: -4

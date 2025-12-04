@@ -83,7 +83,7 @@ Sガンダム(S高达)
                 :columns: auto
 
 
-            .. grid-item:: 技能: 剣装備、ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、ビームコート、变形(\ :ref:`Gクルーザー (S) <srw4_unit_g_cruiser_s>`\ (S号G-巡航机))。
                 :columns: auto
 
 
@@ -170,7 +170,6 @@ Sガンダム(S高达)
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 390
-    .. grid-item:: 390
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -182,7 +181,6 @@ Sガンダム(S高达)
         :class: flex-break
     .. grid-item:: ミサイル⚔
         :columns: 3
-    .. grid-item:: 980
     .. grid-item:: 980
     .. grid-item:: 1~6
     .. grid-item:: -10
@@ -196,7 +194,6 @@ Sガンダム(S高达)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1020
-    .. grid-item:: 1020
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -208,7 +205,6 @@ Sガンダム(S高达)
         :class: flex-break
     .. grid-item:: ﾋﾞｰﾑｽﾏｰﾄｶﾞﾝⒷ
         :columns: 3
-    .. grid-item:: 1200
     .. grid-item:: 1200
     .. grid-item:: 2~8
     .. grid-item:: -5
@@ -222,7 +218,6 @@ Sガンダム(S高达)
     .. grid-item:: ビームカノンⒷ
         :columns: 3
     .. grid-item:: 1280
-    .. grid-item:: 1280
     .. grid-item:: 1~7
     .. grid-item:: 
     .. grid-item:: +10
@@ -234,7 +229,6 @@ Sガンダム(S高达)
         :class: flex-break
     .. grid-item:: インコム⚔
         :columns: 3
-    .. grid-item:: 1900
     .. grid-item:: 1900
     .. grid-item:: 1~7
     .. grid-item:: +8
@@ -317,7 +311,7 @@ Gクルーザー (S)(S号G-巡航机)
                 :columns: auto
 
 
-            .. grid-item:: 技能: ビームコート。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : ビームコート、变形(\ :ref:`Sガンダム <srw4_unit_s_gundam>`\ (S高达))。
                 :columns: auto
 
 
@@ -404,7 +398,6 @@ Gクルーザー (S)(S号G-巡航机)
     .. grid-item:: ﾋﾞｰﾑｽﾏｰﾄｶﾞﾝⒷ
         :columns: 3
     .. grid-item:: 1200
-    .. grid-item:: 1200
     .. grid-item:: 2~8
     .. grid-item:: -5
     .. grid-item:: +10
@@ -416,7 +409,6 @@ Gクルーザー (S)(S号G-巡航机)
         :class: flex-break
     .. grid-item:: ビームカノンⒷ
         :columns: 3
-    .. grid-item:: 1280
     .. grid-item:: 1280
     .. grid-item:: 1~7
     .. grid-item:: 
@@ -493,7 +485,7 @@ ExSガンダム(ExS高达)
                 :columns: auto
 
 
-            .. grid-item:: 技能: 剣装備、Iフィールド。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、Iフィールド、变形(\ :ref:`Gクルーザー (EXS) <srw4_unit_g_cruiser_ex_s>`\ (EX-S号G-巡航机))。
                 :columns: auto
 
 
@@ -580,7 +572,6 @@ ExSガンダム(ExS高达)
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 420
-    .. grid-item:: 420
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -592,7 +583,6 @@ ExSガンダム(ExS高达)
         :class: flex-break
     .. grid-item:: ミサイル⚔
         :columns: 3
-    .. grid-item:: 980
     .. grid-item:: 980
     .. grid-item:: 1~6
     .. grid-item:: -10
@@ -606,7 +596,6 @@ ExSガンダム(ExS高达)
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1050
-    .. grid-item:: 1050
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -618,7 +607,6 @@ ExSガンダム(ExS高达)
         :class: flex-break
     .. grid-item:: ﾋﾞｰﾑｽﾏｰﾄｶﾞﾝⒷ
         :columns: 3
-    .. grid-item:: 1280
     .. grid-item:: 1280
     .. grid-item:: 1~7
     .. grid-item:: -5
@@ -632,7 +620,6 @@ ExSガンダム(ExS高达)
     .. grid-item:: ビームカノンⒷ
         :columns: 3
     .. grid-item:: 1410
-    .. grid-item:: 1410
     .. grid-item:: 1~7
     .. grid-item:: 
     .. grid-item:: +10
@@ -645,7 +632,6 @@ ExSガンダム(ExS高达)
     .. grid-item:: インコム⚔
         :columns: 3
     .. grid-item:: 1950
-    .. grid-item:: 1950
     .. grid-item:: 1~7
     .. grid-item:: +8
     .. grid-item:: +30
@@ -657,7 +643,6 @@ ExSガンダム(ExS高达)
         :class: flex-break
     .. grid-item:: ﾘﾌﾚｸﾀｰｲﾝｺﾑ⚔
         :columns: 3
-    .. grid-item:: 2100
     .. grid-item:: 2100
     .. grid-item:: 1~8
     .. grid-item:: +5
@@ -736,7 +721,7 @@ Gクルーザー (EXS)(EX-S号G-巡航机)
                 :columns: auto
 
 
-            .. grid-item:: 技能: Iフィールド。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : Iフィールド、变形(\ :ref:`ExSガンダム <srw4_unit_ex_s_gundam>`\ (ExS高达))。
                 :columns: auto
 
 
@@ -823,7 +808,6 @@ Gクルーザー (EXS)(EX-S号G-巡航机)
     .. grid-item:: ミサイル⚔
         :columns: 3
     .. grid-item:: 980
-    .. grid-item:: 980
     .. grid-item:: 1~6
     .. grid-item:: -10
     .. grid-item:: -10
@@ -836,7 +820,6 @@ Gクルーザー (EXS)(EX-S号G-巡航机)
     .. grid-item:: ﾋﾞｰﾑｽﾏｰﾄｶﾞﾝⒷ
         :columns: 3
     .. grid-item:: 1280
-    .. grid-item:: 1280
     .. grid-item:: 1~7
     .. grid-item:: -5
     .. grid-item:: +10
@@ -848,7 +831,6 @@ Gクルーザー (EXS)(EX-S号G-巡航机)
         :class: flex-break
     .. grid-item:: ビームカノンⒷ
         :columns: 3
-    .. grid-item:: 1410
     .. grid-item:: 1410
     .. grid-item:: 1~7
     .. grid-item:: 

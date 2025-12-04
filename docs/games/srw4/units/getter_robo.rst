@@ -178,7 +178,6 @@
     .. grid-item:: ゲッターレザー🤛Ⓟ
         :columns: 3
     .. grid-item:: 670
-    .. grid-item:: 670
     .. grid-item:: 1
     .. grid-item:: +30
     .. grid-item:: +20
@@ -190,7 +189,6 @@
         :class: flex-break
     .. grid-item:: ｹﾞｯﾀｰﾄﾏﾎｰｸ🤛Ⓟ
         :columns: 3
-    .. grid-item:: 800
     .. grid-item:: 800
     .. grid-item:: 1
     .. grid-item:: +25
@@ -204,7 +202,6 @@
     .. grid-item:: ﾄﾏﾎｰｸﾌﾞｰﾒﾗﾝ⚔Ⓟ
         :columns: 3
     .. grid-item:: 800
-    .. grid-item:: 800
     .. grid-item:: 1~5
     .. grid-item:: +25
     .. grid-item:: +10
@@ -216,7 +213,6 @@
         :class: flex-break
     .. grid-item:: ゲッタービームⓅ
         :columns: 3
-    .. grid-item:: 2300
     .. grid-item:: 2300
     .. grid-item:: 1
     .. grid-item:: +5
@@ -304,7 +300,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_0A.png
                 :columns: auto
 
-            .. grid-item:: 技能: 分身。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 分身、变形(\ :ref:`ゲッター1 <srw4_unit_getter_1>`\ (盖塔1)、\ :ref:`ゲッター3 <srw4_unit_getter_3>`\ (盖塔3))。
                 :columns: auto
 
 
@@ -391,7 +387,6 @@
     .. grid-item:: ゲッターアーム🤛Ⓟ
         :columns: 3
     .. grid-item:: 700
-    .. grid-item:: 700
     .. grid-item:: 1
     .. grid-item:: +25
     .. grid-item:: +10
@@ -403,7 +398,6 @@
         :class: flex-break
     .. grid-item:: ゲッタードリル🤛Ⓟ
         :columns: 3
-    .. grid-item:: 820
     .. grid-item:: 820
     .. grid-item:: 1
     .. grid-item:: +5
@@ -417,7 +411,6 @@
     .. grid-item:: ドリルストームⓅ
         :columns: 3
     .. grid-item:: 1200
-    .. grid-item:: 1200
     .. grid-item:: 1
     .. grid-item:: 
     .. grid-item:: -10
@@ -429,7 +422,6 @@
         :class: flex-break
     .. grid-item:: ドリルパンチ⚔
         :columns: 3
-    .. grid-item:: 1500
     .. grid-item:: 1500
     .. grid-item:: 1~4
     .. grid-item:: -5
@@ -512,6 +504,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_0B.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`ゲッター1 <srw4_unit_getter_1>`\ (盖塔1)、\ :ref:`ゲッター2 <srw4_unit_getter_2>`\ (盖塔2))。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -596,7 +592,6 @@
     .. grid-item:: 格闘🤛Ⓟ
         :columns: 3
     .. grid-item:: 750
-    .. grid-item:: 750
     .. grid-item:: 1
     .. grid-item:: +25
     .. grid-item:: -10
@@ -609,7 +604,6 @@
     .. grid-item:: ゲッターミサイル⚔
         :columns: 3
     .. grid-item:: 1800
-    .. grid-item:: 1800
     .. grid-item:: 1~6
     .. grid-item:: +5
     .. grid-item:: 0
@@ -621,7 +615,6 @@
         :class: flex-break
     .. grid-item:: 大雪山おろし🤛Ⓟ
         :columns: 3
-    .. grid-item:: 2000
     .. grid-item:: 2000
     .. grid-item:: 1
     .. grid-item:: +20
@@ -788,7 +781,6 @@
     .. grid-item:: スピンカッター🤛Ⓟ
         :columns: 3
     .. grid-item:: 850
-    .. grid-item:: 850
     .. grid-item:: 1
     .. grid-item:: +30
     .. grid-item:: +20
@@ -800,7 +792,6 @@
         :class: flex-break
     .. grid-item:: ダブルトマホーク🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1200
     .. grid-item:: 1200
     .. grid-item:: 1
     .. grid-item:: +25
@@ -814,7 +805,6 @@
     .. grid-item:: ﾀﾞﾌﾞﾙﾄﾏﾎｰｸﾌﾞｰﾒﾗﾝ⚔Ⓟ
         :columns: 3
     .. grid-item:: 1200
-    .. grid-item:: 1200
     .. grid-item:: 1~6
     .. grid-item:: +5
     .. grid-item:: +10
@@ -827,7 +817,6 @@
     .. grid-item:: ゲッタービームⓅ
         :columns: 3
     .. grid-item:: 2600
-    .. grid-item:: 2600
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: +20
@@ -839,7 +828,6 @@
         :class: flex-break
     .. grid-item:: シャインスパーク🤛Ⓟ
         :columns: 3
-    .. grid-item:: 4000
     .. grid-item:: 4000
     .. grid-item:: 1
     .. grid-item:: +5
@@ -921,7 +909,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_0A.png
                 :columns: auto
 
-            .. grid-item:: 技能: 分身。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 分身、变形(\ :ref:`ゲッタードラゴン <srw4_unit_getter_dragon>`\ (盖塔龙)、\ :ref:`ゲッターポセイドン <srw4_unit_getter_poseidon>`\ (盖塔海皇))。
                 :columns: auto
 
 
@@ -1008,7 +996,6 @@
     .. grid-item:: ドリルアーム🤛Ⓟ
         :columns: 3
     .. grid-item:: 1400
-    .. grid-item:: 1400
     .. grid-item:: 1
     .. grid-item:: +18
     .. grid-item:: +20
@@ -1021,7 +1008,6 @@
     .. grid-item:: チェーンアタック🤛Ⓟ
         :columns: 3
     .. grid-item:: 1670
-    .. grid-item:: 1670
     .. grid-item:: 1
     .. grid-item:: +4
     .. grid-item:: +10
@@ -1033,7 +1019,6 @@
         :class: flex-break
     .. grid-item:: ライガーミサイル⚔
         :columns: 3
-    .. grid-item:: 1900
     .. grid-item:: 1900
     .. grid-item:: 1~7
     .. grid-item:: 
@@ -1113,6 +1098,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_0B.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`ゲッタードラゴン <srw4_unit_getter_dragon>`\ (盖塔龙)、\ :ref:`ゲッターライガー <srw4_unit_getter_liger>`\ (盖塔狮虎))。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -1197,7 +1186,6 @@
     .. grid-item:: 格闘🤛Ⓟ
         :columns: 3
     .. grid-item:: 820
-    .. grid-item:: 820
     .. grid-item:: 1
     .. grid-item:: +25
     .. grid-item:: -10
@@ -1209,7 +1197,6 @@
         :class: flex-break
     .. grid-item:: 大雪山おろし🤛Ⓟ
         :columns: 3
-    .. grid-item:: 2000
     .. grid-item:: 2000
     .. grid-item:: 1
     .. grid-item:: +20
@@ -1223,7 +1210,6 @@
     .. grid-item:: ｽﾄﾛﾝｸﾞﾐｻｲﾙ⚔
         :columns: 3
     .. grid-item:: 2100
-    .. grid-item:: 2100
     .. grid-item:: 1~6
     .. grid-item:: +3
     .. grid-item:: 0
@@ -1235,7 +1221,6 @@
         :class: flex-break
     .. grid-item:: ゲッターサイクロンⓅ
         :columns: 3
-    .. grid-item:: 2200
     .. grid-item:: 2200
     .. grid-item:: 1
     .. grid-item:: +12
@@ -1315,7 +1300,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_09.png
                 :columns: auto
 
-            .. grid-item:: 技能: HP恢復(小)。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : HP恢復(小)。
                 :columns: auto
 
 
@@ -1402,7 +1387,6 @@
     .. grid-item:: ｹﾞｯﾀｰﾄﾏﾎｰｸ🤛Ⓟ
         :columns: 3
     .. grid-item:: 1500
-    .. grid-item:: 1500
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: +30
@@ -1414,7 +1398,6 @@
         :class: flex-break
     .. grid-item:: ﾄﾏﾎｰｸﾌﾞｰﾒﾗﾝ⚔Ⓟ
         :columns: 3
-    .. grid-item:: 1800
     .. grid-item:: 1800
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -1428,7 +1411,6 @@
     .. grid-item:: ゲッタービームⓅ
         :columns: 3
     .. grid-item:: 2800
-    .. grid-item:: 2800
     .. grid-item:: 1
     .. grid-item:: 
     .. grid-item:: +20
@@ -1440,7 +1422,6 @@
         :class: flex-break
     .. grid-item:: ｽﾄﾅｰｻﾝｼｬｲﾝⓅ
         :columns: 3
-    .. grid-item:: 5900
     .. grid-item:: 5900
     .. grid-item:: 1
     .. grid-item:: -5
@@ -1522,7 +1503,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_0A.png
                 :columns: auto
 
-            .. grid-item:: 技能: 分身、HP恢復(小)。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 分身、HP恢復(小)、变形(\ :ref:`真·ゲッター1 <srw4_unit_shin_getter_1>`\ (真·盖塔1)、\ :ref:`真·ゲッター3 <srw4_unit_shin_getter_3>`\ (真·盖塔3))。
                 :columns: auto
 
 
@@ -1609,7 +1590,6 @@
     .. grid-item:: ｹﾞｯﾀｰﾐｻｲﾙ⚔ (仅Snes)
         :columns: 3
     .. grid-item:: 1250
-    .. grid-item:: 1250
     .. grid-item:: 1~7
     .. grid-item:: -5
     .. grid-item:: -10
@@ -1621,7 +1601,6 @@
         :class: flex-break
     .. grid-item:: ゲッタードリル🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1420
     .. grid-item:: 1420
     .. grid-item:: 1
     .. grid-item:: +12
@@ -1635,7 +1614,6 @@
     .. grid-item:: ﾄﾞﾘﾙﾃﾝﾍﾟｽﾄ
         :columns: 3
     .. grid-item:: 2100
-    .. grid-item:: 2100
     .. grid-item:: 1~3(7)
     .. grid-item:: 
     .. grid-item:: 
@@ -1647,7 +1625,6 @@
         :class: flex-break
     .. grid-item:: ﾐﾗｰｼﾞｭﾄﾞﾘﾙ🤛Ⓟ
         :columns: 3
-    .. grid-item:: 3700
     .. grid-item:: 3700
     .. grid-item:: 1
     .. grid-item:: +2
@@ -1729,7 +1706,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_0B.png
                 :columns: auto
 
-            .. grid-item:: 技能: HP恢復(小)。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : HP恢復(小)、变形(\ :ref:`真·ゲッター1 <srw4_unit_shin_getter_1>`\ (真·盖塔1)、\ :ref:`真·ゲッター2 <srw4_unit_shin_getter_2>`\ (真·盖塔2))。
                 :columns: auto
 
 
@@ -1816,7 +1793,6 @@
     .. grid-item:: ｹﾞｯﾀｰﾐｻｲﾙ⚔
         :columns: 3
     .. grid-item:: 1500
-    .. grid-item:: 1500
     .. grid-item:: 1~6
     .. grid-item:: -18
     .. grid-item:: -10
@@ -1828,7 +1804,6 @@
         :class: flex-break
     .. grid-item:: ハンマーパンチ🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1750
     .. grid-item:: 1750
     .. grid-item:: 1
     .. grid-item:: +4
@@ -1842,7 +1817,6 @@
     .. grid-item:: 大雪山おろし二段返し🤛Ⓟ
         :columns: 3
     .. grid-item:: 4200 (4600)
-    .. grid-item:: 4200 (4600)
     .. grid-item:: 1
     .. grid-item:: +18
     .. grid-item:: +30
@@ -1855,7 +1829,7 @@
 
 .. _srw4_unit_shin_getter_3_commentBegin:
 
-入手太晚，根本没有机会表现其陆战和水站技能。举例来说，其初次登场的关卡，敌人全员都是空飞单位。
+入手太晚，根本没有机会表现其陆战和水战技能。举例来说，其初次登场的关卡，敌人全员都是空飞单位。
 
 .. _srw4_unit_shin_getter_3_commentEnd:
 
@@ -2004,7 +1978,6 @@
     .. grid-item:: テキサスソード🤛Ⓟ
         :columns: 3
     .. grid-item:: 940
-    .. grid-item:: 940
     .. grid-item:: 1
     .. grid-item:: +15
     .. grid-item:: +10
@@ -2016,7 +1989,6 @@
         :class: flex-break
     .. grid-item:: マックライアット
         :columns: 3
-    .. grid-item:: 1000
     .. grid-item:: 1000
     .. grid-item:: 1~3
     .. grid-item:: +25
@@ -2030,7 +2002,6 @@
     .. grid-item:: マックリボルバーⓅ
         :columns: 3
     .. grid-item:: 1050
-    .. grid-item:: 1050
     .. grid-item:: 1
     .. grid-item:: 
     .. grid-item:: +10
@@ -2042,7 +2013,6 @@
         :class: flex-break
     .. grid-item:: マックライフル
         :columns: 3
-    .. grid-item:: 1200
     .. grid-item:: 1200
     .. grid-item:: 1~7
     .. grid-item:: 
@@ -2206,7 +2176,6 @@
     .. grid-item:: マグマ弾⚔Ⓟ
         :columns: 3
     .. grid-item:: 620
-    .. grid-item:: 620
     .. grid-item:: 1
     .. grid-item:: +10
     .. grid-item:: -10
@@ -2218,7 +2187,6 @@
         :class: flex-break
     .. grid-item:: ミサイル⚔
         :columns: 3
-    .. grid-item:: 880
     .. grid-item:: 880
     .. grid-item:: 1~5
     .. grid-item:: 
@@ -2374,7 +2342,6 @@
     .. grid-item:: ミニミサイル⚔
         :columns: 3
     .. grid-item:: 680
-    .. grid-item:: 680
     .. grid-item:: 1~5
     .. grid-item:: -10
     .. grid-item:: -10
@@ -2386,7 +2353,6 @@
         :class: flex-break
     .. grid-item:: クロー🤛Ⓟ
         :columns: 3
-    .. grid-item:: 790
     .. grid-item:: 790
     .. grid-item:: 1
     .. grid-item:: +5
@@ -2542,7 +2508,6 @@
     .. grid-item:: ミニミサイル⚔
         :columns: 3
     .. grid-item:: 680
-    .. grid-item:: 680
     .. grid-item:: 1~5
     .. grid-item:: -10
     .. grid-item:: -10
@@ -2554,7 +2519,6 @@
         :class: flex-break
     .. grid-item:: 体当たり🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1650
     .. grid-item:: 1650
     .. grid-item:: 1
     .. grid-item:: +5
@@ -2710,7 +2674,6 @@
     .. grid-item:: ロケット弾⚔
         :columns: 3
     .. grid-item:: 700
-    .. grid-item:: 700
     .. grid-item:: 1~5
     .. grid-item:: -5
     .. grid-item:: -10
@@ -2722,7 +2685,6 @@
         :class: flex-break
     .. grid-item:: ハンドソルド🤛Ⓟ
         :columns: 3
-    .. grid-item:: 980
     .. grid-item:: 980
     .. grid-item:: 1
     .. grid-item:: +8
@@ -2878,7 +2840,6 @@
     .. grid-item:: しっぽ🤛Ⓟ
         :columns: 3
     .. grid-item:: 750
-    .. grid-item:: 750
     .. grid-item:: 1
     .. grid-item:: +15
     .. grid-item:: +10
@@ -2891,7 +2852,6 @@
     .. grid-item:: ミサイル⚔
         :columns: 3
     .. grid-item:: 880
-    .. grid-item:: 880
     .. grid-item:: 1~5
     .. grid-item:: 
     .. grid-item:: -10
@@ -2903,7 +2863,6 @@
         :class: flex-break
     .. grid-item:: 火炎🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1000
     .. grid-item:: 1000
     .. grid-item:: 1
     .. grid-item:: +10
@@ -3059,7 +3018,6 @@
     .. grid-item:: ミニミサイル⚔
         :columns: 3
     .. grid-item:: 680
-    .. grid-item:: 680
     .. grid-item:: 1~5
     .. grid-item:: -10
     .. grid-item:: -10
@@ -3071,7 +3029,6 @@
         :class: flex-break
     .. grid-item:: 大砲⚔
         :columns: 3
-    .. grid-item:: 1500
     .. grid-item:: 1500
     .. grid-item:: 1~7
     .. grid-item:: -15
@@ -3229,7 +3186,6 @@
     .. grid-item:: クロー🤛Ⓟ
         :columns: 3
     .. grid-item:: 1200
-    .. grid-item:: 1200
     .. grid-item:: 1
     .. grid-item:: +5
     .. grid-item:: 0
@@ -3242,7 +3198,6 @@
     .. grid-item:: レーザー
         :columns: 3
     .. grid-item:: 1250
-    .. grid-item:: 1250
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: 0
@@ -3254,7 +3209,6 @@
         :class: flex-break
     .. grid-item:: 破壊光線
         :columns: 3
-    .. grid-item:: 2100
     .. grid-item:: 2100
     .. grid-item:: 1~6
     .. grid-item:: -20

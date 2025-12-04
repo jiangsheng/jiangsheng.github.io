@@ -90,7 +90,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_6A.png
                 :columns: auto
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、变形(\ :ref:`ダイファイター <srw4_unit_dai_fighter>`\ (泰坦战机)、\ :ref:`ダイタンク <srw4_unit_dai_tank>`\ (泰坦战车))。
                 :columns: auto
 
 
@@ -177,7 +177,6 @@
     .. grid-item:: ﾀﾞｲﾀｰﾝｳｪｯﾌﾞ⚔Ⓟ
         :columns: 3
     .. grid-item:: 1200
-    .. grid-item:: 1200
     .. grid-item:: 1~3
     .. grid-item:: 
     .. grid-item:: +20
@@ -189,7 +188,6 @@
         :class: flex-break
     .. grid-item:: ﾀﾞｲﾀｰﾝﾐｻｲﾙ⚔
         :columns: 3
-    .. grid-item:: 1280
     .. grid-item:: 1280
     .. grid-item:: 1~6
     .. grid-item:: -8
@@ -203,7 +201,6 @@
     .. grid-item:: ビッグウェッブ⚔
         :columns: 3
     .. grid-item:: 1500
-    .. grid-item:: 1500
     .. grid-item:: 1~6
     .. grid-item:: -5
     .. grid-item:: +20
@@ -215,7 +212,6 @@
         :class: flex-break
     .. grid-item:: ﾀﾞｲﾀｰﾝｻﾞﾝﾊﾞｰ🤛Ⓟ
         :columns: 3
-    .. grid-item:: 1670
     .. grid-item:: 1670
     .. grid-item:: 1
     .. grid-item:: +15
@@ -229,7 +225,6 @@
     .. grid-item:: ﾀﾞｲﾀｰﾝﾊﾝﾏｰ🤛Ⓟ
         :columns: 3
     .. grid-item:: 1940
-    .. grid-item:: 1940
     .. grid-item:: 1
     .. grid-item:: -5
     .. grid-item:: +10
@@ -241,7 +236,6 @@
         :class: flex-break
     .. grid-item:: サンレーザーⓅ
         :columns: 3
-    .. grid-item:: 2000
     .. grid-item:: 2000
     .. grid-item:: 1
     .. grid-item:: -5
@@ -255,7 +249,6 @@
     .. grid-item:: ﾀﾞｲﾀｰﾝｷｬﾉﾝ⚔
         :columns: 3
     .. grid-item:: 2100
-    .. grid-item:: 2100
     .. grid-item:: 1~7
     .. grid-item:: -5
     .. grid-item:: -10
@@ -267,7 +260,6 @@
         :class: flex-break
     .. grid-item:: サンアタックⓅ
         :columns: 3
-    .. grid-item:: 3900
     .. grid-item:: 3900
     .. grid-item:: 1
     .. grid-item:: +15
@@ -346,6 +338,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_6A.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\ (泰坦3)、\ :ref:`ダイタンク <srw4_unit_dai_tank>`\ (泰坦战车))。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -430,7 +426,6 @@
     .. grid-item:: ﾀﾞｲﾀｰﾝﾐｻｲﾙ⚔
         :columns: 3
     .. grid-item:: 1280
-    .. grid-item:: 1280
     .. grid-item:: 1~6
     .. grid-item:: -8
     .. grid-item:: -10
@@ -442,7 +437,6 @@
         :class: flex-break
     .. grid-item:: ロケット砲⚔
         :columns: 3
-    .. grid-item:: 1900
     .. grid-item:: 1900
     .. grid-item:: 1~7
     .. grid-item:: -5
@@ -456,7 +450,6 @@
     .. grid-item:: 爆弾⚔Ⓟ
         :columns: 3
     .. grid-item:: 1940
-    .. grid-item:: 1940
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: -10
@@ -468,7 +461,6 @@
         :class: flex-break
     .. grid-item:: サンレーザーⓅ
         :columns: 3
-    .. grid-item:: 2000
     .. grid-item:: 2000
     .. grid-item:: 1
     .. grid-item:: -5
@@ -546,6 +538,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_6A.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`ダイターン3 <srw4_unit_daitarn_3>`\ (泰坦3)、\ :ref:`ダイファイター <srw4_unit_dai_fighter>`\ (泰坦战机))。
+                :columns: auto
+
 
 
 .. grid:: 
@@ -630,7 +626,6 @@
     .. grid-item:: ﾀﾞｲﾀｰﾝﾐｻｲﾙ⚔
         :columns: 3
     .. grid-item:: 1280
-    .. grid-item:: 1280
     .. grid-item:: 1~6
     .. grid-item:: -8
     .. grid-item:: -10
@@ -642,7 +637,6 @@
         :class: flex-break
     .. grid-item:: ﾀﾞｲﾀｰﾝｷｬﾉﾝ⚔
         :columns: 3
-    .. grid-item:: 2100
     .. grid-item:: 2100
     .. grid-item:: 1~7
     .. grid-item:: -5

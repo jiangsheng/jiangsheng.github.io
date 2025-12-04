@@ -22,7 +22,7 @@
      - .. admonition:: 3，除了1和2的货物之外，追加
           :class: attention 
           
-          * リ・ガズィ（BWS）
+          * \ :ref:`リ·ガズィ (MA) <srw4_unit_ri_gazi_ma>`\ (灵格斯BWS着装型)
           * 5000G
 
 如果否认有恋人，弓さやか介绍的恋人也加入部队。搭讪来增加恋爱度的时间到了。具体选择参考\ :doc:`../mechanics/love_points`\ 。

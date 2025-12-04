@@ -89,7 +89,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_31.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備。
                 :columns: auto
 
 
@@ -176,7 +176,6 @@
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 390
-    .. grid-item:: 390
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -188,7 +187,6 @@
         :class: flex-break
     .. grid-item:: ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
-    .. grid-item:: 880
     .. grid-item:: 880
     .. grid-item:: 1~5
     .. grid-item:: +5
@@ -202,7 +200,6 @@
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1000
-    .. grid-item:: 1000
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -215,7 +212,6 @@
     .. grid-item:: ビームライフルⒷ
         :columns: 3
     .. grid-item:: 1140
-    .. grid-item:: 1140
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -227,7 +223,6 @@
         :class: flex-break
     .. grid-item:: ｸﾞﾚﾈｰﾄﾞﾗﾝﾁｬｰ⚔
         :columns: 3
-    .. grid-item:: 1140
     .. grid-item:: 1140
     .. grid-item:: 1~5
     .. grid-item:: -8
@@ -398,7 +393,6 @@
     .. grid-item:: ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 880
-    .. grid-item:: 880
     .. grid-item:: 1~5
     .. grid-item:: +5
     .. grid-item:: 0
@@ -411,7 +405,6 @@
     .. grid-item:: ビームキャノンⒷ
         :columns: 3
     .. grid-item:: 1200
-    .. grid-item:: 1200
     .. grid-item:: 1~6
     .. grid-item:: +5
     .. grid-item:: 0
@@ -423,7 +416,6 @@
         :class: flex-break
     .. grid-item:: ﾒｶﾞﾋﾞｰﾑｷｬﾉﾝⒷ
         :columns: 3
-    .. grid-item:: 1870
     .. grid-item:: 1870
     .. grid-item:: 1~7
     .. grid-item:: -5
@@ -514,7 +506,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_31.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備。
                 :columns: auto
 
 
@@ -601,7 +593,6 @@
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 390
-    .. grid-item:: 390
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -613,7 +604,6 @@
         :class: flex-break
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
-    .. grid-item:: 1020
     .. grid-item:: 1020
     .. grid-item:: 1
     .. grid-item:: +20
@@ -627,7 +617,6 @@
     .. grid-item:: ｸﾞﾚﾈｰﾄﾞﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 1140
-    .. grid-item:: 1140
     .. grid-item:: 1~5
     .. grid-item:: -8
     .. grid-item:: 0
@@ -640,7 +629,6 @@
     .. grid-item:: ビームライフルⒷ
         :columns: 3
     .. grid-item:: 1220
-    .. grid-item:: 1220
     .. grid-item:: 1~7
     .. grid-item:: 
     .. grid-item:: +10
@@ -652,7 +640,6 @@
         :class: flex-break
     .. grid-item:: ハンドグレネイド⚔Ⓟ
         :columns: 3
-    .. grid-item:: 1300
     .. grid-item:: 1300
     .. grid-item:: 1~3
     .. grid-item:: -10
@@ -734,7 +721,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_50.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備、Iフィールド。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備、Iフィールド。
                 :columns: auto
 
 
@@ -821,7 +808,6 @@
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 420
-    .. grid-item:: 420
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -833,7 +819,6 @@
         :class: flex-break
     .. grid-item:: ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
-    .. grid-item:: 880
     .. grid-item:: 880
     .. grid-item:: 1~5
     .. grid-item:: +5
@@ -847,7 +832,6 @@
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1050
-    .. grid-item:: 1050
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -859,7 +843,6 @@
         :class: flex-break
     .. grid-item:: ビームキャノンⒷ
         :columns: 3
-    .. grid-item:: 1200
     .. grid-item:: 1200
     .. grid-item:: 1~6
     .. grid-item:: +5
@@ -873,7 +856,6 @@
     .. grid-item:: ビームライフルⒷ
         :columns: 3
     .. grid-item:: 1220
-    .. grid-item:: 1220
     .. grid-item:: 1~7
     .. grid-item:: 
     .. grid-item:: +10
@@ -886,7 +868,6 @@
     .. grid-item:: ハイパーバズーカ⚔
         :columns: 3
     .. grid-item:: 1300 (1450)
-    .. grid-item:: 1300 (1450)
     .. grid-item:: 2~6
     .. grid-item:: -5 (-15)
     .. grid-item:: 0
@@ -898,7 +879,6 @@
         :class: flex-break
     .. grid-item:: フィンファンネル⚔
         :columns: 3
-    .. grid-item:: 2000 (2500)
     .. grid-item:: 2000 (2500)
     .. grid-item:: 1~9
     .. grid-item:: +30
@@ -984,7 +964,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_3A.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備。
                 :columns: auto
 
 
@@ -1071,7 +1051,6 @@
     .. grid-item:: ハンドビーム⚔
         :columns: 3
     .. grid-item:: 870
-    .. grid-item:: 870
     .. grid-item:: 1~6
     .. grid-item:: -7
     .. grid-item:: -10
@@ -1083,7 +1062,6 @@
         :class: flex-break
     .. grid-item:: メガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 1030
     .. grid-item:: 1030
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -1097,7 +1075,6 @@
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1050
-    .. grid-item:: 1050
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -1110,7 +1087,6 @@
     .. grid-item:: ﾒｶﾞｶﾞﾄﾘﾝｸﾞｶﾞﾝ
         :columns: 3
     .. grid-item:: 1200
-    .. grid-item:: 1200
     .. grid-item:: 1~6
     .. grid-item:: +2
     .. grid-item:: +10
@@ -1122,7 +1098,6 @@
         :class: flex-break
     .. grid-item:: ファンネル⚔
         :columns: 3
-    .. grid-item:: 1900 (2300)
     .. grid-item:: 1900 (2300)
     .. grid-item:: 1~9
     .. grid-item:: +17
@@ -1289,7 +1264,6 @@
     .. grid-item:: 180ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 500
-    .. grid-item:: 500
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: 0
@@ -1301,7 +1275,6 @@
         :class: flex-break
     .. grid-item:: サブメガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 1100
     .. grid-item:: 1100
     .. grid-item:: 1~7
     .. grid-item:: -15
@@ -1315,7 +1288,6 @@
     .. grid-item:: 20連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 1100
-    .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: -30
     .. grid-item:: -10
@@ -1328,7 +1300,6 @@
     .. grid-item:: メインメガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 1500
-    .. grid-item:: 1500
     .. grid-item:: 2~9
     .. grid-item:: -20
     .. grid-item:: 0
@@ -1340,7 +1311,6 @@
         :class: flex-break
     .. grid-item:: ﾊｲﾊﾟｰﾒｶﾞ粒子砲Ⓑ🗺️
         :columns: 3
-    .. grid-item:: 2000
     .. grid-item:: 2000
     .. grid-item:: 1~9
     .. grid-item:: -18
@@ -1424,7 +1394,7 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_20.png
                 :columns: auto
 
-            .. grid-item:: 技能: 盾装備、剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備。
                 :columns: auto
 
 
@@ -1511,7 +1481,6 @@
     .. grid-item:: ハンドビーム⚔
         :columns: 3
     .. grid-item:: 870
-    .. grid-item:: 870
     .. grid-item:: 1~6
     .. grid-item:: -7
     .. grid-item:: -10
@@ -1523,7 +1492,6 @@
         :class: flex-break
     .. grid-item:: メガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 1030
     .. grid-item:: 1030
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -1537,7 +1505,6 @@
     .. grid-item:: ビームトマホーク🤛Ⓟ
         :columns: 3
     .. grid-item:: 1080
-    .. grid-item:: 1080
     .. grid-item:: 1
     .. grid-item:: +18
     .. grid-item:: +20
@@ -1550,7 +1517,6 @@
     .. grid-item:: ﾋﾞｰﾑｼｮｯﾄﾗｲﾌﾙⒷ
         :columns: 3
     .. grid-item:: 1300
-    .. grid-item:: 1300
     .. grid-item:: 1~7
     .. grid-item:: 
     .. grid-item:: +10
@@ -1562,7 +1528,6 @@
         :class: flex-break
     .. grid-item:: ファンネル⚔
         :columns: 3
-    .. grid-item:: 2000 (2500)
     .. grid-item:: 2000 (2500)
     .. grid-item:: 1~9
     .. grid-item:: +21
@@ -1643,7 +1608,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 技能: 剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
                 :columns: auto
 
 
@@ -1730,7 +1695,6 @@
     .. grid-item:: ﾋﾞｰﾑｿｰﾄﾞｱｯｸｽ🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1000
-    .. grid-item:: 1000
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -1742,7 +1706,6 @@
         :class: flex-break
     .. grid-item:: ｸﾞﾚﾈｰﾄﾞﾗﾝﾁｬｰ⚔
         :columns: 3
-    .. grid-item:: 1140
     .. grid-item:: 1140
     .. grid-item:: 1~5
     .. grid-item:: -8
@@ -1756,7 +1719,6 @@
     .. grid-item:: ﾋﾞｰﾑﾏｼﾝｶﾞﾝⒷ
         :columns: 3
     .. grid-item:: 1150
-    .. grid-item:: 1150
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -1768,7 +1730,6 @@
         :class: flex-break
     .. grid-item:: ｼｭﾂﾙﾑﾌｧｳｽﾄ⚔
         :columns: 3
-    .. grid-item:: 1200
     .. grid-item:: 1200
     .. grid-item:: 1~5
     .. grid-item:: -12
@@ -1841,7 +1802,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 技能: 盾装備、剣装備。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 盾装備、剣装備。
                 :columns: auto
 
 
@@ -1928,7 +1889,6 @@
     .. grid-item:: ハンドビーム⚔
         :columns: 3
     .. grid-item:: 870
-    .. grid-item:: 870
     .. grid-item:: 1~6
     .. grid-item:: -7
     .. grid-item:: -10
@@ -1940,7 +1900,6 @@
         :class: flex-break
     .. grid-item:: メガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 1030
     .. grid-item:: 1030
     .. grid-item:: 1~6
     .. grid-item:: 
@@ -1954,7 +1913,6 @@
     .. grid-item:: ビームサーベル🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1050
-    .. grid-item:: 1050
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -1967,7 +1925,6 @@
     .. grid-item:: ﾋﾞｰﾑｱｻﾙﾄﾗｲﾌﾙⒷ
         :columns: 3
     .. grid-item:: 1280
-    .. grid-item:: 1280
     .. grid-item:: 1~7
     .. grid-item:: 
     .. grid-item:: +10
@@ -1979,7 +1936,6 @@
         :class: flex-break
     .. grid-item:: ファンネル⚔
         :columns: 3
-    .. grid-item:: 1900 (2300)
     .. grid-item:: 1900 (2300)
     .. grid-item:: 1~9
     .. grid-item:: +17
@@ -2052,7 +2008,7 @@
                 :columns: auto
 
 
-            .. grid-item:: 技能: Iフィールド。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : Iフィールド。
                 :columns: auto
 
 
@@ -2139,7 +2095,6 @@
     .. grid-item:: バルカンⓅ
         :columns: 3
     .. grid-item:: 450
-    .. grid-item:: 450
     .. grid-item:: 1
     .. grid-item:: +35
     .. grid-item:: -10
@@ -2151,7 +2106,6 @@
         :class: flex-break
     .. grid-item:: 有線式ﾒｶﾞｱｰﾑ砲Ⓑ
         :columns: 3
-    .. grid-item:: 900
     .. grid-item:: 900
     .. grid-item:: 1
     .. grid-item:: +4
@@ -2165,7 +2119,6 @@
     .. grid-item:: メガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 1250 (1450)
-    .. grid-item:: 1250 (1450)
     .. grid-item:: 1~7
     .. grid-item:: 
     .. grid-item:: +10
@@ -2177,7 +2130,6 @@
         :class: flex-break
     .. grid-item:: ファンネル⚔
         :columns: 3
-    .. grid-item:: 2150 (2600)
     .. grid-item:: 2150 (2600)
     .. grid-item:: 1~9
     .. grid-item:: +19
@@ -2340,7 +2292,6 @@
     .. grid-item:: 180ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 500
-    .. grid-item:: 500
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: 0
@@ -2352,7 +2303,6 @@
         :class: flex-break
     .. grid-item:: サブメガ粒子砲Ⓑ
         :columns: 3
-    .. grid-item:: 1000
     .. grid-item:: 1000
     .. grid-item:: 1~6
     .. grid-item:: -15
@@ -2366,7 +2316,6 @@
     .. grid-item:: 20連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
         :columns: 3
     .. grid-item:: 1100
-    .. grid-item:: 1100
     .. grid-item:: 1~6
     .. grid-item:: -30
     .. grid-item:: -10
@@ -2379,7 +2328,6 @@
     .. grid-item:: メインメガ粒子砲Ⓑ
         :columns: 3
     .. grid-item:: 1390
-    .. grid-item:: 1390
     .. grid-item:: 2~8
     .. grid-item:: -20
     .. grid-item:: 0
@@ -2391,7 +2339,6 @@
         :class: flex-break
     .. grid-item:: ﾊｲﾊﾟｰﾒｶﾞ粒子砲Ⓑ🗺️
         :columns: 3
-    .. grid-item:: 2000
     .. grid-item:: 2000
     .. grid-item:: 1~9
     .. grid-item:: -18
@@ -2552,7 +2499,6 @@
     .. grid-item:: ﾋﾞｰﾑｿｰﾄﾞｱｯｸｽ🤛⚔Ⓟ
         :columns: 3
     .. grid-item:: 1000
-    .. grid-item:: 1000
     .. grid-item:: 1
     .. grid-item:: +20
     .. grid-item:: +20
@@ -2564,7 +2510,6 @@
         :class: flex-break
     .. grid-item:: ｸﾞﾚﾈｰﾄﾞﾗﾝﾁｬｰ⚔
         :columns: 3
-    .. grid-item:: 1140
     .. grid-item:: 1140
     .. grid-item:: 1~5
     .. grid-item:: -8
@@ -2578,7 +2523,6 @@
     .. grid-item:: ﾋﾞｰﾑﾏｼﾝｶﾞﾝⒷ
         :columns: 3
     .. grid-item:: 1150
-    .. grid-item:: 1150
     .. grid-item:: 1~6
     .. grid-item:: 
     .. grid-item:: +10
@@ -2590,7 +2534,6 @@
         :class: flex-break
     .. grid-item:: ｼｭﾂﾙﾑﾌｧｳｽﾄ⚔
         :columns: 3
-    .. grid-item:: 1200
     .. grid-item:: 1200
     .. grid-item:: 1~5
     .. grid-item:: -12

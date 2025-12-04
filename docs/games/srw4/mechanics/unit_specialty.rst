@@ -13,10 +13,10 @@
 * ビ－ムコ－ト	完全抵御伤害1200以内的光线武器，对伤害1200以上的攻击无效。消耗20EN。几乎所有重战机和一些机动战士具有的能力。可以装备対ビームコーティング来给机体附加这个能力。
 * オ－ラバリア	完全抵御伤害3000以内的光线武器，对伤害3000以上的攻击无效。消耗20EN。奥拉系特有的能力，从战舰到战机都具备。
 * ビームバリア	完全抵御伤害2500以内的光线武器，对伤害2500以上的攻击无效。消耗20EN。通过装备バリアジェネレーター(只能修改出来)来给机体附加这个能力。
-* ＨＰ回复	每回合开始自动恢复部分HP。小10%（\ :ref:`ドラゴノザウルス <srw4_unit_dragonsaurus>`\ 、\ :ref:`オージ <srw4_unit_auge>`\ 、\ :ref:`真・ゲッター1 <srw4_unit_shin_getter_1>`\ 、\ :ref:`サーバイン <srw4_unit_sirbine>`\ 、\ :ref:`ズワウス <srw4_unit_zwuath>`\ ），大30%(\ :ref:`ブラッドテンプル <srw4_unit_blood_temple>`\ 、\ :ref:`グランゾン <srw4_unit_granzon>`\ 、\ :ref:`ザムジード <srw4_unit_zamzeed>`\ )。
-* 分身	气力130以上发动，回避效果2倍。如果敌人的命中率显示为50%,那么实际上它的效果只有25%。对必中无效。除了:ref:`ダンバイン系 <srw4_units_dunbine>`的机体之外，只有\ :ref:`F-91 <srw4_unit_f_91>`\ 和\ :ref:`ゲッター <srw4_units_getter_robo>`\ 队的的二号机具有这个能力。
+* ＨＰ回复	每回合开始自动恢复部分HP。小10%（\ :ref:`ドラゴノザウルス <srw4_unit_dragonsaurus>`\ (大恐龙) 、\ :ref:`オージ <srw4_unit_auge>`\ (奥津) 、\ :ref:`真・ゲッター1 <srw4_unit_shin_getter_1>`\ 、\ :ref:`サーバイン <srw4_unit_sirbine>`\ 、\ :ref:`ズワウス <srw4_unit_zwuath>`\ ），大30%(\ :ref:`ブラッドテンプル <srw4_unit_blood_temple>`\ 、\ :ref:`グランゾン <srw4_unit_granzon>`\ 、\ :ref:`ザムジード <srw4_unit_zamzeed>`\ )。
+* 分身	气力130以上发动，回避效果2倍。如果敌人的命中率显示为50%,那么实际上它的效果只有25%。对必中无效。除了\ :ref:`ダンバイン系 <srw4_units_dunbine>`\ 的机体之外，只有\ :ref:`F-91 <srw4_unit_f_91>`\ 和\ :ref:`ゲッター <srw4_units_getter_robo>`\ 队的的二号机具有这个能力。
 * 变形	机体可以改变成其他形态。只有\ :ref:`ゲッター <srw4_units_getter_robo>`\ 的每个形态有单独的驾驶员、芯片和改造段数。
-* 分离	机体可以分成多个机体（可以重新组合），或者只丢弃部分机体，改变战斗状态（不能恢复）。分离不消耗行动力。一些可以分离的机体被击落时，只失去部分的机体，剩余的部分还可以继续作战，例如\ :ref:`リ・ガズィ (MA) <srw4_unit_ri_gazi_ma>`\ 、\ :ref:`スーパーガンダム <srw4_unit_super_gundam>`\ 和\ :ref:`GP-03デンドロビウム <srw4_unit_gp_03_dendrobium>`\ 。
+* 分离	机体可以分成多个机体（可以重新组合），或者只丢弃部分机体，改变战斗状态（不能恢复）。分离不消耗行动力。一些可以分离的机体被击落时，只失去部分的机体，剩余的部分还可以继续作战，例如\ :ref:`リ·ガズィ (MA) <srw4_unit_ri_gazi_ma>`\ (灵格斯BWS着装型)\ 、\ :ref:`スーパーガンダム <srw4_unit_super_gundam>`\ 和\ :ref:`GP-03デンドロビウム <srw4_unit_gp_03_dendrobium>`\ 。
 * 变形/合体 可以改变成其他形态，可以和其他机体组合。例如\ :ref:`グレンダイザー <srw4_unit_grendizer>`\ 。
 * 合体 	机体可以和其他机体组合。所有组合到的机体必须相邻。合体消耗一次行动力。合体之后，机体的性能通常比合体之前的单个机体要强，武器全部或者部分继承单个机体，但是通常有合体之后才能使用的强力武器，超级系尤甚。组合的机体通常具有分离能力，使用精神时通常可以使用所有机师的精神，并且战斗时按第一个驾驶员的能力计算。战斗之后，按每个机师都战斗一次分别计算经验值。
 * シールド 有，机师发动[シ－ルド防御]特技的前提条件。
@@ -28,7 +28,7 @@
 * EN回復 EN毎回合回复。小10（\ :ref:`ミデア <srw4_unit_medea>`\ ），大20（\ :ref:`ブラッドテンプル <srw4_unit_blood_temple>`\ 、\ :ref:`グランゾン <srw4_unit_granzon>`\ 、\ :ref:`ライグ＝ゲイオス <srw4_unit_lige_geios>`\ 、\ :ref:`バラン＝シュナイル <srw4_unit_baran_schnile>`\ 、\ :ref:`ゲシュペンスト Mk-II <srw4_unit_gespenst_mk_ii>`\ ）。如果没有这个技能，每回合回复5. 
 * 修理装置 攻击时可以选择修理作为武器。
 * 補給装置 攻击时可以选择补给作为武器。
-* 激怒、自爆、てかげん免疫 对三个精神免疫。\ :ref:`メカ戦士ギメリア <srw4_unit_mecha_warrior_gimeria>`\ 、\ :ref:`オージェ <srw4_unit_auger>`\ 、\ :ref:`バラン＝シュナイル <srw4_unit_baran_schnile>`\ 和\ :ref:`グランゾン <srw4_unit_granzon>`\ 特属。
+* 激怒、自爆、てかげん免疫 对三个精神免疫。\ :ref:`メカ戦士ギメリア <srw4_unit_mecha_warrior_gimeria>`\ 、\ :ref:`オージ <srw4_unit_auge>`\ (奥津)、\ :ref:`バラン＝シュナイル <srw4_unit_baran_schnile>`\ 和\ :ref:`グランゾン <srw4_unit_granzon>`\ 特属。
 * 変身 击破时残留另外一台机体。
 
 
