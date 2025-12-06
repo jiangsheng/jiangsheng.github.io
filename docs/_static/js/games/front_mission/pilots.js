@@ -6,14 +6,15 @@ function front_mission_pilot_table_init(dataTableName)
         paging: false,
         searching: false, 
         info: false, 
-        scrollX: "100%",
+        scrollX: false,
         fixedHeader: true,
         columnDefs: [
             {
                     type: 'rating-grade',
-                    targets:  [2,3,4,5]
+                    targets:  [1,2,3,4]
             }
-        ]
+        ],
+        order: []
         });
     });
 }

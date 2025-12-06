@@ -15,7 +15,9 @@ Front Mission 1
    Platform Differences <platform_difference> 
 
 .. index::  Front Mission 
-   
+
+.. _front_mission:
+
 After creating a new game, you will be asked to :ref:`personalize <front_mission_mechanics_personalize>` your name and call sign. Then you will enter a battlefield. 
 
 The game is centralized on battling with robots (called wanzers in this game) on a stage. Then use the prize money to upgrade units in a :ref:`city <front_mission_mechanics_city>` and fight the next one. Sometimes the default moving destination after a battle is another battlefield, you should always check your destination before confirming, at least saving your progress first before the next battle (sometimes you get to recruit pilots or enter secret mission by going back to a previous city). 
@@ -78,7 +80,7 @@ Useful Part and weapon cheat Codes for SNES
 
 Skill codes:
 
-* 09 Last Dual
+* 09 Last Duel
 * 16 Last Switch
 * 17 Last Speed
 * 18 Last Guide

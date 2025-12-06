@@ -1,3 +1,4 @@
+
 table.docutils td, table.docutils th {
     padding:0; margin:0;
 }
@@ -12,6 +13,8 @@ table.docutils td, table.docutils th {
     overflow-x:hidden !important;
     overflow-y:auto !important;
 }
+
+
 table.dataTable tbody th, table.dataTable tbody td {
     padding: 0px
 }
@@ -44,4 +47,13 @@ table.dataTable>thead .sorting_desc_disabled::before {
  table.dataTable>thead>tr>td {
     padding-right: 0px !important;
     padding-left: 0px !important;
+}
+
+table.dataTable th div.dt-column-header 
+{
+    flex-direction: row !important;
+}
+div.dt-container
+{
+    overflow: hidden !important;
 }

@@ -4,8 +4,8 @@ DataTable.ext.type.order['rating-grade-pre'] = function (d) {
       case '<p>S</p>':return 2;
       case '<p>A+</p>':return 3;
       case '<p>A</p>':return 4;
-      case '<p>B</p>':return 5;
-      case '<p>B+</p>':return 6;
+      case '<p>B+</p>':return 5;
+      case '<p>B</p>':return 6;      
       case '<p>C+</p>':return 7;
       case '<p>C</p>':return 8;
       case '<p>D+</p>':return 9;

@@ -1,10 +1,10 @@
 .. meta::
-   :description: Blogs in 2025#
+   :description: Blogs in May 2025#
 
-.. _blogs_2025:
+.. _blogs_2025_12:
 
 ======================================
-Blogs in 2025 
+Blogs in December 2025
 ======================================
 
 .. toctree::
@@ -12,10 +12,7 @@ Blogs in 2025
    :caption: 内容:
    :titlesonly:
 
-   Blogs in January 2025<01/index>
-   Blogs in April 2025<04/index>
-   Blogs in May 2025<05/index>
-   Blogs in December 2025<12/index>
+   datatable_unwanted_horizontal_scrollbar
 
 * :ref:`genindex`
 * :ref:`modindex`

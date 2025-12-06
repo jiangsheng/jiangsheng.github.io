@@ -16,7 +16,7 @@ You can't change a skill once learned so only take skills when the :ref:`pilot's
 
 Certain weapons have exp bonus, which means you get a lot of exp even when you miss intentionally. You can also exchange the weapon between wanzers to train multiple pilots in the same mission. 
 
-In stages where enemy have supply trucks, you can break parts and let enemy wanzers run back for repair, then break the repaired parts again. Dual and Guide :ref:`skills <front_mission_mechanics_skills>` help you from avoiding the body, but they will take a skill slot. Use a very weak multi-hit weapon if a pilot does not have aiming skills.
+In stages where enemy have supply trucks, you can break parts and let enemy wanzers run back for repair, then break the repaired parts again. Duel and Guide :ref:`skills <front_mission_mechanics_skills>` help you from avoiding the body, but they will take a skill slot. Use a very weak multi-hit weapon if a pilot does not have aiming skills.
 
 You can leave the leg intact as enemy may be unable to reach the truck without it on rough :ref:`terrain <front_mission_mechanics_terrain>`\ .
 

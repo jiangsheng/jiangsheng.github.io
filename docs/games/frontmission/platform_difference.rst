@@ -7,17 +7,21 @@ Platform Differences (Front Mission 1)
 ======================================================
 
 Original SNES ROM:
-    * Peewee can learn Speed Lv3 (no activation) 
+
+    * :ref:`Peewie <front_mission_pilot_peewie_richburg_jr>` can learn Speed Lv3 (no activation) 
   
 Secondary SNES ROM:
-    * Peewee skill removed
+
+    * :ref:`Peewie <front_mission_pilot_peewie_richburg_jr>`'s skill removed
 
 WonderSwan Color:
+
     * :ref:`mechanics <front_mission_mechanics>`: based on Secondary SNES ROM:
     * Added simplified battle mode
-    * Some game mechanic change, e.g. some special enemies now have bonus xp when destroyed, exclusive to this version. 
+    * Some game mechanics change, e.g. some special enemies now have bonus xp when destroyed, exclusive to this version. 
 
 Playstation 1:
+
     * Titled Front Mission 1st
     * :ref:`Alder <front_mission_mechanics_pilots>` can learn other melee skills.
     * New U.S.N route (now called U.C.S. )
@@ -32,6 +36,7 @@ Playstation 1:
     * Some wanzers renamed
 
 Nintendo DS:
+
     * Based on PS1 port.
     * Extra screen displaying more data that was previously displayed in extra menus or not at all.
     * New secret Ex.Missions
@@ -40,18 +45,19 @@ Nintendo DS:
     * Improved graphics 
     * High speed battle mode replaces simplified battle mode
     * Enemy can use items
-    * Secondary screen.
     * Difficulty setting after finishing game.
     * VS Play now supports connecting to another DS via WIFI
     * Some :ref:`terrain <front_mission_mechanics_terrain>` effect changes. 
     * Some game mechanic change, e.g. enemies now can use items during battle.
+    * Ralph Dian's Guide Skill.
     * Old parts now remain in the Shop, removing the need to go back to previous cities.
-    * Password for Player vs Player Duel removed.
+    * Password for Player vs Player Dual removed.
   
 Front Mission 1st: Remake
+
     * Multiple Platforms
     * 3D graphics
-    * pilot setup no longer shows peewee status
+    * pilot setup no longer shows :ref:`Peewie <front_mission_pilot_peewie_richburg_jr>`'s status
     * More exp from colosseum fights
     * Agility xp scaled to pilot current level instead of pilot level at the beginning of the mission
  
