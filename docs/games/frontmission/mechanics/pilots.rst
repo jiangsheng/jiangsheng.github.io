@@ -1268,7 +1268,7 @@ Gina
         | Available Skills: Switch, Speed
         | Starts with Duel
 
-A Short specialist like :ref:`Ryuji <front_mission_pilot_ryuji_sakata>` in OCU, comes with Duel. Cannot learn Stun or First. Joins Mission 12. Leaves Mission 18 and returns Mission 20.
+A Short specialist like :ref:`Sakata <front_mission_pilot_ryuji_sakata>` in OCU, comes with Duel. Cannot learn Stun or First. Joins Mission 12. Leaves Mission 18 and returns Mission 20.
 
 ------------------------------
 Ghetta Cedric
