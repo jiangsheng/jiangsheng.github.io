@@ -6,11 +6,11 @@ function units_datatable_init(dataTableName)
         '#'+dataTableName,
         {
             orderCellsTop: true,
-            scrollX: false,
             paging: false,
             searching: true,
             info: false,
             fixedHeader: true,
+            autoWidth: false,
             columnDefs: 
             [
                 {type: 'hex',targets:  0},

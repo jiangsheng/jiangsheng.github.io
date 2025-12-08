@@ -3998,7 +3998,7 @@
       :columns: auto
 
       | 30048B00 0010
-      | 30048B17 0405
+      | 30048B17 0506
 
     .. grid-item-card:: \ :ref:`ライグ＝ゲイオス <srw4_unit_lige_geios>`\ (莱格·盖奥斯)
       :columns: auto

@@ -32,6 +32,7 @@ In the pilot status window, the password is the data you would enter in the VS p
 * 🥈 this skill starts at Lv 2
 * 🥉 this skill starts at Lv 3. 
 * Exp unit is 1000 (1K). 
+* Ranking is decided by bonus exp at level up.
 
 .. flat-table:: Characters
     :class: text-center, align-items-center, compact, display
@@ -154,7 +155,7 @@ In the pilot status window, the password is the data you would enter in the VS p
       - 🚫🤲
       - 3
       - 5
-      - 🚫🎯
+      - 🚫🔥
       - 1.5
     * - :ref:`Alder🤛🔫 <front_mission_pilot_alder_weiss>`
       - A
@@ -344,7 +345,7 @@ In the pilot status window, the password is the data you would enter in the VS p
       - 
       - 3.5
       - 🚫🎯
-      - 
+      - 🚫🤲
       - 1.5
     * - :ref:`Gina <front_mission_pilot_gina>`
       - D+
@@ -384,7 +385,7 @@ Notes:
 #. Peewie Richburg Jr.'s Speed skill is only available in SNES 1.0.
 #. Ralph Dian's Guide Skill is only available on versions after the Nintendo DS port.
 
-Rank Codes: 15=D+, 20=C, 25=C+, 30=B, 35=B+, 40=A,45=A+, 50=S, 55=S+
+Bonus Exp Rank Codes: 15=D+, 20=C, 25=C+, 30=B, 35=B+, 40=A,45=A+, 50=S, 55=S+
 
 --------------------------
 Royd Clive
@@ -580,6 +581,8 @@ Second best Short at the OCU side. Also good at Long. Pretty much like :ref:`Kei
 
 Joins Mission 2. Leaves at Mission 22. Rejoins Mission 25. 
 
+Those are your starting 5 and they are the only ones that are good at Short and can learn all Short skills. 
+
 ------------------------------
 Frederick Lancaster
 ------------------------------
@@ -658,7 +661,7 @@ Melee placeholder until :ref:`Gregorio <front_mission_pilot_gregorio_maias>` joi
 
 Best at Melee but better convert to Short as in this game Short rules. She comes with Double, leaving only 2 skill slots open. Her Long damage is the lowest in the game, may not be a good idea to aim for the guide skill. So, Switch and Speed it is. 
 
-Her First, if learnt, will start at level 2. 
+Her First, if learnt, will start at level 2. Somehow she can learn Short skill 3 times, despite only having 2 skill slots open. Probably an oversight by the developer. 
 
 ------------------------------
 Paul C. Grieber
@@ -689,7 +692,7 @@ Paul C. Grieber
         | Short Rating: C
         | First Skill: 3000 exp
         | Second Skill: 5000 exp
-        | Available Skills: Switch and Speed
+        | Available Skills: Dual and Switch 
 
 To recruit, talk in bar after Mission 5.
 
@@ -796,8 +799,9 @@ Hans Goldwin
         | Third Skill: 7900 exp
         | Available Skills: Duel, Switch and Speed
 
-Second best Long in the game. Also doubles as Short because free talent slots and you want to level up further after maxing Long exp. :ref:`Frederick <front_mission_pilot_frederick_lancaster>` level Short though. Can't learn melee skills. And somehow an average tank, don't be afraid to close in. Joins after Mission 8.
+Second best Long in the game. Also doubles as Short because free talent slots and you want to level up further after maxing Long exp. :ref:`Frederick <front_mission_pilot_frederick_lancaster>` level Short though. Can't learn melee skills. And somehow an average tank, don't be afraid to close in。
 
+Somehow can learn all Short skills. Can be converted to Short and even skip Guide to take a Duel. Joins after Mission 8.
 
 ------------------------------
 Gregorio Maias
@@ -905,7 +909,7 @@ To recruit, go to :ref:`military office <front_mission_mechanics_military_office
 
 Rare double ace in Short and Long. Can't learn First is inconsequential but can't earn Duel and Speed hurts. Must take a Melee skill for some reason.
 
-From the skill slot and number of short skill thresholds, he was initially designed to have more short skills. 
+From the skill slot size and number of short skill thresholds, he was initially designed to have more short skills. 
 
 ------------------------------
 Porunga
@@ -942,9 +946,9 @@ Go to :ref:`military office <front_mission_mechanics_military_office>` after Mis
 
 A tank that wants to be attacker, and good at neither. Can't learn Duel, Switch or Guide. Joins with :ref:`Bobby <front_mission_pilot_bobby_hopkins>`.
 
-In the last stage everyone can join the fight so you may want to train him a little.
+In the last stage everyone can join the fight so you may want to train him a little. If you want to train him as Melee, then you need to take First instead of Double, as First is basically required for late game Melee.
 
-Somehow, he has 5 skill slots but can only learn skill 3 times. Probably an oversight for the designer. From the skill slot and number of short skill thresholds, he was initially designed to have more short skills.
+Somehow, he has 5 skill slots but can only learn skill 3 times. Probably an oversight for the designer. From the skill slot and number of short skill thresholds, he was initially designed to have more Short skills.
 
 ------------------------------
 Yang Yeehin
@@ -979,9 +983,9 @@ Yang Yeehin
 
 Good missileer and Short, too bad not much Short skills. Late to join the party and must play catchup. Worth the training though.
 
-Can't learn First, Duel or Switch. Joins Mission 14.
+Can't learn First (so better not train as Melee), Duel or Switch (ouch). Probably the the role of long range support. 
 
-He's a deserter from the USN. I was expecting him at the USN arc, but he didn't show up. 
+Joins Mission 14. He's a deserter from the USN. I was expecting him at the USN arc, but he didn't show up. 
 
 ------------------------------
 Ralph Dian
@@ -1228,7 +1232,7 @@ Howard Wong
 
         | Short Rating: C
         | First Skill: 3500 exp
-        | Available Skills: Switch, Speed
+        | Available Skills: Speed
 
 The only good long at the USN side. He's at :ref:`Hans🚀 <front_mission_pilot_hans_goldwin>`' level, not :ref:`Paul🚀 <front_mission_pilot_paul_c_grieber>`'s, and unlike the OCU Longs, his agility is the lowest in the game. 
 

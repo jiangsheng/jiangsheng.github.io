@@ -51,7 +51,7 @@ Airborne Infantry HQ
 ^^^^^^^^^^^^^^^^^^^^^^^^
 .. _axis_and_allies_airborne_infantry_hq:
 
-Airborne Infantry HQ is the HQ to recruit :ref:`airborne infantry <axis_and_allies_regiment_airborne_infantry>`. The deployment is airdropped, usually to enemy controlled area and the :ref:`transport plane <axis_and_allies_regiment_npc>` is susceptible to anti-aircraft fire. Best to scout target area with recon air missions or :ref:`special operations <axis_and_allies_special_operations>` before deployment. 
+Airborne Infantry HQ is the HQ to recruit :ref:`airborne infantry <axis_and_allies_regiments_infantry_airborne>`. The deployment is airdropped, usually to enemy controlled area and the :ref:`transport plane <axis_and_allies_regiment_npc>` is susceptible to anti-aircraft fire. Best to scout target area with recon air missions or :ref:`special operations <axis_and_allies_special_operations>` before deployment. 
 
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Mechanized HQ

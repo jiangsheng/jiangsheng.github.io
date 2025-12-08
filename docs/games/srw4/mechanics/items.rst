@@ -16,7 +16,7 @@
 这里我给出游戏中所有芯片的简单描述。
 
 .. flat-table:: 芯片 （第四次超级机器人大战）
-   :class: text-center, align-items-center, compact, display,dataTables_no_scroll_x
+   :class: text-center, align-items-center, compact, display
    :name: srw4_items_table
    :header-rows: 1
    :fill-cells:

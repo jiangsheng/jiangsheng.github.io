@@ -45,7 +45,7 @@
 
 
 .. flat-table:: 机师数据 （第四次超级机器人大战S）
-   :class: text-center, align-items-center, compact, display,dataTables_no_scroll_x
+   :class: text-center, align-items-center, compact, display
    :name: srw4_pilots_playstation_table
    :header-rows: 1
    :fill-cells:

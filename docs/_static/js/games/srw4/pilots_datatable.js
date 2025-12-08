@@ -5,7 +5,8 @@ function pilots_datatable_init(dataTableName)
     (
         '#'+dataTableName,
         {
-            paging: false,searching: true, info: false,fixedHeader: true, scrollX: false, 
+            paging: false,searching: true, info: false,fixedHeader: true,
+            autoWidth: false,
             columnDefs:
             [
                 {type: 'hex',targets:0},
@@ -121,6 +122,7 @@ function pilots_datatable_init(dataTableName)
                     //console.log("hiding column"+columnIndex);
                     oTable.column(columnIndex).visible(false);
                 }
+                oTable.columns.adjust().draw();
             });
         });
     });    

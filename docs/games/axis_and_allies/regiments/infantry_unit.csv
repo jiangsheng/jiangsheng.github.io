@@ -4,7 +4,7 @@ Infantry ,200,1,2.5,5 (JPN:+1),Rifle,10 (USA:+2),G,3,12,,Grenade,20,EX,15,9,2,
 MG Infantry ,150,1,2.5,5 (JPN:+1),MG,"12 (GBR:+3, GER:+2)",G,2,12,1.5,,,,,,,
 Anti-Tank Infantry ,150,1,2.5,5 (JPN:+1),AT,"45 (USA:+5, GER:-5)",AP,"6 (USA:+1, GER:-1)",12,,,,,,,,Short Paralyze
 Mortar Infantry,150,1,2,5 (JPN:+1),Mortar,30 (JPN:+5),EX,9,30,3,,,,,,,Morale Dmg 0.75 (JPN:+0.25) 
-Engineer,200,1,3,5 (JPN:+1),Rifle,10,G,3,10,,,,,,,,Rapid Entrenchment
+Engineer,200,1,3,5 (JPN:+1),Rifle,10,G,3,10,,,,,,,,Rapid :ref:`Entrenchment <axis_and_allies_attributes_infantry_entrenchment>`
 Assault Infantry,225,1,3,5,Garand Rifle,12,G,3,12,,Grenade,20,EX,15,9,2,Rifle Grenade Attack (EX damage +30 )
 FL thrower Infantry,150,1,2.5,5,,40,FL,6,6,,,,,,,,Morale Dmg 1
 Conscript,150,0,3,5,Rifle,8,G,3,10,,Molotov Cocktail,10,FL,20,9,2,

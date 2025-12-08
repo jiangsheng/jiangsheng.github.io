@@ -6,7 +6,6 @@ function front_mission_pilot_table_init(dataTableName)
         paging: false,
         searching: false, 
         info: false, 
-        scrollX: false,
         fixedHeader: true,
         columnDefs: [
             {

@@ -2,18 +2,16 @@
 table.docutils td, table.docutils th {
     padding:0; margin:0;
 }
-
+/*
 .dataTables_no_scroll_x
 {
     table-layout:fixed;
     width: 98% !important; 
-}
+}*/
 
 .dataTables_scrollBody{
-    overflow-x:hidden !important;
-    overflow-y:auto !important;
+    width: 98%
 }
-
 
 table.dataTable tbody th, table.dataTable tbody td {
     padding: 0px
@@ -53,7 +51,8 @@ table.dataTable th div.dt-column-header
 {
     flex-direction: row !important;
 }
-div.dt-container
+
+div.dt-container>div.row
 {
-    overflow: hidden !important;
+    --bs-gutter-x: 0 !important;
 }
