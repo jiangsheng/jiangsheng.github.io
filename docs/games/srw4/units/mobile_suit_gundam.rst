@@ -869,6 +869,10 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_77.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 搭载。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -1631,6 +1635,10 @@
                 :columns: auto
 
             .. grid-item:: 地形适应:空B陆🚫海🚫宇A。
+                :columns: auto
+
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 搭载。
                 :columns: auto
 
 

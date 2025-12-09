@@ -723,6 +723,10 @@ G-フォートレス(G-要塞)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_21.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 搭载。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -2665,6 +2669,10 @@ R·ジャジャ(R·贾贾)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_85.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 搭载。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -3292,6 +3300,10 @@ R·ジャジャ(R·贾贾)
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_87.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 搭载。
+                :columns: auto
+
 
 
 .. grid:: 

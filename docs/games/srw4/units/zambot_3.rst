@@ -1315,6 +1315,10 @@
                 :columns: auto
 
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变身。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0

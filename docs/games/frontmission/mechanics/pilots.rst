@@ -696,7 +696,7 @@ Paul C. Grieber
 
 To recruit, talk in bar after Mission 5.
 
-The best Long in the game. Also double as Short because free talent slots and you want to level up further after maxing Long exp. Frederick level Short though.
+The best Long in the game. Also double as Short because free skill slots and you want to level up further after maxing Long exp. Frederick level Short though.
 
 
 ------------------------------
@@ -799,9 +799,9 @@ Hans Goldwin
         | Third Skill: 7900 exp
         | Available Skills: Duel, Switch and Speed
 
-Second best Long in the game. Also doubles as Short because free talent slots and you want to level up further after maxing Long exp. :ref:`Frederick <front_mission_pilot_frederick_lancaster>` level Short though. Can't learn melee skills. And somehow an average tank, don't be afraid to close in。
+Second best Long in the game. Also doubles as Short because free skill slots and you want to level up further after maxing Long exp. :ref:`Frederick <front_mission_pilot_frederick_lancaster>` level Short though. Can't learn melee skills. And somehow an average tank, don't be afraid to close in。
 
-Somehow can learn all Short skills. Can be converted to Short and even skip Guide to take a Duel. Joins after Mission 8.
+Somehow can learn all Short skills. Can be converted to Short and even skip Guide to take a Duel, as aiming has more benefit with other skills present. Joins after Mission 8.
 
 ------------------------------
 Gregorio Maias
@@ -983,7 +983,7 @@ Yang Yeehin
 
 Good missileer and Short, too bad not much Short skills. Late to join the party and must play catchup. Worth the training though.
 
-Can't learn First (so better not train as Melee), Duel or Switch (ouch). Probably the the role of long range support. 
+Can't learn First (so better not train as Melee), Duel or Switch (ouch). Probably take the the role of long range support. 
 
 Joins Mission 14. He's a deserter from the USN. I was expecting him at the USN arc, but he didn't show up. 
 
@@ -1234,7 +1234,7 @@ Howard Wong
         | First Skill: 3500 exp
         | Available Skills: Speed
 
-The only good long at the USN side. He's at :ref:`Hans🚀 <front_mission_pilot_hans_goldwin>`' level, not :ref:`Paul🚀 <front_mission_pilot_paul_c_grieber>`'s, and unlike the OCU Longs, his agility is the lowest in the game. 
+The only good long at the USN side. He's at :ref:`Hans <front_mission_pilot_hans_goldwin>`' level, not :ref:`Paul <front_mission_pilot_paul_c_grieber>`'s, and unlike the OCU Longs, his agility is the lowest in the game. 
 
 He's also an average Melee but the same can be said for half of the team.
 

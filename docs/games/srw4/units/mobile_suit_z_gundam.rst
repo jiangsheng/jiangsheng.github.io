@@ -1306,6 +1306,10 @@ Gディフェンサー(G-防卫号)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_21.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 搭载。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -4467,6 +4471,10 @@ Gディフェンサー(G-防卫号)
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_89.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 搭载。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -5620,6 +5628,10 @@ Gディフェンサー(G-防卫号)
                 :columns: auto
 
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 搭载。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -5806,6 +5818,10 @@ Gディフェンサー(G-防卫号)
                 :columns: auto
 
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 搭载。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -5989,6 +6005,10 @@ Gディフェンサー(G-防卫号)
                 :columns: auto
 
             .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+                :columns: auto
+
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 搭载。
                 :columns: auto
 
 
@@ -6187,6 +6207,10 @@ Gディフェンサー(G-防卫号)
                 :columns: auto
 
             .. grid-item:: 地形适应:空🚫陆🚫海🚫宇🚫。
+                :columns: auto
+
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 搭载。
                 :columns: auto
 
 

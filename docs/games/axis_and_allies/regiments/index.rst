@@ -22,9 +22,9 @@ Regiments (Axis and Allies)
 
 Unlike other RTS games, in this game units are grouped into regiments. When you lost all units in the regiment, you lost the regiment. If not, you can have the regiment retreat to the :ref:`supply <axis_and_allies_supply>` zone and restore /heal units over time. Provided the regiment is linked to a HQ for supply. 
 
-There are three type of regiments, infantry, halftracks and tanks. Different kinds of regiments have different number of units, but they have similar command structure. 
+There are three type of regiments, :ref:`infantry <axis_and_allies_regiment_infantry>`, :ref:`halftracks <axis_and_allies_regiment_mechanized>` and :ref:`tanks <axis_and_allies_regiment_tank>`. Different kinds of regiments have different number of units, but they have similar command structure. 
 
-A regiment has an officer unit that relays your command to its units. In most cases the officer unit is armed differently. When the officer unit is lost, the moral of the regiment takes a big hit. A new officer will be assigned once the regiment is supplied in the supply zone. 
+A regiment has an officer unit that relays your command to its units. In most cases the officer unit is armed differently. When the officer unit is lost, the moral of the regiment takes a big hit. A new officer will be assigned once the regiment is supplied in the :ref:`supply zone <axis_and_allies_supply>`. 
 
 A regiment has a :ref:`formation <axis_and_allies_formation>` that affects the regiment's efficiency in different aspects. For example, the assault formation increases attack but decreases movement. You may want to change formations between reinforcing and attacking. 
 
@@ -73,7 +73,7 @@ Units in a regiment can have a mix of weapons, each may have different damage ty
       - N/A
 
 
-A regiment also has various status. For example, an out of supply unit will not heal or replace lost units even when in a supply zone. An entrenched(rested) unit has better defense bonuses. To minimize casualties, you might want to setup a trap of entrenched troops and lure an entrenched enemy in.
+A regiment also has various :ref:`status <axis_and_allies_attributes>`. For example, an out of supply unit will not heal or replace lost units even when in a supply zone. An entrenched(rested) unit has better defense bonuses. To minimize casualties, you might want to setup a trap of entrenched troops and lure an entrenched enemy in.
 
 .. list-table:: Entrenched Bonus
     :header-rows: 1

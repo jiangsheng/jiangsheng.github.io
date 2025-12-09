@@ -1548,7 +1548,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_66.png
                 :columns: auto
 
-            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : オーラバリア。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 搭载、オーラバリア。
                 :columns: auto
 
 
@@ -1739,7 +1739,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_67.png
                 :columns: auto
 
-            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : オーラバリア。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 搭载、オーラバリア。
                 :columns: auto
 
 
@@ -2543,7 +2543,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B9.png
                 :columns: auto
 
-            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : オーラバリア。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 搭载、オーラバリア。
                 :columns: auto
 
 
@@ -2979,7 +2979,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B7.png
                 :columns: auto
 
-            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : オーラバリア。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 搭载、オーラバリア。
                 :columns: auto
 
 
@@ -3155,7 +3155,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_BE.png
                 :columns: auto
 
-            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 分身、剣装備、オーラバリア。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 分身、剣装備、变身、オーラバリア。
                 :columns: auto
 
 
@@ -3887,7 +3887,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B8.png
                 :columns: auto
 
-            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : オーラバリア。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 搭载、オーラバリア。
                 :columns: auto
 
 
@@ -4475,7 +4475,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B4.png
                 :columns: auto
 
-            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 分身、剣装備、オーラバリア。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 分身、剣装備、变身、オーラバリア。
                 :columns: auto
 
 
@@ -4924,7 +4924,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_B6.png
                 :columns: auto
 
-            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 分身、オーラバリア。
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 分身、变身、オーラバリア。
                 :columns: auto
 
 

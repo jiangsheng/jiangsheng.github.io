@@ -8,15 +8,41 @@ Terrain (Axis and Allies)
 
 .. index:: pair: Axis & Allies; Terrain
 
+
 Different types of regiments have advantage and disadvantage on different terrains. For example, infantry is better than vehicle in cities, forests and jungles. 
+
+============
+City
+============
+
+.. _axis_and_allies_terrain_city:
 
 In a city, an infantry receives 20% resistance to armor piercing damage. Adding to the base 20% and 40% from entrenchment, making them serious vehicles threats. The +4 defense bonus also make them survive :ref:`special operations bombings <axis_and_allies_special_operations>`. 
 
 Vehicles have +40% Gun resistance to start with. In a city it will drop to 20%. Tanks have an extra 20% Gun resistance bonus on top of vehicles so they are suffered less. Issue is the speed cap on top of narrow streets making retreating difficult if ambushed.
 
+============
+Jungle
+============
+
+.. _axis_and_allies_terrain_jungle:
+
 Jungle has similar effects on infantries and vehicles. The difference being vehicles move much slower, even slower than infantries. Good news is that there are no narrow streets and retreating for vehicles is not that hard if you have support, but you have to order them to retreat earlier than other terrains. Again, don't use special operation bombs on infantries here. 
 
+
+============
+Forests
+============
+
+.. _axis_and_allies_terrain_forest:
+
 Forests has similar effects to city and jungle. Infantries can also outrun vehicles here. 
+
+============
+Sand/Snow
+============
+
+.. _axis_and_allies_terrain_sand_snow:
 
 Sand/Snow only limits speed. Infantries should move elsewhere before fighting. 
 

@@ -988,7 +988,7 @@
    * - 25
      - 没
      - .. image:: ../pilots/images/srw4_pilot_25.png
-     - \ :ref:`セイラ・マス(没) <srw4_pilot_sayla_mass>`\ (莎拉·玛斯) 
+     - \ :ref:`セイラ・マス <srw4_pilot_sayla_mass>`\ (莎拉·玛斯) 
      - Sayla Mass
      - :ref:`ガンダム0079 <srw4_pilots_mobile_suit_gundam>`
      - 弱気
@@ -1014,7 +1014,7 @@
    * - 26
      - 没
      - .. image:: ../pilots/images/srw4_pilot_26.png
-     - \ :ref:`ワッケイン(没) <srw4_pilot_wakkein>`\ (华肯) 
+     - \ :ref:`ワッケイン <srw4_pilot_wakkein>`\ (华肯) 
      - Wakkein
      - :ref:`ガンダム0079 <srw4_pilots_mobile_suit_gundam>`
      - 普通
@@ -1040,7 +1040,7 @@
    * - 27
      - 没
      - .. image:: ../pilots/images/srw4_pilot_27.png
-     - \ :ref:`ティアンム提督(没) <srw4_pilot_admiral_tianem>`\ (提安姆提督) 
+     - \ :ref:`ティアンム提督 <srw4_pilot_admiral_tianem>`\ (提安姆提督) 
      - Admiral Tianem
      - :ref:`ガンダム0079 <srw4_pilots_mobile_suit_gundam>`
      - 普通
@@ -1430,7 +1430,7 @@
    * - 36
      - 没
      - .. image:: ../pilots/images/srw4_pilot_36.png
-     - \ :ref:`モンド・アガケ(没) <srw4_pilot_mondo_agake>`\ (蒙多·雅加凯) 
+     - \ :ref:`モンド・アガケ <srw4_pilot_mondo_agake>`\ (蒙多·雅加凯) 
      - Mondo Agake
      - :ref:`ガンダムΖΖ <srw4_pilots_mobile_suit_gundam_zz>`
      - 弱気
@@ -1482,7 +1482,7 @@
    * - 38
      - 没
      - .. image:: ../pilots/images/srw4_pilot_38.png
-     - \ :ref:`イーノ・アッバーブ(没) <srw4_pilot_iino_abbav>`\ (伊诺·阿帕夫) 
+     - \ :ref:`イーノ・アッバーブ <srw4_pilot_iino_abbav>`\ (伊诺·阿帕夫) 
      - Iino Abbav
      - :ref:`ガンダムΖΖ <srw4_pilots_mobile_suit_gundam_zz>`
      - 弱気
@@ -6372,6 +6372,7 @@
     <script>
       pilots_datatable_init('srw4-pilots-playstation-table');
     </script>
+
 
 
 

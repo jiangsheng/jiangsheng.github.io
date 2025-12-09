@@ -1181,6 +1181,10 @@
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_21.png
                 :columns: auto
 
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 搭载。
+                :columns: auto
+
+
 
 .. grid:: 
     :gutter: 0
@@ -2208,6 +2212,10 @@
 
             .. grid-item:: .. image:: ../pilots/images/srw4_pilot_85.png
                 :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 搭载。
+                :columns: auto
+
 
 
 .. grid:: 
