@@ -36,17 +36,17 @@
 -----------------
 
 * グール （あしゅら男爵）
-* 機械獣トロスD7
+* \ :ref:`機械獣トロスD7 <srw4_unit_mechanical_beast_toros_d7>`\ (机械兽托罗斯D7)
 * 戦闘獣ズガール
 * 戦闘獣グラトニオス                        
 * 戦闘獣オベリウス
 * 円盤獣デキデキ
-* ラインX1
-* メカザウルス・シグ
+* \ :ref:`ラインX1 <srw4_unit_rhine_x1>`\ (莱茵X1)
+* \ :ref:`メカザウルス·シグ <srw4_unit_mechasaurus_shigu>`\  (机械恐龙·西格)
 * 機械獣アブドラU6
-* 機械獣ダブラスM2
-* 機械獣ガラダK７
-* メカザウルス・バド
+* \ :ref:`機械獣ダブラスM2 <srw4_unit_mechanical_beast_doublas_m2>`\  (机械兽双头龙M2)
+* \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\ (机械兽镰刀兽K7)
+* \ :ref:`メカザウルス·バド <srw4_unit_mechasaurus_bado>`\ (机械恐龙·巴德)
 * ドローメ
 
 -----------------
@@ -58,11 +58,11 @@
 * 戦闘獣ダンテ
 * 戦闘獣ズガール
 * 戦闘獣グラトニオス
-* 機械獣スパルタンK5
+* \ :ref:`機械獣スパルタンK5 <srw4_unit_mechanical_beast_spartan_k5>`\ (机械兽斯巴达人K5)
 * 機械獣アブドラU6
 * 機械獣ジェノバM9
 * 機械獣トロスD7
-* ラインX1
+* \ :ref:`ラインX1 <srw4_unit_rhine_x1>`\ (莱茵X1)
 
 -------------
 地图物品

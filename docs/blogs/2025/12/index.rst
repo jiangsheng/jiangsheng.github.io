@@ -13,6 +13,7 @@ Blogs in December 2025
    :titlesonly:
 
    datatable_unwanted_horizontal_scrollbar
+   windows_11_install_failed
 
 * :ref:`genindex`
 * :ref:`modindex`

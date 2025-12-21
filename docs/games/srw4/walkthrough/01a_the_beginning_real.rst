@@ -38,9 +38,9 @@
 * グール （あしゅら男爵）
 * グール （ブロッケン伯爵）
 * ザク改
-* 機械獣ガラダK７ ×2
-* 機械獣ダブラスM2
-* メカザウルス・バド  ×3
+* \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\ (机械兽镰刀兽K7) ×2
+* \ :ref:`機械獣ダブラスM2 <srw4_unit_mechanical_beast_doublas_m2>`\  (机械兽双头龙M2)
+* \ :ref:`メカザウルス·バド <srw4_unit_mechasaurus_bado>`\ (机械恐龙·巴德)  ×3
 * ミニフォー ×2
 * ドローメ ×2
 

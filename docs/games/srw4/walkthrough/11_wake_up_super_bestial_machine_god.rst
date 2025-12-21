@@ -44,8 +44,8 @@
 
 * グール （あしゅら男爵）
 * 機械獣ジェノバM9 ×2
-* 機械獣トロスD7
-* 機械獣ダブラスM2
+* \ :ref:`機械獣トロスD7 <srw4_unit_mechanical_beast_toros_d7>`\ (机械兽托罗斯D7)
+* \ :ref:`機械獣ダブラスM2 <srw4_unit_mechanical_beast_doublas_m2>`\  (机械兽双头龙M2)
 * 機械獣ガラダK７
 * ミニフォー ×2
 * ドローメ ×2
@@ -57,11 +57,11 @@
 
 * 機械獣ジェノバM9 ×3
 * 戦闘獣オベリウス
-* 機械獣スパルタンK5
-* 機械獣トロスD7
+* \ :ref:`機械獣スパルタンK5 <srw4_unit_mechanical_beast_spartan_k5>`\ (机械兽斯巴达人K5)
+* \ :ref:`機械獣トロスD7 <srw4_unit_mechanical_beast_toros_d7>`\ (机械兽托罗斯D7)
 * 機械獣ダブラスM2
-* 機械獣ガラダK７
-* メカザウルス・ザイ
+* \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\ (机械兽镰刀兽K7)
+* \ :ref:`メカザウルス·ザイ <srw4_unit_mechasaurus_zai>`\ (机械恐龙·扎伊)
 　
 -------------
 地图物品

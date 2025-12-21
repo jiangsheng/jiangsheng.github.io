@@ -43,10 +43,10 @@
 * 戦闘獣オベリウス
 * 円盤獣ギルギル
 * 円盤獣ゴスゴス
-* メカザウルス・ダイ
-* メカザウルス・シグ
-* メカザウルス・バド ×2
-* メカザウルス・ゼンII
+* \ :ref:`メカザウルス·ダイ <srw4_unit_mechasaurus_dai>`\ (机械恐龙·达伊)
+* \ :ref:`メカザウルス·シグ <srw4_unit_mechasaurus_shigu>`\  (机械恐龙·西格)
+* \ :ref:`メカザウルス·バド <srw4_unit_mechasaurus_bado>`\ (机械恐龙·巴德) ×2
+* \ :ref:`メカザウルス·ゼンII <srw4_unit_mechasaurus_zen_ii>`\  (机械恐龙·曾II)
 * \ :ref:`ガルスJ <srw4_unit_galluss_j>`\  (卡尔斯J)
 * \ :ref:`アッシマー (MA) <srw4_unit_asshimar_ma>`\ 
 * ハンブラビ（MA）

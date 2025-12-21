@@ -50,8 +50,8 @@ Extra line and appearance in the Playstation port for General Draydou and Genera
 * 戦闘獣ズガール ×3 (SRW4) 
 * 戦闘獣ズガール ×2 (SRW4S)
 * ドレイドウ(ドレイドウ) (SRW4S) 
-* メカザウルス・ダイ
-* メカザウルス・シグ
+* \ :ref:`メカザウルス·ダイ <srw4_unit_mechasaurus_dai>`\ (机械恐龙·达伊)
+* \ :ref:`メカザウルス·シグ <srw4_unit_mechasaurus_shigu>`\  (机械恐龙·西格)
 * 戦闘獣グラトニオス ×2
 * 戦闘獣オベリウス ×2
 * ドライセン
@@ -66,8 +66,8 @@ Extra line and appearance in the Playstation port for General Draydou and Genera
 * ハンマ・ハンマ
 * 円盤獣ジンジン ×3
 * 円盤獣デキデキ ×2
-* メカザウルス・バド
-* メカザウルス・ザイ
+* \ :ref:`メカザウルス·バド <srw4_unit_mechasaurus_bado>`\ (机械恐龙·巴德)
+* \ :ref:`メカザウルス·ザイ <srw4_unit_mechasaurus_zai>`\ (机械恐龙·扎伊)
 
 -------------
 地图物品

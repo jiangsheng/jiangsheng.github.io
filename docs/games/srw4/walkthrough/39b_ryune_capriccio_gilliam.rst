@@ -30,8 +30,8 @@ When DC invaded Londenion, Gilliam Yeager also entered the battlefield.
 * 惡靈將軍ハーディアス（惡靈將軍ハーディアス）
 * グラシドゥ＝リュ ×3
 * レストレイル ×4
-* メカザウルス・ダイ
-* メカザウルス・シグ
+* \ :ref:`メカザウルス·ダイ <srw4_unit_mechasaurus_dai>`\ (机械恐龙·达伊)
+* \ :ref:`メカザウルス·シグ <srw4_unit_mechasaurus_shigu>`\  (机械恐龙·西格)
 * 戦闘獣グラトニオス
 * 戦闘獣オベリウス
 * ベガ獣キングゴリ

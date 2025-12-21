@@ -39,8 +39,8 @@
 ------------------
 
 * グール（あしゅら男爵）
-* 機械獣トロスD7
-* 機械獣ガラダK７
+* \ :ref:`機械獣トロスD7 <srw4_unit_mechanical_beast_toros_d7>`\ (机械兽托罗斯D7)
+* \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\ (机械兽镰刀兽K7)
 
 ------------------
 敌方援军
@@ -49,11 +49,11 @@
    * グール（ブロッケン伯爵）
    * ザク改
    * \ :ref:`マラサイ <srw4_unit_marasai>`\ (玛拉塞)
-   * 機械獣トロスD7
+   * \ :ref:`機械獣トロスD7 <srw4_unit_mechanical_beast_toros_d7>`\ (机械兽托罗斯D7)
    * 機械獣ジェノバM9
-   * メカザウルス・ゼンII
-   * メカザウルス・サキ
-   * メカザウルス・ザイ
+   * \ :ref:`メカザウルス·ゼンII <srw4_unit_mechasaurus_zen_ii>`\  (机械恐龙·曾II)
+   * \ :ref:`メカザウルス·サキ <srw4_unit_mechasaurus_saki>`\  (机械恐龙·萨基)
+   * \ :ref:`メカザウルス·ザイ <srw4_unit_mechasaurus_zai>`\ (机械恐龙·扎伊)
    * ドローメ ×2
 #. 
    * ドローメ ×4

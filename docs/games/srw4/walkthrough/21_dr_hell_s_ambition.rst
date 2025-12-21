@@ -38,7 +38,7 @@
 * ベガ獣キングゴリ
 * 円盤獣ギルギル
 * 円盤獣ゴスゴス
-* メカザウルス・ダイ ×2
+* \ :ref:`メカザウルス·ダイ <srw4_unit_mechasaurus_dai>`\ (机械恐龙·达伊) ×2
 * ガウ
 * ギラ・ドーガ（绿）
 * 円盤獣ジンジン
@@ -46,9 +46,9 @@
 * 戦闘獣ダンテ
 * 戦闘獣ズガール
 * 機械獣ジェノバM9
-* 機械獣ダブラスM2
-* 機械獣ガラダK７
-* 機械獣トロスD7
+* \ :ref:`機械獣ダブラスM2 <srw4_unit_mechanical_beast_doublas_m2>`\  (机械兽双头龙M2)
+* \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\ (机械兽镰刀兽K7)
+* \ :ref:`機械獣トロスD7 <srw4_unit_mechanical_beast_toros_d7>`\ (机械兽托罗斯D7)
 
 -----------------------
 敌方援军

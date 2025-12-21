@@ -41,10 +41,10 @@
 * ガロイカ ×2
 * ケンプファー ×2
 * ズサ ×2
-* メカザウルス・ザイ
-* メカザウルス・サキ
-* メカザウルス・バド
-* 機械獣ガラダK７ ×2
+* \ :ref:`メカザウルス·ザイ <srw4_unit_mechasaurus_zai>`\ (机械恐龙·扎伊)
+* \ :ref:`メカザウルス·サキ <srw4_unit_mechasaurus_saki>`\  (机械恐龙·萨基)
+* \ :ref:`メカザウルス·バド <srw4_unit_mechasaurus_bado>`\ (机械恐龙·巴德)
+* \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\ (机械兽镰刀兽K7) ×2
 * バーザム
 * ハンプラビ（MS）
 
@@ -54,10 +54,10 @@
 
 左、中
 
-* メカザウルス・ザイ
-* メカザウルス・サキ
-* メカザウルス・バド
-* 機械獣ガラダK７ ×2
+* \ :ref:`メカザウルス·ザイ <srw4_unit_mechasaurus_zai>`\ (机械恐龙·扎伊)
+* \ :ref:`メカザウルス·サキ <srw4_unit_mechasaurus_saki>`\  (机械恐龙·萨基)
+* \ :ref:`メカザウルス·バド <srw4_unit_mechasaurus_bado>`\ (机械恐龙·巴德)
+* \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\ (机械兽镰刀兽K7) ×2
 * バーザム
 * ハンプラビ（MS）
 

@@ -31,9 +31,9 @@
 
 * 惡靈將軍ハーディアス　（惡靈將軍ハーディアス）
 * ザク改
-* 機械獣ガラダK７
-* 機械獣ダブラスM2
-* メカザウルス・サキ
+* \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\ (机械兽镰刀兽K7)
+* \ :ref:`機械獣ダブラスM2 <srw4_unit_mechanical_beast_doublas_m2>`\  (机械兽双头龙M2)
+* \ :ref:`メカザウルス·サキ <srw4_unit_mechasaurus_saki>`\  (机械恐龙·萨基)
 * ミニフォー ×2
 * ドローメ ×2
 * ドム
@@ -58,9 +58,9 @@
 敌方援军	
 ------------------
 
-* 機械獣ガラダK７
-* メカザウルス・サキ
-* 機械獣ダブラスM2
+* \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\ (机械兽镰刀兽K7)
+* \ :ref:`メカザウルス·サキ <srw4_unit_mechasaurus_saki>`\  (机械恐龙·萨基)
+* \ :ref:`機械獣ダブラスM2 <srw4_unit_mechanical_beast_doublas_m2>`\  (机械兽双头龙M2)
 * ミニフォー ×2
 * ドローメ ×2
 * ザク改

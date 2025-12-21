@@ -39,11 +39,11 @@
 * 円盤獣ジンジン
 * 戦闘獣グラトニオス
 * 戦闘獣オベリウス
-* メカザウルス・ゼンII
-* メカザウルス・サキ
-* メカザウルス・バド
+* \ :ref:`メカザウルス·ゼンII <srw4_unit_mechasaurus_zen_ii>`\  (机械恐龙·曾II)
+* \ :ref:`メカザウルス·サキ <srw4_unit_mechasaurus_saki>`\  (机械恐龙·萨基)
+* \ :ref:`メカザウルス·バド <srw4_unit_mechasaurus_bado>`\ (机械恐龙·巴德)
 * 機械獣ジェノバM9
-* 機械獣トロスD7 ×2
+* \ :ref:`機械獣トロスD7 <srw4_unit_mechanical_beast_toros_d7>`\ (机械兽托罗斯D7) ×2
 
 --------------------
 敌方援军	

@@ -37,8 +37,8 @@
 * 惡靈將軍ハーディアス（惡靈將軍ハーディアス）
 * ドレイドウ（ドレイドウ）
 * 獣魔将軍（獣魔将軍） 
-* メカザウルス・ダイ
-* メカザウルス・シグ
+* \ :ref:`メカザウルス·ダイ <srw4_unit_mechasaurus_dai>`\ (机械恐龙·达伊)
+* \ :ref:`メカザウルス·シグ <srw4_unit_mechasaurus_shigu>`\  (机械恐龙·西格)
 * ベガ獣キングゴリ
 * 戦闘獣ズガール
 * エンドラ
@@ -49,9 +49,9 @@
 * 円盤獣デキデキ
 * 円盤獣ギルギル ×2
 * 円盤獣ゴスゴス ×2
-* 機械獣トロスD7
-* 機械獣ガラダK７
-* メカザウルス・バド
+* \ :ref:`機械獣トロスD7 <srw4_unit_mechanical_beast_toros_d7>`\ (机械兽托罗斯D7)
+* \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\ (机械兽镰刀兽K7)
+* \ :ref:`メカザウルス·バド <srw4_unit_mechasaurus_bado>`\ (机械恐龙·巴德)
 * 化石獣ギルディーン
 * バウ（MS）                        
 * ドライセン
@@ -64,19 +64,19 @@
 * 獣魔将軍（獣魔将軍）
 * 戦闘獣ダンテ ×2
 * 戦闘獣ズガール ×2
-* 機械獣スパルタンK5
+* \ :ref:`機械獣スパルタンK5 <srw4_unit_mechanical_beast_spartan_k5>`\ (机械兽斯巴达人K5)
 * 機械獣アブドラU6 ×2
-* ラインX1
-* メカザウルス・ゼンII
+* \ :ref:`ラインX1 <srw4_unit_rhine_x1>`\ (莱茵X1)
+* \ :ref:`メカザウルス·ゼンII <srw4_unit_mechasaurus_zen_ii>`\  (机械恐龙·曾II)
 * 機械獣ジェノバM9
 * ギラ・ドーガ（绿）
 * ケンプファー
 * ズサ
 * R・ジャジャ                    
-* メカザウルス・ザイ
-* メカザウルス・サキ
-* 機械獣ダブラスM2
-* 機械獣ガラダK７
+* \ :ref:`メカザウルス·ザイ <srw4_unit_mechasaurus_zai>`\ (机械恐龙·扎伊)
+* \ :ref:`メカザウルス·サキ <srw4_unit_mechasaurus_saki>`\  (机械恐龙·萨基)
+* \ :ref:`機械獣ダブラスM2 <srw4_unit_mechanical_beast_doublas_m2>`\  (机械兽双头龙M2)
+* \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\ (机械兽镰刀兽K7)
 
 -------------
 地图物品

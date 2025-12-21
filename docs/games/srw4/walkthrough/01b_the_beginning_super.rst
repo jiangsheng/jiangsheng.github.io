@@ -65,8 +65,8 @@ Looks like you are not along, DC and Titans are also coming to the crash site.
 左
 
 * グール （ブロッケン伯爵）
-* 機械獣トロスD7
-* メカザウルス・バド ×2
+* \ :ref:`機械獣トロスD7 <srw4_unit_mechanical_beast_toros_d7>`\ (机械兽托罗斯D7)
+* \ :ref:`メカザウルス·バド <srw4_unit_mechasaurus_bado>`\ (机械恐龙·巴德) ×2
 
 -------------
 地图物品

@@ -41,7 +41,7 @@
 ------------------
 
 * グール （ブロッケン伯爵）
-* 機械獣スパルタンK5
+* \ :ref:`機械獣スパルタンK5 <srw4_unit_mechanical_beast_spartan_k5>`\ (机械兽斯巴达人K5)
 * 機械獣アブドラU6
 
 ------------------    
@@ -49,14 +49,14 @@
 ------------------    
 #. 援军1
 
-   * 機械獣ガラダK７
+   * \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\ (机械兽镰刀兽K7)
    * 機械獣ジェノバM9
-   * 機械獣トロスD7
-   * ラインX1
+   * \ :ref:`機械獣トロスD7 <srw4_unit_mechanical_beast_toros_d7>`\ (机械兽托罗斯D7)
+   * \ :ref:`ラインX1 <srw4_unit_rhine_x1>`\ (莱茵X1)
 
 #. 援军2
 
-   * 機械獣トロスD7
+   * \ :ref:`機械獣トロスD7 <srw4_unit_mechanical_beast_toros_d7>`\ (机械兽托罗斯D7)
    * ラインX1
 
 -------------

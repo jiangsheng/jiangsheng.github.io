@@ -58,11 +58,11 @@
 * 円盤獣ジンジン
 * 円盤獣デキデキ
 * 戦闘獣オベリウス
-* メカザウルス・ダイ
-* メカザウルス・シグ
-* メカザウルス・サキ
-* メカザウルス・ザイ
-* メカザウルス・ゼンII
+* \ :ref:`メカザウルス·ダイ <srw4_unit_mechasaurus_dai>`\ (机械恐龙·达伊)
+* \ :ref:`メカザウルス·シグ <srw4_unit_mechasaurus_shigu>`\  (机械恐龙·西格)
+* \ :ref:`メカザウルス·サキ <srw4_unit_mechasaurus_saki>`\  (机械恐龙·萨基)
+* \ :ref:`メカザウルス·ザイ <srw4_unit_mechasaurus_zai>`\ (机械恐龙·扎伊)
+* \ :ref:`メカザウルス·ゼンII <srw4_unit_mechasaurus_zen_ii>`\  (机械恐龙·曾II)
 * ガロイカ
 * ドローメ ×4
 * カレイツェド
