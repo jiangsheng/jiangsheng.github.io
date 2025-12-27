@@ -9,7 +9,7 @@ Counting and Deleting Emails by Sender In Outlook
 
 You can download the code and binary at https://github.com/jiangsheng/OutlookSenderStatistics/releases .
 
-My Google Drive is getting ful. While I am cleaning up large attachments in Gmail, I notice the storage usage did not decrease but actually increased. I am getting more emails everyday. So I decided to write a program to see who's sending me the most email and delete some old mails.
+My Google Drive is getting full. While I am cleaning up large attachments in Gmail, I notice the storage usage did not decrease but actually increased. I am getting more emails everyday. So I decided to write a program to see who's sending me the most email and delete some old mails.
 
 Getting mail info off Google is not an easy task. There's a script https://github.com/GirardT/gmail-analysis with a limitation of 1k max emails per inbox. There's another `Google Apps Script <https://stackoverflow.com/questions/59216693/count-number-of-gmail-emails-per-sender>`_ but the engine itself has `various limitations <https://developers.google.com/apps-script/guides/services/quotas>`_. And there's Nirsoft's `OutlookStatView <https://www.nirsoft.net/utils/outlook_statistics.html>`_\ , but as the name suggests, it is for viewing only and cannot be extended to delete emails.
 
