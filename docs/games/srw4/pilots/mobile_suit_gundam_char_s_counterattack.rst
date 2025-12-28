@@ -49,6 +49,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:43。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:52。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第5话。
         :columns: auto
 
@@ -220,6 +228,14 @@
         .. image:: ../pilots/images/srw4_pilot_3A.png
 
     .. grid-item:: 英文:Quess Paraya。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:35。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:35。
         :columns: auto
 
 
@@ -407,6 +423,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第26话。
         :columns: auto
 
@@ -558,6 +582,14 @@
         .. image:: ../pilots/images/srw4_pilot_97.png
 
     .. grid-item:: 英文:Günei Gas。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:36。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:37 (38)。
         :columns: auto
 
 
@@ -725,6 +757,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:43。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:52。
+        :columns: auto
+
+
     .. grid-item:: 性格:普通。
         :columns: auto
 
@@ -875,6 +915,14 @@
         .. image:: ../pilots/images/srw4_pilot_99.png
 
     .. grid-item:: 英文:Rezun Schneider。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
         :columns: auto
 
 

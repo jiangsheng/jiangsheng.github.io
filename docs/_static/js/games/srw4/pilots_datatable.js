@@ -13,7 +13,7 @@ function pilots_datatable_init(dataTableName)
                 {type: 'integer',targets:[7,8,9,10,11,12,13,14,15,16,17,18,19]},
                 {type: 'rating-grade',targets:[20,21,22,23]},
                 {visible: false,target: [13,14,15,16,17,18]},
-                {orderable: false,targets: [2,24]}
+                {orderable: false,targets: [2,25]}
             ]
         }
     );
@@ -89,18 +89,18 @@ function pilots_datatable_init(dataTableName)
                 {
                     case "1":
                         visibleColumnIndexArray=[7,8,9,10,11,12,20,21,22,23];
-                        hiddenColumnIndexArray=[6,13,14,15,16,17,18,19,24];
+                        hiddenColumnIndexArray=[6,13,14,15,16,17,18,19,24,25];
                         break;
                     case "2":
                         visibleColumnIndexArray=[13,14,15,16,17,18,20,21,22,23];
-                        hiddenColumnIndexArray=[6,7,8,9,10,11,12,19,24];
+                        hiddenColumnIndexArray=[6,7,8,9,10,11,12,19,24,25];
                         break;
                     case "3":
-                        visibleColumnIndexArray=[24];
+                        visibleColumnIndexArray=[24,25];
                         hiddenColumnIndexArray=[6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23];
                         break;
                     default:
-                        visibleColumnIndexArray=[6,7,8,9,10,11,12,19,20,21,22,23,24];
+                        visibleColumnIndexArray=[6,7,8,9,10,11,12,19,20,21,22,23,24,25];
                         hiddenColumnIndexArray=[];
                         break;
 

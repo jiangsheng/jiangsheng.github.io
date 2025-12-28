@@ -48,6 +48,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:33。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:31。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第1话。
         :columns: auto
 
@@ -226,6 +234,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:44。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:54。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第5话。
         :columns: auto
 
@@ -399,6 +415,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:50。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:66。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第4话。
         :columns: auto
 
@@ -555,6 +579,14 @@
         .. image:: ../pilots/images/srw4_pilot_78.png
 
     .. grid-item:: 英文:Lamba Ral。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
         :columns: auto
 
 
@@ -717,6 +749,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第10话。
         :columns: auto
 
@@ -874,6 +914,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第10话。
         :columns: auto
 
@@ -1028,6 +1076,14 @@
         .. image:: ../pilots/images/srw4_pilot_7D.png
 
     .. grid-item:: 英文:Ortega。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
         :columns: auto
 
 
@@ -1189,6 +1245,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:52。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:70。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第20话。
         :columns: auto
 
@@ -1342,6 +1406,14 @@
         .. image:: ../pilots/images/srw4_pilot_79.png
 
     .. grid-item:: 英文:Claure Jamon。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:47。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:60。
         :columns: auto
 
 
@@ -1499,6 +1571,14 @@
         .. image:: ../pilots/images/srw4_pilot_7E.png
 
     .. grid-item:: 英文:Sharia Bull。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:36。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:37 (38)。
         :columns: auto
 
 
@@ -1678,6 +1758,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第5话。
         :columns: auto
 
@@ -1837,6 +1925,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第33话。
         :columns: auto
 
@@ -1992,6 +2088,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 性格:弱気。
         :columns: auto
 
@@ -2131,6 +2235,14 @@
         .. image:: ../pilots/images/srw4_pilot_26.png
 
     .. grid-item:: 英文:Wakkein。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:49。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:64。
         :columns: auto
 
 
@@ -2287,6 +2399,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:49。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:64。
+        :columns: auto
+
+
     .. grid-item:: 性格:普通。
         :columns: auto
 
@@ -2437,6 +2557,14 @@
         .. image:: ../pilots/images/srw4_pilot_7F.png
 
     .. grid-item:: 英文:Lala Sun。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:34。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:33。
         :columns: auto
 
 

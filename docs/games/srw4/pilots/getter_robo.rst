@@ -56,6 +56,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第1话。
         :columns: auto
 
@@ -234,6 +242,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:43。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:52。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第1话。
         :columns: auto
 
@@ -396,6 +412,14 @@
         .. image:: ../pilots/images/srw4_pilot_0B.png
 
     .. grid-item:: 英文:Benkei Kuruma。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:50。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:66。
         :columns: auto
 
 
@@ -577,6 +601,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:58。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:82。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第4话。
         :columns: auto
 
@@ -736,6 +768,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第4话。
         :columns: auto
 
@@ -768,91 +808,6 @@
         :columns: auto
 
 
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 近攻击
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 回避
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 直感
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 
-
-        0→
-        52
-
-    .. grid-item:: -20→-18 (-17)
-    .. grid-item:: 23 (22)→15
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -34 (-18)→-33 (-17)
-    .. grid-item:: 21
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -132→-126 (-127)
-    .. grid-item:: 19
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 远攻击
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 命中
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 技量
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 
-
-        0→
-        52
-
-    .. grid-item:: -46 (-44)→-57 (-49)
-    .. grid-item:: 21 (20)→11
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -65 (-51)→-80 (-65)
-    .. grid-item:: 20
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -25 (-21)→-26 (-23)
-    .. grid-item:: 21
-    .. grid-item:: 
 
 .. grid:: 
     :gutter: 0
@@ -898,6 +853,14 @@
         .. image:: ../pilots/images/srw4_pilot_4B.png
 
     .. grid-item:: 英文:Michiru Saotome。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
         :columns: auto
 
 

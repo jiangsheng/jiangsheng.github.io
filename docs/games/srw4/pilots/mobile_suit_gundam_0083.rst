@@ -51,6 +51,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:47。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:60。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第1话。
         :columns: auto
 
@@ -209,6 +217,14 @@
         .. image:: ../pilots/images/srw4_pilot_54.png
 
     .. grid-item:: 英文:Kou Uraki。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:41。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:48。
         :columns: auto
 
 
@@ -385,6 +401,14 @@
         .. image:: ../pilots/images/srw4_pilot_42.png
 
     .. grid-item:: 英文:Anavel Gato。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:48 (45)。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62 (56)。
         :columns: auto
 
 
@@ -566,6 +590,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:44。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:54。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第4话。
         :columns: auto
 
@@ -736,6 +768,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第25话。
         :columns: auto
 
@@ -894,6 +934,14 @@
         .. image:: ../pilots/images/srw4_pilot_D1.png
 
     .. grid-item:: 英文:Aiguille Delaz。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
         :columns: auto
 
 
@@ -1062,6 +1110,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第14话。
         :columns: auto
 
@@ -1212,6 +1268,14 @@
         .. image:: ../pilots/images/srw4_pilot_44.png
 
     .. grid-item:: 英文:Bernard Monsha。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
         :columns: auto
 
 
@@ -1375,6 +1439,14 @@
         .. image:: ../pilots/images/srw4_pilot_70.png
 
     .. grid-item:: 英文:South Burning。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
         :columns: auto
 
 

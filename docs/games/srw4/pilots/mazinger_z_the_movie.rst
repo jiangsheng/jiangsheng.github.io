@@ -48,6 +48,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第22话。
         :columns: auto
 

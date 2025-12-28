@@ -48,6 +48,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第14话。
         :columns: auto
 
@@ -209,6 +217,14 @@
         .. image:: ../pilots/images/srw4_pilot_61.png
 
     .. grid-item:: 英文:Duke Fleed。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
         :columns: auto
 
 
@@ -387,6 +403,14 @@
         .. image:: ../pilots/images/srw4_pilot_4A.png
 
     .. grid-item:: 英文:Hikaru Makiba。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
         :columns: auto
 
 

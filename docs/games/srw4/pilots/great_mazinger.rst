@@ -49,6 +49,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第23话。
         :columns: auto
 
@@ -207,6 +215,14 @@
         .. image:: ../pilots/images/srw4_pilot_5E.png
 
     .. grid-item:: 英文:Tetsuya Tsurugi。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
         :columns: auto
 
 
@@ -390,6 +406,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:46。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:58。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第2话。
         :columns: auto
 
@@ -551,6 +575,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:46。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:58。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第6话。
         :columns: auto
 
@@ -709,6 +741,14 @@ DC的干部。\ :doc:`../walkthrough/18a_intruder_south_south_west`\ 和\ :doc:`
         .. image:: ../pilots/images/srw4_pilot_C5.png
 
     .. grid-item:: 英文:Great General of Darkness。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
         :columns: auto
 
 

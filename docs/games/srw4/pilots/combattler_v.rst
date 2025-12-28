@@ -59,6 +59,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:47。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:60。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第15话。
         :columns: auto
 
@@ -239,6 +247,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第15话。
         :columns: auto
 
@@ -408,6 +424,14 @@
         .. image:: ../pilots/images/srw4_pilot_18.png
 
     .. grid-item:: 英文:Daisaku Nishikawa。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:52。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:70。
         :columns: auto
 
 
@@ -585,6 +609,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:47。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:60。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第15话。
         :columns: auto
 
@@ -745,6 +777,14 @@
         .. image:: ../pilots/images/srw4_pilot_1A.png
 
     .. grid-item:: 英文:Kosuke Kita。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:50。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:66。
         :columns: auto
 
 
@@ -917,6 +957,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:47。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:60。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第15话。
         :columns: auto
 
@@ -1073,6 +1121,14 @@
         .. image:: ../pilots/images/srw4_pilot_A8.png
 
     .. grid-item:: 英文:Miia。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
         :columns: auto
 
 
@@ -1234,6 +1290,14 @@
         .. image:: ../pilots/images/srw4_pilot_A9.png
 
     .. grid-item:: 英文:Oreana。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
         :columns: auto
 
 

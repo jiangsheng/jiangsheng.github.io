@@ -49,6 +49,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:42。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:50。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第18话。
         :columns: auto
 
@@ -227,6 +235,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:47。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:60。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第26话。
         :columns: auto
 
@@ -398,6 +414,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第30话。
         :columns: auto
 
@@ -556,6 +580,14 @@
         .. image:: ../pilots/images/srw4_pilot_AC.png
 
     .. grid-item:: 英文:Don Zauser。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
         :columns: auto
 
 
@@ -726,6 +758,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第26话。
         :columns: auto
 
@@ -872,6 +912,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第26话。
         :columns: auto
 
@@ -1015,6 +1063,14 @@
         .. image:: ../pilots/images/srw4_pilot_5D.png
 
     .. grid-item:: 英文:Totta Toda。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
         :columns: auto
 
 

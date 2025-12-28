@@ -49,6 +49,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:38。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:42。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第10话。
         :columns: auto
 
@@ -221,6 +229,14 @@
         .. image:: ../pilots/images/srw4_pilot_52.png
 
     .. grid-item:: 英文:Judau Ashta。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:33。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:31。
         :columns: auto
 
 
@@ -398,6 +414,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:35。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:35。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第40话。
         :columns: auto
 
@@ -570,6 +594,14 @@
         .. image:: ../pilots/images/srw4_pilot_33.png
 
     .. grid-item:: 英文:Ple Two。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:35。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:35。
         :columns: auto
 
 
@@ -755,6 +787,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:40。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:46。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第24话。
         :columns: auto
 
@@ -923,6 +963,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第24话。
         :columns: auto
 
@@ -1077,6 +1125,14 @@
         .. image:: ../pilots/images/srw4_pilot_94.png
 
     .. grid-item:: 英文:Ni Gilleen。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:41。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:48。
         :columns: auto
 
 
@@ -1248,6 +1304,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:41。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:48。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第24话。
         :columns: auto
 
@@ -1416,6 +1480,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:43。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:52。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第24话。
         :columns: auto
 
@@ -1570,6 +1642,14 @@
         .. image:: ../pilots/images/srw4_pilot_90.png
 
     .. grid-item:: 英文:Ilia Pathom。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:40。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:46。
         :columns: auto
 
 
@@ -1741,6 +1821,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:40。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:46。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第40话。
         :columns: auto
 
@@ -1906,6 +1994,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第38话。
         :columns: auto
 
@@ -2052,6 +2148,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 性格:弱気。
         :columns: auto
 
@@ -2191,6 +2295,14 @@
         .. image:: ../pilots/images/srw4_pilot_35.png
 
     .. grid-item:: 英文:Beecha Oleg。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:38。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:42。
         :columns: auto
 
 
@@ -2361,6 +2473,14 @@
         .. image:: ../pilots/images/srw4_pilot_37.png
 
     .. grid-item:: 英文:Elle Viano。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:38。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:42。
         :columns: auto
 
 
@@ -2542,6 +2662,14 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         :columns: auto
 
 
+    .. grid-item:: 二动等级:50。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:66。
+        :columns: auto
+
+
     .. grid-item:: 性格:弱気。
         :columns: auto
 
@@ -2708,6 +2836,14 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 性格:弱気。
         :columns: auto
 
@@ -2847,6 +2983,14 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         .. image:: ../pilots/images/srw4_pilot_92.png
 
     .. grid-item:: 英文:Glemy Toto。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:39。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:44。
         :columns: auto
 
 

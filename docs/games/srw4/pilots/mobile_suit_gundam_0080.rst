@@ -48,6 +48,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:43。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:52。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第5话。
         :columns: auto
 
@@ -219,6 +227,14 @@
         .. image:: ../pilots/images/srw4_pilot_3F.png
 
     .. grid-item:: 英文:Bernard Wiseman。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:40。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:46。
         :columns: auto
 
 
@@ -404,6 +420,14 @@
         .. image:: ../pilots/images/srw4_pilot_9E.png
 
     .. grid-item:: 英文:Steiner。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:44。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:54。
         :columns: auto
 
 

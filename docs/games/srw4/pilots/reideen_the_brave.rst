@@ -54,6 +54,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第20话。
         :columns: auto
 
@@ -212,6 +220,14 @@
         .. image:: ../pilots/images/srw4_pilot_63.png
 
     .. grid-item:: 英文:Akira Hibiki。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:42。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:50。
         :columns: auto
 
 
@@ -389,6 +405,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:42。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:50。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第21话。
         :columns: auto
 
@@ -545,6 +569,14 @@
         .. image:: ../pilots/images/srw4_pilot_4F.png
 
     .. grid-item:: 英文:Mari Sakurano。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:38。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:42。
         :columns: auto
 
 
@@ -716,6 +748,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第20话。
         :columns: auto
 
@@ -873,6 +913,14 @@
         .. image:: ../pilots/images/srw4_pilot_A6.png
 
     .. grid-item:: 英文:Barao。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:50。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:66。
         :columns: auto
 
 

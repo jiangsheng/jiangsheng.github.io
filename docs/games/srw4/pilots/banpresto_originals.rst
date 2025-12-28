@@ -83,6 +83,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:36 (35)。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:37 (35)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第1话。
         :columns: auto
 
@@ -244,6 +252,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:40。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:46。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第1话。
         :columns: auto
 
@@ -398,6 +414,14 @@
         
 
     .. grid-item:: 英文:Female Protagonist (real)。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:36。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:37 (38)。
         :columns: auto
 
 
@@ -562,6 +586,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:40。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:46。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第1话。
         :columns: auto
 
@@ -716,6 +748,14 @@
         .. image:: ../pilots/images/srw4_pilot_1D.png
 
     .. grid-item:: 英文:Masaki Andoh。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:40。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:46。
         :columns: auto
 
 
@@ -886,6 +926,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:41。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:48。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第35话。
         :columns: auto
 
@@ -1051,6 +1099,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:41。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:48。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第35话。
         :columns: auto
 
@@ -1213,6 +1269,14 @@
         .. image:: ../pilots/images/srw4_pilot_1E.png
 
     .. grid-item:: 英文:Ryune Zoldark。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:41。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:48。
         :columns: auto
 
 
@@ -1382,6 +1446,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:42。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:50。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第42话。
         :columns: auto
 
@@ -1544,6 +1616,14 @@
         .. image:: ../pilots/images/srw4_pilot_71.png
 
     .. grid-item:: 英文:Huang Yanglong。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:42。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:50。
         :columns: auto
 
 
@@ -1710,6 +1790,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:42。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:50。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第44话。
         :columns: auto
 
@@ -1868,6 +1956,14 @@
         .. image:: ../pilots/images/srw4_pilot_76.png
 
     .. grid-item:: 英文:Safine Grace。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:43。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:52。
         :columns: auto
 
 
@@ -2045,6 +2141,14 @@ DC兵士
         :columns: auto
 
 
+    .. grid-item:: 二动等级:47。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:60。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第1话。
         :columns: auto
 
@@ -2202,6 +2306,14 @@ DC兵士
         :columns: auto
 
 
+    .. grid-item:: 二动等级:70。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:107。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第1话。
         :columns: auto
 
@@ -2345,6 +2457,14 @@ DC兵士
         .. image:: ../pilots/images/srw4_pilot_74.png
 
     .. grid-item:: 英文:Titans Soldier。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
         :columns: auto
 
 
@@ -2505,6 +2625,14 @@ DC兵士
         :columns: auto
 
 
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第3话。
         :columns: auto
 
@@ -2659,6 +2787,14 @@ DC兵士
         
 
     .. grid-item:: 英文:Elite Soldier。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:42。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:50。
         :columns: auto
 
 
@@ -2819,6 +2955,14 @@ DC兵士
         :columns: auto
 
 
+    .. grid-item:: 二动等级:44。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:54。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第8话。
         :columns: auto
 
@@ -2976,6 +3120,14 @@ DC兵士
         :columns: auto
 
 
+    .. grid-item:: 二动等级:60。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:86 (87)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第11话。
         :columns: auto
 
@@ -3119,6 +3271,14 @@ DC兵士
         .. image:: ../pilots/images/srw4_pilot_6D.png
 
     .. grid-item:: 英文:Byston Well Soldier。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:50。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:66。
         :columns: auto
 
 
@@ -3276,6 +3436,14 @@ DC兵士
         
 
     .. grid-item:: 英文: Enhanced Soldier。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:40。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:46。
         :columns: auto
 
 
@@ -3449,6 +3617,14 @@ DC兵士
         :columns: auto
 
 
+    .. grid-item:: 二动等级:41。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:48。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第29话。
         :columns: auto
 
@@ -3605,6 +3781,14 @@ DC兵士
         .. image:: ../pilots/images/srw4_pilot_E8.png
 
     .. grid-item:: 英文:Justine Chafrois。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:43。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:52。
         :columns: auto
 
 
@@ -3782,6 +3966,14 @@ DC兵士
         :columns: auto
 
 
+    .. grid-item:: 二动等级:44。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:54。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第29话。
         :columns: auto
 
@@ -3953,6 +4145,14 @@ DC兵士
         .. image:: ../pilots/images/srw4_pilot_E7.png
 
     .. grid-item:: 英文:Glofis Raclayne。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:43。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:52。
         :columns: auto
 
 
@@ -4130,6 +4330,14 @@ DC兵士
         :columns: auto
 
 
+    .. grid-item:: 二动等级:42。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:50。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第35话。
         :columns: auto
 
@@ -4284,6 +4492,14 @@ DC兵士
         
 
     .. grid-item:: 英文:Guest Imperial Guard。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:41。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:48。
         :columns: auto
 
 
@@ -4457,6 +4673,14 @@ DC兵士
         :columns: auto
 
 
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第35话。
         :columns: auto
 
@@ -4615,6 +4839,14 @@ DC兵士
         .. image:: ../pilots/images/srw4_pilot_EB.png
 
     .. grid-item:: 英文:Mekibos Bolverde。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:42。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:50。
         :columns: auto
 
 
@@ -4777,6 +5009,14 @@ DC兵士
         :columns: auto
 
 
+    .. grid-item:: 二动等级:50。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:66。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第39话。
         :columns: auto
 
@@ -4930,6 +5170,14 @@ DC兵士
         
 
     .. grid-item:: 英文:EFGF Infantry。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:50。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:66。
         :columns: auto
 
 
@@ -5090,6 +5338,14 @@ DC兵士
         :columns: auto
 
 
+    .. grid-item:: 二动等级:50。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:66。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第4话。
         :columns: auto
 
@@ -5244,6 +5500,14 @@ DC兵士
         .. image:: ../pilots/images/srw4_pilot_1B.png
 
     .. grid-item:: 英文:Gilliam Yeager。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:39。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:44。
         :columns: auto
 
 
@@ -5422,6 +5686,14 @@ DC兵士
         :columns: auto
 
 
+    .. grid-item:: 二动等级:42。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:50。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第24话。
         :columns: auto
 
@@ -5576,6 +5848,14 @@ DC兵士
         .. image:: ../pilots/images/srw4_pilot_EC.png
 
     .. grid-item:: 英文:Telius Bilseia。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:42。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:50。
         :columns: auto
 
 
@@ -5737,6 +6017,14 @@ DC兵士
         .. image:: ../pilots/images/srw4_pilot_72.png
 
     .. grid-item:: 英文:Presia Xenosakis。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
         :columns: auto
 
 

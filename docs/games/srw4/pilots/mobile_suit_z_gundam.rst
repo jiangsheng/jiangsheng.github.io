@@ -52,6 +52,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:42。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:50。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第1话。
         :columns: auto
 
@@ -224,6 +232,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第1话。
         :columns: auto
 
@@ -384,6 +400,14 @@
         .. image:: ../pilots/images/srw4_pilot_2A.png
 
     .. grid-item:: 英文:Fa Yuiry。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:37。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:39 (40)。
         :columns: auto
 
 
@@ -558,6 +582,14 @@
         .. image:: ../pilots/images/srw4_pilot_3D.png
 
     .. grid-item:: 英文:Hathaway Noah。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:38。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:42。
         :columns: auto
 
 
@@ -739,6 +771,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:38。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:42。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第10话。
         :columns: auto
 
@@ -913,6 +953,14 @@
         .. image:: ../pilots/images/srw4_pilot_51.png
 
     .. grid-item:: 英文:Kamille Bidan。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:33。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:31。
         :columns: auto
 
 
@@ -1092,6 +1140,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:36。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:37 (38)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第20话。
         :columns: auto
 
@@ -1268,6 +1324,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:36。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:37 (38)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第24话。
         :columns: auto
 
@@ -1437,6 +1501,14 @@
         .. image:: ../pilots/images/srw4_pilot_2C.png
 
     .. grid-item:: 英文:Four Murasame。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:35。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:35。
         :columns: auto
 
 
@@ -1611,6 +1683,14 @@
         .. image:: ../pilots/images/srw4_pilot_8E.png
 
     .. grid-item:: 英文:Rosamia Badam。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:38。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:42。
         :columns: auto
 
 
@@ -1800,6 +1880,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:46。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:58。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第2话。
         :columns: auto
 
@@ -1954,6 +2042,14 @@
         .. image:: ../pilots/images/srw4_pilot_84.png
 
     .. grid-item:: 英文:Jerid Messa。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:40。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:46。
         :columns: auto
 
 
@@ -2127,6 +2223,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:46。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:58。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第2话。
         :columns: auto
 
@@ -2294,6 +2398,14 @@
         .. image:: ../pilots/images/srw4_pilot_8D.png
 
     .. grid-item:: 英文:Yazan Gable。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:43。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:52。
         :columns: auto
 
 
@@ -2467,6 +2579,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第22话。
         :columns: auto
 
@@ -2609,6 +2729,14 @@
         .. image:: ../pilots/images/srw4_pilot_46.png
 
     .. grid-item:: 英文:Ramsus Hasa。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:43。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:52。
         :columns: auto
 
 
@@ -2784,6 +2912,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:43。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:52。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第23话。
         :columns: auto
 
@@ -2942,6 +3078,14 @@
         .. image:: ../pilots/images/srw4_pilot_8A.png
 
     .. grid-item:: 英文:Mouar Pharaoh。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:41。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:48。
         :columns: auto
 
 
@@ -3113,6 +3257,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:52。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:70。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第24话。
         :columns: auto
 
@@ -3267,6 +3419,14 @@
         .. image:: ../pilots/images/srw4_pilot_87.png
 
     .. grid-item:: 英文:Haman Karn。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:33。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:31。
         :columns: auto
 
 
@@ -3445,6 +3605,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第31话。
         :columns: auto
 
@@ -3599,6 +3767,14 @@
         .. image:: ../pilots/images/srw4_pilot_83.png
 
     .. grid-item:: 英文:Gates Capa。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:39。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:44。
         :columns: auto
 
 
@@ -3770,6 +3946,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:50。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:66。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第35话。
         :columns: auto
 
@@ -3924,6 +4108,14 @@
         .. image:: ../pilots/images/srw4_pilot_88.png
 
     .. grid-item:: 英文:Buran Blutarch。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
         :columns: auto
 
 
@@ -4084,6 +4276,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第40话。
         :columns: auto
 
@@ -4234,6 +4434,14 @@
         .. image:: ../pilots/images/srw4_pilot_2F.png
 
     .. grid-item:: 英文:Henken Bekkener。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
         :columns: auto
 
 
@@ -4398,6 +4606,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第17话。
         :columns: auto
 
@@ -4548,6 +4764,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第19话。
         :columns: auto
 
@@ -4690,6 +4914,14 @@
         .. image:: ../pilots/images/srw4_pilot_2D.png
 
     .. grid-item:: 英文:Beltorchika Irma。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
         :columns: auto
 
 

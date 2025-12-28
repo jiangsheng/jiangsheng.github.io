@@ -50,6 +50,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第13话。
         :columns: auto
 
@@ -82,91 +90,6 @@
         :columns: auto
 
 
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 近攻击
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 回避
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 直感
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 
-
-        0→
-        52
-
-    .. grid-item:: -20→-18 (-17)
-    .. grid-item:: 23 (22)→15
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -34 (-18)→-33 (-17)
-    .. grid-item:: 21
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -132→-126 (-127)
-    .. grid-item:: 19
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 远攻击
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 命中
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 技量
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 
-
-        0→
-        52
-
-    .. grid-item:: -46 (-44)→-57 (-49)
-    .. grid-item:: 21 (20)→11
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -65 (-51)→-80 (-65)
-    .. grid-item:: 20
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -25 (-21)→-26 (-23)
-    .. grid-item:: 21
-    .. grid-item:: 
 
 .. grid:: 
     :gutter: 0
@@ -210,6 +133,14 @@
         .. image:: ../pilots/images/srw4_pilot_1C.png
 
     .. grid-item:: 英文:Show Zama。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:36。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:37 (38)。
         :columns: auto
 
 
@@ -389,6 +320,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:44。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:54。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第13话。
         :columns: auto
 
@@ -565,6 +504,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:43。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:52。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第13话。
         :columns: auto
 
@@ -711,7 +658,7 @@
 
 她是否加入导致流程和加入机体的重大变化。参考\ :ref:`隐藏要素 <srw4_missable_garalia>`\ 。
 
-我军第三个圣战士，但是没有个很好的机体。二次行动比\ :ref:`マーベル·フローズン <srw4_pilot_marvel_frozen>`\ (玛贝露·弗洛森)早。有圣战士中少见的加速，格斗能力更超越\ :ref:`ショウ·ザマ <srw4_pilot_show_zama>`\ （座间翔），但是没有集中，射击能力差，具有铁壁，更匹配\ :ref:`サーバイン <srw4_unit_sirbine>`\ （雪拜因）或者\ :ref:`ズワウス <srw4_unit_zwuath>`\ （兹瓦乌斯） 这种生存能力高但是没有远程武器的机体。因为资金可能不足以改满第三个奥拉斩，是否使用她是个疑问。
+我军第三个圣战士，但是没有个很好的机体。二次行动比\ :ref:`マーベル·フローズン <srw4_pilot_marvel_frozen>`\ (玛贝露·弗洛森)早。有圣战士中少见的加速，格斗能力更超越\ :ref:`ショウ·ザマ <srw4_pilot_show_zama>`\ （座间翔），但是没有集中，射击能力差，具有铁壁，更匹配\ :ref:`サーバイン <srw4_unit_sirbine>`\ （雪拜因）或者\ :ref:`ズワウス <srw4_unit_zwuath>`\ （兹瓦乌斯）这种生存能力高但是没有远程武器的机体。因为资金可能不足以改满第三个奥拉斩，是否使用她是个疑问。
 
 宇宙适应是本系垫底的C，不过只需要在宇宙中作战两话，然而其中一话是难度很大的\ :ref:`第四十一话 アクシズに散る <srw4_walkthrough_41_scattered_on_axis>`\ ，更凸显她缺乏集中导致的生存问题……
 
@@ -738,6 +685,14 @@
         .. image:: ../pilots/images/srw4_pilot_05.png
 
     .. grid-item:: 英文:Silky Mau。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
         :columns: auto
 
 
@@ -773,91 +728,6 @@
         :columns: auto
 
 
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 近攻击
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 回避
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 直感
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 
-
-        0→
-        52
-
-    .. grid-item:: -20→-18 (-17)
-    .. grid-item:: 23 (22)→15
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -34 (-18)→-33 (-17)
-    .. grid-item:: 21
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -132→-126 (-127)
-    .. grid-item:: 19
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 远攻击
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 命中
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 技量
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 
-
-        0→
-        52
-
-    .. grid-item:: -46 (-44)→-57 (-49)
-    .. grid-item:: 21 (20)→11
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -65 (-51)→-80 (-65)
-    .. grid-item:: 20
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -25 (-21)→-26 (-23)
-    .. grid-item:: 21
-    .. grid-item:: 
 
 .. grid:: 
     :gutter: 0
@@ -902,6 +772,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第17话。
         :columns: auto
 
@@ -934,91 +812,6 @@
         :columns: auto
 
 
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 近攻击
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 回避
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 直感
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 
-
-        0→
-        52
-
-    .. grid-item:: -20→-18 (-17)
-    .. grid-item:: 23 (22)→15
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -34 (-18)→-33 (-17)
-    .. grid-item:: 21
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -132→-126 (-127)
-    .. grid-item:: 19
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 远攻击
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 命中
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 技量
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 
-
-        0→
-        52
-
-    .. grid-item:: -46 (-44)→-57 (-49)
-    .. grid-item:: 21 (20)→11
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -65 (-51)→-80 (-65)
-    .. grid-item:: 20
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -25 (-21)→-26 (-23)
-    .. grid-item:: 21
-    .. grid-item:: 
 
 .. grid:: 
     :gutter: 0
@@ -1066,6 +859,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第17话。
         :columns: auto
 
@@ -1098,91 +899,6 @@
         :columns: auto
 
 
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 近攻击
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 回避
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 直感
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 
-
-        0→
-        52
-
-    .. grid-item:: -20→-18 (-17)
-    .. grid-item:: 23 (22)→15
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -34 (-18)→-33 (-17)
-    .. grid-item:: 21
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -132→-126 (-127)
-    .. grid-item:: 19
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 远攻击
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 命中
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item:: 技量
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 成长率
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 
-
-        0→
-        52
-
-    .. grid-item:: -46 (-44)→-57 (-49)
-    .. grid-item:: 21 (20)→11
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -65 (-51)→-80 (-65)
-    .. grid-item:: 20
-    .. grid-item:: 
-    .. grid-item:: 
-
-        0→
-        99
-
-    .. grid-item:: -25 (-21)→-26 (-23)
-    .. grid-item:: 21
-    .. grid-item:: 
 
 .. grid:: 
     :gutter: 0
@@ -1224,6 +940,14 @@
         .. image:: ../pilots/images/srw4_pilot_64.png
 
     .. grid-item:: 英文:Nie Given。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:47。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:60。
         :columns: auto
 
 
@@ -1388,6 +1112,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:46。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:58。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第17话。
         :columns: auto
 
@@ -1546,6 +1278,14 @@
         .. image:: ../pilots/images/srw4_pilot_66.png
 
     .. grid-item:: 英文:Ciela Lapana。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:43。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:52。
         :columns: auto
 
 
@@ -1714,6 +1454,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:42。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:50。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第17话。
         :columns: auto
 
@@ -1878,6 +1626,14 @@
         .. image:: ../pilots/images/srw4_pilot_68.png
 
     .. grid-item:: 英文:Riml Luft。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:44。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:54。
         :columns: auto
 
 
@@ -2055,6 +1811,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:41。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:48。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第13话。
         :columns: auto
 
@@ -2226,6 +1990,14 @@
         .. image:: ../pilots/images/srw4_pilot_B5.png
 
     .. grid-item:: 英文:Bern Bunnings。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:41。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:48。
         :columns: auto
 
 
@@ -2403,6 +2175,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第13话。
         :columns: auto
 
@@ -2564,6 +2344,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:46。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:58。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第17话。
         :columns: auto
 
@@ -2722,6 +2510,14 @@
         .. image:: ../pilots/images/srw4_pilot_C0.png
 
     .. grid-item:: 英文:Faye Chenka。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:42。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:50。
         :columns: auto
 
 
@@ -2897,6 +2693,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:41。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:48。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第25话。
         :columns: auto
 
@@ -3066,6 +2870,14 @@
         .. image:: ../pilots/images/srw4_pilot_BF.png
 
     .. grid-item:: 英文:Allen Brady。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:42。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:50。
         :columns: auto
 
 
@@ -3244,6 +3056,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第31话。
         :columns: auto
 
@@ -3402,6 +3222,14 @@
         .. image:: ../pilots/images/srw4_pilot_BB.png
 
     .. grid-item:: 英文:Muzzy Poe。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:41。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:48。
         :columns: auto
 
 
@@ -3577,6 +3405,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:41。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:48。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第33话。
         :columns: auto
 
@@ -3749,6 +3585,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第33话。
         :columns: auto
 
@@ -3895,6 +3739,14 @@
         .. image:: ../pilots/images/srw4_pilot_C2.png
 
     .. grid-item:: 英文:Galamity Manganese。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
         :columns: auto
 
 
@@ -4067,6 +3919,14 @@
         .. image:: ../pilots/images/srw4_pilot_C3.png
 
     .. grid-item:: 英文:Dah。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
         :columns: auto
 
 
@@ -4243,6 +4103,14 @@
         .. image:: ../pilots/images/srw4_pilot_C4.png
 
     .. grid-item:: 英文:Nyett。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
         :columns: auto
 
 
@@ -4430,6 +4298,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第17话。
         :columns: auto
 
@@ -4583,6 +4459,14 @@
         .. image:: ../pilots/images/srw4_pilot_BC.png
 
     .. grid-item:: 英文:Zet Light。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:44。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:54。
         :columns: auto
 
 
@@ -4751,6 +4635,14 @@
         .. image:: ../pilots/images/srw4_pilot_BD.png
 
     .. grid-item:: 英文:Tolstor Cheshilenko。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:46。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:58。
         :columns: auto
 
 

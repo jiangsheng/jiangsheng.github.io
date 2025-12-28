@@ -57,6 +57,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:42。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:50。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第9话。
         :columns: auto
 
@@ -233,6 +241,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:46。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:58。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第9话。
         :columns: auto
 
@@ -391,6 +407,14 @@
         .. image:: ../pilots/images/srw4_pilot_11.png
 
     .. grid-item:: 英文:Keiko Kamikita。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:43。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:52。
         :columns: auto
 
 
@@ -568,6 +592,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:47。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:60。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第9话。
         :columns: auto
 
@@ -737,6 +769,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第9话。
         :columns: auto
 
@@ -882,6 +922,14 @@
         .. image:: ../pilots/images/srw4_pilot_57.png
 
     .. grid-item:: 英文:Umee Jin。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
         :columns: auto
 
 
@@ -1031,6 +1079,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第9话。
         :columns: auto
 
@@ -1175,6 +1231,14 @@
         .. image:: ../pilots/images/srw4_pilot_59.png
 
     .. grid-item:: 英文:Ichitaro Jin。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:130。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:229 (230)。
         :columns: auto
 
 

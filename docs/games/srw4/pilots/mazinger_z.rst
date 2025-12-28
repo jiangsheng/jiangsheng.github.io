@@ -57,6 +57,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第1话。
         :columns: auto
 
@@ -217,6 +225,14 @@
         .. image:: ../pilots/images/srw4_pilot_47.png
 
     .. grid-item:: 英文:Boss。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:52。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:70。
         :columns: auto
 
 
@@ -390,6 +406,14 @@
         .. image:: ../pilots/images/srw4_pilot_55.png
 
     .. grid-item:: 英文:Koji Kabuto。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:44。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:54。
         :columns: auto
 
 
@@ -575,6 +599,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:47。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:60。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第1话。
         :columns: auto
 
@@ -734,6 +766,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第1话。
         :columns: auto
 
@@ -890,6 +930,14 @@
         .. image:: ../pilots/images/srw4_pilot_A2.png
 
     .. grid-item:: 英文:Dr Hell。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:49。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:64。
         :columns: auto
 
 

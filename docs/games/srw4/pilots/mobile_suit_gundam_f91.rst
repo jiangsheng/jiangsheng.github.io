@@ -48,6 +48,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:34。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:33。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第24话。
         :columns: auto
 
@@ -215,6 +223,14 @@
         .. image:: ../pilots/images/srw4_pilot_40.png
 
     .. grid-item:: 英文:Cecily Fairchild。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:38。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:42。
         :columns: auto
 
 
@@ -400,6 +416,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:42。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:50。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第38话。
         :columns: auto
 
@@ -565,6 +589,14 @@
         .. image:: ../pilots/images/srw4_pilot_9B.png
 
     .. grid-item:: 英文:Anna Marie Bruges。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:42。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:50。
         :columns: auto
 
 
@@ -736,6 +768,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:41。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:48。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第38话。
         :columns: auto
 
@@ -901,6 +941,14 @@
         .. image:: ../pilots/images/srw4_pilot_9D.png
 
     .. grid-item:: 英文:Carrozzo Rona。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:37。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:39 (40)。
         :columns: auto
 
 

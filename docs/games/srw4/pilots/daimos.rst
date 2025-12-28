@@ -57,6 +57,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:47。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:60。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第7话。
         :columns: auto
 
@@ -231,6 +239,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:46。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:58。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第7话。
         :columns: auto
 
@@ -391,6 +407,14 @@
         .. image:: ../pilots/images/srw4_pilot_6B.png
 
     .. grid-item:: 英文:Kazuya Ryuzaki。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
         :columns: auto
 
 
@@ -580,6 +604,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:46。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:58。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第7话。
         :columns: auto
 
@@ -741,6 +773,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:50 (48)。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:66 (62)。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第7话。
         :columns: auto
 
@@ -899,6 +939,14 @@
         .. image:: ../pilots/images/srw4_pilot_AF.png
 
     .. grid-item:: 英文:Raiza。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:48。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:62。
         :columns: auto
 
 
@@ -1065,6 +1113,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:46。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:58。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第29话。
         :columns: auto
 
@@ -1225,6 +1281,14 @@
         .. image:: ../pilots/images/srw4_pilot_EE.png
 
     .. grid-item:: 英文:Sakamori Miwa。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:49。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:64。
         :columns: auto
 
 

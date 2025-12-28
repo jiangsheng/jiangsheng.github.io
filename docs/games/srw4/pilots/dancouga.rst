@@ -54,6 +54,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:45。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:56。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第5话。
         :columns: auto
 
@@ -218,6 +226,14 @@
         .. image:: ../pilots/images/srw4_pilot_13.png
 
     .. grid-item:: 英文:Sara Yuki。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:43。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:52。
         :columns: auto
 
 
@@ -386,6 +402,14 @@
         :columns: auto
 
 
+    .. grid-item:: 二动等级:46。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:58。
+        :columns: auto
+
+
     .. grid-item:: 登场/加入:第5话。
         :columns: auto
 
@@ -546,6 +570,14 @@
         .. image:: ../pilots/images/srw4_pilot_15.png
 
     .. grid-item:: 英文:Ryo Shiba。
+        :columns: auto
+
+
+    .. grid-item:: 二动等级:44。
+        :columns: auto
+
+
+    .. grid-item:: 偏差值:54。
         :columns: auto
 
 
