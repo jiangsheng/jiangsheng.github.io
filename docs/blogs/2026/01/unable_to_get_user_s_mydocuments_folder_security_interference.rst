@@ -2,7 +2,7 @@
    :description: this blog post describes a security problem I encountered while trying to retrieve the running user's MyDocuments folder.
     :keywords: Windows Security
 
-Unable to get running user's MyDocuments folder
+Unable to get running user's MyDocuments folder due to security interference 
 ============================================================================================================================================================
 
 .. post:: 1 Jan, 2026
