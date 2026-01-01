@@ -1,5 +1,5 @@
 .. meta::
-   :description: this blog post describes a problem I encountered while trying to retrieve the running user's MyDocuments folder.
+   :description: this blog post describes a security problem I encountered while trying to retrieve the running user's MyDocuments folder.
     :keywords: Windows Security
 
 Unable to get running user's MyDocuments folder
