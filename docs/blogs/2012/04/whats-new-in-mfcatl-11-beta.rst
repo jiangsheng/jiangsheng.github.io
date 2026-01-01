@@ -5,7 +5,7 @@ What's new in MFC/ATL 11 Beta
 =============================
 .. post:: 22, Apr, 2012
    :tags: MFC
-    :category: Visual Studio
+   :category: Visual Studio
    :author: me
    :nocomments:
 

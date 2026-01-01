@@ -11,7 +11,8 @@ Blogs
    :maxdepth: 1
    :caption: 内容:
    :titlesonly:
-    
+
+    2026<2026/index>    
     2025<2025/index>
     2024<2024/index>
     2023<2023/index>

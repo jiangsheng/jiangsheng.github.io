@@ -46,7 +46,7 @@ anyways, so selecting what we would use makes sense. Bad thing is that
 now we don't know the return type of a method from the generated classes
 if the return type is LPDISPATCH, lead to guesswork or fire
 up `OLEView <http://msdn.microsoft.com/en-us/library/windows/desktop/ms693754(v=vs.85).aspx>`__
-to look up the types in the ActiveX's type library). 
+to look up the types in the ActiveX's type library ：（. 
 
 Now comes the worst
 part of the new wizard. The wizard somehow lost its ability to find the

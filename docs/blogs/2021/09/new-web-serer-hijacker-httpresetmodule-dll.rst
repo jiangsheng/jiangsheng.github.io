@@ -14,9 +14,9 @@ New web server hijacker HttpResetModule.dll
 
 Today a friend’s server was hacked. The web site displays normally if visited directly. The content is highjacked when visit from a Baidu Search result, similar to what user 41nbow experienced at https://www.freebuf.com/articles/web/222060.html.
 
-A file system wide search for recent changed files shows that %windir%\system32\inetsrv\config\applicationHost.config file was recently updated. New entries were added to the end of the <globalModules> section. Despite their location being C:\Windows\Microsoft.NET\Framework\v2.0.50727 and C:\Windows\Microsoft.NET\Framework64\v2.0.50727, they bear no Microsoft signature nor any other version information. Also, the file name HttpResetModule is suspicious, why a web server want do reset a connection?
+A file system wide search for recent changed files shows that %windir%\\system32\\inetsrv\\config\\applicationHost.config file was recently updated. New entries were added to the end of the <globalModules> section. Despite their location being C:\\Windows\\Microsoft.NET\\Framework\\v2.0.50727 and C:\\Windows\\Microsoft.NET\\Framework64\\v2.0.50727, they bear no Microsoft signature nor any other version information. Also, the file name HttpResetModule is suspicious, why a web server want do reset a connection?
 
-Removing the modules from IIS manager stopped the hijack, but how they are dropped there need further investigation. There is also a C:\Program Files (x86)\Google\svchost.exe that claims to be a 360 Safeguard executable, which is obviously an imposter.
+Removing the modules from IIS manager stopped the hijack, but how they are dropped there need further investigation. There is also a C:\\Program Files (x86)\\Google\\svchost.exe that claims to be a 360 Safeguard executable, which is obviously an imposter.
 
 When I began writing only 2 providers flagged the ISAPI module files as malicious on VirusTotal. When I finished writing, 2 more providers flagged them as malicious. That was quick.
 
