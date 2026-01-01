@@ -63,6 +63,6 @@ This code returns -2147024891, or 0x80070005. 80=Error, 07=From Windows, and 000
 
 This time, Windows 11's notification area sends me a message, that a program is blocked from Controlled Folder Access (CFA). I am not using Environment.SpecialFolderOption.Create or KF_FLAG_CREATE, no changes to the file system should be happening to trigger this message. But after I reviewed the CFA blocking logs, my test programs are indeed there. Adding my program to the exception list solved the issue. 
 
-I am not so sure why merely reading the location of the MyDocuments folder should trigger this anti-malware feature. I assumed it was readying it off the registry, apparently not.
+I am not so sure why merely reading the location of the MyDocuments folder should trigger this anti-ransomware feature. I assumed it was readying it off the registry, apparently not.
 
 In summary, you need to add error handling when reading the location of protected known folders on a modern version of Windows when Controlled Folder Access is enabled and prompt the user to whitelist your program. Or switch to the application data folder instead, which is not an option for me, as the program is two decades old.
