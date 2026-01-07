@@ -185,7 +185,7 @@ F-91
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾒｶﾞﾏｼﾝｷｬﾉﾝⓅ
+    .. grid-item:: メガマシンキャノンⓅ
         :columns: 3
     .. grid-item:: 810
     .. grid-item:: 1
@@ -197,7 +197,7 @@ F-91
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 1100
     .. grid-item:: 1
@@ -209,7 +209,7 @@ F-91
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1300
     .. grid-item:: 1~7
@@ -221,7 +221,7 @@ F-91
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ヴェスバーⒷ
+    .. grid-item:: ヴェスバ－️Ⓑ
         :columns: 3
     .. grid-item:: 3300 (3800)
     .. grid-item:: 1~8
@@ -393,7 +393,7 @@ F-91
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 1100
     .. grid-item:: 1
@@ -405,7 +405,7 @@ F-91
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1300
     .. grid-item:: 1~7
@@ -417,7 +417,7 @@ F-91
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾒｶﾞﾋﾞｰﾑﾗﾝﾁｬｰⒷ
+    .. grid-item:: メガビ－ムランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 3150
     .. grid-item:: 2~8
@@ -586,7 +586,7 @@ F-91
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 1100
     .. grid-item:: 1
@@ -598,7 +598,7 @@ F-91
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ショットランサー⚔Ⓟ
+    .. grid-item:: ショットランサ－Ⓟ⚔
         :columns: 3
     .. grid-item:: 1200
     .. grid-item:: 1
@@ -610,7 +610,7 @@ F-91
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1300
     .. grid-item:: 1~7
@@ -779,7 +779,7 @@ F-91
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾒｶﾞ拡散ﾋﾞｰﾑ砲ⒷⓅ
+    .. grid-item:: メガ拡散ビ－ム砲️ⓅⒷ
         :columns: 3
     .. grid-item:: 880
     .. grid-item:: 1
@@ -791,7 +791,7 @@ F-91
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾃﾝﾀｸﾗｰﾛｯﾄﾞ🤛Ⓟ
+    .. grid-item:: テンタクラ－ロッド🤛Ⓟ
         :columns: 3
     .. grid-item:: 1150
     .. grid-item:: 1
@@ -803,7 +803,7 @@ F-91
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メガ粒子砲Ⓑ
+    .. grid-item:: メガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 1250 (1450)
     .. grid-item:: 1~7
@@ -815,7 +815,7 @@ F-91
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾒｶﾞﾋﾞｰﾑｷｬﾉﾝⒷ
+    .. grid-item:: メガビ－ムキャノン️Ⓑ
         :columns: 3
     .. grid-item:: 1400
     .. grid-item:: 1~8
@@ -1000,7 +1000,7 @@ F-91
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 180ミリ機関砲Ⓟ
+    .. grid-item:: １８０ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 500
     .. grid-item:: 1
@@ -1012,7 +1012,7 @@ F-91
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 20連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: ２０連装ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 1100
     .. grid-item:: 1~6
@@ -1024,7 +1024,7 @@ F-91
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: サブメガ粒子砲Ⓑ
+    .. grid-item:: サブメガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 1100
     .. grid-item:: 1~7
@@ -1036,7 +1036,7 @@ F-91
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メインメガ粒子砲Ⓑ
+    .. grid-item:: メインメガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 1500
     .. grid-item:: 2~9
@@ -1048,7 +1048,7 @@ F-91
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾊｲﾊﾟｰﾒｶﾞ粒子砲Ⓑ🗺️
+    .. grid-item:: ハイパ－メガ粒子砲🗺️Ⓑ
         :columns: 3
     .. grid-item:: 2000
     .. grid-item:: 1~9

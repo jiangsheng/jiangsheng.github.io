@@ -183,7 +183,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 240ミリキャノン
+    .. grid-item:: ２４０ミリキャノン
         :columns: 3
     .. grid-item:: 880
     .. grid-item:: 2~7
@@ -195,7 +195,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1000
     .. grid-item:: 1~6
@@ -365,7 +365,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 120ミリキャノン
+    .. grid-item:: １２０ミリキャノン
         :columns: 3
     .. grid-item:: 970
     .. grid-item:: 2~8
@@ -548,7 +548,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 890
     .. grid-item:: 1
@@ -560,7 +560,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1000
     .. grid-item:: 1~6
@@ -572,7 +572,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ハイパーハンマー🤛⚔Ⓟ
+    .. grid-item:: ハイパ－ハンマ－🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 1030 (1060)
     .. grid-item:: 1
@@ -584,7 +584,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ハイパーバズーカ⚔
+    .. grid-item:: ハイパ－バズ－カ⚔
         :columns: 3
     .. grid-item:: 1200
     .. grid-item:: 2~5
@@ -750,7 +750,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 拡散ビーム砲ⒷⓅ
+    .. grid-item:: 拡散ビ－ム砲️ⓅⒷ
         :columns: 3
     .. grid-item:: 350
     .. grid-item:: 1
@@ -762,7 +762,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ヒートサーベル🤛Ⓟ
+    .. grid-item:: ヒ－トサ－ベル🤛Ⓟ
         :columns: 3
     .. grid-item:: 710
     .. grid-item:: 1
@@ -774,7 +774,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｼﾞｬｱｲｱﾝﾄﾊﾞｽﾞ⚔
+    .. grid-item:: ジャイアントバズ⚔
         :columns: 3
     .. grid-item:: 850
     .. grid-item:: 2~5
@@ -786,7 +786,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｼｭﾂﾙﾑﾌｧｳｽﾄ⚔
+    .. grid-item:: シュツルムファウスト⚔
         :columns: 3
     .. grid-item:: 900
     .. grid-item:: 1~4
@@ -953,7 +953,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 120ミリ機関砲Ⓟ
+    .. grid-item:: １２０ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
     .. grid-item:: 1
@@ -977,7 +977,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メガ粒子砲Ⓑ
+    .. grid-item:: メガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 880
     .. grid-item:: 1~6
@@ -989,7 +989,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 12連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: １２連装ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 980
     .. grid-item:: 1~6
@@ -1162,7 +1162,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 120ミリ機関砲Ⓟ
+    .. grid-item:: １２０ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
     .. grid-item:: 1
@@ -1186,7 +1186,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｻﾌﾞﾒｶﾞ粒子砲Ⓑ
+    .. grid-item:: サブメガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 750
     .. grid-item:: 1~6
@@ -1198,7 +1198,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 12連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: １２連装ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 980
     .. grid-item:: 1~6
@@ -1210,7 +1210,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾒｲﾝﾒｶﾞ粒子砲Ⓑ
+    .. grid-item:: メインメガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 1100
     .. grid-item:: 2~8
@@ -1371,7 +1371,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ヒートホーク🤛Ⓟ
+    .. grid-item:: ヒ－トホ－ク🤛Ⓟ
         :columns: 3
     .. grid-item:: 600
     .. grid-item:: 1
@@ -1383,7 +1383,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 120mmマシンガン
+    .. grid-item:: １２０ｍｍマシンガン
         :columns: 3
     .. grid-item:: 600
     .. grid-item:: 1~5
@@ -1395,7 +1395,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ザクバズーカ⚔
+    .. grid-item:: ザクバズ－カ⚔
         :columns: 3
     .. grid-item:: 800
     .. grid-item:: 2~5
@@ -1549,7 +1549,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 2連装メガ粒子砲Ⓑ
+    .. grid-item:: ２連装メガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 900
     .. grid-item:: 1~6
@@ -1561,7 +1561,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: アッザムリーダー🗺️
+    .. grid-item:: アッザムリ－ダ－🗺
         :columns: 3
     .. grid-item:: 1010 (1200)
     .. grid-item:: 2~6
@@ -1722,7 +1722,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 120ミリ機関砲Ⓟ
+    .. grid-item:: １２０ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
     .. grid-item:: 1
@@ -1734,7 +1734,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｻﾌﾞﾒｶﾞ粒子砲Ⓑ
+    .. grid-item:: サブメガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 750
     .. grid-item:: 1~6
@@ -1746,7 +1746,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾒｲﾝﾒｶﾞ粒子砲Ⓑ
+    .. grid-item:: メインメガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 1100
     .. grid-item:: 2~8
@@ -1902,7 +1902,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メガ粒子砲Ⓑ
+    .. grid-item:: メガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 880
     .. grid-item:: 1~6
@@ -2101,7 +2101,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 30ミリ機銃Ⓟ
+    .. grid-item:: ３０ミリ機銃Ⓟ
         :columns: 3
     .. grid-item:: 340
     .. grid-item:: 1
@@ -2259,7 +2259,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 120ミリキャノン
+    .. grid-item:: １２０ミリキャノン
         :columns: 3
     .. grid-item:: 970
     .. grid-item:: 2~8
@@ -2418,7 +2418,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 120ミリ機関砲Ⓟ
+    .. grid-item:: １２０ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
     .. grid-item:: 1
@@ -2430,7 +2430,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メガ粒子砲Ⓑ
+    .. grid-item:: メガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 880
     .. grid-item:: 1~6
@@ -2580,7 +2580,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 120ミリ機関砲Ⓟ
+    .. grid-item:: １２０ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
     .. grid-item:: 1

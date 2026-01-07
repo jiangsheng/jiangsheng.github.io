@@ -174,7 +174,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾀﾞｲﾀｰﾝｳｪｯﾌﾞ⚔Ⓟ
+    .. grid-item:: ダイタ－ンウェッブⓅ⚔
         :columns: 3
     .. grid-item:: 1200
     .. grid-item:: 1~3
@@ -186,7 +186,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾀﾞｲﾀｰﾝﾐｻｲﾙ⚔
+    .. grid-item:: ダイタ－ンミサイル⚔
         :columns: 3
     .. grid-item:: 1280
     .. grid-item:: 1~6
@@ -210,7 +210,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾀﾞｲﾀｰﾝｻﾞﾝﾊﾞｰ🤛Ⓟ
+    .. grid-item:: ダイタ－ンザンバ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1670
     .. grid-item:: 1
@@ -222,7 +222,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾀﾞｲﾀｰﾝﾊﾝﾏｰ🤛Ⓟ
+    .. grid-item:: ダイタ－ンハンマ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1940
     .. grid-item:: 1
@@ -234,7 +234,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: サンレーザーⓅ
+    .. grid-item:: サンレ－ザ－Ⓟ
         :columns: 3
     .. grid-item:: 2000
     .. grid-item:: 1
@@ -246,7 +246,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾀﾞｲﾀｰﾝｷｬﾉﾝ⚔
+    .. grid-item:: ダイタ－ンキャノン⚔
         :columns: 3
     .. grid-item:: 2100
     .. grid-item:: 1~7
@@ -423,7 +423,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾀﾞｲﾀｰﾝﾐｻｲﾙ⚔
+    .. grid-item:: ダイタ－ンミサイル⚔
         :columns: 3
     .. grid-item:: 1280
     .. grid-item:: 1~6
@@ -447,7 +447,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 爆弾⚔Ⓟ
+    .. grid-item:: 爆弾Ⓟ⚔
         :columns: 3
     .. grid-item:: 1940
     .. grid-item:: 1
@@ -459,7 +459,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: サンレーザーⓅ
+    .. grid-item:: サンレ－ザ－Ⓟ
         :columns: 3
     .. grid-item:: 2000
     .. grid-item:: 1
@@ -623,7 +623,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾀﾞｲﾀｰﾝﾐｻｲﾙ⚔
+    .. grid-item:: ダイタ－ンミサイル⚔
         :columns: 3
     .. grid-item:: 1280
     .. grid-item:: 1~6
@@ -635,7 +635,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾀﾞｲﾀｰﾝｷｬﾉﾝ⚔
+    .. grid-item:: ダイタ－ンキャノン⚔
         :columns: 3
     .. grid-item:: 2100
     .. grid-item:: 1~7

@@ -191,7 +191,7 @@ Sガンダム(S高达)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 1020
     .. grid-item:: 1
@@ -203,7 +203,7 @@ Sガンダム(S高达)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾋﾞｰﾑｽﾏｰﾄｶﾞﾝⒷ
+    .. grid-item:: ビ－ムスマ－トガン️Ⓑ
         :columns: 3
     .. grid-item:: 1200
     .. grid-item:: 2~8
@@ -215,7 +215,7 @@ Sガンダム(S高达)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームカノンⒷ
+    .. grid-item:: ビ－ムカノン️Ⓑ
         :columns: 3
     .. grid-item:: 1280
     .. grid-item:: 1~7
@@ -395,7 +395,7 @@ Gクルーザー (S)(S号G-巡航机)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾋﾞｰﾑｽﾏｰﾄｶﾞﾝⒷ
+    .. grid-item:: ビ－ムスマ－トガン️Ⓑ
         :columns: 3
     .. grid-item:: 1200
     .. grid-item:: 2~8
@@ -407,7 +407,7 @@ Gクルーザー (S)(S号G-巡航机)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームカノンⒷ
+    .. grid-item:: ビ－ムカノン️Ⓑ
         :columns: 3
     .. grid-item:: 1280
     .. grid-item:: 1~7
@@ -593,7 +593,7 @@ ExSガンダム(ExS高达)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 1050
     .. grid-item:: 1
@@ -605,7 +605,7 @@ ExSガンダム(ExS高达)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾋﾞｰﾑｽﾏｰﾄｶﾞﾝⒷ
+    .. grid-item:: ビ－ムスマ－トガン️Ⓑ
         :columns: 3
     .. grid-item:: 1280
     .. grid-item:: 1~7
@@ -617,7 +617,7 @@ ExSガンダム(ExS高达)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームカノンⒷ
+    .. grid-item:: ビ－ムカノン️Ⓑ
         :columns: 3
     .. grid-item:: 1410
     .. grid-item:: 1~7
@@ -641,7 +641,7 @@ ExSガンダム(ExS高达)
     .. grid-item:: 100气力
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾘﾌﾚｸﾀｰｲﾝｺﾑ⚔
+    .. grid-item:: リフレクタ－インコム⚔
         :columns: 3
     .. grid-item:: 2100
     .. grid-item:: 1~8
@@ -817,7 +817,7 @@ Gクルーザー (EXS)(EX-S号G-巡航机)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾋﾞｰﾑｽﾏｰﾄｶﾞﾝⒷ
+    .. grid-item:: ビ－ムスマ－トガン️Ⓑ
         :columns: 3
     .. grid-item:: 1280
     .. grid-item:: 1~7
@@ -829,7 +829,7 @@ Gクルーザー (EXS)(EX-S号G-巡航机)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームカノンⒷ
+    .. grid-item:: ビ－ムカノン️Ⓑ
         :columns: 3
     .. grid-item:: 1410
     .. grid-item:: 1~7

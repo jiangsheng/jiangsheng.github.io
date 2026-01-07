@@ -46,144 +46,161 @@
 .. grid::
 
     .. grid-item-card:: 跳关
+      :columns: auto
       
-      | 7E1000xx 下一话代码
+      | 7E1000=xx
+      | xx:下一话代码
 
     .. grid-item-card:: 当前话数
+      :columns: auto
 
-      | 7E1001xx 
+      | 7E1001=xx 
 
     .. grid-item-card:: 当前话代码
+      :columns: auto
 
-      | 7E1002xx 
+      | 7E1002=xx 
 
     .. grid-item-card:: 生日
+      :columns: auto
 
-      | 7E1086mm
-      | 7E1087dd
+      | 7E1086=mm
+      | 7E1087=dd
 
     .. grid-item-card:: 最大\ :ref:`资金 <srw4_remodeling_cheat>`
       :columns: auto
 
-      | 7E10557F
-      | 7E105696
-      | 7E105798
+      | 7E1055=7F
+      | 7E1056=96
+      | 7E1057=98
   
     .. grid-item-card:: 战斗画面关，地图坐标开
       :columns: auto
 
-      | 7E105860 
+      | 7E1058=60 
 
     .. grid-item-card:: 战斗画面开，地图坐标关
       :columns: auto
 
-      | 7E105800 
+      | 7E1058=00 
 
     .. grid-item-card:: 总回合数最小 
       :columns: auto
 
-      | 7e105301
-      | 7e105400
+      | 7e1053=01
+      | 7e1054=00
 
     .. grid-item-card:: 总回合数最大
       :columns: auto
 
-      | 7e10530f
-      | 7e105427
+      | 7e1053=0f
+      | 7e1054=27
 
     .. grid-item-card:: :ref:`经验倍率 <srw4_exp>`
       :columns: auto
 
-      | 7E0EE17E 
+      | 7E0EE1=7E 
 
     .. grid-item-card:: 基础经验值
       :columns: auto
 
-      | 7e0edaff 
-      | 7e0edbff  
+      | 7e0eda=ff 
+      | 7e0edb=ff  
 
     .. grid-item-card:: 地图武器自残有经验
       :columns: auto
 
-      | c3d84800
+      | c3d848=00
 
     .. grid-item-card:: 1级全精神
       :columns: auto
 
-      | 7e0ebaff
+      | 7e0eba=ff
 
     .. grid-item-card:: 精神不減
       :columns: auto
 
-      | 7e0ebbff
+      | 7e0ebb=ff
 
     .. grid-item-card:: 气合效果最大
       :columns: auto
 
-      | 829bcffd
+      | 829bcf=fd
       | 使用脱力时关掉
 
     .. grid-item-card:: 保持幸運效果
       :columns: auto
 
-      | c0b85b00
+      | c0b85b=00
       | 不用时关掉
 
     .. grid-item-card:: 激怒攻击力最大
       :columns: auto
 
-      | 7E0EC3FF
-      | 7E0EC4FF
+      | 7E0EC3=FF
+      | 7E0EC4=FF
 
     .. grid-item-card:: 恋爱度最大
       :columns: auto
 
-      | 7E1068F0 
+      | 7E1068=F0 
 
     .. grid-item-card:: 恋爱度最小
       :columns: auto
 
-      | 7E106800 
+      | 7E1068=00 
 
     .. grid-item-card:: 演示动画强开
       :columns: auto      
 
-      | 7E1069ff
-      | 7E106a40
+      | 7E1069=ff
+      | 7E106a=40
 
     .. grid-item-card:: 控制敌军
       :columns: auto
 
-      c392cd0b
+      | c392cd=0b
+
+    .. grid-item-card:: 控制敌军探宝
+      :columns: auto
+
+      | C2B07D=00
+
+    .. grid-item-card:: 无需侦察
+      :columns: auto
+
+      | C2C23C=80
 
     .. grid-item-card:: 诞生月
       :columns: auto
 
-      7e1206xx
+      7e1206=xx
 
     .. grid-item-card:: 诞生日
       :columns: auto
 
-      7e1207xx
+      7e1207=xx
 
-    .. grid-item-card:: 无视系别
+    .. grid-item-card:: 换乘无视系别
       :columns: auto
+
+      | C2D3BE=80
 
     .. grid-item-card:: 无限移动
       :columns: auto
 
-      | 7E156644
-      | 7E156844
-      | 7E156a44
-      | 7E156c44
-      | 7E156e44
-      | 7E157044
-      | 7E157244
+      | 7E1566=44
+      | 7E1568=44
+      | 7E156a=44
+      | 7E156c=44
+      | 7E156e=44
+      | 7E1570=44
+      | 7E1572=44
 
     .. grid-item-card:: 出击数锁定
       :columns: auto
 
-      | 7E0EEC18
+      | 7E0EEC=18
       | 比如同时可以出击两台母舰，
       | 但是总出击数量是写死的，
       | 后选的会把先选的覆盖，
@@ -193,69 +210,231 @@
       | 但是开了之后会作为敌军出现，
       | \ :ref:`マサキ·アンドー <srw4_pilot_masaki_andoh>`\ （安藤正树）也只会作为NPC出场。
 
+    .. grid-item-card:: 全体高性能雷达      
+      :columns: auto
+
+      | 7E1308=00
+      | 7E1309=00
+      | 7E130A=00
+      | 7E130B=00
+      | …… （中间每个字节都是00）
+      | 7E1387=00
+
     .. grid-item-card:: 全武器15段改造
       :columns: auto
       
-      | 7E141EFF
-      | 7E141FFF
+      | 7E141E=FF
+      | 7E141F=FF
       | …… （中间每个字节都是FF）
-      | 7E14EBFF
+      | 7E14EB=FF
 
     .. grid-item-card:: 强化配件各9个
       :columns: auto
 
-      | 7e107899
-      | 7e107999
-      | 7e107a99
-      | 7e107b99
-      | 7e107c99
-      | 7e107d99
-      | 7e107e99
-      | 7e107f99
+      | 7e1078=99
+      | 7e1079=99
+      | 7e107a=99
+      | 7e107b=99
+      | 7e107c=99
+      | 7e107d=99
+      | 7e107e=99
+      | 7e107f=99
 
     .. grid-item-card:: 添加妖精
       :columns: auto
       
-      | 需要开局开启，
+      | Snes9x/Bsnes支持条件启用
+      | 如果模拟器不支持，需要开局开启，
       | 第一话过关之后存盘之后关闭再读盘，
       | 因为换乘的机师代码也在同一个字节，
       | 一直锁定的话会导致改出来也没法用。
-      | 7E140980
+      | 7E1409=00?80
       | チャム·ファウ
-      | 7E140D80
+      | 7E140D=00?80
       | ベル·アール
-      | 7E141180
+      | 7E1411=00?80
       | エル·フィノ
-      | 7E141580
+      | 7E1415=00?80
       | リリス·ファウ
-      | 7E141980
+      | 7E1419=00?80
       | シルキー·マウ
-      | Snes9x支持条件启用
-      | 7E1409 = 0 ? 80
-      | チャム·ファウ
-      | 7E140D = 0 ?
-      | 80 ベル·アール
-      | 7E1411 = 0 ? 80
-      | エル·フィノ
-      | 7E1415 = 0 ? 80
-      | リリス·ファウ
-      | 7E1419 = 0 ? 80
-      | シルキー·マウ
-      | Bsnes支持条件启用
-      | 7E1409=0?80
-      | チャム·ファウ
-      | 7E140D=0?80
-      | ベル·アール
-      | 7E1411=0?80
-      | エル·フィノ
-      | 7E1415=0?80
-      | リリス·ファウ
-      | 7E1419=0?80
-      | シルキー·マウ
-      | 旧版本的bsnes的话，是用
-      | address/compare/data的格式。
 
- 
+
+^^^^^^^^^^^^^^^^^
+主人公名字修改
+^^^^^^^^^^^^^^^^^
+
+.. grid::
+
+    .. grid-item-card:: マオ
+      :columns: auto
+
+      | D28963=F5
+      | D28964=54
+      | マオ→毛
+
+    .. grid-item-card:: リン
+      :columns: auto
+
+      | D28935=F3
+      | D28936=42
+      | リン→林
+      
+
+
+
+^^^^^^^^^^^^^^^^^
+主人公精神修改
+^^^^^^^^^^^^^^^^^
+具体数据格式参考\ :ref:`第四次精神修改 <srw4_mechanics_sprit_command_cheat>`\ 。
+
+.. grid::
+
+    .. grid-item-card:: リン
+      :columns: auto
+
+      | CB8FFF1E
+      | CB0000=01
+      | CB0001=0E
+      | CB0002=01
+      | CB0003=13
+      | CB0004=01
+      | CB0005=14
+      | CB0006=01
+      | CB0007=16
+      | CB0008=01
+      | CB0009=12
+      | CB000A=01
+
+    .. grid-item-card:: ヘクトール
+      :columns: auto
+
+      | CB9045=1E
+      | CB9046=01
+      | CB9047=0E
+      | CB9048=01
+      | CB9049=13
+      | CB904A=01
+      | CB904B=14
+      | CB904C=01
+      | CB904D=16
+      | CB904E=01
+      | CB904F=12
+      | CB9050=01
+
+    .. grid-item-card:: ジェス
+      :columns: auto
+
+      | CB90C3=1E
+      | CB90C4=01
+      | CB90C5=0E
+      | CB90C6=01
+      | CB90C7=13
+      | CB90C8=01
+      | CB90C9=14
+      | CB90CA=01
+      | CB90CB=16
+      | CB90CC=01
+      | CB90CD=12
+      | CB90CE=01
+
+    .. grid-item-card:: ミーナ
+      :columns: auto
+
+      | CB90FB=1E
+      | CB90FC=01
+      | CB90FD=0E
+      | CB90FE=01
+      | CB90FF=13
+      | CB9100=01
+      | CB9101=14
+      | CB9102=01
+      | CB9103=16
+      | CB9104=01
+      | CB9105=12
+      | CB9106=01
+
+    .. grid-item-card:: イルム
+      :columns: auto
+
+      | CB9179=1E
+      | CB917A=01
+      | CB917B=0E
+      | CB917C=01
+      | CB917D=13
+      | CB917E=01
+      | CB917F=14
+      | CB9180=01
+      | CB9181=16
+      | CB9182=01
+      | CB9183=12
+      | CB9184=01
+
+    .. grid-item-card:: パット
+      :columns: auto
+
+      | CB9221=1E
+      | CB9222=01
+      | CB9223=0E
+      | CB9224=01
+      | CB9225=13
+      | CB9226=01
+      | CB9227=14
+      | CB9228=01
+      | CB9229=16
+      | CB922A=01
+      | CB922B=12
+      | CB922C=01
+
+    .. grid-item-card:: グレース
+      :columns: auto
+
+      | CB923D=1E
+      | CB923E=01
+      | CB923F=0E
+      | CB9240=01
+      | CB9241=13
+      | CB9242=01
+      | CB9243=14
+      | CB9244=01
+      | CB9245=16
+      | CB9246=01
+      | CB9247=12
+      | CB9248=01
+
+    .. grid-item-card:: ウィン
+      :columns: auto
+
+      | CB9267=1E
+      | CB9268=01
+      | CB9269=0E
+      | CB926A=01
+      | CB926B=13
+      | CB926C=01
+      | CB926D=14
+      | CB926E=01
+      | CB926F=16
+      | CB9270=01
+      | CB9271=12
+      | CB9272=01
+
+    .. grid-item-card:: ８月１２日Ａ型
+      :columns: auto
+
+      | CB92D7=1E
+      | CB92D8=01
+      | CB92D9=0E
+      | CB92DA=01
+      | CB92DB=13
+      | CB92DC=01
+      | CB92DD=14
+      | CB92DE=01
+      | CB92DF=16
+      | CB92E0=01
+      | CB92E1=12
+      | CB92E2=01
+
+
 ^^^^^^^^^^^^^^^^^
 机师修改
 ^^^^^^^^^^^^^^^^^
@@ -282,16 +461,21 @@
       
       | 分歧参考（\ :ref:`隐藏要素 <srw4_missable>`\ 路线A/B/C）
       | 不按照路线中的选择可能造成数据溢出
-      | 7E110687 增加ハマーン
-      | 7e118710 ハマーン编队
-      | 7E1104B4 增加トッド
-      | 7e118510 トッド编队
-      | 7E110224 增加マチルダ
-      | 7e118310 マチルダ编队
-      | 7E1100D8 增加アマンダラ·
-      | 7e118110 アマンダラ编队
-      | 7E10fea0 增加あしゅら男爵
-      | 7e117f10 あしゅら男爵编队
+      | 7E110636
+      | 7e1187=00?10
+      | モンド
+      | 7E110497
+      | 7e1185=00?10
+      | ギュネイ
+      | 7E110292 
+      | 7e1183=00?10
+      | グレミー
+      | 7E11007F 
+      | 7e1181=00?10 
+      | ララァ
+      | 7E10fe4B 
+      | 7e117f=00?10 
+      | 早乙女ミチル
 
     .. grid-item-card:: 额外增加人物（路线B）
       :columns: auto
@@ -299,14 +483,18 @@
       | 分歧参考 （\ :ref:`隐藏要素 <srw4_missable>`\ 路线B）
       | 走A/C路线时禁用
       | 不按照路线中的选择可能造成数据溢出
-      | 7e10fc82 增加サラ
-      | 7e117d10 サラ编队
-      | 7e10fa8e 增加ロザミア
-      | 7e117b10 ロザミア编队
-      | 7e10f83a 增加クェス
-      | 7e117910 クェス编队
-      | 7e10f67f 增加ララァ
-      | 7e117710 ララァ编队
+      | 7e10fcBC
+      | 7e117d=00?10 
+      | ゼット
+      | 7e10faBD
+      | 7e117b=00?10
+      | トルストール
+      | 7e10f83a 
+      | 7e1179=00?10 
+      | レズン
+      | 7e10f644 
+      | 7e1177=00?10 
+      | モンシア
 
 ^^^^^^^^^^^^^^^^^
 机体修改
@@ -335,48 +523,8 @@
   * xx和yy是芯片的\ :ref:`序号 <srw4_items>`\ 。
 
 下面是修改机体性能的金手指。如果你要修改其他机体的性能，可以参考\ :ref:`机体数据 <srw4_units_data_snes>` \ 找到对应参数，根据参数搜索找到地址，然后修改。关于参数顺序和其他机体数据的相对位移，参考\ :ref:`机体修改 <srw4_units_cheat>` \ 。
- 
+
 .. grid::
-
-    .. grid-item-card:: ヒュッケバイン
-      :columns: auto
-
-      | CB958601
-      | ヒュッケバイン移动空陆
-      | CB958744
-      | ヒュッケバイン空A海A
-
-    .. grid-item-card:: グルンガスト
-      :columns: auto
-
-      | CB95BF44
-      | グルンガスト空A海A
-
-    .. grid-item-card:: GP-03
-      :columns: auto
-
-      | cb973c01
-      | GP-03移动空陆
-      | cb973d43
-      | GP-03空A海B
-      | cb973e34
-      | GP-03陆B宇A
-
-    .. grid-item-card:: ボスロボット
-      :columns: auto
-
-      | CB9CCA05
-      | ボスロボット移动陆地中
-      | CB9CCB04
-      | ボスロボット地形适应海
-      | CB9CCC44
-      | ボスロボット地形适应陆宇
-
-    .. grid-item-card:: ダンクーガ
-      :columns: auto
-
-      | cba18601
-      | ダンクーガ移动空陆
 
 
     .. grid-item-card:: 增加机体(共通)
@@ -384,42 +532,204 @@
 
       | 分歧参考（\ :ref:`隐藏要素 <srw4_missable>`\ 路线A/B/C）
       | 不按照路线中的选择可能造成数据溢出
-      | 7e12867a 增加キュベレイ
-      | 7e140788 キュベレイ武器数量
-      | 7e128440 增加ビルバイン
-      | 7e140588 ビルバイン武器数量
-      | 7e128285 增加ゲーマルク
-      | 7e140388 ゲーマルク武器数量
-      | 7e128050 增加ブラッドテンプル
-      | 7e140188 ブラッドテンプル武器数量
-      | 武器改造段数位移
-      | 7e140600 キュベレイ
-      | 7e140400 ビルバイン
-      | 7e140200 ゲーマルク
-      | 7e140000 ブラッドテンプル
+      | 7e1287=00?01
+      | 7e1286=00?7a 
+      | ガイラム
+      | 7e1285=00?01
+      | 7e1284=00?06
+      | Ξガンダム
+      | 7e1283=00?01
+      | 7e1282=00?0C
+      | ニセサイバスター
+      | 7e1280=00?03
+      | ウイングガスト
+      | 武器改造段数数量/位移
+      | 7e14071E 
+      | 7e140600 
+      | 7e14051E
+      | 7e140400 
+      | 7e14031E 
+      | 7e140200 
+      | 7e14011E
+      | 7e140000 
        
     .. grid-item-card:: 额外增加机体(路线B)
       :columns: auto
 
-      * 分歧参考 （\ :ref:`隐藏要素 <srw4_missable>`\ 路线B）
-      * 走A/C路线时禁用
-      * 不按照路线中的选择可能造成数据溢出
-      * 7e127ee6 增加グラシドゥ＝リュ
-      * 7e13ff88 グラシドゥ＝リュ武器数量
-      * 7e127c8c 增加ビギナ·ギナ
-      * 7e13fd88 ビギナ·ギナ武器数量      
-      * 7e127adb 增加EXSガンダム
-      * 7e13fb88 EXSガンダム武器数量      
-      * 7e127870 增加サイコガンダム Mk-II(MA)
-      * 7e13f988 サイコガンダム Mk-II(MA)武器数量
-      * 7e127689 增加ヤクトドーガ（青）
-      * 7e13f788 ヤクトドーガ（青）武器数量
-      * 武器改造段数位移
-      * 7e13fe00 グラシドゥ＝リュ
-      * 7e13fc00 ビギナ·ギナ
-      * 7e13fa00 ExSガンダム
-      * 7e13f800 サイコガンダム Mk-II(MA)
-      * 7e13f600 ヤクトドーガ（青）
+      | 分歧参考 （\ :ref:`隐藏要素 <srw4_missable>`\ 路线B）
+      | 走A/C路线时禁用
+      | 不按照路线中的选择可能造成数据溢出
+      | 7e127f=00?01
+      | 7e127e=00?28
+      | ガラバ(ハイパー可)
+      | 7e127d=00?01
+      | 7e127c=00?26
+      | ライネック(ハイパー可)
+      | 7e127b=00?01
+      | 7e127a=00?24
+      | レプラカーン(ハイパー可)
+      | 7e1279=00?01
+      | 7e1278=00?04
+      | Gディフェンサー
+      | 7e12768C
+      | ビギナ・ギナ
+      | 武器改造段数数量/位移
+      | 7e13ff1E 
+      | 7e13fe00 
+      | 7e13fd1E
+      | 7e13fc00 
+      | 7e13fb1E 
+      | 7e13fa00 
+      | 7e13f91E 
+      | 7e13f800 
+      | 7e13f71E 
+      | 7e13f600 
+
+    .. grid-item-card:: ヒュッケバイン
+      :columns: auto
+
+      | CB9576000
+      | CB9576100
+      | 乘换機動戦士系
+      | CB958601
+      | 移动空陆
+      | CB958744
+      | 空A海A
+      | CB95914F
+      | CB959206
+      | ６０ﾐﾘﾊﾞﾙｶﾝ
+      | →ブーストナックル
+      | CB959450
+      | ﾌﾟﾗｽﾞﾏｿｰﾄﾞ
+      | →オメガレーザー
+      | CB959A53
+      | ﾛｼｭｾｲﾊﾞｰ→
+      | ｸﾞﾙﾝｶﾞｽﾄﾋﾞｰﾑ
+
+    .. grid-item-card:: グルンガスト
+      :columns: auto
+
+      | CB95AD00
+      | CB95AE00
+      | 乘换機動戦士系
+      | CB95BF44
+      | 空A海A
+      | CB95CC4D
+      | オメガレーザー→
+      | リープスラッシャー
+
+    .. grid-item-card:: ウイングガスト
+      :columns: auto
+
+      | CB95E200
+      | CB95E300
+      | 乘换機動戦士系
+      | CB95F444
+      | 空A海A
+
+    .. grid-item-card:: ガストランダー
+      :columns: auto
+
+      | CB960D00
+      | CB960E00
+      | 乘换機動戦士系
+      | CB961F44
+      | 空A海A
+
+    .. grid-item-card:: νガンダム
+      :columns: auto
+
+      | CB96602D
+      | ﾐｻｲﾙﾗﾝﾁｬｰ
+      | →ヴェスバー
+
+    .. grid-item-card:: F-91
+      :columns: auto
+
+      | CB96942B
+      | ﾒｶﾞﾏｼﾝｷｬﾉﾝ→
+      | フィンファンネル
+
+    .. grid-item-card:: NT-1アレックス
+      :columns: auto
+
+      | CB96C52B
+      | ガトリングガン
+      | →フィンファンネル
+
+    .. grid-item-card:: GP-01Fb
+      :columns: auto
+
+      | B96F34A
+      | B96F40D
+      | ビームガン
+      | →ビット
+
+    .. grid-item-card:: GP-03
+      :columns: auto
+
+      | cb973c01
+      | GP-03移动空陆
+      | cb973d44
+      | 空A海A
+      | cb973e44
+      | 陆A宇A
+      | CB975612 
+      | 集中ミサイル→
+      | バルカン
+      | CB97592F
+      | マイクロミサイル (M)
+      | →ｱﾄﾐｯｸﾊﾞｽﾞｰｶ (M)
+      | CB97504A
+      | CB97510D
+      | CB97844A
+      | CB97850D
+      | CBC7EB4A
+      | CBC7EC0D
+      | ﾌｫｰﾙﾃﾞｨﾝｸﾞﾊﾞｽﾞｰｶ
+      | →ビット
+
+    .. grid-item-card:: ガンキャノン
+      :columns: auto
+
+      | CB97AF4A
+      | CB97B00D
+      | ２40ミリキャノン→
+      | ビット
+
+    .. grid-item-card:: ガンタンク
+      :columns: auto
+
+      | CB97D44A
+      | CB97D50D
+      | １２０ミリキャノン→
+      | ビット
+
+    .. grid-item-card:: ボール
+      :columns: auto
+
+      | CB97F101
+      | 移动空陆
+      | CB97F244
+      | 空A海A
+      
+
+    .. grid-item-card:: ボスロボット
+      :columns: auto
+
+      | CB9CCA01
+      | 移动空陆
+      | CB9CCB44
+      | 地形适应空海
+      | CB9CCC44
+      | 地形适应陆宇
+
+    .. grid-item-card:: ダンクーガ
+      :columns: auto
+
+      | cba18601
+      | ダンクーガ移动空陆
+
 
 ^^^^^^^^^^^^^^^^^
 武器修改
@@ -438,6 +748,24 @@
 武器数据的格式参考\ :ref:`武器修改 <srw4_weapon_cheat>`。
  
 .. grid::
+
+    .. grid-item-card:: 武器追加      
+      :columns: auto
+
+      | 7E105E=00?01 
+      | コン・バトラーV
+      | 7E105F=00?86
+      | イオン
+      | アトミックバズーカ
+      | グランダッシャー
+      | 7E1060=00?1A
+      | ダイモス
+      | 7E1061=00?30
+      | 計都羅喉剣暗剣殺
+      | ブラックホールキャノン
+
+
+
 
     .. grid-item-card:: 必殺烈風正拳突き
 
@@ -458,11 +786,11 @@
       :columns: auto
       
       | cdf85c08 移+8
-      | cdf85d12 运+18
-      | cdf85e14 限+20  
-      | cdf85f0A 甲+100
-      | cdf8bcf4
-      | cdf8bd01 HP +500
+      | cdf85d1E 运+30
+      | cdf85e3F 限+63  
+      | cdf85f00 甲+00
+      | cdf8bc88
+      | cdf8bd13 HP +500
       | cdf8be04 光线护壁
 
    .. grid-item-card:: 米诺夫斯基飞行器
@@ -803,9 +1131,9 @@
       | 80102F90 ffff
 
 ^^^^^^^^^^^^^^^^^
-主人公精神修改
+主人公修改
 ^^^^^^^^^^^^^^^^^
-具体数据格式参考\ :ref:`第四次精神修改 <srw4_mechanics_sprit_command_cheat>`\ 。
+具体精神数据格式参考\ :ref:`第四次精神修改 <srw4_mechanics_sprit_command_cheat>`\ 。
 
 
 .. grid::
@@ -819,6 +1147,11 @@
       | 8004CA9E 0114
       | 8004CAA0 0116
       | 8004CAA2 0112
+      | 精神
+      | 80074A9E 54F5
+      | マオ→毛
+      | 80074A70 42F3
+      | リン→林
 
     .. grid-item-card:: ヘクトール
       :columns: auto
@@ -1823,7 +2156,6 @@
       | 乘换機動戦士系
       | 8004630E 4444
       | 地形适应全A
-      | 800462ED 0655
       
 
     .. grid-item-card:: \ :ref:`νガンダム <srw4_unit_nu_gundam>`\ 
@@ -2924,12 +3256,12 @@
    .. grid-item-card:: 高性能雷达
       :columns: auto
       
-      | 8010721C 1208
-      | 移+8 运+18
-      | 8010721E 0A14
-      | 限+20 甲+100
-      | 8010729C 01F4
-      | HP +500 
+      | 8010721C 1E08
+      | 移+8 运+30
+      | 8010721E 003F
+      | 限+63 甲+100
+      | 8010729C 1388
+      | HP +5000 
       | 3010729E 0004
       | 光线护壁
 

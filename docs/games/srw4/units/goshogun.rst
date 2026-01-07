@@ -169,7 +169,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: コスモビームⒷⓅ
+    .. grid-item:: コスモビ－ム️ⓅⒷ
         :columns: 3
     .. grid-item:: 680
     .. grid-item:: 1
@@ -181,7 +181,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ホルスタービームⒷⓅ
+    .. grid-item:: ホルスタ－ビ－ム️ⓅⒷ
         :columns: 3
     .. grid-item:: 800
     .. grid-item:: 1
@@ -193,7 +193,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ゴーステイック⚔Ⓟ
+    .. grid-item:: ゴ－スティックⓅ⚔
         :columns: 3
     .. grid-item:: 1000 (1100)
     .. grid-item:: 1~3
@@ -205,7 +205,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ゴーサーベル🤛Ⓟ
+    .. grid-item:: ゴ－サ－ベル🤛Ⓟ
         :columns: 3
     .. grid-item:: 1140 (1240)
     .. grid-item:: 1
@@ -217,7 +217,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾚｯﾄﾞｲﾝﾊﾟﾙｻｰⓅ
+    .. grid-item:: レッドインパルサ－Ⓟ
         :columns: 3
     .. grid-item:: 1380
     .. grid-item:: 1
@@ -229,7 +229,7 @@
     .. grid-item:: 110气力
     .. grid-item::
         :class: flex-break
-    .. grid-item:: スペースバズーカ⚔
+    .. grid-item:: スペ－スバズ－カ⚔
         :columns: 3
     .. grid-item:: 2110 (2250)
     .. grid-item:: 2~8
@@ -241,7 +241,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ゴーフラッシャー
+    .. grid-item:: ゴ－フラッシャ－
         :columns: 3
     .. grid-item:: 3500 (3600)
     .. grid-item:: 1~8
@@ -414,7 +414,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 60ミリ機銃Ⓟ
+    .. grid-item:: ６０ミリ機銃Ⓟ
         :columns: 3
     .. grid-item:: 620
     .. grid-item:: 1
@@ -426,7 +426,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾎｰﾐﾝｸﾞﾐｻｲﾙⓅ
+    .. grid-item:: ホ－ミングミサイルⓅ
         :columns: 3
     .. grid-item:: 980
     .. grid-item:: 1~7
@@ -438,7 +438,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームキャノンⒷ
+    .. grid-item:: ビ－ムキャノン️Ⓑ
         :columns: 3
     .. grid-item:: 1150
     .. grid-item:: 1~6
@@ -450,7 +450,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾌﾗｯｼｬｰﾋﾞｰﾑⒷ
+    .. grid-item:: フラッシャ－ビ－ム️Ⓑ
         :columns: 3
     .. grid-item:: 1480
     .. grid-item:: 1~7
@@ -617,7 +617,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 60ミリ機銃Ⓟ
+    .. grid-item:: ６０ミリ機銃Ⓟ
         :columns: 3
     .. grid-item:: 620
     .. grid-item:: 1
@@ -629,7 +629,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾎｰﾐﾝｸﾞﾐｻｲﾙⓅ
+    .. grid-item:: ホ－ミングミサイルⓅ
         :columns: 3
     .. grid-item:: 980
     .. grid-item:: 1~7
@@ -641,7 +641,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームキャノンⒷ
+    .. grid-item:: ビ－ムキャノン️Ⓑ
         :columns: 3
     .. grid-item:: 1150
     .. grid-item:: 1~6
@@ -653,7 +653,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾌﾗｯｼｬｰﾋﾞｰﾑⒷ
+    .. grid-item:: フラッシャ－ビ－ム️Ⓑ
         :columns: 3
     .. grid-item:: 1480
     .. grid-item:: 1~7
@@ -818,7 +818,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 60ミリ機銃Ⓟ
+    .. grid-item:: ６０ミリ機銃Ⓟ
         :columns: 3
     .. grid-item:: 620
     .. grid-item:: 1
@@ -830,7 +830,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾎｰﾐﾝｸﾞﾐｻｲﾙⓅ
+    .. grid-item:: ホ－ミングミサイルⓅ
         :columns: 3
     .. grid-item:: 980
     .. grid-item:: 1~7
@@ -842,7 +842,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームキャノンⒷ
+    .. grid-item:: ビ－ムキャノン️Ⓑ
         :columns: 3
     .. grid-item:: 1150
     .. grid-item:: 1~6
@@ -1008,7 +1008,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: サーベル🤛Ⓟ
+    .. grid-item:: サ－ベル🤛Ⓟ
         :columns: 3
     .. grid-item:: 980
     .. grid-item:: 1
@@ -1020,7 +1020,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: バズーカ⚔
+    .. grid-item:: バズ－カ⚔
         :columns: 3
     .. grid-item:: 1250
     .. grid-item:: 1~6
@@ -1173,7 +1173,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾌﾗｯｼｬｰﾋﾞｰﾑⒷ
+    .. grid-item:: フラッシャ－ビ－ム️Ⓑ
         :columns: 3
     .. grid-item:: 1480
     .. grid-item:: 1~7
@@ -1185,7 +1185,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｺﾞｯﾄﾞﾈﾛｽﾊﾟﾝﾁ🤛Ⓟ
+    .. grid-item:: ゴッドネロスパンチ🤛Ⓟ
         :columns: 3
     .. grid-item:: 1500
     .. grid-item:: 1
@@ -1197,7 +1197,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｸﾞﾗﾋﾞﾄﾝｳｪｰﾌﾞ
+    .. grid-item:: グラビトンウェ－ブ
         :columns: 3
     .. grid-item:: 1780
     .. grid-item:: 1~7

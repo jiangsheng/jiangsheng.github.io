@@ -185,7 +185,7 @@ GP-01Fb
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 920
     .. grid-item:: 1
@@ -197,7 +197,7 @@ GP-01Fb
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームガンⒷ
+    .. grid-item:: ビ－ムガン️Ⓑ
         :columns: 3
     .. grid-item:: 1000
     .. grid-item:: 1~6
@@ -209,7 +209,7 @@ GP-01Fb
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1020
     .. grid-item:: 1~6
@@ -378,7 +378,7 @@ GP-03デンドロビウム(GP-03 D)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 集中ミサイル⚔
+    .. grid-item:: 集束ミサイル⚔
         :columns: 3
     .. grid-item:: 940
     .. grid-item:: 1~6
@@ -390,7 +390,7 @@ GP-03デンドロビウム(GP-03 D)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1050
     .. grid-item:: 1~6
@@ -402,7 +402,7 @@ GP-03デンドロビウム(GP-03 D)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾌｫｰﾙﾃﾞｨﾝｸﾞﾊﾞｽﾞｰｶ⚔
+    .. grid-item:: フォ－ルディングバズ－カ⚔
         :columns: 3
     .. grid-item:: 1250 (1350)
     .. grid-item:: 2~6
@@ -414,7 +414,7 @@ GP-03デンドロビウム(GP-03 D)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: マイクロミサイル⚔🗺️
+    .. grid-item:: マイクロミサイル🗺⚔
         :columns: 3
     .. grid-item:: 1400
     .. grid-item:: 1~8
@@ -426,7 +426,7 @@ GP-03デンドロビウム(GP-03 D)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 大型ﾋﾞｰﾑｻｰﾍﾞﾙ🤛⚔Ⓟ
+    .. grid-item:: 大型ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 1700 (2400)
     .. grid-item:: 1
@@ -438,7 +438,7 @@ GP-03デンドロビウム(GP-03 D)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 爆導索🗺️
+    .. grid-item:: 爆導索🗺
         :columns: 3
     .. grid-item:: 2100
     .. grid-item:: 1~10
@@ -450,7 +450,7 @@ GP-03デンドロビウム(GP-03 D)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メガビーム砲Ⓑ
+    .. grid-item:: メガビ－ム砲️Ⓑ
         :columns: 3
     .. grid-item:: 2200 (2800)
     .. grid-item:: 1~9
@@ -622,7 +622,7 @@ GP-03ステイメン  (后期)(GP-03 S)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 940
     .. grid-item:: 1
@@ -634,7 +634,7 @@ GP-03ステイメン  (后期)(GP-03 S)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1050
     .. grid-item:: 1~6
@@ -646,7 +646,7 @@ GP-03ステイメン  (后期)(GP-03 S)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾌｫｰﾙﾃﾞｨﾝｸﾞﾊﾞｽﾞｰｶ⚔
+    .. grid-item:: フォ－ルディングバズ－カ⚔
         :columns: 3
     .. grid-item:: 1250 (1350)
     .. grid-item:: 2~6
@@ -813,7 +813,7 @@ GP-03ステイメン (初期)(GP-03 S)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 940
     .. grid-item:: 1
@@ -825,7 +825,7 @@ GP-03ステイメン (初期)(GP-03 S)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1050
     .. grid-item:: 1~6
@@ -837,7 +837,7 @@ GP-03ステイメン (初期)(GP-03 S)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾌｫｰﾙﾃﾞｨﾝｸﾞﾊﾞｽﾞｰｶ⚔
+    .. grid-item:: フォ－ルディングバズ－カ⚔
         :columns: 3
     .. grid-item:: 1250 (1350)
     .. grid-item:: 2~6
@@ -1020,7 +1020,7 @@ GP-02A
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 940
     .. grid-item:: 1
@@ -1032,7 +1032,7 @@ GP-02A
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1050
     .. grid-item:: 1~6
@@ -1044,7 +1044,7 @@ GP-02A
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｱﾄﾐｯｸﾊﾞｽﾞｰｶ🗺️
+    .. grid-item:: アトミックバズ－カ🗺
         :columns: 3
     .. grid-item:: 8000
     .. grid-item:: 3~10
@@ -1225,7 +1225,7 @@ GP-02A
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ミサイルⒷ
+    .. grid-item:: ビ－ムマシンガン️Ⓑ
         :columns: 3
     .. grid-item:: 900
     .. grid-item:: 1~6
@@ -1237,7 +1237,7 @@ GP-02A
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 110ミリ機関砲
+    .. grid-item:: １１０ミリ機関砲
         :columns: 3
     .. grid-item:: 920
     .. grid-item:: 1~6
@@ -1249,7 +1249,7 @@ GP-02A
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 940
     .. grid-item:: 1
@@ -1412,7 +1412,7 @@ GP-02A
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 100ミリバルカンⓅ
+    .. grid-item:: １１０ミリバルカンⓅ
         :columns: 3
     .. grid-item:: 330
     .. grid-item:: 1
@@ -1436,7 +1436,7 @@ GP-02A
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 大型メガ粒子砲Ⓑ
+    .. grid-item:: 大型メガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 920
     .. grid-item:: 1~7
@@ -1448,7 +1448,7 @@ GP-02A
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームガンⒷ
+    .. grid-item:: ビ－ムガン️Ⓑ
         :columns: 3
     .. grid-item:: 1080
     .. grid-item:: 1~6
@@ -1460,7 +1460,7 @@ GP-02A
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: プラズマリーダー🗺️
+    .. grid-item:: プラズマリ－ダ－🗺
         :columns: 3
     .. grid-item:: 1460 (1650)
     .. grid-item:: 2~6
@@ -1629,7 +1629,7 @@ GP-02A
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 小型ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: 小型ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 880
     .. grid-item:: 1~7
@@ -1641,7 +1641,7 @@ GP-02A
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メガ粒子砲Ⓑ
+    .. grid-item:: メガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 910 (1200)
     .. grid-item:: 1~6
@@ -1653,7 +1653,7 @@ GP-02A
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 有線クローアームⓅ
+    .. grid-item:: 有線クロ－ア－ムⓅ
         :columns: 3
     .. grid-item:: 970
     .. grid-item:: 1~3
@@ -1665,7 +1665,7 @@ GP-02A
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 大型ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: 大型ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 1100
     .. grid-item:: 1~6
@@ -1677,7 +1677,7 @@ GP-02A
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 偏向メガ粒子砲Ⓑ
+    .. grid-item:: 偏向メガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 2200
     .. grid-item:: 1~8
@@ -1689,7 +1689,7 @@ GP-02A
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メガカノン砲Ⓑ
+    .. grid-item:: メガカノン砲️Ⓑ
         :columns: 3
     .. grid-item:: 2450 (2650)
     .. grid-item:: 1~9

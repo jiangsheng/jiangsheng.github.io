@@ -169,7 +169,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 冷凍ビームⓅ
+    .. grid-item:: 冷凍ビ－ムⓅ
         :columns: 3
     .. grid-item:: 650
     .. grid-item:: 1
@@ -193,7 +193,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 光子力ビームⒷⓅ
+    .. grid-item:: 光子力ビ－ム️ⓅⒷ
         :columns: 3
     .. grid-item:: 1000 (1200)
     .. grid-item:: 1
@@ -205,7 +205,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ロケットパンチ⚔Ⓟ
+    .. grid-item:: ロケットパンチⓅ⚔
         :columns: 3
     .. grid-item:: 1400 (1800)
     .. grid-item:: 1~3
@@ -217,7 +217,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ルストハリケーンⓅ
+    .. grid-item:: ルストハリケ－ンⓅ
         :columns: 3
     .. grid-item:: 1510 (1600)
     .. grid-item:: 1
@@ -229,7 +229,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾌﾞﾚｽﾄﾌｧｲﾔｰⓅ
+    .. grid-item:: ブレストファイヤ－Ⓟ
         :columns: 3
     .. grid-item:: 2040 (2500)
     .. grid-item:: 1
@@ -396,7 +396,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 冷凍ビームⓅ
+    .. grid-item:: 冷凍ビ－ムⓅ
         :columns: 3
     .. grid-item:: 650
     .. grid-item:: 1
@@ -420,7 +420,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 光子力ビームⒷⓅ
+    .. grid-item:: 光子力ビ－ム️ⓅⒷ
         :columns: 3
     .. grid-item:: 1000 (1200)
     .. grid-item:: 1
@@ -432,7 +432,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｻｻﾞﾝｸﾛｽﾅｲﾌ⚔Ⓟ
+    .. grid-item:: サザンクロスナイフⓅ⚔
         :columns: 3
     .. grid-item:: 1070 (1100)
     .. grid-item:: 1~3
@@ -456,7 +456,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ロケットパンチ⚔Ⓟ
+    .. grid-item:: ロケットパンチⓅ⚔
         :columns: 3
     .. grid-item:: 1400 (1800)
     .. grid-item:: 1~3
@@ -468,7 +468,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｽｸﾗﾝﾀﾞｰｶｯﾀｰ🤛Ⓟ
+    .. grid-item:: スクランダ－カッタ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1440 (1640)
     .. grid-item:: 1
@@ -480,7 +480,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ルストハリケーンⓅ
+    .. grid-item:: ルストハリケ－ンⓅ
         :columns: 3
     .. grid-item:: 1510 (1600)
     .. grid-item:: 1
@@ -492,7 +492,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: アイアンカッター⚔Ⓟ
+    .. grid-item:: アイアンカッタ－Ⓟ⚔
         :columns: 3
     .. grid-item:: 1600 (2200)
     .. grid-item:: 1~3
@@ -504,7 +504,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾌﾞﾚｽﾄﾌｧｲﾔｰⓅ
+    .. grid-item:: ブレストファイヤ－Ⓟ
         :columns: 3
     .. grid-item:: 2040 (2500)
     .. grid-item:: 1
@@ -693,7 +693,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｱﾌﾛﾀﾞｲﾐｻｲﾙ⚔
+    .. grid-item:: アフロダイミサイル⚔
         :columns: 3
     .. grid-item:: 880
     .. grid-item:: 1~5
@@ -878,7 +878,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｽﾍﾟｼｬﾙﾎﾞﾛｯﾄﾊﾟﾝﾁ🤛Ⓟ
+    .. grid-item:: スペシャルボロットパンチ🤛Ⓟ
         :columns: 3
     .. grid-item:: 1600 (2000)
     .. grid-item:: 1
@@ -890,7 +890,7 @@
     .. grid-item:: 120气力
     .. grid-item::
         :class: flex-break
-    .. grid-item:: SPDXﾎﾞﾛｯﾄﾊﾟﾝﾁ🤛Ⓟ
+    .. grid-item:: スペシャルＤＸボロットパンチ🤛Ⓟ
         :columns: 3
     .. grid-item:: 2800 (3500)
     .. grid-item:: 1
@@ -1080,7 +1080,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾀﾞｲｱﾅﾝﾐｻｲﾙ⚔
+    .. grid-item:: ダイアナンミサイル⚔
         :columns: 3
     .. grid-item:: 1000 (1100)
     .. grid-item:: 1~6
@@ -1092,7 +1092,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｽｶｰﾚｯﾄﾋﾞｰﾑⒷⓅ
+    .. grid-item:: スカ－レットビ－ム️ⓅⒷ
         :columns: 3
     .. grid-item:: 1200 (1400)
     .. grid-item:: 1
@@ -1278,7 +1278,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: レーザー
+    .. grid-item:: レ－ザ－
         :columns: 3
     .. grid-item:: 1100
     .. grid-item:: 1~4
@@ -1444,7 +1444,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ブーメラン⚔
+    .. grid-item:: ブ－メラン⚔
         :columns: 3
     .. grid-item:: 1220
     .. grid-item:: 1~6
@@ -1629,7 +1629,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ショックビームⓅ
+    .. grid-item:: ショックビ－ムⓅ
         :columns: 3
     .. grid-item:: 1000
     .. grid-item:: 1
@@ -2188,7 +2188,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ハリケーンⓅ
+    .. grid-item:: ハリケ－ンⓅ
         :columns: 3
     .. grid-item:: 1370
     .. grid-item:: 1

@@ -175,7 +175,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームランチャーⒷ
+    .. grid-item:: ビ－ムランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 750
     .. grid-item:: 1~6
@@ -187,7 +187,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: パルスレーザーⓅ
+    .. grid-item:: パルスレ－ザ－Ⓟ
         :columns: 3
     .. grid-item:: 880
     .. grid-item:: 1
@@ -396,7 +396,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 27ミリ機関砲Ⓟ
+    .. grid-item:: ２７ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 800
     .. grid-item:: 1
@@ -420,7 +420,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 爆雷⚔Ⓟ
+    .. grid-item:: 爆雷Ⓟ⚔
         :columns: 3
     .. grid-item:: 1200
     .. grid-item:: 1
@@ -585,7 +585,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 27ミリ機関砲Ⓟ
+    .. grid-item:: ２７ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 800
     .. grid-item:: 1
@@ -609,7 +609,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 爆雷⚔Ⓟ
+    .. grid-item:: 爆雷Ⓟ⚔
         :columns: 3
     .. grid-item:: 1200
     .. grid-item:: 1
@@ -798,7 +798,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 27ミリ機関砲Ⓟ
+    .. grid-item:: ２７ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 800
     .. grid-item:: 1
@@ -987,7 +987,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ５連ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: ５連ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 990
     .. grid-item:: 1~6
@@ -999,7 +999,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 高収束ﾋﾞｰﾑ連射砲Ⓑ
+    .. grid-item:: 高収束ビ－ム速射砲️Ⓑ
         :columns: 3
     .. grid-item:: 1020
     .. grid-item:: 1~5
@@ -1164,7 +1164,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ５連ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: ５連ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 990
     .. grid-item:: 1~6
@@ -1176,7 +1176,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 高収束ﾋﾞｰﾑ連射砲Ⓑ
+    .. grid-item:: 高収束ビ－ム速射砲️Ⓑ
         :columns: 3
     .. grid-item:: 1020
     .. grid-item:: 1~5
@@ -1365,7 +1365,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ５連ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: ５連ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 990
     .. grid-item:: 1~6
@@ -1377,7 +1377,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 高収束ﾋﾞｰﾑ連射砲Ⓑ
+    .. grid-item:: 高収束ビ－ム速射砲️Ⓑ
         :columns: 3
     .. grid-item:: 1020
     .. grid-item:: 1~5
@@ -1554,7 +1554,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 105ﾐﾘライフル砲
+    .. grid-item:: １０５ミリライフル砲
         :columns: 3
     .. grid-item:: 1070
     .. grid-item:: 1~7
@@ -1731,7 +1731,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 105ﾐﾘライフル砲
+    .. grid-item:: １０５ミリライフル砲
         :columns: 3
     .. grid-item:: 1070
     .. grid-item:: 1~7
@@ -1932,7 +1932,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 105ﾐﾘライフル砲
+    .. grid-item:: １０５ミリライフル砲
         :columns: 3
     .. grid-item:: 1070
     .. grid-item:: 1~7
@@ -2097,7 +2097,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾛｹｯﾄﾗﾝﾁｬｰ⚔
+    .. grid-item:: ロケットランチャ－⚔
         :columns: 3
     .. grid-item:: 980
     .. grid-item:: 1~5
@@ -2109,7 +2109,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 4連対空ﾊﾟﾙｽﾚｰｻﾞ-
+    .. grid-item:: ４連対空パルスレ－ザ－
         :columns: 3
     .. grid-item:: 1200
     .. grid-item:: 1~5
@@ -2121,7 +2121,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 200ミリ榴弾砲
+    .. grid-item:: ２００ミリ榴弾砲
         :columns: 3
     .. grid-item:: 1300
     .. grid-item:: 2~7
@@ -2298,7 +2298,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾛｹｯﾄﾗﾝﾁｬｰ⚔
+    .. grid-item:: ロケットランチャ－⚔
         :columns: 3
     .. grid-item:: 980
     .. grid-item:: 1~5
@@ -2310,7 +2310,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 4連対空ﾊﾟﾙｽﾚｰｻﾞ-
+    .. grid-item:: ４連対空パルスレ－ザ－
         :columns: 3
     .. grid-item:: 1200
     .. grid-item:: 1~5
@@ -2322,7 +2322,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 200ミリ榴弾砲
+    .. grid-item:: ２００ミリ榴弾砲
         :columns: 3
     .. grid-item:: 1300
     .. grid-item:: 2~7
@@ -2523,7 +2523,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾛｹｯﾄﾗﾝﾁｬｰ⚔
+    .. grid-item:: ロケットランチャ－⚔
         :columns: 3
     .. grid-item:: 980
     .. grid-item:: 1~5
@@ -2535,7 +2535,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 4連対空ﾊﾟﾙｽﾚｰｻﾞ-
+    .. grid-item:: ４連対空パルスレ－ザ－
         :columns: 3
     .. grid-item:: 1200
     .. grid-item:: 1~5
@@ -2547,7 +2547,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 200ミリ榴弾砲
+    .. grid-item:: ２００ミリ榴弾砲
         :columns: 3
     .. grid-item:: 1300
     .. grid-item:: 2~7

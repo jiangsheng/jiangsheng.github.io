@@ -173,7 +173,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ゴッドブレイカー🤛Ⓟ
+    .. grid-item:: ゴッドブレイカ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 980 (1080)
     .. grid-item:: 1
@@ -185,7 +185,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ゴーガンソード🤛Ⓟ
+    .. grid-item:: ゴ－ガンソ－ド🤛Ⓟ
         :columns: 3
     .. grid-item:: 1030 (1130)
     .. grid-item:: 1
@@ -209,7 +209,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ゴッドブーメラン⚔Ⓟ
+    .. grid-item:: ゴッドブ－メランⓅ⚔
         :columns: 3
     .. grid-item:: 1150 (1350)
     .. grid-item:: 1~3
@@ -221,7 +221,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ゴッドアロー⚔
+    .. grid-item:: ゴッドアロ－⚔
         :columns: 3
     .. grid-item:: 1250 (1350)
     .. grid-item:: 1~6
@@ -233,7 +233,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ゴッドサンダー
+    .. grid-item:: ゴッドサンダ－
         :columns: 3
     .. grid-item:: 1270 (1370)
     .. grid-item:: 1~4
@@ -245,7 +245,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｴﾈﾙｷﾞｰｶｯﾀｰ🤛Ⓟ
+    .. grid-item:: エネルギ－カッタ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1270 (1370)
     .. grid-item:: 1
@@ -257,7 +257,7 @@
     .. grid-item:: 105气力
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ゴッドプレッシャーⓅ
+    .. grid-item:: ゴッドプレッシャ－Ⓟ
         :columns: 3
     .. grid-item:: 1280 (1480)
     .. grid-item:: 1
@@ -269,7 +269,7 @@
     .. grid-item:: 105气力
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ゴッドゴーガン⚔
+    .. grid-item:: ゴッドゴ－ガン⚔
         :columns: 3
     .. grid-item:: 1700 (2100)
     .. grid-item:: 1~8
@@ -293,7 +293,7 @@
     .. grid-item:: 110气力
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ゴッドバード🤛Ⓟ
+    .. grid-item:: ゴッドバ－ド🤛Ⓟ
         :columns: 3
     .. grid-item:: 3100 (3200)
     .. grid-item:: 1
@@ -478,7 +478,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 20ミリバルカンⓅ
+    .. grid-item:: ２０ミリバルカンⓅ
         :columns: 3
     .. grid-item:: 300
     .. grid-item:: 1
@@ -667,7 +667,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: マグマ弾⚔Ⓟ
+    .. grid-item:: マグマ弾Ⓟ⚔
         :columns: 3
     .. grid-item:: 620
     .. grid-item:: 1
@@ -1011,7 +1011,7 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: セラミックソード🤛Ⓟ
+    .. grid-item:: セラミックソ－ド🤛Ⓟ
         :columns: 3
     .. grid-item:: 900
     .. grid-item:: 1
@@ -1196,7 +1196,7 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 妖魔サーベル🤛Ⓟ
+    .. grid-item:: 妖魔サ－ベル🤛Ⓟ
         :columns: 3
     .. grid-item:: 1320
     .. grid-item:: 1
@@ -1350,7 +1350,7 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ギルソード🤛Ⓟ
+    .. grid-item:: ギルソ－ド🤛Ⓟ
         :columns: 3
     .. grid-item:: 1020
     .. grid-item:: 1
@@ -1362,7 +1362,7 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ギルアロー⚔
+    .. grid-item:: ギルアロ－⚔
         :columns: 3
     .. grid-item:: 1120
     .. grid-item:: 1~7

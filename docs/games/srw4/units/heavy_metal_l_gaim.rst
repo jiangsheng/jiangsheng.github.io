@@ -175,7 +175,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: セイバー🤛Ⓟ
+    .. grid-item:: セイバ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1000
     .. grid-item:: 1
@@ -187,7 +187,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: パワーランチャーⒷ
+    .. grid-item:: パワ－ランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 1030 (1500)
     .. grid-item:: 1~6
@@ -199,7 +199,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ランサー🤛Ⓟ
+    .. grid-item:: ランサ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1070
     .. grid-item:: 1
@@ -211,7 +211,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: Ｓマイン⚔Ⓟ
+    .. grid-item:: ＳマインⓅ⚔
         :columns: 3
     .. grid-item:: 1070 (1270)
     .. grid-item:: 1~2
@@ -382,7 +382,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: セイバー🤛Ⓟ
+    .. grid-item:: セイバ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 870
     .. grid-item:: 1
@@ -394,7 +394,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ランサー🤛Ⓟ
+    .. grid-item:: ランサ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 940
     .. grid-item:: 1
@@ -406,7 +406,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: パワーランチャーⒷ
+    .. grid-item:: パワ－ランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 940 (1300)
     .. grid-item:: 1~6
@@ -418,7 +418,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: Ｓマイン⚔Ⓟ
+    .. grid-item:: ＳマインⓅ⚔
         :columns: 3
     .. grid-item:: 1070 (1270)
     .. grid-item:: 1~2
@@ -589,7 +589,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: パワーランチャーⒷ
+    .. grid-item:: パワ－ランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 1060 (1600)
     .. grid-item:: 1~6
@@ -601,7 +601,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: セイバー🤛Ⓟ
+    .. grid-item:: セイバ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1080
     .. grid-item:: 1
@@ -780,7 +780,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ハンドランチャーⒷ
+    .. grid-item:: ハンドランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 1070 (1050)
     .. grid-item:: 1~6
@@ -792,7 +792,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: Ｓマイン⚔Ⓟ
+    .. grid-item:: ＳマインⓅ⚔
         :columns: 3
     .. grid-item:: 1110 (1350)
     .. grid-item:: 1~2
@@ -804,7 +804,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: パワーランチャーⒷ
+    .. grid-item:: パワ－ランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 1120 (1700)
     .. grid-item:: 1~7
@@ -816,7 +816,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: セイバー🤛Ⓟ
+    .. grid-item:: セイバ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1150
     .. grid-item:: 1
@@ -828,7 +828,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ランサー🤛Ⓟ
+    .. grid-item:: ランサ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1220
     .. grid-item:: 1
@@ -840,7 +840,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾊﾞｽﾀｰﾗﾝﾁｬｰⒷ🗺️
+    .. grid-item:: バスタ－ランチャ－🗺️Ⓑ
         :columns: 3
     .. grid-item:: 2800
     .. grid-item:: 1~12
@@ -1007,7 +1007,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: Ｓマイン⚔Ⓟ
+    .. grid-item:: ＳマインⓅ⚔
         :columns: 3
     .. grid-item:: 1110 (1350)
     .. grid-item:: 1~2
@@ -1019,7 +1019,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: パワーランチャーⒷ
+    .. grid-item:: パワ－ランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 1120 (1700)
     .. grid-item:: 1~7
@@ -1031,7 +1031,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾊﾞｽﾀｰﾗﾝﾁｬｰⒷ🗺️
+    .. grid-item:: バスタ－ランチャ－🗺️Ⓑ
         :columns: 3
     .. grid-item:: 2800
     .. grid-item:: 1~12
@@ -1198,7 +1198,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: パワーランチャーⒷ
+    .. grid-item:: パワ－ランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 1060 (1600)
     .. grid-item:: 1~6
@@ -1210,7 +1210,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: セイバー🤛Ⓟ
+    .. grid-item:: セイバ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1080
     .. grid-item:: 1
@@ -1222,7 +1222,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: Ｓマイン⚔Ⓟ
+    .. grid-item:: ＳマインⓅ⚔
         :columns: 3
     .. grid-item:: 1110 (1350)
     .. grid-item:: 1~2
@@ -1389,7 +1389,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: パワーランチャーⒷ
+    .. grid-item:: パワ－ランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 1060 (1600)
     .. grid-item:: 1~6
@@ -1401,7 +1401,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ランサー🤛Ⓟ
+    .. grid-item:: ランサ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1070
     .. grid-item:: 1
@@ -1413,7 +1413,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: セイバー🤛Ⓟ
+    .. grid-item:: セイバ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1080
     .. grid-item:: 1
@@ -1425,7 +1425,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: リバースボマー
+    .. grid-item:: リバ－スボマ－
         :columns: 3
     .. grid-item:: 1150 (1450)
     .. grid-item:: 1~4
@@ -1437,7 +1437,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｴﾈﾙｷﾞｰﾎﾞﾝﾊﾞｰ
+    .. grid-item:: エネルギ－ボンバ－
         :columns: 3
     .. grid-item:: 1360 (1480)
     .. grid-item:: 1~5
@@ -1449,7 +1449,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾊﾞｽﾀｰﾗﾝﾁｬｰⒷ🗺️
+    .. grid-item:: バスタ－ランチャ－🗺️Ⓑ
         :columns: 3
     .. grid-item:: 2200 (2400)
     .. grid-item:: 1~12
@@ -1639,7 +1639,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: スロウランサー⚔Ⓟ
+    .. grid-item:: スロウランサ－Ⓟ⚔
         :columns: 3
     .. grid-item:: 960 (1160)
     .. grid-item:: 1~2
@@ -1651,7 +1651,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: セイバー🤛Ⓟ
+    .. grid-item:: セイバ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1000
     .. grid-item:: 1
@@ -1663,7 +1663,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: パワーランチャーⒷ
+    .. grid-item:: パワ－ランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 1030 (1500)
     .. grid-item:: 1~6
@@ -1675,7 +1675,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: Ｓマイン⚔Ⓟ
+    .. grid-item:: ＳマインⓅ⚔
         :columns: 3
     .. grid-item:: 1070 (1270)
     .. grid-item:: 1~2
@@ -1687,7 +1687,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｴﾈﾙｷﾞｰﾎﾞﾝﾊﾞｰ
+    .. grid-item:: エネルギ－ボンバ－
         :columns: 3
     .. grid-item:: 1360 (1480)
     .. grid-item:: 1~5
@@ -1699,7 +1699,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾊﾞｽﾀｰﾗﾝﾁｬｰⒷ🗺️
+    .. grid-item:: バスタ－ランチャ－🗺️Ⓑ
         :columns: 3
     .. grid-item:: 2200 (2400)
     .. grid-item:: 1~12
@@ -1864,7 +1864,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: セイバー🤛Ⓟ
+    .. grid-item:: セイバ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1000
     .. grid-item:: 1
@@ -1876,7 +1876,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: パワーランチャーⒷ
+    .. grid-item:: パワ－ランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 1030 (1500)
     .. grid-item:: 1~6
@@ -1888,7 +1888,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ランサー🤛Ⓟ
+    .. grid-item:: ランサ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1070
     .. grid-item:: 1
@@ -2072,7 +2072,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: セイバー🤛Ⓟ
+    .. grid-item:: セイバ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 870
     .. grid-item:: 1
@@ -2084,7 +2084,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: パワーランチャーⒷ
+    .. grid-item:: パワ－ランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 940 (1300)
     .. grid-item:: 1~6
@@ -2253,7 +2253,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: セイバー🤛Ⓟ
+    .. grid-item:: セイバ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 870
     .. grid-item:: 1
@@ -2265,7 +2265,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: パワーランチャーⒷ
+    .. grid-item:: パワ－ランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 940 (1300)
     .. grid-item:: 1~6
@@ -2434,7 +2434,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: スロウランサー⚔Ⓟ
+    .. grid-item:: スロウランサ－Ⓟ⚔
         :columns: 3
     .. grid-item:: 960 (1160)
     .. grid-item:: 1~2
@@ -2446,7 +2446,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: パワーランチャーⒷ
+    .. grid-item:: パワ－ランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 1120 (1700)
     .. grid-item:: 1~7
@@ -2458,7 +2458,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: セイバー🤛Ⓟ
+    .. grid-item:: セイバ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1150
     .. grid-item:: 1
@@ -2470,7 +2470,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ランサー🤛Ⓟ
+    .. grid-item:: ランサ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1220
     .. grid-item:: 1
@@ -2632,7 +2632,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: セイバー🤛Ⓟ
+    .. grid-item:: セイバ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1000
     .. grid-item:: 1
@@ -2644,7 +2644,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: パワーランチャーⒷ
+    .. grid-item:: パワ－ランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 1030 (1500)
     .. grid-item:: 1~6
@@ -2656,7 +2656,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: フロッガー🤛Ⓟ
+    .. grid-item:: フロッガ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1170 (1270)
     .. grid-item:: 1
@@ -2823,7 +2823,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: Ｓマイン⚔Ⓟ
+    .. grid-item:: ＳマインⓅ⚔
         :columns: 3
     .. grid-item:: 1110 (1350)
     .. grid-item:: 1~2
@@ -2835,7 +2835,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: パワーランチャーⒷ
+    .. grid-item:: パワ－ランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 1120 (1700)
     .. grid-item:: 1~7
@@ -2847,7 +2847,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: セイバー🤛Ⓟ
+    .. grid-item:: セイバ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1150
     .. grid-item:: 1
@@ -2859,7 +2859,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ランサー🤛Ⓟ
+    .. grid-item:: ランサ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1220
     .. grid-item:: 1
@@ -2871,7 +2871,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ギガブラスター
+    .. grid-item:: ギガブラスタ－
         :columns: 3
     .. grid-item:: 1780
     .. grid-item:: 2~10
@@ -2883,7 +2883,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾊﾞｽﾀｰﾗﾝﾁｬｰⒷ🗺️
+    .. grid-item:: バスタ－ランチャ－🗺️Ⓑ
         :columns: 3
     .. grid-item:: 2800
     .. grid-item:: 1~12
@@ -3052,7 +3052,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ハンドランチャーⒷ
+    .. grid-item:: ハンドランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 1070 (1050)
     .. grid-item:: 1~6
@@ -3064,7 +3064,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: パワーランチャーⒷ
+    .. grid-item:: パワ－ランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 1120 (1700)
     .. grid-item:: 1~7
@@ -3076,7 +3076,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: セイバー🤛Ⓟ
+    .. grid-item:: セイバ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1150
     .. grid-item:: 1
@@ -3088,7 +3088,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ギガブラスター
+    .. grid-item:: ギガブラスタ－
         :columns: 3
     .. grid-item:: 1780
     .. grid-item:: 2~10
@@ -3112,7 +3112,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾊﾞｽﾀｰﾗﾝﾁｬｰⒷ🗺️
+    .. grid-item:: バスタ－ランチャ－🗺️Ⓑ
         :columns: 3
     .. grid-item:: 2800
     .. grid-item:: 1~12
@@ -3273,7 +3273,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾌﾗｯｼｬｰﾋﾞｰﾑⒷ
+    .. grid-item:: フラッシャ－ビ－ム️Ⓑ
         :columns: 3
     .. grid-item:: 1480
     .. grid-item:: 1~7
@@ -3285,7 +3285,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｺﾞｯﾄﾞﾈﾛｽﾊﾟﾝﾁ🤛Ⓟ
+    .. grid-item:: ゴッドネロスパンチ🤛Ⓟ
         :columns: 3
     .. grid-item:: 1500
     .. grid-item:: 1
@@ -3297,7 +3297,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｸﾞﾗﾋﾞﾄﾝｳｪｰﾌﾞ
+    .. grid-item:: グラビトンウェ－ブ
         :columns: 3
     .. grid-item:: 1780
     .. grid-item:: 1~7
@@ -3454,7 +3454,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: セイバー🤛Ⓟ
+    .. grid-item:: セイバ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1000
     .. grid-item:: 1
@@ -3466,7 +3466,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: パワーランチャーⒷ
+    .. grid-item:: パワ－ランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 1060 (1600)
     .. grid-item:: 1~6
@@ -3478,7 +3478,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ランサー🤛Ⓟ
+    .. grid-item:: ランサ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1070
     .. grid-item:: 1
@@ -3502,7 +3502,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ハンマー🤛Ⓟ
+    .. grid-item:: ハンマ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1250
     .. grid-item:: 1
@@ -3678,7 +3678,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: パワーランチャーⒷ
+    .. grid-item:: パワ－ランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 1030 (1500)
     .. grid-item:: 1~6

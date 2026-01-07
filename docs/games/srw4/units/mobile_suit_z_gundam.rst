@@ -185,7 +185,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: アームビームガン⚔Ⓑ
+    .. grid-item:: ア－ムビ－ムガン️⚔Ⓑ
         :columns: 3
     .. grid-item:: 840
     .. grid-item:: 1~6
@@ -197,7 +197,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 920
     .. grid-item:: 1
@@ -382,7 +382,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: アームビームガン⚔Ⓑ
+    .. grid-item:: ア－ムビ－ムガン️⚔Ⓑ
         :columns: 3
     .. grid-item:: 840
     .. grid-item:: 1~6
@@ -561,7 +561,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 920
     .. grid-item:: 1
@@ -573,7 +573,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1020
     .. grid-item:: 1~6
@@ -585,7 +585,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ハイパーバズーカ⚔
+    .. grid-item:: ハイパ－バズ－カ⚔
         :columns: 3
     .. grid-item:: 1200
     .. grid-item:: 2~5
@@ -597,7 +597,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 散弾バズーカ
+    .. grid-item:: 散弾バズ－カ
         :columns: 3
     .. grid-item:: 1250
     .. grid-item:: 2~5
@@ -766,7 +766,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 880
     .. grid-item:: 1~5
@@ -778,7 +778,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ロングライフルⒷ
+    .. grid-item:: ロングライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1100
     .. grid-item:: 1~7
@@ -959,7 +959,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 880
     .. grid-item:: 1~5
@@ -971,7 +971,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 920
     .. grid-item:: 1
@@ -983,7 +983,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1020
     .. grid-item:: 1~6
@@ -995,7 +995,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ロングライフルⒷ
+    .. grid-item:: ロングライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1100
     .. grid-item:: 1~7
@@ -1007,7 +1007,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ハイパーバズーカ⚔
+    .. grid-item:: ハイパ－バズ－カ⚔
         :columns: 3
     .. grid-item:: 1200
     .. grid-item:: 2~5
@@ -1019,7 +1019,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 散弾バズーカ
+    .. grid-item:: 散弾バズ－カ
         :columns: 3
     .. grid-item:: 1250
     .. grid-item:: 2~5
@@ -1205,7 +1205,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 920
     .. grid-item:: 1
@@ -1217,7 +1217,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1020
     .. grid-item:: 1~6
@@ -1390,7 +1390,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 160ミリ機関砲Ⓟ
+    .. grid-item:: １６０ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 450
     .. grid-item:: 1
@@ -1402,7 +1402,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: サブメガ粒子砲Ⓑ
+    .. grid-item:: サブメガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 900
     .. grid-item:: 1~6
@@ -1414,7 +1414,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 20連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: ２０連装ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 1100
     .. grid-item:: 1~6
@@ -1426,7 +1426,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メインメガ粒子砲Ⓑ
+    .. grid-item:: メインメガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 1280
     .. grid-item:: 2~8
@@ -1438,7 +1438,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾊｲﾊﾟｰﾒｶﾞ粒子砲Ⓑ🗺️
+    .. grid-item:: ハイパ－メガ粒子砲🗺️Ⓑ
         :columns: 3
     .. grid-item:: 2000
     .. grid-item:: 1~9
@@ -1621,7 +1621,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 940
     .. grid-item:: 1
@@ -1633,7 +1633,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾛﾝｸﾞﾋﾞｰﾑｻｰﾍﾞﾙ🤛⚔Ⓟ
+    .. grid-item:: ロングビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 1040
     .. grid-item:: 1
@@ -1645,7 +1645,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1100
     .. grid-item:: 1~6
@@ -1657,7 +1657,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｸﾞﾚﾈｰﾄﾞﾗﾝﾁｬｰ⚔
+    .. grid-item:: グレネ－ドランチャ－⚔
         :columns: 3
     .. grid-item:: 1110
     .. grid-item:: 1~5
@@ -1669,7 +1669,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾊｲﾊﾟｰﾒｶﾞﾗﾝﾁｬｰⒷ
+    .. grid-item:: ハイパ－メガランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 2400 (2700)
     .. grid-item:: 1~8
@@ -1840,7 +1840,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームガンⒷ
+    .. grid-item:: ビ－ムガン️Ⓑ
         :columns: 3
     .. grid-item:: 1080
     .. grid-item:: 1~6
@@ -1852,7 +1852,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1100
     .. grid-item:: 1~6
@@ -1864,7 +1864,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾊｲﾊﾟｰﾒｶﾞﾗﾝﾁｬｰⒷ
+    .. grid-item:: ハイパ－メガランチャ－️Ⓑ
         :columns: 3
     .. grid-item:: 2400 (2700)
     .. grid-item:: 1~8
@@ -2040,7 +2040,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 940
     .. grid-item:: 1
@@ -2052,7 +2052,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾌｪﾀﾞｰｲﾝﾗｲﾌﾙⒷ
+    .. grid-item:: フェダ－インライフル️Ⓑ
         :columns: 3
     .. grid-item:: 940
     .. grid-item:: 1~8
@@ -2220,7 +2220,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾌｪﾀﾞｰｲﾝﾗｲﾌﾙⒷ
+    .. grid-item:: フェダ－インライフル️Ⓑ
         :columns: 3
     .. grid-item:: 940
     .. grid-item:: 1~8
@@ -2235,8 +2235,8 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
         :columns: 3
 
-        | クローアーム🤛Ⓟ (Snes)
-        | クローアームⓅ (PlayStation)
+        | クロ－ア－ム🤛Ⓟ (Snes)
+        | クロ－ア－ムⓅ (PlayStation)
 
     .. grid-item:: 990
     .. grid-item:: 1
@@ -2396,7 +2396,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メガ粒子砲Ⓑ
+    .. grid-item:: メガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 940
     .. grid-item:: 1~6
@@ -2408,7 +2408,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 980
     .. grid-item:: 1
@@ -2591,7 +2591,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 940
     .. grid-item:: 1
@@ -2603,7 +2603,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1100
     .. grid-item:: 1~6
@@ -2615,7 +2615,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: クレイバズーカ⚔
+    .. grid-item:: クレイバズ－カ⚔
         :columns: 3
     .. grid-item:: 1120
     .. grid-item:: 2~6
@@ -2627,7 +2627,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾒｶﾞﾊﾞｽﾞｰｶﾗﾝﾁｬｰⒷ🗺️
+    .. grid-item:: メガバズ－カランチャ－🗺️Ⓑ
         :columns: 3
     .. grid-item:: 2600
     .. grid-item:: 1~12
@@ -2809,7 +2809,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 920
     .. grid-item:: 1
@@ -2821,7 +2821,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1020
     .. grid-item:: 1~6
@@ -2991,7 +2991,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 920
     .. grid-item:: 1
@@ -3003,7 +3003,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1020
     .. grid-item:: 1~6
@@ -3161,7 +3161,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 980
     .. grid-item:: 1
@@ -3173,7 +3173,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 大型ﾋﾞｰﾑﾗｲﾌﾙⒷ
+    .. grid-item:: 大型ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 980
     .. grid-item:: 1~6
@@ -3330,7 +3330,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 大型ﾋﾞｰﾑﾗｲﾌﾙⒷ
+    .. grid-item:: 大型ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 980
     .. grid-item:: 1~6
@@ -3488,7 +3488,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 940
     .. grid-item:: 1
@@ -3500,7 +3500,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1050
     .. grid-item:: 1~6
@@ -3512,7 +3512,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームガンⒷ
+    .. grid-item:: ビ－ムガン️Ⓑ
         :columns: 3
     .. grid-item:: 1080
     .. grid-item:: 1~6
@@ -3682,7 +3682,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1050
     .. grid-item:: 1~6
@@ -3694,7 +3694,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームガンⒷ
+    .. grid-item:: ビ－ムガン️Ⓑ
         :columns: 3
     .. grid-item:: 1080
     .. grid-item:: 1~6
@@ -3864,7 +3864,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 拡散メガ粒子砲ⒷⓅ
+    .. grid-item:: 拡散メガ粒子砲️ⓅⒷ
         :columns: 3
     .. grid-item:: 840
     .. grid-item:: 1
@@ -3876,7 +3876,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1100
     .. grid-item:: 1~6
@@ -4034,7 +4034,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 拡散メガ粒子砲ⒷⓅ
+    .. grid-item:: 拡散メガ粒子砲️ⓅⒷ
         :columns: 3
     .. grid-item:: 840
     .. grid-item:: 1
@@ -4049,8 +4049,8 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
         :columns: 3
 
-        | クローアーム🤛Ⓟ (Snes)
-        | クローアームⓅ (PlayStation)
+        | クロ－ア－ム🤛Ⓟ (Snes)
+        | クロ－ア－ムⓅ (PlayStation)
 
     .. grid-item:: 990
     .. grid-item:: 1
@@ -4206,7 +4206,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 880
     .. grid-item:: 1~5
@@ -4218,7 +4218,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メガ粒子砲Ⓑ
+    .. grid-item:: メガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 880
     .. grid-item:: 1~6
@@ -4233,8 +4233,8 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
         :columns: 3
 
-        | クローアーム🤛Ⓟ (Snes)
-        | クローアームⓅ (PlayStation)
+        | クロ－ア－ム🤛Ⓟ (Snes)
+        | クロ－ア－ムⓅ (PlayStation)
 
     .. grid-item:: 990
     .. grid-item:: 1
@@ -4390,7 +4390,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｻｲｺﾐｭ式ﾒｶﾞ粒子砲
+    .. grid-item:: サイコミュ式メガ粒子砲
         :columns: 3
     .. grid-item:: 1240
     .. grid-item:: 1~7
@@ -4555,7 +4555,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 120ミリ機関砲Ⓟ
+    .. grid-item:: １２０ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
     .. grid-item:: 1
@@ -4579,7 +4579,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メガ粒子砲Ⓑ
+    .. grid-item:: メガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 880
     .. grid-item:: 1~6
@@ -4591,7 +4591,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 12連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: １２連装ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 980
     .. grid-item:: 1~6
@@ -4755,7 +4755,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 拡散メガ粒子砲ⒷⓅ
+    .. grid-item:: 拡散メガ粒子砲️ⓅⒷ
         :columns: 3
     .. grid-item:: 890
     .. grid-item:: 1
@@ -4767,7 +4767,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 小型メガビーム砲Ⓑ
+    .. grid-item:: 小型メガビ－ム砲️Ⓑ
         :columns: 3
     .. grid-item:: 950
     .. grid-item:: 1~6
@@ -4779,7 +4779,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビーム砲Ⓑ
+    .. grid-item:: ビ－ム砲️Ⓑ
         :columns: 3
     .. grid-item:: 1250
     .. grid-item:: 1~6
@@ -4944,7 +4944,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 拡散メガ粒子砲ⒷⓅ
+    .. grid-item:: 拡散メガ粒子砲️ⓅⒷ
         :columns: 3
     .. grid-item:: 890
     .. grid-item:: 1
@@ -4956,7 +4956,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 小型メガビーム砲Ⓑ
+    .. grid-item:: 小型メガビ－ム砲️Ⓑ
         :columns: 3
     .. grid-item:: 950
     .. grid-item:: 1~6
@@ -4968,7 +4968,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビーム砲Ⓑ
+    .. grid-item:: ビ－ム砲️Ⓑ
         :columns: 3
     .. grid-item:: 1250
     .. grid-item:: 1~6
@@ -5133,7 +5133,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾒｶﾞ拡散ﾋﾞｰﾑ砲ⒷⓅ
+    .. grid-item:: メガ拡散ビ－ム砲️ⓅⒷ
         :columns: 3
     .. grid-item:: 880
     .. grid-item:: 1
@@ -5145,7 +5145,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メガビーム砲Ⓑ
+    .. grid-item:: メガビ－ム砲️Ⓑ
         :columns: 3
     .. grid-item:: 1230
     .. grid-item:: 1~7
@@ -5157,7 +5157,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｻｲｺﾐｭ式ﾋﾞｰﾑｿｰﾄﾞ⚔Ⓟ
+    .. grid-item:: サイコミュ式ビ－ムソ－ドⓅ⚔
         :columns: 3
     .. grid-item:: 1650
     .. grid-item:: 1
@@ -5169,7 +5169,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 100气力ニュータイプ
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾚﾌﾚｸﾀｰﾋﾞｯﾄ⚔
+    .. grid-item:: レフレクタ－ビット⚔
         :columns: 3
     .. grid-item:: 1960
     .. grid-item:: 1~7
@@ -5334,7 +5334,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾒｶﾞ拡散ﾋﾞｰﾑ砲ⒷⓅ
+    .. grid-item:: メガ拡散ビ－ム砲️ⓅⒷ
         :columns: 3
     .. grid-item:: 880
     .. grid-item:: 1
@@ -5346,7 +5346,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メガビーム砲Ⓑ
+    .. grid-item:: メガビ－ム砲️Ⓑ
         :columns: 3
     .. grid-item:: 1230
     .. grid-item:: 1~7
@@ -5358,7 +5358,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾚﾌﾚｸﾀｰﾋﾞｯﾄ⚔
+    .. grid-item:: レフレクタ－ビット⚔
         :columns: 3
     .. grid-item:: 1960
     .. grid-item:: 1~7
@@ -5523,7 +5523,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 1020
     .. grid-item:: 1
@@ -5535,7 +5535,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームガンⒷ
+    .. grid-item:: ビ－ムガン️Ⓑ
         :columns: 3
     .. grid-item:: 1200
     .. grid-item:: 1~7
@@ -5712,7 +5712,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 120ミリ機関砲Ⓟ
+    .. grid-item:: １２０ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
     .. grid-item:: 1
@@ -5724,7 +5724,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: サブメガ粒子砲Ⓑ
+    .. grid-item:: サブメガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 800
     .. grid-item:: 1~6
@@ -5736,7 +5736,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 20連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: ２０連装ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 1100
     .. grid-item:: 1~6
@@ -5748,7 +5748,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メインメガ粒子砲Ⓑ
+    .. grid-item:: メインメガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 1150
     .. grid-item:: 2~8
@@ -5902,7 +5902,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 120ミリ機関砲Ⓟ
+    .. grid-item:: １２０ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
     .. grid-item:: 1
@@ -5914,7 +5914,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: サブメガ粒子砲Ⓑ
+    .. grid-item:: サブメガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 900
     .. grid-item:: 1~6
@@ -5926,7 +5926,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 20連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: ２０連装ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 1100
     .. grid-item:: 1~6
@@ -5938,7 +5938,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メインメガ粒子砲Ⓑ
+    .. grid-item:: メインメガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 1280
     .. grid-item:: 2~8
@@ -6092,7 +6092,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 140ミリ機関砲Ⓟ
+    .. grid-item:: １４０ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 400
     .. grid-item:: 1
@@ -6104,7 +6104,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: サブメガ粒子砲Ⓑ
+    .. grid-item:: サブメガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 800
     .. grid-item:: 1~6
@@ -6116,7 +6116,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 20連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: ２０連装ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 1100
     .. grid-item:: 1~6
@@ -6128,7 +6128,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メインメガ粒子砲Ⓑ
+    .. grid-item:: メインメガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 1150
     .. grid-item:: 2~8
@@ -6140,7 +6140,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ハイメガ粒子砲Ⓑ
+    .. grid-item:: ハイメガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 2150
     .. grid-item:: 2~8
@@ -6294,7 +6294,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 120ミリ機関砲Ⓟ
+    .. grid-item:: １２０ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
     .. grid-item:: 1
@@ -6318,7 +6318,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メガ粒子砲Ⓑ
+    .. grid-item:: メガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 880
     .. grid-item:: 1~6
@@ -6330,7 +6330,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 12連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: １２連装ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 980
     .. grid-item:: 1~6

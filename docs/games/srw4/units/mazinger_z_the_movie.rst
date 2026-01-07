@@ -344,7 +344,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾏﾘﾝｳﾞｫﾙﾃｯｸｽ
+    .. grid-item:: マリンヴォルテックス
         :columns: 3
     .. grid-item:: 1320
     .. grid-item:: 1~4
@@ -524,7 +524,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ベガトロンビーム⚔
+    .. grid-item:: ベガトロンビ－ム⚔
         :columns: 3
     .. grid-item:: 1060
     .. grid-item:: 1~6
@@ -536,7 +536,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: クロー🤛Ⓟ
+    .. grid-item:: クロ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1200
     .. grid-item:: 1
@@ -702,7 +702,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｲﾋﾞﾙﾘﾝｸﾞ⚔
+    .. grid-item:: イビルリング⚔
         :columns: 3
     .. grid-item:: 1230
     .. grid-item:: 1~5
@@ -1040,7 +1040,7 @@ HP高一点，但是战斗力偏弱。
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾗｲﾄﾆﾝｸﾞｱﾛｰ
+    .. grid-item:: ライトニングアロ－
         :columns: 3
     .. grid-item:: 1600
     .. grid-item:: 1~7
@@ -1198,7 +1198,7 @@ HP高一点，但是战斗力偏弱。
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: アイアンクロー🤛Ⓟ
+    .. grid-item:: アイアンクロ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1500
     .. grid-item:: 1
@@ -1210,7 +1210,7 @@ HP高一点，但是战斗力偏弱。
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｸﾞﾗﾋﾞﾄﾝｳｪｰﾌﾞ
+    .. grid-item:: グラビトンウェ－ブ
         :columns: 3
     .. grid-item:: 1780
     .. grid-item:: 1~7

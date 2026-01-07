@@ -164,7 +164,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: マリンビームⒷ
+    .. grid-item:: マリンビ－ム️Ⓑ
         :columns: 3
     .. grid-item:: 1650
     .. grid-item:: 1~6
@@ -176,7 +176,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: マリンカッター⚔
+    .. grid-item:: マリンカッタ－⚔
         :columns: 3
     .. grid-item:: 1760
     .. grid-item:: 1~5
@@ -374,7 +374,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: スパークボンバーⒷ
+    .. grid-item:: スパ－クボンバ－️Ⓑ
         :columns: 3
     .. grid-item:: 1570 (1670)
     .. grid-item:: 1~6
@@ -557,7 +557,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ハンドビームⒷⓅ
+    .. grid-item:: ハンドビ－ム️ⓅⒷ
         :columns: 3
     .. grid-item:: 800
     .. grid-item:: 1
@@ -569,7 +569,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｼｮﾙﾀﾞｰﾌﾞｰﾒﾗﾝ⚔
+    .. grid-item:: ショルダ－ブ－メラン⚔
         :columns: 3
     .. grid-item:: 1400 (1600)
     .. grid-item:: 1~6
@@ -581,7 +581,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ダブルハーケンⓅ
+    .. grid-item:: ダブルハ－ケンⓅ
         :columns: 3
     .. grid-item:: 1400 (1800)
     .. grid-item:: 1
@@ -593,7 +593,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 反重力ストームⓅ
+    .. grid-item:: 反重力スト－ムⓅ
         :columns: 3
     .. grid-item:: 1580 (2000)
     .. grid-item:: 1
@@ -605,7 +605,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｽｸﾘｭｰｸﾗｯｼｬｰ⚔Ⓟ
+    .. grid-item:: スクリュ－クラッシャ－Ⓟ⚔
         :columns: 3
     .. grid-item:: 1800
     .. grid-item:: 1~3
@@ -617,7 +617,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: スペースサンダーⓅ
+    .. grid-item:: スペ－スサンダ－Ⓟ
         :columns: 3
     .. grid-item:: 2800 (3200)
     .. grid-item:: 1
@@ -792,7 +792,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ハンドビームⒷⓅ
+    .. grid-item:: ハンドビ－ム️ⓅⒷ
         :columns: 3
     .. grid-item:: 800
     .. grid-item:: 1
@@ -804,7 +804,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｼｮﾙﾀﾞｰﾌﾞｰﾒﾗﾝ⚔
+    .. grid-item:: ショルダ－ブ－メラン⚔
         :columns: 3
     .. grid-item:: 1400 (1600)
     .. grid-item:: 1~6
@@ -816,7 +816,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メルトシャワーⓅ
+    .. grid-item:: メルトシャワ－Ⓟ
         :columns: 3
     .. grid-item:: 1400
     .. grid-item:: 1
@@ -828,7 +828,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: スピンソーサー⚔
+    .. grid-item:: スピンソ－サ－⚔
         :columns: 3
     .. grid-item:: 1500
     .. grid-item:: 1~4
@@ -852,7 +852,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 反重力ストームⓅ
+    .. grid-item:: 反重力スト－ムⓅ
         :columns: 3
     .. grid-item:: 1580 (2000)
     .. grid-item:: 1
@@ -864,7 +864,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｽｸﾘｭｰｸﾗｯｼｬｰﾊﾟﾝﾁ⚔Ⓟ
+    .. grid-item:: スクリュ－クラッシャ－Ⓟ⚔
         :columns: 3
     .. grid-item:: 1800 (2400)
     .. grid-item:: 1~3
@@ -876,7 +876,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: スペースサンダーⓅ
+    .. grid-item:: スペ－スサンダ－Ⓟ
         :columns: 3
     .. grid-item:: 2800 (3200)
     .. grid-item:: 1
@@ -1054,7 +1054,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: サイクロンビームⒷ
+    .. grid-item:: サイクロンビ－ム️Ⓑ
         :columns: 3
     .. grid-item:: 1600 (1700)
     .. grid-item:: 1~6
@@ -1066,7 +1066,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ダブルカッター⚔
+    .. grid-item:: ダブルカッタ－⚔
         :columns: 3
     .. grid-item:: 1850 (1950)
     .. grid-item:: 1~5
@@ -1237,7 +1237,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ハンドビームⒷⓅ
+    .. grid-item:: ハンドビ－ム️ⓅⒷ
         :columns: 3
     .. grid-item:: 800
     .. grid-item:: 1
@@ -1261,7 +1261,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｼｮﾙﾀﾞｰﾌﾞｰﾒﾗﾝ⚔
+    .. grid-item:: ショルダ－ブ－メラン⚔
         :columns: 3
     .. grid-item:: 1400 (1600)
     .. grid-item:: 1~6
@@ -1273,7 +1273,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ダブルハーケンⓅ
+    .. grid-item:: ダブルハ－ケンⓅ
         :columns: 3
     .. grid-item:: 1400 (1800)
     .. grid-item:: 1
@@ -1285,7 +1285,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 反重力ストームⓅ
+    .. grid-item:: 反重力スト－ムⓅ
         :columns: 3
     .. grid-item:: 1580 (2000)
     .. grid-item:: 1
@@ -1297,7 +1297,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: サイクロンビームⒷ
+    .. grid-item:: サイクロンビ－ム️Ⓑ
         :columns: 3
     .. grid-item:: 1600 (1700)
     .. grid-item:: 1~6
@@ -1309,7 +1309,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｽｸﾘｭｰｸﾗｯｼｬｰﾊﾟﾝﾁ⚔Ⓟ
+    .. grid-item:: スクリュ－クラッシャ－Ⓟ⚔
         :columns: 3
     .. grid-item:: 1800 (2400)
     .. grid-item:: 1~3
@@ -1321,7 +1321,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ダブルカッター⚔
+    .. grid-item:: ダブルカッタ－⚔
         :columns: 3
     .. grid-item:: 1850 (1950)
     .. grid-item:: 1~5
@@ -1333,7 +1333,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: スペースサンダーⓅ
+    .. grid-item:: スペ－スサンダ－Ⓟ
         :columns: 3
     .. grid-item:: 2800 (3200)
     .. grid-item:: 1
@@ -1498,7 +1498,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ハンドビームⒷⓅ
+    .. grid-item:: ハンドビ－ム️ⓅⒷ
         :columns: 3
     .. grid-item:: 800
     .. grid-item:: 1
@@ -1522,7 +1522,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｼｮﾙﾀﾞｰﾌﾞｰﾒﾗﾝ⚔
+    .. grid-item:: ショルダ－ブ－メラン⚔
         :columns: 3
     .. grid-item:: 1400 (1600)
     .. grid-item:: 1~6
@@ -1534,7 +1534,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ダブルハーケンⓅ
+    .. grid-item:: ダブルハ－ケンⓅ
         :columns: 3
     .. grid-item:: 1400 (1800)
     .. grid-item:: 1
@@ -1546,7 +1546,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: スパークボンバーⒷ
+    .. grid-item:: スパ－クボンバ－️Ⓑ
         :columns: 3
     .. grid-item:: 1570 (1670)
     .. grid-item:: 1~6
@@ -1558,7 +1558,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 反重力ストームⓅ
+    .. grid-item:: 反重力スト－ムⓅ
         :columns: 3
     .. grid-item:: 1580 (2000)
     .. grid-item:: 1
@@ -1570,7 +1570,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｽｸﾘｭｰｸﾗｯｼｬｰﾊﾟﾝﾁ⚔Ⓟ
+    .. grid-item:: スクリュ－クラッシャ－Ⓟ⚔
         :columns: 3
     .. grid-item:: 1800 (2400)
     .. grid-item:: 1~3
@@ -1594,7 +1594,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: スペースサンダーⓅ
+    .. grid-item:: スペ－スサンダ－Ⓟ
         :columns: 3
     .. grid-item:: 2800 (3200)
     .. grid-item:: 1
@@ -1759,7 +1759,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ハンドビームⒷⓅ
+    .. grid-item:: ハンドビ－ム️ⓅⒷ
         :columns: 3
     .. grid-item:: 800
     .. grid-item:: 1
@@ -1771,7 +1771,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｼｮﾙﾀﾞｰﾌﾞｰﾒﾗﾝ⚔
+    .. grid-item:: ショルダ－ブ－メラン⚔
         :columns: 3
     .. grid-item:: 1400 (1600)
     .. grid-item:: 1~6
@@ -1783,7 +1783,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ダブルハーケンⓅ
+    .. grid-item:: ダブルハ－ケンⓅ
         :columns: 3
     .. grid-item:: 1400 (1800)
     .. grid-item:: 1
@@ -1795,7 +1795,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 反重力ストームⓅ
+    .. grid-item:: 反重力スト－ムⓅ
         :columns: 3
     .. grid-item:: 1580 (2000)
     .. grid-item:: 1
@@ -1807,7 +1807,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: マリンビームⒷ
+    .. grid-item:: マリンビ－ム️Ⓑ
         :columns: 3
     .. grid-item:: 1650
     .. grid-item:: 1~6
@@ -1819,7 +1819,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: マリンカッター⚔
+    .. grid-item:: マリンカッタ－⚔
         :columns: 3
     .. grid-item:: 1760
     .. grid-item:: 1~5
@@ -1831,7 +1831,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｽｸﾘｭｰｸﾗｯｼｬｰﾊﾟﾝﾁ⚔Ⓟ
+    .. grid-item:: スクリュ－クラッシャ－Ⓟ⚔
         :columns: 3
     .. grid-item:: 1800 (2400)
     .. grid-item:: 1~3
@@ -1855,7 +1855,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: スペースサンダーⓅ
+    .. grid-item:: スペ－スサンダ－Ⓟ
         :columns: 3
     .. grid-item:: 2800 (3200)
     .. grid-item:: 1
@@ -2017,7 +2017,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームバルカンⒷⓅ
+    .. grid-item:: ビ－ムバルカン️ⓅⒷ
         :columns: 3
     .. grid-item:: 350
     .. grid-item:: 1
@@ -2029,7 +2029,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾍﾞｶﾞﾄﾛﾝﾋﾞｰﾑ砲
+    .. grid-item:: ベガトロンビ－ム砲
         :columns: 3
     .. grid-item:: 500
     .. grid-item:: 1~4
@@ -2185,7 +2185,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: レーザー
+    .. grid-item:: レ－ザ－
         :columns: 3
     .. grid-item:: 700
     .. grid-item:: 1~6
@@ -2369,7 +2369,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ベガトロンビーム⚔
+    .. grid-item:: ベガトロンビ－ム⚔
         :columns: 3
     .. grid-item:: 1060
     .. grid-item:: 1~6
@@ -2381,7 +2381,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｼｰﾙﾄﾞﾌﾞｰﾒﾗﾝ⚔
+    .. grid-item:: シ－ルドブ－メラン⚔
         :columns: 3
     .. grid-item:: 1080
     .. grid-item:: 1~6
@@ -2393,7 +2393,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｽﾗｲｽｼｰﾙﾄﾞ🤛Ⓟ
+    .. grid-item:: スライスシ－ルド🤛Ⓟ
         :columns: 3
     .. grid-item:: 1200
     .. grid-item:: 1
@@ -2739,7 +2739,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾍﾞｶﾞﾄﾛﾝﾋﾞｰﾑ砲
+    .. grid-item:: ベガトロンビ－ム砲
         :columns: 3
     .. grid-item:: 980
     .. grid-item:: 2~6
@@ -2893,7 +2893,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームバルカンⒷⓅ
+    .. grid-item:: ビ－ムバルカン️ⓅⒷ
         :columns: 3
     .. grid-item:: 350
     .. grid-item:: 1
@@ -2905,7 +2905,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 巨大ﾍﾞｶﾞﾄﾛﾝﾋﾞｰﾑ砲
+    .. grid-item:: 巨大ベガトロンビ－ム砲
         :columns: 3
     .. grid-item:: 1040
     .. grid-item:: 1~7

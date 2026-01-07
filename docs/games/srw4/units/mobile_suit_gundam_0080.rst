@@ -173,7 +173,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 120ミリ機関砲Ⓟ
+    .. grid-item:: １２０ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
     .. grid-item:: 1
@@ -185,7 +185,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: サブメガ粒子砲Ⓑ
+    .. grid-item:: サブメガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 800
     .. grid-item:: 1~6
@@ -197,7 +197,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 15連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: １５連装ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 1050
     .. grid-item:: 1~6
@@ -209,7 +209,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メインメガ粒子砲Ⓑ
+    .. grid-item:: メインメガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 1150
     .. grid-item:: 2~8
@@ -384,7 +384,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ヒートホーク🤛Ⓟ
+    .. grid-item:: ヒ－トホ－ク🤛Ⓟ
         :columns: 3
     .. grid-item:: 600
     .. grid-item:: 1
@@ -396,7 +396,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 120mmマシンガン
+    .. grid-item:: １２０ｍｍマシンガン
         :columns: 3
     .. grid-item:: 600
     .. grid-item:: 1~5
@@ -408,7 +408,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ザクバズーカ⚔
+    .. grid-item:: ザクバズ－カ⚔
         :columns: 3
     .. grid-item:: 800
     .. grid-item:: 2~5
@@ -420,7 +420,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ハンドグレネイド⚔Ⓟ
+    .. grid-item:: ハンドグレネイドⓅ⚔
         :columns: 3
     .. grid-item:: 820
     .. grid-item:: 1~2
@@ -432,7 +432,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｼｭﾂﾙﾑﾌｧｳｽﾄ⚔
+    .. grid-item:: シュツルムファウスト⚔
         :columns: 3
     .. grid-item:: 870
     .. grid-item:: 1~4
@@ -634,7 +634,7 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 920
     .. grid-item:: 1
@@ -646,7 +646,7 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームライフルⒷ
+    .. grid-item:: ビ－ムライフル️Ⓑ
         :columns: 3
     .. grid-item:: 1020
     .. grid-item:: 1~6
@@ -816,7 +816,7 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 60ミリ機関砲Ⓟ
+    .. grid-item:: ６０ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 640
     .. grid-item:: 1
@@ -840,7 +840,7 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームサーベル🤛⚔Ⓟ
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
         :columns: 3
     .. grid-item:: 920
     .. grid-item:: 1
@@ -864,7 +864,7 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾊﾟﾝﾂｧｰﾌｧｳｽﾄ⚔Ⓟ
+    .. grid-item:: パンツァ－ファウストⓅ⚔
         :columns: 3
     .. grid-item:: 1010
     .. grid-item:: 1~3
@@ -876,7 +876,7 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: チェーンマイン🤛
+    .. grid-item:: チェ－ンマイン🤛
         :columns: 3
     .. grid-item:: 1200
     .. grid-item:: 1
@@ -1036,7 +1036,7 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 120ミリ機関砲Ⓟ
+    .. grid-item:: １２０ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 350
     .. grid-item:: 1
@@ -1048,7 +1048,7 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メガ粒子砲Ⓑ
+    .. grid-item:: メガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 880
     .. grid-item:: 1~6
@@ -1060,7 +1060,7 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 12連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: １２連装ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 980
     .. grid-item:: 1~6
@@ -1222,7 +1222,7 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 90ミリ機関砲Ⓟ
+    .. grid-item:: ９０ミリ機関砲Ⓟ
         :columns: 3
     .. grid-item:: 320
     .. grid-item:: 1
@@ -1234,7 +1234,7 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: サブメガ粒子砲Ⓑ
+    .. grid-item:: サブメガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 800
     .. grid-item:: 1~6
@@ -1246,7 +1246,7 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 15連装ﾐｻｲﾙﾗﾝﾁｬｰ⚔
+    .. grid-item:: １５連装ミサイルランチャ－⚔
         :columns: 3
     .. grid-item:: 1050
     .. grid-item:: 1~6
@@ -1258,7 +1258,7 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: メインメガ粒子砲Ⓑ
+    .. grid-item:: メインメガ粒子砲️Ⓑ
         :columns: 3
     .. grid-item:: 1150
     .. grid-item:: 2~8

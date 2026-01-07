@@ -173,7 +173,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ロックファイター⚔Ⓟ
+    .. grid-item:: ロックファイタ－Ⓟ⚔
         :columns: 3
     .. grid-item:: 700
     .. grid-item:: 1
@@ -185,7 +185,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: バトルガレッガー🤛Ⓟ
+    .. grid-item:: バトルガレッガ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 860
     .. grid-item:: 1
@@ -197,7 +197,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 超電磁クレーン🤛Ⓟ
+    .. grid-item:: 超電磁クレ－ン🤛Ⓟ
         :columns: 3
     .. grid-item:: 890
     .. grid-item:: 1
@@ -209,7 +209,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｱﾄﾐｯｸﾊﾞｰﾅｰⓅ
+    .. grid-item:: アトミックバ－ナ－Ⓟ
         :columns: 3
     .. grid-item:: 940
     .. grid-item:: 1
@@ -221,7 +221,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｽﾌﾟﾘﾝｸﾞｸﾗｯｼｬｰ🤛Ⓟ
+    .. grid-item:: スプリングクラッシャ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 960
     .. grid-item:: 1
@@ -233,7 +233,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: バトルリターン⚔Ⓟ
+    .. grid-item:: バトルリタ－ンⓅ⚔
         :columns: 3
     .. grid-item:: 1000
     .. grid-item:: 1~2
@@ -245,7 +245,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: マグネクロー⚔Ⓟ
+    .. grid-item:: マグネクロ－Ⓟ⚔
         :columns: 3
     .. grid-item:: 1170
     .. grid-item:: 1
@@ -257,7 +257,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ツインランサー🤛Ⓟ
+    .. grid-item:: ツインランサ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1210 (1300)
     .. grid-item:: 1
@@ -269,7 +269,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 超電磁スパーク
+    .. grid-item:: 超電磁スパ－ク
         :columns: 3
     .. grid-item:: 1500
     .. grid-item:: 1~5
@@ -293,7 +293,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 超電磁ヨーヨー🤛Ⓟ
+    .. grid-item:: 超電磁ヨ－ヨ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1780 (2050)
     .. grid-item:: 1
@@ -305,7 +305,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾊﾞﾄﾙﾁｪｰﾝｿｰ⚔
+    .. grid-item:: バトルチェ－ンソ－⚔
         :columns: 3
     .. grid-item:: 1890 (1980)
     .. grid-item:: 1~5
@@ -317,7 +317,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: Bﾌﾞﾗｽﾄ･DV⚔
+    .. grid-item:: ビッグブラスト・ディバイダ－⚔
         :columns: 3
     .. grid-item:: 2050 (2150)
     .. grid-item:: 1~6
@@ -329,7 +329,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: Ｖレーザー
+    .. grid-item:: Ｖレ－ザ－
         :columns: 3
     .. grid-item:: 2200 (2400)
     .. grid-item:: 1~5
@@ -353,7 +353,7 @@
     .. grid-item:: 120气力
     .. grid-item::
         :class: flex-break
-    .. grid-item:: グランダッシャー🤛Ⓟ
+    .. grid-item:: グランダッシャ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 5100 (5800)
     .. grid-item:: 1
@@ -526,7 +526,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 30ミリマシンガンⓅ
+    .. grid-item:: ３０ミリマシンガンⓅ
         :columns: 3
     .. grid-item:: 450
     .. grid-item:: 1
@@ -538,7 +538,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: スカイリッパー⚔Ⓟ
+    .. grid-item:: スカイリッパ－Ⓟ⚔
         :columns: 3
     .. grid-item:: 590
     .. grid-item:: 1~3
@@ -550,7 +550,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ドスブレッシャーⓅ
+    .. grid-item:: ドスブレッシャ－Ⓟ
         :columns: 3
     .. grid-item:: 750
     .. grid-item:: 1
@@ -562,7 +562,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: マグネレーザー
+    .. grid-item:: マグネレ－ザ－
         :columns: 3
     .. grid-item:: 760
     .. grid-item:: 1~4
@@ -729,7 +729,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: エレクトロダート⚔
+    .. grid-item:: エレクトロダ－ト⚔
         :columns: 3
     .. grid-item:: 640
     .. grid-item:: 1~4
@@ -741,7 +741,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ロックファイター⚔Ⓟ
+    .. grid-item:: ロックファイタ－Ⓟ⚔
         :columns: 3
     .. grid-item:: 700
     .. grid-item:: 1
@@ -753,7 +753,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ｱﾄﾐｯｸﾊﾞｰﾅｰⓅ
+    .. grid-item:: アトミックバ－ナ－Ⓟ
         :columns: 3
     .. grid-item:: 940
     .. grid-item:: 1
@@ -765,7 +765,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: マグネクロー⚔Ⓟ
+    .. grid-item:: マグネクロ－Ⓟ⚔
         :columns: 3
     .. grid-item:: 1170
     .. grid-item:: 1
@@ -930,7 +930,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: アンカーナックル🤛Ⓟ
+    .. grid-item:: アンカ－ナックル🤛Ⓟ
         :columns: 3
     .. grid-item:: 800
     .. grid-item:: 1
@@ -942,7 +942,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 380ミリ戦車砲
+    .. grid-item:: ３８０ミリ格車砲
         :columns: 3
     .. grid-item:: 980
     .. grid-item:: 1~6
@@ -1107,7 +1107,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 修理装置Ⓟ🔧
+    .. grid-item:: メカニフィクサ－Ⓟ🔧
         :columns: 3
     .. grid-item:: 0
     .. grid-item:: 1
@@ -1119,7 +1119,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 爆雷⚔Ⓟ
+    .. grid-item:: 爆雷Ⓟ⚔
         :columns: 3
     .. grid-item:: 780
     .. grid-item:: 1
@@ -1618,7 +1618,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ショックビームⓅ
+    .. grid-item:: ショックビ－ムⓅ
         :columns: 3
     .. grid-item:: 1000
     .. grid-item:: 1
@@ -1832,7 +1832,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: シミター🤛Ⓟ
+    .. grid-item:: シミタ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 1820
     .. grid-item:: 1
@@ -2005,7 +2005,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ウイングソード🤛Ⓟ
+    .. grid-item:: ウイングソ－ド🤛Ⓟ
         :columns: 3
     .. grid-item:: 1400
     .. grid-item:: 1

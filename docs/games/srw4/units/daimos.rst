@@ -169,7 +169,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: スネークロック⚔Ⓟ
+    .. grid-item:: スネ－クロックⓅ⚔
         :columns: 3
     .. grid-item:: 800
     .. grid-item:: 1~2
@@ -205,7 +205,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾌｧｲﾌﾞｼｭｰﾀｰ⚔Ⓟ
+    .. grid-item:: ファイブシュ－タ－Ⓟ⚔
         :columns: 3
     .. grid-item:: 910 (1010)
     .. grid-item:: 1~3
@@ -217,7 +217,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: フットカッター🤛Ⓟ
+    .. grid-item:: フットカッタ－🤛Ⓟ
         :columns: 3
     .. grid-item:: 950
     .. grid-item:: 1
@@ -229,7 +229,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: クロスブーメラン⚔Ⓟ
+    .. grid-item:: クロスブ－メランⓅ⚔
         :columns: 3
     .. grid-item:: 970 (1070)
     .. grid-item:: 1~3
@@ -265,7 +265,7 @@
     .. grid-item:: 110气力
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ドリルアンカー⚔
+    .. grid-item:: ドリルアンカ－⚔
         :columns: 3
     .. grid-item:: 1350 (1450)
     .. grid-item:: 1~5
@@ -496,7 +496,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 20ミリバルカンⓅ
+    .. grid-item:: ２０ミリバルカンⓅ
         :columns: 3
     .. grid-item:: 300
     .. grid-item:: 1
@@ -691,7 +691,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ビームランス🤛Ⓟ
+    .. grid-item:: ビ－ムランス🤛Ⓟ
         :columns: 3
     .. grid-item:: 1280
     .. grid-item:: 1
@@ -864,7 +864,7 @@
     .. grid-item:: 条件
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ショックビームⓅ
+    .. grid-item:: ショックビ－ムⓅ
         :columns: 3
     .. grid-item:: 1000
     .. grid-item:: 1
@@ -1089,7 +1089,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: 反ｱｲｻﾞﾛﾝ粒子砲Ⓟ
+    .. grid-item:: 反アイザロン粒子砲Ⓟ
         :columns: 3
     .. grid-item:: 2970
     .. grid-item:: 1
@@ -1261,7 +1261,7 @@
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: ﾀﾞｰｸｻｰﾍﾞﾙ🤛Ⓟ
+    .. grid-item:: ダ－クサ－ベル🤛Ⓟ
         :columns: 3
     .. grid-item:: 1200 (1400)
     .. grid-item:: 1
