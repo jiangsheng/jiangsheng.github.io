@@ -850,7 +850,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
-    .. grid-item:: めビ－ムⓅ
+    .. grid-item:: [グルンガスト]ビ－ムⓅ
         :columns: 3
     .. grid-item:: 4720 (4800)
     .. grid-item:: 1
