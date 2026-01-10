@@ -57,7 +57,7 @@
 * \ :ref:`ビギナ·ギナ <srw4_unit_vigna_ghina>`\ (比基纳·基纳)装甲上升
 * \ :ref:`ビルバイン <srw4_unit_bilvine>`\  (比尔拜因)装甲下降
 * \ :ref:`ゴーショーグン <srw4_unit_goshogun>`\  (战国魔神)、 \ :ref:`ダイモス <srw4_unit_daimos>`\  (戴莫斯)、\ :ref:`ザンボット3 <srw4_unit_zambot_3>`\  (赞波特3)武器威力上升
-* \ :ref:`真·ゲッター2 <srw4_unit_shin_getter_2>`\ (真·盖塔2)的ドリルテンペスト的射程从1~3变成了1~7。ｹﾞｯﾀｰﾐｻｲﾙ取消。
+* \ :ref:`真·ゲッター2 <srw4_unit_shin_getter_2>`\ (真·盖塔2)的ドリルテンペスト的射程从1~3变成了1~7。ゲッタ－ミサイル取消。
 * 其他的一些机师和机体能力的修改
 
 
