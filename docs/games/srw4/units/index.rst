@@ -139,7 +139,7 @@
   * 0D=音乐13
 
 * \ :ref:`変形/分离/合体代码 <srw4_unit_cheat_transforms>`\ 
-* \ :ref:`机体特殊技能 <_srw4_unit_cheat_specialties>`\，2字节
+* \ :ref:`机体特殊技能 <srw4_unit_cheat_specialties>`\，2字节
 * 队伍
 * 不明 4字节
 * 经验值 

@@ -64,8 +64,9 @@
     .. grid-item-card:: 生日
       :columns: auto
 
-      | 7E1086=mm
-      | 7E1087=dd
+      | 7E1086=xx
+      | 7E1087=yy
+      | xx:月 yy:日
 
     .. grid-item-card:: 最大\ :ref:`资金 <srw4_remodeling_cheat>`
       :columns: auto
@@ -764,7 +765,7 @@
     .. grid-item-card:: リン
       :columns: auto
 
-      | CB8FFF1E
+      | CB8FFF=1E
       | CB0000=01
       | CB0001=0E
       | CB0002=01
@@ -932,19 +933,19 @@
       
       | 分歧参考（\ :ref:`隐藏要素 <srw4_missable>`\ 路线A/B/C）
       | 不按照路线中的选择可能造成数据溢出
-      | 7E110636
+      | 7E1106=36
       | 7e1187=00?10
       | モンド
-      | 7E110497
+      | 7E1104=97
       | 7e1185=00?10
       | ギュネイ
-      | 7E110292 
+      | 7E1102=92 
       | 7e1183=00?10
       | グレミー
-      | 7E11007F 
+      | 7E1100=7F 
       | 7e1181=00?10 
       | ララァ
-      | 7E10fe4B 
+      | 7E10fe=4B 
       | 7e117f=00?10 
       | 早乙女ミチル
 
@@ -954,16 +955,16 @@
       | 分歧参考 （\ :ref:`隐藏要素 <srw4_missable>`\ 路线B）
       | 走A/C路线时禁用
       | 不按照路线中的选择可能造成数据溢出
-      | 7e10fcBC
+      | 7e10fc=BC
       | 7e117d=00?10 
       | ゼット
-      | 7e10faBD
+      | 7e10fa=BD
       | 7e117b=00?10
       | トルストール
-      | 7e10f83a 
+      | 7e10f8=3a 
       | 7e1179=00?10 
       | レズン
-      | 7e10f644 
+      | 7e10f6=44 
       | 7e1177=00?10 
       | モンシア
 
@@ -1015,14 +1016,14 @@
       | 7e1280=00?03
       | ウイングガスト
       | 武器改造段数数量/位移
-      | 7e14071E 
-      | 7e140600 
-      | 7e14051E
-      | 7e140400 
-      | 7e14031E 
-      | 7e140200 
-      | 7e14011E
-      | 7e140000 
+      | 7e1407=1E 
+      | 7e1406=00 
+      | 7e1405=1E
+      | 7e1404=00 
+      | 7e1403=1E 
+      | 7e1402=00 
+      | 7e1401=1E
+      | 7e1400=00 
        
     .. grid-item-card:: 额外增加机体(路线B)
       :columns: auto
@@ -1042,163 +1043,163 @@
       | 7e1279=00?01
       | 7e1278=00?04
       | Gディフェンサー
-      | 7e12768C
+      | 7e1276=8C
       | ビギナ・ギナ
       | 武器改造段数数量/位移
-      | 7e13ff1E 
-      | 7e13fe00 
-      | 7e13fd1E
-      | 7e13fc00 
-      | 7e13fb1E 
-      | 7e13fa00 
-      | 7e13f91E 
-      | 7e13f800 
-      | 7e13f71E 
-      | 7e13f600 
+      | 7e13ff=1E 
+      | 7e13fe=00 
+      | 7e13fd=1E
+      | 7e13fc=00 
+      | 7e13fb=1E 
+      | 7e13fa=00 
+      | 7e13f9=1E 
+      | 7e13f8=00 
+      | 7e13f7=1E 
+      | 7e13f6=00 
 
     .. grid-item-card:: ヒュッケバイン
       :columns: auto
 
-      | CB957600
-      | CB957700
+      | CB9576=00
+      | CB9577=00
       | 乘换機動戦士系
-      | CB958601
+      | CB9586=01
       | 移动空陆
-      | CB958744
+      | CB9587=44
       | 空A海A
-      | CB95914F
-      | CB959206
+      | CB9591=4F
+      | CB9592=06
       | ６０ミリバルカン
       | →ブ－ストナックル
-      | CB959450
+      | CB9594=50
       | プラズマソ－ド
       | →オメガレーザー
-      | CB959A53
+      | CB959A=53
       | ロシュセイバ－→
       | [グルンガスト]ビ－ム
 
     .. grid-item-card:: グルンガスト
       :columns: auto
 
-      | CB95AD00
-      | CB95AE00
+      | CB95AD=00
+      | CB95AE=00
       | 乘换機動戦士系
-      | CB95BF44
+      | CB95BF=44
       | 空A海A
-      | CB95CC4D
+      | CB95CC=4D
       | オメガレーザー→
       | リープスラッシャー
 
     .. grid-item-card:: ウイングガスト
       :columns: auto
 
-      | CB95E200
-      | CB95E300
+      | CB95E2=00
+      | CB95E3=00
       | 乘换機動戦士系
-      | CB95F444
+      | CB95F4=44
       | 空A海A
 
     .. grid-item-card:: ガストランダー
       :columns: auto
 
-      | CB960D00
-      | CB960E00
+      | CB960D=00
+      | CB960E=00
       | 乘换機動戦士系
-      | CB961F44
+      | CB961F=44
       | 空A海A
 
     .. grid-item-card:: νガンダム
       :columns: auto
 
-      | CB96602D
+      | CB9660=2D
       | ミサイルランチャ－
       | →ヴェスバー
 
     .. grid-item-card:: F-91
       :columns: auto
 
-      | CB96942B
+      | CB9694=2B
       | ﾒｶﾞﾏｼﾝｷｬﾉﾝ→
       | フィンファンネル
 
     .. grid-item-card:: NT-1アレックス
       :columns: auto
 
-      | CB96C52B
+      | CB96C5=2B
       | ガトリングガン
       | →フィンファンネル
 
     .. grid-item-card:: GP-01Fb
       :columns: auto
 
-      | CB96F34A
-      | CB96F40D
+      | CB96F3=4A
+      | CB96F4=0D
       | ビームガン
       | →ビット
 
     .. grid-item-card:: GP-03
       :columns: auto
 
-      | cb973c01
+      | cb973c=01
       | GP-03移动空陆
-      | cb973d44
+      | cb973d=44
       | 空A海A
-      | cb973e44
+      | cb973e=44
       | 陆A宇A
-      | CB975612 
+      | CB9756=12 
       | 集中ミサイル→
       | バルカン
-      | CB97592F
+      | CB9759=2F
       | マイクロミサイル (M)
       | →ｱﾄﾐｯｸﾊﾞｽﾞｰｶ (M)
-      | CB97504A
-      | CB97510D
-      | CB97844A
-      | CB97850D
-      | CBC7EB4A
-      | CBC7EC0D
+      | CB9750=4A
+      | CB9751=0D
+      | CB9784=4A
+      | CB9785=0D
+      | CBC7EB=4A
+      | CBC7EC=0D
       | ﾌｫｰﾙﾃﾞｨﾝｸﾞﾊﾞｽﾞｰｶ
       | →ビット
 
     .. grid-item-card:: ガンキャノン
       :columns: auto
 
-      | CB97AF4A
-      | CB97B00D
+      | CB97AF=4A
+      | CB97B0=0D
       | ２40ミリキャノン→
       | ビット
 
     .. grid-item-card:: ガンタンク
       :columns: auto
 
-      | CB97D44A
-      | CB97D50D
+      | CB97D4=4A
+      | CB97D5=0D
       | １２０ミリキャノン→
       | ビット
 
     .. grid-item-card:: ボール
       :columns: auto
 
-      | CB97F101
+      | CB97F1=01
       | 移动空陆
-      | CB97F244
+      | CB97F2=44
       | 空A海A
       
 
     .. grid-item-card:: ボスロボット
       :columns: auto
 
-      | CB9CCA01
+      | CB9CCA=01
       | 移动空陆
-      | CB9CCB44
+      | CB9CCB=44
       | 地形适应空海
-      | CB9CCC44
+      | CB9CCC=44
       | 地形适应陆宇
 
     .. grid-item-card:: ダンクーガ
       :columns: auto
 
-      | cba18601
+      | cba186=01
       | ダンクーガ移动空陆
 
 
@@ -1240,9 +1241,9 @@
 
     .. grid-item-card:: 必殺烈風正拳突き
 
-      | CBDA5BFE 
+      | CBDA5B=FE 
       | 必殺烈風正拳突き地形AAAB
-      | CBEDFBFE
+      | CBEDFB=FE
       | 必殺烈風正拳突き改地形AAAB
 
 ^^^^^^^^^^^^^^^^^
@@ -1256,223 +1257,222 @@
       :class-card: text-nowrap
       :columns: auto
       
-      | cdf85c08 移+8
-      | cdf85d1E 运+30
-      | cdf85e3F 限+63  
-      | cdf85f00 甲+00
-      | cdf8bc88
-      | cdf8bd13 HP +500
-      | cdf8be04 光线护壁
+      | cdf85c=08 移+8
+      | cdf85d=1E 运+30
+      | cdf85e=3F 限+63  
+      | cdf85f=00 甲+00
+      | cdf8bc=88
+      | cdf8bd=13 HP +500
+      | cdf8be=04 光线护壁
 
    .. grid-item-card:: 米诺夫斯基飞行器
       :class-card: text-nowrap
       :columns: auto
 
-      | cdf86008 移+8
-      | cdf86112 运+18
-      | cdf86214 限+20  
-      | cdf8630A 甲+100
-      | cdf8c0f4
-      | cdf8c101 HP +500
-      | cdf8be04 光线护壁
+      | cdf860=08 移+8
+      | cdf861=12 运+18
+      | cdf862=14 限+20  
+      | cdf863=0A 甲+100
+      | cdf8c0=f4
+      | cdf8c1=01 HP +500
+      | cdf8be=04 光线护壁
 
    .. grid-item-card:: 助推器
       :class-card: text-nowrap
       :columns: auto
 
-      | cdf8640c 移+12
-      | cdf86512 运+18
-      | cdf86614 限+20  
-      | cdf8670A 甲+100
-      | cdf8c4f4
-      | cdf8c501 HP +500
-      | cdf8c604 光线护壁
+      | cdf864=0c 移+12
+      | cdf865=12 运+18
+      | cdf866=14 限+20  
+      | cdf867=0A 甲+100
+      | cdf8c4=f4
+      | cdf8c5=01 HP +500
+      | cdf8c6=04 光线护壁
 
    .. grid-item-card:: 超级助推器
       :class-card: text-nowrap
       :columns: auto
 
-      | cdf86810 移+16
-      | cdf86912 运+18
-      | cdf86a14 限+20  
-      | cdf86b0A 甲+100
-      | cdf8c8f4
-      | cdf8c901 HP +500
-      | cdf8ca04 光线护壁
+      | cdf868=10 移+16
+      | cdf869=12 运+18
+      | cdf86a=14 限+20  
+      | cdf86b=0A 甲+100
+      | cdf8c8=f4
+      | cdf8c9=01 HP +500
+      | cdf8ca=04 光线护壁
 
    .. grid-item-card:: 远地点控制发动机
       :class-card: text-nowrap
       :columns: auto
 
-      | cdf86C08 移+8
-      | cdf86D12 运+18
-      | cdf86E14 限+20  
-      | cdf86F0A 甲+100
-      | cdf8CCf4
-      | cdf8CD01 HP +500
-      | cdf8cE04 光线护壁
+      | cdf86C=08 移+8
+      | cdf86D=12 运+18
+      | cdf86E=14 限+20  
+      | cdf86F=0A 甲+100
+      | cdf8CC=f4
+      | cdf8CD=01 HP +500
+      | cdf8cE=04 光线护壁
 
    .. grid-item-card:: FATIMA
       :class-card: text-nowrap
       :columns: auto
 
-      | cdf87010 移+16
-      | cdf87124 运+36
-      | cdf87228 限+40
-      | cdf8730a 甲+100
-      | cdf8d0f4
-      | cdf8d101 HP +500
-      | cdf8d204 光线护壁
+      | cdf870=10 移+16
+      | cdf871=24 运+36
+      | cdf872=28 限+40
+      | cdf873=0a 甲+100
+      | cdf8d0=f4
+      | cdf8d1=01 HP +500
+      | cdf8d2=04 光线护壁
 
    .. grid-item-card:: ALICE
       :class-card: text-nowrap
       :columns: auto
 
-      | cdf87408 移+8
-      | cdf8751E 运+30
-      | cdf87628 限+40
-      | cdf8770a 甲+100
-      | cdf8d4f4
-      | cdf8d501 HP +500
-      | cdf8d604 光线护壁
+      | cdf874=08 移+8
+      | cdf875=1E 运+30
+      | cdf876=28 限+40
+      | cdf877=0a 甲+100
+      | cdf8d4=f4
+      | cdf8d5=01 HP +500
+      | cdf8d6=04 光线护壁
 
    .. grid-item-card:: 精神力框架
       :class-card: text-nowrap
       :columns: auto
 
-      | cdf87808 移+8
-      | cdf8791C 运+28
-      | cdf87a32 限+50
-      | cdf87b0A 甲+100
-      | cdf8d8f4
-      | cdf8d901 HP +500
-      | cdf8da04 光线护壁
+      | cdf878=08 移+8
+      | cdf879=1C 运+28
+      | cdf87a=32 限+50
+      | cdf87b=0A 甲+100
+      | cdf8d8=f4
+      | cdf8d9=01 HP +500
+      | cdf8da=04 光线护壁
 
    .. grid-item-card:: 生物传感器
       :class-card: text-nowrap
       :columns: auto
 
-      | cdf87C08 移+8
-      | cdf87D1A 运+26
-      | cdf87E23 限+35
-      | cdf87F0A 甲+100
-      | cdf8dCf4
-      | cdf8dD01 HP +500
-      | cdf8dE04 光线护壁   
+      | cdf87C=08 移+8
+      | cdf87D=1A 运+26
+      | cdf87E=23 限+35
+      | cdf87F=0A 甲+100
+      | cdf8dC=f4
+      | cdf8dD=01 HP +500
+      | cdf8dE=04 光线护壁   
 
    .. grid-item-card:: 磁铁镀膜
       :class-card: text-nowrap
       :columns: auto
 
-      | cdf88008 移+8
-      | cdf8811A 运+26
-      | cdf88223 限+35
-      | cdf8830A 甲+100
-      | cdf8E0f4
-      | cdf8E101 HP +500
-      | cdf8E204 光线护壁   
+      | cdf880=08 移+8
+      | cdf881=1A 运+26
+      | cdf882=23 限+35
+      | cdf883=0A 甲+100
+      | cdf8E0=f4
+      | cdf8E1=01 HP +500
+      | cdf8E2=04 光线护壁   
 
    .. grid-item-card:: I立场发生机
       :class-card: text-nowrap
       :columns: auto
 
-      | cdf88408 移+8
-      | cdf88512 运+18
-      | cdf88614 限+20
-      | cdf8870A 甲+100
-      | cdf8E4f4
-      | cdf8E501 HP +500
-      | cdf8E604 光线护壁  
+      | cdf884=08 移+8
+      | cdf885=12 运+18
+      | cdf886=14 限+20
+      | cdf887=0A 甲+100
+      | cdf8E4=f4
+      | cdf8E5=01 HP +500
+      | cdf8E6=04 光线护壁  
 
    .. grid-item-card:: 乔巴姆装甲
       :class-card: text-nowrap
       :columns: auto
 
-      | cdf88808 移+8
-      | cdf88912 运+18
-      | cdf88a28 限+40
-      | cdf88b64 甲+1000
-      | cdf8E8d0
-      | cdf8E907 HP+2000
-      | cdf8Ea04 光线护壁
+      | cdf888=08 移+8
+      | cdf889=12 运+18
+      | cdf88a=28 限+40
+      | cdf88b=64 甲+1000
+      | cdf8E8=d0
+      | cdf8E9=07 HP+2000
+      | cdf8Ea=04 光线护壁
 
    .. grid-item-card:: 混合装甲
       :class-card: text-nowrap
       :columns: auto
 
-      | cdf88C08 移+8
-      | cdf88D12 运+18
-      | cdf88E28 限+40
-      | cdf88F96 甲+1500
-      | cdf8ECA0
-      | cdf8ED0F HP+4000
-      | cdf8EE04 光线护壁
+      | cdf88C=08 移+8
+      | cdf88D=12 运+18
+      | cdf88E=28 限+40
+      | cdf88F=96 甲+1500
+      | cdf8EC=A0
+      | cdf8ED=0F HP+4000
+      | cdf8EE=04 光线护壁
 
    .. grid-item-card:: 护壁发生机
       :columns: auto
 
       | cdf89008 移+8
-      | cdf89112 运+18
-      | cdf89228 限+40
-      | cdf89396 甲+1500
-      | cdf8F0A0
-      | cdf8F10F HP+4000
-      | cdf8F204 光线护壁 
+      | cdf891=12 运+18
+      | cdf892=28 限+40
+      | cdf893=96 甲+1500
+      | cdf8F0=A0
+      | cdf8F1=0F HP+4000
+      | cdf8F2=04 光线护壁 
 
    .. grid-item-card:: 反光束涂层
       :columns: auto
 
-      | cdf89408 移+8
-      | cdf89512 运+18
-      | cdf89628 限+40
-      | cdf89796 甲+1500
-      | cdf8F4A0
-      | cdf8F50F HP+4000
-      | cdf8F604 光线护壁 
+      | cdf894=08 移+8
+      | cdf895=12 运+18
+      | cdf896=28 限+40
+      | cdf897=96 甲+1500
+      | cdf8F4=A0
+      | cdf8F5=0F HP+4000
+      | cdf8F6=04 光线护壁 
 
    .. grid-item-card:: 修理工具包
       :columns: auto
 
-      | cdf89808 移+8
-      | cdf89912 运+18
-      | cdf89A28 限+40
-      | cdf89B96 甲+1500
-      | cdf8F8A0
-      | cdf8F90F HP+4000
-      | cdf8FA04 光线护壁 
+      | cdf898=08 移+8
+      | cdf899=12 运+18
+      | cdf89A=28 限+40
+      | cdf89B=96 甲+1500
+      | cdf8F8=A0
+      | cdf8F9=0F HP+4000
+      | cdf8FA=04 光线护壁 
 
    .. grid-item-card:: 螺旋桨油箱
       :columns: auto
 
-      | cdf89C08 移+8
-      | cdf89D12 运+18
-      | cdf89E28 限+40
-      | cdf89F96 甲+1500
-      | cdf8FCA0
-      | cdf8FD0F HP+4000
-      | cdf8FE04 光线护壁 
+      | cdf89C=08 移+8
+      | cdf89D=12 运+18
+      | cdf89E=28 限+40
+      | cdf89F=96 甲+1500
+      | cdf8FC=A0
+      | cdf8FD=04 光线护壁 
 
    .. grid-item-card:: 推进剂荚舱
       :columns: auto
 
-      | cdf8A008 移+8
-      | cdf8A112 运+18
-      | cdf8A228 限+40
-      | cdf8A396 甲+1500
-      | cdf900A0
-      | cdf9010F HP+4000
-      | cdf90204 光线护壁 
+      | cdf8A0=08 移+8
+      | cdf8A1=12 运+18
+      | cdf8A2=28 限+40
+      | cdf8A3=96 甲+1500
+      | cdf900=A0
+      | cdf901=0F HP+4000
+      | cdf902=04 光线护壁 
 
    .. grid-item-card:: 推进剂荚舱S
       :columns: auto
 
-      | cdf8A408 移+8
-      | cdf8A512 运+18
-      | cdf8A628 限+40
-      | cdf8A796 甲+1500
-      | cdf904A0
-      | cdf9050F HP+4000
-      | cdf90604 光线护壁 
+      | cdf8A4=08 移+8
+      | cdf8A5=12 运+18
+      | cdf8A6=28 限+40
+      | cdf8A7=96 甲+1500
+      | cdf904=A0
+      | cdf905=0F HP+4000
+      | cdf906=04 光线护壁 
 
 -------------------
 第四次S金手指
