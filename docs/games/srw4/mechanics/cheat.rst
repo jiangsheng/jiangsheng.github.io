@@ -3155,7 +3155,6 @@
       | スプリットミサイル
       | →ブラスナックル
 
-
     .. grid-item-card:: \ :ref:`ザク改 <srw4_unit_zaku_kai>`\ 
       :columns: auto
 
@@ -3243,8 +3242,8 @@
 
       | 300477AD 0001
       | 移动空陆
-      | 800477AE 4444
-      | 地形全A 
+      | 800477AE 4004
+      | 地形空A宇A
       | 300477BE 0048
       | メガ粒子砲
       | →メガ粒子砲
@@ -3296,8 +3295,6 @@
 
       | 3004819A 0001
       | 移动空陆
-      | 8004819B 4444
-      | 地形适应全A
       | 80048189 0000
       | 乘换機動戦士系     
 
@@ -3318,16 +3315,12 @@
 
       | 30048708 0001
       | 移动类型空陆  
-      | 80048709 4444
-      | 地形适应 A
 
     .. grid-item-card:: \ :ref:`グラーフ·ツェッペリン <srw4_unit_graf_zeppelin>`\ 
       :columns: auto 
 
       | 30048736 0001
       | 移动类型空陆
-      | 80048737 4444
-      | 地形适应 A
 
     .. grid-item-card:: \ :ref:`Sガンダム <srw4_unit_s_gundam>`\ 
       :columns: auto
@@ -3370,6 +3363,47 @@
       | 300488C0 0007
       | ミサイル→
       | ファンネル
+
+    .. grid-item-card:: アーガマ
+      :columns: auto
+
+      | 30048819 0001
+      | 移动类型空陆
+      | 8004881A 4444
+      | 地形适应 A
+
+    .. grid-item-card:: アイリッシュ
+      :columns: auto
+
+      | 3004884A 0001
+      | 移动类型空陆
+      | 8004884B 4444
+      | 地形适应 A
+
+    .. grid-item-card:: ネェル·アーガマ
+      :columns: auto
+
+      | 300488DA 0001
+      | 移动类型空陆
+      | 800488DB 4444
+      | 地形适应 A
+
+
+    .. grid-item-card:: エンドラ
+      :columns: auto
+
+      | 3004890B 0001
+      | 移动类型空陆
+      | 8004890C 4444
+      | 地形适应 A
+
+    .. grid-item-card:: サダラーン
+      :columns: auto 
+
+      | 30048939 0001
+      | 移动类型空陆
+      | 8004893A 4444
+      | 地形适应 A
 
     .. grid-item-card:: ラー·カイラム
       :columns: auto
@@ -3414,6 +3448,21 @@
       | 80048DCB 0057
       | 图像→バッシュ
 
+    .. grid-item-card:: 机体0xF9
+      :columns: auto 
+
+      | 30048DFD 00EA
+      | 图标→バッシュ
+      | 80048DFF 0057
+      | 图像→バッシュ
+
+    .. grid-item-card:: 机体0xFA
+      :columns: auto 
+
+      | 30048E2B 00EA
+      | 图标→バッシュ
+      | 80048E2D 0057
+      | 图像→バッシュ
      
     .. grid-item-card::  \ :ref:`真·ゲッター3 <srw4_unit_shin_getter_3>`\ 
       :columns: auto
@@ -3584,6 +3633,14 @@
       | 30049419 0634
       | オーラバルカン
       | →ハイパ－オ－ラキャノン
+
+    .. grid-item-card::  ドゴス·ギア
+      :columns: auto
+
+      | 30049439 0001
+      | 移动类型空陆
+      | 3004943A 4444
+      | 地形适应 A
 
 ^^^^^^^^^^^^^^^^^^^^^
 武器修改
@@ -4508,6 +4565,8 @@
 
 特定机体需要增加武器数量到其他形态的最大值以避免敌人出击时死机。
 
+如果后续单位不能移动到被击坠单位所在地形，那么变身无效，所以需要修改部分宇宙专用的机体的移动类型。
+
 .. grid::
 
     .. grid-item-card:: ブラッドテンプル
@@ -4524,6 +4583,12 @@
       :columns: auto
 
       | 30047371 0040
+
+    .. grid-item-card:: エルメス
+      :columns: auto
+
+      | 3004739F 0040
+      | 300473AB 0001
 
     .. grid-item-card:: マラサイ
       :columns: auto
@@ -4577,6 +4642,7 @@
       :columns: auto
 
       | 30047745 0040
+      | 30047751 0001
 
     .. grid-item-card:: ガーベラ·テトラ
       :columns: auto
@@ -4864,6 +4930,8 @@
       :columns: auto
 
       | 3004864D 0040
+      | 30048659 0001
+     
 
     .. grid-item-card:: パゾグ
       :columns: auto
@@ -4874,6 +4942,7 @@
       :columns: auto
 
       | 3004869A 00C0
+      | 30048681 0001
 
     .. grid-item-card:: ダブデ
       :columns: auto
@@ -4884,11 +4953,13 @@
       :columns: auto
 
       | 300486FA 0010
+      | 分离前机体
 
     .. grid-item-card:: グラーフ·ツェッペリン
       :columns: auto
 
       | 30048728 0011
+      | 分离后机体
 
     .. grid-item-card:: ムサイ改
       :columns: auto
@@ -4961,6 +5032,11 @@
       :columns: auto
 
       | 30048DD2 0042
+
+    .. grid-item-card:: 旧ザク
+      :columns: auto
+
+      | 30048FEE 0040
 
     .. grid-item-card:: サーバイン
       :columns: auto
