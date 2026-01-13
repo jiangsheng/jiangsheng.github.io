@@ -10,7 +10,9 @@
 
 .. image:: images/cheat_boss.jpg
 
-:download:`下载 duckstation.cht <duckstation.cht>` 
+* :download:`下载 duckstation.cht <duckstation.cht>` 
+* :download:`下载 snes9x.cht <snes9x.cht>`
+* :download:`下载 bsnes.cht <bsnes.cht>`
 
 用法：把文件放到模拟器的cheat文件夹下，并改名为和游戏一样的名字（如果不确定文件名，手动输入一个作弊码之后退出模拟器）。
 

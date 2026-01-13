@@ -1,0 +1,350 @@
+cheat
+  name: 全局设置\跳关
+  comments: 7E1000=xx+xx:下一话代码
+
+cheat
+  name: 全局设置\当前话数
+  comments: 7E1001=xx
+
+cheat
+  name: 全局设置\当前话代码
+  comments: 7E1002=xx
+
+cheat
+  name: 全局设置\生日
+  comments: 7E1086=xx+7E1087=yy+xx:月 yy:日
+
+cheat
+  name: 全局设置\最大资金
+  code: 7E1055=7F+7E1056=96+7E1057=98
+
+cheat
+  name: 全局设置\战斗画面关，地图坐标开
+  code: 7E1058=60
+
+cheat
+  name: 全局设置\战斗画面开，地图坐标关
+  code: 7E1058=00
+
+cheat
+  name: 全局设置\总回合数最小
+  code: 7e1053=01+7e1054=00
+
+cheat
+  name: 全局设置\总回合数最大
+  code: 7e1053=0f+7e1054=27
+
+cheat
+  name: 全局设置\经验倍率
+  code: 7E0EE1=7E
+
+cheat
+  name: 全局设置\基础经验值
+  code: 7e0eda=ff+7e0edb=ff
+
+cheat
+  name: 全局设置\地图武器自残有经验
+  code: c3d848=00
+
+cheat
+  name: 全局设置\1级全精神
+  code: 7e0eba=ff
+
+cheat
+  name: 全局设置\精神不減
+  code: 7e0ebb=ff
+
+cheat
+  name: 全局设置\气合效果最大
+  code: 829bcf=fd
+  comments: 使用脱力时关掉
+
+cheat
+  name: 全局设置\保持幸運效果
+  code: c0b85b=00
+  comments: 不用时关掉
+
+cheat
+  name: 全局设置\激怒攻击力最大
+  code: 7E0EC3=FF+7E0EC4=FF
+
+cheat
+  name: 全局设置\恋爱度最大
+  code: 7E1068=F0
+
+cheat
+  name: 全局设置\恋爱度最小
+  code: 7E1068=00
+
+cheat
+  name: 全局设置\演示动画强开
+  code: 7E1069=ff+7E106a=40
+
+cheat
+  name: 全局设置\控制敌军
+  code: c392cd=0b
+
+cheat
+  name: 全局设置\控制敌军探宝
+  code: C2B07D=00
+
+cheat
+  name: 全局设置\无需侦察
+  code: C2C23C=80
+
+cheat
+  name: 全局设置\换乘无视系别
+  code: C2D3BE=80
+
+cheat
+  name: 全局设置\无限移动
+  code: 7E1566=44+7E1568=44+7E156a=44+7E156c=44+7E156e=44+7E1570=44+7E1572=44
+
+cheat
+  name: 全局设置\出击数锁定
+  code: 7E0EEC=18
+  comments: 比如同时可以出击两台母舰，+但是总出击数量是写死的，+后选的会把先选的覆盖，+而且把剧情预留出击位占了会出bug，+比如战场之爱击落蕾西之后+她本来会重新作为友军出现，+但是开了之后会作为敌军出现，+マサキ·アンドー（安藤正树）也只会作为NPC出场。
+
+cheat
+  name: 全局设置\强化配件各9个
+  code: 7e1078=99+7e1079=99+7e107a=99+7e107b=99+7e107c=99+7e107d=99+7e107e=99+7e107f=99
+
+cheat
+  name: 全局设置\添加妖精
+  code: 7E1409=00?80+7E140D=00?80+7E1411=00?80+7E1415=00?80+7E1419=00?80
+  comments: Snes9x/Bsnes支持条件启用+如果模拟器不支持，需要开局开启，+第一话过关之后存盘之后关闭再读盘，+因为换乘的机师代码也在同一个字节，+一直锁定的话会导致改出来也没法用。+チャム·ファウ+ベル·アール+エル·フィノ+リリス·ファウ+シルキー·マウ
+
+cheat
+  name: 全局设置\全单位改造
+  code: 7e1288=00?ff+7e1289=00?7f+7e128a=00?ff+7e128b=00?7f+7e128c=00?ff+7e128d=00?7f+7e128e=00?ff+7e128f=00?7f+7e1290=00?ff+7e1291=00?7f+7e1292=00?ff+7e1293=00?7f+7e1294=00?ff+7e1295=00?7f+7e1296=00?ff+7e1297=00?7f+7e1298=00?ff+7e1299=00?7f+7e129a=00?ff+7e129b=00?7f+7e129c=00?ff+7e129d=00?7f+7e129e=00?ff+7e129f=00?7f+7e12a0=00?ff+7e12a1=00?7f+7e12a2=00?ff+7e12a3=00?7f+7e12a4=00?ff+7e12a5=00?7f+7e12a6=00?ff+7e12a7=00?7f+7e12a8=00?ff+7e12a9=00?7f+7e12aa=00?ff+7e12ab=00?7f+7e12ac=00?ff+7e12ad=00?7f+7e12ae=00?ff+7e12af=00?7f+7e12b0=00?ff+7e12b1=00?7f+7e12b2=00?ff+7e12b3=00?7f+7e12b4=00?ff+7e12b5=00?7f+7e12b6=00?ff+7e12b7=00?7f+7e12b8=00?ff+7e12b9=00?7f+7e12ba=00?ff+7e12bb=00?7f+7e12bc=00?ff+7e12bd=00?7f+7e12be=00?ff+7e12bf=00?7f+7e12c0=00?ff+7e12c1=00?7f+7e12c2=00?ff+7e12c3=00?7f+7e12c4=00?ff+7e12c5=00?7f+7e12c6=00?ff+7e12c7=00?7f+7e12c8=00?ff+7e12c9=00?7f+7e12ca=00?ff+7e12cb=00?7f+7e12cc=00?ff+7e12cd=00?7f+7e12ce=00?ff+7e12cf=00?7f+7e12d0=00?ff+7e12d1=00?7f+7e12d2=00?ff+7e12d3=00?7f+7e12d4=00?ff+7e12d5=00?7f+7e12d6=00?ff+7e12d7=00?7f+7e12d8=00?ff+7e12d9=00?7f+7e12da=00?ff+7e12db=00?7f+7e12dc=00?ff+7e12dd=00?7f+7e12de=00?ff+7e12df=00?7f+7e12e0=00?ff+7e12e1=00?7f+7e12e2=00?ff+7e12e3=00?7f+7e12e4=00?ff+7e12e5=00?7f+7e12e6=00?ff+7e12e7=00?7f+7e12e8=00?ff+7e12e9=00?7f+7e12ea=00?ff+7e12eb=00?7f+7e12ec=00?ff+7e12ed=00?7f+7e12ee=00?ff+7e12ef=00?7f+7e12f0=00?ff+7e12f1=00?7f+7e12f2=00?ff+7e12f3=00?7f+7e12f4=00?ff+7e12f5=00?7f+7e12f6=00?ff+7e12f7=00?7f+7e12f8=00?ff+7e12f9=00?7f+7e12fa=00?ff+7e12fb=00?7f+7e12fc=00?ff+7e12fd=00?7f+7e12fe=00?ff+7e12ff=00?7f+7e1300=00?ff+7e1301=00?7f+7e1302=00?ff+7e1303=00?7f+7e1304=00?ff+7e1305=00?7f
+
+cheat
+  name: 全局设置\全体高性能雷达
+  code: 7e1308=00+7e1309=00+7e130a=00+7e130b=00+7e130c=00+7e130d=00+7e130e=00+7e130f=00+7e1310=00+7e1311=00+7e1312=00+7e1313=00+7e1314=00+7e1315=00+7e1316=00+7e1317=00+7e1318=00+7e1319=00+7e131a=00+7e131b=00+7e131c=00+7e131d=00+7e131e=00+7e131f=00+7e1310=00+7e1311=00+7e1312=00+7e1313=00+7e1314=00+7e1315=00+7e1316=00+7e1317=00+7e1318=00+7e1319=00+7e131a=00+7e131b=00+7e131c=00+7e131d=00+7e131e=00+7e131f=00+7e1320=00+7e1321=00+7e1322=00+7e1323=00+7e1324=00+7e1325=00+7e1326=00+7e1327=00+7e1328=00+7e1329=00+7e132a=00+7e132b=00+7e132c=00+7e132d=00+7e132e=00+7e132f=00+7e1330=00+7e1331=00+7e1332=00+7e1333=00+7e1334=00+7e1335=00+7e1336=00+7e1337=00+7e1338=00+7e1339=00+7e133a=00+7e133b=00+7e133c=00+7e133d=00+7e133e=00+7e133f=00+7e1340=00+7e1341=00+7e1342=00+7e1343=00+7e1344=00+7e1345=00+7e1346=00+7e1347=00+7e1348=00+7e1349=00+7e134a=00+7e134b=00+7e134c=00+7e134d=00+7e134e=00+7e134f=00+7e1350=00+7e1351=00+7e1352=00+7e1353=00+7e1354=00+7e1355=00+7e1356=00+7e1357=00+7e1358=00+7e1359=00+7e135a=00+7e135b=00+7e135c=00+7e135d=00+7e135e=00+7e135f=00+7e1360=00+7e1361=00+7e1362=00+7e1363=00+7e1364=00+7e1365=00+7e1366=00+7e1367=00+7e1368=00+7e1369=00+7e136a=00+7e136b=00+7e136c=00+7e136d=00+7e136e=00+7e136f=00+7e1370=00+7e1371=00+7e1372=00+7e1373=00+7e1374=00+7e1375=00+7e1376=00+7e1377=00+7e1378=00+7e1379=00+7e137a=00+7e137b=00+7e137c=00+7e137d=00+7e137e=00+7e137f=00+7e1380=00+7e1381=00+7e1382=00+7e1383=00+7e1384=00+7e1385=00+7e1386=00+7e1387=00
+
+cheat
+  name: 全局设置\全武器15段改造
+  code: 7e141e=ff+7e141f=ff+7e1420=ff+7e1421=ff+7e1422=ff+7e1423=ff+7e1424=ff+7e1425=ff+7e1426=ff+7e1427=ff+7e1428=ff+7e1429=ff+7e142a=ff+7e142b=ff+7e142c=ff+7e142d=ff+7e142e=ff+7e142f=ff+7e1430=ff+7e1431=ff+7e1432=ff+7e1433=ff+7e1434=ff+7e1435=ff+7e1436=ff+7e1437=ff+7e1438=ff+7e1439=ff+7e143a=ff+7e143b=ff+7e143c=ff+7e143d=ff+7e143e=ff+7e143f=ff+7e1440=ff+7e1441=ff+7e1442=ff+7e1443=ff+7e1444=ff+7e1445=ff+7e1446=ff+7e1447=ff+7e1448=ff+7e1449=ff+7e144a=ff+7e144b=ff+7e144c=ff+7e144d=ff+7e144e=ff+7e144f=ff+7e1450=ff+7e1451=ff+7e1452=ff+7e1453=ff+7e1454=ff+7e1455=ff+7e1456=ff+7e1457=ff+7e1458=ff+7e1459=ff+7e145a=ff+7e145b=ff+7e145c=ff+7e145d=ff+7e145e=ff+7e145f=ff+7e1460=ff+7e1461=ff+7e1462=ff+7e1463=ff+7e1464=ff+7e1465=ff+7e1466=ff+7e1467=ff+7e1468=ff+7e1469=ff+7e146a=ff+7e146b=ff+7e146c=ff+7e146d=ff+7e146e=ff+7e146f=ff+7e1470=ff+7e1471=ff+7e1472=ff+7e1473=ff+7e1474=ff+7e1475=ff+7e1476=ff+7e1477=ff+7e1478=ff+7e1479=ff+7e147a=ff+7e147b=ff+7e147c=ff+7e147d=ff+7e147e=ff+7e147f=ff+7e1480=ff+7e1481=ff+7e1482=ff+7e1483=ff+7e1484=ff+7e1485=ff+7e1486=ff+7e1487=ff+7e1488=ff+7e1489=ff+7e148a=ff+7e148b=ff+7e148c=ff+7e148d=ff+7e148e=ff+7e148f=ff+7e1490=ff+7e1491=ff+7e1492=ff+7e1493=ff+7e1494=ff+7e1495=ff+7e1496=ff+7e1497=ff+7e1498=ff+7e1499=ff+7e149a=ff+7e149b=ff+7e149c=ff+7e149d=ff+7e149e=ff+7e149f=ff+7e14a0=ff+7e14a1=ff+7e14a2=ff+7e14a3=ff+7e14a3=ff+7e14a5=ff+7e14a6=ff+7e14a7=ff+7e14a8=ff+7e14a9=ff+7e14aa=ff+7e14ab=ff+7e14ac=ff+7e14ad=ff+7e14ae=ff+7e14af=ff+7e14b0=ff+7e14b1=ff+7e14b2=ff+7e14b3=ff+7e14b4=ff+7e14b5=ff+7e14b6=ff+7e14b7=ff+7e14b8=ff+7e14b9=ff+7e14ba=ff+7e14bb=ff+7e14bc=ff+7e14bd=ff+7e14be=ff+7e14bf=ff+7e14c0=ff+7e14c1=ff+7e14c2=ff+7e14c3=ff+7e14c4=ff+7e14c5=ff+7e14c6=ff+7e14c7=ff+7e14c8=ff+7e14c9=ff+7e14ca=ff+7e14cb=ff+7e14cc=ff+7e14cd=ff+7e14ce=ff+7e14cf=ff+7e14d0=ff+7e14d1=ff+7e14d2=ff+7e14d3=ff+7e14d4=ff+7e14d5=ff+7e14d6=ff+7e14d7=ff+7e14d8=ff+7e14d9=ff+7e14da=ff+7e14db=ff+7e14dc=ff+7e14dd=ff+7e14de=ff+7e14df=ff+7e14e0=ff+7e14e1=ff+7e14e2=ff+7e14e3=ff+7e14e4=ff+7e14e5=ff+7e14e6=ff+7e14e7=ff+7e14e8=ff+7e14e9=ff+7e14ea=ff+7e14eb=ff
+
+cheat
+  name: 主人公名字修改\マオ
+  code: D28963=F5+D28964=54
+  comments: マオ→毛
+
+cheat
+  name: 主人公名字修改\リン
+  code: D28935=F3+D28936=42
+  comments: リン→林
+
+cheat
+  name: 主人公精神修改\リン
+  code: CB8FFF=1E+CB0000=01+CB0001=0E+CB0002=01+CB0003=13+CB0004=01+CB0005=14+CB0006=01+CB0007=16+CB0008=01+CB0009=12+CB000A=01
+
+cheat
+  name: 主人公精神修改\ヘクトール
+  code: CB9045=1E+CB9046=01+CB9047=0E+CB9048=01+CB9049=13+CB904A=01+CB904B=14+CB904C=01+CB904D=16+CB904E=01+CB904F=12+CB9050=01
+
+cheat
+  name: 主人公精神修改\ジェス
+  code: CB90C3=1E+CB90C4=01+CB90C5=0E+CB90C6=01+CB90C7=13+CB90C8=01+CB90C9=14+CB90CA=01+CB90CB=16+CB90CC=01+CB90CD=12+CB90CE=01
+
+cheat
+  name: 主人公精神修改\ミーナ
+  code: CB90FB=1E+CB90FC=01+CB90FD=0E+CB90FE=01+CB90FF=13+CB9100=01+CB9101=14+CB9102=01+CB9103=16+CB9104=01+CB9105=12+CB9106=01
+
+cheat
+  name: 主人公精神修改\イルム
+  code: CB9179=1E+CB917A=01+CB917B=0E+CB917C=01+CB917D=13+CB917E=01+CB917F=14+CB9180=01+CB9181=16+CB9182=01+CB9183=12+CB9184=01
+
+cheat
+  name: 主人公精神修改\パット
+  code: CB9221=1E+CB9222=01+CB9223=0E+CB9224=01+CB9225=13+CB9226=01+CB9227=14+CB9228=01+CB9229=16+CB922A=01+CB922B=12+CB922C=01
+
+cheat
+  name: 主人公精神修改\グレース
+  code: CB923D=1E+CB923E=01+CB923F=0E+CB9240=01+CB9241=13+CB9242=01+CB9243=14+CB9244=01+CB9245=16+CB9246=01+CB9247=12+CB9248=01
+
+cheat
+  name: 主人公精神修改\ウィン
+  code: CB9267=1E+CB9268=01+CB9269=0E+CB926A=01+CB926B=13+CB926C=01+CB926D=14+CB926E=01+CB926F=16+CB9270=01+CB9271=12+CB9272=01
+
+cheat
+  name: 主人公精神修改\８月１２日Ａ型
+  code: CB92D7=1E+CB92D8=01+CB92D9=0E+CB92DA=01+CB92DB=13+CB92DC=01+CB92DD=14+CB92DE=01+CB92DF=16+CB92E0=01+CB92E1=12+CB92E2=01
+
+cheat
+  name: 机师修改\增加人物(共通)
+  code: 7E1106=36+7e1187=00?10+7E1104=97+7e1185=00?10+7E1102=92+7e1183=00?10+7E1100=7F+7e1181=00?10+7E10fe=4B+7e117f=00?10
+  comments: 分歧参考（隐藏要素路线A/B/C）+不按照路线中的选择可能造成数据溢出+モンド+ギュネイ+グレミー+ララァ+早乙女ミチル
+
+cheat
+  name: 机师修改\额外增加人物（路线B）
+  code: 7e10fc=BC+7e117d=00?10+7e10fa=BD+7e117b=00?10+7e10f8=3a+7e1179=00?10+7e10f6=44+7e1177=00?10
+  comments: 分歧参考 （隐藏要素路线B）+走A/C路线时禁用+不按照路线中的选择可能造成数据溢出+ゼット+トルストール+レズン+モンシア
+
+cheat
+  name: 机体修改\增加机体(共通)
+  code: 7e1287=00?01+7e1286=00?7a+7e1285=00?01+7e1284=00?06+7e1283=00?01+7e1282=00?0C+7e1280=00?03+7e1407=1E+7e1406=00+7e1405=1E+7e1404=00+7e1403=1E+7e1402=00+7e1401=1E+7e1400=00
+  comments: 分歧参考（隐藏要素路线A/B/C）+不按照路线中的选择可能造成数据溢出+ガイラム+Ξガンダム+ニセサイバスター+ウイングガスト+武器改造段数数量/位移
+
+cheat
+  name: 机体修改\额外增加机体(路线B)
+  code: 7e127f=00?01+7e127e=00?28+7e127d=00?01+7e127c=00?26+7e127b=00?01+7e127a=00?24+7e1279=00?01+7e1278=00?04+7e1276=8C+7e13ff=1E+7e13fe=00+7e13fd=1E+7e13fc=00+7e13fb=1E+7e13fa=00+7e13f9=1E+7e13f8=00+7e13f7=1E+7e13f6=00
+  comments: 分歧参考 （隐藏要素路线B）+走A/C路线时禁用+不按照路线中的选择可能造成数据溢出+ガラバ(ハイパー可)+ライネック(ハイパー可)+レプラカーン(ハイパー可)+Gディフェンサー+ビギナ・ギナ+武器改造段数数量/位移
+
+cheat
+  name: 机体修改\ヒュッケバイン
+  code: CB9576=00+CB9577=00+CB9586=01+CB9587=44+CB9591=4F+CB9592=06+CB9594=50+CB959A=53
+  comments: 乘换機動戦士系+移动空陆+空A海A+６０ミリバルカン+→ブ－ストナックル+プラズマソ－ド+→オメガレーザー+ロシュセイバ－→+[グルンガスト]ビ－ム
+
+cheat
+  name: 机体修改\グルンガスト
+  code: CB95AD=00+CB95AE=00+CB95BF=44+CB95CC=4D
+  comments: 乘换機動戦士系+空A海A+オメガレーザー→+リープスラッシャー
+
+cheat
+  name: 机体修改\ウイングガスト
+  code: CB95E2=00+CB95E3=00+CB95F4=44
+  comments: 乘换機動戦士系+空A海A
+
+cheat
+  name: 机体修改\ガストランダー
+  code: CB960D=00+CB960E=00+CB961F=44
+  comments: 乘换機動戦士系+空A海A
+
+cheat
+  name: 机体修改\νガンダム
+  code: CB9660=2D
+  comments: ミサイルランチャ－+→ヴェスバー
+
+cheat
+  name: 机体修改\F-91
+  code: CB9694=2B
+  comments: ﾒｶﾞﾏｼﾝｷｬﾉﾝ→+フィンファンネル
+
+cheat
+  name: 机体修改\NT-1アレックス
+  code: CB96C5=2B
+  comments: ガトリングガン+→フィンファンネル
+
+cheat
+  name: 机体修改\GP-01Fb
+  code: CB96F3=4A+CB96F4=0D
+  comments: ビームガン+→ビット
+
+cheat
+  name: 机体修改\GP-03
+  code: cb973c=01+cb973d=44+cb973e=44+CB9756=12+CB9759=2F+CB9750=4A+CB9751=0D+CB9784=4A+CB9785=0D+CBC7EB=4A+CBC7EC=0D
+  comments: GP-03移动空陆+空A海A+陆A宇A+集中ミサイル→+バルカン+マイクロミサイル (M)+→ｱﾄﾐｯｸﾊﾞｽﾞｰｶ (M)+ﾌｫｰﾙﾃﾞｨﾝｸﾞﾊﾞｽﾞｰｶ+→ビット
+
+cheat
+  name: 机体修改\ガンキャノン
+  code: CB97AF=4A+CB97B0=0D
+  comments: ２40ミリキャノン→+ビット
+
+cheat
+  name: 机体修改\ガンタンク
+  code: CB97D4=4A+CB97D5=0D
+  comments: １２０ミリキャノン→+ビット
+
+cheat
+  name: 机体修改\ボール
+  code: CB97F1=01+CB97F2=44
+  comments: 移动空陆+空A海A
+
+cheat
+  name: 机体修改\ボスロボット
+  code: CB9CCA=01+CB9CCB=44+CB9CCC=44
+  comments: 移动空陆+地形适应空海+地形适应陆宇
+
+cheat
+  name: 机体修改\ダンクーガ
+  code: cba186=01
+  comments: ダンクーガ移动空陆
+
+cheat
+  name: 武器修改\武器追加
+  code: 7E105E=00?01+7E105F=00?86+7E1060=00?1A+7E1061=00?30
+  comments: コン・バトラーV+イオン+アトミックバズーカ+グランダッシャー+ダイモス+計都羅喉剣暗剣殺+ブラックホールキャノン
+
+cheat
+  name: 武器修改\必殺烈風正拳突き
+  code: CBDA5B=FE+CBEDFB=FE
+  comments: 必殺烈風正拳突き地形AAAB+必殺烈風正拳突き改地形AAAB
+
+cheat
+  name: 芯片修改\高性能雷达
+  code: cdf85c=08+cdf85d=1E+cdf85e=3F+cdf85f=00+cdf8bc=88+cdf8bd=13+cdf8be=04
+
+cheat
+  name: 芯片修改\米诺夫斯基飞行器
+  code: cdf860=08+cdf861=12+cdf862=14+cdf863=0A+cdf8c0=f4+cdf8c1=01+cdf8be=04
+
+cheat
+  name: 芯片修改\助推器
+  code: cdf864=0c+cdf865=12+cdf866=14+cdf867=0A+cdf8c4=f4+cdf8c5=01+cdf8c6=04
+
+cheat
+  name: 芯片修改\超级助推器
+  code: cdf868=10+cdf869=12+cdf86a=14+cdf86b=0A+cdf8c8=f4+cdf8c9=01+cdf8ca=04
+
+cheat
+  name: 芯片修改\远地点控制发动机
+  code: cdf86C=08+cdf86D=12+cdf86E=14+cdf86F=0A+cdf8CC=f4+cdf8CD=01+cdf8cE=04
+
+cheat
+  name: 芯片修改\FATIMA
+  code: cdf870=10+cdf871=24+cdf872=28+cdf873=0a+cdf8d0=f4+cdf8d1=01+cdf8d2=04
+
+cheat
+  name: 芯片修改\ALICE
+  code: cdf874=08+cdf875=1E+cdf876=28+cdf877=0a+cdf8d4=f4+cdf8d5=01+cdf8d6=04
+
+cheat
+  name: 芯片修改\精神力框架
+  code: cdf878=08+cdf879=1C+cdf87a=32+cdf87b=0A+cdf8d8=f4+cdf8d9=01+cdf8da=04
+
+cheat
+  name: 芯片修改\生物传感器
+  code: cdf87C=08+cdf87D=1A+cdf87E=23+cdf87F=0A+cdf8dC=f4+cdf8dD=01+cdf8dE=04
+
+cheat
+  name: 芯片修改\磁铁镀膜
+  code: cdf880=08+cdf881=1A+cdf882=23+cdf883=0A+cdf8E0=f4+cdf8E1=01+cdf8E2=04
+
+cheat
+  name: 芯片修改\I立场发生机
+  code: cdf884=08+cdf885=12+cdf886=14+cdf887=0A+cdf8E4=f4+cdf8E5=01+cdf8E6=04
+
+cheat
+  name: 芯片修改\乔巴姆装甲
+  code: cdf888=08+cdf889=12+cdf88a=28+cdf88b=64+cdf8E8=d0+cdf8E9=07+cdf8Ea=04
+
+cheat
+  name: 芯片修改\混合装甲
+  code: cdf88C=08+cdf88D=12+cdf88E=28+cdf88F=96+cdf8EC=A0+cdf8ED=0F+cdf8EE=04
+
+cheat
+  name: 芯片修改\护壁发生机
+  code: cdf890=08+cdf891=12+cdf892=28+cdf893=96+cdf8F0=A0+cdf8F1=0F+cdf8F2=04
+
+cheat
+  name: 芯片修改\反光束涂层
+  code: cdf894=08+cdf895=12+cdf896=28+cdf897=96+cdf8F4=A0+cdf8F5=0F+cdf8F6=04
+
+cheat
+  name: 芯片修改\修理工具包
+  code: cdf898=08+cdf899=12+cdf89A=28+cdf89B=96+cdf8F8=A0+cdf8F9=0F+cdf8FA=04
+
+cheat
+  name: 芯片修改\螺旋桨油箱
+  code: cdf89C=08+cdf89D=12+cdf89E=28+cdf89F=96+cdf8FC=A0+cdf8FD=04
+
+cheat
+  name: 芯片修改\推进剂荚舱
+  code: cdf8A0=08+cdf8A1=12+cdf8A2=28+cdf8A3=96+cdf900=A0+cdf901=0F+cdf902=04
+
+cheat
+  name: 芯片修改\推进剂荚舱S
+  code: cdf8A4=08+cdf8A5=12+cdf8A6=28+cdf8A7=96+cdf904=A0+cdf905=0F+cdf906=04
+
