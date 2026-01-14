@@ -50,13 +50,11 @@ Activation = EndFrame
 [全局设置\改造段数最大]
 Type = Gameshark
 Activation = EndFrame
-GameShark：(*)
 5000503C 0000
 80102F9A FFFE
 [全局设置\改造段数最小]
 Type = Gameshark
 Activation = EndFrame
-GameShark：(*)
 5000503C 0000
 80102F9A 0000
 [全局设置\改造段数最大]
@@ -1059,17 +1057,17 @@ Activation = EndFrame
 (GP-02A)
 30046448 002F
 マイクロミサイル (M)
-→ｱﾄﾐｯｸﾊﾞｽﾞｰｶ (M)
+→アトミックバズ－カ (M)
 800494D7 0D4A
 80046473 0D4A
 8004643F 0D4A
-ﾌｫｰﾙﾃﾞｨﾝｸﾞﾊﾞｽﾞｰｶ
+フォ－ルディングバズ－カ
 →ビット
 [机体修改\ガンキャノン]
 Type = Gameshark
 Activation = EndFrame
 8004649E 0D4A
-２40ミリキャノン→
+２４０ミリキャノン
 ビット
 [机体修改\ガンタンク]
 Type = Gameshark
@@ -2782,6 +2780,7 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 30047DE0 0040
+30047DEC 0001
 [机体特殊技能修改\二段变身\マザーバーン (圆盘母舰)]
 Type = Gameshark
 Activation = EndFrame
