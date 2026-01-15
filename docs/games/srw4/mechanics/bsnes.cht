@@ -255,7 +255,7 @@ cheat
 cheat
   name: 机体修改\ボスロボット
   code: CB9CCA=01+CB9CCB=44+CB9CCC=44
-  comments: 移动空陆+地形适应空海+地形适应陆宇
+  comments: 移动空陆+地形适应空海+地形适应宇陆
 
 cheat
   name: 机体修改\ダンクーガ

@@ -1483,7 +1483,7 @@ Type = Gameshark
 Activation = EndFrame
 300477AD 0001
 移动空陆
-800477AE 4004
+800477AE 4040
 地形空A宇A
 300477BE 0048
 メガ粒子砲
@@ -1547,11 +1547,15 @@ Type = Gameshark
 Activation = EndFrame
 30048708 0001
 移动类型空陆
+80048709 4040
+地形适应 空A宇A
 [机体修改\グラーフ·ツェッペリン]
 Type = Gameshark
 Activation = EndFrame
 30048736 0001
 移动类型空陆
+80048737 4040
+地形适应 空A宇A
 [机体修改\Sガンダム]
 Type = Gameshark
 Activation = EndFrame
@@ -1831,8 +1835,22 @@ Type = Gameshark
 Activation = EndFrame
 30049439 0001
 移动类型空陆
-3004943A 4444
-地形适应 A
+3004943A 4040
+地形适应 空A宇A
+[机体修改\アウドムラ]
+Type = Gameshark
+Activation = EndFrame
+3004946A 0001
+移动类型空陆
+8004946B 4040
+地形适应 空A宇A
+[机体修改\ス－ドリ]
+Type = Gameshark
+Activation = EndFrame
+30049498 0001
+移动类型空陆
+80049499 4040
+地形适应 空A宇A
 [武器修改\追加武器1]
 Type = Gameshark
 Activation = EndFrame
