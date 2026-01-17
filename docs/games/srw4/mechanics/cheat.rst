@@ -1902,11 +1902,12 @@
     .. grid-item-card:: 妖精SP
       :columns: auto
 
-      | 30104716 00FF 
-      | 30104718 00FF
+      | 80104716 FFFF 
+      | チャム/ベル
+      | 80104718 FFFF
+      | エル/リリス
       | 3010471A 00FF
-      | 3010471C 00FF
-      | 3010471E 00FF
+      | シルキー 
 
     .. grid-item-card:: 妖精存在等级
       :columns: auto
@@ -4597,7 +4598,37 @@
       :columns: auto
 
       | 300470E1 0040
-      
+
+    .. grid-item-card:: サイバスター
+      :columns: auto
+
+      | 3004710C 0040
+
+    .. grid-item-card::  サイバ－ド	
+      :columns: auto
+
+      | 30047140 0040
+
+    .. grid-item-card::  ネオ・グランゾン
+      :columns: auto
+
+      | 30047199 0044
+
+    .. grid-item-card::  ヴァルシオ－ネＲ
+      :columns: auto
+
+      | 300471CA 0040
+
+    .. grid-item-card::  ノルス・レイ
+      :columns: auto
+
+      | 300472B9 0040
+
+    .. grid-item-card::  ガディフォ－ル
+      :columns: auto
+
+      | 300472E4 0040
+
     .. grid-item-card:: ドム
       :columns: auto
 
@@ -4633,19 +4664,32 @@
       | 30047473 0040
       | アッシマー (MS)	
 
+
+    .. grid-item-card::  サイコガンダム
+      :columns: auto
+
+      | 300474C0 0040
+      | サイコガンダム (MS)
+      | 300474EB 0040
+      | サイコガンダム (MA)
+
     .. grid-item-card:: ガブスレイ
       :columns: auto
 
-      | 3004753C 0010
-      | ガブスレイ (MS)
-      | 30047567 0011
-      | ガブスレイ (MA)
+      | 3004753E 0040
 
     .. grid-item-card:: バウンド·ドック
       :columns: auto
 
       | 30047591 0040
       | バウンド·ドック (MS)
+
+
+    .. grid-item-card:: サイコガンダム Mk-II
+      :columns: auto
+
+      | 300475E4 0064
+      | 30047612 0044
 
     .. grid-item-card:: ビグロ
       :columns: auto
@@ -4957,12 +5001,13 @@
       :columns: auto
 
       | 30048675 0040
+      | 30048681 0001
 
     .. grid-item-card:: ガウ
       :columns: auto
 
       | 3004869A 00C0
-      | 30048681 0001
+      | 300486A6 0001
 
     .. grid-item-card:: ダブデ
       :columns: auto
@@ -5053,6 +5098,16 @@
 
       | 30048DD2 0042
 
+    .. grid-item-card:: 机体F9
+      :columns: auto
+
+      | 30048E06 0042
+
+    .. grid-item-card:: 机体FA
+      :columns: auto
+
+      | 30048E34 0042
+
     .. grid-item-card:: 旧ザク
       :columns: auto
 
@@ -5087,6 +5142,11 @@
       :columns: auto
 
       | 30049199 0040
+
+    .. grid-item-card:: Ｚガンダム
+      :columns: auto
+
+      | 300491C4 0060
 
     .. grid-item-card:: 円盤獣ジンジン
       :columns: auto
@@ -5138,6 +5198,11 @@
       :columns: auto
 
       | 3004942D 00C0
+
+    .. grid-item-card:: アウドムラ
+      :columns: auto
+      
+      | 3004945E 00C0
 
     .. grid-item-card:: スードリ
       :columns: auto

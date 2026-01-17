@@ -329,11 +329,12 @@ D0103F0B 0000
 [机师修改\妖精SP]
 Type = Gameshark
 Activation = EndFrame
-30104716 00FF
-30104718 00FF
+80104716 FFFF
+チャム/ベル
+80104718 FFFF
+エル/リリス
 3010471A 00FF
-3010471C 00FF
-3010471E 00FF
+シルキー
 [机师修改\妖精存在等级]
 Type = Gameshark
 Activation = EndFrame
@@ -2654,6 +2655,30 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 300470E1 0040
+[机体特殊技能修改\二段变身\サイバスター]
+Type = Gameshark
+Activation = EndFrame
+3004710C 0040
+[机体特殊技能修改\二段变身\サイバ－ド]
+Type = Gameshark
+Activation = EndFrame
+30047140 0040
+[机体特殊技能修改\二段变身\ネオ・グランゾン]
+Type = Gameshark
+Activation = EndFrame
+30047199 0044
+[机体特殊技能修改\二段变身\ヴァルシオ－ネＲ]
+Type = Gameshark
+Activation = EndFrame
+300471CA 0040
+[机体特殊技能修改\二段变身\ノルス・レイ]
+Type = Gameshark
+Activation = EndFrame
+300472B9 0040
+[机体特殊技能修改\二段变身\ガディフォ－ル]
+Type = Gameshark
+Activation = EndFrame
+300472E4 0040
 [机体特殊技能修改\二段变身\ドム]
 Type = Gameshark
 Activation = EndFrame
@@ -2683,18 +2708,27 @@ Type = Gameshark
 Activation = EndFrame
 30047473 0040
 アッシマー (MS)
+[机体特殊技能修改\二段变身\サイコガンダム]
+Type = Gameshark
+Activation = EndFrame
+300474C0 0040
+サイコガンダム (MS)
+300474EB 0040
+サイコガンダム (MA)
 [机体特殊技能修改\二段变身\ガブスレイ]
 Type = Gameshark
 Activation = EndFrame
-3004753C 0010
-ガブスレイ (MS)
-30047567 0011
-ガブスレイ (MA)
+3004753E 0040
 [机体特殊技能修改\二段变身\バウンド·ドック]
 Type = Gameshark
 Activation = EndFrame
 30047591 0040
 バウンド·ドック (MS)
+[机体特殊技能修改\二段变身\サイコガンダム Mk-II]
+Type = Gameshark
+Activation = EndFrame
+300475E4 0064
+30047612 0044
 [机体特殊技能修改\二段变身\ビグロ]
 Type = Gameshark
 Activation = EndFrame
@@ -2944,11 +2978,12 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 30048675 0040
+30048681 0001
 [机体特殊技能修改\二段变身\ガウ]
 Type = Gameshark
 Activation = EndFrame
 3004869A 00C0
-30048681 0001
+300486A6 0001
 [机体特殊技能修改\二段变身\ダブデ]
 Type = Gameshark
 Activation = EndFrame
@@ -3021,6 +3056,14 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 30048DD2 0042
+[机体特殊技能修改\二段变身\机体F9]
+Type = Gameshark
+Activation = EndFrame
+30048E06 0042
+[机体特殊技能修改\二段变身\机体FA]
+Type = Gameshark
+Activation = EndFrame
+30048E34 0042
 [机体特殊技能修改\二段变身\旧ザク]
 Type = Gameshark
 Activation = EndFrame
@@ -3049,6 +3092,10 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 30049199 0040
+[机体特殊技能修改\二段变身\Ｚガンダム]
+Type = Gameshark
+Activation = EndFrame
+300491C4 0060
 [机体特殊技能修改\二段变身\円盤獣ジンジン]
 Type = Gameshark
 Activation = EndFrame
@@ -3085,11 +3132,15 @@ Activation = EndFrame
 [机体特殊技能修改\二段变身\ボチューン]
 Type = Gameshark
 Activation = EndFrame
-300493FF 0010
+300493FF 0056
 [机体特殊技能修改\二段变身\ドゴス·ギア]
 Type = Gameshark
 Activation = EndFrame
 3004942D 00C0
+[机体特殊技能修改\二段变身\アウドムラ]
+Type = Gameshark
+Activation = EndFrame
+3004945E 00C0
 [机体特殊技能修改\二段变身\スードリ]
 Type = Gameshark
 Activation = EndFrame
