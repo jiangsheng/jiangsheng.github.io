@@ -1763,7 +1763,7 @@
 
 相对于HP来说，击落奖金非常不错。
 
-虽然可以在大气层中出战，但是本作中仅在宇宙路线的稀有单位大展览\ :ref:`強襲！阻止限界点 <srw4_walkthrough_25a_assault_intervention_point>`\ 中出现。
+虽然可以在大气层中出战，但是本作中仅在宇宙路线的稀有单位大展览\ :ref:`第二十五话Ａ 強襲！阻止限界点 <srw4_walkthrough_25a_assault_on_the_point_of_no_return>`\ 中出现。
 
 .. _srw4_unit_zanzibar_commentEnd:
 

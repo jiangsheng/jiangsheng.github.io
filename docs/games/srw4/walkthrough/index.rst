@@ -50,7 +50,7 @@
    23b_recapture_of_great_mazinger
    24a_encounter_with_the_aeug
    24b_rise_of_the_titans
-   25a_assault_intervention_point
+   25a_assault_on_the_point_of_no_return
    25b_hyper_jerill
    26a_londenion
    26b_i_have_the_power_of_the_sun
@@ -489,7 +489,7 @@
 
         .. image:: ../units/images/portrait/srw4_units_portrait_0A.png
 
-        | :doc:`強襲！阻止限界点 <25a_assault_intervention_point>`
+        | \ :ref:`第二十五话Ａ 強襲！阻止限界点 <srw4_walkthrough_25a_assault_on_the_point_of_no_return>`\ 
         | 加入机体：ZZガンダム、
         | F91、エルガイム Mk-II、
         | ヌーベルディザード

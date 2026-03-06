@@ -2867,7 +2867,7 @@
       | 乘换ダンバイン系
       | 300467BF 00B4
       | 限界→180
-      | 300468F4 0035
+      | 300467C8 0035
       | ｼｮﾙﾀﾞｰﾌﾞｰﾒﾗﾝ
       | →マイクロミサイル⚔🗺️	
 
@@ -3311,10 +3311,13 @@
     .. grid-item-card:: \ :ref:`トロイホース <srw4_unit_trojan_horse>`\ 
       :columns: auto
 
+      | 300486F8 0000
+      | 乘换機動戦士系
       | 30048708 0001
       | 移动类型空陆
       | 80048709 4040
       | 地形适应 空A宇A
+
 
     .. grid-item-card:: \ :ref:`グラーフ·ツェッペリン <srw4_unit_graf_zeppelin>`\ 
       :columns: auto 
@@ -3369,10 +3372,13 @@
     .. grid-item-card:: アーガマ
       :columns: auto
 
+      | 30048808 0000
+      | 乘换機動戦士系
       | 30048819 0001
       | 移动类型空陆
       | 8004881A 4444
       | 地形适应 A
+
 
     .. grid-item-card:: アイリッシュ
       :columns: auto
@@ -3385,6 +3391,8 @@
     .. grid-item-card:: ネェル·アーガマ
       :columns: auto
 
+      | 300488CA 0000
+      | 乘换機動戦士系
       | 300488DA 0001
       | 移动类型空陆
       | 800488DB 4444
@@ -3410,6 +3418,8 @@
     .. grid-item-card:: ラー·カイラム
       :columns: auto
 
+      | 3004898B 0000
+      | 乘换機動戦士系
       | 300489CC 0001
       | 移动类型空陆
       | 800489CD 4444
@@ -4609,7 +4619,7 @@
 
       | 30047140 0040
 
-    .. grid-item-card::  ネオ・グランゾン
+    .. grid-item-card::  \ :ref:`ネオ·グランゾン <srw4_unit_neo_granzon>`\ (真·古兰森)
       :columns: auto
 
       | 30047199 0044
@@ -5103,10 +5113,21 @@
 
       | 30048E06 0042
 
-    .. grid-item-card:: 机体FA
+    .. grid-item-card:: アロ－ン
       :columns: auto
 
-      | 30048E34 0042
+      | 同机体FA
+      | 30048E34 0062
+
+    .. grid-item-card:: 真・ゲッタ－１
+      :columns: auto
+
+      | 30048E5C 0040
+
+    .. grid-item-card:: 真・ゲッタ－２
+      :columns: auto
+
+      | 30048E8A 0050
 
     .. grid-item-card:: 旧ザク
       :columns: auto

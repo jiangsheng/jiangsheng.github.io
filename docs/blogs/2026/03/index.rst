@@ -1,10 +1,10 @@
 .. meta::
-   :description: Blogs in 2026#
+   :description: Blogs in March 2026
 
-.. _blogs_2026:
+.. _blogs_2026_03:
 
 ======================================
-Blogs in 2026
+Blogs in March 2026
 ======================================
 
 .. toctree::
@@ -12,8 +12,7 @@ Blogs in 2026
    :caption: 内容:
    :titlesonly:
 
-   Blogs in January 2026 <01/index>
-   Blogs in March 2026 <03/index>
+   ExtensionError: Could not import extension sphinx.builders.latex <ExtensionError_Could_not_import_extension_sphinx.builders.latex>
 
 * :ref:`genindex`
 * :ref:`modindex`

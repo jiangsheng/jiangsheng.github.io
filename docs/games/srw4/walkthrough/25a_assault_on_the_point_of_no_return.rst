@@ -4,7 +4,7 @@
 第二十五话Ａ 強襲！阻止限界点
 =================================
 
-.. _srw4_walkthrough_25a_assault_intervention_point:
+.. _srw4_walkthrough_25a_assault_on_the_point_of_no_return:
 
 :doc:`24a_encounter_with_the_aeug`\ 之后进入本话。
 

@@ -1475,7 +1475,7 @@ GP-02A
 
 .. _srw4_unit_val_walo_commentBegin:
 
-它是少数几台只在\ :ref:`強襲！阻止限界点 <srw4_walkthrough_25a_assault_intervention_point>`\ 这一话中登场的机体之一。和原作一样，它由\ :ref:`ケリィ・レズナー <srw4_pilot_kelly_layzner>`\ 驾驶。
+它是少数几台只在\ :ref:`第二十五话Ａ 強襲！阻止限界点 <srw4_walkthrough_25a_assault_on_the_point_of_no_return>`\ 这一话中登场的机体之一。和原作一样，它由\ :ref:`ケリィ・レズナー <srw4_pilot_kelly_layzner>`\ 驾驶。
 
 各项性能不错，经过6次改造，其地图武器等离子领袖威力强大。和\ :ref:`アッザム <srw4_unit_adzam>`\ (阿扎姆)的阿扎姆领袖一样，被攻击时可获得和上一场战斗中获得的经验值和资金相同的收入。这次因为武器威力强大，最好还是避免利用这个漏洞。
 
@@ -1704,7 +1704,7 @@ GP-02A
 
 .. _srw4_unit_neue_ziel_commentBegin:
 
-代码AMX-002。和前作不同，本作中只作为敌军出场。只在\ :ref:`強襲！阻止限界点 <srw4_walkthrough_25a_assault_intervention_point>`\ 这一话中登场的少数机体之一。
+代码AMX-002。和前作不同，本作中只作为敌军出场。只在\ :ref:`第二十五话Ａ 強襲！阻止限界点 <srw4_walkthrough_25a_assault_on_the_point_of_no_return>`\ 这一话中登场的少数机体之一。
 
 出现时有完全改造，威力异常强大。巨型加农炮有近4000的威力，因为宇宙适应的关系，甚至可以一次击破有铁壁的超级系机器人。
 

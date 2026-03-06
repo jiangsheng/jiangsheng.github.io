@@ -6,7 +6,7 @@
 
 .. _srw4_walkthrough_26a_londenion:
 
-:doc:`25a_assault_intervention_point`\ 之后进入本话。
+\ :ref:`第二十五话Ａ 強襲！阻止限界点 <srw4_walkthrough_25a_assault_on_the_point_of_no_return>`\ 之后进入本话。
 
 因为エゥーゴ提案用ネェル・アーガマ来替换アーガマ，ロンド・ベル队来到SIDE-1殖民地ロンデニオン。但是，就在马上要着陆的时候，ポセイダル军出现。
 

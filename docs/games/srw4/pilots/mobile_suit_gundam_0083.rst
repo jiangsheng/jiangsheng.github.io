@@ -907,7 +907,7 @@
 
 .. _srw4_pilot_kelly_layzner_commentBegin:
 
-和他的机体ヴァル・ヴァロ一样只在\ :ref:`強襲！阻止限界点 <srw4_walkthrough_25a_assault_intervention_point>`\ 这一话中登场。
+和他的机体ヴァル・ヴァロ一样只在\ :ref:`第二十五话Ａ 強襲！阻止限界点 <srw4_walkthrough_25a_assault_on_the_point_of_no_return>`\ 这一话中登场。
 
 回避和技量优秀的敌人。出会心一击的话未改造的机体很容易挂掉。
 

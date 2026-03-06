@@ -111,4 +111,4 @@
 
 グレンダイザー的合体形态可以获得两人份的经验值，所以以后甲児、さやか、ボス、マリア、ジュン和鉄也都需要轮流坐各种スペイザー蹭经验值——有时甚至一话要开两三个スペイザー出来。
 
-下一话进入\ :doc:`25a_assault_intervention_point`\ 。
+下一话进入\ :ref:`第二十五话Ａ 強襲！阻止限界点 <srw4_walkthrough_25a_assault_on_the_point_of_no_return>`\ 。

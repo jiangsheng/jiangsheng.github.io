@@ -218,7 +218,7 @@
 * :doc:`../walkthrough/24b_rise_of_the_titans`\ 
    * 第四次S メ(15.05),プＳ(12.09),2000(13.13),(28.09),(04.20),5000(17.14) 
    * 第四次 メ(15.26),プＳ(04.20),2000(13.13),(28.09),5000(08.05) 
-* :doc:`../walkthrough/25a_assault_intervention_point`\ 
+* :ref:`第二十五话Ａ 強襲！阻止限界点 <srw4_walkthrough_25a_assault_on_the_point_of_no_return>`\ 
    * 第四次S チョ(39.12),プＳ(05.21),2000(20.15),5000(23.04),(03.06) 
    * 第四次 チョ(39.12),プＳ(05.21),2000(20.15),5000(23.04),(03.06) 
 * :doc:`../walkthrough/25b_hyper_jerill`

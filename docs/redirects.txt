@@ -305,6 +305,7 @@
 "games/srw4/walkthrough/19-BaronAshurasFinalMoment" "games/srw4/walkthrough/19_baron_ashura_s_final_moment"
 "games/srw4/walkthrough/20a_old_soldiers_elegy" "games/srw4/walkthrough/20a_old_soldier_s_elegy"
 "games/srw4/walkthrough/21_dr_hells_ambition" "games/srw4/walkthrough/21_dr_hell_s_ambition"
+"games/srw4/walkthrough/25a_assault_intervention_point" "games/srw4/walkthrough/25a_assault_on_the_point_of_no_return"
 "games/srw4/walkthrough/29A-MarsConnection" "games/srw4/walkthrough/29a_mars_connection"
 "games/srw4/walkthrough/the_beginning_common" "games/srw4/walkthrough/01_the_beginning_common"
 "gradma/index" "grandma/index"

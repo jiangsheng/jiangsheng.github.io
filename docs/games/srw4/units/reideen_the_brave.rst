@@ -320,7 +320,7 @@
 
 .. _srw4_unit_reideen_commentBegin:
 
-\ :ref:`強襲！阻止限界点 <srw4_walkthrough_25a_assault_intervention_point>`\ 这一话中增加武器ゴーガンソード和能量切割器，\ :doc:`../walkthrough/31_storm_of_kilimanjaro`\ 这一话中增加武器ゴッドボイス。
+\ :ref:`第二十五话Ａ 強襲！阻止限界点 <srw4_walkthrough_25a_assault_on_the_point_of_no_return>`\ 这一话中增加武器ゴーガンソード和能量切割器，\ :doc:`../walkthrough/31_storm_of_kilimanjaro`\ 这一话中增加武器ゴッドボイス。
 
 作为超级系来说居然有射程为8的武器，残弹也不算少，使用频率比ゴッドバード和ゴッドボイス还高，可以改造一下。ゴッドボイス（神之声）虽然攻击力高，但是使用超过10次的话，最后一话不能出战，所以平时还是以ゴッドバード为主力武器，除非是为了对付ブラッドテンプル之类的敌人王牌。由于加入后仅有9次出战，建议每个关卡最多使用一次，确保本机能用到最终战。如果用地图武器刷级导致最终话不缺攻击队员，则可以自由使用。当然，因为其130的EN消耗，不补给很难用第二次。
 
