@@ -114,21 +114,6 @@ cheat
   code: 7E1409=00?80+7E140D=00?80+7E1411=00?80+7E1415=00?80+7E1419=00?80
   comments: Snes9x/Bsnes支持条件启用+如果模拟器不支持，需要开局开启，+第一话过关之后存盘之后关闭再读盘，+因为换乘的机师代码也在同一个字节，+一直锁定的话会导致改出来也没法用。+チャム·ファウ+ベル·アール+エル·フィノ+リリス·ファウ+シルキー·マウ
 
-  code: 7E1409=00?80
-  comments: チャム·ファウ
-
-  code: 7E140D=00?80
-  comments: ベル·アール
-
-  code: 7E1411=00?80
-  comments: エル·フィノ
-
-  code: 7E1415=00?80
-  comments: リリス·ファウ
-
-  code: 7E1419=00?80
-  comments: シルキー·マウ
-
 cheat
   name: 全局设置\全单位改造
   code: 7e1288=00?ff+7e1289=00?7f+7e128a=00?ff+7e128b=00?7f+7e128c=00?ff+7e128d=00?7f+7e128e=00?ff+7e128f=00?7f+7e1290=00?ff+7e1291=00?7f+7e1292=00?ff+7e1293=00?7f+7e1294=00?ff+7e1295=00?7f+7e1296=00?ff+7e1297=00?7f+7e1298=00?ff+7e1299=00?7f+7e129a=00?ff+7e129b=00?7f+7e129c=00?ff+7e129d=00?7f+7e129e=00?ff+7e129f=00?7f+7e12a0=00?ff+7e12a1=00?7f+7e12a2=00?ff+7e12a3=00?7f+7e12a4=00?ff+7e12a5=00?7f+7e12a6=00?ff+7e12a7=00?7f+7e12a8=00?ff+7e12a9=00?7f+7e12aa=00?ff+7e12ab=00?7f+7e12ac=00?ff+7e12ad=00?7f+7e12ae=00?ff+7e12af=00?7f+7e12b0=00?ff+7e12b1=00?7f+7e12b2=00?ff+7e12b3=00?7f+7e12b4=00?ff+7e12b5=00?7f+7e12b6=00?ff+7e12b7=00?7f+7e12b8=00?ff+7e12b9=00?7f+7e12ba=00?ff+7e12bb=00?7f+7e12bc=00?ff+7e12bd=00?7f+7e12be=00?ff+7e12bf=00?7f+7e12c0=00?ff+7e12c1=00?7f+7e12c2=00?ff+7e12c3=00?7f+7e12c4=00?ff+7e12c5=00?7f+7e12c6=00?ff+7e12c7=00?7f+7e12c8=00?ff+7e12c9=00?7f+7e12ca=00?ff+7e12cb=00?7f+7e12cc=00?ff+7e12cd=00?7f+7e12ce=00?ff+7e12cf=00?7f+7e12d0=00?ff+7e12d1=00?7f+7e12d2=00?ff+7e12d3=00?7f+7e12d4=00?ff+7e12d5=00?7f+7e12d6=00?ff+7e12d7=00?7f+7e12d8=00?ff+7e12d9=00?7f+7e12da=00?ff+7e12db=00?7f+7e12dc=00?ff+7e12dd=00?7f+7e12de=00?ff+7e12df=00?7f+7e12e0=00?ff+7e12e1=00?7f+7e12e2=00?ff+7e12e3=00?7f+7e12e4=00?ff+7e12e5=00?7f+7e12e6=00?ff+7e12e7=00?7f+7e12e8=00?ff+7e12e9=00?7f+7e12ea=00?ff+7e12eb=00?7f+7e12ec=00?ff+7e12ed=00?7f+7e12ee=00?ff+7e12ef=00?7f+7e12f0=00?ff+7e12f1=00?7f+7e12f2=00?ff+7e12f3=00?7f+7e12f4=00?ff+7e12f5=00?7f+7e12f6=00?ff+7e12f7=00?7f+7e12f8=00?ff+7e12f9=00?7f+7e12fa=00?ff+7e12fb=00?7f+7e12fc=00?ff+7e12fd=00?7f+7e12fe=00?ff+7e12ff=00?7f+7e1300=00?ff+7e1301=00?7f+7e1302=00?ff+7e1303=00?7f+7e1304=00?ff+7e1305=00?7f+7e1306=00?ff+7e1307=00?7f
@@ -192,137 +177,40 @@ cheat
   code: 7E1106=36+7e1187=00?10+7E1104=97+7e1185=00?10+7E1102=92+7e1183=00?10+7E1100=7F+7e1181=00?10+7E10fe=4B+7e117f=00?10
   comments: 分歧参考（隐藏要素路线A/B/C）+不按照路线中的选择可能造成数据溢出+モンド+ギュネイ+グレミー+ララァ+早乙女ミチル
 
-  code: 7E1106=36+7e1187=00?10
-  comments: モンド
-
-  code: 7E1104=97+7e1185=00?10
-  comments: ギュネイ
-
-  code: 7E1102=92+7e1183=00?10
-  comments: グレミー
-
-  code: 7E1100=7F+7e1181=00?10
-  comments: ララァ
-
-  code: 7E10fe=4B+7e117f=00?10
-  comments: 早乙女ミチル
-
 cheat
   name: 机师修改\额外增加人物（路线B）
   code: 7e10fc=BC+7e117d=00?10+7e10fa=BD+7e117b=00?10+7e10f8=3a+7e1179=00?10+7e10f6=44+7e1177=00?10
   comments: 分歧参考 （隐藏要素路线B）+走A/C路线时禁用+不按照路线中的选择可能造成数据溢出+ゼット+トルストール+レズン+モンシア
-
-  code: 7e10fc=BC+7e117d=00?10
-  comments: ゼット
-
-  code: 7e10fa=BD+7e117b=00?10
-  comments: トルストール
-
-  code: 7e10f8=3a+7e1179=00?10
-  comments: レズン
-
-  code: 7e10f6=44+7e1177=00?10
-  comments: モンシア
 
 cheat
   name: 机体修改\增加机体(共通)
   code: 7e1287=00?01+7e1286=00?7a+7e1285=00?01+7e1284=00?06+7e1283=00?01+7e1282=00?0C+7e1280=00?03+7e1407=1E+7e1406=00+7e1405=1E+7e1404=00+7e1403=1E+7e1402=00+7e1401=1E+7e1400=00
   comments: 分歧参考（隐藏要素路线A/B/C）+不按照路线中的选择可能造成数据溢出+ガイラム+Ξガンダム+ニセサイバスター+ウイングガスト+武器改造段数数量/位移
 
-  code: 7e1287=00?01+7e1286=00?7a
-  comments: ガイラム
-
-  code: 7e1285=00?01+7e1284=00?06
-  comments: Ξガンダム
-
-  code: 7e1283=00?01+7e1282=00?0C
-  comments: ニセサイバスター
-
-  code: 7e1280=00?03
-  comments: ウイングガスト+武器改造段数数量/位移
-
-  code: 7e1407=1E+7e1406=00+7e1405=1E+7e1404=00+7e1403=1E+7e1402=00+7e1401=1E+7e1400=00
-
 cheat
   name: 机体修改\额外增加机体(路线B)
   code: 7e127f=00?01+7e127e=00?28+7e127d=00?01+7e127c=00?26+7e127b=00?01+7e127a=00?24+7e1279=00?01+7e1278=00?04+7e1276=8C+7e13ff=1E+7e13fe=00+7e13fd=1E+7e13fc=00+7e13fb=1E+7e13fa=00+7e13f9=1E+7e13f8=00+7e13f7=1E+7e13f6=00
   comments: 分歧参考 （隐藏要素路线B）+走A/C路线时禁用+不按照路线中的选择可能造成数据溢出+ガラバ(ハイパー可)+ライネック(ハイパー可)+レプラカーン(ハイパー可)+Gディフェンサー+ビギナ・ギナ+武器改造段数数量/位移
-
-  code: 7e127f=00?01+7e127e=00?28
-  comments: ガラバ(ハイパー可)
-
-  code: 7e127d=00?01+7e127c=00?26
-  comments: ライネック(ハイパー可)
-
-  code: 7e127b=00?01+7e127a=00?24
-  comments: レプラカーン(ハイパー可)
-
-  code: 7e1279=00?01+7e1278=00?04
-  comments: Gディフェンサー
-
-  code: 7e1276=8C
-  comments: ビギナ・ギナ+武器改造段数数量/位移
-
-  code: 7e13ff=1E+7e13fe=00+7e13fd=1E+7e13fc=00+7e13fb=1E+7e13fa=00+7e13f9=1E+7e13f8=00+7e13f7=1E+7e13f6=00
 
 cheat
   name: 机体修改\ヒュッケバイン
   code: CB9575=00+CB9576=00+CB9586=01+CB9587=44+CB9591=4F+CB9592=06+CB9594=50+CB959A=53
   comments: 乘换機動戦士系+移动空陆+空A海A+６０ミリバルカン+→ブ－ストナックル+プラズマソ－ド+→オメガレーザー+ロシュセイバ－→+[グルンガスト]ビ－ム
 
-  code: CB9575=00+CB9576=00
-  comments: 乘换機動戦士系
-
-  code: CB9586=01
-  comments: 移动空陆
-
-  code: CB9587=44
-  comments: 空A海A
-
-  code: CB9591=4F+CB9592=06
-  comments: ６０ミリバルカン+→ブ－ストナックル
-
-  code: CB9594=50
-  comments: プラズマソ－ド+→オメガレーザー
-
-  code: CB959A=53
-  comments: ロシュセイバ－→+[グルンガスト]ビ－ム
-
 cheat
   name: 机体修改\グルンガスト
   code: CB95AD=00+CB95AE=00+CB95BF=44+CB95CC=4D
   comments: 乘换機動戦士系+空A海A+オメガレーザー→+リープスラッシャー
-
-  code: CB95AD=00+CB95AE=00
-  comments: 乘换機動戦士系
-
-  code: CB95BF=44
-  comments: 空A海A
-
-  code: CB95CC=4D
-  comments: オメガレーザー→+リープスラッシャー
 
 cheat
   name: 机体修改\ウイングガスト
   code: CB95E2=00+CB95E3=00+CB95F4=44
   comments: 乘换機動戦士系+空A海A
 
-  code: CB95E2=00+CB95E3=00
-  comments: 乘换機動戦士系
-
-  code: CB95F4=44
-  comments: 空A海A
-
 cheat
   name: 机体修改\ガストランダー
   code: CB960D=00+CB960E=00+CB961F=44
   comments: 乘换機動戦士系+空A海A
-
-  code: CB960D=00+CB960E=00
-  comments: 乘换機動戦士系
-
-  code: CB961F=44
-  comments: 空A海A
 
 cheat
   name: 机体修改\νガンダム
@@ -349,24 +237,6 @@ cheat
   code: cb973c=01+cb973d=44+cb973e=44+CB9756=12+CB9759=2F+CB9750=4A+CB9751=0D+CB9784=4A+CB9785=0D+CBC7EB=4A+CBC7EC=0D
   comments: GP-03移动空陆+空A海A+陆A宇A+集中ミサイル→+バルカン+マイクロミサイル (M)+→アトミックバズ－カ (M)+フォ－ルディングバズ－カ+→ビット
 
-  code: cb973c=01
-  comments: GP-03移动空陆
-
-  code: cb973d=44
-  comments: 空A海A
-
-  code: cb973e=44
-  comments: 陆A宇A
-
-  code: CB9756=12
-  comments: 集中ミサイル→+バルカン
-
-  code: CB9759=2F
-  comments: マイクロミサイル (M)+→アトミックバズ－カ (M)
-
-  code: CB9750=4A+CB9751=0D+CB9784=4A+CB9785=0D+CBC7EB=4A+CBC7EC=0D
-  comments: フォ－ルディングバズ－カ+→ビット
-
 cheat
   name: 机体修改\ガンキャノン
   code: CB97AF=4A+CB97B0=0D
@@ -382,25 +252,10 @@ cheat
   code: CB97F1=01+CB97F2=44
   comments: 移动空陆+空A海A
 
-  code: CB97F1=01
-  comments: 移动空陆
-
-  code: CB97F2=44
-  comments: 空A海A
-
 cheat
   name: 机体修改\ボスロボット
   code: CB9CCA=01+CB9CCB=44+CB9CCC=44
   comments: 移动空陆+地形适应空海+地形适应宇陆
-
-  code: CB9CCA=01
-  comments: 移动空陆
-
-  code: CB9CCB=44
-  comments: 地形适应空海
-
-  code: CB9CCC=44
-  comments: 地形适应宇陆
 
 cheat
   name: 机体修改\ダンクーガ
@@ -412,28 +267,10 @@ cheat
   code: 7E105E=00?01+7E105F=00?86+7E1060=00?1A+7E1061=00?30
   comments: コン・バトラーV+イオン+アトミックバズーカ+グランダッシャー+ダイモス+計都羅喉剣暗剣殺+ブラックホールキャノン
 
-  code: 7E105E=00?01
-  comments: コン・バトラーV
-
-  code: 7E105F=00?86
-  comments: イオン+アトミックバズーカ+グランダッシャー
-
-  code: 7E1060=00?1A
-  comments: ダイモス
-
-  code: 7E1061=00?30
-  comments: 計都羅喉剣暗剣殺+ブラックホールキャノン
-
 cheat
   name: 武器修改\必殺烈風正拳突き
   code: CBDA5B=FE+CBEDFB=FE
   comments: 必殺烈風正拳突き地形AAAB+必殺烈風正拳突き改地形AAAB
-
-  code: CBDA5B=FE
-  comments: 必殺烈風正拳突き地形AAAB
-
-  code: CBEDFB=FE
-  comments: 必殺烈風正拳突き改地形AAAB
 
 cheat
   name: 芯片修改\高性能雷达
@@ -515,31 +352,4 @@ cheat
   name: 机体特殊技能修改\オリジナル变形\ヒュッケバイン变形
   code: CB9578=08+CB95B0=09+CB95E5=08+CB9610=09+CB958F=0A+CB9590=06+CB9599=07+CB959F=08+CB95A2=89+CB9595=0A+CB9598=16+CB959E=1A+CB95CE=08+CB95CD=1A
   comments: ヒュッケバイン→+グルンガスト+グルンガスト→+ヒュッケバイン+ウイングガスト→+ガストランダー+ガストランダー+→ウイングガスト+ヒュッケバイン+武器/残弹槽数量+ヒュッケバイン+武器再编号+ヒュッケバイン+弹药槽再编号+ウイングガスト+武器再编号+ウイングガスト+弹药槽再编号
-
-  code: CB9578=08
-  comments: ヒュッケバイン→+グルンガスト
-
-  code: CB95B0=09
-  comments: グルンガスト→+ヒュッケバイン
-
-  code: CB95E5=08
-  comments: ウイングガスト→+ガストランダー
-
-  code: CB9610=09
-  comments: ガストランダー+→ウイングガスト
-
-  code: CB958F=0A+CB9590=06
-  comments: ヒュッケバイン+武器/残弹槽数量
-
-  code: CB9599=07+CB959F=08+CB95A2=89
-  comments: ヒュッケバイン+武器再编号
-
-  code: CB9595=0A+CB9598=16+CB959E=1A
-  comments: ヒュッケバイン+弹药槽再编号
-
-  code: CB95CE=08
-  comments: ウイングガスト+武器再编号
-
-  code: CB95CD=1A
-  comments: ウイングガスト+弹药槽再编号
 
