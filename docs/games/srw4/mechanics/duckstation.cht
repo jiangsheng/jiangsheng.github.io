@@ -1156,7 +1156,7 @@ Activation = EndFrame
 乘换ダンバイン系
 300467BF 00B4
 限界→180
-300468F4 0035
+300467C8 0035
 ｼｮﾙﾀﾞｰﾌﾞｰﾒﾗﾝ
 →マイクロミサイル⚔🗺️
 [机体修改\スペイザー]
@@ -1546,6 +1546,8 @@ Activation = EndFrame
 [机体修改\トロイホース]
 Type = Gameshark
 Activation = EndFrame
+300486F8 0000
+乘换機動戦士系
 30048708 0001
 移动类型空陆
 80048709 4040
@@ -1598,6 +1600,8 @@ Activation = EndFrame
 [机体修改\アーガマ]
 Type = Gameshark
 Activation = EndFrame
+30048808 0000
+乘换機動戦士系
 30048819 0001
 移动类型空陆
 8004881A 4444
@@ -1612,6 +1616,8 @@ Activation = EndFrame
 [机体修改\ネェル·アーガマ]
 Type = Gameshark
 Activation = EndFrame
+300488CA 0000
+乘换機動戦士系
 300488DA 0001
 移动类型空陆
 800488DB 4444
@@ -1633,6 +1639,8 @@ Activation = EndFrame
 [机体修改\ラー·カイラム]
 Type = Gameshark
 Activation = EndFrame
+3004898B 0000
+乘换機動戦士系
 300489CC 0001
 移动类型空陆
 800489CD 4444
@@ -2663,7 +2671,7 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 30047140 0040
-[机体特殊技能修改\二段变身\ネオ・グランゾン]
+[机体特殊技能修改\二段变身\ネオ·グランゾン(真·古兰森)]
 Type = Gameshark
 Activation = EndFrame
 30047199 0044
@@ -3060,10 +3068,19 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 30048E06 0042
-[机体特殊技能修改\二段变身\机体FA]
+[机体特殊技能修改\二段变身\アロ－ン]
 Type = Gameshark
 Activation = EndFrame
-30048E34 0042
+同机体FA
+30048E34 0062
+[机体特殊技能修改\二段变身\真・ゲッタ－１]
+Type = Gameshark
+Activation = EndFrame
+30048E5C 0040
+[机体特殊技能修改\二段变身\真・ゲッタ－２]
+Type = Gameshark
+Activation = EndFrame
+30048E8A 0050
 [机体特殊技能修改\二段变身\旧ザク]
 Type = Gameshark
 Activation = EndFrame
