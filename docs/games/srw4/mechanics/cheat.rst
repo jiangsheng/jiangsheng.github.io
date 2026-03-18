@@ -1,5 +1,5 @@
 .. meta::
-   :description: 目录 修改 (第四次机器人大战) 第四次金手指 第四次修改 动态修改 人物和机体修改 芯片修改 静态修改 人物修改 机体修改 精神修改 武器修改 芯片修改 第四次S金手指 用金手指添加机师的时候要注意，按照隐藏要素推荐的路线走剧情的话（这样打两遍就可以基本走完剧情），第四次的A路线到最后有59名机师，58个机体，B路线
+   :description: 修改 (第四次机器人大战) 静态修改 第四次金手指 人物修改 机体修改 芯片修改 精神修改 武器修改 变形修改 变身修改 第四次S金手指 用金手指添加机师的时候要注意，按照隐藏要素推荐的路线走剧情的话（这样打两遍就可以基本走完剧情），第四次的A路线到最后有59名机师，58个机体，B路线
 
 .. _srw4_cheat:
 
@@ -11,9 +11,9 @@
 作弊文件用法：把文件放到模拟器的cheat文件夹下，并改名为和游戏一样的名字（如果不确定文件名，手动输入一个作弊码之后退出模拟器）。
 
 
-* :download:`下载 duckstation.cht <duckstation.cht>` 
-* :download:`下载 snes9x.cht <snes9x.cht>`
-* :download:`下载 bsnes.cht <bsnes.cht>`
+* :download:`下载 SLPS-00196_duckstation.cht <SLPS-00196_duckstation.cht>` 
+* :download:`下载 Dai 4 Ji Super Robot Taisen (V1.1) (J)_snes9x.cht <Dai 4 Ji Super Robot Taisen (V1.1) (J)_snes9x.cht>`
+* :download:`下载 Dai 4 Ji Super Robot Taisen (V1.1) (J)_bsnes.cht <Dai 4 Ji Super Robot Taisen (V1.1) (J)_bsnes.cht>`
 
 .. image:: images/cheat_boss.jpg
 
@@ -241,28 +241,26 @@
       | 7e107e=99
       | 7e107f=99
 
-    .. grid-item-card:: 添加妖精
+    .. grid-item-card:: 武器追加      
       :columns: auto
-      
+
       | Snes9x/Bsnes支持条件启用
       | Snes9x Bug:
       | 游戏启动时无效化条件启用
-      | 需要在存盘之后禁用/启用一次
+      | 需要在读盘之后禁用/启用一次
       | 如果模拟器不支持，需要在开局之后开启，
       | 第一话过关之后存盘之后关闭再读盘，
-      | 因为换乘的机师代码也在同一个字节，
-      | 一直锁定的话会导致改出来也没法用。
-      | 7E1409=00?80
-      | チャム·ファウ
-      | 7E140D=00?80
-      | ベル·アール
-      | 7E1411=00?80
-      | エル·フィノ
-      | 7E1415=00?80
-      | リリス·ファウ
-      | 7E1419=00?80
-      | シルキー·マウ
-
+      | 7E105E=00?01 
+      | コン・バトラーV
+      | 7E105F=00?86
+      | イオン
+      | アトミックバズーカ
+      | グランダッシャー
+      | 7E1060=00?1A
+      | ダイモス
+      | 7E1061=00?30
+      | 計都羅喉剣暗剣殺
+      | ブラックホールキャノン'
     .. grid-item-card:: 全单位改造
       :columns: auto
 
@@ -778,7 +776,7 @@
       | CB9003=13
       | CB9004=01
       | CB9005=14
-      | CB9006=01s
+      | CB9006=01
       | CB9007=16
       | CB9008=01
       | CB9009=12
@@ -912,11 +910,20 @@
       | CB92E1=12
       | CB92E2=01
 
+^^^^^^^^^^^^^^^^^
+阵容修改
+^^^^^^^^^^^^^^^^^
+Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
+但是Snes9x有Bug，在游戏在对应位置写入数据（例如读盘）之后，作弊码即失效。
+所以此类代码需要需要在读盘之后禁用+启用一次才可以生效。
 
-^^^^^^^^^^^^^^^^^
-机师修改
-^^^^^^^^^^^^^^^^^
-因为数据是散列的，这里只列出首地址，特定机师的对应数据地址为序号x2+首地址。
+对于不支持此类作弊码的模拟器，则应改写为AAAAAA=CC，在开局之后开启，第一话过关之后存盘之后关闭作弊码，再读盘。
+
+
+"""""""""""""""""""""""""""""
+增加机师
+"""""""""""""""""""""""""""""
+因为机师数据是散列的，这里只列出首地址，特定机师的对应数据地址为序号x2+首地址。
 
 * 7e1088xx xx为机师代号，可以在\ :ref:`机师数据 <srw4_pilots_data_snes>` \ 查到。
 * 7e1089xx 等级 (0x01-0x63=99)  
@@ -932,65 +939,93 @@
   * 如下类推
   * 新增机师的话，需要设置对应分队情况。
 
+ 
+
 .. grid::
 
-    .. grid-item-card:: 增加人物(共通)
+    .. grid-item-card:: 增加机师(路线AC)
       :columns: auto
 
-      | Snes9x/Bsnes支持条件启用
-      | Snes9x Bug:
-      | 游戏启动时无效化条件启用
-      | 需要在读盘之后禁用/启用一次
-      | 如果模拟器不支持，需要在开局之后开启，
-      | 第一话过关之后存盘之后关闭再读盘，
-      | 分歧参考（\ :ref:`隐藏要素 <srw4_missable>`\ 路线A/B/C）
+      
+      | 分歧参考（\ :ref:`隐藏要素 <srw4_missable>`\ 路线A/C）      
+      | 走B路线时禁用
       | 不按照路线中的选择可能造成数据溢出
       | 7E1106=36
       | 7e1187=00?10
-      | モンド
+      | \ :ref:`モンド <srw4_pilot_mondo_agake>`\ (蒙多·雅加凯) 
       | 7E1104=97
       | 7e1185=00?10
-      | ギュネイ
+      | \ :ref:`ギュネイ <srw4_pilot_günei_gas>`\ (邱尼·盖斯) 
       | 7E1102=92 
       | 7e1183=00?10
-      | グレミー
+      | \ :ref:`グレミー <srw4_pilot_glemy_toto>`\ (古利明·托托) 
       | 7E1100=7F 
       | 7e1181=00?10 
-      | ララァ
+      | \ :ref:`ララァ <srw4_pilot_lala_sun>`\ (拉拉·辛) 
       | 7E10fe=4B 
       | 7e117f=00?10 
-      | 早乙女ミチル
+      | \ :ref:`ミチル <srw4_pilot_michiru_saotome>`\ (早乙女美智琉) 
 
-    .. grid-item-card:: 额外增加人物（路线B）
+    .. grid-item-card:: 增加机师（路线B）
       :columns: auto
 
-      | Snes9x/Bsnes支持条件启用
-      | Snes9x Bug:
-      | 游戏启动时无效化条件启用
-      | 需要在读盘之后禁用/启用一次
-      | 如果模拟器不支持，需要在开局之后开启，
-      | 第一话过关之后存盘之后关闭再读盘，
       | 分歧参考 （\ :ref:`隐藏要素 <srw4_missable>`\ 路线B）
       | 走A/C路线时禁用
       | 不按照路线中的选择可能造成数据溢出
+      | 7E1106=25
+      | 7e1187=00?10
+      | \ :ref:`セイラ <srw4_pilot_sayla_mass>`\ (莎拉·玛斯) 
+      | 7E1104=98
+      | 7e1185=00?10
+      | \ :ref:`ナナイ <srw4_pilot_nanai_miguel>`\ (娜娜伊·米格尔) 
+      | 7E1102=70
+      | 7e1183=00?10
+      | \ :ref:`バニング <srw4_pilot_south_burning>`\ (绍斯·巴宁格)
+      | 7E1100=38 
+      | 7e1181=00?10 
+      | イーノ(伊诺·阿帕夫)
+      | 7E10fe=4B 
+      | 7e117f=00?10 
+      | \ :ref:`ミチル <srw4_pilot_michiru_saotome>`\ (早乙女美智琉) 
       | 7e10fc=BC
       | 7e117d=00?10 
-      | ゼット
+      | \ :ref:`ゼット <srw4_pilot_zet_light>`\ (杰特·赖特) 
       | 7e10fa=BD
       | 7e117b=00?10
-      | トルストール
+      | \ :ref:`トルストール <srw4_pilot_tolstor_cheshilenko>`\
+      | (特鲁斯多鲁·切基雷科) 
       | 7e10f8=3a 
       | 7e1179=00?10 
-      | レズン
+      | \ :ref:`レズン <srw4_pilot_rezun_schneider>`\ 
+      | (列珍·施耐德) 
       | 7e10f6=44 
       | 7e1177=00?10 
-      | モンシア
+      | \ :ref:`モンシア <srw4_pilot_bernard_monsha>`\ 
+      | (巴纳德·蒙夏) 
 
-^^^^^^^^^^^^^^^^^
-机体修改
-^^^^^^^^^^^^^^^^^
+  
+    .. grid-item-card:: 增加妖精
+      :columns: auto
 
-因为数据是散列的，这里只列出首地址，特定机体的对应数据地址为序号x2+首地址。
+      | 因为换乘的机师代码也在同一个字节，
+      | 一直锁定的话会导致改出来也没法用。
+      | 7E1409=00?80
+      | チャム·ファウ
+      | 7E140D=00?80
+      | ベル·アール
+      | 7E1411=00?80
+      | エル·フィノ
+      | 7E1415=00?80
+      | リリス·ファウ
+      | 7E1419=00?80
+      | シルキー·マウ
+
+
+"""""""""""""""""""""""""""""
+增加机体
+"""""""""""""""""""""""""""""
+
+因为机体是散列的，这里只列出首地址，特定机体的对应数据地址为序号x2+首地址。
 
 * 7E1208xx xx=a
 * 7E1209yy yy=b+cx2+d。
@@ -1012,33 +1047,26 @@
   
   * xx和yy是芯片的\ :ref:`序号 <srw4_items>`\ 。
 
-下面是修改机体性能的金手指。如果你要修改其他机体的性能，可以参考\ :ref:`机体数据 <srw4_units_data_snes>` \ 找到对应参数，根据参数搜索找到地址，然后修改。关于参数顺序和其他机体数据的相对位移，参考\ :ref:`机体修改 <srw4_units_cheat>` \ 。
-
-.. grid::
-
-
-    .. grid-item-card:: 增加机体(共通)
+.. grid:: 
+    
+    .. grid-item-card:: 增加机体(路线AC)
       :columns: auto
 
-      | Snes9x/Bsnes支持条件启用
-      | Snes9x Bug:
-      | 游戏启动时无效化条件启用
-      | 需要在读盘之后禁用/启用一次
-      | 如果模拟器不支持，需要在开局之后开启，
-      | 第一话过关之后存盘之后关闭再读盘，
-      | 分歧参考（\ :ref:`隐藏要素 <srw4_missable>`\ 路线A/B/C）
+      
+      | 分歧参考（\ :ref:`隐藏要素 <srw4_missable>`\ 路线A/C）
+      | 走B路线时禁用
       | 不按照路线中的选择可能造成数据溢出
       | 7e1287=00?01
-      | 7e1286=00?01
-      | ガイラム
+      | 7e1286=00?1f
+      | \ :ref:`ガイラム <srw4_unit_gayrahm>`\ (盖拉姆)
       | 7e1285=00?01
       | 7e1284=00?06
-      | Ξガンダム
+      | \ :ref:`Ξガンダム <srw4_unit_xi_gundam>`\ (柯西高达)
       | 7e1283=00?01
       | 7e1282=00?0C
-      | ニセサイバスター
+      | \ :ref:`ニセサイバスター <srw4_unit_fake_cybuster>`\ (伪塞巴斯塔)
       | 7e1280=00?03
-      | ウイングガスト
+      | \ :ref:`ウイングガスト <srw4_unit_wing_gust>`\ (飞翼加斯特)
       | 武器改造段数数量/位移
       | 7e1407=1E 
       | 7e1406=00 
@@ -1048,34 +1076,47 @@
       | 7e1402=00 
       | 7e1401=1E
       | 7e1400=00 
-       
-    .. grid-item-card:: 额外增加机体(路线B)
+
+    .. grid-item-card:: 增加机体(路线B)
       :columns: auto
 
-      | Snes9x/Bsnes支持条件启用
-      | Snes9x Bug:
-      | 游戏启动时无效化条件启用
-      | 需要在读盘之后禁用/启用一次
-      | 如果模拟器不支持，需要在开局之后开启，
-      | 第一话过关之后存盘之后关闭再读盘，
       | 分歧参考 （\ :ref:`隐藏要素 <srw4_missable>`\ 路线B）
       | 走A/C路线时禁用
-      | 不按照路线中的选择可能造成数据溢出
+      | 不按照路线中的选择可能造成数据溢出      
+      | 7e1287=00?01
+      | 7e1286=00?01
+      | \ :ref:`ガイラム <srw4_unit_gayrahm>`\ (盖拉姆)
+      | 7e1285=00?12
+      | 7e1284=00?00
+      | \ :ref:`ボール <srw4_unit_ball>`\ (铁球)
+      | 7e1283=00?01
+      | 7e1282=00?0C
+      | \ :ref:`ニセサイバスター <srw4_unit_fake_cybuster>`\ (伪塞巴斯塔)
+      | 7e1280=00?03
+      | \ :ref:`ウイングガスト <srw4_unit_wing_gust>`\ (飞翼加斯特)
       | 7e127f=00?01
       | 7e127e=00?28
-      | ガラバ(ハイパー可)
+      | \ :ref:`ガラバ(ハイパー可) <srw4_unit_gallaba_hyper_available>`\ (可巨化加拉巴)
       | 7e127d=00?01
       | 7e127c=00?26
-      | ライネック(ハイパー可)
+      | \ :ref:`ライネック(ハイパー可) <srw4_unit_wryneck_hyper_available>`\ (可巨化莱内克)
       | 7e127b=00?01
       | 7e127a=00?24
-      | レプラカーン(ハイパー可)
+      | \ :ref:`レプラカーン(ハイパー可) <srw4_unit_leprechaun_hyper_available>`\ (可巨化雷普拉刚)
       | 7e1279=00?01
       | 7e1278=00?04
-      | Gディフェンサー
+      | \ :ref:`Gディフェンサー <srw4_unit_g_defender>`\ (G-防卫号)
       | 7e1276=8C
-      | ビギナ・ギナ
-      | 武器改造段数数量/位移
+      | \ :ref:`ビギナ·ギナ <srw4_unit_vigna_ghina>`\  (比基纳·基纳)
+      | 武器改造段数数量/位移      
+      | 7e1407=1E 
+      | 7e1406=00 
+      | 7e1405=1E
+      | 7e1404=00 
+      | 7e1403=1E 
+      | 7e1402=00 
+      | 7e1401=1E
+      | 7e1400=00 
       | 7e13ff=1E 
       | 7e13fe=00 
       | 7e13fd=1E
@@ -1087,6 +1128,742 @@
       | 7e13f7=1E 
       | 7e13f6=00 
 
+
+^^^^^^^^^^^^^^^^^
+机师修改
+^^^^^^^^^^^^^^^^^
+
+.. _srw4_cheat_pilots_snes_begin:
+
+.. grid::
+
+    .. grid-item-card:: エル·フィノ
+      :columns: auto
+
+      | CB7364=12
+      | CB7365=01
+      | 根性→激励
+      | CB7368=0E
+      | CB7369=01
+      | 信頼→覚醒
+      | CB736C=08
+      | CB736D=01
+      | 隠れ身→気合
+
+    .. grid-item-card:: 隼人
+      :columns: auto
+
+      | CB743E=0D
+      | CB743F=01
+      | 幸運→Lv1
+
+    .. grid-item-card:: 真吾
+      :columns: auto
+
+      | CB7471=20
+      | 乘换機動戦士系
+
+    .. grid-item-card:: レミー島田
+      :columns: auto
+
+      | CB7493=B0
+      | 乘换機動戦士系
+
+    .. grid-item-card:: キリー
+      :columns: auto
+
+      | CB74B3=10
+      | 乘换機動戦士系
+
+    .. grid-item-card:: 沙羅
+      :columns: auto
+
+      | CB756A=0D
+      | CB756B=01
+      | 幸運 LV25→1
+
+    .. grid-item-card:: 南原ちづる
+      :columns: auto
+
+      | CB7630=0D
+      | CB7631=01
+      | 幸運 LV25→1
+
+    .. grid-item-card:: マサキ
+      :columns: auto
+
+      | CB76B3=30
+      | 乘换機動戦士系
+
+    .. grid-item-card:: リューネ
+      :columns: auto
+
+      | CB76D3=B0
+      | 乘换機動戦士系
+
+    .. grid-item-card:: シュウ
+      :columns: auto
+
+      | CB76F3=10
+      | 乘换機動戦士系
+      | CB7702=0D
+      | CB7703=01
+      | 幸運→lv1
+
+    .. grid-item-card:: ブライト
+      :columns: auto
+
+      | CB7745=10
+      | 乘换可
+      | CB774B=44
+      | CB774C=44
+      | 地形适应
+      | CB775A=18
+      | CB775B=01
+      | 偵察→探索
+
+    .. grid-item-card:: マチルダ
+      :columns: auto
+
+      | CB779B=44
+      | CB779C=44
+      | 地形适应
+      | CB77A6=12
+      | CB77A7=01
+      | 根性→激励
+      | CB77AE=3E
+      | CB77AF=01
+      | 激励→
+      | ニュータイプ
+
+    .. grid-item-card:: セイラ
+      :columns: auto
+
+      | CB77BB=44
+      | CB77BC=44
+      | 地形适应
+      | CB77BD=6B
+      | CB77BE=76
+      | CB77BF=7E
+      | CB77C0=70
+      | CB77C1=59
+      | CB77C2=55
+      | 能力
+      | CB77C3=50
+      | SP值
+      | CB77C4=08
+      | CB77C5=00
+      | 无→気合
+      | CB77C6=3E
+      | CB77C7=00
+      | 无→
+      | ニュータイプ
+
+    .. grid-item-card:: ワッケイン
+      :columns: auto
+
+      | CB77D3=44
+      | CB77D4=44
+      | 地形适应
+      | CB77DC=09
+      | CB77DD=00
+      | 根性→加速
+      | CB77E0=3E
+      | CB77E1=00
+      | 加速→
+      | ニュータイプ
+
+    .. grid-item-card:: ティアンム
+      :columns: auto
+
+      | CB77ED=44
+      | CB77EE=44
+      | 地形适应
+      | CB77F6=09
+      | CB77F7=00
+      | 根性→加速
+      | CB77FA=11
+      | CB77FB=01
+      | 偵察→探索
+      | CB77FC=3E
+      | CB77FD=00
+      | 加速→
+      | ニュータイプ
+
+    .. grid-item-card:: エマ
+      :columns: auto
+
+      | CB781E=3E
+      | CB781F=01
+      | シールド防御Ｌ2
+      | →ニュータイプ
+
+    .. grid-item-card:: トーレス
+      :columns: auto
+
+      | CB782D=00
+      | 乘换可
+      | CB783C=09
+      | CB783D=01
+      | 加速
+      | 习得等级→1
+      | CB7840=18
+      | CB7841=01
+      | 偵察→探索
+
+    .. grid-item-card:: ファ
+      :columns: auto
+
+      | CB7858=0D
+      | CB7859=01
+      | 幸運→Lv1
+      | CB7862=3E
+      | CB7863=01
+      | ニュータイプ→Lv1
+
+    .. grid-item-card:: カツ
+      :columns: auto
+
+      | CB788C=3E
+      | CB788D=01
+      | ニュータイプ→Lv1
+
+    .. grid-item-card:: ルー
+      :columns: auto
+
+      | CB7952=3E
+      | CB7953=01
+      | ニュータイプ→Lv1
+
+    .. grid-item-card:: ビーチャ
+      :columns: auto
+
+      | CB79C2=4E
+      | 颜（獣魔将軍→アキ）
+      | CB79E0=3E
+      | CB79E1=01
+      | ニュータイプ→Lv1
+
+    .. grid-item-card:: モンド
+      :columns: auto
+
+      | CB79ED=44
+      | CB79EE=44
+      | 地形适应
+      | CB79FA=0D
+      | CB79FB=00
+      | 幸運→Lv1
+      | CB7A02=3E
+      | CB7A03=01
+      | ニュータイプ→Lv1
+
+    .. grid-item-card:: エル·ビアン
+      :columns: auto
+
+      | CB7A06=05
+      | CB7A07=1F
+      | 颜（ティターンズ兵士→
+      | イザベル·クロンカイト）
+      | CB7A24=3E
+      | CB7A25=01
+      | ニュータイプ→Lv1
+
+    .. grid-item-card:: イーノ
+      :columns: auto
+
+      | CB7A2A=01
+      | CB7A2B=1F
+      | 颜（議員B→
+      | 技術者、研究所員）
+      | CB7A33=44
+      | CB7A34=44
+      | 地形适应
+      | CB7A35=5B
+      | CB7A36=7A
+      | CB7A37=71
+      | CB7A38=5F
+      | CB7A39=55
+      | CB7A3A=5C
+      | 能力
+      | CB7A3B=50
+      | SP值
+      | CB7A3C=12
+      | CB7A3D=00
+      | 无→激励
+      | CB7A3E=3E
+      | CB7A3F=00
+      | 无→
+      | ニュータイプ
+
+    .. grid-item-card:: エマリー
+      :columns: auto
+
+      | CB7A4B=44
+      | CB7A4C=44
+      | 地形适应
+      | CB7A4D=33
+      | CB7A4E=52
+      | CB7A4F=64
+      | CB7A50=66
+      | CB7A51=65
+      | CB7A52=6D
+      | 能力
+      | CB7A53=50
+      | SP值
+      | CB7A54=03
+      | CB7A55=00
+      | 无→補給
+      | CB7A56=3E
+      | CB7A57=00
+      | 无→
+      | ニュータイプ
+
+    .. grid-item-card:: クェス
+      :columns: auto
+
+      | CB7A63=44
+      | CB7A64=44
+      | 地形适应
+
+    .. grid-item-card:: チェーン
+      :columns: auto
+
+      | CB7A93=44
+      | CB7A94=44
+      | 地形适应
+      | CB7A95=33
+      | CB7A96=52
+      | CB7A97=64
+      | CB7A98=66
+      | CB7A99=65
+      | CB7A9A=6D
+      | 能力
+      | CB7A9B=50
+      | SP值
+      | CB7A9C=03
+      | CB7A9D=00
+      | 无→補給
+      | CB7A9E=3E
+      | CB7A9F=00
+      | 无→
+      | ニュータイプ
+
+    .. grid-item-card:: ケーラ
+      :columns: auto
+
+      | CB7AAB=44
+      | CB7AAC=44
+      | 地形适应
+      | CB7AC0=3E
+      | CB7AC1=00
+      | シールド防御Ｌ4
+      | →ニュータイプ
+
+    .. grid-item-card:: ハサウェイ
+      :columns: auto
+
+      | CB7AD5=44
+      | CB7AD6=44
+      | 地形适应
+
+    .. grid-item-card:: クリス
+      :columns: auto
+
+      | CB7B16=3E
+      | CB7B17=00
+      | シールド防御Ｌ1
+      | →ニュータイプ
+
+    .. grid-item-card:: バーニィ
+      :columns: auto
+
+      | CB7B40=3E
+      | CB7B41=00
+      | シールド防御Ｌ3
+      | →ニュータイプ
+
+    .. grid-item-card:: ガトー
+      :columns: auto
+
+      | CB7BA8=3E
+      | CB7BA9=01
+      | シールド防御Ｌ8
+      | →ニュータイプ
+
+    .. grid-item-card:: キース
+      :columns: auto
+
+      | CB7BB7=44
+      | CB7BB8=44
+      | 地形适应
+      | CB7BC0=16
+      | CB7BC1=01
+      | 幸運→脱力
+      | CB7BCA=3E
+      | CB7BCB=00
+      | 脱力→
+      | ニュータイプ
+
+    .. grid-item-card:: モンシア
+      :columns: auto
+
+      | CB7BD7=44
+      | CB7BD8=44
+      | 地形适应
+      | CB7BEC=3E
+      | CB7BED=00
+      | シールド防御Ｌ2
+      | →ニュータイプ
+
+    .. grid-item-card:: さやか
+      :columns: auto
+
+      | CB7BF3=A2
+      | 乘换ダンバイン系
+
+    .. grid-item-card:: ボス
+      :columns: auto
+
+      | CB7C35=22
+      | 乘换ダンバイン系
+      | CB7C3B=44
+      | CB7C3C=44
+      | 地形适应
+
+    .. grid-item-card:: 炎ジュン
+      :columns: auto
+
+      | CB7C57=92
+      | 乘换ダンバイン系
+      | CB7C5D=44
+      | CB7C5E=44
+      | 地形适应
+
+    .. grid-item-card:: マリア
+      :columns: auto
+
+      | CB7C77=B2
+      | 乘换ダンバイン系
+
+    .. grid-item-card:: 牧場ひかる
+      :columns: auto
+
+      | CB7C97=82
+      | 乘换ダンバイン系
+
+    .. grid-item-card:: ミチル
+      :columns: auto
+
+      | CB7CB7=92
+      | 乘换ダンバイン系
+      | CB7CBD=44
+      | CB7CBE=44
+      | 地形适应
+
+    .. grid-item-card:: 神宮寺
+      :columns: auto
+
+      | CB7CF7=10
+      | 乘换機動戦士系
+      | CB7CFD=44
+      | CB7CFE=44
+      | 地形适应
+
+    .. grid-item-card:: 麗
+      :columns: auto
+
+      | CB7D17=90
+      | 乘换機動戦士系
+      | CB7D1D=44
+      | CB7D1E=44
+      | 地形适应
+
+    .. grid-item-card:: マリ
+      :columns: auto
+
+      | CB7D37=80
+      | 乘换機動戦士系
+      | CB7D5D=44
+      | CB7D5E=44
+      | 地形适应
+
+    .. grid-item-card:: コウ
+      :columns: auto
+
+      | CB7E31=44
+      | CB7E32=44
+      | 地形适应
+      | CB7E46=3E
+      | CB7E47=01
+      | 切り払いＬ2→
+      | ニュータイプ
+      | CB7E3C=0D
+      | CB7E3D=01
+      | 幸運→Lv1
+
+    .. grid-item-card:: 甲児
+      :columns: auto
+
+      | CB7E5F=32
+      | 乘换ダンバイン系
+
+    .. grid-item-card:: 鉄也
+      :columns: auto
+
+      | CB7F49=12
+      | 乘换ダンバイン系
+
+    .. grid-item-card:: 京四郎
+      :columns: auto
+
+      | CB7F6B=10
+      | 乘换機動戦士系
+      | CB7F71=44
+      | CB7F72=44
+      | 地形适应
+
+    .. grid-item-card:: ナナ
+      :columns: auto
+
+      | CB7F8D=80
+      | 乘换機動戦士系
+      | CB7F93=44
+      | CB7F94=44
+      | 地形适应
+
+    .. grid-item-card:: デューク
+      :columns: auto
+
+      | CB7FAD=02
+      | 乘换ダンバイン系
+
+    .. grid-item-card:: 洸
+      :columns: auto
+
+      | CB7FF1=10
+      | 乘换機動戦士系
+
+    .. grid-item-card:: ニー·ギブン
+      :columns: auto
+
+      | CB8036=16
+      | CB8037=00
+      | 根性→脱力
+      | CB8038=32
+      | CB8039=00
+      | 脱力→聖戦士
+
+    .. grid-item-card:: キーン
+      :columns: auto
+
+      | CB8058=32
+      | CB8059=00
+      | 友情→聖戦士
+
+    .. grid-item-card:: シーラ
+      :columns: auto
+
+      | CB8065=44
+      | CB8066=44
+      | 地形适应
+
+    .. grid-item-card:: エレ
+      :columns: auto
+
+      | CB8085=44
+      | CB8086=44
+      | 地形适应
+
+    .. grid-item-card:: リムル
+      :columns: auto
+
+      | CB80A5=44
+      | CB80A6=44
+      | 地形适应
+      | CB80AE=0E
+      | 探索→覚醒
+      | CB80B8=32
+      | CB80B9=00
+      | 覚醒→聖戦士
+
+    .. grid-item-card:: 万丈
+      :columns: auto
+
+      | CB80D7=20
+      | 乘换機動戦士系
+
+    .. grid-item-card:: 一矢
+      :columns: auto
+
+      | CB80F9=20
+      | 乘换機動戦士系
+
+    .. grid-item-card:: テュッティ
+      :columns: auto
+
+      | CB814F=90
+      | 乘换機動戦士系
+
+    .. grid-item-card:: バニング
+      :columns: auto
+
+      | CB818D=44
+      | CB818E=44
+      | 地形适应
+      | CB818F=4A
+      | CB8190=4F
+      | CB8191=77
+      | CB8192=71
+      | CB8193=70
+      | CB8194=73
+      | 能力
+      | CB8195=50
+      | SP值
+      | CB8196=0A
+      | CB8197=00
+      | 无→熱血
+      | CB8198=3E
+      | CB8199=00
+      | 无→
+      | ニュータイプ
+
+    .. grid-item-card:: ヤンロン
+      :columns: auto
+
+      | CB819F=20
+      | 乘换機動戦士系
+
+    .. grid-item-card:: ミオ
+      :columns: auto
+
+      | CB81D7=80
+      | 乘换機動戦士系
+
+    .. grid-item-card:: モニカ
+      :columns: auto
+
+      | CB820F=80
+      | 乘换機動戦士系
+
+    .. grid-item-card:: サフィーネ
+      :columns: auto
+
+      | CB822F=B0
+      | 乘换機動戦士系
+
+    .. grid-item-card:: ララァ
+      :columns: auto
+
+      | CB8342=90
+      | 颜（メキボス→
+      | アンナマリー）
+      | CB834B=44
+      | CB834C=44
+      | 地形适应
+
+    .. grid-item-card:: グレミー
+      :columns: auto
+
+      | CB85DC=E0
+      | 颜（テリウス
+      | →シャア）
+
+    .. grid-item-card:: ナナイ
+      :columns: auto
+
+      | CB86AE=3B
+      | 颜（議長→
+      | ニナ）
+      | CB86B7=44
+      | CB86B8=44
+      | 地形适应
+      | CB86CA=3E
+      | CB86CB=00
+      | 根性→
+      | ニュータイプ
+
+    .. grid-item-card:: レズン
+      :columns: auto
+
+      | CB86E2=08
+      | CB86E3=00
+      | 根性→気合
+      | CB86EA=3E
+      | CB86EB=00
+      | 気合→
+      | ニュータイプ
+
+    .. grid-item-card:: ゼット
+      :columns: auto
+
+      | 颜（秘書）
+      | CB8B42=32
+      | CB8B43=00
+      | 切り払いＬ1 1→聖戦士
+
+    .. grid-item-card:: トルストール
+      :columns: auto
+
+      | CB8B58=15
+      | CB8B59=00
+      | 根性→隠れ身
+      | CB8B62=32
+      | CB8B63=00
+      | 隠れ身→聖戦士
+
+    .. grid-item-card:: テリウス
+      :columns: auto
+
+      | CB9142=08
+      | CB9143=00
+      | 根性→気合
+      | CB9144=0E
+      | CB9145=00
+      | ド根性→覚醒
+
+    .. grid-item-card:: 強化兵
+      :columns: auto
+
+      | CB9148=FE
+      | 颜(エリート兵
+      | →エリート兵（逆）)
+
+    .. grid-item-card:: 超人工知能
+      :columns: auto
+
+      | CB9182=F3
+      | 颜(人工知能改
+      | →Now Printing)
+
+    .. grid-item-card:: 超级系男主人公
+      :columns: auto
+
+      | CB91E6=3E
+      | CB91E7=00
+      | 切り払いＬ1→
+      | ニュータイプ
+
+    .. grid-item-card:: 超级系女主人公
+      :columns: auto
+
+      | CB922A=3E
+      | CB922B=00
+      | 切り払いＬ1→
+      | ニュータイプ
+
+.. _srw4_cheat_pilots_snes_end:
+
+
+^^^^^^^^^^^^^^^^^
+机体修改
+^^^^^^^^^^^^^^^^^
+
+下面是修改机体性能的金手指。如果你要修改其他机体的性能，可以参考\ :ref:`机体数据 <srw4_units_data_snes>` \ 找到对应参数，根据参数搜索找到地址，然后修改。关于参数顺序和其他机体数据的相对位移，参考\ :ref:`机体修改 <srw4_units_cheat>` \ 。
+
+.. _srw4_cheat_units_snes_begin:
+
+.. grid::
+
     .. grid-item-card:: ヒュッケバイン
       :columns: auto
 
@@ -1096,17 +1873,18 @@
       | CB9586=01
       | 移动空陆
       | CB9587=44
-      | 空A海A
+      | CB9588=44
+      | 地形适应全A
       | CB9591=4F
       | CB9592=06
       | ６０ミリバルカン
-      | →ブ－ストナックル
+      | →ブーストナックル
       | CB9594=50
       | プラズマソ－ド
       | →オメガレーザー
       | CB959A=53
       | ロシュセイバ－→
-      | [グルンガスト]ビ－ム
+      | グルンガストビ－ム
 
     .. grid-item-card:: グルンガスト
       :columns: auto
@@ -1115,7 +1893,8 @@
       | CB95AE=00
       | 乘换機動戦士系
       | CB95BF=44
-      | 空A海A
+      | CB95C0=44
+      | 地形适应全A
       | CB95CC=4D
       | オメガレーザー→
       | リープスラッシャー
@@ -1126,8 +1905,9 @@
       | CB95E2=00
       | CB95E3=00
       | 乘换機動戦士系
-      | CB95F4=44
-      | 空A海A
+      | CB961F=44
+      | CB9620=44
+      | 地形适应全A
 
     .. grid-item-card:: ガストランダー
       :columns: auto
@@ -1136,12 +1916,14 @@
       | CB960E=00
       | 乘换機動戦士系
       | CB961F=44
-      | 空A海A
+      | CB9620=44
+      | 地形适应全A
 
     .. grid-item-card:: νガンダム
       :columns: auto
 
       | CB9660=2D
+      | CB9661=00
       | ミサイルランチャ－
       | →ヴェスバー
 
@@ -1149,15 +1931,15 @@
       :columns: auto
 
       | CB9694=2B
-      | ﾒｶﾞﾏｼﾝｷｬﾉﾝ→
+      | メガマシンキャノン→
       | フィンファンネル
 
     .. grid-item-card:: NT-1アレックス
       :columns: auto
 
       | CB96C5=2B
-      | ガトリングガン
-      | →フィンファンネル
+      | ガトリングガン→
+      | フィンファンネル
 
     .. grid-item-card:: GP-01Fb
       :columns: auto
@@ -1170,25 +1952,26 @@
     .. grid-item-card:: GP-03
       :columns: auto
 
-      | cb973c=01
-      | GP-03移动空陆
-      | cb973d=44
-      | 空A海A
-      | cb973e=44
-      | 陆A宇A
-      | CB9756=12 
+      | CB973C=01
+      | 移动空陆
+      | CB973D=44
+      | CB973E=44
+      | 地形适应全A
+      | CB9756=12
       | 集中ミサイル→
       | バルカン
+      | (GP-02A)
       | CB9759=2F
-      | マイクロミサイル (M)
-      | →アトミックバズ－カ (M)
+      | マイクロミサイル
+      | アトミックバズ－カ
       | CB9750=4A
       | CB9751=0D
       | CB9784=4A
       | CB9785=0D
-      | CBC7EB=4A
-      | CBC7EC=0D
-      | フォ－ルディングバズ－カ
+      | CBC7E8=4A
+      | CBC7E9=0D
+      | フォ－ルディング
+      | バズ－カ
       | →ビット
 
     .. grid-item-card:: ガンキャノン
@@ -1196,14 +1979,14 @@
 
       | CB97AF=4A
       | CB97B0=0D
-      | ２40ミリキャノン
+      | ２４０ミリキャノン
       | →ビット
 
     .. grid-item-card:: ガンタンク
       :columns: auto
 
       | CB97D4=4A
-      | CB97D5=0D
+      | CB97D5=05
       | １２０ミリキャノン
       | →ビット
 
@@ -1211,26 +1994,1008 @@
       :columns: auto
 
       | CB97F1=01
-      | 移动空陆
+      | 移动类型空陆
       | CB97F2=44
-      | 空A海A
-      
+      | CB97F3=44
+      | 地形适应全A
 
-    .. grid-item-card:: ボスロボット
+    .. grid-item-card:: ネモ
       :columns: auto
 
+      | CB9827=4A
+      | CB9828=09
+      | ビームライフル
+      | →ビット
+
+    .. grid-item-card:: GM III
+      :columns: auto
+
+      | CB9889=4A
+      | CB988A=11
+      | ミサイルランチャ－
+      | →ビット
+
+    .. grid-item-card:: ジェガン
+      :columns: auto
+
+      | CB9855=4A
+      | CB9856=0D
+      | 小型ミサイル
+      | →ビット
+
+    .. grid-item-card:: リ·ガズィ
+      :columns: auto
+
+      | CB9895=08
+      | リ·ガズィ（MA）→
+      | リ·ガズィ（MS）
+      | CB98C0=09
+      | リ·ガズィ（MS）→
+      | リ·ガズィ（MA）
+      | CB98A3=01
+      | 移动空陆
+      | CB98A4=44
+      | CB98A5=44
+      | CB98CF=44
+      | CB98D0=44
+      | 地形适应全A
+      | CB98B1=4A
+      | CB98B2=0D
+      | ビームキャノン
+      | →ビット
+      | CB98AE=1F
+      | CB98AF=00
+      | メガビ－ムキャノン️      →
+      | ハイパ－メガランチャ－️
+      | CB98E2=4A
+      | CB98E3=0D
+      | グレネ－ドランチャ－
+      | →ビット
+
+    .. grid-item-card:: マジンガーZ
+      :columns: auto
+
+      | CB9A00=00
+      | CB9A01=02
+      | 乘换ダンバイン系
+      | CB9A25=28
+      | ミサイル(5E)→
+      | ミサイル(28)
+
+    .. grid-item-card:: マジンガーZ（JS）
+      :columns: auto
+
+      | CB9A34=00
+      | CB9A35=02
+      | 乘换ダンバイン系
+      | CB9A4B=B4
+      | 限界→180
+      | CB9A5C=28
+      | ミサイル(5E)→
+      | ミサイル(28)
+
+    .. grid-item-card:: グレートマジンガー
+      :columns: auto
+
+      | CB9A74=00
+      | CB9A75=02
+      | 乘换ダンバイン系
+      | CB9A8A=B4
+      | 限界→180
+
+    .. grid-item-card:: グレンダイザー
+      :columns: auto
+
+      | CB9ABA=00
+      | CB9ABB=02
+      | 乘换ダンバイン系
+      | CB9AD0=B4
+      | 限界→180
+      | CB9AD9=35
+      | ショルダ－ブ－メラン
+      | →マイクロミサイル
+
+    .. grid-item-card:: スペイザー
+      :columns: auto
+
+      | CB9AEE=00
+      | CB9AEF=00
+      | 乘换機動戦士系
+      | CB9B04=B4
+      | 限界→180
+
+    .. grid-item-card:: ダブルスペイザー
+      :columns: auto
+
+      | CB9B28=00
+      | CB9B29=02
+      | 乘换ダンバイン系
+
+    .. grid-item-card:: ドリルスパイザー
+      :columns: auto
+
+      | CB9B53=00
+      | CB9B54=02
+      | 乘换ダンバイン系
+
+    .. grid-item-card:: マリンスペイザー
+      :columns: auto
+
+      | CB9B7E=00
+      | CB9B7F=02
+      | 乘换ダンバイン系
+
+    .. grid-item-card:: グレンダイザー (WS)
+      :columns: auto
+
+      | CB9BBF=B4
+      | 限界→180
+      | CB9BC8=35
+      | ショルダ－ブ－メラン
+      | →マイクロミサイル
+
+    .. grid-item-card:: グレンダイザー （DS)
+      :columns: auto
+
+      | CB9BFC=B4
+      | 限界→180
+      | CB9C05=35
+      | ショルダ－ブ－メラン
+      | →マイクロミサイル
+
+    .. grid-item-card:: グレンダイザー （MS)
+      :columns: auto
+
+      | CB9C39=B4
+      | 限界→180
+      | CB9C42=35
+      | ショルダ－ブ－メラン
+      | →マイクロミサイル
+
+    .. grid-item-card:: アフロダイA
+      :columns: auto
+
+      | CB9C60=00
+      | CB9C61=02
+      | 乘换ダンバイン系
+
+    .. grid-item-card:: ダイアナンA
+      :columns: auto
+
+      | CB9C8B=00
+      | CB9C8C=02
+      | 乘换ダンバイン系
+      | CB9CA1=B4
+      | 限界→180
+
+    .. grid-item-card:: ボスボロット
+      :columns: auto
+
+      | CB9CB9=00
+      | CB9CBA=02
+      | 乘换ダンバイン系
       | CB9CCA=01
-      | 移动空陆
+      | 移动类型空陆
       | CB9CCB=44
-      | 地形适应空海
       | CB9CCC=44
-      | 地形适应宇陆
+      | 地形适应全A
+      | CB9CCF=B4
+      | 限界→180
 
-    .. grid-item-card:: ダンクーガ
+    .. grid-item-card:: ビューナスA
       :columns: auto
 
-      | cba186=01
+      | CB9CE7=00
+      | CB9CE8=02
+      | 乘换ダンバイン系
+      | CB9CFD=B4
+      | 限界→180
+
+    .. grid-item-card:: ライディーン
+      :columns: auto
+
+      | CB9E40=00
+      | CB9E41=00
+      | 乘换機動戦士系
+
+    .. grid-item-card:: ブルーガー
+      :columns: auto
+
+      | CB9E8A=00
+      | CB9E8B=00
+      | 乘换機動戦士系
+      | CB9E9A=01
       | 移动空陆
+      | CB9E9B=44
+      | CB9E9C=44
+      | 地形适应全A
+
+    .. grid-item-card:: ダイモス
+      :columns: auto
+
+      | CB9EB7=00
+      | CB9EB8=00
+      | 乘换機動戦士系
+
+    .. grid-item-card:: ガルバーFXⅡ
+      :columns: auto
+
+      | CB9F04=00
+      | 乘换機動戦士系
+      | CB9F14=01
+      | 移动空陆
+      | CB9F15=44
+      | CB9F16=44
+      | 地形适应全A
+
+    .. grid-item-card:: ダイターン3
+      :columns: auto
+
+      | CB9F2E=00
+      | CB9F2F=00
+      | CB9F68=00
+      | CB9F69=00
+      | CB9F96=00
+      | CB9F97=00
+      | 乘换機動戦士系
+
+    .. grid-item-card:: ビルバイン
+      :columns: auto
+
+      | CBA0FE=33
+      | CBA0FF=0A
+      | オーラキャノン→
+      | ハイパ－オ－ラキャノン
+
+    .. grid-item-card:: ゴーショーグン
+      :columns: auto
+
+      | CBA150=44
+      | CBA151=44
+      | 地形适应全A
+      | CBA13E=00
+      | CBA13F=00
+      | 乘换機動戦士系
+
+    .. grid-item-card:: ダンク－ガ
+      :columns: auto
+
+      | CBA186=01
+      | 移动空陆
+
+    .. grid-item-card:: サイバスター
+      :columns: auto
+
+      | CBA418=00
+      | CBA419=00
+      | 乘换機動戦士系
+      | CBA434=1E
+      | CBA435=01
+      | ディスカッター→
+      | グランワ－ムソ－ド
+      | CBA437=1F
+      | CBA438=05
+      | カロリックミサイル
+      | →グラビトロンカノン
+      | CBA43D=21
+      | CBA43E=09
+      | ハイファミリア→
+      | ブラックホ－ルクラスタ－
+      | CBA440=1C
+      | CBA441=0D
+
+    .. grid-item-card:: サイバード
+      :columns: auto
+
+      | CBA44C=00
+      | CBA44D=00
+      | 乘换機動戦士系
+      | CBA45D=01
+      | 移动空陆
+      | CBA45E=44
+      | CBA45F=44
+      | 地形适应全A
+      | CBA468=1F
+      | CBA469=05
+      | カロリックミサイル→
+      | グラビトロンカノン
+      | CBA46E=21
+      | CBA46F=09
+      | ハイファミリア→
+      | ブラックホ－ルクラスタ－
+
+    .. grid-item-card:: グランゾン
+      :columns: auto
+
+      | CBA477=00
+      | CBA478=00
+      | 乘换機動戦士系
+      | CBA499=1A
+      | CBA49A=01
+      | ワ－ムスマッシャ－
+      | →サイフラッシュ
+
+    .. grid-item-card:: ネオ·グランゾン
+      :columns: auto
+
+      | CBA4A5=00
+      | CBA4A6=00
+      | 乘换機動戦士系
+      | CBA4C7=20
+      | CBA4C8=01
+      | ワ－ムスマッシャ－
+      | 弹药槽 2→0
+      | CBA4CA=3A
+      | CBA4CB=09
+      | ブラックホ－ルクラスタ－
+      | 弹药槽 3→2
+      | CBA4CD=22
+      | CBA4CE=0D
+      | 縮退砲
+      | 弹药槽 4→3
+
+    .. grid-item-card:: ヴァルシオーネR
+      :columns: auto
+
+      | CBA4D6=00
+      | CBA4D7=00
+      | 乘换機動戦士系
+
+    .. grid-item-card:: ザムジード
+      :columns: auto
+
+      | CBA507=00
+      | CBA508=00
+      | 乘换機動戦士系
+
+    .. grid-item-card:: グランヴェール
+      :columns: auto
+
+      | CBA538=00
+      | CBA539=00
+      | 乘换機動戦士系
+
+    .. grid-item-card:: ガッデス
+      :columns: auto
+
+      | CBA56C=00
+      | CBA56D=00
+      | 乘换機動戦士系
+
+    .. grid-item-card:: ウィーゾル改
+      :columns: auto
+
+      | CBA59A=00
+      | CBA59B=00
+      | 乘换機動戦士系
+
+    .. grid-item-card:: ノルス·レイ
+      :columns: auto
+
+      | CBA5C5=00
+      | CBA5C6=00
+      | 乘换機動戦士系
+      | CBA5D7=44
+      | CBA5D8=44
+      | 地形适应全A
+      | CBA5DF=05
+      | CBA5E0=04
+      | 武器/残弹槽数量
+      | CBA5E1=E9
+      | CBA5E2=00
+      | 修理装置→
+      | イビルアイ
+      | CBA5E4=E6
+      | CBA5E5=04
+      | ブラスナックル
+      | 弹药槽再编号
+      | CBA5E7=39
+      | CBA5E8=09
+      | イビルアイ→
+      | ニュートロンビーム
+
+    .. grid-item-card:: ガディフォール
+      :columns: auto
+
+      | CBA5F0=00
+      | CBA5F1=00
+      | 乘换機動戦士系
+      | CBA60C=E9
+      | CBA60D=00
+      | ディスカッター
+      | →イビルアイ
+      | CBA60F=E6
+      | CBA610=04
+      | ギガソートカノン
+      | →ブラスナックル
+      | CBA612=39
+      | CBA613=09
+      | ビームキャノン→
+      | ニュートロンビーム
+
+    .. grid-item-card:: ゲシュペンスト（リアル）
+      :columns: auto
+
+      | CBA632=01
+      | 移动空陆
+      | CBA633=44
+      | CBA634=44
+      | 地形适应全A
+      | CBA621=00
+      | CBA622=00
+      | 乘换機動戦士系
+      | CBA63D=E9
+      | CBA63E=00
+      | プラズマカッター
+      | →イビルアイ
+      | CBA640=E6
+      | CBA641=04
+      | スプリットミサイル
+      | →ブラスナックル
+
+    .. grid-item-card:: ザク改
+      :columns: auto
+
+      | CBA66B=4A
+      | CBA66C=05
+      | ザクバズーカ
+      | →ビット
+
+    .. grid-item-card:: サイコガンダム (MS)
+      :columns: auto
+
+      | CBA7E8=57
+      | ビーム砲→
+      | レフレクタ－ビット
+
+    .. grid-item-card:: サイコガンダム (MA)
+      :columns: auto
+
+      | CBA813=57
+      | ビーム砲→
+      | レフレクタ－ビット
+
+    .. grid-item-card:: バイアラン
+      :columns: auto
+
+      | CBA841=50
+      | メガ粒子砲→
+      | 小型メガビーム砲
+
+    .. grid-item-card:: ガブスレイ (MS)
+      :columns: auto
+
+      | CBA86C=4A
+      | CBA86D=09
+      | CBA894=4A
+      | CBA895=09
+      | フェダ－インライフル️
+      | →ビット
+
+    .. grid-item-card:: バウンド·ドック (MS)
+      :columns: auto
+
+      | CBA8BC=555
+      | ビームライフル→
+      | フェダ－インライフル️
+
+    .. grid-item-card:: 百式
+      :columns: auto
+
+      | CBA965=FD
+      | バルカン→
+      | メガ拡散ビ－ム砲️
+      | （サイコガンダム Mk-II）
+      | CBA968=58
+      | ビームサーベル→
+      | サイコミュ式ビ－ムソ－ド
+      | （サイコガンダム Mk-II）
+      | CBA96B=FE
+      | ビームライフル→
+      | メガビーム砲
+      | （サイコガンダム Mk-II）
+      | CBA96E=57
+      | クレイバズーカ→
+      | サイコミュ式ビ－ムソ－ド
+
+    .. grid-item-card:: メタス (MS)
+      :columns: auto
+
+      | CBA99C=4A
+      | CBA9C4=4A
+      | アームビームガン
+      | →ビット
+
+    .. grid-item-card:: ブラウ·ブロ
+      :columns: auto
+
+      | CBA9DD=0F
+      | CBA9DE=01
+      | 移动类型/力
+      | CBA9DF=44
+      | CBA9E0=44
+      | 地形适应 A
+      | CBA9E9=4A
+      | サイコミュ式メガ粒子砲
+      | →ビット
+
+    .. grid-item-card:: ノイエ·ジール
+      :columns: auto
+
+      | CBAABE=01
+      | 移动空陆
+      | CBAABF=40
+      | CBAAC0=40
+      | 地形空A宇A
+      | CBAACF=48
+      | メガ粒子砲
+      | →メガ粒子砲
+      | (ヤクト·ドーガ)
+      | CBAAD2=06
+      | CBAAD3=00
+      | 大型ミサイルランチャ－
+      | →ヒームサーベル
+      | (キュベレイ)
+      | CBAAD5=6C
+      | CBAAD6=0D
+      | 小型ミサイルランチャ－
+      | →ファンネル
+
+    .. grid-item-card:: キュベレイ
+      :columns: auto
+
+      | CBAB00=48
+      | CBAB01=01
+      | ビームガン→
+      | メガ粒子砲
+      | (ヤクト·ドーガ)
+
+    .. grid-item-card:: キュベレイ Mk-II
+      :columns: auto
+
+      | CBAB28=06
+      | ビームサーベル
+      | →ビームサーベル
+      | （ キュベレイ）
+      | CBAB2B=48
+      | CBAB2C=01
+      | ビームガン
+      | →メガ粒子砲
+      | (ヤクト·ドーガ)
+      | CBAB2E=6C
+      | ファンネル
+      | →ファンネル
+      | （ キュベレイ）
+
+    .. grid-item-card:: ラフレシア
+      :columns: auto
+
+      | CBAE8D=01
+      | 移动空陆
+      | CBAE8E=44
+      | CBAE8F=44
+      | 地形全A
+
+    .. grid-item-card:: ゲシュペンスト（スーパー）
+      :columns: auto
+
+      | CBB4AB=01
+      | 移动空陆
+      | CBB49A=00
+      | CBB49B=00
+      | 乘换機動戦士系
+
+    .. grid-item-card:: コロンブス
+      :columns: auto
+
+      | CBB957=B8
+      | CBB958=00
+      | 图像→トロイホース
+
+    .. grid-item-card:: パゾグ
+      :columns: auto
+
+      | CBB97F=7F
+      | CBB980=00
+      | 图像→ミデア
+
+    .. grid-item-card:: トロイホース
+      :columns: auto
+
+      | CBBA09=00
+      | 乘换機動戦士系
+      | CBBA19=01
+      | 移动类型空陆
+      | CBBA1A=40
+      | CBBA1B=40
+      | 地形适应 空A宇A
+
+    .. grid-item-card:: グラーフ·ツェッペリン
+      :columns: auto
+
+      | CBBA47=01
+      | 移动类型空陆
+      | CBBA48=40
+      | CBBA49=40
+      | 地形适应 空A宇A
+
+    .. grid-item-card:: Sガンダム
+      :columns: auto
+
+      | CBBA8F=07
+      | ミサイル→
+      | ファンネル
+      | (α·アジール)
+
+    .. grid-item-card:: アレキサンドリア
+      :columns: auto
+
+      | CBBAD1=01
+      | 移动类型空陆
+      | CBBAD2=44
+      | CBBAD3=44
+      | 地形适应 A
+      | CBBADC=413
+      | １２０ミリ機関砲
+      | →バルカン
+      | (Sガンダム)
+      | CBBAE2=81
+      | メインメガ粒子砲→
+      | ビ－ムスマ－トガン️
+      | (Sガンダム)
+      | CBBAE5=82
+      | サブメガ粒子砲
+      | →ビームカノン
+      | (Sガンダム)
+
+    .. grid-item-card:: ＥｘＳガンダム
+      :columns: auto
+
+      | CBBBA6=07
+      | ミサイル→
+      | ファンネル
+
+    .. grid-item-card:: Gクルーザー (EXS)
+      :columns: auto
+
+      | CBBBD1=07
+      | ミサイル→
+      | ファンネル
+
+    .. grid-item-card:: アーガマ
+      :columns: auto
+
+      | CBBB19=00
+      | 乘换機動戦士系
+      | CBBB2A=01
+      | 移动类型空陆
+      | CBBB2B=44
+      | CBBB2C=44
+      | 地形适应 A
+
+    .. grid-item-card:: アイリッシュ
+      :columns: auto
+
+      | CBBB5B=01
+      | 移动类型空陆
+      | CBBB5C=44
+      | CBBB5D=44
+      | 地形适应 A
+
+    .. grid-item-card:: ネェル·アーガマ
+      :columns: auto
+
+      | CBBBDB=00
+      | 乘换機動戦士系
+      | CBBBEB=01
+      | 移动类型空陆
+      | CBBBEC=44
+      | CBBBED=44
+      | 地形适应 A
+
+    .. grid-item-card:: エンドラ
+      :columns: auto
+
+      | CBBC1C=01
+      | 移动类型空陆
+      | CBBC1D=44
+      | CBBC1E=44
+      | 地形适应 A
+
+    .. grid-item-card:: サダラーン
+      :columns: auto
+
+      | CBBC4A=01
+      | 移动类型空陆
+      | CBBC4B=44
+      | CBBC4C=44
+      | 地形适应 A
+
+    .. grid-item-card:: ラー·カイラム
+      :columns: auto
+
+      | CBBC9C=00
+      | 乘换機動戦士系
+      | CBBCDD=01
+      | 移动类型空陆
+      | CBBCDE=44
+      | CBBCDF=44
+      | 地形适应 A
+
+    .. grid-item-card:: ザムス·ガル
+      :columns: auto
+
+      | CBBCDD=01
+      | 移动类型空陆
+      | CBBCDE=44
+      | CBBCDF=44
+      | 地形适应 A
+
+    .. grid-item-card:: オージェ
+      :columns: auto
+
+      | CBBFDA=EA
+      | ハンドランチャー
+      | →スロウランサー
+      | (オージェ)
+
+    .. grid-item-card:: アシュラテンプル
+      :columns: auto
+
+      | CBC00E=EA
+      | リバースボマー
+      | →スロウランサー
+      | (オージェ)
+
+    .. grid-item-card:: サロンズ
+      :columns: auto
+
+      | CBC0DA=EA
+      | 图标→バッシュ
+      | CBC0DC=57
+      | CBC0DD=00
+      | 图像→バッシュ
+
+    .. grid-item-card:: 机体0xF9
+      :columns: auto
+
+      | CBC10E=EA
+      | 图标→バッシュ
+      | CBC110=57
+      | CBC111=00
+      | 图像→バッシュ
+
+    .. grid-item-card:: 机体0xFA
+      :columns: auto
+
+      | CBC13C=EA
+      | 图标→バッシュ
+      | CBC13E=57
+      | CBC13F=00
+      | 图像→バッシュ
+
+    .. grid-item-card:: 真·ゲッター3
+      :columns: auto
+
+      | CBC1E0=73
+      | ゲッタ－ミサイル(0277)→
+      | ゲッタ－ミサイル(0273)
+
+    .. grid-item-card:: ガイラム
+      :columns: auto
+
+      | CBC1E8=06
+      | 图标→グライア
+      | CBC1EA=ED
+      | 图像→グライア
+      | CBC206=201
+      | 武器数量
+      | CBC20B=E7
+      | パワーランチャー
+      | (ガイラム)→
+      | パワーランチャー
+      | (エルガイム Mk-II)
+
+    .. grid-item-card:: ガンダム
+      :columns: auto
+
+      | CBC239=4A
+      | CBC23A=0D
+      | ハイパーバズーカ
+      | →ビット
+
+    .. grid-item-card:: ガンダム Mk-II
+      :columns: auto
+
+      | CBC26A=4A
+      | CBC26B=0D
+      | ハイパーバズーカ
+      | →ビット
+
+    .. grid-item-card:: スーパーガンダム
+      :columns: auto
+
+      | CBC2AF=01
+      | 移动类型空陆
+      | CBC2B0=44
+      | CBC2B1=44
+      | 地形适应 A
+      | CBC2C3=35
+      | CBC2C4=0C
+      | ハイパーバズーカ→
+      | マイクロミサイル
+      | CBC2C6=4A
+      | CBC2C7=11
+      | ミサイルランチャ－
+      | →ビット
+
+    .. grid-item-card:: Ξガンダム
+      :columns: auto
+
+      | CBC2D1=F7
+      | 图标→
+      | スーパーガンダム
+      | CBC2D3=29
+      | 图像→
+      | スーパーガンダム
+      | CBC2E5=0F
+      | CBC2E6=01
+      | 移动类型/力
+      | CBC2E7=44
+      | CBC2E8=44
+      | 地形适应 A
+      | CBC2E9=93
+      | 装甲
+      | CBC2EA=63
+      | CBC2EB=F0
+      | 限界/运动性
+      | CBC2F1=6B
+      | CBC2F2=11
+      | メガカノン砲
+      | 残弹槽设置
+
+    .. grid-item-card:: サーバイン
+      :columns: auto
+
+      | CBC33F=03
+      | CBC340=01
+      | 武器/残弹槽数量
+      | CBC344=34
+      | CBC345=06
+      | オーラ斬り→
+      | ハイパ－オ－ラキャノン
+
+    .. grid-item-card:: ズワウス
+      :columns: auto
+
+      | CBC36A=03
+      | CBC36B=01
+      | 武器/残弹槽数量
+      | CBC36F=34
+      | CBC370=06
+      | オーラ斬り→
+      | ハイパ－オ－ラキャノン
+
+    .. grid-item-card:: ナイチンゲール
+      :columns: auto
+
+      | CBC3FB=81
+      | 图标→
+      | サザビー
+      | CBC3FD=CA
+      | 图像→
+      | サザビー
+      | CBC40F=0F
+      | CBC410=01
+      | 移动类型/力
+      | CBC411=44
+      | CBC412=44
+      | 地形适应 A
+      | CBC413=94
+      | 装甲
+      | CBC414=63
+      | CBC415=F0
+      | 限界/运动性
+      | CBC419=04
+      | CBC41A=03
+      | 武器/残弹槽数量
+      | CBC41B=7E
+      | CBC41C=06
+      | ギガブラスター
+
+    .. grid-item-card:: ヌーベルディザード
+      :columns: auto
+
+      | CBC440=7E
+      | CBC441=06
+      | セイバー→
+      | ギガブラスター
+      | CBC443=E3
+      | CBC444=09
+      | Ｓマイン
+      | 弹药槽再编号
+      | CBC446=DD
+      | CBC447=01
+      | パワーランチャー
+      | →セイバー
+
+    .. grid-item-card:: Ζガンダム
+      :columns: auto
+
+      | CBC4EC=08
+      | CBC4ED=01
+      | ビームサーベルｰ
+      | →突撃
+      | CBC4EF=06
+      | CBC4F0=06
+      | ビームライフルｰ
+      | →ファンネル
+
+    .. grid-item-card:: ウェイブライダー
+      :columns: auto
+
+      | CBC520=08
+      | CBC521=01
+      | ビームガンｰ
+      | →突撃
+      | CBC523=06
+      | CBC524=06
+      | ビームライフルｰ
+      | →ファンネル
+
+    .. grid-item-card:: ZΖガンダム
+      :columns: auto
+
+      | CBC551=06
+      | CBC552=0E
+      | ダブルキャノンｰ
+      | →ファンネル
+
+    .. grid-item-card:: G-フォートレス
+      :columns: auto
+
+      | CBC582=06
+      | CBC583=0E
+      | ダブルキャノンｰ
+      | →ファンネル
+
+    .. grid-item-card:: ボチューン
+      :columns: auto
+
+      | CBC725=04
+      | CBC726=02
+      | 武器/残弹槽数量
+      | CBC72A=634
+      | オーラバルカン
+      | →ハイパ－オ－ラキャノン
+
+    .. grid-item-card:: ドゴス·ギア
+      :columns: auto
+
+      | CBC74A=01
+      | 移动类型空陆
+      | CBC74B=4040
+      | 地形适应 空A宇A
+
+    .. grid-item-card:: アウドムラ
+      :columns: auto
+
+      | CBC77B=01
+      | 移动类型空陆
+      | CBC77C=40
+      | CBC77D=40
+      | 地形适应 空A宇A
+
+    .. grid-item-card:: ス－ドリ
+      :columns: auto
+
+      | CBC7A9=01
+      | 移动类型空陆
+      | CBC7AA=40
+      | CBC7AB=40
+      | 地形适应 空A宇A
+
+.. _srw4_cheat_units_snes_end:
 
 
 ^^^^^^^^^^^^^^^^^
@@ -1248,279 +3013,815 @@
   * c为机体武器数量。
 
 武器数据的格式参考\ :ref:`武器修改 <srw4_weapon_cheat>`。
- 
+
+.. _srw4_cheat_weapons_snes_begin:
+
 .. grid::
 
-    .. grid-item-card:: 武器追加      
+    .. grid-item-card:: フィンファンネル
       :columns: auto
 
-      | Snes9x/Bsnes支持条件启用
-      | Snes9x Bug:
-      | 游戏启动时无效化条件启用
-      | 需要在读盘之后禁用/启用一次
-      | 如果模拟器不支持，需要在开局之后开启，
-      | 第一话过关之后存盘之后关闭再读盘，
-      | 7E105E=00?01 
-      | コン・バトラーV
-      | 7E105F=00?86
-      | イオン
-      | アトミックバズーカ
-      | グランダッシャー
-      | 7E1060=00?1A
-      | ダイモス
-      | 7E1061=00?30
-      | 計都羅喉剣暗剣殺
-      | ブラックホールキャノン
+      | CBD11C=08
+      | 弹数→8
+
+    .. grid-item-card:: マイクロミサイル
+      :columns: auto
+
+      | CBD1BC=10
+      | 弹数→16
+
+    .. grid-item-card:: 修理装置
+      :columns: auto
+
+      | CBD7AC=1E
+      | 弹数→30
+      | CBD7AA=03
+      | 射程→3
+      | CBE40C=1E
+      | 弹数→30
+      | CBE40A=03
+      | 射程→3
+
+    .. grid-item-card:: ネーブルミサイル
+      :columns: auto
+
+      | （グレートマジンガー）
+      | CBD533=1F
+      | CBD534=00
+      | 战斗动画→
+      | ネーブルミサイル
+      | の色違い(未使用)
+
+    .. grid-item-card:: ボロットパンチ
+      :columns: auto
+
+      | CBD6BA=02
+      | 射程→2
+
+    .. grid-item-card:: スペシャルボロットパンチ
+      :columns: auto
+
+      | CBD6CA=03
+      | 射程→3
+
+    .. grid-item-card:: スペシャルＤＸボロットパンチ
+      :columns: auto
+
+      | CBD6DA=04
+      | 射程→4
+
+    .. grid-item-card:: 修理装置
+      :columns: auto
+
+      | CBD7A7=05
+      | 射程→5
 
     .. grid-item-card:: 必殺烈風正拳突き
+      :columns: auto
 
-      | CBDA5B=FE 
-      | 必殺烈風正拳突き地形AAAB
+      | CBDA5B=FE
+      | 地形AAAB
       | CBEDFB=FE
-      | 必殺烈風正拳突き改地形AAAB
+      | 突き改
+      | 地形AAAB
+
+    .. grid-item-card:: オーラ斬り
+      :columns: auto
+
+      | CBDD2A=03
+      | 射程→3
+
+    .. grid-item-card:: ハイパ－オ－ラ斬り
+      :columns: auto
+
+      | CBDD3A=02
+      | 射程→2
+
+    .. grid-item-card:: 突撃
+      :columns: auto
+
+      | CBDEC3=23
+      | 战斗动画→
+      | ゲッターシャインスパーク
+      | CBDEC5=C6
+      | CBDEC6=11
+      | 伤害 4550
+      | CBDEC9=02
+      | CBDECA=04
+      | 射程2~4
+
+    .. grid-item-card:: ハイファミリア
+      :columns: auto
+
+      | CBDFFC=08
+      | サイバスター 弹数→8
+      | CBE0FC=08
+      | ザムジード 弹数→8
+      | CBE15C=08
+      | グランヴェール 弹数→8
+      | CBE18C=08
+      | ガッデス 弹数→8
+
+    .. grid-item-card:: ビット
+      :columns: auto
+
+      | CBE2E2=04
+      | 台词→
+      | フィンファンネル
+      | CBE2E5=FC
+      | CBE2E6=08
+      | 伤害→2300
+      | CBE2EA=09
+      | 射程→9
+
+    .. grid-item-card:: レフレクタ－ビット
+      :columns: auto
+
+      | CBE3B2=04
+      | 台词→
+      | フィンファンネル
+      | CBE3B5=FC
+      | CBE3B6=08
+      | 伤害→2300
+      | CBE3BA=09
+      | 射程→9
+
+    .. grid-item-card:: 補給装置
+      :columns: auto
+
+      | CBEDDC=1E
+      | 弹数→30
+      | CBEDDA=05
+      | 射程→5
+      | CBEDD1=0F
+      | →Ⓟ
+
+    .. grid-item-card:: パワーランチャー
+      :columns: auto
+
+      | CBEC8C=0A
+      | CBEC9C=0A
+      | CBECAC=0A
+      | CBECBC=0A
+      | 弹数→10
+
+    .. grid-item-card:: ドリルテンペスト
+      :columns: auto
+
+      | （真·ゲッター2）
+      | CBF56B=FF
+      | 地形适应
+
+.. _srw4_cheat_weapons_snes_end:
 
 ^^^^^^^^^^^^^^^^^
 芯片修改
 ^^^^^^^^^^^^^^^^^
 数据格式参考\ :ref:`芯片修改 <srw4_items_cheat>`。
 
-.. grid:: 
 
-   .. grid-item-card:: 高性能雷达
-      :class-card: text-nowrap
-      :columns: auto
-      
-      | cdf85c=08 移+8
-      | cdf85d=1E 运+30
-      | cdf85e=3F 限+63  
-      | cdf85f=00 甲+00
-      | cdf8bc=88
-      | cdf8bd=13 HP +500
-      | cdf8be=04 光线护壁
+.. _srw4_cheat_chips_snes_begin: 
 
-   .. grid-item-card:: 米诺夫斯基飞行器
-      :class-card: text-nowrap
+.. grid::
+
+    .. grid-item-card:: 高性能雷达
       :columns: auto
 
-      | cdf860=08 移+8
-      | cdf861=12 运+18
-      | cdf862=14 限+20  
-      | cdf863=0A 甲+100
-      | cdf8c0=f4
-      | cdf8c1=01 HP +500
-      | cdf8be=04 光线护壁
+      | CDF85C=08
+      | CDF85D=1E
+      | 移8 运30
+      | CDF85E=3F
+      | CDF85F=00
+      | 限63 甲100
+      | CDF8DC=88
+      | CDF8DD=13
+      | HP5000
+      | CDF8DE=04
+      | 光线护壁
 
-   .. grid-item-card:: 助推器
-      :class-card: text-nowrap
+    .. grid-item-card:: 米诺夫斯基飞行器
       :columns: auto
 
-      | cdf864=0c 移+12
-      | cdf865=12 运+18
-      | cdf866=14 限+20  
-      | cdf867=0A 甲+100
-      | cdf8c4=f4
-      | cdf8c5=01 HP +500
-      | cdf8c6=04 光线护壁
+      | CDF860=08
+      | CDF861=12
+      | 移8 运18
+      | CDF862=14
+      | CDF863=0A
+      | 限20 甲100
+      | CDF8E0=F4
+      | CDF8E1=01
+      | HP500
+      | CDF8E2=04
+      | 光线护壁
 
-   .. grid-item-card:: 超级助推器
-      :class-card: text-nowrap
+    .. grid-item-card:: 助推器
       :columns: auto
 
-      | cdf868=10 移+16
-      | cdf869=12 运+18
-      | cdf86a=14 限+20  
-      | cdf86b=0A 甲+100
-      | cdf8c8=f4
-      | cdf8c9=01 HP +500
-      | cdf8ca=04 光线护壁
+      | CDF864=0C
+      | CDF865=12
+      | 移12 运18
+      | CDF866=14
+      | CDF867=0A
+      | 限20 甲100
+      | CDF8E4=F4
+      | CDF8E5=01
+      | HP500
+      | CDF8E6=04
+      | 光线护壁
 
-   .. grid-item-card:: 远地点控制发动机
-      :class-card: text-nowrap
+    .. grid-item-card:: 超级助推器
       :columns: auto
 
-      | cdf86C=08 移+8
-      | cdf86D=12 运+18
-      | cdf86E=14 限+20  
-      | cdf86F=0A 甲+100
-      | cdf8CC=f4
-      | cdf8CD=01 HP +500
-      | cdf8cE=04 光线护壁
+      | CDF868=10
+      | CDF869=12
+      | 移16 运18
+      | CDF86A=14
+      | CDF86B=0A
+      | 限20 甲100
+      | CDF8E8=F4
+      | CDF8E9=01
+      | HP500
+      | CDF8EA=04
+      | 光线护壁
 
-   .. grid-item-card:: FATIMA
-      :class-card: text-nowrap
+    .. grid-item-card:: 远地点控制发动机
       :columns: auto
 
-      | cdf870=10 移+16
-      | cdf871=24 运+36
-      | cdf872=28 限+40
-      | cdf873=0a 甲+100
-      | cdf8d0=f4
-      | cdf8d1=01 HP +500
-      | cdf8d2=04 光线护壁
+      | CDF86C=0C
+      | CDF86D=17
+      | 移12 运23
+      | CDF86E=14
+      | CDF86F=10
+      | 限20 甲100
+      | CDF8EC=F4
+      | CDF8ED=01
+      | HP500
+      | CDF8EE=04
+      | 光线护壁
 
-   .. grid-item-card:: ALICE
-      :class-card: text-nowrap
+    .. grid-item-card:: FATIMA
       :columns: auto
 
-      | cdf874=08 移+8
-      | cdf875=1E 运+30
-      | cdf876=28 限+40
-      | cdf877=0a 甲+100
-      | cdf8d4=f4
-      | cdf8d5=01 HP +500
-      | cdf8d6=04 光线护壁
+      | CDF870=10
+      | CDF871=24
+      | 移16 运36
+      | CDF872=28
+      | CDF873=0A
+      | 限40 甲100
+      | CDF8F0=F4
+      | CDF8F1=01
+      | HP500
+      | CDF8F2=04
+      | 光线护壁
 
-   .. grid-item-card:: 精神力框架
-      :class-card: text-nowrap
+    .. grid-item-card:: ALICE
       :columns: auto
 
-      | cdf878=08 移+8
-      | cdf879=1C 运+28
-      | cdf87a=32 限+50
-      | cdf87b=0A 甲+100
-      | cdf8d8=f4
-      | cdf8d9=01 HP +500
-      | cdf8da=04 光线护壁
+      | CDF874=08
+      | CDF875=1E
+      | 移8 运30
+      | CDF876=28
+      | CDF877=0A
+      | 限40 甲100
+      | CDF8F4=F4
+      | CDF8F5=01
+      | HP500
+      | CDF8F6=04
+      | 光线护壁
 
-   .. grid-item-card:: 生物传感器
-      :class-card: text-nowrap
+    .. grid-item-card:: 精神力框架
       :columns: auto
 
-      | cdf87C=08 移+8
-      | cdf87D=1A 运+26
-      | cdf87E=23 限+35
-      | cdf87F=0A 甲+100
-      | cdf8dC=f4
-      | cdf8dD=01 HP +500
-      | cdf8dE=04 光线护壁   
+      | CDF878=08
+      | CDF879=1C
+      | 移8 运28
+      | CDF87A=32
+      | CDF87B=0A
+      | 限50 甲100
+      | CDF8F8=F4
+      | CDF8F9=01
+      | HP500
+      | CDF8FA=04
+      | 光线护壁
 
-   .. grid-item-card:: 磁铁镀膜
-      :class-card: text-nowrap
+    .. grid-item-card:: 生物传感器
       :columns: auto
 
-      | cdf880=08 移+8
-      | cdf881=1A 运+26
-      | cdf882=23 限+35
-      | cdf883=0A 甲+100
-      | cdf8E0=f4
-      | cdf8E1=01 HP +500
-      | cdf8E2=04 光线护壁   
+      | CDF87C=08
+      | CDF87D=1A
+      | 移8 运26
+      | CDF87E=23
+      | CDF87F=0A
+      | 限35 甲100
+      | CDF8FC=F4
+      | CDF8FD=01
+      | HP500
+      | CDF8FE=04
+      | 光线护壁
 
-   .. grid-item-card:: I立场发生机
-      :class-card: text-nowrap
+    .. grid-item-card:: 磁铁镀膜
       :columns: auto
 
-      | cdf884=08 移+8
-      | cdf885=12 运+18
-      | cdf886=14 限+20
-      | cdf887=0A 甲+100
-      | cdf8E4=f4
-      | cdf8E5=01 HP +500
-      | cdf8E6=04 光线护壁  
+      | CDF880=08
+      | CDF881=17
+      | 移8 运23
+      | CDF882=1E
+      | CDF883=0A
+      | 限30 甲100
+      | CDF900=F4
+      | CDF901=01
+      | HP500
+      | CDF902=04
+      | 光线护壁
 
-   .. grid-item-card:: 乔巴姆装甲
-      :class-card: text-nowrap
+    .. grid-item-card:: I立场发生机
       :columns: auto
 
-      | cdf888=08 移+8
-      | cdf889=12 运+18
-      | cdf88a=28 限+40
-      | cdf88b=64 甲+1000
-      | cdf8E8=d0
-      | cdf8E9=07 HP+2000
-      | cdf8Ea=04 光线护壁
+      | CDF884=08
+      | CDF885=12
+      | 移8 运18
+      | CDF886=14
+      | CDF887=0A
+      | 限20 甲100
+      | CDF904=F4
+      | CDF905=01
+      | HP500
+      | CDF906=04
+      | 光线护壁
 
-   .. grid-item-card:: 混合装甲
-      :class-card: text-nowrap
+    .. grid-item-card:: 乔巴姆装甲
       :columns: auto
 
-      | cdf88C=08 移+8
-      | cdf88D=12 运+18
-      | cdf88E=28 限+40
-      | cdf88F=96 甲+1500
-      | cdf8EC=A0
-      | cdf8ED=0F HP+4000
-      | cdf8EE=04 光线护壁
+      | CDF888=08
+      | CDF889=12
+      | 移8 运18
+      | CDF88A=28
+      | CDF88B=64
+      | 限40 甲1000
+      | CDF908=D0
+      | CDF909=07
+      | HP2000
+      | CDF90A=04
+      | 光线护壁
 
-   .. grid-item-card:: 护壁发生机
+    .. grid-item-card:: 混合装甲
       :columns: auto
 
-      | cdf890=08 移+8
-      | cdf891=12 运+18
-      | cdf892=28 限+40
-      | cdf893=96 甲+1500
-      | cdf8F0=A0
-      | cdf8F1=0F HP+4000
-      | cdf8F2=04 光线护壁 
+      | CDF88C=08
+      | CDF88D=12
+      | 移8 运18
+      | CDF88E=28
+      | CDF88F=96
+      | 限40 甲1500
+      | CDF90C=A0
+      | CDF90D=0F
+      | HP4000
+      | CDF90E=04
+      | 光线护壁
 
-   .. grid-item-card:: 反光束涂层
+    .. grid-item-card:: 护壁发生机
       :columns: auto
 
-      | cdf894=08 移+8
-      | cdf895=12 运+18
-      | cdf896=28 限+40
-      | cdf897=96 甲+1500
-      | cdf8F4=A0
-      | cdf8F5=0F HP+4000
-      | cdf8F6=04 光线护壁 
+      | CDF890=08
+      | CDF891=12
+      | 移8 运18
+      | CDF892=28
+      | CDF893=96
+      | 限40 甲1500
+      | CDF910=F4
+      | CDF911=01
+      | HP500
+      | CDF912=04
+      | 光线护壁
 
-   .. grid-item-card:: 修理工具包
+    .. grid-item-card:: 反光束涂层
       :columns: auto
 
-      | cdf898=08 移+8
-      | cdf899=12 运+18
-      | cdf89A=28 限+40
-      | cdf89B=96 甲+1500
-      | cdf8F8=A0
-      | cdf8F9=0F HP+4000
-      | cdf8FA=04 光线护壁 
+      | CDF894=08
+      | CDF895=12
+      | 移8 运18
+      | CDF896=28
+      | CDF897=96
+      | 限40 甲1500
+      | CDF914=F4
+      | CDF915=01
+      | HP500
+      | CDF916=04
+      | 光线护壁
 
-   .. grid-item-card:: 螺旋桨油箱
+    .. grid-item-card:: 修理工具包
       :columns: auto
 
-      | cdf89C=08 移+8
-      | cdf89D=12 运+18
-      | cdf89E=28 限+40
-      | cdf89F=96 甲+1500
-      | cdf8FC=A0
-      | cdf8FD=04 光线护壁 
+      | CDF898=08
+      | CDF899=12
+      | 移8 运18
+      | CDF89A=28
+      | CDF89B=96
+      | 限40 甲1500
+      | CDF918=F4
+      | CDF919=01
+      | HP500
+      | CDF91A=04
+      | 光线护壁
 
-   .. grid-item-card:: 推进剂荚舱
+    .. grid-item-card:: 螺旋桨油箱
       :columns: auto
 
-      | cdf8A0=08 移+8
-      | cdf8A1=12 运+18
-      | cdf8A2=28 限+40
-      | cdf8A3=96 甲+1500
-      | cdf900=A0
-      | cdf901=0F HP+4000
-      | cdf902=04 光线护壁 
+      | CDF89C=08
+      | CDF89D=12
+      | 移8 运18
+      | CDF89E=28
+      | CDF89F=96
+      | 限40 甲1500
+      | CDF91C=F4
+      | CDF91D=01
+      | HP500
+      | CDF91E=04
+      | 光线护壁
 
-   .. grid-item-card:: 推进剂荚舱S
+    .. grid-item-card:: 推进剂荚舱
       :columns: auto
 
-      | cdf8A4=08 移+8
-      | cdf8A5=12 运+18
-      | cdf8A6=28 限+40
-      | cdf8A7=96 甲+1500
-      | cdf904=A0
-      | cdf905=0F HP+4000
-      | cdf906=04 光线护壁 
+      | CDF8A0=08
+      | CDF8A1=12
+      | 移8 运18
+      | CDF8A2=28
+      | CDF8A3=96
+      | 限40 甲1500
+      | CDF920=F4
+      | CDF921=01
+      | HP500
+      | CDF922=04
+      | 光线护壁
+
+    .. grid-item-card:: 推进剂荚舱S
+      :columns: auto
+
+      | CDF8A4=08
+      | CDF8A5=12
+      | 移8 运18
+      | CDF8A6=28
+      | CDF8A7=96
+      | 限40 甲1500
+      | CDF924=F4
+      | CDF925=01
+      | HP500
+      | CDF926=04
+      | 光线护壁
+
+.. _srw4_cheat_chips_snes_end: 
 
 ^^^^^^^^^^^^^^^^^
 机体特殊技能修改
 ^^^^^^^^^^^^^^^^^
-.. _srw4_unit_specialty_cheat_snes:
 
 如果你需要添加自己的修改，可以参考\ :ref:`机体特殊技能数据据格式 <srw4_unit_specialty>`\ 。
 
-"""""""""""""""""""""""""""""
-オリジナル变形
-"""""""""""""""""""""""""""""
+.. _srw4_unit_specialty_cheat_snes:
+
+
+.. _srw4_cheat_unit_specialty_snes_begin:
+
+""""""""""""
+機動戦士变形
+""""""""""""
 
 .. grid::
 
-    .. grid-item-card:: ヒュッケバイン变形      
+    .. grid-item-card:: GP-03变形
+      :columns: auto
+
+      | CB96FF=18
+      | GP-02A → GP-03D
+      | CB972E=19
+      | GP-03D → GP-03S
+      | CB9765=1A
+      | GP-03S → GP-02A
+      | CB9716=08
+      | CB9717=07
+      | CB9745=08
+      | CB9746=07
+      | CB977C=08
+      | CB977D=07
+      | 武器/残弹槽数量
+      | CB9749=04
+      | CB974C=01
+      | CB974F=02
+      | CB9752=05
+      | CB9755=06
+      | CB9758=00
+      | CB975B=03
+      | GP-03D
+      | 武器再编号
+      | CB9780=01
+      | CB9783=02
+      | CB9786=05
+      | GP-03S
+      | 武器再编号
+      | CB9748=10
+      | CB9751=14
+      | CB9754=18
+      | CB9757=04
+      | CB975A=0C
+      | GP-03D
+      | 弹药槽再编号
+      | CB9785=14
+      | GP-03S
+      | 弹药槽再编号
+
+    .. grid-item-card:: バイアラン变形
+      :columns: auto
+
+      | CBA7CF=18
+      | サイコガンダム(MS)
+      | →サイコガンダム(MA)
+      | CBA7FA=19
+      | サイコガンダム(MA)
+      | →バイアラン
+      | CBA825=1A
+      | バイアラン→
+      | サイコガンダム(MS)
+      | CBA7E6=04
+      | CBA7E7=03
+      | CBA811=04
+      | CBA812=03
+      | CBA83C=04
+      | CBA83D=03
+      | 武器/残弹槽数量
+      | CBA840=03
+      | バイアラン
+      | 武器再编号
+      | CBA842=09
+      | バイアラン
+      | 弾药槽再编号
+
+    .. grid-item-card:: 百式变形
+      :columns: auto
+
+      | CBA8F3=18
+      | サイコガンダム Mk-II(MS)
+      | →サイコガンダム Mk-II(MA)
+      | CBA921=19
+      | サイコガンダム Mk-II(MA)
+      | →百式
+      | CBA94C=1A
+      | 百式→
+      | サイコガンダム Mk-II(MS)
+      | CBA90A=05
+      | CBA90B=03
+      | CBA938=05
+      | CBA939=03
+      | CBA963=05
+      | CBA964=03
+      | 武器/残弹槽数量
+      | CBA967=01
+      | CBA96A=03
+      | CBA96D=00
+      | CBA970=02
+      | 百式武器再编号
+      | CBA966=09
+      | CBA96C=05
+      | CBA96F=0D
+      | 百式弾药槽再编号
+
+    .. grid-item-card:: メタス变形
+      :columns: auto
+
+      | CBA97D=18
+      | メタス (MS)
+      | →メタス (MA)
+      | CBA9A8=19
+      | メタス (MA)
+      | →ブラウ·ブロ
+      | CBA9D0=1A
+      | ブラウ·ブロ→
+      | メタス (MS)
+      | CBA9EB=02
+      | ブラウ·ブロ
+      | 武器再编号
+      | CBA9EA=09
+      | ブラウ·ブロ
+      | 弾药槽再编号
+
+    .. grid-item-card:: キュベレイmkII变形
+      :columns: auto
+
+      | CBAAB0=18
+      | ノイエ·ジール
+      | →キュベレイ
+      | CBAAE4=19
+      | キュベレイ
+      | →キュベレイmkII
+      | CBAB0F=1A
+      | キュベレイmkII
+      | →ノイエ·ジール
+      | CBAAC7=06
+      | CBAAC8=03
+      | CBAAFB=06
+      | CBAAFC=03
+      | CBAB26=06
+      | CBAB27=03
+      | 武器/残弹槽数量
+      | CBAAFF=03
+      | CBAB02=02
+      | CBAB05=04
+      | キュベレイ
+      | 武器再编号
+      | CBAB2A=03
+      | CBAB2D=02
+      | CBAB30=04
+      | キュベレイmkII
+      | 武器再编号
+      | CBAB04=0D
+      | キュベレイ
+      | 弾药槽再编号
+      | CBAB2F=0D
+      | キュベレイmkII
+      | 弾药槽再编号
+
+    .. grid-item-card:: ビギナ·ギナ变形
+      :columns: auto
+
+      | CBAE29=18
+      | ビギナ·ギナ→
+      | ベルガ·ギロス
+      | CBAE54=19
+      | ベルガ·ギロス
+      | →ラフレシア
+      | CBAE7F=1A
+      | ラフレシア→
+      | ビギナ·ギナ
+      | CBAE40=05
+      | CBAE41=03
+      | CBAE6B=05
+      | CBAE6C=03
+      | CBAE96=05
+      | CBAE97=03
+      | 武器/残弹槽数量
+      | CBAE42=89
+      | CBAE43=01
+      | CBAE6D=89
+      | CBAE6E=01
+      | ビームサーベル
+      | →ﾃﾝﾀｸﾗｰﾛｯﾄﾞ
+      | CBAE45=8B
+      | CBAE46=05
+      | CBAE70=8B
+      | CBAE71=05
+      | ビームライフル
+      | →バグ
+      | CBAE73=FD
+      | CBAE74=09
+      | CBAE75=03
+      | CBAE76=00
+      | ベルガ·ギロス
+      | ショットランサー
+      | →ﾒｶﾞ拡散ﾋﾞｰﾑ
+      | CBAE9B=8B
+      | CBAE9C=05
+      | メガ拡散ビ－ム砲️
+      | →バグ
+      | CBAE9E=08
+      | CBAE9F=02
+      | メガビ－ムキャノン️
+      | →メガビ－ムランチャ－️
+      | CBAEA1=FD
+      | CBAEA2=09
+      | バグ→
+      | メガ拡散ビ－ム砲️
+      | CBAEA4=8A
+      | CBAEA5=0D
+      | メガ粒子砲
+      | →メガビ－ムキャノン️
+
+    .. grid-item-card:: Sガンダム变形
+      :columns: auto
+
+      | CBBA67=18
+      | Sガンダム→
+      | Gクルーザー (S)
+      | CBBA9B=19
+      | Gクルーザー (S)→
+      | アレキサンドリア
+      | CBBAC3=1A
+      | アレキサンドリア
+      | →Sガンダム
+      | CBBA7E=07
+      | CBBA7F=06
+      | CBBAB2=07
+      | CBBAB3=06
+      | CBBADA=07
+      | CBBADB=06
+      | 武器数量
+      | CBBAE1=05
+      | CBBAE4=02
+      | CBBAE7=03
+      | アレキサンドリア
+      | 武器再编号
+      | CBBADD=04
+      | CBBAE0=16
+      | CBBAE3=0A
+      | CBBAE6=0E
+      | アレキサンドリア
+      | 弾药槽再编号
+
+    .. grid-item-card:: ネェル·アーガマ变形
+      :columns: auto
+
+      | CBBBDD=18
+      | ネェル·アーガマ
+      | →エンドラ
+      | CBBC0E=19
+      | エンドラ → サダラーン
+      | ネェル·アーガマ
+      | CBBC3C=1A
+      | サダラーン→
+      | ネェル·アーガマ
+      | CBBC25=405
+      | エンドラ
+      | 武器/残弹槽数量
+      | CBBC29=02
+      | CBBC2C=03
+      | CBBC2F=00
+      | CBBC32=01
+      | エンドラ
+      | 武器再编号
+      | CBBC57=02
+      | CBBC5A=03
+      | CBBC5D=00
+      | CBBC60=01
+      | サダラーン
+      | 武器再编号
+      | CBBC28=0E
+      | CBBC2B=12
+      | CBBC2E=06
+      | CBBC31=0A
+      | エンドラ
+      | 弾药槽再编号
+      | CBBC56=0E
+      | CBBC59=12
+      | CBBC5C=06
+      | CBBC5F=0A
+      | サダラーン
+      | 弾药槽再编号
+
+""""""""""""""""""""
+重戦机エルガイム变形
+""""""""""""""""""""
+
+.. grid::
+
+    .. grid-item-card:: アシュラテンプル变形
+      :columns: auto
+
+      | CBBF8D=18
+      | オージェ
+      | →オージ(奥津)
+      | CBBFBB=19
+      | オージ→
+      | アシュラテンプル
+      | CBBFEF=1A
+      | アシュラテンプル
+      | →オージェ
+      | CBBFA4=07
+      | CBBFA5=04
+      | CBBFD2=07
+      | CBBFD3=04
+      | CBC006=07
+      | CBC007=04
+      | 武器/残弹槽数量
+      | CBC013=06
+      | CBC016=03
+      | CBC019=04
+      | アシュラテンプル
+      | 武器再编号
+      | CBC012=11
+      | CBC015=09
+      | アシュラテンプル
+      | 弾药槽再编号
+
+    .. grid-item-card:: ヌーベルディザード变形
+      :columns: auto
+
+      | CBC402=08
+      | ナイチンゲール→
+      | →ヌーベルディザード
+      | CBC427=09
+      | ヌーベルディザード
+      | →ニセサイバスター
+      | CBC419=03
+      | CBC41A=02
+      | CBC43E=03
+      | CBC43F=02
+      | 武器/残弹槽数量
+
+""""""""""""""
+オリジナル变形
+""""""""""""""
+
+.. grid::
+
+    .. grid-item-card:: ヒュッケバイン变形
       :columns: auto
 
       | CB9578=08
@@ -1555,6 +3856,761 @@
       | CB95CD=1A
       | ウイングガスト
       | 弹药槽再编号
+
+    .. grid-item-card:: サイバスター变形
+      :columns: auto
+
+      | CBA41B=18
+      | サイバスター→
+      | サイバード
+      | CBA44F=19
+      | サイバード
+      | グランゾン
+      | CBA47A=1A
+      | グランゾン
+      | →サイバスター
+      | CBA491=06
+      | CBA492=04
+      | 武器/残弹槽数量
+
+    .. grid-item-card:: ザムジード变形
+      :columns: auto
+
+      | CBA4A8=18
+      | ネオ·グランゾン→
+      | ヴァルシオーネR
+      | CBA4D9=19
+      | ヴァルシオーネR
+      | →ザムジード
+      | CBA50A=1A
+      | ザムジード→
+      | ヴァルシオーネR
+      | CBA4BF=05
+      | CBA4C0=03
+      | CBA4F0=05
+      | CBA4F1=03
+      | CBA521=05
+      | CBA522=03
+      | 武器/残弹槽数量
+      | CBA4FA=02
+      | CBA4FD=03
+      | ヴァルシオーネR
+      | 武器再编号
+      | CBA52B=04
+      | CBA531=02
+      | ザムジード
+      | 武器再编号
+      | CBA52A=09
+      | CBA52D=0D
+      | ザムジード
+      | 弹药槽再编号
+
+    .. grid-item-card:: ガッデス变形
+      :columns: auto
+
+      | CBA53B=18
+      | グランヴェール
+      | →ガッデス
+      | CBA56F=19
+      | ガッデス→
+      | ウィーゾル改
+      | CBA59D=1A
+      | ウィーゾル改→
+      | グランヴェール
+      | CBA552=06
+      | CBA553=03
+      | CBA586=06
+      | CBA587=03
+      | CBA5B4=06
+      | CBA5B5=03
+      | 武器/残弹槽数量
+      | CBA590=03
+      | CBA593=02
+      | ガッデス
+      | 武器再编号
+      | CBA5BE=03
+      | ウィーゾル改
+      | 武器再编号
+
+    .. grid-item-card:: ゲシュペンスト变形
+      :columns: auto
+
+      | CBA5C8=18
+      | ノルス·レイ→
+      | ガディフォール
+      | CBA5F3=19
+      | ガディフォール→
+      | ゲシュペンスト（R）
+      | CBA624=1A
+      | ゲシュペンスト（R）
+      | →ノルス·レイ
+      | CBA5DF=05
+      | CBA5E0=04
+      | CBA60A=05
+      | CBA60B=04
+      | CBA63B=05
+      | CBA63C=04
+      | 武器/残弹槽数量
+
+""""""""""""""""""""
+グレンダイザー合体可
+""""""""""""""""""""
+
+.. grid::
+
+    .. grid-item-card:: マジンガーZ（JS）
+      :columns: auto
+
+      | CB9A37=A8
+      | 可被合体
+
+    .. grid-item-card:: グレートマジンガー
+      :columns: auto
+
+      | CB9A77=A8
+      | 可被合体
+
+""""""""
+二段变身
+""""""""
+
+.. grid::
+
+    .. grid-item-card:: ブラッドテンプル
+      :columns: auto
+
+      | CBA3BE=42
+
+    .. grid-item-card:: アトールV/ゴッドネロス
+      :columns: auto
+
+      | CBA3F2=40
+
+    .. grid-item-card:: サイバスター
+      :columns: auto
+
+      | CBA41D=40
+
+    .. grid-item-card:: サイバ－ド
+      :columns: auto
+
+      | CBA451=40
+
+    .. grid-item-card:: ネオ·グランゾン(真·古兰森)
+      :columns: auto
+
+      | CBA4AA=44
+
+    .. grid-item-card:: ヴァルシオ－ネＲ
+      :columns: auto
+
+      | CBA4DB=40
+
+    .. grid-item-card:: ノルス・レイ
+      :columns: auto
+
+      | CBA5CA=40
+
+    .. grid-item-card:: ガディフォ－ル
+      :columns: auto
+
+      | CBA5F5=40
+
+    .. grid-item-card:: ドム
+      :columns: auto
+
+      | CBA682=40
+
+    .. grid-item-card:: エルメス
+      :columns: auto
+
+      | CBA6B0=40
+      | CBA6BC=01
+
+    .. grid-item-card:: マラサイ
+      :columns: auto
+
+      | CBA6D8=60
+
+    .. grid-item-card:: バーザム
+      :columns: auto
+
+      | CBA703=40
+
+    .. grid-item-card:: ハンブラビ
+      :columns: auto
+
+      | CBA72E=40
+      | ハンブラビ (MS)
+      | CBA75C=40
+      | ハンブラビ (MA)
+
+    .. grid-item-card:: アッシマー
+      :columns: auto
+
+      | CBA784=40
+      | アッシマー (MS)
+
+    .. grid-item-card:: サイコガンダム
+      :columns: auto
+
+      | CBA7D1=40
+      | サイコガンダム (MS)
+      | CBA7FC=40
+      | サイコガンダム (MA)
+
+    .. grid-item-card:: ガブスレイ
+      :columns: auto
+
+      | CBA84F=40
+
+    .. grid-item-card:: バウンド·ドック
+      :columns: auto
+
+      | CBA8A2=40
+      | バウンド·ドック (MS)
+
+    .. grid-item-card:: サイコガンダム Mk-II
+      :columns: auto
+
+      | CBA8F5=64
+      | CBA923=44
+
+    .. grid-item-card:: ビグロ
+      :columns: auto
+
+      | CBA9F7=40
+
+    .. grid-item-card:: ケンプファー
+      :columns: auto
+
+      | CBAA22=40
+
+    .. grid-item-card:: ヴァル·ヴァロ
+      :columns: auto
+
+      | CBAA56=40
+      | CBAA62=01
+
+    .. grid-item-card:: ガーベラ·テトラ
+      :columns: auto
+
+      | CBAA87=40
+
+    .. grid-item-card:: ガルスJ
+      :columns: auto
+
+      | CBAB3C=40
+      | CBAB51=04
+      | CBAB52=03
+
+    .. grid-item-card:: ズサ
+      :columns: auto
+
+      | CBAB67=40
+
+    .. grid-item-card:: ハンマ·ハンマ
+      :columns: auto
+
+      | CBAB8F=60
+
+    .. grid-item-card:: R·ジャジャ
+      :columns: auto
+
+      | CBABBA=40
+      | CBABCF=04
+      | CBABD0=03
+
+    .. grid-item-card:: バウ
+      :columns: auto
+
+      | CBABE5=40
+      | バウ (MS)
+      | CBAC13=40
+      | バウ (MA)
+
+    .. grid-item-card:: クイン·マンサ
+      :columns: auto
+
+      | CBAC6C=44
+      | CBAC81=609
+
+    .. grid-item-card:: ドーベンウルフ
+      :columns: auto
+
+      | CBAC97=40
+
+    .. grid-item-card:: ゲーマルク
+      :columns: auto
+
+      | CBACD4=40
+
+    .. grid-item-card:: ギラ·ドーガ（绿）
+      :columns: auto
+
+      | CBAD0E=40
+
+    .. grid-item-card:: ギラ·ドーガ（强化）
+      :columns: auto
+
+      | CBAD3C=40
+
+    .. grid-item-card:: ヤクト·ドーガ（青）
+      :columns: auto
+
+      | CBAD6A=60
+
+    .. grid-item-card:: α·アジール
+      :columns: auto
+
+      | CBADFD=44
+
+    .. grid-item-card:: メカザウルス·サキ (机械恐龙·萨基)
+      :columns: auto
+
+      | CBAEB2=40
+
+    .. grid-item-card:: メカザウルス·バド(机械恐龙·巴德)
+      :columns: auto
+
+      | CBAEDA=40
+
+    .. grid-item-card:: メカザウルス·ザイ(机械恐龙·扎伊)
+      :columns: auto
+
+      | CBAF02=40
+
+    .. grid-item-card:: 機械獣ガラダK７(机械兽镰刀兽K7)
+      :columns: auto
+
+      | CBAFD0=40
+
+    .. grid-item-card:: ラインX1(莱茵X1)
+      :columns: auto
+
+      | CBB023=40
+
+    .. grid-item-card:: 機械獣スパルタンK5(机械兽斯巴达人K5)
+      :columns: auto
+
+      | CBB073=40
+
+    .. grid-item-card:: グール
+      :columns: auto
+
+      | CBB0C3=40
+
+    .. grid-item-card:: ブード
+      :columns: auto
+
+      | CBB0F1=40
+      | CBB0FD=01
+
+    .. grid-item-card:: マザーバーン (圆盘母舰)
+      :columns: auto
+
+      | CBB1A0=40
+
+    .. grid-item-card:: 円盤獣ギルギル (圆盘兽基鲁基鲁)
+      :columns: auto
+
+      | CBB1CB=40
+      | CBB1E0=03
+      | CBB1E1=02
+
+    .. grid-item-card:: 円盤獣ゴスゴス (圆盘兽格斯格斯)
+      :columns: auto
+
+      | CBB1F6=40
+
+    .. grid-item-card:: ピクドロン
+      :columns: auto
+
+      | CBB25E=03
+      | CBB25F=02
+      | CBB249=40
+
+    .. grid-item-card:: メカギルギルガン
+      :columns: auto
+
+      | CBB299=44
+
+    .. grid-item-card:: ヴァルシオン
+      :columns: auto
+
+      | CBB2EF=44
+
+    .. grid-item-card:: ドラムロ
+      :columns: auto
+
+      | CBB317=56
+
+    .. grid-item-card:: レプラカーン
+      :columns: auto
+
+      | CBB33F=56
+
+    .. grid-item-card:: ズワァース
+      :columns: auto
+
+      | CBB37C=56
+      | CBB391=06
+      | CBB392=03
+
+    .. grid-item-card:: ビアレス
+      :columns: auto
+
+      | CBB3AD=56
+      | CBB3C2=06
+      | CBB3C3=03
+
+    .. grid-item-card:: ライネック
+      :columns: auto
+
+      | CBB3DB=56
+
+    .. grid-item-card:: ブブリィ
+      :columns: auto
+
+      | CBB440=56
+
+    .. grid-item-card:: ガラバ
+      :columns: auto
+
+      | CBB471=56
+
+    .. grid-item-card:: グラン·ガラン
+      :columns: auto
+
+      | CBB4C8=10
+
+    .. grid-item-card:: ゴラオン
+      :columns: auto
+
+      | CBB4F3=11
+
+    .. grid-item-card:: ウィル·ウィプス
+      :columns: auto
+
+      | CBB520=C6
+
+    .. grid-item-card:: ゲア·ガリング
+      :columns: auto
+
+      | CBB548=C6
+
+    .. grid-item-card:: スプリガン
+      :columns: auto
+
+      | CBB570=C6
+
+    .. grid-item-card:: ガンテ(岩手)
+      :columns: auto
+
+      | CBB5BD=40
+
+    .. grid-item-card:: 化石獣バストドン
+      :columns: auto
+
+      | CBB5E8=40
+
+    .. grid-item-card:: 巨大シャーキン
+      :columns: auto
+
+      | CBB635=40
+
+    .. grid-item-card:: メカブースト·ガビタン（空）
+      :columns: auto
+
+      | CBB6B3=40
+
+    .. grid-item-card:: 赤騎士デスカイン
+      :columns: auto
+
+      | CBB6DB=40
+
+    .. grid-item-card:: バンドック
+      :columns: auto
+
+      | CBB72B=44
+
+    .. grid-item-card:: メカ戦士ギメリア
+      :columns: auto
+
+      | CBB77E=40
+
+    .. grid-item-card:: マグマ獣ガルムス
+      :columns: auto
+
+      | CBB7D8=40
+
+    .. grid-item-card:: マグマ獣デモン
+      :columns: auto
+
+      | CBB800=40
+
+    .. grid-item-card:: ビッグガルーダ
+      :columns: auto
+
+      | CBB82E=40
+
+    .. grid-item-card:: ブンドル艦
+      :columns: auto
+
+      | CBB859=44
+
+    .. grid-item-card:: カットナル艦
+      :columns: auto
+
+      | CBB887=44
+
+    .. grid-item-card:: ケルナグール艦
+      :columns: auto
+
+      | CBB8B5=44
+
+    .. grid-item-card:: ザンジバル
+      :columns: auto
+
+      | CBB90B=C0
+
+    .. grid-item-card:: ミデア
+      :columns: auto
+
+      | CBB936=40
+
+    .. grid-item-card:: コロンブス
+      :columns: auto
+
+      | CBB95E=40
+      | CBB96A=01
+
+    .. grid-item-card:: パゾグ
+      :columns: auto
+
+      | CBB986=40
+      | CBB992=01
+
+    .. grid-item-card:: ガウ
+      :columns: auto
+
+      | CBB9AB=C0
+      | CBB9B7=01
+
+    .. grid-item-card:: ダブデ
+      :columns: auto
+
+      | CBB9DC=40
+
+    .. grid-item-card:: トロイホース
+      :columns: auto
+
+      | CBBA0B=10
+      | 分离前机体
+
+    .. grid-item-card:: グラーフ·ツェッペリン
+      :columns: auto
+
+      | CBBA39=11
+      | 分离后机体
+
+    .. grid-item-card:: ムサイ改
+      :columns: auto
+
+      | CBBAF3=C0
+
+    .. grid-item-card:: アーガマ
+      :columns: auto
+
+      | CBBB1C=10
+
+    .. grid-item-card:: アイリッシュ
+      :columns: auto
+
+      | CBBB4D=11
+
+    .. grid-item-card:: レウルーラ
+      :columns: auto
+
+      | CBBC6F=C0
+
+    .. grid-item-card:: ラー·カイラム
+      :columns: auto
+
+      | CBBCA0=10
+
+    .. grid-item-card:: ザムス·ガル
+      :columns: auto
+
+      | CBBCCF=11
+
+    .. grid-item-card:: ガロイカ
+      :columns: auto
+
+      | CBBD02=40
+
+    .. grid-item-card:: ゼラニオ
+      :columns: auto
+
+      | CBBDE5=40
+      | CBBDFA=06
+      | CBBDFB=05
+
+    .. grid-item-card:: ゲイオス＝グルード
+      :columns: auto
+
+      | CBBE13=40
+      | CBBE28=06
+      | CBBE29=05
+
+    .. grid-item-card:: バラン＝シュナイル(巴兰·修奈尔)
+      :columns: auto
+
+      | CBBE78=40
+
+    .. grid-item-card:: ゲシュペンスト Mk-II
+      :columns: auto
+
+      | CBBEA6=42
+
+    .. grid-item-card:: アトール
+      :columns: auto
+
+      | CBC087=62
+
+    .. grid-item-card:: グルーン
+      :columns: auto
+
+      | CBC0B2=42
+
+    .. grid-item-card:: サロンズ
+      :columns: auto
+
+      | CBC0E3=42
+
+    .. grid-item-card:: 机体F9
+      :columns: auto
+
+      | CBC117=42
+
+    .. grid-item-card:: アロ－ン
+      :columns: auto
+
+      | 同机体FA
+      | CBC145=62
+
+    .. grid-item-card:: 真・ゲッタ－１
+      :columns: auto
+
+      | CBC16D=40
+
+    .. grid-item-card:: 真・ゲッタ－２
+      :columns: auto
+
+      | CBC19B=50
+
+    .. grid-item-card:: 旧ザク
+      :columns: auto
+
+      | CBC2FF=40
+
+    .. grid-item-card:: サーバイン
+      :columns: auto
+
+      | CBC328=10
+
+    .. grid-item-card:: ズワウス
+      :columns: auto
+
+      | CBC353=11
+
+    .. grid-item-card:: アッザム
+      :columns: auto
+
+      | CBC3AE=40
+
+    .. grid-item-card:: 暗黒大将軍
+      :columns: auto
+
+      | CBC454=40
+
+    .. grid-item-card:: ハーディアス
+      :columns: auto
+
+      | CBC47F=40
+
+    .. grid-item-card:: ドレイドウ
+      :columns: auto
+
+      | CBC4AA=40
+
+    .. grid-item-card:: Ｚガンダム
+      :columns: auto
+
+      | CBC4D5=60
+
+    .. grid-item-card:: 円盤獣ジンジン
+      :columns: auto
+
+      | CBC593=40
+
+    .. grid-item-card:: 円盤獣デキデキ
+      :columns: auto
+
+      | CBC5BE=40
+
+    .. grid-item-card:: 戦闘獣ダンテ
+      :columns: auto
+
+      | CBC5E9=40
+
+    .. grid-item-card:: 獣魔将軍
+      :columns: auto
+
+      | CBC63C=40
+
+    .. grid-item-card:: グレイドン
+      :columns: auto
+
+      | CBC667=40
+
+    .. grid-item-card:: ガルンロール
+      :columns: auto
+
+      | CBC692=40
+      | CBC6A7=608
+
+    .. grid-item-card:: グライア
+      :columns: auto
+
+      | CBC6BD=40
+
+    .. grid-item-card:: メカザウルス·ズー
+      :columns: auto
+
+      | CBC6E5=40
+
+    .. grid-item-card:: ボチューン
+      :columns: auto
+
+      | CBC710=56
+
+    .. grid-item-card:: ドゴス·ギア
+      :columns: auto
+
+      | CBC73E=C0
+
+    .. grid-item-card:: アウドムラ
+      :columns: auto
+
+      | CBC76F=C0
+
+    .. grid-item-card:: スードリ
+      :columns: auto
+
+      | CBC79D=C0
+
+.. _srw4_cheat_unit_specialty_snes_end:      
 
 -------------------
 第四次S金手指
@@ -1669,17 +4725,98 @@
     .. grid-item-card:: 全体高性能雷达
       :columns: auto
 
-      | 偶尔造成游戏冻结
-      | 部署前或者通关前禁用
-      | 部署后启用
       | 5000503C 0000
       | 80102F90 0000
 
-    .. grid-item-card:: 全体无
+    .. grid-item-card:: 全体无强化芯片
       :columns: auto
 
       | 5000503C 0000
       | 80102F90 ffff
+
+    .. grid-item-card:: 妖精SP
+      :columns: auto
+
+      | 80104716 FFFF 
+      | チャム/ベル
+      | 80104718 FFFF
+      | エル/リリス
+      | 3010471A 00FF
+      | シルキー 
+      
+
+    .. grid-item-card:: 全体幸运
+      :columns: auto
+
+      | DuckStation版
+      | 53000050 003c0000 
+      | 31102F73 0008
+
+    .. grid-item-card:: 全体已侦察
+      :columns: auto
+
+      | DuckStation版
+      | 53000050 003c0000 
+      | 31102F71 0080
+
+      
+    .. grid-item-card:: 追加武器1
+      :columns: auto
+
+      | E01046FC 0000
+      | 301046FC 0001
+      | ツインランサー
+      | Ｖレーザー
+      | ビッグブラスト
+      | ·ディバイダー
+
+    .. grid-item-card:: 追加武器2
+      :columns: auto
+      
+      | E01046FD 0000
+      | 301046FD 0086
+      | イオン砲
+      | アトミック
+      | ·バズーカ
+      | グランダッシャー      
+
+    .. grid-item-card:: 追加武器3
+      :columns: auto
+
+      | E01046FE 0000
+      | 301046FE 001A
+      | ダイモシャフト
+      | ドリルアンカー
+      | 烈風正拳突き改
+      | ゴッドボイス
+      | ゴーガンソード
+      | エネルギー
+      | カッター      
+
+    .. grid-item-card:: 追加武器4
+      :columns: auto
+      
+      | E01046FF 0000
+      | 301046FF 0030
+      | 計都羅喉剣
+      | ·暗剣殺
+      | ブラックホール
+      | ·キャノン
+
+    .. grid-item-card:: 每机武器数量
+      :columns: auto
+
+      | 游戏本身武器数量设置错误
+      | 以至于一些武器
+      | 在特定加入顺序时
+      | 无法改造
+      | DuckStation版
+      | 53000050 003c0000 
+      | 31102F9E 0024
+      | 因为会造成挂起
+      | 只在过关时开启然后存盘
+      | 关闭之后再读盘。
+
 
 ^^^^^^^^^^^^^^^^^
 主人公修改
@@ -1872,8 +5009,12 @@
       | 8004CD7A 0103
 
 ^^^^^^^^^^^^^^^^^
-机师修改
+阵容修改
 ^^^^^^^^^^^^^^^^^
+
+"""""""""""""""""""""""""""""
+增加机师
+"""""""""""""""""""""""""""""
 
 因为数据是散列的，这里只列出首地址，特定机师的对应数据地址为 序号 x 0x3C+首地址。
 
@@ -1900,13 +5041,14 @@
 * 因为分队信息和是否存在信息在同一个地址，所以得用D0码先判断此位置是否有数据，如果没有的再用80码进行写入。
 * 如果要修改对应的机师信息，去掉前面的D0码。但是分队信息可能失效。
 * 30102F98 00xx击坠数
-  
-.. grid::
 
-    .. grid-item-card:: 增加人物(共通)
+.. grid::
+  
+    .. grid-item-card:: 增加人物(路线A/C)
       :columns: auto
       
-      | 分歧参考（\ :ref:`隐藏要素 <srw4_missable>`\ 路线A/B/C）
+      | 分歧参考（\ :ref:`隐藏要素 <srw4_missable>`\ 路线A/C）
+      | 路线B禁用
       | 不按照路线中的选择可能造成数据溢出
       | D0103F47 0000
       | 80103F47 0438
@@ -1959,7 +5101,7 @@
       | バニング
       | D0103DDF 0000
       | 80103DDF 0624
-      | マチルダ・アジャン
+      | マチルダ
       | D0103E1B 0000
       | 80103E1B 06bc
       | ゼット
@@ -1977,16 +5119,6 @@
       | 80103F0B 06EC
       | テリウス·
       | ビルセイア
-
-    .. grid-item-card:: 妖精SP
-      :columns: auto
-
-      | 80104716 FFFF 
-      | チャム/ベル
-      | 80104718 FFFF
-      | エル/リリス
-      | 3010471A 00FF
-      | シルキー 
 
     .. grid-item-card:: 妖精存在等级
       :columns: auto
@@ -2017,19 +5149,158 @@
       | 30104248 0001
       | シルキー
 
-    .. grid-item-card:: 全体幸运
+"""""""""""""""""""""""""""""
+增加机体
+"""""""""""""""""""""""""""""
+
+因为机体数据是散列的，这里只列出首地址，特定机体的对应数据地址为 序号 x 0x3C+首地址。
+
+* 30102F7E 00xx 当前EN
+* 30102F7F 00xx 最大EN
+* 80102F80 xxyy 当前HP
+* 80102F82 xxyy 最大HP
+* 30102F84 00xx 运动性
+* 30102F86 00xx 限界
+* 30102F87 00xx 装甲/10
+* 80102F90 xxyy
+* 这里xx和yy是机体装备的\ :ref:`芯片 <srw4_items>`\ 的代码。
+* 80102F9A FFFE 改造段数
+* 30102F9C 机体当前机师序号
+* 30102F9D 机体代码低8位 参见\ :ref:`机体数据<srw4_units_data_ps>`\ 。
+* 30102F9E 00xx
+  
+  * xx=a + b x 2
+  * a为机体代码的高字节，如果是1的话为1，否则为0。
+  * b为机体的武器数量
+  * 修改机体代码之后应该修改对应的武器数目，否则一些武器不能改造。
+
+.. grid::
+
+    .. grid-item-card:: 增加机体（路线AC）
       :columns: auto
 
-      | DuckStation版
-      | 53000050 003c0000 
-      | 31102F73 0008
+      | :ref:`隐藏要素 <srw4_missable>`
+      | 路线A、C通用
+      | 路线B禁用
+      | D010407D 0000
+      | 8010407D 2412
+      | \ :ref:`ボール <srw4_unit_ball>`\ 
+      | D01040B9 0000
+      | 801040B9 1F01
+      | \ :ref:`ガイラム <srw4_unit_gayrahm>`\ 
+      | D01040F5 0000
+      | 801040F5 2506
+      | \ :ref:`Ξガンダム <srw4_unit_xi_gundam>`\ 
+      | D0104131 0000
+      | 80104131 2403
+      | \ :ref:`ウイングガスト <srw4_unit_wing_gust>`\
+      | (飞翼加斯特)
+      | D010416D 0000
+      | 8010416D 247B
+      | \ :ref:`キュベレイ Mk-II <srw4_unit_qubeley_mk_ii>`\ 
+      | (卡碧尼 Mk-II)
+      | D01041A9 0000
+      | 801041A9 250C
+      | \ :ref:`ニセサイバスター <srw4_unit_fake_cybuster>`\ 
+      | (伪塞巴斯塔)
+      | D01041E5 0000
+      | 801041E5 24D5
+      | \ :ref:`Sガンダム <srw4_unit_s_gundam>`\ 
+      | (S高达)
+      | D0104221 0000
+      | 80104221 2489
+      | \ :ref:`ヤクト·ドーガ（赤） <srw4_unit_jagd_doga_red>`\ 
+      | (亚克·多加柯丝号)
 
-    .. grid-item-card:: 全体已侦察
+
+    .. grid-item-card:: 增加机体(路线B)
       :columns: auto
 
-      | DuckStation版
-      | 53000050 003c0000 
-      | 31102F71 0080
+      | :ref:`隐藏要素 <srw4_missable>`
+      | 路线B限定
+      | D010407D 0000
+      | 8010407D 2412
+      | \ :ref:`ボール <srw4_unit_ball>`\ 
+      | (铁球)
+      | D01040B9 0000
+      | 801040B9 24F3
+      | \ :ref:`アシュラテンプル <srw4_unit_ashura_temple>`\ 
+      | (阿修罗神殿)
+      | D01040F5 0000
+      | 801040F5 2506
+      | \ :ref:`Ξガンダム <srw4_unit_xi_gundam>`\ 
+      | (柯西高达)
+      | D0104131 0000
+      | 80104131 2403
+      | \ :ref:`ウイングガスト <srw4_unit_wing_gust>`\
+      | (飞翼加斯特)
+      | D010416D 0000
+      | 8010416D 247B
+      | \ :ref:`キュベレイ Mk-II <srw4_unit_qubeley_mk_ii>`\ 
+      | (卡碧尼 Mk-II)
+      | D01041A9 0000
+      | 801041A9 250C
+      | \ :ref:`ニセサイバスター <srw4_unit_fake_cybuster>`\ 
+      | (伪塞巴斯塔)
+      | D01041E5 0000
+      | 801041E5 24D5
+      | \ :ref:`Sガンダム <srw4_unit_s_gundam>`\ 
+      | (S高达)
+      | D0104221 0000
+      | 80104221 2489
+      | \ :ref:`ヤクト·ドーガ（赤） <srw4_unit_jagd_doga_red>`\ 
+      | (亚克·多加柯丝号)
+      | D0103DE9 0000
+      | 80103DE9 246B
+      | \ :ref:`ガブスレイ (MS) <srw4_unit_gabthley_ms>`\ 
+      | (卡普司利)
+      | D0103E25 0000
+      | 80103E25 2455
+      | \ :ref:`グランゾン <srw4_unit_granzon>`\ 
+      | (古兰森)
+      | D0103E61 0000
+      | 80103E61 245B
+      | \ :ref:`ウィーゾル改 <srw4_unit_weesol_kai>`\
+      | (维佐尔·改)
+      | D0103E9D 0000
+      | 80103E9D 245C
+      | \ :ref:`ノルス·レイ <srw4_unit_nors_ray>`\ 
+      | (诺鲁斯·改)
+      | D0103ED9 0000
+      | 80103ED9 2528
+      | \ :ref:`ガラバ(ハイパー可) <srw4_unit_gallaba_hyper_available>`\ 
+      | (可巨化加拉巴)
+      | D0103F15 0000
+      | 80103F15 24E6
+      | \ :ref:`グラシドゥ＝リュ <srw4_unit_grassidow_ryu>`\ 
+      | (古拉西德·琉)
+      | D0103F51 0000
+      | 80103F51 24C4
+      | \ :ref:`メカ戦士ギメリア <srw4_unit_mecha_warrior_gimeria>`\ 
+      | (机械战士基梅利亚)
+      | D0103F8D 0000
+      | 80103F8D 24DB
+      | | \ :ref:`ExSガンダム <srw4_unit_ex_s_gundam>`\ 
+      | (ExS高达)
+      | D0103FC9 0000
+      | 80103FC9 2524
+      | \ :ref:`レプラカーン(ハイパー可) <srw4_unit_leprechaun_hyper_available>`\ 
+      | (可巨化雷普拉刚)
+      | D0104005 0000
+      | 80104005 248C
+      | \ :ref:`ビギナ·ギナ <srw4_unit_vigna_ghina>`\ 
+      | (比基纳·基纳)🛡
+      | D0104041 0000
+      | 80104041 2504
+      | \ :ref:`Gディフェンサー <srw4_unit_g_defender>`\ 
+      | (G-防卫号)
+
+^^^^^^^^^^^^^^^^^
+机师修改
+^^^^^^^^^^^^^^^^^
+.. _srw4_cheat_pilots_ps_begin:
+
+.. grid::    
 
     .. grid-item-card:: エル·フィノ
       :columns: auto
@@ -2042,14 +5313,14 @@
       | 隠れ身→気合
 
 
-    .. grid-item-card:: 神隼人
+    .. grid-item-card:: 隼人
       :columns: auto
 
       | 8004AC2C 010D
       | 幸運→Lv1
 
 
-    .. grid-item-card:: 北条真吾
+    .. grid-item-card:: 真吾
       :columns: auto
 
       | 3004AC5F 0020
@@ -2061,13 +5332,13 @@
       | 3004AC81 00B0
       | 乘换機動戦士系
 
-    .. grid-item-card:: キリー・ギャグレー
+    .. grid-item-card:: キリー
       :columns: auto
 
       | 3004ACA1 0010
       | 乘换機動戦士系
 
-    .. grid-item-card:: 結城沙羅
+    .. grid-item-card:: 沙羅
       :columns: auto
 
       | 8004AD58 010D
@@ -2091,7 +5362,7 @@
       | 3004AEC1 00B0
       | 乘换機動戦士系
 
-    .. grid-item-card:: シュウ・シラカワ
+    .. grid-item-card:: シュウ
       :columns: auto  
 
       | 3004AEE1 0010
@@ -2287,7 +5558,7 @@
       | 无→
       | ニュータイプ
 
-    .. grid-item-card:: ケーラ·スゥ
+    .. grid-item-card:: ケーラ
       :columns: auto
 
       | 8004B299 4444
@@ -2378,7 +5649,7 @@
       | 3004B485 0082
       | 乘换ダンバイン系
 
-    .. grid-item-card:: 早乙女ミチル
+    .. grid-item-card:: ミチル
       :columns: auto
 
       | 3004B4A5 0092
@@ -2386,7 +5657,7 @@
       | 8004B4AB 4444
       | 地形适应      
 
-    .. grid-item-card:: 神宮寺力
+    .. grid-item-card:: 神宮寺
       :columns: auto
 
       | 3004B4E5 0010
@@ -2394,7 +5665,7 @@
       | 8004B4EB 4444
       | 地形适应
 
-    .. grid-item-card:: 明日香麗
+    .. grid-item-card:: 麗
       :columns: auto
 
       | 3004B505 0090
@@ -2402,7 +5673,7 @@
       | 8004B50B 4444
       | 地形适应
 
-    .. grid-item-card:: 桜野マリ
+    .. grid-item-card:: マリ
       :columns: auto
 
       | 3004B525 0080
@@ -2482,7 +5753,7 @@
       | 8004B853 4444
       | 地形适应
 
-    .. grid-item-card:: エレ·ハンム
+    .. grid-item-card:: エレ
       :columns: auto
 
       | 8004B873 4444
@@ -2622,13 +5893,15 @@
       :columns: auto
 
       | 3004C936 00FE
-      | 颜(\ :ref:`エリート兵 <srw4_pilot_elite_soldier>`\→エリート兵（逆）)
+      | 颜(\ :ref:`エリート兵 <srw4_pilot_elite_soldier>`\ 
+      | →エリート兵（逆）)
 
     .. grid-item-card:: 超人工知能
       :columns: auto
 
       | 3004C970 00F3
-      | 颜(人工知能改→Now Printing)
+      | 颜(人工知能改\ 
+      | →Now Printing)
 
     .. grid-item-card:: 超级系男主人公
       :columns: auto
@@ -2647,106 +5920,8 @@
 ^^^^^^^^^^^^^^^^^
 机体修改
 ^^^^^^^^^^^^^^^^^
-因为数据是散列的，这里只列出首地址，特定机体的对应数据地址为 序号 x 0x3C+首地址。
-
-* 30102F7E 00xx 当前EN
-* 30102F7F 00xx 最大EN
-* 80102F80 xxyy 当前HP
-* 80102F82 xxyy 最大HP
-* 30102F84 00xx 运动性
-* 30102F86 00xx 限界
-* 30102F87 00xx 装甲/10
-* 80102F90 xxyy
-* 这里xx和yy是机体装备的\ :ref:`芯片 <srw4_items>`\ 的代码。
-* 80102F9A FFFE 改造段数
-* 30102F9C 机体当前机师序号
-* 30102F9D 机体代码低8位 参见\ :ref:`机体数据<srw4_units_data_ps>`\ 。
-* 30102F9E 00xx
-  
-  * xx=a + b x 2
-  * a为机体代码的高字节，如果是1的话为1，否则为0。
-  * b为机体的武器数量
-  * 修改机体代码之后应该修改对应的武器数目，否则一些武器不能改造。
   
 .. grid::
-
-    .. grid-item-card:: 增加机体（共通）
-      :columns: auto
-
-      | :ref:`隐藏要素 <srw4_missable>`
-      | 路线A、B、C通用
-      | D010407D 0000
-      | 8010407D 2412
-      | \ :ref:`ボール <srw4_unit_ball>`\ 
-      | D01040B9 0000
-      | 801040B9 1F01
-      | \ :ref:`ガイラム <srw4_unit_gayrahm>`\ 
-      | D01040F5 0000
-      | 801040F5 2506
-      | \ :ref:`Ξガンダム <srw4_unit_xi_gundam>`\ 
-      | D0104131 0000
-      | 80104131 2403
-      | \ :ref:`ウイングガスト <srw4_unit_wing_gust>`\
-      | (飞翼加斯特)
-      | D010416D 0000
-      | 8010416D 247B
-      | \ :ref:`キュベレイ Mk-II <srw4_unit_qubeley_mk_ii>`\ 
-      | (卡碧尼 Mk-II)
-      | D01041A9 0000
-      | 801041A9 250C
-      | ニセサイバスター
-      | D01041E5 0000
-      | 801041E5 24D5
-      | \ :ref:`Sガンダム <srw4_unit_s_gundam>`\ 
-      | (S高达)
-      | D0104221 0000
-      | 80104221 2489
-      | \ :ref:`ヤクト·ドーガ（赤） <srw4_unit_jagd_doga_red>`\ 
-      | (亚克·多加柯丝号)
-
-
-    .. grid-item-card:: 路线B增加机体
-      :columns: auto
-
-      | :ref:`隐藏要素 <srw4_missable>`
-      | 限路线B
-      | D0103DE9 0000
-      | 80103DE9 24C5
-      | \ :ref:`メカ戦士ゴッドアーモン <srw4_unit_mecha_warrior_goddoamon>`\ 
-      | (机械战士阿蒙神)
-      | D0103E25 0000
-      | 80103E25 2455
-      | グランゾン
-      | D0103E61 0000
-      | 80103E61 245B
-      | ウィーゾル改
-      | D0103E9D 0000
-      | 80103E9D 245C
-      | ノルス·レイ
-      | D0103ED9 0000
-      | 80103ED9 2528
-      | ガラバ(ハイパー可)
-      | D0103F15 0000
-      | 80103F15 24E6
-      | \ :ref:`グラシドゥ＝リュ <srw4_unit_grassidow_ryu>`\ 
-      | (古拉西德·琉)
-      | D0103F51 0000
-      | 80103F51 24C4
-      | \ :ref:`メカ戦士ギメリア <srw4_unit_mecha_warrior_gimeria>`\ 
-      | (机械战士基梅利亚)
-      | D0103F8D 0000
-      | 80103F8D 24DB
-      | | ExSガンダム
-      | D0103FC9 0000
-      | 80103FC9 2524
-      | レプラカーン(ハイパー可)
-      | D0104005 0000
-      | 80104005 248C
-      | ビギナ・ギナ
-      | D0104041 0000
-      | 80104041 2504
-      | \ :ref:`Gディフェンサー <srw4_unit_g_defender>`\ 
-      | (G-防卫号)
 
     .. grid-item-card:: \ :ref:`ヒュッケバイン <srw4_unit_huckebein>`\ 
       :columns: auto
@@ -2806,20 +5981,20 @@
       :columns: auto  
 
       | 30046383 002B
-      | ﾒｶﾞﾏｼﾝｷｬﾉﾝ→
+      | メガマシンキャノン→
       | フィンファンネル
 
     .. grid-item-card:: \ :ref:`NT-1アレックス <srw4_unit_nt_1_alex>`\ 
       :columns: auto 
 
       | 300463B4 002B
-      | ガトリングガン
-      | →フィンファンネル
+      | ガトリングガン→
+      | フィンファンネル
 
     .. grid-item-card:: \ :ref:`GP-01Fb <srw4_unit_gp_01fb>`\ 
       :columns: auto
 
-      | 300463E2 0D4A
+      | 800463E2 0D4A
       | ビームガン
       | →ビット
 
@@ -2835,12 +6010,13 @@
       | バルカン
       | (GP-02A)
       | 30046448 002F
-      | マイクロミサイル (M)	
-      | →アトミックバズ－カ (M)
-      | 800494D7 0D4A
-      | 80046473 0D4A
+      | マイクロミサイル 
+      | アトミックバズ－カ 
       | 8004643F 0D4A
-      | フォ－ルディングバズ－カ
+      | 80046473 0D4A
+      | 800494D7 0D4A
+      | フォ－ルディング
+      | バズ－カ
       | →ビット      
 
     .. grid-item-card:: \ :ref:`ガンキャノン <srw4_unit_gun_cannon>`\ 
@@ -2848,14 +6024,14 @@
 
       | 8004649E 0D4A
       | ２４０ミリキャノン
-      | ビット
+      | →ビット
 
     .. grid-item-card:: \ :ref:`ガンタンク <srw4_unit_gun_tank>`\ 
       :columns: auto
 
       | 800464C3 054A
-      | １２０ミリキャノン→      
-      | ビット
+      | １２０ミリキャノン      
+      | →ビット
 
 
     .. grid-item-card:: \ :ref:`ボール <srw4_unit_ball>`\ 
@@ -2870,22 +6046,22 @@
       :columns: auto  
 
       | 80046516 094A
-      | ビームライフル→
-      | ビット
+      | ビームライフル
+      | →ビット
 
     .. grid-item-card:: \ :ref:`GM III <srw4_unit_gm_iii>`\ 
       :columns: auto
 
       | 80046578 114A
-      | ミサイルランチャ－→
-      | ビット
+      | ミサイルランチャ－
+      | →ビット
 
     .. grid-item-card:: \ :ref:`ジェガン <srw4_unit_jegan>`\ 
       :columns: auto
 
       | 80046544 0D4A
-      | 小型ミサイル→
-      | ビット
+      | 小型ミサイル
+      | →ビット
 
     .. grid-item-card:: \ :ref:`リ·ガズィ <srw4_unit_ri_gazi_ma>`\ 
       :columns: auto
@@ -2905,11 +6081,11 @@
       | ビームキャノン
       | →ビット
       | 8004659D 001F
-      | ﾒｶﾞﾋﾞｰﾑｷｬﾉﾝ	→
-      | ﾊｲﾊﾟｰﾒｶﾞﾗﾝﾁｬｰ
+      | メガビ－ムキャノン️	→
+      | ハイパ－メガランチャ－️
       | 800465D1 0D4A
-      | ｸﾞﾚﾈｰﾄﾞﾗﾝﾁｬｰ
-      | →ビット（エルメス）
+      | グレネ－ドランチャ－
+      | →ビット
     
     .. grid-item-card:: \ :ref:`マジンガーZ <srw4_unit_mazinger_z>`\ 
       :columns: auto
@@ -2947,8 +6123,8 @@
       | 300467BF 00B4
       | 限界→180
       | 300467C8 0035
-      | ｼｮﾙﾀﾞｰﾌﾞｰﾒﾗﾝ
-      | →マイクロミサイル⚔🗺️	
+      | ショルダ－ブ－メラン
+      | →マイクロミサイル
 
     .. grid-item-card:: \ :ref:`スペイザー <srw4_unit_spacer>`\  
       :columns: auto
@@ -2982,8 +6158,8 @@
       | 300468AE 00B4
       | 限界→180
       | 300468B7 0035
-      | ｼｮﾙﾀﾞｰﾌﾞｰﾒﾗﾝ
-      | →マイクロミサイル⚔🗺️	
+      | ショルダ－ブ－メラン
+      | →マイクロミサイル
 
     .. grid-item-card:: グレンダイザー （DS)	
       :columns: auto
@@ -2991,8 +6167,8 @@
       | 300468EB 00B4
       | 限界→180
       | 300468F4 0035
-      | ｼｮﾙﾀﾞｰﾌﾞｰﾒﾗﾝ
-      | →マイクロミサイル⚔🗺️	
+      | ショルダ－ブ－メラン
+      | →マイクロミサイル
 
     .. grid-item-card:: グレンダイザー （MS)	
       :columns: auto
@@ -3000,8 +6176,8 @@
       | 30046928 00B4
       | 限界→180
       | 30046931 0035
-      | ｼｮﾙﾀﾞｰﾌﾞｰﾒﾗﾝ
-      | →マイクロミサイル⚔🗺️	
+      | ショルダ－ブ－メラン
+      | →マイクロミサイル
 
 
     .. grid-item-card:: アフロダイA
@@ -3095,20 +6271,27 @@
       | 80046E2D 0000
       | 乘换機動戦士系
 
+    .. grid-item-card:: ダンク－ガ
+      :columns: auto
+
+      | 30046E75 0001
+      | 移动空陆
+
+
     .. grid-item-card:: サイバスター
       :columns: auto
 
       | 80047107 0000
       | 乘换機動戦士系
       | 80047123 011E
-      | ディスカッター
-      | →ｸﾞﾗﾝﾜｰﾑｿｰﾄﾞ
+      | ディスカッター→
+      | グランワ－ムソ－ド
       | 80047126 051F
       | カロリックミサイル
       | →グラビトロンカノン
       | 8004712C 0921
-      | ハイファミリア
-      | →ブラックホ－ルクラスタ－
+      | ハイファミリア→
+      | ブラックホ－ルクラスタ－
       | 8004712F 0D1C   
 
     .. grid-item-card:: サイバード
@@ -3121,11 +6304,11 @@
       | 8004714D 4444
       | 地形适应全A
       | 80047157 051F
-      | カロリックミサイル
-      | →グラビトロンカノン
+      | カロリックミサイル→
+      | グラビトロンカノン
       | 8004715D 0921
-      | ハイファミリア
-      | →ブラックホ－ルクラスタ－
+      | ハイファミリア→
+      | ブラックホ－ルクラスタ－
 
     .. grid-item-card:: グランゾン
       :columns: auto
@@ -3197,8 +6380,8 @@
       | ブラスナックル
       | 弹药槽再编号
       | 800472D6 0939
-      | イビルアイ
-      | →ニュートロンビーム
+      | イビルアイ→
+      | ニュートロンビーム
 
     .. grid-item-card:: \ :ref:`ガディフォール <srw4_unit_gadifal>`\ 
       :columns: auto
@@ -3212,12 +6395,11 @@
       | ギガソートカノン
       | →ブラスナックル
       | 80047301 0939
-      | ビームキャノン
-      | →ニュートロンビーム
+      | ビームキャノン→
+      | ニュートロンビーム
 
     .. grid-item-card:: \ :ref:`ゲシュペンスト（リアル） <srw4_unit_gespenst_real>`\ 
       :columns: auto
-
 
       | 30047321 0001
       | 移动空陆
@@ -3266,8 +6448,8 @@
 
       | 8004755B 094A
       | 80047583 094A
-      | フェダ－インライフル️→
-      | ビット
+      | フェダ－インライフル️
+      | →ビット
 
     .. grid-item-card:: \ :ref:`バウンド·ドック (MS) <srw4_unit_baund_doc_ms>`\ 
       :columns: auto
@@ -3281,11 +6463,11 @@
 
       | 30047654 00FD
       | バルカン→
-      | ﾒｶﾞ拡散ﾋﾞｰﾑ砲
+      | メガ拡散ビ－ム砲️
       | （サイコガンダム Mk-II）
       | 30047657 0058
       | ビームサーベル→
-      | ｻｲｺﾐｭ式ﾋﾞｰﾑｿｰﾄ
+      | サイコミュ式ビ－ムソ－ド
       | （サイコガンダム Mk-II）
       | 3004765A 00FE
       | ビームライフル→
@@ -3300,8 +6482,8 @@
 
       | 3004768B 004A
       | 300476B3 004A
-      | アームビームガン→
-      | ビット
+      | アームビームガン
+      | →ビット
 
     .. grid-item-card:: \ :ref:`ブラウ·ブロ <srw4_unit_braw_bro>`\ 
       :columns: auto 
@@ -3331,7 +6513,7 @@
       | (キュベレイ)
       | 800477C4 0D6C
       | 小型ミサイルランチャ－
-      | ファンネル
+      | →ファンネル
 
 
     .. grid-item-card:: \ :ref:`キュベレイ <srw4_unit_qubeley>`\ 
@@ -3426,8 +6608,8 @@
       | →バルカン
       | (Sガンダム)
       | 300487D1 0081
-      | メインメガ粒子砲
-      | →ビ－ムスマ－トガン️
+      | メインメガ粒子砲→
+      | ビ－ムスマ－トガン️
       | (Sガンダム)
       | 300487D4 0082
       | サブメガ粒子砲
@@ -3511,7 +6693,6 @@
       | 移动类型空陆
       | 800489CD 4444
       | 地形适应 A
-
 
     .. grid-item-card:: \ :ref:`オージェ <srw4_unit_auger>`\ 	
       :columns: auto
@@ -3601,7 +6782,7 @@
       | 地形适应 A
       | 80048FB2 0C35
       | ハイパーバズーカ→
-      | マイクロミサイル (Map)
+      | マイクロミサイル 
       | 80048FB5 114A
       | ミサイルランチャ－
       | →ビット
@@ -3626,7 +6807,7 @@
       | 限界/运动性
       | 80048FE0 116b
       | メガカノン砲
-      | +残弹槽
+      | 残弹槽设置
 
     .. grid-item-card:: \ :ref:`サーバイン <srw4_unit_sirbine>`\ 
       :columns: auto       
@@ -3672,8 +6853,8 @@
       :columns: auto  
 
       | 8004912F 067E
-      | セイバー
-      | → ギガブラスター
+      | セイバー→ 
+      | ギガブラスター
       | 80049132 09E3
       | Ｓマイン
       | 弹药槽再编号
@@ -3749,7 +6930,7 @@
       | 80049499 4040
       | 地形适应 空A宇A
 
-
+.. _srw4_cheat_pilots_ps_end:
 
 ^^^^^^^^^^^^^^^^^^^^^
 武器修改
@@ -3758,72 +6939,17 @@
 
 武器数据的格式参考\ :ref:`武器修改 <srw4_weapon_cheat>`。
 
+.. _srw4_cheat_weapon_ps_begin:
+
 .. grid::
-
-    .. grid-item-card:: 追加武器1
-      :columns: auto
-
-      | E01046FC 0000
-      | 301046FC 0001
-      | ツインランサー
-      | Ｖレーザー
-      | ビッグブラスト
-      | ·ディバイダー
-
-    .. grid-item-card:: 追加武器2
-      :columns: auto
-      
-      | E01046FD 0000
-      | 301046FD 0086
-      | イオン砲
-      | アトミック
-      | ·バズーカ
-      | グランダッシャー      
-
-    .. grid-item-card:: 追加武器3
-      :columns: auto
-
-      | E01046FE 0000
-      | 301046FE 001A
-      | ダイモシャフト
-      | ドリルアンカー
-      | 烈風正拳突き改
-      | ゴッドボイス
-      | ゴーガンソード
-      | エネルギー
-      | カッター      
-
-    .. grid-item-card:: 追加武器4
-      :columns: auto
-      
-      | E01046FF 0000
-      | 301046FF 0030
-      | 計都羅喉剣
-      | ·暗剣殺
-      | ブラックホール
-      | ·キャノン
-
-    .. grid-item-card:: 每机武器数量
-      :columns: auto
-
-      | 游戏本身武器数量设置错误
-      | 以至于一些武器
-      | 在特定加入顺序时
-      | 无法改造
-      | DuckStation版
-      | 53000050 003c0000 
-      | 31102F9E 0024
-      | 因为会造成挂起
-      | 只在过关时开启然后存盘
-      | 关闭之后再读盘。
-
+  
     .. grid-item-card::  フィンファンネル
       :columns: auto 
 
       | 3004EFCC 0008
       | 弹数→8
 
-    .. grid-item-card::  マイクロミサイル🗺️
+    .. grid-item-card::  マイクロミサイル
       :columns: auto 
 
       | 3004F06C 0010
@@ -3908,8 +7034,6 @@
       | 8004FD79 0402
       | 射程2~4
 
-
-
     .. grid-item-card::  ハイファミリア
       :columns: auto 
       
@@ -3929,7 +7053,7 @@
       | 台词→
       | フィンファンネル
       | 80050195 08FC
-      | 伤害->2300
+      | 伤害→2300
       | 3005019A 0009
       | 射程→9
 
@@ -3940,7 +7064,7 @@
       | 台词→
       | フィンファンネル
       | 80050265 08FC
-      | 伤害->2300
+      | 伤害→2300
       | 3005026A 0009
       | 射程→9
 
@@ -3951,7 +7075,7 @@
       | 弹数→30
       | 30050C8A 0005
       | 射程→5
-      | 30050C81  000F
+      | 30050C81 000F
       | →Ⓟ
 
     .. grid-item-card::  パワーランチャー
@@ -3970,10 +7094,14 @@
       | 3005141B 00FF
       | 地形适应
 
+.. _srw4_cheat_weapon_ps_end:
+
 ^^^^^^^^^^^^^^^^^
 芯片修改
 ^^^^^^^^^^^^^^^^^
 .. _srw4_items_cheat_ps:
+
+.. _srw4_cheat_chip_ps_begin: 
 
 .. grid::
 
@@ -3981,11 +7109,11 @@
       :columns: auto
       
       | 8010721C 1E08
-      | 移+8 运+30
+      | 移8 运30
       | 8010721E 003F
-      | 限+63 甲+100
+      | 限63 甲100
       | 8010729C 1388
-      | HP +5000 
+      | HP5000 
       | 3010729E 0004
       | 光线护壁
 
@@ -3993,11 +7121,11 @@
       :columns: auto
 
       | 80107220 1208 
-      | 移+8 运+18
+      | 移8 运18
       | 80107222 0A14      
-      | 限+20 甲+100
+      | 限20 甲100
       | 801072a0 01F4 
-      | HP +500
+      | HP500
       | 301072a2 0004
       | 光线护壁
 
@@ -4005,11 +7133,11 @@
       :columns: auto
 
       | 80107224 120C
-      | 移+12 运+18
+      | 移12 运18
       | 80107226 0A14
-      | 限+20 甲+100
+      | 限20 甲100
       | 801072a4 01F4 
-      | HP +500
+      | HP500
       | 301072a6 0004
       | 光线护壁
 
@@ -4017,11 +7145,11 @@
       :columns: auto
 
       | 80107228 1210
-      | 移+16 运+18
+      | 移16 运18
       | 8010722A 0A14
-      | 限+20 甲+100
+      | 限20 甲100
       | 801072a8 01F4
-      | HP +500 
+      | HP500 
       | 301072aa 0004
       | 光线护壁
 
@@ -4029,11 +7157,11 @@
       :columns: auto
 
       | 8010722C 170C
-      | 移+12 运+23
+      | 移12 运23
       | 8010722E 1014
-      | 限+20 甲+100
+      | 限20 甲100
       | 801072aC 01F4
-      | HP +500 
+      | HP500 
       | 301072aE 0004
       | 光线护壁
 
@@ -4042,11 +7170,11 @@
       :columns: auto
 
       | 80107230 2410
-      | 移+16 运+36
+      | 移16 运36
       | 80107232 0A28
-      | 限+40 甲+100
+      | 限40 甲100
       | 801072b0 01F4
-      | HP +500 
+      | HP500 
       | 301072b2 0004
       | 光线护壁
 
@@ -4054,11 +7182,11 @@
       :columns: auto
 
       | 80107234 1E08
-      | 移+8 运+30
+      | 移8 运30
       | 80107236 0A28
-      | 限+40 甲+100
+      | 限40 甲100
       | 801072b4 01F4
-      | HP +500 
+      | HP500 
       | 301072b6 0004
       | 光线护壁 
 
@@ -4066,11 +7194,11 @@
       :columns: auto
 
       | 80107238 1C08
-      | 移+8 运+28
+      | 移8 运28
       | 8010723A 0A32
-      | 限+50 甲+100
+      | 限50 甲100
       | 801072b8 01F4
-      | HP +500 
+      | HP500 
       | 301072bA 0004
       | 光线护壁 
 
@@ -4078,11 +7206,11 @@
       :columns: auto
 
       | 8010723C 1A08
-      | 移+8 运+26
+      | 移8 运26
       | 8010723E 0A23
-      | 限+35 甲+100
+      | 限35 甲100
       | 801072bC 01F4
-      | HP +500 
+      | HP500 
       | 301072bE 0004
       | 光线护壁
 
@@ -4090,11 +7218,11 @@
       :columns: auto
 
       | 80107240 1708
-      | 移+8 运+23
+      | 移8 运23
       | 80107242 0A1E
-      | 限+30 甲+100
+      | 限30 甲100
       | 801072C0 01F4
-      | HP +500
+      | HP500
       | 301072C2 0004
       | 光线护壁
 
@@ -4102,11 +7230,11 @@
       :columns: auto
 
       | 80107244 1208
-      | 移+8 运+18
+      | 移8 运18
       | 80107246 0A14
-      | 限+20 甲+100
+      | 限20 甲100
       | 801072C4 01F4
-      | HP +500
+      | HP500
       | 301072C6 0004
       | 光线护壁      
 
@@ -4114,11 +7242,11 @@
       :columns: auto
 
       | 80107248 1208
-      | 移+8 运+18
+      | 移8 运18
       | 8010724A 6428
-      | 限+40 甲+1000
+      | 限40 甲1000
       | 801072c8 07d0
-      | HP+2000
+      | HP2000
       | 301072cA 0004
       | 光线护壁   
 
@@ -4126,11 +7254,11 @@
       :columns: auto
 
       | 8010724C 1208
-      | 移+8 运+18
+      | 移8 运18
       | 8010724E 9628
-      | 限+40 甲+1500
+      | 限40 甲1500
       | 801072cC 0fa0
-      | HP+4000
+      | HP4000
       | 301072cE 0004
       | 光线护壁  
 
@@ -4138,11 +7266,11 @@
       :columns: auto
 
       | 80107250 1208
-      | 移+8 运+18
+      | 移8 运18
       | 80107252 9628
-      | 限+40 甲+1500
+      | 限40 甲1500
       | 801072D0 01F4
-      | HP+500
+      | HP500
       | 301072D2 0004
       | 光线护壁  
 
@@ -4150,11 +7278,11 @@
       :columns: auto
 
       | 80107254 1208
-      | 移+8 运+18
+      | 移8 运18
       | 80107256 9628
-      | 限+40 甲+1500
+      | 限40 甲1500
       | 801072D4 01F4
-      | HP+500
+      | HP500
       | 301072D6 0004
       | 光线护壁  
 
@@ -4162,11 +7290,11 @@
       :columns: auto
 
       | 80107258 1208
-      | 移+8 运+18
+      | 移8 运18
       | 8010725A 9628
-      | 限+40 甲+1500
+      | 限40 甲1500
       | 801072D8 01F4
-      | HP+500
+      | HP500
       | 301072DA 0004
       | 光线护壁  
 
@@ -4174,11 +7302,11 @@
       :columns: auto
 
       | 8010725C 1208
-      | 移+8 运+18
+      | 移8 运18
       | 8010725E 9628
-      | 限+40 甲+1500
+      | 限40 甲1500
       | 801072DC 01F4
-      | HP+500
+      | HP500
       | 301072DE 0004
       | 光线护壁  
 
@@ -4186,11 +7314,11 @@
       :columns: auto
 
       | 80107260 1208
-      | 移+8 运+18
+      | 移8 运18
       | 80107262 9628
-      | 限+40 甲+1500
+      | 限40 甲1500
       | 801072e0 01F4
-      | HP+500
+      | HP500
       | 301072e2 0004
       | 光线护壁  
 
@@ -4198,14 +7326,15 @@
       :columns: auto
 
       | 80107264 1208
-      | 移+8 运+18
+      | 移8 运18
       | 80107266 9628
-      | 限+40 甲+1500
+      | 限40 甲1500
       | 801072E4 01F4
-      | HP+500
+      | HP500
       | 301072E6 0004
       | 光线护壁  
 
+.. _srw4_cheat_chip_ps_end: 
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 机体特殊技能修改
@@ -4213,6 +7342,8 @@
 .. _srw4_unit_specialty_cheat_ps:
 
 如果你需要添加自己的修改，可以参考\ :ref:`机体特殊技能数据据格式 <srw4_unit_specialty>`\ 。
+
+.. _srw4_cheat_unit_specialty_ps_begin:
 
 """""""""""""""""""""""""""""
 機動戦士变形
@@ -4391,17 +7522,17 @@
       | ショットランサー
       | →ﾒｶﾞ拡散ﾋﾞｰﾑ
       | 80047B8A 058B
-      | ﾒｶﾞ拡散ﾋﾞｰﾑ砲
+      | メガ拡散ビ－ム砲️
       | →バグ
-      | 80047B8d  0208
-      | ﾒｶﾞﾋﾞｰﾑｷｬﾉﾝ
-      | →ﾒｶﾞﾋﾞｰﾑﾗﾝﾁｬｰ
+      | 80047B8d 0208
+      | メガビ－ムキャノン️
+      | →メガビ－ムランチャ－️
       | 80047B90 09fd
       | バグ→
-      | ﾒｶﾞ拡散ﾋﾞｰﾑ砲
+      | メガ拡散ビ－ム砲️
       | 80047B93 0D8A 
       | メガ粒子砲
-      | →ﾒｶﾞﾋﾞｰﾑｷｬﾉﾝ
+      | →メガビ－ムキャノン️
       
     .. grid-item-card:: Sガンダム变形 
       :columns: auto
@@ -4664,7 +7795,6 @@
       | 30046766 00A8
       | 可被合体
       
-  
 """""""""""""""""""""""""""""
 二段变身
 """""""""""""""""""""""""""""
@@ -5168,7 +8298,7 @@
     .. grid-item-card:: ゲシュペンスト Mk-II      
       :columns: auto
 
-      | 30048B95 0042   
+      | 30048B95 0042
 
     .. grid-item-card:: アトール
       :columns: auto
@@ -5306,3 +8436,6 @@
       :columns: auto
 
       | 3004948C 00C0
+
+.. _srw4_cheat_unit_specialty_ps_end:
+
