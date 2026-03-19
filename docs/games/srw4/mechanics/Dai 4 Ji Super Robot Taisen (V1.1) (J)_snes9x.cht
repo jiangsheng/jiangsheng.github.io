@@ -199,372 +199,362 @@ cheat
 
 cheat
   name: 机师修改\エル·フィノ
-  code: CB7364=12+CB7365=01+CB7368=0E+CB7369=01+CB736C=08+CB736D=01
-  comments: 根性→激励+信頼→覚醒+隠れ身→気合
+  code: CB7361=12+CB7362=01+CB7365=0E+CB7366=01+CB7369=08+CB736A=01
+  comments: 根性→激励+足かせ/信頼→覚醒+隠れ身→気合
 
 cheat
-  name: 机师修改\隼人
-  code: CB743E=0D+CB743F=01
+  name: 机师修改\神隼人
+  code: CB7434=0D+CB7435=01
   comments: 幸運→Lv1
 
 cheat
   name: 机师修改\真吾
-  code: CB7471=20
-  comments: 乘换機動戦士系
-
-cheat
-  name: 机师修改\レミー島田
-  code: CB7493=B0
-  comments: 乘换機動戦士系
-
-cheat
-  name: 机师修改\キリー
-  code: CB74B3=10
+  code: CB7465=20
   comments: 乘换機動戦士系
 
 cheat
   name: 机师修改\沙羅
-  code: CB756A=0D+CB756B=01
+  code: CB7557=0D+CB7558=01
   comments: 幸運 LV25→1
 
 cheat
-  name: 机师修改\南原ちづる
-  code: CB7630=0D+CB7631=01
+  name: 机师修改\南原ちずる
+  code: CB7617=0D+CB7618=01
   comments: 幸運 LV25→1
 
 cheat
   name: 机师修改\マサキ
-  code: CB76B3=30
+  code: CB7686=30
   comments: 乘换機動戦士系
 
 cheat
-  name: 机师修改\リューネ
-  code: CB76D3=B0
+  name: 机师修改\リュ－ネ
+  code: CB76A5=B0
   comments: 乘换機動戦士系
 
 cheat
   name: 机师修改\シュウ
-  code: CB76F3=10+CB7702=0D+CB7703=01
+  code: CB76C4=10+CB76D3=0D+CB76D4=01
   comments: 乘换機動戦士系+幸運→lv1
 
 cheat
   name: 机师修改\ブライト
-  code: CB7745=10+CB774B=44+CB774C=44+CB775A=18+CB775B=01
+  code: CB7706=10+CB770C=44+CB770D=44+CB771B=18+CB771C=01
   comments: 乘换可+地形适应+偵察→探索
 
 cheat
   name: 机师修改\マチルダ
-  code: CB779B=44+CB779C=44+CB77A6=12+CB77A7=01+CB77AE=3E+CB77AF=01
+  code: CB7759=44+CB775A=44+CB7764=12+CB7765=01+CB776C=3E+CB776D=01
   comments: 地形适应+根性→激励+激励→+ニュータイプ
 
 cheat
   name: 机师修改\セイラ
-  code: CB77BB=44+CB77BC=44+CB77BD=6B+CB77BE=76+CB77BF=7E+CB77C0=70+CB77C1=59+CB77C2=55+CB77C3=50+CB77C4=08+CB77C5=00+CB77C6=3E+CB77C7=00
+  code: CB7778=44+CB7779=44+CB777A=6B+CB777B=76+CB777C=7E+CB777D=70+CB777E=59+CB777F=55+CB7780=50+CB7781=08+CB7782=00+CB7783=3E+CB7784=00
   comments: 地形适应+能力+SP值+无→気合+无→+ニュータイプ
 
 cheat
   name: 机师修改\ワッケイン
-  code: CB77D3=44+CB77D4=44+CB77DC=09+CB77DD=00+CB77E0=3E+CB77E1=00
+  code: CB778F=44+CB7790=44+CB7798=09+CB7799=00+CB779C=3E+CB779D=00
   comments: 地形适应+根性→加速+加速→+ニュータイプ
 
 cheat
   name: 机师修改\ティアンム
-  code: CB77ED=44+CB77EE=44+CB77F6=09+CB77F7=00+CB77FA=11+CB77FB=01+CB77FC=3E+CB77FD=00
-  comments: 地形适应+根性→加速+偵察→探索+加速→+ニュータイプ
+  code: CB77A8=44+CB77A9=44+CB77B1=1A+CB77B2=00+CB77B7=3E+CB77B8=00
+  comments: 地形适应+根性→かく乱+かく乱→+ニュータイプ
 
 cheat
   name: 机师修改\エマ
-  code: CB781E=3E+CB781F=01
-  comments: シールド防御Ｌ2+→ニュータイプ
+  code: CB77D8=3E+CB77D9=01
+  comments: シールド防御Ｌ1/2+→ニュータイプ
 
 cheat
   name: 机师修改\トーレス
-  code: CB782D=00+CB783C=09+CB783D=01+CB7840=18+CB7841=01
+  code: CB77DE=00+CB77ED=09+CB77EE=01+CB77F1=18+CB77F2=01
   comments: 乘换可+加速+习得等级→1+偵察→探索
 
 cheat
   name: 机师修改\ファ
-  code: CB7858=0D+CB7859=01+CB7862=3E+CB7863=01
+  code: CB7808=0D+CB7809=01+CB7812=3E+CB7813=01
   comments: 幸運→Lv1+ニュータイプ→Lv1
 
 cheat
   name: 机师修改\カツ
-  code: CB788C=3E+CB788D=01
+  code: CB7835=3E+CB7836=01
   comments: ニュータイプ→Lv1
 
 cheat
-  name: 机师修改\ルー
-  code: CB7952=3E+CB7953=01
+  name: 机师修改\ル－
+  code: CB78E7=3E+CB78E8=01
   comments: ニュータイプ→Lv1
 
 cheat
-  name: 机师修改\ビーチャ
-  code: CB79C2=4E+CB79E0=3E+CB79E1=01
+  name: 机师修改\ビ－チャ
+  code: CB7948=4E+CB7965=3E+CB7966=01
   comments: 颜（獣魔将軍→アキ）+ニュータイプ→Lv1
 
 cheat
   name: 机师修改\モンド
-  code: CB79ED=44+CB79EE=44+CB79FA=0D+CB79FB=00+CB7A02=3E+CB7A03=01
+  code: CB7971=44+CB7972=44+CB797E=0D+CB797F=00+CB7986=3E+CB7987=01
   comments: 地形适应+幸運→Lv1+ニュータイプ→Lv1
 
 cheat
-  name: 机师修改\エル·ビアン
-  code: CB7A06=05+CB7A07=1F+CB7A24=3E+CB7A25=01
+  name: 机师修改\エル·ビアンノ
+  code: CB798A=05+CB798B=1F+CB79A7=3E+CB79A8=01
   comments: 颜（ティターンズ兵士→+イザベル·クロンカイト）+ニュータイプ→Lv1
 
 cheat
   name: 机师修改\イーノ
-  code: CB7A2A=01+CB7A2B=1F+CB7A33=44+CB7A34=44+CB7A35=5B+CB7A36=7A+CB7A37=71+CB7A38=5F+CB7A39=55+CB7A3A=5C+CB7A3B=50+CB7A3C=12+CB7A3D=00+CB7A3E=3E+CB7A3F=00
+  code: CB79AD=01+CB79AE=1F+CB79B5=44+CB79B6=44+CB79B7=5B+CB79B8=7A+CB79B9=71+CB79BA=5F+CB79BB=55+CB79BC=5C+CB79BD=50+CB79BE=12+CB79BF=00+CB79C0=3E+CB79C1=00
   comments: 颜（議員B→+技術者、研究所員）+地形适应+能力+SP值+无→激励+无→+ニュータイプ
 
 cheat
   name: 机师修改\エマリー
-  code: CB7A4B=44+CB7A4C=44+CB7A4D=33+CB7A4E=52+CB7A4F=64+CB7A50=66+CB7A51=65+CB7A52=6D+CB7A53=50+CB7A54=03+CB7A55=00+CB7A56=3E+CB7A57=00
+  code: CB79CC=44+CB79CD=44+CB79CE=33+CB79CF=52+CB79D0=64+CB79D1=66+CB79D2=65+CB79D3=6D+CB79D4=50+CB79D5=03+CB79D6=00+CB79D7=3E+CB79D8=00
   comments: 地形适应+能力+SP值+无→補給+无→+ニュータイプ
 
 cheat
   name: 机师修改\クェス
-  code: CB7A63=44+CB7A64=44
+  code: CB79E3=44+CB79E4=44
   comments: 地形适应
 
 cheat
   name: 机师修改\チェーン
-  code: CB7A93=44+CB7A94=44+CB7A95=33+CB7A96=52+CB7A97=64+CB7A98=66+CB7A99=65+CB7A9A=6D+CB7A9B=50+CB7A9C=03+CB7A9D=00+CB7A9E=3E+CB7A9F=00
+  code: CB7A04=44+CB7A05=44+CB7A06=33+CB7A07=52+CB7A08=64+CB7A09=66+CB7A0A=65+CB7A0B=6D+CB7A0C=50+CB7A0D=03+CB7A0E=00+CB7A0F=3E+CB7A10=00
   comments: 地形适应+能力+SP值+无→補給+无→+ニュータイプ
 
 cheat
   name: 机师修改\ケーラ
-  code: CB7AAB=44+CB7AAC=44+CB7AC0=3E+CB7AC1=00
-  comments: 地形适应+シールド防御Ｌ4+→ニュータイプ
+  code: CB7A1B=44+CB7A1C=44+CB7A30=3E+CB7A31=00
+  comments: 地形适应+シールド防御Ｌ2/4+→ニュータイプ
 
 cheat
   name: 机师修改\ハサウェイ
-  code: CB7AD5=44+CB7AD6=44
+  code: CB7A3C=44+CB7A3D=44
   comments: 地形适应
 
 cheat
   name: 机师修改\クリス
-  code: CB7B16=3E+CB7B17=00
+  code: CB7A72=3E+CB7A73=00
   comments: シールド防御Ｌ1+→ニュータイプ
 
 cheat
   name: 机师修改\バーニィ
-  code: CB7B40=3E+CB7B41=00
-  comments: シールド防御Ｌ3+→ニュータイプ
+  code: CB7A93=3E+CB7A94=00
+  comments: シールド防御Ｌ1/3+→ニュータイプ
 
 cheat
   name: 机师修改\ガトー
-  code: CB7BA8=3E+CB7BA9=01
-  comments: シールド防御Ｌ8+→ニュータイプ
+  code: CB7AEE=3E+CB7AEF=01
+  comments: シールド防御Ｌ3/8+→ニュータイプ
 
 cheat
   name: 机师修改\キース
-  code: CB7BB7=44+CB7BB8=44+CB7BC0=16+CB7BC1=01+CB7BCA=3E+CB7BCB=00
+  code: CB7AFA=44+CB7AFB=44+CB7B03=16+CB7B04=01+CB7B0D=3E+CB7B0E=00
   comments: 地形适应+幸運→脱力+脱力→+ニュータイプ
 
 cheat
   name: 机师修改\モンシア
-  code: CB7BD7=44+CB7BD8=44+CB7BEC=3E+CB7BED=00
+  code: CB7B19=44+CB7B1A=44+CB7B2E=3E+CB7B2F=00
   comments: 地形适应+シールド防御Ｌ2+→ニュータイプ
 
 cheat
   name: 机师修改\さやか
-  code: CB7BF3=A2
+  code: CB7B34=A2
   comments: 乘换ダンバイン系
 
 cheat
   name: 机师修改\ボス
-  code: CB7C35=22+CB7C3B=44+CB7C3C=44
+  code: CB7B74=22+CB7B7A=44+CB7B7B=44
   comments: 乘换ダンバイン系+地形适应
 
 cheat
   name: 机师修改\炎ジュン
-  code: CB7C57=92+CB7C5D=44+CB7C5E=44
+  code: CB7B95=92+CB7B9B=44+CB7B9C=44
   comments: 乘换ダンバイン系+地形适应
 
 cheat
   name: 机师修改\マリア
-  code: CB7C77=B2
+  code: CB7BB4=B2
   comments: 乘换ダンバイン系
 
 cheat
   name: 机师修改\牧場ひかる
-  code: CB7C97=82
+  code: CB7BD3=82
   comments: 乘换ダンバイン系
 
 cheat
   name: 机师修改\ミチル
-  code: CB7CB7=92+CB7CBD=44+CB7CBE=44
+  code: CB7BF2=92+CB7BF8=44+CB7BF9=44
   comments: 乘换ダンバイン系+地形适应
 
 cheat
   name: 机师修改\神宮寺
-  code: CB7CF7=10+CB7CFD=44+CB7CFE=44
+  code: CB7C30=10+CB7C36=44+CB7C37=44
   comments: 乘换機動戦士系+地形适应
 
 cheat
   name: 机师修改\麗
-  code: CB7D17=90+CB7D1D=44+CB7D1E=44
+  code: CB7C4F=90+CB7C55=44+CB7C56=44
   comments: 乘换機動戦士系+地形适应
 
 cheat
   name: 机师修改\マリ
-  code: CB7D37=80+CB7D5D=44+CB7D5E=44
+  code: CB7C6E=80+CB7C74=44+CB7C75=44
   comments: 乘换機動戦士系+地形适应
 
 cheat
   name: 机师修改\コウ
-  code: CB7E31=44+CB7E32=44+CB7E46=3E+CB7E47=01+CB7E3C=0D+CB7E3D=01
-  comments: 地形适应+切り払いＬ2→+ニュータイプ+幸運→Lv1
+  code: CB7D27=44+CB7D28=44+CB7D3C=3E+CB7D3D=01+CB7D32=0D+CB7D33=01
+  comments: 地形适应+切り払いＬ1/2→+ニュータイプ+幸運→Lv1
 
 cheat
   name: 机师修改\甲児
-  code: CB7E5F=32
+  code: CB7D44=32
   comments: 乘换ダンバイン系
 
 cheat
   name: 机师修改\鉄也
-  code: CB7F49=12
+  code: CB7E25=12
   comments: 乘换ダンバイン系
 
 cheat
   name: 机师修改\京四郎
-  code: CB7F6B=10+CB7F71=44+CB7F72=44
+  code: CB7E46=10+CB7E4C=44+CB7E4D=44
   comments: 乘换機動戦士系+地形适应
 
 cheat
   name: 机师修改\ナナ
-  code: CB7F8D=80+CB7F93=44+CB7F94=44
+  code: CB7E67=80+CB7E6D=44+CB7E6E=44
   comments: 乘换機動戦士系+地形适应
 
 cheat
   name: 机师修改\デューク
-  code: CB7FAD=02
+  code: CB7E86=02
   comments: 乘换ダンバイン系
 
 cheat
   name: 机师修改\洸
-  code: CB7FF1=10
+  code: CB7EC8=10
   comments: 乘换機動戦士系
 
 cheat
   name: 机师修改\ニー·ギブン
-  code: CB8036=16+CB8037=00+CB8038=32+CB8039=00
+  code: CB7F02=16+CB7F03=00+CB7F04=32+CB7F05=00
   comments: 根性→脱力+脱力→聖戦士
 
 cheat
   name: 机师修改\キーン
-  code: CB8058=32+CB8059=00
+  code: CB7F23=32+CB7F24=00
   comments: 友情→聖戦士
 
 cheat
   name: 机师修改\シーラ
-  code: CB8065=44+CB8066=44
+  code: CB7F2F=44+CB7F30=44
   comments: 地形适应
 
 cheat
   name: 机师修改\エレ
-  code: CB8085=44+CB8086=44
+  code: CB7F4E=44+CB7F4F=44
   comments: 地形适应
 
 cheat
   name: 机师修改\リムル
-  code: CB80A5=44+CB80A6=44+CB80AE=0E+CB80B8=32+CB80B9=00
+  code: CB7F6D=44+CB7F6E=44+CB7F76=0E+CB7F80=32+CB7F81=00
   comments: 地形适应+探索→覚醒+覚醒→聖戦士
 
 cheat
   name: 机师修改\万丈
-  code: CB80D7=20
+  code: CB7F9D=20
   comments: 乘换機動戦士系
 
 cheat
   name: 机师修改\一矢
-  code: CB80F9=20
+  code: CB7FBE=20
   comments: 乘换機動戦士系
 
 cheat
   name: 机师修改\テュッティ
-  code: CB814F=90
+  code: CB8011=90
   comments: 乘换機動戦士系
 
 cheat
   name: 机师修改\バニング
-  code: CB818D=44+CB818E=44+CB818F=4A+CB8190=4F+CB8191=77+CB8192=71+CB8193=70+CB8194=73+CB8195=50+CB8196=0A+CB8197=00+CB8198=3E+CB8199=00
+  code: CB804D=44+CB804E=44+CB804F=4A+CB8050=4F+CB8051=77+CB8052=71+CB8053=70+CB8054=73+CB8055=50+CB8056=0A+CB8057=00+CB8058=3E+CB8059=00
   comments: 地形适应+能力+SP值+无→熱血+无→+ニュータイプ
 
 cheat
   name: 机师修改\ヤンロン
-  code: CB819F=20
+  code: CB805E=20
   comments: 乘换機動戦士系
 
 cheat
   name: 机师修改\ミオ
-  code: CB81D7=80
+  code: CB8094=80
   comments: 乘换機動戦士系
 
 cheat
   name: 机师修改\モニカ
-  code: CB820F=80
+  code: CB80CA=80
   comments: 乘换機動戦士系
 
 cheat
   name: 机师修改\サフィーネ
-  code: CB822F=B0
+  code: CB80E9=B0
   comments: 乘换機動戦士系
 
 cheat
   name: 机师修改\ララァ
-  code: CB8342=90+CB834B=44+CB834C=44
+  code: CB81F4=90+CB81FC=44+CB81FD=44
   comments: 颜（メキボス→+アンナマリー）+地形适应
 
 cheat
   name: 机师修改\グレミー
-  code: CB85DC=E0
+  code: CB8447=E0
   comments: 颜（テリウス+→シャア）
 
 cheat
   name: 机师修改\ナナイ
-  code: CB86AE=3B+CB86B7=44+CB86B8=44+CB86CA=3E+CB86CB=00
+  code: CB8509=3B+CB8511=44+CB8512=44+CB8524=3E+CB8525=00
   comments: 颜（議長→+ニナ）+地形适应+根性→+ニュータイプ
 
 cheat
   name: 机师修改\レズン
-  code: CB86E2=08+CB86E3=00+CB86EA=3E+CB86EB=00
+  code: CB853B=08+CB853C=00+CB8543=3E+CB8544=00
   comments: 根性→気合+気合→+ニュータイプ
 
 cheat
   name: 机师修改\ゼット
-  code: CB8B42=32+CB8B43=00
-  comments: 切り払いＬ1 1→聖戦士
+  code: CB8942=1C+CB895F=32+CB8960=00
+  comments: 颜（秘書→ハヤト・コバヤシ）+切り払いＬ1 1→聖戦士
 
 cheat
   name: 机师修改\トルストール
-  code: CB8B58=15+CB8B59=00+CB8B62=32+CB8B63=00
+  code: CB8974=15+CB8975=00+CB897E=32+CB897F=00
   comments: 根性→隠れ身+隠れ身→聖戦士
 
 cheat
   name: 机师修改\テリウス
-  code: CB9142=08+CB9143=00+CB9144=0E+CB9145=00
+  code: CB8EAF=08+CB8EB0=00+CB8EB1=0E+CB8EB2=00
   comments: 根性→気合+ド根性→覚醒
 
 cheat
   name: 机师修改\強化兵
-  code: CB9148=FE
+  code: CB8EB5=FE
   comments: 颜(エリート兵+→エリート兵（逆）)
 
 cheat
   name: 机师修改\超人工知能
-  code: CB9182=F3
+  code: CB8EED=F3
   comments: 颜(人工知能改+→Now Printing)
 
 cheat
   name: 机师修改\超级系男主人公
-  code: CB91E6=3E+CB91E7=00
+  code: CB8F45=3E+CB8F46=00
   comments: 切り払いＬ1→+ニュータイプ
 
 cheat
   name: 机师修改\超级系女主人公
-  code: CB922A=3E+CB922B=00
+  code: CB8F7F=3E+CB8F80=00
   comments: 切り払いＬ1→+ニュータイプ
 
 cheat
@@ -608,9 +598,14 @@ cheat
   comments: ビームガン+→ビット
 
 cheat
-  name: 机体修改\GP-03
-  code: CB973C=01+CB973D=44+CB973E=44+CB9756=12+CB9759=2F+CB9750=4A+CB9751=0D+CB9784=4A+CB9785=0D+CBC7E8=4A+CBC7E9=0D
-  comments: 移动空陆+地形适应全A+集中ミサイル→+バルカン+(GP-02A)+マイクロミサイル+アトミックバズ－カ+フォ－ルディング+バズ－カ+→ビット
+  name: 机体修改\GP-03 D
+  code: CB973C=01+CB973D=44+CB973E=44+CB9756=12+CB9759=2F+CB9750=4A+CB9751=0D
+  comments: 移动空陆+地形适应全A+集中ミサイル→+バルカン+(GP-02A)+マイクロミサイル→+アトミックバズ－カ+フォ－ルディング+バズ－カ+→ビット
+
+cheat
+  name: 机体修改\GP-03ステイメン  (后期)
+  code: CB9784=4A+CB9785=0D
+  comments: フォ－ルディング+バズ－カ+→ビット
 
 cheat
   name: 机体修改\ガンキャノン
@@ -643,9 +638,14 @@ cheat
   comments: 小型ミサイル+→ビット
 
 cheat
-  name: 机体修改\リ·ガズィ
-  code: CB9895=08+CB98C0=09+CB98A3=01+CB98A4=44+CB98A5=44+CB98CF=44+CB98D0=44+CB98B1=4A+CB98B2=0D+CB98AE=1F+CB98AF=00+CB98E2=4A+CB98E3=0D
-  comments: リ·ガズィ（MA）→+リ·ガズィ（MS）+リ·ガズィ（MS）→+リ·ガズィ（MA）+移动空陆+地形适应全A+ビームキャノン+→ビット+メガビ－ムキャノン️      →+ハイパ－メガランチャ－️+グレネ－ドランチャ－+→ビット
+  name: 机体修改\リ·ガズィ (MA)
+  code: CB9895=08+CB98A3=01+CB98A4=44+CB98A5=44+CB98AE=1F+CB98AF=00+CB98B1=4A+CB98B2=0D
+  comments: リ·ガズィ（MA）→+リ·ガズィ（MS）+移动空陆+地形适应全A+メガビ－ムキャノン️      →+ハイパ－メガランチャ－️+ビームキャノン+→ビット
+
+cheat
+  name: 机体修改\リ·ガズィ (MS)
+  code: CB98C0=09+CB98CF=44+CB98D0=44+CB98E2=4A+CB98E3=0D
+  comments: リ·ガズィ（MS）→+リ·ガズィ（MA）+地形适应全A+グレネ－ドランチャ－+→ビット
 
 cheat
   name: 机体修改\マジンガーZ
@@ -693,12 +693,12 @@ cheat
   comments: 限界→180+ショルダ－ブ－メラン+→マイクロミサイル
 
 cheat
-  name: 机体修改\グレンダイザー （DS)
+  name: 机体修改\グレンダイザー (DS)
   code: CB9BFC=B4+CB9C05=35
   comments: 限界→180+ショルダ－ブ－メラン+→マイクロミサイル
 
 cheat
-  name: 机体修改\グレンダイザー （MS)
+  name: 机体修改\グレンダイザー (MS)
   code: CB9C39=B4+CB9C42=35
   comments: 限界→180+ショルダ－ブ－メラン+→マイクロミサイル
 
@@ -849,7 +849,7 @@ cheat
 
 cheat
   name: 机体修改\バウンド·ドック (MS)
-  code: CBA8BC=55
+  code: CBA8BC=55+CBA8BD=05
   comments: ビームライフル→+フェダ－インライフル️
 
 cheat
@@ -919,7 +919,7 @@ cheat
 
 cheat
   name: 机体修改\アレキサンドリア
-  code: CBBAD1=01+CBBAD2=44+CBBAD3=44+CBBADC=41+CBBAE2=81+CBBAE5=82
+  code: CBBAD1=01+CBBAD2=44+CBBAD3=44+CBBADC=13+CBBADD=04+CBBAE2=81+CBBAE5=82
   comments: 移动类型空陆+地形适应 A+１２０ミリ機関砲+→バルカン+(Sガンダム)+メインメガ粒子砲→+ビ－ムスマ－トガン️+(Sガンダム)+サブメガ粒子砲+→ビームカノン+(Sガンダム)
 
 cheat
@@ -994,93 +994,98 @@ cheat
 
 cheat
   name: 机体修改\真·ゲッター3
-  code: CBC1E0=73
+  code: CBC1E3=73
   comments: ゲッタ－ミサイル(0277)→+ゲッタ－ミサイル(0273)
 
 cheat
   name: 机体修改\ガイラム
-  code: CBC1E8=06+CBC1EA=ED+CBC206=20+CBC20B=E7
+  code: CBC1EB=06+CBC1ED=ED+CBC209=01+CBC20A=02+CBC20E=E7
   comments: 图标→グライア+图像→グライア+武器数量+パワーランチャー+(ガイラム)→+パワーランチャー+(エルガイム Mk-II)
 
 cheat
   name: 机体修改\ガンダム
-  code: CBC239=4A+CBC23A=0D
+  code: CBC23C=4A+CBC23D=0D
   comments: ハイパーバズーカ+→ビット
 
 cheat
   name: 机体修改\ガンダム Mk-II
-  code: CBC26A=4A+CBC26B=0D
+  code: CBC26D=4A+CBC26E=0D
   comments: ハイパーバズーカ+→ビット
 
 cheat
   name: 机体修改\スーパーガンダム
-  code: CBC2AF=01+CBC2B0=44+CBC2B1=44+CBC2C3=35+CBC2C4=0C+CBC2C6=4A+CBC2C7=11
+  code: CBC2B2=01+CBC2B3=44+CBC2B4=44+CBC2C6=35+CBC2C7=0C+CBC2C9=4A+CBC2CA=11
   comments: 移动类型空陆+地形适应 A+ハイパーバズーカ→+マイクロミサイル+ミサイルランチャ－+→ビット
 
 cheat
   name: 机体修改\Ξガンダム
-  code: CBC2D1=F7+CBC2D3=29+CBC2E5=0F+CBC2E6=01+CBC2E7=44+CBC2E8=44+CBC2E9=93+CBC2EA=63+CBC2EB=F0+CBC2F1=6B+CBC2F2=11
+  code: CBC2D4=F7+CBC2D6=29+CBC2E8=0F+CBC2E9=01+CBC2EA=44+CBC2EB=44+CBC2EC=93+CBC2ED=63+CBC2EE=F0+CBC2F4=6B+CBC2F5=11
   comments: 图标→+スーパーガンダム+图像→+スーパーガンダム+移动类型/力+地形适应 A+装甲+限界/运动性+メガカノン砲+残弹槽设置
 
 cheat
   name: 机体修改\サーバイン
-  code: CBC33F=03+CBC340=01+CBC344=34+CBC345=06
+  code: CBC342=03+CBC343=01+CBC347=34+CBC348=06
   comments: 武器/残弹槽数量+オーラ斬り→+ハイパ－オ－ラキャノン
 
 cheat
   name: 机体修改\ズワウス
-  code: CBC36A=03+CBC36B=01+CBC36F=34+CBC370=06
+  code: CBC36D=03+CBC36E=01+CBC372=34+CBC373=06
   comments: 武器/残弹槽数量+オーラ斬り→+ハイパ－オ－ラキャノン
 
 cheat
   name: 机体修改\ナイチンゲール
-  code: CBC3FB=81+CBC3FD=CA+CBC40F=0F+CBC410=01+CBC411=44+CBC412=44+CBC413=94+CBC414=63+CBC415=F0+CBC419=04+CBC41A=03+CBC41B=7E+CBC41C=06
+  code: CBC3FE=81+CBC400=CA+CBC412=0F+CBC413=01+CBC414=44+CBC415=44+CBC416=94+CBC417=63+CBC418=F0+CBC41C=04+CBC41D=03+CBC41E=7E+CBC41F=06
   comments: 图标→+サザビー+图像→+サザビー+移动类型/力+地形适应 A+装甲+限界/运动性+武器/残弹槽数量+ギガブラスター
 
 cheat
   name: 机体修改\ヌーベルディザード
-  code: CBC440=7E+CBC441=06+CBC443=E3+CBC444=09+CBC446=DD+CBC447=01
+  code: CBC443=7E+CBC444=06+CBC446=E3+CBC447=09+CBC449=DD+CBC44A=01
   comments: セイバー→+ギガブラスター+Ｓマイン+弹药槽再编号+パワーランチャー+→セイバー
 
 cheat
   name: 机体修改\Ζガンダム
-  code: CBC4EC=08+CBC4ED=01+CBC4EF=06+CBC4F0=06
+  code: CBC4EF=08+CBC4F0=01+CBC4F2=06+CBC4F3=06
   comments: ビームサーベルｰ+→突撃+ビームライフルｰ+→ファンネル
 
 cheat
   name: 机体修改\ウェイブライダー
-  code: CBC520=08+CBC521=01+CBC523=06+CBC524=06
+  code: CBC523=08+CBC524=01+CBC526=06+CBC527=06
   comments: ビームガンｰ+→突撃+ビームライフルｰ+→ファンネル
 
 cheat
   name: 机体修改\ZΖガンダム
-  code: CBC551=06+CBC552=0E
+  code: CBC554=06+CBC555=0E
   comments: ダブルキャノンｰ+→ファンネル
 
 cheat
   name: 机体修改\G-フォートレス
-  code: CBC582=06+CBC583=0E
+  code: CBC585=06+CBC586=0E
   comments: ダブルキャノンｰ+→ファンネル
 
 cheat
   name: 机体修改\ボチューン
-  code: CBC725=04+CBC726=02+CBC72A=63
+  code: CBC728=04+CBC729=02+CBC72D=34+CBC72E=06
   comments: 武器/残弹槽数量+オーラバルカン+→ハイパ－オ－ラキャノン
 
 cheat
   name: 机体修改\ドゴス·ギア
-  code: CBC74A=01+CBC74B=40
+  code: CBC74D=01+CBC74E=40+CBC74F=40
   comments: 移动类型空陆+地形适应 空A宇A
 
 cheat
   name: 机体修改\アウドムラ
-  code: CBC77B=01+CBC77C=40+CBC77D=40
+  code: CBC77E=01+CBC77F=40+CBC780=40
   comments: 移动类型空陆+地形适应 空A宇A
 
 cheat
   name: 机体修改\ス－ドリ
-  code: CBC7A9=01+CBC7AA=40+CBC7AB=40
+  code: CBC7AC=01+CBC7AD=40+CBC7AE=40
   comments: 移动类型空陆+地形适应 空A宇A
+
+cheat
+  name: 机体修改\GP-03ステイメン (初期)
+  code: CBC7EB=4A+CBC7EC=0D
+  comments: フォ－ルディング+バズ－カ+→ビット
 
 cheat
   name: 武器修改\フィンファンネル
@@ -1169,7 +1174,7 @@ cheat
 
 cheat
   name: 武器修改\ドリルテンペスト
-  code: CBF56B=FF
+  code: CBF57B=FF
   comments: 地形适应
 
 cheat
@@ -1268,7 +1273,7 @@ cheat
   comments: 移8 运18+限40 甲1500+HP500+光线护壁
 
 cheat
-  name: 机体特殊技能修改\機動戦士变形\GP-03变形
+  name: 机体特殊技能修改\機動戦士变形\GP-02A变形
   code: CB96FF=18+CB972E=19+CB9765=1A+CB9716=08+CB9717=07+CB9745=08+CB9746=07+CB977C=08+CB977D=07+CB9749=04+CB974C=01+CB974F=02+CB9752=05+CB9755=06+CB9758=00+CB975B=03+CB9780=01+CB9783=02+CB9786=05+CB9748=10+CB9751=14+CB9754=18+CB9757=04+CB975A=0C+CB9785=14
   comments: GP-02A → GP-03D+GP-03D → GP-03S+GP-03S → GP-02A+武器/残弹槽数量+GP-03D+武器再编号+GP-03S+武器再编号+GP-03D+弹药槽再编号+GP-03S+弹药槽再编号
 
@@ -1288,7 +1293,7 @@ cheat
   comments: メタス (MS)+→メタス (MA)+メタス (MA)+→ブラウ·ブロ+ブラウ·ブロ→+メタス (MS)+ブラウ·ブロ+武器再编号+ブラウ·ブロ+弾药槽再编号
 
 cheat
-  name: 机体特殊技能修改\機動戦士变形\キュベレイmkII变形
+  name: 机体特殊技能修改\機動戦士变形\キュベレイ Mk-II变形
   code: CBAAB0=18+CBAAE4=19+CBAB0F=1A+CBAAC7=06+CBAAC8=03+CBAAFB=06+CBAAFC=03+CBAB26=06+CBAB27=03+CBAAFF=03+CBAB02=02+CBAB05=04+CBAB2A=03+CBAB2D=02+CBAB30=04+CBAB04=0D+CBAB2F=0D
   comments: ノイエ·ジール+→キュベレイ+キュベレイ+→キュベレイmkII+キュベレイmkII+→ノイエ·ジール+武器/残弹槽数量+キュベレイ+武器再编号+キュベレイmkII+武器再编号+キュベレイ+弾药槽再编号+キュベレイmkII+弾药槽再编号
 
@@ -1304,7 +1309,7 @@ cheat
 
 cheat
   name: 机体特殊技能修改\機動戦士变形\ネェル·アーガマ变形
-  code: CBBBDD=18+CBBC0E=19+CBBC3C=1A+CBBC25=40+CBBC29=02+CBBC2C=03+CBBC2F=00+CBBC32=01+CBBC57=02+CBBC5A=03+CBBC5D=00+CBBC60=01+CBBC28=0E+CBBC2B=12+CBBC2E=06+CBBC31=0A+CBBC56=0E+CBBC59=12+CBBC5C=06+CBBC5F=0A
+  code: CBBBDD=18+CBBC0E=19+CBBC3C=1A+CBBC25=05+CBBC26=04+CBBC29=02+CBBC2C=03+CBBC2F=00+CBBC32=01+CBBC57=02+CBBC5A=03+CBBC5D=00+CBBC60=01+CBBC28=0E+CBBC2B=12+CBBC2E=06+CBBC31=0A+CBBC56=0E+CBBC59=12+CBBC5C=06+CBBC5F=0A
   comments: ネェル·アーガマ+→エンドラ+エンドラ → サダラーン+ネェル·アーガマ+サダラーン→+ネェル·アーガマ+エンドラ+武器/残弹槽数量+エンドラ+武器再编号+サダラーン+武器再编号+エンドラ+弾药槽再编号+サダラーン+弾药槽再编号
 
 cheat
@@ -1314,7 +1319,7 @@ cheat
 
 cheat
   name: 机体特殊技能修改\重戦机エルガイム变形\ヌーベルディザード变形
-  code: CBC402=08+CBC427=09+CBC419=03+CBC41A=02+CBC43E=03+CBC43F=02
+  code: CBC405=08+CBC42A=09+CBC41C=03+CBC41D=02+CBC441=03+CBC442=02
   comments: ナイチンゲール→+→ヌーベルディザード+ヌーベルディザード+→ニセサイバスター+武器/残弹槽数量
 
 cheat
@@ -1357,8 +1362,9 @@ cheat
   code: CBA3BE=42
 
 cheat
-  name: 机体特殊技能修改\二段变身\アトールV/ゴッドネロス
+  name: 机体特殊技能修改\二段变身\アトールV
   code: CBA3F2=40
+  comments: ゴッドネロス同
 
 cheat
   name: 机体特殊技能修改\二段变身\サイバスター
@@ -1369,7 +1375,7 @@ cheat
   code: CBA451=40
 
 cheat
-  name: 机体特殊技能修改\二段变身\ネオ·グランゾン(真·古兰森)
+  name: 机体特殊技能修改\二段变身\ネオ·グランゾン
   code: CBA4AA=44
 
 cheat
@@ -1420,12 +1426,12 @@ cheat
   code: CBA84F=40
 
 cheat
-  name: 机体特殊技能修改\二段变身\バウンド·ドック
+  name: 机体特殊技能修改\二段变身\バウンド·ドック (MS)
   code: CBA8A2=40
   comments: バウンド·ドック (MS)
 
 cheat
-  name: 机体特殊技能修改\二段变身\サイコガンダム Mk-II
+  name: 机体特殊技能修改\二段变身\サイコガンダム Mk-II (MS)
   code: CBA8F5=64+CBA923=44
 
 cheat
@@ -1467,7 +1473,7 @@ cheat
 
 cheat
   name: 机体特殊技能修改\二段变身\クイン·マンサ
-  code: CBAC6C=44+CBAC81=60
+  code: CBAC6C=44+CBAC81=09+CBAC82=06
 
 cheat
   name: 机体特殊技能修改\二段变身\ドーベンウルフ
@@ -1494,27 +1500,27 @@ cheat
   code: CBADFD=44
 
 cheat
-  name: 机体特殊技能修改\二段变身\メカザウルス·サキ (机械恐龙·萨基)
+  name: 机体特殊技能修改\二段变身\メカザウルス·サキ
   code: CBAEB2=40
 
 cheat
-  name: 机体特殊技能修改\二段变身\メカザウルス·バド(机械恐龙·巴德)
+  name: 机体特殊技能修改\二段变身\メカザウルス·バド
   code: CBAEDA=40
 
 cheat
-  name: 机体特殊技能修改\二段变身\メカザウルス·ザイ(机械恐龙·扎伊)
+  name: 机体特殊技能修改\二段变身\メカザウルス·ザイ
   code: CBAF02=40
 
 cheat
-  name: 机体特殊技能修改\二段变身\機械獣ガラダK７(机械兽镰刀兽K7)
+  name: 机体特殊技能修改\二段变身\機械獣ガラダK７
   code: CBAFD0=40
 
 cheat
-  name: 机体特殊技能修改\二段变身\ラインX1(莱茵X1)
+  name: 机体特殊技能修改\二段变身\ラインX1
   code: CBB023=40
 
 cheat
-  name: 机体特殊技能修改\二段变身\機械獣スパルタンK5(机械兽斯巴达人K5)
+  name: 机体特殊技能修改\二段变身\機械獣スパルタンK5
   code: CBB073=40
 
 cheat
@@ -1526,15 +1532,15 @@ cheat
   code: CBB0F1=40+CBB0FD=01
 
 cheat
-  name: 机体特殊技能修改\二段变身\マザーバーン (圆盘母舰)
+  name: 机体特殊技能修改\二段变身\マザーバーン
   code: CBB1A0=40
 
 cheat
-  name: 机体特殊技能修改\二段变身\円盤獣ギルギル (圆盘兽基鲁基鲁)
+  name: 机体特殊技能修改\二段变身\円盤獣ギルギル
   code: CBB1CB=40+CBB1E0=03+CBB1E1=02
 
 cheat
-  name: 机体特殊技能修改\二段变身\円盤獣ゴスゴス (圆盘兽格斯格斯)
+  name: 机体特殊技能修改\二段变身\円盤獣ゴスゴス
   code: CBB1F6=40
 
 cheat
@@ -1598,7 +1604,7 @@ cheat
   code: CBB570=C6
 
 cheat
-  name: 机体特殊技能修改\二段变身\ガンテ(岩手)
+  name: 机体特殊技能修改\二段变身\ガンテ
   code: CBB5BD=40
 
 cheat
@@ -1701,7 +1707,7 @@ cheat
 
 cheat
   name: 机体特殊技能修改\二段变身\ラー·カイラム
-  code: CBBCA0=10
+  code: CBBC9E=10
 
 cheat
   name: 机体特殊技能修改\二段变身\ザムス·ガル
@@ -1720,7 +1726,7 @@ cheat
   code: CBBE13=40+CBBE28=06+CBBE29=05
 
 cheat
-  name: 机体特殊技能修改\二段变身\バラン＝シュナイル(巴兰·修奈尔)
+  name: 机体特殊技能修改\二段变身\バラン＝シュナイル
   code: CBBE78=40
 
 cheat
@@ -1740,7 +1746,7 @@ cheat
   code: CBC0E3=42
 
 cheat
-  name: 机体特殊技能修改\二段变身\机体F9
+  name: 机体特殊技能修改\二段变身\机体0xF9
   code: CBC117=42
 
 cheat
@@ -1757,81 +1763,81 @@ cheat
 
 cheat
   name: 机体特殊技能修改\二段变身\旧ザク
-  code: CBC2FF=40
+  code: CBC302=40
 
 cheat
   name: 机体特殊技能修改\二段变身\サーバイン
-  code: CBC328=10
+  code: CBC32B=10
 
 cheat
   name: 机体特殊技能修改\二段变身\ズワウス
-  code: CBC353=11
+  code: CBC356=11
 
 cheat
   name: 机体特殊技能修改\二段变身\アッザム
-  code: CBC3AE=40
+  code: CBC3B1=40
 
 cheat
   name: 机体特殊技能修改\二段变身\暗黒大将軍
-  code: CBC454=40
+  code: CBC457=40
 
 cheat
   name: 机体特殊技能修改\二段变身\ハーディアス
-  code: CBC47F=40
+  code: CBC482=40
 
 cheat
   name: 机体特殊技能修改\二段变身\ドレイドウ
-  code: CBC4AA=40
+  code: CBC4AD=40
 
 cheat
   name: 机体特殊技能修改\二段变身\Ｚガンダム
-  code: CBC4D5=60
+  code: CBC4D8=60
 
 cheat
   name: 机体特殊技能修改\二段变身\円盤獣ジンジン
-  code: CBC593=40
+  code: CBC596=40
 
 cheat
   name: 机体特殊技能修改\二段变身\円盤獣デキデキ
-  code: CBC5BE=40
+  code: CBC5C1=40
 
 cheat
   name: 机体特殊技能修改\二段变身\戦闘獣ダンテ
-  code: CBC5E9=40
+  code: CBC5EC=40
 
 cheat
   name: 机体特殊技能修改\二段变身\獣魔将軍
-  code: CBC63C=40
+  code: CBC63F=40
 
 cheat
   name: 机体特殊技能修改\二段变身\グレイドン
-  code: CBC667=40
+  code: CBC66A=40
 
 cheat
   name: 机体特殊技能修改\二段变身\ガルンロール
-  code: CBC692=40+CBC6A7=60
+  code: CBC695=40+CBC6AA=08+CBC6AB=06
 
 cheat
   name: 机体特殊技能修改\二段变身\グライア
-  code: CBC6BD=40
+  code: CBC6C0=40
 
 cheat
   name: 机体特殊技能修改\二段变身\メカザウルス·ズー
-  code: CBC6E5=40
+  code: CBC6E8=40
 
 cheat
   name: 机体特殊技能修改\二段变身\ボチューン
-  code: CBC710=56
+  code: CBC713=56
 
 cheat
   name: 机体特殊技能修改\二段变身\ドゴス·ギア
-  code: CBC73E=C0
+  code: CBC741=C0
 
 cheat
   name: 机体特殊技能修改\二段变身\アウドムラ
-  code: CBC76F=C0
+  code: CBC772=C0
 
 cheat
   name: 机体特殊技能修改\二段变身\スードリ
-  code: CBC79D=C0
+  code: CBC7A0=C0
 

@@ -1140,714 +1140,700 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
     .. grid-item-card:: エル·フィノ
       :columns: auto
 
-      | CB7364=12
-      | CB7365=01
+      | CB7361=12
+      | CB7362=01
       | 根性→激励
-      | CB7368=0E
-      | CB7369=01
-      | 信頼→覚醒
-      | CB736C=08
-      | CB736D=01
+      | CB7365=0E
+      | CB7366=01
+      | 足かせ/信頼→覚醒
+      | CB7369=08
+      | CB736A=01
       | 隠れ身→気合
 
-    .. grid-item-card:: 隼人
+    .. grid-item-card:: 神隼人
       :columns: auto
 
-      | CB743E=0D
-      | CB743F=01
+      | CB7434=0D
+      | CB7435=01
       | 幸運→Lv1
 
     .. grid-item-card:: 真吾
       :columns: auto
 
-      | CB7471=20
-      | 乘换機動戦士系
-
-    .. grid-item-card:: レミー島田
-      :columns: auto
-
-      | CB7493=B0
-      | 乘换機動戦士系
-
-    .. grid-item-card:: キリー
-      :columns: auto
-
-      | CB74B3=10
+      | CB7465=20
       | 乘换機動戦士系
 
     .. grid-item-card:: 沙羅
       :columns: auto
 
-      | CB756A=0D
-      | CB756B=01
+      | CB7557=0D
+      | CB7558=01
       | 幸運 LV25→1
 
-    .. grid-item-card:: 南原ちづる
+    .. grid-item-card:: 南原ちずる
       :columns: auto
 
-      | CB7630=0D
-      | CB7631=01
+      | CB7617=0D
+      | CB7618=01
       | 幸運 LV25→1
 
     .. grid-item-card:: マサキ
       :columns: auto
 
-      | CB76B3=30
+      | CB7686=30
       | 乘换機動戦士系
 
-    .. grid-item-card:: リューネ
+    .. grid-item-card:: リュ－ネ
       :columns: auto
 
-      | CB76D3=B0
+      | CB76A5=B0
       | 乘换機動戦士系
 
     .. grid-item-card:: シュウ
       :columns: auto
 
-      | CB76F3=10
+      | CB76C4=10
       | 乘换機動戦士系
-      | CB7702=0D
-      | CB7703=01
+      | CB76D3=0D
+      | CB76D4=01
       | 幸運→lv1
 
     .. grid-item-card:: ブライト
       :columns: auto
 
-      | CB7745=10
+      | CB7706=10
       | 乘换可
-      | CB774B=44
-      | CB774C=44
+      | CB770C=44
+      | CB770D=44
       | 地形适应
-      | CB775A=18
-      | CB775B=01
+      | CB771B=18
+      | CB771C=01
       | 偵察→探索
 
     .. grid-item-card:: マチルダ
       :columns: auto
 
-      | CB779B=44
-      | CB779C=44
+      | CB7759=44
+      | CB775A=44
       | 地形适应
-      | CB77A6=12
-      | CB77A7=01
+      | CB7764=12
+      | CB7765=01
       | 根性→激励
-      | CB77AE=3E
-      | CB77AF=01
+      | CB776C=3E
+      | CB776D=01
       | 激励→
       | ニュータイプ
 
     .. grid-item-card:: セイラ
       :columns: auto
 
-      | CB77BB=44
-      | CB77BC=44
+      | CB7778=44
+      | CB7779=44
       | 地形适应
-      | CB77BD=6B
-      | CB77BE=76
-      | CB77BF=7E
-      | CB77C0=70
-      | CB77C1=59
-      | CB77C2=55
+      | CB777A=6B
+      | CB777B=76
+      | CB777C=7E
+      | CB777D=70
+      | CB777E=59
+      | CB777F=55
       | 能力
-      | CB77C3=50
+      | CB7780=50
       | SP值
-      | CB77C4=08
-      | CB77C5=00
+      | CB7781=08
+      | CB7782=00
       | 无→気合
-      | CB77C6=3E
-      | CB77C7=00
+      | CB7783=3E
+      | CB7784=00
       | 无→
       | ニュータイプ
 
     .. grid-item-card:: ワッケイン
       :columns: auto
 
-      | CB77D3=44
-      | CB77D4=44
+      | CB778F=44
+      | CB7790=44
       | 地形适应
-      | CB77DC=09
-      | CB77DD=00
+      | CB7798=09
+      | CB7799=00
       | 根性→加速
-      | CB77E0=3E
-      | CB77E1=00
+      | CB779C=3E
+      | CB779D=00
       | 加速→
       | ニュータイプ
 
     .. grid-item-card:: ティアンム
       :columns: auto
 
-      | CB77ED=44
-      | CB77EE=44
+      | CB77A8=44
+      | CB77A9=44
       | 地形适应
-      | CB77F6=09
-      | CB77F7=00
-      | 根性→加速
-      | CB77FA=11
-      | CB77FB=01
-      | 偵察→探索
-      | CB77FC=3E
-      | CB77FD=00
-      | 加速→
+      | CB77B1=1A
+      | CB77B2=00
+      | 根性→かく乱
+      | CB77B7=3E
+      | CB77B8=00
+      | かく乱→
       | ニュータイプ
 
     .. grid-item-card:: エマ
       :columns: auto
 
-      | CB781E=3E
-      | CB781F=01
-      | シールド防御Ｌ2
+      | CB77D8=3E
+      | CB77D9=01
+      | シールド防御Ｌ1/2
       | →ニュータイプ
 
     .. grid-item-card:: トーレス
       :columns: auto
 
-      | CB782D=00
+      | CB77DE=00
       | 乘换可
-      | CB783C=09
-      | CB783D=01
+      | CB77ED=09
+      | CB77EE=01
       | 加速
       | 习得等级→1
-      | CB7840=18
-      | CB7841=01
+      | CB77F1=18
+      | CB77F2=01
       | 偵察→探索
 
     .. grid-item-card:: ファ
       :columns: auto
 
-      | CB7858=0D
-      | CB7859=01
+      | CB7808=0D
+      | CB7809=01
       | 幸運→Lv1
-      | CB7862=3E
-      | CB7863=01
+      | CB7812=3E
+      | CB7813=01
       | ニュータイプ→Lv1
 
     .. grid-item-card:: カツ
       :columns: auto
 
-      | CB788C=3E
-      | CB788D=01
+      | CB7835=3E
+      | CB7836=01
       | ニュータイプ→Lv1
 
-    .. grid-item-card:: ルー
+    .. grid-item-card:: ル－
       :columns: auto
 
-      | CB7952=3E
-      | CB7953=01
+      | CB78E7=3E
+      | CB78E8=01
       | ニュータイプ→Lv1
 
-    .. grid-item-card:: ビーチャ
+    .. grid-item-card:: ビ－チャ
       :columns: auto
 
-      | CB79C2=4E
+      | CB7948=4E
       | 颜（獣魔将軍→アキ）
-      | CB79E0=3E
-      | CB79E1=01
+      | CB7965=3E
+      | CB7966=01
       | ニュータイプ→Lv1
 
     .. grid-item-card:: モンド
       :columns: auto
 
-      | CB79ED=44
-      | CB79EE=44
+      | CB7971=44
+      | CB7972=44
       | 地形适应
-      | CB79FA=0D
-      | CB79FB=00
+      | CB797E=0D
+      | CB797F=00
       | 幸運→Lv1
-      | CB7A02=3E
-      | CB7A03=01
+      | CB7986=3E
+      | CB7987=01
       | ニュータイプ→Lv1
 
-    .. grid-item-card:: エル·ビアン
+    .. grid-item-card:: エル·ビアンノ
       :columns: auto
 
-      | CB7A06=05
-      | CB7A07=1F
+      | CB798A=05
+      | CB798B=1F
       | 颜（ティターンズ兵士→
       | イザベル·クロンカイト）
-      | CB7A24=3E
-      | CB7A25=01
+      | CB79A7=3E
+      | CB79A8=01
       | ニュータイプ→Lv1
 
     .. grid-item-card:: イーノ
       :columns: auto
 
-      | CB7A2A=01
-      | CB7A2B=1F
+      | CB79AD=01
+      | CB79AE=1F
       | 颜（議員B→
       | 技術者、研究所員）
-      | CB7A33=44
-      | CB7A34=44
+      | CB79B5=44
+      | CB79B6=44
       | 地形适应
-      | CB7A35=5B
-      | CB7A36=7A
-      | CB7A37=71
-      | CB7A38=5F
-      | CB7A39=55
-      | CB7A3A=5C
+      | CB79B7=5B
+      | CB79B8=7A
+      | CB79B9=71
+      | CB79BA=5F
+      | CB79BB=55
+      | CB79BC=5C
       | 能力
-      | CB7A3B=50
+      | CB79BD=50
       | SP值
-      | CB7A3C=12
-      | CB7A3D=00
+      | CB79BE=12
+      | CB79BF=00
       | 无→激励
-      | CB7A3E=3E
-      | CB7A3F=00
+      | CB79C0=3E
+      | CB79C1=00
       | 无→
       | ニュータイプ
 
     .. grid-item-card:: エマリー
       :columns: auto
 
-      | CB7A4B=44
-      | CB7A4C=44
+      | CB79CC=44
+      | CB79CD=44
       | 地形适应
-      | CB7A4D=33
-      | CB7A4E=52
-      | CB7A4F=64
-      | CB7A50=66
-      | CB7A51=65
-      | CB7A52=6D
+      | CB79CE=33
+      | CB79CF=52
+      | CB79D0=64
+      | CB79D1=66
+      | CB79D2=65
+      | CB79D3=6D
       | 能力
-      | CB7A53=50
+      | CB79D4=50
       | SP值
-      | CB7A54=03
-      | CB7A55=00
+      | CB79D5=03
+      | CB79D6=00
       | 无→補給
-      | CB7A56=3E
-      | CB7A57=00
+      | CB79D7=3E
+      | CB79D8=00
       | 无→
       | ニュータイプ
 
     .. grid-item-card:: クェス
       :columns: auto
 
-      | CB7A63=44
-      | CB7A64=44
+      | CB79E3=44
+      | CB79E4=44
       | 地形适应
 
     .. grid-item-card:: チェーン
       :columns: auto
 
-      | CB7A93=44
-      | CB7A94=44
+      | CB7A04=44
+      | CB7A05=44
       | 地形适应
-      | CB7A95=33
-      | CB7A96=52
-      | CB7A97=64
-      | CB7A98=66
-      | CB7A99=65
-      | CB7A9A=6D
+      | CB7A06=33
+      | CB7A07=52
+      | CB7A08=64
+      | CB7A09=66
+      | CB7A0A=65
+      | CB7A0B=6D
       | 能力
-      | CB7A9B=50
+      | CB7A0C=50
       | SP值
-      | CB7A9C=03
-      | CB7A9D=00
+      | CB7A0D=03
+      | CB7A0E=00
       | 无→補給
-      | CB7A9E=3E
-      | CB7A9F=00
+      | CB7A0F=3E
+      | CB7A10=00
       | 无→
       | ニュータイプ
 
     .. grid-item-card:: ケーラ
       :columns: auto
 
-      | CB7AAB=44
-      | CB7AAC=44
+      | CB7A1B=44
+      | CB7A1C=44
       | 地形适应
-      | CB7AC0=3E
-      | CB7AC1=00
-      | シールド防御Ｌ4
+      | CB7A30=3E
+      | CB7A31=00
+      | シールド防御Ｌ2/4
       | →ニュータイプ
 
     .. grid-item-card:: ハサウェイ
       :columns: auto
 
-      | CB7AD5=44
-      | CB7AD6=44
+      | CB7A3C=44
+      | CB7A3D=44
       | 地形适应
 
     .. grid-item-card:: クリス
       :columns: auto
 
-      | CB7B16=3E
-      | CB7B17=00
+      | CB7A72=3E
+      | CB7A73=00
       | シールド防御Ｌ1
       | →ニュータイプ
 
     .. grid-item-card:: バーニィ
       :columns: auto
 
-      | CB7B40=3E
-      | CB7B41=00
-      | シールド防御Ｌ3
+      | CB7A93=3E
+      | CB7A94=00
+      | シールド防御Ｌ1/3
       | →ニュータイプ
 
     .. grid-item-card:: ガトー
       :columns: auto
 
-      | CB7BA8=3E
-      | CB7BA9=01
-      | シールド防御Ｌ8
+      | CB7AEE=3E
+      | CB7AEF=01
+      | シールド防御Ｌ3/8
       | →ニュータイプ
 
     .. grid-item-card:: キース
       :columns: auto
 
-      | CB7BB7=44
-      | CB7BB8=44
+      | CB7AFA=44
+      | CB7AFB=44
       | 地形适应
-      | CB7BC0=16
-      | CB7BC1=01
+      | CB7B03=16
+      | CB7B04=01
       | 幸運→脱力
-      | CB7BCA=3E
-      | CB7BCB=00
+      | CB7B0D=3E
+      | CB7B0E=00
       | 脱力→
       | ニュータイプ
 
     .. grid-item-card:: モンシア
       :columns: auto
 
-      | CB7BD7=44
-      | CB7BD8=44
+      | CB7B19=44
+      | CB7B1A=44
       | 地形适应
-      | CB7BEC=3E
-      | CB7BED=00
+      | CB7B2E=3E
+      | CB7B2F=00
       | シールド防御Ｌ2
       | →ニュータイプ
 
     .. grid-item-card:: さやか
       :columns: auto
 
-      | CB7BF3=A2
+      | CB7B34=A2
       | 乘换ダンバイン系
 
     .. grid-item-card:: ボス
       :columns: auto
 
-      | CB7C35=22
+      | CB7B74=22
       | 乘换ダンバイン系
-      | CB7C3B=44
-      | CB7C3C=44
+      | CB7B7A=44
+      | CB7B7B=44
       | 地形适应
 
     .. grid-item-card:: 炎ジュン
       :columns: auto
 
-      | CB7C57=92
+      | CB7B95=92
       | 乘换ダンバイン系
-      | CB7C5D=44
-      | CB7C5E=44
+      | CB7B9B=44
+      | CB7B9C=44
       | 地形适应
 
     .. grid-item-card:: マリア
       :columns: auto
 
-      | CB7C77=B2
+      | CB7BB4=B2
       | 乘换ダンバイン系
 
     .. grid-item-card:: 牧場ひかる
       :columns: auto
 
-      | CB7C97=82
+      | CB7BD3=82
       | 乘换ダンバイン系
 
     .. grid-item-card:: ミチル
       :columns: auto
 
-      | CB7CB7=92
+      | CB7BF2=92
       | 乘换ダンバイン系
-      | CB7CBD=44
-      | CB7CBE=44
+      | CB7BF8=44
+      | CB7BF9=44
       | 地形适应
 
     .. grid-item-card:: 神宮寺
       :columns: auto
 
-      | CB7CF7=10
+      | CB7C30=10
       | 乘换機動戦士系
-      | CB7CFD=44
-      | CB7CFE=44
+      | CB7C36=44
+      | CB7C37=44
       | 地形适应
 
     .. grid-item-card:: 麗
       :columns: auto
 
-      | CB7D17=90
+      | CB7C4F=90
       | 乘换機動戦士系
-      | CB7D1D=44
-      | CB7D1E=44
+      | CB7C55=44
+      | CB7C56=44
       | 地形适应
 
     .. grid-item-card:: マリ
       :columns: auto
 
-      | CB7D37=80
+      | CB7C6E=80
       | 乘换機動戦士系
-      | CB7D5D=44
-      | CB7D5E=44
+      | CB7C74=44
+      | CB7C75=44
       | 地形适应
 
     .. grid-item-card:: コウ
       :columns: auto
 
-      | CB7E31=44
-      | CB7E32=44
+      | CB7D27=44
+      | CB7D28=44
       | 地形适应
-      | CB7E46=3E
-      | CB7E47=01
-      | 切り払いＬ2→
+      | CB7D3C=3E
+      | CB7D3D=01
+      | 切り払いＬ1/2→
       | ニュータイプ
-      | CB7E3C=0D
-      | CB7E3D=01
+      | CB7D32=0D
+      | CB7D33=01
       | 幸運→Lv1
 
     .. grid-item-card:: 甲児
       :columns: auto
 
-      | CB7E5F=32
+      | CB7D44=32
       | 乘换ダンバイン系
 
     .. grid-item-card:: 鉄也
       :columns: auto
 
-      | CB7F49=12
+      | CB7E25=12
       | 乘换ダンバイン系
 
     .. grid-item-card:: 京四郎
       :columns: auto
 
-      | CB7F6B=10
+      | CB7E46=10
       | 乘换機動戦士系
-      | CB7F71=44
-      | CB7F72=44
+      | CB7E4C=44
+      | CB7E4D=44
       | 地形适应
 
     .. grid-item-card:: ナナ
       :columns: auto
 
-      | CB7F8D=80
+      | CB7E67=80
       | 乘换機動戦士系
-      | CB7F93=44
-      | CB7F94=44
+      | CB7E6D=44
+      | CB7E6E=44
       | 地形适应
 
     .. grid-item-card:: デューク
       :columns: auto
 
-      | CB7FAD=02
+      | CB7E86=02
       | 乘换ダンバイン系
 
     .. grid-item-card:: 洸
       :columns: auto
 
-      | CB7FF1=10
+      | CB7EC8=10
       | 乘换機動戦士系
 
     .. grid-item-card:: ニー·ギブン
       :columns: auto
 
-      | CB8036=16
-      | CB8037=00
+      | CB7F02=16
+      | CB7F03=00
       | 根性→脱力
-      | CB8038=32
-      | CB8039=00
+      | CB7F04=32
+      | CB7F05=00
       | 脱力→聖戦士
 
     .. grid-item-card:: キーン
       :columns: auto
 
-      | CB8058=32
-      | CB8059=00
+      | CB7F23=32
+      | CB7F24=00
       | 友情→聖戦士
 
     .. grid-item-card:: シーラ
       :columns: auto
 
-      | CB8065=44
-      | CB8066=44
+      | CB7F2F=44
+      | CB7F30=44
       | 地形适应
 
     .. grid-item-card:: エレ
       :columns: auto
 
-      | CB8085=44
-      | CB8086=44
+      | CB7F4E=44
+      | CB7F4F=44
       | 地形适应
 
     .. grid-item-card:: リムル
       :columns: auto
 
-      | CB80A5=44
-      | CB80A6=44
+      | CB7F6D=44
+      | CB7F6E=44
       | 地形适应
-      | CB80AE=0E
+      | CB7F76=0E
       | 探索→覚醒
-      | CB80B8=32
-      | CB80B9=00
+      | CB7F80=32
+      | CB7F81=00
       | 覚醒→聖戦士
 
     .. grid-item-card:: 万丈
       :columns: auto
 
-      | CB80D7=20
+      | CB7F9D=20
       | 乘换機動戦士系
 
     .. grid-item-card:: 一矢
       :columns: auto
 
-      | CB80F9=20
+      | CB7FBE=20
       | 乘换機動戦士系
 
     .. grid-item-card:: テュッティ
       :columns: auto
 
-      | CB814F=90
+      | CB8011=90
       | 乘换機動戦士系
 
     .. grid-item-card:: バニング
       :columns: auto
 
-      | CB818D=44
-      | CB818E=44
+      | CB804D=44
+      | CB804E=44
       | 地形适应
-      | CB818F=4A
-      | CB8190=4F
-      | CB8191=77
-      | CB8192=71
-      | CB8193=70
-      | CB8194=73
+      | CB804F=4A
+      | CB8050=4F
+      | CB8051=77
+      | CB8052=71
+      | CB8053=70
+      | CB8054=73
       | 能力
-      | CB8195=50
+      | CB8055=50
       | SP值
-      | CB8196=0A
-      | CB8197=00
+      | CB8056=0A
+      | CB8057=00
       | 无→熱血
-      | CB8198=3E
-      | CB8199=00
+      | CB8058=3E
+      | CB8059=00
       | 无→
       | ニュータイプ
 
     .. grid-item-card:: ヤンロン
       :columns: auto
 
-      | CB819F=20
+      | CB805E=20
       | 乘换機動戦士系
 
     .. grid-item-card:: ミオ
       :columns: auto
 
-      | CB81D7=80
+      | CB8094=80
       | 乘换機動戦士系
 
     .. grid-item-card:: モニカ
       :columns: auto
 
-      | CB820F=80
+      | CB80CA=80
       | 乘换機動戦士系
 
     .. grid-item-card:: サフィーネ
       :columns: auto
 
-      | CB822F=B0
+      | CB80E9=B0
       | 乘换機動戦士系
 
     .. grid-item-card:: ララァ
       :columns: auto
 
-      | CB8342=90
+      | CB81F4=90
       | 颜（メキボス→
       | アンナマリー）
-      | CB834B=44
-      | CB834C=44
+      | CB81FC=44
+      | CB81FD=44
       | 地形适应
 
     .. grid-item-card:: グレミー
       :columns: auto
 
-      | CB85DC=E0
+      | CB8447=E0
       | 颜（テリウス
       | →シャア）
 
     .. grid-item-card:: ナナイ
       :columns: auto
 
-      | CB86AE=3B
+      | CB8509=3B
       | 颜（議長→
       | ニナ）
-      | CB86B7=44
-      | CB86B8=44
+      | CB8511=44
+      | CB8512=44
       | 地形适应
-      | CB86CA=3E
-      | CB86CB=00
+      | CB8524=3E
+      | CB8525=00
       | 根性→
       | ニュータイプ
 
     .. grid-item-card:: レズン
       :columns: auto
 
-      | CB86E2=08
-      | CB86E3=00
+      | CB853B=08
+      | CB853C=00
       | 根性→気合
-      | CB86EA=3E
-      | CB86EB=00
+      | CB8543=3E
+      | CB8544=00
       | 気合→
       | ニュータイプ
 
     .. grid-item-card:: ゼット
       :columns: auto
 
-      | 颜（秘書）
-      | CB8B42=32
-      | CB8B43=00
+      | CB8942=1C
+      | 颜（秘書→ハヤト・コバヤシ）
+      | CB895F=32
+      | CB8960=00
       | 切り払いＬ1 1→聖戦士
 
     .. grid-item-card:: トルストール
       :columns: auto
 
-      | CB8B58=15
-      | CB8B59=00
+      | CB8974=15
+      | CB8975=00
       | 根性→隠れ身
-      | CB8B62=32
-      | CB8B63=00
+      | CB897E=32
+      | CB897F=00
       | 隠れ身→聖戦士
 
     .. grid-item-card:: テリウス
       :columns: auto
 
-      | CB9142=08
-      | CB9143=00
+      | CB8EAF=08
+      | CB8EB0=00
       | 根性→気合
-      | CB9144=0E
-      | CB9145=00
+      | CB8EB1=0E
+      | CB8EB2=00
       | ド根性→覚醒
 
     .. grid-item-card:: 強化兵
       :columns: auto
 
-      | CB9148=FE
+      | CB8EB5=FE
       | 颜(エリート兵
       | →エリート兵（逆）)
 
     .. grid-item-card:: 超人工知能
       :columns: auto
 
-      | CB9182=F3
+      | CB8EED=F3
       | 颜(人工知能改
       | →Now Printing)
 
     .. grid-item-card:: 超级系男主人公
       :columns: auto
 
-      | CB91E6=3E
-      | CB91E7=00
+      | CB8F45=3E
+      | CB8F46=00
       | 切り払いＬ1→
       | ニュータイプ
 
     .. grid-item-card:: 超级系女主人公
       :columns: auto
 
-      | CB922A=3E
-      | CB922B=00
+      | CB8F7F=3E
+      | CB8F80=00
       | 切り払いＬ1→
       | ニュータイプ
 
@@ -1949,7 +1935,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | ビームガン
       | →ビット
 
-    .. grid-item-card:: GP-03
+    .. grid-item-card:: GP-03 D
       :columns: auto
 
       | CB973C=01
@@ -1962,14 +1948,19 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | バルカン
       | (GP-02A)
       | CB9759=2F
-      | マイクロミサイル
+      | マイクロミサイル→
       | アトミックバズ－カ
       | CB9750=4A
       | CB9751=0D
+      | フォ－ルディング
+      | バズ－カ
+      | →ビット
+
+    .. grid-item-card:: GP-03ステイメン  (后期)
+      :columns: auto
+
       | CB9784=4A
       | CB9785=0D
-      | CBC7E8=4A
-      | CBC7E9=0D
       | フォ－ルディング
       | バズ－カ
       | →ビット
@@ -2023,30 +2014,35 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | 小型ミサイル
       | →ビット
 
-    .. grid-item-card:: リ·ガズィ
+    .. grid-item-card:: リ·ガズィ (MA)
       :columns: auto
 
       | CB9895=08
       | リ·ガズィ（MA）→
       | リ·ガズィ（MS）
-      | CB98C0=09
-      | リ·ガズィ（MS）→
-      | リ·ガズィ（MA）
       | CB98A3=01
       | 移动空陆
       | CB98A4=44
       | CB98A5=44
-      | CB98CF=44
-      | CB98D0=44
       | 地形适应全A
-      | CB98B1=4A
-      | CB98B2=0D
-      | ビームキャノン
-      | →ビット
       | CB98AE=1F
       | CB98AF=00
       | メガビ－ムキャノン️      →
       | ハイパ－メガランチャ－️
+      | CB98B1=4A
+      | CB98B2=0D
+      | ビームキャノン
+      | →ビット
+
+    .. grid-item-card:: リ·ガズィ (MS)
+      :columns: auto
+
+      | CB98C0=09
+      | リ·ガズィ（MS）→
+      | リ·ガズィ（MA）
+      | CB98CF=44
+      | CB98D0=44
+      | 地形适应全A
       | CB98E2=4A
       | CB98E3=0D
       | グレネ－ドランチャ－
@@ -2134,7 +2130,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | ショルダ－ブ－メラン
       | →マイクロミサイル
 
-    .. grid-item-card:: グレンダイザー （DS)
+    .. grid-item-card:: グレンダイザー (DS)
       :columns: auto
 
       | CB9BFC=B4
@@ -2143,7 +2139,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | ショルダ－ブ－メラン
       | →マイクロミサイル
 
-    .. grid-item-card:: グレンダイザー （MS)
+    .. grid-item-card:: グレンダイザー (MS)
       :columns: auto
 
       | CB9C39=B4
@@ -2475,7 +2471,8 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
     .. grid-item-card:: バウンド·ドック (MS)
       :columns: auto
 
-      | CBA8BC=555
+      | CBA8BC=55
+      | CBA8BD=05
       | ビームライフル→
       | フェダ－インライフル️
 
@@ -2635,7 +2632,8 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | CBBAD2=44
       | CBBAD3=44
       | 地形适应 A
-      | CBBADC=413
+      | CBBADC=13
+      | CBBADD=04
       | １２０ミリ機関砲
       | →バルカン
       | (Sガンダム)
@@ -2777,20 +2775,21 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
     .. grid-item-card:: 真·ゲッター3
       :columns: auto
 
-      | CBC1E0=73
+      | CBC1E3=73
       | ゲッタ－ミサイル(0277)→
       | ゲッタ－ミサイル(0273)
 
     .. grid-item-card:: ガイラム
       :columns: auto
 
-      | CBC1E8=06
+      | CBC1EB=06
       | 图标→グライア
-      | CBC1EA=ED
+      | CBC1ED=ED
       | 图像→グライア
-      | CBC206=201
+      | CBC209=01
+      | CBC20A=02
       | 武器数量
-      | CBC20B=E7
+      | CBC20E=E7
       | パワーランチャー
       | (ガイラム)→
       | パワーランチャー
@@ -2799,201 +2798,212 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
     .. grid-item-card:: ガンダム
       :columns: auto
 
-      | CBC239=4A
-      | CBC23A=0D
+      | CBC23C=4A
+      | CBC23D=0D
       | ハイパーバズーカ
       | →ビット
 
     .. grid-item-card:: ガンダム Mk-II
       :columns: auto
 
-      | CBC26A=4A
-      | CBC26B=0D
+      | CBC26D=4A
+      | CBC26E=0D
       | ハイパーバズーカ
       | →ビット
 
     .. grid-item-card:: スーパーガンダム
       :columns: auto
 
-      | CBC2AF=01
+      | CBC2B2=01
       | 移动类型空陆
-      | CBC2B0=44
-      | CBC2B1=44
+      | CBC2B3=44
+      | CBC2B4=44
       | 地形适应 A
-      | CBC2C3=35
-      | CBC2C4=0C
+      | CBC2C6=35
+      | CBC2C7=0C
       | ハイパーバズーカ→
       | マイクロミサイル
-      | CBC2C6=4A
-      | CBC2C7=11
+      | CBC2C9=4A
+      | CBC2CA=11
       | ミサイルランチャ－
       | →ビット
 
     .. grid-item-card:: Ξガンダム
       :columns: auto
 
-      | CBC2D1=F7
+      | CBC2D4=F7
       | 图标→
       | スーパーガンダム
-      | CBC2D3=29
+      | CBC2D6=29
       | 图像→
       | スーパーガンダム
-      | CBC2E5=0F
-      | CBC2E6=01
+      | CBC2E8=0F
+      | CBC2E9=01
       | 移动类型/力
-      | CBC2E7=44
-      | CBC2E8=44
+      | CBC2EA=44
+      | CBC2EB=44
       | 地形适应 A
-      | CBC2E9=93
+      | CBC2EC=93
       | 装甲
-      | CBC2EA=63
-      | CBC2EB=F0
+      | CBC2ED=63
+      | CBC2EE=F0
       | 限界/运动性
-      | CBC2F1=6B
-      | CBC2F2=11
+      | CBC2F4=6B
+      | CBC2F5=11
       | メガカノン砲
       | 残弹槽设置
 
     .. grid-item-card:: サーバイン
       :columns: auto
 
-      | CBC33F=03
-      | CBC340=01
+      | CBC342=03
+      | CBC343=01
       | 武器/残弹槽数量
-      | CBC344=34
-      | CBC345=06
+      | CBC347=34
+      | CBC348=06
       | オーラ斬り→
       | ハイパ－オ－ラキャノン
 
     .. grid-item-card:: ズワウス
       :columns: auto
 
-      | CBC36A=03
-      | CBC36B=01
+      | CBC36D=03
+      | CBC36E=01
       | 武器/残弹槽数量
-      | CBC36F=34
-      | CBC370=06
+      | CBC372=34
+      | CBC373=06
       | オーラ斬り→
       | ハイパ－オ－ラキャノン
 
     .. grid-item-card:: ナイチンゲール
       :columns: auto
 
-      | CBC3FB=81
+      | CBC3FE=81
       | 图标→
       | サザビー
-      | CBC3FD=CA
+      | CBC400=CA
       | 图像→
       | サザビー
-      | CBC40F=0F
-      | CBC410=01
+      | CBC412=0F
+      | CBC413=01
       | 移动类型/力
-      | CBC411=44
-      | CBC412=44
+      | CBC414=44
+      | CBC415=44
       | 地形适应 A
-      | CBC413=94
+      | CBC416=94
       | 装甲
-      | CBC414=63
-      | CBC415=F0
+      | CBC417=63
+      | CBC418=F0
       | 限界/运动性
-      | CBC419=04
-      | CBC41A=03
+      | CBC41C=04
+      | CBC41D=03
       | 武器/残弹槽数量
-      | CBC41B=7E
-      | CBC41C=06
+      | CBC41E=7E
+      | CBC41F=06
       | ギガブラスター
 
     .. grid-item-card:: ヌーベルディザード
       :columns: auto
 
-      | CBC440=7E
-      | CBC441=06
+      | CBC443=7E
+      | CBC444=06
       | セイバー→
       | ギガブラスター
-      | CBC443=E3
-      | CBC444=09
+      | CBC446=E3
+      | CBC447=09
       | Ｓマイン
       | 弹药槽再编号
-      | CBC446=DD
-      | CBC447=01
+      | CBC449=DD
+      | CBC44A=01
       | パワーランチャー
       | →セイバー
 
     .. grid-item-card:: Ζガンダム
       :columns: auto
 
-      | CBC4EC=08
-      | CBC4ED=01
+      | CBC4EF=08
+      | CBC4F0=01
       | ビームサーベルｰ
       | →突撃
-      | CBC4EF=06
-      | CBC4F0=06
+      | CBC4F2=06
+      | CBC4F3=06
       | ビームライフルｰ
       | →ファンネル
 
     .. grid-item-card:: ウェイブライダー
       :columns: auto
 
-      | CBC520=08
-      | CBC521=01
+      | CBC523=08
+      | CBC524=01
       | ビームガンｰ
       | →突撃
-      | CBC523=06
-      | CBC524=06
+      | CBC526=06
+      | CBC527=06
       | ビームライフルｰ
       | →ファンネル
 
     .. grid-item-card:: ZΖガンダム
       :columns: auto
 
-      | CBC551=06
-      | CBC552=0E
+      | CBC554=06
+      | CBC555=0E
       | ダブルキャノンｰ
       | →ファンネル
 
     .. grid-item-card:: G-フォートレス
       :columns: auto
 
-      | CBC582=06
-      | CBC583=0E
+      | CBC585=06
+      | CBC586=0E
       | ダブルキャノンｰ
       | →ファンネル
 
     .. grid-item-card:: ボチューン
       :columns: auto
 
-      | CBC725=04
-      | CBC726=02
+      | CBC728=04
+      | CBC729=02
       | 武器/残弹槽数量
-      | CBC72A=634
+      | CBC72D=34
+      | CBC72E=06
       | オーラバルカン
       | →ハイパ－オ－ラキャノン
 
     .. grid-item-card:: ドゴス·ギア
       :columns: auto
 
-      | CBC74A=01
+      | CBC74D=01
       | 移动类型空陆
-      | CBC74B=4040
+      | CBC74E=40
+      | CBC74F=40
       | 地形适应 空A宇A
 
     .. grid-item-card:: アウドムラ
       :columns: auto
 
-      | CBC77B=01
+      | CBC77E=01
       | 移动类型空陆
-      | CBC77C=40
-      | CBC77D=40
+      | CBC77F=40
+      | CBC780=40
       | 地形适应 空A宇A
 
     .. grid-item-card:: ス－ドリ
       :columns: auto
 
-      | CBC7A9=01
+      | CBC7AC=01
       | 移动类型空陆
-      | CBC7AA=40
-      | CBC7AB=40
+      | CBC7AD=40
+      | CBC7AE=40
       | 地形适应 空A宇A
+
+    .. grid-item-card:: GP-03ステイメン (初期)
+      :columns: auto
+
+      | CBC7EB=4A
+      | CBC7EC=0D
+      | フォ－ルディング
+      | バズ－カ
+      | →ビット
 
 .. _srw4_cheat_units_snes_end:
 
@@ -3169,7 +3179,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       :columns: auto
 
       | （真·ゲッター2）
-      | CBF56B=FF
+      | CBF57B=FF
       | 地形适应
 
 .. _srw4_cheat_weapons_snes_end:
@@ -3488,7 +3498,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
 
 .. grid::
 
-    .. grid-item-card:: GP-03变形
+    .. grid-item-card:: GP-02A变形
       :columns: auto
 
       | CB96FF=18
@@ -3603,7 +3613,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | ブラウ·ブロ
       | 弾药槽再编号
 
-    .. grid-item-card:: キュベレイmkII变形
+    .. grid-item-card:: キュベレイ Mk-II变形
       :columns: auto
 
       | CBAAB0=18
@@ -3737,7 +3747,8 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | CBBC3C=1A
       | サダラーン→
       | ネェル·アーガマ
-      | CBBC25=405
+      | CBBC25=05
+      | CBBC26=04
       | エンドラ
       | 武器/残弹槽数量
       | CBBC29=02
@@ -3803,16 +3814,16 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
     .. grid-item-card:: ヌーベルディザード变形
       :columns: auto
 
-      | CBC402=08
+      | CBC405=08
       | ナイチンゲール→
       | →ヌーベルディザード
-      | CBC427=09
+      | CBC42A=09
       | ヌーベルディザード
       | →ニセサイバスター
-      | CBC419=03
-      | CBC41A=02
-      | CBC43E=03
-      | CBC43F=02
+      | CBC41C=03
+      | CBC41D=02
+      | CBC441=03
+      | CBC442=02
       | 武器/残弹槽数量
 
 """"""""""""""
@@ -3981,10 +3992,11 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
 
       | CBA3BE=42
 
-    .. grid-item-card:: アトールV/ゴッドネロス
+    .. grid-item-card:: アトールV
       :columns: auto
 
       | CBA3F2=40
+      | ゴッドネロス同
 
     .. grid-item-card:: サイバスター
       :columns: auto
@@ -3996,7 +4008,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
 
       | CBA451=40
 
-    .. grid-item-card:: ネオ·グランゾン(真·古兰森)
+    .. grid-item-card:: ネオ·グランゾン
       :columns: auto
 
       | CBA4AA=44
@@ -4064,13 +4076,13 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
 
       | CBA84F=40
 
-    .. grid-item-card:: バウンド·ドック
+    .. grid-item-card:: バウンド·ドック (MS)
       :columns: auto
 
       | CBA8A2=40
       | バウンド·ドック (MS)
 
-    .. grid-item-card:: サイコガンダム Mk-II
+    .. grid-item-card:: サイコガンダム Mk-II (MS)
       :columns: auto
 
       | CBA8F5=64
@@ -4133,7 +4145,8 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       :columns: auto
 
       | CBAC6C=44
-      | CBAC81=609
+      | CBAC81=09
+      | CBAC82=06
 
     .. grid-item-card:: ドーベンウルフ
       :columns: auto
@@ -4165,32 +4178,32 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
 
       | CBADFD=44
 
-    .. grid-item-card:: メカザウルス·サキ (机械恐龙·萨基)
+    .. grid-item-card:: メカザウルス·サキ
       :columns: auto
 
       | CBAEB2=40
 
-    .. grid-item-card:: メカザウルス·バド(机械恐龙·巴德)
+    .. grid-item-card:: メカザウルス·バド
       :columns: auto
 
       | CBAEDA=40
 
-    .. grid-item-card:: メカザウルス·ザイ(机械恐龙·扎伊)
+    .. grid-item-card:: メカザウルス·ザイ
       :columns: auto
 
       | CBAF02=40
 
-    .. grid-item-card:: 機械獣ガラダK７(机械兽镰刀兽K7)
+    .. grid-item-card:: 機械獣ガラダK７
       :columns: auto
 
       | CBAFD0=40
 
-    .. grid-item-card:: ラインX1(莱茵X1)
+    .. grid-item-card:: ラインX1
       :columns: auto
 
       | CBB023=40
 
-    .. grid-item-card:: 機械獣スパルタンK5(机械兽斯巴达人K5)
+    .. grid-item-card:: 機械獣スパルタンK5
       :columns: auto
 
       | CBB073=40
@@ -4206,19 +4219,19 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | CBB0F1=40
       | CBB0FD=01
 
-    .. grid-item-card:: マザーバーン (圆盘母舰)
+    .. grid-item-card:: マザーバーン
       :columns: auto
 
       | CBB1A0=40
 
-    .. grid-item-card:: 円盤獣ギルギル (圆盘兽基鲁基鲁)
+    .. grid-item-card:: 円盤獣ギルギル
       :columns: auto
 
       | CBB1CB=40
       | CBB1E0=03
       | CBB1E1=02
 
-    .. grid-item-card:: 円盤獣ゴスゴス (圆盘兽格斯格斯)
+    .. grid-item-card:: 円盤獣ゴスゴス
       :columns: auto
 
       | CBB1F6=40
@@ -4304,7 +4317,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
 
       | CBB570=C6
 
-    .. grid-item-card:: ガンテ(岩手)
+    .. grid-item-card:: ガンテ
       :columns: auto
 
       | CBB5BD=40
@@ -4437,7 +4450,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
     .. grid-item-card:: ラー·カイラム
       :columns: auto
 
-      | CBBCA0=10
+      | CBBC9E=10
 
     .. grid-item-card:: ザムス·ガル
       :columns: auto
@@ -4463,7 +4476,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | CBBE28=06
       | CBBE29=05
 
-    .. grid-item-card:: バラン＝シュナイル(巴兰·修奈尔)
+    .. grid-item-card:: バラン＝シュナイル
       :columns: auto
 
       | CBBE78=40
@@ -4488,7 +4501,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
 
       | CBC0E3=42
 
-    .. grid-item-card:: 机体F9
+    .. grid-item-card:: 机体0xF9
       :columns: auto
 
       | CBC117=42
@@ -4512,103 +4525,104 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
     .. grid-item-card:: 旧ザク
       :columns: auto
 
-      | CBC2FF=40
+      | CBC302=40
 
     .. grid-item-card:: サーバイン
       :columns: auto
 
-      | CBC328=10
+      | CBC32B=10
 
     .. grid-item-card:: ズワウス
       :columns: auto
 
-      | CBC353=11
+      | CBC356=11
 
     .. grid-item-card:: アッザム
       :columns: auto
 
-      | CBC3AE=40
+      | CBC3B1=40
 
     .. grid-item-card:: 暗黒大将軍
       :columns: auto
 
-      | CBC454=40
+      | CBC457=40
 
     .. grid-item-card:: ハーディアス
       :columns: auto
 
-      | CBC47F=40
+      | CBC482=40
 
     .. grid-item-card:: ドレイドウ
       :columns: auto
 
-      | CBC4AA=40
+      | CBC4AD=40
 
     .. grid-item-card:: Ｚガンダム
       :columns: auto
 
-      | CBC4D5=60
+      | CBC4D8=60
 
     .. grid-item-card:: 円盤獣ジンジン
       :columns: auto
 
-      | CBC593=40
+      | CBC596=40
 
     .. grid-item-card:: 円盤獣デキデキ
       :columns: auto
 
-      | CBC5BE=40
+      | CBC5C1=40
 
     .. grid-item-card:: 戦闘獣ダンテ
       :columns: auto
 
-      | CBC5E9=40
+      | CBC5EC=40
 
     .. grid-item-card:: 獣魔将軍
       :columns: auto
 
-      | CBC63C=40
+      | CBC63F=40
 
     .. grid-item-card:: グレイドン
       :columns: auto
 
-      | CBC667=40
+      | CBC66A=40
 
     .. grid-item-card:: ガルンロール
       :columns: auto
 
-      | CBC692=40
-      | CBC6A7=608
+      | CBC695=40
+      | CBC6AA=08
+      | CBC6AB=06
 
     .. grid-item-card:: グライア
       :columns: auto
 
-      | CBC6BD=40
+      | CBC6C0=40
 
     .. grid-item-card:: メカザウルス·ズー
       :columns: auto
 
-      | CBC6E5=40
+      | CBC6E8=40
 
     .. grid-item-card:: ボチューン
       :columns: auto
 
-      | CBC710=56
+      | CBC713=56
 
     .. grid-item-card:: ドゴス·ギア
       :columns: auto
 
-      | CBC73E=C0
+      | CBC741=C0
 
     .. grid-item-card:: アウドムラ
       :columns: auto
 
-      | CBC76F=C0
+      | CBC772=C0
 
     .. grid-item-card:: スードリ
       :columns: auto
 
-      | CBC79D=C0
+      | CBC7A0=C0
 
 .. _srw4_cheat_unit_specialty_snes_end:      
 
@@ -5308,12 +5322,12 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | 8004AB52 0112
       | 根性→激励
       | 8004AB56 010E
-      | 信頼→覚醒
+      | 足かせ/信頼→覚醒
       | 8004AB5A 0108
       | 隠れ身→気合
 
 
-    .. grid-item-card:: 隼人
+    .. grid-item-card:: 神隼人
       :columns: auto
 
       | 8004AC2C 010D
@@ -5326,25 +5340,13 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | 3004AC5F 0020
       | 乘换機動戦士系
 
-    .. grid-item-card:: レミー島田	
-      :columns: auto
-
-      | 3004AC81 00B0
-      | 乘换機動戦士系
-
-    .. grid-item-card:: キリー
-      :columns: auto
-
-      | 3004ACA1 0010
-      | 乘换機動戦士系
-
     .. grid-item-card:: 沙羅
       :columns: auto
 
       | 8004AD58 010D
       | 幸運 LV25→1
     
-    .. grid-item-card:: 南原ちづる
+    .. grid-item-card:: 南原ちずる
       :columns: auto
 
       | 8004AE1E 010D
@@ -5356,7 +5358,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | 3004AEA1 0030
       | 乘换機動戦士系
 
-    .. grid-item-card:: リューネ
+    .. grid-item-card:: リュ－ネ
       :columns: auto
 
       | 3004AEC1 00B0
@@ -5425,19 +5427,17 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
 
       | 8004AFDB 4444
       | 地形适应
-      | 8004AFE4 0009      
-      | 根性→加速
-      | 8004AFE8 0111
-      | 偵察→探索
+      | 8004AFE4 001A    
+      | 根性→かく乱
       | 8004AFEA 003E
-      | 加速→
+      | かく乱→
       | ニュータイプ
 
     .. grid-item-card:: エマ
       :columns: auto
 
       | 8004B00C 013E
-      | シールド防御Ｌ2
+      | シールド防御Ｌ1/2
       | →ニュータイプ
 
     .. grid-item-card:: トーレス
@@ -5465,13 +5465,13 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | 8004B07A 013E
       | ニュータイプ→Lv1
 
-    .. grid-item-card:: ルー
+    .. grid-item-card:: ル－
       :columns: auto
 
       | 8004B140 013E
       | ニュータイプ→Lv1
 
-    .. grid-item-card:: ビーチャ
+    .. grid-item-card:: ビ－チャ
       :columns: auto
 
       | 3004B1B0 004E
@@ -5489,7 +5489,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | 8004B1F0 013E
       | ニュータイプ→Lv1
 
-    .. grid-item-card:: エル·ビアン
+    .. grid-item-card:: エル·ビアンノ
       :columns: auto
 
       | 8004B1F4 1f05
@@ -5564,7 +5564,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | 8004B299 4444
       | 地形适应
       | 8004B2AE 003E
-      | シールド防御Ｌ4
+      | シールド防御Ｌ2/4
       | →ニュータイプ
 
     .. grid-item-card:: ハサウェイ
@@ -5584,7 +5584,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       :columns: auto
 
       | 8004B32E 003E
-      | シールド防御Ｌ3
+      | シールド防御Ｌ1/3
       | →ニュータイプ
 
 
@@ -5592,7 +5592,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       :columns: auto
 
       | 8004B396 013E
-      | シールド防御Ｌ8
+      | シールド防御Ｌ3/8
       | →ニュータイプ
 
     .. grid-item-card:: キース
@@ -5678,7 +5678,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
 
       | 3004B525 0080
       | 乘换機動戦士系 
-      | 8004B54B 4444
+      | 8004B52B 4444
       | 地形适应
 
     .. grid-item-card:: コウ
@@ -5687,7 +5687,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | 8004B61F 4444
       | 地形适应
       | 8004B634 013E
-      | 切り払いＬ2→
+      | 切り払いＬ1/2→
       | ニュータイプ
       | 8004B62A 010D
       | 幸運→Lv1
@@ -5868,7 +5868,8 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
     .. grid-item-card:: ゼット
       :columns: auto
 
-      | 颜（秘書）
+      | 3004C312 001C
+      | 颜（秘書→ハヤト・コバヤシ）
       | 8004C330 0032
       | 切り払いＬ1 1→聖戦士
 
@@ -5998,7 +5999,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | ビームガン
       | →ビット
 
-    .. grid-item-card:: \ :ref:`GP-03 <srw4_unit_gp_03_dendrobium>`\ 
+    .. grid-item-card:: \ :ref:`GP-03 D<srw4_unit_gp_03_dendrobium>`\ 
       :columns: auto
 
       | 3004642B 0001 
@@ -6010,14 +6011,20 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | バルカン
       | (GP-02A)
       | 30046448 002F
-      | マイクロミサイル 
+      | マイクロミサイル→ 
       | アトミックバズ－カ 
       | 8004643F 0D4A
-      | 80046473 0D4A
-      | 800494D7 0D4A
       | フォ－ルディング
       | バズ－カ
       | →ビット      
+
+    .. grid-item-card:: \ :ref:`GP-03ステイメン  (后期) <srw4_unit_gp_03_staymen_final>`\
+      :columns: auto
+
+      | 80046473 0D4A
+      | フォ－ルディング
+      | バズ－カ
+      | →ビット 
 
     .. grid-item-card:: \ :ref:`ガンキャノン <srw4_unit_gun_cannon>`\ 
       :columns: auto
@@ -6063,30 +6070,35 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | 小型ミサイル
       | →ビット
 
-    .. grid-item-card:: \ :ref:`リ·ガズィ <srw4_unit_ri_gazi_ma>`\ 
+    .. grid-item-card:: \ :ref:`リ·ガズィ (MA) <srw4_unit_ri_gazi_ma>`\ 
       :columns: auto
 
       | 30046584 0008
       | リ·ガズィ（MA）→
       | リ·ガズィ（MS）
-      | 300465AF 0009
-      | リ·ガズィ（MS）→
-      | リ·ガズィ（MA）
       | 30046592 0001
       | 移动空陆
       | 80046593 4444
-      | 800465BE 4444
       | 地形适应全A
-      | 800465A0 0D4A
-      | ビームキャノン
-      | →ビット
       | 8004659D 001F
       | メガビ－ムキャノン️	→
       | ハイパ－メガランチャ－️
+      | 800465A0 0D4A
+      | ビームキャノン
+      | →ビット
+
+    .. grid-item-card:: \ :ref:`リ·ガズィ (MS) <srw4_unit_ri_gazi_ms>`\ 
+      :columns: auto
+
+      | 300465AF 0009
+      | リ·ガズィ（MS）→
+      | リ·ガズィ（MA）
+      | 800465BE 4444
+      | 地形适应全A
       | 800465D1 0D4A
       | グレネ－ドランチャ－
       | →ビット
-    
+
     .. grid-item-card:: \ :ref:`マジンガーZ <srw4_unit_mazinger_z>`\ 
       :columns: auto
 
@@ -6152,7 +6164,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | 8004686D 0200
       | 乘换ダンバイン系
 
-    .. grid-item-card:: グレンダイザー (WS)	
+    .. grid-item-card:: グレンダイザー (WS)
       :columns: auto
 
       | 300468AE 00B4
@@ -6161,7 +6173,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | ショルダ－ブ－メラン
       | →マイクロミサイル
 
-    .. grid-item-card:: グレンダイザー （DS)	
+    .. grid-item-card:: グレンダイザー (DS)
       :columns: auto
 
       | 300468EB 00B4
@@ -6170,7 +6182,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | ショルダ－ブ－メラン
       | →マイクロミサイル
 
-    .. grid-item-card:: グレンダイザー （MS)	
+    .. grid-item-card:: グレンダイザー (MS)	
       :columns: auto
 
       | 30046928 00B4
@@ -6454,7 +6466,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
     .. grid-item-card:: \ :ref:`バウンド·ドック (MS) <srw4_unit_baund_doc_ms>`\ 
       :columns: auto
 
-      | 300475AB 0555
+      | 800475AB 0555
       | ビームライフル→ 
       | フェダ－インライフル️
 
@@ -6603,7 +6615,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | 移动类型空陆
       | 800487C1 4444 
       | 地形适应 A
-      | 300487CB 0413
+      | 800487CB 0413
       | １２０ミリ機関砲
       | →バルカン
       | (Sガンダム)
@@ -6750,7 +6762,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | 图标→グライア
       | 30048ED9 00ED
       | 图像→グライア
-      | 30048EF5 0201
+      | 80048EF5 0201
       | 武器数量
       | 30048EFA 00E7
       | パワーランチャー
@@ -6902,7 +6914,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
 
       | 80049414 0204
       | 武器/残弹槽数量
-      | 30049419 0634
+      | 80049419 0634
       | オーラバルカン
       | →ハイパ－オ－ラキャノン
 
@@ -6911,7 +6923,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
 
       | 30049439 0001
       | 移动类型空陆
-      | 3004943A 4040
+      | 8004943A 4040
       | 地形适应 空A宇A
 
     .. grid-item-card:: アウドムラ
@@ -6929,6 +6941,15 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | 移动类型空陆
       | 80049499 4040
       | 地形适应 空A宇A
+
+    .. grid-item-card:: \ :ref:`GP-03ステイメン (初期) <srw4_unit_gp_03_staymen_first>`\ 
+      :columns: auto 
+
+      | 800494D7 0D4A
+      | フォ－ルディング
+      | バズ－カ
+      | →ビット    
+
 
 .. _srw4_cheat_pilots_ps_end:
 
@@ -7352,7 +7373,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
 
 .. grid::  
 
-    .. grid-item-card:: GP-03变形
+    .. grid-item-card:: GP-02A变形
       :columns: auto
 
       | 300463EE 0018
@@ -7459,7 +7480,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | ブラウ·ブロ
       | 弾药槽再编号
 
-    .. grid-item-card:: キュベレイmkII变形  
+    .. grid-item-card:: キュベレイ Mk-II变形  
       :columns: auto
 
       | 3004779F 0018
@@ -7574,7 +7595,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | 3004892B 001A
       | サダラーン→
       | ネェル·アーガマ
-      | 30048914 0405
+      | 80048914 0405
       | エンドラ
       | 武器/残弹槽数量      
       | 30048918 0002
@@ -7811,10 +7832,11 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
 
       | 300470AD 0042
 
-    .. grid-item-card:: アトールV/ゴッドネロス
+    .. grid-item-card:: アトールV
       :columns: auto
-
+      
       | 300470E1 0040
+      | ゴッドネロス同
 
     .. grid-item-card:: サイバスター
       :columns: auto
@@ -7826,7 +7848,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
 
       | 30047140 0040
 
-    .. grid-item-card::  \ :ref:`ネオ·グランゾン <srw4_unit_neo_granzon>`\ (真·古兰森)
+    .. grid-item-card::  \ :ref:`ネオ·グランゾン <srw4_unit_neo_granzon>`\ 
       :columns: auto
 
       | 30047199 0044
@@ -7895,14 +7917,14 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
 
       | 3004753E 0040
 
-    .. grid-item-card:: バウンド·ドック
+    .. grid-item-card:: バウンド·ドック (MS)
       :columns: auto
 
       | 30047591 0040
       | バウンド·ドック (MS)
 
 
-    .. grid-item-card:: サイコガンダム Mk-II
+    .. grid-item-card:: サイコガンダム Mk-II (MS)
       :columns: auto
 
       | 300475E4 0064
@@ -7963,7 +7985,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       :columns: auto
 
       | 3004795B 0044
-      | 30047970 0609
+      | 80047970 0609
 
 
     .. grid-item-card:: ドーベンウルフ
@@ -7997,32 +8019,32 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
 
       | 30047AEC 0044
 
-    .. grid-item-card:: \ :ref:`メカザウルス·サキ <srw4_unit_mechasaurus_saki>`\  (机械恐龙·萨基)
+    .. grid-item-card:: \ :ref:`メカザウルス·サキ <srw4_unit_mechasaurus_saki>`\ 
       :columns: auto
 
       | 30047BA1 0040 
 
-    .. grid-item-card:: \ :ref:`メカザウルス·バド <srw4_unit_mechasaurus_bado>`\ (机械恐龙·巴德)
+    .. grid-item-card:: \ :ref:`メカザウルス·バド <srw4_unit_mechasaurus_bado>`\ 
       :columns: auto
 
       | 30047BC9 0040
 
-    .. grid-item-card:: \ :ref:`メカザウルス·ザイ <srw4_unit_mechasaurus_zai>`\ (机械恐龙·扎伊)
+    .. grid-item-card:: \ :ref:`メカザウルス·ザイ <srw4_unit_mechasaurus_zai>`\
       :columns: auto
 
       | 30047BF1 0040
 
-    .. grid-item-card:: \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\ (机械兽镰刀兽K7)
+    .. grid-item-card:: \ :ref:`機械獣ガラダK７ <srw4_unit_mechanical_beast_garada_k7>`\
       :columns: auto
 
       | 30047CBF 0040
 
-    .. grid-item-card:: \ :ref:`ラインX1 <srw4_unit_rhine_x1>`\ (莱茵X1)
+    .. grid-item-card:: \ :ref:`ラインX1 <srw4_unit_rhine_x1>`\ 
       :columns: auto
 
       | 30047D12 0040
 
-    .. grid-item-card:: \ :ref:`機械獣スパルタンK5 <srw4_unit_mechanical_beast_spartan_k5>`\ (机械兽斯巴达人K5)
+    .. grid-item-card:: \ :ref:`機械獣スパルタンK5 <srw4_unit_mechanical_beast_spartan_k5>`\
       :columns: auto
 
       | 30047D62 0040
@@ -8038,18 +8060,18 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | 30047DE0 0040
       | 30047DEC 0001
 
-    .. grid-item-card:: \ :ref:`マザーバーン <srw4_unit_mother_burn>`\  (圆盘母舰)
+    .. grid-item-card:: \ :ref:`マザーバーン <srw4_unit_mother_burn>`\ 
       :columns: auto
 
       | 30047E8F 0040
 
-    .. grid-item-card:: \ :ref:`円盤獣ギルギル <srw4_unit_saucer_beast_girugiru>`\  (圆盘兽基鲁基鲁)
+    .. grid-item-card:: \ :ref:`円盤獣ギルギル <srw4_unit_saucer_beast_girugiru>`\  
       :columns: auto
 
       | 30047EBA 0040
       | 80047ECF 0203
       
-    .. grid-item-card:: \ :ref:`円盤獣ゴスゴス <srw4_unit_saucer_beast_gosgos>`\  (圆盘兽格斯格斯)
+    .. grid-item-card:: \ :ref:`円盤獣ゴスゴス <srw4_unit_saucer_beast_gosgos>`\ 
       :columns: auto
 
       | 30047EE5 0040
@@ -8132,7 +8154,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
 
       | 3004825F 00C6
 
-    .. grid-item-card:: ガンテ(岩手)
+    .. grid-item-card:: ガンテ
       :columns: auto
 
       | 300482AC 0040
@@ -8266,7 +8288,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
     .. grid-item-card:: ラー·カイラム
       :columns: auto
 
-      | 3004898F 0010
+      | 3004898D 0010
 
     .. grid-item-card:: ザムス·ガル
       :columns: auto
@@ -8290,7 +8312,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       | 30048B02 0040
       | 80048B17 0506
 
-    .. grid-item-card:: \ :ref:`バラン＝シュナイル <srw4_unit_baran_schnile>`\ (巴兰·修奈尔)
+    .. grid-item-card:: \ :ref:`バラン＝シュナイル <srw4_unit_baran_schnile>`\ 
       :columns: auto      
       
       | 30048B67 0040
@@ -8315,7 +8337,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
 
       | 30048DD2 0042
 
-    .. grid-item-card:: 机体F9
+    .. grid-item-card:: 机体0xF9
       :columns: auto
 
       | 30048E06 0042
@@ -8405,7 +8427,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
       :columns: auto
 
       | 30049381 0040
-      | 30049396 0608
+      | 80049396 0608
 
     .. grid-item-card:: グライア
       :columns: auto
