@@ -1240,7 +1240,7 @@ Gディフェンサー(G-防卫号)
 
 因为\ :doc:`../walkthrough/28_new_dc`\ 之后会被废弃的原因不建议改造。废弃也不会返还资金所以还是提前主动废弃好一点。
  
-陆A比高达要强，但是空B的阿姆罗还是去开同时加入的\ :ref:`リ·ガズィ (MA) <srw4_unit_ri_gazi_ma>`\ (灵格斯BWS着装型)好一点。
+陆A比高达要强，但是空B的阿姆罗还是去开同时加入的\ :ref:`リ·ガズィ（MA） <srw4_unit_ri_gazi_ma>`\ (灵格斯BWS着装型)好一点。
 
 .. _srw4_unit_nemo_commentEnd:
 

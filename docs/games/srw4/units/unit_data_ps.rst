@@ -424,7 +424,7 @@
    * - 16
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_16_B.png
-     - \ :ref:`リ·ガズィ (MA) <srw4_unit_ri_gazi_ma>`\ (灵格斯BWS着装型)
+     - \ :ref:`リ·ガズィ（MA） <srw4_unit_ri_gazi_ma>`\ (灵格斯BWS着装型)
      - Ri Gazi (MA)
      - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 2500
@@ -445,7 +445,7 @@
    * - 17
      - 自
      - .. image:: ../units/images/icon/srw4_units_icon_17_B.png
-     - \ :ref:`リ·ガズィ (MS) <srw4_unit_ri_gazi_ms>`\ (灵格斯)⚔🛡
+     - \ :ref:`リ·ガズィ（MS） <srw4_unit_ri_gazi_ms>`\ (灵格斯)⚔🛡
      - Ri Gazi (MS)
      - :ref:`逆襲のシャア <srw4_units_mobile_suit_gundam_char_s_counterattack>`
      - 2400

@@ -153,7 +153,7 @@ Activation = EndFrame
 无法改造
 DuckStation版
 53000050 003c0000
-31102F9E 0024
+31102F9E 0058
 因为会造成挂起
 只在过关时开启然后存盘
 关闭之后再读盘。
@@ -648,8 +648,7 @@ Activation = EndFrame
 3004B01B 0000
 乘换可
 8004B02A 0109
-加速
-习得等级→1
+加速→Lv1
 8004B02E 0118
 偵察→探索
 [机师修改\ファ]
@@ -1020,7 +1019,7 @@ Activation = EndFrame
 3004C312 001C
 颜（秘書→ハヤト・コバヤシ）
 8004C330 0032
-切り払いＬ1 1→聖戦士
+切り払いＬ1→聖戦士
 [机师修改\トルストール]
 Type = Gameshark
 Activation = EndFrame
@@ -1065,14 +1064,14 @@ Activation = EndFrame
 80046264 0000
 乘换機動戦士系
 30046275 0001
-移动空陆
+移动类型空陆
 80046276 4444
 地形适应全A
 80046280 064F
 ６０ミリバルカン
 →ブーストナックル
 30046283 0050
-プラズマソ－ド
+プラズマソード
 →オメガレーザー
 30046289 0053
 ロシュセイバ－→
@@ -1085,14 +1084,14 @@ Activation = EndFrame
 800462AE 4444
 地形适应全A
 300462BB 004D
-オメガレーザー→
+オメガレ－ザ－→
 リープスラッシャー
 [机体修改\ウイングガスト]
 Type = Gameshark
 Activation = EndFrame
 800462D1 0000
 乘换機動戦士系
-8004630E 4444
+800462E3 4444
 地形适应全A
 [机体修改\ガストランダー]
 Type = Gameshark
@@ -1123,25 +1122,24 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 800463E2 0D4A
-ビームガン
+ビ－ムガン️
 →ビット
 [机体修改\GP-03 D]
 Type = Gameshark
 Activation = EndFrame
 3004642B 0001
-移动空陆
+移动类型空陆
 8004642C 4444
 地形适应全A
 30046445 0012
-集中ミサイル→
+集束ミサイル→
 バルカン
 (GP-02A)
 30046448 002F
-マイクロミサイル→
-アトミックバズ－カ
+マイクロミサイル
+→アトミックバズ－カ
 8004643F 0D4A
-フォ－ルディング
-バズ－カ
+フォ－ルディングバズ－カ
 →ビット
 [机体修改\GP-03ステイメン  (后期)]
 Type = Gameshark
@@ -1178,23 +1176,23 @@ Activation = EndFrame
 [机体修改\GM III]
 Type = Gameshark
 Activation = EndFrame
-80046578 114A
-ミサイルランチャ－
+80046544 0D4A
+小型ミサイル
 →ビット
 [机体修改\ジェガン]
 Type = Gameshark
 Activation = EndFrame
-80046544 0D4A
-小型ミサイル
+80046578 114A
+ミサイルランチャ－
 →ビット
-[机体修改\リ·ガズィ (MA)]
+[机体修改\リ·ガズィ（MA）]
 Type = Gameshark
 Activation = EndFrame
 30046584 0008
 リ·ガズィ（MA）→
 リ·ガズィ（MS）
 30046592 0001
-移动空陆
+移动类型空陆
 80046593 4444
 地形适应全A
 8004659D 001F
@@ -1203,7 +1201,7 @@ Activation = EndFrame
 800465A0 0D4A
 ビームキャノン
 →ビット
-[机体修改\リ·ガズィ (MS)]
+[机体修改\リ·ガズィ（MS）]
 Type = Gameshark
 Activation = EndFrame
 300465AF 0009
@@ -1227,7 +1225,7 @@ Type = Gameshark
 Activation = EndFrame
 80046723 0200
 乘换ダンバイン系
-3004673A 00B4
+30046739 00B4
 限界→180
 3004674B 0028
 ミサイル(5E)→
@@ -1333,10 +1331,10 @@ Activation = EndFrame
 [机体修改\ブルーガー]
 Type = Gameshark
 Activation = EndFrame
-80046B79 0000
+80046B78 0000
 乘换機動戦士系
 30046B89 0001
-移动空陆
+移动类型空陆
 80046B8A 4444
 地形适应全A
 [机体修改\ダイモス]
@@ -1347,17 +1345,25 @@ Activation = EndFrame
 [机体修改\ガルバーFXⅡ]
 Type = Gameshark
 Activation = EndFrame
-30046BF3 0000
+80046BF2 0000
 乘换機動戦士系
 30046C03 0001
-移动空陆
+移动类型空陆
 80046C04 4444
 地形适应全A
 [机体修改\ダイターン3]
 Type = Gameshark
 Activation = EndFrame
 80046C1D 0000
+乘换機動戦士系
+[机体修改\ダイファイタ－]
+Type = Gameshark
+Activation = EndFrame
 80046C57 0000
+乘换機動戦士系
+[机体修改\ダイタンク]
+Type = Gameshark
+Activation = EndFrame
 80046C85 0000
 乘换機動戦士系
 [机体修改\ビルバイン]
@@ -1377,7 +1383,7 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 30046E75 0001
-移动空陆
+移动类型空陆
 [机体修改\サイバスター]
 Type = Gameshark
 Activation = EndFrame
@@ -1392,14 +1398,13 @@ Activation = EndFrame
 8004712C 0921
 ハイファミリア→
 ブラックホ－ルクラスタ－
-8004712F 0D1C
 [机体修改\サイバード]
 Type = Gameshark
 Activation = EndFrame
 8004713B 0000
 乘换機動戦士系
 3004714C 0001
-移动空陆
+移动类型空陆
 8004714D 4444
 地形适应全A
 80047157 051F
@@ -1421,15 +1426,15 @@ Type = Gameshark
 Activation = EndFrame
 80047194 0000
 乘换機動戦士系
-800471B6 0120
+300471B7 0001
 ワ－ムスマッシャ－
-弹药槽 2→0
-800471B9 093A
+弹药槽→0
+300471BA 0009
 ブラックホ－ルクラスタ－
-弹药槽 3→2
-800471BC 0D22
+弹药槽→2
+300471BD 000D
 縮退砲
-弹药槽 4→3
+弹药槽→3
 [机体修改\ヴァルシオーネR]
 Type = Gameshark
 Activation = EndFrame
@@ -1467,9 +1472,9 @@ Activation = EndFrame
 800472D0 00E9
 修理装置→
 イビルアイ
-800472D3 04E6
+300472D4 0004
 ブラスナックル
-弹药槽再编号
+弹药槽→1
 800472D6 0939
 イビルアイ→
 ニュートロンビーム
@@ -1491,7 +1496,7 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 30047321 0001
-移动空陆
+移动类型空陆
 80047322 4444
 地形适应全A
 80047310 0000
@@ -1530,6 +1535,11 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 8004755B 094A
+フェダ－インライフル️
+→ビット
+[机体修改\ガブスレイ (MA)]
+Type = Gameshark
+Activation = EndFrame
 80047583 094A
 フェダ－インライフル️
 →ビット
@@ -1561,6 +1571,11 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 3004768B 004A
+アームビームガン
+→ビット
+[机体修改\メタス (MA)]
+Type = Gameshark
+Activation = EndFrame
 300476B3 004A
 アームビームガン
 →ビット
@@ -1570,7 +1585,7 @@ Activation = EndFrame
 800476CC 010F
 移动类型/力
 800476CE 4444
-地形适应 A
+地形适应全A
 300476D8 004A
 サイコミュ式メガ粒子砲
 →ビット
@@ -1578,9 +1593,9 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 300477AD 0001
-移动空陆
+移动类型空陆
 800477AE 4040
-地形空A宇A
+地形适应空A宇A
 300477BE 0048
 メガ粒子砲
 →メガ粒子砲
@@ -1614,18 +1629,54 @@ Activation = EndFrame
 ファンネル
 →ファンネル
 （ キュベレイ）
+[机体修改\ビギナ·ギナ]
+Type = Gameshark
+Activation = EndFrame
+80047B31 0189
+ビームサーベル
+→テンタクラ－ロッド
+80047B34 058B
+ビームライフル
+→バグ
+[机体修改\ベルガ·ギロス]
+Type = Gameshark
+Activation = EndFrame
+80047B5C 0189
+ビームサーベル
+→テンタクラ－ロッド
+80047B5F 058B
+ビームライフル
+→バグ
+80047B62 09FD
+ショットランサー
+→メガ拡散ビ－ム砲️
+30047B64 0003
+ショットランサー
+序号→3
 [机体修改\ラフレシア]
 Type = Gameshark
 Activation = EndFrame
 30047B7C 0001
-移动空陆
+移动类型空陆
 80047B7D 4444
-地形全A
+地形适应全A
+80047B8A 058B
+メガ拡散ビ－ム砲️
+→バグ
+80047B8d 0208
+メガビ－ムキャノン️
+→メガビ－ムランチャ－️
+80047B90 09fd
+バグ→
+メガ拡散ビ－ム砲️
+80047B93 0D8A
+メガ粒子砲
+→メガビ－ムキャノン️
 [机体修改\ゲシュペンスト（スーパー）]
 Type = Gameshark
 Activation = EndFrame
 3004819A 0001
-移动空陆
+移动类型空陆
 80048189 0000
 乘换機動戦士系
 [机体修改\コロンブス]
@@ -1641,19 +1692,19 @@ Activation = EndFrame
 [机体修改\トロイホース]
 Type = Gameshark
 Activation = EndFrame
-300486F8 0000
+800486F7 0000
 乘换機動戦士系
 30048708 0001
 移动类型空陆
 80048709 4040
-地形适应 空A宇A
+地形适应空A宇A
 [机体修改\グラーフ·ツェッペリン]
 Type = Gameshark
 Activation = EndFrame
 30048736 0001
 移动类型空陆
 80048737 4040
-地形适应 空A宇A
+地形适应空A宇A
 [机体修改\Sガンダム]
 Type = Gameshark
 Activation = EndFrame
@@ -1667,7 +1718,7 @@ Activation = EndFrame
 300487C0 0001
 移动类型空陆
 800487C1 4444
-地形适应 A
+地形适应全A
 800487CB 0413
 １２０ミリ機関砲
 →バルカン
@@ -1695,59 +1746,59 @@ Activation = EndFrame
 [机体修改\アーガマ]
 Type = Gameshark
 Activation = EndFrame
-30048808 0000
+80048808 0000
 乘换機動戦士系
 30048819 0001
 移动类型空陆
 8004881A 4444
-地形适应 A
+地形适应全A
 [机体修改\アイリッシュ]
 Type = Gameshark
 Activation = EndFrame
 3004884A 0001
 移动类型空陆
 8004884B 4444
-地形适应 A
+地形适应全A
 [机体修改\ネェル·アーガマ]
 Type = Gameshark
 Activation = EndFrame
-300488CA 0000
+800488C9 0000
 乘换機動戦士系
 300488DA 0001
 移动类型空陆
 800488DB 4444
-地形适应 A
+地形适应全A
 [机体修改\エンドラ]
 Type = Gameshark
 Activation = EndFrame
 3004890B 0001
 移动类型空陆
 8004890C 4444
-地形适应 A
+地形适应全A
 [机体修改\サダラーン]
 Type = Gameshark
 Activation = EndFrame
 30048939 0001
 移动类型空陆
 8004893A 4444
-地形适应 A
+地形适应全A
 [机体修改\ラー·カイラム]
 Type = Gameshark
 Activation = EndFrame
-3004898B 0000
+8004898A 0000
 乘换機動戦士系
-300489CC 0001
+3004899B 0001
 移动类型空陆
-800489CD 4444
-地形适应 A
+8004899C 4444
+地形适应全A
 [机体修改\ザムス·ガル]
 Type = Gameshark
 Activation = EndFrame
 300489CC 0001
 移动类型空陆
 800489CD 4444
-地形适应 A
-[机体修改\オージェ]
+地形适应全A
+[机体修改\オージ]
 Type = Gameshark
 Activation = EndFrame
 30048CC9 00EA
@@ -1796,7 +1847,7 @@ Activation = EndFrame
 30048ED9 00ED
 图像→グライア
 80048EF5 0201
-武器数量
+武器/残弹槽数量
 30048EFA 00E7
 パワーランチャー
 (ガイラム)→
@@ -1820,7 +1871,7 @@ Activation = EndFrame
 30048F9E 0001
 移动类型空陆
 80048F9F 4444
-地形适应 A
+地形适应全A
 80048FB2 0C35
 ハイパーバズーカ→
 マイクロミサイル
@@ -1839,14 +1890,15 @@ Activation = EndFrame
 80048FD4 010F
 移动类型/力
 80048FD6 4444
-地形适应 A
+地形适应全A
 30048FD8 0093
-装甲
-80048FD9 F063
-限界/运动性
+装甲→1470
+30048FD9 0063
+运动性→99
+30048FDA 00F0
+限界→240
 80048FE0 116b
 メガカノン砲
-残弹槽设置
 [机体修改\サーバイン]
 Type = Gameshark
 Activation = EndFrame
@@ -1875,11 +1927,13 @@ Activation = EndFrame
 800490FE 010F
 移动类型/力
 80049100 4444
-地形适应 A
+地形适应全A
 30049102 0094
-装甲
-80049103 F063
-限界/运动性
+装甲→1480
+30049103 0063
+运动性→99
+30049104 F0
+限界→240
 80049108 0304
 武器/残弹槽数量
 8004910A 067E
@@ -1890,9 +1944,9 @@ Activation = EndFrame
 8004912F 067E
 セイバー→
 ギガブラスター
-80049132 09E3
+30049133 0009
 Ｓマイン
-弹药槽再编号
+弹药槽→2
 80049135 01DD
 パワーランチャー
 →セイバー
@@ -1900,31 +1954,31 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 800491DB 0108
-ビームサーベルｰ
+ビ－ムサ－ベル
 →突撃
 800491DE 0606
-ビームライフルｰ
+ビームライフル
 →ファンネル
 [机体修改\ウェイブライダー]
 Type = Gameshark
 Activation = EndFrame
 8004920F 0108
-ビームガンｰ
+ビームガン
 →突撃
 80049212 0606
-ビームライフルｰ
+ビームライフル
 →ファンネル
 [机体修改\ZΖガンダム]
 Type = Gameshark
 Activation = EndFrame
 80049240 0E06
-ダブルキャノンｰ
+ダブルキャノン
 →ファンネル
 [机体修改\G-フォートレス]
 Type = Gameshark
 Activation = EndFrame
 80049271 0E06
-ダブルキャノンｰ
+ダブルキャノン
 →ファンネル
 [机体修改\ボチューン]
 Type = Gameshark
@@ -1940,21 +1994,21 @@ Activation = EndFrame
 30049439 0001
 移动类型空陆
 8004943A 4040
-地形适应 空A宇A
+地形适应空A宇A
 [机体修改\アウドムラ]
 Type = Gameshark
 Activation = EndFrame
 3004946A 0001
 移动类型空陆
 8004946B 4040
-地形适应 空A宇A
+地形适应空A宇A
 [机体修改\ス－ドリ]
 Type = Gameshark
 Activation = EndFrame
 30049498 0001
 移动类型空陆
 80049499 4040
-地形适应 空A宇A
+地形适应空A宇A
 [机体修改\GP-03ステイメン (初期)]
 Type = Gameshark
 Activation = EndFrame
@@ -2306,14 +2360,19 @@ HP500
 Type = Gameshark
 Activation = EndFrame
 300463EE 0018
-GP-02A → GP-03D
+GP-02A → GP-03 D
 3004641D 0019
-GP-03D → GP-03S
+GP-03 D → GP-03 S
 30046454 001A
-GP-03S → GP-02A
+GP-03 S → GP-02 A
 80046405 0708
+GP-02A
+武器/残弹槽数量
 80046434 0708
+GP-03 D
+武器/残弹槽数量
 8004646B 0708
+GP-03 S
 武器/残弹槽数量
 30046438 0004
 3004643B 0001
@@ -2322,70 +2381,82 @@ GP-03S → GP-02A
 30046444 0006
 30046447 0000
 3004644A 0003
-GP-03D
+GP-03 D
 武器再编号
 3004646F 0001
 30046472 0002
 30046475 0005
-GP-03S
+GP-03 S
 武器再编号
 30046437 0010
 30046440 0014
 30046443 0018
 30046446 0004
 30046449 000c
-GP-03D
+GP-03 D
 弹药槽再编号
 30046474 0014
-GP-03S
+GP-03 S
 弹药槽再编号
 [机体特殊技能修改\機動戦士变形\バイアラン变形]
 Type = Gameshark
 Activation = EndFrame
 300474BE 0018
-サイコガンダム(MS)
-→サイコガンダム(MA)
+サイコガンダム (MS)
+→サイコガンダム (MA)
 300474E9 0019
-サイコガンダム(MA)
+サイコガンダム (MA)
 →バイアラン
 30047514 001A
 バイアラン→
-サイコガンダム(MS)
+サイコガンダム (MS)
 800474D5 0304
+サイコガンダム (MS)
+武器/残弹槽数量
 80047500 0304
+サイコガンダム (MA)
+武器/残弹槽数量
 8004752B 0304
+バイアラン
 武器/残弹槽数量
 3004752F 0003
 バイアラン
 武器再编号
 30047531 0009
 バイアラン
-弾药槽再编号
+弹药槽再编号
 [机体特殊技能修改\機動戦士变形\百式变形]
 Type = Gameshark
 Activation = EndFrame
 300475E2 0018
-サイコガンダム Mk-II(MS)
-→サイコガンダム Mk-II(MA)
+サイコガンダム Mk-II (MS)
+→サイコガンダム Mk-II (MA)
 30047610 0019
-サイコガンダム Mk-II(MA)
+サイコガンダム Mk-II (MA)
 →百式
 3004763B 001A
 百式→
-サイコガンダム Mk-II(MS)
+サイコガンダム Mk-II (MS)
 800475F9 0305
+サイコガンダム Mk-II (MS)
+武器/残弹槽数量
 80047627 0305
+サイコガンダム Mk-II (MA)
+武器/残弹槽数量
 80047652 0305
+百式
 武器/残弹槽数量
 30047656 0001
 30047659 0003
 3004765C 0000
 3004765F 0002
-百式武器再编号
+百式
+武器再编号
 30047655 0009
 3004765B 0005
 3004765E 000D
-百式弾药槽再编号
+百式
+弹药槽再编号
 [机体特殊技能修改\機動戦士变形\メタス变形]
 Type = Gameshark
 Activation = EndFrame
@@ -2403,7 +2474,7 @@ Activation = EndFrame
 武器再编号
 300476D9 0009
 ブラウ·ブロ
-弾药槽再编号
+弹药槽再编号
 [机体特殊技能修改\機動戦士变形\キュベレイ Mk-II变形]
 Type = Gameshark
 Activation = EndFrame
@@ -2412,13 +2483,18 @@ Activation = EndFrame
 →キュベレイ
 300477D3 0019
 キュベレイ
-→キュベレイmkII
+→キュベレイ Mk-II
 300477FE 001A
-キュベレイmkII
+キュベレイ Mk-II
 →ノイエ·ジール
 800477B6 0306
+ノイエ·ジール
+武器/残弹槽数量
 800477EA 0306
+キュベレイ
+武器/残弹槽数量
 80047815 0306
+キュベレイ Mk-II
 武器/残弹槽数量
 300477EE 0003
 300477F1 0002
@@ -2428,14 +2504,14 @@ Activation = EndFrame
 30047819 0003
 3004781C 0002
 3004781F 0004
-キュベレイmkII
+キュベレイ Mk-II
 武器再编号
 300477F3 000D
 キュベレイ
-弾药槽再编号
+弹药槽再编号
 3004781E 000D
-キュベレイmkII
-弾药槽再编号
+キュベレイ Mk-II
+弹药槽再编号
 [机体特殊技能修改\機動戦士变形\ビギナ·ギナ变形]
 Type = Gameshark
 Activation = EndFrame
@@ -2449,34 +2525,14 @@ Activation = EndFrame
 ラフレシア→
 ビギナ·ギナ
 80047B2F 0305
-80047B5A 0305
-80047B85 0305
+ビギナ·ギナ
 武器/残弹槽数量
-80047B31 0189
-80047B5C 0189
-ビームサーベル
-→ﾃﾝﾀｸﾗｰﾛｯﾄﾞ
-80047B34 058B
-80047B5F 058B
-ビームライフル
-→バグ
-80047B62 09FD
-80047B64 0003
+80047B5A 0305
 ベルガ·ギロス
-ショットランサー
-→ﾒｶﾞ拡散ﾋﾞｰﾑ
-80047B8A 058B
-メガ拡散ビ－ム砲️
-→バグ
-80047B8d 0208
-メガビ－ムキャノン️
-→メガビ－ムランチャ－️
-80047B90 09fd
-バグ→
-メガ拡散ビ－ム砲️
-80047B93 0D8A
-メガ粒子砲
-→メガビ－ムキャノン️
+武器/残弹槽数量
+80047B85 0305
+ラフレシア
+武器/残弹槽数量
 [机体特殊技能修改\機動戦士变形\Sガンダム变形]
 Type = Gameshark
 Activation = EndFrame
@@ -2490,9 +2546,14 @@ Gクルーザー (S)→
 アレキサンドリア
 →Sガンダム
 8004876D 0607
+Sガンダム
+武器/残弹槽数量
 800487A1 0607
+Gクルーザー (S)
+武器/残弹槽数量
 800487C9 0607
-武器数量
+アレキサンドリア
+武器/残弹槽数量
 300487D0 0005
 300487D3 0002
 300487D6 0003
@@ -2503,7 +2564,7 @@ Gクルーザー (S)→
 300487D2 000A
 300487D5 000E
 アレキサンドリア
-弾药槽再编号
+弹药槽再编号
 [机体特殊技能修改\機動戦士变形\ネェル·アーガマ变形]
 Type = Gameshark
 Activation = EndFrame
@@ -2536,13 +2597,13 @@ Activation = EndFrame
 3004891D 0006
 30048920 000A
 エンドラ
-弾药槽再编号
+弹药槽再编号
 30048945 000E
 30048948 0012
 3004894B 0006
 3004894E 000A
 サダラーン
-弾药槽再编号
+弹药槽再编号
 [机体特殊技能修改\重戦机エルガイム变形\アシュラテンプル变形]
 Type = Gameshark
 Activation = EndFrame
@@ -2556,8 +2617,13 @@ Activation = EndFrame
 アシュラテンプル
 →オージェ
 80048C93 0407
+オージェ
+武器/残弹槽数量
 80048CC1 0407
+オージ
+武器/残弹槽数量
 80048CF5 0407
+アシュラテンプル
 武器/残弹槽数量
 30048D02 0006
 30048D05 0003
@@ -2567,7 +2633,7 @@ Activation = EndFrame
 30048D01 0011
 30048D04 0009
 アシュラテンプル
-弾药槽再编号
+弹药槽再编号
 [机体特殊技能修改\重戦机エルガイム变形\ヌーベルディザード变形]
 Type = Gameshark
 Activation = EndFrame
@@ -2578,7 +2644,10 @@ Activation = EndFrame
 ヌーベルディザード
 →ニセサイバスター
 80049108 0203
+ナイチンゲール
+武器/残弹槽数量
 8004912D 0203
+ヌーベルディザード
 武器/残弹槽数量
 [机体特殊技能修改\オリジナル变形\ヒュッケバイン变形]
 Type = Gameshark
@@ -2609,24 +2678,25 @@ Activation = EndFrame
 ヒュッケバイン
 弹药槽再编号
 300462BD 0008
-ウイングガスト
+グルンガスト
 武器再编号
 300462BC 001A
-ウイングガスト
+グルンガスト
 弹药槽再编号
 [机体特殊技能修改\オリジナル变形\サイバスター变形]
 Type = Gameshark
 Activation = EndFrame
 3004710A 0018
-サイバスター→
-サイバード
+サイバスター
+→サイバード
 3004713E 0019
-サイバード
+サイバード→
 グランゾン
 30047169 001A
-グランゾン
-→サイバスター
+グランゾン→
+サイバスター
 80047180 0406
+グランゾン
 武器/残弹槽数量
 [机体特殊技能修改\オリジナル变形\ザムジード变形]
 Type = Gameshark
@@ -2641,8 +2711,13 @@ Activation = EndFrame
 ザムジード→
 ヴァルシオーネR
 800471AE 0305
+ネオ·グランゾン
+武器/残弹槽数量
 800471DF 0305
+ヴァルシオーネR
+武器/残弹槽数量
 80047210 0305
+ザムジード
 武器/残弹槽数量
 300471E9 0002
 300471Ec 0003
@@ -2669,8 +2744,13 @@ Activation = EndFrame
 ウィーゾル改→
 グランヴェール
 80047241 0306
+グランヴェール
+武器/残弹槽数量
 80047275 0306
+ガッデス
+武器/残弹槽数量
 800472A3 0306
+ウィーゾル改
 武器/残弹槽数量
 3004727f 0003
 30047282 0002
@@ -2687,13 +2767,18 @@ Activation = EndFrame
 ガディフォール
 300472E2 0019
 ガディフォール→
-ゲシュペンスト（R）
+ゲシュペンスト（リアル）
 30047313 001A
-ゲシュペンスト（R）
+ゲシュペンスト（リアル）
 →ノルス·レイ
 800472CE 0405
+ノルス·レイ
+武器/残弹槽数量
 800472F9 0405
+ガディフォール
+武器/残弹槽数量
 8004732A 0405
+ゲシュペンスト（リアル）
 武器/残弹槽数量
 [机体特殊技能修改\グレンダイザー合体可\マジンガーZ（JS）]
 Type = Gameshark
@@ -2712,8 +2797,8 @@ Activation = EndFrame
 [机体特殊技能修改\二段变身\アトールV]
 Type = Gameshark
 Activation = EndFrame
-300470E1 0040
 ゴッドネロス同
+300470E1 0040
 [机体特殊技能修改\二段变身\サイバスター]
 Type = Gameshark
 Activation = EndFrame
@@ -2755,26 +2840,27 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 300473F2 0040
-[机体特殊技能修改\二段变身\ハンブラビ]
+[机体特殊技能修改\二段变身\ハンブラビ (MS)]
 Type = Gameshark
 Activation = EndFrame
 3004741D 0040
-ハンブラビ (MS)
+[机体特殊技能修改\二段变身\ハンブラビ (MA)]
+Type = Gameshark
+Activation = EndFrame
 3004744B 0040
-ハンブラビ (MA)
-[机体特殊技能修改\二段变身\アッシマー]
+[机体特殊技能修改\二段变身\アッシマー (MS)]
 Type = Gameshark
 Activation = EndFrame
 30047473 0040
-アッシマー (MS)
-[机体特殊技能修改\二段变身\サイコガンダム]
+[机体特殊技能修改\二段变身\サイコガンダム (MS)]
 Type = Gameshark
 Activation = EndFrame
 300474C0 0040
-サイコガンダム (MS)
+[机体特殊技能修改\二段变身\サイコガンダム (MA)]
+Type = Gameshark
+Activation = EndFrame
 300474EB 0040
-サイコガンダム (MA)
-[机体特殊技能修改\二段变身\ガブスレイ]
+[机体特殊技能修改\二段变身\ガブスレイ (MS)]
 Type = Gameshark
 Activation = EndFrame
 3004753E 0040
@@ -2782,11 +2868,13 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 30047591 0040
-バウンド·ドック (MS)
 [机体特殊技能修改\二段变身\サイコガンダム Mk-II (MS)]
 Type = Gameshark
 Activation = EndFrame
 300475E4 0064
+[机体特殊技能修改\二段变身\サイコガンダム Mk-II (MA)]
+Type = Gameshark
+Activation = EndFrame
 30047612 0044
 [机体特殊技能修改\二段变身\ビグロ]
 Type = Gameshark
@@ -2823,13 +2911,14 @@ Type = Gameshark
 Activation = EndFrame
 300478A9 0040
 800478BE 0304
-[机体特殊技能修改\二段变身\バウ]
+[机体特殊技能修改\二段变身\バウ (MS)]
 Type = Gameshark
 Activation = EndFrame
 300478D4 0040
-バウ (MS)
+[机体特殊技能修改\二段变身\バウ (MA)]
+Type = Gameshark
+Activation = EndFrame
 30047902 0040
-バウ (MA)
 [机体特殊技能修改\二段变身\クイン·マンサ]
 Type = Gameshark
 Activation = EndFrame

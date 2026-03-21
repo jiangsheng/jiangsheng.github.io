@@ -118,7 +118,7 @@
      - 
      - 7
      - 5
-     - \ :ref:`リ·ガズィ (MS) <srw4_unit_ri_gazi_ms>`\  (灵格斯)
+     - \ :ref:`リ·ガズィ（MS） <srw4_unit_ri_gazi_ms>`\  (灵格斯)
 
    * - 07
      - ビ－ムサ－ベル
@@ -928,7 +928,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`リ·ガズィ (MS) <srw4_unit_ri_gazi_ms>`\  (灵格斯)
+     - \ :ref:`リ·ガズィ（MS） <srw4_unit_ri_gazi_ms>`\  (灵格斯)
 
    * - 3D
      - ロ－ズカッタ－
@@ -7528,7 +7528,7 @@
      - 
      - 7
      - 1
-     - \ :ref:`リ·ガズィ (MA) <srw4_unit_ri_gazi_ma>`\  (灵格斯BWS着装型)
+     - \ :ref:`リ·ガズィ（MA） <srw4_unit_ri_gazi_ma>`\  (灵格斯BWS着装型)
 
    * - 1F8
      - 大雪山おろし
