@@ -205,7 +205,7 @@
 ひびき洸(响洸)
 ^^^^^^^^^^^^^^^^
 
-.. _srw4_pilot_akira_hibiki:
+.. _srw4_pilot_hibiki_akira:
 
 
 .. grid:: 
@@ -219,7 +219,7 @@
 
         .. image:: ../pilots/images/srw4_pilot_63.png
 
-    .. grid-item:: 英文:Akira Hibiki。
+    .. grid-item:: 英文:Hibiki Akira。
         :columns: auto
 
 
@@ -375,13 +375,13 @@
 
         底力 1,シールド防御Ｌ1 1,Ｌ2 1 (ps),Ｌ3 12 (ps),Ｌ4 23 (ps),Ｌ5 32 (ps),Ｌ6 39 (ps)
 
-.. _srw4_pilot_akira_hibiki_commentBegin:
+.. _srw4_pilot_hibiki_akira_commentBegin:
 
 二动时间早，本作可以学得热血了，虽然学得很慢。宇宙适应B是个很大的缺点，因为会被分去宇宙地图较多的A队，其他超级机器人虽然也会和B队一起上太空，不过只出战两话，受地形影响不像雷登这么大。另外单座导致机动力欠佳，也没有幸运快速提升等级。使用神之声过度会受到惩罚，最终话不能出战。
 
 第四次S中增加了配音，除了技量之外的能力也全面上升。シールド防御从1级提升到6级。
 
-.. _srw4_pilot_akira_hibiki_commentEnd:
+.. _srw4_pilot_hibiki_akira_commentEnd:
 
 ^^^^^^^^
 明日香麗

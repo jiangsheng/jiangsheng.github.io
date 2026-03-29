@@ -2698,8 +2698,8 @@
    * - 63
      - 自
      - .. image:: ../pilots/images/srw4_pilot_63.png
-     - \ :ref:`ひびき洸 <srw4_pilot_akira_hibiki>`\ (响洸) 
-     - Akira Hibiki
+     - \ :ref:`ひびき洸 <srw4_pilot_hibiki_akira>`\ (响洸) 
+     - Hibiki Akira
      - :ref:`ライディーン <srw4_pilots_reideen_the_brave>`
      - 普通
      - 115

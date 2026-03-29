@@ -3,6 +3,7 @@
     "python.terminal.activateEnvironment": true,
     "restructuredtext.confPath": "${workspaceFolder}\\docs",
     "restructuredtext.workspaceRoot": "c:\\github\\jiangsheng\\jiangsheng.github.io",
+    "restructuredtext.outline.levels": "7",
     "esbonio.sphinx.buildDir": "${workspaceRoot}/build",
     "esbonio.sphinx.confDir": "${workspaceFolder}\\docs",
     "spellright.language": [
@@ -175,6 +176,5 @@
     "python.terminal.activateEnvInCurrentTerminal": true,
     "python.useEnvironmentsExtension": true,
     "python-envs.defaultEnvManager": "ms-python.python:conda",
-    "python-envs.defaultPackageManager": "ms-python.python:conda",
-    "python-envs.pythonProjects": []
+    "python-envs.defaultPackageManager": "ms-python.python:conda"
 }
