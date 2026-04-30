@@ -60,6 +60,7 @@ extensions = [
      "sphinxext.rediraffe",
      "sphinx_design",
      'ablog',
+     'sphinxnotes.strike'
 ]
 
 if not os.environ.get("READTHEDOCS"):
