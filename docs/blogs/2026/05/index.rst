@@ -1,10 +1,10 @@
 .. meta::
-   :description: Blogs in 2026#
+   :description: Blogs in March 2026
 
-.. _blogs_2026:
+.. _blogs_2026_05:
 
 ======================================
-Blogs in 2026
+Blogs in May 2026
 ======================================
 
 .. toctree::
@@ -12,9 +12,7 @@ Blogs in 2026
    :caption: 内容:
    :titlesonly:
 
-   Blogs in January 2026 <01/index>
-   Blogs in March 2026 <03/index>
-   Blogs in May 2026 <05/index>
+   Common mistakes in Unciv Modding <common_mistakes_in_unciv_modding>
 
 * :ref:`genindex`
 * :ref:`modindex`
