@@ -5,8 +5,8 @@ Common mistakes in Unciv Modding
 ===================================================================
 
 .. post:: 7 May, 2026
-   :tags: ABlog
-   :category: Sphinx 
+   :tags: Unciv
+   :category: Games
    :author: me
    :nocomments:
 
@@ -22,11 +22,11 @@ The most common mistake is to assume building exist but they don't in a differen
 
     "requiredBuilding": "Theatre",
 
-This requires the game engine to have a building called Theatre, which is not always the case. Although the built-in "Civ V - Vanilla" and "Civ V - Gods & Kings" rulesets have it, "RekMod“, a popular mod, doesn't. When you have a ruleset and mod combination that does not have a referenced building defined, the time you found a city and open the city screen, the game will crash. The game is more forgiving when it comes to promotions, a referenced promotion won't block you from starting the game, you just cannot gain a promotion if the prerequisite does not exist. RekMod has many promotion like "Formation I" and "[Privateer] ability" renamed, thus creates incompatibility with mods that rely on those promotions.
+This requires the game engine to have a building called Theatre, which is not always the case. Although the built-in "Civ V - Vanilla" and "Civ V - Gods & Kings" rulesets have it, "RekMod“, a popular mod, doesn't. It is a port of Lekmod, which is a mod for Civilization V: Brave New World, and Theatre was replaced by Zoo in that expansion, to avoid confusion with Amphitheater. When you have a ruleset and mod combination that does not have a referenced building defined, the time you found a city and open the city screen, the game will crash. The game is more forgiving when it comes to promotions, a referenced promotion won't block you from starting the game, you just cannot gain an advanced promotion if the base promotion does not exist. RekMod has many promotion like "Formation I" and "[Privateer] ability" renamed, thus creates incompatibility with mods that rely on those promotions.
 
-The easy fix would be defining the object that is referenced like https://github.com/Kurwizimi/Enlightenment-Era/compare/master...jiangsheng:Enlightenment-Era:master#diff-725582079deeb862a15431c175400961f158479ce3d0deda3153eab86d68c6cc. However, if some other mod or the basic ruleset also define it, this could cause a name conflict and the mod enabled later overwrites the one defined earlier. 
+The easy fix would be redefining the referenced objects like https://github.com/Kurwizimi/Enlightenment-Era/compare/master...jiangsheng:Enlightenment-Era:master#diff-725582079deeb862a15431c175400961f158479ce3d0deda3153eab86d68c6cc. However, if some other mod or the basic ruleset also define it, this could cause a name conflict and the mod enabled later overwrites the one defined earlier. Although this would not block the game from starting or crash the game, it would cause the affected building behave differently than what the author intended. 
 
-Although this would not block the game from starting or crash the game, it would cause the affected building behave differently than what the author intended. Another way is to have a sub mod who has a dependency unique on the ruleset that has the required building, like this:
+Another way is to have a sub mod who has a dependency unique on the ruleset that has the required building, like this:
 
 .. code-block:: json
 
@@ -36,7 +36,7 @@ Although this would not block the game from starting or crash the game, it would
     ],
 
 
-Although this would avoid conflicts, it would also make the mode itself incompatible with other rulesets even when they have the required building.
+Although this would avoid conflicts, it would also make the mod incompatible with other rulesets even when they have the required building.
  
  
 Finally, you can add a condition to check if the game runs under a required ruleset, like this:
@@ -158,11 +158,18 @@ If you do not want an extra entry in the buildable building list, you can add a 
 -----------------
 Coordinates
 -----------------
-Finally, a less occurring conflict is element positions. This is not a mistake but an unfortunate result of multiple people customizing the same game.
+Finally, a less occurring conflict is element position. This is not a mistake but an unfortunate result of multiple people customizing the same game.
 
-Many elements can have their rows and columns defined, and if two mods adding elements to the same cell, conflict happen and you cannot enable both mods. The solution is to fork one on Github, moves the element elsewhere like https://github.com/PokegetaTV/UNIT_LIMIT_REKMOD_V2/commit/947b14ffcf4d1f44fb6d1f724657b81891da5c71, then download the mod from your fork instead of the original in game. 
+Many elements can have their rows and columns defined, and if two mods added elements to the same cell, conflicts happen and you cannot enable both mods. The solution is to fork one on Github, moves the element elsewhere like https://github.com/PokegetaTV/UNIT_LIMIT_REKMOD_V2/commit/947b14ffcf4d1f44fb6d1f724657b81891da5c71, then download the mod from your fork instead of the original in game. Or just simply remove the row and column definition, and the game will automatically place the element.
+
 
 -----------
 Conclusion
 -----------
-With many mods forked and corrected, I am finally enjoying the game and mods as the authors intended. I hope this post can help other modders get their mods working as well.
+With many mods forked and corrected, I am finally enjoying the game and mods as the authors intended. I hope this post can help other modders get their mods working as well. 
+
+----------------------
+Special thanks
+----------------------
+
+With the help of the Unciv extension for VS code (https://marketplace.visualstudio.com/items?itemName=robloach.unciv), I am able to get error highlighting for mod files, which makes the fixing much easier.
