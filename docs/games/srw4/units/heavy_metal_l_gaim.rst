@@ -340,7 +340,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 35
     .. grid-item:: 48
-    .. grid-item:: 50
+    .. grid-item:: 50 (49)
     .. grid-item:: 限界
     .. grid-item:: 160
     .. grid-item:: 42
@@ -475,7 +475,7 @@
             .. grid-item:: 英文:Calvary Temple。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第8话。
+            .. grid-item:: 登场/加入:第3话。
                 :columns: auto
 
             .. grid-item:: 编码:F4。
@@ -1160,7 +1160,7 @@
     .. grid-item:: 限界
     .. grid-item:: 210
     .. grid-item:: 57
-    .. grid-item:: 57
+    .. grid-item:: 58 (57)
     .. grid-item:: 移动力
     .. grid-item:: 9
     .. grid-item:: 53
@@ -1826,7 +1826,7 @@
     .. grid-item:: 限界
     .. grid-item:: 210
     .. grid-item:: 57
-    .. grid-item:: 57
+    .. grid-item:: 58 (57)
     .. grid-item:: 移动力
     .. grid-item:: 9
     .. grid-item:: 53
@@ -2211,7 +2211,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 35
     .. grid-item:: 48
-    .. grid-item:: 50
+    .. grid-item:: 50 (49)
     .. grid-item:: 限界
     .. grid-item:: 160
     .. grid-item:: 42
@@ -2396,7 +2396,7 @@
     .. grid-item:: 限界
     .. grid-item:: 240
     .. grid-item:: 67
-    .. grid-item:: 67 (66)
+    .. grid-item:: 67
     .. grid-item:: 移动力
     .. grid-item:: 9
     .. grid-item:: 53
@@ -2594,7 +2594,7 @@
     .. grid-item:: 限界
     .. grid-item:: 210
     .. grid-item:: 57
-    .. grid-item:: 57
+    .. grid-item:: 58 (57)
     .. grid-item:: 移动力
     .. grid-item:: 9
     .. grid-item:: 53
@@ -3406,7 +3406,7 @@ somehow despite being a robot from the Heavy Metal L-Gaim series,  アトールV
     .. grid-item:: 装甲
     .. grid-item:: 0
     .. grid-item:: 30 (31)
-    .. grid-item:: 33 (34)
+    .. grid-item:: 33
     .. grid-item::
         :class: flex-break
     .. grid-item:: 运动性

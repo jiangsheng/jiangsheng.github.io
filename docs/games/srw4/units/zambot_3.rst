@@ -131,7 +131,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 35
     .. grid-item:: 48
-    .. grid-item:: 50
+    .. grid-item:: 50 (49)
     .. grid-item:: 限界
     .. grid-item:: 160
     .. grid-item:: 42
@@ -736,7 +736,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 150
     .. grid-item:: 39

@@ -115,7 +115,7 @@
         162
 
     .. grid-item:: 58 (57)→54 (53)
-    .. grid-item:: 49
+    .. grid-item:: 57 (56)→55
     .. grid-item:: 
     .. grid-item:: 
 
@@ -123,7 +123,7 @@
         189
 
     .. grid-item:: 36 (37)→34 (35)
-    .. grid-item:: 47 (46)→47
+    .. grid-item:: 34→33
     .. grid-item:: 
     .. grid-item:: 
 
@@ -131,7 +131,7 @@
         181
 
     .. grid-item:: 39→38
-    .. grid-item:: 52→51
+    .. grid-item:: 42→41
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -155,7 +155,7 @@
         162
 
     .. grid-item:: 58 (56)→51 (49)
-    .. grid-item:: 48
+    .. grid-item:: 56 (52)→53
     .. grid-item:: 
     .. grid-item:: 
 
@@ -163,7 +163,7 @@
         191
 
     .. grid-item:: 41 (40)→37 (36)
-    .. grid-item:: 50 (49)→49
+    .. grid-item:: 38 (36)→36
     .. grid-item:: 
     .. grid-item:: 
 
@@ -171,7 +171,7 @@
         187
 
     .. grid-item:: 43→41
-    .. grid-item:: 49
+    .. grid-item:: 41→40
     .. grid-item:: 
 
 .. grid:: 

@@ -290,7 +290,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 200
     .. grid-item:: 54
@@ -642,13 +642,13 @@
     .. grid-item:: 装甲
     .. grid-item:: 520
     .. grid-item:: 58 (57)
-    .. grid-item:: 55 (54)
+    .. grid-item:: 55
     .. grid-item::
         :class: flex-break
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 190
     .. grid-item:: 51
@@ -666,7 +666,7 @@
     .. grid-item:: 价值
     .. grid-item:: 2000
     .. grid-item:: 47
-    .. grid-item:: 46
+    .. grid-item:: 45
     .. grid-item:: 修理费
     .. grid-item:: 100
     .. grid-item:: 44
@@ -821,7 +821,7 @@ HP高一点，但是战斗力偏弱。
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 200
     .. grid-item:: 54
@@ -998,7 +998,7 @@ HP高一点，但是战斗力偏弱。
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 190
     .. grid-item:: 51

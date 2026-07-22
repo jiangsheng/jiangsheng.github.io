@@ -381,7 +381,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 34
     .. grid-item:: 47
-    .. grid-item:: 49
+    .. grid-item:: 49 (48)
     .. grid-item:: 限界
     .. grid-item:: 180
     .. grid-item:: 48

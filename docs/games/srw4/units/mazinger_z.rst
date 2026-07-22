@@ -145,7 +145,7 @@
     .. grid-item:: 价值
     .. grid-item:: 2000
     .. grid-item:: 47
-    .. grid-item:: 46
+    .. grid-item:: 45
     .. grid-item:: 修理费
     .. grid-item:: 2500
     .. grid-item:: 47
@@ -368,7 +368,7 @@
     .. grid-item:: 经验值
     .. grid-item:: 130
     .. grid-item:: 49
-    .. grid-item:: 50
+    .. grid-item:: 49
     .. grid-item:: 价值
     .. grid-item:: 2100
     .. grid-item:: 47
@@ -1956,7 +1956,7 @@
     .. grid-item:: 经验值
     .. grid-item:: 150
     .. grid-item:: 52
-    .. grid-item:: 53
+    .. grid-item:: 52
     .. grid-item:: 价值
     .. grid-item:: 7800
     .. grid-item:: 58
@@ -2466,7 +2466,7 @@ HP很高，但是射程仅有1，而且没有对空武器。
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 160
     .. grid-item:: 42

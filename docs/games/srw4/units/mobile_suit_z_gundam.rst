@@ -328,7 +328,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 35
     .. grid-item:: 48
-    .. grid-item:: 50
+    .. grid-item:: 50 (49)
     .. grid-item:: 限界
     .. grid-item:: 200
     .. grid-item:: 54
@@ -1244,6 +1244,182 @@ Gディフェンサー(G-防卫号)
 
 .. _srw4_unit_nemo_commentEnd:
 
+^^^^^^^^^^^^^^^^^^^^
+バイアラン(拜亚兰)
+^^^^^^^^^^^^^^^^^^^^
+
+.. _srw4_unit_byarlant:
+
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+
+    .. grid-item:: 
+        :columns: 3
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_6A.png
+
+    .. grid-item:: 
+        :columns: 9
+
+        .. grid:: 
+            :gutter: 0
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 英文:Byarlant。
+                :columns: auto
+
+            .. grid-item:: 登场/加入:第6话。
+                :columns: auto
+
+            .. grid-item:: 编码:6A。
+                :columns: auto
+
+            .. grid-item:: 地址 BA81E (2750D)。
+                :columns: auto
+
+            .. grid-item:: 武器首地址:BA83E (2752D)。
+                :columns: auto
+
+            .. grid-item:: 移动类型:空陸。
+                :columns: auto
+
+
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆B海D宇A。
+                :columns: auto
+
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 2000
+    .. grid-item:: 45
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 210
+    .. grid-item:: 60
+    .. grid-item:: 55
+    .. grid-item:: 装甲
+    .. grid-item:: 220
+    .. grid-item:: 42
+    .. grid-item:: 42
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 34
+    .. grid-item:: 47
+    .. grid-item:: 49 (48)
+    .. grid-item:: 限界
+    .. grid-item:: 190
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 移动力
+    .. grid-item:: 8
+    .. grid-item:: 48
+    .. grid-item:: 50
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 80
+    .. grid-item:: 41
+    .. grid-item:: 42
+    .. grid-item:: 价值
+    .. grid-item:: 2000
+    .. grid-item:: 47
+    .. grid-item:: 45
+    .. grid-item:: 修理费
+    .. grid-item:: 4500
+    .. grid-item:: 49
+    .. grid-item:: 47
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+    .. grid-item:: 攻击
+    .. grid-item:: 射程
+    .. grid-item:: 命中
+    .. grid-item:: 暴击
+    .. grid-item:: 地形
+        :columns: 3
+    .. grid-item:: 残弹/EN
+    .. grid-item:: 条件
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: メガ粒子砲️Ⓑ
+        :columns: 3
+    .. grid-item:: 940
+    .. grid-item:: 1~6
+    .. grid-item:: 
+    .. grid-item:: +10
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+    .. grid-item:: 残弹 8
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
+        :columns: 3
+    .. grid-item:: 980
+    .. grid-item:: 1
+    .. grid-item:: +20
+    .. grid-item:: +20
+    .. grid-item:: 空A陆A→B海A→C宇A
+        :columns: 3
+    .. grid-item:: 
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_byarlant_commentBegin:
+
+拜阿兰主要作为提坦斯的机体登场，新DC也会少量使用。虽然火力较差，但是因为装甲过低，我军MS也会轻易被其击落。
+
+说得副主人公的话会带这台机体加入。之前需要选择有恋人。第四次中虽然加入时已经三段改造，而且是少有的空A的机动战士系机体，但是武器射程和攻击力太差导致沦为自保能力不错的探宝机。因为很快主角会转乘后期机，主角恋人会转乘亡灵，所以此时改造拜阿兰反而显得浪费资金，其性能甚至可能低于开局获得的一些改造段数更高的MS机体。
+
+如果一开始善作计划。则可能用来替代初期机。例如在是乞力马扎罗风暴这一话，因为地形名为云层实为陆地，移动类型为空且陆地适应为A的拜阿兰可以充分发挥。其他强力MS机体要么不能飞，变形为能飞的形态也会因为对陆地适应不佳而无法充分发挥性能。敌人也有同样的问题，不过敌人里也有几台拜阿兰。
+
+第四次S中加入时武器没有改造。实用性降低。
+
+.. _srw4_unit_byarlant_commentEnd:
+
 ^^^^^^^^^^^^^^^^^^
 アーガマ(亚加玛)
 ^^^^^^^^^^^^^^^^^^
@@ -1362,7 +1538,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 经验值
     .. grid-item:: 150
     .. grid-item:: 52
-    .. grid-item:: 53
+    .. grid-item:: 52
     .. grid-item:: 价值
     .. grid-item:: 20000
     .. grid-item:: 81
@@ -1462,6 +1638,381 @@ Gディフェンサー(G-防卫号)
 
 
 .. _srw4_unit_argama_commentEnd:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ガブスレイ (MS)(MS型卡普司利)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _srw4_unit_gabthley_ms:
+
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+
+    .. grid-item:: 
+        :columns: 3
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_6B.png
+
+    .. grid-item:: 
+        :columns: 9
+
+        .. grid:: 
+            :gutter: 0
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 英文:Gabthley (MS)。
+                :columns: auto
+
+            .. grid-item:: 登场/加入:第10话。
+                :columns: auto
+
+            .. grid-item:: 编码:6B。
+                :columns: auto
+
+            .. grid-item:: 地址 BA846 (27535)。
+                :columns: auto
+
+            .. grid-item:: 武器首地址:BA866 (27555)。
+                :columns: auto
+
+            .. grid-item:: 移动类型:陸宇。
+                :columns: auto
+
+
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空🚫→D陆B海C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`サラ・ザビアロフ <srw4_pilot_sarah_zabiarov>`\ 。
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_82.png
+                :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、变形(\ :ref:`ガブスレイ (MA) <srw4_unit_gabthley_ma>`\ (MA型卡普司利))。
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 1900
+    .. grid-item:: 45
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 190
+    .. grid-item:: 54
+    .. grid-item:: 50
+    .. grid-item:: 装甲
+    .. grid-item:: 210
+    .. grid-item:: 41
+    .. grid-item:: 42
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 38
+    .. grid-item:: 51
+    .. grid-item:: 53
+    .. grid-item:: 限界
+    .. grid-item:: 190
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 移动力
+    .. grid-item:: 7
+    .. grid-item:: 42
+    .. grid-item:: 45
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 75
+    .. grid-item:: 40
+    .. grid-item:: 41
+    .. grid-item:: 价值
+    .. grid-item:: 2000
+    .. grid-item:: 47
+    .. grid-item:: 45
+    .. grid-item:: 修理费
+    .. grid-item:: 3900
+    .. grid-item:: 48
+    .. grid-item:: 47
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+    .. grid-item:: 攻击
+    .. grid-item:: 射程
+    .. grid-item:: 命中
+    .. grid-item:: 暴击
+    .. grid-item:: 地形
+        :columns: 3
+    .. grid-item:: 残弹/EN
+    .. grid-item:: 条件
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: バルカンⓅ
+        :columns: 3
+    .. grid-item:: 360
+    .. grid-item:: 1
+    .. grid-item:: +35
+    .. grid-item:: -10
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+    .. grid-item:: 残弹 5
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
+        :columns: 3
+    .. grid-item:: 940
+    .. grid-item:: 1
+    .. grid-item:: +20
+    .. grid-item:: +20
+    .. grid-item:: 空A→🚫陆A→B海A→B宇A
+        :columns: 3
+    .. grid-item:: 
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: フェダ－インライフル️Ⓑ
+        :columns: 3
+    .. grid-item:: 940
+    .. grid-item:: 1~8
+    .. grid-item:: -5
+    .. grid-item:: +10
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+    .. grid-item:: 残弹 8
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_gabthley_ms_commentBegin:
+
+代号RX-110。
+
+作为DC、新DC和提坦斯的机体登场。射程虽远，但是不如第三次大战那样有威胁。对海能力差，可以在水中等其上门。用カツ说得サラ可以入手一台，地形适应是最差的一档，还好加入的时候已经3段改造，射程8的武器可以一用，但是前提是面对的敌人没有光线护盾。除了射程和飞行形态之外，相比至此应已改造数段的初期机并没有多少优势，如果不事先规划改造优先级，则前途堪疑。
+
+
+.. _srw4_unit_gabthley_ms_commentEnd:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ガブスレイ (MA)(MA型卡普司利)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _srw4_unit_gabthley_ma:
+
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+
+    .. grid-item:: 
+        :columns: 3
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_6C.png
+
+    .. grid-item:: 
+        :columns: 9
+
+        .. grid:: 
+            :gutter: 0
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 英文:Gabthley (MA)。
+                :columns: auto
+
+            .. grid-item:: 登场/加入:第23话。
+                :columns: auto
+
+            .. grid-item:: 编码:6C。
+                :columns: auto
+
+            .. grid-item:: 地址 BA871 (27560)。
+                :columns: auto
+
+            .. grid-item:: 武器首地址:BA891 (27580)。
+                :columns: auto
+
+            .. grid-item:: 移动类型:空。
+                :columns: auto
+
+
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B→C陆🚫→C海🚫→D宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`サラ・ザビアロフ <srw4_pilot_sarah_zabiarov>`\ 。
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_82.png
+                :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`ガブスレイ (MS) <srw4_unit_gabthley_ms>`\ (MS型卡普司利))。
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 1900
+    .. grid-item:: 45
+    .. grid-item:: 45
+    .. grid-item:: EN
+    .. grid-item:: 190
+    .. grid-item:: 54
+    .. grid-item:: 50
+    .. grid-item:: 装甲
+    .. grid-item:: 220
+    .. grid-item:: 42
+    .. grid-item:: 42
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 36
+    .. grid-item:: 49
+    .. grid-item:: 51
+    .. grid-item:: 限界
+    .. grid-item:: 190
+    .. grid-item:: 51
+    .. grid-item:: 51
+    .. grid-item:: 移动力
+    .. grid-item:: 10
+    .. grid-item:: 59
+    .. grid-item:: 61
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 75
+    .. grid-item:: 40
+    .. grid-item:: 41
+    .. grid-item:: 价值
+    .. grid-item:: 2000
+    .. grid-item:: 47
+    .. grid-item:: 45
+    .. grid-item:: 修理费
+    .. grid-item:: 3900
+    .. grid-item:: 48
+    .. grid-item:: 47
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+    .. grid-item:: 攻击
+    .. grid-item:: 射程
+    .. grid-item:: 命中
+    .. grid-item:: 暴击
+    .. grid-item:: 地形
+        :columns: 3
+    .. grid-item:: 残弹/EN
+    .. grid-item:: 条件
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: フェダ－インライフル️Ⓑ
+        :columns: 3
+    .. grid-item:: 940
+    .. grid-item:: 1~8
+    .. grid-item:: -5
+    .. grid-item:: +10
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+    .. grid-item:: 残弹 8
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 
+        :columns: 3
+
+        | クロ－ア－ム🤛Ⓟ (Snes)
+        | クロ－ア－ムⓅ (PlayStation)
+
+    .. grid-item:: 990
+    .. grid-item:: 1
+    .. grid-item:: +25
+    .. grid-item:: +10
+    .. grid-item:: 空A→B (A)陆A→🚫 (A)海A→🚫 (A)宇A
+        :columns: 3
+    .. grid-item:: 
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_gabthley_ma_commentBegin:
+
+代号RX-110。空中适应仅为B，更加打不穿敌人的光线护盾了。虽然具备近战能力，但是机体本身的移动类型和地形适应太差以至于不太实用。
+
+第四次S中クローアーム不知为何变成了一格射击武器，虽然战斗动画仍然是格斗，但是现在可以对地面和海中敌人使用了。
+
+.. _srw4_unit_gabthley_ma_commentEnd:
 
 ^^^^^^^^^^^^^^^^^^^^
 Ζガンダム(Z高达)
@@ -1581,7 +2132,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 经验值
     .. grid-item:: 130
     .. grid-item:: 49
-    .. grid-item:: 50
+    .. grid-item:: 49
     .. grid-item:: 价值
     .. grid-item:: 1800
     .. grid-item:: 47
@@ -1802,7 +2353,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 限界
     .. grid-item:: 210
     .. grid-item:: 57
-    .. grid-item:: 57
+    .. grid-item:: 58 (57)
     .. grid-item:: 移动力
     .. grid-item:: 10
     .. grid-item:: 59
@@ -1812,7 +2363,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 经验值
     .. grid-item:: 130
     .. grid-item:: 49
-    .. grid-item:: 50
+    .. grid-item:: 49
     .. grid-item:: 价值
     .. grid-item:: 1800
     .. grid-item:: 47
@@ -1881,557 +2432,6 @@ Gディフェンサー(G-防卫号)
 
 
 .. _srw4_unit_wave_rider_commentEnd:
-
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-ガブスレイ (MS)(MS型卡普司利)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. _srw4_unit_gabthley_ms:
-
-
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-
-    .. grid-item:: 
-        :columns: 3
-
-        .. image:: ../units/images/portrait/srw4_units_portrait_6B.png
-
-    .. grid-item:: 
-        :columns: 9
-
-        .. grid:: 
-            :gutter: 0
-            :margin: 0
-            :padding: 0
-
-
-            .. grid-item:: 英文:Gabthley (MS)。
-                :columns: auto
-
-            .. grid-item:: 登场/加入:第20话。
-                :columns: auto
-
-            .. grid-item:: 编码:6B。
-                :columns: auto
-
-            .. grid-item:: 地址 BA846 (27535)。
-                :columns: auto
-
-            .. grid-item:: 武器首地址:BA866 (27555)。
-                :columns: auto
-
-            .. grid-item:: 移动类型:陸宇。
-                :columns: auto
-
-
-            .. grid-item:: 大小 M。
-                :columns: auto
-
-            .. grid-item:: 地形适应:空🚫→D陆B海C宇A。
-                :columns: auto
-
-
-            .. grid-item:: 地形参照： \ :ref:`サラ・ザビアロフ <srw4_pilot_sarah_zabiarov>`\ 。
-                :columns: auto
-
-
-            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_82.png
-                :columns: auto
-
-            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備、变形(\ :ref:`ガブスレイ (MA) <srw4_unit_gabthley_ma>`\ (MA型卡普司利))。
-                :columns: auto
-
-
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 属性
-    .. grid-item:: 值
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 属性
-    .. grid-item:: 值
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 属性
-    .. grid-item:: 值
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: HP
-    .. grid-item:: 1900
-    .. grid-item:: 45
-    .. grid-item:: 45
-    .. grid-item:: EN
-    .. grid-item:: 190
-    .. grid-item:: 54
-    .. grid-item:: 50
-    .. grid-item:: 装甲
-    .. grid-item:: 210
-    .. grid-item:: 41
-    .. grid-item:: 42
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 运动性
-    .. grid-item:: 38
-    .. grid-item:: 51
-    .. grid-item:: 53
-    .. grid-item:: 限界
-    .. grid-item:: 190
-    .. grid-item:: 51
-    .. grid-item:: 51
-    .. grid-item:: 移动力
-    .. grid-item:: 7
-    .. grid-item:: 42
-    .. grid-item:: 45
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 经验值
-    .. grid-item:: 75
-    .. grid-item:: 40
-    .. grid-item:: 41
-    .. grid-item:: 价值
-    .. grid-item:: 2000
-    .. grid-item:: 47
-    .. grid-item:: 46
-    .. grid-item:: 修理费
-    .. grid-item:: 3900
-    .. grid-item:: 48
-    .. grid-item:: 47
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 名字
-        :columns: 3
-    .. grid-item:: 攻击
-    .. grid-item:: 射程
-    .. grid-item:: 命中
-    .. grid-item:: 暴击
-    .. grid-item:: 地形
-        :columns: 3
-    .. grid-item:: 残弹/EN
-    .. grid-item:: 条件
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: バルカンⓅ
-        :columns: 3
-    .. grid-item:: 360
-    .. grid-item:: 1
-    .. grid-item:: +35
-    .. grid-item:: -10
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-    .. grid-item:: 残弹 5
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
-        :columns: 3
-    .. grid-item:: 940
-    .. grid-item:: 1
-    .. grid-item:: +20
-    .. grid-item:: +20
-    .. grid-item:: 空A→🚫陆A→B海A→B宇A
-        :columns: 3
-    .. grid-item:: 
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: フェダ－インライフル️Ⓑ
-        :columns: 3
-    .. grid-item:: 940
-    .. grid-item:: 1~8
-    .. grid-item:: -5
-    .. grid-item:: +10
-    .. grid-item:: 空A陆A海🚫宇A
-        :columns: 3
-    .. grid-item:: 残弹 8
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-
-.. _srw4_unit_gabthley_ms_commentBegin:
-
-代号RX-110。
-
-作为DC、新DC和提坦斯的机体登场。射程虽远，但是不如第三次大战那样有威胁。对海能力差，可以在水中等其上门。用カツ说得サラ可以入手一台，地形适应是最差的一档，还好加入的时候已经3段改造，射程8的武器可以一用，但是前提是面对的敌人没有光线护盾。除了射程和飞行形态之外，相比至此应已改造数段的初期机并没有多少优势，如果不事先规划改造优先级，则前途堪疑。
-
-
-.. _srw4_unit_gabthley_ms_commentEnd:
-
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-ガブスレイ (MA)(MA型卡普司利)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. _srw4_unit_gabthley_ma:
-
-
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-
-    .. grid-item:: 
-        :columns: 3
-
-        .. image:: ../units/images/portrait/srw4_units_portrait_6C.png
-
-    .. grid-item:: 
-        :columns: 9
-
-        .. grid:: 
-            :gutter: 0
-            :margin: 0
-            :padding: 0
-
-
-            .. grid-item:: 英文:Gabthley (MA)。
-                :columns: auto
-
-            .. grid-item:: 登场/加入:第20话。
-                :columns: auto
-
-            .. grid-item:: 编码:6C。
-                :columns: auto
-
-            .. grid-item:: 地址 BA871 (27560)。
-                :columns: auto
-
-            .. grid-item:: 武器首地址:BA891 (27580)。
-                :columns: auto
-
-            .. grid-item:: 移动类型:空。
-                :columns: auto
-
-
-            .. grid-item:: 大小 M。
-                :columns: auto
-
-            .. grid-item:: 地形适应:空B→C陆🚫→C海🚫→D宇A。
-                :columns: auto
-
-
-            .. grid-item:: 地形参照： \ :ref:`サラ・ザビアロフ <srw4_pilot_sarah_zabiarov>`\ 。
-                :columns: auto
-
-
-            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_82.png
-                :columns: auto
-
-            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 变形(\ :ref:`ガブスレイ (MS) <srw4_unit_gabthley_ms>`\ (MS型卡普司利))。
-                :columns: auto
-
-
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 属性
-    .. grid-item:: 值
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 属性
-    .. grid-item:: 值
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 属性
-    .. grid-item:: 值
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: HP
-    .. grid-item:: 1900
-    .. grid-item:: 45
-    .. grid-item:: 45
-    .. grid-item:: EN
-    .. grid-item:: 190
-    .. grid-item:: 54
-    .. grid-item:: 50
-    .. grid-item:: 装甲
-    .. grid-item:: 220
-    .. grid-item:: 42
-    .. grid-item:: 42
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 运动性
-    .. grid-item:: 36
-    .. grid-item:: 49
-    .. grid-item:: 51
-    .. grid-item:: 限界
-    .. grid-item:: 190
-    .. grid-item:: 51
-    .. grid-item:: 51
-    .. grid-item:: 移动力
-    .. grid-item:: 10
-    .. grid-item:: 59
-    .. grid-item:: 61
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 经验值
-    .. grid-item:: 75
-    .. grid-item:: 40
-    .. grid-item:: 41
-    .. grid-item:: 价值
-    .. grid-item:: 2000
-    .. grid-item:: 47
-    .. grid-item:: 46
-    .. grid-item:: 修理费
-    .. grid-item:: 3900
-    .. grid-item:: 48
-    .. grid-item:: 47
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 名字
-        :columns: 3
-    .. grid-item:: 攻击
-    .. grid-item:: 射程
-    .. grid-item:: 命中
-    .. grid-item:: 暴击
-    .. grid-item:: 地形
-        :columns: 3
-    .. grid-item:: 残弹/EN
-    .. grid-item:: 条件
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: フェダ－インライフル️Ⓑ
-        :columns: 3
-    .. grid-item:: 940
-    .. grid-item:: 1~8
-    .. grid-item:: -5
-    .. grid-item:: +10
-    .. grid-item:: 空A陆A海🚫宇A
-        :columns: 3
-    .. grid-item:: 残弹 8
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 
-        :columns: 3
-
-        | クロ－ア－ム🤛Ⓟ (Snes)
-        | クロ－ア－ムⓅ (PlayStation)
-
-    .. grid-item:: 990
-    .. grid-item:: 1
-    .. grid-item:: +25
-    .. grid-item:: +10
-    .. grid-item:: 空A→B (A)陆A→🚫 (A)海A→🚫 (A)宇A
-        :columns: 3
-    .. grid-item:: 
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-
-.. _srw4_unit_gabthley_ma_commentBegin:
-
-代号RX-110。空中适应仅为B，更加打不穿敌人的光线护盾了。虽然具备近战能力，但是机体本身的移动类型和地形适应太差以至于不太实用。
-
-第四次S中クローアーム不知为何变成了一格射击武器，虽然战斗动画仍然是格斗，但是现在可以对地面和海中敌人使用了。
-
-.. _srw4_unit_gabthley_ma_commentEnd:
-
-^^^^^^^^^^^^^^^^^^^^
-バイアラン(拜亚兰)
-^^^^^^^^^^^^^^^^^^^^
-
-.. _srw4_unit_byarlant:
-
-
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-
-    .. grid-item:: 
-        :columns: 3
-
-        .. image:: ../units/images/portrait/srw4_units_portrait_6A.png
-
-    .. grid-item:: 
-        :columns: 9
-
-        .. grid:: 
-            :gutter: 0
-            :margin: 0
-            :padding: 0
-
-
-            .. grid-item:: 英文:Byarlant。
-                :columns: auto
-
-            .. grid-item:: 登场/加入:第23话。
-                :columns: auto
-
-            .. grid-item:: 编码:6A。
-                :columns: auto
-
-            .. grid-item:: 地址 BA81E (2750D)。
-                :columns: auto
-
-            .. grid-item:: 武器首地址:BA83E (2752D)。
-                :columns: auto
-
-            .. grid-item:: 移动类型:空陸。
-                :columns: auto
-
-
-            .. grid-item:: 大小 M。
-                :columns: auto
-
-            .. grid-item:: 地形适应:空A陆B海D宇A。
-                :columns: auto
-
-
-            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
-                :columns: auto
-
-
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 属性
-    .. grid-item:: 值
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 属性
-    .. grid-item:: 值
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 属性
-    .. grid-item:: 值
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: HP
-    .. grid-item:: 2000
-    .. grid-item:: 45
-    .. grid-item:: 45
-    .. grid-item:: EN
-    .. grid-item:: 210
-    .. grid-item:: 60
-    .. grid-item:: 55
-    .. grid-item:: 装甲
-    .. grid-item:: 220
-    .. grid-item:: 42
-    .. grid-item:: 42
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 运动性
-    .. grid-item:: 34
-    .. grid-item:: 47
-    .. grid-item:: 49
-    .. grid-item:: 限界
-    .. grid-item:: 190
-    .. grid-item:: 51
-    .. grid-item:: 51
-    .. grid-item:: 移动力
-    .. grid-item:: 8
-    .. grid-item:: 48
-    .. grid-item:: 50
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 经验值
-    .. grid-item:: 80
-    .. grid-item:: 41
-    .. grid-item:: 42
-    .. grid-item:: 价值
-    .. grid-item:: 2000
-    .. grid-item:: 47
-    .. grid-item:: 46
-    .. grid-item:: 修理费
-    .. grid-item:: 4500
-    .. grid-item:: 49
-    .. grid-item:: 47
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 名字
-        :columns: 3
-    .. grid-item:: 攻击
-    .. grid-item:: 射程
-    .. grid-item:: 命中
-    .. grid-item:: 暴击
-    .. grid-item:: 地形
-        :columns: 3
-    .. grid-item:: 残弹/EN
-    .. grid-item:: 条件
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: メガ粒子砲️Ⓑ
-        :columns: 3
-    .. grid-item:: 940
-    .. grid-item:: 1~6
-    .. grid-item:: 
-    .. grid-item:: +10
-    .. grid-item:: 空A陆A海🚫宇A
-        :columns: 3
-    .. grid-item:: 残弹 8
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: ビ－ムサ－ベル🤛Ⓟ⚔
-        :columns: 3
-    .. grid-item:: 980
-    .. grid-item:: 1
-    .. grid-item:: +20
-    .. grid-item:: +20
-    .. grid-item:: 空A陆A→B海A→C宇A
-        :columns: 3
-    .. grid-item:: 
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-
-.. _srw4_unit_byarlant_commentBegin:
-
-拜阿兰主要作为提坦斯的机体登场，新DC也会少量使用。虽然火力较差，但是因为装甲过低，我军MS也会轻易被其击落。
-
-说得副主人公的话会带这台机体加入。之前需要选择有恋人。第四次中虽然加入时已经三段改造，而且是少有的空A的机动战士系机体，但是武器射程和攻击力太差导致沦为自保能力不错的探宝机。因为很快主角会转乘后期机，主角恋人会转乘亡灵，所以此时改造拜阿兰反而显得浪费资金，其性能甚至可能低于开局获得的一些改造段数更高的MS机体。
-
-如果一开始善作计划。则可能用来替代初期机。例如在是乞力马扎罗风暴这一话，因为地形名为云层实为陆地，移动类型为空且陆地适应为A的拜阿兰可以充分发挥。其他强力MS机体要么不能飞，变形为能飞的形态也会因为对陆地适应不佳而无法充分发挥性能。敌人也有同样的问题，不过敌人里也有几台拜阿兰。
-
-第四次S中加入时武器没有改造。实用性降低。
-
-.. _srw4_unit_byarlant_commentEnd:
 
 ^^^^
 百式
@@ -2555,7 +2555,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 价值
     .. grid-item:: 2000
     .. grid-item:: 47
-    .. grid-item:: 46
+    .. grid-item:: 45
     .. grid-item:: 修理费
     .. grid-item:: 3800
     .. grid-item:: 48
@@ -3446,7 +3446,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 运动性
     .. grid-item:: 35
     .. grid-item:: 48
-    .. grid-item:: 50
+    .. grid-item:: 50 (49)
     .. grid-item:: 限界
     .. grid-item:: 185
     .. grid-item:: 50
@@ -3814,7 +3814,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 限界
     .. grid-item:: 210
     .. grid-item:: 57
-    .. grid-item:: 57
+    .. grid-item:: 58 (57)
     .. grid-item:: 移动力
     .. grid-item:: 6
     .. grid-item:: 37
@@ -4513,7 +4513,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 运动性
     .. grid-item:: 35
     .. grid-item:: 48
-    .. grid-item:: 50
+    .. grid-item:: 50 (49)
     .. grid-item:: 限界
     .. grid-item:: 190
     .. grid-item:: 51
@@ -4727,7 +4727,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 经验值
     .. grid-item:: 150
     .. grid-item:: 52
-    .. grid-item:: 53
+    .. grid-item:: 52
     .. grid-item:: 价值
     .. grid-item:: 5500
     .. grid-item:: 53
@@ -4910,13 +4910,13 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 移动力
     .. grid-item:: 4
     .. grid-item:: 26
-    .. grid-item:: 29
+    .. grid-item:: 28
     .. grid-item::
         :class: flex-break
     .. grid-item:: 经验值
     .. grid-item:: 150
     .. grid-item:: 52
-    .. grid-item:: 53
+    .. grid-item:: 52
     .. grid-item:: 价值
     .. grid-item:: 5500
     .. grid-item:: 53
@@ -5091,7 +5091,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 205
     .. grid-item:: 56
@@ -5292,7 +5292,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 205
     .. grid-item:: 56
@@ -6044,7 +6044,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 装甲
     .. grid-item:: 0
     .. grid-item:: 30 (31)
-    .. grid-item:: 33 (34)
+    .. grid-item:: 33
     .. grid-item::
         :class: flex-break
     .. grid-item:: 运动性
@@ -6246,7 +6246,7 @@ Gディフェンサー(G-防卫号)
     .. grid-item:: 装甲
     .. grid-item:: 0
     .. grid-item:: 30 (31)
-    .. grid-item:: 33 (34)
+    .. grid-item:: 33
     .. grid-item::
         :class: flex-break
     .. grid-item:: 运动性

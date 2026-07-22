@@ -59,7 +59,7 @@
             .. grid-item:: 英文:Goshogun。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第28话。
+            .. grid-item:: 登场/加入:第14话。
                 :columns: auto
 
             .. grid-item:: 编码:42。
@@ -121,13 +121,13 @@
     .. grid-item:: 装甲
     .. grid-item:: 520
     .. grid-item:: 58 (57)
-    .. grid-item:: 55 (54)
+    .. grid-item:: 55
     .. grid-item::
         :class: flex-break
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 180
     .. grid-item:: 48
@@ -765,7 +765,7 @@
     .. grid-item:: HP
     .. grid-item:: 34000
     .. grid-item:: 176
-    .. grid-item:: 72 (71)
+    .. grid-item:: 71
     .. grid-item:: EN
     .. grid-item:: 255
     .. grid-item:: 73
@@ -779,7 +779,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 160
     .. grid-item:: 42
@@ -1074,6 +1074,9 @@
 
 
             .. grid-item:: 英文:God Neros。
+                :columns: auto
+
+            .. grid-item:: 登场/加入:第43话。
                 :columns: auto
 
             .. grid-item:: 编码:52。

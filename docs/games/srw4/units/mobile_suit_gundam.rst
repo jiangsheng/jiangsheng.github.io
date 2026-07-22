@@ -929,7 +929,7 @@
     .. grid-item:: 价值
     .. grid-item:: 6000
     .. grid-item:: 54
-    .. grid-item:: 53
+    .. grid-item:: 52
     .. grid-item:: 修理费
     .. grid-item:: 10000
     .. grid-item:: 55

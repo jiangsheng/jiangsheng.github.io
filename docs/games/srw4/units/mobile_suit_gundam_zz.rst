@@ -364,7 +364,7 @@ ZΖガンダム(ZZ高达)
     .. grid-item:: 经验值
     .. grid-item:: 150
     .. grid-item:: 52
-    .. grid-item:: 53
+    .. grid-item:: 52
     .. grid-item:: 价值
     .. grid-item:: 2200
     .. grid-item:: 47
@@ -583,7 +583,7 @@ G-フォートレス(G-要塞)
     .. grid-item:: 运动性
     .. grid-item:: 34
     .. grid-item:: 47
-    .. grid-item:: 49
+    .. grid-item:: 49 (48)
     .. grid-item:: 限界
     .. grid-item:: 190
     .. grid-item:: 51
@@ -597,7 +597,7 @@ G-フォートレス(G-要塞)
     .. grid-item:: 经验值
     .. grid-item:: 150
     .. grid-item:: 52
-    .. grid-item:: 53
+    .. grid-item:: 52
     .. grid-item:: 价值
     .. grid-item:: 2200
     .. grid-item:: 47
@@ -988,7 +988,7 @@ ZZ的高速移动形态。原作中可以承受200米的水压，不知为何在
     .. grid-item:: 限界
     .. grid-item:: 230
     .. grid-item:: 64
-    .. grid-item:: 64 (63)
+    .. grid-item:: 64
     .. grid-item:: 移动力
     .. grid-item:: 8
     .. grid-item:: 48
@@ -1358,7 +1358,7 @@ ZZ的高速移动形态。原作中可以承受200米的水压，不知为何在
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 180
     .. grid-item:: 48
@@ -1908,7 +1908,7 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: 限界
     .. grid-item:: 210
     .. grid-item:: 57
-    .. grid-item:: 57
+    .. grid-item:: 58 (57)
     .. grid-item:: 移动力
     .. grid-item:: 10
     .. grid-item:: 59
@@ -2085,7 +2085,7 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: 限界
     .. grid-item:: 210
     .. grid-item:: 57
-    .. grid-item:: 57
+    .. grid-item:: 58 (57)
     .. grid-item:: 移动力
     .. grid-item:: 8
     .. grid-item:: 48
@@ -2279,7 +2279,7 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: 限界
     .. grid-item:: 210
     .. grid-item:: 57
-    .. grid-item:: 57
+    .. grid-item:: 58 (57)
     .. grid-item:: 移动力
     .. grid-item:: 8
     .. grid-item:: 48
@@ -2915,7 +2915,7 @@ R·ジャジャ(R·贾贾)
     .. grid-item:: 限界
     .. grid-item:: 230
     .. grid-item:: 64
-    .. grid-item:: 64 (63)
+    .. grid-item:: 64
     .. grid-item:: 移动力
     .. grid-item:: 8
     .. grid-item:: 48

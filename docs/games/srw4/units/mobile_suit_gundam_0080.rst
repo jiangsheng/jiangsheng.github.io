@@ -568,7 +568,7 @@ NT-1アレックス(NT-1阿历克斯)
     .. grid-item:: 运动性
     .. grid-item:: 35
     .. grid-item:: 48
-    .. grid-item:: 50
+    .. grid-item:: 50 (49)
     .. grid-item:: 限界
     .. grid-item:: 170
     .. grid-item:: 45

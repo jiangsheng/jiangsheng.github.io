@@ -145,7 +145,7 @@
     .. grid-item:: 经验值
     .. grid-item:: 65
     .. grid-item:: 38
-    .. grid-item:: 40
+    .. grid-item:: 39
     .. grid-item:: 价值
     .. grid-item:: 1700
     .. grid-item:: 46
@@ -1010,7 +1010,7 @@
     .. grid-item:: 限界
     .. grid-item:: 230
     .. grid-item:: 64
-    .. grid-item:: 64 (63)
+    .. grid-item:: 64
     .. grid-item:: 移动力
     .. grid-item:: 8
     .. grid-item:: 48
@@ -1245,7 +1245,7 @@
     .. grid-item:: 修理费
     .. grid-item:: 65000
     .. grid-item:: 116
-    .. grid-item:: 98
+    .. grid-item:: 99
 
 .. grid:: 
     :gutter: 0
@@ -1852,7 +1852,7 @@
     .. grid-item:: 限界
     .. grid-item:: 230
     .. grid-item:: 64
-    .. grid-item:: 64 (63)
+    .. grid-item:: 64
     .. grid-item:: 移动力
     .. grid-item:: 8
     .. grid-item:: 48
@@ -2640,7 +2640,7 @@
     .. grid-item:: 装甲
     .. grid-item:: 0
     .. grid-item:: 30 (31)
-    .. grid-item:: 33 (34)
+    .. grid-item:: 33
     .. grid-item::
         :class: flex-break
     .. grid-item:: 运动性

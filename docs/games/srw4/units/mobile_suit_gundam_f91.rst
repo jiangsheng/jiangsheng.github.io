@@ -149,7 +149,7 @@ F-91
     .. grid-item:: 价值
     .. grid-item:: 2000
     .. grid-item:: 47
-    .. grid-item:: 46
+    .. grid-item:: 45
     .. grid-item:: 修理费
     .. grid-item:: 3500
     .. grid-item:: 48
@@ -548,7 +548,7 @@ F-91
     .. grid-item:: 限界
     .. grid-item:: 230
     .. grid-item:: 64
-    .. grid-item:: 64 (63)
+    .. grid-item:: 64
     .. grid-item:: 移动力
     .. grid-item:: 10
     .. grid-item:: 59
@@ -723,7 +723,7 @@ F-91
     .. grid-item:: HP
     .. grid-item:: 34000
     .. grid-item:: 176
-    .. grid-item:: 72 (71)
+    .. grid-item:: 71
     .. grid-item:: EN
     .. grid-item:: 255
     .. grid-item:: 73
@@ -958,7 +958,7 @@ F-91
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 220
     .. grid-item:: 61
@@ -980,7 +980,7 @@ F-91
     .. grid-item:: 修理费
     .. grid-item:: 65000
     .. grid-item:: 116
-    .. grid-item:: 98
+    .. grid-item:: 99
 
 .. grid:: 
     :gutter: 0

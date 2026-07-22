@@ -2055,7 +2055,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 170
     .. grid-item:: 45
@@ -2256,7 +2256,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 34
     .. grid-item:: 47
-    .. grid-item:: 49
+    .. grid-item:: 49 (48)
     .. grid-item:: 限界
     .. grid-item:: 190
     .. grid-item:: 51
@@ -2469,7 +2469,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 34
     .. grid-item:: 47
-    .. grid-item:: 49
+    .. grid-item:: 49 (48)
     .. grid-item:: 限界
     .. grid-item:: 180
     .. grid-item:: 48

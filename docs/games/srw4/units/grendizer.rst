@@ -122,7 +122,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 190
     .. grid-item:: 51
@@ -136,7 +136,7 @@
     .. grid-item:: 经验值
     .. grid-item:: 150
     .. grid-item:: 52
-    .. grid-item:: 53
+    .. grid-item:: 52
     .. grid-item:: 价值
     .. grid-item:: 2200
     .. grid-item:: 47
@@ -334,7 +334,7 @@
     .. grid-item:: 经验值
     .. grid-item:: 150
     .. grid-item:: 52
-    .. grid-item:: 53
+    .. grid-item:: 52
     .. grid-item:: 价值
     .. grid-item:: 2200
     .. grid-item:: 47
@@ -515,7 +515,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 170
     .. grid-item:: 45
@@ -750,7 +750,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 170
     .. grid-item:: 45
@@ -1014,7 +1014,7 @@
     .. grid-item:: 经验值
     .. grid-item:: 150
     .. grid-item:: 52
-    .. grid-item:: 53
+    .. grid-item:: 52
     .. grid-item:: 价值
     .. grid-item:: 2200
     .. grid-item:: 47
@@ -1195,7 +1195,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 170
     .. grid-item:: 45
@@ -1456,7 +1456,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 170
     .. grid-item:: 45
@@ -1717,7 +1717,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 170
     .. grid-item:: 45
@@ -1975,7 +1975,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 170
     .. grid-item:: 45

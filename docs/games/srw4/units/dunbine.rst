@@ -359,7 +359,7 @@
     .. grid-item:: 限界
     .. grid-item:: 210
     .. grid-item:: 57
-    .. grid-item:: 57
+    .. grid-item:: 58 (57)
     .. grid-item:: 移动力
     .. grid-item:: 10
     .. grid-item:: 59
@@ -1214,7 +1214,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 价值
     .. grid-item:: 2000
     .. grid-item:: 47
-    .. grid-item:: 46
+    .. grid-item:: 45
     .. grid-item:: 修理费
     .. grid-item:: 9000
     .. grid-item:: 54
@@ -1590,7 +1590,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 运动性
     .. grid-item:: 35
     .. grid-item:: 48
-    .. grid-item:: 50
+    .. grid-item:: 50 (49)
     .. grid-item:: 限界
     .. grid-item:: 190
     .. grid-item:: 51
@@ -1781,7 +1781,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 运动性
     .. grid-item:: 35
     .. grid-item:: 48
-    .. grid-item:: 50
+    .. grid-item:: 50 (49)
     .. grid-item:: 限界
     .. grid-item:: 190
     .. grid-item:: 51
@@ -2571,7 +2571,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: HP
     .. grid-item:: 44000
     .. grid-item:: 218 (217)
-    .. grid-item:: 80
+    .. grid-item:: 80 (79)
     .. grid-item:: EN
     .. grid-item:: 200
     .. grid-item:: 57
@@ -2585,7 +2585,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 运动性
     .. grid-item:: 35
     .. grid-item:: 48
-    .. grid-item:: 50
+    .. grid-item:: 50 (49)
     .. grid-item:: 限界
     .. grid-item:: 190
     .. grid-item:: 51
@@ -3721,7 +3721,7 @@ HP值较前作大幅降低，未经改造时稍显吃力。此外前述的塞巴
     .. grid-item:: 限界
     .. grid-item:: 240
     .. grid-item:: 67
-    .. grid-item:: 67 (66)
+    .. grid-item:: 67
     .. grid-item:: 移动力
     .. grid-item:: 13
     .. grid-item:: 75

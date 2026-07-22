@@ -519,7 +519,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 运动性
     .. grid-item:: 65
     .. grid-item:: 82
-    .. grid-item:: 80
+    .. grid-item:: 81 (80)
     .. grid-item:: 限界
     .. grid-item:: 235
     .. grid-item:: 65
@@ -985,7 +985,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 装甲
     .. grid-item:: 380 (520)
     .. grid-item:: 50 (57)
-    .. grid-item:: 49 (54)
+    .. grid-item:: 49 (55)
     .. grid-item::
         :class: flex-break
     .. grid-item:: 运动性
@@ -1188,7 +1188,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 运动性
     .. grid-item:: 35
     .. grid-item:: 48
-    .. grid-item:: 50
+    .. grid-item:: 50 (49)
     .. grid-item:: 限界
     .. grid-item:: 200
     .. grid-item:: 54
@@ -1305,7 +1305,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
             .. grid-item:: 英文:Cybuster。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第34话。
+            .. grid-item:: 登场/加入:第27话。
                 :columns: auto
 
             .. grid-item:: 编码:53。
@@ -1381,7 +1381,7 @@ PS版不知为何将对空适应提升了，然而因为地形适应是取人物
     .. grid-item:: 限界
     .. grid-item:: 230
     .. grid-item:: 64
-    .. grid-item:: 64 (63)
+    .. grid-item:: 64
     .. grid-item:: 移动力
     .. grid-item:: 10
     .. grid-item:: 59
@@ -1542,7 +1542,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             .. grid-item:: 英文:Cybird。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第34话。
+            .. grid-item:: 登场/加入:第27话。
                 :columns: auto
 
             .. grid-item:: 编码:54。
@@ -1618,7 +1618,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 限界
     .. grid-item:: 230
     .. grid-item:: 64
-    .. grid-item:: 64 (63)
+    .. grid-item:: 64
     .. grid-item:: 移动力
     .. grid-item:: 14
     .. grid-item:: 80
@@ -1698,6 +1698,213 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 飞行形态，移动力上升，装甲和运动型下降，另外少了很多武器。鉴于经常只有地图武器被改造，用这个模式战斗也无不可。但是碰见强大的敌人还是建议变成机器人形态然后降落到有利地形获得加成。
 
 .. _srw4_unit_cybird_commentEnd:
+
+^^^^^^^^^^^^^^^^^^^^
+グランゾン(古兰森)
+^^^^^^^^^^^^^^^^^^^^
+
+.. _srw4_unit_granzon:
+
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+
+    .. grid-item:: 
+        :columns: 3
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_55.png
+
+    .. grid-item:: 
+        :columns: 9
+
+        .. grid:: 
+            :gutter: 0
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 英文:Granzon。
+                :columns: auto
+
+            .. grid-item:: 登场/加入:第35话。
+                :columns: auto
+
+            .. grid-item:: 编码:55。
+                :columns: auto
+
+            .. grid-item:: 地址 BA473 (27162)。
+                :columns: auto
+
+            .. grid-item:: 武器首地址:BA493 (27182)。
+                :columns: auto
+
+            .. grid-item:: 移动类型:空陸。
+                :columns: auto
+
+
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空A陆A海B宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ 。
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1F.png
+                :columns: auto
+
+            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
+                :columns: auto
+
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 4800
+    .. grid-item:: 56
+    .. grid-item:: 47
+    .. grid-item:: EN
+    .. grid-item:: 180
+    .. grid-item:: 51
+    .. grid-item:: 47
+    .. grid-item:: 装甲
+    .. grid-item:: 480
+    .. grid-item:: 56 (55)
+    .. grid-item:: 53
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 43
+    .. grid-item:: 57
+    .. grid-item:: 58
+    .. grid-item:: 限界
+    .. grid-item:: 220
+    .. grid-item:: 61
+    .. grid-item:: 61 (60)
+    .. grid-item:: 移动力
+    .. grid-item:: 8
+    .. grid-item:: 48
+    .. grid-item:: 50
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 210
+    .. grid-item:: 62
+    .. grid-item:: 62
+    .. grid-item:: 价值
+    .. grid-item:: 5500
+    .. grid-item:: 53
+    .. grid-item:: 52
+    .. grid-item:: 修理费
+    .. grid-item:: 8000
+    .. grid-item:: 53
+    .. grid-item:: 50
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+    .. grid-item:: 攻击
+    .. grid-item:: 射程
+    .. grid-item:: 命中
+    .. grid-item:: 暴击
+    .. grid-item:: 地形
+        :columns: 3
+    .. grid-item:: 残弹/EN
+    .. grid-item:: 条件
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: グランワ－ムソ－ド🤛Ⓟ
+        :columns: 3
+    .. grid-item:: 1260
+    .. grid-item:: 1
+    .. grid-item:: +17
+    .. grid-item:: +20
+    .. grid-item:: 空A陆A海A→B宇A
+        :columns: 3
+    .. grid-item:: 
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: グラビトロンカノン🗺
+        :columns: 3
+    .. grid-item:: 1540 (2500)
+    .. grid-item:: 1~7
+    .. grid-item:: +15
+    .. grid-item:: -10
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+    .. grid-item:: 残弹 3
+    .. grid-item:: 100气力
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: ワ－ムスマッシャ－
+        :columns: 3
+    .. grid-item:: 2100
+    .. grid-item:: 1~9
+    .. grid-item:: -5
+    .. grid-item:: +10
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+    .. grid-item:: EN 30
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: ブラックホ－ルクラスタ－
+        :columns: 3
+    .. grid-item:: 4200 (4600)
+    .. grid-item:: 1~9
+    .. grid-item:: +2
+    .. grid-item:: +20
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+    .. grid-item:: 残弹 6
+    .. grid-item:: 130气力
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_granzon_commentBegin:
+
+古兰森是剧情中至关重要的角色。包括《EX》中的拉·吉亚斯事件在内，不可思议的偶然事件频发被揭示为源于其黑洞引擎"奇点"的作用。
+
+作为隐藏要素，根据最终话前总回合数可成为同伴，若总回合数超标，根据选择项不同，可能驾驶真古兰森瞬间击杀最终BOSS后再度袭击我军。
+
+虽然作为盟友时性能相当强劲，但最终话需与精锐机体激战，难度极高甚至可能陷入绝境。加之其加入时未经过改造，且白河愁的精神指令也欠佳，即便费尽周折将其招募，对于达成加入条件的硬核玩家来说，最终也难以成为有效战力，实属遗憾。相反，同时加入的其他两个人物因为精神尚佳，更易获得出场机会。
+
+第四次S大大加强了地图武器的威力，可惜只能用最后一话，在我军其他地图武器机体应该已经改造满的情况下，没有什么改造价值。加强了的黑洞跑也是一样。
+
+.. _srw4_unit_granzon_commentEnd:
 
 ^^^^^^^^^^^^^^^^^^^^^^
 ザムジード(扎姆基德)
@@ -1918,219 +2125,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_zamzeed_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-ヴァルシオーネR(瓦尔西奥妮R)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. _srw4_unit_valsione_r:
-
-
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-
-    .. grid-item:: 
-        :columns: 3
-
-        .. image:: ../units/images/portrait/srw4_units_portrait_57.png
-
-    .. grid-item:: 
-        :columns: 9
-
-        .. grid:: 
-            :gutter: 0
-            :margin: 0
-            :padding: 0
-
-
-            .. grid-item:: 英文:Valsione R。
-                :columns: auto
-
-            .. grid-item:: 登场/加入:第43话。
-                :columns: auto
-
-            .. grid-item:: 编码:57。
-                :columns: auto
-
-            .. grid-item:: 地址 BA4D2 (271C1)。
-                :columns: auto
-
-            .. grid-item:: 武器首地址:BA4F2 (271E1)。
-                :columns: auto
-
-            .. grid-item:: 移动类型:空陸。
-                :columns: auto
-
-
-            .. grid-item:: 大小 M。
-                :columns: auto
-
-            .. grid-item:: 地形适应:空B陆B海B→C宇A。
-                :columns: auto
-
-
-            .. grid-item:: 地形参照： \ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ 。
-                :columns: auto
-
-
-            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1E.png
-                :columns: auto
-
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 属性
-    .. grid-item:: 值
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 属性
-    .. grid-item:: 值
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 属性
-    .. grid-item:: 值
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: HP
-    .. grid-item:: 3500
-    .. grid-item:: 51
-    .. grid-item:: 46
-    .. grid-item:: EN
-    .. grid-item:: 170
-    .. grid-item:: 48
-    .. grid-item:: 45
-    .. grid-item:: 装甲
-    .. grid-item:: 360
-    .. grid-item:: 49
-    .. grid-item:: 48
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 运动性
-    .. grid-item:: 48
-    .. grid-item:: 63
-    .. grid-item:: 63
-    .. grid-item:: 限界
-    .. grid-item:: 220
-    .. grid-item:: 61
-    .. grid-item:: 61 (60)
-    .. grid-item:: 移动力
-    .. grid-item:: 9
-    .. grid-item:: 53
-    .. grid-item:: 55
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 经验值
-    .. grid-item:: 200
-    .. grid-item:: 60
-    .. grid-item:: 60
-    .. grid-item:: 价值
-    .. grid-item:: 4300
-    .. grid-item:: 51
-    .. grid-item:: 50
-    .. grid-item:: 修理费
-    .. grid-item:: 6500
-    .. grid-item:: 51
-    .. grid-item:: 49
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 名字
-        :columns: 3
-    .. grid-item:: 攻击
-    .. grid-item:: 射程
-    .. grid-item:: 命中
-    .. grid-item:: 暴击
-    .. grid-item:: 地形
-        :columns: 3
-    .. grid-item:: 残弹/EN
-    .. grid-item:: 条件
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: ディバインア－ム🤛Ⓟ
-        :columns: 3
-    .. grid-item:: 970
-    .. grid-item:: 1
-    .. grid-item:: +23
-    .. grid-item:: +10
-    .. grid-item:: 空A→B陆A→B海A→B宇A
-        :columns: 3
-    .. grid-item:: 
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: サイコブラスタ－🗺Ⓟ
-        :columns: 3
-    .. grid-item:: 1480 (1780)
-    .. grid-item:: 1~6
-    .. grid-item:: +15
-    .. grid-item:: -10
-    .. grid-item:: 空A陆A海C宇A
-        :columns: 3
-    .. grid-item:: 残弹 2
-    .. grid-item:: 100气力
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: クロスソ－サ－⚔
-        :columns: 3
-    .. grid-item:: 1620 (1850)
-    .. grid-item:: 2~9
-    .. grid-item:: +10
-    .. grid-item:: +30
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-    .. grid-item:: 残弹 8
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: ハイパ－ビ－ムキャノン️Ⓑ
-        :columns: 3
-    .. grid-item:: 1870 (2100)
-    .. grid-item:: 1~6
-    .. grid-item:: -5
-    .. grid-item:: 0
-    .. grid-item:: 空A陆A海🚫宇A
-        :columns: 3
-    .. grid-item:: EN 30
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: クロスマッシャ－
-        :columns: 3
-    .. grid-item:: 2390 (2530)
-    .. grid-item:: 1~7
-    .. grid-item:: 
-    .. grid-item:: +10
-    .. grid-item:: 空A陆A海C宇A
-        :columns: 3
-    .. grid-item:: 残弹 4
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-
-.. _srw4_unit_valsione_r_commentBegin:
-
-以敌方身份登场。可能被NPC击落，故需尽早由\ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ （安藤正树）进行说得才能入手。第四次中若最终话前总回合数低于320则会脱队。第四次S则无此事件。加入时机体已完成三阶段改造，但是第四次S则武器无改造。
-
-第四次中一直到倒数第二关才能进行改造。而且还可能脱队，根据路线选择，改造意义可能不是很大。第四次S中则在加入后立刻可以在加入之后新增的剧情之前进行改造，只有地图武器有改造价值。
-
-地形适应比较差，即使在第四次S中也没有改善，以至于攻击力比账面数字低。
-
-.. _srw4_unit_valsione_r_commentEnd:
-
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 グランヴェール(古兰威尔)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -2163,7 +2157,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             .. grid-item:: 英文:Grannvale。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第43话。
+            .. grid-item:: 登场/加入:第35话。
                 :columns: auto
 
             .. grid-item:: 编码:59。
@@ -2388,7 +2382,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             .. grid-item:: 英文:Gaddeath。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第43话。
+            .. grid-item:: 登场/加入:第35话。
                 :columns: auto
 
             .. grid-item:: 编码:5A。
@@ -2555,213 +2549,6 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 .. _srw4_unit_gaddeath_commentEnd:
 
-^^^^^^^^^^^^^^^^^^^^
-グランゾン(古兰森)
-^^^^^^^^^^^^^^^^^^^^
-
-.. _srw4_unit_granzon:
-
-
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-
-    .. grid-item:: 
-        :columns: 3
-
-        .. image:: ../units/images/portrait/srw4_units_portrait_55.png
-
-    .. grid-item:: 
-        :columns: 9
-
-        .. grid:: 
-            :gutter: 0
-            :margin: 0
-            :padding: 0
-
-
-            .. grid-item:: 英文:Granzon。
-                :columns: auto
-
-            .. grid-item:: 登场/加入:第44话。
-                :columns: auto
-
-            .. grid-item:: 编码:55。
-                :columns: auto
-
-            .. grid-item:: 地址 BA473 (27162)。
-                :columns: auto
-
-            .. grid-item:: 武器首地址:BA493 (27182)。
-                :columns: auto
-
-            .. grid-item:: 移动类型:空陸。
-                :columns: auto
-
-
-            .. grid-item:: 大小 M。
-                :columns: auto
-
-            .. grid-item:: 地形适应:空A陆A海B宇A。
-                :columns: auto
-
-
-            .. grid-item:: 地形参照： \ :ref:`シュウ・シラカワ <srw4_pilot_shu_shirakawa>`\ 。
-                :columns: auto
-
-
-            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1F.png
-                :columns: auto
-
-            .. grid-item:: \ :ref:`技能 <srw4_unit_specialty>`\ : 剣装備。
-                :columns: auto
-
-
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 属性
-    .. grid-item:: 值
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 属性
-    .. grid-item:: 值
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item:: 属性
-    .. grid-item:: 值
-    .. grid-item:: 己偏差值
-    .. grid-item:: 全偏差值
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: HP
-    .. grid-item:: 4800
-    .. grid-item:: 56
-    .. grid-item:: 47
-    .. grid-item:: EN
-    .. grid-item:: 180
-    .. grid-item:: 51
-    .. grid-item:: 47
-    .. grid-item:: 装甲
-    .. grid-item:: 480
-    .. grid-item:: 56 (55)
-    .. grid-item:: 53
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 运动性
-    .. grid-item:: 43
-    .. grid-item:: 57
-    .. grid-item:: 58
-    .. grid-item:: 限界
-    .. grid-item:: 220
-    .. grid-item:: 61
-    .. grid-item:: 61 (60)
-    .. grid-item:: 移动力
-    .. grid-item:: 8
-    .. grid-item:: 48
-    .. grid-item:: 50
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: 经验值
-    .. grid-item:: 210
-    .. grid-item:: 62
-    .. grid-item:: 62
-    .. grid-item:: 价值
-    .. grid-item:: 5500
-    .. grid-item:: 53
-    .. grid-item:: 52
-    .. grid-item:: 修理费
-    .. grid-item:: 8000
-    .. grid-item:: 53
-    .. grid-item:: 50
-
-.. grid:: 
-    :gutter: 0
-    :margin: 0
-    :padding: 0
-    :outline:
-
-    .. grid-item:: 名字
-        :columns: 3
-    .. grid-item:: 攻击
-    .. grid-item:: 射程
-    .. grid-item:: 命中
-    .. grid-item:: 暴击
-    .. grid-item:: 地形
-        :columns: 3
-    .. grid-item:: 残弹/EN
-    .. grid-item:: 条件
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: グランワ－ムソ－ド🤛Ⓟ
-        :columns: 3
-    .. grid-item:: 1260
-    .. grid-item:: 1
-    .. grid-item:: +17
-    .. grid-item:: +20
-    .. grid-item:: 空A陆A海A→B宇A
-        :columns: 3
-    .. grid-item:: 
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: グラビトロンカノン🗺
-        :columns: 3
-    .. grid-item:: 1540 (2500)
-    .. grid-item:: 1~7
-    .. grid-item:: +15
-    .. grid-item:: -10
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-    .. grid-item:: 残弹 3
-    .. grid-item:: 100气力
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: ワ－ムスマッシャ－
-        :columns: 3
-    .. grid-item:: 2100
-    .. grid-item:: 1~9
-    .. grid-item:: -5
-    .. grid-item:: +10
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-    .. grid-item:: EN 30
-    .. grid-item:: 
-    .. grid-item::
-        :class: flex-break
-    .. grid-item:: ブラックホ－ルクラスタ－
-        :columns: 3
-    .. grid-item:: 4200 (4600)
-    .. grid-item:: 1~9
-    .. grid-item:: +2
-    .. grid-item:: +20
-    .. grid-item:: 空A陆A海A宇A
-        :columns: 3
-    .. grid-item:: 残弹 6
-    .. grid-item:: 130气力
-    .. grid-item::
-        :class: flex-break
-
-.. _srw4_unit_granzon_commentBegin:
-
-古兰森是剧情中至关重要的角色。包括《EX》中的拉·吉亚斯事件在内，不可思议的偶然事件频发被揭示为源于其黑洞引擎"奇点"的作用。
-
-作为隐藏要素，根据最终话前总回合数可成为同伴，若总回合数超标，根据选择项不同，可能驾驶真古兰森瞬间击杀最终BOSS后再度袭击我军。
-
-虽然作为盟友时性能相当强劲，但最终话需与精锐机体激战，难度极高甚至可能陷入绝境。加之其加入时未经过改造，且白河愁的精神指令也欠佳，即便费尽周折将其招募，对于达成加入条件的硬核玩家来说，最终也难以成为有效战力，实属遗憾。相反，同时加入的其他两个人物因为精神尚佳，更易获得出场机会。
-
-第四次S大大加强了地图武器的威力，可惜只能用最后一话，在我军其他地图武器机体应该已经改造满的情况下，没有什么改造价值。加强了的黑洞跑也是一样。
-
-.. _srw4_unit_granzon_commentEnd:
-
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 ウィーゾル改(维佐尔·改)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -2794,7 +2581,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
             .. grid-item:: 英文:Weesol Kai。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第44话。
+            .. grid-item:: 登场/加入:第39话。
                 :columns: auto
 
             .. grid-item:: 编码:5B。
@@ -2950,6 +2737,219 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 第四次S新增剧本中实现提前参战。此时虽然机体处于全改造状态，但是正式加入时机体状态将恢复为未改造。此外，陆地和宇宙地形适应性提升至A级，但萨菲妮自身能力未变，宇宙地形适应性仍维持B级，仅有地面适应得到提升。另外武器威力有所增加。
 
 .. _srw4_unit_weesol_kai_commentEnd:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ヴァルシオーネR(瓦尔西奥妮R)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _srw4_unit_valsione_r:
+
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+
+    .. grid-item:: 
+        :columns: 3
+
+        .. image:: ../units/images/portrait/srw4_units_portrait_57.png
+
+    .. grid-item:: 
+        :columns: 9
+
+        .. grid:: 
+            :gutter: 0
+            :margin: 0
+            :padding: 0
+
+
+            .. grid-item:: 英文:Valsione R。
+                :columns: auto
+
+            .. grid-item:: 登场/加入:第43话。
+                :columns: auto
+
+            .. grid-item:: 编码:57。
+                :columns: auto
+
+            .. grid-item:: 地址 BA4D2 (271C1)。
+                :columns: auto
+
+            .. grid-item:: 武器首地址:BA4F2 (271E1)。
+                :columns: auto
+
+            .. grid-item:: 移动类型:空陸。
+                :columns: auto
+
+
+            .. grid-item:: 大小 M。
+                :columns: auto
+
+            .. grid-item:: 地形适应:空B陆B海B→C宇A。
+                :columns: auto
+
+
+            .. grid-item:: 地形参照： \ :ref:`リューネ・ゾルダーク <srw4_pilot_ryune_zoldark>`\ 。
+                :columns: auto
+
+
+            .. grid-item:: .. image:: ../pilots/images/srw4_pilot_1E.png
+                :columns: auto
+
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item:: 属性
+    .. grid-item:: 值
+    .. grid-item:: 己偏差值
+    .. grid-item:: 全偏差值
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: HP
+    .. grid-item:: 3500
+    .. grid-item:: 51
+    .. grid-item:: 46
+    .. grid-item:: EN
+    .. grid-item:: 170
+    .. grid-item:: 48
+    .. grid-item:: 45
+    .. grid-item:: 装甲
+    .. grid-item:: 360
+    .. grid-item:: 49
+    .. grid-item:: 48
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 运动性
+    .. grid-item:: 48
+    .. grid-item:: 63
+    .. grid-item:: 63
+    .. grid-item:: 限界
+    .. grid-item:: 220
+    .. grid-item:: 61
+    .. grid-item:: 61 (60)
+    .. grid-item:: 移动力
+    .. grid-item:: 9
+    .. grid-item:: 53
+    .. grid-item:: 55
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: 经验值
+    .. grid-item:: 200
+    .. grid-item:: 60
+    .. grid-item:: 60
+    .. grid-item:: 价值
+    .. grid-item:: 4300
+    .. grid-item:: 51
+    .. grid-item:: 50
+    .. grid-item:: 修理费
+    .. grid-item:: 6500
+    .. grid-item:: 51
+    .. grid-item:: 49
+
+.. grid:: 
+    :gutter: 0
+    :margin: 0
+    :padding: 0
+    :outline:
+
+    .. grid-item:: 名字
+        :columns: 3
+    .. grid-item:: 攻击
+    .. grid-item:: 射程
+    .. grid-item:: 命中
+    .. grid-item:: 暴击
+    .. grid-item:: 地形
+        :columns: 3
+    .. grid-item:: 残弹/EN
+    .. grid-item:: 条件
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: ディバインア－ム🤛Ⓟ
+        :columns: 3
+    .. grid-item:: 970
+    .. grid-item:: 1
+    .. grid-item:: +23
+    .. grid-item:: +10
+    .. grid-item:: 空A→B陆A→B海A→B宇A
+        :columns: 3
+    .. grid-item:: 
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: サイコブラスタ－🗺Ⓟ
+        :columns: 3
+    .. grid-item:: 1480 (1780)
+    .. grid-item:: 1~6
+    .. grid-item:: +15
+    .. grid-item:: -10
+    .. grid-item:: 空A陆A海C宇A
+        :columns: 3
+    .. grid-item:: 残弹 2
+    .. grid-item:: 100气力
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: クロスソ－サ－⚔
+        :columns: 3
+    .. grid-item:: 1620 (1850)
+    .. grid-item:: 2~9
+    .. grid-item:: +10
+    .. grid-item:: +30
+    .. grid-item:: 空A陆A海A宇A
+        :columns: 3
+    .. grid-item:: 残弹 8
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: ハイパ－ビ－ムキャノン️Ⓑ
+        :columns: 3
+    .. grid-item:: 1870 (2100)
+    .. grid-item:: 1~6
+    .. grid-item:: -5
+    .. grid-item:: 0
+    .. grid-item:: 空A陆A海🚫宇A
+        :columns: 3
+    .. grid-item:: EN 30
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+    .. grid-item:: クロスマッシャ－
+        :columns: 3
+    .. grid-item:: 2390 (2530)
+    .. grid-item:: 1~7
+    .. grid-item:: 
+    .. grid-item:: +10
+    .. grid-item:: 空A陆A海C宇A
+        :columns: 3
+    .. grid-item:: 残弹 4
+    .. grid-item:: 
+    .. grid-item::
+        :class: flex-break
+
+.. _srw4_unit_valsione_r_commentBegin:
+
+以敌方身份登场。可能被NPC击落，故需尽早由\ :ref:`マサキ・アンドー <srw4_pilot_masaki_andoh>`\ （安藤正树）进行说得才能入手。第四次中若最终话前总回合数低于320则会脱队。第四次S则无此事件。加入时机体已完成三阶段改造，但是第四次S则武器无改造。
+
+第四次中一直到倒数第二关才能进行改造。而且还可能脱队，根据路线选择，改造意义可能不是很大。第四次S中则在加入后立刻可以在加入之后新增的剧情之前进行改造，只有地图武器有改造价值。
+
+地形适应比较差，即使在第四次S中也没有改善，以至于攻击力比账面数字低。
+
+.. _srw4_unit_valsione_r_commentEnd:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 ノルス·レイ(诺鲁斯·改)
@@ -3242,7 +3242,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 运动性
     .. grid-item:: 35
     .. grid-item:: 48
-    .. grid-item:: 50
+    .. grid-item:: 50 (49)
     .. grid-item:: 限界
     .. grid-item:: 170
     .. grid-item:: 45
@@ -3424,7 +3424,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 经验值
     .. grid-item:: 150
     .. grid-item:: 52
-    .. grid-item:: 53
+    .. grid-item:: 52
     .. grid-item:: 价值
     .. grid-item:: 4000
     .. grid-item:: 51
@@ -3816,7 +3816,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 价值
     .. grid-item:: 6000
     .. grid-item:: 54
-    .. grid-item:: 53
+    .. grid-item:: 52
     .. grid-item:: 修理费
     .. grid-item:: 10000
     .. grid-item:: 55
@@ -4408,7 +4408,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 限界
     .. grid-item:: 230
     .. grid-item:: 64
-    .. grid-item:: 64 (63)
+    .. grid-item:: 64
     .. grid-item:: 移动力
     .. grid-item:: 8
     .. grid-item:: 48
@@ -4617,7 +4617,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 运动性
     .. grid-item:: 65
     .. grid-item:: 82
-    .. grid-item:: 80
+    .. grid-item:: 81 (80)
     .. grid-item:: 限界
     .. grid-item:: 255
     .. grid-item:: 71
@@ -4639,7 +4639,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 修理费
     .. grid-item:: 65000
     .. grid-item:: 116
-    .. grid-item:: 98
+    .. grid-item:: 99
 
 .. grid:: 
     :gutter: 0
@@ -4798,7 +4798,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: HP
     .. grid-item:: 34000
     .. grid-item:: 176
-    .. grid-item:: 72 (71)
+    .. grid-item:: 71
     .. grid-item:: EN
     .. grid-item:: 255
     .. grid-item:: 73
@@ -4812,7 +4812,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 运动性
     .. grid-item:: 35
     .. grid-item:: 48
-    .. grid-item:: 50
+    .. grid-item:: 50 (49)
     .. grid-item:: 限界
     .. grid-item:: 220
     .. grid-item:: 61
@@ -5193,13 +5193,13 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 装甲
     .. grid-item:: 2200 (2500)
     .. grid-item:: 148 (155)
-    .. grid-item:: 127 (134)
+    .. grid-item:: 127 (135)
     .. grid-item::
         :class: flex-break
     .. grid-item:: 运动性
     .. grid-item:: 65
     .. grid-item:: 82
-    .. grid-item:: 80
+    .. grid-item:: 81 (80)
     .. grid-item:: 限界
     .. grid-item:: 240 (255)
     .. grid-item:: 67 (71)
@@ -5221,7 +5221,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 修理费
     .. grid-item:: 65000
     .. grid-item:: 116
-    .. grid-item:: 98
+    .. grid-item:: 99
 
 .. grid:: 
     :gutter: 0
@@ -5407,7 +5407,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 限界
     .. grid-item:: 250
     .. grid-item:: 70
-    .. grid-item:: 70 (69)
+    .. grid-item:: 70
     .. grid-item:: 移动力
     .. grid-item:: 9
     .. grid-item:: 53
@@ -5417,11 +5417,11 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 经验值
     .. grid-item:: 150
     .. grid-item:: 52
-    .. grid-item:: 53
+    .. grid-item:: 52
     .. grid-item:: 价值
     .. grid-item:: 6000
     .. grid-item:: 54
-    .. grid-item:: 53
+    .. grid-item:: 52
     .. grid-item:: 修理费
     .. grid-item:: 20000
     .. grid-item:: 66
@@ -5604,7 +5604,7 @@ He must have excellent drawing skills to draw circles that exactly matches the v
     .. grid-item:: 价值
     .. grid-item:: 6000
     .. grid-item:: 54
-    .. grid-item:: 53
+    .. grid-item:: 52
     .. grid-item:: 修理费
     .. grid-item:: 25000
     .. grid-item:: 72
@@ -5725,6 +5725,9 @@ He must have excellent drawing skills to draw circles that exactly matches the v
 
 
             .. grid-item:: 英文:Gadifal。
+                :columns: auto
+
+            .. grid-item:: 登场/加入:第35话。
                 :columns: auto
 
             .. grid-item:: 编码:5D。

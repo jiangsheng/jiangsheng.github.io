@@ -805,7 +805,7 @@ HP只有800，攻击力只有600的射程1的武器……除了给我军送气�
     .. grid-item:: 价值
     .. grid-item:: 6000
     .. grid-item:: 54
-    .. grid-item:: 53
+    .. grid-item:: 52
     .. grid-item:: 修理费
     .. grid-item:: 100
     .. grid-item:: 44

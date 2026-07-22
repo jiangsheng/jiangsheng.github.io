@@ -154,7 +154,7 @@
         157
 
     .. grid-item:: 48 (47)→50 (49)
-    .. grid-item:: 46 (45)→48
+    .. grid-item:: 46 (45)→52
     .. grid-item:: +10
     .. grid-item:: 
 
@@ -162,7 +162,7 @@
         224 (229)
 
     .. grid-item:: 52→60 (58)
-    .. grid-item:: 53→57 (58)
+    .. grid-item:: 49 (50)→60 (63)
     .. grid-item:: +15
     .. grid-item:: 
 
@@ -170,7 +170,7 @@
         194 (195)
 
     .. grid-item:: 56 (58)→64 (66)
-    .. grid-item:: 55→57
+    .. grid-item:: 59 (61)→68 (70)
     .. grid-item:: +5
     .. grid-item::
         :class: flex-break
@@ -194,7 +194,7 @@
         167 (177)
 
     .. grid-item:: 43 (51)→56 (63)
-    .. grid-item:: 45 (46)→50 (53)
+    .. grid-item:: 42 (48)→58 (67)
     .. grid-item:: +20
     .. grid-item:: 
 
@@ -202,7 +202,7 @@
         211 (216)
 
     .. grid-item:: 50 (53)→62 (64)
-    .. grid-item:: 52 (53)→56 (57)
+    .. grid-item:: 47 (48)→60 (66)
     .. grid-item:: +12
     .. grid-item:: 
 
@@ -210,7 +210,7 @@
         214
 
     .. grid-item:: 57 (56)→62 (61)
-    .. grid-item:: 55 (54)→57
+    .. grid-item:: 54→61
     .. grid-item:: +10
 
 .. grid:: 
@@ -319,7 +319,7 @@
         167 (182)
 
     .. grid-item:: 48 (57)→57 (65)
-    .. grid-item:: 46 (49)→51 (56)
+    .. grid-item:: 46 (56)→59 (69)
     .. grid-item:: +20
     .. grid-item:: 
 
@@ -327,7 +327,7 @@
         199
 
     .. grid-item:: 44 (43)→41
-    .. grid-item:: 50 (49)→49
+    .. grid-item:: 42 (41)→41
     .. grid-item:: 
     .. grid-item:: 
 
@@ -335,7 +335,7 @@
         189
 
     .. grid-item:: 56→54
-    .. grid-item:: 55
+    .. grid-item:: 59→58
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -359,7 +359,7 @@
         157
 
     .. grid-item:: 43 (42)→46 (45)
-    .. grid-item:: 45 (44)→46
+    .. grid-item:: 42 (40)→48
     .. grid-item:: +10
     .. grid-item:: 
 
@@ -367,7 +367,7 @@
         204 (206)
 
     .. grid-item:: 50→54 (53)
-    .. grid-item:: 52→53 (54)
+    .. grid-item:: 47 (46)→51 (54)
     .. grid-item:: +5
     .. grid-item:: 
 
@@ -375,7 +375,7 @@
         209
 
     .. grid-item:: 53 (52)→58 (57)
-    .. grid-item:: 53→56
+    .. grid-item:: 50→57
     .. grid-item:: +10
 
 .. grid:: 
@@ -488,7 +488,7 @@
         157
 
     .. grid-item:: 48 (47)→50 (49)
-    .. grid-item:: 46 (45)→48
+    .. grid-item:: 46 (45)→52
     .. grid-item:: +10
     .. grid-item:: 
 
@@ -496,7 +496,7 @@
         226 (231)
 
     .. grid-item:: 53→61 (59)
-    .. grid-item:: 53 (54)→57 (59)
+    .. grid-item:: 51→61 (65)
     .. grid-item:: +15
     .. grid-item:: 
 
@@ -504,7 +504,7 @@
         194
 
     .. grid-item:: 56→64
-    .. grid-item:: 55→57
+    .. grid-item:: 59→68
     .. grid-item:: +5
     .. grid-item::
         :class: flex-break
@@ -528,7 +528,7 @@
         167 (184)
 
     .. grid-item:: 43 (57)→56 (69)
-    .. grid-item:: 45 (48)→50 (55)
+    .. grid-item:: 42 (54)→58 (74)
     .. grid-item:: +20
     .. grid-item:: 
 
@@ -536,7 +536,7 @@
         209 (219)
 
     .. grid-item:: 48 (56)→60 (67)
-    .. grid-item:: 52 (53)→55 (58)
+    .. grid-item:: 45 (51)→57 (69)
     .. grid-item:: +12
     .. grid-item:: 
 
@@ -544,7 +544,7 @@
         214
 
     .. grid-item:: 57 (56)→62 (61)
-    .. grid-item:: 55 (54)→57
+    .. grid-item:: 54→61
     .. grid-item:: +10
 
 .. grid:: 
@@ -653,7 +653,7 @@
         167 (184)
 
     .. grid-item:: 48 (59)→57 (66)
-    .. grid-item:: 46 (49)→51 (56)
+    .. grid-item:: 46 (57)→59 (70)
     .. grid-item:: +20
     .. grid-item:: 
 
@@ -661,7 +661,7 @@
         201
 
     .. grid-item:: 45 (44)→43 (42)
-    .. grid-item:: 50 (49)→50
+    .. grid-item:: 43 (42)→42
     .. grid-item:: 
     .. grid-item:: 
 
@@ -669,7 +669,7 @@
         189
 
     .. grid-item:: 56→54
-    .. grid-item:: 55
+    .. grid-item:: 59→58
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -693,7 +693,7 @@
         157
 
     .. grid-item:: 43 (42)→46 (45)
-    .. grid-item:: 45 (44)→46
+    .. grid-item:: 42 (40)→48
     .. grid-item:: +10
     .. grid-item:: 
 
@@ -701,7 +701,7 @@
         202
 
     .. grid-item:: 48 (46)→51 (48)
-    .. grid-item:: 52 (50)→53
+    .. grid-item:: 45 (42)→49
     .. grid-item:: +5
     .. grid-item:: 
 
@@ -709,7 +709,7 @@
         209
 
     .. grid-item:: 53 (52)→58 (57)
-    .. grid-item:: 53→56
+    .. grid-item:: 50→57
     .. grid-item:: +10
 
 .. grid:: 
@@ -822,7 +822,7 @@
         163
 
     .. grid-item:: 59 (58)→54 (53)
-    .. grid-item:: 50 (49)→50
+    .. grid-item:: 58 (56)→56
     .. grid-item:: 
     .. grid-item:: 
 
@@ -830,7 +830,7 @@
         221 (230)
 
     .. grid-item:: 61 (62)→58 (59)
-    .. grid-item:: 56 (57)→56 (58)
+    .. grid-item:: 59 (60)→57 (64)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -838,7 +838,7 @@
         189
 
     .. grid-item:: 56→54
-    .. grid-item:: 55
+    .. grid-item:: 59→58
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -862,7 +862,7 @@
         174
 
     .. grid-item:: 69 (66)→63 (60)
-    .. grid-item:: 51→52
+    .. grid-item:: 67 (62)→64
     .. grid-item:: 
     .. grid-item:: 
 
@@ -870,7 +870,7 @@
         205
 
     .. grid-item:: 57 (54)→55 (52)
-    .. grid-item:: 54 (53)→54
+    .. grid-item:: 54 (49)→53
     .. grid-item:: 
     .. grid-item:: 
 
@@ -878,7 +878,7 @@
         208
 
     .. grid-item:: 60 (59)→57 (56)
-    .. grid-item:: 56→55
+    .. grid-item:: 57→56
     .. grid-item:: 
 
 .. grid:: 
@@ -997,7 +997,7 @@
         155
 
     .. grid-item:: 53 (52)→49 (48)
-    .. grid-item:: 48 (47)→47
+    .. grid-item:: 52 (51)→50
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1005,7 +1005,7 @@
         226
 
     .. grid-item:: 65 (59)→61 (57)
-    .. grid-item:: 58 (56)→57
+    .. grid-item:: 62 (58)→61
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1013,7 +1013,7 @@
         188
 
     .. grid-item:: 54→52
-    .. grid-item:: 54
+    .. grid-item:: 56
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -1037,7 +1037,7 @@
         175
 
     .. grid-item:: 70 (67)→64 (61)
-    .. grid-item:: 52 (51)→52
+    .. grid-item:: 68 (63)→65
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1045,7 +1045,7 @@
         213
 
     .. grid-item:: 67 (62)→65 (61)
-    .. grid-item:: 57 (55)→56
+    .. grid-item:: 63 (57)→62
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1053,7 +1053,7 @@
         217
 
     .. grid-item:: 67 (65)→64 (63)
-    .. grid-item:: 59→58
+    .. grid-item:: 65 (64)→64
     .. grid-item:: 
 
 .. grid:: 
@@ -1170,7 +1170,7 @@
         145 (155)
 
     .. grid-item:: 46 (52)→43 (48)
-    .. grid-item:: 45 (47)→44 (47)
+    .. grid-item:: 45 (51)→43 (50)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1178,7 +1178,7 @@
         219 (226)
 
     .. grid-item:: 59→56 (57)
-    .. grid-item:: 56→55 (57)
+    .. grid-item:: 57 (58)→56 (61)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1186,7 +1186,7 @@
         188
 
     .. grid-item:: 54→52
-    .. grid-item:: 54
+    .. grid-item:: 56
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -1210,7 +1210,7 @@
         158 (166)
 
     .. grid-item:: 54 (59)→47 (53)
-    .. grid-item:: 47 (49)
+    .. grid-item:: 52 (56)→49 (57)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1218,7 +1218,7 @@
         198 (208)
 
     .. grid-item:: 49 (57)→46 (55)
-    .. grid-item:: 52 (54)→52 (55)
+    .. grid-item:: 46 (52)→44 (56)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1226,7 +1226,7 @@
         196
 
     .. grid-item:: 50→48
-    .. grid-item:: 52
+    .. grid-item:: 48→47
     .. grid-item:: 
 
 .. grid:: 
@@ -1343,7 +1343,7 @@
         159
 
     .. grid-item:: 56 (55)→52 (51)
-    .. grid-item:: 49 (48)→48
+    .. grid-item:: 55 (53)→53
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1351,7 +1351,7 @@
         222 (231)
 
     .. grid-item:: 62→58 (59)
-    .. grid-item:: 57 (58)→56 (59)
+    .. grid-item:: 59 (61)→58 (65)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1359,7 +1359,7 @@
         188
 
     .. grid-item:: 54→52
-    .. grid-item:: 54
+    .. grid-item:: 56
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -1383,7 +1383,7 @@
         170
 
     .. grid-item:: 65 (63)→59 (56)
-    .. grid-item:: 50→51
+    .. grid-item:: 63 (59)→61
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1391,7 +1391,7 @@
         201
 
     .. grid-item:: 53 (50)→50 (47)
-    .. grid-item:: 53 (52)→53
+    .. grid-item:: 49 (46)→48
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1399,7 +1399,7 @@
         199
 
     .. grid-item:: 53 (52)→50
-    .. grid-item:: 53
+    .. grid-item:: 50→49
     .. grid-item:: 
 
 .. grid:: 
@@ -1517,7 +1517,7 @@
         145
 
     .. grid-item:: 46 (45)→43 (42)
-    .. grid-item:: 45→44
+    .. grid-item:: 45 (44)→43
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1525,7 +1525,7 @@
         218 (228)
 
     .. grid-item:: 59 (60)→55 (58)
-    .. grid-item:: 55 (57)→55 (58)
+    .. grid-item:: 56 (59)→55 (63)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1533,7 +1533,7 @@
         187
 
     .. grid-item:: 52→50
-    .. grid-item:: 54
+    .. grid-item:: 54→53
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -1557,7 +1557,7 @@
         158 (164)
 
     .. grid-item:: 54 (57)→47 (51)
-    .. grid-item:: 47 (48)→47 (49)
+    .. grid-item:: 52 (54)→49 (55)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1565,7 +1565,7 @@
         200 (207)
 
     .. grid-item:: 51 (56)→48 (54)
-    .. grid-item:: 53→52 (54)
+    .. grid-item:: 48 (51)→47 (55)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1573,7 +1573,7 @@
         198
 
     .. grid-item:: 52 (51)→49
-    .. grid-item:: 53→52
+    .. grid-item:: 49→48
     .. grid-item:: 
 
 .. grid:: 
@@ -1690,7 +1690,7 @@
         148 (153)
 
     .. grid-item:: 48 (51)→45 (47)
-    .. grid-item:: 46 (47)→45 (47)
+    .. grid-item:: 47 (49)→45 (49)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1698,7 +1698,7 @@
         214 (222)
 
     .. grid-item:: 56 (57)→52 (54)
-    .. grid-item:: 54 (55)→54 (56)
+    .. grid-item:: 53 (55)→52 (58)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1706,7 +1706,7 @@
         187
 
     .. grid-item:: 52→50
-    .. grid-item:: 54
+    .. grid-item:: 54→53
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -1730,7 +1730,7 @@
         159 (163)
 
     .. grid-item:: 55 (56)→48 (50)
-    .. grid-item:: 48→47 (48)
+    .. grid-item:: 53→50 (54)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1738,7 +1738,7 @@
         199 (206)
 
     .. grid-item:: 50 (55)→47 (53)
-    .. grid-item:: 52 (53)→52 (54)
+    .. grid-item:: 47 (50)→45 (54)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1746,7 +1746,7 @@
         206 (216)
 
     .. grid-item:: 58 (65)→55 (62)
-    .. grid-item:: 55 (58)
+    .. grid-item:: 56 (63)→55 (63)
     .. grid-item:: 
 
 .. grid:: 
@@ -1857,7 +1857,7 @@
         137
 
     .. grid-item:: 41 (40)→37
-    .. grid-item:: 43→42
+    .. grid-item:: 39 (38)→38
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1865,7 +1865,7 @@
         217
 
     .. grid-item:: 58 (54)→55 (51)
-    .. grid-item:: 55 (54)→55
+    .. grid-item:: 55 (52)→54
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1873,7 +1873,7 @@
         187
 
     .. grid-item:: 52→50
-    .. grid-item:: 54
+    .. grid-item:: 54→53
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -1897,7 +1897,7 @@
         142 (150)
 
     .. grid-item:: 39 (45)→31 (38)
-    .. grid-item:: 43 (45)→41 (44)
+    .. grid-item:: 37 (42)→34 (41)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1905,7 +1905,7 @@
         196 (198)
 
     .. grid-item:: 47→43 (44)
-    .. grid-item:: 51→51 (52)
+    .. grid-item:: 44 (43)→42 (44)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1913,7 +1913,7 @@
         179
 
     .. grid-item:: 37→35
-    .. grid-item:: 47→46
+    .. grid-item:: 34→33
     .. grid-item:: 
 
 .. grid:: 
@@ -2030,7 +2030,7 @@
         147 (150)
 
     .. grid-item:: 48 (49)→44 (45)
-    .. grid-item:: 46→45 (46)
+    .. grid-item:: 46 (47)→45 (47)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2038,7 +2038,7 @@
         219 (225)
 
     .. grid-item:: 59→56
-    .. grid-item:: 56→55 (57)
+    .. grid-item:: 57→56 (60)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2046,7 +2046,7 @@
         186
 
     .. grid-item:: 50→48
-    .. grid-item:: 54→53
+    .. grid-item:: 52→51
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -2070,7 +2070,7 @@
         157 (160)
 
     .. grid-item:: 53 (54)→46 (47)
-    .. grid-item:: 47→46 (47)
+    .. grid-item:: 51→48 (51)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2078,7 +2078,7 @@
         197 (201)
 
     .. grid-item:: 48 (50)→45 (47)
-    .. grid-item:: 52→51 (53)
+    .. grid-item:: 45 (46)→43 (48)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2086,7 +2086,7 @@
         201
 
     .. grid-item:: 54→52 (51)
-    .. grid-item:: 54→53
+    .. grid-item:: 52 (51)→51
     .. grid-item:: 
 
 .. grid:: 
@@ -2208,7 +2208,7 @@ DC兵士
         132
 
     .. grid-item:: 37 (36)→34
-    .. grid-item:: 42→40
+    .. grid-item:: 36 (34)→34
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2216,7 +2216,7 @@ DC兵士
         201
 
     .. grid-item:: 45 (44)→43 (42)
-    .. grid-item:: 50 (49)→50
+    .. grid-item:: 43 (42)→42
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2224,7 +2224,7 @@ DC兵士
         182
 
     .. grid-item:: 41→40
-    .. grid-item:: 52
+    .. grid-item:: 44→43
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -2248,7 +2248,7 @@ DC兵士
         132
 
     .. grid-item:: 29 (28)→21 (22)
-    .. grid-item:: 41 (40)→38
+    .. grid-item:: 27→24
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2256,7 +2256,7 @@ DC兵士
         189
 
     .. grid-item:: 39 (38)→34
-    .. grid-item:: 49 (48)→49
+    .. grid-item:: 36 (34)→34
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2264,7 +2264,7 @@ DC兵士
         179
 
     .. grid-item:: 37→35
-    .. grid-item:: 47→46
+    .. grid-item:: 34→33
     .. grid-item:: 
 
 .. grid:: 
@@ -2373,7 +2373,7 @@ DC兵士
         132
 
     .. grid-item:: 37 (36)→34
-    .. grid-item:: 42→40
+    .. grid-item:: 36 (34)→34
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2381,7 +2381,7 @@ DC兵士
         194
 
     .. grid-item:: 40→38
-    .. grid-item:: 48 (47)→48
+    .. grid-item:: 38 (37)→37
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2389,7 +2389,7 @@ DC兵士
         159
 
     .. grid-item:: -6 (-7)→-6
-    .. grid-item:: 43
+    .. grid-item:: -5→-3
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -2413,7 +2413,7 @@ DC兵士
         132
 
     .. grid-item:: 29 (28)→21 (22)
-    .. grid-item:: 41 (40)→38
+    .. grid-item:: 27→24
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2421,7 +2421,7 @@ DC兵士
         194
 
     .. grid-item:: 45 (43)→41 (40)
-    .. grid-item:: 51 (49)→50
+    .. grid-item:: 41 (39)→39
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2429,7 +2429,7 @@ DC兵士
         169
 
     .. grid-item:: 29 (30)→27 (28)
-    .. grid-item:: 43
+    .. grid-item:: 26 (27)→25
     .. grid-item:: 
 
 .. _srw4_pilot_ai_commentBegin:
@@ -2535,7 +2535,7 @@ DC兵士
         209
 
     .. grid-item:: 52 (49)→49 (47)
-    .. grid-item:: 53 (52)→52
+    .. grid-item:: 49 (47)→48
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2543,7 +2543,7 @@ DC兵士
         181
 
     .. grid-item:: 39→38
-    .. grid-item:: 52→51
+    .. grid-item:: 42→41
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -2567,7 +2567,7 @@ DC兵士
         159
 
     .. grid-item:: 55 (53)→48 (46)
-    .. grid-item:: 48 (47)→47
+    .. grid-item:: 53 (50)→50
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2575,7 +2575,7 @@ DC兵士
         199
 
     .. grid-item:: 50 (48)→47 (45)
-    .. grid-item:: 52 (51)→52
+    .. grid-item:: 47 (44)→45
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2583,7 +2583,7 @@ DC兵士
         202
 
     .. grid-item:: 55 (54)→52
-    .. grid-item:: 54
+    .. grid-item:: 53 (52)→52
     .. grid-item:: 
 
 .. grid:: 
@@ -2692,7 +2692,7 @@ DC兵士
         150
 
     .. grid-item:: 50 (49)→46 (45)
-    .. grid-item:: 46
+    .. grid-item:: 49 (47)→47
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2700,7 +2700,7 @@ DC兵士
         206
 
     .. grid-item:: 49 (47)→47 (45)
-    .. grid-item:: 52 (51)→51
+    .. grid-item:: 47 (45)→46
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2708,7 +2708,7 @@ DC兵士
         184
 
     .. grid-item:: 46→44
-    .. grid-item:: 53
+    .. grid-item:: 48→47
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -2732,7 +2732,7 @@ DC兵士
         154
 
     .. grid-item:: 50 (48)→43 (42)
-    .. grid-item:: 46→45
+    .. grid-item:: 48 (46)→45
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2740,7 +2740,7 @@ DC兵士
         201
 
     .. grid-item:: 53 (50)→50 (47)
-    .. grid-item:: 53 (52)→53
+    .. grid-item:: 49 (46)→48
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2748,7 +2748,7 @@ DC兵士
         192
 
     .. grid-item:: 47→45
-    .. grid-item:: 51→50
+    .. grid-item:: 45 (44)→44
     .. grid-item:: 
 
 .. grid:: 
@@ -2865,7 +2865,7 @@ DC兵士
         204
 
     .. grid-item:: 48 (46)→45 (44)
-    .. grid-item:: 51 (50)→51
+    .. grid-item:: 46 (44)→44
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2873,7 +2873,7 @@ DC兵士
         187
 
     .. grid-item:: 52→50
-    .. grid-item:: 54
+    .. grid-item:: 54→53
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -2897,7 +2897,7 @@ DC兵士
         147
 
     .. grid-item:: 43 (42)→36
-    .. grid-item:: 45 (44)→43
+    .. grid-item:: 42 (40)→38
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2905,7 +2905,7 @@ DC兵士
         199
 
     .. grid-item:: 50 (48)→47 (45)
-    .. grid-item:: 52 (51)→52
+    .. grid-item:: 47 (44)→45
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2913,7 +2913,7 @@ DC兵士
         194
 
     .. grid-item:: 49 (48)→46
-    .. grid-item:: 51
+    .. grid-item:: 46→45
     .. grid-item:: 
 
 .. grid:: 
@@ -3022,7 +3022,7 @@ DC兵士
         153
 
     .. grid-item:: 52 (51)→48 (47)
-    .. grid-item:: 47
+    .. grid-item:: 51 (49)→49
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3030,7 +3030,7 @@ DC兵士
         214
 
     .. grid-item:: 56 (52)→52 (50)
-    .. grid-item:: 54 (53)→54
+    .. grid-item:: 53 (50)→52
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3038,7 +3038,7 @@ DC兵士
         185
 
     .. grid-item:: 48→46
-    .. grid-item:: 53
+    .. grid-item:: 50→49
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -3062,7 +3062,7 @@ DC兵士
         159
 
     .. grid-item:: 55 (53)→48 (46)
-    .. grid-item:: 48 (47)→47
+    .. grid-item:: 53 (50)→50
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3070,7 +3070,7 @@ DC兵士
         208
 
     .. grid-item:: 61 (57)→59 (55)
-    .. grid-item:: 55 (54)→55
+    .. grid-item:: 57 (52)→56
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3078,7 +3078,7 @@ DC兵士
         197
 
     .. grid-item:: 51→49 (48)
-    .. grid-item:: 52
+    .. grid-item:: 49 (48)→48
     .. grid-item:: 
 
 .. grid:: 
@@ -3187,7 +3187,7 @@ DC兵士
         152
 
     .. grid-item:: 51 (50)→47 (46)
-    .. grid-item:: 47 (46)→46
+    .. grid-item:: 50 (48)→48
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3195,7 +3195,7 @@ DC兵士
         202
 
     .. grid-item:: 46 (45)→44 (43)
-    .. grid-item:: 51 (50)→50
+    .. grid-item:: 44 (42)→43
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3203,7 +3203,7 @@ DC兵士
         169
 
     .. grid-item:: 14
-    .. grid-item:: 47
+    .. grid-item:: 16→17
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -3227,7 +3227,7 @@ DC兵士
         142
 
     .. grid-item:: 39 (37)→31
-    .. grid-item:: 43→41
+    .. grid-item:: 37 (36)→34
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3235,7 +3235,7 @@ DC兵士
         201
 
     .. grid-item:: 53 (50)→50 (47)
-    .. grid-item:: 53 (52)→53
+    .. grid-item:: 49 (46)→48
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3243,7 +3243,7 @@ DC兵士
         189
 
     .. grid-item:: 45→43 (42)
-    .. grid-item:: 50→49
+    .. grid-item:: 42→41
     .. grid-item:: 
 
 .. _srw4_pilot_ai_kai_commentBegin:
@@ -3341,7 +3341,7 @@ DC兵士
         156
 
     .. grid-item:: 54 (53)→50 (49)
-    .. grid-item:: 48 (47)→48
+    .. grid-item:: 53 (51)→51
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3349,7 +3349,7 @@ DC兵士
         203
 
     .. grid-item:: 47 (45)→44 (43)
-    .. grid-item:: 51 (50)→51
+    .. grid-item:: 45 (43)→44
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3357,7 +3357,7 @@ DC兵士
         179
 
     .. grid-item:: 35→34
-    .. grid-item:: 51
+    .. grid-item:: 38 (37)→37
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -3381,7 +3381,7 @@ DC兵士
         148
 
     .. grid-item:: 44 (43)→37
-    .. grid-item:: 45 (44)→43
+    .. grid-item:: 42 (41)→39
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3389,7 +3389,7 @@ DC兵士
         198
 
     .. grid-item:: 49 (47)→46 (44)
-    .. grid-item:: 52 (51)→52
+    .. grid-item:: 46 (43)→44
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3397,7 +3397,7 @@ DC兵士
         181
 
     .. grid-item:: 39→36 (37)
-    .. grid-item:: 47
+    .. grid-item:: 36→35
     .. grid-item:: 
 
 .. grid:: 
@@ -3506,7 +3506,7 @@ DC兵士
         142
 
     .. grid-item:: 44 (43)→41 (40)
-    .. grid-item:: 45 (44)→43
+    .. grid-item:: 43 (41)→41
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3514,7 +3514,7 @@ DC兵士
         199
 
     .. grid-item:: 44 (43)→41
-    .. grid-item:: 50 (49)→49
+    .. grid-item:: 42 (41)→41
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3522,7 +3522,7 @@ DC兵士
         189
 
     .. grid-item:: 56→54
-    .. grid-item:: 55
+    .. grid-item:: 59→58
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -3546,7 +3546,7 @@ DC兵士
         142
 
     .. grid-item:: 39 (37)→31
-    .. grid-item:: 43→41
+    .. grid-item:: 37 (36)→34
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3554,7 +3554,7 @@ DC兵士
         237
 
     .. grid-item:: 94 (86)→95 (87)
-    .. grid-item:: 64 (63)→64
+    .. grid-item:: 89 (79)→91
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3562,7 +3562,7 @@ DC兵士
         189
 
     .. grid-item:: 45→43 (42)
-    .. grid-item:: 50→49
+    .. grid-item:: 42→41
     .. grid-item:: 
 
 .. grid:: 
@@ -3684,7 +3684,7 @@ DC兵士
         152
 
     .. grid-item:: 51 (50)→47 (46)
-    .. grid-item:: 47 (46)→46
+    .. grid-item:: 50 (48)→48
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3692,7 +3692,7 @@ DC兵士
         209
 
     .. grid-item:: 52 (49)→49 (47)
-    .. grid-item:: 53 (52)→52
+    .. grid-item:: 49 (47)→48
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3700,7 +3700,7 @@ DC兵士
         188
 
     .. grid-item:: 54→52
-    .. grid-item:: 54
+    .. grid-item:: 56
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -3724,7 +3724,7 @@ DC兵士
         152
 
     .. grid-item:: 48 (47)→41 (40)
-    .. grid-item:: 46 (45)→45
+    .. grid-item:: 46 (44)→43
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3732,7 +3732,7 @@ DC兵士
         204
 
     .. grid-item:: 56 (53)→54 (51)
-    .. grid-item:: 54 (53)→53
+    .. grid-item:: 53 (48)→51
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3740,7 +3740,7 @@ DC兵士
         194
 
     .. grid-item:: 49 (48)→46
-    .. grid-item:: 51
+    .. grid-item:: 46→45
     .. grid-item:: 
 
 .. grid:: 
@@ -3851,7 +3851,7 @@ DC兵士
         159
 
     .. grid-item:: 56 (55)→52 (51)
-    .. grid-item:: 49 (48)→48
+    .. grid-item:: 55 (53)→53
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3859,7 +3859,7 @@ DC兵士
         228
 
     .. grid-item:: 66 (60)→63 (58)
-    .. grid-item:: 58 (57)→58
+    .. grid-item:: 64 (59)→63
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3867,7 +3867,7 @@ DC兵士
         186
 
     .. grid-item:: 50→48
-    .. grid-item:: 54→53
+    .. grid-item:: 52→51
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -3891,7 +3891,7 @@ DC兵士
         159 (189)
 
     .. grid-item:: 55 (80)→48 (73)
-    .. grid-item:: 48 (55)→47 (57)
+    .. grid-item:: 53 (75)→50 (79)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3899,7 +3899,7 @@ DC兵士
         217 (220)
 
     .. grid-item:: 71 (69)→70 (68)
-    .. grid-item:: 58 (57)→58 (59)
+    .. grid-item:: 67 (63)→67 (71)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3907,7 +3907,7 @@ DC兵士
         216
 
     .. grid-item:: 66 (65)→63 (62)
-    .. grid-item:: 58
+    .. grid-item:: 64 (63)→63
     .. grid-item:: 
 
 .. grid:: 
@@ -4033,7 +4033,7 @@ DC兵士
         160 (170)
 
     .. grid-item:: 57 (63)→52 (58)
-    .. grid-item:: 49 (51)→49 (52)
+    .. grid-item:: 56 (61)→54 (61)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4041,7 +4041,7 @@ DC兵士
         224 (228)
 
     .. grid-item:: 63 (60)→60 (58)
-    .. grid-item:: 57→57 (58)
+    .. grid-item:: 61 (59)→60 (63)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4049,7 +4049,7 @@ DC兵士
         185
 
     .. grid-item:: 48→46
-    .. grid-item:: 53
+    .. grid-item:: 50→49
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -4073,7 +4073,7 @@ DC兵士
         158 (178)
 
     .. grid-item:: 54 (70)→47 (63)
-    .. grid-item:: 47 (52)→47 (53)
+    .. grid-item:: 52 (66)→49 (68)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4081,7 +4081,7 @@ DC兵士
         215 (218)
 
     .. grid-item:: 69 (67)→67 (66)
-    .. grid-item:: 57→57 (58)
+    .. grid-item:: 65 (61)→65 (68)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4089,7 +4089,7 @@ DC兵士
         218
 
     .. grid-item:: 68 (66)→65 (64)
-    .. grid-item:: 59
+    .. grid-item:: 65→64
     .. grid-item:: 
 
 .. grid:: 
@@ -4215,7 +4215,7 @@ DC兵士
         162 (164)
 
     .. grid-item:: 58 (59)→54
-    .. grid-item:: 49→49 (50)
+    .. grid-item:: 57→55 (56)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4223,7 +4223,7 @@ DC兵士
         226
 
     .. grid-item:: 65 (59)→61 (57)
-    .. grid-item:: 58 (56)→57
+    .. grid-item:: 62 (58)→61
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4231,7 +4231,7 @@ DC兵士
         186
 
     .. grid-item:: 50→48
-    .. grid-item:: 54→53
+    .. grid-item:: 52→51
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -4255,7 +4255,7 @@ DC兵士
         162 (181)
 
     .. grid-item:: 58 (73)→51 (66)
-    .. grid-item:: 48 (53)→48 (54)
+    .. grid-item:: 56 (68)→53 (71)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4263,7 +4263,7 @@ DC兵士
         216 (219)
 
     .. grid-item:: 70 (68)→69 (67)
-    .. grid-item:: 58 (57)→57 (58)
+    .. grid-item:: 66 (62)→66 (69)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4271,7 +4271,7 @@ DC兵士
         219
 
     .. grid-item:: 68 (67)→65 (64)
-    .. grid-item:: 59
+    .. grid-item:: 66 (65)→65
     .. grid-item:: 
 
 .. grid:: 
@@ -4397,7 +4397,7 @@ DC兵士
         160
 
     .. grid-item:: 57 (56)→52 (51)
-    .. grid-item:: 49 (48)→49
+    .. grid-item:: 56 (54)→54
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4405,7 +4405,7 @@ DC兵士
         207
 
     .. grid-item:: 50 (48)→47 (46)
-    .. grid-item:: 52 (51)→52
+    .. grid-item:: 48 (46)→47
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4413,7 +4413,7 @@ DC兵士
         187
 
     .. grid-item:: 52→50
-    .. grid-item:: 54
+    .. grid-item:: 54→53
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -4437,7 +4437,7 @@ DC兵士
         150
 
     .. grid-item:: 46 (45)→39 (38)
-    .. grid-item:: 45→44
+    .. grid-item:: 44 (42)→41
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4445,7 +4445,7 @@ DC兵士
         209
 
     .. grid-item:: 62 (58)→60 (56)
-    .. grid-item:: 55 (54)→55
+    .. grid-item:: 58 (53)→57
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4453,7 +4453,7 @@ DC兵士
         197
 
     .. grid-item:: 51→49 (48)
-    .. grid-item:: 52
+    .. grid-item:: 49 (48)→48
     .. grid-item:: 
 
 .. grid:: 
@@ -4562,7 +4562,7 @@ DC兵士
         160
 
     .. grid-item:: 57 (56)→52 (51)
-    .. grid-item:: 49 (48)→49
+    .. grid-item:: 56 (54)→54
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4570,7 +4570,7 @@ DC兵士
         209
 
     .. grid-item:: 52 (49)→49 (47)
-    .. grid-item:: 53 (52)→52
+    .. grid-item:: 49 (47)→48
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4578,7 +4578,7 @@ DC兵士
         188
 
     .. grid-item:: 54→52
-    .. grid-item:: 54
+    .. grid-item:: 56
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -4602,7 +4602,7 @@ DC兵士
         156
 
     .. grid-item:: 52 (50)→45 (44)
-    .. grid-item:: 47 (46)→46
+    .. grid-item:: 50 (47)→47
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4610,7 +4610,7 @@ DC兵士
         209
 
     .. grid-item:: 62 (58)→60 (56)
-    .. grid-item:: 55 (54)→55
+    .. grid-item:: 58 (53)→57
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4618,7 +4618,7 @@ DC兵士
         199
 
     .. grid-item:: 53 (52)→50
-    .. grid-item:: 53
+    .. grid-item:: 50→49
     .. grid-item:: 
 
 .. grid:: 
@@ -4740,7 +4740,7 @@ DC兵士
         157 (180)
 
     .. grid-item:: 55 (70)→50 (64)
-    .. grid-item:: 48 (53)→48 (55)
+    .. grid-item:: 54 (68)→52 (68)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4748,7 +4748,7 @@ DC兵士
         219 (227)
 
     .. grid-item:: 59 (60)→56 (57)
-    .. grid-item:: 56 (57)→55 (57)
+    .. grid-item:: 57 (58)→56 (62)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4756,7 +4756,7 @@ DC兵士
         184
 
     .. grid-item:: 46→44
-    .. grid-item:: 53
+    .. grid-item:: 48→47
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -4780,7 +4780,7 @@ DC兵士
         157 (187)
 
     .. grid-item:: 53 (78)→46 (71)
-    .. grid-item:: 47 (54)→46 (56)
+    .. grid-item:: 51 (73)→48 (77)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4788,7 +4788,7 @@ DC兵士
         211 (220)
 
     .. grid-item:: 64 (69)→62 (68)
-    .. grid-item:: 56 (57)→56 (59)
+    .. grid-item:: 60 (63)→60 (71)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4796,7 +4796,7 @@ DC兵士
         209 (214)
 
     .. grid-item:: 61 (63)→58 (61)
-    .. grid-item:: 56 (58)→56 (57)
+    .. grid-item:: 58 (61)→57 (61)
     .. grid-item:: 
 
 .. grid:: 
@@ -4909,7 +4909,7 @@ DC兵士
         161 (171)
 
     .. grid-item:: 58 (63)→53 (58)
-    .. grid-item:: 49 (51)→49 (52)
+    .. grid-item:: 57 (62)→54 (61)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4917,7 +4917,7 @@ DC兵士
         230
 
     .. grid-item:: 68 (62)→64 (59)
-    .. grid-item:: 59 (57)→58
+    .. grid-item:: 65 (60)→64
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4925,7 +4925,7 @@ DC兵士
         187
 
     .. grid-item:: 52→50
-    .. grid-item:: 54
+    .. grid-item:: 54→53
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -4949,7 +4949,7 @@ DC兵士
         164 (184)
 
     .. grid-item:: 59 (75)→53 (69)
-    .. grid-item:: 49 (53)→49 (55)
+    .. grid-item:: 58 (71)→55 (74)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4957,7 +4957,7 @@ DC兵士
         217 (220)
 
     .. grid-item:: 71 (69)→70 (68)
-    .. grid-item:: 58 (57)→58 (59)
+    .. grid-item:: 67 (63)→67 (71)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -4965,7 +4965,7 @@ DC兵士
         209
 
     .. grid-item:: 61 (59)→58 (57)
-    .. grid-item:: 56
+    .. grid-item:: 58→57
     .. grid-item:: 
 
 .. grid:: 
@@ -5076,7 +5076,7 @@ DC兵士
         152 (157)
 
     .. grid-item:: 51 (54)→47 (49)
-    .. grid-item:: 47 (48)→46 (48)
+    .. grid-item:: 50 (52)→48 (52)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5084,7 +5084,7 @@ DC兵士
         212
 
     .. grid-item:: 54 (51)→51 (48)
-    .. grid-item:: 54 (52)→53
+    .. grid-item:: 52 (49)→50
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5092,7 +5092,7 @@ DC兵士
         179
 
     .. grid-item:: 35→34
-    .. grid-item:: 51
+    .. grid-item:: 38 (37)→37
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -5116,7 +5116,7 @@ DC兵士
         142 (157)
 
     .. grid-item:: 39 (51)→31 (45)
-    .. grid-item:: 43 (46)→41 (46)
+    .. grid-item:: 37 (48)→34 (48)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5124,7 +5124,7 @@ DC兵士
         231
 
     .. grid-item:: 87 (80)→88 (80)
-    .. grid-item:: 63 (61)→62
+    .. grid-item:: 83 (74)→84
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5132,7 +5132,7 @@ DC兵士
         197
 
     .. grid-item:: 51→49 (48)
-    .. grid-item:: 52
+    .. grid-item:: 49 (48)→48
     .. grid-item:: 
 
 .. _srw4_pilot_super_ai_commentBegin:
@@ -5240,7 +5240,7 @@ DC兵士
         142
 
     .. grid-item:: 44 (43)→41 (40)
-    .. grid-item:: 45 (44)→43
+    .. grid-item:: 43 (41)→41
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5248,7 +5248,7 @@ DC兵士
         199
 
     .. grid-item:: 44 (43)→41
-    .. grid-item:: 50 (49)→49
+    .. grid-item:: 42 (41)→41
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5256,7 +5256,7 @@ DC兵士
         179
 
     .. grid-item:: 35→34
-    .. grid-item:: 51
+    .. grid-item:: 38 (37)→37
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -5280,7 +5280,7 @@ DC兵士
         142
 
     .. grid-item:: 39 (37)→31
-    .. grid-item:: 43→41
+    .. grid-item:: 37 (36)→34
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5288,7 +5288,7 @@ DC兵士
         197
 
     .. grid-item:: 48 (46)→45 (43)
-    .. grid-item:: 52 (50)→51
+    .. grid-item:: 45 (42)→43
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5296,7 +5296,7 @@ DC兵士
         179
 
     .. grid-item:: 37→35
-    .. grid-item:: 47→46
+    .. grid-item:: 34→33
     .. grid-item:: 
 
 .. grid:: 
@@ -5405,7 +5405,7 @@ DC兵士
         142
 
     .. grid-item:: 44 (43)→41 (40)
-    .. grid-item:: 45 (44)→43
+    .. grid-item:: 43 (41)→41
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5413,7 +5413,7 @@ DC兵士
         199
 
     .. grid-item:: 44 (43)→41
-    .. grid-item:: 50 (49)→49
+    .. grid-item:: 42 (41)→41
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5421,7 +5421,7 @@ DC兵士
         179
 
     .. grid-item:: 35→34
-    .. grid-item:: 51
+    .. grid-item:: 38 (37)→37
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -5445,7 +5445,7 @@ DC兵士
         142
 
     .. grid-item:: 39 (37)→31
-    .. grid-item:: 43→41
+    .. grid-item:: 37 (36)→34
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5453,7 +5453,7 @@ DC兵士
         197
 
     .. grid-item:: 48 (46)→45 (43)
-    .. grid-item:: 52 (50)→51
+    .. grid-item:: 45 (42)→43
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5461,7 +5461,7 @@ DC兵士
         179
 
     .. grid-item:: 37→35
-    .. grid-item:: 47→46
+    .. grid-item:: 34→33
     .. grid-item:: 
 
 .. grid:: 
@@ -5570,7 +5570,7 @@ DC兵士
         167
 
     .. grid-item:: 62 (61)→57 (56)
-    .. grid-item:: 51 (50)→51
+    .. grid-item:: 61 (59)→59
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5578,7 +5578,7 @@ DC兵士
         219 (227)
 
     .. grid-item:: 59 (60)→56 (57)
-    .. grid-item:: 56 (57)→55 (57)
+    .. grid-item:: 57 (58)→56 (62)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5586,7 +5586,7 @@ DC兵士
         190
 
     .. grid-item:: 58→56
-    .. grid-item:: 55
+    .. grid-item:: 61→60
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -5610,7 +5610,7 @@ DC兵士
         174
 
     .. grid-item:: 69 (66)→63 (60)
-    .. grid-item:: 51→52
+    .. grid-item:: 67 (62)→64
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5618,7 +5618,7 @@ DC兵士
         209 (214)
 
     .. grid-item:: 62 (63)→60 (62)
-    .. grid-item:: 55 (56)→55 (57)
+    .. grid-item:: 58→57 (63)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5626,7 +5626,7 @@ DC兵士
         207
 
     .. grid-item:: 59 (58)→56
-    .. grid-item:: 56 (55)→55
+    .. grid-item:: 57 (56)→56
     .. grid-item:: 
 
 .. grid:: 
@@ -5761,7 +5761,7 @@ DC兵士
         204
 
     .. grid-item:: 48 (46)→45 (44)
-    .. grid-item:: 51 (50)→51
+    .. grid-item:: 46 (44)→44
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5769,7 +5769,7 @@ DC兵士
         187
 
     .. grid-item:: 52→50
-    .. grid-item:: 54
+    .. grid-item:: 54→53
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -5793,7 +5793,7 @@ DC兵士
         147
 
     .. grid-item:: 43 (42)→36
-    .. grid-item:: 45 (44)→43
+    .. grid-item:: 42 (40)→38
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5801,7 +5801,7 @@ DC兵士
         199
 
     .. grid-item:: 50 (48)→47 (45)
-    .. grid-item:: 52 (51)→52
+    .. grid-item:: 47 (44)→45
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5809,7 +5809,7 @@ DC兵士
         194
 
     .. grid-item:: 49 (48)→46
-    .. grid-item:: 51
+    .. grid-item:: 46→45
     .. grid-item:: 
 
 .. grid:: 
@@ -5918,7 +5918,7 @@ DC兵士
         141
 
     .. grid-item:: 43 (42)→40 (39)
-    .. grid-item:: 44→43
+    .. grid-item:: 42 (41)→41
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5926,7 +5926,7 @@ DC兵士
         220
 
     .. grid-item:: 60 (56)→57 (53)
-    .. grid-item:: 56 (55)→55
+    .. grid-item:: 58 (54)→57
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5934,7 +5934,7 @@ DC兵士
         187
 
     .. grid-item:: 52→50
-    .. grid-item:: 54
+    .. grid-item:: 54→53
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -5958,7 +5958,7 @@ DC兵士
         156 (161)
 
     .. grid-item:: 52 (55)→45 (48)
-    .. grid-item:: 47→46 (48)
+    .. grid-item:: 50 (52)→47 (52)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5966,7 +5966,7 @@ DC兵士
         204
 
     .. grid-item:: 56 (53)→54 (51)
-    .. grid-item:: 54 (53)→53
+    .. grid-item:: 53 (48)→51
     .. grid-item:: 
     .. grid-item:: 
 
@@ -5974,7 +5974,7 @@ DC兵士
         198
 
     .. grid-item:: 52 (51)→49
-    .. grid-item:: 53→52
+    .. grid-item:: 49→48
     .. grid-item:: 
 
 .. grid:: 
@@ -6087,7 +6087,7 @@ DC兵士
         255
 
     .. grid-item:: 149 (145)→114 (111)
-    .. grid-item:: 80→78
+    .. grid-item:: 149 (144)→120
     .. grid-item:: 
     .. grid-item:: 
 
@@ -6095,7 +6095,7 @@ DC兵士
         99
 
     .. grid-item:: -34 (-18)→-33 (-17)
-    .. grid-item:: 21
+    .. grid-item:: -34 (-23)→-36
     .. grid-item:: 
     .. grid-item:: 
 
@@ -6103,7 +6103,7 @@ DC兵士
         99
 
     .. grid-item:: -132→-126 (-127)
-    .. grid-item:: 19
+    .. grid-item:: -131 (-132)→-125
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -6127,7 +6127,7 @@ DC兵士
         255
 
     .. grid-item:: 176 (169)→142 (132)
-    .. grid-item:: 80→79
+    .. grid-item:: 175 (158)→143
     .. grid-item:: 
     .. grid-item:: 
 
@@ -6135,7 +6135,7 @@ DC兵士
         99
 
     .. grid-item:: -65 (-51)→-80 (-65)
-    .. grid-item:: 20
+    .. grid-item:: -64 (-50)→-74
     .. grid-item:: 
     .. grid-item:: 
 
@@ -6143,7 +6143,7 @@ DC兵士
         99
 
     .. grid-item:: -25 (-21)→-26 (-23)
-    .. grid-item:: 21
+    .. grid-item:: -29 (-28)→-31
     .. grid-item:: 
 
 .. _srw4_pilot_presia_xenosakis_commentBegin:

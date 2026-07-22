@@ -110,7 +110,7 @@
     .. grid-item:: 装甲
     .. grid-item:: 0
     .. grid-item:: 30 (31)
-    .. grid-item:: 33 (34)
+    .. grid-item:: 33
     .. grid-item::
         :class: flex-break
     .. grid-item:: 运动性

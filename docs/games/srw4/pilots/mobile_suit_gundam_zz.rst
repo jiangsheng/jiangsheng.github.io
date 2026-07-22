@@ -116,7 +116,7 @@
         140
 
     .. grid-item:: 36 (35)→39
-    .. grid-item:: 42 (41)→43
+    .. grid-item:: 34 (33)→40
     .. grid-item:: +10
     .. grid-item:: 
 
@@ -124,7 +124,7 @@
         209 (216)
 
     .. grid-item:: 52 (53)→49 (51)
-    .. grid-item:: 53 (54)→52 (54)
+    .. grid-item:: 49 (51)→48 (54)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -132,7 +132,7 @@
         191
 
     .. grid-item:: 50→58
-    .. grid-item:: 54→55
+    .. grid-item:: 52→62
     .. grid-item:: +5
     .. grid-item::
         :class: flex-break
@@ -156,7 +156,7 @@
         163
 
     .. grid-item:: 40 (38)→52 (50)
-    .. grid-item:: 44 (43)→48
+    .. grid-item:: 38 (37)→54
     .. grid-item:: +20
     .. grid-item:: 
 
@@ -164,7 +164,7 @@
         199
 
     .. grid-item:: 50 (48)→47 (45)
-    .. grid-item:: 52 (51)→52
+    .. grid-item:: 47 (44)→45
     .. grid-item:: 
     .. grid-item:: 
 
@@ -172,7 +172,7 @@
         193
 
     .. grid-item:: 44→46 (45)
-    .. grid-item:: 50 (49)→51
+    .. grid-item:: 42 (41)→44
     .. grid-item:: +5
 
 .. grid:: 
@@ -299,7 +299,7 @@
         165 (169)
 
     .. grid-item:: 57 (59)→56 (57)
-    .. grid-item:: 49→50 (52)
+    .. grid-item:: 56 (57)→57 (60)
     .. grid-item:: +5
     .. grid-item:: 
 
@@ -307,7 +307,7 @@
         231 (249)
 
     .. grid-item:: 61 (67)→65 (70)
-    .. grid-item:: 56 (60)→59 (64)
+    .. grid-item:: 59 (66)→65 (79)
     .. grid-item:: +10
     .. grid-item:: 
 
@@ -315,7 +315,7 @@
         196
 
     .. grid-item:: 71→68
-    .. grid-item:: 58→57
+    .. grid-item:: 73→72
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -339,7 +339,7 @@
         177 (179)
 
     .. grid-item:: 62→66 (64)
-    .. grid-item:: 50 (49)→53 (54)
+    .. grid-item:: 60 (58)→67 (69)
     .. grid-item:: +10
     .. grid-item:: 
 
@@ -347,7 +347,7 @@
         207 (213)
 
     .. grid-item:: 60 (62)→57 (61)
-    .. grid-item:: 55→54 (56)
+    .. grid-item:: 56 (57)→55 (62)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -355,7 +355,7 @@
         216
 
     .. grid-item:: 58 (57)→63 (62)
-    .. grid-item:: 55→58
+    .. grid-item:: 56 (55)→63
     .. grid-item:: +10
 
 .. grid:: 
@@ -481,7 +481,7 @@
         132
 
     .. grid-item:: 37 (36)→34
-    .. grid-item:: 42→40
+    .. grid-item:: 36 (34)→34
     .. grid-item:: 
     .. grid-item:: 
 
@@ -489,7 +489,7 @@
         222 (232)
 
     .. grid-item:: 62 (63)→58 (60)
-    .. grid-item:: 57 (58)→56 (59)
+    .. grid-item:: 59 (62)→58 (66)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -497,7 +497,7 @@
         194
 
     .. grid-item:: 67 (66)→64
-    .. grid-item:: 57
+    .. grid-item:: 69→68
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -521,7 +521,7 @@
         164
 
     .. grid-item:: 50 (48)→53 (51)
-    .. grid-item:: 46→49
+    .. grid-item:: 48 (46)→55
     .. grid-item:: +10
     .. grid-item:: 
 
@@ -529,7 +529,7 @@
         214
 
     .. grid-item:: 68 (63)→66 (62)
-    .. grid-item:: 57 (56)→57
+    .. grid-item:: 64 (58)→63
     .. grid-item:: 
     .. grid-item:: 
 
@@ -537,7 +537,7 @@
         199
 
     .. grid-item:: 53 (52)→50
-    .. grid-item:: 53
+    .. grid-item:: 50→49
     .. grid-item:: 
 
 .. grid:: 
@@ -664,7 +664,7 @@
         132
 
     .. grid-item:: 37 (36)→34
-    .. grid-item:: 42→40
+    .. grid-item:: 36 (34)→34
     .. grid-item:: 
     .. grid-item:: 
 
@@ -672,7 +672,7 @@
         222 (229)
 
     .. grid-item:: 62 (61)→58
-    .. grid-item:: 57→56 (58)
+    .. grid-item:: 59 (60)→58 (63)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -680,7 +680,7 @@
         194
 
     .. grid-item:: 67 (66)→64
-    .. grid-item:: 57
+    .. grid-item:: 69→68
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -704,7 +704,7 @@
         164
 
     .. grid-item:: 50 (48)→53 (51)
-    .. grid-item:: 46→49
+    .. grid-item:: 48 (46)→55
     .. grid-item:: +10
     .. grid-item:: 
 
@@ -712,7 +712,7 @@
         214
 
     .. grid-item:: 68 (63)→66 (62)
-    .. grid-item:: 57 (56)→57
+    .. grid-item:: 64 (58)→63
     .. grid-item:: 
     .. grid-item:: 
 
@@ -720,7 +720,7 @@
         199
 
     .. grid-item:: 53 (52)→50
-    .. grid-item:: 53
+    .. grid-item:: 50→49
     .. grid-item:: 
 
 .. grid:: 
@@ -854,7 +854,7 @@
         151 (161)
 
     .. grid-item:: 51 (56)→47 (52)
-    .. grid-item:: 47 (49)→46 (49)
+    .. grid-item:: 49 (55)→47 (54)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -862,7 +862,7 @@
         223 (233)
 
     .. grid-item:: 62 (63)→59 (61)
-    .. grid-item:: 57 (58)→56 (59)
+    .. grid-item:: 60 (62)→59 (66)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -870,7 +870,7 @@
         189
 
     .. grid-item:: 56→54
-    .. grid-item:: 55
+    .. grid-item:: 59→58
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -894,7 +894,7 @@
         165 (168)
 
     .. grid-item:: 60 (61)→54
-    .. grid-item:: 49→49 (50)
+    .. grid-item:: 59 (57)→56 (59)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -902,7 +902,7 @@
         205 (215)
 
     .. grid-item:: 57 (64)→55 (63)
-    .. grid-item:: 54 (56)→54 (57)
+    .. grid-item:: 54 (59)→53 (65)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -910,7 +910,7 @@
         211
 
     .. grid-item:: 62 (61)→59 (58)
-    .. grid-item:: 57→56
+    .. grid-item:: 60 (59)→59
     .. grid-item:: 
 
 .. grid:: 
@@ -1030,7 +1030,7 @@
         134 (139)
 
     .. grid-item:: 38 (41)→36 (38)
-    .. grid-item:: 43→41 (42)
+    .. grid-item:: 37 (39)→36 (39)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1038,7 +1038,7 @@
         209 (220)
 
     .. grid-item:: 52 (56)→49 (53)
-    .. grid-item:: 53 (55)→52 (55)
+    .. grid-item:: 49 (54)→48 (57)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1046,7 +1046,7 @@
         181
 
     .. grid-item:: 39→38
-    .. grid-item:: 52→51
+    .. grid-item:: 42→41
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -1070,7 +1070,7 @@
         157 (161)
 
     .. grid-item:: 53 (55)→46 (48)
-    .. grid-item:: 47→46 (48)
+    .. grid-item:: 51 (52)→48 (52)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1078,7 +1078,7 @@
         199 (205)
 
     .. grid-item:: 50 (54)→47 (52)
-    .. grid-item:: 52 (53)→52 (54)
+    .. grid-item:: 47 (49)→45 (53)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1086,7 +1086,7 @@
         193
 
     .. grid-item:: 48→46 (45)
-    .. grid-item:: 51
+    .. grid-item:: 46 (45)→44
     .. grid-item:: 
 
 .. grid:: 
@@ -1195,7 +1195,7 @@
         138
 
     .. grid-item:: 41 (40)→38 (37)
-    .. grid-item:: 44 (43)→42
+    .. grid-item:: 40 (39)→38
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1203,7 +1203,7 @@
         219 (229)
 
     .. grid-item:: 59 (61)→56 (58)
-    .. grid-item:: 56 (57)→55 (58)
+    .. grid-item:: 57 (60)→56 (63)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1211,7 +1211,7 @@
         188
 
     .. grid-item:: 54→52
-    .. grid-item:: 54
+    .. grid-item:: 56
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -1235,7 +1235,7 @@
         164 (168)
 
     .. grid-item:: 59 (61)→53 (54)
-    .. grid-item:: 49→49 (50)
+    .. grid-item:: 58 (57)→55 (59)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1243,7 +1243,7 @@
         202 (212)
 
     .. grid-item:: 54 (61)→51 (59)
-    .. grid-item:: 53 (55)→53 (56)
+    .. grid-item:: 50 (56)→49 (61)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1251,7 +1251,7 @@
         203
 
     .. grid-item:: 56 (55)→53
-    .. grid-item:: 54
+    .. grid-item:: 53→52
     .. grid-item:: 
 
 .. grid:: 
@@ -1371,7 +1371,7 @@
         138 (148)
 
     .. grid-item:: 41 (47)→38 (44)
-    .. grid-item:: 44 (45)→42 (45)
+    .. grid-item:: 40 (46)→38 (45)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1379,7 +1379,7 @@
         219 (229)
 
     .. grid-item:: 59 (61)→56 (58)
-    .. grid-item:: 56 (57)→55 (58)
+    .. grid-item:: 57 (60)→56 (63)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1387,7 +1387,7 @@
         188
 
     .. grid-item:: 54→52
-    .. grid-item:: 54
+    .. grid-item:: 56
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -1411,7 +1411,7 @@
         164
 
     .. grid-item:: 59 (57)→53 (51)
-    .. grid-item:: 49 (48)→49
+    .. grid-item:: 58 (54)→55
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1419,7 +1419,7 @@
         202 (212)
 
     .. grid-item:: 54 (61)→51 (59)
-    .. grid-item:: 53 (55)→53 (56)
+    .. grid-item:: 50 (56)→49 (61)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1427,7 +1427,7 @@
         203
 
     .. grid-item:: 56 (55)→53
-    .. grid-item:: 54
+    .. grid-item:: 53→52
     .. grid-item:: 
 
 .. grid:: 
@@ -1547,7 +1547,7 @@
         155 (165)
 
     .. grid-item:: 53 (59)→49 (54)
-    .. grid-item:: 48 (50)→47 (50)
+    .. grid-item:: 52 (58)→50 (57)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1555,7 +1555,7 @@
         227 (234)
 
     .. grid-item:: 66 (64)→62 (61)
-    .. grid-item:: 58→57 (59)
+    .. grid-item:: 63→62 (67)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1563,7 +1563,7 @@
         186
 
     .. grid-item:: 50→48
-    .. grid-item:: 54→53
+    .. grid-item:: 52→51
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -1587,7 +1587,7 @@
         175
 
     .. grid-item:: 70 (67)→64 (61)
-    .. grid-item:: 52 (51)→52
+    .. grid-item:: 68 (63)→65
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1595,7 +1595,7 @@
         211 (221)
 
     .. grid-item:: 64 (70)→62 (69)
-    .. grid-item:: 56 (58)→56 (59)
+    .. grid-item:: 60 (64)→60 (72)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1603,7 +1603,7 @@
         216
 
     .. grid-item:: 66 (65)→63 (62)
-    .. grid-item:: 58
+    .. grid-item:: 64 (63)→63
     .. grid-item:: 
 
 .. grid:: 
@@ -1712,7 +1712,7 @@
         142
 
     .. grid-item:: 44 (43)→41 (40)
-    .. grid-item:: 45 (44)→43
+    .. grid-item:: 43 (41)→41
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1720,7 +1720,7 @@
         222 (232)
 
     .. grid-item:: 62 (63)→58 (60)
-    .. grid-item:: 57 (58)→56 (59)
+    .. grid-item:: 59 (62)→58 (66)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1728,7 +1728,7 @@
         189
 
     .. grid-item:: 56→54
-    .. grid-item:: 55
+    .. grid-item:: 59→58
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -1752,7 +1752,7 @@
         166
 
     .. grid-item:: 61 (59)→55 (53)
-    .. grid-item:: 49
+    .. grid-item:: 59 (56)→57
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1760,7 +1760,7 @@
         203 (213)
 
     .. grid-item:: 55 (62)→52 (61)
-    .. grid-item:: 53 (55)→53 (56)
+    .. grid-item:: 51 (57)→50 (62)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1768,7 +1768,7 @@
         202
 
     .. grid-item:: 55 (54)→52
-    .. grid-item:: 54
+    .. grid-item:: 53 (52)→52
     .. grid-item:: 
 
 .. grid:: 
@@ -1888,7 +1888,7 @@
         154
 
     .. grid-item:: 53 (52)→48 (47)
-    .. grid-item:: 47
+    .. grid-item:: 51 (50)→50
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1896,7 +1896,7 @@
         222 (232)
 
     .. grid-item:: 62 (63)→58 (60)
-    .. grid-item:: 57 (58)→56 (59)
+    .. grid-item:: 59 (62)→58 (66)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1904,7 +1904,7 @@
         189
 
     .. grid-item:: 56→54
-    .. grid-item:: 55
+    .. grid-item:: 59→58
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -1928,7 +1928,7 @@
         163
 
     .. grid-item:: 58 (56)→52 (50)
-    .. grid-item:: 49 (48)→48
+    .. grid-item:: 57 (53)→54
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1936,7 +1936,7 @@
         204 (214)
 
     .. grid-item:: 56 (63)→54 (62)
-    .. grid-item:: 54 (56)→53 (57)
+    .. grid-item:: 53 (58)→51 (63)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1944,7 +1944,7 @@
         209
 
     .. grid-item:: 61 (59)→58 (57)
-    .. grid-item:: 56
+    .. grid-item:: 58→57
     .. grid-item:: 
 
 .. grid:: 
@@ -2061,7 +2061,7 @@
         255
 
     .. grid-item:: 149 (145)→114 (111)
-    .. grid-item:: 80→78
+    .. grid-item:: 149 (144)→120
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2069,7 +2069,7 @@
         99
 
     .. grid-item:: -34 (-18)→-33 (-17)
-    .. grid-item:: 21
+    .. grid-item:: -34 (-23)→-36
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2077,7 +2077,7 @@
         99
 
     .. grid-item:: -132→-126 (-127)
-    .. grid-item:: 19
+    .. grid-item:: -131 (-132)→-125
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -2101,7 +2101,7 @@
         255
 
     .. grid-item:: 176 (169)→142 (132)
-    .. grid-item:: 80→79
+    .. grid-item:: 175 (158)→143
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2109,7 +2109,7 @@
         99
 
     .. grid-item:: -65 (-51)→-80 (-65)
-    .. grid-item:: 20
+    .. grid-item:: -64 (-50)→-74
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2117,7 +2117,7 @@
         99
 
     .. grid-item:: -25 (-21)→-26 (-23)
-    .. grid-item:: 21
+    .. grid-item:: -29 (-28)→-31
     .. grid-item:: 
 
 .. _srw4_pilot_emary_ounce_commentBegin:
@@ -2211,7 +2211,7 @@
         255
 
     .. grid-item:: 149 (145)→114 (111)
-    .. grid-item:: 80→78
+    .. grid-item:: 149 (144)→120
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2219,7 +2219,7 @@
         99
 
     .. grid-item:: -34 (-18)→-33 (-17)
-    .. grid-item:: 21
+    .. grid-item:: -34 (-23)→-36
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2227,7 +2227,7 @@
         99
 
     .. grid-item:: -132→-126 (-127)
-    .. grid-item:: 19
+    .. grid-item:: -131 (-132)→-125
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -2251,7 +2251,7 @@
         255
 
     .. grid-item:: 176 (169)→142 (132)
-    .. grid-item:: 80→79
+    .. grid-item:: 175 (158)→143
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2259,7 +2259,7 @@
         99
 
     .. grid-item:: -65 (-51)→-80 (-65)
-    .. grid-item:: 20
+    .. grid-item:: -64 (-50)→-74
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2267,7 +2267,7 @@
         99
 
     .. grid-item:: -25 (-21)→-26 (-23)
-    .. grid-item:: 21
+    .. grid-item:: -29 (-28)→-31
     .. grid-item:: 
 
 .. _srw4_pilot_leina_ashta_commentBegin:
@@ -2361,7 +2361,7 @@
         149
 
     .. grid-item:: 42 (41)→45 (44)
-    .. grid-item:: 44 (43)→45
+    .. grid-item:: 41 (39)→46
     .. grid-item:: +10
     .. grid-item:: 
 
@@ -2369,7 +2369,7 @@
         205
 
     .. grid-item:: 49 (46)→46 (44)
-    .. grid-item:: 52 (50)→51
+    .. grid-item:: 46 (44)→45
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2377,7 +2377,7 @@
         191
 
     .. grid-item:: 39→58
-    .. grid-item:: 52→55
+    .. grid-item:: 42→62
     .. grid-item:: +10
     .. grid-item::
         :class: flex-break
@@ -2401,7 +2401,7 @@
         154
 
     .. grid-item:: 41 (39)→43 (42)
-    .. grid-item:: 44 (43)→45
+    .. grid-item:: 39 (37)→45
     .. grid-item:: +10
     .. grid-item:: 
 
@@ -2409,7 +2409,7 @@
         191
 
     .. grid-item:: 41 (40)→37 (36)
-    .. grid-item:: 50 (49)→49
+    .. grid-item:: 38 (36)→36
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2417,7 +2417,7 @@
         179
 
     .. grid-item:: 37→35
-    .. grid-item:: 47→46
+    .. grid-item:: 34→33
     .. grid-item:: 
 
 .. grid:: 
@@ -2539,7 +2539,7 @@
         132
 
     .. grid-item:: 30 (29)→34
-    .. grid-item:: 40 (39)→40
+    .. grid-item:: 28 (27)→34
     .. grid-item:: +10
     .. grid-item:: 
 
@@ -2547,7 +2547,7 @@
         204
 
     .. grid-item:: 48 (46)→45 (44)
-    .. grid-item:: 51 (50)→51
+    .. grid-item:: 46 (44)→44
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2555,7 +2555,7 @@
         191
 
     .. grid-item:: 39→58
-    .. grid-item:: 52→55
+    .. grid-item:: 42→62
     .. grid-item:: +10
     .. grid-item::
         :class: flex-break
@@ -2579,7 +2579,7 @@
         160
 
     .. grid-item:: 37 (36)→49 (47)
-    .. grid-item:: 43 (42)→47
+    .. grid-item:: 35 (34)→51
     .. grid-item:: +20
     .. grid-item:: 
 
@@ -2587,7 +2587,7 @@
         190
 
     .. grid-item:: 40 (39)→36 (35)
-    .. grid-item:: 49 (48)→49
+    .. grid-item:: 37 (35)→35
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2595,7 +2595,7 @@
         177
 
     .. grid-item:: 36→33 (34)
-    .. grid-item:: 46
+    .. grid-item:: 33→32
     .. grid-item:: 
 
 .. grid:: 
@@ -2725,7 +2725,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         132
 
     .. grid-item:: 30 (29)→34
-    .. grid-item:: 40 (39)→40
+    .. grid-item:: 28 (27)→34
     .. grid-item:: +10
     .. grid-item:: 
 
@@ -2733,7 +2733,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         199
 
     .. grid-item:: 44 (43)→41
-    .. grid-item:: 50 (49)→49
+    .. grid-item:: 42 (41)→41
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2741,7 +2741,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         179
 
     .. grid-item:: 35→34
-    .. grid-item:: 51
+    .. grid-item:: 38 (37)→37
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -2765,7 +2765,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         149
 
     .. grid-item:: 36 (35)→38 (37)
-    .. grid-item:: 43 (42)→44
+    .. grid-item:: 34 (33)→40
     .. grid-item:: +10
     .. grid-item:: 
 
@@ -2773,7 +2773,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         189
 
     .. grid-item:: 39 (38)→34
-    .. grid-item:: 49 (48)→49
+    .. grid-item:: 36 (34)→34
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2781,7 +2781,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         177
 
     .. grid-item:: 36→33 (34)
-    .. grid-item:: 46
+    .. grid-item:: 33→32
     .. grid-item:: 
 
 .. grid:: 
@@ -2899,7 +2899,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         255
 
     .. grid-item:: 149 (145)→114 (111)
-    .. grid-item:: 80→78
+    .. grid-item:: 149 (144)→120
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2907,7 +2907,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         99
 
     .. grid-item:: -34 (-18)→-33 (-17)
-    .. grid-item:: 21
+    .. grid-item:: -34 (-23)→-36
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2915,7 +2915,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         99
 
     .. grid-item:: -132→-126 (-127)
-    .. grid-item:: 19
+    .. grid-item:: -131 (-132)→-125
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -2939,7 +2939,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         255
 
     .. grid-item:: 176 (169)→142 (132)
-    .. grid-item:: 80→79
+    .. grid-item:: 175 (158)→143
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2947,7 +2947,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         99
 
     .. grid-item:: -65 (-51)→-80 (-65)
-    .. grid-item:: 20
+    .. grid-item:: -64 (-50)→-74
     .. grid-item:: 
     .. grid-item:: 
 
@@ -2955,7 +2955,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         99
 
     .. grid-item:: -25 (-21)→-26 (-23)
-    .. grid-item:: 21
+    .. grid-item:: -29 (-28)→-31
     .. grid-item:: 
 
 .. _srw4_pilot_iino_abbav_commentBegin:
@@ -3049,7 +3049,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         152
 
     .. grid-item:: 51 (50)→47 (46)
-    .. grid-item:: 47 (46)→46
+    .. grid-item:: 50 (48)→48
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3057,7 +3057,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         223
 
     .. grid-item:: 62 (57)→59 (55)
-    .. grid-item:: 57 (55)→56
+    .. grid-item:: 60 (56)→59
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3065,7 +3065,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         190
 
     .. grid-item:: 58→56
-    .. grid-item:: 55
+    .. grid-item:: 61→60
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -3089,7 +3089,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         162
 
     .. grid-item:: 58 (56)→51 (49)
-    .. grid-item:: 48
+    .. grid-item:: 56 (52)→53
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3097,7 +3097,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         205
 
     .. grid-item:: 57 (54)→55 (52)
-    .. grid-item:: 54 (53)→54
+    .. grid-item:: 54 (49)→53
     .. grid-item:: 
     .. grid-item:: 
 
@@ -3105,7 +3105,7 @@ Despite desgined to be a non-fighting role, Elle Vianno is voiced during fightin
         199
 
     .. grid-item:: 53 (52)→50
-    .. grid-item:: 53
+    .. grid-item:: 50→49
     .. grid-item:: 
 
 .. grid:: 

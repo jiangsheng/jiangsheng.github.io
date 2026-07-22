@@ -59,7 +59,7 @@
             .. grid-item:: 英文:Combattler V。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第15话。
+            .. grid-item:: 登场/加入:第6话。
                 :columns: auto
 
             .. grid-item:: 编码:32。
@@ -412,7 +412,7 @@
             .. grid-item:: 英文:Battle Jet。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第15话。
+            .. grid-item:: 登场/加入:第6话。
                 :columns: auto
 
             .. grid-item:: 编码:2D。
@@ -615,7 +615,7 @@
             .. grid-item:: 英文:Battle Crusher。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第15话。
+            .. grid-item:: 登场/加入:第6话。
                 :columns: auto
 
             .. grid-item:: 编码:2E。
@@ -816,7 +816,7 @@
             .. grid-item:: 英文:Battle Tank。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第15话。
+            .. grid-item:: 登场/加入:第6话。
                 :columns: auto
 
             .. grid-item:: 编码:2F。
@@ -993,7 +993,7 @@
             .. grid-item:: 英文:Battle Marine。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第15话。
+            .. grid-item:: 登场/加入:第6话。
                 :columns: auto
 
             .. grid-item:: 编码:30。
@@ -1169,7 +1169,7 @@
             .. grid-item:: 英文:Battle Craft。
                 :columns: auto
 
-            .. grid-item:: 登场/加入:第15话。
+            .. grid-item:: 登场/加入:第6话。
                 :columns: auto
 
             .. grid-item:: 编码:31。
@@ -1255,7 +1255,7 @@
     .. grid-item:: 经验值
     .. grid-item:: 65
     .. grid-item:: 38
-    .. grid-item:: 40
+    .. grid-item:: 39
     .. grid-item:: 价值
     .. grid-item:: 900
     .. grid-item:: 45
@@ -1754,7 +1754,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 160
     .. grid-item:: 42
@@ -1951,7 +1951,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 34
     .. grid-item:: 47
-    .. grid-item:: 49
+    .. grid-item:: 49 (48)
     .. grid-item:: 限界
     .. grid-item:: 165
     .. grid-item:: 44

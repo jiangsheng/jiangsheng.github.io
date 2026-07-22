@@ -444,11 +444,11 @@
     .. grid-item:: 经验值
     .. grid-item:: 130
     .. grid-item:: 49
-    .. grid-item:: 50
+    .. grid-item:: 49
     .. grid-item:: 价值
     .. grid-item:: 2000
     .. grid-item:: 47
-    .. grid-item:: 46
+    .. grid-item:: 45
     .. grid-item:: 修理费
     .. grid-item:: 2200
     .. grid-item:: 46
@@ -825,7 +825,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 180
     .. grid-item:: 48
@@ -843,7 +843,7 @@
     .. grid-item:: 价值
     .. grid-item:: 2000
     .. grid-item:: 47
-    .. grid-item:: 46
+    .. grid-item:: 45
     .. grid-item:: 修理费
     .. grid-item:: 100
     .. grid-item:: 44
@@ -1015,7 +1015,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 180
     .. grid-item:: 48
@@ -1033,7 +1033,7 @@
     .. grid-item:: 价值
     .. grid-item:: 2000
     .. grid-item:: 47
-    .. grid-item:: 46
+    .. grid-item:: 45
     .. grid-item:: 修理费
     .. grid-item:: 100
     .. grid-item:: 44
@@ -1374,13 +1374,13 @@
     .. grid-item:: 装甲
     .. grid-item:: 520
     .. grid-item:: 58 (57)
-    .. grid-item:: 55 (54)
+    .. grid-item:: 55
     .. grid-item::
         :class: flex-break
     .. grid-item:: 运动性
     .. grid-item:: 30
     .. grid-item:: 42
-    .. grid-item:: 45 (44)
+    .. grid-item:: 44
     .. grid-item:: 限界
     .. grid-item:: 190
     .. grid-item:: 51
@@ -1398,7 +1398,7 @@
     .. grid-item:: 价值
     .. grid-item:: 2000
     .. grid-item:: 47
-    .. grid-item:: 46
+    .. grid-item:: 45
     .. grid-item:: 修理费
     .. grid-item:: 100
     .. grid-item:: 44
@@ -1571,7 +1571,7 @@
     .. grid-item:: 限界
     .. grid-item:: 210
     .. grid-item:: 57
-    .. grid-item:: 57
+    .. grid-item:: 58 (57)
     .. grid-item:: 移动力
     .. grid-item:: 6
     .. grid-item:: 37

@@ -353,7 +353,7 @@ Gクルーザー (S)(S号G-巡航机)
     .. grid-item:: 运动性
     .. grid-item:: 35
     .. grid-item:: 48
-    .. grid-item:: 50
+    .. grid-item:: 50 (49)
     .. grid-item:: 限界
     .. grid-item:: 190
     .. grid-item:: 51
@@ -531,7 +531,7 @@ ExSガンダム(ExS高达)
     .. grid-item:: 限界
     .. grid-item:: 210
     .. grid-item:: 57
-    .. grid-item:: 57
+    .. grid-item:: 58 (57)
     .. grid-item:: 移动力
     .. grid-item:: 9
     .. grid-item:: 53

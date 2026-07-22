@@ -836,7 +836,7 @@
     .. grid-item:: 经验值
     .. grid-item:: 215
     .. grid-item:: 63
-    .. grid-item:: 63
+    .. grid-item:: 62
     .. grid-item:: 价值
     .. grid-item:: 14000
     .. grid-item:: 69
@@ -844,7 +844,7 @@
     .. grid-item:: 修理费
     .. grid-item:: 14000
     .. grid-item:: 59
-    .. grid-item:: 56
+    .. grid-item:: 55
 
 .. grid:: 
     :gutter: 0
@@ -1207,7 +1207,7 @@
     .. grid-item:: 运动性
     .. grid-item:: 29
     .. grid-item:: 41
-    .. grid-item:: 44 (43)
+    .. grid-item:: 43
     .. grid-item:: 限界
     .. grid-item:: 170
     .. grid-item:: 45

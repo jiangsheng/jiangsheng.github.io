@@ -128,7 +128,7 @@
         174
 
     .. grid-item:: 60 (59)→61 (60)
-    .. grid-item:: 50 (49)→53
+    .. grid-item:: 59 (57)→63
     .. grid-item:: +10
     .. grid-item:: 
 
@@ -136,7 +136,7 @@
         196
 
     .. grid-item:: 38→39
-    .. grid-item:: 48 (47)→49
+    .. grid-item:: 36 (35)→38
     .. grid-item:: +5
     .. grid-item:: 
 
@@ -144,7 +144,7 @@
         187
 
     .. grid-item:: 52→50
-    .. grid-item:: 54
+    .. grid-item:: 54→53
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -168,7 +168,7 @@
         159
 
     .. grid-item:: 50 (48)→48 (46)
-    .. grid-item:: 46→47
+    .. grid-item:: 48 (46)→50
     .. grid-item:: +5
     .. grid-item:: 
 
@@ -176,7 +176,7 @@
         194
 
     .. grid-item:: 39 (38)→41 (40)
-    .. grid-item:: 49 (48)→50
+    .. grid-item:: 36 (34)→39
     .. grid-item:: +5
     .. grid-item:: 
 
@@ -184,7 +184,7 @@
         187
 
     .. grid-item:: 39 (40)→41
-    .. grid-item:: 48 (47)→49
+    .. grid-item:: 37→40
     .. grid-item:: +5
 
 .. grid:: 
@@ -312,7 +312,7 @@
         162
 
     .. grid-item:: 51 (50)→54 (53)
-    .. grid-item:: 47 (46)→49
+    .. grid-item:: 50 (48)→55
     .. grid-item:: +10
     .. grid-item:: 
 
@@ -320,7 +320,7 @@
         194
 
     .. grid-item:: 36 (37)→38
-    .. grid-item:: 47 (46)→48
+    .. grid-item:: 34→37
     .. grid-item:: +5
     .. grid-item:: 
 
@@ -328,7 +328,7 @@
         183
 
     .. grid-item:: 44 (43)→42
-    .. grid-item:: 52
+    .. grid-item:: 46→45
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -352,7 +352,7 @@
         157
 
     .. grid-item:: 48 (47)→46 (45)
-    .. grid-item:: 46 (45)→46
+    .. grid-item:: 46 (44)→48
     .. grid-item:: +5
     .. grid-item:: 
 
@@ -360,7 +360,7 @@
         196
 
     .. grid-item:: 41 (40)→43 (42)
-    .. grid-item:: 50 (49)→51
+    .. grid-item:: 38 (36)→42
     .. grid-item:: +5
     .. grid-item:: 
 
@@ -368,7 +368,7 @@
         189
 
     .. grid-item:: 41→43 (42)
-    .. grid-item:: 48→49
+    .. grid-item:: 38→41
     .. grid-item:: +5
 
 .. grid:: 
@@ -481,7 +481,7 @@
         157
 
     .. grid-item:: 48 (47)→50 (49)
-    .. grid-item:: 46 (45)→48
+    .. grid-item:: 46 (45)→52
     .. grid-item:: +10
     .. grid-item:: 
 
@@ -489,7 +489,7 @@
         197
 
     .. grid-item:: 38→40
-    .. grid-item:: 48 (47)→49
+    .. grid-item:: 36→39
     .. grid-item:: +5
     .. grid-item:: 
 
@@ -497,7 +497,7 @@
         186
 
     .. grid-item:: 50→48
-    .. grid-item:: 54→53
+    .. grid-item:: 52→51
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -521,7 +521,7 @@
         157
 
     .. grid-item:: 48 (47)→46 (45)
-    .. grid-item:: 46 (45)→46
+    .. grid-item:: 46 (44)→48
     .. grid-item:: +5
     .. grid-item:: 
 
@@ -529,7 +529,7 @@
         194
 
     .. grid-item:: 39 (38)→41 (40)
-    .. grid-item:: 49 (48)→50
+    .. grid-item:: 36 (34)→39
     .. grid-item:: +5
     .. grid-item:: 
 
@@ -537,7 +537,7 @@
         184
 
     .. grid-item:: 37→39
-    .. grid-item:: 47→48
+    .. grid-item:: 34→37
     .. grid-item:: +5
 
 .. grid:: 
@@ -659,7 +659,7 @@
         152
 
     .. grid-item:: 51 (50)→47 (46)
-    .. grid-item:: 47 (46)→46
+    .. grid-item:: 50 (48)→48
     .. grid-item:: 
     .. grid-item:: 
 
@@ -667,7 +667,7 @@
         189
 
     .. grid-item:: 36 (37)→34 (35)
-    .. grid-item:: 47 (46)→47
+    .. grid-item:: 34→33
     .. grid-item:: 
     .. grid-item:: 
 
@@ -675,7 +675,7 @@
         182
 
     .. grid-item:: 41→40
-    .. grid-item:: 52
+    .. grid-item:: 44→43
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -699,7 +699,7 @@
         152 (153)
 
     .. grid-item:: 48 (47)→41
-    .. grid-item:: 46 (45)→45
+    .. grid-item:: 46 (45)→43 (44)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -707,7 +707,7 @@
         193 (195)
 
     .. grid-item:: 43 (44)→40 (41)
-    .. grid-item:: 50→50 (51)
+    .. grid-item:: 40→38 (41)
     .. grid-item:: 
     .. grid-item:: 
 
@@ -715,7 +715,7 @@
         179
 
     .. grid-item:: 37→35
-    .. grid-item:: 47→46
+    .. grid-item:: 34→33
     .. grid-item:: 
 
 .. grid:: 
@@ -836,7 +836,7 @@
         255
 
     .. grid-item:: 149 (145)→114 (111)
-    .. grid-item:: 80→78
+    .. grid-item:: 149 (144)→120
     .. grid-item:: 
     .. grid-item:: 
 
@@ -844,7 +844,7 @@
         99
 
     .. grid-item:: -34 (-18)→-33 (-17)
-    .. grid-item:: 21
+    .. grid-item:: -34 (-23)→-36
     .. grid-item:: 
     .. grid-item:: 
 
@@ -852,7 +852,7 @@
         99
 
     .. grid-item:: -132→-126 (-127)
-    .. grid-item:: 19
+    .. grid-item:: -131 (-132)→-125
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -876,7 +876,7 @@
         255
 
     .. grid-item:: 176 (169)→142 (132)
-    .. grid-item:: 80→79
+    .. grid-item:: 175 (158)→143
     .. grid-item:: 
     .. grid-item:: 
 
@@ -884,7 +884,7 @@
         99
 
     .. grid-item:: -65 (-51)→-80 (-65)
-    .. grid-item:: 20
+    .. grid-item:: -64 (-50)→-74
     .. grid-item:: 
     .. grid-item:: 
 
@@ -892,7 +892,7 @@
         99
 
     .. grid-item:: -25 (-21)→-26 (-23)
-    .. grid-item:: 21
+    .. grid-item:: -29 (-28)→-31
     .. grid-item:: 
 
 .. _srw4_pilot_heizaemon_kamikita_commentBegin:
@@ -992,7 +992,7 @@
         255
 
     .. grid-item:: 149 (145)→114 (111)
-    .. grid-item:: 80→78
+    .. grid-item:: 149 (144)→120
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1000,7 +1000,7 @@
         99
 
     .. grid-item:: -34 (-18)→-33 (-17)
-    .. grid-item:: 21
+    .. grid-item:: -34 (-23)→-36
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1008,7 +1008,7 @@
         99
 
     .. grid-item:: -132→-126 (-127)
-    .. grid-item:: 19
+    .. grid-item:: -131 (-132)→-125
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -1032,7 +1032,7 @@
         255
 
     .. grid-item:: 176 (169)→142 (132)
-    .. grid-item:: 80→79
+    .. grid-item:: 175 (158)→143
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1040,7 +1040,7 @@
         99
 
     .. grid-item:: -65 (-51)→-80 (-65)
-    .. grid-item:: 20
+    .. grid-item:: -64 (-50)→-74
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1048,7 +1048,7 @@
         99
 
     .. grid-item:: -25 (-21)→-26 (-23)
-    .. grid-item:: 21
+    .. grid-item:: -29 (-28)→-31
     .. grid-item:: 
 
 .. _srw4_pilot_umee_jin_commentBegin:
@@ -1146,7 +1146,7 @@
         255
 
     .. grid-item:: 149 (145)→114 (111)
-    .. grid-item:: 80→78
+    .. grid-item:: 149 (144)→120
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1154,7 +1154,7 @@
         99
 
     .. grid-item:: -34 (-18)→-33 (-17)
-    .. grid-item:: 21
+    .. grid-item:: -34 (-23)→-36
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1162,7 +1162,7 @@
         99
 
     .. grid-item:: -132→-126 (-127)
-    .. grid-item:: 19
+    .. grid-item:: -131 (-132)→-125
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -1186,7 +1186,7 @@
         255
 
     .. grid-item:: 176 (169)→142 (132)
-    .. grid-item:: 80→79
+    .. grid-item:: 175 (158)→143
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1194,7 +1194,7 @@
         99
 
     .. grid-item:: -65 (-51)→-80 (-65)
-    .. grid-item:: 20
+    .. grid-item:: -64 (-50)→-74
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1202,7 +1202,7 @@
         99
 
     .. grid-item:: -25 (-21)→-26 (-23)
-    .. grid-item:: 21
+    .. grid-item:: -29 (-28)→-31
     .. grid-item:: 
 
 .. _srw4_pilot_gengorou_jin_commentBegin:
@@ -1301,7 +1301,7 @@
         255
 
     .. grid-item:: 149 (145)→114 (111)
-    .. grid-item:: 80→78
+    .. grid-item:: 149 (144)→120
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1309,7 +1309,7 @@
         99
 
     .. grid-item:: -34 (-18)→-33 (-17)
-    .. grid-item:: 21
+    .. grid-item:: -34 (-23)→-36
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1317,7 +1317,7 @@
         99
 
     .. grid-item:: -132→-126 (-127)
-    .. grid-item:: 19
+    .. grid-item:: -131 (-132)→-125
     .. grid-item:: 
     .. grid-item::
         :class: flex-break
@@ -1341,7 +1341,7 @@
         255
 
     .. grid-item:: 176 (169)→142 (132)
-    .. grid-item:: 80→79
+    .. grid-item:: 175 (158)→143
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1349,7 +1349,7 @@
         99
 
     .. grid-item:: -65 (-51)→-80 (-65)
-    .. grid-item:: 20
+    .. grid-item:: -64 (-50)→-74
     .. grid-item:: 
     .. grid-item:: 
 
@@ -1357,7 +1357,7 @@
         99
 
     .. grid-item:: -25 (-21)→-26 (-23)
-    .. grid-item:: 21
+    .. grid-item:: -29 (-28)→-31
     .. grid-item:: 
 
 .. _srw4_pilot_ichitaro_jin_commentBegin:
