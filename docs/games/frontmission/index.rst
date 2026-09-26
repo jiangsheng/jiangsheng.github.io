@@ -34,13 +34,19 @@ Royd in Shrike Ex - LV 26 HP 107
 
 FI 9 ST 24 LG 14 AG 23 Ge 40% 
 
-would mean the :ref:`pilot <front_mission_mechanics_pilots>` Royd is riding on the wanzer named Shrike. Royd is lv 26, the wanzer has 107 total HP between :ref:`parts <front_mission_mechanics_parts>` (less total HP does not necessary mean it is in danger, if the body is intact). The wanzer has fight, shooting and long ranged :ref:`weapons <front_mission_mechanics_weapons>` of rating 9,24 and 14 respectively. The wanzer has an agility rating of 23. The :ref:`tile <front_mission_mechanics_terrain>` Royd is on has a cover rating of 40%.
+would mean 
+* the :ref:`pilot <front_mission_mechanics_pilots>` Royd is riding on the wanzer named Shrike. 
+* Royd is lv 26
+* The wanzer has 107 total HP between :ref:`parts <front_mission_mechanics_parts>` (less total HP does not necessary mean it is in danger, if the body is intact). 
+* The wanzer has fight, shooting and long ranged :ref:`weapons <front_mission_mechanics_weapons>` of rating 9,24 and 14 respectively. 
+* The wanzer has an agility rating of 23.
+* The :ref:`tile <front_mission_mechanics_terrain>` Royd is on has a cover rating of 40%.
 
 Keep an eye on ammunition too. You can use the :ref:`equipment view command <front_mission_mechanics_commands>` to check out current ammunition status and the supply command to reload ammunition and change weapons (but not parts) when you are next to a supply truck. 
 
 When destroying an enemy or stepping on a certain tile sometimes you will find a part or a weapon. Don't let NPC or enemy get it first. 
 
-Being an RPG, probably the most intriguing part is the growth of the :ref:`pilots <front_mission_mechanics_pilots>`. After gaining certain :ref:`exps <front_mission_mechanics_exp>` a pilot will level up and sometimes gain :ref:`skills <front_mission_mechanics_skills>`. It is tricky to choose skills best fit a pilot, however.
+Being an RPG, probably the most intriguing part is the growth of the :ref:`pilots <front_mission_mechanics_pilots>`. After gaining certain :ref:`exps <front_mission_mechanics_exp>` a pilot will level up and sometimes gain :ref:`skills <front_mission_mechanics_skills>`. It is tricky to choose skills for a pilot, however.
   
 Useful Part and weapon cheat Codes for SNES
 

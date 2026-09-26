@@ -6,6 +6,14 @@
 Input  (Front Mission 1)
 ===============================
 
+There are two control schemes in the original game (not sure about the remake), one is manual and one is semi-auto.
+
+In manual mode, after a unit finishes action, the cursor becomes free, you need to move the cursor to the desired unit and press A to bring up its command menu. L and R keys will bring up the command menu. B key will close the command menu if opened, and your cursor will become free again.
+
+In semi-auto mode, after a unit finishes action, the next available unit is selected and its command menu is open. You need to press the Y key to deselect the unit. L and R keys will rotate between available units. B key will toggle between move action and command menu.
+
+To switch between the two modes, press the Start key in the mission to bring up the config menu.
+
 Each key has different functionality depending on context.
 
 Basic operation:

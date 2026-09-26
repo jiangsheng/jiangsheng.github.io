@@ -8,7 +8,7 @@ Mechanics  (Front Mission 1)
  
 .. toctree::
    :maxdepth: 1
-   :caption: mechanics:
+   :caption: Mechanics:
    :titlesonly:
    
 

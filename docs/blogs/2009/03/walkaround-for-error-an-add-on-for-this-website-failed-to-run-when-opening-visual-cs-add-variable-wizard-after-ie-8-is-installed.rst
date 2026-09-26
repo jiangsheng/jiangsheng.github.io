@@ -13,9 +13,11 @@ Update: it looks like a lot of people are hitting this page by
 mistake. If you don't write software for a living then this page is
 not for you. 
 
-The program is lost, but what it does is basically copying the entries from the restricted zone to the 1000 zone (custom zone of VC++ Wizards engine). In addition it has a REG_DWORD value set to 0 for name "1207". IE security zone settings are stored in the registry path 
-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet
-Settings\Zones\
+The source code of the program is lost, but what it does is basically copying the entries from the restricted zone to the 1000 zone (custom zone of VC++ Wizards engine). In addition it has a REG_DWORD value set to 0 for name "1207". IE security zone settings are stored in the registry path 
+
+.. code-block:: 
+
+  HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\
 
 This program is designed to temporary circumvent the "An add-on for
 this web site failed to run. Check the security settings in Internet
@@ -24,9 +26,7 @@ Studio <http://www.microsoft.com/visualstudio>`__ after installing
 IE8. For more details about this problem, visit
 https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=425510
 
-The
-
-Update: the VC team's workaround is at
+The Update: the VC team's workaround is at
 http://blogs.msdn.com/vcblog/archive/2009/03/28/some-vs2005-and-vs2008-wizards-pop-up-script-error.aspx. 
 However, I still suggest copying other settings from a restricted
 zone before modify the 1207 key.
@@ -54,8 +54,9 @@ control.
 
 If you received a fix from the IE team for this problem,
 please delete the zone created by this problem by clicking the delete
-button. Visit
-https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=425510
+button.
+
+Visit https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=425510
 for the status of this problem. For more information about adding
 zones to IE, visit http://www.nthelp.com/50/addazone.htm.
 

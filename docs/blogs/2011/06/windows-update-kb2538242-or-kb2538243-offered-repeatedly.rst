@@ -5,7 +5,7 @@ Windows Update KB2538242 or KB2538243 offered repeatedly
 ==========================================================
 
 .. post:: 24 Jun, 2011
-   :tags: Bug
+   :tags: Bug,redistributable
    :category: Visual Studio, Windows Update
    :author: me
    :nocomments:

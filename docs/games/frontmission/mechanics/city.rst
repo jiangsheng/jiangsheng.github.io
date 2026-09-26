@@ -17,7 +17,7 @@ Shop
 
 Here you can buy :ref:`parts <front_mission_mechanics_parts>`, :ref:`weapons <front_mission_mechanics_weapons>`, :ref:`items <front_mission_mechanics_items>` and optionally equip them right in the shop. The owner may also have vital information about the game's progress.
 
-The shop gradually releases newer and better parts as the game progresses. Don't throw your money on tiny upgrades. Wait until you have significant upgrades in the shop. Except you may want to keep some weak weapons for :ref:`trunk exp farming <front_mission_mechanics_exp>` or boost your odds in the colosseum. 
+The shop gradually releases newer and better parts as the game progresses. Don't throw your money on tiny upgrades. Wait until you have significant upgrades in the shop. Except you may want to keep some weak weapons for :ref:`truck exp farming <front_mission_mechanics_exp>` or boost your odds in the colosseum. 
 
 --------------------
 Military office
@@ -30,7 +30,7 @@ Know your enemy:
 
 * Named pilots and Commanders: delay fighting with them if you can. Once engaged, focus fire. 
 * Attackers (Melee): Even in late games and in enemy phrases they can still be disarmed without incident if you have Short Skills. But if left unchecked they can do some serious harm if your units become stunned.
-* Attackers (Short): Due to the imbalance of Short skills, they can do serious damage in late games. However, you can still disarm them like Melee counterpart in the player phrase.
+* Attackers (Short): Due to the imbalance of Short skills, they can do serious damage in late games. However, you can still disarm them in the player phrase.
 * Missileers: Due to their range they can focus on your weakest unit (the supply truck that is). Take them out with your close-range attackers (they suck at close range).
 * Tanks and carriers. They are not much of a threat. Use them to :ref:`farm Agility exp and do truck exp farming <front_mission_mechanics_exp>`\ .
 
@@ -69,7 +69,7 @@ Setup
 --------------------
 .. _front_mission_mechanics_setup:
 
-Here you customize your wanzers. This is probably a time-consuming process. The commands are almost identical to the :ref:`shop <front_mission_mechanics_shop>`, except you can only equip things you bought already or found in a battle. 
+Here you customize your wanzers. This is probably a time-consuming process. The commands are almost identical to the :ref:`shop <front_mission_mechanics_shop>`, except you can only equip things you already bought or found in a battle. 
 
 Your wanzer is powered by an engine in its :ref:`body <front_mission_mechanics_body>`, so the total weight you carry cannot exceed that. The setup window displays a W/P ratio, and if you exceed 100%, you will receive a warning. If you leave W/P ratio very low, however, you will get some movement bonus. 
 
