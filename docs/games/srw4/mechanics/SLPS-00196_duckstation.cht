@@ -3672,7 +3672,7 @@ Type = Gameshark
 Activation = EndFrame
 30047199 0044
 二段变身
-[机体特殊技能修改\二段变身\ヴァルシオ－ネＲ]
+[机体特殊技能修改\二段变身\ヴァルシオーネR]
 Type = Gameshark
 Activation = EndFrame
 300471CA 0040

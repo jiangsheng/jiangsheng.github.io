@@ -31,7 +31,7 @@
       | \ :ref:`NT-1 アレックス <srw4_unit_nt_1_alex>`\ （\ :ref:`クリス <srw4_pilot_christina_mackenzie>`\ ）
       | \ :ref:`ザク改 <srw4_unit_zaku_kai>`\ （\ :ref:`バーニィ <srw4_pilot_bernard_wiseman>`\ ）
       | 路线B : 不满足A条件
-      | \ :ref:`ネモ <srw4_unit_nemo>`\ :ref:`ハサウェイ・ノア <srw4_pilot_hathaway_noah>`\  
+      | \ :ref:`ネモ <srw4_unit_nemo>`\ （:ref:`ハサウェイ・ノア <srw4_pilot_hathaway_noah>`\ ） 
       | 路线C : 同A
 
    .. grid-item-card:: 恋人有无
@@ -64,10 +64,10 @@
       :columns: auto
 
       | 路线A : 日本海侧
-      | :ref:`Gディフェンサー <srw4_unit_g_defender>` ()\ :ref:`カツ・コバヤシ <srw4_pilot_katz_kobayashi>`\ )
-      | :ref:`ジェガン <srw4_unit_jegan>`\ \ :ref:`サラ・ザビアロフ <srw4_pilot_sarah_zabiarov>`\ 
-      | :ref:`ガブスレイ <srw4_unit_gabthley_ms>`\  \ :ref:`Sガンダム <srw4_units_mobile_suit_gundam_sentinel>`\ 
-      | :ref:`ExSガンダム <srw4_unit_ex_s_gundam>`\ \ :ref:`ロザミア・バダム <srw4_pilot_rosamia_badam>`\ 
+      | :ref:`Gディフェンサー <srw4_unit_g_defender>` (\ :ref:`カツ・コバヤシ <srw4_pilot_katz_kobayashi>`\ )
+      | :ref:`ジェガン <srw4_unit_jegan>`\ ，\ :ref:`サラ・ザビアロフ <srw4_pilot_sarah_zabiarov>`\ 
+      | :ref:`ガブスレイ <srw4_unit_gabthley_ms>`\ ， \ :ref:`Sガンダム <srw4_units_mobile_suit_gundam_sentinel>`\ 
+      | :ref:`ExSガンダム <srw4_unit_ex_s_gundam>`\ ，\ :ref:`ロザミア・バダム <srw4_pilot_rosamia_badam>`\ 
       | 路线B : 太平洋侧
       | ルー
       | 路线C : 日本海侧
@@ -85,12 +85,12 @@
       :columns: auto
 
       | 路线A : 不攻击\ :ref:`ガラリア <srw4_pilots_dunbine>`
-      | \ :ref:`グラン・ガラン <srw4_unit_guran_garan>`\ :ref:`シーラ・ラパーナ <srw4_pilot_ciela_lapana>`\ ，
+      | \ :ref:`グラン・ガラン <srw4_unit_guran_garan>`\ （:ref:`シーラ・ラパーナ <srw4_pilot_ciela_lapana>`\ ），
       | \ :ref:`ベル・アール <srw4_pilot_bell_earl>`\ ，\ :ref:`エル・フィノ <srw4_pilot_el_fino>`\ ， 
       | 路线B : 攻击ガラリア
-      | :ref:`ゴラオン， <srw4_unit_goraon>`\ :ref:`エレ・ハンム <srw4_pilot_elle_hunm>`\ 
-      | :ref:`ボチューン  <srw4_unit_botune>`\ x 2 :ref:`ニー，キーン <srw4_pilots_dunbine>`\  
-      | :ref:`ライネック <srw4_unit_wryneck>`\ :ref:`リムル・ルフト <srw4_pilot_riml_luft>`\ 
+      | :ref:`ゴラオン， <srw4_unit_goraon>`\ （:ref:`エレ・ハンム <srw4_pilot_elle_hunm>`\ ）
+      | :ref:`ボチューン  <srw4_unit_botune>`\ x 2， :ref:`ニー，キーン <srw4_pilots_dunbine>`\  
+      | :ref:`ライネック <srw4_unit_wryneck>`\ （:ref:`リムル・ルフト <srw4_pilot_riml_luft>`\ ）
       | 路线C : 不攻击ガラリア
 
    .. grid-item-card:: 16話后 
@@ -146,6 +146,7 @@
 
       | 路线A : 手伝い
       | 路线B : 手伝わない
+      | （サザビー）
       | 路线C : 同A
 
    .. grid-item-card:: 32話第三回合
@@ -154,16 +155,16 @@
       | 路线A : 左へ行
       | 路线C : 同A
       | \ :ref:`アナベル・ガトー <srw4_pilot_anavel_gato>`\ 、\ :ref:`セシリー・フェアチャイルド <srw4_pilot_cecily_fairchild>`\ 
-      | \ :ref:`GP-02A <srw4_unit_gp_02a>`\ \  :ref:`ビギナ・ギナ <srw4_unit_vigna_ghina>`
+      | \ :ref:`GP-02A <srw4_unit_gp_02a>`\ 、\  :ref:`ビギナ・ギナ <srw4_unit_vigna_ghina>`
       | クワトロ离队
 
    .. grid-item-card:: 32話中
       :columns: auto
 
       | 路线A : 不说得\ :ref:`フォウ・ムラサメ <srw4_pilot_four_murasame>`\ 
-      | ExSガンダム \ :ref:`ロザミア・バダム <srw4_pilot_rosamia_badam>`\ 
+      | ExSガンダム 、\ :ref:`ロザミア・バダム <srw4_pilot_rosamia_badam>`\ 
       | 路线B : 说得フォウ
-      | フォウ \ :ref:`リムル・ルフト <srw4_pilot_riml_luft>`\ 
+      | フォウ、 \ :ref:`リムル・ルフト <srw4_pilot_riml_luft>`\ 
       | ライネック
       | 路线C : 同A
    
@@ -205,6 +206,9 @@
 
       | 路线A: \ :ref:`ダバ <srw4_pilots_heavy_metal_l_gaim>`\ 说得
       | \ :ref:`クワサン・オリビー <srw4_pilot_quwasan_olibee>`\ (柯瓦桑·奥利比)   和\ :ref:`ギャブレット・ギャブレー <srw4_pilot_gavlet_gablae>`\ 
+      | ギャブレット・ギャブレー 、エルピー・プル和プルツー
+      | アシュラテンプル、キュベレイ Mk-IIx2
+      | GP-02A追加アトミックバズーカ
       | 路线C: 同A
 
    .. grid-item-card:: 真实系38话
@@ -220,11 +224,16 @@
 
       | :ref:`マサキ <srw4_pilots_banpresto_originals>`\ 说得\ :ref:`リューネ <srw4_pilots_banpresto_originals>`
       | 护卫NPC成功
+      | 如果クワトロ・バジーナ离队：
+      | GP-02A（アナベル・ガトー）和ビギナ・ギナ（セシリー・フェアチャイルド）
+      | 如果没有离队：
+      | サザビー
 
    .. grid-item-card:: 40话
       :columns: auto
 
       | 路线A: スウィートウォーターへ行く
+      | GP-02A追加アトミックバズーカ的前提条件
       | 路线C: 行かない
 
    .. grid-item-card:: （第四次S)41话

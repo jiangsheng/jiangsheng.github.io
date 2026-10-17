@@ -25,6 +25,7 @@
    出击顺序 <deploy>
    love_points
    修改 <cheat>
+   AI<ai>
    
    Bug <bug>
 
