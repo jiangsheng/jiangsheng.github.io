@@ -15,7 +15,7 @@ Translator's note
 
 .. index:: 李汉英
 
-Information about the author is probably redundant since this is a self-biography. But here's some background information. This is written by Lee Guang-Show (李光秀, 1912-2001), my grandma. She wrote this in her eighties. And from her writing I learned a lot about history from a common people's perspective.
+Information about the author is probably redundant since this is a self-biography. But here's some background information. This is written by Lee Guang-Show (李光秀, 1912-2001), my grandma. She wrote this in her eighties. And from her writing I learned a lot about history from a commoner's perspective.
 
  
 --------------------
@@ -50,7 +50,9 @@ In 1926 Wuhan was under the attack from the North Expedition Army (北伐军). F
 In 1931, The Hu family borrowed 200 dollars for our wedding. Because he had 16 per month from his job at his uncle's, and he had to support his parents as well as a sister, the money was barely enough for the tips of the dowry transport. A few days after the wedding people came to collect debt such as the wedding feast and the rent of the sedan chair. I hurried him to sell my goldarn jewelries to clear the debt. From that point forward, our family of five lived off his 16-yuan salary and fell into a life of hardship.
 
 .. index:: 李民喜
+
 .. index:: 胡继林
+   
 .. index:: 胡继芬
 
 I was happy that Mingxi (李民喜, later named 李民玺) was born in 1932. But there were many traditions in the feudal society such as the father should be barred from the birthplace. His mother and sister slept on the floor to accompany me. One day he entered and I asked him "See your son? He hasn't peed in 2 days, can you check?” The kid peed when on his hand and he smiled. He had to leave because he did not want his mother to know his visit, he was a dutiful son, he should not be there when she doesn't allow him. When the kid was 2, his father had problem with bills. I have a house among my dowries on the Wanghui Bridge Street (王惠桥). His father planned to leave his uncle to open an independent shipping business but lack startup funds. Father could not resist helping him, pawned the house for 300 and made some tarpaulin to help him open a shipping business named "Yucai” （钰菜）. The business did not last long due to his lack of confidence from little experience, and trusted the wrong friends. I determined to do something to get the family afloat, and asked Father for supporting my sewing study. I could help him by working, and once we get more children I had to return home for housekeeping. I had another child named Jifen (继芬) when Mingxi was 2. His sister left for marriage from our place with over 40 cloths in dowries, all made by myself. When Jifen was a little older than 1, I sent her to his grandma and started teaching at the Dragon God Temple (龙王庙),  present day Democracy Road (民主路), for a vocational school, I taught the literature subjects while two male coworkers taught science subjects. The school had a ruined temple as the dormitory, and I lived there with Mingxi and sent him to kindergarten. Sometimes I was afraid to open the door when coworkers went to Hankou to see movies and return late in the night. Later we rent a house nearby, and Jilin (继林) was born there in 1937. Because the Sino-Japanese war broke out, I sought asylum from my hometown Hanyang (汉阳) with Jilin, and part ways with his parents who then had to make a living by themselves. The family was broken apart.
@@ -97,14 +99,23 @@ Big family
 --------------------
 
 .. index:: 郑翠珍
+
 .. index:: 胡湘鄂
+
 .. index:: 方常志
+
 .. index:: 方辉
+
 .. index:: 胡援
+
 .. index:: 胡嗣红
+
 .. index:: 李刚
+
 .. index:: 李强
+
 .. index:: 李涛
+
 .. index:: 李俊
 
 Shortly after, I returned to Wuhan for my health problems. After we take in grandma, 3 generations are in Jifen's support. In 1956 I become better, and Jifen's factory was generous enough to give me a job, opening a bank branch to handle employee's saving accounts for their convenience, the salary wasn't much however. In 1959 Jinlin was transferred to Wuhan. He had been with a classmate Zheng Cuizhen (郑翠珍) who came by Wuhan on her way to her hometown in Hunan. I set them up and they got married. I worked on the bank job with sickness until the branch was closed in 1961.  We moved to the Electricity Village (电业村) in 1960 and I soon became a resident service worker. In 1961, my first grandson Xiang'e (湘鄂) was born. As we were in Three Years of Natural Disasters, it was even harder to get by. The same year Hu Guangrong returned to Hankou with serious arthritis due to lack of care after we left for Wuhan, and was working as a temp in Jilin's factory. He's health collapsed due to lack of food in the famine, the daily rationed food was only enough for one meal. In 1962 Mingxi also returned to Wuhan from Jishou under the slogan that Support the Frontline in Rural Areas, arriving Hanyang, my hometown. The town was pretty poor and hard to survive, he returned to Wuhan after a while and found a job in the street government with a salary of 30 Yuan/month. What girl would think highly of him? But he didn't think much about girls either. He was a party member with firm opinions, and with his own issues, he had to live separably from his wife for 11 years before finally transferred together and life got better from there. In 1962 Jifen was introduced and married with Fang Changzhi (方常志), A Nanjing university graduate working as an English teacher in the normal school. In 1963 my grandson Huihui (Fang Hui, 方辉, Jifen's son) arrived. In 1964, Zheng Cuizhen finally transferred to Wuhan after my repeated request to the factory. In 1965 and 1966, Yuanyuan (Hu Yuan,胡援) and Honghong (Hu Sihong, 胡嗣红) was born (both Jilin's daughters). Although Mingxi was living separately with his wife, in 1967 and 1969 he was joined with Dabing (Li Gang, 李刚) and Xiaobing (Li Qiang,李强), then a daughter (Li Tao, 李涛) and at last a son (Li Jun, 李俊). At this time both Xiang'e (a year and half old) and Dabing (more than a year old) were sent to Hankou. Later Jinan was relegated to the country side when I was working on sewing with friends near Xinhua food market (新华菜场). As she was too young and inexperienced with the society, I decided to go with her to keep her on the route of sewing. Starting in 1968, we stayed at a friend in Hanyang county for more than a year. However, the trip was cut short as Xiaobing was born and I had to move back to Jifen's home in Hankou. Later I was still busy with my growing number of grandchildren. I am happy that I have so many of them, and my health became better. My initial thought about life was bringing children to the world as insurance for old age and save grains for famines. However, after many years in hardship now children have their own life. I was wrong and I should support myself despite being old. Later I was volunteering in the Electricity Village's resident committee and I worked hard to finish assigned tasks, and read newspapers daily. With my chronic health issues that was not terminal but keep me bedridden periodically for 8 years and saltless I wondered when it would my time. I think, without a health body or great career, I had not contributed to the country, to family and to my descendants, I live on undeserved happiness. 
@@ -130,7 +141,9 @@ But then turning my head and saw a man pushing a cart.
 I am worse off than some, better off than many.
 
 .. index:: 蒋连生
+
 .. index:: 蒋峻
+
 .. index:: 蒋晟
 
 This is an old contentment poem that I still remember fondly. In my wandering life, I moved more than twenty times and didn't have a life I wanted despite having a house as my dowry. That is also a result of my health issues. In 1971 Jinan was transferred to Hankou and was introduced to a still-navy man Jiang Liansheng (蒋连生) via her sister's coworker Chen Quanfu (陈全复). Jiang Liansheng was discharged in 1973, and married Jinan in 1975. In 1977 Jiang Jun (蒋峻) was born and a boy (Jiang Sheng, 蒋晟) next year. The nice family left a shadow in my heart that my son in law unfortunately died early, that was my regret of life. Jinan was holding on her own, and her destiny was still to be seen. 
