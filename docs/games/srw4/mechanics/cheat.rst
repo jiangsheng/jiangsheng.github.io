@@ -1130,6 +1130,20 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
   * 高7位为机体的武器数量x4
   * 低位为机体的武器改造段数偏移的高2位
 
+Start placing additional robots from the end of the memory block and go backwards. E.g. the first robot you add should be placed at 7e1286 on SNES or 104221 on PlayStation. The next one would be 7e1284 (2 bytes backward) on SNES and 1041E5 (0x3C=60 bytes backward) on PlayStation. 
+
+Each robot code is actually 2 bytes, the higher byte is usually 0, for those with 1 as the higher byte (\ :ref:`those with code above 0x100 <srw4_units_data_snes>` \ ) you need to modify the next address (e.g. 7e1287 for 7e1286). On SNES you have to write 2 instructions for 2 bytes (a WORD), on PlayStation you can just use a single 80 instruction to do a WORD write (although I use a D0 instruction to write it only when empty, otherwise you won't be able to transform the added robot if it has the ability). 
+
+You also need to modify the weapon count too otherwise the newly added robot would not have weapons upgradable. On SNES the weapon count shares a WORD with the offset of weapon upgrade. The lower 2 bits of the weapon count is borrowed by the offset. It is safe to leave the offset to 0 (meaning sharing the upgrade progress with the first robot) and set the higher byte of the WORD to WeaponCount x4. For Blood Temple and Auge, the higher byte would be 6*4=24=0x18, although it does not hurt to set it higher. I usually leave it at 18x4=72=0x48 so I do not need to look up weapon count when changing unit code alone.
+
+On SNES, the address of the weapon count WORD is UnitCodeAddress+0x180. Which means for the unit at 7e1286, the weapon count WORD is at 7e1406. For the next unit at 7e1284, the weapon count WORD is at 7e1404. You can write 0x1800 in the WORD for Blood Temple and Auge, but I can safely write 0x4800 in there, because in this game a robot does not have more than 18 weapons, and 18x4=72=0x48. 
+
+On PlayStation the upgradable weapon count shares the address with unit code. The lowest bit of the higher byte of the WORD is the highest bit of unit code, and the rest are WeaponCount*2. So for Blood Temple you do a WORD write of 0x0C50 where 0x50 is the unit code and 0x18 is WeaponCount*2. For Super Gundam, you do a WORD write of 0x0F05 where 0x105 is the unit code and 0x0E is WeaponCount*2. I usually leave the weapon count at 18x2=36=0x24 so I do not need to look up weapon count when changing unit code alone, so I do a WORD write of 0x2505 for Super Gundam.
+
+Conditionals (? and D0) are only necessary when you add transformable robots in the slot. 
+
+How many robots you can add depends on your \ :ref:`route choice <srw4_missable>`\ . In the original game, on SNES you can safely add 5 and PlayStation 8, modded games could leave no room to add your own at all.
+
 .. grid:: 
 
     .. grid-item-card:: 增加机体(路线AC)
@@ -9728,7 +9742,6 @@ Warning: There is a hard limit on the total number of units (including those res
 
 警告：マップ上に存在する機体数（変形・分離状態を含む）には上限があります。これを超えるとゲームがフリーズします（通常、出撃機体を選択した後や、敵の増援が出現する際に発生します）。ゲーム後半では、出撃させる機体を慎重に選ぶか、使用しない機体や、敵軍として出現する可能性のある機体については、変形機能を無効にしておく必要があります。
 
-
 .. _srw4_cheat_unit_specialty_ps_begin:
 
 """""""""""""""""""""""""""""
@@ -9745,7 +9758,7 @@ Warning: There is a hard limit on the total number of units (including those res
       | → Ｆ－９１
       | 30046361 0009
       | Ｆ－９１ 
-      |→ νガンダム
+      | → νガンダム
       | 80046378 0607
       | Ｆ－９１
       | 武器/弹药槽数量
