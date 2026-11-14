@@ -1130,7 +1130,7 @@ Snes9x/Bsnes支持有条件的作弊码，即AAAAAA=BB?CC
   * 高7位为机体的武器数量x4
   * 低位为机体的武器改造段数偏移的高2位
 
-Start placing additional robots from the end of the memory block and go backwards. E.g. the first robot you add should be placed at 7e1286 on SNES or 104221 on PlayStation. The next one would be 7e1284 (2 bytes backward) on SNES and 1041E5 (0x3C=60 bytes backward) on PlayStation. 
+Start placing additional robots from the end of the memory block and go backwards. E.g. the first robot you add should be placed at 7e1286 on SNES or 104221 on PlayStation. The next one would be 7e1284 (2 bytes backward) on SNES and 1041E5 (0x3C=60 bytes backward) on PlayStation. This way you do not overwrite the robots currently in the game. Unless you added too many of course. 
 
 Each robot code is actually 2 bytes, the higher byte is usually 0, for those with 1 as the higher byte (\ :ref:`those with code above 0x100 <srw4_units_data_snes>` \ ) you need to modify the next address (e.g. 7e1287 for 7e1286). On SNES you have to write 2 instructions for 2 bytes (a WORD), on PlayStation you can just use a single 80 instruction to do a WORD write (although I use a D0 instruction to write it only when empty, otherwise you won't be able to transform the added robot if it has the ability). 
 
